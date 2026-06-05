@@ -131,7 +131,7 @@ app.get('/api/chapter/:abbr/:num', (req, res) => {
     
     // Aquí defines la URL pública de tu VPS (IP o Dominio)
     // Quien clone tu repositorio usará esta URL automáticamente para los audios HQ
-    const DEFAULT_VPS_URL = process.env.HQ_CDN_URL || 'https://tu-dominio-o-ip-vps.com';
+    const DEFAULT_VPS_URL = process.env.HQ_CDN_URL || 'http://40.233.0.159';
 
     // Si el servidor actual TIENE la carpeta física (tu VPS o tu PC), lo sirve localmente.
     // Si NO la tiene (alguien que clonó de GitHub), le manda la ruta de tu VPS.
