@@ -1,0 +1,502 @@
+{
+  "book": "LEV",
+  "chapter": 11,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 30,
+  "word_count": 40,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 35,
+      "text": "Dios les ordenó a Moisés y a Aarón"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 35,
+      "char_end": 147,
+      "text": "que les dieran a los israelitas las siguientes instrucciones: Ustedes podrán comer la carne de cualquier animal"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 147,
+      "char_end": 198,
+      "text": "que tenga las pezuñas partidas y que sea rumiante."
+    },
+    {
+      "verse": 4,
+      "label": "4-8",
+      "char_start": 198,
+      "char_end": 496,
+      "text": "Pero no deberán comer carne de camello, ni de conejo, ni de liebre, porque aunque son rumiantes no tienen pezuñas partidas. Tampoco comerán carne de cerdo, pues aunque tiene pezuñas partidas, no es rumiante. Ni siquiera toquen el cadáver de estos animales. Más bien, deberán considerarlos impuros."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 496,
+      "char_end": 593,
+      "text": "De los animales que viven en el mar o en los ríos, podrán comer los que tienen aletas y escamas."
+    },
+    {
+      "verse": 10,
+      "label": "10-12",
+      "char_start": 593,
+      "char_end": 751,
+      "text": "Pero si no tienen aletas ni escamas no deberán comerlos, aunque vivan en el agua. Más bien, deberán considerarlos impuros y sentir asco al ver sus cadáveres."
+    },
+    {
+      "verse": 13,
+      "label": "13-19",
+      "char_start": 751,
+      "char_end": 1138,
+      "text": "De las aves, no podrán comer las siguientes, pues deberán considerarlas impuras: el águila, el quebrantahuesos, el águila marina, el milano, el avestruz, la golondrina, la gaviota, la lechuza, el cuervo marino, el búho, el ibis, el pelícano, el buitre, la cigüeña, la abubilla, el murciélago, toda clase de halcones, toda clase de cuervos, toda clase de gavilanes, toda clase de garzas."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1138,
+      "char_end": 1241,
+      "text": "De los insectos, deberán considerar impuros a todos los que tienen alas pero andan sobre cuatro patas."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1241,
+      "char_end": 1364,
+      "text": "Sin embargo, de éstos podrán comer todos los que pueden dar saltos sobre el suelo por tener más largas las patas traseras."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1364,
+      "char_end": 1422,
+      "text": "Así que podrán comer toda clase de grillos y saltamontes."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1422,
+      "char_end": 1504,
+      "text": "Cualquier otro insecto que tenga alas y cuatro patas deberán considerarlo impuro."
+    },
+    {
+      "verse": 24,
+      "label": "24-25",
+      "char_start": 1504,
+      "char_end": 1631,
+      "text": "Si alguien toca o levanta el cadáver de alguno de estos animales, quedará impuro hasta el anochecer, y deberá lavar sus ropas."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 1631,
+      "char_end": 1760,
+      "text": "Todo animal que tenga las pezuñas partidas pero no sea rumiante deberán considerarlo impuro. Si alguien lo toca, quedará impuro."
+    },
+    {
+      "verse": 27,
+      "label": "27-28",
+      "char_start": 1760,
+      "char_end": 1955,
+      "text": "Todo animal que al caminar se apoye en las plantas de sus cuatro patas será considerado impuro. Si alguien toca o levanta su cadáver, quedará impuro hasta el anochecer, y deberá lavar sus ropas."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 1955,
+      "char_end": 2101,
+      "text": "De los animales que se arrastran por el suelo, deberán considerar impuros los siguientes: el topo, la comadreja, las distintas clases de lagartos"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2101,
+      "char_end": 2144,
+      "text": "y lagartijas, la salamandra y el camaleón."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2144,
+      "char_end": 2226,
+      "text": "Si alguien toca el cadáver de alguno de ellos, quedará impuro hasta el anochecer."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2226,
+      "char_end": 2471,
+      "text": "Si el cadáver de alguno de ellos cae sobre un objeto de madera o de cuero, o sobre una prenda de vestir, o sobre alguna herramienta de trabajo, ese objeto quedará impuro hasta el anochecer. Para purificarlo, habrá que lavarlo muy bien con agua."
+    },
+    {
+      "verse": 33,
+      "label": "33-34",
+      "char_start": 2471,
+      "char_end": 2657,
+      "text": "Si el cadáver de alguno de ellos cae dentro de una olla de barro, todo lo que haya dentro de ella quedará impuro, aun cuando se trate de agua o de comida, y la olla tendrá que romperse."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 2657,
+      "char_end": 2769,
+      "text": "Si el cadáver de alguno de ellos cae en un horno o en un fogón, éstos quedarán impuros y habrá que destruirlos."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 2769,
+      "char_end": 2919,
+      "text": "Todo el que toque el cadáver de alguno de estos animales, quedará impuro. Sólo seguirán siendo puros el pozo o el manantial de donde se saca el agua."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 2919,
+      "char_end": 3026,
+      "text": "Si el cadáver de alguno de ellos cae sobre la semilla que se va a sembrar, la semilla seguirá siendo pura."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 3026,
+      "char_end": 3150,
+      "text": "Sólo se considerará impura la semilla cuando se arroje agua sobre ella y alguno de estos animales muertos caiga sobre ella."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 3150,
+      "char_end": 3267,
+      "text": "Si de los animales que ustedes pueden comer muere alguno, el que toque su cadáver quedará impuro hasta el anochecer."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 3267,
+      "char_end": 3474,
+      "text": "Si alguien come carne de ese animal, quedará impuro hasta el anochecer y deberá lavar sus ropas. Si alguien levanta el cadáver del animal, quedará impuro hasta el anochecer y deberá también lavar sus ropas."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 3474,
+      "char_end": 3563,
+      "text": "Ustedes no deben comer ningún animal que se arrastre por el suelo. Son animales impuros."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 3563,
+      "char_end": 3682,
+      "text": "Por lo tanto, no deben comer ningún reptil, ni ningún insecto que camine sobre cuatro patas, o que tenga muchas patas."
+    },
+    {
+      "verse": 43,
+      "label": "43-45",
+      "char_start": 3682,
+      "char_end": 3907,
+      "text": "No se hagan impuros ni se contaminen con ellos. Yo soy el Dios de Israel, y soy un Dios diferente. Yo los saqué de Egipto para ser su Dios. Ustedes no deben ser como los otros pueblos, porque yo no soy como los otros dioses."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 3907,
+      "char_end": 4054,
+      "text": "Éstas son las instrucciones acerca de los animales que hay en la tierra, en el aire y en el agua, y de los animales que se arrastran por el suelo,"
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 4054,
+      "char_end": 4185,
+      "text": "para que ustedes puedan distinguir entre lo puro y lo impuro, y entre los animales que pueden comerse y los que no pueden comerse."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios les ordenó a Moisés y a Aarón que les dieran a los israelitas las siguientes instrucciones: Ustedes podrán comer la carne de cualquier animal que tenga las pezuñas partidas y que sea rumiante.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 11012,
+      "duration_ms": 10912
+    },
+    {
+      "word": "Pero no deberán comer carne de camello, ni de conejo, ni de liebre, porque aunque son rumiantes no tienen pezuñas partidas.",
+      "verse": 4,
+      "start_ms": 10962,
+      "end_ms": 18662,
+      "duration_ms": 7700
+    },
+    {
+      "word": "Tampoco comerán carne de cerdo, pues aunque tiene pezuñas partidas, no es rumiante.",
+      "verse": 4,
+      "start_ms": 18662,
+      "end_ms": 24424,
+      "duration_ms": 5762
+    },
+    {
+      "word": "Ni siquiera toquen el cadáver de estos animales.",
+      "verse": 4,
+      "start_ms": 24425,
+      "end_ms": 27987,
+      "duration_ms": 3562
+    },
+    {
+      "word": "Más bien, deberán considerarlos impuros.",
+      "verse": 4,
+      "start_ms": 27987,
+      "end_ms": 31549,
+      "duration_ms": 3562
+    },
+    {
+      "word": "De los animales que viven en el mar o en los ríos, podrán comer los que tienen aletas y escamas.",
+      "verse": 9,
+      "start_ms": 31550,
+      "end_ms": 37550,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Pero si no tienen aletas ni escamas no deberán comerlos, aunque vivan en el agua.",
+      "verse": 10,
+      "start_ms": 37550,
+      "end_ms": 42775,
+      "duration_ms": 5225
+    },
+    {
+      "word": "Más bien, deberán considerarlos impuros y sentir asco al ver sus cadáveres.",
+      "verse": 10,
+      "start_ms": 42775,
+      "end_ms": 48037,
+      "duration_ms": 5262
+    },
+    {
+      "word": "De las aves, no podrán comer las siguientes, pues deberán considerarlas impuras: el águila, el quebrantahuesos, el águila marina, el milano, el avestruz, la golondrina, la gaviota, la lechuza, el cuervo marino, el búho, el ibis, el pelícano, el buitre, la cigüeña, la abubilla, el murciélago, toda clase de halcones, toda clase de cuervos, toda clase de gavilanes, toda clase de garzas.",
+      "verse": 13,
+      "start_ms": 48037,
+      "end_ms": 75612,
+      "duration_ms": 27575
+    },
+    {
+      "word": "De los insectos, deberán considerar impuros a todos los que tienen alas pero andan sobre cuatro patas.",
+      "verse": 20,
+      "start_ms": 75612,
+      "end_ms": 82112,
+      "duration_ms": 6500
+    },
+    {
+      "word": "Sin embargo, de éstos podrán comer todos los que pueden dar saltos sobre el suelo por tener más largas las patas traseras.",
+      "verse": 21,
+      "start_ms": 82112,
+      "end_ms": 89487,
+      "duration_ms": 7375
+    },
+    {
+      "word": "Así que podrán comer toda clase de grillos y saltamontes.",
+      "verse": 22,
+      "start_ms": 89487,
+      "end_ms": 93624,
+      "duration_ms": 4137
+    },
+    {
+      "word": "Cualquier otro insecto que tenga alas y cuatro patas deberán considerarlo impuro.",
+      "verse": 23,
+      "start_ms": 93625,
+      "end_ms": 98512,
+      "duration_ms": 4887
+    },
+    {
+      "word": "Si alguien toca o levanta el cadáver de alguno de estos animales, quedará impuro hasta el anochecer, y deberá lavar sus ropas.",
+      "verse": 24,
+      "start_ms": 98512,
+      "end_ms": 106574,
+      "duration_ms": 8062
+    },
+    {
+      "word": "Todo animal que tenga las pezuñas partidas pero no sea rumiante deberán considerarlo impuro.",
+      "verse": 26,
+      "start_ms": 106575,
+      "end_ms": 112300,
+      "duration_ms": 5725
+    },
+    {
+      "word": "Si alguien lo toca, quedará impuro.",
+      "verse": 26,
+      "start_ms": 112300,
+      "end_ms": 115400,
+      "duration_ms": 3100
+    },
+    {
+      "word": "Todo animal que al caminar se apoye en las plantas de sus cuatro patas será considerado impuro.",
+      "verse": 27,
+      "start_ms": 115400,
+      "end_ms": 120975,
+      "duration_ms": 5575
+    },
+    {
+      "word": "Si alguien toca o levanta su cadáver, quedará impuro hasta el anochecer, y deberá lavar sus ropas.",
+      "verse": 27,
+      "start_ms": 120975,
+      "end_ms": 127800,
+      "duration_ms": 6825
+    },
+    {
+      "word": "De los animales que se arrastran por el suelo, deberán considerar impuros los siguientes: el topo, la comadreja, las distintas clases de lagartos y lagartijas, la salamandra y el camaleón.",
+      "verse": 29,
+      "start_ms": 127800,
+      "end_ms": 139437,
+      "duration_ms": 11637
+    },
+    {
+      "word": "Si alguien toca el cadáver de alguno de ellos, quedará impuro hasta el anochecer.",
+      "verse": 31,
+      "start_ms": 139437,
+      "end_ms": 144787,
+      "duration_ms": 5350
+    },
+    {
+      "word": "Si el cadáver de alguno de ellos cae sobre un objeto de madera o de cuero, o sobre una prenda de vestir, o sobre alguna herramienta de trabajo, ese objeto quedará impuro hasta el anochecer.",
+      "verse": 32,
+      "start_ms": 144787,
+      "end_ms": 155987,
+      "duration_ms": 11200
+    },
+    {
+      "word": "Para purificarlo, habrá que lavarlo muy bien con agua.",
+      "verse": 32,
+      "start_ms": 155987,
+      "end_ms": 159999,
+      "duration_ms": 4012
+    },
+    {
+      "word": "Si el cadáver de alguno de ellos cae dentro de una olla de barro, todo lo que haya dentro de ella quedará impuro, aun cuando se trate de agua o de comida, y la olla tendrá que romperse.",
+      "verse": 33,
+      "start_ms": 160000,
+      "end_ms": 171100,
+      "duration_ms": 11100
+    },
+    {
+      "word": "Si el cadáver de alguno de ellos cae en un horno o en un fogón, éstos quedarán impuros y habrá que destruirlos.",
+      "verse": 35,
+      "start_ms": 171100,
+      "end_ms": 178362,
+      "duration_ms": 7262
+    },
+    {
+      "word": "Todo el que toque el cadáver de alguno de estos animales, quedará impuro.",
+      "verse": 36,
+      "start_ms": 178362,
+      "end_ms": 183237,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Sólo seguirán siendo puros el pozo o el manantial de donde se saca el agua.",
+      "verse": 36,
+      "start_ms": 183237,
+      "end_ms": 187962,
+      "duration_ms": 4725
+    },
+    {
+      "word": "Si el cadáver de alguno de ellos cae sobre la semilla que se va a sembrar, la semilla seguirá siendo pura.",
+      "verse": 37,
+      "start_ms": 187962,
+      "end_ms": 194324,
+      "duration_ms": 6362
+    },
+    {
+      "word": "Sólo se considerará impura la semilla cuando se arroje agua sobre ella y alguno de estos animales muertos caiga sobre ella.",
+      "verse": 38,
+      "start_ms": 194325,
+      "end_ms": 201762,
+      "duration_ms": 7437
+    },
+    {
+      "word": "Si de los animales que ustedes pueden comer muere alguno, el que toque su cadáver quedará impuro hasta el anochecer.",
+      "verse": 39,
+      "start_ms": 201762,
+      "end_ms": 208687,
+      "duration_ms": 6925
+    },
+    {
+      "word": "Si alguien come carne de ese animal, quedará impuro hasta el anochecer y deberá lavar sus ropas.",
+      "verse": 40,
+      "start_ms": 208687,
+      "end_ms": 215012,
+      "duration_ms": 6325
+    },
+    {
+      "word": "Si alguien levanta el cadáver del animal, quedará impuro hasta el anochecer y deberá también lavar sus ropas.",
+      "verse": 40,
+      "start_ms": 215012,
+      "end_ms": 221787,
+      "duration_ms": 6775
+    },
+    {
+      "word": "Ustedes no deben comer ningún animal que se arrastre por el suelo.",
+      "verse": 41,
+      "start_ms": 221787,
+      "end_ms": 226112,
+      "duration_ms": 4325
+    },
+    {
+      "word": "Son animales impuros.",
+      "verse": 41,
+      "start_ms": 226112,
+      "end_ms": 228499,
+      "duration_ms": 2387
+    },
+    {
+      "word": "Por lo tanto, no deben comer ningún reptil, ni ningún insecto que camine sobre cuatro patas, o que tenga muchas patas.",
+      "verse": 42,
+      "start_ms": 228500,
+      "end_ms": 236212,
+      "duration_ms": 7712
+    },
+    {
+      "word": "No se hagan impuros ni se contaminen con ellos.",
+      "verse": 43,
+      "start_ms": 236212,
+      "end_ms": 239737,
+      "duration_ms": 3525
+    },
+    {
+      "word": "Yo soy el Dios de Israel, y soy un Dios diferente.",
+      "verse": 43,
+      "start_ms": 239737,
+      "end_ms": 243637,
+      "duration_ms": 3900
+    },
+    {
+      "word": "Yo los saqué de Egipto para ser su Dios.",
+      "verse": 43,
+      "start_ms": 243637,
+      "end_ms": 246799,
+      "duration_ms": 3162
+    },
+    {
+      "word": "Ustedes no deben ser como los otros pueblos, porque yo no soy como los otros dioses.",
+      "verse": 43,
+      "start_ms": 246800,
+      "end_ms": 252300,
+      "duration_ms": 5500
+    },
+    {
+      "word": "Éstas son las instrucciones acerca de los animales que hay en la tierra, en el aire y en el agua, y de los",
+      "verse": 46,
+      "start_ms": 252300,
+      "end_ms": 258837,
+      "duration_ms": 6537
+    },
+    {
+      "word": "animales que se arrastran por el suelo, para que ustedes puedan distinguir entre lo puro y lo impuro, y entre los animales que pueden comerse y los que no pueden comerse.",
+      "verse": 46,
+      "start_ms": 258988,
+      "end_ms": 268250,
+      "duration_ms": 9262
+    }
+  ]
+}

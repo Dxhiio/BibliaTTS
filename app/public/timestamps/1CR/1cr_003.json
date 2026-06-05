@@ -1,0 +1,173 @@
+{
+  "book": "1CR",
+  "chapter": 3,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 2,
+  "word_count": 21,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-9",
+      "char_start": 0,
+      "char_end": 715,
+      "text": "David reinó en Hebrón siete años y seis meses. Allí nacieron sus primeros seis hijos, en este orden: Con Ahinóam, su esposa de Jezreel, tuvo a Amnón. Con Abigail, la viuda de Nabal, tuvo a Quilab. Con Maacá, la hija de Talmai, rey de Guesur, tuvo a Absalón. Con Haguit tuvo a Adonías. Con Abital tuvo a Sefatías. Con Egla tuvo a Itream. Después de esto, David reinó en Jerusalén treinta y tres años, y allí tuvo trece hijos más, sin contar los hijos que tuvo con otras mujeres. Con Betsabé, hija de Amiel, tuvo cuatro hijos: Simá, Sobab, Natán, Salomón. Los otros nueve hijos que tuvo David fueron: Ibhar, Elisúa, Elifélet, Nógah, Néfeg, Jafía, Elisamá, Eliadá, Elifélet. David también tuvo una hija llamada Tamar."
+    },
+    {
+      "verse": 10,
+      "label": "10-24",
+      "char_start": 715,
+      "char_end": 1558,
+      "text": "Éstos son los reyes que fueron descendientes de Salomón: Roboam, Abías, Asá, Josafat, Joram, Ocozías, Joás, Amasías, Azarías, Jotam, Ahaz, Ezequías, Manasés, Amón, Josías. Josías tuvo cuatro hijos: Johanán, Joacín, Sedequías, Salum. Joacín tuvo dos hijos: Joaquín, Sedequías. Joaquín tuvo siete hijos en el destierro: Salatiel, Malquiram, Pedaías, Senazar, Jecamías, Hosamá, Nedabías. Pedaías tuvo dos hijos: Zorobabel, Simí. Zorobabel tuvo una hija y siete hijos: Selomit, Mesulam, Hananías, Hasubá, Óhel, Berequías, Hasadías, Jusab-hésed. Los descendientes de Hananías fueron: Pelatías, Isaías, Refaías, Arnán, Abdías, Secanías. Secanías tuvo seis hijos: Semaías, Hatús, Igal, Baríah, Nearías, Safat. Nearías tuvo tres hijos: Elioenai, Ezequías, Azricam. Elioenai tuvo siete hijos: Hodavías, Eliasib, Pelaías, Acub, Johanán, Delaías, Ananí."
+    }
+  ],
+  "words": [
+    {
+      "word": "David reinó en Hebrón siete años y seis meses.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3837,
+      "duration_ms": 3737
+    },
+    {
+      "word": "Allí nacieron sus primeros seis hijos, en este orden: Con Ahinóam, su esposa de Jezreel, tuvo a Amnón.",
+      "verse": 1,
+      "start_ms": 3787,
+      "end_ms": 11262,
+      "duration_ms": 7475
+    },
+    {
+      "word": "Con Abigail, la viuda de Nabal, tuvo a Quilab.",
+      "verse": 1,
+      "start_ms": 11262,
+      "end_ms": 15062,
+      "duration_ms": 3800
+    },
+    {
+      "word": "Con Maacá, la hija de Talmai, rey de Guesur, tuvo a Absalón.",
+      "verse": 1,
+      "start_ms": 15062,
+      "end_ms": 20024,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Con Haguit tuvo a Adonías.",
+      "verse": 1,
+      "start_ms": 20025,
+      "end_ms": 22550,
+      "duration_ms": 2525
+    },
+    {
+      "word": "Con Abital tuvo a Sefatías.",
+      "verse": 1,
+      "start_ms": 22550,
+      "end_ms": 25237,
+      "duration_ms": 2687
+    },
+    {
+      "word": "Con Egla tuvo a Itream.",
+      "verse": 1,
+      "start_ms": 25237,
+      "end_ms": 27574,
+      "duration_ms": 2337
+    },
+    {
+      "word": "Después de esto, David reinó en Jerusalén treinta y tres años, y allí tuvo trece hijos más, sin contar los hijos que tuvo con otras mujeres.",
+      "verse": 1,
+      "start_ms": 27575,
+      "end_ms": 36837,
+      "duration_ms": 9262
+    },
+    {
+      "word": "Con Betsabé, hija de Amiel, tuvo cuatro hijos: Simá, Sobab, Natán, Salomón.",
+      "verse": 1,
+      "start_ms": 36837,
+      "end_ms": 43624,
+      "duration_ms": 6787
+    },
+    {
+      "word": "Los otros nueve hijos que tuvo David fueron: Ibhar, Elisúa, Elifélet, Nógah, Néfeg, Jafía, Elisamá, Eliadá, Elifélet.",
+      "verse": 1,
+      "start_ms": 43625,
+      "end_ms": 53987,
+      "duration_ms": 10362
+    },
+    {
+      "word": "David también tuvo una hija llamada Tamar.",
+      "verse": 1,
+      "start_ms": 53987,
+      "end_ms": 57337,
+      "duration_ms": 3350
+    },
+    {
+      "word": "Éstos son los reyes que fueron descendientes de Salomón: Roboam, Abías, Asá, Josafat, Joram, Ocozías, Joás, Amasías, Azarías, Jotam, Ahaz, Ezequías, Manasés, Amón, Josías.",
+      "verse": 10,
+      "start_ms": 57337,
+      "end_ms": 72824,
+      "duration_ms": 15487
+    },
+    {
+      "word": "Josías tuvo cuatro hijos: Johanán, Joacín, Sedequías, Salum.",
+      "verse": 10,
+      "start_ms": 72825,
+      "end_ms": 78537,
+      "duration_ms": 5712
+    },
+    {
+      "word": "Joacín tuvo dos hijos: Joaquín, Sedequías.",
+      "verse": 10,
+      "start_ms": 78537,
+      "end_ms": 82687,
+      "duration_ms": 4150
+    },
+    {
+      "word": "Joaquín tuvo siete hijos en el destierro: Salatiel, Malquiram, Pedaías, Senazar, Jecamías, Hosamá, Nedabías.",
+      "verse": 10,
+      "start_ms": 82687,
+      "end_ms": 92099,
+      "duration_ms": 9412
+    },
+    {
+      "word": "Pedaías tuvo dos hijos: Zorobabel, Simí.",
+      "verse": 10,
+      "start_ms": 92100,
+      "end_ms": 96125,
+      "duration_ms": 4025
+    },
+    {
+      "word": "Zorobabel tuvo una hija y siete hijos: Selomit, Mesulam, Hananías, Hasubá, Óhel, Berequías, Hasadías, Jusab-hésed.",
+      "verse": 10,
+      "start_ms": 96125,
+      "end_ms": 105912,
+      "duration_ms": 9787
+    },
+    {
+      "word": "Los descendientes de Hananías fueron: Pelatías, Isaías, Refaías, Arnán, Abdías, Secanías.",
+      "verse": 10,
+      "start_ms": 105912,
+      "end_ms": 113899,
+      "duration_ms": 7987
+    },
+    {
+      "word": "Secanías tuvo seis hijos: Semaías, Hatús, Igal, Baríah, Nearías, Safat.",
+      "verse": 10,
+      "start_ms": 113900,
+      "end_ms": 121025,
+      "duration_ms": 7125
+    },
+    {
+      "word": "Nearías tuvo tres hijos: Elioenai, Ezequías, Azricam.",
+      "verse": 10,
+      "start_ms": 121025,
+      "end_ms": 126087,
+      "duration_ms": 5062
+    },
+    {
+      "word": "Elioenai tuvo siete hijos: Hodavías, Eliasib, Pelaías, Acub, Johanán, Delaías, Ananí.",
+      "verse": 10,
+      "start_ms": 126087,
+      "end_ms": 134324,
+      "duration_ms": 8237
+    }
+  ]
+}

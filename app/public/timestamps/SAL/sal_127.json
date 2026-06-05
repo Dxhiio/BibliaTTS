@@ -1,0 +1,103 @@
+{
+  "book": "SAL",
+  "chapter": 127,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 5,
+  "word_count": 8,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 155,
+      "text": "Si Dios no construye la casa, de nada sirve que se esfuercen los constructores. Si Dios no vigila la ciudad, de nada sirve que se desvelen los vigilantes."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 155,
+      "char_end": 339,
+      "text": "De nada sirve que ustedes se levanten muy temprano, ni que se acuesten muy tarde, ni que trabajen muy duro para ganarse el pan; cuando Dios quiere a alguien, le da un sueño tranquilo."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 339,
+      "char_end": 432,
+      "text": "Los hijos que tenemos son un regalo de Dios. Los hijos que nos nacen son nuestra recompensa."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 432,
+      "char_end": 543,
+      "text": "Los hijos que nos nacen cuando aún somos jóvenes, hacen que nos sintamos seguros, como guerreros bien armados."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 543,
+      "char_end": 697,
+      "text": "Quien tiene muchos hijos, bien puede decir que Dios lo ha bendecido. No tendrá de qué avergonzarse cuando se defienda en público delante de sus enemigos."
+    }
+  ],
+  "words": [
+    {
+      "word": "Si Dios no construye la casa, de nada sirve que se esfuercen los constructores.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5450,
+      "duration_ms": 5350
+    },
+    {
+      "word": "Si Dios no vigila la ciudad, de nada sirve que se desvelen los vigilantes.",
+      "verse": 1,
+      "start_ms": 5400,
+      "end_ms": 10725,
+      "duration_ms": 5325
+    },
+    {
+      "word": "De nada sirve que ustedes se levanten muy temprano, ni que se acuesten muy tarde, ni que trabajen muy duro para ganarse el pan; cuando Dios quiere a alguien, le da un sueño tranquilo.",
+      "verse": 2,
+      "start_ms": 10725,
+      "end_ms": 21462,
+      "duration_ms": 10737
+    },
+    {
+      "word": "Los hijos que tenemos son un regalo de Dios.",
+      "verse": 3,
+      "start_ms": 21462,
+      "end_ms": 24699,
+      "duration_ms": 3237
+    },
+    {
+      "word": "Los hijos que nos nacen son nuestra recompensa.",
+      "verse": 3,
+      "start_ms": 24700,
+      "end_ms": 28050,
+      "duration_ms": 3350
+    },
+    {
+      "word": "Los hijos que nos nacen cuando aún somos jóvenes, hacen que nos sintamos seguros, como guerreros bien armados.",
+      "verse": 4,
+      "start_ms": 28050,
+      "end_ms": 35112,
+      "duration_ms": 7062
+    },
+    {
+      "word": "Quien tiene muchos hijos, bien puede decir que Dios lo ha bendecido.",
+      "verse": 5,
+      "start_ms": 35112,
+      "end_ms": 39574,
+      "duration_ms": 4462
+    },
+    {
+      "word": "No tendrá de qué avergonzarse cuando se defienda en público delante de sus enemigos.",
+      "verse": 5,
+      "start_ms": 39575,
+      "end_ms": 44700,
+      "duration_ms": 5125
+    }
+  ]
+}

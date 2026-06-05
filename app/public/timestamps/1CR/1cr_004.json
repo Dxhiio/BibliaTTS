@@ -1,0 +1,607 @@
+{
+  "book": "1CR",
+  "chapter": 4,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 21,
+  "word_count": 64,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 57,
+      "text": "Judá tuvo cinco hijos: Fares, Hesrón, Carmí, Hur, Sobal."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 57,
+      "char_end": 195,
+      "text": "Los descendientes de Sobal fueron: Reaías, Jáhat. Jáhat tuvo dos hijos: Ahumai, Láhad. De los hijos de Jáhat vienen las tribus soratitas."
+    },
+    {
+      "verse": 3,
+      "label": "3-4",
+      "char_start": 195,
+      "char_end": 404,
+      "text": "Hur, el hijo mayor de Efrata, antepasado de Belén, tuvo tres hijos: Etam, Penuel, Éser. Etam tuvo una hija y tres hijos: Haslelponi, Jezreel, Ismá, Idbás. Penuel tuvo un hijo, Guedor. Éser tuvo un hijo, Husá."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 404,
+      "char_end": 462,
+      "text": "Ashur, el padre de Tecoa, tuvo dos esposas, Helá y Naará."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 462,
+      "char_end": 524,
+      "text": "Con Naará tuvo cuatro hijos: Ahuzam, Héfer, Temení, Ahastarí."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 524,
+      "char_end": 573,
+      "text": "Con Helá tuvo tres hijos: Séret, Jesohar, Etnán."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 573,
+      "char_end": 673,
+      "text": "Cos tuvo dos hijos: Anub, Sobebá. Cos fue el antepasado de las tribus de Aharhel, el hijo de Harum."
+    },
+    {
+      "verse": 9,
+      "label": "9-10",
+      "char_start": 673,
+      "char_end": 984,
+      "text": "Cuando Jabés nació, su madre le puso ese nombre porque le causó mucho dolor durante el nacimiento. En cierta ocasión, Jabés le rogó a Dios: Bendíceme y dame un territorio muy grande; ayúdame y líbrame de todo mal y sufrimiento. Dios le concedió su petición, y Jabés llegó a ser más importante que sus hermanos."
+    },
+    {
+      "verse": 11,
+      "label": "11-12",
+      "char_start": 984,
+      "char_end": 1156,
+      "text": "Quelub, hermano de Suhá, vivió en Recá, y tuvo un hijo, Mehír. Mehír tuvo un hijo, Estón. Estón tuvo tres hijos: Bet-rafá, Paséah, Tehiná. Tehiná fundó la ciudad de Nahas."
+    },
+    {
+      "verse": 13,
+      "label": "13-14",
+      "char_start": 1156,
+      "char_end": 1370,
+      "text": "Quenaz tuvo dos hijos: Otoniel, Seraías. Otoniel tuvo dos hijos: Hatat, Meonotai. Meonotai tuvo un hijo, Ofrá. Seraías tuvo un hijo, Joab. Joab fue el antepasado de los artesanos que habitaron el valle de Harasim."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1370,
+      "char_end": 1450,
+      "text": "Caleb hijo de Jefuné, tuvo tres hijos: Ir, Elá, Náam. Elá tuvo un hijo, Quenaz."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1450,
+      "char_end": 1505,
+      "text": "Jahaleel tuvo cuatro hijos: Zif, Zifá, Tirías, Asarel."
+    },
+    {
+      "verse": 17,
+      "label": "17-18",
+      "char_start": 1505,
+      "char_end": 1858,
+      "text": "Esdras tuvo cuatro hijos: Jéter, Méred, Éfer, Jalón. Méred tuvo tres hijos con su esposa Bitiá, la hija del rey de Egipto: Isbah, Samai, María. Isbah tuvo un hijo, Estemoa. Méred tenía otra esposa de la tribu de Judá; con ella tuvo tres hijos: Jéred, Héber, Jecutiel. Jéred tuvo un hijo, Guedor. Héber tuvo un hijo, Socó. Jecutiel tuvo un hijo, Zanóah."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1858,
+      "char_end": 2013,
+      "text": "Odías se casó con la hermana de Náham, y con ella tuvo dos hijos: Queilá, Estemoa. Queilá perteneció a la tribu garmita, y Estemoa, a la de los maacateos."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2013,
+      "char_end": 2069,
+      "text": "Simón tuvo cuatro hijos: Amnón, Riná, Ben-hanán, Tilón."
+    },
+    {
+      "verse": 21,
+      "label": "21-23",
+      "char_start": 2069,
+      "char_end": 2499,
+      "text": "En documentos muy antiguos se encuentra esta lista de los descendientes de Selá hijo de Judá: Er, Ladá, Joacín, Joás, Saraf. Er tuvo un hijo, Lecá. Ladá tuvo un hijo, Maresá. Joás y Saraf se casaron con mujeres moabitas, pero regresaron a vivir a Netaim y Guederá, cerca de Belén. Eran alfareros al servicio del rey. Las tribus de tejedores que vivían en Bet-asbea, y los habitantes de Cozebá, también eran descendientes de Selá."
+    },
+    {
+      "verse": 24,
+      "label": "24-27",
+      "char_start": 2499,
+      "char_end": 2864,
+      "text": "Simeón tuvo cinco hijos: Nemuel, Jamín, Jarib, Zérah, Saúl. Saúl tuvo un hijo, Salum. Salum tuvo un hijo, Mibsam. Mibsam tuvo un hijo, Mismá. Mismá tuvo un hijo, Hamuel. Hamuel tuvo un hijo, Zacur. Zacur tuvo un hijo, Simí. Simí tuvo dieciséis hijos y seis hijas. A pesar de eso no tuvo tantos descendientes como Judá, porque sus hermanos no tuvieron muchos hijos."
+    },
+    {
+      "verse": 28,
+      "label": "28-33",
+      "char_start": 2864,
+      "char_end": 3264,
+      "text": "Según cierto documento, antes de que David fuera rey, los descendientes de Simeón vivían en los siguientes lugares: Beerseba, Moladá, Hasar-sual, Bilhá, Ésem, Tolad, Betuel, Hormá, Siclag, Bet-marcabot, Hasar-susim, Bet-birai, Saaraim, Etam, Ain, Rimón, Toquen, Asán. Además, habitaron las aldeas que estaban alrededor de estas ciudades, y las que estaban en el camino que lleva a la región de Baal."
+    },
+    {
+      "verse": 34,
+      "label": "34-38",
+      "char_start": 3264,
+      "char_end": 3648,
+      "text": "Ésta es la lista de los jefes cuyos grupos familiares eran los más numerosos: Mesobab, Jamlec, Josías hijo de Amasías; Joel, Jehú, Elioenai, Jaacoba, Jesohaías, Asaías, Adiel, Jesimiel, Benaías, Ziza, Jedaías. Jehú fue hijo de Josibías, nieto de Seraías y bisnieto de Asiel; Ziza fue hijo de Sifi, nieto de Alón, y bisnieto de Jedaías; y Jedaías fue hijo de Simrí y nieto de Semaías."
+    },
+    {
+      "verse": 39,
+      "label": "39-41",
+      "char_start": 3648,
+      "char_end": 4036,
+      "text": "En los días de Ezequías, rey de Judá, todos los que están en la lista anterior se fueron a vivir al este del valle, a la entrada de Guerar. Allí el terreno era muy amplio, seguro y tranquilo; además, había buenos y abundantes pastos para sus rebaños. Cuando llegaron a ese lugar, mataron a los descendientes de Cam que vivían allí, y destruyeron para siempre sus campamentos y viviendas."
+    },
+    {
+      "verse": 42,
+      "label": "42-43",
+      "char_start": 4036,
+      "char_end": 4293,
+      "text": "Algo parecido hicieron quinientos hombres de los descendientes de Simeón. Bajo las órdenes de Pelatías, Nearías, Refaías y Uziel, hijos de Isí, se fueron a vivir al monte de Seír. Cuando llegaron a ese lugar, mataron a los amalecitas que aún quedaban allí."
+    }
+  ],
+  "words": [
+    {
+      "word": "Judá tuvo cinco hijos: Fares, Hesrón, Carmí, Hur, Sobal.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5912,
+      "duration_ms": 5812
+    },
+    {
+      "word": "Los descendientes de Sobal fueron: Reaías, Jáhat.",
+      "verse": 2,
+      "start_ms": 5862,
+      "end_ms": 10112,
+      "duration_ms": 4250
+    },
+    {
+      "word": "Jáhat tuvo dos hijos: Ahumai, Láhad.",
+      "verse": 2,
+      "start_ms": 10112,
+      "end_ms": 13924,
+      "duration_ms": 3812
+    },
+    {
+      "word": "De los hijos de Jáhat vienen las tribus soratitas.",
+      "verse": 2,
+      "start_ms": 13925,
+      "end_ms": 17662,
+      "duration_ms": 3737
+    },
+    {
+      "word": "Hur, el hijo mayor de Efrata, antepasado de Belén, tuvo tres hijos: Etam, Penuel, Éser.",
+      "verse": 3,
+      "start_ms": 17662,
+      "end_ms": 25112,
+      "duration_ms": 7450
+    },
+    {
+      "word": "Etam tuvo una hija y tres hijos: Haslelponi, Jezreel, Ismá, Idbás.",
+      "verse": 3,
+      "start_ms": 25112,
+      "end_ms": 31299,
+      "duration_ms": 6187
+    },
+    {
+      "word": "Penuel tuvo un hijo, Guedor.",
+      "verse": 3,
+      "start_ms": 31300,
+      "end_ms": 34025,
+      "duration_ms": 2725
+    },
+    {
+      "word": "Éser tuvo un hijo, Husá.",
+      "verse": 3,
+      "start_ms": 34025,
+      "end_ms": 36625,
+      "duration_ms": 2600
+    },
+    {
+      "word": "Ashur, el padre de Tecoa, tuvo dos esposas, Helá y Naará.",
+      "verse": 5,
+      "start_ms": 36625,
+      "end_ms": 41887,
+      "duration_ms": 5262
+    },
+    {
+      "word": "Con Naará tuvo cuatro hijos: Ahuzam, Héfer, Temení, Ahastarí.",
+      "verse": 6,
+      "start_ms": 41887,
+      "end_ms": 47299,
+      "duration_ms": 5412
+    },
+    {
+      "word": "Con Helá tuvo tres hijos: Séret, Jesohar, Etnán.",
+      "verse": 7,
+      "start_ms": 47300,
+      "end_ms": 51962,
+      "duration_ms": 4662
+    },
+    {
+      "word": "Cos tuvo dos hijos: Anub, Sobebá.",
+      "verse": 8,
+      "start_ms": 51962,
+      "end_ms": 55499,
+      "duration_ms": 3537
+    },
+    {
+      "word": "Cos fue el antepasado de las tribus de Aharhel, el hijo de Harum.",
+      "verse": 8,
+      "start_ms": 55500,
+      "end_ms": 59675,
+      "duration_ms": 4175
+    },
+    {
+      "word": "Cuando Jabés nació, su madre le puso ese nombre porque le causó mucho dolor durante el nacimiento.",
+      "verse": 9,
+      "start_ms": 59675,
+      "end_ms": 65900,
+      "duration_ms": 6225
+    },
+    {
+      "word": "En cierta ocasión, Jabés le rogó a Dios: Bendíceme y dame un territorio muy grande; ayúdame y líbrame de todo mal y sufrimiento.",
+      "verse": 9,
+      "start_ms": 65900,
+      "end_ms": 74825,
+      "duration_ms": 8925
+    },
+    {
+      "word": "Dios le concedió su petición, y Jabés llegó a ser más importante que sus hermanos.",
+      "verse": 9,
+      "start_ms": 74825,
+      "end_ms": 80375,
+      "duration_ms": 5550
+    },
+    {
+      "word": "Quelub, hermano de Suhá, vivió en Recá, y tuvo un hijo, Mehír.",
+      "verse": 11,
+      "start_ms": 80375,
+      "end_ms": 85712,
+      "duration_ms": 5337
+    },
+    {
+      "word": "Mehír tuvo un hijo, Estón.",
+      "verse": 11,
+      "start_ms": 85712,
+      "end_ms": 88512,
+      "duration_ms": 2800
+    },
+    {
+      "word": "Estón tuvo tres hijos: Bet-rafá, Paséah, Tehiná.",
+      "verse": 11,
+      "start_ms": 88512,
+      "end_ms": 93362,
+      "duration_ms": 4850
+    },
+    {
+      "word": "Tehiná fundó la ciudad de Nahas.",
+      "verse": 11,
+      "start_ms": 93362,
+      "end_ms": 96112,
+      "duration_ms": 2750
+    },
+    {
+      "word": "Quenaz tuvo dos hijos: Otoniel, Seraías.",
+      "verse": 13,
+      "start_ms": 96112,
+      "end_ms": 100149,
+      "duration_ms": 4037
+    },
+    {
+      "word": "Otoniel tuvo dos hijos: Hatat, Meonotai.",
+      "verse": 13,
+      "start_ms": 100150,
+      "end_ms": 104062,
+      "duration_ms": 3912
+    },
+    {
+      "word": "Meonotai tuvo un hijo, Ofrá.",
+      "verse": 13,
+      "start_ms": 104062,
+      "end_ms": 106949,
+      "duration_ms": 2887
+    },
+    {
+      "word": "Seraías tuvo un hijo, Joab.",
+      "verse": 13,
+      "start_ms": 106950,
+      "end_ms": 109900,
+      "duration_ms": 2950
+    },
+    {
+      "word": "Joab fue el antepasado de los artesanos que habitaron el valle de Harasim.",
+      "verse": 13,
+      "start_ms": 109900,
+      "end_ms": 114562,
+      "duration_ms": 4662
+    },
+    {
+      "word": "Caleb hijo de Jefuné, tuvo tres hijos: Ir, Elá, Náam.",
+      "verse": 15,
+      "start_ms": 114562,
+      "end_ms": 119699,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Elá tuvo un hijo, Quenaz.",
+      "verse": 15,
+      "start_ms": 119700,
+      "end_ms": 122425,
+      "duration_ms": 2725
+    },
+    {
+      "word": "Jahaleel tuvo cuatro hijos: Zif, Zifá, Tirías, Asarel.",
+      "verse": 16,
+      "start_ms": 122425,
+      "end_ms": 127900,
+      "duration_ms": 5475
+    },
+    {
+      "word": "Esdras tuvo cuatro hijos: Jéter, Méred, Éfer, Jalón.",
+      "verse": 17,
+      "start_ms": 127900,
+      "end_ms": 132900,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Méred tuvo tres hijos con su esposa Bitiá, la hija del rey de Egipto: Isbah, Samai, María.",
+      "verse": 17,
+      "start_ms": 132900,
+      "end_ms": 139637,
+      "duration_ms": 6737
+    },
+    {
+      "word": "Isbah tuvo un hijo, Estemoa.",
+      "verse": 17,
+      "start_ms": 139637,
+      "end_ms": 142462,
+      "duration_ms": 2825
+    },
+    {
+      "word": "Méred tenía otra esposa de la tribu de Judá; con ella tuvo tres hijos: Jéred, Héber, Jecutiel.",
+      "verse": 17,
+      "start_ms": 142462,
+      "end_ms": 149574,
+      "duration_ms": 7112
+    },
+    {
+      "word": "Jéred tuvo un hijo, Guedor.",
+      "verse": 17,
+      "start_ms": 149575,
+      "end_ms": 152175,
+      "duration_ms": 2600
+    },
+    {
+      "word": "Héber tuvo un hijo, Socó.",
+      "verse": 17,
+      "start_ms": 152175,
+      "end_ms": 154812,
+      "duration_ms": 2637
+    },
+    {
+      "word": "Jecutiel tuvo un hijo, Zanóah.",
+      "verse": 17,
+      "start_ms": 154812,
+      "end_ms": 157824,
+      "duration_ms": 3012
+    },
+    {
+      "word": "Odías se casó con la hermana de Náham, y con ella tuvo dos hijos: Queilá, Estemoa.",
+      "verse": 19,
+      "start_ms": 157825,
+      "end_ms": 163962,
+      "duration_ms": 6137
+    },
+    {
+      "word": "Queilá perteneció a la tribu garmita, y Estemoa, a la de los maacateos.",
+      "verse": 19,
+      "start_ms": 163962,
+      "end_ms": 169249,
+      "duration_ms": 5287
+    },
+    {
+      "word": "Simón tuvo cuatro hijos: Amnón, Riná, Ben-hanán, Tilón.",
+      "verse": 20,
+      "start_ms": 169250,
+      "end_ms": 174600,
+      "duration_ms": 5350
+    },
+    {
+      "word": "En documentos muy antiguos se encuentra esta lista de los descendientes de Selá hijo de Judá: Er, Ladá, Joacín, Joás, Saraf.",
+      "verse": 21,
+      "start_ms": 174600,
+      "end_ms": 183175,
+      "duration_ms": 8575
+    },
+    {
+      "word": "Er tuvo un hijo, Lecá.",
+      "verse": 21,
+      "start_ms": 183175,
+      "end_ms": 185637,
+      "duration_ms": 2462
+    },
+    {
+      "word": "Ladá tuvo un hijo, Maresá.",
+      "verse": 21,
+      "start_ms": 185637,
+      "end_ms": 188537,
+      "duration_ms": 2900
+    },
+    {
+      "word": "Joás y Saraf se casaron con mujeres moabitas, pero regresaron a vivir a Netaim y Guederá, cerca de Belén.",
+      "verse": 21,
+      "start_ms": 188537,
+      "end_ms": 195624,
+      "duration_ms": 7087
+    },
+    {
+      "word": "Eran alfareros al servicio del rey.",
+      "verse": 21,
+      "start_ms": 195625,
+      "end_ms": 198387,
+      "duration_ms": 2762
+    },
+    {
+      "word": "Las tribus de tejedores que vivían en Bet-asbea, y los habitantes de Cozebá, también eran descendientes de Selá.",
+      "verse": 21,
+      "start_ms": 198387,
+      "end_ms": 205424,
+      "duration_ms": 7037
+    },
+    {
+      "word": "Simeón tuvo cinco hijos: Nemuel, Jamín, Jarib, Zérah, Saúl.",
+      "verse": 24,
+      "start_ms": 205425,
+      "end_ms": 211250,
+      "duration_ms": 5825
+    },
+    {
+      "word": "Saúl tuvo un hijo, Salum.",
+      "verse": 24,
+      "start_ms": 211250,
+      "end_ms": 214025,
+      "duration_ms": 2775
+    },
+    {
+      "word": "Salum tuvo un hijo, Mibsam.",
+      "verse": 24,
+      "start_ms": 214025,
+      "end_ms": 216850,
+      "duration_ms": 2825
+    },
+    {
+      "word": "Mibsam tuvo un hijo, Mismá.",
+      "verse": 24,
+      "start_ms": 216850,
+      "end_ms": 219650,
+      "duration_ms": 2800
+    },
+    {
+      "word": "Mismá tuvo un hijo, Hamuel.",
+      "verse": 24,
+      "start_ms": 219650,
+      "end_ms": 222462,
+      "duration_ms": 2812
+    },
+    {
+      "word": "Hamuel tuvo un hijo, Zacur.",
+      "verse": 24,
+      "start_ms": 222462,
+      "end_ms": 225312,
+      "duration_ms": 2850
+    },
+    {
+      "word": "Zacur tuvo un hijo, Simí.",
+      "verse": 24,
+      "start_ms": 225312,
+      "end_ms": 228099,
+      "duration_ms": 2787
+    },
+    {
+      "word": "Simí tuvo dieciséis hijos y seis hijas.",
+      "verse": 24,
+      "start_ms": 228100,
+      "end_ms": 231437,
+      "duration_ms": 3337
+    },
+    {
+      "word": "A pesar de eso no tuvo tantos descendientes como Judá, porque sus hermanos no tuvieron muchos hijos.",
+      "verse": 24,
+      "start_ms": 231437,
+      "end_ms": 237824,
+      "duration_ms": 6387
+    },
+    {
+      "word": "Según cierto documento, antes de que David fuera rey, los descendientes de Simeón vivían en los siguientes lugares: Beerseba, Moladá, Hasar-sual, Bilhá, Ésem, Tolad, Betuel, Hormá, Siclag, Bet-marcabot, Hasar-susim, Bet-birai, Saaraim, Etam, Ain, Rimón, Toquen, Asán.",
+      "verse": 28,
+      "start_ms": 237825,
+      "end_ms": 258937,
+      "duration_ms": 21112
+    },
+    {
+      "word": "Además, habitaron las aldeas que estaban alrededor de estas ciudades, y las que estaban en el camino que lleva a la región de Baal.",
+      "verse": 28,
+      "start_ms": 258937,
+      "end_ms": 266824,
+      "duration_ms": 7887
+    },
+    {
+      "word": "Ésta es la lista de los jefes cuyos grupos familiares eran los más numerosos: Mesobab, Jamlec, Josías hijo de Amasías; Joel, Jehú, Elioenai, Jaacoba, Jesohaías, Asaías, Adiel, Jesimiel, Benaías, Ziza, Jedaías.",
+      "verse": 34,
+      "start_ms": 266825,
+      "end_ms": 283612,
+      "duration_ms": 16787
+    },
+    {
+      "word": "Jehú fue hijo de Josibías, nieto de Seraías y bisnieto de Asiel; Ziza fue hijo de Sifi, nieto de Alón, y bisnieto de Jedaías; y Jedaías fue hijo de Simrí y nieto de Semaías.",
+      "verse": 34,
+      "start_ms": 283612,
+      "end_ms": 295924,
+      "duration_ms": 12312
+    },
+    {
+      "word": "En los días de Ezequías, rey de Judá, todos los que están en la lista anterior se fueron a vivir al este del valle, a la entrada de Guerar.",
+      "verse": 39,
+      "start_ms": 295925,
+      "end_ms": 303812,
+      "duration_ms": 7887
+    },
+    {
+      "word": "Allí el terreno era muy amplio, seguro y tranquilo; además, había buenos y abundantes pastos para sus rebaños.",
+      "verse": 39,
+      "start_ms": 303812,
+      "end_ms": 311624,
+      "duration_ms": 7812
+    },
+    {
+      "word": "Cuando llegaron a ese lugar, mataron a los",
+      "verse": 39,
+      "start_ms": 311625,
+      "end_ms": 315000,
+      "duration_ms": 3375
+    },
+    {
+      "word": "descendientes de Cam que vivían allí, y destruyeron para siempre sus campamentos y viviendas.",
+      "verse": 39,
+      "start_ms": 315148,
+      "end_ms": 321160,
+      "duration_ms": 6012
+    },
+    {
+      "word": "Algo parecido hicieron quinientos hombres de los descendientes de Simeón.",
+      "verse": 42,
+      "start_ms": 321110,
+      "end_ms": 325560,
+      "duration_ms": 4450
+    },
+    {
+      "word": "Bajo las órdenes de Pelatías, Nearías, Refaías y Uziel, hijos de Isí, se fueron a vivir al monte de Seír.",
+      "verse": 42,
+      "start_ms": 325560,
+      "end_ms": 333385,
+      "duration_ms": 7825
+    },
+    {
+      "word": "Cuando llegaron a ese lugar, mataron a los amalecitas que aún quedaban allí.",
+      "verse": 42,
+      "start_ms": 333385,
+      "end_ms": 338385,
+      "duration_ms": 5000
+    }
+  ]
+}

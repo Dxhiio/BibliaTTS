@@ -1,0 +1,131 @@
+{
+  "book": "SAL",
+  "chapter": 113,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 6,
+  "word_count": 11,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 71,
+      "text": "¡Alabemos a nuestro Dios! Ustedes, los que obedecen a Dios, ¡alábenlo!"
+    },
+    {
+      "verse": 2,
+      "label": "2-3",
+      "char_start": 71,
+      "char_end": 158,
+      "text": "¡Sea siempre bendito nuestro Dios! ¡Alábenlo a todas horas! ¡Alábenlo ahora y siempre!"
+    },
+    {
+      "verse": 4,
+      "label": "4-6",
+      "char_start": 158,
+      "char_end": 328,
+      "text": "Dios reina en las alturas, y desde allí contempla los cielos y la tierra. Dios gobierna con poder sobre todas las naciones. ¡No hay nada que se compare con nuestro Dios!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 328,
+      "char_end": 378,
+      "text": "A la gente pobre y humilde la saca de la miseria,"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 378,
+      "char_end": 431,
+      "text": "y le da un sitio de honor entre la gente importante."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 431,
+      "char_end": 552,
+      "text": "A la mujer que no tiene hijos, le concede dos alegrías: ¡llegar a ser madre, y tener un hogar! ¡Alabemos a nuestro Dios!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Alabemos a nuestro Dios!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 2475,
+      "duration_ms": 2375
+    },
+    {
+      "word": "Ustedes, los que obedecen a Dios, ¡alábenlo!",
+      "verse": 1,
+      "start_ms": 2425,
+      "end_ms": 6100,
+      "duration_ms": 3675
+    },
+    {
+      "word": "Sea siempre bendito nuestro Dios!",
+      "verse": 2,
+      "start_ms": 6100,
+      "end_ms": 8925,
+      "duration_ms": 2825
+    },
+    {
+      "word": "Alábenlo a todas horas!",
+      "verse": 2,
+      "start_ms": 8925,
+      "end_ms": 11375,
+      "duration_ms": 2450
+    },
+    {
+      "word": "Alábenlo ahora y siempre!",
+      "verse": 2,
+      "start_ms": 11375,
+      "end_ms": 13687,
+      "duration_ms": 2312
+    },
+    {
+      "word": "Dios reina en las alturas, y desde allí contempla los cielos y la tierra.",
+      "verse": 4,
+      "start_ms": 13687,
+      "end_ms": 18662,
+      "duration_ms": 4975
+    },
+    {
+      "word": "Dios gobierna con poder sobre todas las naciones.",
+      "verse": 4,
+      "start_ms": 18662,
+      "end_ms": 22324,
+      "duration_ms": 3662
+    },
+    {
+      "word": "No hay nada que se compare con nuestro Dios!",
+      "verse": 4,
+      "start_ms": 22325,
+      "end_ms": 25287,
+      "duration_ms": 2962
+    },
+    {
+      "word": "A la gente pobre y humilde la saca de la miseria, y le da un sitio de honor entre la gente importante.",
+      "verse": 7,
+      "start_ms": 25287,
+      "end_ms": 31649,
+      "duration_ms": 6362
+    },
+    {
+      "word": "A la mujer que no tiene hijos, le concede dos alegrías: ¡llegar a ser madre, y tener un hogar!",
+      "verse": 9,
+      "start_ms": 31650,
+      "end_ms": 38175,
+      "duration_ms": 6525
+    },
+    {
+      "word": "Alabemos a nuestro Dios!",
+      "verse": 9,
+      "start_ms": 38175,
+      "end_ms": 40550,
+      "duration_ms": 2375
+    }
+  ]
+}

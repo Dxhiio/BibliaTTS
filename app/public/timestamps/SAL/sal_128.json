@@ -1,0 +1,124 @@
+{
+  "book": "SAL",
+  "chapter": 128,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 5,
+  "word_count": 11,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 67,
+      "text": "¡Dios bendice a todos los que lo obedecen y siguen sus enseñanzas!"
+    },
+    {
+      "verse": 2,
+      "label": "2-3",
+      "char_start": 67,
+      "char_end": 333,
+      "text": "Si tú eres uno de ellos, Dios te bendecirá mucho. En el seno de tu hogar comerás y disfrutarás de lo que ganes con tu trabajo. Tu esposa tendrá muchos hijos. ¡Parecerá un racimo de uvas! Nunca en tu mesa faltará comida, y tus hijos crecerán fuertes como los olivos."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 333,
+      "char_end": 388,
+      "text": "¡Así es como Dios bendice a todos los que lo obedecen!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 388,
+      "char_end": 502,
+      "text": "¡Que Dios te bendiga desde su templo en el monte Sión! ¡Que veas prosperar a Jerusalén todos los días de tu vida!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 502,
+      "char_end": 584,
+      "text": "¡Que Dios te deje ver crecer a tus hijos y a tus nietos! ¡Que haya paz en Israel!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios bendice a todos los que lo obedecen y siguen sus enseñanzas!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4462,
+      "duration_ms": 4362
+    },
+    {
+      "word": "Si tú eres uno de ellos, Dios te bendecirá mucho.",
+      "verse": 2,
+      "start_ms": 4412,
+      "end_ms": 8374,
+      "duration_ms": 3962
+    },
+    {
+      "word": "En el seno de tu hogar comerás y disfrutarás de lo que ganes con tu trabajo.",
+      "verse": 2,
+      "start_ms": 8375,
+      "end_ms": 12912,
+      "duration_ms": 4537
+    },
+    {
+      "word": "Tu esposa tendrá muchos hijos.",
+      "verse": 2,
+      "start_ms": 12912,
+      "end_ms": 15649,
+      "duration_ms": 2737
+    },
+    {
+      "word": "Parecerá un racimo de uvas!",
+      "verse": 2,
+      "start_ms": 15650,
+      "end_ms": 18225,
+      "duration_ms": 2575
+    },
+    {
+      "word": "Nunca en tu mesa faltará comida, y tus hijos crecerán fuertes como los olivos.",
+      "verse": 2,
+      "start_ms": 18225,
+      "end_ms": 23587,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Así es como Dios bendice a todos los que lo obedecen!",
+      "verse": 4,
+      "start_ms": 23587,
+      "end_ms": 27299,
+      "duration_ms": 3712
+    },
+    {
+      "word": "Que Dios te bendiga desde su templo en el monte Sión!",
+      "verse": 5,
+      "start_ms": 27300,
+      "end_ms": 30812,
+      "duration_ms": 3512
+    },
+    {
+      "word": "Que veas prosperar a Jerusalén todos los días de tu vida!",
+      "verse": 5,
+      "start_ms": 30812,
+      "end_ms": 34774,
+      "duration_ms": 3962
+    },
+    {
+      "word": "Que Dios te deje ver crecer a tus hijos y a tus nietos!",
+      "verse": 6,
+      "start_ms": 34775,
+      "end_ms": 38550,
+      "duration_ms": 3775
+    },
+    {
+      "word": "Que haya paz en Israel!",
+      "verse": 6,
+      "start_ms": 38550,
+      "end_ms": 40750,
+      "duration_ms": 2200
+    }
+  ]
+}

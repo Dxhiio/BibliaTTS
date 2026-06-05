@@ -1,0 +1,418 @@
+{
+  "book": "JOB",
+  "chapter": 30,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 31,
+  "word_count": 27,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 121,
+      "text": "¡Ahora resulta que soy la burla de unos chiquillos! ¡Yo ni a sus padres les confiaría el trabajo de mis perros ovejeros!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 121,
+      "char_end": 174,
+      "text": "¡Con ellos como empleados, me hubiera quedado pobre!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 174,
+      "char_end": 257,
+      "text": "¡Toda la noche la pasan en los lugares más apartados, sufriendo de hambre y dolor!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 257,
+      "char_end": 335,
+      "text": "¡Andan entre los matorrales, juntando hierbas amargas y comiendo sólo raíces!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 335,
+      "char_end": 395,
+      "text": "Nadie en el pueblo los quiere, pues los acusan de ladrones."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 395,
+      "char_end": 479,
+      "text": "Por eso tienen que vivir en el lecho de arroyos secos, en cuevas y entre las rocas;"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 479,
+      "char_end": 531,
+      "text": "andan entre los matorrales, rebuznando como burros."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 531,
+      "char_end": 586,
+      "text": "Son gente de mala fama; ¡por eso los echaron del país!"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 586,
+      "char_end": 638,
+      "text": "¡Ahora resulta que soy la burla de esos chiquillos!"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 638,
+      "char_end": 691,
+      "text": "¡Me escupen en la cara, y con asco se apartan de mí!"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 691,
+      "char_end": 771,
+      "text": "Ahora que Dios me humilló, y me encuentro indefenso, descaradamente me ofenden."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 771,
+      "char_end": 868,
+      "text": "Estos bandidos me atacan por el lado derecho; me rodean como un ejército, y me hacen retroceder."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 868,
+      "char_end": 933,
+      "text": "Sin ayuda de nadie me cierran el paso, pues me quieren destruir."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 933,
+      "char_end": 1023,
+      "text": "Me atacan como un ejército cuando ha conquistado una ciudad y avanza entre los escombros."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1023,
+      "char_end": 1115,
+      "text": "Estoy temblando de miedo, mi dignidad se va perdiendo; he perdido la esperanza de triunfar."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1115,
+      "char_end": 1175,
+      "text": "Ya la vida se me escapa; los días de aflicción me aplastan."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1175,
+      "char_end": 1223,
+      "text": "No tiene fin el dolor que sufro por las noches;"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1223,
+      "char_end": 1266,
+      "text": "me oprime y me ahoga, como soga al cuello;"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1266,
+      "char_end": 1317,
+      "text": "me convierte en ceniza y me deja caer en el fango."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1317,
+      "char_end": 1408,
+      "text": "Dios mío, yo te llamo, pero tú no me respondes; me presento ante ti, y tú apenas me miras."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1408,
+      "char_end": 1466,
+      "text": "Eres muy cruel conmigo; me golpeas con tu brazo poderoso,"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1466,
+      "char_end": 1520,
+      "text": "me levantas con el viento, y me lanzas a la tormenta,"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1520,
+      "char_end": 1584,
+      "text": "y un día me arrojarás a la tumba, que es nuestro destino final."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1584,
+      "char_end": 1629,
+      "text": "Yo nunca le negué ayuda a quien me la pidió."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1629,
+      "char_end": 1705,
+      "text": "Al contrario, he llorado con los que sufren, y me he dolido con los pobres."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 1705,
+      "char_end": 1820,
+      "text": "Pero vinieron los días malos cuando esperaba mejores tiempos; llegaron los días de sombras cuando esperaba la luz."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 1820,
+      "char_end": 1884,
+      "text": "Todo el tiempo estoy inquieto; me enfrento a días de aflicción."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 1884,
+      "char_end": 1972,
+      "text": "Estoy triste, como un día nublado, pues pido ayuda a mi gente y los jefes no me la dan."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 1972,
+      "char_end": 2031,
+      "text": "Las lechuzas y los chacales son mis amigos y mis hermanos."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2031,
+      "char_end": 2100,
+      "text": "La piel se me pudre y se me cae a pedazos; estoy ardiendo en fiebre."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2100,
+      "char_end": 2152,
+      "text": "De mi arpa y de mi flauta brotan notas de tristeza."
+    }
+  ],
+  "words": [
+    {
+      "word": "Ahora resulta que soy la burla de unos chiquillos!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3800,
+      "duration_ms": 3700
+    },
+    {
+      "word": "Yo ni a sus padres les confiaría el trabajo de mis perros ovejeros!",
+      "verse": 1,
+      "start_ms": 3750,
+      "end_ms": 8287,
+      "duration_ms": 4537
+    },
+    {
+      "word": "Con ellos como empleados, me hubiera quedado pobre!",
+      "verse": 2,
+      "start_ms": 8287,
+      "end_ms": 11987,
+      "duration_ms": 3700
+    },
+    {
+      "word": "Toda la noche la pasan en los lugares más apartados, sufriendo de hambre y dolor!",
+      "verse": 3,
+      "start_ms": 11987,
+      "end_ms": 17412,
+      "duration_ms": 5425
+    },
+    {
+      "word": "Andan entre los matorrales, juntando hierbas amargas y comiendo sólo raíces!",
+      "verse": 4,
+      "start_ms": 17412,
+      "end_ms": 22974,
+      "duration_ms": 5562
+    },
+    {
+      "word": "Nadie en el pueblo los quiere, pues los acusan de ladrones.",
+      "verse": 5,
+      "start_ms": 22975,
+      "end_ms": 27150,
+      "duration_ms": 4175
+    },
+    {
+      "word": "Por eso tienen que vivir en el lecho de arroyos secos, en cuevas y entre las rocas; andan entre los matorrales, rebuznando como burros.",
+      "verse": 6,
+      "start_ms": 27150,
+      "end_ms": 35700,
+      "duration_ms": 8550
+    },
+    {
+      "word": "Son gente de mala fama; ¡por eso los echaron del país!",
+      "verse": 8,
+      "start_ms": 35700,
+      "end_ms": 39762,
+      "duration_ms": 4062
+    },
+    {
+      "word": "Ahora resulta que soy la burla de esos chiquillos!",
+      "verse": 9,
+      "start_ms": 39762,
+      "end_ms": 43437,
+      "duration_ms": 3675
+    },
+    {
+      "word": "Me escupen en la cara, y con asco se apartan de mí!",
+      "verse": 10,
+      "start_ms": 43437,
+      "end_ms": 47187,
+      "duration_ms": 3750
+    },
+    {
+      "word": "Ahora que Dios me humilló, y me encuentro indefenso, descaradamente me ofenden.",
+      "verse": 11,
+      "start_ms": 47187,
+      "end_ms": 52662,
+      "duration_ms": 5475
+    },
+    {
+      "word": "Estos bandidos me atacan por el lado derecho; me rodean como un ejército, y me hacen retroceder.",
+      "verse": 12,
+      "start_ms": 52662,
+      "end_ms": 59224,
+      "duration_ms": 6562
+    },
+    {
+      "word": "Sin ayuda de nadie me cierran el paso, pues me quieren destruir.",
+      "verse": 13,
+      "start_ms": 59225,
+      "end_ms": 63812,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Me atacan como un ejército cuando ha conquistado una ciudad y avanza entre los escombros.",
+      "verse": 14,
+      "start_ms": 63812,
+      "end_ms": 69112,
+      "duration_ms": 5300
+    },
+    {
+      "word": "Estoy temblando de miedo, mi dignidad se va perdiendo; he perdido la esperanza de triunfar.",
+      "verse": 15,
+      "start_ms": 69112,
+      "end_ms": 75137,
+      "duration_ms": 6025
+    },
+    {
+      "word": "Ya la vida se me escapa; los días de aflicción me aplastan.",
+      "verse": 16,
+      "start_ms": 75137,
+      "end_ms": 79237,
+      "duration_ms": 4100
+    },
+    {
+      "word": "No tiene fin el dolor que sufro por las noches; me oprime y me ahoga, como soga al cuello; me convierte en ceniza y me deja caer en el fango.",
+      "verse": 17,
+      "start_ms": 79237,
+      "end_ms": 88162,
+      "duration_ms": 8925
+    },
+    {
+      "word": "Dios mío, yo te llamo, pero tú no me respondes; me presento ante ti, y tú apenas me miras.",
+      "verse": 20,
+      "start_ms": 88162,
+      "end_ms": 95137,
+      "duration_ms": 6975
+    },
+    {
+      "word": "Eres muy cruel conmigo; me golpeas con tu brazo poderoso, me levantas con el viento, y me lanzas a la tormenta, y un día me arrojarás a la tumba, que es nuestro destino final.",
+      "verse": 21,
+      "start_ms": 95137,
+      "end_ms": 106274,
+      "duration_ms": 11137
+    },
+    {
+      "word": "Yo nunca le negué ayuda a quien me la pidió.",
+      "verse": 24,
+      "start_ms": 106275,
+      "end_ms": 109475,
+      "duration_ms": 3200
+    },
+    {
+      "word": "Al contrario, he llorado con los que sufren, y me he dolido con los pobres.",
+      "verse": 25,
+      "start_ms": 109475,
+      "end_ms": 114737,
+      "duration_ms": 5262
+    },
+    {
+      "word": "Pero vinieron los días malos cuando esperaba mejores tiempos; llegaron los días de sombras cuando esperaba la luz.",
+      "verse": 26,
+      "start_ms": 114737,
+      "end_ms": 121499,
+      "duration_ms": 6762
+    },
+    {
+      "word": "Todo el tiempo estoy inquieto; me enfrento a días de aflicción.",
+      "verse": 27,
+      "start_ms": 121500,
+      "end_ms": 125700,
+      "duration_ms": 4200
+    },
+    {
+      "word": "Estoy triste, como un día nublado, pues pido ayuda a mi gente y los jefes no me la dan.",
+      "verse": 28,
+      "start_ms": 125700,
+      "end_ms": 131950,
+      "duration_ms": 6250
+    },
+    {
+      "word": "Las lechuzas y los chacales son mis amigos y mis hermanos.",
+      "verse": 29,
+      "start_ms": 131950,
+      "end_ms": 135987,
+      "duration_ms": 4037
+    },
+    {
+      "word": "La piel se me pudre y se me cae a pedazos; estoy ardiendo en fiebre.",
+      "verse": 30,
+      "start_ms": 135987,
+      "end_ms": 140912,
+      "duration_ms": 4925
+    },
+    {
+      "word": "De mi arpa y de mi flauta brotan notas de tristeza.",
+      "verse": 31,
+      "start_ms": 140912,
+      "end_ms": 144624,
+      "duration_ms": 3712
+    }
+  ]
+}

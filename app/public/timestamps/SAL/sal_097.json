@@ -1,0 +1,208 @@
+{
+  "book": "SAL",
+  "chapter": 97,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 11,
+  "word_count": 17,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 85,
+      "text": "¡Dios es nuestro rey! ¡Que lo celebre la tierra! ¡Que lo festejen las islas lejanas!"
+    },
+    {
+      "verse": 2,
+      "label": "2-3",
+      "char_start": 85,
+      "char_end": 234,
+      "text": "Dios es un rey justo, que hace valer el derecho. Su trono está rodeado de oscuros nubarrones. De su presencia sale fuego que consume a sus enemigos."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 234,
+      "char_end": 303,
+      "text": "Sus relámpagos iluminan el mundo. Al verlos, la tierra se estremece."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 303,
+      "char_end": 397,
+      "text": "En presencia de nuestro Dios, que domina el mundo entero, las montañas se derriten como cera;"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 397,
+      "char_end": 464,
+      "text": "los cielos reconocen su justicia, los pueblos contemplan su poder,"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 464,
+      "char_end": 558,
+      "text": "y los dioses se inclinan ante él. Así quedan en vergüenza todos los que adoran dioses falsos."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 558,
+      "char_end": 673,
+      "text": "Cuando lo sepan en Jerusalén y en las ciudades de Judá, todos se llenarán de alegría porque tú eres un Dios justo."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 673,
+      "char_end": 776,
+      "text": "¡Tú eres el Dios altísimo! ¡Eres más grande que toda la tierra! ¡Eres más grande que todos los dioses!"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 776,
+      "char_end": 864,
+      "text": "Tú amas y proteges a quienes odian el mal y te obedecen; tú los libras de los malvados;"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 864,
+      "char_end": 914,
+      "text": "tú derramas luz y alegría sobre la gente honrada."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 914,
+      "char_end": 988,
+      "text": "Ustedes los justos, ¡alégrense en Dios! ¡Alábenlo porque es nuestro Dios!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios es nuestro rey!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 2087,
+      "duration_ms": 1987
+    },
+    {
+      "word": "Que lo celebre la tierra!",
+      "verse": 1,
+      "start_ms": 2037,
+      "end_ms": 4199,
+      "duration_ms": 2162
+    },
+    {
+      "word": "Que lo festejen las islas lejanas!",
+      "verse": 1,
+      "start_ms": 4200,
+      "end_ms": 7087,
+      "duration_ms": 2887
+    },
+    {
+      "word": "Dios es un rey justo, que hace valer el derecho.",
+      "verse": 2,
+      "start_ms": 7087,
+      "end_ms": 10799,
+      "duration_ms": 3712
+    },
+    {
+      "word": "Su trono está rodeado de oscuros nubarrones.",
+      "verse": 2,
+      "start_ms": 10800,
+      "end_ms": 14287,
+      "duration_ms": 3487
+    },
+    {
+      "word": "De su presencia sale fuego que consume a sus enemigos.",
+      "verse": 2,
+      "start_ms": 14287,
+      "end_ms": 18137,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Sus relámpagos iluminan el mundo.",
+      "verse": 4,
+      "start_ms": 18137,
+      "end_ms": 20937,
+      "duration_ms": 2800
+    },
+    {
+      "word": "Al verlos, la tierra se estremece.",
+      "verse": 4,
+      "start_ms": 20937,
+      "end_ms": 24024,
+      "duration_ms": 3087
+    },
+    {
+      "word": "En presencia de nuestro Dios, que domina el mundo entero, las montañas se derriten como cera; los cielos reconocen su justicia, los pueblos contemplan su poder, y los dioses se inclinan ante él.",
+      "verse": 5,
+      "start_ms": 24025,
+      "end_ms": 35675,
+      "duration_ms": 11650
+    },
+    {
+      "word": "Así quedan en vergüenza todos los que adoran dioses falsos.",
+      "verse": 7,
+      "start_ms": 35675,
+      "end_ms": 39712,
+      "duration_ms": 4037
+    },
+    {
+      "word": "Cuando lo sepan en Jerusalén y en las ciudades de Judá, todos se llenarán de alegría porque tú eres un Dios justo.",
+      "verse": 8,
+      "start_ms": 39712,
+      "end_ms": 46449,
+      "duration_ms": 6737
+    },
+    {
+      "word": "Tú eres el Dios altísimo!",
+      "verse": 9,
+      "start_ms": 46450,
+      "end_ms": 48850,
+      "duration_ms": 2400
+    },
+    {
+      "word": "Eres más grande que toda la tierra!",
+      "verse": 9,
+      "start_ms": 48850,
+      "end_ms": 51600,
+      "duration_ms": 2750
+    },
+    {
+      "word": "Eres más grande que todos los dioses!",
+      "verse": 9,
+      "start_ms": 51600,
+      "end_ms": 54550,
+      "duration_ms": 2950
+    },
+    {
+      "word": "Tú amas y proteges a quienes odian el mal y te obedecen; tú los libras de los malvados; tú derramas luz y alegría sobre la gente honrada.",
+      "verse": 10,
+      "start_ms": 54550,
+      "end_ms": 62812,
+      "duration_ms": 8262
+    },
+    {
+      "word": "Ustedes los justos, ¡alégrense en Dios!",
+      "verse": 12,
+      "start_ms": 62812,
+      "end_ms": 66274,
+      "duration_ms": 3462
+    },
+    {
+      "word": "Alábenlo porque es nuestro Dios!",
+      "verse": 12,
+      "start_ms": 66275,
+      "end_ms": 68987,
+      "duration_ms": 2712
+    }
+  ]
+}

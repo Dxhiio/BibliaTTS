@@ -1,0 +1,649 @@
+{
+  "book": "SAL",
+  "chapter": 106,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 43,
+  "word_count": 48,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 63,
+      "text": "¡Alabemos a nuestro Dios! ¡Démosle gracias porque él es bueno!"
+    },
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 63,
+      "char_end": 92,
+      "text": "¡Dios nunca deja de amarnos!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 92,
+      "char_end": 197,
+      "text": "¡Nadie es capaz de describir los milagros que Dios ha hecho! ¡Nadie puede alabarlo como él se lo merece!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 197,
+      "char_end": 252,
+      "text": "¡Dios bendice a los que son justos y aman la justicia!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 252,
+      "char_end": 357,
+      "text": "Dios, acuérdate de mí cuando muestres tu bondad a tu pueblo; tómame en cuenta cuando vengas a salvarnos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 357,
+      "char_end": 468,
+      "text": "Permíteme cantarte alabanzas en compañía de tu pueblo elegido; ¡permíteme disfrutar de su bienestar y alegría!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 468,
+      "char_end": 569,
+      "text": "Nosotros hemos pecado, hemos hecho lo malo; hemos sido muy malvados, como nuestros padres y abuelos."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 569,
+      "char_end": 737,
+      "text": "Cuando ellos estaban en Egipto, no tomaron en cuenta tus grandes hechos; no tuvieron presente tu gran amor, y a la orilla del Mar de los Juncos se rebelaron contra ti."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 737,
+      "char_end": 803,
+      "text": "Pero tú los salvaste para que vieran tu gran poder y te alabaran."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 803,
+      "char_end": 949,
+      "text": "El Mar de los Juncos quedó seco cuando oyó tu reprensión; tú hiciste que nuestros abuelos cruzaran el fondo del mar como si cruzaran el desierto."
+    },
+    {
+      "verse": 10,
+      "label": "10-11",
+      "char_start": 949,
+      "char_end": 1067,
+      "text": "Sus enemigos los odiaban, pero murieron ahogados en el mar. Tú los libraste de ellos; ¡ningún egipcio quedó con vida!"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1067,
+      "char_end": 1142,
+      "text": "Entonces nuestros padres creyeron en tus promesas y te cantaron alabanzas;"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1142,
+      "char_end": 1237,
+      "text": "pero al poco tiempo se olvidaron de tus hechos y no esperaron a conocer los planes que tenías."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1237,
+      "char_end": 1341,
+      "text": "Eran tantas sus ganas de comer que allí, en pleno desierto, te pusieron a prueba y te exigieron comida."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1341,
+      "char_end": 1412,
+      "text": "Y tú los complaciste, pero también les enviaste una enfermedad mortal."
+    },
+    {
+      "verse": 16,
+      "label": "16-17",
+      "char_start": 1412,
+      "char_end": 1627,
+      "text": "Cuando estaban en el desierto, los que seguían a Datán y a Abiram sintieron envidia de Moisés, y también sintieron celos de Aarón, a quien tú habías elegido; pero se abrió la tierra y se tragó a todos los rebeldes;"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1627,
+      "char_end": 1684,
+      "text": "¡llamas de fuego cayeron sobre esa pandilla de malvados!"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1684,
+      "char_end": 1780,
+      "text": "Nuestros abuelos llegaron al monte Horeb, y allí hicieron un ídolo; ¡adoraron un toro de metal!"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1780,
+      "char_end": 1870,
+      "text": "Dejaron de adorar a Dios, que era su motivo de orgullo, para adorar la imagen de un toro."
+    },
+    {
+      "verse": 21,
+      "label": "21-22",
+      "char_start": 1870,
+      "char_end": 1987,
+      "text": "Dios hizo grandes maravillas frente al Mar de los Juncos: ¡los salvó de los egipcios! Pero ellos se olvidaron de él,"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1987,
+      "char_end": 2138,
+      "text": "y tan enojado se puso Dios que quiso destruirlos. Moisés, su elegido, intervino en favor de ellos y calmó el enojo de Dios para que no los destruyera."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2138,
+      "char_end": 2219,
+      "text": "Pero ellos rechazaron la tierra que Dios les dio y no confiaron en sus promesas."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2219,
+      "char_end": 2290,
+      "text": "Dentro de sus casas hablaron mal de su Dios y no quisieron obedecerlo."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2290,
+      "char_end": 2346,
+      "text": "Dios les advirtió que los dejaría morir en el desierto,"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2346,
+      "char_end": 2451,
+      "text": "y que a sus descendientes también los haría morir, o que los dispersaría por todos los pueblos y países."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2451,
+      "char_end": 2575,
+      "text": "Pero ellos prefirieron adorar al dios Baal de la ciudad de Pegor, y comieron de las ofrendas que se hacen a dioses muertos."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2575,
+      "char_end": 2659,
+      "text": "Con esas malas acciones hicieron enojar a Dios, y él les mandó un terrible castigo."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2659,
+      "char_end": 2752,
+      "text": "Pero un hombre llamado Finees intervino en favor de ellos y logró que Dios no los castigara."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2752,
+      "char_end": 2817,
+      "text": "Por eso Finees será siempre recordado por este acto de justicia."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2817,
+      "char_end": 2930,
+      "text": "Junto a las aguas de Meribá los israelitas hicieron enojar a Dios, y por culpa de ellos le fue muy mal a Moisés;"
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 2930,
+      "char_end": 2992,
+      "text": "tanto le amargaron el ánimo que Moisés no midió sus palabras."
+    },
+    {
+      "verse": 34,
+      "label": "34-35",
+      "char_start": 2992,
+      "char_end": 3147,
+      "text": "Dios les había ordenado destruir a los otros pueblos, pero ellos no lo obedecieron. ¡Todo lo contrario! Se mezclaron con ellos y siguieron sus costumbres;"
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3147,
+      "char_end": 3200,
+      "text": "adoraron a sus ídolos y se volvieron sus seguidores."
+    },
+    {
+      "verse": 37,
+      "label": "37-38",
+      "char_start": 3200,
+      "char_end": 3318,
+      "text": "¡Mancharon la tierra al derramar sangre inocente! ¡Entregaron a sus hijos y a sus hijas como ofrenda a esos demonios!"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 3318,
+      "char_end": 3397,
+      "text": "Al cometer tales acciones, se corrompieron a sí mismos y resultaron culpables."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 3397,
+      "char_end": 3453,
+      "text": "Dios se enojó mucho con ellos y acabó por aborrecerlos."
+    },
+    {
+      "verse": 41,
+      "label": "41-42",
+      "char_start": 3453,
+      "char_end": 3543,
+      "text": "Por eso los dejó caer en poder de sus enemigos para que los humillaran y los maltrataran."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 3543,
+      "char_end": 3634,
+      "text": "Muchas veces Dios los liberó; pero ellos, siempre rebeldes, insistieron en seguir pecando."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 3634,
+      "char_end": 3694,
+      "text": "Dios los vio tan angustiados, y los escuchó quejarse tanto,"
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 3694,
+      "char_end": 3775,
+      "text": "que cambió de parecer. Su amor lo hizo acordarse de su pacto con los israelitas,"
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 3775,
+      "char_end": 3823,
+      "text": "e hizo que sus enemigos les tuvieran compasión."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 3823,
+      "char_end": 3944,
+      "text": "Dios nuestro, ¡sálvanos! ¡Permítenos volver a nuestra tierra, para que te demos gracias y te alabemos como nuestro Dios!"
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 3944,
+      "char_end": 4056,
+      "text": "¡Bendito sea ahora y siempre el Dios de Israel! ¡Que diga el pueblo de Dios: Así sea! ¡Alabemos a nuestro Dios!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Alabemos a nuestro Dios!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 2475,
+      "duration_ms": 2375
+    },
+    {
+      "word": "Démosle gracias porque él es bueno!",
+      "verse": 1,
+      "start_ms": 2425,
+      "end_ms": 5175,
+      "duration_ms": 2750
+    },
+    {
+      "word": "Dios nunca deja de amarnos!",
+      "verse": 1,
+      "start_ms": 5175,
+      "end_ms": 7750,
+      "duration_ms": 2575
+    },
+    {
+      "word": "Nadie es capaz de describir los milagros que Dios ha hecho!",
+      "verse": 2,
+      "start_ms": 7750,
+      "end_ms": 11612,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Nadie puede alabarlo como él se lo merece!",
+      "verse": 2,
+      "start_ms": 11612,
+      "end_ms": 14737,
+      "duration_ms": 3125
+    },
+    {
+      "word": "Dios bendice a los que son justos y aman la justicia!",
+      "verse": 3,
+      "start_ms": 14737,
+      "end_ms": 18612,
+      "duration_ms": 3875
+    },
+    {
+      "word": "Dios, acuérdate de mí cuando muestres tu bondad a tu pueblo; tómame en cuenta cuando vengas a salvarnos.",
+      "verse": 4,
+      "start_ms": 18612,
+      "end_ms": 25387,
+      "duration_ms": 6775
+    },
+    {
+      "word": "Permíteme cantarte alabanzas en compañía de tu pueblo elegido; ¡permíteme disfrutar de su bienestar y alegría!",
+      "verse": 5,
+      "start_ms": 25387,
+      "end_ms": 32349,
+      "duration_ms": 6962
+    },
+    {
+      "word": "Nosotros hemos pecado, hemos hecho lo malo; hemos sido muy malvados, como nuestros padres y abuelos.",
+      "verse": 6,
+      "start_ms": 32350,
+      "end_ms": 39362,
+      "duration_ms": 7012
+    },
+    {
+      "word": "Cuando ellos estaban en Egipto, no tomaron en cuenta tus grandes hechos; no tuvieron presente tu gran amor, y a la orilla del Mar de los Juncos se rebelaron contra ti.",
+      "verse": 7,
+      "start_ms": 39362,
+      "end_ms": 49137,
+      "duration_ms": 9775
+    },
+    {
+      "word": "Pero tú los salvaste para que vieran tu gran poder y te alabaran.",
+      "verse": 8,
+      "start_ms": 49137,
+      "end_ms": 53087,
+      "duration_ms": 3950
+    },
+    {
+      "word": "El Mar de los Juncos quedó seco cuando oyó tu reprensión; tú hiciste que nuestros abuelos cruzaran el fondo del mar como si cruzaran el desierto.",
+      "verse": 9,
+      "start_ms": 53087,
+      "end_ms": 61324,
+      "duration_ms": 8237
+    },
+    {
+      "word": "Sus enemigos los odiaban, pero murieron ahogados en el mar.",
+      "verse": 10,
+      "start_ms": 61325,
+      "end_ms": 65625,
+      "duration_ms": 4300
+    },
+    {
+      "word": "Tú los libraste de ellos; ¡ningún egipcio quedó con vida!",
+      "verse": 10,
+      "start_ms": 65625,
+      "end_ms": 69687,
+      "duration_ms": 4062
+    },
+    {
+      "word": "Entonces nuestros padres creyeron en tus promesas y te cantaron alabanzas; pero al poco tiempo se olvidaron de tus hechos y no esperaron a conocer los planes que tenías.",
+      "verse": 12,
+      "start_ms": 69687,
+      "end_ms": 79299,
+      "duration_ms": 9612
+    },
+    {
+      "word": "Eran tantas sus ganas de comer que allí, en pleno desierto, te pusieron a prueba y te exigieron comida.",
+      "verse": 14,
+      "start_ms": 79300,
+      "end_ms": 85750,
+      "duration_ms": 6450
+    },
+    {
+      "word": "Y tú los complaciste, pero también les enviaste una enfermedad mortal.",
+      "verse": 15,
+      "start_ms": 85750,
+      "end_ms": 90525,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Cuando estaban en el desierto, los que seguían a Datán y a Abiram sintieron envidia de Moisés, y también sintieron celos de Aarón, a quien tú habías elegido; pero se abrió la tierra y se tragó a todos los rebeldes; ¡llamas de fuego cayeron sobre esa pandilla de malvados!",
+      "verse": 16,
+      "start_ms": 90525,
+      "end_ms": 105762,
+      "duration_ms": 15237
+    },
+    {
+      "word": "Nuestros abuelos llegaron al monte Horeb, y allí hicieron un ídolo; ¡adoraron un toro de metal!",
+      "verse": 19,
+      "start_ms": 105762,
+      "end_ms": 111824,
+      "duration_ms": 6062
+    },
+    {
+      "word": "Dejaron de adorar a Dios, que era su motivo de orgullo, para adorar la imagen de un toro.",
+      "verse": 20,
+      "start_ms": 111825,
+      "end_ms": 117787,
+      "duration_ms": 5962
+    },
+    {
+      "word": "Dios hizo grandes maravillas frente al Mar de los Juncos: ¡los salvó de los egipcios!",
+      "verse": 21,
+      "start_ms": 117787,
+      "end_ms": 123287,
+      "duration_ms": 5500
+    },
+    {
+      "word": "Pero ellos se olvidaron de él, y tan enojado se puso Dios que quiso destruirlos.",
+      "verse": 21,
+      "start_ms": 123287,
+      "end_ms": 128837,
+      "duration_ms": 5550
+    },
+    {
+      "word": "Moisés, su elegido, intervino en favor de ellos y calmó el enojo de Dios para que no los destruyera.",
+      "verse": 23,
+      "start_ms": 128837,
+      "end_ms": 135749,
+      "duration_ms": 6912
+    },
+    {
+      "word": "Pero ellos rechazaron la tierra que Dios les dio y no confiaron en sus promesas.",
+      "verse": 24,
+      "start_ms": 135750,
+      "end_ms": 140687,
+      "duration_ms": 4937
+    },
+    {
+      "word": "Dentro de sus casas hablaron mal de su Dios y no quisieron obedecerlo.",
+      "verse": 25,
+      "start_ms": 140687,
+      "end_ms": 145249,
+      "duration_ms": 4562
+    },
+    {
+      "word": "Dios les advirtió que los dejaría morir en el desierto, y que a sus descendientes también los haría morir, o que los dispersaría por todos los pueblos y países.",
+      "verse": 26,
+      "start_ms": 145250,
+      "end_ms": 154475,
+      "duration_ms": 9225
+    },
+    {
+      "word": "Pero ellos prefirieron adorar al dios Baal de la ciudad de Pegor, y comieron de las ofrendas que se hacen a dioses muertos.",
+      "verse": 28,
+      "start_ms": 154475,
+      "end_ms": 161487,
+      "duration_ms": 7012
+    },
+    {
+      "word": "Con esas malas acciones hicieron enojar a Dios, y él les mandó un terrible castigo.",
+      "verse": 29,
+      "start_ms": 161487,
+      "end_ms": 167074,
+      "duration_ms": 5587
+    },
+    {
+      "word": "Pero un hombre llamado Finees intervino en favor de ellos y logró que Dios no los castigara.",
+      "verse": 30,
+      "start_ms": 167075,
+      "end_ms": 172800,
+      "duration_ms": 5725
+    },
+    {
+      "word": "Por eso Finees será siempre recordado por este acto de justicia.",
+      "verse": 31,
+      "start_ms": 172800,
+      "end_ms": 177137,
+      "duration_ms": 4337
+    },
+    {
+      "word": "Junto a las aguas de Meribá los israelitas hicieron enojar a Dios, y por culpa de ellos le fue muy mal a Moisés; tanto le amargaron el ánimo que Moisés no midió sus palabras.",
+      "verse": 32,
+      "start_ms": 177137,
+      "end_ms": 187487,
+      "duration_ms": 10350
+    },
+    {
+      "word": "Dios les había ordenado destruir a los otros pueblos, pero ellos no lo obedecieron.",
+      "verse": 34,
+      "start_ms": 187487,
+      "end_ms": 193162,
+      "duration_ms": 5675
+    },
+    {
+      "word": "Todo lo contrario!",
+      "verse": 34,
+      "start_ms": 193162,
+      "end_ms": 195049,
+      "duration_ms": 1887
+    },
+    {
+      "word": "Se mezclaron con ellos y siguieron sus costumbres; adoraron a sus ídolos y se volvieron sus seguidores.",
+      "verse": 34,
+      "start_ms": 195050,
+      "end_ms": 201612,
+      "duration_ms": 6562
+    },
+    {
+      "word": "Mancharon la tierra al derramar sangre inocente!",
+      "verse": 37,
+      "start_ms": 201612,
+      "end_ms": 205074,
+      "duration_ms": 3462
+    },
+    {
+      "word": "Entregaron a sus hijos y a sus hijas como ofrenda a esos demonios!",
+      "verse": 37,
+      "start_ms": 205075,
+      "end_ms": 209612,
+      "duration_ms": 4537
+    },
+    {
+      "word": "Al cometer tales acciones, se corrompieron a sí mismos y resultaron culpables.",
+      "verse": 39,
+      "start_ms": 209612,
+      "end_ms": 215062,
+      "duration_ms": 5450
+    },
+    {
+      "word": "Dios se enojó mucho con ellos y acabó por aborrecerlos.",
+      "verse": 40,
+      "start_ms": 215062,
+      "end_ms": 219137,
+      "duration_ms": 4075
+    },
+    {
+      "word": "Por eso los dejó caer en poder de sus enemigos para que los humillaran y los maltrataran.",
+      "verse": 41,
+      "start_ms": 219137,
+      "end_ms": 224324,
+      "duration_ms": 5187
+    },
+    {
+      "word": "Muchas veces Dios los liberó; pero ellos, siempre rebeldes, insistieron en seguir pecando.",
+      "verse": 43,
+      "start_ms": 224325,
+      "end_ms": 230762,
+      "duration_ms": 6437
+    },
+    {
+      "word": "Dios los vio tan angustiados, y los escuchó quejarse tanto, que cambió de parecer.",
+      "verse": 44,
+      "start_ms": 230762,
+      "end_ms": 236587,
+      "duration_ms": 5825
+    },
+    {
+      "word": "Su amor lo hizo acordarse de su pacto con los israelitas, e hizo que sus enemigos les tuvieran compasión.",
+      "verse": 45,
+      "start_ms": 236587,
+      "end_ms": 243287,
+      "duration_ms": 6700
+    },
+    {
+      "word": "Dios nuestro, ¡sálvanos!",
+      "verse": 47,
+      "start_ms": 243287,
+      "end_ms": 245837,
+      "duration_ms": 2550
+    },
+    {
+      "word": "Permítenos volver a nuestra tierra, para que te demos gracias y te alabemos como nuestro Dios!",
+      "verse": 47,
+      "start_ms": 245837,
+      "end_ms": 251537,
+      "duration_ms": 5700
+    },
+    {
+      "word": "Bendito sea ahora y siempre el Dios de Israel!",
+      "verse": 48,
+      "start_ms": 251537,
+      "end_ms": 254949,
+      "duration_ms": 3412
+    },
+    {
+      "word": "Que diga el pueblo",
+      "verse": 48,
+      "start_ms": 254950,
+      "end_ms": 256775,
+      "duration_ms": 1825
+    },
+    {
+      "word": "de Dios: Así sea!",
+      "verse": 48,
+      "start_ms": 256924,
+      "end_ms": 259361,
+      "duration_ms": 2437
+    },
+    {
+      "word": "Alabemos a nuestro Dios!",
+      "verse": 48,
+      "start_ms": 259311,
+      "end_ms": 261686,
+      "duration_ms": 2375
+    }
+  ]
+}

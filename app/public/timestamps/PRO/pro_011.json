@@ -1,0 +1,446 @@
+{
+  "book": "PRO",
+  "chapter": 11,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 31,
+  "word_count": 31,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 58,
+      "text": "Dios rechaza a los tramposos, pero acepta a los honrados."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 58,
+      "char_end": 128,
+      "text": "El orgulloso termina en la vergüenza, y el humilde llega a ser sabio."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 128,
+      "char_end": 196,
+      "text": "Al bueno lo guía la justicia; al traidor lo destruye la hipocresía."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 196,
+      "char_end": 320,
+      "text": "Cuando te enfrentes al Gran Juez, de nada te servirán las riquezas; sólo haciendo lo que es justo te librarás de la muerte."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 320,
+      "char_end": 424,
+      "text": "Cuando somos honrados, todo en la vida es más fácil; pero a los malvados su propia maldad los destruye."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 424,
+      "char_end": 517,
+      "text": "Cuando somos honrados, estamos a salvo del mal; pero a los traidores su ambición los domina."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 517,
+      "char_end": 601,
+      "text": "Cuando mueren los malvados, mueren con ellos su esperanza y sus sueños de grandeza."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 601,
+      "char_end": 670,
+      "text": "A los malvados les cae la desgracia, pero los buenos quedan a salvo."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 670,
+      "char_end": 773,
+      "text": "Los chismes de los malvados destruyen a sus semejantes, pero a la gente honrada la salva la sabiduría."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 773,
+      "char_end": 877,
+      "text": "Cuando los buenos triunfan, la ciudad se alegra; cuando los malvados mueren, todo el mundo hace fiesta."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 877,
+      "char_end": 986,
+      "text": "La presencia de los buenos trae bienestar a la ciudad; la presencia de los malvados sólo le trae desgracias."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 986,
+      "char_end": 1083,
+      "text": "El que es imprudente critica a su amigo; el que piensa lo que dice sabe cuándo guardar silencio."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1083,
+      "char_end": 1149,
+      "text": "La gente chismosa todo lo cuenta; la gente confiable sabe callar."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1149,
+      "char_end": 1230,
+      "text": "Sin buenos gobernantes, la nación fracasa; con muchos consejeros puede salvarse."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1230,
+      "char_end": 1361,
+      "text": "Si te comprometes a pagar las deudas de un desconocido, te metes en grandes problemas; evita esos compromisos y vivirás tranquilo."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1361,
+      "char_end": 1433,
+      "text": "La mujer bondadosa gana respeto, y el hombre emprendedor gana riquezas."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1433,
+      "char_end": 1534,
+      "text": "Compadécete de los demás y te harás bien a ti mismo; pero si les haces daño, el daño te lo harás tú."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1534,
+      "char_end": 1637,
+      "text": "Las ganancias del malvado no son más que una mentira; la verdadera ganancia consiste en hacer el bien."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1637,
+      "char_end": 1700,
+      "text": "El premio del bueno es la vida, y el del malvado es la muerte."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1700,
+      "char_end": 1815,
+      "text": "Dios no soporta a los malvados, pues piensan sólo en la maldad; en cambio a la gente honrada le muestra su bondad."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1815,
+      "char_end": 1905,
+      "text": "Una cosa es segura: Los malvados no quedarán sin castigo, pero la gente buena se salvará."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1905,
+      "char_end": 1979,
+      "text": "La mujer bella pero tonta es como anillo de oro en la trompa de un cerdo."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1979,
+      "char_end": 2077,
+      "text": "Los deseos de los buenos siempre traen bendición; los deseos de los malos sólo traen destrucción."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2077,
+      "char_end": 2174,
+      "text": "Quienes son generosos, reciben en abundancia; quienes ni sus deudas pagan, acaban en la miseria."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2174,
+      "char_end": 2237,
+      "text": "El que es generoso, progresa; el que siembra, también cosecha."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2237,
+      "char_end": 2358,
+      "text": "Al que esconde el trigo para venderlo más caro, la gente lo maldice; al que lo vende a buen precio, la gente lo bendice."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2358,
+      "char_end": 2449,
+      "text": "Trata de hacer el bien, y te ganarás amigos; busca hacer la maldad, y el mal te destruirá."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2449,
+      "char_end": 2551,
+      "text": "Quien confía en sus riquezas, se encamina al fracaso; pero quien es honrado camina seguro al triunfo."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2551,
+      "char_end": 2642,
+      "text": "El tonto que daña a su familia acaba perdiéndolo todo, y termina siendo esclavo del sabio."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2642,
+      "char_end": 2737,
+      "text": "El premio de los buenos es la vida misma, y el premio de los sabios es el aprecio de la gente."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2737,
+      "char_end": 2857,
+      "text": "Si aquí en la tierra los buenos reciben su recompensa, ¡con más razón reciben su merecido los malvados y los pecadores!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios rechaza a los tramposos, pero acepta a los honrados.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4512,
+      "duration_ms": 4412
+    },
+    {
+      "word": "El orgulloso termina en la vergüenza, y el humilde llega a ser sabio.",
+      "verse": 2,
+      "start_ms": 4462,
+      "end_ms": 9149,
+      "duration_ms": 4687
+    },
+    {
+      "word": "Al bueno lo guía la justicia; al traidor lo destruye la hipocresía.",
+      "verse": 3,
+      "start_ms": 9150,
+      "end_ms": 13875,
+      "duration_ms": 4725
+    },
+    {
+      "word": "Cuando te enfrentes al Gran Juez, de nada te servirán las riquezas; sólo haciendo lo que es justo te librarás de la muerte.",
+      "verse": 4,
+      "start_ms": 13875,
+      "end_ms": 21337,
+      "duration_ms": 7462
+    },
+    {
+      "word": "Cuando somos honrados, todo en la vida es más fácil; pero a los malvados su propia maldad los destruye.",
+      "verse": 5,
+      "start_ms": 21337,
+      "end_ms": 27924,
+      "duration_ms": 6587
+    },
+    {
+      "word": "Cuando somos honrados, estamos a salvo del mal; pero a los traidores su ambición los domina.",
+      "verse": 6,
+      "start_ms": 27925,
+      "end_ms": 33800,
+      "duration_ms": 5875
+    },
+    {
+      "word": "Cuando mueren los malvados, mueren con ellos su esperanza y sus sueños de grandeza.",
+      "verse": 7,
+      "start_ms": 33800,
+      "end_ms": 38850,
+      "duration_ms": 5050
+    },
+    {
+      "word": "A los malvados les cae la desgracia, pero los buenos quedan a salvo.",
+      "verse": 8,
+      "start_ms": 38850,
+      "end_ms": 43512,
+      "duration_ms": 4662
+    },
+    {
+      "word": "Los chismes de los malvados destruyen a sus semejantes, pero a la gente honrada la salva la sabiduría.",
+      "verse": 9,
+      "start_ms": 43512,
+      "end_ms": 49862,
+      "duration_ms": 6350
+    },
+    {
+      "word": "Cuando los buenos triunfan, la ciudad se alegra; cuando los malvados mueren, todo el mundo hace fiesta.",
+      "verse": 10,
+      "start_ms": 49862,
+      "end_ms": 56474,
+      "duration_ms": 6612
+    },
+    {
+      "word": "La presencia de los buenos trae bienestar a la ciudad; la presencia de los malvados sólo le trae desgracias.",
+      "verse": 11,
+      "start_ms": 56475,
+      "end_ms": 63050,
+      "duration_ms": 6575
+    },
+    {
+      "word": "El que es imprudente critica a su amigo; el que piensa lo que dice sabe cuándo guardar silencio.",
+      "verse": 12,
+      "start_ms": 63050,
+      "end_ms": 69012,
+      "duration_ms": 5962
+    },
+    {
+      "word": "La gente chismosa todo lo cuenta; la gente confiable sabe callar.",
+      "verse": 13,
+      "start_ms": 69012,
+      "end_ms": 73899,
+      "duration_ms": 4887
+    },
+    {
+      "word": "Sin buenos gobernantes, la nación fracasa; con muchos consejeros puede salvarse.",
+      "verse": 14,
+      "start_ms": 73900,
+      "end_ms": 79562,
+      "duration_ms": 5662
+    },
+    {
+      "word": "Si te comprometes a pagar las deudas de un desconocido, te metes en grandes problemas; evita esos compromisos y vivirás tranquilo.",
+      "verse": 15,
+      "start_ms": 79562,
+      "end_ms": 87987,
+      "duration_ms": 8425
+    },
+    {
+      "word": "La mujer bondadosa gana respeto, y el hombre emprendedor gana riquezas.",
+      "verse": 16,
+      "start_ms": 87987,
+      "end_ms": 93174,
+      "duration_ms": 5187
+    },
+    {
+      "word": "Compadécete de los demás y te harás bien a ti mismo; pero si les haces daño, el daño te lo harás tú.",
+      "verse": 17,
+      "start_ms": 93175,
+      "end_ms": 99587,
+      "duration_ms": 6412
+    },
+    {
+      "word": "Las ganancias del malvado no son más que una mentira; la verdadera ganancia consiste en hacer el bien.",
+      "verse": 18,
+      "start_ms": 99587,
+      "end_ms": 106024,
+      "duration_ms": 6437
+    },
+    {
+      "word": "El premio del bueno es la vida, y el del malvado es la muerte.",
+      "verse": 19,
+      "start_ms": 106025,
+      "end_ms": 110300,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Dios no soporta a los malvados, pues piensan sólo en la maldad; en cambio a la gente honrada le muestra su bondad.",
+      "verse": 20,
+      "start_ms": 110300,
+      "end_ms": 117550,
+      "duration_ms": 7250
+    },
+    {
+      "word": "Una cosa es segura: Los malvados no quedarán sin castigo, pero la gente buena se salvará.",
+      "verse": 21,
+      "start_ms": 117550,
+      "end_ms": 123637,
+      "duration_ms": 6087
+    },
+    {
+      "word": "La mujer bella pero tonta es como anillo de oro en la trompa de un cerdo.",
+      "verse": 22,
+      "start_ms": 123637,
+      "end_ms": 128362,
+      "duration_ms": 4725
+    },
+    {
+      "word": "Los deseos de los buenos siempre traen bendición; los deseos de los malos sólo traen destrucción.",
+      "verse": 23,
+      "start_ms": 128362,
+      "end_ms": 134287,
+      "duration_ms": 5925
+    },
+    {
+      "word": "Quienes son generosos, reciben en abundancia; quienes ni sus deudas pagan, acaban en la miseria.",
+      "verse": 24,
+      "start_ms": 134287,
+      "end_ms": 140937,
+      "duration_ms": 6650
+    },
+    {
+      "word": "El que es generoso, progresa; el que siembra, también cosecha.",
+      "verse": 25,
+      "start_ms": 140937,
+      "end_ms": 146074,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Al que esconde el trigo para venderlo más caro, la gente lo maldice; al que lo vende a buen precio, la gente lo bendice.",
+      "verse": 26,
+      "start_ms": 146075,
+      "end_ms": 153412,
+      "duration_ms": 7337
+    },
+    {
+      "word": "Trata de hacer el bien, y te ganarás amigos; busca hacer la maldad, y el mal te destruirá.",
+      "verse": 27,
+      "start_ms": 153412,
+      "end_ms": 159874,
+      "duration_ms": 6462
+    },
+    {
+      "word": "Quien confía en sus riquezas, se encamina al fracaso; pero quien es honrado camina seguro al triunfo.",
+      "verse": 28,
+      "start_ms": 159875,
+      "end_ms": 166387,
+      "duration_ms": 6512
+    },
+    {
+      "word": "El tonto que daña a su familia acaba perdiéndolo todo, y termina siendo esclavo del sabio.",
+      "verse": 29,
+      "start_ms": 166387,
+      "end_ms": 172149,
+      "duration_ms": 5762
+    },
+    {
+      "word": "El premio de los buenos es la vida misma, y el premio de los sabios es el aprecio de la gente.",
+      "verse": 30,
+      "start_ms": 172150,
+      "end_ms": 177812,
+      "duration_ms": 5662
+    },
+    {
+      "word": "Si aquí en la tierra los buenos reciben su recompensa, ¡con más razón reciben su merecido los malvados y los pecadores!",
+      "verse": 31,
+      "start_ms": 177812,
+      "end_ms": 184949,
+      "duration_ms": 7137
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "book": "LEV",
+  "chapter": 20,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 23,
+  "word_count": 32,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 21,
+      "text": "Dios ordenó a Moisés"
+    },
+    {
+      "verse": 2,
+      "label": "2-3",
+      "char_start": 21,
+      "char_end": 316,
+      "text": "que les diera a los israelitas las siguientes instrucciones: Si algún israelita o extranjero que viva en el país, presenta sus hijos como ofrenda al dios Moloc me ofende, y tendrá que enfrentarse conmigo, pues no ha respetado mi santuario. Será condenado a muerte y así lo eliminaré del pueblo."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 316,
+      "char_end": 343,
+      "text": "Si no lo matan a pedradas,"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 343,
+      "char_end": 482,
+      "text": "yo mismo castigaré a esa persona junto con su familia, y lo eliminaré de Israel. Y no sólo a él sino a todos los que adoren al dios Moloc."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 482,
+      "char_end": 579,
+      "text": "Si alguien consulta a los que dicen que hablan con los muertos, me enojaré y le quitaré la vida."
+    },
+    {
+      "verse": 7,
+      "label": "7-8",
+      "char_start": 579,
+      "char_end": 692,
+      "text": "Vivan sólo para mí; sean diferentes y cumplan mis mandamientos. Yo soy el Dios de Israel; ustedes me pertenecen."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 692,
+      "char_end": 761,
+      "text": "Si alguien maldice a su padre o a su madre, será condenado a muerte."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 761,
+      "char_end": 871,
+      "text": "Si alguien tiene relaciones sexuales con la mujer de otro hombre, será condenado a muerte junto con la mujer."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 871,
+      "char_end": 1047,
+      "text": "Si alguien tiene relaciones sexuales con la mujer de su padre, será condenado a muerte junto con la mujer. Será como si hubiera tenido relaciones sexuales con su propio padre."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1047,
+      "char_end": 1170,
+      "text": "Si alguien tiene relaciones sexuales con su nuera, será condenado a muerte junto con la mujer, pues es un pecado terrible."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1170,
+      "char_end": 1261,
+      "text": "Si un hombre tiene relaciones sexuales con otro hombre, los dos serán condenados a muerte."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1261,
+      "char_end": 1425,
+      "text": "Si alguien toma como esposas a la madre y a la hija, comete un pecado terrible. Los tres serán condenados a morir quemados. Así nadie más volverá a hacer lo mismo."
+    },
+    {
+      "verse": 15,
+      "label": "15-16",
+      "char_start": 1425,
+      "char_end": 1555,
+      "text": "Si un hombre o una mujer tienen relaciones sexuales con un animal, serán condenados a muerte, y también deberá matarse al animal."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1555,
+      "char_end": 1741,
+      "text": "Si alguien tiene relaciones sexuales con su hermana comete un terrible pecado, y deberá responder por su maldad. En presencia de todos los israelitas, los dos serán expulsados del país."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1741,
+      "char_end": 1855,
+      "text": "Si alguien tiene relaciones sexuales con una mujer en período de menstruación, los dos serán expulsados del país."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1855,
+      "char_end": 1966,
+      "text": "Si alguien tiene relaciones sexuales con su tía, los dos deberán ser castigados, pues son de la misma familia."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1966,
+      "char_end": 2097,
+      "text": "Si alguien tiene relaciones sexuales con la mujer de su tío, ni él ni ella tendrán hijos, pues él ha puesto en vergüenza a su tío."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2097,
+      "char_end": 2207,
+      "text": "Si alguien tiene relaciones sexuales con su cuñada, comete un pecado terrible, y ni él ni ella tendrán hijos."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2207,
+      "char_end": 2321,
+      "text": "Si ustedes cumplen mis mandamientos, yo jamás los expulsaré del territorio que les voy a dar como su propio país."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2321,
+      "char_end": 2457,
+      "text": "Sólo que ustedes no deberán comportarse como lo hacen los pueblos que ahora viven allí, pues por sus malas acciones me hicieron enojar."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2457,
+      "char_end": 2611,
+      "text": "Por eso yo les voy a dar a ustedes el territorio donde ellos viven ahora. Ese lugar es tan rico que allí ustedes siempre tendrán abundancia de alimentos."
+    },
+    {
+      "verse": 25,
+      "label": "25-26",
+      "char_start": 2611,
+      "char_end": 2916,
+      "text": "Yo soy el Dios de Israel. Yo los aparté de los otros pueblos para que ustedes sean mi propio pueblo. Por eso deberán distinguir entre los animales puros y los impuros, y no volverse impuros por tocar a los impuros. Ustedes deberán ser diferentes, porque yo soy el Dios de Israel, y soy un Dios diferente."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2916,
+      "char_end": 3022,
+      "text": "Si alguien, hombre o mujer, consulta a los muertos o practica la adivinación, deberán matarlo a pedradas."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios ordenó a Moisés que les diera a los israelitas las siguientes instrucciones: Si algún israelita o extranjero que viva en el país, presenta sus hijos como ofrenda al dios Moloc me ofende, y tendrá que enfrentarse conmigo, pues no ha respetado mi santuario.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 15200,
+      "duration_ms": 15100
+    },
+    {
+      "word": "Será condenado a muerte y así lo eliminaré del pueblo.",
+      "verse": 2,
+      "start_ms": 15200,
+      "end_ms": 19050,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Si no lo matan a pedradas, yo mismo castigaré a esa persona junto con su familia, y lo eliminaré de Israel.",
+      "verse": 4,
+      "start_ms": 19050,
+      "end_ms": 26200,
+      "duration_ms": 7150
+    },
+    {
+      "word": "Y no sólo a él sino a todos los que adoren al dios Moloc.",
+      "verse": 5,
+      "start_ms": 26200,
+      "end_ms": 30100,
+      "duration_ms": 3900
+    },
+    {
+      "word": "Si alguien consulta a los que dicen que hablan con los muertos, me enojaré y le quitaré la vida.",
+      "verse": 6,
+      "start_ms": 30100,
+      "end_ms": 36062,
+      "duration_ms": 5962
+    },
+    {
+      "word": "Vivan sólo para mí; sean diferentes y cumplan mis mandamientos.",
+      "verse": 7,
+      "start_ms": 36062,
+      "end_ms": 40724,
+      "duration_ms": 4662
+    },
+    {
+      "word": "Yo soy el Dios de Israel; ustedes me pertenecen.",
+      "verse": 7,
+      "start_ms": 40725,
+      "end_ms": 44662,
+      "duration_ms": 3937
+    },
+    {
+      "word": "Si alguien maldice a su padre o a su madre, será condenado a muerte.",
+      "verse": 9,
+      "start_ms": 44662,
+      "end_ms": 49399,
+      "duration_ms": 4737
+    },
+    {
+      "word": "Si alguien tiene relaciones sexuales con la mujer de otro hombre, será condenado a muerte junto con la mujer.",
+      "verse": 10,
+      "start_ms": 49400,
+      "end_ms": 55937,
+      "duration_ms": 6537
+    },
+    {
+      "word": "Si alguien tiene relaciones sexuales con la mujer de su padre, será condenado a muerte junto con la mujer.",
+      "verse": 11,
+      "start_ms": 55937,
+      "end_ms": 62449,
+      "duration_ms": 6512
+    },
+    {
+      "word": "Será como si hubiera tenido relaciones sexuales con su propio padre.",
+      "verse": 11,
+      "start_ms": 62450,
+      "end_ms": 66900,
+      "duration_ms": 4450
+    },
+    {
+      "word": "Si alguien tiene relaciones sexuales con su nuera, será condenado a muerte junto con la mujer, pues es un pecado terrible.",
+      "verse": 12,
+      "start_ms": 66900,
+      "end_ms": 74312,
+      "duration_ms": 7412
+    },
+    {
+      "word": "Si un hombre tiene relaciones sexuales con otro hombre, los dos serán condenados a muerte.",
+      "verse": 13,
+      "start_ms": 74312,
+      "end_ms": 79899,
+      "duration_ms": 5587
+    },
+    {
+      "word": "Si alguien toma como esposas a la madre y a la hija, comete un pecado terrible.",
+      "verse": 14,
+      "start_ms": 79900,
+      "end_ms": 85262,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Los tres serán condenados a morir quemados.",
+      "verse": 14,
+      "start_ms": 85262,
+      "end_ms": 88599,
+      "duration_ms": 3337
+    },
+    {
+      "word": "Así nadie más volverá a hacer lo mismo.",
+      "verse": 14,
+      "start_ms": 88600,
+      "end_ms": 91675,
+      "duration_ms": 3075
+    },
+    {
+      "word": "Si un hombre o una mujer tienen relaciones sexuales con un animal, serán condenados a muerte, y también deberá matarse al animal.",
+      "verse": 15,
+      "start_ms": 91675,
+      "end_ms": 99587,
+      "duration_ms": 7912
+    },
+    {
+      "word": "Si alguien tiene relaciones sexuales con su hermana comete un terrible pecado, y deberá responder por su maldad.",
+      "verse": 17,
+      "start_ms": 99587,
+      "end_ms": 106237,
+      "duration_ms": 6650
+    },
+    {
+      "word": "En presencia de todos los israelitas, los dos serán expulsados del país.",
+      "verse": 17,
+      "start_ms": 106237,
+      "end_ms": 111424,
+      "duration_ms": 5187
+    },
+    {
+      "word": "Si alguien tiene relaciones sexuales con una mujer en período de menstruación, los dos serán expulsados del país.",
+      "verse": 18,
+      "start_ms": 111425,
+      "end_ms": 118400,
+      "duration_ms": 6975
+    },
+    {
+      "word": "Si alguien tiene relaciones sexuales con su tía, los dos deberán ser castigados, pues son de la misma familia.",
+      "verse": 19,
+      "start_ms": 118400,
+      "end_ms": 125487,
+      "duration_ms": 7087
+    },
+    {
+      "word": "Si alguien tiene relaciones sexuales con la mujer de su tío, ni él ni ella tendrán hijos, pues él ha puesto en vergüenza a su tío.",
+      "verse": 20,
+      "start_ms": 125487,
+      "end_ms": 133112,
+      "duration_ms": 7625
+    },
+    {
+      "word": "Si alguien tiene relaciones sexuales con su cuñada, comete un pecado terrible, y ni él ni ella tendrán hijos.",
+      "verse": 21,
+      "start_ms": 133112,
+      "end_ms": 140362,
+      "duration_ms": 7250
+    },
+    {
+      "word": "Si ustedes cumplen mis mandamientos, yo jamás los expulsaré del territorio que les voy a dar como su propio país.",
+      "verse": 22,
+      "start_ms": 140362,
+      "end_ms": 147349,
+      "duration_ms": 6987
+    },
+    {
+      "word": "Sólo que ustedes no deberán comportarse como lo hacen los pueblos que ahora viven allí, pues por sus malas acciones me hicieron enojar.",
+      "verse": 23,
+      "start_ms": 147350,
+      "end_ms": 154875,
+      "duration_ms": 7525
+    },
+    {
+      "word": "Por eso yo les voy a dar a ustedes el territorio donde ellos viven ahora.",
+      "verse": 24,
+      "start_ms": 154875,
+      "end_ms": 159537,
+      "duration_ms": 4662
+    },
+    {
+      "word": "Ese lugar es tan rico que allí ustedes siempre tendrán abundancia de alimentos.",
+      "verse": 24,
+      "start_ms": 159537,
+      "end_ms": 164537,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Yo soy el Dios de Israel.",
+      "verse": 25,
+      "start_ms": 164537,
+      "end_ms": 167037,
+      "duration_ms": 2500
+    },
+    {
+      "word": "Yo los aparté de los otros pueblos para que ustedes sean mi propio pueblo.",
+      "verse": 25,
+      "start_ms": 167037,
+      "end_ms": 171499,
+      "duration_ms": 4462
+    },
+    {
+      "word": "Por eso deberán distinguir entre los animales puros y los impuros, y no volverse impuros por tocar a los impuros.",
+      "verse": 25,
+      "start_ms": 171500,
+      "end_ms": 178450,
+      "duration_ms": 6950
+    },
+    {
+      "word": "Ustedes deberán ser diferentes, porque yo soy el Dios de Israel, y soy un Dios diferente.",
+      "verse": 25,
+      "start_ms": 178450,
+      "end_ms": 184500,
+      "duration_ms": 6050
+    },
+    {
+      "word": "Si alguien, hombre o mujer, consulta a los muertos o practica la adivinación, deberán matarlo a pedradas.",
+      "verse": 27,
+      "start_ms": 184500,
+      "end_ms": 191950,
+      "duration_ms": 7450
+    }
+  ]
+}

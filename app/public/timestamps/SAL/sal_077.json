@@ -1,0 +1,299 @@
+{
+  "book": "SAL",
+  "chapter": 77,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 17,
+  "word_count": 24,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 47,
+      "text": "A Dios dirijo mis ruegos, para que me escuche."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 47,
+      "char_end": 178,
+      "text": "En los momentos más difíciles, siempre busco a Dios. Con las manos levantadas me paso la noche orando, aunque ni esto me consuela."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 178,
+      "char_end": 249,
+      "text": "Cuando pienso en Dios, me siento desalentado y me dan ganas de llorar."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 249,
+      "char_end": 323,
+      "text": "¡Dios me hace perder el sueño! ¡Estoy tan confundido que no sé qué decir!"
+    },
+    {
+      "verse": 5,
+      "label": "5-6",
+      "char_start": 323,
+      "char_end": 436,
+      "text": "Por las noches me pongo a pensar; recuerdo los tiempos pasados, los años que se han ido, y entonces me pregunto:"
+    },
+    {
+      "verse": 7,
+      "label": "7-9",
+      "char_start": 436,
+      "char_end": 717,
+      "text": "¿Estará rechazándonos Dios de una vez y para siempre? ¿Habrá dejado de amarnos? ¿Tan enojado está con nosotros que ya no nos tiene compasión? ¿Dejará de tratarnos con bondad? ¿Se habrán agotado las promesas que se comprometió a cumplir? ¿Se habrá olvidado de que es un Dios bueno?"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 717,
+      "char_end": 834,
+      "text": "Y yo mismo me contesto: ¡Qué doloroso es darse cuenta de que Dios ya no es el mismo, que ya no nos trata como antes!"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 834,
+      "char_end": 910,
+      "text": "¡Vale más que me acuerde de sus grandes hechos y de sus maravillas pasadas!"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 910,
+      "char_end": 962,
+      "text": "¡Vale más que me acuerde de sus obras maravillosas!"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 962,
+      "char_end": 1037,
+      "text": "Dios mío, ¡No hay Dios tan grande como tú! ¡Todo lo que haces es perfecto!"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1037,
+      "char_end": 1112,
+      "text": "Tú eres el Dios que hace milagros, que muestra su poder entre los pueblos."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1112,
+      "char_end": 1169,
+      "text": "Con tu brazo poderoso diste libertad a tu pueblo Israel."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1169,
+      "char_end": 1258,
+      "text": "Dios mío, el agua se agitó al verte; ¡el mismo mar profundo se estremeció con violencia!"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1258,
+      "char_end": 1347,
+      "text": "Por todo el espacio del cielo retumbaron los relámpagos, y las nubes soltaron su lluvia."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1347,
+      "char_end": 1469,
+      "text": "En medio del torbellino retumbó tu voz de trueno, y la luz de tus relámpagos iluminó el mundo; entonces tembló la tierra."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1469,
+      "char_end": 1565,
+      "text": "Hiciste un camino en el mar; te abriste paso entre las aguas, pero nadie vio jamás tus huellas."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1565,
+      "char_end": 1658,
+      "text": "Por medio de Moisés y de Aarón fuiste guiando a tu pueblo, como guía el pastor a sus ovejas."
+    }
+  ],
+  "words": [
+    {
+      "word": "A Dios dirijo mis ruegos, para que me escuche.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3562,
+      "duration_ms": 3462
+    },
+    {
+      "word": "En los momentos más difíciles, siempre busco a Dios.",
+      "verse": 2,
+      "start_ms": 3512,
+      "end_ms": 7399,
+      "duration_ms": 3887
+    },
+    {
+      "word": "Con las manos levantadas me paso la noche orando, aunque ni esto me consuela.",
+      "verse": 2,
+      "start_ms": 7400,
+      "end_ms": 12425,
+      "duration_ms": 5025
+    },
+    {
+      "word": "Cuando pienso en Dios, me siento desalentado y me dan ganas de llorar.",
+      "verse": 3,
+      "start_ms": 12425,
+      "end_ms": 17050,
+      "duration_ms": 4625
+    },
+    {
+      "word": "Dios me hace perder el sueño!",
+      "verse": 4,
+      "start_ms": 17050,
+      "end_ms": 19450,
+      "duration_ms": 2400
+    },
+    {
+      "word": "Estoy tan confundido que no sé qué decir!",
+      "verse": 4,
+      "start_ms": 19450,
+      "end_ms": 22500,
+      "duration_ms": 3050
+    },
+    {
+      "word": "Por las noches me pongo a pensar; recuerdo los tiempos pasados, los años que se han ido, y entonces me pregunto: ¿Estará rechazándonos Dios de una vez y para siempre?",
+      "verse": 5,
+      "start_ms": 22500,
+      "end_ms": 32900,
+      "duration_ms": 10400
+    },
+    {
+      "word": "Habrá dejado de amarnos?",
+      "verse": 7,
+      "start_ms": 32900,
+      "end_ms": 35275,
+      "duration_ms": 2375
+    },
+    {
+      "word": "Tan enojado está con nosotros que ya no nos tiene compasión?",
+      "verse": 7,
+      "start_ms": 35275,
+      "end_ms": 39187,
+      "duration_ms": 3912
+    },
+    {
+      "word": "Dejará de tratarnos con bondad?",
+      "verse": 7,
+      "start_ms": 39187,
+      "end_ms": 41799,
+      "duration_ms": 2612
+    },
+    {
+      "word": "Se habrán agotado las promesas que se comprometió a cumplir?",
+      "verse": 7,
+      "start_ms": 41800,
+      "end_ms": 45687,
+      "duration_ms": 3887
+    },
+    {
+      "word": "Se habrá olvidado de que es un Dios bueno?",
+      "verse": 7,
+      "start_ms": 45687,
+      "end_ms": 48762,
+      "duration_ms": 3075
+    },
+    {
+      "word": "Y yo mismo me contesto: ¡Qué doloroso es darse cuenta de que Dios ya no es el mismo, que ya no nos trata como antes!",
+      "verse": 10,
+      "start_ms": 48762,
+      "end_ms": 55987,
+      "duration_ms": 7225
+    },
+    {
+      "word": "Vale más que me acuerde de sus grandes hechos y de sus maravillas pasadas!",
+      "verse": 11,
+      "start_ms": 55987,
+      "end_ms": 60724,
+      "duration_ms": 4737
+    },
+    {
+      "word": "Vale más que me acuerde de sus obras maravillosas!",
+      "verse": 12,
+      "start_ms": 60725,
+      "end_ms": 64337,
+      "duration_ms": 3612
+    },
+    {
+      "word": "Dios mío, ¡No hay Dios tan grande como tú!",
+      "verse": 13,
+      "start_ms": 64337,
+      "end_ms": 67599,
+      "duration_ms": 3262
+    },
+    {
+      "word": "Todo lo que haces es perfecto!",
+      "verse": 13,
+      "start_ms": 67600,
+      "end_ms": 70075,
+      "duration_ms": 2475
+    },
+    {
+      "word": "Tú eres el Dios que hace milagros, que muestra su poder entre los pueblos.",
+      "verse": 14,
+      "start_ms": 70075,
+      "end_ms": 74850,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Con tu brazo poderoso diste libertad a tu pueblo Israel.",
+      "verse": 15,
+      "start_ms": 74850,
+      "end_ms": 78825,
+      "duration_ms": 3975
+    },
+    {
+      "word": "Dios mío, el agua se agitó al verte; ¡el mismo mar profundo se estremeció con violencia!",
+      "verse": 16,
+      "start_ms": 78825,
+      "end_ms": 84812,
+      "duration_ms": 5987
+    },
+    {
+      "word": "Por todo el espacio del cielo retumbaron los relámpagos, y las nubes soltaron su lluvia.",
+      "verse": 17,
+      "start_ms": 84812,
+      "end_ms": 90424,
+      "duration_ms": 5612
+    },
+    {
+      "word": "En medio del torbellino retumbó tu voz de trueno, y la luz de tus relámpagos iluminó el mundo; entonces tembló la tierra.",
+      "verse": 18,
+      "start_ms": 90425,
+      "end_ms": 98025,
+      "duration_ms": 7600
+    },
+    {
+      "word": "Hiciste un camino en el mar; te abriste paso entre las aguas, pero nadie vio jamás tus huellas.",
+      "verse": 19,
+      "start_ms": 98025,
+      "end_ms": 104437,
+      "duration_ms": 6412
+    },
+    {
+      "word": "Por medio de Moisés y de Aarón fuiste guiando a tu pueblo, como guía el pastor a sus ovejas.",
+      "verse": 20,
+      "start_ms": 104437,
+      "end_ms": 110199,
+      "duration_ms": 5762
+    }
+  ]
+}

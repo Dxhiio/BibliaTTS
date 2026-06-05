@@ -1,0 +1,222 @@
+{
+  "book": "SAL",
+  "chapter": 132,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 14,
+  "word_count": 16,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-2",
+      "char_start": 0,
+      "char_end": 98,
+      "text": "Dios poderoso de Israel acuérdate de David y de sus sufrimientos; recuerda lo que él te prometió:"
+    },
+    {
+      "verse": 3,
+      "label": "3-5",
+      "char_start": 98,
+      "char_end": 306,
+      "text": "Dios poderoso de Israel, No pondré un pie en mi casa, ni me daré un momento de descanso; no dormiré un solo instante, y ni siquiera cerraré los ojos, mientras no encuentre un lugar donde construir tu templo."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 306,
+      "char_end": 424,
+      "text": "Cuando estábamos en Efrata oímos hablar del cofre del pacto, y finalmente lo hallamos en la ciudad de Quiriat-jearim."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 424,
+      "char_end": 505,
+      "text": "Entonces dijimos: ¡Vayamos al templo de Dios! ¡Arrodillémonos ante su presencia!"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 505,
+      "char_end": 612,
+      "text": "Dios mío, ¡ven con el cofre de tu pacto, que es símbolo de tu poder, al templo donde vivirás para siempre!"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 612,
+      "char_end": 687,
+      "text": "Tus sacerdotes se vestirán con propiedad, y tu pueblo cantará con alegría."
+    },
+    {
+      "verse": 10,
+      "label": "10-11",
+      "char_start": 687,
+      "char_end": 884,
+      "text": "Dios mío, tú elegiste a David para que fuera nuestro rey; ¡no le niegues tu apoyo! También le hiciste este juramento, y no dejarás de cumplirlo: Tus descendientes serán reyes; ¡yo los haré reinar!"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 884,
+      "char_end": 998,
+      "text": "Si ellos cumplen con mi pacto y con mis leyes, también serán reyes sus hijos y reinarán en tu lugar para siempre."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 998,
+      "char_end": 1056,
+      "text": "Tú elegiste a Jerusalén para vivir siempre allí. Dijiste:"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1056,
+      "char_end": 1128,
+      "text": "Aquí pondré mi templo. Aquí reinaré siempre, porque así lo he decidido."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1128,
+      "char_end": 1231,
+      "text": "Bendeciré ricamente los alimentos de esta ciudad, y con abundante pan calmaré el hambre de sus pobres."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1231,
+      "char_end": 1311,
+      "text": "Vestiré a sus sacerdotes con ropas de triunfo, y el pueblo cantará con alegría."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1311,
+      "char_end": 1419,
+      "text": "Aquí haré que renazca el poder de David, el rey que yo elegí; aquí reinarán para siempre sus descendientes."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1419,
+      "char_end": 1527,
+      "text": "Sobre la cabeza de David brillará siempre la corona; sobre la cabeza de sus enemigos brillará la vergüenza."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios poderoso de Israel acuérdate de David y de sus sufrimientos; recuerda lo que él te prometió: Dios poderoso de Israel, No pondré un pie en mi casa, ni me daré un momento de descanso; no dormiré un solo instante, y ni siquiera cerraré los ojos, mientras no encuentre un lugar donde construir tu templo.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 18700,
+      "duration_ms": 18600
+    },
+    {
+      "word": "Cuando estábamos en Efrata oímos hablar del cofre del pacto, y finalmente lo hallamos en la ciudad de Quiriat-jearim.",
+      "verse": 6,
+      "start_ms": 18700,
+      "end_ms": 25500,
+      "duration_ms": 6800
+    },
+    {
+      "word": "Entonces dijimos: ¡Vayamos al templo de Dios!",
+      "verse": 7,
+      "start_ms": 25500,
+      "end_ms": 29237,
+      "duration_ms": 3737
+    },
+    {
+      "word": "Arrodillémonos ante su presencia!",
+      "verse": 7,
+      "start_ms": 29237,
+      "end_ms": 32024,
+      "duration_ms": 2787
+    },
+    {
+      "word": "Dios mío, ¡ven con el cofre de tu pacto, que es símbolo de tu poder, al templo donde vivirás para siempre!",
+      "verse": 8,
+      "start_ms": 32025,
+      "end_ms": 39262,
+      "duration_ms": 7237
+    },
+    {
+      "word": "Tus sacerdotes se vestirán con propiedad, y tu pueblo cantará con alegría.",
+      "verse": 9,
+      "start_ms": 39262,
+      "end_ms": 44249,
+      "duration_ms": 4987
+    },
+    {
+      "word": "Dios mío, tú elegiste a David para que fuera nuestro rey; ¡no le niegues tu apoyo!",
+      "verse": 10,
+      "start_ms": 44250,
+      "end_ms": 49725,
+      "duration_ms": 5475
+    },
+    {
+      "word": "También le hiciste este juramento, y no dejarás de cumplirlo: Tus descendientes serán reyes; ¡yo los haré reinar!",
+      "verse": 10,
+      "start_ms": 49725,
+      "end_ms": 57337,
+      "duration_ms": 7612
+    },
+    {
+      "word": "Si ellos cumplen con mi pacto y con mis leyes, también serán reyes sus hijos y reinarán en tu lugar para siempre.",
+      "verse": 12,
+      "start_ms": 57337,
+      "end_ms": 64287,
+      "duration_ms": 6950
+    },
+    {
+      "word": "Tú elegiste a Jerusalén para vivir siempre allí.",
+      "verse": 13,
+      "start_ms": 64287,
+      "end_ms": 67812,
+      "duration_ms": 3525
+    },
+    {
+      "word": "Dijiste: Aquí pondré mi templo.",
+      "verse": 13,
+      "start_ms": 67812,
+      "end_ms": 70924,
+      "duration_ms": 3112
+    },
+    {
+      "word": "Aquí reinaré siempre, porque así lo he decidido.",
+      "verse": 14,
+      "start_ms": 70925,
+      "end_ms": 74900,
+      "duration_ms": 3975
+    },
+    {
+      "word": "Bendeciré ricamente los alimentos de esta ciudad, y con abundante pan calmaré el hambre de sus pobres.",
+      "verse": 15,
+      "start_ms": 74900,
+      "end_ms": 81587,
+      "duration_ms": 6687
+    },
+    {
+      "word": "Vestiré a sus sacerdotes con ropas de triunfo, y el pueblo cantará con alegría.",
+      "verse": 16,
+      "start_ms": 81587,
+      "end_ms": 86974,
+      "duration_ms": 5387
+    },
+    {
+      "word": "Aquí haré que renazca el poder de David, el rey que yo elegí; aquí reinarán para siempre sus descendientes.",
+      "verse": 17,
+      "start_ms": 86975,
+      "end_ms": 94012,
+      "duration_ms": 7037
+    },
+    {
+      "word": "Sobre la cabeza de David brillará siempre la corona; sobre la cabeza de sus enemigos brillará la vergüenza.",
+      "verse": 18,
+      "start_ms": 94012,
+      "end_ms": 100774,
+      "duration_ms": 6762
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "book": "ISA",
+  "chapter": 35,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 9,
+  "word_count": 10,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 68,
+      "text": "Isaías anunció: ¡El desierto florecerá y la tierra seca dará fruto!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 68,
+      "char_end": 226,
+      "text": "Todo el mundo se alegrará porque Dios le dará al desierto la belleza del monte del Líbano, la fertilidad del monte Carmelo y la hermosura del valle de Sarón."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 226,
+      "char_end": 280,
+      "text": "Fortalezcan a los débiles, den fuerza a los cansados,"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 280,
+      "char_end": 387,
+      "text": "y digan a los tímidos: «¡Anímense, no tengan miedo! Dios vendrá a salvarlos, y a castigar a sus enemigos»."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 387,
+      "char_end": 471,
+      "text": "Entonces se abrirán los ojos de los ciegos y se destaparán los oídos de los sordos;"
+    },
+    {
+      "verse": 6,
+      "label": "6-7",
+      "char_start": 471,
+      "char_end": 741,
+      "text": "los que no pueden andar saltarán como venados, y los que no pueden hablar gritarán de alegría. En medio del árido desierto brotará agua en abundancia; en medio de la tierra seca habrá muchos lagos y manantiales; crecerán cañas y juncos donde ahora habitan los chacales,"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 741,
+      "char_end": 866,
+      "text": "en pleno desierto habrá un sendero al que llamarán «Camino Sagrado». No pasarán por ese camino ni los impuros ni los necios;"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 866,
+      "char_end": 981,
+      "text": "no se acercarán a él ni los leones ni otras fieras. Ese camino es para los israelitas, que han estado prisioneros,"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 981,
+      "char_end": 1167,
+      "text": "pero que Dios va a liberar. Y ellos entrarán en Jerusalén cantando con mucha alegría, y para siempre vivirán felices. Se acabarán el llanto y el dolor, y sólo habrá alegría y felicidad."
+    }
+  ],
+  "words": [
+    {
+      "word": "Isaías anunció: ¡El desierto florecerá y la tierra seca dará fruto!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5037,
+      "duration_ms": 4937
+    },
+    {
+      "word": "Todo el mundo se alegrará porque Dios le dará al desierto la belleza del monte del Líbano, la fertilidad del monte Carmelo y la hermosura del valle de Sarón.",
+      "verse": 2,
+      "start_ms": 4987,
+      "end_ms": 13824,
+      "duration_ms": 8837
+    },
+    {
+      "word": "Fortalezcan a los débiles, den fuerza a los cansados, y digan a los tímidos: «¡Anímense, no tengan miedo!",
+      "verse": 3,
+      "start_ms": 13825,
+      "end_ms": 21262,
+      "duration_ms": 7437
+    },
+    {
+      "word": "Dios vendrá a salvarlos, y a castigar a sus enemigos».",
+      "verse": 4,
+      "start_ms": 21262,
+      "end_ms": 25512,
+      "duration_ms": 4250
+    },
+    {
+      "word": "Entonces se abrirán los ojos de los ciegos y se destaparán los oídos de los sordos; los que no pueden andar saltarán como venados, y los que no pueden hablar gritarán de alegría.",
+      "verse": 5,
+      "start_ms": 25512,
+      "end_ms": 35487,
+      "duration_ms": 9975
+    },
+    {
+      "word": "En medio del árido desierto brotará agua en abundancia; en medio de la tierra seca habrá muchos lagos y manantiales; crecerán cañas y juncos donde ahora habitan los chacales, en pleno desierto habrá un sendero al que llamarán «Camino Sagrado».",
+      "verse": 6,
+      "start_ms": 35487,
+      "end_ms": 49874,
+      "duration_ms": 14387
+    },
+    {
+      "word": "No pasarán por ese camino ni los impuros ni los necios; no se acercarán a él ni los leones ni otras fieras.",
+      "verse": 8,
+      "start_ms": 49875,
+      "end_ms": 56887,
+      "duration_ms": 7012
+    },
+    {
+      "word": "Ese camino es para los israelitas, que han estado prisioneros, pero que Dios va a liberar.",
+      "verse": 9,
+      "start_ms": 56887,
+      "end_ms": 63187,
+      "duration_ms": 6300
+    },
+    {
+      "word": "Y ellos entrarán en Jerusalén cantando con mucha alegría, y para siempre vivirán felices.",
+      "verse": 10,
+      "start_ms": 63187,
+      "end_ms": 69224,
+      "duration_ms": 6037
+    },
+    {
+      "word": "Se acabarán el llanto y el dolor, y sólo habrá alegría y felicidad.",
+      "verse": 10,
+      "start_ms": 69225,
+      "end_ms": 74100,
+      "duration_ms": 4875
+    }
+  ]
+}

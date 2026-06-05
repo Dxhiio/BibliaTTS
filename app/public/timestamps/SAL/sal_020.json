@@ -1,0 +1,152 @@
+{
+  "book": "SAL",
+  "chapter": 20,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 9,
+  "word_count": 11,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 102,
+      "text": "Que Dios te responda cuando te encuentres en aprietos; que el Dios de Israel te brinde su protección."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 102,
+      "char_end": 190,
+      "text": "Que Dios te envíe su ayuda desde su santuario; que Dios te dé su apoyo desde Jerusalén."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 190,
+      "char_end": 300,
+      "text": "Que Dios se acuerde siempre de todas tus ofrendas, y reciba con gusto los animales que presentas en su honor."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 300,
+      "char_end": 392,
+      "text": "Que Dios te conceda lo que pidas de todo corazón, y que haga realidad lo que pienses hacer."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 392,
+      "char_end": 553,
+      "text": "¡Lanzaremos gritos de alegría cuando Dios te conceda la victoria, y alabando a nuestro Dios haremos ondear las banderas! ¡Que Dios te conceda todo lo que pidas!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 553,
+      "char_end": 737,
+      "text": "Ahora estoy bien seguro de que Dios le dará la victoria al rey que él ha elegido. Sé que Dios le responderá desde su santo cielo; sé que con su poder le dará al rey grandes victorias."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 737,
+      "char_end": 855,
+      "text": "Algunos confían en sus carros de guerra, otros confían en sus caballos, pero nosotros sólo confiamos en nuestro Dios."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 855,
+      "char_end": 936,
+      "text": "Esa gente tropezará y caerá, pero nosotros nos levantaremos y seguiremos de pie."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 936,
+      "char_end": 1010,
+      "text": "Dios nuestro, ¡dale al rey la victoria!, ¡respóndenos cuando te llamemos!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Que Dios te responda cuando te encuentres en aprietos; que el Dios de Israel te brinde su protección.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6187,
+      "duration_ms": 6087
+    },
+    {
+      "word": "Que Dios te envíe su ayuda desde su santuario; que Dios te dé su apoyo desde Jerusalén.",
+      "verse": 2,
+      "start_ms": 6137,
+      "end_ms": 11774,
+      "duration_ms": 5637
+    },
+    {
+      "word": "Que Dios se acuerde siempre de todas tus ofrendas, y reciba con gusto los animales que presentas en su honor.",
+      "verse": 3,
+      "start_ms": 11775,
+      "end_ms": 18387,
+      "duration_ms": 6612
+    },
+    {
+      "word": "Que Dios te conceda lo que pidas de todo corazón, y que haga realidad lo que pienses hacer.",
+      "verse": 4,
+      "start_ms": 18387,
+      "end_ms": 24162,
+      "duration_ms": 5775
+    },
+    {
+      "word": "Lanzaremos gritos de alegría cuando Dios te conceda la victoria, y alabando a nuestro Dios haremos ondear las banderas!",
+      "verse": 5,
+      "start_ms": 24162,
+      "end_ms": 31562,
+      "duration_ms": 7400
+    },
+    {
+      "word": "Que Dios te conceda todo lo que pidas!",
+      "verse": 5,
+      "start_ms": 31562,
+      "end_ms": 34524,
+      "duration_ms": 2962
+    },
+    {
+      "word": "Ahora estoy bien seguro de que Dios le dará la victoria al rey que él ha elegido.",
+      "verse": 6,
+      "start_ms": 34525,
+      "end_ms": 39587,
+      "duration_ms": 5062
+    },
+    {
+      "word": "Sé que Dios le responderá desde su santo cielo; sé que con su poder le dará al rey grandes victorias.",
+      "verse": 6,
+      "start_ms": 39587,
+      "end_ms": 46224,
+      "duration_ms": 6637
+    },
+    {
+      "word": "Algunos confían en sus carros de guerra, otros confían en sus caballos, pero nosotros sólo confiamos en nuestro Dios.",
+      "verse": 7,
+      "start_ms": 46225,
+      "end_ms": 53800,
+      "duration_ms": 7575
+    },
+    {
+      "word": "Esa gente tropezará y caerá, pero nosotros nos levantaremos y seguiremos de pie.",
+      "verse": 8,
+      "start_ms": 53800,
+      "end_ms": 59137,
+      "duration_ms": 5337
+    },
+    {
+      "word": "Dios nuestro, ¡dale al rey la victoria!, ¡respóndenos cuando te llamemos!",
+      "verse": 9,
+      "start_ms": 59137,
+      "end_ms": 64149,
+      "duration_ms": 5012
+    }
+  ]
+}

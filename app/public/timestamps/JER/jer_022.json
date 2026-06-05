@@ -1,0 +1,509 @@
+{
+  "book": "JER",
+  "chapter": 22,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 24,
+  "word_count": 47,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 84,
+      "text": "Dios me dijo: Jeremías, ve al palacio del rey de Judá, y anuncia allí este mensaje:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 84,
+      "char_end": 203,
+      "text": "«Rey de Judá, oficiales del palacio y habitantes de Jerusalén, les pido que presten mucha atención a lo que Dios dice."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 203,
+      "char_end": 340,
+      "text": "Él les ordena hacer el bien: proteger a los que son maltratados, cuidar al extranjero, al huérfano y a la viuda, y no matar al inocente."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 340,
+      "char_end": 527,
+      "text": "Si de veras me obedecen, siempre habrá en Judá un rey de la familia de David. Sus ejércitos entrarán y saldrán por los portones de la ciudad, acompañados por el pueblo y sus gobernantes."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 527,
+      "char_end": 601,
+      "text": "De lo contrario, les aseguro que este palacio será totalmente destruido»."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 601,
+      "char_end": 834,
+      "text": "Yo, el Dios de Israel, les digo a los que están en el palacio de Judá: «Ustedes son para mí tan especiales como el monte Galaad y como las altas montañas del Líbano. Pero voy a convertirlos en un desierto, en una ciudad deshabitada."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 834,
+      "char_end": 951,
+      "text": "Yo enviaré contra ustedes un ejército para que los destruya, y para que les prenda fuego a sus bosques más hermosos."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 951,
+      "char_end": 1054,
+      "text": "Mucha gente de otras naciones pasará por aquí, y se preguntará por qué hice esto con esta gran ciudad."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1054,
+      "char_end": 1140,
+      "text": "Y la respuesta será que ustedes adoraron a otros dioses y no cumplieron con mi pacto."
+    },
+    {
+      "verse": 10,
+      "label": "10-12",
+      "char_start": 1140,
+      "char_end": 1579,
+      "text": "No lloren ni se pongan tristes por la muerte del rey Josías. Lloren más bien por su hijo Salum que será llevado a otro país. Allí lo tratarán como esclavo, y nunca más volverá a ver la tierra donde nació». Y yo declaro que Salum nunca más volverá a ver este país, pues morirá en el lugar al que será llevado. Y así sucedió. Tiempo después, tras la muerte de su padre Josías, Salum llegó a ser rey de Judá, pero se lo llevaron a Babilonia."
+    },
+    {
+      "verse": 13,
+      "label": "13-14",
+      "char_start": 1579,
+      "char_end": 1840,
+      "text": "Dios continuó diciendo: En cuanto al rey Joacín, tengo algo que decirle: «¡Qué mal te irá, Joacín! Edificas tu casa con mucho lujo; piensas ponerle grandes ventanas, y recubrirlas con finas maderas. Pero maltratas a los trabajadores, y para colmo no les pagas."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1840,
+      "char_end": 1992,
+      "text": "Te crees un gran rey porque vives en lujosos palacios». Tu padre Josías disfrutó de la vida y celebró grandes fiestas, pero siempre actuó con justicia."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1992,
+      "char_end": 2085,
+      "text": "Protegió al pobre y al necesitado, y por eso le fue bien en todo. ¡A eso le llamo conocerme!"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2085,
+      "char_end": 2199,
+      "text": "A ti sólo te interesa el dinero y no te importa cómo lo ganes. Con gran violencia robas y matas a gente inocente."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2199,
+      "char_end": 2330,
+      "text": "Por eso estoy enojado contigo. Cuando te mueras, nadie llorará por ti; ningún israelita se pondrá triste de que ya no seas su rey."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2330,
+      "char_end": 2427,
+      "text": "Morirás como los animales: te arrastrarán por todo Jerusalén y te arrojarán fuera de la ciudad»."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2427,
+      "char_end": 2617,
+      "text": "Dios también les dijo a los habitantes de Jerusalén: ¡Vayan por todo el país; suban a las montañas más altas, y lloren desconsolados! Los países que iban a ayudarlos ya han sido destruidos."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2617,
+      "char_end": 2717,
+      "text": "Cuando les iba bien, les advertí del peligro, pero no me hicieron caso. ¡Siempre han sido rebeldes!"
+    },
+    {
+      "verse": 22,
+      "label": "22-23",
+      "char_start": 2717,
+      "char_end": 3003,
+      "text": "Los que ahora viven en el palacio, rodeados de finas maderas, ¡pronto sabrán lo que es sufrir! Cuando les llegue la desgracia, sabrán lo que es el dolor. Serán llevados a otro país, y allí serán tratados como esclavos. Las naciones en las que ellos confiaron sufrirán el mismo castigo."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3003,
+      "char_end": 3142,
+      "text": "Dios le dio este mensaje a Joaquín: Tú eres hijo de Joacín, y ahora reinas en Judá. Aunque te quiero mucho, juro que te expulsaré de aquí."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3142,
+      "char_end": 3225,
+      "text": "Te entregaré en manos del rey de Babilonia y de su ejército, y temblarás de miedo."
+    },
+    {
+      "verse": 26,
+      "label": "26-27",
+      "char_start": 3225,
+      "char_end": 3357,
+      "text": "A ti y a tu madre los enviaré a un país extranjero. Aunque quieran volver a Israel, nunca más volverán, porque morirán en ese país."
+    },
+    {
+      "verse": 28,
+      "label": "28-29",
+      "char_start": 3357,
+      "char_end": 3590,
+      "text": "Dios continuó diciendo: ¡Israelitas, escuchen mis palabras! Joaquín no sirve para nada; es como una vasija rota. ¿Para qué lo quieren expulsar del país, junto con todos sus familiares? Por gente como ésa no vale la pena preocuparse."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3590,
+      "char_end": 3723,
+      "text": "Yo, el Dios de Israel, les digo: «Bórrenlo de su memoria, es un hombre fracasado. ¡Ninguno de sus hijos llegará a ser rey de Judá!»."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios me dijo: Jeremías, ve al palacio del rey de Judá, y anuncia allí este mensaje: «Rey de Judá, oficiales del palacio y habitantes de Jerusalén, les pido que presten mucha atención a lo que Dios dice.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 13050,
+      "duration_ms": 12950
+    },
+    {
+      "word": "Él les ordena hacer el bien: proteger a los que son maltratados, cuidar al extranjero, al huérfano y a la viuda, y no matar al inocente.",
+      "verse": 3,
+      "start_ms": 13000,
+      "end_ms": 22062,
+      "duration_ms": 9062
+    },
+    {
+      "word": "Si de veras me obedecen, siempre habrá en Judá un rey de la familia de David.",
+      "verse": 4,
+      "start_ms": 22062,
+      "end_ms": 26999,
+      "duration_ms": 4937
+    },
+    {
+      "word": "Sus ejércitos entrarán y saldrán por los portones de la ciudad, acompañados por el pueblo y sus gobernantes.",
+      "verse": 4,
+      "start_ms": 27000,
+      "end_ms": 33725,
+      "duration_ms": 6725
+    },
+    {
+      "word": "De lo contrario, les aseguro que este palacio será totalmente destruido».",
+      "verse": 5,
+      "start_ms": 33725,
+      "end_ms": 38900,
+      "duration_ms": 5175
+    },
+    {
+      "word": "Yo, el Dios de Israel, les digo a los que están en el palacio de Judá: «Ustedes son para mí tan especiales como el monte Galaad y como las altas montañas del Líbano.",
+      "verse": 6,
+      "start_ms": 38900,
+      "end_ms": 48725,
+      "duration_ms": 9825
+    },
+    {
+      "word": "Pero voy a convertirlos en un desierto, en una ciudad deshabitada.",
+      "verse": 6,
+      "start_ms": 48725,
+      "end_ms": 53225,
+      "duration_ms": 4500
+    },
+    {
+      "word": "Yo enviaré contra ustedes un ejército para que los destruya, y para que les prenda fuego a sus bosques más hermosos.",
+      "verse": 7,
+      "start_ms": 53225,
+      "end_ms": 60200,
+      "duration_ms": 6975
+    },
+    {
+      "word": "Mucha gente de otras naciones pasará por aquí, y se preguntará por qué hice esto con esta gran ciudad.",
+      "verse": 8,
+      "start_ms": 60200,
+      "end_ms": 66600,
+      "duration_ms": 6400
+    },
+    {
+      "word": "Y la respuesta será que ustedes adoraron a otros dioses y no cumplieron con mi pacto.",
+      "verse": 9,
+      "start_ms": 66600,
+      "end_ms": 71800,
+      "duration_ms": 5200
+    },
+    {
+      "word": "No lloren ni se pongan tristes por la muerte del rey Josías.",
+      "verse": 10,
+      "start_ms": 71800,
+      "end_ms": 75900,
+      "duration_ms": 4100
+    },
+    {
+      "word": "Lloren más bien por su hijo Salum que será llevado a otro país.",
+      "verse": 10,
+      "start_ms": 75900,
+      "end_ms": 80237,
+      "duration_ms": 4337
+    },
+    {
+      "word": "Allí lo tratarán como esclavo, y nunca más volverá a ver la tierra donde nació».",
+      "verse": 10,
+      "start_ms": 80237,
+      "end_ms": 85499,
+      "duration_ms": 5262
+    },
+    {
+      "word": "Y yo declaro que Salum nunca más volverá a ver este país, pues morirá en el lugar al que será llevado.",
+      "verse": 10,
+      "start_ms": 85500,
+      "end_ms": 92075,
+      "duration_ms": 6575
+    },
+    {
+      "word": "Y así sucedió.",
+      "verse": 10,
+      "start_ms": 92075,
+      "end_ms": 93962,
+      "duration_ms": 1887
+    },
+    {
+      "word": "Tiempo después, tras la muerte de su padre Josías, Salum llegó a ser rey de Judá, pero se lo llevaron a Babilonia.",
+      "verse": 10,
+      "start_ms": 93962,
+      "end_ms": 101512,
+      "duration_ms": 7550
+    },
+    {
+      "word": "Dios continuó diciendo: En cuanto al rey Joacín, tengo algo que decirle: «¡Qué mal te irá, Joacín!",
+      "verse": 13,
+      "start_ms": 101512,
+      "end_ms": 108499,
+      "duration_ms": 6987
+    },
+    {
+      "word": "Edificas tu casa con mucho lujo; piensas ponerle grandes ventanas, y recubrirlas con finas maderas.",
+      "verse": 13,
+      "start_ms": 108500,
+      "end_ms": 115662,
+      "duration_ms": 7162
+    },
+    {
+      "word": "Pero maltratas a los trabajadores, y para colmo no les pagas.",
+      "verse": 13,
+      "start_ms": 115662,
+      "end_ms": 120299,
+      "duration_ms": 4637
+    },
+    {
+      "word": "Te crees un gran rey porque vives en lujosos palacios».",
+      "verse": 15,
+      "start_ms": 120300,
+      "end_ms": 124137,
+      "duration_ms": 3837
+    },
+    {
+      "word": "Tu padre Josías disfrutó de la vida y celebró grandes fiestas, pero siempre actuó con justicia.",
+      "verse": 15,
+      "start_ms": 124137,
+      "end_ms": 130262,
+      "duration_ms": 6125
+    },
+    {
+      "word": "Protegió al pobre y al necesitado, y por eso le fue bien en todo.",
+      "verse": 16,
+      "start_ms": 130262,
+      "end_ms": 134837,
+      "duration_ms": 4575
+    },
+    {
+      "word": "A eso le llamo conocerme!",
+      "verse": 16,
+      "start_ms": 134837,
+      "end_ms": 137249,
+      "duration_ms": 2412
+    },
+    {
+      "word": "A ti sólo te interesa el dinero y no te importa cómo lo ganes.",
+      "verse": 17,
+      "start_ms": 137250,
+      "end_ms": 141425,
+      "duration_ms": 4175
+    },
+    {
+      "word": "Con gran violencia robas y matas a gente inocente.",
+      "verse": 17,
+      "start_ms": 141425,
+      "end_ms": 145125,
+      "duration_ms": 3700
+    },
+    {
+      "word": "Por eso estoy enojado contigo.",
+      "verse": 18,
+      "start_ms": 145125,
+      "end_ms": 147750,
+      "duration_ms": 2625
+    },
+    {
+      "word": "Cuando te mueras, nadie llorará por ti; ningún israelita se pondrá triste de que ya no seas su rey.",
+      "verse": 18,
+      "start_ms": 147750,
+      "end_ms": 154275,
+      "duration_ms": 6525
+    },
+    {
+      "word": "Morirás como los animales: te arrastrarán por todo Jerusalén y te arrojarán fuera de la ciudad».",
+      "verse": 19,
+      "start_ms": 154275,
+      "end_ms": 160500,
+      "duration_ms": 6225
+    },
+    {
+      "word": "Dios también les dijo a los habitantes de Jerusalén: ¡Vayan por todo el país; suban a las montañas más altas, y lloren desconsolados!",
+      "verse": 20,
+      "start_ms": 160500,
+      "end_ms": 169250,
+      "duration_ms": 8750
+    },
+    {
+      "word": "Los países que iban a ayudarlos ya han sido destruidos.",
+      "verse": 20,
+      "start_ms": 169250,
+      "end_ms": 173325,
+      "duration_ms": 4075
+    },
+    {
+      "word": "Cuando les iba bien, les advertí del peligro, pero no me hicieron caso.",
+      "verse": 21,
+      "start_ms": 173325,
+      "end_ms": 178262,
+      "duration_ms": 4937
+    },
+    {
+      "word": "Siempre han sido rebeldes!",
+      "verse": 21,
+      "start_ms": 178262,
+      "end_ms": 180724,
+      "duration_ms": 2462
+    },
+    {
+      "word": "Los que ahora viven en el palacio, rodeados de finas maderas, ¡pronto sabrán lo que es sufrir!",
+      "verse": 22,
+      "start_ms": 180725,
+      "end_ms": 186750,
+      "duration_ms": 6025
+    },
+    {
+      "word": "Cuando les llegue la desgracia, sabrán lo que es el dolor.",
+      "verse": 22,
+      "start_ms": 186750,
+      "end_ms": 190800,
+      "duration_ms": 4050
+    },
+    {
+      "word": "Serán llevados a otro país, y allí serán tratados como esclavos.",
+      "verse": 22,
+      "start_ms": 190800,
+      "end_ms": 195762,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Las naciones en las que ellos confiaron sufrirán el mismo castigo.",
+      "verse": 22,
+      "start_ms": 195762,
+      "end_ms": 200024,
+      "duration_ms": 4262
+    },
+    {
+      "word": "Dios le dio este mensaje a Joaquín: Tú eres hijo de Joacín, y ahora reinas en Judá.",
+      "verse": 24,
+      "start_ms": 200025,
+      "end_ms": 206000,
+      "duration_ms": 5975
+    },
+    {
+      "word": "Aunque te quiero mucho, juro que te expulsaré de aquí.",
+      "verse": 24,
+      "start_ms": 206000,
+      "end_ms": 209725,
+      "duration_ms": 3725
+    },
+    {
+      "word": "Te entregaré en manos del rey de Babilonia y de su ejército, y temblarás de miedo.",
+      "verse": 25,
+      "start_ms": 209725,
+      "end_ms": 215012,
+      "duration_ms": 5287
+    },
+    {
+      "word": "A ti y a tu madre los enviaré a un país extranjero.",
+      "verse": 26,
+      "start_ms": 215012,
+      "end_ms": 218862,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Aunque quieran volver a Israel, nunca más volverán, porque morirán en ese país.",
+      "verse": 26,
+      "start_ms": 218862,
+      "end_ms": 224449,
+      "duration_ms": 5587
+    },
+    {
+      "word": "Dios continuó diciendo: ¡Israelitas, escuchen mis palabras!",
+      "verse": 28,
+      "start_ms": 224450,
+      "end_ms": 229225,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Joaquín no sirve para nada; es como una vasija rota.",
+      "verse": 28,
+      "start_ms": 229225,
+      "end_ms": 233362,
+      "duration_ms": 4137
+    },
+    {
+      "word": "Para qué lo quieren expulsar del país, junto con todos sus familiares?",
+      "verse": 28,
+      "start_ms": 233362,
+      "end_ms": 238137,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Por gente como ésa no vale la pena preocuparse.",
+      "verse": 28,
+      "start_ms": 238137,
+      "end_ms": 241649,
+      "duration_ms": 3512
+    },
+    {
+      "word": "Yo, el Dios de Israel, les digo: «Bórrenlo de su memoria, es un hombre fracasado.",
+      "verse": 30,
+      "start_ms": 241650,
+      "end_ms": 247987,
+      "duration_ms": 6337
+    },
+    {
+      "word": "Ninguno de sus hijos llegará a ser rey de Judá!",
+      "verse": 30,
+      "start_ms": 247987,
+      "end_ms": 251474,
+      "duration_ms": 3487
+    }
+  ]
+}

@@ -1,0 +1,558 @@
+{
+  "book": "EXO",
+  "chapter": 23,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 30,
+  "word_count": 48,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 80,
+      "text": "No mientan ni den informes falsos que ayuden al malvado a engañar a los jueces."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 80,
+      "char_end": 264,
+      "text": "No hagan lo malo, sólo porque la mayoría de la gente lo hace. Si en un pleito legal hacen declaraciones ante un jurado, no digan mentiras como la mayoría de la gente. Digan la verdad."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 264,
+      "char_end": 341,
+      "text": "Pero tampoco mientan para ayudar a un pobre en un juicio sólo por ser pobre."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 341,
+      "char_end": 445,
+      "text": "Si ven que algún buey o burro anda perdido, devuélvanselo al dueño, aunque éste sea enemigo de ustedes."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 445,
+      "char_end": 565,
+      "text": "Si ven que un burro ha caído porque no aguanta el peso de su carga, quítensela, aunque el dueño sea enemigo de ustedes."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 565,
+      "char_end": 641,
+      "text": "Si tienen que resolver algún asunto legal, no sean injustos con los pobres."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 641,
+      "char_end": 783,
+      "text": "No acusen a una persona diciendo mentiras, ni condenen a muerte a la gente inocente y honesta, porque yo no consideraré inocente al culpable."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 783,
+      "char_end": 940,
+      "text": "No acepten dinero de nadie que les pida hacer algo injusto. Esa clase de dinero hace que la gente pierda su honradez, y que los jueces condenen al inocente."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 940,
+      "char_end": 1087,
+      "text": "No maltraten ni esclavicen al refugiado, pues ustedes también fueron extranjeros en Egipto, y ya saben lo que es vivir como esclavos en otro país."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1087,
+      "char_end": 1155,
+      "text": "Durante seis años podrán cultivar la tierra y recoger sus cosechas,"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1155,
+      "char_end": 1399,
+      "text": "pero el séptimo año deberán dejarla descansar. Si la tierra produce algo por sí sola, eso lo dejarán para alimento de la gente pobre, y para que los animales salvajes coman lo que sobre. Lo mismo harán con sus plantaciones de uvas y de olivos."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1399,
+      "char_end": 1615,
+      "text": "Durante seis días podrán trabajar y hacer todo lo que quieran, pero el séptimo día deberán descansar. Así podrán descansar sus esclavos y sus bueyes y sus burros, y también los extranjeros que trabajen para ustedes."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1615,
+      "char_end": 1720,
+      "text": "Cumplan con todas estas leyes, y jamás pidan la ayuda de otros dioses; ni siquiera pronuncien su nombre."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1720,
+      "char_end": 1772,
+      "text": "Cada año harán tres fiestas religiosas en mi honor."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1772,
+      "char_end": 2025,
+      "text": "La fiesta de los panes sin levadura la celebrarán en el mes de Abib, porque en ese mes salieron de Egipto. La fiesta durará siete días, y en todo ese tiempo el pan que coman será sin levadura. Quien venga a adorarme, deberá también traerme una ofrenda."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2025,
+      "char_end": 2229,
+      "text": "Durante la cosecha celebrarán dos fiestas. La primera será cuando cosechen los primeros frutos de sus siembras, y la segunda será cuando cosechen todo lo que hayan sembrado, es decir, al terminar el año."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2229,
+      "char_end": 2310,
+      "text": "Todos los varones adultos deberán presentarse ante mí durante esas tres fiestas."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2310,
+      "char_end": 2457,
+      "text": "Cuando maten animales en mi honor, no ofrezcan al mismo tiempo pan con levadura y la sangre del animal, ni guarden la grasa para el día siguiente."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2457,
+      "char_end": 2602,
+      "text": "Las ofrendas que traigan a mi templo serán de los mejores primeros frutos que produzcan sus campos. No cocinen cabritos en la leche de su madre."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2602,
+      "char_end": 2756,
+      "text": "Dios también les dijo: Yo enviaré a mi ángel para que los proteja y los guíe en el camino que habrán de seguir para llegar al lugar que les he preparado."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2756,
+      "char_end": 2875,
+      "text": "Obedézcanlo siempre, porque yo mismo le he dado autoridad para actuar en mi lugar; él los castigará si no lo obedecen."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2875,
+      "char_end": 2945,
+      "text": "Si lo obedecen en todo, trataré con dureza a los enemigos de ustedes."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2945,
+      "char_end": 3056,
+      "text": "Mi ángel los llevará al país de Canaán, donde ahora viven muchos pueblos, a los cuales destruiré por completo."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3056,
+      "char_end": 3165,
+      "text": "Ustedes no deben adorar a los dioses de esos pueblos. Al contrario, deben destruir sus ídolos y sus altares."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3165,
+      "char_end": 3268,
+      "text": "Adórenme, pues yo soy su Dios. Yo los bendeciré con abundantes alimentos. Nunca dejaré que se enfermen"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3268,
+      "char_end": 3378,
+      "text": "ni que mueran siendo jóvenes. Todas las mujeres de Israel podrán tener hijos, y todos sus hijos nacerán bien."
+    },
+    {
+      "verse": 27,
+      "label": "27-28",
+      "char_start": 3378,
+      "char_end": 3554,
+      "text": "Cuando ustedes lleguen al país de Canaán, haré que sus habitantes se llenen de miedo y huyan. Y antes de que ustedes lleguen, enviaré avispas, para que ataquen a sus enemigos."
+    },
+    {
+      "verse": 29,
+      "label": "29-30",
+      "char_start": 3554,
+      "char_end": 3805,
+      "text": "Pero no echaré a sus enemigos en el primer año, sino que lo haré poco a poco. Si lo hiciera de una vez, las tierras se echarían a perder y se llenarían de animales salvajes. Lo mejor es esperar a que ustedes tengan muchos hijos y ocupen todo el país."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3805,
+      "char_end": 4026,
+      "text": "El territorio que les voy a dar se extenderá desde el Mar de los Juncos hasta el mar Mediterráneo, y desde el desierto hasta el río Éufrates. Ustedes dominarán a todos los que viven allí, y los sacarán de ese territorio."
+    },
+    {
+      "verse": 32,
+      "label": "32-33",
+      "char_start": 4026,
+      "char_end": 4227,
+      "text": "No tengan ningún trato con esa gente ni los dejen seguir viviendo entre ustedes, pues de lo contrario los harán pecar contra mí. Tampoco adoren a sus dioses, porque si lo hacen podrían perder la vida."
+    }
+  ],
+  "words": [
+    {
+      "word": "No mientan ni den informes falsos que ayuden al malvado a engañar a los jueces.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5100,
+      "duration_ms": 5000
+    },
+    {
+      "word": "No hagan lo malo, sólo porque la mayoría de la gente lo hace.",
+      "verse": 2,
+      "start_ms": 5050,
+      "end_ms": 9487,
+      "duration_ms": 4437
+    },
+    {
+      "word": "Si en un pleito legal hacen declaraciones ante un jurado, no digan mentiras como la mayoría de la gente.",
+      "verse": 2,
+      "start_ms": 9487,
+      "end_ms": 16087,
+      "duration_ms": 6600
+    },
+    {
+      "word": "Digan la verdad.",
+      "verse": 2,
+      "start_ms": 16087,
+      "end_ms": 17949,
+      "duration_ms": 1862
+    },
+    {
+      "word": "Pero tampoco mientan para ayudar a un pobre en un juicio sólo por ser pobre.",
+      "verse": 3,
+      "start_ms": 17950,
+      "end_ms": 22662,
+      "duration_ms": 4712
+    },
+    {
+      "word": "Si ven que algún buey o burro anda perdido, devuélvanselo al dueño, aunque éste sea enemigo de ustedes.",
+      "verse": 4,
+      "start_ms": 22662,
+      "end_ms": 29424,
+      "duration_ms": 6762
+    },
+    {
+      "word": "Si ven que un burro ha caído porque no aguanta el peso de su carga, quítensela, aunque el dueño sea enemigo de ustedes.",
+      "verse": 5,
+      "start_ms": 29425,
+      "end_ms": 36900,
+      "duration_ms": 7475
+    },
+    {
+      "word": "Si tienen que resolver algún asunto legal, no sean injustos con los pobres.",
+      "verse": 6,
+      "start_ms": 36900,
+      "end_ms": 42000,
+      "duration_ms": 5100
+    },
+    {
+      "word": "No acusen a una persona diciendo mentiras, ni condenen a muerte a la gente inocente y honesta, porque yo no consideraré inocente al culpable.",
+      "verse": 7,
+      "start_ms": 42000,
+      "end_ms": 50662,
+      "duration_ms": 8662
+    },
+    {
+      "word": "No acepten dinero de nadie que les pida hacer algo injusto.",
+      "verse": 8,
+      "start_ms": 50662,
+      "end_ms": 54824,
+      "duration_ms": 4162
+    },
+    {
+      "word": "Esa clase de dinero hace que la gente pierda su honradez, y que los jueces condenen al inocente.",
+      "verse": 8,
+      "start_ms": 54825,
+      "end_ms": 60900,
+      "duration_ms": 6075
+    },
+    {
+      "word": "No maltraten ni esclavicen al refugiado, pues ustedes también fueron extranjeros en Egipto, y ya saben lo que es vivir como esclavos en otro país.",
+      "verse": 9,
+      "start_ms": 60900,
+      "end_ms": 69562,
+      "duration_ms": 8662
+    },
+    {
+      "word": "Durante seis años podrán cultivar la tierra y recoger sus cosechas, pero el séptimo año deberán dejarla descansar.",
+      "verse": 10,
+      "start_ms": 69562,
+      "end_ms": 76849,
+      "duration_ms": 7287
+    },
+    {
+      "word": "Si la tierra produce algo por sí sola, eso lo dejarán para alimento de la gente pobre, y para que los animales salvajes coman lo que sobre.",
+      "verse": 11,
+      "start_ms": 76850,
+      "end_ms": 85112,
+      "duration_ms": 8262
+    },
+    {
+      "word": "Lo mismo harán con sus plantaciones de uvas y de olivos.",
+      "verse": 11,
+      "start_ms": 85112,
+      "end_ms": 89037,
+      "duration_ms": 3925
+    },
+    {
+      "word": "Durante seis días podrán trabajar y hacer todo lo que quieran, pero el séptimo día deberán descansar.",
+      "verse": 12,
+      "start_ms": 89037,
+      "end_ms": 95387,
+      "duration_ms": 6350
+    },
+    {
+      "word": "Así podrán descansar sus esclavos y sus bueyes y sus burros, y también los extranjeros que trabajen para ustedes.",
+      "verse": 12,
+      "start_ms": 95387,
+      "end_ms": 102524,
+      "duration_ms": 7137
+    },
+    {
+      "word": "Cumplan con todas estas leyes, y jamás pidan la ayuda de otros dioses; ni siquiera pronuncien su nombre.",
+      "verse": 13,
+      "start_ms": 102525,
+      "end_ms": 109425,
+      "duration_ms": 6900
+    },
+    {
+      "word": "Cada año harán tres fiestas religiosas en mi honor.",
+      "verse": 14,
+      "start_ms": 109425,
+      "end_ms": 113112,
+      "duration_ms": 3687
+    },
+    {
+      "word": "La fiesta de los panes sin levadura la celebrarán en el mes de Abib, porque en ese mes salieron de Egipto.",
+      "verse": 15,
+      "start_ms": 113112,
+      "end_ms": 119537,
+      "duration_ms": 6425
+    },
+    {
+      "word": "La fiesta durará siete días, y en todo ese tiempo el pan que coman será sin levadura.",
+      "verse": 15,
+      "start_ms": 119537,
+      "end_ms": 125337,
+      "duration_ms": 5800
+    },
+    {
+      "word": "Quien venga a adorarme, deberá también traerme una ofrenda.",
+      "verse": 15,
+      "start_ms": 125337,
+      "end_ms": 129687,
+      "duration_ms": 4350
+    },
+    {
+      "word": "Durante la cosecha celebrarán dos fiestas.",
+      "verse": 16,
+      "start_ms": 129687,
+      "end_ms": 133049,
+      "duration_ms": 3362
+    },
+    {
+      "word": "La primera será cuando cosechen los primeros frutos de sus siembras, y la segunda será cuando cosechen todo lo que hayan sembrado, es decir, al terminar el año.",
+      "verse": 16,
+      "start_ms": 133050,
+      "end_ms": 142187,
+      "duration_ms": 9137
+    },
+    {
+      "word": "Todos los varones adultos deberán presentarse ante mí durante esas tres fiestas.",
+      "verse": 17,
+      "start_ms": 142187,
+      "end_ms": 147399,
+      "duration_ms": 5212
+    },
+    {
+      "word": "Cuando maten animales en mi honor, no ofrezcan al mismo tiempo pan con levadura y la sangre del animal, ni guarden la grasa para el día siguiente.",
+      "verse": 18,
+      "start_ms": 147400,
+      "end_ms": 155712,
+      "duration_ms": 8312
+    },
+    {
+      "word": "Las ofrendas que traigan a mi templo serán de los mejores primeros frutos que produzcan sus campos.",
+      "verse": 19,
+      "start_ms": 155712,
+      "end_ms": 161474,
+      "duration_ms": 5762
+    },
+    {
+      "word": "No cocinen cabritos en la leche de su madre.",
+      "verse": 19,
+      "start_ms": 161475,
+      "end_ms": 164712,
+      "duration_ms": 3237
+    },
+    {
+      "word": "Dios también les dijo: Yo enviaré a mi ángel para que los proteja y los guíe en el camino que habrán de seguir para llegar al lugar que les he preparado.",
+      "verse": 20,
+      "start_ms": 164712,
+      "end_ms": 173187,
+      "duration_ms": 8475
+    },
+    {
+      "word": "Obedézcanlo siempre, porque yo mismo le he dado autoridad para actuar en mi lugar; él los castigará si no lo obedecen.",
+      "verse": 21,
+      "start_ms": 173187,
+      "end_ms": 180637,
+      "duration_ms": 7450
+    },
+    {
+      "word": "Si lo obedecen en todo, trataré con dureza a los enemigos de ustedes.",
+      "verse": 22,
+      "start_ms": 180637,
+      "end_ms": 185649,
+      "duration_ms": 5012
+    },
+    {
+      "word": "Mi ángel los llevará al país de Canaán, donde ahora viven muchos pueblos, a los cuales destruiré por completo.",
+      "verse": 23,
+      "start_ms": 185650,
+      "end_ms": 192675,
+      "duration_ms": 7025
+    },
+    {
+      "word": "Ustedes no deben adorar a los dioses de esos pueblos.",
+      "verse": 24,
+      "start_ms": 192675,
+      "end_ms": 196525,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Al contrario, deben destruir sus ídolos y sus altares.",
+      "verse": 24,
+      "start_ms": 196525,
+      "end_ms": 200837,
+      "duration_ms": 4312
+    },
+    {
+      "word": "Adórenme, pues yo soy su Dios.",
+      "verse": 25,
+      "start_ms": 200837,
+      "end_ms": 203849,
+      "duration_ms": 3012
+    },
+    {
+      "word": "Yo los bendeciré con abundantes alimentos.",
+      "verse": 25,
+      "start_ms": 203850,
+      "end_ms": 207262,
+      "duration_ms": 3412
+    },
+    {
+      "word": "Nunca dejaré que se enfermen ni que mueran siendo jóvenes.",
+      "verse": 25,
+      "start_ms": 207262,
+      "end_ms": 211137,
+      "duration_ms": 3875
+    },
+    {
+      "word": "Todas las mujeres de Israel podrán tener hijos, y todos sus hijos nacerán bien.",
+      "verse": 26,
+      "start_ms": 211137,
+      "end_ms": 216637,
+      "duration_ms": 5500
+    },
+    {
+      "word": "Cuando ustedes lleguen al país de Canaán, haré que sus habitantes se llenen de miedo y huyan.",
+      "verse": 27,
+      "start_ms": 216637,
+      "end_ms": 222287,
+      "duration_ms": 5650
+    },
+    {
+      "word": "Y antes de que ustedes lleguen, enviaré avispas, para que ataquen a sus enemigos.",
+      "verse": 27,
+      "start_ms": 222287,
+      "end_ms": 227787,
+      "duration_ms": 5500
+    },
+    {
+      "word": "Pero no echaré a sus enemigos en el primer año, sino que lo haré poco a poco.",
+      "verse": 29,
+      "start_ms": 227787,
+      "end_ms": 232812,
+      "duration_ms": 5025
+    },
+    {
+      "word": "Si lo hiciera de una vez, las tierras se echarían a perder y se llenarían de animales salvajes.",
+      "verse": 29,
+      "start_ms": 232812,
+      "end_ms": 238737,
+      "duration_ms": 5925
+    },
+    {
+      "word": "Lo mejor es esperar a que ustedes tengan muchos hijos y ocupen todo el país.",
+      "verse": 29,
+      "start_ms": 238737,
+      "end_ms": 243612,
+      "duration_ms": 4875
+    },
+    {
+      "word": "El territorio que les voy a dar se extenderá desde el Mar de los Juncos hasta el mar Mediterráneo, y desde el desierto hasta el río Éufrates.",
+      "verse": 31,
+      "start_ms": 243612,
+      "end_ms": 251599,
+      "duration_ms": 7987
+    },
+    {
+      "word": "Ustedes dominarán a todos los que viven allí, y los sacarán",
+      "verse": 31,
+      "start_ms": 251600,
+      "end_ms": 255700,
+      "duration_ms": 4100
+    },
+    {
+      "word": "de ese territorio.",
+      "verse": 31,
+      "start_ms": 255868,
+      "end_ms": 258005,
+      "duration_ms": 2137
+    },
+    {
+      "word": "No tengan ningún trato con esa gente ni los dejen seguir viviendo entre ustedes, pues de lo contrario los harán pecar contra mí.",
+      "verse": 32,
+      "start_ms": 257955,
+      "end_ms": 265117,
+      "duration_ms": 7162
+    },
+    {
+      "word": "Tampoco adoren a sus dioses, porque si lo hacen podrían perder la vida.",
+      "verse": 32,
+      "start_ms": 265118,
+      "end_ms": 270018,
+      "duration_ms": 4900
+    }
+  ]
+}

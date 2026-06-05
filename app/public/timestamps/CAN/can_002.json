@@ -1,0 +1,362 @@
+{
+  "book": "CAN",
+  "chapter": 2,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 17,
+  "word_count": 33,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 68,
+      "text": "Yo soy una flor de los llanos de Sarón; soy una rosa de los valles."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 68,
+      "char_end": 108,
+      "text": "Mi amada es una rosa entre las espinas."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 108,
+      "char_end": 226,
+      "text": "Mi amado es un manzano entre árboles silvestres. ¡Me muero por sentarme a su sombra y saborear sus deliciosos frutos!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 226,
+      "char_end": 295,
+      "text": "Mi amado me llevó a la sala de banquetes, y allí me cubrió de besos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 295,
+      "char_end": 406,
+      "text": "¡Denme a comer uvas! ¡Denme a comer manzanas! ¡Ayúdenme a recobrar las fuerzas, que me estoy muriendo de amor!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 406,
+      "char_end": 515,
+      "text": "¡Que ponga él su brazo izquierdo debajo de mi cabeza! ¡Que me apriete contra su cuerpo con el brazo derecho!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 515,
+      "char_end": 718,
+      "text": "Mujeres de Jerusalén, quiero que me prometan, por las gacelas y venaditas que corren por los bosques, que no molestarán a mi amada ni la despertarán de su sueño de amor hasta que ella sola se despierte."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 718,
+      "char_end": 828,
+      "text": "¡Oigo la voz de mi amado! ¡Ya lo veo venir! Viene saltando por las colinas, viene brincando por las montañas."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 828,
+      "char_end": 935,
+      "text": "Mi amado es como un cabrito. ¡Allí está, tras el muro! ¡Se asoma por las ventanas, me espía por las rejas!"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 935,
+      "char_end": 1003,
+      "text": "Mi amado me dijo: Acompáñame, amada mía; ¡ven conmigo, bella mujer!"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1003,
+      "char_end": 1056,
+      "text": "El invierno ya se ha ido; las lluvias han terminado."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1056,
+      "char_end": 1175,
+      "text": "Ya hay flores en los campos; ha llegado el tiempo de cantar. ¡El arrullo de las tórtolas se escucha en nuestra tierra!"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1175,
+      "char_end": 1300,
+      "text": "En las higueras hay higos, y las flores de las viñas esparcen suave aroma. Acompáñame, amada mía; ¡ven conmigo, bella mujer!"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1300,
+      "char_end": 1424,
+      "text": "Palomita amada, no te escondas en las rocas. Muéstrame tu rostro, déjame oír tu voz. ¡Tu voz es dulce! ¡Tu rostro es bello!"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1424,
+      "char_end": 1534,
+      "text": "Las zorras pequeñas causan daño a nuestras viñas. ¡Ayúdennos a atraparlas, pues nuestras viñas están en flor!"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1534,
+      "char_end": 1611,
+      "text": "Mi amado es mío, y yo soy suya; mi amado cuida de su rebaño entre las rosas."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1611,
+      "char_end": 1784,
+      "text": "Regresa a mí, amado mío, mientras sopla todavía la brisa de la tarde, y las sombras van cayendo. ¡Corre como un venado! ¡Corre como cabrito por las colinas que nos separan!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Yo soy una flor de los llanos de Sarón; soy una rosa de los valles.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4875,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Mi amada es una rosa entre las espinas.",
+      "verse": 2,
+      "start_ms": 4825,
+      "end_ms": 8112,
+      "duration_ms": 3287
+    },
+    {
+      "word": "Mi amado es un manzano entre árboles silvestres.",
+      "verse": 3,
+      "start_ms": 8112,
+      "end_ms": 11799,
+      "duration_ms": 3687
+    },
+    {
+      "word": "Me muero por sentarme a su sombra y saborear sus deliciosos frutos!",
+      "verse": 3,
+      "start_ms": 11800,
+      "end_ms": 16312,
+      "duration_ms": 4512
+    },
+    {
+      "word": "Mi amado me llevó a la sala de banquetes, y allí me cubrió de besos.",
+      "verse": 4,
+      "start_ms": 16312,
+      "end_ms": 21187,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Denme a comer uvas!",
+      "verse": 5,
+      "start_ms": 21187,
+      "end_ms": 23249,
+      "duration_ms": 2062
+    },
+    {
+      "word": "Denme a comer manzanas!",
+      "verse": 5,
+      "start_ms": 23250,
+      "end_ms": 25550,
+      "duration_ms": 2300
+    },
+    {
+      "word": "Ayúdenme a recobrar las fuerzas, que me estoy muriendo de amor!",
+      "verse": 5,
+      "start_ms": 25550,
+      "end_ms": 29775,
+      "duration_ms": 4225
+    },
+    {
+      "word": "Que ponga él su brazo izquierdo debajo de mi cabeza!",
+      "verse": 6,
+      "start_ms": 29775,
+      "end_ms": 33325,
+      "duration_ms": 3550
+    },
+    {
+      "word": "Que me apriete contra su cuerpo con el brazo derecho!",
+      "verse": 6,
+      "start_ms": 33325,
+      "end_ms": 36662,
+      "duration_ms": 3337
+    },
+    {
+      "word": "Mujeres de Jerusalén, quiero que me prometan, por las gacelas y venaditas que corren por los bosques, que no molestarán a mi amada ni la despertarán de su sueño de amor hasta que ella sola se despierte.",
+      "verse": 7,
+      "start_ms": 36662,
+      "end_ms": 48262,
+      "duration_ms": 11600
+    },
+    {
+      "word": "Oigo la voz de mi amado!",
+      "verse": 8,
+      "start_ms": 48262,
+      "end_ms": 50412,
+      "duration_ms": 2150
+    },
+    {
+      "word": "Ya lo veo venir!",
+      "verse": 8,
+      "start_ms": 50412,
+      "end_ms": 52262,
+      "duration_ms": 1850
+    },
+    {
+      "word": "Viene saltando por las colinas, viene brincando por las montañas.",
+      "verse": 8,
+      "start_ms": 52262,
+      "end_ms": 56987,
+      "duration_ms": 4725
+    },
+    {
+      "word": "Mi amado es como un cabrito.",
+      "verse": 9,
+      "start_ms": 56987,
+      "end_ms": 59487,
+      "duration_ms": 2500
+    },
+    {
+      "word": "Allí está, tras el muro!",
+      "verse": 9,
+      "start_ms": 59487,
+      "end_ms": 61974,
+      "duration_ms": 2487
+    },
+    {
+      "word": "Se asoma por las ventanas, me espía por las rejas!",
+      "verse": 9,
+      "start_ms": 61975,
+      "end_ms": 65925,
+      "duration_ms": 3950
+    },
+    {
+      "word": "Mi amado me dijo: Acompáñame, amada mía; ¡ven conmigo, bella mujer!",
+      "verse": 10,
+      "start_ms": 65925,
+      "end_ms": 71612,
+      "duration_ms": 5687
+    },
+    {
+      "word": "El invierno ya se ha ido; las lluvias han terminado.",
+      "verse": 11,
+      "start_ms": 71612,
+      "end_ms": 75737,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Ya hay flores en los campos; ha llegado el tiempo de cantar.",
+      "verse": 12,
+      "start_ms": 75737,
+      "end_ms": 80137,
+      "duration_ms": 4400
+    },
+    {
+      "word": "El arrullo de las tórtolas se escucha en nuestra tierra!",
+      "verse": 12,
+      "start_ms": 80137,
+      "end_ms": 83699,
+      "duration_ms": 3562
+    },
+    {
+      "word": "En las higueras hay higos, y las flores de las viñas esparcen suave aroma.",
+      "verse": 13,
+      "start_ms": 83700,
+      "end_ms": 88550,
+      "duration_ms": 4850
+    },
+    {
+      "word": "Acompáñame, amada mía; ¡ven conmigo, bella mujer!",
+      "verse": 13,
+      "start_ms": 88550,
+      "end_ms": 93050,
+      "duration_ms": 4500
+    },
+    {
+      "word": "Palomita amada, no te escondas en las rocas.",
+      "verse": 14,
+      "start_ms": 93050,
+      "end_ms": 96675,
+      "duration_ms": 3625
+    },
+    {
+      "word": "Muéstrame tu rostro, déjame oír tu voz.",
+      "verse": 14,
+      "start_ms": 96675,
+      "end_ms": 100275,
+      "duration_ms": 3600
+    },
+    {
+      "word": "Tu voz es dulce!",
+      "verse": 14,
+      "start_ms": 100275,
+      "end_ms": 102125,
+      "duration_ms": 1850
+    },
+    {
+      "word": "Tu rostro es bello!",
+      "verse": 14,
+      "start_ms": 102125,
+      "end_ms": 104087,
+      "duration_ms": 1962
+    },
+    {
+      "word": "Las zorras pequeñas causan daño a nuestras viñas.",
+      "verse": 15,
+      "start_ms": 104087,
+      "end_ms": 107712,
+      "duration_ms": 3625
+    },
+    {
+      "word": "Ayúdennos a atraparlas, pues nuestras viñas están en flor!",
+      "verse": 15,
+      "start_ms": 107712,
+      "end_ms": 111962,
+      "duration_ms": 4250
+    },
+    {
+      "word": "Mi amado es mío, y yo soy suya; mi amado cuida de su rebaño entre las rosas.",
+      "verse": 16,
+      "start_ms": 111962,
+      "end_ms": 117612,
+      "duration_ms": 5650
+    },
+    {
+      "word": "Regresa a mí, amado mío, mientras sopla todavía la brisa de la tarde, y las sombras van cayendo.",
+      "verse": 17,
+      "start_ms": 117612,
+      "end_ms": 124387,
+      "duration_ms": 6775
+    },
+    {
+      "word": "Corre como un venado!",
+      "verse": 17,
+      "start_ms": 124387,
+      "end_ms": 126374,
+      "duration_ms": 1987
+    },
+    {
+      "word": "Corre como cabrito por las colinas que nos separan!",
+      "verse": 17,
+      "start_ms": 126375,
+      "end_ms": 129825,
+      "duration_ms": 3450
+    }
+  ]
+}

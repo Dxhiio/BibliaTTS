@@ -1,0 +1,439 @@
+{
+  "book": "1SA",
+  "chapter": 3,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 16,
+  "word_count": 45,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-4",
+      "char_start": 0,
+      "char_end": 479,
+      "text": "En aquellos tiempos, Dios se comunicaba muy pocas veces con la gente y no le daba a nadie mensajes ni visiones. Por su parte, el niño Samuel servía a Dios bajo la dirección de Elí, que ya casi estaba ciego. Una noche, poco antes de que se apagara la lámpara del santuario, Dios llamó a Samuel por su nombre. Elí y Samuel estaban ya acostados, cada uno en su habitación. Samuel dormía en el santuario, que es donde estaba el cofre del pacto de Dios. —¡Samuel, Samuel! —dijo Dios."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 479,
+      "char_end": 650,
+      "text": "Samuel fue corriendo al cuarto de Elí y le dijo: —Aquí estoy. ¿En qué puedo servirle? Elí le respondió: —Yo no te llamé. Anda, vuelve a acostarte. Samuel fue y se acostó,"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 650,
+      "char_end": 862,
+      "text": "pero Dios volvió a llamarlo: ¡Samuel, Samuel! Él se levantó y fue de nuevo a donde estaba Elí. —Aquí estoy —le dijo. ¿En qué puedo servirle? Elí le respondió: —Yo no te llamé, hijo mío. Anda, vuelve a acostarte."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 862,
+      "char_end": 970,
+      "text": "Samuel estaba confundido porque aún no conocía la voz de Dios. Ésta era la primera vez que Dios le hablaba."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 970,
+      "char_end": 1174,
+      "text": "Por tercera vez Dios lo llamó: ¡Samuel, Samuel! Samuel se levantó, fue a donde estaba Elí y le dijo: —Aquí estoy. ¿En qué puedo servirle? En ese momento Elí comprendió que era Dios quien llamaba al niño,"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1174,
+      "char_end": 1326,
+      "text": "así que le dijo: —Anda a acostarte. Si oyes otra vez que te llaman, contesta así: «Dime, Dios mío, ¿en qué puedo servirte?». Samuel volvió a acostarse,"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1326,
+      "char_end": 1463,
+      "text": "y poco después, Dios mismo se le acercó y lo llamó como antes: —¡Samuel, Samuel! Y él contestó: —Dime, Dios mío, ¿en qué puedo servirte?"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1463,
+      "char_end": 1563,
+      "text": "Dios le dijo: —Voy a hacer en Israel algo muy terrible. Cuando la gente lo sepa, temblará de miedo."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1563,
+      "char_end": 1619,
+      "text": "Cumpliré contra la familia de Elí todo lo que he dicho."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1619,
+      "char_end": 1768,
+      "text": "Él sabía que sus hijos me ofendían gravemente, y no hizo nada para corregirlos. Así que voy a castigar a su familia, y nada ni nadie podrá evitarlo."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1768,
+      "char_end": 1845,
+      "text": "¡Juro que ninguna ofrenda será suficiente para que yo les perdone su maldad!"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1845,
+      "char_end": 2001,
+      "text": "Samuel volvió a acostarse y, cuando amaneció, se levantó y abrió las puertas del santuario. Pero no se atrevía a contarle a Elí la visión que había tenido."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2001,
+      "char_end": 2073,
+      "text": "Entonces Elí lo llamó: —Samuel, hijo mío. —Aquí estoy —contestó Samuel."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2073,
+      "char_end": 2169,
+      "text": "Y Elí le preguntó: —¿Qué te dijo Dios? Cuéntamelo todo. Que Dios te castigue si no me lo dices."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2169,
+      "char_end": 2280,
+      "text": "Samuel se lo contó todo, sin ocultarle nada, y Elí dijo: —¡Que se haga la voluntad de Dios! Él es quien manda."
+    },
+    {
+      "verse": 19,
+      "label": "19-21",
+      "char_start": 2280,
+      "char_end": 2558,
+      "text": "Samuel seguía creciendo, y Dios lo cuidaba. También le daba mensajes en el santuario de Siló, y Samuel se los comunicaba a todo el pueblo. Todo lo que Dios prometía por medio de Samuel, se cumplía. Por eso en todo Israel, la gente confiaba plenamente en las palabras de Samuel."
+    }
+  ],
+  "words": [
+    {
+      "word": "En aquellos tiempos, Dios se comunicaba muy pocas veces con la gente y no le daba a nadie mensajes ni visiones.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7200,
+      "duration_ms": 7100
+    },
+    {
+      "word": "Por su parte, el niño Samuel servía a Dios bajo la dirección de Elí, que ya casi estaba ciego.",
+      "verse": 1,
+      "start_ms": 7150,
+      "end_ms": 13487,
+      "duration_ms": 6337
+    },
+    {
+      "word": "Una noche, poco antes de que se apagara la lámpara del santuario, Dios llamó a Samuel por su nombre.",
+      "verse": 1,
+      "start_ms": 13487,
+      "end_ms": 19837,
+      "duration_ms": 6350
+    },
+    {
+      "word": "Elí y Samuel estaban ya acostados, cada uno en su habitación.",
+      "verse": 1,
+      "start_ms": 19837,
+      "end_ms": 24499,
+      "duration_ms": 4662
+    },
+    {
+      "word": "Samuel dormía en el santuario, que es donde estaba el cofre del pacto de Dios.",
+      "verse": 1,
+      "start_ms": 24500,
+      "end_ms": 29700,
+      "duration_ms": 5200
+    },
+    {
+      "word": "Samuel, Samuel!",
+      "verse": 1,
+      "start_ms": 29700,
+      "end_ms": 31987,
+      "duration_ms": 2287
+    },
+    {
+      "word": "dijo Dios.",
+      "verse": 1,
+      "start_ms": 31987,
+      "end_ms": 33774,
+      "duration_ms": 1787
+    },
+    {
+      "word": "Samuel fue corriendo al cuarto de Elí y le dijo: —Aquí estoy.",
+      "verse": 5,
+      "start_ms": 33775,
+      "end_ms": 38200,
+      "duration_ms": 4425
+    },
+    {
+      "word": "En qué puedo servirle?",
+      "verse": 5,
+      "start_ms": 38200,
+      "end_ms": 40350,
+      "duration_ms": 2150
+    },
+    {
+      "word": "Elí le respondió: —Yo no te llamé.",
+      "verse": 5,
+      "start_ms": 40350,
+      "end_ms": 43412,
+      "duration_ms": 3062
+    },
+    {
+      "word": "Anda, vuelve a acostarte.",
+      "verse": 5,
+      "start_ms": 43412,
+      "end_ms": 46074,
+      "duration_ms": 2662
+    },
+    {
+      "word": "Samuel fue y se acostó, pero Dios volvió a llamarlo: ¡Samuel, Samuel!",
+      "verse": 5,
+      "start_ms": 46075,
+      "end_ms": 51562,
+      "duration_ms": 5487
+    },
+    {
+      "word": "Él se levantó y fue de nuevo a donde estaba Elí.",
+      "verse": 6,
+      "start_ms": 51562,
+      "end_ms": 55087,
+      "duration_ms": 3525
+    },
+    {
+      "word": "Aquí estoy —le dijo.",
+      "verse": 6,
+      "start_ms": 55087,
+      "end_ms": 57437,
+      "duration_ms": 2350
+    },
+    {
+      "word": "En qué puedo servirle?",
+      "verse": 6,
+      "start_ms": 57437,
+      "end_ms": 59587,
+      "duration_ms": 2150
+    },
+    {
+      "word": "Elí le respondió: —Yo no te llamé, hijo mío.",
+      "verse": 6,
+      "start_ms": 59587,
+      "end_ms": 63512,
+      "duration_ms": 3925
+    },
+    {
+      "word": "Anda, vuelve a acostarte.",
+      "verse": 6,
+      "start_ms": 63512,
+      "end_ms": 66174,
+      "duration_ms": 2662
+    },
+    {
+      "word": "Samuel estaba confundido porque aún no conocía la voz de Dios.",
+      "verse": 7,
+      "start_ms": 66175,
+      "end_ms": 70512,
+      "duration_ms": 4337
+    },
+    {
+      "word": "Ésta era la primera vez que Dios le hablaba.",
+      "verse": 7,
+      "start_ms": 70512,
+      "end_ms": 73662,
+      "duration_ms": 3150
+    },
+    {
+      "word": "Por tercera vez Dios lo llamó: ¡Samuel, Samuel!",
+      "verse": 8,
+      "start_ms": 73662,
+      "end_ms": 77474,
+      "duration_ms": 3812
+    },
+    {
+      "word": "Samuel se levantó, fue a donde estaba Elí y le dijo: —Aquí estoy.",
+      "verse": 8,
+      "start_ms": 77475,
+      "end_ms": 82537,
+      "duration_ms": 5062
+    },
+    {
+      "word": "En qué puedo servirle?",
+      "verse": 8,
+      "start_ms": 82537,
+      "end_ms": 84687,
+      "duration_ms": 2150
+    },
+    {
+      "word": "En ese momento Elí comprendió que era Dios quien llamaba al niño, así que le dijo: —Anda a acostarte.",
+      "verse": 8,
+      "start_ms": 84687,
+      "end_ms": 91287,
+      "duration_ms": 6600
+    },
+    {
+      "word": "Si oyes otra vez que te llaman, contesta así: «Dime, Dios mío, ¿en qué puedo servirte?",
+      "verse": 9,
+      "start_ms": 91287,
+      "end_ms": 97787,
+      "duration_ms": 6500
+    },
+    {
+      "word": "Samuel volvió a acostarse, y poco después, Dios mismo se le acercó y lo llamó como antes: —¡Samuel, Samuel!",
+      "verse": 9,
+      "start_ms": 97787,
+      "end_ms": 105549,
+      "duration_ms": 7762
+    },
+    {
+      "word": "Y él contestó: —Dime, Dios mío, ¿en qué puedo servirte?",
+      "verse": 10,
+      "start_ms": 105550,
+      "end_ms": 110300,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Dios le dijo: —Voy a hacer en Israel algo muy terrible.",
+      "verse": 11,
+      "start_ms": 110300,
+      "end_ms": 114637,
+      "duration_ms": 4337
+    },
+    {
+      "word": "Cuando la gente lo sepa, temblará de miedo.",
+      "verse": 11,
+      "start_ms": 114637,
+      "end_ms": 118037,
+      "duration_ms": 3400
+    },
+    {
+      "word": "Cumpliré contra la familia de Elí todo lo que he dicho.",
+      "verse": 12,
+      "start_ms": 118037,
+      "end_ms": 121949,
+      "duration_ms": 3912
+    },
+    {
+      "word": "Él sabía que sus hijos me ofendían gravemente, y no hizo nada para corregirlos.",
+      "verse": 13,
+      "start_ms": 121950,
+      "end_ms": 127587,
+      "duration_ms": 5637
+    },
+    {
+      "word": "Así que voy a castigar a su familia, y nada ni nadie podrá evitarlo.",
+      "verse": 13,
+      "start_ms": 127587,
+      "end_ms": 132587,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Juro que ninguna ofrenda será suficiente para que yo les perdone su maldad!",
+      "verse": 14,
+      "start_ms": 132587,
+      "end_ms": 137274,
+      "duration_ms": 4687
+    },
+    {
+      "word": "Samuel volvió a acostarse y, cuando amaneció, se levantó y abrió las puertas del santuario.",
+      "verse": 15,
+      "start_ms": 137275,
+      "end_ms": 143625,
+      "duration_ms": 6350
+    },
+    {
+      "word": "Pero no se atrevía a contarle a Elí la visión que había tenido.",
+      "verse": 15,
+      "start_ms": 143625,
+      "end_ms": 147650,
+      "duration_ms": 4025
+    },
+    {
+      "word": "Entonces Elí lo llamó: —Samuel, hijo mío.",
+      "verse": 16,
+      "start_ms": 147650,
+      "end_ms": 151512,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Aquí estoy —contestó Samuel.",
+      "verse": 16,
+      "start_ms": 151512,
+      "end_ms": 154412,
+      "duration_ms": 2900
+    },
+    {
+      "word": "Y Elí le preguntó: —¿Qué te dijo Dios?",
+      "verse": 17,
+      "start_ms": 154412,
+      "end_ms": 157737,
+      "duration_ms": 3325
+    },
+    {
+      "word": "Cuéntamelo todo.",
+      "verse": 17,
+      "start_ms": 157737,
+      "end_ms": 159649,
+      "duration_ms": 1912
+    },
+    {
+      "word": "Que Dios te castigue si no me lo dices.",
+      "verse": 17,
+      "start_ms": 159650,
+      "end_ms": 162612,
+      "duration_ms": 2962
+    },
+    {
+      "word": "Samuel se lo contó todo, sin ocultarle nada, y Elí dijo: —¡Que se haga la voluntad de Dios!",
+      "verse": 18,
+      "start_ms": 162612,
+      "end_ms": 169212,
+      "duration_ms": 6600
+    },
+    {
+      "word": "Él es quien manda.",
+      "verse": 18,
+      "start_ms": 169212,
+      "end_ms": 171099,
+      "duration_ms": 1887
+    },
+    {
+      "word": "Samuel seguía creciendo, y Dios lo cuidaba.",
+      "verse": 19,
+      "start_ms": 171100,
+      "end_ms": 174737,
+      "duration_ms": 3637
+    },
+    {
+      "word": "También le daba mensajes en el santuario de Siló, y Samuel se los comunicaba a todo el pueblo.",
+      "verse": 19,
+      "start_ms": 174737,
+      "end_ms": 180712,
+      "duration_ms": 5975
+    },
+    {
+      "word": "Todo lo que Dios prometía por medio de Samuel, se cumplía.",
+      "verse": 19,
+      "start_ms": 180712,
+      "end_ms": 184849,
+      "duration_ms": 4137
+    },
+    {
+      "word": "Por eso en todo Israel, la gente confiaba plenamente en las palabras de Samuel.",
+      "verse": 19,
+      "start_ms": 184850,
+      "end_ms": 190100,
+      "duration_ms": 5250
+    }
+  ]
+}

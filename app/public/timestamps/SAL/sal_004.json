@@ -1,0 +1,145 @@
+{
+  "book": "SAL",
+  "chapter": 4,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 8,
+  "word_count": 11,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 160,
+      "text": "Tú, Dios mío, eres mi defensor; ¡respóndeme cuando te llame! Siempre que tengo problemas, me ayudas a salir de ellos; ¡compadécete de mí, y escucha mi oración!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 160,
+      "char_end": 293,
+      "text": "Ustedes los que se creen importantes, ¿me van a seguir insultando, y jugando con mi honor? ¿Van a seguir con sus mentiras y engaños?"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 293,
+      "char_end": 394,
+      "text": "Sépanlo de una vez: Dios me muestra su amor porque le soy fiel; ¡por eso me escucha cuando lo llamo!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 394,
+      "char_end": 510,
+      "text": "¡Cuidado, no pequen más! Cuando llegue la noche y se acuesten a dormir, pónganse a pensar en todo lo que han hecho."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 510,
+      "char_end": 582,
+      "text": "Ofrézcanle a Dios lo que él les ha pedido, y pongan su confianza en él."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 582,
+      "char_end": 688,
+      "text": "¡Hazte presente, Dios mío, y muéstranos tu bondad, pues no faltan los que dicen que tú no eres bondadoso!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 688,
+      "char_end": 796,
+      "text": "Hay muchos que son felices comiendo y bebiendo de más, pero yo soy muy feliz porque mi alegría viene de ti."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 796,
+      "char_end": 882,
+      "text": "Cuando me acuesto, me duermo enseguida, porque sólo tú, mi Dios, me das tranquilidad."
+    }
+  ],
+  "words": [
+    {
+      "word": "Tú, Dios mío, eres mi defensor; ¡respóndeme cuando te llame!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4937,
+      "duration_ms": 4837
+    },
+    {
+      "word": "Siempre que tengo problemas, me ayudas a salir de ellos; ¡compadécete de mí, y escucha mi oración!",
+      "verse": 1,
+      "start_ms": 4887,
+      "end_ms": 11587,
+      "duration_ms": 6700
+    },
+    {
+      "word": "Ustedes los que se creen importantes, ¿me van a seguir insultando, y jugando con mi honor?",
+      "verse": 2,
+      "start_ms": 11587,
+      "end_ms": 17524,
+      "duration_ms": 5937
+    },
+    {
+      "word": "Van a seguir con sus mentiras y engaños?",
+      "verse": 2,
+      "start_ms": 17525,
+      "end_ms": 20537,
+      "duration_ms": 3012
+    },
+    {
+      "word": "Sépanlo de una vez: Dios me muestra su amor porque le soy fiel; ¡por eso me escucha cuando lo llamo!",
+      "verse": 3,
+      "start_ms": 20537,
+      "end_ms": 26787,
+      "duration_ms": 6250
+    },
+    {
+      "word": "Cuidado, no pequen más!",
+      "verse": 4,
+      "start_ms": 26787,
+      "end_ms": 29187,
+      "duration_ms": 2400
+    },
+    {
+      "word": "Cuando llegue la noche y se acuesten a dormir, pónganse a pensar en todo lo que han hecho.",
+      "verse": 4,
+      "start_ms": 29187,
+      "end_ms": 34524,
+      "duration_ms": 5337
+    },
+    {
+      "word": "Ofrézcanle a Dios lo que él les ha pedido, y pongan su confianza en él.",
+      "verse": 5,
+      "start_ms": 34525,
+      "end_ms": 39450,
+      "duration_ms": 4925
+    },
+    {
+      "word": "Hazte presente, Dios mío, y muéstranos tu bondad, pues no faltan los que dicen que tú no eres bondadoso!",
+      "verse": 6,
+      "start_ms": 39450,
+      "end_ms": 46462,
+      "duration_ms": 7012
+    },
+    {
+      "word": "Hay muchos que son felices comiendo y bebiendo de más, pero yo soy muy feliz porque mi alegría viene de ti.",
+      "verse": 7,
+      "start_ms": 46462,
+      "end_ms": 53112,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Cuando me acuesto, me duermo enseguida, porque sólo tú, mi Dios, me das tranquilidad.",
+      "verse": 8,
+      "start_ms": 53112,
+      "end_ms": 59237,
+      "duration_ms": 6125
+    }
+  ]
+}

@@ -1,0 +1,726 @@
+{
+  "book": "NEH",
+  "chapter": 7,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 61,
+  "word_count": 41,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 169,
+      "text": "Cuando se terminó de reparar el muro, se colocaron los portones en su lugar y se eligieron los guardias de las entradas, los cantores y los ayudantes de los sacerdotes."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 169,
+      "char_end": 349,
+      "text": "A mi hermano Hananí lo nombré gobernador de Jerusalén; a Hananías lo nombré jefe del palacio del rey, porque podía confiar en él, y además respetaba a Dios más que otras personas."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 349,
+      "char_end": 661,
+      "text": "Les dije que no debían abrirse los portones de la ciudad antes de la salida del sol, y que debían cerrarse al atardecer, antes de que los guardias se retiraran. Además, les ordené que nombraran guardias de entre los que vivían en Jerusalén, algunos para los puestos de vigilancia y otros para vigilar sus casas."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 661,
+      "char_end": 780,
+      "text": "La ciudad de Jerusalén era grande y extensa, pero había poca gente en ella porque no se habían reconstruido las casas."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 780,
+      "char_end": 1019,
+      "text": "Entonces Dios me dio la idea de reunir a todos, incluyendo los jefes y asistentes, para hacer una lista de las familias. Yo encontré el libro donde estaban anotados los que habían llegado antes, y en ese libro estaba escrito lo siguiente:"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 1019,
+      "char_end": 1263,
+      "text": "Ésta es la lista de las personas de la provincia de Judá que volvieron de Babilonia. Fueron llevados prisioneros por el rey Nabucodonosor de Babilonia, pero volvieron a Jerusalén y a otros lugares de Judá. Cada uno volvió a su pueblo o ciudad."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 1263,
+      "char_end": 1407,
+      "text": "Los líderes que los ayudaron fueron: Zorobabel, Josué, Nehemías, Azarías, Raamías, Nahamaní, Mardoqueo, Bilsán, Mispéret, Bigvai, Nehúm, Baaná."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1407,
+      "char_end": 1487,
+      "text": "De los descendientes de Parós regresaron dos mil ciento setenta y dos personas;"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1487,
+      "char_end": 1548,
+      "text": "de los descendientes de Sefatías, trescientas setenta y dos;"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1548,
+      "char_end": 1593,
+      "text": "de los de Árah, seiscientos cincuenta y dos;"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1593,
+      "char_end": 1687,
+      "text": "de los de Pahat-moab, dos mil ochocientos dieciocho. Todos estos eran descendientes de Josué."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1687,
+      "char_end": 1771,
+      "text": "De los descendientes de Elam regresaron mil doscientos cincuenta y cuatro personas;"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1771,
+      "char_end": 1831,
+      "text": "de los descendientes de Zatú, ochocientos cuarenta y cinco;"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1831,
+      "char_end": 1869,
+      "text": "de los de Zacai, setecientos sesenta;"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1869,
+      "char_end": 1915,
+      "text": "de los de Binuy, seiscientos cuarenta y ocho;"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1915,
+      "char_end": 1956,
+      "text": "de los de Bebai, seiscientos veintiocho;"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1956,
+      "char_end": 2018,
+      "text": "de los descendientes de Azgad, dos mil trescientos veintidós;"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2018,
+      "char_end": 2067,
+      "text": "de los de Adonicam, seiscientos sesenta y siete;"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2067,
+      "char_end": 2110,
+      "text": "de los de Bigvai, dos mil sesenta y siete;"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2110,
+      "char_end": 2157,
+      "text": "de los de Adín, seiscientos cincuenta y cinco;"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2157,
+      "char_end": 2235,
+      "text": "y de los de Ater, noventa y ocho. Todos estos eran descendientes de Ezequías."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2235,
+      "char_end": 2309,
+      "text": "De los descendientes de Hasum regresaron trescientas veintiocho personas;"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2309,
+      "char_end": 2366,
+      "text": "de los descendientes de Besai, trescientos veinticuatro;"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2366,
+      "char_end": 2396,
+      "text": "de los de Harif, ciento doce;"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2396,
+      "char_end": 2431,
+      "text": "de los de Gabaón, noventa y cinco."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2431,
+      "char_end": 2558,
+      "text": "También volvieron los que vivían en las siguientes ciudades y pueblos: De Belén y Netofá regresaron ciento dieciocho personas;"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2558,
+      "char_end": 2588,
+      "text": "de Anatot, ciento veintiocho;"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2588,
+      "char_end": 2620,
+      "text": "de Bet-azmávet, cuarenta y dos;"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2620,
+      "char_end": 2686,
+      "text": "de Quiriat-jearim, Quefirá y Beerot, setecientos cuarenta y tres;"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2686,
+      "char_end": 2729,
+      "text": "de Ramá y de Gueba, seiscientos veintiuno;"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2729,
+      "char_end": 2758,
+      "text": "de Micmás, ciento veintidós;"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2758,
+      "char_end": 2795,
+      "text": "de Betel y de Ai, ciento veintitrés;"
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 2795,
+      "char_end": 2830,
+      "text": "de Nebo, cincuenta y dos personas;"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 2830,
+      "char_end": 2874,
+      "text": "de Elam, mil doscientos cincuenta y cuatro;"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 2874,
+      "char_end": 2904,
+      "text": "de Harim, trescientos veinte;"
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 2904,
+      "char_end": 2945,
+      "text": "de Jericó, trescientos cuarenta y cinco;"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 2945,
+      "char_end": 2989,
+      "text": "de Lod, Hadid y Onó, setecientos veintiuno;"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 2989,
+      "char_end": 3029,
+      "text": "de Senaá, tres mil novecientos treinta."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 3029,
+      "char_end": 3184,
+      "text": "De los sacerdotes regresaron los siguientes: De los descendientes de Jedaías, que eran familia de Josué, regresaron novecientos setenta y tres sacerdotes;"
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 3184,
+      "char_end": 3235,
+      "text": "de los descendientes de Imer, mil cincuenta y dos;"
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 3235,
+      "char_end": 3286,
+      "text": "de los de Pashur, mil doscientos cuarenta y siete;"
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 3286,
+      "char_end": 3319,
+      "text": "de los de Harim, mil diecisiete."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 3319,
+      "char_end": 3462,
+      "text": "De los ayudantes de los sacerdotes regresaron setenta y cuatro de los descendientes de Josué y de Cadmiel, que eran de la familia de Hodavías."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 3462,
+      "char_end": 3545,
+      "text": "De los cantores regresaron ciento cuarenta y ocho, que eran descendientes de Asaf."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 3545,
+      "char_end": 3698,
+      "text": "De los vigilantes de las entradas, que eran descendientes de Salum, de Ater, de Talmón, de Acub, de Hatitá y de Sobai, regresaron ciento treinta y ocho."
+    },
+    {
+      "verse": 46,
+      "label": "46-56",
+      "char_start": 3698,
+      "char_end": 4028,
+      "text": "De los que trabajaban en el templo regresaron todos aquellos que eran descendientes de: Sihá, Hasufá, Tabaot, Queros, Siahá, Padón, Lebaná, Hagabá, Salmai, Hanán, Guidel, Gáhar, Reaías, Resín, Necodá, Gazam, Uzá, Paséah, Besai, Meunim, Nefusim, Bacbuc, Hacufá, Harhur, Baslut, Mehidá, Harsá, Barcós, Sísara, Temá, Nesíah, Hatifá."
+    },
+    {
+      "verse": 57,
+      "label": "57-59",
+      "char_start": 4028,
+      "char_end": 4215,
+      "text": "De los parientes de los ayudantes de Salomón regresaron todos aquellos que eran descendientes de Sotai, Soféret, Perudá, Jaalá, Darcón, Guidel, Sefatías, Hatil, Poquéret-hasebaím y Amón."
+    },
+    {
+      "verse": 60,
+      "label": "60",
+      "char_start": 4215,
+      "char_end": 4336,
+      "text": "Los que trabajaban en el templo y los descendientes de los ayudantes de Salomón eran en total trescientos noventa y dos."
+    },
+    {
+      "verse": 61,
+      "label": "61",
+      "char_start": 4336,
+      "char_end": 4553,
+      "text": "Algunos que llegaron de Tel-mélah, Tel-harsá, Querub, Imer y Adón no pudieron comprobar que eran israelitas; tampoco pudieron demostrar que sus padres fueran israelitas ni que estuvieran casados con alguna israelita."
+    },
+    {
+      "verse": 62,
+      "label": "62",
+      "char_start": 4553,
+      "char_end": 4660,
+      "text": "Esta gente era descendiente de Delaías, de Tobías y de Necodá, y en total eran seiscientos cuarenta y dos."
+    },
+    {
+      "verse": 63,
+      "label": "63",
+      "char_start": 4660,
+      "char_end": 4946,
+      "text": "De los parientes de los sacerdotes que no pudieron demostrar que en verdad eran sacerdotes, estaban los descendientes de Hobaías, Cos y Barzilai. Este Barzilai había tomado el apellido de su suegro. Se había casado con la hija de un hombre llamado también Barzilai y que era de Galaad."
+    },
+    {
+      "verse": 64,
+      "label": "64",
+      "char_start": 4946,
+      "char_end": 5070,
+      "text": "Todos estos buscaron sus nombres en la lista, pero no los encontraron, así que no se les permitió trabajar como sacerdotes."
+    },
+    {
+      "verse": 65,
+      "label": "65",
+      "char_start": 5070,
+      "char_end": 5247,
+      "text": "Además, el gobernador les prohibió comer de los alimentos ofrecidos a Dios, hasta que un sacerdote pudiera consultar a Dios por medio del Urim y el Tumim, para saber qué hacer."
+    },
+    {
+      "verse": 66,
+      "label": "66",
+      "char_start": 5247,
+      "char_end": 5329,
+      "text": "En total regresaron de Babilonia cuarenta y dos mil trescientas sesenta personas."
+    },
+    {
+      "verse": 67,
+      "label": "67",
+      "char_start": 5329,
+      "char_end": 5464,
+      "text": "Con esa gente vinieron siete mil trescientos treinta y siete sirvientes y sirvientas, además de doscientos cuarenta y cinco cantantes."
+    },
+    {
+      "verse": 68,
+      "label": "68",
+      "char_start": 5464,
+      "char_end": 5543,
+      "text": "Traían setecientos treinta y seis caballos, doscientas cuarenta y cinco mulas,"
+    },
+    {
+      "verse": 69,
+      "label": "69",
+      "char_start": 5543,
+      "char_end": 5620,
+      "text": "cuatrocientos treinta y cinco camellos y seis mil setecientos veinte burros."
+    },
+    {
+      "verse": 70,
+      "label": "70",
+      "char_start": 5620,
+      "char_end": 5824,
+      "text": "Algunos jefes de familia hicieron donaciones para el trabajo de reconstrucción. El gobernador entregó a la tesorería ocho kilos de oro, cincuenta tazones y quinientas treinta túnicas para los sacerdotes."
+    },
+    {
+      "verse": 71,
+      "label": "71",
+      "char_start": 5824,
+      "char_end": 5937,
+      "text": "Los jefes de familia entregaron a la tesorería ciento sesenta kilos de oro y mil doscientos diez kilos de plata."
+    },
+    {
+      "verse": 72,
+      "label": "72",
+      "char_start": 5937,
+      "char_end": 6069,
+      "text": "Todos los demás dieron en total ciento sesenta kilos de oro, mil cien kilos de plata y sesenta y siete túnicas para los sacerdotes."
+    },
+    {
+      "verse": 73,
+      "label": "73",
+      "char_start": 6069,
+      "char_end": 6248,
+      "text": "Todos los israelitas, incluidos los sacerdotes, sus ayudantes, los guardias de las entradas, los cantores y los servidores del templo de Dios, se quedaron a vivir en sus pueblos."
+    }
+  ],
+  "words": [
+    {
+      "word": "Cuando se terminó de reparar el muro, se colocaron los portones en su lugar y se eligieron los guardias de las entradas, los cantores y los ayudantes de los sacerdotes.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 9550,
+      "duration_ms": 9450
+    },
+    {
+      "word": "A mi hermano Hananí lo nombré gobernador de Jerusalén; a Hananías lo nombré jefe del palacio del rey, porque podía confiar en él, y además respetaba a Dios más que otras personas.",
+      "verse": 2,
+      "start_ms": 9500,
+      "end_ms": 20537,
+      "duration_ms": 11037
+    },
+    {
+      "word": "Les dije que no debían abrirse los portones de la ciudad antes de la salida del sol, y que debían cerrarse al atardecer, antes de que los guardias se retiraran.",
+      "verse": 3,
+      "start_ms": 20537,
+      "end_ms": 29399,
+      "duration_ms": 8862
+    },
+    {
+      "word": "Además, les ordené que nombraran guardias de entre los que vivían en Jerusalén, algunos para los puestos de vigilancia y otros para vigilar sus casas.",
+      "verse": 3,
+      "start_ms": 29400,
+      "end_ms": 38275,
+      "duration_ms": 8875
+    },
+    {
+      "word": "La ciudad de Jerusalén era grande y extensa, pero había poca gente en ella porque no se habían reconstruido las casas.",
+      "verse": 4,
+      "start_ms": 38275,
+      "end_ms": 45387,
+      "duration_ms": 7112
+    },
+    {
+      "word": "Entonces Dios me dio la idea de reunir a todos, incluyendo los jefes y asistentes, para hacer una lista de las familias.",
+      "verse": 5,
+      "start_ms": 45387,
+      "end_ms": 53162,
+      "duration_ms": 7775
+    },
+    {
+      "word": "Yo encontré el libro donde estaban anotados los que habían llegado antes, y en ese libro estaba escrito lo siguiente: Ésta es la lista de las personas de la provincia de Judá que volvieron de Babilonia.",
+      "verse": 5,
+      "start_ms": 53162,
+      "end_ms": 63999,
+      "duration_ms": 10837
+    },
+    {
+      "word": "Fueron llevados prisioneros por el rey Nabucodonosor de Babilonia, pero volvieron a Jerusalén y a otros lugares de Judá.",
+      "verse": 6,
+      "start_ms": 64000,
+      "end_ms": 70962,
+      "duration_ms": 6962
+    },
+    {
+      "word": "Cada uno volvió a su pueblo o ciudad.",
+      "verse": 6,
+      "start_ms": 70962,
+      "end_ms": 74037,
+      "duration_ms": 3075
+    },
+    {
+      "word": "Los líderes que los ayudaron fueron: Zorobabel, Josué, Nehemías, Azarías, Raamías, Nahamaní, Mardoqueo, Bilsán, Mispéret, Bigvai, Nehúm, Baaná.",
+      "verse": 7,
+      "start_ms": 74037,
+      "end_ms": 86587,
+      "duration_ms": 12550
+    },
+    {
+      "word": "De los descendientes de Parós regresaron dos mil ciento setenta y dos personas; de los descendientes de Sefatías, trescientas setenta y dos; de los de Árah, seiscientos cincuenta y dos; de los de Pahat-moab, dos mil ochocientos dieciocho.",
+      "verse": 8,
+      "start_ms": 86587,
+      "end_ms": 100774,
+      "duration_ms": 14187
+    },
+    {
+      "word": "Todos estos eran descendientes de Josué.",
+      "verse": 11,
+      "start_ms": 100775,
+      "end_ms": 103787,
+      "duration_ms": 3012
+    },
+    {
+      "word": "De los descendientes de Elam regresaron mil doscientos cincuenta y cuatro personas; de los descendientes de Zatú, ochocientos cuarenta y cinco; de los de Zacai, setecientos sesenta; de los de Binuy, seiscientos cuarenta y ocho; de los de Bebai, seiscientos veintiocho; de los descendientes de Azgad, dos mil trescientos veintidós; de los de Adonicam, seiscientos sesenta y siete; de los de Bigvai, dos mil sesenta y siete; de los de Adín, seiscientos cincuenta y cinco; y de los de Ater, noventa y",
+      "verse": 12,
+      "start_ms": 103787,
+      "end_ms": 133237,
+      "duration_ms": 29450
+    },
+    {
+      "word": "ocho.",
+      "verse": 21,
+      "start_ms": 133237,
+      "end_ms": 134637,
+      "duration_ms": 1400
+    },
+    {
+      "word": "Todos estos eran descendientes de Ezequías.",
+      "verse": 21,
+      "start_ms": 134637,
+      "end_ms": 137862,
+      "duration_ms": 3225
+    },
+    {
+      "word": "De los descendientes de Hasum regresaron trescientas veintiocho personas; de los descendientes de Besai, trescientos veinticuatro; de los de Harif, ciento doce; de los de Gabaón, noventa y cinco.",
+      "verse": 22,
+      "start_ms": 137862,
+      "end_ms": 150049,
+      "duration_ms": 12187
+    },
+    {
+      "word": "También volvieron los que vivían en las siguientes ciudades y pueblos: De Belén y Netofá regresaron ciento dieciocho personas; de Anatot, ciento veintiocho; de Bet-azmávet, cuarenta y dos; de Quiriat-jearim, Quefirá y Beerot, setecientos cuarenta y tres; de Ramá y de Gueba, seiscientos veintiuno; de Micmás, ciento veintidós; de Betel y de Ai, ciento veintitrés; de Nebo, cincuenta y dos personas; de Elam, mil doscientos cincuenta y cuatro; de Harim, trescientos veinte; de Jericó, trescientos",
+      "verse": 26,
+      "start_ms": 150050,
+      "end_ms": 182537,
+      "duration_ms": 32487
+    },
+    {
+      "word": "cuarenta y cinco; de Lod, Hadid y Onó, setecientos veintiuno; de Senaá, tres mil novecientos treinta.",
+      "verse": 36,
+      "start_ms": 182537,
+      "end_ms": 190349,
+      "duration_ms": 7812
+    },
+    {
+      "word": "De los sacerdotes regresaron los siguientes: De los descendientes de Jedaías, que eran familia de Josué, regresaron novecientos setenta y tres sacerdotes; de los descendientes de Imer, mil cincuenta y dos; de los de Pashur, mil doscientos cuarenta y siete; de los de Harim, mil diecisiete.",
+      "verse": 39,
+      "start_ms": 190350,
+      "end_ms": 207575,
+      "duration_ms": 17225
+    },
+    {
+      "word": "De los ayudantes de los sacerdotes regresaron setenta y cuatro de los descendientes de Josué y de Cadmiel, que eran de la familia de Hodavías.",
+      "verse": 43,
+      "start_ms": 207575,
+      "end_ms": 215387,
+      "duration_ms": 7812
+    },
+    {
+      "word": "De los cantores regresaron ciento cuarenta y ocho, que eran descendientes de Asaf.",
+      "verse": 44,
+      "start_ms": 215387,
+      "end_ms": 220324,
+      "duration_ms": 4937
+    },
+    {
+      "word": "De los vigilantes de las entradas, que eran descendientes de Salum, de Ater, de Talmón, de Acub, de Hatitá y de Sobai, regresaron ciento treinta y ocho.",
+      "verse": 45,
+      "start_ms": 220325,
+      "end_ms": 230287,
+      "duration_ms": 9962
+    },
+    {
+      "word": "De los que trabajaban en el templo regresaron todos aquellos que eran descendientes de: Sihá, Hasufá, Tabaot, Queros, Siahá, Padón, Lebaná, Hagabá, Salmai, Hanán, Guidel, Gáhar, Reaías, Resín, Necodá, Gazam, Uzá, Paséah, Besai, Meunim, Nefusim, Bacbuc, Hacufá, Harhur, Baslut, Mehidá, Harsá, Barcós, Sísara, Temá,",
+      "verse": 46,
+      "start_ms": 230287,
+      "end_ms": 257637,
+      "duration_ms": 27350
+    },
+    {
+      "word": "Nesíah, Hatifá.",
+      "verse": 46,
+      "start_ms": 257788,
+      "end_ms": 260163,
+      "duration_ms": 2375
+    },
+    {
+      "word": "De los parientes de los ayudantes de Salomón regresaron todos aquellos que eran descendientes de Sotai, Soféret, Perudá, Jaalá, Darcón, Guidel, Sefatías, Hatil, Poquéret-hasebaím y Amón.",
+      "verse": 57,
+      "start_ms": 260113,
+      "end_ms": 273063,
+      "duration_ms": 12950
+    },
+    {
+      "word": "Los que trabajaban en el templo y los descendientes de los ayudantes de Salomón eran en total trescientos noventa y dos.",
+      "verse": 60,
+      "start_ms": 273063,
+      "end_ms": 279675,
+      "duration_ms": 6612
+    },
+    {
+      "word": "Algunos que llegaron de Tel-mélah, Tel-harsá, Querub, Imer y Adón no pudieron comprobar que eran israelitas; tampoco pudieron demostrar que sus padres fueran israelitas ni que estuvieran casados con alguna israelita.",
+      "verse": 61,
+      "start_ms": 279675,
+      "end_ms": 292175,
+      "duration_ms": 12500
+    },
+    {
+      "word": "Esta gente era descendiente de Delaías, de Tobías y de Necodá, y en total eran seiscientos cuarenta y dos.",
+      "verse": 62,
+      "start_ms": 292175,
+      "end_ms": 299312,
+      "duration_ms": 7137
+    },
+    {
+      "word": "De los parientes de los sacerdotes que no pudieron demostrar que en verdad eran sacerdotes, estaban los descendientes de Hobaías, Cos y Barzilai.",
+      "verse": 63,
+      "start_ms": 299313,
+      "end_ms": 307413,
+      "duration_ms": 8100
+    },
+    {
+      "word": "Este Barzilai había tomado el apellido de su suegro.",
+      "verse": 63,
+      "start_ms": 307413,
+      "end_ms": 311088,
+      "duration_ms": 3675
+    },
+    {
+      "word": "Se había casado con la hija de un hombre llamado también Barzilai y que era de Galaad.",
+      "verse": 63,
+      "start_ms": 311088,
+      "end_ms": 316338,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Todos estos buscaron sus nombres en la lista, pero no los encontraron, así que no se les permitió trabajar como sacerdotes.",
+      "verse": 64,
+      "start_ms": 316338,
+      "end_ms": 324013,
+      "duration_ms": 7675
+    },
+    {
+      "word": "Además, el gobernador les prohibió comer de los alimentos ofrecidos a Dios, hasta que un sacerdote pudiera consultar a Dios por medio del Urim y el Tumim, para saber qué hacer.",
+      "verse": 65,
+      "start_ms": 324013,
+      "end_ms": 334500,
+      "duration_ms": 10487
+    },
+    {
+      "word": "En total regresaron de Babilonia cuarenta y dos mil trescientas sesenta personas.",
+      "verse": 66,
+      "start_ms": 334500,
+      "end_ms": 339625,
+      "duration_ms": 5125
+    },
+    {
+      "word": "Con esa gente vinieron siete mil trescientos treinta y siete sirvientes y sirvientas, además de doscientos cuarenta y cinco cantantes.",
+      "verse": 67,
+      "start_ms": 339625,
+      "end_ms": 347462,
+      "duration_ms": 7837
+    },
+    {
+      "word": "Traían setecientos treinta y seis caballos, doscientas cuarenta y cinco mulas, cuatrocientos treinta y cinco camellos y seis mil setecientos veinte burros.",
+      "verse": 68,
+      "start_ms": 347463,
+      "end_ms": 356875,
+      "duration_ms": 9412
+    },
+    {
+      "word": "Algunos jefes de familia hicieron donaciones para el trabajo de reconstrucción.",
+      "verse": 70,
+      "start_ms": 356875,
+      "end_ms": 361612,
+      "duration_ms": 4737
+    },
+    {
+      "word": "El gobernador entregó a la tesorería ocho kilos de oro, cincuenta tazones y quinientas treinta túnicas para los sacerdotes.",
+      "verse": 70,
+      "start_ms": 361613,
+      "end_ms": 369400,
+      "duration_ms": 7787
+    },
+    {
+      "word": "Los jefes de familia entregaron a la tesorería ciento sesenta kilos de oro y mil doscientos diez kilos de plata.",
+      "verse": 71,
+      "start_ms": 369400,
+      "end_ms": 376112,
+      "duration_ms": 6712
+    },
+    {
+      "word": "Todos los demás dieron en total ciento sesenta kilos de oro, mil cien kilos de plata y sesenta y siete túnicas para los sacerdotes.",
+      "verse": 72,
+      "start_ms": 376113,
+      "end_ms": 383925,
+      "duration_ms": 7812
+    },
+    {
+      "word": "Todos los israelitas, incluidos los sacerdotes, sus ayudantes, los guardias de las entradas, los cantores y los servidores del templo de Dios, se quedaron a vivir en sus pueblos.",
+      "verse": 73,
+      "start_ms": 383925,
+      "end_ms": 395175,
+      "duration_ms": 11250
+    }
+  ]
+}

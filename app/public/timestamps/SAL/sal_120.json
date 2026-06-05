@@ -1,0 +1,124 @@
+{
+  "book": "SAL",
+  "chapter": 120,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 7,
+  "word_count": 9,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 67,
+      "text": "Dios mío, cuando me siento angustiado, te llamo y tú me respondes."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 67,
+      "char_end": 139,
+      "text": "Dios mío, sálvame de la gente mentirosa; sálvame de la gente embustera."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 139,
+      "char_end": 208,
+      "text": "¡Muy mal les va a ir a ustedes, mentirosos! ¡Dios los va a castigar!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 208,
+      "char_end": 292,
+      "text": "¡Les disparará flechas puntiagudas y encendidas, como las que lanzan los guerreros!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 292,
+      "char_end": 362,
+      "text": "¡Pobre de mí! ¡Soy un hombre sin patria que vive entre gente salvaje!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 362,
+      "char_end": 421,
+      "text": "¡Ya he vivido mucho tiempo entre los que aborrecen la paz!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 421,
+      "char_end": 504,
+      "text": "Yo soy un hombre tranquilo, ¡pero ellos hablan de guerra mientras yo hablo de paz!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios mío, cuando me siento angustiado, te llamo y tú me respondes.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5100,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Dios mío, sálvame de la gente mentirosa; sálvame de la gente embustera.",
+      "verse": 2,
+      "start_ms": 5050,
+      "end_ms": 10500,
+      "duration_ms": 5450
+    },
+    {
+      "word": "Muy mal les va a ir a ustedes, mentirosos!",
+      "verse": 3,
+      "start_ms": 10500,
+      "end_ms": 14012,
+      "duration_ms": 3512
+    },
+    {
+      "word": "Dios los va a castigar!",
+      "verse": 3,
+      "start_ms": 14012,
+      "end_ms": 16212,
+      "duration_ms": 2200
+    },
+    {
+      "word": "Les disparará flechas puntiagudas y encendidas, como las que lanzan los guerreros!",
+      "verse": 4,
+      "start_ms": 16212,
+      "end_ms": 21674,
+      "duration_ms": 5462
+    },
+    {
+      "word": "Pobre de mí!",
+      "verse": 5,
+      "start_ms": 21675,
+      "end_ms": 23300,
+      "duration_ms": 1625
+    },
+    {
+      "word": "Soy un hombre sin patria que vive entre gente salvaje!",
+      "verse": 5,
+      "start_ms": 23300,
+      "end_ms": 27125,
+      "duration_ms": 3825
+    },
+    {
+      "word": "Ya he vivido mucho tiempo entre los que aborrecen la paz!",
+      "verse": 6,
+      "start_ms": 27125,
+      "end_ms": 30925,
+      "duration_ms": 3800
+    },
+    {
+      "word": "Yo soy un hombre tranquilo, ¡pero ellos hablan de guerra mientras yo hablo de paz!",
+      "verse": 7,
+      "start_ms": 30925,
+      "end_ms": 35987,
+      "duration_ms": 5062
+    }
+  ]
+}

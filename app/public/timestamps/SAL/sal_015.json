@@ -1,0 +1,68 @@
+{
+  "book": "SAL",
+  "chapter": 15,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 5,
+  "word_count": 3,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 91,
+      "text": "Dime, Dios mío, ¿quién puede vivir en tu santuario?, ¿quién puede vivir en tu monte santo?"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 91,
+      "char_end": 194,
+      "text": "Sólo quien hace lo bueno y practica la justicia; sólo quien piensa en la verdad y habla con la verdad;"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 194,
+      "char_end": 271,
+      "text": "sólo quien no habla mal de nadie ni busca el mal de nadie ni ofende a nadie;"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 271,
+      "char_end": 409,
+      "text": "sólo quien desprecia al que merece desprecio, pero respeta a quien honra a Dios; sólo quien cumple lo que promete aunque salga perdiendo;"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 409,
+      "char_end": 553,
+      "text": "sólo quien presta dinero sin cobrar intereses, y jamás acepta dinero para perjudicar al inocente. Quien así se comporta, vivirá siempre seguro."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dime, Dios mío, ¿quién puede vivir en tu santuario?, ¿quién puede vivir en tu monte santo?",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6125,
+      "duration_ms": 6025
+    },
+    {
+      "word": "Sólo quien hace lo bueno y practica la justicia; sólo quien piensa en la verdad y habla con la verdad; sólo quien no habla mal de nadie ni busca el mal de nadie ni ofende a nadie; sólo quien desprecia al que merece desprecio, pero respeta a quien honra a Dios; sólo quien cumple lo que promete aunque salga perdiendo; sólo quien presta dinero sin cobrar intereses, y jamás acepta dinero para perjudicar al inocente.",
+      "verse": 2,
+      "start_ms": 6075,
+      "end_ms": 29187,
+      "duration_ms": 23112
+    },
+    {
+      "word": "Quien así se comporta, vivirá siempre seguro.",
+      "verse": 5,
+      "start_ms": 29187,
+      "end_ms": 32724,
+      "duration_ms": 3537
+    }
+  ]
+}

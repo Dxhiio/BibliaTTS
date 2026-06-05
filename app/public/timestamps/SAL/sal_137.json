@@ -1,0 +1,173 @@
+{
+  "book": "SAL",
+  "chapter": 137,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 8,
+  "word_count": 15,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 165,
+      "text": "Cuando estábamos en Babilonia, lejos de nuestro país, acostumbrábamos sentarnos a la orilla de sus ríos. ¡No podíamos contener el llanto al acordarnos de Jerusalén!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 165,
+      "char_end": 247,
+      "text": "En las ramas de los árboles que crecen junto a esos ríos colgamos nuestras arpas."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 247,
+      "char_end": 423,
+      "text": "Los mismos soldados que nos sacaron de Israel y nos hacían trabajar, nos pedían estar alegres; ¡querían oírnos cantar! ¡Querían que les cantáramos canciones de nuestra tierra!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 423,
+      "char_end": 493,
+      "text": "¡Jamás cantaríamos en tierra de extranjeros alabanzas a nuestro Dios!"
+    },
+    {
+      "verse": 5,
+      "label": "5-6",
+      "char_start": 493,
+      "char_end": 644,
+      "text": "¡Jerusalén, Jerusalén! Si llegara yo a olvidarte, ¡que la mano derecha se me seque! ¡Que me corten la lengua si por estar alegre dejo de pensar en ti!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 644,
+      "char_end": 788,
+      "text": "El día que Jerusalén cayó, los edomitas gritaban: ¡Acaben con la ciudad! ¡Que no quede rastro de ella! Dios mío, ¡no te olvides de esos gritos!"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 788,
+      "char_end": 911,
+      "text": "Un día, ciudad de Babilonia, ¡también tú serás destruida! ¡Dios habrá de bendecir a los que te paguen con la misma moneda!"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 911,
+      "char_end": 999,
+      "text": "¡Dios habrá de bendecir a los que agarren a tus hijos y los estrellen contra los muros!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Cuando estábamos en Babilonia, lejos de nuestro país, acostumbrábamos sentarnos a la orilla de sus ríos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6862,
+      "duration_ms": 6762
+    },
+    {
+      "word": "No podíamos contener el llanto al acordarnos de Jerusalén!",
+      "verse": 1,
+      "start_ms": 6812,
+      "end_ms": 10774,
+      "duration_ms": 3962
+    },
+    {
+      "word": "En las ramas de los árboles que crecen junto a esos ríos colgamos nuestras arpas.",
+      "verse": 2,
+      "start_ms": 10775,
+      "end_ms": 15850,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Los mismos soldados que nos sacaron de Israel y nos hacían trabajar, nos pedían estar alegres; ¡querían oírnos cantar!",
+      "verse": 3,
+      "start_ms": 15850,
+      "end_ms": 23412,
+      "duration_ms": 7562
+    },
+    {
+      "word": "Querían que les cantáramos canciones de nuestra tierra!",
+      "verse": 3,
+      "start_ms": 23412,
+      "end_ms": 26949,
+      "duration_ms": 3537
+    },
+    {
+      "word": "Jamás cantaríamos en tierra de extranjeros alabanzas a nuestro Dios!",
+      "verse": 4,
+      "start_ms": 26950,
+      "end_ms": 31525,
+      "duration_ms": 4575
+    },
+    {
+      "word": "Jerusalén, Jerusalén!",
+      "verse": 5,
+      "start_ms": 31525,
+      "end_ms": 34237,
+      "duration_ms": 2712
+    },
+    {
+      "word": "Si llegara yo a olvidarte, ¡que la mano derecha se me seque!",
+      "verse": 5,
+      "start_ms": 34237,
+      "end_ms": 38374,
+      "duration_ms": 4137
+    },
+    {
+      "word": "Que me corten la lengua si por estar alegre dejo de pensar en ti!",
+      "verse": 5,
+      "start_ms": 38375,
+      "end_ms": 42400,
+      "duration_ms": 4025
+    },
+    {
+      "word": "El día que Jerusalén cayó, los edomitas gritaban: ¡Acaben con la ciudad!",
+      "verse": 7,
+      "start_ms": 42400,
+      "end_ms": 47625,
+      "duration_ms": 5225
+    },
+    {
+      "word": "Que no quede rastro de ella!",
+      "verse": 7,
+      "start_ms": 47625,
+      "end_ms": 49987,
+      "duration_ms": 2362
+    },
+    {
+      "word": "Dios mío, ¡no te olvides de esos gritos!",
+      "verse": 7,
+      "start_ms": 49987,
+      "end_ms": 53249,
+      "duration_ms": 3262
+    },
+    {
+      "word": "Un día, ciudad de Babilonia, ¡también tú serás destruida!",
+      "verse": 8,
+      "start_ms": 53250,
+      "end_ms": 57762,
+      "duration_ms": 4512
+    },
+    {
+      "word": "Dios habrá de bendecir a los que te paguen con la misma moneda!",
+      "verse": 8,
+      "start_ms": 57762,
+      "end_ms": 61712,
+      "duration_ms": 3950
+    },
+    {
+      "word": "Dios habrá de bendecir a los que agarren a tus hijos y los estrellen contra los muros!",
+      "verse": 9,
+      "start_ms": 61712,
+      "end_ms": 66937,
+      "duration_ms": 5225
+    }
+  ]
+}

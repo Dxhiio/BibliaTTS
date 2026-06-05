@@ -1,0 +1,579 @@
+{
+  "book": "SAL",
+  "chapter": 107,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 43,
+  "word_count": 38,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 93,
+      "text": "¡Alabemos a nuestro Dios! ¡Démosle gracias, porque él es bueno! ¡Dios nunca deja de amarnos!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 93,
+      "char_end": 160,
+      "text": "¡Digámoslo nosotros, pues él nos liberó del poder de los egipcios!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 160,
+      "char_end": 275,
+      "text": "Digámoslo nosotros, que somos su pueblo, pueblo que él reunió de países del norte y del sur, del este y del oeste."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 275,
+      "char_end": 397,
+      "text": "Nuestros abuelos andaban sin rumbo y por lugares desiertos; no encontraban el camino que los llevara a un lugar habitado."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 397,
+      "char_end": 468,
+      "text": "Tenían hambre y sed, y habían perdido la esperanza de quedar con vida."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 468,
+      "char_end": 535,
+      "text": "Llenos de angustia, oraron a Dios, y él los libró de su aflicción."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 535,
+      "char_end": 604,
+      "text": "Los puso en el camino correcto que los llevaría a un lugar habitado."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 604,
+      "char_end": 682,
+      "text": "¡Demos gracias a Dios por su amor, por todo lo que ha hecho en favor nuestro!"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 682,
+      "char_end": 743,
+      "text": "¡Dios calma la sed del sediento, y el hambre del hambriento!"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 743,
+      "char_end": 840,
+      "text": "Nuestros abuelos estaban afligidos, vivían en la esclavitud y no sabían qué hacer ni a dónde ir,"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 840,
+      "char_end": 923,
+      "text": "pues no tomaron en cuenta los consejos del Dios altísimo y se rebelaron contra él."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 923,
+      "char_end": 1013,
+      "text": "Por eso Dios los castigó con los trabajos más pesados; tropezaban, y nadie los levantaba."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1013,
+      "char_end": 1080,
+      "text": "Llenos de angustia, oraron a Dios, y él los salvó de su aflicción,"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1080,
+      "char_end": 1140,
+      "text": "les mostró el camino a seguir y los libró de su esclavitud."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1140,
+      "char_end": 1218,
+      "text": "¡Demos gracias a Dios por su amor, por todo lo que ha hecho en favor nuestro!"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1218,
+      "char_end": 1305,
+      "text": "¡Hizo pedazos las puertas de bronce y las barras de hierro que nos tenían prisioneros!"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1305,
+      "char_end": 1407,
+      "text": "Nuestros abuelos fueron tan rebeldes que se portaron como unos tontos; sufrieron mucho por su maldad."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1407,
+      "char_end": 1465,
+      "text": "¡Tan enfermos se pusieron que al ver la comida vomitaban!"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1465,
+      "char_end": 1532,
+      "text": "Llenos de angustia, oraron a Dios, y él los salvó de su aflicción;"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1532,
+      "char_end": 1590,
+      "text": "con sólo una orden los sanó. ¡Así los salvó de la muerte!"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1590,
+      "char_end": 1668,
+      "text": "¡Demos gracias a Dios por su amor, por todo lo que ha hecho en favor nuestro!"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1668,
+      "char_end": 1790,
+      "text": "¡Démosle muestras de gratitud, y presentémosle ofrendas! ¡Anunciemos entre gritos de alegría las maravillas que ha hecho!"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1790,
+      "char_end": 1874,
+      "text": "Nuestros abuelos compraron barcos y se ganaron la vida comerciando en otros países."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1874,
+      "char_end": 1938,
+      "text": "En alta mar presenciaron la acción maravillosa de nuestro Dios:"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1938,
+      "char_end": 2010,
+      "text": "Dios dio una orden, y vino un fuerte viento que levantaba grandes olas."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2010,
+      "char_end": 2104,
+      "text": "Cuando se vieron en peligro, los marineros perdieron el valor; eran lanzados de arriba abajo,"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2104,
+      "char_end": 2206,
+      "text": "y de nada les servía ser marineros expertos, pues se tropezaban y caían como si estuvieran borrachos."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2206,
+      "char_end": 2272,
+      "text": "Llenos de angustia, oraron a Dios, y él los sacó de su aflicción;"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2272,
+      "char_end": 2330,
+      "text": "calmó la furia de la tormenta, y aplacó las olas del mar."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2330,
+      "char_end": 2422,
+      "text": "Cuando se calmó la tormenta, ellos se pusieron muy contentos y Dios los llevó a su destino."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2422,
+      "char_end": 2500,
+      "text": "¡Demos gracias a Dios por su amor, por todo lo que ha hecho en favor nuestro!"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2500,
+      "char_end": 2549,
+      "text": "¡Que lo alaben todo el pueblo y sus gobernantes!"
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 2549,
+      "char_end": 2605,
+      "text": "Dios convirtió en desiertos los ríos y los manantiales,"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 2605,
+      "char_end": 2711,
+      "text": "pero a la tierra fértil la convirtió en tierra inútil, porque los que allí vivían eran gente muy malvada;"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 2711,
+      "char_end": 2799,
+      "text": "en cambio, al desierto lo convirtió en tierra fértil, rodeada de lagunas y manantiales."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 2799,
+      "char_end": 2893,
+      "text": "Al pueblo que había pasado hambre, lo dejó vivir allí, y ellos construyeron grandes ciudades,"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 2893,
+      "char_end": 2962,
+      "text": "sembraron campos, plantaron viñedos, y tuvieron muy buenas cosechas."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 2962,
+      "char_end": 3051,
+      "text": "Dios les dio su bendición, y ellos tuvieron muchos hijos y sus ganados se multiplicaron."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 3051,
+      "char_end": 3163,
+      "text": "Tiempo después, los malvados los humillaron y los hicieron sufrir, hasta que sólo unos pocos quedaron con vida."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 3163,
+      "char_end": 3244,
+      "text": "Pero Dios castigó a esos malvados y los hizo perderse por desiertos sin caminos."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 3244,
+      "char_end": 3341,
+      "text": "A la gente pobre Dios la saca de su aflicción y hace que sus familias aumenten como sus rebaños."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 3341,
+      "char_end": 3433,
+      "text": "Cuando la gente honrada ve esto, se llena de alegría; pero los malvados se quedan callados."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 3433,
+      "char_end": 3517,
+      "text": "Tomen esto en cuenta los sabios, y pónganse a meditar en lo mucho que Dios nos ama."
+    }
+  ],
+  "words": [
+    {
+      "word": "Alabemos a nuestro Dios!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 2475,
+      "duration_ms": 2375
+    },
+    {
+      "word": "Démosle gracias, porque él es bueno!",
+      "verse": 1,
+      "start_ms": 2425,
+      "end_ms": 5512,
+      "duration_ms": 3087
+    },
+    {
+      "word": "Dios nunca deja de amarnos!",
+      "verse": 1,
+      "start_ms": 5512,
+      "end_ms": 8087,
+      "duration_ms": 2575
+    },
+    {
+      "word": "Digámoslo nosotros, pues él nos liberó del poder de los egipcios!",
+      "verse": 2,
+      "start_ms": 8087,
+      "end_ms": 12924,
+      "duration_ms": 4837
+    },
+    {
+      "word": "Digámoslo nosotros, que somos su pueblo, pueblo que él reunió de países del norte y del sur, del este y del oeste.",
+      "verse": 3,
+      "start_ms": 12925,
+      "end_ms": 20650,
+      "duration_ms": 7725
+    },
+    {
+      "word": "Nuestros abuelos andaban sin rumbo y por lugares desiertos; no encontraban el camino que los llevara a un lugar habitado.",
+      "verse": 4,
+      "start_ms": 20650,
+      "end_ms": 27787,
+      "duration_ms": 7137
+    },
+    {
+      "word": "Tenían hambre y sed, y habían perdido la esperanza de quedar con vida.",
+      "verse": 5,
+      "start_ms": 27787,
+      "end_ms": 32524,
+      "duration_ms": 4737
+    },
+    {
+      "word": "Llenos de angustia, oraron a Dios, y él los libró de su aflicción.",
+      "verse": 6,
+      "start_ms": 32525,
+      "end_ms": 37225,
+      "duration_ms": 4700
+    },
+    {
+      "word": "Los puso en el camino correcto que los llevaría a un lugar habitado.",
+      "verse": 7,
+      "start_ms": 37225,
+      "end_ms": 41562,
+      "duration_ms": 4337
+    },
+    {
+      "word": "Demos gracias a Dios por su amor, por todo lo que ha hecho en favor nuestro!",
+      "verse": 8,
+      "start_ms": 41562,
+      "end_ms": 46299,
+      "duration_ms": 4737
+    },
+    {
+      "word": "Dios calma la sed del sediento, y el hambre del hambriento!",
+      "verse": 9,
+      "start_ms": 46300,
+      "end_ms": 50462,
+      "duration_ms": 4162
+    },
+    {
+      "word": "Nuestros abuelos estaban afligidos, vivían en la esclavitud y no sabían qué hacer ni a dónde ir, pues no tomaron en cuenta los consejos del Dios altísimo y se rebelaron contra él.",
+      "verse": 10,
+      "start_ms": 50462,
+      "end_ms": 60712,
+      "duration_ms": 10250
+    },
+    {
+      "word": "Por eso Dios los castigó con los trabajos más pesados; tropezaban, y nadie los levantaba.",
+      "verse": 12,
+      "start_ms": 60712,
+      "end_ms": 66949,
+      "duration_ms": 6237
+    },
+    {
+      "word": "Llenos de angustia, oraron a Dios, y él los salvó de su aflicción, les mostró el camino a seguir y los libró de su esclavitud.",
+      "verse": 13,
+      "start_ms": 66950,
+      "end_ms": 74787,
+      "duration_ms": 7837
+    },
+    {
+      "word": "Demos gracias a Dios por su amor, por todo lo que ha hecho en favor nuestro!",
+      "verse": 15,
+      "start_ms": 74787,
+      "end_ms": 79524,
+      "duration_ms": 4737
+    },
+    {
+      "word": "Hizo pedazos las puertas de bronce y las barras de hierro que nos tenían prisioneros!",
+      "verse": 16,
+      "start_ms": 79525,
+      "end_ms": 84637,
+      "duration_ms": 5112
+    },
+    {
+      "word": "Nuestros abuelos fueron tan rebeldes que se portaron como unos tontos; sufrieron mucho por su maldad.",
+      "verse": 17,
+      "start_ms": 84637,
+      "end_ms": 90887,
+      "duration_ms": 6250
+    },
+    {
+      "word": "Tan enfermos se pusieron que al ver la comida vomitaban!",
+      "verse": 18,
+      "start_ms": 90887,
+      "end_ms": 94462,
+      "duration_ms": 3575
+    },
+    {
+      "word": "Llenos de angustia, oraron a Dios, y él los salvó de su aflicción; con sólo una orden los sanó.",
+      "verse": 19,
+      "start_ms": 94462,
+      "end_ms": 100924,
+      "duration_ms": 6462
+    },
+    {
+      "word": "Así los salvó de la muerte!",
+      "verse": 20,
+      "start_ms": 100925,
+      "end_ms": 103312,
+      "duration_ms": 2387
+    },
+    {
+      "word": "Demos gracias a Dios por su amor, por todo lo que ha hecho en favor nuestro!",
+      "verse": 21,
+      "start_ms": 103312,
+      "end_ms": 108049,
+      "duration_ms": 4737
+    },
+    {
+      "word": "Démosle muestras de gratitud, y presentémosle ofrendas!",
+      "verse": 22,
+      "start_ms": 108050,
+      "end_ms": 112300,
+      "duration_ms": 4250
+    },
+    {
+      "word": "Anunciemos entre gritos de alegría las maravillas que ha hecho!",
+      "verse": 22,
+      "start_ms": 112300,
+      "end_ms": 116212,
+      "duration_ms": 3912
+    },
+    {
+      "word": "Nuestros abuelos compraron barcos y se ganaron la vida comerciando en otros países.",
+      "verse": 23,
+      "start_ms": 116212,
+      "end_ms": 121412,
+      "duration_ms": 5200
+    },
+    {
+      "word": "En alta mar presenciaron la acción maravillosa de nuestro Dios: Dios dio una orden, y vino un fuerte viento que levantaba grandes olas.",
+      "verse": 24,
+      "start_ms": 121412,
+      "end_ms": 129887,
+      "duration_ms": 8475
+    },
+    {
+      "word": "Cuando se vieron en peligro, los marineros perdieron el valor; eran lanzados de arriba abajo, y de nada les servía ser marineros expertos, pues se tropezaban y caían como si estuvieran borrachos.",
+      "verse": 26,
+      "start_ms": 129887,
+      "end_ms": 141724,
+      "duration_ms": 11837
+    },
+    {
+      "word": "Llenos de angustia, oraron a Dios, y él los sacó de su aflicción; calmó la furia de la tormenta, y aplacó las olas del mar.",
+      "verse": 28,
+      "start_ms": 141725,
+      "end_ms": 149762,
+      "duration_ms": 8037
+    },
+    {
+      "word": "Cuando se calmó la tormenta, ellos se pusieron muy contentos y Dios los llevó a su destino.",
+      "verse": 30,
+      "start_ms": 149762,
+      "end_ms": 155462,
+      "duration_ms": 5700
+    },
+    {
+      "word": "Demos gracias a Dios por su amor, por todo lo que ha hecho en favor nuestro!",
+      "verse": 31,
+      "start_ms": 155462,
+      "end_ms": 160199,
+      "duration_ms": 4737
+    },
+    {
+      "word": "Que lo alaben todo el pueblo y sus gobernantes!",
+      "verse": 32,
+      "start_ms": 160200,
+      "end_ms": 163500,
+      "duration_ms": 3300
+    },
+    {
+      "word": "Dios convirtió en desiertos los ríos y los manantiales, pero a la tierra fértil la convirtió en tierra inútil, porque los que allí vivían eran gente muy malvada; en cambio, al desierto lo convirtió en tierra fértil, rodeada de lagunas y manantiales.",
+      "verse": 33,
+      "start_ms": 163500,
+      "end_ms": 177962,
+      "duration_ms": 14462
+    },
+    {
+      "word": "Al pueblo que había pasado hambre, lo dejó vivir allí, y ellos construyeron grandes ciudades, sembraron campos, plantaron viñedos, y tuvieron muy buenas cosechas.",
+      "verse": 36,
+      "start_ms": 177962,
+      "end_ms": 188424,
+      "duration_ms": 10462
+    },
+    {
+      "word": "Dios les dio su bendición, y ellos tuvieron muchos hijos y sus ganados se multiplicaron.",
+      "verse": 38,
+      "start_ms": 188425,
+      "end_ms": 194125,
+      "duration_ms": 5700
+    },
+    {
+      "word": "Tiempo después, los malvados los humillaron y los hicieron sufrir, hasta que sólo unos pocos quedaron con vida.",
+      "verse": 39,
+      "start_ms": 194125,
+      "end_ms": 200975,
+      "duration_ms": 6850
+    },
+    {
+      "word": "Pero Dios castigó a esos malvados y los hizo perderse por desiertos sin caminos.",
+      "verse": 40,
+      "start_ms": 200975,
+      "end_ms": 206262,
+      "duration_ms": 5287
+    },
+    {
+      "word": "A la gente pobre Dios la saca de su aflicción y hace que sus familias aumenten como sus rebaños.",
+      "verse": 41,
+      "start_ms": 206262,
+      "end_ms": 212099,
+      "duration_ms": 5837
+    },
+    {
+      "word": "Cuando la gente honrada ve esto, se llena de alegría; pero los malvados se quedan callados.",
+      "verse": 42,
+      "start_ms": 212100,
+      "end_ms": 218212,
+      "duration_ms": 6112
+    },
+    {
+      "word": "Tomen esto en cuenta los sabios, y pónganse a meditar en lo mucho que Dios nos ama.",
+      "verse": 43,
+      "start_ms": 218212,
+      "end_ms": 223374,
+      "duration_ms": 5162
+    }
+  ]
+}

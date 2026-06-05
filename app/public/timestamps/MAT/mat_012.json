@@ -1,0 +1,936 @@
+{
+  "book": "MAT",
+  "chapter": 12,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 48,
+  "word_count": 84,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 159,
+      "text": "Un sábado, Jesús y sus discípulos andaban por un campo sembrado de trigo. Los discípulos tuvieron hambre y comenzaron a arrancar espigas y a comerse el grano."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 159,
+      "char_end": 328,
+      "text": "Cuando los fariseos vieron que los discípulos arrancaban trigo, le dijeron a Jesús: —¡Mira lo que hacen tus discípulos! ¡Está prohibido hacer eso en el día de descanso!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 328,
+      "char_end": 446,
+      "text": "Jesús les respondió: —¿No han leído en la Biblia lo que hizo el rey David cuando él y sus compañeros tuvieron hambre?"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 446,
+      "char_end": 604,
+      "text": "Entraron en la casa de Dios y comieron el pan sagrado. Ni a David ni a sus compañeros les estaba permitido comer ese pan. Sólo los sacerdotes podían comerlo."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 604,
+      "char_end": 769,
+      "text": "¿Tampoco han leído los libros de la ley de Moisés? ¿No saben que los sacerdotes pueden trabajar en el templo en el día de descanso, sin que nadie los acuse de nada?"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 769,
+      "char_end": 834,
+      "text": "Pues les aseguro que aquí hay algo más importante que el templo."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 834,
+      "char_end": 1010,
+      "text": "Ustedes no entienden esto que Dios dijo: «No quiero que me sacrifiquen animales, sino que amen y ayuden a los demás». Si lo entendieran, no estarían acusando a gente inocente."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1010,
+      "char_end": 1129,
+      "text": "Porque yo, el Hijo del hombre, soy quien decide lo que puede hacerse en el día de descanso, y lo que no puede hacerse."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1129,
+      "char_end": 1176,
+      "text": "Jesús se fue y entró en la sinagoga del lugar."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1176,
+      "char_end": 1375,
+      "text": "Allí había un hombre que tenía una mano tullida. Como los fariseos buscaban la manera de acusar de algo malo a Jesús, le preguntaron: —¿Permite nuestra ley sanar a una persona en el día de descanso?"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1375,
+      "char_end": 1517,
+      "text": "Jesús les respondió: —Si a uno de ustedes se le cayera una oveja en un pozo en el día de descanso, ¿la sacaría de allí? ¡Por supuesto que sí!"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1517,
+      "char_end": 1625,
+      "text": "¡Pues una persona vale mucho más que una oveja! Por eso está permitido hacer el bien en el día de descanso."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1625,
+      "char_end": 1766,
+      "text": "Luego Jesús le dijo al hombre que no podía mover la mano: Extiende tu mano. El hombre la extendió, y la mano le quedó tan sana como la otra."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1766,
+      "char_end": 1860,
+      "text": "Entonces los fariseos salieron de la sinagoga y comenzaron a hacer planes para matar a Jesús."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1860,
+      "char_end": 1998,
+      "text": "Al enterarse Jesús de lo que planeaban los fariseos, se fue de allí, y mucha gente lo siguió. Jesús sanó a todos los que estaban enfermos"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1998,
+      "char_end": 2054,
+      "text": "y les ordenó que no contaran a nadie nada acerca de él."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2054,
+      "char_end": 2123,
+      "text": "Así se cumplió lo que Dios había dicho por medio del profeta Isaías:"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2123,
+      "char_end": 2296,
+      "text": "¡Miren a mi elegido, al que he llamado a mi servicio! Yo lo amo mucho, y él me llena de alegría. Yo pondré en él mi Espíritu, y él anunciará mi justicia entre las naciones."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2296,
+      "char_end": 2371,
+      "text": "No discutirá con nadie, ni gritará. ¡Nadie escuchará su voz en las calles!"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2371,
+      "char_end": 2537,
+      "text": "No les causará más daño a los que estén heridos, ni acabará de matar a los que estén agonizando. Al contrario, fortalecerá a los débiles y hará triunfar la justicia."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2537,
+      "char_end": 2584,
+      "text": "¡Todas las personas del mundo confiarán en él!"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2584,
+      "char_end": 2749,
+      "text": "Unas personas llevaron un hombre a Jesús para que lo sanara. Ese hombre era ciego y mudo porque tenía un demonio. Pero Jesús lo sanó, y el hombre pudo ver y hablar."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2749,
+      "char_end": 2871,
+      "text": "La gente estaba asombrada de lo que Jesús hacía, y se preguntaba: ¿Será Jesús el Mesías que Dios prometió para salvarnos?"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2871,
+      "char_end": 3039,
+      "text": "Pero algunos de los fariseos oyeron a la gente y pensaron: Jesús libera de los demonios a la gente, porque Beelzebú, el jefe de los demonios, le da poder para hacerlo."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3039,
+      "char_end": 3354,
+      "text": "Jesús se dio cuenta de lo que ellos pensaban, y les dijo: Si los habitantes de un país se pelean entre ellos, el país quedará destruido. Si los habitantes de una ciudad se pelean unos contra otros, la ciudad quedará en ruinas. Y si los miembros de una familia se pelean entre ellos mismos, se destruirá la familia."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3354,
+      "char_end": 3415,
+      "text": "Si Satanás lucha contra él mismo, destruirá su propio reino."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3415,
+      "char_end": 3693,
+      "text": "Según ustedes, yo expulso los demonios porque Satanás me da ese poder. Si eso es cierto, entonces ¿quién les da poder a los discípulos de ustedes para echar fuera los demonios? Si ustedes me responden que Dios les da ese poder, quedará demostrado que ustedes están equivocados."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3693,
+      "char_end": 3817,
+      "text": "Y si yo echo fuera los demonios con el poder del Espíritu de Dios, con eso les demuestro que el reino de Dios ya está aquí."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3817,
+      "char_end": 3950,
+      "text": "Si alguien quiere robar lo que un hombre fuerte tiene en su casa, primero tiene que atar a ese hombre, y después podrá robarle todo."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3950,
+      "char_end": 4086,
+      "text": "El que no está de mi parte, está contra mí. El que no me ayuda a traer a otros para que me sigan, es como si los estuviera ahuyentando."
+    },
+    {
+      "verse": 31,
+      "label": "31-32",
+      "char_start": 4086,
+      "char_end": 4355,
+      "text": "Les aseguro que Dios les perdonará cualquier pecado y todo lo malo que digan. Aun si dicen algo contra mí, que soy el Hijo del hombre, Dios los perdonará. Pero lo que no les perdonará es que hablen mal contra el Espíritu Santo. ¡Eso no lo perdonará, ni ahora ni nunca!"
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4355,
+      "char_end": 4618,
+      "text": "Un buen árbol produce buenos frutos, y un mal árbol produce malos frutos. Para saber si un árbol es bueno o malo, sólo hay que fijarse en sus frutos. Lo mismo sucede con las personas: para saber si son buenas o malas, sólo hay que fijarse en las cosas que hacen."
+    },
+    {
+      "verse": 34,
+      "label": "34-35",
+      "char_start": 4618,
+      "char_end": 4843,
+      "text": "Lo que ustedes enseñan es tan malo como el veneno de una serpiente. ¡Claro! ¿Cómo van a decir cosas buenas, si ustedes son malos? Porque si alguien es bueno, siempre dice cosas buenas, y si es malo, siempre dice cosas malas."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4843,
+      "char_end": 4962,
+      "text": "Les aseguro que en el día del juicio final todos tendrán que explicar por qué hablaron para hacerles daño a los demás."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4962,
+      "char_end": 5098,
+      "text": "Dios juzgará a cada uno de acuerdo con sus palabras: si dijeron cosas buenas se salvarán, pero si dijeron cosas malas serán castigados."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 5098,
+      "char_end": 5249,
+      "text": "Entonces algunos fariseos y maestros de la Ley le dijeron a Jesús: —Maestro, queremos que hagas algo que nos demuestre que tú fuiste enviado por Dios."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 5249,
+      "char_end": 5409,
+      "text": "Pero Jesús les contestó: —Ustedes, que son malos y no confían en Dios, me piden darles una prueba. Pero la única prueba que les daré será la del profeta Jonás:"
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 5409,
+      "char_end": 5563,
+      "text": "Así como Jonás estuvo dentro del gran pez tres días y tres noches, así yo también, el Hijo del hombre, estaré dentro de la tumba tres días y tres noches."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 5563,
+      "char_end": 5843,
+      "text": "En el juicio final, la gente de la ciudad de Nínive se levantará y hablará contra ustedes para que Dios los castigue. Porque esa gente sí cambió de vida cuando oyó el mensaje que le anunció Jonás. Pero ustedes oyen mi mensaje y no cambian, aunque yo soy más importante que Jonás."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 5843,
+      "char_end": 6103,
+      "text": "La reina del Sur también se levantará en el día del juicio, y hablará contra ustedes. Porque ella vino desde muy lejos a escuchar las sabias enseñanzas del rey Salomón. Pero ustedes no quieren escuchar mis enseñanzas, aunque yo soy más importante que Salomón."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 6103,
+      "char_end": 6191,
+      "text": "Cuando un espíritu malo sale de alguien, anda por el desierto buscando donde descansar."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 6191,
+      "char_end": 6350,
+      "text": "Al no encontrar ningún lugar, dice: «Mejor regresaré a mi antigua casa y volveré a vivir en ella». Cuando regresa, la encuentra desocupada, limpia y ordenada."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 6350,
+      "char_end": 6607,
+      "text": "Entonces va y busca a otros siete espíritus peores que él, y todos ellos entran en aquella persona y se quedan a vivir allí. ¡Y esa pobre persona termina peor que cuando sólo tenía un espíritu malo! Esto mismo va a pasarles a ustedes, porque son muy malos."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 6607,
+      "char_end": 6754,
+      "text": "Mientras Jesús seguía hablando con la gente, su madre y sus hermanos llegaron a donde él estaba y lo esperaron afuera, pues querían hablar con él."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 6754,
+      "char_end": 6853,
+      "text": "Entonces alguien le dijo a Jesús: —Tu madre y tus hermanos están afuera, y quieren hablar contigo."
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 6853,
+      "char_end": 6923,
+      "text": "Pero él le preguntó: —¿Quiénes son en verdad mi madre y mis hermanos?"
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 6923,
+      "char_end": 6980,
+      "text": "Jesús señaló entonces a todos sus discípulos y les dijo:"
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 6980,
+      "char_end": 7145,
+      "text": "—Éstos son mi madre y mis hermanos. Porque cualquiera que obedece los mandamientos de mi Padre que está en el cielo, es en verdad mi madre, mi hermano y mi hermana."
+    }
+  ],
+  "words": [
+    {
+      "word": "Un sábado, Jesús y sus discípulos andaban por un campo sembrado de trigo.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5250,
+      "duration_ms": 5150
+    },
+    {
+      "word": "Los discípulos tuvieron hambre y comenzaron a arrancar espigas y a comerse el grano.",
+      "verse": 1,
+      "start_ms": 5200,
+      "end_ms": 10162,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Cuando los fariseos vieron que los discípulos arrancaban trigo, le dijeron a Jesús: —¡Mira lo que hacen tus discípulos!",
+      "verse": 2,
+      "start_ms": 10162,
+      "end_ms": 17349,
+      "duration_ms": 7187
+    },
+    {
+      "word": "Está prohibido hacer eso en el día de descanso!",
+      "verse": 2,
+      "start_ms": 17350,
+      "end_ms": 20712,
+      "duration_ms": 3362
+    },
+    {
+      "word": "Jesús les respondió: —¿No han leído en la Biblia lo que hizo el rey David cuando él y sus compañeros tuvieron hambre?",
+      "verse": 3,
+      "start_ms": 20712,
+      "end_ms": 27374,
+      "duration_ms": 6662
+    },
+    {
+      "word": "Entraron en la casa de Dios y comieron el pan sagrado.",
+      "verse": 4,
+      "start_ms": 27375,
+      "end_ms": 31175,
+      "duration_ms": 3800
+    },
+    {
+      "word": "Ni a David ni a sus compañeros les estaba permitido comer ese pan.",
+      "verse": 4,
+      "start_ms": 31175,
+      "end_ms": 35575,
+      "duration_ms": 4400
+    },
+    {
+      "word": "Sólo los sacerdotes podían comerlo.",
+      "verse": 4,
+      "start_ms": 35575,
+      "end_ms": 38537,
+      "duration_ms": 2962
+    },
+    {
+      "word": "Tampoco han leído los libros de la ley de Moisés?",
+      "verse": 5,
+      "start_ms": 38537,
+      "end_ms": 42074,
+      "duration_ms": 3537
+    },
+    {
+      "word": "No saben que los sacerdotes pueden trabajar en el templo en el día de descanso, sin que nadie los acuse de nada?",
+      "verse": 5,
+      "start_ms": 42075,
+      "end_ms": 48862,
+      "duration_ms": 6787
+    },
+    {
+      "word": "Pues les aseguro que aquí hay algo más importante que el templo.",
+      "verse": 6,
+      "start_ms": 48862,
+      "end_ms": 52887,
+      "duration_ms": 4025
+    },
+    {
+      "word": "Ustedes no entienden esto que Dios dijo: «No quiero que me sacrifiquen animales, sino que amen y ayuden a los demás».",
+      "verse": 7,
+      "start_ms": 52887,
+      "end_ms": 60049,
+      "duration_ms": 7162
+    },
+    {
+      "word": "Si lo entendieran, no estarían acusando a gente inocente.",
+      "verse": 7,
+      "start_ms": 60050,
+      "end_ms": 64250,
+      "duration_ms": 4200
+    },
+    {
+      "word": "Porque yo, el Hijo del hombre, soy quien decide lo que puede hacerse en el día de descanso, y lo que no puede hacerse.",
+      "verse": 8,
+      "start_ms": 64250,
+      "end_ms": 71537,
+      "duration_ms": 7287
+    },
+    {
+      "word": "Jesús se fue y entró en la sinagoga del lugar.",
+      "verse": 9,
+      "start_ms": 71537,
+      "end_ms": 74849,
+      "duration_ms": 3312
+    },
+    {
+      "word": "Allí había un hombre que tenía una mano tullida.",
+      "verse": 10,
+      "start_ms": 74850,
+      "end_ms": 78450,
+      "duration_ms": 3600
+    },
+    {
+      "word": "Como los fariseos buscaban la manera de acusar de algo malo a Jesús, le preguntaron: —¿Permite nuestra ley sanar a una persona en el día de descanso?",
+      "verse": 10,
+      "start_ms": 78450,
+      "end_ms": 87425,
+      "duration_ms": 8975
+    },
+    {
+      "word": "Jesús les respondió: —Si a uno de ustedes se le cayera una oveja en un pozo en el día de descanso, ¿la sacaría de allí?",
+      "verse": 11,
+      "start_ms": 87425,
+      "end_ms": 94900,
+      "duration_ms": 7475
+    },
+    {
+      "word": "Por supuesto que sí!",
+      "verse": 11,
+      "start_ms": 94900,
+      "end_ms": 96875,
+      "duration_ms": 1975
+    },
+    {
+      "word": "Pues una persona vale mucho más que una oveja!",
+      "verse": 12,
+      "start_ms": 96875,
+      "end_ms": 100175,
+      "duration_ms": 3300
+    },
+    {
+      "word": "Por eso está permitido hacer el bien en el día de descanso.",
+      "verse": 12,
+      "start_ms": 100175,
+      "end_ms": 104037,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Luego Jesús le dijo al hombre que no podía mover la mano: Extiende tu mano.",
+      "verse": 13,
+      "start_ms": 104037,
+      "end_ms": 109174,
+      "duration_ms": 5137
+    },
+    {
+      "word": "El hombre la extendió, y la mano le quedó tan sana como la otra.",
+      "verse": 13,
+      "start_ms": 109175,
+      "end_ms": 113687,
+      "duration_ms": 4512
+    },
+    {
+      "word": "Entonces los fariseos salieron de la sinagoga y comenzaron a hacer planes para matar a Jesús.",
+      "verse": 14,
+      "start_ms": 113687,
+      "end_ms": 119399,
+      "duration_ms": 5712
+    },
+    {
+      "word": "Al enterarse Jesús de lo que planeaban los fariseos, se fue de allí, y mucha gente lo siguió.",
+      "verse": 15,
+      "start_ms": 119400,
+      "end_ms": 125325,
+      "duration_ms": 5925
+    },
+    {
+      "word": "Jesús sanó a todos los que estaban enfermos y les ordenó que no contaran a nadie nada acerca de él.",
+      "verse": 15,
+      "start_ms": 125325,
+      "end_ms": 131387,
+      "duration_ms": 6062
+    },
+    {
+      "word": "Así se cumplió lo que Dios había dicho por medio del profeta Isaías: ¡Miren a mi elegido, al que he llamado a mi servicio!",
+      "verse": 17,
+      "start_ms": 131387,
+      "end_ms": 139024,
+      "duration_ms": 7637
+    },
+    {
+      "word": "Yo lo amo mucho, y él me llena de alegría.",
+      "verse": 18,
+      "start_ms": 139025,
+      "end_ms": 142550,
+      "duration_ms": 3525
+    },
+    {
+      "word": "Yo pondré en él mi Espíritu, y él anunciará mi justicia entre las naciones.",
+      "verse": 18,
+      "start_ms": 142550,
+      "end_ms": 147825,
+      "duration_ms": 5275
+    },
+    {
+      "word": "No discutirá con nadie, ni gritará.",
+      "verse": 19,
+      "start_ms": 147825,
+      "end_ms": 151062,
+      "duration_ms": 3237
+    },
+    {
+      "word": "Nadie escuchará su voz en las calles!",
+      "verse": 19,
+      "start_ms": 151062,
+      "end_ms": 153999,
+      "duration_ms": 2937
+    },
+    {
+      "word": "No les causará más daño a los que estén heridos, ni acabará de matar a los que estén agonizando.",
+      "verse": 20,
+      "start_ms": 154000,
+      "end_ms": 159925,
+      "duration_ms": 5925
+    },
+    {
+      "word": "Al contrario, fortalecerá a los débiles y hará triunfar la justicia.",
+      "verse": 20,
+      "start_ms": 159925,
+      "end_ms": 164812,
+      "duration_ms": 4887
+    },
+    {
+      "word": "Todas las personas del mundo confiarán en él!",
+      "verse": 21,
+      "start_ms": 164812,
+      "end_ms": 167949,
+      "duration_ms": 3137
+    },
+    {
+      "word": "Unas personas llevaron un hombre a Jesús para que lo sanara.",
+      "verse": 22,
+      "start_ms": 167950,
+      "end_ms": 171712,
+      "duration_ms": 3762
+    },
+    {
+      "word": "Ese hombre era ciego y mudo porque tenía un demonio.",
+      "verse": 22,
+      "start_ms": 171712,
+      "end_ms": 175487,
+      "duration_ms": 3775
+    },
+    {
+      "word": "Pero Jesús lo sanó, y el hombre pudo ver y hablar.",
+      "verse": 22,
+      "start_ms": 175487,
+      "end_ms": 179199,
+      "duration_ms": 3712
+    },
+    {
+      "word": "La gente estaba asombrada de lo que Jesús hacía, y se preguntaba: ¿Será Jesús el Mesías que Dios prometió para salvarnos?",
+      "verse": 23,
+      "start_ms": 179200,
+      "end_ms": 186925,
+      "duration_ms": 7725
+    },
+    {
+      "word": "Pero algunos de los fariseos oyeron a la gente y pensaron: Jesús libera de los demonios a la gente, porque Beelzebú, el jefe de los demonios, le da poder para hacerlo.",
+      "verse": 24,
+      "start_ms": 186925,
+      "end_ms": 197062,
+      "duration_ms": 10137
+    },
+    {
+      "word": "Jesús se dio cuenta de lo que ellos pensaban, y les dijo: Si los habitantes de un país se pelean entre ellos, el país quedará destruido.",
+      "verse": 25,
+      "start_ms": 197062,
+      "end_ms": 205849,
+      "duration_ms": 8787
+    },
+    {
+      "word": "Si los habitantes de una ciudad se pelean unos contra otros, la ciudad quedará en ruinas.",
+      "verse": 25,
+      "start_ms": 205850,
+      "end_ms": 211675,
+      "duration_ms": 5825
+    },
+    {
+      "word": "Y si los miembros de una familia se pelean entre ellos mismos, se destruirá la familia.",
+      "verse": 25,
+      "start_ms": 211675,
+      "end_ms": 217337,
+      "duration_ms": 5662
+    },
+    {
+      "word": "Si Satanás lucha contra él mismo, destruirá su propio reino.",
+      "verse": 26,
+      "start_ms": 217337,
+      "end_ms": 221824,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Según ustedes, yo expulso los demonios porque Satanás me da ese poder.",
+      "verse": 27,
+      "start_ms": 221825,
+      "end_ms": 226962,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Si eso es cierto, entonces ¿quién les da poder a los discípulos de ustedes para echar fuera los demonios?",
+      "verse": 27,
+      "start_ms": 226962,
+      "end_ms": 233162,
+      "duration_ms": 6200
+    },
+    {
+      "word": "Si ustedes me responden que Dios les da ese poder, quedará demostrado que ustedes están equivocados.",
+      "verse": 27,
+      "start_ms": 233162,
+      "end_ms": 239762,
+      "duration_ms": 6600
+    },
+    {
+      "word": "Y si yo echo fuera los demonios con el poder del Espíritu de Dios, con eso les demuestro que el reino de Dios ya está aquí.",
+      "verse": 28,
+      "start_ms": 239762,
+      "end_ms": 246887,
+      "duration_ms": 7125
+    },
+    {
+      "word": "Si alguien quiere robar lo que un hombre fuerte tiene en su casa, primero tiene que atar a ese hombre, y después podrá robarle todo.",
+      "verse": 29,
+      "start_ms": 246887,
+      "end_ms": 254587,
+      "duration_ms": 7700
+    },
+    {
+      "word": "El que no",
+      "verse": 30,
+      "start_ms": 254587,
+      "end_ms": 256099,
+      "duration_ms": 1512
+    },
+    {
+      "word": "está de mi parte, está contra mí.",
+      "verse": 30,
+      "start_ms": 256252,
+      "end_ms": 259289,
+      "duration_ms": 3037
+    },
+    {
+      "word": "El que no me ayuda a traer a otros para que me sigan, es como si los estuviera ahuyentando.",
+      "verse": 30,
+      "start_ms": 259239,
+      "end_ms": 264776,
+      "duration_ms": 5537
+    },
+    {
+      "word": "Les aseguro que Dios les perdonará cualquier pecado y todo lo malo que digan.",
+      "verse": 31,
+      "start_ms": 264777,
+      "end_ms": 269627,
+      "duration_ms": 4850
+    },
+    {
+      "word": "Aun si dicen algo contra mí, que soy el Hijo del hombre, Dios los perdonará.",
+      "verse": 31,
+      "start_ms": 269627,
+      "end_ms": 274864,
+      "duration_ms": 5237
+    },
+    {
+      "word": "Pero lo que no les perdonará es que hablen mal contra el Espíritu Santo.",
+      "verse": 31,
+      "start_ms": 274864,
+      "end_ms": 279214,
+      "duration_ms": 4350
+    },
+    {
+      "word": "Eso no lo perdonará, ni ahora ni nunca!",
+      "verse": 31,
+      "start_ms": 279214,
+      "end_ms": 282589,
+      "duration_ms": 3375
+    },
+    {
+      "word": "Un buen árbol produce buenos frutos, y un mal árbol produce malos frutos.",
+      "verse": 33,
+      "start_ms": 282589,
+      "end_ms": 287851,
+      "duration_ms": 5262
+    },
+    {
+      "word": "Para saber si un árbol es bueno o malo, sólo hay que fijarse en sus frutos.",
+      "verse": 33,
+      "start_ms": 287852,
+      "end_ms": 292727,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Lo mismo sucede con las personas: para saber si son buenas o malas, sólo hay que fijarse en las cosas que hacen.",
+      "verse": 33,
+      "start_ms": 292727,
+      "end_ms": 299839,
+      "duration_ms": 7112
+    },
+    {
+      "word": "Lo que ustedes enseñan es tan malo como el veneno de una serpiente.",
+      "verse": 34,
+      "start_ms": 299839,
+      "end_ms": 304151,
+      "duration_ms": 4312
+    },
+    {
+      "word": "Claro!",
+      "verse": 34,
+      "start_ms": 304152,
+      "end_ms": 305464,
+      "duration_ms": 1312
+    },
+    {
+      "word": "Cómo van a decir cosas buenas, si ustedes son malos?",
+      "verse": 34,
+      "start_ms": 305464,
+      "end_ms": 309576,
+      "duration_ms": 4112
+    },
+    {
+      "word": "Porque si alguien es bueno, siempre dice cosas buenas, y si es malo, siempre dice cosas malas.",
+      "verse": 34,
+      "start_ms": 309577,
+      "end_ms": 316102,
+      "duration_ms": 6525
+    },
+    {
+      "word": "Les aseguro que en el día del juicio final todos tendrán que explicar por qué hablaron para hacerles daño a los demás.",
+      "verse": 36,
+      "start_ms": 316102,
+      "end_ms": 322752,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Dios juzgará a cada uno de acuerdo con sus palabras: si dijeron cosas buenas se salvarán, pero si dijeron cosas malas serán castigados.",
+      "verse": 37,
+      "start_ms": 322752,
+      "end_ms": 331264,
+      "duration_ms": 8512
+    },
+    {
+      "word": "Entonces algunos fariseos y maestros de la Ley le dijeron a Jesús: —Maestro, queremos que hagas algo que nos demuestre que tú fuiste enviado por Dios.",
+      "verse": 38,
+      "start_ms": 331264,
+      "end_ms": 340089,
+      "duration_ms": 8825
+    },
+    {
+      "word": "Pero Jesús les contestó: —Ustedes, que son malos y no confían en Dios, me piden darles una prueba.",
+      "verse": 39,
+      "start_ms": 340089,
+      "end_ms": 346989,
+      "duration_ms": 6900
+    },
+    {
+      "word": "Pero la única prueba que les daré será la del profeta Jonás: Así como Jonás estuvo dentro del gran pez tres días y tres noches, así yo también, el Hijo del hombre, estaré dentro de la tumba tres días y tres noches.",
+      "verse": 39,
+      "start_ms": 346989,
+      "end_ms": 360076,
+      "duration_ms": 13087
+    },
+    {
+      "word": "En el juicio final, la gente de la ciudad de Nínive se levantará y hablará contra ustedes para que Dios los castigue.",
+      "verse": 41,
+      "start_ms": 360077,
+      "end_ms": 366864,
+      "duration_ms": 6787
+    },
+    {
+      "word": "Porque esa gente sí cambió de vida cuando oyó el mensaje que le anunció Jonás.",
+      "verse": 41,
+      "start_ms": 366864,
+      "end_ms": 371664,
+      "duration_ms": 4800
+    },
+    {
+      "word": "Pero ustedes oyen mi mensaje y no cambian, aunque yo soy más importante que Jonás.",
+      "verse": 41,
+      "start_ms": 371664,
+      "end_ms": 377351,
+      "duration_ms": 5687
+    },
+    {
+      "word": "La reina del Sur también se levantará en el día del juicio, y hablará contra ustedes.",
+      "verse": 42,
+      "start_ms": 377352,
+      "end_ms": 383052,
+      "duration_ms": 5700
+    },
+    {
+      "word": "Porque ella vino desde muy lejos a escuchar las sabias enseñanzas del rey Salomón.",
+      "verse": 42,
+      "start_ms": 383052,
+      "end_ms": 388164,
+      "duration_ms": 5112
+    },
+    {
+      "word": "Pero ustedes no quieren escuchar mis enseñanzas, aunque yo soy más importante que Salomón.",
+      "verse": 42,
+      "start_ms": 388164,
+      "end_ms": 393926,
+      "duration_ms": 5762
+    },
+    {
+      "word": "Cuando un espíritu malo sale de alguien, anda por el desierto buscando donde descansar.",
+      "verse": 43,
+      "start_ms": 393927,
+      "end_ms": 399539,
+      "duration_ms": 5612
+    },
+    {
+      "word": "Al no encontrar ningún lugar, dice: «Mejor regresaré a mi antigua casa y volveré a vivir en ella».",
+      "verse": 44,
+      "start_ms": 399539,
+      "end_ms": 406151,
+      "duration_ms": 6612
+    },
+    {
+      "word": "Cuando regresa, la encuentra desocupada, limpia y ordenada.",
+      "verse": 44,
+      "start_ms": 406152,
+      "end_ms": 410639,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Entonces va y busca a otros siete espíritus peores que él, y todos ellos entran en aquella persona y se quedan a vivir allí.",
+      "verse": 45,
+      "start_ms": 410639,
+      "end_ms": 418489,
+      "duration_ms": 7850
+    },
+    {
+      "word": "Y esa pobre persona termina peor que cuando sólo tenía un espíritu malo!",
+      "verse": 45,
+      "start_ms": 418489,
+      "end_ms": 423151,
+      "duration_ms": 4662
+    },
+    {
+      "word": "Esto mismo va a pasarles a ustedes, porque son muy malos.",
+      "verse": 45,
+      "start_ms": 423152,
+      "end_ms": 427627,
+      "duration_ms": 4475
+    },
+    {
+      "word": "Mientras Jesús seguía hablando con la gente, su madre y sus hermanos llegaron a donde él estaba y lo esperaron afuera, pues querían hablar con él.",
+      "verse": 46,
+      "start_ms": 427627,
+      "end_ms": 435864,
+      "duration_ms": 8237
+    },
+    {
+      "word": "Entonces alguien le dijo a Jesús: —Tu madre y tus hermanos están afuera, y quieren hablar contigo.",
+      "verse": 47,
+      "start_ms": 435864,
+      "end_ms": 442289,
+      "duration_ms": 6425
+    },
+    {
+      "word": "Pero él le preguntó: —¿Quiénes son en verdad mi madre y mis hermanos?",
+      "verse": 48,
+      "start_ms": 442289,
+      "end_ms": 446701,
+      "duration_ms": 4412
+    },
+    {
+      "word": "Jesús señaló entonces a todos sus discípulos y les dijo: —Éstos son mi madre y mis hermanos.",
+      "verse": 49,
+      "start_ms": 446702,
+      "end_ms": 452902,
+      "duration_ms": 6200
+    },
+    {
+      "word": "Porque cualquiera que obedece los mandamientos de mi Padre que está en el cielo, es en verdad mi madre, mi hermano y mi hermana.",
+      "verse": 50,
+      "start_ms": 452902,
+      "end_ms": 460264,
+      "duration_ms": 7362
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "book": "SAL",
+  "chapter": 62,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 11,
+  "word_count": 18,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-2",
+      "char_start": 0,
+      "char_end": 106,
+      "text": "Sólo Dios me da tranquilidad, sólo él puede salvarme; sólo él me da su protección, ¡jamás seré derrotado!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 106,
+      "char_end": 245,
+      "text": "Ustedes, todos ustedes, ¡ya dejen de atacarme y de querer acabar conmigo! ¡Hasta parezco una pared inclinada, una cerca a punto de caerse!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 245,
+      "char_end": 406,
+      "text": "Ustedes sólo piensan humillarme. Les encanta decir mentiras: de labios para afuera me expresan buenos deseos, pero en su pensamiento me desean las peores cosas."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 406,
+      "char_end": 461,
+      "text": "Sólo Dios me da tranquilidad; sólo él me da confianza."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 461,
+      "char_end": 537,
+      "text": "Sólo él me da su protección, sólo él puede salvarme; ¡jamás seré derrotado!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 537,
+      "char_end": 642,
+      "text": "Dios es mi salvador; Dios es mi motivo de orgullo; me protege y me llena de fuerza. ¡Dios es mi refugio!"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 642,
+      "char_end": 761,
+      "text": "Pueblo mío, ¡confía siempre en Dios! Cuando vayas a su templo, cuéntale todos tus problemas. ¡Dios es nuestro refugio!"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 761,
+      "char_end": 899,
+      "text": "No hay un solo hombre que valga más que un suspiro; todos son pura ilusión. Si los pesaran en una balanza, ¡ni juntos pesarían gran cosa!"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 899,
+      "char_end": 1031,
+      "text": "No pongan su confianza en el dinero mal ganado; no se hagan ilusiones con el fruto de sus robos. ¡No vivan sólo para hacerse ricos!"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1031,
+      "char_end": 1081,
+      "text": "Dios ha dicho muchas veces: Soy un Dios poderoso,"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1081,
+      "char_end": 1176,
+      "text": "pero también, un Dios de amor. Dios mío, tú nos das a cada uno lo que merecen nuestros hechos."
+    }
+  ],
+  "words": [
+    {
+      "word": "Sólo Dios me da tranquilidad, sólo él puede salvarme; sólo él me da su protección, ¡jamás seré derrotado!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7125,
+      "duration_ms": 7025
+    },
+    {
+      "word": "Ustedes, todos ustedes, ¡ya dejen de atacarme y de querer acabar conmigo!",
+      "verse": 3,
+      "start_ms": 7075,
+      "end_ms": 12512,
+      "duration_ms": 5437
+    },
+    {
+      "word": "Hasta parezco una pared inclinada, una cerca a punto de caerse!",
+      "verse": 3,
+      "start_ms": 12512,
+      "end_ms": 17212,
+      "duration_ms": 4700
+    },
+    {
+      "word": "Ustedes sólo piensan humillarme.",
+      "verse": 4,
+      "start_ms": 17212,
+      "end_ms": 19937,
+      "duration_ms": 2725
+    },
+    {
+      "word": "Les encanta decir mentiras: de labios para afuera me expresan buenos deseos, pero en su pensamiento me desean las peores cosas.",
+      "verse": 4,
+      "start_ms": 19937,
+      "end_ms": 28037,
+      "duration_ms": 8100
+    },
+    {
+      "word": "Sólo Dios me da tranquilidad; sólo él me da confianza.",
+      "verse": 5,
+      "start_ms": 28037,
+      "end_ms": 32312,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Sólo él me da su protección, sólo él puede salvarme; ¡jamás seré derrotado!",
+      "verse": 6,
+      "start_ms": 32312,
+      "end_ms": 37574,
+      "duration_ms": 5262
+    },
+    {
+      "word": "Dios es mi salvador; Dios es mi motivo de orgullo; me protege y me llena de fuerza.",
+      "verse": 7,
+      "start_ms": 37575,
+      "end_ms": 43562,
+      "duration_ms": 5987
+    },
+    {
+      "word": "Dios es mi refugio!",
+      "verse": 7,
+      "start_ms": 43562,
+      "end_ms": 45599,
+      "duration_ms": 2037
+    },
+    {
+      "word": "Pueblo mío, ¡confía siempre en Dios!",
+      "verse": 8,
+      "start_ms": 45600,
+      "end_ms": 48625,
+      "duration_ms": 3025
+    },
+    {
+      "word": "Cuando vayas a su templo, cuéntale todos tus problemas.",
+      "verse": 8,
+      "start_ms": 48625,
+      "end_ms": 52775,
+      "duration_ms": 4150
+    },
+    {
+      "word": "Dios es nuestro refugio!",
+      "verse": 8,
+      "start_ms": 52775,
+      "end_ms": 55075,
+      "duration_ms": 2300
+    },
+    {
+      "word": "No hay un solo hombre que valga más que un suspiro; todos son pura ilusión.",
+      "verse": 9,
+      "start_ms": 55075,
+      "end_ms": 60250,
+      "duration_ms": 5175
+    },
+    {
+      "word": "Si los pesaran en una balanza, ¡ni juntos pesarían gran cosa!",
+      "verse": 9,
+      "start_ms": 60250,
+      "end_ms": 64875,
+      "duration_ms": 4625
+    },
+    {
+      "word": "No pongan su confianza en el dinero mal ganado; no se hagan ilusiones con el fruto de sus robos.",
+      "verse": 10,
+      "start_ms": 64875,
+      "end_ms": 71112,
+      "duration_ms": 6237
+    },
+    {
+      "word": "No vivan sólo para hacerse ricos!",
+      "verse": 10,
+      "start_ms": 71112,
+      "end_ms": 73874,
+      "duration_ms": 2762
+    },
+    {
+      "word": "Dios ha dicho muchas veces: Soy un Dios poderoso, pero también, un Dios de amor.",
+      "verse": 11,
+      "start_ms": 73875,
+      "end_ms": 79962,
+      "duration_ms": 6087
+    },
+    {
+      "word": "Dios mío, tú nos das a cada uno lo que merecen nuestros hechos.",
+      "verse": 12,
+      "start_ms": 79962,
+      "end_ms": 84574,
+      "duration_ms": 4612
+    }
+  ]
+}

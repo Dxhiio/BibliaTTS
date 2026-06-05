@@ -1,0 +1,446 @@
+{
+  "book": "PRO",
+  "chapter": 19,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 29,
+  "word_count": 33,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 56,
+      "text": "Más vale ser pobre y honrado, que ser necio y tramposo."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 56,
+      "char_end": 116,
+      "text": "No es bueno actuar sin pensar; la prisa es madre del error."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 116,
+      "char_end": 178,
+      "text": "El tonto fracasa en todo, y luego dice: ¡Dios tiene la culpa!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 178,
+      "char_end": 234,
+      "text": "El rico tiene muchos amigos; el pobre no tiene ninguno."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 234,
+      "char_end": 313,
+      "text": "No hay testigo falso que salga bien librado; todo mentiroso recibe su castigo."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 313,
+      "char_end": 400,
+      "text": "A los ricos les sobran amigos; todo el mundo busca su amistad por los regalos que dan."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 400,
+      "char_end": 521,
+      "text": "Al pobre ni sus hermanos lo quieren; ¡mucho menos lo buscan sus amigos! Cuando más los necesita, no están para ayudarlo."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 521,
+      "char_end": 594,
+      "text": "Si en verdad te aprecias, estudia. Bien harás en practicar lo aprendido."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 594,
+      "char_end": 678,
+      "text": "No hay testigo falso que salga bien librado; todos los mentirosos serán destruidos."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 678,
+      "char_end": 770,
+      "text": "No hay nada más absurdo que un tonto viviendo entre lujos, y un esclavo gobernando a reyes."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 770,
+      "char_end": 837,
+      "text": "Es de sabios tener paciencia, y es más honroso perdonar la ofensa."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 837,
+      "char_end": 943,
+      "text": "Cuando el rey se enoja, grita como león furioso. Cuando el rey está contento, reanima como fresca lluvia."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 943,
+      "char_end": 1027,
+      "text": "El hijo tonto arruina a su padre, y la mujer peleona poco a poco arruina al marido."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1027,
+      "char_end": 1117,
+      "text": "La casa y el dinero son regalo de los padres; la esposa inteligente es un regalo de Dios."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1117,
+      "char_end": 1168,
+      "text": "Tanto duerme el perezoso que acaba pasando hambre."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1168,
+      "char_end": 1271,
+      "text": "El que respeta una orden se respeta a sí mismo; el que deja de cumplirla dicta su sentencia de muerte."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1271,
+      "char_end": 1349,
+      "text": "Prestarle al pobre es como prestarle a Dios. ¡Y Dios siempre paga sus deudas!"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1349,
+      "char_end": 1430,
+      "text": "Corrige a tu hijo antes de que sea muy tarde; no te hagas culpable de su muerte."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1430,
+      "char_end": 1538,
+      "text": "Quien fácilmente se enoja sufrirá las consecuencias; no tiene caso calmarlo, pues se enciende más su enojo."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1538,
+      "char_end": 1604,
+      "text": "El que oye consejo y acepta que lo corrijan acabará siendo sabio."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1604,
+      "char_end": 1639,
+      "text": "El hombre propone, y Dios dispone."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1639,
+      "char_end": 1748,
+      "text": "Todo el mundo quiere tener a alguien en quien confiar; todo el mundo prefiere al pobre más que al mentiroso."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1748,
+      "char_end": 1824,
+      "text": "Obedece a Dios y vivirás; así dormirás tranquilo y no tendrás ningún temor."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1824,
+      "char_end": 1876,
+      "text": "Hay gente tan perezosa que hasta de comer se cansa."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1876,
+      "char_end": 1970,
+      "text": "El tonto sólo aprende a través del castigo; al que es sabio le basta con sólo ser reprendido."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 1970,
+      "char_end": 2068,
+      "text": "No hay hijo más malo ni más sinvergüenza que el que roba a su padre y echa a la calle a su madre."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2068,
+      "char_end": 2153,
+      "text": "Querido jovencito, si no aceptas la corrección, te apartarás de los sabios consejos."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2153,
+      "char_end": 2223,
+      "text": "Un testigo malvado se burla de la justicia; su alimento es la maldad."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2223,
+      "char_end": 2281,
+      "text": "Para el malcriado, el castigo; para el tonto, los azotes."
+    }
+  ],
+  "words": [
+    {
+      "word": "Más vale ser pobre y honrado, que ser necio y tramposo.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4512,
+      "duration_ms": 4412
+    },
+    {
+      "word": "No es bueno actuar sin pensar; la prisa es madre del error.",
+      "verse": 2,
+      "start_ms": 4462,
+      "end_ms": 8774,
+      "duration_ms": 4312
+    },
+    {
+      "word": "El tonto fracasa en todo, y luego dice: ¡Dios tiene la culpa!",
+      "verse": 3,
+      "start_ms": 8775,
+      "end_ms": 13312,
+      "duration_ms": 4537
+    },
+    {
+      "word": "El rico tiene muchos amigos; el pobre no tiene ninguno.",
+      "verse": 4,
+      "start_ms": 13312,
+      "end_ms": 17737,
+      "duration_ms": 4425
+    },
+    {
+      "word": "No hay testigo falso que salga bien librado; todo mentiroso recibe su castigo.",
+      "verse": 5,
+      "start_ms": 17737,
+      "end_ms": 23237,
+      "duration_ms": 5500
+    },
+    {
+      "word": "A los ricos les sobran amigos; todo el mundo busca su amistad por los regalos que dan.",
+      "verse": 6,
+      "start_ms": 23237,
+      "end_ms": 28699,
+      "duration_ms": 5462
+    },
+    {
+      "word": "Al pobre ni sus hermanos lo quieren; ¡mucho menos lo buscan sus amigos!",
+      "verse": 7,
+      "start_ms": 28700,
+      "end_ms": 33337,
+      "duration_ms": 4637
+    },
+    {
+      "word": "Cuando más los necesita, no están para ayudarlo.",
+      "verse": 7,
+      "start_ms": 33337,
+      "end_ms": 36949,
+      "duration_ms": 3612
+    },
+    {
+      "word": "Si en verdad te aprecias, estudia.",
+      "verse": 8,
+      "start_ms": 36950,
+      "end_ms": 40062,
+      "duration_ms": 3112
+    },
+    {
+      "word": "Bien harás en practicar lo aprendido.",
+      "verse": 8,
+      "start_ms": 40062,
+      "end_ms": 42849,
+      "duration_ms": 2787
+    },
+    {
+      "word": "No hay testigo falso que salga bien librado; todos los mentirosos serán destruidos.",
+      "verse": 9,
+      "start_ms": 42850,
+      "end_ms": 48487,
+      "duration_ms": 5637
+    },
+    {
+      "word": "No hay nada más absurdo que un tonto viviendo entre lujos, y un esclavo gobernando a reyes.",
+      "verse": 10,
+      "start_ms": 48487,
+      "end_ms": 54612,
+      "duration_ms": 6125
+    },
+    {
+      "word": "Es de sabios tener paciencia, y es más honroso perdonar la ofensa.",
+      "verse": 11,
+      "start_ms": 54612,
+      "end_ms": 59412,
+      "duration_ms": 4800
+    },
+    {
+      "word": "Cuando el rey se enoja, grita como león furioso.",
+      "verse": 12,
+      "start_ms": 59412,
+      "end_ms": 63224,
+      "duration_ms": 3812
+    },
+    {
+      "word": "Cuando el rey está contento, reanima como fresca lluvia.",
+      "verse": 12,
+      "start_ms": 63225,
+      "end_ms": 67350,
+      "duration_ms": 4125
+    },
+    {
+      "word": "El hijo tonto arruina a su padre, y la mujer peleona poco a poco arruina al marido.",
+      "verse": 13,
+      "start_ms": 67350,
+      "end_ms": 73012,
+      "duration_ms": 5662
+    },
+    {
+      "word": "La casa y el dinero son regalo de los padres; la esposa inteligente es un regalo de Dios.",
+      "verse": 14,
+      "start_ms": 73012,
+      "end_ms": 78974,
+      "duration_ms": 5962
+    },
+    {
+      "word": "Tanto duerme el perezoso que acaba pasando hambre.",
+      "verse": 15,
+      "start_ms": 78975,
+      "end_ms": 82412,
+      "duration_ms": 3437
+    },
+    {
+      "word": "El que respeta una orden se respeta a sí mismo; el que deja de cumplirla dicta su sentencia de muerte.",
+      "verse": 16,
+      "start_ms": 82412,
+      "end_ms": 89099,
+      "duration_ms": 6687
+    },
+    {
+      "word": "Prestarle al pobre es como prestarle a Dios.",
+      "verse": 17,
+      "start_ms": 89100,
+      "end_ms": 92450,
+      "duration_ms": 3350
+    },
+    {
+      "word": "Y Dios siempre paga sus deudas!",
+      "verse": 17,
+      "start_ms": 92450,
+      "end_ms": 95162,
+      "duration_ms": 2712
+    },
+    {
+      "word": "Corrige a tu hijo antes de que sea muy tarde; no te hagas culpable de su muerte.",
+      "verse": 18,
+      "start_ms": 95162,
+      "end_ms": 100437,
+      "duration_ms": 5275
+    },
+    {
+      "word": "Quien fácilmente se enoja sufrirá las consecuencias; no tiene caso calmarlo, pues se enciende más su enojo.",
+      "verse": 19,
+      "start_ms": 100437,
+      "end_ms": 107174,
+      "duration_ms": 6737
+    },
+    {
+      "word": "El que oye consejo y acepta que lo corrijan acabará siendo sabio.",
+      "verse": 20,
+      "start_ms": 107175,
+      "end_ms": 111587,
+      "duration_ms": 4412
+    },
+    {
+      "word": "El hombre propone, y Dios dispone.",
+      "verse": 21,
+      "start_ms": 111587,
+      "end_ms": 114524,
+      "duration_ms": 2937
+    },
+    {
+      "word": "Todo el mundo quiere tener a alguien en quien confiar; todo el mundo prefiere al pobre más que al mentiroso.",
+      "verse": 22,
+      "start_ms": 114525,
+      "end_ms": 120750,
+      "duration_ms": 6225
+    },
+    {
+      "word": "Obedece a Dios y vivirás; así dormirás tranquilo y no tendrás ningún temor.",
+      "verse": 23,
+      "start_ms": 120750,
+      "end_ms": 126412,
+      "duration_ms": 5662
+    },
+    {
+      "word": "Hay gente tan perezosa que hasta de comer se cansa.",
+      "verse": 24,
+      "start_ms": 126412,
+      "end_ms": 129887,
+      "duration_ms": 3475
+    },
+    {
+      "word": "El tonto sólo aprende a través del castigo; al que es sabio le basta con sólo ser reprendido.",
+      "verse": 25,
+      "start_ms": 129887,
+      "end_ms": 135824,
+      "duration_ms": 5937
+    },
+    {
+      "word": "No hay hijo más malo ni más sinvergüenza que el que roba a su padre y echa a la calle a su madre.",
+      "verse": 26,
+      "start_ms": 135825,
+      "end_ms": 141475,
+      "duration_ms": 5650
+    },
+    {
+      "word": "Querido jovencito, si no aceptas la corrección, te apartarás de los sabios consejos.",
+      "verse": 27,
+      "start_ms": 141475,
+      "end_ms": 147387,
+      "duration_ms": 5912
+    },
+    {
+      "word": "Un testigo malvado se burla de la justicia; su alimento es la maldad.",
+      "verse": 28,
+      "start_ms": 147387,
+      "end_ms": 152262,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Para el malcriado, el castigo; para el tonto, los azotes.",
+      "verse": 29,
+      "start_ms": 152262,
+      "end_ms": 157049,
+      "duration_ms": 4787
+    }
+  ]
+}

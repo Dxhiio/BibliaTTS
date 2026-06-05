@@ -1,0 +1,320 @@
+{
+  "book": "2CO",
+  "chapter": 10,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 17,
+  "word_count": 27,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-2",
+      "char_start": 0,
+      "char_end": 316,
+      "text": "Dicen que soy muy tímido cuando estoy entre ustedes, pero muy valiente cuando estoy lejos. Yo les ruego, por el cariño y la bondad de Cristo, que cuando vaya a verlos, no me obliguen a ser duro con los que nos acusan. Ellos dicen que nosotros hacemos las cosas sólo por interés, como lo hace la gente de este mundo."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 316,
+      "char_end": 390,
+      "text": "Es verdad que vivimos en este mundo, pero no actuamos como todo el mundo,"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 390,
+      "char_end": 520,
+      "text": "ni luchamos con las armas de este mundo. Al contrario, usamos el poder de Dios para destruir las fuerzas del mal, las acusaciones"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 520,
+      "char_end": 677,
+      "text": "y el orgullo de quienes quieren impedir que todos conozcan a Dios. Con ese poder hacemos que los pecadores cambien su manera de pensar y obedezcan a Cristo."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 677,
+      "char_end": 818,
+      "text": "Estamos dispuestos a castigar a todo el que no obedezca a Cristo, comenzando por ustedes, hasta que llegue el día en que todos lo obedezcan."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 818,
+      "char_end": 943,
+      "text": "Ustedes sólo aceptan lo que pueden ver. A los que están seguros de que son de Cristo, quiero decirles que yo también lo soy."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 943,
+      "char_end": 1116,
+      "text": "Aunque yo exagere un poco en mi autoridad, no me da vergüenza. El Señor Jesucristo me dio autoridad sobre ustedes, para ayudarlos a confiar más en él y no para destruirlos."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1116,
+      "char_end": 1178,
+      "text": "No quiero que piensen que trato de asustarlos con mis cartas."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1178,
+      "char_end": 1319,
+      "text": "Algunos dicen que mis cartas son duras y fuertes, pero que cuando hablo en persona soy débil, y que no sé hablar bien ni impresiono a nadie."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1319,
+      "char_end": 1445,
+      "text": "Esas personas tienen que entender que, cuando vaya a verlos, seré tan fuerte como lo soy en las cartas que envío desde lejos."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1445,
+      "char_end": 1552,
+      "text": "Jamás llegaré a compararme con los que hablan bien de sí mismos. Compararse con uno mismo es una tontería."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1552,
+      "char_end": 1712,
+      "text": "Tampoco voy a presumir de lo que no he hecho. Si de algo voy a sentirme orgulloso, es del trabajo que Dios me mandó hacer. ¡Y ustedes son parte de ese trabajo!"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1712,
+      "char_end": 1844,
+      "text": "No voy a presumir más de lo que debo, pero fui de los primeros en llegar a Corinto y en anunciarles la buena noticia de Jesucristo."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1844,
+      "char_end": 2038,
+      "text": "Tampoco voy a sentirme orgulloso del trabajo que otros hicieron. Al contrario, espero poder trabajar más entre ustedes, según vaya aumentando su confianza en Dios. Ésa es la meta de mi trabajo."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2038,
+      "char_end": 2212,
+      "text": "También deseo anunciar la buena noticia en lugares más allá de Corinto, donde nadie haya trabajado antes. Así nadie podrá decir que ando presumiendo con el trabajo de otros."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2212,
+      "char_end": 2320,
+      "text": "La Biblia dice: Si alguien quiere sentirse orgulloso de algo, que se sienta orgulloso de creer en el Señor."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2320,
+      "char_end": 2431,
+      "text": "La persona que merece aplausos no es la que habla bien de sí misma, sino aquella de quien el Señor habla bien."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dicen que soy muy tímido cuando estoy entre ustedes, pero muy valiente cuando estoy lejos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5950,
+      "duration_ms": 5850
+    },
+    {
+      "word": "Yo les ruego, por el cariño y la bondad de Cristo, que cuando vaya a verlos, no me obliguen a ser duro con los que nos acusan.",
+      "verse": 1,
+      "start_ms": 5900,
+      "end_ms": 13537,
+      "duration_ms": 7637
+    },
+    {
+      "word": "Ellos dicen que nosotros hacemos las cosas sólo por interés, como lo hace la gente de este mundo.",
+      "verse": 1,
+      "start_ms": 13537,
+      "end_ms": 19737,
+      "duration_ms": 6200
+    },
+    {
+      "word": "Es verdad que vivimos en este mundo, pero no actuamos como todo el mundo, ni luchamos con las armas de este mundo.",
+      "verse": 3,
+      "start_ms": 19737,
+      "end_ms": 26862,
+      "duration_ms": 7125
+    },
+    {
+      "word": "Al contrario, usamos el poder de Dios para destruir las fuerzas del mal, las acusaciones y el orgullo de quienes quieren impedir que todos conozcan a Dios.",
+      "verse": 4,
+      "start_ms": 26862,
+      "end_ms": 35912,
+      "duration_ms": 9050
+    },
+    {
+      "word": "Con ese poder hacemos que los pecadores cambien su manera de pensar y obedezcan a Cristo.",
+      "verse": 5,
+      "start_ms": 35912,
+      "end_ms": 41212,
+      "duration_ms": 5300
+    },
+    {
+      "word": "Estamos dispuestos a castigar a todo el que no obedezca a Cristo, comenzando por ustedes, hasta que llegue el día en que todos lo obedezcan.",
+      "verse": 6,
+      "start_ms": 41212,
+      "end_ms": 49612,
+      "duration_ms": 8400
+    },
+    {
+      "word": "Ustedes sólo aceptan lo que pueden ver.",
+      "verse": 7,
+      "start_ms": 49612,
+      "end_ms": 52499,
+      "duration_ms": 2887
+    },
+    {
+      "word": "A los que están seguros de que son de Cristo, quiero decirles que yo también lo soy.",
+      "verse": 7,
+      "start_ms": 52500,
+      "end_ms": 57475,
+      "duration_ms": 4975
+    },
+    {
+      "word": "Aunque yo exagere un poco en mi autoridad, no me da vergüenza.",
+      "verse": 8,
+      "start_ms": 57475,
+      "end_ms": 61725,
+      "duration_ms": 4250
+    },
+    {
+      "word": "El Señor Jesucristo me dio autoridad sobre ustedes, para ayudarlos a confiar más en él y no para destruirlos.",
+      "verse": 8,
+      "start_ms": 61725,
+      "end_ms": 68787,
+      "duration_ms": 7062
+    },
+    {
+      "word": "No quiero que piensen que trato de asustarlos con mis cartas.",
+      "verse": 9,
+      "start_ms": 68787,
+      "end_ms": 72724,
+      "duration_ms": 3937
+    },
+    {
+      "word": "Algunos dicen que mis cartas son duras y fuertes, pero que cuando hablo en persona soy débil, y que no sé hablar bien ni impresiono a nadie.",
+      "verse": 10,
+      "start_ms": 72725,
+      "end_ms": 80712,
+      "duration_ms": 7987
+    },
+    {
+      "word": "Esas personas tienen que entender que, cuando vaya a verlos, seré tan fuerte como lo soy en las cartas que envío desde lejos.",
+      "verse": 11,
+      "start_ms": 80712,
+      "end_ms": 88362,
+      "duration_ms": 7650
+    },
+    {
+      "word": "Jamás llegaré a compararme con los que hablan bien de sí mismos.",
+      "verse": 12,
+      "start_ms": 88362,
+      "end_ms": 92499,
+      "duration_ms": 4137
+    },
+    {
+      "word": "Compararse con uno mismo es una tontería.",
+      "verse": 12,
+      "start_ms": 92500,
+      "end_ms": 95787,
+      "duration_ms": 3287
+    },
+    {
+      "word": "Tampoco voy a presumir de lo que no he hecho.",
+      "verse": 13,
+      "start_ms": 95787,
+      "end_ms": 99062,
+      "duration_ms": 3275
+    },
+    {
+      "word": "Si de algo voy a sentirme orgulloso, es del trabajo que Dios me mandó hacer.",
+      "verse": 13,
+      "start_ms": 99062,
+      "end_ms": 104212,
+      "duration_ms": 5150
+    },
+    {
+      "word": "Y ustedes son parte de ese trabajo!",
+      "verse": 13,
+      "start_ms": 104212,
+      "end_ms": 107087,
+      "duration_ms": 2875
+    },
+    {
+      "word": "No voy a presumir más de lo que debo, pero fui de los primeros en llegar a Corinto y en anunciarles la buena noticia de Jesucristo.",
+      "verse": 14,
+      "start_ms": 107087,
+      "end_ms": 114474,
+      "duration_ms": 7387
+    },
+    {
+      "word": "Tampoco voy a sentirme orgulloso del trabajo que otros hicieron.",
+      "verse": 15,
+      "start_ms": 114475,
+      "end_ms": 118675,
+      "duration_ms": 4200
+    },
+    {
+      "word": "Al contrario, espero poder trabajar más entre ustedes, según vaya aumentando su confianza en Dios.",
+      "verse": 15,
+      "start_ms": 118675,
+      "end_ms": 125437,
+      "duration_ms": 6762
+    },
+    {
+      "word": "Ésa es la meta de mi trabajo.",
+      "verse": 15,
+      "start_ms": 125437,
+      "end_ms": 128024,
+      "duration_ms": 2587
+    },
+    {
+      "word": "También deseo anunciar la buena noticia en lugares más allá de Corinto, donde nadie haya trabajado antes.",
+      "verse": 16,
+      "start_ms": 128025,
+      "end_ms": 134750,
+      "duration_ms": 6725
+    },
+    {
+      "word": "Así nadie podrá decir que ando presumiendo con el trabajo de otros.",
+      "verse": 16,
+      "start_ms": 134750,
+      "end_ms": 139175,
+      "duration_ms": 4425
+    },
+    {
+      "word": "La Biblia dice: Si alguien quiere sentirse orgulloso de algo, que se sienta orgulloso de creer en el Señor.",
+      "verse": 17,
+      "start_ms": 139175,
+      "end_ms": 146100,
+      "duration_ms": 6925
+    },
+    {
+      "word": "La persona que merece aplausos no es la que habla bien de sí misma, sino aquella de quien el Señor habla bien.",
+      "verse": 18,
+      "start_ms": 146100,
+      "end_ms": 152512,
+      "duration_ms": 6412
+    }
+  ]
+}

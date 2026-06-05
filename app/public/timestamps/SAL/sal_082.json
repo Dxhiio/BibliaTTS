@@ -1,0 +1,131 @@
+{
+  "book": "SAL",
+  "chapter": 82,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 8,
+  "word_count": 9,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 90,
+      "text": "Dios preside el tribunal del cielo, y dicta su sentencia contra los dioses allí reunidos:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 90,
+      "char_end": 183,
+      "text": "¿Hasta cuándo seguirán ustedes siendo injustos en sus juicios, y defendiendo a los malvados?"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 183,
+      "char_end": 283,
+      "text": "¡Defiendan a los huérfanos y a los indefensos! ¡Háganles justicia a los pobres y a los necesitados!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 283,
+      "char_end": 344,
+      "text": "¡Libren del poder de los malvados a los pobres e indefensos!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 344,
+      "char_end": 482,
+      "text": "Los malvados no saben nada ni entienden nada; ¡vagan perdidos en la oscuridad! Eso hace que se estremezcan todas las bases de este mundo."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 482,
+      "char_end": 555,
+      "text": "Ya les he dicho que ustedes son dioses, que son hijos del Dios Altísimo;"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 555,
+      "char_end": 630,
+      "text": "pero acabarán como todos los hombres: ¡morirán como todos los gobernantes!"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 630,
+      "char_end": 701,
+      "text": "Dios nuestro, ¡ven a gobernar el mundo! ¡Tuyas son todas las naciones!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios preside el tribunal del cielo, y dicta su sentencia contra los dioses allí reunidos: ¿Hasta cuándo seguirán ustedes siendo injustos en sus juicios, y defendiendo a los malvados?",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 11050,
+      "duration_ms": 10950
+    },
+    {
+      "word": "Defiendan a los huérfanos y a los indefensos!",
+      "verse": 3,
+      "start_ms": 11000,
+      "end_ms": 14362,
+      "duration_ms": 3362
+    },
+    {
+      "word": "Háganles justicia a los pobres y a los necesitados!",
+      "verse": 3,
+      "start_ms": 14362,
+      "end_ms": 18137,
+      "duration_ms": 3775
+    },
+    {
+      "word": "Libren del poder de los malvados a los pobres e indefensos!",
+      "verse": 4,
+      "start_ms": 18137,
+      "end_ms": 22149,
+      "duration_ms": 4012
+    },
+    {
+      "word": "Los malvados no saben nada ni entienden nada; ¡vagan perdidos en la oscuridad!",
+      "verse": 5,
+      "start_ms": 22150,
+      "end_ms": 27350,
+      "duration_ms": 5200
+    },
+    {
+      "word": "Eso hace que se estremezcan todas las bases de este mundo.",
+      "verse": 5,
+      "start_ms": 27350,
+      "end_ms": 31400,
+      "duration_ms": 4050
+    },
+    {
+      "word": "Ya les he dicho que ustedes son dioses, que son hijos del Dios Altísimo; pero acabarán como todos los hombres: ¡morirán como todos los gobernantes!",
+      "verse": 6,
+      "start_ms": 31400,
+      "end_ms": 40475,
+      "duration_ms": 9075
+    },
+    {
+      "word": "Dios nuestro, ¡ven a gobernar el mundo!",
+      "verse": 8,
+      "start_ms": 40475,
+      "end_ms": 43525,
+      "duration_ms": 3050
+    },
+    {
+      "word": "Tuyas son todas las naciones!",
+      "verse": 8,
+      "start_ms": 43525,
+      "end_ms": 46175,
+      "duration_ms": 2650
+    }
+  ]
+}

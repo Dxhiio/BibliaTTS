@@ -1,0 +1,677 @@
+{
+  "book": "2RE",
+  "chapter": 23,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 30,
+  "word_count": 65,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-2",
+      "char_start": 0,
+      "char_end": 363,
+      "text": "Luego el rey mandó a llamar a los líderes de Judá y de Jerusalén, para que se reunieran en el templo con él. A la cita acudieron todos los hombres de Judá, los habitantes de Jerusalén, los sacerdotes y los profetas. Toda la nación, desde el más joven hasta el más viejo, fue al templo. Allí, el rey les leyó lo que decía el libro del pacto que habían encontrado."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 363,
+      "char_end": 584,
+      "text": "Después se puso de pie, junto a una columna, y se comprometió a obedecer siempre todos los mandamientos de Dios, y a cumplir fielmente el pacto que estaba escrito en el libro. Y el pueblo se comprometió a hacer lo mismo."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 584,
+      "char_end": 947,
+      "text": "El rey Josías ordenó que sacaran del templo todos los objetos que se usaban para adorar a Baal, a Astarté y a todos los astros del cielo. Los sacerdotes, y su jefe Hilquías, y los encargados de cuidar el templo cumplieron sus órdenes. Luego el rey ordenó que quemaran todo en los campos de Cedrón, en las afueras de Jerusalén, y que llevaran las cenizas a Betel."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 947,
+      "char_end": 1248,
+      "text": "También expulsó a los sacerdotes que los reyes de Judá habían nombrado para quemar incienso en los pequeños templos de las colinas, edificados en honor de Baal, el sol, la luna y las estrellas. Además ordenó que en todas las ciudades de Judá y alrededor de Jerusalén se quitaran los pequeños templos,"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 1248,
+      "char_end": 1446,
+      "text": "y sacaran del templo de Dios la imagen de la diosa Astarté y la llevaran al arroyo de Cedrón, en las afueras de Jerusalén. Allí la quemaron y esparcieron las cenizas sobre el cementerio del pueblo."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 1446,
+      "char_end": 1616,
+      "text": "También mandó derribar las habitaciones del templo donde se practicaba la prostitución para adorar a los dioses, y donde las mujeres tejían mantas para la diosa Astarté."
+    },
+    {
+      "verse": 8,
+      "label": "8-9",
+      "char_start": 1616,
+      "char_end": 2194,
+      "text": "En todas las ciudades de Judá, en la región que va de Gueba a Beerseba, había sacerdotes que ofrecían sacrificios a Dios en los pequeños templos de las colinas. Josías mandó destruirlos, y obligó a los sacerdotes a vivir en Jerusalén. A éstos les prohibió trabajar en el templo de Dios, aunque sí los dejó comer de los panes sin levadura, al igual que los demás sacerdotes. Además, Josías ordenó destruir los altares de los dioses falsos que estaban en la entrada del palacio de Josué, quien fue gobernador de Judá. Ese palacio estaba a la izquierda de la entrada de la ciudad."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 2194,
+      "char_end": 2350,
+      "text": "Además Josías destruyó el horno que estaba en el valle de Ben-hinom, para que nadie pudiera quemar allí a su hijo o hija como sacrificio en honor a Milcom."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 2350,
+      "char_end": 2606,
+      "text": "También eliminó los caballos y quemó los carros de guerra que estaban a la entrada del templo de Dios, junto al cuarto de Natán-mélec, encargado de las habitaciones. Los reyes de Judá usaban esos caballos y carros para las ceremonias en honor al dios sol."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 2606,
+      "char_end": 2832,
+      "text": "También derribó los altares que esos reyes habían construido en el techo del palacio, cerca de la habitación de Ahaz, y los que Manasés puso en los patios del templo. Los hizo polvo, y ese polvo lo arrojó en el arroyo Cedrón."
+    },
+    {
+      "verse": 13,
+      "label": "13-15",
+      "char_start": 2832,
+      "char_end": 3372,
+      "text": "Josías destruyó además las imágenes y los pequeños templos de las colinas al este de Jerusalén, y los que había en el sur del Monte de los Olivos. El rey Salomón los había construido para adorar a los repugnantes dioses Quemós, dios de los moabitas, Milcom, dios de los amonitas, y Astarté, diosa de los sidonios. Después rellenó con huesos humanos los lugares donde habían estado esas imágenes. Luego fue a Betel, y derribó y quemó el altar que Jeroboam hijo de Nabat había construido allí, con el cual había hecho pecar a los israelitas."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 3372,
+      "char_end": 3634,
+      "text": "Cuando Josías regresaba de Betel, vio las tumbas que había en las colinas, y mandó sacar los huesos que había en ellas. Luego los quemó sobre el altar del lugar, para que ya no pudieran usarlo. Así se cumplió lo que Dios había anunciado por medio de su profeta."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 3634,
+      "char_end": 3833,
+      "text": "De pronto Josías vio una tumba y preguntó de quién era. Los hombres de la ciudad le respondieron: —Es la tumba del profeta que vino de Judá y anunció lo que usted hoy ha hecho con el altar de Betel."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 3833,
+      "char_end": 3992,
+      "text": "Entonces Josías ordenó: —Déjenla como está. Así que no sacaron los huesos del profeta de Judá, ni los del profeta de Samaria, que estaba enterrado junto a él."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 3992,
+      "char_end": 4164,
+      "text": "Josías quitó todos los pequeños templos que había en Samaria, como lo había hecho también en Betel. Los reyes de Israel los habían construido, provocando el enojo de Dios."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 4164,
+      "char_end": 4306,
+      "text": "Después mató sobre los altares a todos los sacerdotes de esos templos, y sobre esos altares quemó huesos humanos. Cuando regresó a Jerusalén,"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 4306,
+      "char_end": 4442,
+      "text": "el rey Josías le ordenó a todo el pueblo: Celebren la Pascua en honor al Dios de Israel, tal como está escrito en este libro del pacto."
+    },
+    {
+      "verse": 22,
+      "label": "22-23",
+      "char_start": 4442,
+      "char_end": 4663,
+      "text": "Así que el pueblo celebró la Pascua en Jerusalén, cuando Josías tenía ya dieciocho años de reinar. Nunca antes todo el pueblo había celebrado la Pascua de esa manera, desde que ocuparon el territorio en tiempos de Josué."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 4663,
+      "char_end": 4994,
+      "text": "Además Josías eliminó a todos los brujos y adivinos, y destruyó todos los ídolos, incluso los ídolos familiares. Todos los objetos repugnantes que había en Jerusalén y en Judá para adorar a los dioses falsos, fueron destruidos. Así cumplió Josías los mandamientos del libro que el sacerdote Hilquías había encontrado en el templo."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 4994,
+      "char_end": 5135,
+      "text": "Ni antes ni después hubo otro rey como Josías, que se apartara de su maldad y obedeciera a Dios con todo su corazón y con todas sus fuerzas."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 5135,
+      "char_end": 5236,
+      "text": "Sin embargo, Dios siguió enojado contra Judá porque los pecados de Manasés lo habían ofendido mucho."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 5236,
+      "char_end": 5397,
+      "text": "Por eso Dios dijo: Voy a rechazar a Judá, como lo hice con Israel, y rechazaré a Jerusalén, la ciudad que había elegido, y al templo en el que dije que viviría."
+    },
+    {
+      "verse": 28,
+      "label": "28-30",
+      "char_start": 5397,
+      "char_end": 5872,
+      "text": "Un día, Necao, rey de Egipto, se dirigía hacia el río Éufrates para ayudar al rey de Asiria. Entonces el rey Josías decidió atacar a Necao en Meguido, pero Necao lo mató en cuanto lo vio. Los oficiales de Josías llevaron el cuerpo del rey en una carreta desde Meguido hasta Jerusalén, y lo enterraron en su tumba. El pueblo eligió a su hijo Joacaz para que fuera el siguiente rey de Judá. Todo lo que hizo Josías está escrito en el libro de la historia de los reyes de Judá."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 5872,
+      "char_end": 6056,
+      "text": "Joacaz comenzó a gobernar a los veintitrés años. La capital de su reino fue Jerusalén, y su reinado duró sólo tres meses. Su madre era de Libná, y se llamaba Hamutal hija de Jeremías."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 6056,
+      "char_end": 6113,
+      "text": "Joacaz desobedeció a Dios, al igual que sus antepasados."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 6113,
+      "char_end": 6346,
+      "text": "El rey Necao capturó a Joacaz y lo dejó preso en Riblá, en la región de Hamat, para que no pudiera reinar en Jerusalén. Además, obligó a Judá a pagar un impuesto de tres mil trescientos kilos de plata, y treinta y tres kilos de oro."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 6346,
+      "char_end": 6526,
+      "text": "Después nombró rey a Eliaquim hijo de Josías, para que reinara en lugar de su padre, pero antes le cambió el nombre, y lo llamó Joacín. Luego llevó a Joacaz a Egipto, donde murió."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 6526,
+      "char_end": 6722,
+      "text": "Joacín le dio al rey Necao el oro y la plata que éste le pidió, y para hacerlo les cobró un impuesto a todos los habitantes del pueblo: cada uno tuvo que entregar la cantidad que le correspondía."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 6722,
+      "char_end": 6896,
+      "text": "Joacín comenzó a reinar a los veinticinco años. La capital de su reino fue Jerusalén, y su reinado duró once años. Su madre era de Rumá, y se llamaba Zebudá hija de Pedaías."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 6896,
+      "char_end": 6960,
+      "text": "Pero este rey desobedeció a Dios, al igual que sus antepasados."
+    }
+  ],
+  "words": [
+    {
+      "word": "Luego el rey mandó a llamar a los líderes de Judá y de Jerusalén, para que se reunieran en el templo con él.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6662,
+      "duration_ms": 6562
+    },
+    {
+      "word": "A la cita acudieron todos los hombres de Judá, los habitantes de Jerusalén, los sacerdotes y los profetas.",
+      "verse": 1,
+      "start_ms": 6612,
+      "end_ms": 13387,
+      "duration_ms": 6775
+    },
+    {
+      "word": "Toda la nación, desde el más joven hasta el más viejo, fue al templo.",
+      "verse": 1,
+      "start_ms": 13387,
+      "end_ms": 18262,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Allí, el rey les leyó lo que decía el libro del pacto que habían encontrado.",
+      "verse": 1,
+      "start_ms": 18262,
+      "end_ms": 23237,
+      "duration_ms": 4975
+    },
+    {
+      "word": "Después se puso de pie, junto a una columna, y se comprometió a obedecer siempre todos los mandamientos de Dios, y a cumplir fielmente el pacto que estaba escrito en el libro.",
+      "verse": 3,
+      "start_ms": 23237,
+      "end_ms": 33349,
+      "duration_ms": 10112
+    },
+    {
+      "word": "Y el pueblo se comprometió a hacer lo mismo.",
+      "verse": 3,
+      "start_ms": 33350,
+      "end_ms": 36450,
+      "duration_ms": 3100
+    },
+    {
+      "word": "El rey Josías ordenó que sacaran del templo todos los objetos que se usaban para adorar a Baal, a Astarté y a todos los astros del cielo.",
+      "verse": 4,
+      "start_ms": 36450,
+      "end_ms": 44550,
+      "duration_ms": 8100
+    },
+    {
+      "word": "Los sacerdotes, y su jefe Hilquías, y los encargados de cuidar el templo cumplieron sus órdenes.",
+      "verse": 4,
+      "start_ms": 44550,
+      "end_ms": 50962,
+      "duration_ms": 6412
+    },
+    {
+      "word": "Luego el rey ordenó que quemaran todo en los campos de Cedrón, en las afueras de Jerusalén, y que llevaran las cenizas a Betel.",
+      "verse": 4,
+      "start_ms": 50962,
+      "end_ms": 58299,
+      "duration_ms": 7337
+    },
+    {
+      "word": "También expulsó a los sacerdotes que los reyes de Judá habían nombrado para quemar incienso en los pequeños templos de las colinas, edificados en honor de Baal, el sol, la luna y las estrellas.",
+      "verse": 5,
+      "start_ms": 58300,
+      "end_ms": 69575,
+      "duration_ms": 11275
+    },
+    {
+      "word": "Además ordenó que en todas las ciudades de Judá y alrededor de Jerusalén se quitaran los pequeños templos, y sacaran del templo de Dios la imagen de la diosa Astarté y la llevaran al arroyo de Cedrón, en las afueras de Jerusalén.",
+      "verse": 5,
+      "start_ms": 69575,
+      "end_ms": 82400,
+      "duration_ms": 12825
+    },
+    {
+      "word": "Allí la quemaron y esparcieron las cenizas sobre el cementerio del pueblo.",
+      "verse": 6,
+      "start_ms": 82400,
+      "end_ms": 86800,
+      "duration_ms": 4400
+    },
+    {
+      "word": "También mandó derribar las habitaciones del templo donde se practicaba la prostitución para adorar a los dioses, y donde las mujeres tejían mantas para la diosa Astarté.",
+      "verse": 7,
+      "start_ms": 86800,
+      "end_ms": 96262,
+      "duration_ms": 9462
+    },
+    {
+      "word": "En todas las ciudades de Judá, en la región que va de Gueba a Beerseba, había sacerdotes que ofrecían sacrificios a Dios en los pequeños templos de las colinas.",
+      "verse": 8,
+      "start_ms": 96262,
+      "end_ms": 105299,
+      "duration_ms": 9037
+    },
+    {
+      "word": "Josías mandó destruirlos, y obligó a los sacerdotes a vivir en Jerusalén.",
+      "verse": 8,
+      "start_ms": 105300,
+      "end_ms": 110650,
+      "duration_ms": 5350
+    },
+    {
+      "word": "A éstos les prohibió trabajar en el templo de Dios, aunque sí los dejó comer de los panes sin levadura, al igual que los demás sacerdotes.",
+      "verse": 8,
+      "start_ms": 110650,
+      "end_ms": 118712,
+      "duration_ms": 8062
+    },
+    {
+      "word": "Además, Josías ordenó destruir los altares de los dioses falsos que estaban en la entrada del palacio de Josué, quien fue gobernador de Judá.",
+      "verse": 8,
+      "start_ms": 118712,
+      "end_ms": 127062,
+      "duration_ms": 8350
+    },
+    {
+      "word": "Ese palacio estaba a la izquierda de la entrada de la ciudad.",
+      "verse": 8,
+      "start_ms": 127062,
+      "end_ms": 130937,
+      "duration_ms": 3875
+    },
+    {
+      "word": "Además Josías destruyó el horno que estaba en el valle de Ben-hinom, para que nadie pudiera quemar allí a su hijo o hija como sacrificio en honor a Milcom.",
+      "verse": 10,
+      "start_ms": 130937,
+      "end_ms": 139824,
+      "duration_ms": 8887
+    },
+    {
+      "word": "También eliminó los caballos y quemó los carros de guerra que estaban a la entrada del templo de Dios, junto al cuarto de Natán-mélec, encargado de las habitaciones.",
+      "verse": 11,
+      "start_ms": 139825,
+      "end_ms": 149312,
+      "duration_ms": 9487
+    },
+    {
+      "word": "Los reyes de Judá usaban esos caballos y carros para las ceremonias en honor al dios sol.",
+      "verse": 11,
+      "start_ms": 149312,
+      "end_ms": 154724,
+      "duration_ms": 5412
+    },
+    {
+      "word": "También derribó los altares que esos reyes habían construido en el techo del palacio, cerca de la habitación de Ahaz, y los que Manasés puso en los patios del templo.",
+      "verse": 12,
+      "start_ms": 154725,
+      "end_ms": 164212,
+      "duration_ms": 9487
+    },
+    {
+      "word": "Los hizo polvo, y ese polvo lo arrojó en el arroyo Cedrón.",
+      "verse": 12,
+      "start_ms": 164212,
+      "end_ms": 168499,
+      "duration_ms": 4287
+    },
+    {
+      "word": "Josías destruyó además las imágenes y los pequeños templos de las colinas al este de Jerusalén, y los que había en el sur del Monte de los Olivos.",
+      "verse": 13,
+      "start_ms": 168500,
+      "end_ms": 176825,
+      "duration_ms": 8325
+    },
+    {
+      "word": "El rey Salomón los había construido para adorar a los repugnantes dioses Quemós, dios de los moabitas, Milcom, dios de los amonitas, y Astarté, diosa de los sidonios.",
+      "verse": 13,
+      "start_ms": 176825,
+      "end_ms": 187850,
+      "duration_ms": 11025
+    },
+    {
+      "word": "Después rellenó con huesos humanos los lugares donde habían estado esas imágenes.",
+      "verse": 13,
+      "start_ms": 187850,
+      "end_ms": 193050,
+      "duration_ms": 5200
+    },
+    {
+      "word": "Luego fue a Betel, y derribó y quemó el altar que Jeroboam hijo de Nabat había construido allí, con el cual había hecho pecar a los israelitas.",
+      "verse": 13,
+      "start_ms": 193050,
+      "end_ms": 201737,
+      "duration_ms": 8687
+    },
+    {
+      "word": "Cuando Josías regresaba de Betel, vio las tumbas que había en las colinas, y mandó sacar los huesos que había en ellas.",
+      "verse": 16,
+      "start_ms": 201737,
+      "end_ms": 208899,
+      "duration_ms": 7162
+    },
+    {
+      "word": "Luego los quemó sobre el altar del lugar, para que ya no pudieran usarlo.",
+      "verse": 16,
+      "start_ms": 208900,
+      "end_ms": 213575,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Así se cumplió lo que Dios había anunciado por medio de su profeta.",
+      "verse": 16,
+      "start_ms": 213575,
+      "end_ms": 217962,
+      "duration_ms": 4387
+    },
+    {
+      "word": "De pronto Josías vio una tumba y preguntó de quién era.",
+      "verse": 17,
+      "start_ms": 217962,
+      "end_ms": 221737,
+      "duration_ms": 3775
+    },
+    {
+      "word": "Los hombres de la ciudad le respondieron: —Es la tumba del profeta que vino de Judá y anunció lo que usted hoy ha hecho con el altar de Betel.",
+      "verse": 17,
+      "start_ms": 221737,
+      "end_ms": 229374,
+      "duration_ms": 7637
+    },
+    {
+      "word": "Entonces Josías ordenó: —Déjenla como está.",
+      "verse": 18,
+      "start_ms": 229375,
+      "end_ms": 233112,
+      "duration_ms": 3737
+    },
+    {
+      "word": "Así que no sacaron los huesos del profeta de Judá, ni los del profeta de Samaria, que estaba",
+      "verse": 18,
+      "start_ms": 233112,
+      "end_ms": 238974,
+      "duration_ms": 5862
+    },
+    {
+      "word": "enterrado junto a él.",
+      "verse": 18,
+      "start_ms": 239140,
+      "end_ms": 241415,
+      "duration_ms": 2275
+    },
+    {
+      "word": "Josías quitó todos los pequeños templos que había en Samaria, como lo había hecho también en Betel.",
+      "verse": 19,
+      "start_ms": 241365,
+      "end_ms": 247440,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Los reyes de Israel los habían construido, provocando el enojo de Dios.",
+      "verse": 19,
+      "start_ms": 247440,
+      "end_ms": 252627,
+      "duration_ms": 5187
+    },
+    {
+      "word": "Después mató sobre los altares a todos los sacerdotes de esos templos, y sobre esos altares quemó huesos humanos.",
+      "verse": 20,
+      "start_ms": 252627,
+      "end_ms": 259864,
+      "duration_ms": 7237
+    },
+    {
+      "word": "Cuando regresó a Jerusalén, el rey Josías le ordenó a todo el pueblo: Celebren la Pascua en honor al Dios de Israel, tal como está escrito en este libro del pacto.",
+      "verse": 20,
+      "start_ms": 259865,
+      "end_ms": 269340,
+      "duration_ms": 9475
+    },
+    {
+      "word": "Así que el pueblo celebró la Pascua en Jerusalén, cuando Josías tenía ya dieciocho años de reinar.",
+      "verse": 22,
+      "start_ms": 269340,
+      "end_ms": 275702,
+      "duration_ms": 6362
+    },
+    {
+      "word": "Nunca antes todo el pueblo había celebrado la Pascua de esa manera, desde que ocuparon el territorio en tiempos de Josué.",
+      "verse": 22,
+      "start_ms": 275702,
+      "end_ms": 282939,
+      "duration_ms": 7237
+    },
+    {
+      "word": "Además Josías eliminó a todos los brujos y adivinos, y destruyó todos los ídolos, incluso los ídolos familiares.",
+      "verse": 24,
+      "start_ms": 282940,
+      "end_ms": 290852,
+      "duration_ms": 7912
+    },
+    {
+      "word": "Todos los objetos repugnantes que había en Jerusalén y en Judá para adorar a los dioses falsos, fueron destruidos.",
+      "verse": 24,
+      "start_ms": 290852,
+      "end_ms": 297864,
+      "duration_ms": 7012
+    },
+    {
+      "word": "Así cumplió Josías los mandamientos del libro que el sacerdote Hilquías había encontrado en el templo.",
+      "verse": 24,
+      "start_ms": 297865,
+      "end_ms": 303815,
+      "duration_ms": 5950
+    },
+    {
+      "word": "Ni antes ni después hubo otro rey como Josías, que se apartara de su maldad y obedeciera a Dios con todo su corazón y con todas sus fuerzas.",
+      "verse": 25,
+      "start_ms": 303815,
+      "end_ms": 312452,
+      "duration_ms": 8637
+    },
+    {
+      "word": "Sin embargo, Dios siguió enojado contra Judá porque los pecados de Manasés lo habían ofendido mucho.",
+      "verse": 26,
+      "start_ms": 312452,
+      "end_ms": 318714,
+      "duration_ms": 6262
+    },
+    {
+      "word": "Por eso Dios dijo: Voy a rechazar a Judá, como lo hice con Israel, y rechazaré a Jerusalén, la ciudad que había elegido, y al templo en el que dije que viviría.",
+      "verse": 27,
+      "start_ms": 318715,
+      "end_ms": 329215,
+      "duration_ms": 10500
+    },
+    {
+      "word": "Un día, Necao, rey de Egipto, se dirigía hacia el río Éufrates para ayudar al rey de Asiria.",
+      "verse": 28,
+      "start_ms": 329215,
+      "end_ms": 336002,
+      "duration_ms": 6787
+    },
+    {
+      "word": "Entonces el rey Josías decidió atacar a Necao en Meguido, pero Necao lo mató en cuanto lo vio.",
+      "verse": 28,
+      "start_ms": 336002,
+      "end_ms": 342327,
+      "duration_ms": 6325
+    },
+    {
+      "word": "Los oficiales de Josías llevaron el cuerpo del rey en una carreta desde Meguido hasta Jerusalén, y lo enterraron en su tumba.",
+      "verse": 28,
+      "start_ms": 342327,
+      "end_ms": 349552,
+      "duration_ms": 7225
+    },
+    {
+      "word": "El pueblo eligió a su hijo Joacaz para que fuera el siguiente rey de Judá.",
+      "verse": 28,
+      "start_ms": 349552,
+      "end_ms": 354127,
+      "duration_ms": 4575
+    },
+    {
+      "word": "Todo lo que hizo Josías está escrito en el libro de la historia de los reyes de Judá.",
+      "verse": 28,
+      "start_ms": 354127,
+      "end_ms": 359139,
+      "duration_ms": 5012
+    },
+    {
+      "word": "Joacaz comenzó a gobernar a los veintitrés años.",
+      "verse": 31,
+      "start_ms": 359140,
+      "end_ms": 362802,
+      "duration_ms": 3662
+    },
+    {
+      "word": "La capital de su reino fue Jerusalén, y su reinado duró sólo tres meses.",
+      "verse": 31,
+      "start_ms": 362802,
+      "end_ms": 368114,
+      "duration_ms": 5312
+    },
+    {
+      "word": "Su madre era de Libná, y se llamaba Hamutal hija de Jeremías.",
+      "verse": 31,
+      "start_ms": 368115,
+      "end_ms": 372790,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Joacaz desobedeció a Dios, al igual que sus antepasados.",
+      "verse": 32,
+      "start_ms": 372790,
+      "end_ms": 377165,
+      "duration_ms": 4375
+    },
+    {
+      "word": "El rey Necao capturó a Joacaz y lo dejó preso en Riblá, en la región de Hamat, para que no pudiera reinar en Jerusalén.",
+      "verse": 33,
+      "start_ms": 377165,
+      "end_ms": 384477,
+      "duration_ms": 7312
+    },
+    {
+      "word": "Además, obligó a Judá a pagar un impuesto de tres mil trescientos kilos de plata, y treinta y tres kilos de oro.",
+      "verse": 33,
+      "start_ms": 384477,
+      "end_ms": 391639,
+      "duration_ms": 7162
+    },
+    {
+      "word": "Después nombró rey a Eliaquim hijo de Josías, para que reinara en lugar de su padre, pero antes le cambió el nombre, y lo llamó Joacín.",
+      "verse": 34,
+      "start_ms": 391640,
+      "end_ms": 400127,
+      "duration_ms": 8487
+    },
+    {
+      "word": "Luego llevó a Joacaz a Egipto, donde murió.",
+      "verse": 34,
+      "start_ms": 400127,
+      "end_ms": 403739,
+      "duration_ms": 3612
+    },
+    {
+      "word": "Joacín le dio al rey Necao el oro y la plata que éste le pidió, y para hacerlo les cobró un impuesto a todos los habitantes del pueblo: cada uno tuvo que entregar la cantidad que le correspondía.",
+      "verse": 35,
+      "start_ms": 403740,
+      "end_ms": 414790,
+      "duration_ms": 11050
+    },
+    {
+      "word": "Joacín comenzó a reinar a los veinticinco años.",
+      "verse": 36,
+      "start_ms": 414790,
+      "end_ms": 418615,
+      "duration_ms": 3825
+    },
+    {
+      "word": "La capital de su reino fue Jerusalén, y su reinado duró once años.",
+      "verse": 36,
+      "start_ms": 418615,
+      "end_ms": 423727,
+      "duration_ms": 5112
+    },
+    {
+      "word": "Su madre era de Rumá, y se llamaba Zebudá hija de Pedaías.",
+      "verse": 36,
+      "start_ms": 423727,
+      "end_ms": 428352,
+      "duration_ms": 4625
+    },
+    {
+      "word": "Pero este rey desobedeció a Dios, al igual que sus antepasados.",
+      "verse": 37,
+      "start_ms": 428352,
+      "end_ms": 432939,
+      "duration_ms": 4587
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "book": "JON",
+  "chapter": 3,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 10,
+  "word_count": 17,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 53,
+      "text": "Dios volvió a hablarle a Jonás, y le dio esta orden:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 53,
+      "char_end": 135,
+      "text": "¡Levántate, ve a la gran ciudad de Nínive! Anúnciales el mensaje que voy a darte."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 135,
+      "char_end": 291,
+      "text": "Esta vez Jonás sí obedeció a Dios: se levantó y se fue a Nínive. Aquella ciudad era tan grande que para recorrerla toda se necesitaban tres días completos."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 291,
+      "char_end": 415,
+      "text": "Jonás entró en la ciudad, y durante todo un día estuvo anunciando: ¡Dentro de cuarenta días Dios va a destruir esta ciudad!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 415,
+      "char_end": 689,
+      "text": "Entonces toda la gente de Nínive dejó de hacer lo malo y decidió obedecer sólo a Dios. Y como querían demostrar que deseaban cambiar su manera de vivir, se pusieron ropa de tela áspera y ayunaron. Todos ellos, desde el más rico hasta el más pobre, no comieron nada ese día."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 689,
+      "char_end": 877,
+      "text": "Cuando el rey de Nínive supo esto, se levantó de su trono. Luego se quitó sus ropas finas, se puso ropas ásperas, y se sentó en el suelo. Todo esto lo hizo en señal de humildad ante Dios."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 877,
+      "char_end": 1071,
+      "text": "De inmediato el rey envió un anuncio a toda la gente de Nínive: Ésta es una orden del rey y de sus ministros: Que nadie coma nada. Se prohíbe que la gente, las vacas y las ovejas coman o beban."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1071,
+      "char_end": 1321,
+      "text": "Todo el mundo está obligado a ponerse ropas ásperas, y deberán cubrir los animales con mantas ásperas. Además, les pedimos a todos ustedes que oren a Dios con todas sus fuerzas, que dejen de hacer lo malo, y que ya no se peleen ni maltraten a nadie."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1321,
+      "char_end": 1406,
+      "text": "Si dejamos de hacer lo malo, tal vez a Dios se le pase el enojo, y no nos destruirá."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1406,
+      "char_end": 1495,
+      "text": "Y al ver que toda la gente de Nínive dejó de hacer lo malo, Dios decidió no destruirlos."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios volvió a hablarle a Jonás, y le dio esta orden: ¡Levántate, ve a la gran ciudad de Nínive!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6875,
+      "duration_ms": 6775
+    },
+    {
+      "word": "Anúnciales el mensaje que voy a darte.",
+      "verse": 2,
+      "start_ms": 6825,
+      "end_ms": 9850,
+      "duration_ms": 3025
+    },
+    {
+      "word": "Esta vez Jonás sí obedeció a Dios: se levantó y se fue a Nínive.",
+      "verse": 3,
+      "start_ms": 9850,
+      "end_ms": 14712,
+      "duration_ms": 4862
+    },
+    {
+      "word": "Aquella ciudad era tan grande que para recorrerla toda se necesitaban tres días completos.",
+      "verse": 3,
+      "start_ms": 14712,
+      "end_ms": 20412,
+      "duration_ms": 5700
+    },
+    {
+      "word": "Jonás entró en la ciudad, y durante todo un día estuvo anunciando: ¡Dentro de cuarenta días Dios va a destruir esta ciudad!",
+      "verse": 4,
+      "start_ms": 20412,
+      "end_ms": 27962,
+      "duration_ms": 7550
+    },
+    {
+      "word": "Entonces toda la gente de Nínive dejó de hacer lo malo y decidió obedecer sólo a Dios.",
+      "verse": 5,
+      "start_ms": 27962,
+      "end_ms": 33649,
+      "duration_ms": 5687
+    },
+    {
+      "word": "Y como querían demostrar que deseaban cambiar su manera de vivir, se pusieron ropa de tela áspera y ayunaron.",
+      "verse": 5,
+      "start_ms": 33650,
+      "end_ms": 40512,
+      "duration_ms": 6862
+    },
+    {
+      "word": "Todos ellos, desde el más rico hasta el más pobre, no comieron nada ese día.",
+      "verse": 5,
+      "start_ms": 40512,
+      "end_ms": 46012,
+      "duration_ms": 5500
+    },
+    {
+      "word": "Cuando el rey de Nínive supo esto, se levantó de su trono.",
+      "verse": 6,
+      "start_ms": 46012,
+      "end_ms": 50187,
+      "duration_ms": 4175
+    },
+    {
+      "word": "Luego se quitó sus ropas finas, se puso ropas ásperas, y se sentó en el suelo.",
+      "verse": 6,
+      "start_ms": 50187,
+      "end_ms": 55774,
+      "duration_ms": 5587
+    },
+    {
+      "word": "Todo esto lo hizo en señal de humildad ante Dios.",
+      "verse": 6,
+      "start_ms": 55775,
+      "end_ms": 59412,
+      "duration_ms": 3637
+    },
+    {
+      "word": "De inmediato el rey envió un anuncio a toda la gente de Nínive: Ésta es una orden del rey y de sus ministros: Que nadie coma nada.",
+      "verse": 7,
+      "start_ms": 59412,
+      "end_ms": 67549,
+      "duration_ms": 8137
+    },
+    {
+      "word": "Se prohíbe que la gente, las vacas y las ovejas coman o beban.",
+      "verse": 7,
+      "start_ms": 67550,
+      "end_ms": 72075,
+      "duration_ms": 4525
+    },
+    {
+      "word": "Todo el mundo está obligado a ponerse ropas ásperas, y deberán cubrir los animales con mantas ásperas.",
+      "verse": 8,
+      "start_ms": 72075,
+      "end_ms": 78750,
+      "duration_ms": 6675
+    },
+    {
+      "word": "Además, les pedimos a todos ustedes que oren a Dios con todas sus fuerzas, que dejen de hacer lo malo, y que ya no se peleen ni maltraten a nadie.",
+      "verse": 8,
+      "start_ms": 78750,
+      "end_ms": 87675,
+      "duration_ms": 8925
+    },
+    {
+      "word": "Si dejamos de hacer lo malo, tal vez a Dios se le pase el enojo, y no nos destruirá.",
+      "verse": 9,
+      "start_ms": 87675,
+      "end_ms": 93350,
+      "duration_ms": 5675
+    },
+    {
+      "word": "Y al ver que toda la gente de Nínive dejó de hacer lo malo, Dios decidió no destruirlos.",
+      "verse": 10,
+      "start_ms": 93350,
+      "end_ms": 99425,
+      "duration_ms": 6075
+    }
+  ]
+}

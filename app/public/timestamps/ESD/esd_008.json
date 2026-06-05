@@ -1,0 +1,495 @@
+{
+  "book": "ESD",
+  "chapter": 8,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 34,
+  "word_count": 35,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 115,
+      "text": "Ésta es la lista de los jefes de familia que volvieron de Babilonia con Esdras cuando gobernaba el rey Artajerjes:"
+    },
+    {
+      "verse": 2,
+      "label": "2-3",
+      "char_start": 115,
+      "char_end": 307,
+      "text": "Guersón, de la familia de Finees; Daniel, de la familia de Itamar; Hatús, de la familia de David; Zacarías, de la familia de Parós, con otros ciento cincuenta hombres que estaban en la lista;"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 307,
+      "char_end": 372,
+      "text": "Eliehoenai, de la familia de Pahat-moab, con doscientos hombres;"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 372,
+      "char_end": 430,
+      "text": "Secanías, de la familia de Zatú, con trescientos hombres;"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 430,
+      "char_end": 482,
+      "text": "Ébed, de la familia de Adín, con cincuenta hombres;"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 482,
+      "char_end": 534,
+      "text": "Isaías, de la familia de Elam, con setenta hombres;"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 534,
+      "char_end": 592,
+      "text": "Zebadías, de la familia de Sefatías, con ochenta hombres;"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 592,
+      "char_end": 657,
+      "text": "Abdías, de la familia de Joab, con doscientos dieciocho hombres;"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 657,
+      "char_end": 717,
+      "text": "Selomit, de la familia de Baní, con ciento sesenta hombres;"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 717,
+      "char_end": 775,
+      "text": "Zacarías, de la familia de Bebai, con veintiocho hombres;"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 775,
+      "char_end": 833,
+      "text": "Johanán, de la familia de Azgad, con ciento diez hombres;"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 833,
+      "char_end": 961,
+      "text": "Elifélet, Jeiel y Semaías, de la familia de Adonicam que, junto con sesenta hombres más, regresaron a Jerusalén días más tarde;"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 961,
+      "char_end": 1021,
+      "text": "Utai y Zabud, de la familia de Bigvai, con setenta hombres."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1021,
+      "char_end": 1235,
+      "text": "Yo, Esdras, los reuní a todos junto al río que corre hacia Ahavá, y acampamos allí tres días. Cuando pasé lista a la gente y a los sacerdotes, encontré que no había entre ellos ningún ayudante de la tribu de Leví."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1235,
+      "char_end": 1418,
+      "text": "Así que mandé a buscar a Eliézer, a Ariel, a Semaías, a Elnatán, a Jarib, a Elnatán, a Natán, a Zacarías y a Mesulam, que eran líderes del pueblo, y a los maestros Joiarib y Elnatán."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1418,
+      "char_end": 1632,
+      "text": "Les ordené que fueran a ver a Idó, jefe del lugar llamado Casifiá, y les pidieran a él y a sus compañeros que nos enviaran servidores para el templo de nuestro Dios, ya que ellos tenían experiencia en ese trabajo."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1632,
+      "char_end": 1831,
+      "text": "Gracias a Dios, nos mandaron a Serebías, y a sus hijos y hermanos; en total nos mandaron a dieciocho personas. Serebías era un hombre muy capaz, descendiente de Mahli, un hombre de la tribu de Leví."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1831,
+      "char_end": 1966,
+      "text": "También nos enviaron a Isaías y a Hasabías, y a sus hijos y hermanos, que descendían de Merarí. En total nos enviaron veinte personas."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1966,
+      "char_end": 2189,
+      "text": "Además de ellos nos enviaron a doscientos veinte servidores del templo de Dios, cuyos antepasados habían sido puestos por David para apoyar a los ayudantes de los sacerdotes. Y se anotaron los nombres de cada uno de ellos."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2189,
+      "char_end": 2417,
+      "text": "Después de esto nos reunimos junto al río de Ahavá, y allí mismo ordené que hiciéramos un ayuno para humillarnos ante nuestro Dios, y así pedirle que protegiera a nuestras familias y pertenencias durante el regreso a Jerusalén."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2417,
+      "char_end": 2672,
+      "text": "Me daba vergüenza pedirle al rey que mandara soldados de caballería para protegernos contra el enemigo en el camino. Le habíamos dicho al rey que Dios cuida a todos los que lo adoran, pero que los que se apartan de él tendrían que soportar todo su enojo."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2672,
+      "char_end": 2751,
+      "text": "Así que ayunamos y oramos a Dios pidiéndole que nos cuidara, y él nos escuchó."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2751,
+      "char_end": 2859,
+      "text": "Luego separé a doce de los sacerdotes más importantes: Serebías, Hasabías y otros diez familiares de ellos."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2859,
+      "char_end": 3042,
+      "text": "Después pesé la plata, el oro, y los utensilios para el templo de Dios que dieron el rey, sus consejeros y todos los judíos allí presentes. Todo esto se lo entregué a los sacerdotes,"
+    },
+    {
+      "verse": 26,
+      "label": "26-27",
+      "char_start": 3042,
+      "char_end": 3325,
+      "text": "y ésta es la lista: Veintiún mil cuatrocientos cincuenta kilos de plata, cien utensilios de plata, tres mil trescientos kilos de oro, veinte tazas de oro que pesaban ocho kilos en total, y dos utensilios de bronce pulido. Esos dos utensilios de bronce eran tan valiosos como el oro."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3325,
+      "char_end": 3586,
+      "text": "Después de esto, les recomendé a los sacerdotes lo siguiente: Ustedes han sido apartados para servir sólo a Dios. También estos utensilios han sido apartados para el servicio del templo, porque el oro y la plata son ofrendas voluntarias para el Dios de Israel."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3586,
+      "char_end": 3748,
+      "text": "Cuídenlos bien hasta que sean llevados al templo de Jerusalén, para ser pesados en presencia de los principales sacerdotes, sus ayudantes y los jefes de familia."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3748,
+      "char_end": 3912,
+      "text": "Entonces los sacerdotes y sus ayudantes recibieron la plata, el oro y los utensilios que habían sido pesados y los llevaron al templo de nuestro Dios en Jerusalén."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3912,
+      "char_end": 4081,
+      "text": "El día doce del mes de Abib dejamos el río Ahavá y nos pusimos en camino hacia Jerusalén. Nuestro Dios nos cuidó en el camino, pues nos libró de enemigos y de bandidos."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4081,
+      "char_end": 4133,
+      "text": "Cuando llegamos a Jerusalén, descansamos tres días."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4133,
+      "char_end": 4398,
+      "text": "Al cuarto día fuimos al templo de nuestro Dios, pesamos la plata, el oro y los utensilios, y entregamos todo al sacerdote Meremot hijo de Urías. También estaban allí Eleazar hijo de Finees y dos descendientes de Leví: Jozabad hijo de Josué y Noadías hijo de Binuy."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4398,
+      "char_end": 4434,
+      "text": "Todo fue pesado, contado y anotado."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4434,
+      "char_end": 4705,
+      "text": "Después de esto, los que habían regresado de Babilonia trajeron doce toros, noventa y seis carneros, setenta y siete corderos y doce chivos para ser presentados como ofrenda para el perdón de los pecados de todo el pueblo. Esos animales fueron quemados en honor de Dios."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4705,
+      "char_end": 4877,
+      "text": "Luego entregaron la orden del rey a los gobernadores y a los asistentes de la provincia al oeste del río Éufrates, quienes entonces apoyaron al pueblo y al templo de Dios."
+    }
+  ],
+  "words": [
+    {
+      "word": "Ésta es la lista de los jefes de familia que volvieron de Babilonia con Esdras cuando gobernaba el rey Artajerjes: Guersón, de la familia de Finees; Daniel, de la familia de Itamar; Hatús, de la familia de David; Zacarías, de la familia de Parós, con otros ciento cincuenta hombres que estaban en la lista; Eliehoenai, de la familia de Pahat-moab, con doscientos hombres; Secanías, de la familia de Zatú, con trescientos hombres; Ébed, de la familia de Adín, con cincuenta hombres; Isaías, de la",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 30975,
+      "duration_ms": 30875
+    },
+    {
+      "word": "familia de Elam, con setenta hombres; Zebadías, de la familia de Sefatías, con ochenta hombres; Abdías, de la familia de Joab, con doscientos dieciocho hombres; Selomit, de la familia de Baní, con ciento sesenta hombres; Zacarías, de la familia de Bebai, con veintiocho hombres; Johanán, de la familia de Azgad, con ciento diez hombres; Elifélet, Jeiel y Semaías, de la familia de Adonicam que, junto con sesenta hombres más, regresaron a Jerusalén días más tarde; Utai y Zabud, de la familia de",
+      "verse": 7,
+      "start_ms": 30975,
+      "end_ms": 64262,
+      "duration_ms": 33287
+    },
+    {
+      "word": "Bigvai, con setenta hombres.",
+      "verse": 14,
+      "start_ms": 64262,
+      "end_ms": 67249,
+      "duration_ms": 2987
+    },
+    {
+      "word": "Yo, Esdras, los reuní a todos junto al río que corre hacia Ahavá, y acampamos allí tres días.",
+      "verse": 15,
+      "start_ms": 67250,
+      "end_ms": 74250,
+      "duration_ms": 7000
+    },
+    {
+      "word": "Cuando pasé lista a la gente y a los sacerdotes, encontré que no había entre ellos ningún ayudante de la tribu de Leví.",
+      "verse": 15,
+      "start_ms": 74250,
+      "end_ms": 81362,
+      "duration_ms": 7112
+    },
+    {
+      "word": "Así que mandé a buscar a Eliézer, a Ariel, a Semaías, a Elnatán, a Jarib, a Elnatán, a Natán, a Zacarías y a Mesulam, que eran líderes del pueblo, y a los maestros Joiarib y Elnatán.",
+      "verse": 16,
+      "start_ms": 81362,
+      "end_ms": 94599,
+      "duration_ms": 13237
+    },
+    {
+      "word": "Les ordené que fueran a ver a Idó, jefe del lugar llamado Casifiá, y les pidieran a él y a sus compañeros que nos enviaran servidores para el templo de nuestro Dios, ya que ellos tenían experiencia en ese trabajo.",
+      "verse": 17,
+      "start_ms": 94600,
+      "end_ms": 106450,
+      "duration_ms": 11850
+    },
+    {
+      "word": "Gracias a Dios, nos mandaron a Serebías, y a sus hijos y hermanos; en total nos mandaron a dieciocho personas.",
+      "verse": 18,
+      "start_ms": 106450,
+      "end_ms": 114050,
+      "duration_ms": 7600
+    },
+    {
+      "word": "Serebías era un hombre muy capaz, descendiente de Mahli, un hombre de la tribu de Leví.",
+      "verse": 18,
+      "start_ms": 114050,
+      "end_ms": 119850,
+      "duration_ms": 5800
+    },
+    {
+      "word": "También nos enviaron a Isaías y a Hasabías, y a sus hijos y hermanos, que descendían de Merarí.",
+      "verse": 19,
+      "start_ms": 119850,
+      "end_ms": 126087,
+      "duration_ms": 6237
+    },
+    {
+      "word": "En total nos enviaron veinte personas.",
+      "verse": 19,
+      "start_ms": 126087,
+      "end_ms": 129149,
+      "duration_ms": 3062
+    },
+    {
+      "word": "Además de ellos nos enviaron a doscientos veinte servidores del templo de Dios, cuyos antepasados habían sido puestos por David para apoyar a los ayudantes de los sacerdotes.",
+      "verse": 20,
+      "start_ms": 129150,
+      "end_ms": 138912,
+      "duration_ms": 9762
+    },
+    {
+      "word": "Y se anotaron los nombres de cada uno de ellos.",
+      "verse": 20,
+      "start_ms": 138912,
+      "end_ms": 142537,
+      "duration_ms": 3625
+    },
+    {
+      "word": "Después de esto nos reunimos junto al río de Ahavá, y allí mismo ordené que hiciéramos un ayuno para humillarnos ante nuestro Dios, y así pedirle que protegiera a nuestras familias y pertenencias durante el regreso a Jerusalén.",
+      "verse": 21,
+      "start_ms": 142537,
+      "end_ms": 155212,
+      "duration_ms": 12675
+    },
+    {
+      "word": "Me daba vergüenza pedirle al rey que mandara soldados de caballería para protegernos contra el enemigo en el camino.",
+      "verse": 22,
+      "start_ms": 155212,
+      "end_ms": 161962,
+      "duration_ms": 6750
+    },
+    {
+      "word": "Le habíamos dicho al rey que Dios cuida a todos los que lo adoran, pero que los que se apartan de él tendrían que soportar todo su enojo.",
+      "verse": 22,
+      "start_ms": 161962,
+      "end_ms": 169574,
+      "duration_ms": 7612
+    },
+    {
+      "word": "Así que ayunamos y oramos a Dios pidiéndole que nos cuidara, y él nos escuchó.",
+      "verse": 23,
+      "start_ms": 169575,
+      "end_ms": 174637,
+      "duration_ms": 5062
+    },
+    {
+      "word": "Luego separé a doce de los sacerdotes más importantes: Serebías, Hasabías y otros diez familiares de ellos.",
+      "verse": 24,
+      "start_ms": 174637,
+      "end_ms": 182362,
+      "duration_ms": 7725
+    },
+    {
+      "word": "Después pesé la plata, el oro, y los utensilios para el templo de Dios que dieron el rey, sus consejeros y todos los judíos allí presentes.",
+      "verse": 25,
+      "start_ms": 182362,
+      "end_ms": 191312,
+      "duration_ms": 8950
+    },
+    {
+      "word": "Todo esto se lo entregué a los sacerdotes, y ésta es la lista: Veintiún mil cuatrocientos cincuenta kilos de plata, cien utensilios de plata, tres mil trescientos kilos de oro, veinte tazas de oro que pesaban ocho kilos en total, y dos utensilios de bronce pulido.",
+      "verse": 25,
+      "start_ms": 191312,
+      "end_ms": 207299,
+      "duration_ms": 15987
+    },
+    {
+      "word": "Esos dos utensilios de bronce eran tan valiosos como el oro.",
+      "verse": 26,
+      "start_ms": 207300,
+      "end_ms": 211412,
+      "duration_ms": 4112
+    },
+    {
+      "word": "Después de esto, les recomendé a los sacerdotes lo siguiente: Ustedes han sido apartados para servir sólo a Dios.",
+      "verse": 28,
+      "start_ms": 211412,
+      "end_ms": 218549,
+      "duration_ms": 7137
+    },
+    {
+      "word": "También estos utensilios han sido apartados para el servicio del templo, porque el oro y la plata son ofrendas voluntarias para el Dios de Israel.",
+      "verse": 28,
+      "start_ms": 218550,
+      "end_ms": 226575,
+      "duration_ms": 8025
+    },
+    {
+      "word": "Cuídenlos bien hasta que sean llevados al templo de Jerusalén, para ser pesados en presencia de los principales sacerdotes, sus ayudantes y los jefes de familia.",
+      "verse": 29,
+      "start_ms": 226575,
+      "end_ms": 235862,
+      "duration_ms": 9287
+    },
+    {
+      "word": "Entonces los sacerdotes y sus ayudantes recibieron la plata, el oro y los utensilios que habían sido pesados y los llevaron al templo de nuestro Dios en Jerusalén.",
+      "verse": 30,
+      "start_ms": 235862,
+      "end_ms": 245062,
+      "duration_ms": 9200
+    },
+    {
+      "word": "El día doce del mes de Abib dejamos el río Ahavá y nos pusimos en camino hacia",
+      "verse": 31,
+      "start_ms": 245062,
+      "end_ms": 250249,
+      "duration_ms": 5187
+    },
+    {
+      "word": "Jerusalén.",
+      "verse": 31,
+      "start_ms": 250420,
+      "end_ms": 252107,
+      "duration_ms": 1687
+    },
+    {
+      "word": "Nuestro Dios nos cuidó en el camino, pues nos libró de enemigos y de bandidos.",
+      "verse": 31,
+      "start_ms": 252057,
+      "end_ms": 257232,
+      "duration_ms": 5175
+    },
+    {
+      "word": "Cuando llegamos a Jerusalén, descansamos tres días.",
+      "verse": 32,
+      "start_ms": 257232,
+      "end_ms": 261307,
+      "duration_ms": 4075
+    },
+    {
+      "word": "Al cuarto día fuimos al templo de nuestro Dios, pesamos la plata, el oro y los utensilios, y entregamos todo al sacerdote Meremot hijo de Urías.",
+      "verse": 33,
+      "start_ms": 261307,
+      "end_ms": 270669,
+      "duration_ms": 9362
+    },
+    {
+      "word": "También estaban allí Eleazar hijo de Finees y dos descendientes de Leví: Jozabad hijo de Josué y Noadías hijo de Binuy.",
+      "verse": 33,
+      "start_ms": 270670,
+      "end_ms": 278132,
+      "duration_ms": 7462
+    },
+    {
+      "word": "Todo fue pesado, contado y anotado.",
+      "verse": 34,
+      "start_ms": 278132,
+      "end_ms": 281419,
+      "duration_ms": 3287
+    },
+    {
+      "word": "Después de esto, los que habían regresado de Babilonia trajeron doce toros, noventa y seis carneros, setenta y siete corderos y doce chivos para ser presentados como ofrenda para el perdón de los pecados de todo el pueblo.",
+      "verse": 35,
+      "start_ms": 281420,
+      "end_ms": 294145,
+      "duration_ms": 12725
+    },
+    {
+      "word": "Esos animales fueron quemados en honor de Dios.",
+      "verse": 35,
+      "start_ms": 294145,
+      "end_ms": 297582,
+      "duration_ms": 3437
+    },
+    {
+      "word": "Luego entregaron la orden del rey a los gobernadores y a los asistentes de la provincia al oeste del río Éufrates, quienes entonces apoyaron al pueblo y al templo de Dios.",
+      "verse": 36,
+      "start_ms": 297582,
+      "end_ms": 307519,
+      "duration_ms": 9937
+    }
+  ]
+}

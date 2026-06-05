@@ -1,0 +1,488 @@
+{
+  "book": "LEV",
+  "chapter": 27,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 32,
+  "word_count": 36,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 21,
+      "text": "Dios ordenó a Moisés"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 21,
+      "char_end": 148,
+      "text": "que les diera a los israelitas las siguientes instrucciones: Cuando alguien quiera liberar a una persona que pertenece a Dios,"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 148,
+      "char_end": 320,
+      "text": "deberá pagar las siguientes cantidades, que están calculadas según la moneda de plata que se usa en el santuario: Por un varón de veinte a sesenta años, cincuenta monedas."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 320,
+      "char_end": 369,
+      "text": "Por una mujer de la misma edad, treinta monedas."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 369,
+      "char_end": 468,
+      "text": "Por un varón de cinco a veinte años, veinte monedas. Por una mujer de la misma edad, diez monedas."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 468,
+      "char_end": 564,
+      "text": "Por un niño de un mes a cinco años, cinco monedas. Por una niña de la misma edad, tres monedas."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 564,
+      "char_end": 663,
+      "text": "Por un varón de más de sesenta años, quince monedas. Por una mujer de la misma edad, diez monedas."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 663,
+      "char_end": 816,
+      "text": "Si la persona es demasiado pobre para pagar esa cantidad, podrá presentarse ante el sacerdote para que él le fije una cantidad menor que sí pueda pagar."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 816,
+      "char_end": 882,
+      "text": "Los animales que se hayan apartado como ofrenda especial para mí,"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 882,
+      "char_end": 994,
+      "text": "no podrán ser cambiados por otro animal, pues al cambiar un animal por otro, los dos animales quedan dedicados."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 994,
+      "char_end": 1120,
+      "text": "En caso de que el animal que se haya separado esté dentro de la lista de animales impuros, se deberá llevar ante el sacerdote"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1120,
+      "char_end": 1186,
+      "text": "para que él le ponga un precio. Ese precio no podrá ser cambiado,"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1186,
+      "char_end": 1282,
+      "text": "y en caso de que alguien quiera recuperar su animal, tendrá que pagar un veinte por ciento más."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1282,
+      "char_end": 1381,
+      "text": "Si alguien me dedica una casa, el sacerdote le pondrá un precio. Ese precio no podrá ser cambiado,"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1381,
+      "char_end": 1463,
+      "text": "y si alguien quiere recuperar su casa, tendrá que pagar un veinte por ciento más."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1463,
+      "char_end": 1686,
+      "text": "Si alguien me dedica un terreno de su propiedad, su precio se calculará según la cantidad de semilla que pueda sembrarse en él, y se pagarán cincuenta monedas de plata por cada doscientos veinte kilos de semilla de cebada."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1686,
+      "char_end": 1792,
+      "text": "Si esa persona me dedica el terreno en el año de liberación, el precio establecido no podrá ser cambiado."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1792,
+      "char_end": 1902,
+      "text": "Una vez pasado ese año, el precio se establecerá según los años que falten para el próximo año de liberación."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1902,
+      "char_end": 2027,
+      "text": "Si la persona que me dedicó el terreno quisiera rescatarlo, tendrá que pagar un veinte por ciento más del valor establecido."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2027,
+      "char_end": 2129,
+      "text": "Pero debe hacerlo antes de que el terreno sea vendido a otro, o de lo contrario no podrá recuperarlo."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2129,
+      "char_end": 2289,
+      "text": "Cuando el terreno sea liberado en el año de liberación, pasará a ser propiedad de los sacerdotes, pues se trata de algo que me fue ofrecido de manera especial."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2289,
+      "char_end": 2392,
+      "text": "Si alguien me dedica un terreno que no es de su propiedad familiar sino que lo compró de otra persona,"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2392,
+      "char_end": 2542,
+      "text": "el sacerdote contará los años que faltan hasta el próximo año de liberación, y ese mismo día la persona pagará el precio que el sacerdote establezca."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2542,
+      "char_end": 2636,
+      "text": "Cuando llegue el año de liberación, el terreno volverá a ser propiedad de su verdadero dueño."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2636,
+      "char_end": 2749,
+      "text": "Todos estos precios se calcularán según la moneda de plata que se usa en el santuario, la cual pesa once gramos."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2749,
+      "char_end": 2871,
+      "text": "Nadie podrá dedicarme la primera cría de sus vacas o de sus ovejas, porque de todos modos toda primera cría me pertenece."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2871,
+      "char_end": 3109,
+      "text": "Si el animal que se ofrece está en la lista de animales impuros, el dueño podrá rescatarlo. En ese caso, deberá pagarse el precio establecido, más un veinte por ciento. En caso de que no sea rescatado, podrá venderse en el precio fijado."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3109,
+      "char_end": 3253,
+      "text": "No se podrá vender nada de lo que haya sido dedicado a mí, pues se trata de algo muy especial. Será como si esa ofrenda hubiera sido destruida."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3253,
+      "char_end": 3323,
+      "text": "Esto vale también para las personas que sean dedicadas a mi servicio."
+    },
+    {
+      "verse": 30,
+      "label": "30-32",
+      "char_start": 3323,
+      "char_end": 3603,
+      "text": "La décima parte de lo que produzcan los campos sembrados y los árboles frutales me pertenece. También me pertenece la décima parte de los ganados y de los rebaños. El que quiera recuperar algo de esa décima parte, tendrá que pagar un veinte por ciento más del precio establecido."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3603,
+      "char_end": 3766,
+      "text": "Nadie debe quedarse con los animales buenos y presentarme los animales malos. Si lo hacen, tanto los buenos como los malos serán míos, y no podrán ser rescatados."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3766,
+      "char_end": 3858,
+      "text": "Éstos son los mandamientos que Dios le dio a Moisés en el monte Sinaí, para los israelitas."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios ordenó a Moisés que les diera a los israelitas las siguientes instrucciones: Cuando alguien quiera liberar a una persona que pertenece a Dios, deberá pagar las siguientes cantidades, que están calculadas según la moneda de plata que se usa en el santuario: Por un varón de veinte a sesenta años, cincuenta monedas.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 18050,
+      "duration_ms": 17950
+    },
+    {
+      "word": "Por una mujer de la misma edad, treinta monedas.",
+      "verse": 4,
+      "start_ms": 18050,
+      "end_ms": 21900,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Por un varón de cinco a veinte años, veinte monedas.",
+      "verse": 5,
+      "start_ms": 21900,
+      "end_ms": 26000,
+      "duration_ms": 4100
+    },
+    {
+      "word": "Por una mujer de la misma edad, diez monedas.",
+      "verse": 5,
+      "start_ms": 26000,
+      "end_ms": 29687,
+      "duration_ms": 3687
+    },
+    {
+      "word": "Por un niño de un mes a cinco años, cinco monedas.",
+      "verse": 6,
+      "start_ms": 29687,
+      "end_ms": 33962,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Por una niña de la misma edad, tres monedas.",
+      "verse": 6,
+      "start_ms": 33962,
+      "end_ms": 37674,
+      "duration_ms": 3712
+    },
+    {
+      "word": "Por un varón de más de sesenta años, quince monedas.",
+      "verse": 7,
+      "start_ms": 37675,
+      "end_ms": 41862,
+      "duration_ms": 4187
+    },
+    {
+      "word": "Por una mujer de la misma edad, diez monedas.",
+      "verse": 7,
+      "start_ms": 41862,
+      "end_ms": 45549,
+      "duration_ms": 3687
+    },
+    {
+      "word": "Si la persona es demasiado pobre para pagar esa cantidad, podrá presentarse ante el sacerdote para que él le fije una cantidad menor que sí pueda pagar.",
+      "verse": 8,
+      "start_ms": 45550,
+      "end_ms": 54325,
+      "duration_ms": 8775
+    },
+    {
+      "word": "Los animales que se hayan apartado como ofrenda especial para mí, no podrán ser cambiados por otro animal, pues al cambiar un animal por otro, los dos animales quedan dedicados.",
+      "verse": 9,
+      "start_ms": 54325,
+      "end_ms": 64525,
+      "duration_ms": 10200
+    },
+    {
+      "word": "En caso de que el animal que se haya separado esté dentro de la lista de animales impuros, se deberá llevar ante el sacerdote para que él le ponga un precio.",
+      "verse": 11,
+      "start_ms": 64525,
+      "end_ms": 73300,
+      "duration_ms": 8775
+    },
+    {
+      "word": "Ese precio no podrá ser cambiado, y en caso de que alguien quiera recuperar su animal, tendrá que pagar un veinte por ciento más.",
+      "verse": 12,
+      "start_ms": 73300,
+      "end_ms": 81037,
+      "duration_ms": 7737
+    },
+    {
+      "word": "Si alguien me dedica una casa, el sacerdote le pondrá un precio.",
+      "verse": 14,
+      "start_ms": 81037,
+      "end_ms": 85637,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Ese precio no podrá ser cambiado, y si alguien quiere recuperar su casa, tendrá que pagar un veinte por ciento más.",
+      "verse": 14,
+      "start_ms": 85637,
+      "end_ms": 92974,
+      "duration_ms": 7337
+    },
+    {
+      "word": "Si alguien me dedica un terreno de su propiedad, su precio se calculará según la cantidad de semilla que pueda sembrarse en él, y se pagarán cincuenta monedas de plata por cada doscientos veinte kilos de semilla de cebada.",
+      "verse": 16,
+      "start_ms": 92975,
+      "end_ms": 105500,
+      "duration_ms": 12525
+    },
+    {
+      "word": "Si esa persona me dedica el terreno en el año de liberación, el precio establecido no podrá ser cambiado.",
+      "verse": 17,
+      "start_ms": 105500,
+      "end_ms": 112087,
+      "duration_ms": 6587
+    },
+    {
+      "word": "Una vez pasado ese año, el precio se establecerá según los años que falten para el próximo año de liberación.",
+      "verse": 18,
+      "start_ms": 112087,
+      "end_ms": 118999,
+      "duration_ms": 6912
+    },
+    {
+      "word": "Si la persona que me dedicó el terreno quisiera rescatarlo, tendrá que pagar un veinte por ciento más del valor establecido.",
+      "verse": 19,
+      "start_ms": 119000,
+      "end_ms": 126400,
+      "duration_ms": 7400
+    },
+    {
+      "word": "Pero debe hacerlo antes de que el terreno sea vendido a otro, o de lo contrario no podrá recuperarlo.",
+      "verse": 20,
+      "start_ms": 126400,
+      "end_ms": 132650,
+      "duration_ms": 6250
+    },
+    {
+      "word": "Cuando el terreno sea liberado en el año de liberación, pasará a ser propiedad de los sacerdotes, pues se trata de algo que me fue ofrecido de manera especial.",
+      "verse": 21,
+      "start_ms": 132650,
+      "end_ms": 141637,
+      "duration_ms": 8987
+    },
+    {
+      "word": "Si alguien me dedica un terreno que no es de su propiedad familiar sino que lo compró de otra persona, el sacerdote contará los años que faltan hasta el próximo año de liberación, y ese mismo día la persona pagará el precio que el sacerdote establezca.",
+      "verse": 22,
+      "start_ms": 141637,
+      "end_ms": 155637,
+      "duration_ms": 14000
+    },
+    {
+      "word": "Cuando llegue el año de liberación, el terreno volverá a ser propiedad de su verdadero dueño.",
+      "verse": 24,
+      "start_ms": 155637,
+      "end_ms": 161462,
+      "duration_ms": 5825
+    },
+    {
+      "word": "Todos estos precios se calcularán según la moneda de plata que se usa en el santuario, la cual pesa once gramos.",
+      "verse": 25,
+      "start_ms": 161462,
+      "end_ms": 168437,
+      "duration_ms": 6975
+    },
+    {
+      "word": "Nadie podrá dedicarme la primera cría de sus vacas o de sus ovejas, porque de todos modos toda primera cría me pertenece.",
+      "verse": 26,
+      "start_ms": 168437,
+      "end_ms": 176174,
+      "duration_ms": 7737
+    },
+    {
+      "word": "Si el animal que se ofrece está en la lista de animales impuros, el dueño podrá rescatarlo.",
+      "verse": 27,
+      "start_ms": 176175,
+      "end_ms": 182025,
+      "duration_ms": 5850
+    },
+    {
+      "word": "En ese caso, deberá pagarse el precio establecido, más un veinte por ciento.",
+      "verse": 27,
+      "start_ms": 182025,
+      "end_ms": 187400,
+      "duration_ms": 5375
+    },
+    {
+      "word": "En caso de que no sea rescatado, podrá venderse en el precio fijado.",
+      "verse": 27,
+      "start_ms": 187400,
+      "end_ms": 192187,
+      "duration_ms": 4787
+    },
+    {
+      "word": "No se podrá vender nada de lo que haya sido dedicado a mí, pues se trata de algo muy especial.",
+      "verse": 28,
+      "start_ms": 192187,
+      "end_ms": 198199,
+      "duration_ms": 6012
+    },
+    {
+      "word": "Será como si esa ofrenda hubiera sido destruida.",
+      "verse": 28,
+      "start_ms": 198200,
+      "end_ms": 201875,
+      "duration_ms": 3675
+    },
+    {
+      "word": "Esto vale también para las personas que sean dedicadas a mi servicio.",
+      "verse": 29,
+      "start_ms": 201875,
+      "end_ms": 206250,
+      "duration_ms": 4375
+    },
+    {
+      "word": "La décima parte de lo que produzcan los campos sembrados y los árboles frutales me pertenece.",
+      "verse": 30,
+      "start_ms": 206250,
+      "end_ms": 211850,
+      "duration_ms": 5600
+    },
+    {
+      "word": "También me pertenece la décima parte de los ganados y de los rebaños.",
+      "verse": 30,
+      "start_ms": 211850,
+      "end_ms": 216262,
+      "duration_ms": 4412
+    },
+    {
+      "word": "El que quiera recuperar algo de esa décima parte, tendrá que pagar un veinte por ciento más del precio establecido.",
+      "verse": 30,
+      "start_ms": 216262,
+      "end_ms": 223199,
+      "duration_ms": 6937
+    },
+    {
+      "word": "Nadie debe quedarse con los animales buenos y presentarme los animales malos.",
+      "verse": 33,
+      "start_ms": 223200,
+      "end_ms": 228100,
+      "duration_ms": 4900
+    },
+    {
+      "word": "Si lo hacen, tanto los buenos como los malos serán míos, y no podrán ser rescatados.",
+      "verse": 33,
+      "start_ms": 228100,
+      "end_ms": 234187,
+      "duration_ms": 6087
+    },
+    {
+      "word": "Éstos son los mandamientos que Dios le dio a Moisés en el monte Sinaí, para los israelitas.",
+      "verse": 34,
+      "start_ms": 234187,
+      "end_ms": 240024,
+      "duration_ms": 5837
+    }
+  ]
+}

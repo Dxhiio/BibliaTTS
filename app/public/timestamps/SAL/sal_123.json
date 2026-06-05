@@ -1,0 +1,54 @@
+{
+  "book": "SAL",
+  "chapter": 123,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 2,
+  "word_count": 4,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-2",
+      "char_start": 0,
+      "char_end": 168,
+      "text": "Dios, rey de los cielos, de ti dependemos, como dependen los esclavos de la compasión de sus amos. Dios nuestro, de ti dependemos y esperamos que nos tengas compasión."
+    },
+    {
+      "verse": 3,
+      "label": "3-4",
+      "char_start": 168,
+      "char_end": 274,
+      "text": "¡Compadécete de nosotros! ¡Ya estamos cansados de que esos ricos orgullosos nos ofendan y nos desprecien!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios, rey de los cielos, de ti dependemos, como dependen los esclavos de la compasión de sus amos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7050,
+      "duration_ms": 6950
+    },
+    {
+      "word": "Dios nuestro, de ti dependemos y esperamos que nos tengas compasión.",
+      "verse": 1,
+      "start_ms": 7000,
+      "end_ms": 11787,
+      "duration_ms": 4787
+    },
+    {
+      "word": "Compadécete de nosotros!",
+      "verse": 3,
+      "start_ms": 11787,
+      "end_ms": 14262,
+      "duration_ms": 2475
+    },
+    {
+      "word": "Ya estamos cansados de que esos ricos orgullosos nos ofendan y nos desprecien!",
+      "verse": 3,
+      "start_ms": 14262,
+      "end_ms": 19262,
+      "duration_ms": 5000
+    }
+  ]
+}

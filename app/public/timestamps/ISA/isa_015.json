@@ -1,0 +1,159 @@
+{
+  "book": "ISA",
+  "chapter": 15,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 8,
+  "word_count": 13,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-2",
+      "char_start": 0,
+      "char_end": 375,
+      "text": "Dios dijo: ¡El reino de Moab ha quedado en ruinas! Todos en Moab están de luto, se han rapado la cabeza y se han cortado la barba. En una sola noche fueron destruidas las ciudades de Ar y de Quir, de Nebo y de Medebá. Los habitantes de Dibón corren al templo y a los altares que construyeron en las colinas; van para lamentar ante sus dioses tanta destrucción y tanto dolor."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 375,
+      "char_end": 510,
+      "text": "En las terrazas y en las plazas todos se lamentan y gritan de dolor; la gente va por la calle vestida de luto, y llora a más no poder."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 510,
+      "char_end": 659,
+      "text": "Los que viven en Hesbón y en Elalé gritan pidiendo auxilio; hasta en Jahas se oyen sus gritos. Los guerreros de Moab se asustan y tiemblan de miedo."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 659,
+      "char_end": 892,
+      "text": "Isaías dijo: Siento lástima por el reino de Moab. Los moabitas están llenos de miedo, y huyen al pueblo de Sóar; corren hacia Eglat-selisiya, suben llorando por la cuesta de Luhit, y lanzan gritos de dolor por el camino de Horonaim."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 892,
+      "char_end": 984,
+      "text": "Se han secado los pozos de Nimrim; la hierba está marchita, y no queda una sola hoja verde."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 984,
+      "char_end": 1049,
+      "text": "La gente toma todo lo que tiene y cruza el arroyo de Los Sauces."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1049,
+      "char_end": 1171,
+      "text": "En todo el territorio de Moab se escucha a la gente pedir auxilio; sus gritos llegan hasta Eglaim y se oyen en Beer-elim."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1171,
+      "char_end": 1324,
+      "text": "Si ahora los pozos de Dimón están llenos de sangre, Dios les enviará aun peores castigos, y los moabitas que queden con vida, serán atacados por leones."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios dijo: ¡El reino de Moab ha quedado en ruinas!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3850,
+      "duration_ms": 3750
+    },
+    {
+      "word": "Todos en Moab están de luto, se han rapado la cabeza y se han cortado la barba.",
+      "verse": 1,
+      "start_ms": 3800,
+      "end_ms": 9075,
+      "duration_ms": 5275
+    },
+    {
+      "word": "En una sola noche fueron destruidas las ciudades de Ar y de Quir, de Nebo y de Medebá.",
+      "verse": 1,
+      "start_ms": 9075,
+      "end_ms": 14662,
+      "duration_ms": 5587
+    },
+    {
+      "word": "Los habitantes de Dibón corren al templo y a los altares que construyeron en las colinas; van para lamentar ante sus dioses tanta destrucción y tanto dolor.",
+      "verse": 1,
+      "start_ms": 14662,
+      "end_ms": 23612,
+      "duration_ms": 8950
+    },
+    {
+      "word": "En las terrazas y en las plazas todos se lamentan y gritan de dolor; la gente va por la calle vestida de luto, y llora a más no poder.",
+      "verse": 3,
+      "start_ms": 23612,
+      "end_ms": 31874,
+      "duration_ms": 8262
+    },
+    {
+      "word": "Los que viven en Hesbón y en Elalé gritan pidiendo auxilio; hasta en Jahas se oyen sus gritos.",
+      "verse": 4,
+      "start_ms": 31875,
+      "end_ms": 37737,
+      "duration_ms": 5862
+    },
+    {
+      "word": "Los guerreros de Moab se asustan y tiemblan de miedo.",
+      "verse": 4,
+      "start_ms": 37737,
+      "end_ms": 41274,
+      "duration_ms": 3537
+    },
+    {
+      "word": "Isaías dijo: Siento lástima por el reino de Moab.",
+      "verse": 5,
+      "start_ms": 41275,
+      "end_ms": 45412,
+      "duration_ms": 4137
+    },
+    {
+      "word": "Los moabitas están llenos de miedo, y huyen al pueblo de Sóar; corren hacia Eglat-selisiya, suben llorando por la cuesta de Luhit, y lanzan gritos de dolor por el camino de Horonaim.",
+      "verse": 5,
+      "start_ms": 45412,
+      "end_ms": 56462,
+      "duration_ms": 11050
+    },
+    {
+      "word": "Se han secado los pozos de Nimrim; la hierba está marchita, y no queda una sola hoja verde.",
+      "verse": 6,
+      "start_ms": 56462,
+      "end_ms": 62749,
+      "duration_ms": 6287
+    },
+    {
+      "word": "La gente toma todo lo que tiene y cruza el arroyo de Los Sauces.",
+      "verse": 7,
+      "start_ms": 62750,
+      "end_ms": 67050,
+      "duration_ms": 4300
+    },
+    {
+      "word": "En todo el territorio de Moab se escucha a la gente pedir auxilio; sus gritos llegan hasta Eglaim y se oyen en Beer-elim.",
+      "verse": 8,
+      "start_ms": 67050,
+      "end_ms": 74325,
+      "duration_ms": 7275
+    },
+    {
+      "word": "Si ahora los pozos de Dimón están llenos de sangre, Dios les enviará aun peores castigos, y los moabitas que queden con vida, serán atacados por leones.",
+      "verse": 9,
+      "start_ms": 74325,
+      "end_ms": 84112,
+      "duration_ms": 9787
+    }
+  ]
+}

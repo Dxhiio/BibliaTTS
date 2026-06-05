@@ -1,0 +1,243 @@
+{
+  "book": "SAL",
+  "chapter": 48,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 13,
+  "word_count": 20,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-2",
+      "char_start": 0,
+      "char_end": 160,
+      "text": "Poderoso es nuestro Dios y merece nuestra alabanza. En el templo del monte Sión habita nuestro Dios y Rey. ¡Allí la tierra se alegra! ¡Allí la tierra lo adora!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 160,
+      "char_end": 215,
+      "text": "Dios protege nuestra ciudad; por él vivimos confiados."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 215,
+      "char_end": 263,
+      "text": "Algunos reyes se unieron para atacar la ciudad,"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 263,
+      "char_end": 360,
+      "text": "pero cuando la vieron ya no supieron qué hacer; se asustaron por completo y se echaron a correr."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 360,
+      "char_end": 433,
+      "text": "Tú los llenaste de miedo. Como heridos de muerte, se retorcían de dolor."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 433,
+      "char_end": 501,
+      "text": "Tú los llenaste de miedo, parecían marineros en violenta tempestad."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 501,
+      "char_end": 639,
+      "text": "Eso ya lo sabíamos; en la ciudad de nuestro Dios lo hemos confirmado: el Dios del universo, hará que esta ciudad permanezca para siempre."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 639,
+      "char_end": 720,
+      "text": "Dios mío, Dios mío, en tu templo nos ponemos a pensar en la grandeza de tu amor."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 720,
+      "char_end": 824,
+      "text": "Tu fama llega hasta el fin del mundo; por todas partes se habla bien de ti. ¡Tú gobiernas con justicia!"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 824,
+      "char_end": 915,
+      "text": "En el monte Sión, y entre los pueblos de Judá tus justas decisiones son motivo de alegría."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 915,
+      "char_end": 988,
+      "text": "¡Vengan a Jerusalén! ¡Den un paseo por ella y vean cuántas torres tiene!"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 988,
+      "char_end": 1095,
+      "text": "¡Fíjense en sus murallas, y revisen sus fortalezas! Así podrán contárselo a los que todavía no han nacido."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1095,
+      "char_end": 1183,
+      "text": "¡Éste es nuestro Dios! ¡Nuestro Dios es un Dios eterno que siempre guiará nuestra vida!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Poderoso es nuestro Dios y merece nuestra alabanza.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3800,
+      "duration_ms": 3700
+    },
+    {
+      "word": "En el templo del monte Sión habita nuestro Dios y Rey.",
+      "verse": 1,
+      "start_ms": 3750,
+      "end_ms": 7337,
+      "duration_ms": 3587
+    },
+    {
+      "word": "Allí la tierra se alegra!",
+      "verse": 1,
+      "start_ms": 7337,
+      "end_ms": 9624,
+      "duration_ms": 2287
+    },
+    {
+      "word": "Allí la tierra lo adora!",
+      "verse": 1,
+      "start_ms": 9625,
+      "end_ms": 11812,
+      "duration_ms": 2187
+    },
+    {
+      "word": "Dios protege nuestra ciudad; por él vivimos confiados.",
+      "verse": 3,
+      "start_ms": 11812,
+      "end_ms": 15987,
+      "duration_ms": 4175
+    },
+    {
+      "word": "Algunos reyes se unieron para atacar la ciudad, pero cuando la vieron ya no supieron qué hacer; se asustaron por completo y se echaron a correr.",
+      "verse": 4,
+      "start_ms": 15987,
+      "end_ms": 23999,
+      "duration_ms": 8012
+    },
+    {
+      "word": "Tú los llenaste de miedo.",
+      "verse": 6,
+      "start_ms": 24000,
+      "end_ms": 26225,
+      "duration_ms": 2225
+    },
+    {
+      "word": "Como heridos de muerte, se retorcían de dolor.",
+      "verse": 6,
+      "start_ms": 26225,
+      "end_ms": 29787,
+      "duration_ms": 3562
+    },
+    {
+      "word": "Tú los llenaste de miedo, parecían marineros en violenta tempestad.",
+      "verse": 7,
+      "start_ms": 29787,
+      "end_ms": 34499,
+      "duration_ms": 4712
+    },
+    {
+      "word": "Eso ya lo sabíamos; en la ciudad de nuestro Dios lo hemos confirmado: el Dios del universo, hará que esta ciudad permanezca para siempre.",
+      "verse": 8,
+      "start_ms": 34500,
+      "end_ms": 43162,
+      "duration_ms": 8662
+    },
+    {
+      "word": "Dios mío, Dios mío, en tu templo nos ponemos a pensar en la grandeza de tu amor.",
+      "verse": 9,
+      "start_ms": 43162,
+      "end_ms": 48874,
+      "duration_ms": 5712
+    },
+    {
+      "word": "Tu fama llega hasta el fin del mundo; por todas partes se habla bien de ti.",
+      "verse": 10,
+      "start_ms": 48875,
+      "end_ms": 53775,
+      "duration_ms": 4900
+    },
+    {
+      "word": "Tú gobiernas con justicia!",
+      "verse": 10,
+      "start_ms": 53775,
+      "end_ms": 56162,
+      "duration_ms": 2387
+    },
+    {
+      "word": "En el monte Sión, y entre los pueblos de Judá tus justas decisiones son motivo de alegría.",
+      "verse": 11,
+      "start_ms": 56162,
+      "end_ms": 61999,
+      "duration_ms": 5837
+    },
+    {
+      "word": "Vengan a Jerusalén!",
+      "verse": 12,
+      "start_ms": 62000,
+      "end_ms": 64062,
+      "duration_ms": 2062
+    },
+    {
+      "word": "Den un paseo por ella y vean cuántas torres tiene!",
+      "verse": 12,
+      "start_ms": 64062,
+      "end_ms": 67662,
+      "duration_ms": 3600
+    },
+    {
+      "word": "Fíjense en sus murallas, y revisen sus fortalezas!",
+      "verse": 13,
+      "start_ms": 67662,
+      "end_ms": 71762,
+      "duration_ms": 4100
+    },
+    {
+      "word": "Así podrán contárselo a los que todavía no han nacido.",
+      "verse": 13,
+      "start_ms": 71762,
+      "end_ms": 75649,
+      "duration_ms": 3887
+    },
+    {
+      "word": "Éste es nuestro Dios!",
+      "verse": 14,
+      "start_ms": 75650,
+      "end_ms": 77850,
+      "duration_ms": 2200
+    },
+    {
+      "word": "Nuestro Dios es un Dios eterno que siempre guiará nuestra vida!",
+      "verse": 14,
+      "start_ms": 77850,
+      "end_ms": 81825,
+      "duration_ms": 3975
+    }
+  ]
+}

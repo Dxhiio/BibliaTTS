@@ -1,0 +1,159 @@
+{
+  "book": "SAL",
+  "chapter": 75,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 10,
+  "word_count": 11,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 82,
+      "text": "¡Gracias, nuestro Dios! Hablamos de tus maravillas, pues estás cerca de nosotros."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 82,
+      "char_end": 147,
+      "text": "Tú has dicho: Ya he puesto la fecha cuando voy a hacer justicia."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 147,
+      "char_end": 233,
+      "text": "Podrá temblar la tierra con todos sus habitantes, pero yo mantendré firmes sus bases."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 233,
+      "char_end": 343,
+      "text": "A los orgullosos les mando que no se crean tan importantes; a los malvados les ordeno que no sean orgullosos,"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 343,
+      "char_end": 397,
+      "text": "que no presuman de su poder ni se sientan superiores."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 397,
+      "char_end": 454,
+      "text": "Los elogios no vienen del este, ni del oeste ni del sur;"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 454,
+      "char_end": 533,
+      "text": "vienen de Dios, que es el juez. A unos les quita el poder, y a otros se lo da."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 533,
+      "char_end": 696,
+      "text": "Dios está muy enojado y está listo para castigar. Cuando pierda la paciencia, dará rienda suelta a su enojo y todos los malvados de la tierra tendrán su merecido."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 696,
+      "char_end": 756,
+      "text": "Yo siempre hablaré del Dios de Israel, y le cantaré himnos."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 756,
+      "char_end": 844,
+      "text": "Dios acabará con el poder de todos los malvados, pero aumentará el poder de los justos."
+    }
+  ],
+  "words": [
+    {
+      "word": "Gracias, nuestro Dios!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 2662,
+      "duration_ms": 2562
+    },
+    {
+      "word": "Hablamos de tus maravillas, pues estás cerca de nosotros.",
+      "verse": 1,
+      "start_ms": 2612,
+      "end_ms": 6999,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Tú has dicho: Ya he puesto la fecha cuando voy a hacer justicia.",
+      "verse": 2,
+      "start_ms": 7000,
+      "end_ms": 11362,
+      "duration_ms": 4362
+    },
+    {
+      "word": "Podrá temblar la tierra con todos sus habitantes, pero yo mantendré firmes sus bases.",
+      "verse": 3,
+      "start_ms": 11362,
+      "end_ms": 17049,
+      "duration_ms": 5687
+    },
+    {
+      "word": "A los orgullosos les mando que no se crean tan importantes; a los malvados les ordeno que no sean orgullosos, que no presuman de su poder ni se sientan superiores.",
+      "verse": 4,
+      "start_ms": 17050,
+      "end_ms": 26812,
+      "duration_ms": 9762
+    },
+    {
+      "word": "Los elogios no vienen del este, ni del oeste ni del sur; vienen de Dios, que es el juez.",
+      "verse": 6,
+      "start_ms": 26812,
+      "end_ms": 33237,
+      "duration_ms": 6425
+    },
+    {
+      "word": "A unos les quita el poder, y a otros se lo da.",
+      "verse": 7,
+      "start_ms": 33237,
+      "end_ms": 36812,
+      "duration_ms": 3575
+    },
+    {
+      "word": "Dios está muy enojado y está listo para castigar.",
+      "verse": 8,
+      "start_ms": 36812,
+      "end_ms": 40649,
+      "duration_ms": 3837
+    },
+    {
+      "word": "Cuando pierda la paciencia, dará rienda suelta a su enojo y todos los malvados de la tierra tendrán su merecido.",
+      "verse": 8,
+      "start_ms": 40650,
+      "end_ms": 47425,
+      "duration_ms": 6775
+    },
+    {
+      "word": "Yo siempre hablaré del Dios de Israel, y le cantaré himnos.",
+      "verse": 9,
+      "start_ms": 47425,
+      "end_ms": 51750,
+      "duration_ms": 4325
+    },
+    {
+      "word": "Dios acabará con el poder de todos los malvados, pero aumentará el poder de los justos.",
+      "verse": 10,
+      "start_ms": 51750,
+      "end_ms": 57575,
+      "duration_ms": 5825
+    }
+  ]
+}

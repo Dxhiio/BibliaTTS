@@ -1,0 +1,299 @@
+{
+  "book": "EST",
+  "chapter": 4,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 17,
+  "word_count": 24,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 205,
+      "text": "Cuando Mardoqueo se enteró de lo que había pasado, rompió su ropa en señal de tristeza, y se puso ropa áspera. Luego se echó ceniza en la cabeza, y anduvo por la ciudad llorando amargamente y en voz alta."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 205,
+      "char_end": 331,
+      "text": "Llegó hasta la entrada del palacio del rey, pero no entró porque estaba prohibido entrar en el palacio vestido de esa manera."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 331,
+      "char_end": 543,
+      "text": "Cuando se conocieron las órdenes del rey en las distintas provincias, los judíos se pusieron muy tristes. No comían nada, lloraban amargamente, y la mayoría de ellos se acostó sobre ceniza y se puso ropa áspera."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 543,
+      "char_end": 754,
+      "text": "Cuando las sirvientas y los guardias personales de la reina Ester le contaron lo que pasaba, también ella se puso triste. Entonces le envió ropa a Mardoqueo para que se quitara la ropa áspera, pero él no quiso."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 754,
+      "char_end": 903,
+      "text": "Luego Ester llamó a Hatac, uno de los guardias que el rey había puesto a su servicio, y le ordenó que fuera a preguntarle a Mardoqueo qué le pasaba."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 903,
+      "char_end": 1017,
+      "text": "Hatac fue hasta la plaza de la ciudad, que estaba frente a la entrada del palacio, y allí le preguntó a Mardoqueo"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 1017,
+      "char_end": 1163,
+      "text": "qué le pasaba. Mardoqueo le dijo que Amán había prometido entregar mucho dinero a la tesorería del rey, a cambio de la destrucción de los judíos."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1163,
+      "char_end": 1445,
+      "text": "Además, le dio una copia del documento publicado en Susa, en el cual se ordenaba la destrucción de los judíos, y le pidió que se lo mostrara a Ester y le explicara todo. Mardoqueo también le pidió que le dijera a Ester que fuera a ver al rey y le suplicara no destruir a su pueblo."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1445,
+      "char_end": 1511,
+      "text": "Hatac fue y le dijo a Ester todo lo que Mardoqueo le había dicho."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1511,
+      "char_end": 1561,
+      "text": "Ella a su vez le dio este mensaje para Mardoqueo:"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1561,
+      "char_end": 1834,
+      "text": "Hace ya treinta días que el rey no me llama. Todos los sirvientes del rey y los habitantes de este país saben que nadie puede presentarse ante el rey sin ser llamado, pues eso se castiga con la muerte. Esa persona es perdonada sólo si el rey la señala con su cetro de oro."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1834,
+      "char_end": 1880,
+      "text": "Cuando Mardoqueo recibió el mensaje de Ester,"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1880,
+      "char_end": 1957,
+      "text": "le mandó esta respuesta: No te vas a salvar sólo porque estás en el palacio."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1957,
+      "char_end": 2168,
+      "text": "Si no te atreves a hablar en momentos como éste, la liberación de los judíos vendrá de otra parte, pero tú y toda tu familia morirán. Yo creo que has llegado a ser reina para ayudar a tu pueblo en este momento."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2168,
+      "char_end": 2220,
+      "text": "Entonces Ester le mandó esta respuesta a Mardoqueo:"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2220,
+      "char_end": 2469,
+      "text": "Reúne a todos los judíos que se encuentren en Susa, y ayunen por mí, no coman ni beban durante tres días. También mis sirvientas y yo ayunaremos. Después de eso, me presentaré ante el rey, aunque la ley no lo permita. ¡Y si tengo que morir, moriré!"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2469,
+      "char_end": 2534,
+      "text": "Mardoqueo fue y cumplió con todo lo que Ester le había ordenado."
+    }
+  ],
+  "words": [
+    {
+      "word": "Cuando Mardoqueo se enteró de lo que había pasado, rompió su ropa en señal de tristeza, y se puso ropa áspera.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6962,
+      "duration_ms": 6862
+    },
+    {
+      "word": "Luego se echó ceniza en la cabeza, y anduvo por la ciudad llorando amargamente y en voz alta.",
+      "verse": 1,
+      "start_ms": 6912,
+      "end_ms": 12899,
+      "duration_ms": 5987
+    },
+    {
+      "word": "Llegó hasta la entrada del palacio del rey, pero no entró porque estaba prohibido entrar en el palacio vestido de esa manera.",
+      "verse": 2,
+      "start_ms": 12900,
+      "end_ms": 20112,
+      "duration_ms": 7212
+    },
+    {
+      "word": "Cuando se conocieron las órdenes del rey en las distintas provincias, los judíos se pusieron muy tristes.",
+      "verse": 3,
+      "start_ms": 20112,
+      "end_ms": 26437,
+      "duration_ms": 6325
+    },
+    {
+      "word": "No comían nada, lloraban amargamente, y la mayoría de ellos se acostó sobre ceniza y se puso ropa áspera.",
+      "verse": 3,
+      "start_ms": 26437,
+      "end_ms": 33624,
+      "duration_ms": 7187
+    },
+    {
+      "word": "Cuando las sirvientas y los guardias personales de la reina Ester le contaron lo que pasaba, también ella se puso triste.",
+      "verse": 4,
+      "start_ms": 33625,
+      "end_ms": 40300,
+      "duration_ms": 6675
+    },
+    {
+      "word": "Entonces le envió ropa a Mardoqueo para que se quitara la ropa áspera, pero él no quiso.",
+      "verse": 4,
+      "start_ms": 40300,
+      "end_ms": 46000,
+      "duration_ms": 5700
+    },
+    {
+      "word": "Luego Ester llamó a Hatac, uno de los guardias que el rey había puesto a su servicio, y le ordenó que fuera a preguntarle a Mardoqueo qué le pasaba.",
+      "verse": 5,
+      "start_ms": 46000,
+      "end_ms": 54137,
+      "duration_ms": 8137
+    },
+    {
+      "word": "Hatac fue hasta la plaza de la ciudad, que estaba frente a la entrada del palacio, y allí le preguntó a Mardoqueo qué le pasaba.",
+      "verse": 6,
+      "start_ms": 54137,
+      "end_ms": 61674,
+      "duration_ms": 7537
+    },
+    {
+      "word": "Mardoqueo le dijo que Amán había prometido entregar mucho dinero a la tesorería del rey, a cambio de la destrucción de los judíos.",
+      "verse": 7,
+      "start_ms": 61675,
+      "end_ms": 69300,
+      "duration_ms": 7625
+    },
+    {
+      "word": "Además, le dio una copia del documento publicado en Susa, en el cual se ordenaba la destrucción de los judíos, y le pidió que se lo mostrara a Ester y le explicara todo.",
+      "verse": 8,
+      "start_ms": 69300,
+      "end_ms": 79175,
+      "duration_ms": 9875
+    },
+    {
+      "word": "Mardoqueo también le pidió que le dijera a Ester que fuera a ver al rey y le suplicara no destruir a su pueblo.",
+      "verse": 8,
+      "start_ms": 79175,
+      "end_ms": 85387,
+      "duration_ms": 6212
+    },
+    {
+      "word": "Hatac fue y le dijo a Ester todo lo que Mardoqueo le había dicho.",
+      "verse": 9,
+      "start_ms": 85387,
+      "end_ms": 89699,
+      "duration_ms": 4312
+    },
+    {
+      "word": "Ella a su vez le dio este mensaje para Mardoqueo: Hace ya treinta días que el rey no me llama.",
+      "verse": 10,
+      "start_ms": 89700,
+      "end_ms": 95637,
+      "duration_ms": 5937
+    },
+    {
+      "word": "Todos los sirvientes del rey y los habitantes de este país saben que nadie puede presentarse ante el rey sin ser llamado, pues eso se castiga con la muerte.",
+      "verse": 11,
+      "start_ms": 95637,
+      "end_ms": 104174,
+      "duration_ms": 8537
+    },
+    {
+      "word": "Esa persona es perdonada sólo si el rey la señala con su cetro de oro.",
+      "verse": 11,
+      "start_ms": 104175,
+      "end_ms": 108812,
+      "duration_ms": 4637
+    },
+    {
+      "word": "Cuando Mardoqueo recibió el mensaje de Ester, le mandó esta respuesta: No te vas a salvar sólo porque estás en el palacio.",
+      "verse": 12,
+      "start_ms": 108812,
+      "end_ms": 116224,
+      "duration_ms": 7412
+    },
+    {
+      "word": "Si no te atreves a hablar en momentos como éste, la liberación de los judíos vendrá de otra parte, pero tú y toda tu familia morirán.",
+      "verse": 14,
+      "start_ms": 116225,
+      "end_ms": 124375,
+      "duration_ms": 8150
+    },
+    {
+      "word": "Yo creo que has llegado a ser reina para ayudar a tu pueblo en este momento.",
+      "verse": 14,
+      "start_ms": 124375,
+      "end_ms": 129025,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Entonces Ester le mandó esta respuesta a Mardoqueo: Reúne a todos los judíos que se encuentren en Susa, y ayunen por mí, no coman ni beban durante tres días.",
+      "verse": 15,
+      "start_ms": 129025,
+      "end_ms": 138937,
+      "duration_ms": 9912
+    },
+    {
+      "word": "También mis sirvientas y yo ayunaremos.",
+      "verse": 16,
+      "start_ms": 138937,
+      "end_ms": 142012,
+      "duration_ms": 3075
+    },
+    {
+      "word": "Después de eso, me presentaré ante el rey, aunque la ley no lo permita.",
+      "verse": 16,
+      "start_ms": 142012,
+      "end_ms": 146974,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Y si tengo que morir, moriré!",
+      "verse": 16,
+      "start_ms": 146975,
+      "end_ms": 149675,
+      "duration_ms": 2700
+    },
+    {
+      "word": "Mardoqueo fue y cumplió con todo lo que Ester le había ordenado.",
+      "verse": 17,
+      "start_ms": 149675,
+      "end_ms": 153900,
+      "duration_ms": 4225
+    }
+  ]
+}

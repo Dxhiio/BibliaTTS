@@ -1,0 +1,138 @@
+{
+  "book": "ISA",
+  "chapter": 18,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 6,
+  "word_count": 12,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 59,
+      "text": "¡Qué mal le va a ir a Egipto, ese país lleno de mosquitos,"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 59,
+      "char_end": 289,
+      "text": "y que envía a sus mensajeros por el río Nilo en barcas de junco! Veloces mensajeros, regresen a Egipto, a ese pueblo rodeado de ríos, de gente muy alta y de piel brillante; a ese pueblo fuerte y orgulloso, que todo el mundo teme."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 289,
+      "char_end": 459,
+      "text": "¡Habitantes del mundo, no dejen de mirar hacia las montañas! Estén alertas, porque pronto se dará la señal; pronto sonará la trompeta que anuncia la llegada del castigo."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 459,
+      "char_end": 664,
+      "text": "Dios me dijo: Isaías, yo estoy en el cielo y desde aquí observo tranquilo a todo el mundo. Estoy tranquilo, como la luz del sol en un día de verano, como la nube de rocío en el día caluroso de la cosecha."
+    },
+    {
+      "verse": 5,
+      "label": "5-6",
+      "char_start": 664,
+      "char_end": 853,
+      "text": "La gente de Egipto quedará abandonada en las montañas. Será abandonada como los viñedos después de la cosecha. Será comida de buitres en el verano, y alimento de las fieras en el invierno."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 853,
+      "char_end": 1081,
+      "text": "Egipto está rodeado de ríos, tiene gente muy alta, de piel brillante. Es un pueblo fuerte y orgulloso, y todo el mundo le teme. Pero cuando llegue el día de su castigo traerá ofrendas a Jerusalén y adorará al Dios todopoderoso."
+    }
+  ],
+  "words": [
+    {
+      "word": "Qué mal le va a ir a Egipto, ese país lleno de mosquitos, y que envía a sus mensajeros por el río Nilo en barcas de junco!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7887,
+      "duration_ms": 7787
+    },
+    {
+      "word": "Veloces mensajeros, regresen a Egipto, a ese pueblo rodeado de ríos, de gente muy alta y de piel brillante; a ese pueblo fuerte y orgulloso, que todo el mundo teme.",
+      "verse": 2,
+      "start_ms": 7837,
+      "end_ms": 19062,
+      "duration_ms": 11225
+    },
+    {
+      "word": "Habitantes del mundo, no dejen de mirar hacia las montañas!",
+      "verse": 3,
+      "start_ms": 19062,
+      "end_ms": 23262,
+      "duration_ms": 4200
+    },
+    {
+      "word": "Estén alertas, porque pronto se dará la señal; pronto sonará la trompeta que anuncia la llegada del castigo.",
+      "verse": 3,
+      "start_ms": 23262,
+      "end_ms": 30387,
+      "duration_ms": 7125
+    },
+    {
+      "word": "Dios me dijo: Isaías, yo estoy en el cielo y desde aquí observo tranquilo a todo el mundo.",
+      "verse": 4,
+      "start_ms": 30387,
+      "end_ms": 36799,
+      "duration_ms": 6412
+    },
+    {
+      "word": "Estoy tranquilo, como la luz del sol en un día de verano, como la nube de rocío en el día caluroso de la cosecha.",
+      "verse": 4,
+      "start_ms": 36800,
+      "end_ms": 44250,
+      "duration_ms": 7450
+    },
+    {
+      "word": "La gente de Egipto quedará abandonada en las montañas.",
+      "verse": 5,
+      "start_ms": 44250,
+      "end_ms": 48137,
+      "duration_ms": 3887
+    },
+    {
+      "word": "Será abandonada como los viñedos después de la cosecha.",
+      "verse": 5,
+      "start_ms": 48137,
+      "end_ms": 52062,
+      "duration_ms": 3925
+    },
+    {
+      "word": "Será comida de buitres en el verano, y alimento de las fieras en el invierno.",
+      "verse": 5,
+      "start_ms": 52062,
+      "end_ms": 57062,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Egipto está rodeado de ríos, tiene gente muy alta, de piel brillante.",
+      "verse": 7,
+      "start_ms": 57062,
+      "end_ms": 62374,
+      "duration_ms": 5312
+    },
+    {
+      "word": "Es un pueblo fuerte y orgulloso, y todo el mundo le teme.",
+      "verse": 7,
+      "start_ms": 62375,
+      "end_ms": 66687,
+      "duration_ms": 4312
+    },
+    {
+      "word": "Pero cuando llegue el día de su castigo traerá ofrendas a Jerusalén y adorará al Dios todopoderoso.",
+      "verse": 7,
+      "start_ms": 66687,
+      "end_ms": 72749,
+      "duration_ms": 6062
+    }
+  ]
+}

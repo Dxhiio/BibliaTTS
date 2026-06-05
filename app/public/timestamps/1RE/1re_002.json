@@ -1,0 +1,936 @@
+{
+  "book": "1RE",
+  "chapter": 2,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 43,
+  "word_count": 89,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 84,
+      "text": "Cuando le faltaba poco para morir, David le encargó a su hijo Salomón lo siguiente:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 84,
+      "char_end": 202,
+      "text": "Tarde o temprano, la muerte nos llega a todos, y a mí me falta poco para morir. Sé valiente y compórtate como hombre."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 202,
+      "char_end": 389,
+      "text": "Obedece todos los mandamientos de nuestro Dios, y todas las leyes que nos dio por medio de Moisés. Si haces esto, te va a ir bien en todo lo que hagas y en cualquier lugar a donde vayas."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 389,
+      "char_end": 579,
+      "text": "Dios prometió que el trono de Israel será siempre ocupado por mis descendientes, si ellos se portan bien y le son completamente fieles. Así que pórtate bien para que Dios cumpla su promesa."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 579,
+      "char_end": 887,
+      "text": "Además, como tú bien sabes, el general Joab mató a Abner hijo de Ner, y a Amasá hijo de Jéter. Estos dos eran generales del ejército de Israel, pero Joab los asesinó en tiempos de paz, para vengar las muertes que hubo durante la guerra. Luego me hizo responsable de ese doble crimen, pero él es el culpable."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 887,
+      "char_end": 980,
+      "text": "Así que la decisión es tuya, aunque yo te aconsejaría que no lo dejes con vida mucho tiempo."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 980,
+      "char_end": 1145,
+      "text": "Trata bien a los descendientes de Barzilai, el de la región de Galaad, y hazte amigo de ellos, porque ellos me protegieron cuando yo escapaba de tu hermano Absalón."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1145,
+      "char_end": 1395,
+      "text": "También está contigo Simí, el hijo de Guerá, el de la tribu de Benjamín, y que nació en Bahurim. Él me maldijo de una manera terrible cuando yo iba a Mahanaim. Pero después fue al río Jordán a recibirme y tuve que jurarle por Dios que no lo mataría."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1395,
+      "char_end": 1510,
+      "text": "No lo perdones. Eres lo suficientemente sabio para saber que debes matarlo. Procura que tenga una muerte violenta."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1510,
+      "char_end": 1611,
+      "text": "David murió y lo enterraron junto a la tumba de sus antepasados, en la ciudad que llevaba su nombre."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1611,
+      "char_end": 1725,
+      "text": "Fue rey de Israel durante cuarenta años. Siete de esos años reinó en Hebrón, y treinta y tres años, en Jerusalén."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1725,
+      "char_end": 1808,
+      "text": "Después de él, reinó Salomón, quien logró hacer de Israel una nación muy poderosa."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1808,
+      "char_end": 1975,
+      "text": "Después de la muerte de David, Adonías fue a ver a Betsabé, la madre de Salomón. Ella le preguntó: —¿Vienes como amigo o como enemigo? Él contestó: —Vengo como amigo,"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1975,
+      "char_end": 2042,
+      "text": "y quiero pedirte un favor. Betsabé le dijo: —Dime de qué se trata."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2042,
+      "char_end": 2234,
+      "text": "Entonces Adonías le respondió: —Tú sabes que el reino de Israel era para mí. Todo el país esperaba que yo fuera el rey. Pero ahora el rey es mi hermano Salomón, porque así Dios lo ha querido."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2234,
+      "char_end": 2321,
+      "text": "Sólo quiero pedirte un favor. No me lo niegues. Ella le dijo: —¿Qué es lo que quieres?"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2321,
+      "char_end": 2464,
+      "text": "Él le contestó: —Te ruego que le pidas al rey Salomón que me dé como esposa a Abisag, la joven de Sunem. Estoy seguro de que él no se opondrá."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2464,
+      "char_end": 2511,
+      "text": "Betsabé dijo: —Está bien. Voy a hablar con él."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2511,
+      "char_end": 2800,
+      "text": "Así que Betsabé fue a hablar con el rey Salomón. El rey se levantó para recibir a su madre y, en señal de respeto, se inclinó delante de ella. Después se sentó en su trono, y mandó que trajeran un sillón para Betsabé. Ella se sentó a la derecha de Salomón, que es el lugar más importante,"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2800,
+      "char_end": 2934,
+      "text": "y le dijo: —Quiero pedirte un pequeño favor; no me digas que no. El rey le contestó: —Madre, pídeme lo que quieras que yo te lo daré."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2934,
+      "char_end": 3021,
+      "text": "Ella le dijo: —Deja que tu hermano Adonías se case con Abisag, la del pueblo de Sunem."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3021,
+      "char_end": 3215,
+      "text": "El rey Salomón le contestó a su madre: —¿Por qué me pides eso? Él es mi hermano mayor, y además el sacerdote Abiatar y el general Joab están de su parte. ¿No quieres que también le dé el reino?"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3215,
+      "char_end": 3345,
+      "text": "Después el rey Salomón hizo este juramento: Que Dios me castigue para siempre si Adonías no muere por haberme hecho esa petición."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3345,
+      "char_end": 3469,
+      "text": "¡Hoy mismo morirá! Lo juro por Dios, que me dio un reino poderoso, y prometió que mis descendientes reinarán después de mí."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3469,
+      "char_end": 3560,
+      "text": "Entonces el rey Salomón le ordenó a Benaías que matara a Adonías. Y Benaías fue y lo mató."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3560,
+      "char_end": 3827,
+      "text": "Luego, el rey le dijo al sacerdote Abiatar: Vete a Anatot, tu tierra. Mereces morir, pero no te mataré ahora, porque tú fuiste quien llevaba el cofre del pacto de Dios cuando mi padre David lo trajo a Jerusalén, y además lo acompañaste en los momentos más difíciles."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3827,
+      "char_end": 4009,
+      "text": "De esta manera, Salomón expulsó a Abiatar del servicio sacerdotal. Así se cumplió lo que Dios había dicho en Siló acerca de la familia de Elí, de que no seguirían siendo sacerdotes."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 4009,
+      "char_end": 4221,
+      "text": "El general Joab estaba de parte de Adonías, aunque no había apoyado a Absalón. Cuando Joab se enteró de lo que dijo Salomón, huyó al santuario de Dios y se agarró de los cuernos del altar en busca de protección."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 4221,
+      "char_end": 4384,
+      "text": "Le informaron al rey Salomón que Joab había escapado al santuario de Dios, y se había refugiado en el altar. Entonces Salomón le dijo a Benaías: Ve y mata a Joab."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4384,
+      "char_end": 4583,
+      "text": "Benaías fue al santuario de Dios y le dijo a Joab: —El rey ordena que salgas. Pero Joab contestó: —Si voy a morir, que sea aquí mismo. Entonces Benaías fue a contarle al rey lo que había dicho Joab."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4583,
+      "char_end": 4740,
+      "text": "El rey le contestó: —Haz como él dijo. Mátalo y entiérralo. De esa manera ya no seremos culpables por los asesinatos que Joab cometió contra gente inocente."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4740,
+      "char_end": 5020,
+      "text": "Dios hará que Joab sea el culpable de su propia muerte. Porque él atacó y mató a dos hombres más justos y mejores que él, sin que lo supiera mi padre David. Mató a Abner hijo de Ner, que era jefe del ejército israelita, y a Amasá hijo de Jéter, que era jefe del ejército de Judá."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 5020,
+      "char_end": 5180,
+      "text": "Joab y su familia serán culpables de la muerte de ellos para siempre. Pero David y sus descendientes, y todo Israel, disfrutarán siempre de la paz que Dios da."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 5180,
+      "char_end": 5286,
+      "text": "Entonces Benaías fue y mató a Joab. Luego fueron a la casa de Joab, en el desierto, y allí lo enterraron."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 5286,
+      "char_end": 5406,
+      "text": "Después el rey nombró a Benaías como general del ejército, en lugar de Joab, y al sacerdote Sadoc, en lugar de Abiatar."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 5406,
+      "char_end": 5531,
+      "text": "Luego Salomón mandó llamar a Simí y le dijo: —Construye una casa para ti en Jerusalén, y vive allí. No salgas a ningún lado."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 5531,
+      "char_end": 5643,
+      "text": "Porque si sales y cruzas el arroyo Cedrón, ten la seguridad de que vas a morir, y yo no respondo por tu muerte."
+    },
+    {
+      "verse": 38,
+      "label": "38-40",
+      "char_start": 5643,
+      "char_end": 5960,
+      "text": "Simí le contestó al rey: —Está bien. Haré lo que ha ordenado Su Majestad. Simí vivió en Jerusalén tres años. Pero un día, se vio obligado a ir a Gat en busca de dos esclavos que se le habían escapado. Estaban con Aquís hijo de Maacá, rey de Gat. Cuando Simí volvía de Gat, montado en su burro y con sus dos esclavos,"
+    },
+    {
+      "verse": 41,
+      "label": "41-42",
+      "char_start": 5960,
+      "char_end": 6163,
+      "text": "Salomón se enteró. Entonces lo mandó a llamar y le dijo: ¡Yo te advertí que no debías salir de Jerusalén, y que si lo hacías ibas a morir! Tú estuviste de acuerdo, y me juraste por Dios que obedecerías."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 6163,
+      "char_end": 6233,
+      "text": "¿Por qué no cumpliste tu juramento ni seguiste las órdenes que te di?"
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 6233,
+      "char_end": 6350,
+      "text": "Acuérdate de todo el daño que le hiciste a mi padre. Ahora Dios te va a hacer sufrir como hiciste sufrir a mi padre."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 6350,
+      "char_end": 6439,
+      "text": "En cambio, a mí me va a bendecir, y los descendientes de mi padre reinarán para siempre."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 6439,
+      "char_end": 6552,
+      "text": "Después el rey le ordenó a Benaías que matara a Simí. De esta manera, Salomón tomó completo control de su reino."
+    }
+  ],
+  "words": [
+    {
+      "word": "Cuando le faltaba poco para morir, David le encargó a su hijo Salomón lo siguiente: Tarde o temprano, la muerte nos llega a todos, y a mí me falta poco para morir.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 10162,
+      "duration_ms": 10062
+    },
+    {
+      "word": "Sé valiente y compórtate como hombre.",
+      "verse": 2,
+      "start_ms": 10112,
+      "end_ms": 13112,
+      "duration_ms": 3000
+    },
+    {
+      "word": "Obedece todos los mandamientos de nuestro Dios, y todas las leyes que nos dio por medio de Moisés.",
+      "verse": 3,
+      "start_ms": 13112,
+      "end_ms": 19524,
+      "duration_ms": 6412
+    },
+    {
+      "word": "Si haces esto, te va a ir bien en todo lo que hagas y en cualquier lugar a donde vayas.",
+      "verse": 3,
+      "start_ms": 19525,
+      "end_ms": 25062,
+      "duration_ms": 5537
+    },
+    {
+      "word": "Dios prometió que el trono de Israel será siempre ocupado por mis descendientes, si ellos se portan bien y le son completamente fieles.",
+      "verse": 4,
+      "start_ms": 25062,
+      "end_ms": 33349,
+      "duration_ms": 8287
+    },
+    {
+      "word": "Así que pórtate bien para que Dios cumpla su promesa.",
+      "verse": 4,
+      "start_ms": 33350,
+      "end_ms": 36987,
+      "duration_ms": 3637
+    },
+    {
+      "word": "Además, como tú bien sabes, el general Joab mató a Abner hijo de Ner, y a Amasá hijo de Jéter.",
+      "verse": 5,
+      "start_ms": 36987,
+      "end_ms": 44274,
+      "duration_ms": 7287
+    },
+    {
+      "word": "Estos dos eran generales del ejército de Israel, pero Joab los asesinó en tiempos de paz, para vengar las muertes que hubo durante la guerra.",
+      "verse": 5,
+      "start_ms": 44275,
+      "end_ms": 52562,
+      "duration_ms": 8287
+    },
+    {
+      "word": "Luego me hizo responsable de ese doble crimen, pero él es el culpable.",
+      "verse": 5,
+      "start_ms": 52562,
+      "end_ms": 57537,
+      "duration_ms": 4975
+    },
+    {
+      "word": "Así que la decisión es tuya, aunque yo te aconsejaría que no lo dejes con vida mucho tiempo.",
+      "verse": 6,
+      "start_ms": 57537,
+      "end_ms": 63287,
+      "duration_ms": 5750
+    },
+    {
+      "word": "Trata bien a los descendientes de Barzilai, el de la región de Galaad, y hazte amigo de ellos, porque ellos me protegieron cuando yo escapaba de tu hermano Absalón.",
+      "verse": 7,
+      "start_ms": 63287,
+      "end_ms": 72537,
+      "duration_ms": 9250
+    },
+    {
+      "word": "También está contigo Simí, el hijo de Guerá, el de la tribu de Benjamín, y que nació en Bahurim.",
+      "verse": 8,
+      "start_ms": 72537,
+      "end_ms": 78999,
+      "duration_ms": 6462
+    },
+    {
+      "word": "Él me maldijo de una manera terrible cuando yo iba a Mahanaim.",
+      "verse": 8,
+      "start_ms": 79000,
+      "end_ms": 83150,
+      "duration_ms": 4150
+    },
+    {
+      "word": "Pero después fue al río Jordán a recibirme y tuve que jurarle por Dios que no lo mataría.",
+      "verse": 8,
+      "start_ms": 83150,
+      "end_ms": 88737,
+      "duration_ms": 5587
+    },
+    {
+      "word": "No lo perdones.",
+      "verse": 9,
+      "start_ms": 88737,
+      "end_ms": 90699,
+      "duration_ms": 1962
+    },
+    {
+      "word": "Eres lo suficientemente sabio para saber que debes matarlo.",
+      "verse": 9,
+      "start_ms": 90700,
+      "end_ms": 94612,
+      "duration_ms": 3912
+    },
+    {
+      "word": "Procura que tenga una muerte violenta.",
+      "verse": 9,
+      "start_ms": 94612,
+      "end_ms": 97624,
+      "duration_ms": 3012
+    },
+    {
+      "word": "David murió y lo enterraron junto a la tumba de sus antepasados, en la ciudad que llevaba su nombre.",
+      "verse": 10,
+      "start_ms": 97625,
+      "end_ms": 103637,
+      "duration_ms": 6012
+    },
+    {
+      "word": "Fue rey de Israel durante cuarenta años.",
+      "verse": 11,
+      "start_ms": 103637,
+      "end_ms": 106974,
+      "duration_ms": 3337
+    },
+    {
+      "word": "Siete de esos años reinó en Hebrón, y treinta y tres años, en Jerusalén.",
+      "verse": 11,
+      "start_ms": 106975,
+      "end_ms": 112337,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Después de él, reinó Salomón, quien logró hacer de Israel una nación muy poderosa.",
+      "verse": 12,
+      "start_ms": 112337,
+      "end_ms": 118337,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Después de la muerte de David, Adonías fue a ver a Betsabé, la madre de Salomón.",
+      "verse": 13,
+      "start_ms": 118337,
+      "end_ms": 123912,
+      "duration_ms": 5575
+    },
+    {
+      "word": "Ella le preguntó: —¿Vienes como amigo o como enemigo?",
+      "verse": 13,
+      "start_ms": 123912,
+      "end_ms": 127862,
+      "duration_ms": 3950
+    },
+    {
+      "word": "Él contestó: —Vengo como amigo, y quiero pedirte un favor.",
+      "verse": 13,
+      "start_ms": 127862,
+      "end_ms": 132587,
+      "duration_ms": 4725
+    },
+    {
+      "word": "Betsabé le dijo: —Dime de qué se trata.",
+      "verse": 14,
+      "start_ms": 132587,
+      "end_ms": 135862,
+      "duration_ms": 3275
+    },
+    {
+      "word": "Entonces Adonías le respondió: —Tú sabes que el reino de Israel era para mí.",
+      "verse": 15,
+      "start_ms": 135862,
+      "end_ms": 141174,
+      "duration_ms": 5312
+    },
+    {
+      "word": "Todo el país esperaba que yo fuera el rey.",
+      "verse": 15,
+      "start_ms": 141175,
+      "end_ms": 144262,
+      "duration_ms": 3087
+    },
+    {
+      "word": "Pero ahora el rey es mi hermano Salomón, porque así Dios lo ha querido.",
+      "verse": 15,
+      "start_ms": 144262,
+      "end_ms": 148949,
+      "duration_ms": 4687
+    },
+    {
+      "word": "Sólo quiero pedirte un favor.",
+      "verse": 16,
+      "start_ms": 148950,
+      "end_ms": 151512,
+      "duration_ms": 2562
+    },
+    {
+      "word": "No me lo niegues.",
+      "verse": 16,
+      "start_ms": 151512,
+      "end_ms": 153462,
+      "duration_ms": 1950
+    },
+    {
+      "word": "Ella le dijo: —¿Qué es lo que quieres?",
+      "verse": 16,
+      "start_ms": 153462,
+      "end_ms": 156537,
+      "duration_ms": 3075
+    },
+    {
+      "word": "Él le contestó: —Te ruego que le pidas al rey Salomón que me dé como esposa a Abisag, la joven de Sunem.",
+      "verse": 17,
+      "start_ms": 156537,
+      "end_ms": 163212,
+      "duration_ms": 6675
+    },
+    {
+      "word": "Estoy seguro de que él no se opondrá.",
+      "verse": 17,
+      "start_ms": 163212,
+      "end_ms": 166062,
+      "duration_ms": 2850
+    },
+    {
+      "word": "Betsabé dijo: —Está bien.",
+      "verse": 18,
+      "start_ms": 166062,
+      "end_ms": 168887,
+      "duration_ms": 2825
+    },
+    {
+      "word": "Voy a hablar con él.",
+      "verse": 18,
+      "start_ms": 168887,
+      "end_ms": 170974,
+      "duration_ms": 2087
+    },
+    {
+      "word": "Así que Betsabé fue a hablar con el rey Salomón.",
+      "verse": 19,
+      "start_ms": 170975,
+      "end_ms": 174412,
+      "duration_ms": 3437
+    },
+    {
+      "word": "El rey se levantó para recibir a su madre y, en señal de respeto, se inclinó delante de ella.",
+      "verse": 19,
+      "start_ms": 174412,
+      "end_ms": 180599,
+      "duration_ms": 6187
+    },
+    {
+      "word": "Después se sentó en su trono, y mandó que trajeran un sillón para Betsabé.",
+      "verse": 19,
+      "start_ms": 180600,
+      "end_ms": 185375,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Ella se sentó a la derecha de Salomón, que es el lugar más importante, y le dijo: —Quiero pedirte un pequeño favor; no me digas que no.",
+      "verse": 19,
+      "start_ms": 185375,
+      "end_ms": 194162,
+      "duration_ms": 8787
+    },
+    {
+      "word": "El rey le contestó: —Madre, pídeme lo que quieras que yo te lo daré.",
+      "verse": 20,
+      "start_ms": 194162,
+      "end_ms": 198937,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Ella le dijo: —Deja que tu hermano Adonías se case con Abisag, la del pueblo de Sunem.",
+      "verse": 21,
+      "start_ms": 198937,
+      "end_ms": 204612,
+      "duration_ms": 5675
+    },
+    {
+      "word": "El rey Salomón le contestó a su madre: —¿Por qué me pides eso?",
+      "verse": 22,
+      "start_ms": 204612,
+      "end_ms": 208937,
+      "duration_ms": 4325
+    },
+    {
+      "word": "Él es mi hermano mayor, y además el sacerdote Abiatar y el general Joab están de su parte.",
+      "verse": 22,
+      "start_ms": 208937,
+      "end_ms": 214862,
+      "duration_ms": 5925
+    },
+    {
+      "word": "No quieres que también le dé el reino?",
+      "verse": 22,
+      "start_ms": 214862,
+      "end_ms": 217649,
+      "duration_ms": 2787
+    },
+    {
+      "word": "Después el rey Salomón hizo este juramento: Que Dios me castigue para siempre si Adonías no muere por haberme hecho esa petición.",
+      "verse": 23,
+      "start_ms": 217650,
+      "end_ms": 225162,
+      "duration_ms": 7512
+    },
+    {
+      "word": "Hoy mismo morirá!",
+      "verse": 24,
+      "start_ms": 225162,
+      "end_ms": 227099,
+      "duration_ms": 1937
+    },
+    {
+      "word": "Lo juro por Dios, que me dio un reino poderoso, y prometió que mis descendientes reinarán después de mí.",
+      "verse": 24,
+      "start_ms": 227100,
+      "end_ms": 233812,
+      "duration_ms": 6712
+    },
+    {
+      "word": "Entonces el rey Salomón le ordenó a Benaías que matara a Adonías.",
+      "verse": 25,
+      "start_ms": 233812,
+      "end_ms": 238374,
+      "duration_ms": 4562
+    },
+    {
+      "word": "Y Benaías fue y lo mató.",
+      "verse": 25,
+      "start_ms": 238375,
+      "end_ms": 240775,
+      "duration_ms": 2400
+    },
+    {
+      "word": "Luego, el rey le dijo al sacerdote Abiatar: Vete a Anatot, tu tierra.",
+      "verse": 26,
+      "start_ms": 240775,
+      "end_ms": 246462,
+      "duration_ms": 5687
+    },
+    {
+      "word": "Mereces morir, pero no te mataré ahora, porque tú fuiste quien llevaba el cofre del pacto de Dios cuando mi padre David lo trajo a Jerusalén, y además lo acompañaste en los momentos más difíciles.",
+      "verse": 26,
+      "start_ms": 246462,
+      "end_ms": 258087,
+      "duration_ms": 11625
+    },
+    {
+      "word": "De esta manera, Salomón expulsó a Abiatar del servicio sacerdotal.",
+      "verse": 27,
+      "start_ms": 258087,
+      "end_ms": 263074,
+      "duration_ms": 4987
+    },
+    {
+      "word": "Así se cumplió lo que Dios había dicho en",
+      "verse": 27,
+      "start_ms": 263075,
+      "end_ms": 266187,
+      "duration_ms": 3112
+    },
+    {
+      "word": "Siló acerca de la familia de Elí, de que no seguirían siendo sacerdotes.",
+      "verse": 27,
+      "start_ms": 266356,
+      "end_ms": 271656,
+      "duration_ms": 5300
+    },
+    {
+      "word": "El general Joab estaba de parte de Adonías, aunque no había apoyado a Absalón.",
+      "verse": 28,
+      "start_ms": 271606,
+      "end_ms": 276931,
+      "duration_ms": 5325
+    },
+    {
+      "word": "Cuando Joab se enteró de lo que dijo Salomón, huyó al santuario de Dios y se agarró de los cuernos del altar en busca de protección.",
+      "verse": 28,
+      "start_ms": 276931,
+      "end_ms": 284256,
+      "duration_ms": 7325
+    },
+    {
+      "word": "Le informaron al rey Salomón que Joab había escapado al santuario de Dios, y se había refugiado en el altar.",
+      "verse": 29,
+      "start_ms": 284256,
+      "end_ms": 290931,
+      "duration_ms": 6675
+    },
+    {
+      "word": "Entonces Salomón le dijo a Benaías: Ve y mata a Joab.",
+      "verse": 29,
+      "start_ms": 290931,
+      "end_ms": 295356,
+      "duration_ms": 4425
+    },
+    {
+      "word": "Benaías fue al santuario de Dios y le dijo a Joab: —El rey ordena que salgas.",
+      "verse": 30,
+      "start_ms": 295356,
+      "end_ms": 300831,
+      "duration_ms": 5475
+    },
+    {
+      "word": "Pero Joab contestó: —Si voy a morir, que sea aquí mismo.",
+      "verse": 30,
+      "start_ms": 300831,
+      "end_ms": 305306,
+      "duration_ms": 4475
+    },
+    {
+      "word": "Entonces Benaías fue a contarle al rey lo que había dicho Joab.",
+      "verse": 30,
+      "start_ms": 305306,
+      "end_ms": 309518,
+      "duration_ms": 4212
+    },
+    {
+      "word": "El rey le contestó: —Haz como él dijo.",
+      "verse": 31,
+      "start_ms": 309518,
+      "end_ms": 312718,
+      "duration_ms": 3200
+    },
+    {
+      "word": "Mátalo y entiérralo.",
+      "verse": 31,
+      "start_ms": 312718,
+      "end_ms": 314955,
+      "duration_ms": 2237
+    },
+    {
+      "word": "De esa manera ya no seremos culpables por los asesinatos que Joab cometió contra gente inocente.",
+      "verse": 31,
+      "start_ms": 314956,
+      "end_ms": 320881,
+      "duration_ms": 5925
+    },
+    {
+      "word": "Dios hará que Joab sea el culpable de su propia muerte.",
+      "verse": 32,
+      "start_ms": 320881,
+      "end_ms": 324731,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Porque él atacó y mató a dos hombres más justos y mejores que él, sin que lo supiera mi padre David.",
+      "verse": 32,
+      "start_ms": 324731,
+      "end_ms": 331118,
+      "duration_ms": 6387
+    },
+    {
+      "word": "Mató a Abner hijo de Ner, que era jefe del ejército israelita, y a Amasá hijo de Jéter, que era jefe del ejército de Judá.",
+      "verse": 32,
+      "start_ms": 331118,
+      "end_ms": 339618,
+      "duration_ms": 8500
+    },
+    {
+      "word": "Joab y su familia serán culpables de la muerte de ellos para siempre.",
+      "verse": 33,
+      "start_ms": 339618,
+      "end_ms": 343955,
+      "duration_ms": 4337
+    },
+    {
+      "word": "Pero David y sus descendientes, y todo Israel, disfrutarán siempre de la paz que Dios da.",
+      "verse": 33,
+      "start_ms": 343956,
+      "end_ms": 350056,
+      "duration_ms": 6100
+    },
+    {
+      "word": "Entonces Benaías fue y mató a Joab.",
+      "verse": 34,
+      "start_ms": 350056,
+      "end_ms": 353231,
+      "duration_ms": 3175
+    },
+    {
+      "word": "Luego fueron a la casa de Joab, en el desierto, y allí lo enterraron.",
+      "verse": 34,
+      "start_ms": 353231,
+      "end_ms": 358018,
+      "duration_ms": 4787
+    },
+    {
+      "word": "Después el rey nombró a Benaías como general del ejército, en lugar de Joab, y al sacerdote Sadoc, en lugar de Abiatar.",
+      "verse": 35,
+      "start_ms": 358018,
+      "end_ms": 365893,
+      "duration_ms": 7875
+    },
+    {
+      "word": "Luego Salomón mandó llamar a Simí y le dijo: —Construye una casa para ti en Jerusalén, y vive allí.",
+      "verse": 36,
+      "start_ms": 365893,
+      "end_ms": 372830,
+      "duration_ms": 6937
+    },
+    {
+      "word": "No salgas a ningún lado.",
+      "verse": 36,
+      "start_ms": 372831,
+      "end_ms": 375243,
+      "duration_ms": 2412
+    },
+    {
+      "word": "Porque si sales y cruzas el arroyo Cedrón, ten la seguridad de que vas a morir, y yo no respondo por tu muerte.",
+      "verse": 37,
+      "start_ms": 375243,
+      "end_ms": 382218,
+      "duration_ms": 6975
+    },
+    {
+      "word": "Simí le contestó al rey: —Está bien.",
+      "verse": 38,
+      "start_ms": 382218,
+      "end_ms": 385343,
+      "duration_ms": 3125
+    },
+    {
+      "word": "Haré lo que ha ordenado Su Majestad.",
+      "verse": 38,
+      "start_ms": 385343,
+      "end_ms": 388143,
+      "duration_ms": 2800
+    },
+    {
+      "word": "Simí vivió en Jerusalén tres años.",
+      "verse": 38,
+      "start_ms": 388143,
+      "end_ms": 391343,
+      "duration_ms": 3200
+    },
+    {
+      "word": "Pero un día, se vio obligado a ir a Gat en busca de dos esclavos que se le habían escapado.",
+      "verse": 38,
+      "start_ms": 391343,
+      "end_ms": 397180,
+      "duration_ms": 5837
+    },
+    {
+      "word": "Estaban con Aquís hijo de Maacá, rey de Gat.",
+      "verse": 38,
+      "start_ms": 397181,
+      "end_ms": 400693,
+      "duration_ms": 3512
+    },
+    {
+      "word": "Cuando Simí volvía de Gat, montado en su burro y con sus dos esclavos, Salomón se enteró.",
+      "verse": 38,
+      "start_ms": 400693,
+      "end_ms": 406693,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Entonces lo mandó a llamar y le dijo: ¡Yo te advertí que no debías salir de Jerusalén, y que si lo hacías ibas a morir!",
+      "verse": 41,
+      "start_ms": 406693,
+      "end_ms": 414105,
+      "duration_ms": 7412
+    },
+    {
+      "word": "Tú estuviste de acuerdo, y me juraste por Dios que obedecerías.",
+      "verse": 41,
+      "start_ms": 414106,
+      "end_ms": 418581,
+      "duration_ms": 4475
+    },
+    {
+      "word": "Por qué no cumpliste tu juramento ni seguiste las órdenes que te di?",
+      "verse": 43,
+      "start_ms": 418581,
+      "end_ms": 422906,
+      "duration_ms": 4325
+    },
+    {
+      "word": "Acuérdate de todo el daño que le hiciste a mi padre.",
+      "verse": 44,
+      "start_ms": 422906,
+      "end_ms": 426506,
+      "duration_ms": 3600
+    },
+    {
+      "word": "Ahora Dios te va a hacer sufrir como hiciste sufrir a mi padre.",
+      "verse": 44,
+      "start_ms": 426506,
+      "end_ms": 430631,
+      "duration_ms": 4125
+    },
+    {
+      "word": "En cambio, a mí me va a bendecir, y los descendientes de mi padre reinarán para siempre.",
+      "verse": 45,
+      "start_ms": 430631,
+      "end_ms": 436493,
+      "duration_ms": 5862
+    },
+    {
+      "word": "Después el rey le ordenó a Benaías que matara a Simí.",
+      "verse": 46,
+      "start_ms": 436493,
+      "end_ms": 440343,
+      "duration_ms": 3850
+    },
+    {
+      "word": "De esta manera, Salomón tomó completo control de su reino.",
+      "verse": 46,
+      "start_ms": 440343,
+      "end_ms": 444755,
+      "duration_ms": 4412
+    }
+  ]
+}

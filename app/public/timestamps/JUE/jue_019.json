@@ -1,0 +1,635 @@
+{
+  "book": "JUE",
+  "chapter": 19,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 29,
+  "word_count": 60,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 177,
+      "text": "En los días en que los israelitas todavía no tenían rey, un hombre de la tribu de Leví vivía con una mujer de Belén de Judá, en un lugar muy apartado de las montañas de Efraín."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 177,
+      "char_end": 273,
+      "text": "Un día ella se enojó con él y regresó a la casa de su padre en Belén. Estuvo allí cuatro meses,"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 273,
+      "char_end": 487,
+      "text": "hasta que llegó el hombre para convencerla de que volviera con él. Lo acompañaba un sirviente, y llevaba dos burros. Ella lo hizo pasar a la casa, y cuando el padre vio al esposo de su hija, lo recibió con alegría"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 487,
+      "char_end": 595,
+      "text": "y lo invitó a quedarse con ellos. El hombre y su sirviente se quedaron allí tres días, comiendo y bebiendo."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 595,
+      "char_end": 766,
+      "text": "Al cuarto día se levantaron de madrugada, y el hombre se preparó para viajar, pero su suegro le sugirió: Come algo antes de irte, aunque sea un poco de pan. Te hará bien."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 766,
+      "char_end": 925,
+      "text": "Entonces los dos se sentaron a comer y a beber juntos. Después el padre de la joven le dijo a su yerno: ¡Por favor, quédate una noche más! ¡La pasaremos bien!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 925,
+      "char_end": 1004,
+      "text": "El hombre se levantó para irse, pero su suegro le insistió tanto que se quedó."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1004,
+      "char_end": 1183,
+      "text": "Al quinto día se levantó muy temprano, decidido a salir, pero su suegro le dijo otra vez que comiera algo y se quedara hasta la tarde. Así que los dos se sentaron a comer juntos."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1183,
+      "char_end": 1397,
+      "text": "Cuando otra vez el hombre se levantó para irse con su mujer y su sirviente, su suegro le dijo: Quédate, por favor, porque pronto será de noche. Pasaremos un rato agradable, y mañana muy temprano te irás a tu casa."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1397,
+      "char_end": 1536,
+      "text": "Pero el hombre no quiso quedarse otra noche más, así que se levantó y se fue. Lo acompañaban su mujer, su sirviente y dos burros cargados."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1536,
+      "char_end": 1697,
+      "text": "Cuando se acercaban a Jebús, es decir, a Jerusalén, el sirviente le dijo: —Sería bueno quedarnos a pasar la noche en esta ciudad de los jebuseos, ¿no le parece?"
+    },
+    {
+      "verse": 12,
+      "label": "12-13",
+      "char_start": 1697,
+      "char_end": 1867,
+      "text": "Y el hombre le respondió: —No. No nos quedaremos en ninguna ciudad que no sea de los israelitas. Sigamos hasta Guibeá, para ver si allí o en Ramá podemos pasar la noche."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1867,
+      "char_end": 1979,
+      "text": "Siguieron entonces su camino, y a la puesta del sol ya estaban cerca de Guibeá, ciudad de la tribu de Benjamín."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1979,
+      "char_end": 2119,
+      "text": "Se apartaron del camino y entraron en la ciudad. Como nadie los invitó a su casa para pasar la noche, el hombre fue y se sentó en la plaza."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2119,
+      "char_end": 2279,
+      "text": "Al caer la tarde, pasó por allí un anciano que volvía de trabajar en el campo. Este anciano era de la zona montañosa de Efraín, pero estaba viviendo en Guibeá."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2279,
+      "char_end": 2379,
+      "text": "Cuando el anciano vio al viajero sentado en la plaza, le preguntó: —¿De dónde vienes? ¿A dónde vas?"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2379,
+      "char_end": 2593,
+      "text": "El hombre le contestó: —Venimos de Belén de Judá. Pasamos por aquí porque estamos volviendo a la parte más apartada de las montañas de Efraín, donde vivimos. Pero nadie nos ha invitado a pasar la noche en su casa."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2593,
+      "char_end": 2673,
+      "text": "Tenemos de todo: paja y pasto para los burros, y pan y vino para nosotros tres."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2673,
+      "char_end": 2814,
+      "text": "Entonces el anciano le dijo: —¡Pero no pueden pasar la noche en la plaza! ¡En mi casa serán bienvenidos! ¡Yo les daré todo lo que necesiten!"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2814,
+      "char_end": 2958,
+      "text": "El anciano los llevó entonces a su casa, y mientras los viajeros se lavaban los pies, él les dio de comer a los burros. Después de eso cenaron."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2958,
+      "char_end": 3270,
+      "text": "Estaban pasando un rato agradable cuando, de pronto, unos hombres de la ciudad rodearon la casa y empezaron a golpear violentamente la puerta. Eran unos hombres malvados, los cuales le gritaron al dueño de la casa: —¡Qué salga el hombre que está de visita en tu casa! ¡Queremos tener relaciones sexuales con él!"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3270,
+      "char_end": 3419,
+      "text": "Entonces el dueño de la casa salió y les dijo: —¡Amigos míos, por favor, no hagan eso! ¡Es una terrible maldad! El hombre está de visita en mi casa."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3419,
+      "char_end": 3617,
+      "text": "¡Miren! Les traeré a su mujer, y también a mi hija, que todavía no ha tenido relaciones sexuales con nadie. Hagan con ellas lo que quieran; ¡humíllenlas, pero no cometan tal maldad con este hombre!"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3617,
+      "char_end": 3792,
+      "text": "Como los hombres seguían molestando, el hombre tomó a su mujer y la echó a la calle. Entonces ellos la violaron, y la siguieron maltratando toda la noche, hasta que amaneció."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3792,
+      "char_end": 3959,
+      "text": "Estaba amaneciendo cuando la mujer volvió a la casa del anciano, donde estaba su esposo; cayó de bruces delante de la puerta, y así se quedó hasta que se hizo de día."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3959,
+      "char_end": 4114,
+      "text": "Cuando su esposo se levantó para continuar el viaje, al abrir la puerta encontró a su mujer tirada en el suelo y con las manos extendidas hacia la puerta."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 4114,
+      "char_end": 4247,
+      "text": "Le dijo: ¡Vamos, levántate! Tenemos que irnos. Pero ella no respondió. Entonces el hombre la puso sobre el burro y se fue a su casa."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 4247,
+      "char_end": 4352,
+      "text": "Al llegar, tomó un cuchillo, cortó a su mujer en doce pedazos, y los mandó a todas las tribus de Israel."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4352,
+      "char_end": 4552,
+      "text": "Todos los que veían esto decían: ¡Nunca hemos visto algo así! Nunca, desde que nuestro pueblo salió de Egipto, ha ocurrido algo parecido. Tenemos que hacer algo, pero pensémoslo bien antes de actuar."
+    }
+  ],
+  "words": [
+    {
+      "word": "En los días en que los israelitas todavía no tenían rey, un hombre de la tribu de Leví vivía con una mujer de Belén de Judá, en un lugar muy apartado de las montañas de Efraín.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 10362,
+      "duration_ms": 10262
+    },
+    {
+      "word": "Un día ella se enojó con él y regresó a la casa de su padre en Belén.",
+      "verse": 2,
+      "start_ms": 10312,
+      "end_ms": 14787,
+      "duration_ms": 4475
+    },
+    {
+      "word": "Estuvo allí cuatro meses, hasta que llegó el hombre para convencerla de que volviera con él.",
+      "verse": 2,
+      "start_ms": 14787,
+      "end_ms": 20299,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Lo acompañaba un sirviente, y llevaba dos burros.",
+      "verse": 3,
+      "start_ms": 20300,
+      "end_ms": 24200,
+      "duration_ms": 3900
+    },
+    {
+      "word": "Ella lo hizo pasar a la casa, y cuando el padre vio al esposo de su hija, lo recibió con alegría y lo invitó a quedarse con ellos.",
+      "verse": 3,
+      "start_ms": 24200,
+      "end_ms": 32187,
+      "duration_ms": 7987
+    },
+    {
+      "word": "El hombre y su sirviente se quedaron allí tres días, comiendo y bebiendo.",
+      "verse": 4,
+      "start_ms": 32187,
+      "end_ms": 37087,
+      "duration_ms": 4900
+    },
+    {
+      "word": "Al cuarto día se levantaron de madrugada, y el hombre se preparó para viajar, pero su suegro le sugirió: Come algo antes de irte, aunque sea un poco de pan.",
+      "verse": 5,
+      "start_ms": 37087,
+      "end_ms": 46937,
+      "duration_ms": 9850
+    },
+    {
+      "word": "Te hará bien.",
+      "verse": 5,
+      "start_ms": 46937,
+      "end_ms": 48524,
+      "duration_ms": 1587
+    },
+    {
+      "word": "Entonces los dos se sentaron a comer y a beber juntos.",
+      "verse": 6,
+      "start_ms": 48525,
+      "end_ms": 52375,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Después el padre de la joven le dijo a su yerno: ¡Por favor, quédate una noche más!",
+      "verse": 6,
+      "start_ms": 52375,
+      "end_ms": 58000,
+      "duration_ms": 5625
+    },
+    {
+      "word": "La pasaremos bien!",
+      "verse": 6,
+      "start_ms": 58000,
+      "end_ms": 59975,
+      "duration_ms": 1975
+    },
+    {
+      "word": "El hombre se levantó para irse, pero su suegro le insistió tanto que se quedó.",
+      "verse": 7,
+      "start_ms": 59975,
+      "end_ms": 64987,
+      "duration_ms": 5012
+    },
+    {
+      "word": "Al quinto día se levantó muy temprano, decidido a salir, pero su suegro le dijo otra vez que comiera algo y se quedara hasta la tarde.",
+      "verse": 8,
+      "start_ms": 64987,
+      "end_ms": 73274,
+      "duration_ms": 8287
+    },
+    {
+      "word": "Así que los dos se sentaron a comer juntos.",
+      "verse": 8,
+      "start_ms": 73275,
+      "end_ms": 76525,
+      "duration_ms": 3250
+    },
+    {
+      "word": "Cuando otra vez el hombre se levantó para irse con su mujer y su sirviente, su suegro le dijo: Quédate, por favor, porque pronto será de noche.",
+      "verse": 9,
+      "start_ms": 76525,
+      "end_ms": 85587,
+      "duration_ms": 9062
+    },
+    {
+      "word": "Pasaremos un rato agradable, y mañana muy temprano te irás a tu casa.",
+      "verse": 9,
+      "start_ms": 85587,
+      "end_ms": 90549,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Pero el hombre no quiso quedarse otra noche más, así que se levantó y se fue.",
+      "verse": 10,
+      "start_ms": 90550,
+      "end_ms": 95575,
+      "duration_ms": 5025
+    },
+    {
+      "word": "Lo acompañaban su mujer, su sirviente y dos burros cargados.",
+      "verse": 10,
+      "start_ms": 95575,
+      "end_ms": 100262,
+      "duration_ms": 4687
+    },
+    {
+      "word": "Cuando se acercaban a Jebús, es decir, a Jerusalén, el sirviente le dijo: —Sería bueno quedarnos a pasar la noche en esta ciudad de los jebuseos, ¿no le parece?",
+      "verse": 11,
+      "start_ms": 100262,
+      "end_ms": 110612,
+      "duration_ms": 10350
+    },
+    {
+      "word": "Y el hombre le respondió: —No.",
+      "verse": 12,
+      "start_ms": 110612,
+      "end_ms": 113299,
+      "duration_ms": 2687
+    },
+    {
+      "word": "No nos quedaremos en ninguna ciudad que no sea de los israelitas.",
+      "verse": 12,
+      "start_ms": 113300,
+      "end_ms": 117737,
+      "duration_ms": 4437
+    },
+    {
+      "word": "Sigamos hasta Guibeá, para ver si allí o en Ramá podemos pasar la noche.",
+      "verse": 12,
+      "start_ms": 117737,
+      "end_ms": 122849,
+      "duration_ms": 5112
+    },
+    {
+      "word": "Siguieron entonces su camino, y a la puesta del sol ya estaban cerca de Guibeá, ciudad de la tribu de Benjamín.",
+      "verse": 14,
+      "start_ms": 122850,
+      "end_ms": 129987,
+      "duration_ms": 7137
+    },
+    {
+      "word": "Se apartaron del camino y entraron en la ciudad.",
+      "verse": 15,
+      "start_ms": 129987,
+      "end_ms": 133399,
+      "duration_ms": 3412
+    },
+    {
+      "word": "Como nadie los invitó a su casa para pasar la noche, el hombre fue y se sentó en la plaza.",
+      "verse": 15,
+      "start_ms": 133400,
+      "end_ms": 139025,
+      "duration_ms": 5625
+    },
+    {
+      "word": "Al caer la tarde, pasó por allí un anciano que volvía de trabajar en el campo.",
+      "verse": 16,
+      "start_ms": 139025,
+      "end_ms": 144337,
+      "duration_ms": 5312
+    },
+    {
+      "word": "Este anciano era de la zona montañosa de Efraín, pero estaba viviendo en Guibeá.",
+      "verse": 16,
+      "start_ms": 144337,
+      "end_ms": 149674,
+      "duration_ms": 5337
+    },
+    {
+      "word": "Cuando el anciano vio al viajero sentado en la plaza, le preguntó: —¿De dónde vienes?",
+      "verse": 17,
+      "start_ms": 149675,
+      "end_ms": 155150,
+      "duration_ms": 5475
+    },
+    {
+      "word": "A dónde vas?",
+      "verse": 17,
+      "start_ms": 155150,
+      "end_ms": 156887,
+      "duration_ms": 1737
+    },
+    {
+      "word": "El hombre le contestó: —Venimos de Belén de Judá.",
+      "verse": 18,
+      "start_ms": 156887,
+      "end_ms": 160524,
+      "duration_ms": 3637
+    },
+    {
+      "word": "Pasamos por aquí porque estamos volviendo a la parte más apartada de las montañas de Efraín, donde vivimos.",
+      "verse": 18,
+      "start_ms": 160525,
+      "end_ms": 166987,
+      "duration_ms": 6462
+    },
+    {
+      "word": "Pero nadie nos ha invitado a pasar la noche en su casa.",
+      "verse": 18,
+      "start_ms": 166987,
+      "end_ms": 170674,
+      "duration_ms": 3687
+    },
+    {
+      "word": "Tenemos de todo: paja y pasto para los burros, y pan y vino para nosotros tres.",
+      "verse": 19,
+      "start_ms": 170675,
+      "end_ms": 176562,
+      "duration_ms": 5887
+    },
+    {
+      "word": "Entonces el anciano le dijo: —¡Pero no pueden pasar la noche en la plaza!",
+      "verse": 20,
+      "start_ms": 176562,
+      "end_ms": 181437,
+      "duration_ms": 4875
+    },
+    {
+      "word": "En mi casa serán bienvenidos!",
+      "verse": 20,
+      "start_ms": 181437,
+      "end_ms": 184012,
+      "duration_ms": 2575
+    },
+    {
+      "word": "Yo les daré todo lo que necesiten!",
+      "verse": 20,
+      "start_ms": 184012,
+      "end_ms": 186762,
+      "duration_ms": 2750
+    },
+    {
+      "word": "El anciano los llevó entonces a su casa, y mientras los viajeros se lavaban los pies, él les dio de comer a los burros.",
+      "verse": 21,
+      "start_ms": 186762,
+      "end_ms": 193837,
+      "duration_ms": 7075
+    },
+    {
+      "word": "Después de eso cenaron.",
+      "verse": 21,
+      "start_ms": 193837,
+      "end_ms": 196212,
+      "duration_ms": 2375
+    },
+    {
+      "word": "Estaban pasando un rato agradable cuando, de pronto, unos hombres de la ciudad rodearon la casa y empezaron a golpear violentamente la puerta.",
+      "verse": 22,
+      "start_ms": 196212,
+      "end_ms": 204412,
+      "duration_ms": 8200
+    },
+    {
+      "word": "Eran unos hombres malvados, los cuales le gritaron al dueño de la casa: —¡Qué salga el hombre que está de visita en tu casa!",
+      "verse": 22,
+      "start_ms": 204412,
+      "end_ms": 211637,
+      "duration_ms": 7225
+    },
+    {
+      "word": "Queremos tener relaciones sexuales con él!",
+      "verse": 22,
+      "start_ms": 211637,
+      "end_ms": 214674,
+      "duration_ms": 3037
+    },
+    {
+      "word": "Entonces el dueño de la casa salió y les dijo: —¡Amigos míos, por favor, no hagan eso!",
+      "verse": 23,
+      "start_ms": 214675,
+      "end_ms": 220800,
+      "duration_ms": 6125
+    },
+    {
+      "word": "Es una terrible maldad!",
+      "verse": 23,
+      "start_ms": 220800,
+      "end_ms": 222975,
+      "duration_ms": 2175
+    },
+    {
+      "word": "El hombre está de visita en mi casa.",
+      "verse": 23,
+      "start_ms": 222975,
+      "end_ms": 225712,
+      "duration_ms": 2737
+    },
+    {
+      "word": "Miren!",
+      "verse": 24,
+      "start_ms": 225712,
+      "end_ms": 227074,
+      "duration_ms": 1362
+    },
+    {
+      "word": "Les traeré a su mujer, y también a mi hija, que todavía no ha tenido relaciones sexuales con nadie.",
+      "verse": 24,
+      "start_ms": 227075,
+      "end_ms": 233600,
+      "duration_ms": 6525
+    },
+    {
+      "word": "Hagan con ellas lo que quieran; ¡humíllenlas, pero no cometan tal maldad con este hombre!",
+      "verse": 24,
+      "start_ms": 233600,
+      "end_ms": 239212,
+      "duration_ms": 5612
+    },
+    {
+      "word": "Como los hombres seguían molestando, el hombre tomó a su mujer y la echó a la calle.",
+      "verse": 25,
+      "start_ms": 239212,
+      "end_ms": 244437,
+      "duration_ms": 5225
+    },
+    {
+      "word": "Entonces ellos la violaron, y la siguieron maltratando toda la noche, hasta que amaneció.",
+      "verse": 25,
+      "start_ms": 244437,
+      "end_ms": 250137,
+      "duration_ms": 5700
+    },
+    {
+      "word": "Estaba amaneciendo cuando la mujer volvió a la casa del anciano, donde estaba su esposo; cayó de bruces delante de la puerta, y así se quedó hasta que se hizo de día.",
+      "verse": 26,
+      "start_ms": 250137,
+      "end_ms": 259887,
+      "duration_ms": 9750
+    },
+    {
+      "word": "Cuando su",
+      "verse": 27,
+      "start_ms": 259887,
+      "end_ms": 261374,
+      "duration_ms": 1487
+    },
+    {
+      "word": "esposo se levantó para continuar el viaje, al abrir la puerta encontró a su mujer tirada en el suelo y con las manos extendidas hacia la puerta.",
+      "verse": 27,
+      "start_ms": 261532,
+      "end_ms": 269632,
+      "duration_ms": 8100
+    },
+    {
+      "word": "Le dijo: ¡Vamos, levántate!",
+      "verse": 28,
+      "start_ms": 269582,
+      "end_ms": 272594,
+      "duration_ms": 3012
+    },
+    {
+      "word": "Tenemos que irnos.",
+      "verse": 28,
+      "start_ms": 272594,
+      "end_ms": 274644,
+      "duration_ms": 2050
+    },
+    {
+      "word": "Pero ella no respondió.",
+      "verse": 28,
+      "start_ms": 274644,
+      "end_ms": 276819,
+      "duration_ms": 2175
+    },
+    {
+      "word": "Entonces el hombre la puso sobre el burro y se fue a su casa.",
+      "verse": 28,
+      "start_ms": 276819,
+      "end_ms": 280794,
+      "duration_ms": 3975
+    },
+    {
+      "word": "Al llegar, tomó un cuchillo, cortó a su mujer en doce pedazos, y los mandó a todas las tribus de Israel.",
+      "verse": 29,
+      "start_ms": 280794,
+      "end_ms": 288156,
+      "duration_ms": 7362
+    },
+    {
+      "word": "Todos los que veían esto decían: ¡Nunca hemos visto algo así!",
+      "verse": 30,
+      "start_ms": 288157,
+      "end_ms": 292369,
+      "duration_ms": 4212
+    },
+    {
+      "word": "Nunca, desde que nuestro pueblo salió de Egipto, ha ocurrido algo parecido.",
+      "verse": 30,
+      "start_ms": 292369,
+      "end_ms": 297819,
+      "duration_ms": 5450
+    },
+    {
+      "word": "Tenemos que hacer algo, pero pensémoslo bien antes de actuar.",
+      "verse": 30,
+      "start_ms": 297819,
+      "end_ms": 301881,
+      "duration_ms": 4062
+    }
+  ]
+}

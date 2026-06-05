@@ -1,0 +1,551 @@
+{
+  "book": "1CO",
+  "chapter": 12,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 31,
+  "word_count": 46,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 88,
+      "text": "Queridos hermanos, quiero que sepan acerca de las capacidades que da el Espíritu Santo."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 88,
+      "char_end": 201,
+      "text": "Cuando ustedes aún no habían creído en Cristo, cometían el error de adorar ídolos que ni siquiera pueden hablar."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 201,
+      "char_end": 391,
+      "text": "Sólo quienes son guiados por el Espíritu Santo reconocen que Jesús es el Señor. Por eso, quiero que entiendan que ninguna persona puede maldecir a Jesús, si es guiada por el Espíritu Santo."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 391,
+      "char_end": 502,
+      "text": "Los que pertenecen a la iglesia pueden tener distintas capacidades, pero todas ellas las da el mismo Espíritu."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 502,
+      "char_end": 589,
+      "text": "Se puede servir al Señor Jesús de distintas maneras, pero todos sirven al mismo Señor."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 589,
+      "char_end": 699,
+      "text": "Se pueden realizar distintas actividades, pero es el mismo Dios quien da a cada uno la habilidad de hacerlas."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 699,
+      "char_end": 829,
+      "text": "Dios nos enseña que, cuando el Espíritu Santo nos da alguna capacidad especial, lo hace para que procuremos el bien de los demás."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 829,
+      "char_end": 959,
+      "text": "A algunos, el Espíritu les da la capacidad de hablar con sabiduría, a otros les da la capacidad de hablar con mucho conocimiento,"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 959,
+      "char_end": 1053,
+      "text": "a otros les da una gran confianza en Dios, y a otros les da el poder de sanar a los enfermos."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1053,
+      "char_end": 1355,
+      "text": "Algunos reciben el poder de hacer milagros, y otros reciben la autoridad de hablar de parte de Dios. Unos tienen la capacidad de reconocer al Espíritu de Dios, y de descubrir a los espíritus falsos. Algunos pueden hablar en idiomas desconocidos, y otros pueden entender lo que se dice en esos idiomas."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1355,
+      "char_end": 1458,
+      "text": "Pero es el Espíritu Santo mismo el que hace todo esto, y el que decide qué capacidad darle a cada uno."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1458,
+      "char_end": 1565,
+      "text": "La iglesia de Cristo es como el cuerpo humano. Está compuesto de distintas partes, pero es un solo cuerpo."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1565,
+      "char_end": 1833,
+      "text": "Entre nosotros, unos son judíos y otros no lo son. Algunos son esclavos, y otros son personas libres. Pero todos fuimos bautizados por el mismo Espíritu Santo, para formar una sola iglesia y un solo cuerpo. A cada uno de nosotros Dios nos dio el mismo Espíritu Santo."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1833,
+      "char_end": 1896,
+      "text": "El cuerpo no está formado por una sola parte, sino por muchas."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1896,
+      "char_end": 2033,
+      "text": "Si al pie se le ocurriera decir: Yo no soy del cuerpo, porque no soy mano, todos sabemos que no por eso dejaría de ser parte del cuerpo."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2033,
+      "char_end": 2143,
+      "text": "Y si la oreja dijera: Como yo no soy ojo, no soy del cuerpo, de todos modos seguiría siendo parte del cuerpo."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2143,
+      "char_end": 2241,
+      "text": "Si todo el cuerpo fuera ojo, no podríamos oír. Y si todo el cuerpo fuera oído, no podríamos oler."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2241,
+      "char_end": 2302,
+      "text": "Pero Dios puso cada parte del cuerpo en donde quiso ponerla."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2302,
+      "char_end": 2350,
+      "text": "Una sola parte del cuerpo no es todo el cuerpo."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2350,
+      "char_end": 2423,
+      "text": "Y aunque las partes del cuerpo pueden ser muchas, el cuerpo es uno solo."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2423,
+      "char_end": 2535,
+      "text": "El ojo no puede decirle a la mano: No te necesito. Tampoco la cabeza puede decirle a los pies: No los necesito."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2535,
+      "char_end": 2618,
+      "text": "Al contrario, las partes que nos parecen más débiles, son las que más necesitamos."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2618,
+      "char_end": 2776,
+      "text": "Y las partes que nos parecen menos importantes, son las que vestimos con mayor cuidado. Lo mismo hacemos con las partes del cuerpo que preferimos no mostrar."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2776,
+      "char_end": 2953,
+      "text": "En cambio, con las partes que mostramos no somos tan cuidadosos. Y es que Dios hizo el cuerpo de modo que le demos más importancia a las partes que consideramos de menos valor."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2953,
+      "char_end": 3038,
+      "text": "Así las partes del cuerpo se mantienen unidas y se preocupan las unas por las otras."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3038,
+      "char_end": 3198,
+      "text": "Cuando una parte del cuerpo sufre, también sufren todas las demás. Cuando se le da importancia a una parte del cuerpo, las partes restantes se ponen contentas."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3198,
+      "char_end": 3285,
+      "text": "Cada uno de ustedes es parte de la iglesia, y todos juntos forman el cuerpo de Cristo."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3285,
+      "char_end": 3622,
+      "text": "En la iglesia, Dios le dio una función a cada una de las partes. En primer lugar, puso apóstoles; en segundo lugar, puso profetas, y en tercer lugar, puso maestros. También hay algunos que hacen milagros, y otros que tienen la capacidad de sanar a los enfermos; algunos ayudan, otros dirigen, y aun otros hablan en idiomas desconocidos."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3622,
+      "char_end": 3703,
+      "text": "No todos son apóstoles, profetas o maestros. Tampoco todos pueden hacer milagros"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3703,
+      "char_end": 3823,
+      "text": "o curar enfermos. No todos pueden hablar idiomas desconocidos, ni todos pueden entender lo que se dice en esos idiomas."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3823,
+      "char_end": 3959,
+      "text": "Está muy bien que ustedes quieran recibir del Espíritu las mejores capacidades. Yo, por mi parte, voy a enseñarles algo más importante."
+    }
+  ],
+  "words": [
+    {
+      "word": "Queridos hermanos, quiero que sepan acerca de las capacidades que da el Espíritu Santo.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5800,
+      "duration_ms": 5700
+    },
+    {
+      "word": "Cuando ustedes aún no habían creído en Cristo, cometían el error de adorar ídolos que ni siquiera pueden hablar.",
+      "verse": 2,
+      "start_ms": 5750,
+      "end_ms": 12400,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Sólo quienes son guiados por el Espíritu Santo reconocen que Jesús es el Señor.",
+      "verse": 3,
+      "start_ms": 12400,
+      "end_ms": 17337,
+      "duration_ms": 4937
+    },
+    {
+      "word": "Por eso, quiero que entiendan que ninguna persona puede maldecir a Jesús, si es guiada por el Espíritu Santo.",
+      "verse": 3,
+      "start_ms": 17337,
+      "end_ms": 24287,
+      "duration_ms": 6950
+    },
+    {
+      "word": "Los que pertenecen a la iglesia pueden tener distintas capacidades, pero todas ellas las da el mismo Espíritu.",
+      "verse": 4,
+      "start_ms": 24287,
+      "end_ms": 31187,
+      "duration_ms": 6900
+    },
+    {
+      "word": "Se puede servir al Señor Jesús de distintas maneras, pero todos sirven al mismo Señor.",
+      "verse": 5,
+      "start_ms": 31187,
+      "end_ms": 37074,
+      "duration_ms": 5887
+    },
+    {
+      "word": "Se pueden realizar distintas actividades, pero es el mismo Dios quien da a cada uno la habilidad de hacerlas.",
+      "verse": 6,
+      "start_ms": 37075,
+      "end_ms": 44125,
+      "duration_ms": 7050
+    },
+    {
+      "word": "Dios nos enseña que, cuando el Espíritu Santo nos da alguna capacidad especial, lo hace para que procuremos el bien de los demás.",
+      "verse": 7,
+      "start_ms": 44125,
+      "end_ms": 52062,
+      "duration_ms": 7937
+    },
+    {
+      "word": "A algunos, el Espíritu les da la capacidad de hablar con sabiduría, a otros les da la capacidad de hablar con mucho conocimiento, a otros les da una gran confianza en Dios, y a otros les da el poder de sanar a los enfermos.",
+      "verse": 8,
+      "start_ms": 52062,
+      "end_ms": 65299,
+      "duration_ms": 13237
+    },
+    {
+      "word": "Algunos reciben el poder de hacer milagros, y otros reciben la autoridad de hablar de parte de Dios.",
+      "verse": 10,
+      "start_ms": 65300,
+      "end_ms": 71462,
+      "duration_ms": 6162
+    },
+    {
+      "word": "Unos tienen la capacidad de reconocer al Espíritu de Dios, y de descubrir a los espíritus falsos.",
+      "verse": 10,
+      "start_ms": 71462,
+      "end_ms": 77774,
+      "duration_ms": 6312
+    },
+    {
+      "word": "Algunos pueden hablar en idiomas desconocidos, y otros pueden entender lo que se dice en esos idiomas.",
+      "verse": 10,
+      "start_ms": 77775,
+      "end_ms": 84150,
+      "duration_ms": 6375
+    },
+    {
+      "word": "Pero es el Espíritu Santo mismo el que hace todo esto, y el que decide qué capacidad darle a cada uno.",
+      "verse": 11,
+      "start_ms": 84150,
+      "end_ms": 90812,
+      "duration_ms": 6662
+    },
+    {
+      "word": "La iglesia de Cristo es como el cuerpo humano.",
+      "verse": 12,
+      "start_ms": 90812,
+      "end_ms": 94024,
+      "duration_ms": 3212
+    },
+    {
+      "word": "Está compuesto de distintas partes, pero es un solo cuerpo.",
+      "verse": 12,
+      "start_ms": 94025,
+      "end_ms": 98412,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Entre nosotros, unos son judíos y otros no lo son.",
+      "verse": 13,
+      "start_ms": 98412,
+      "end_ms": 102562,
+      "duration_ms": 4150
+    },
+    {
+      "word": "Algunos son esclavos, y otros son personas libres.",
+      "verse": 13,
+      "start_ms": 102562,
+      "end_ms": 106512,
+      "duration_ms": 3950
+    },
+    {
+      "word": "Pero todos fuimos bautizados por el mismo Espíritu Santo, para formar una sola iglesia y un solo cuerpo.",
+      "verse": 13,
+      "start_ms": 106512,
+      "end_ms": 113187,
+      "duration_ms": 6675
+    },
+    {
+      "word": "A cada uno de nosotros Dios nos dio el mismo Espíritu Santo.",
+      "verse": 13,
+      "start_ms": 113187,
+      "end_ms": 117462,
+      "duration_ms": 4275
+    },
+    {
+      "word": "El cuerpo no está formado por una sola parte, sino por muchas.",
+      "verse": 14,
+      "start_ms": 117462,
+      "end_ms": 121924,
+      "duration_ms": 4462
+    },
+    {
+      "word": "Si al pie se le ocurriera decir: Yo no soy del cuerpo, porque no soy mano, todos sabemos que no por eso dejaría de ser parte del cuerpo.",
+      "verse": 15,
+      "start_ms": 121925,
+      "end_ms": 130387,
+      "duration_ms": 8462
+    },
+    {
+      "word": "Y si la oreja dijera: Como yo no soy ojo, no soy del cuerpo, de todos modos seguiría siendo parte del cuerpo.",
+      "verse": 16,
+      "start_ms": 130387,
+      "end_ms": 137837,
+      "duration_ms": 7450
+    },
+    {
+      "word": "Si todo el cuerpo fuera ojo, no podríamos oír.",
+      "verse": 17,
+      "start_ms": 137837,
+      "end_ms": 141737,
+      "duration_ms": 3900
+    },
+    {
+      "word": "Y si todo el cuerpo fuera oído, no podríamos oler.",
+      "verse": 17,
+      "start_ms": 141737,
+      "end_ms": 145724,
+      "duration_ms": 3987
+    },
+    {
+      "word": "Pero Dios puso cada parte del cuerpo en donde quiso ponerla.",
+      "verse": 18,
+      "start_ms": 145725,
+      "end_ms": 149725,
+      "duration_ms": 4000
+    },
+    {
+      "word": "Una sola parte del cuerpo no es todo el cuerpo.",
+      "verse": 19,
+      "start_ms": 149725,
+      "end_ms": 153150,
+      "duration_ms": 3425
+    },
+    {
+      "word": "Y aunque las partes del cuerpo pueden ser muchas, el cuerpo es uno solo.",
+      "verse": 20,
+      "start_ms": 153150,
+      "end_ms": 157937,
+      "duration_ms": 4787
+    },
+    {
+      "word": "El ojo no puede decirle a la mano: No te necesito.",
+      "verse": 21,
+      "start_ms": 157937,
+      "end_ms": 161849,
+      "duration_ms": 3912
+    },
+    {
+      "word": "Tampoco la cabeza puede decirle a los pies: No los necesito.",
+      "verse": 21,
+      "start_ms": 161850,
+      "end_ms": 166275,
+      "duration_ms": 4425
+    },
+    {
+      "word": "Al contrario, las partes que nos parecen más débiles, son las que más necesitamos.",
+      "verse": 22,
+      "start_ms": 166275,
+      "end_ms": 172112,
+      "duration_ms": 5837
+    },
+    {
+      "word": "Y las partes que nos parecen menos importantes, son las que vestimos con mayor cuidado.",
+      "verse": 23,
+      "start_ms": 172112,
+      "end_ms": 177612,
+      "duration_ms": 5500
+    },
+    {
+      "word": "Lo mismo hacemos con las partes del cuerpo que preferimos no mostrar.",
+      "verse": 23,
+      "start_ms": 177612,
+      "end_ms": 181912,
+      "duration_ms": 4300
+    },
+    {
+      "word": "En cambio, con las partes que mostramos no somos tan cuidadosos.",
+      "verse": 24,
+      "start_ms": 181912,
+      "end_ms": 186637,
+      "duration_ms": 4725
+    },
+    {
+      "word": "Y es que Dios hizo el cuerpo de modo que le demos más importancia a las partes que consideramos de menos valor.",
+      "verse": 24,
+      "start_ms": 186637,
+      "end_ms": 193087,
+      "duration_ms": 6450
+    },
+    {
+      "word": "Así las partes del cuerpo se mantienen unidas y se preocupan las unas por las otras.",
+      "verse": 25,
+      "start_ms": 193087,
+      "end_ms": 198262,
+      "duration_ms": 5175
+    },
+    {
+      "word": "Cuando una parte del cuerpo sufre, también sufren todas las demás.",
+      "verse": 26,
+      "start_ms": 198262,
+      "end_ms": 202887,
+      "duration_ms": 4625
+    },
+    {
+      "word": "Cuando se le da importancia a una parte del cuerpo, las partes restantes se ponen contentas.",
+      "verse": 26,
+      "start_ms": 202887,
+      "end_ms": 208737,
+      "duration_ms": 5850
+    },
+    {
+      "word": "Cada uno de ustedes es parte de la iglesia, y todos juntos forman el cuerpo de Cristo.",
+      "verse": 27,
+      "start_ms": 208737,
+      "end_ms": 214587,
+      "duration_ms": 5850
+    },
+    {
+      "word": "En la iglesia, Dios le dio una función a cada una de las partes.",
+      "verse": 28,
+      "start_ms": 214587,
+      "end_ms": 219212,
+      "duration_ms": 4625
+    },
+    {
+      "word": "En primer lugar, puso apóstoles; en segundo lugar, puso profetas, y en tercer lugar, puso maestros.",
+      "verse": 28,
+      "start_ms": 219212,
+      "end_ms": 226937,
+      "duration_ms": 7725
+    },
+    {
+      "word": "También hay algunos que hacen milagros, y otros que tienen la capacidad de sanar a los enfermos; algunos ayudan, otros dirigen, y aun otros hablan en idiomas desconocidos.",
+      "verse": 28,
+      "start_ms": 226937,
+      "end_ms": 237624,
+      "duration_ms": 10687
+    },
+    {
+      "word": "No todos son apóstoles, profetas o maestros.",
+      "verse": 29,
+      "start_ms": 237625,
+      "end_ms": 241612,
+      "duration_ms": 3987
+    },
+    {
+      "word": "Tampoco todos pueden hacer milagros o curar enfermos.",
+      "verse": 29,
+      "start_ms": 241612,
+      "end_ms": 245524,
+      "duration_ms": 3912
+    },
+    {
+      "word": "No todos pueden hablar idiomas desconocidos, ni todos pueden entender lo que se dice en esos idiomas.",
+      "verse": 30,
+      "start_ms": 245525,
+      "end_ms": 252050,
+      "duration_ms": 6525
+    },
+    {
+      "word": "Está muy bien que ustedes quieran recibir del Espíritu las mejores capacidades.",
+      "verse": 31,
+      "start_ms": 252050,
+      "end_ms": 257187,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Yo, por mi parte, voy a enseñarles algo más importante.",
+      "verse": 31,
+      "start_ms": 257187,
+      "end_ms": 261787,
+      "duration_ms": 4600
+    }
+  ]
+}

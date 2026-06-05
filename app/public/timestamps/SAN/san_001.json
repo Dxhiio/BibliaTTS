@@ -1,0 +1,418 @@
+{
+  "book": "SAN",
+  "chapter": 1,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 24,
+  "word_count": 34,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 131,
+      "text": "Yo, Santiago, estoy al servicio de Dios y del Señor Jesucristo, y les envío un saludo a los cristianos que viven en todo el mundo."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 131,
+      "char_end": 231,
+      "text": "Hermanos en Cristo, ustedes deben sentirse muy felices cuando pasen por toda clase de dificultades."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 231,
+      "char_end": 348,
+      "text": "Así, cuando su confianza en Dios sea puesta a prueba, ustedes aprenderán a soportar con más fuerza las dificultades."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 348,
+      "char_end": 465,
+      "text": "Por lo tanto, deben resistir la prueba hasta el final, para que sean mejores y puedan obedecer lo que se les ordene."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 465,
+      "char_end": 585,
+      "text": "Si alguno de ustedes no tiene sabiduría, pídasela a Dios. Él se la da a todos en abundancia, sin echarles nada en cara."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 585,
+      "char_end": 734,
+      "text": "Eso sí, debe pedirla con la seguridad de que Dios se la dará. Porque los que dudan son como las olas del mar, que el viento lleva de un lado a otro."
+    },
+    {
+      "verse": 7,
+      "label": "7-8",
+      "char_start": 734,
+      "char_end": 827,
+      "text": "La gente que no es confiable ni capaz de tomar buenas decisiones no recibirá nada del Señor."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 827,
+      "char_end": 914,
+      "text": "Si alguno de ustedes es pobre, debe sentirse orgulloso de lo mucho que vale ante Dios."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 914,
+      "char_end": 1042,
+      "text": "Si alguno es rico, debe sentirse feliz cuando Dios lo humille, pues las riquezas duran muy poco; son como las flores del campo."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1042,
+      "char_end": 1202,
+      "text": "Cuando hace mucho calor, las plantas se secan; entonces sus flores se marchitan y pierden su belleza. Lo mismo pasa con el rico: ni él ni sus riquezas durarán."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1202,
+      "char_end": 1382,
+      "text": "Al que soporta las dificultades, Dios lo bendice y, cuando las supera, le da el premio y el honor más grande que puede recibir: la vida eterna, que ha prometido a quienes lo aman."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1382,
+      "char_end": 1524,
+      "text": "Cuando ustedes sean tentados a hacer lo malo, no le echen la culpa a Dios, porque él no puede ser tentado, ni tienta a nadie a hacer lo malo."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1524,
+      "char_end": 1622,
+      "text": "Al contrario, cuando somos tentados, son nuestros propios deseos los que nos arrastran y dominan."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1622,
+      "char_end": 1746,
+      "text": "Los malos deseos nos llevan a pecar; y cuando vivimos sólo para hacer lo malo, lo único que nos espera es la muerte eterna."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1746,
+      "char_end": 1816,
+      "text": "Mis queridos hermanos, no sean tontos ni se engañen a ustedes mismos."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1816,
+      "char_end": 1938,
+      "text": "Dios nunca cambia. Fue Dios quien creó todas las estrellas del cielo, y es quien nos da todo lo bueno y todo lo perfecto."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1938,
+      "char_end": 2052,
+      "text": "Además, quiso que fuéramos sus hijos. Por eso, por medio de la buena noticia de salvación nos dio una vida nueva."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2052,
+      "char_end": 2226,
+      "text": "Mis queridos hermanos, pongan atención a esto que les voy a decir: todos deben estar siempre dispuestos a escuchar a los demás, pero no dispuestos a enojarse y hablar mucho."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2226,
+      "char_end": 2286,
+      "text": "Porque la gente violenta no puede hacer lo que Dios quiere."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2286,
+      "char_end": 2513,
+      "text": "Por eso, dejen de hacer lo malo, pues ya hay mucha maldad en el mundo. Hacer lo malo es como andar vestido con ropa sucia. Más bien, reciban con humildad el mensaje que Dios les ha dado. Ese mensaje tiene poder para salvarlos."
+    },
+    {
+      "verse": 22,
+      "label": "22-24",
+      "char_start": 2513,
+      "char_end": 2711,
+      "text": "¡Obedezcan el mensaje de Dios! Si lo escuchan, pero no lo obedecen, se engañan a ustedes mismos y les pasará lo mismo que a quien se mira en un espejo: tan pronto como se va, se olvida de cómo era."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2711,
+      "char_end": 2908,
+      "text": "Por el contrario, si ustedes ponen toda su atención en la palabra de Dios, y la obedecen siempre, serán felices en todo lo que hagan. Porque la palabra de Dios es perfecta y los libera del pecado."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2908,
+      "char_end": 3022,
+      "text": "Si alguien se cree muy santo y no cuida sus palabras, se engaña a sí mismo y de nada le sirve tanta religiosidad."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3022,
+      "char_end": 3173,
+      "text": "Creer en Dios el Padre es agradarlo y hacer el bien, ayudar a las viudas y a los huérfanos cuando sufren, y no dejarse vencer por la maldad del mundo."
+    }
+  ],
+  "words": [
+    {
+      "word": "Yo, Santiago, estoy al servicio de Dios y del Señor Jesucristo, y les envío un saludo a los cristianos que viven en todo el mundo.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 8462,
+      "duration_ms": 8362
+    },
+    {
+      "word": "Hermanos en Cristo, ustedes deben sentirse muy felices cuando pasen por toda clase de dificultades.",
+      "verse": 2,
+      "start_ms": 8412,
+      "end_ms": 14937,
+      "duration_ms": 6525
+    },
+    {
+      "word": "Así, cuando su confianza en Dios sea puesta a prueba, ustedes aprenderán a soportar con más fuerza las dificultades.",
+      "verse": 3,
+      "start_ms": 14937,
+      "end_ms": 22224,
+      "duration_ms": 7287
+    },
+    {
+      "word": "Por lo tanto, deben resistir la prueba hasta el final, para que sean mejores y puedan obedecer lo que se les ordene.",
+      "verse": 4,
+      "start_ms": 22225,
+      "end_ms": 29012,
+      "duration_ms": 6787
+    },
+    {
+      "word": "Si alguno de ustedes no tiene sabiduría, pídasela a Dios.",
+      "verse": 5,
+      "start_ms": 29012,
+      "end_ms": 33599,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Él se la da a todos en abundancia, sin echarles nada en cara.",
+      "verse": 5,
+      "start_ms": 33600,
+      "end_ms": 38225,
+      "duration_ms": 4625
+    },
+    {
+      "word": "Eso sí, debe pedirla con la seguridad de que Dios se la dará.",
+      "verse": 6,
+      "start_ms": 38225,
+      "end_ms": 42700,
+      "duration_ms": 4475
+    },
+    {
+      "word": "Porque los que dudan son como las olas del mar, que el viento lleva de un lado a otro.",
+      "verse": 6,
+      "start_ms": 42700,
+      "end_ms": 48037,
+      "duration_ms": 5337
+    },
+    {
+      "word": "La gente que no es confiable ni capaz de tomar buenas decisiones no recibirá nada del Señor.",
+      "verse": 7,
+      "start_ms": 48037,
+      "end_ms": 53762,
+      "duration_ms": 5725
+    },
+    {
+      "word": "Si alguno de ustedes es pobre, debe sentirse orgulloso de lo mucho que vale ante Dios.",
+      "verse": 9,
+      "start_ms": 53762,
+      "end_ms": 59349,
+      "duration_ms": 5587
+    },
+    {
+      "word": "Si alguno es rico, debe sentirse feliz cuando Dios lo humille, pues las riquezas duran muy poco; son como las flores del campo.",
+      "verse": 10,
+      "start_ms": 59350,
+      "end_ms": 67425,
+      "duration_ms": 8075
+    },
+    {
+      "word": "Cuando hace mucho calor, las plantas se secan; entonces sus flores se marchitan y pierden su belleza.",
+      "verse": 11,
+      "start_ms": 67425,
+      "end_ms": 73837,
+      "duration_ms": 6412
+    },
+    {
+      "word": "Lo mismo pasa con el rico: ni él ni sus riquezas durarán.",
+      "verse": 11,
+      "start_ms": 73837,
+      "end_ms": 78174,
+      "duration_ms": 4337
+    },
+    {
+      "word": "Al que soporta las dificultades, Dios lo bendice y, cuando las supera, le da el premio y el honor más grande que puede recibir: la vida eterna, que ha prometido a quienes lo aman.",
+      "verse": 12,
+      "start_ms": 78175,
+      "end_ms": 89350,
+      "duration_ms": 11175
+    },
+    {
+      "word": "Cuando ustedes sean tentados a hacer lo malo, no le echen la culpa a Dios, porque él no puede ser tentado, ni tienta a nadie a hacer lo malo.",
+      "verse": 13,
+      "start_ms": 89350,
+      "end_ms": 97737,
+      "duration_ms": 8387
+    },
+    {
+      "word": "Al contrario, cuando somos tentados, son nuestros propios deseos los que nos arrastran y dominan.",
+      "verse": 14,
+      "start_ms": 97737,
+      "end_ms": 104049,
+      "duration_ms": 6312
+    },
+    {
+      "word": "Los malos deseos nos llevan a pecar; y cuando vivimos sólo para hacer lo malo, lo único que nos espera es la muerte eterna.",
+      "verse": 15,
+      "start_ms": 104050,
+      "end_ms": 111475,
+      "duration_ms": 7425
+    },
+    {
+      "word": "Mis queridos hermanos, no sean tontos ni se engañen a ustedes mismos.",
+      "verse": 16,
+      "start_ms": 111475,
+      "end_ms": 116500,
+      "duration_ms": 5025
+    },
+    {
+      "word": "Dios nunca cambia.",
+      "verse": 17,
+      "start_ms": 116500,
+      "end_ms": 118650,
+      "duration_ms": 2150
+    },
+    {
+      "word": "Fue Dios quien creó todas las estrellas del cielo, y es quien nos da todo lo bueno y todo lo perfecto.",
+      "verse": 17,
+      "start_ms": 118650,
+      "end_ms": 125100,
+      "duration_ms": 6450
+    },
+    {
+      "word": "Además, quiso que fuéramos sus hijos.",
+      "verse": 18,
+      "start_ms": 125100,
+      "end_ms": 128400,
+      "duration_ms": 3300
+    },
+    {
+      "word": "Por eso, por medio de la buena noticia de salvación nos dio una vida nueva.",
+      "verse": 18,
+      "start_ms": 128400,
+      "end_ms": 133262,
+      "duration_ms": 4862
+    },
+    {
+      "word": "Mis queridos hermanos, pongan atención a esto que les voy a decir: todos deben estar siempre dispuestos a escuchar a los demás, pero no dispuestos a enojarse y hablar mucho.",
+      "verse": 19,
+      "start_ms": 133262,
+      "end_ms": 143424,
+      "duration_ms": 10162
+    },
+    {
+      "word": "Porque la gente violenta no puede hacer lo que Dios quiere.",
+      "verse": 20,
+      "start_ms": 143425,
+      "end_ms": 146937,
+      "duration_ms": 3512
+    },
+    {
+      "word": "Por eso, dejen de hacer lo malo, pues ya hay mucha maldad en el mundo.",
+      "verse": 21,
+      "start_ms": 146937,
+      "end_ms": 151762,
+      "duration_ms": 4825
+    },
+    {
+      "word": "Hacer lo malo es como andar vestido con ropa sucia.",
+      "verse": 21,
+      "start_ms": 151762,
+      "end_ms": 155399,
+      "duration_ms": 3637
+    },
+    {
+      "word": "Más bien, reciban con humildad el mensaje que Dios les ha dado.",
+      "verse": 21,
+      "start_ms": 155400,
+      "end_ms": 159825,
+      "duration_ms": 4425
+    },
+    {
+      "word": "Ese mensaje tiene poder para salvarlos.",
+      "verse": 21,
+      "start_ms": 159825,
+      "end_ms": 163000,
+      "duration_ms": 3175
+    },
+    {
+      "word": "Obedezcan el mensaje de Dios!",
+      "verse": 22,
+      "start_ms": 163000,
+      "end_ms": 165637,
+      "duration_ms": 2637
+    },
+    {
+      "word": "Si lo escuchan, pero no lo obedecen, se engañan a ustedes mismos y les pasará lo mismo que a quien se mira en un espejo: tan pronto como se va, se olvida de cómo era.",
+      "verse": 22,
+      "start_ms": 165637,
+      "end_ms": 175849,
+      "duration_ms": 10212
+    },
+    {
+      "word": "Por el contrario, si ustedes ponen toda su atención en la palabra de Dios, y la obedecen siempre, serán felices en todo lo que hagan.",
+      "verse": 25,
+      "start_ms": 175850,
+      "end_ms": 184237,
+      "duration_ms": 8387
+    },
+    {
+      "word": "Porque la palabra de Dios es perfecta y los libera del pecado.",
+      "verse": 25,
+      "start_ms": 184237,
+      "end_ms": 188237,
+      "duration_ms": 4000
+    },
+    {
+      "word": "Si alguien se cree muy santo y no cuida sus palabras, se engaña a sí mismo y de nada le sirve tanta religiosidad.",
+      "verse": 26,
+      "start_ms": 188237,
+      "end_ms": 195637,
+      "duration_ms": 7400
+    },
+    {
+      "word": "Creer en Dios el Padre es agradarlo y hacer el bien, ayudar a las viudas y a los huérfanos cuando sufren, y no dejarse vencer por la maldad del mundo.",
+      "verse": 27,
+      "start_ms": 195637,
+      "end_ms": 204199,
+      "duration_ms": 8562
+    }
+  ]
+}

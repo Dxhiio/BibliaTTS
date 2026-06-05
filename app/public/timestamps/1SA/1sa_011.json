@@ -1,0 +1,285 @@
+{
+  "book": "1SA",
+  "chapter": 11,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 13,
+  "word_count": 26,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 285,
+      "text": "Un hombre llamado Nahas, jefe de los amonitas, se preparó para atacar la ciudad israelita de Jabés de Galaad. La rodeó con su ejército, pero los habitantes de la ciudad le mandaron a decir: No queremos guerra. Preferimos hacer un arreglo contigo, aunque tengamos que ser tus esclavos."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 285,
+      "char_end": 434,
+      "text": "Nahas les contestó: Acepto el arreglo, con la condición de que me dejen sacarle el ojo derecho a cada uno de ustedes. Así me burlaré de todo Israel."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 434,
+      "char_end": 608,
+      "text": "Los representantes de Jabés le pidieron un plazo de siete días para enviar mensajeros por todo Israel y pedir ayuda. Se comprometieron a rendirse si nadie venía en su ayuda."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 608,
+      "char_end": 731,
+      "text": "Cuando los mensajeros dieron la mala noticia en Guibeá, que era donde vivía Saúl, toda la gente comenzó a llorar a gritos."
+    },
+    {
+      "verse": 5,
+      "label": "5-6",
+      "char_start": 731,
+      "char_end": 979,
+      "text": "En ese momento Saúl volvía del campo, donde había estado preparando el terreno para la siembra, y preguntó: ¿Qué le pasa a la gente? ¿Por qué llora? Cuando le contaron lo que pasaba en Jabés, el espíritu de Dios vino sobre él, y Saúl se enfureció."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 979,
+      "char_end": 1292,
+      "text": "Tomó entonces dos toros y los partió en pedazos, luego envió mensajeros por todo Israel, con los pedazos de los toros y con este mensaje: Así despedazaré el ganado de quienes no se unan a mí y a Samuel en esta guerra. Dios hizo que los israelitas se llenaran de miedo, así que todos se prepararon para la guerra."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1292,
+      "char_end": 1377,
+      "text": "Cuando Saúl los contó, eran trescientos mil hombres de Israel y treinta mil de Judá."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1377,
+      "char_end": 1560,
+      "text": "Entonces mandaron este mensaje a los de Jabés de Galaad: Mañana al mediodía llegaremos para librarlos de los amonitas. La gente de Jabés se puso muy contenta al recibir este mensaje,"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1560,
+      "char_end": 1682,
+      "text": "pero a los amonitas los engañaron diciéndoles: Mañana nos rendiremos, y ustedes podrán hacer con nosotros lo que quieran."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1682,
+      "char_end": 1954,
+      "text": "Al día siguiente, Saúl dividió su ejército en tres grupos. Cuando ya estaba por amanecer, atacaron el campamento de los amonitas. La batalla duró hasta el mediodía, y los israelitas mataron a muchos de ellos. Los amonitas que quedaron vivos huyeron, cada uno por su lado."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1954,
+      "char_end": 2088,
+      "text": "Entonces Samuel dijo al pueblo: Traigan a los que se burlaron de Saúl. Como no querían que Saúl fuera nuestro rey, los vamos a matar."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 2088,
+      "char_end": 2196,
+      "text": "Pero Saúl dijo: Por esta vez no vamos a matar a nadie, porque hoy Dios nos ha librado de nuestros enemigos."
+    },
+    {
+      "verse": 14,
+      "label": "14-15",
+      "char_start": 2196,
+      "char_end": 2375,
+      "text": "Luego Samuel le dijo a la gente: Vengan, vamos a Guilgal. Hagamos una fiesta, pues ya tenemos rey. Toda la gente se fue a la fiesta, y allí le presentaron a Dios ofrendas de paz."
+    }
+  ],
+  "words": [
+    {
+      "word": "Un hombre llamado Nahas, jefe de los amonitas, se preparó para atacar la ciudad israelita de Jabés de Galaad.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7250,
+      "duration_ms": 7150
+    },
+    {
+      "word": "La rodeó con su ejército, pero los habitantes de la ciudad le mandaron a decir: No queremos guerra.",
+      "verse": 1,
+      "start_ms": 7200,
+      "end_ms": 13462,
+      "duration_ms": 6262
+    },
+    {
+      "word": "Preferimos hacer un arreglo contigo, aunque tengamos que ser tus esclavos.",
+      "verse": 1,
+      "start_ms": 13462,
+      "end_ms": 18337,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Nahas les contestó: Acepto el arreglo, con la condición de que me dejen sacarle el ojo derecho a cada uno de ustedes.",
+      "verse": 2,
+      "start_ms": 18337,
+      "end_ms": 25987,
+      "duration_ms": 7650
+    },
+    {
+      "word": "Así me burlaré de todo Israel.",
+      "verse": 2,
+      "start_ms": 25987,
+      "end_ms": 28812,
+      "duration_ms": 2825
+    },
+    {
+      "word": "Los representantes de Jabés le pidieron un plazo de siete días para enviar mensajeros por todo Israel y pedir ayuda.",
+      "verse": 3,
+      "start_ms": 28812,
+      "end_ms": 35462,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Se comprometieron a rendirse si nadie venía en su ayuda.",
+      "verse": 3,
+      "start_ms": 35462,
+      "end_ms": 39424,
+      "duration_ms": 3962
+    },
+    {
+      "word": "Cuando los mensajeros dieron la mala noticia en Guibeá, que era donde vivía Saúl, toda la gente comenzó a llorar a gritos.",
+      "verse": 4,
+      "start_ms": 39425,
+      "end_ms": 47062,
+      "duration_ms": 7637
+    },
+    {
+      "word": "En ese momento Saúl volvía del campo, donde había estado preparando el terreno para la siembra, y preguntó: ¿Qué le pasa a la gente?",
+      "verse": 5,
+      "start_ms": 47062,
+      "end_ms": 55237,
+      "duration_ms": 8175
+    },
+    {
+      "word": "Por qué llora?",
+      "verse": 5,
+      "start_ms": 55237,
+      "end_ms": 56949,
+      "duration_ms": 1712
+    },
+    {
+      "word": "Cuando le contaron lo que pasaba en Jabés, el espíritu de Dios vino sobre él, y Saúl se enfureció.",
+      "verse": 5,
+      "start_ms": 56950,
+      "end_ms": 63425,
+      "duration_ms": 6475
+    },
+    {
+      "word": "Tomó entonces dos toros y los partió en pedazos, luego envió mensajeros por todo Israel, con los pedazos de los toros y con este mensaje: Así despedazaré el ganado de quienes no se unan a mí y a Samuel en esta guerra.",
+      "verse": 7,
+      "start_ms": 63425,
+      "end_ms": 76275,
+      "duration_ms": 12850
+    },
+    {
+      "word": "Dios hizo que los israelitas se llenaran de miedo, así que todos se prepararon para la guerra.",
+      "verse": 7,
+      "start_ms": 76275,
+      "end_ms": 81987,
+      "duration_ms": 5712
+    },
+    {
+      "word": "Cuando Saúl los contó, eran trescientos mil hombres de Israel y treinta mil de Judá.",
+      "verse": 8,
+      "start_ms": 81987,
+      "end_ms": 87199,
+      "duration_ms": 5212
+    },
+    {
+      "word": "Entonces mandaron este mensaje a los de Jabés de Galaad: Mañana al mediodía llegaremos para librarlos de los amonitas.",
+      "verse": 9,
+      "start_ms": 87200,
+      "end_ms": 94600,
+      "duration_ms": 7400
+    },
+    {
+      "word": "La gente de Jabés se puso muy contenta al recibir este mensaje, pero a los amonitas los engañaron diciéndoles: Mañana nos rendiremos, y ustedes podrán hacer con nosotros lo que quieran.",
+      "verse": 9,
+      "start_ms": 94600,
+      "end_ms": 105462,
+      "duration_ms": 10862
+    },
+    {
+      "word": "Al día siguiente, Saúl dividió su ejército en tres grupos.",
+      "verse": 11,
+      "start_ms": 105462,
+      "end_ms": 109899,
+      "duration_ms": 4437
+    },
+    {
+      "word": "Cuando ya estaba por amanecer, atacaron el campamento de los amonitas.",
+      "verse": 11,
+      "start_ms": 109900,
+      "end_ms": 114787,
+      "duration_ms": 4887
+    },
+    {
+      "word": "La batalla duró hasta el mediodía, y los israelitas mataron a muchos de ellos.",
+      "verse": 11,
+      "start_ms": 114787,
+      "end_ms": 120274,
+      "duration_ms": 5487
+    },
+    {
+      "word": "Los amonitas que quedaron vivos huyeron, cada uno por su lado.",
+      "verse": 11,
+      "start_ms": 120275,
+      "end_ms": 124787,
+      "duration_ms": 4512
+    },
+    {
+      "word": "Entonces Samuel dijo al pueblo: Traigan a los que se burlaron de Saúl.",
+      "verse": 12,
+      "start_ms": 124787,
+      "end_ms": 129499,
+      "duration_ms": 4712
+    },
+    {
+      "word": "Como no querían que Saúl fuera nuestro rey, los vamos a matar.",
+      "verse": 12,
+      "start_ms": 129500,
+      "end_ms": 133787,
+      "duration_ms": 4287
+    },
+    {
+      "word": "Pero Saúl dijo: Por esta vez no vamos a matar a nadie, porque hoy Dios nos ha librado de nuestros enemigos.",
+      "verse": 13,
+      "start_ms": 133787,
+      "end_ms": 140824,
+      "duration_ms": 7037
+    },
+    {
+      "word": "Luego Samuel le dijo a la gente: Vengan, vamos a Guilgal.",
+      "verse": 14,
+      "start_ms": 140825,
+      "end_ms": 145325,
+      "duration_ms": 4500
+    },
+    {
+      "word": "Hagamos una fiesta, pues ya tenemos rey.",
+      "verse": 14,
+      "start_ms": 145325,
+      "end_ms": 148575,
+      "duration_ms": 3250
+    },
+    {
+      "word": "Toda la gente se fue a la fiesta, y allí le presentaron a Dios ofrendas de paz.",
+      "verse": 14,
+      "start_ms": 148575,
+      "end_ms": 153850,
+      "duration_ms": 5275
+    }
+  ]
+}

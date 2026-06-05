@@ -1,0 +1,453 @@
+{
+  "book": "NUM",
+  "chapter": 2,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 9,
+  "word_count": 54,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 34,
+      "text": "Dios les dijo a Moisés y a Aarón:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 34,
+      "char_end": 167,
+      "text": "Los israelitas deberán acampar a cierta distancia, alrededor del santuario, cada uno con su propia bandera y con su escudo familiar."
+    },
+    {
+      "verse": 3,
+      "label": "3-9",
+      "char_start": 167,
+      "char_end": 840,
+      "text": "Al este del santuario la tribu de Judá. Su jefe militar es Nahasón hijo de Aminadab. Según la cuenta que se hizo, sus tropas suman setenta y cuatro mil seiscientos soldados. A la derecha de la tribu de Judá acampará la tribu de Isacar. Su jefe militar es Natanael hijo de Suar. Sus tropas suman cincuenta y cuatro mil cuatrocientos soldados. A la izquierda de Judá acampará la tribu de Zabulón. Su jefe militar es Eliab hijo de Helón. Sus tropas suman cincuenta y siete mil cuatrocientos soldados. Las tropas de estas tribus seguirán la bandera de Judá. Juntas suman ciento ochenta y seis mil cuatrocientos soldados. Todos ellos marcharán al frente del ejército israelita."
+    },
+    {
+      "verse": 10,
+      "label": "10-17",
+      "char_start": 840,
+      "char_end": 1577,
+      "text": "Al sur acampará la tribu de Rubén. Su jefe militar es Elisur hijo de Sedeúr. Según la cuenta que se hizo, sus tropas suman cuarenta y seis mil quinientos soldados. A la derecha de la tribu de Rubén acampará la tribu de Simeón. Su jefe militar es Selumiel hijo de Surisadai. Sus tropas suman cincuenta y nueve mil trescientos soldados. A la izquierda de Rubén acampará la tribu de Gad. Su jefe militar es Eliasaf hijo de Reuel. Sus tropas suman cuarenta y cinco mil seiscientos cincuenta soldados. Las tropas de estas tribus seguirán la bandera de Rubén. Juntas suman ciento cincuenta y un mil cuatrocientos cincuenta soldados. Todos ellos marcharán en segundo lugar. Detrás de ellos marcharán los descendientes de Leví con el santuario."
+    },
+    {
+      "verse": 18,
+      "label": "18-24",
+      "char_start": 1577,
+      "char_end": 2206,
+      "text": "Al oeste acampará la tribu de Efraín. Su jefe militar es Elisamá hijo de Amihud. Según la cuenta que se hizo, sus tropas suman cuarenta mil quinientos soldados. A la derecha de la tribu de Efraín acampará la tribu de Manasés. Su jefe militar es Gamaliel, hijo de Pedasur. Sus tropas suman treinta y dos mil doscientos soldados. A la izquierda de Efraín acampará la tribu de Benjamín. Su jefe militar es Abidán hijo de Guidoní. Sus tropas suman treinta y cinco mil cuatrocientos soldados. Las tropas de estas tribus seguirán la bandera de Efraín. Juntas suman ciento ocho mil cien soldados. Todos ellos marcharán en tercer lugar."
+    },
+    {
+      "verse": 25,
+      "label": "25-31",
+      "char_start": 2206,
+      "char_end": 2840,
+      "text": "Al norte acampará la tribu de Dan. Su jefe militar es Ahiézer hijo de Amisadai. Según la cuenta que se hizo, sus tropas suman sesenta y dos mil setecientos soldados. A la derecha de la tribu de Dan acampará la tribu de Aser. Su jefe militar es Paguiel hijo de Ocrán. Sus tropas suman cuarenta y un mil quinientos soldados. A la izquierda de Dan acampará la tribu de Neftalí. Su jefe militar es Ahirá hijo de Enán. Sus tropas suman cincuenta y tres mil cuatrocientos soldados. Las tropas de estas tribus seguirán la bandera de Dan. Juntas suman ciento cincuenta y siete mil seiscientos soldados. Todos ellos marcharán en último lugar."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2840,
+      "char_end": 2972,
+      "text": "Cuando se contaron las familias israelitas, entre todas formaron un ejército de seiscientos tres mil quinientos cincuenta soldados."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 2972,
+      "char_end": 3050,
+      "text": "Dios le había ordenado a Moisés que no incluyera a los descendientes de Leví."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3050,
+      "char_end": 3212,
+      "text": "Los israelitas obedecieron todo lo que Dios le había ordenado a Moisés. Cada uno acampó bajo su propia bandera, y marchó con su propia familia y su propia tribu."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios les dijo a Moisés y a Aarón: Los israelitas deberán acampar a cierta distancia, alrededor del santuario, cada uno con su propia bandera y con su escudo familiar.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 10537,
+      "duration_ms": 10437
+    },
+    {
+      "word": "Al este del santuario la tribu de Judá.",
+      "verse": 3,
+      "start_ms": 10487,
+      "end_ms": 13549,
+      "duration_ms": 3062
+    },
+    {
+      "word": "Su jefe militar es Nahasón hijo de Aminadab.",
+      "verse": 3,
+      "start_ms": 13550,
+      "end_ms": 16837,
+      "duration_ms": 3287
+    },
+    {
+      "word": "Según la cuenta que se hizo, sus tropas suman setenta y cuatro mil seiscientos soldados.",
+      "verse": 3,
+      "start_ms": 16837,
+      "end_ms": 22637,
+      "duration_ms": 5800
+    },
+    {
+      "word": "A la derecha de la tribu de Judá acampará la tribu de Isacar.",
+      "verse": 3,
+      "start_ms": 22637,
+      "end_ms": 26849,
+      "duration_ms": 4212
+    },
+    {
+      "word": "Su jefe militar es Natanael hijo de Suar.",
+      "verse": 3,
+      "start_ms": 26850,
+      "end_ms": 30212,
+      "duration_ms": 3362
+    },
+    {
+      "word": "Sus tropas suman cincuenta y cuatro mil cuatrocientos soldados.",
+      "verse": 3,
+      "start_ms": 30212,
+      "end_ms": 34487,
+      "duration_ms": 4275
+    },
+    {
+      "word": "A la izquierda de Judá acampará la tribu de Zabulón.",
+      "verse": 3,
+      "start_ms": 34487,
+      "end_ms": 38162,
+      "duration_ms": 3675
+    },
+    {
+      "word": "Su jefe militar es Eliab hijo de Helón.",
+      "verse": 3,
+      "start_ms": 38162,
+      "end_ms": 41212,
+      "duration_ms": 3050
+    },
+    {
+      "word": "Sus tropas suman cincuenta y siete mil cuatrocientos soldados.",
+      "verse": 3,
+      "start_ms": 41212,
+      "end_ms": 45462,
+      "duration_ms": 4250
+    },
+    {
+      "word": "Las tropas de estas tribus seguirán la bandera de Judá.",
+      "verse": 3,
+      "start_ms": 45462,
+      "end_ms": 49187,
+      "duration_ms": 3725
+    },
+    {
+      "word": "Juntas suman ciento ochenta y seis mil cuatrocientos soldados.",
+      "verse": 3,
+      "start_ms": 49187,
+      "end_ms": 53337,
+      "duration_ms": 4150
+    },
+    {
+      "word": "Todos ellos marcharán al frente del ejército israelita.",
+      "verse": 3,
+      "start_ms": 53337,
+      "end_ms": 57224,
+      "duration_ms": 3887
+    },
+    {
+      "word": "Al sur acampará la tribu de Rubén.",
+      "verse": 10,
+      "start_ms": 57225,
+      "end_ms": 60075,
+      "duration_ms": 2850
+    },
+    {
+      "word": "Su jefe militar es Elisur hijo de Sedeúr.",
+      "verse": 10,
+      "start_ms": 60075,
+      "end_ms": 63400,
+      "duration_ms": 3325
+    },
+    {
+      "word": "Según la cuenta que se hizo, sus tropas suman cuarenta y seis mil quinientos soldados.",
+      "verse": 10,
+      "start_ms": 63400,
+      "end_ms": 68975,
+      "duration_ms": 5575
+    },
+    {
+      "word": "A la derecha de la tribu de Rubén acampará la tribu de Simeón.",
+      "verse": 10,
+      "start_ms": 68975,
+      "end_ms": 73087,
+      "duration_ms": 4112
+    },
+    {
+      "word": "Su jefe militar es Selumiel hijo de Surisadai.",
+      "verse": 10,
+      "start_ms": 73087,
+      "end_ms": 76599,
+      "duration_ms": 3512
+    },
+    {
+      "word": "Sus tropas suman cincuenta y nueve mil trescientos soldados.",
+      "verse": 10,
+      "start_ms": 76600,
+      "end_ms": 80787,
+      "duration_ms": 4187
+    },
+    {
+      "word": "A la izquierda de Rubén acampará la tribu de Gad.",
+      "verse": 10,
+      "start_ms": 80787,
+      "end_ms": 84149,
+      "duration_ms": 3362
+    },
+    {
+      "word": "Su jefe militar es Eliasaf hijo de Reuel.",
+      "verse": 10,
+      "start_ms": 84150,
+      "end_ms": 87400,
+      "duration_ms": 3250
+    },
+    {
+      "word": "Sus tropas suman cuarenta y cinco mil seiscientos cincuenta soldados.",
+      "verse": 10,
+      "start_ms": 87400,
+      "end_ms": 92050,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Las tropas de estas tribus seguirán la bandera de Rubén.",
+      "verse": 10,
+      "start_ms": 92050,
+      "end_ms": 95837,
+      "duration_ms": 3787
+    },
+    {
+      "word": "Juntas suman ciento cincuenta y un mil cuatrocientos cincuenta soldados.",
+      "verse": 10,
+      "start_ms": 95837,
+      "end_ms": 100499,
+      "duration_ms": 4662
+    },
+    {
+      "word": "Todos ellos marcharán en segundo lugar.",
+      "verse": 10,
+      "start_ms": 100500,
+      "end_ms": 103550,
+      "duration_ms": 3050
+    },
+    {
+      "word": "Detrás de ellos marcharán los descendientes de Leví con el santuario.",
+      "verse": 10,
+      "start_ms": 103550,
+      "end_ms": 107875,
+      "duration_ms": 4325
+    },
+    {
+      "word": "Al oeste acampará la tribu de Efraín.",
+      "verse": 18,
+      "start_ms": 107875,
+      "end_ms": 111000,
+      "duration_ms": 3125
+    },
+    {
+      "word": "Su jefe militar es Elisamá hijo de Amihud.",
+      "verse": 18,
+      "start_ms": 111000,
+      "end_ms": 114412,
+      "duration_ms": 3412
+    },
+    {
+      "word": "Según la cuenta que se hizo, sus tropas suman cuarenta mil quinientos soldados.",
+      "verse": 18,
+      "start_ms": 114412,
+      "end_ms": 119737,
+      "duration_ms": 5325
+    },
+    {
+      "word": "A la derecha de la tribu de Efraín acampará la tribu de Manasés.",
+      "verse": 18,
+      "start_ms": 119737,
+      "end_ms": 124162,
+      "duration_ms": 4425
+    },
+    {
+      "word": "Su jefe militar es Gamaliel, hijo de Pedasur.",
+      "verse": 18,
+      "start_ms": 124162,
+      "end_ms": 127824,
+      "duration_ms": 3662
+    },
+    {
+      "word": "Sus tropas suman treinta y dos mil doscientos soldados.",
+      "verse": 18,
+      "start_ms": 127825,
+      "end_ms": 131687,
+      "duration_ms": 3862
+    },
+    {
+      "word": "A la izquierda de Efraín acampará la tribu de Benjamín.",
+      "verse": 18,
+      "start_ms": 131687,
+      "end_ms": 135537,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Su jefe militar es Abidán hijo de Guidoní.",
+      "verse": 18,
+      "start_ms": 135537,
+      "end_ms": 138774,
+      "duration_ms": 3237
+    },
+    {
+      "word": "Sus tropas suman treinta y cinco mil cuatrocientos soldados.",
+      "verse": 18,
+      "start_ms": 138775,
+      "end_ms": 142912,
+      "duration_ms": 4137
+    },
+    {
+      "word": "Las tropas de estas tribus seguirán la bandera de Efraín.",
+      "verse": 18,
+      "start_ms": 142912,
+      "end_ms": 146799,
+      "duration_ms": 3887
+    },
+    {
+      "word": "Juntas suman ciento ocho mil cien soldados.",
+      "verse": 18,
+      "start_ms": 146800,
+      "end_ms": 150337,
+      "duration_ms": 3537
+    },
+    {
+      "word": "Todos ellos marcharán en tercer lugar.",
+      "verse": 18,
+      "start_ms": 150337,
+      "end_ms": 153349,
+      "duration_ms": 3012
+    },
+    {
+      "word": "Al norte acampará la tribu de Dan.",
+      "verse": 25,
+      "start_ms": 153350,
+      "end_ms": 156225,
+      "duration_ms": 2875
+    },
+    {
+      "word": "Su jefe militar es Ahiézer hijo de Amisadai.",
+      "verse": 25,
+      "start_ms": 156225,
+      "end_ms": 159637,
+      "duration_ms": 3412
+    },
+    {
+      "word": "Según la cuenta que se hizo, sus tropas suman sesenta y dos mil setecientos soldados.",
+      "verse": 25,
+      "start_ms": 159637,
+      "end_ms": 165324,
+      "duration_ms": 5687
+    },
+    {
+      "word": "A la derecha de la tribu de Dan acampará la tribu de Aser.",
+      "verse": 25,
+      "start_ms": 165325,
+      "end_ms": 169237,
+      "duration_ms": 3912
+    },
+    {
+      "word": "Su jefe militar es Paguiel hijo de Ocrán.",
+      "verse": 25,
+      "start_ms": 169237,
+      "end_ms": 172312,
+      "duration_ms": 3075
+    },
+    {
+      "word": "Sus tropas suman cuarenta y un mil quinientos soldados.",
+      "verse": 25,
+      "start_ms": 172312,
+      "end_ms": 176224,
+      "duration_ms": 3912
+    },
+    {
+      "word": "A la izquierda de Dan acampará la tribu de Neftalí.",
+      "verse": 25,
+      "start_ms": 176225,
+      "end_ms": 179787,
+      "duration_ms": 3562
+    },
+    {
+      "word": "Su jefe militar es Ahirá hijo de Enán.",
+      "verse": 25,
+      "start_ms": 179787,
+      "end_ms": 182899,
+      "duration_ms": 3112
+    },
+    {
+      "word": "Sus tropas suman cincuenta y tres mil cuatrocientos soldados.",
+      "verse": 25,
+      "start_ms": 182900,
+      "end_ms": 187100,
+      "duration_ms": 4200
+    },
+    {
+      "word": "Las tropas de estas tribus seguirán la bandera de Dan.",
+      "verse": 25,
+      "start_ms": 187100,
+      "end_ms": 190750,
+      "duration_ms": 3650
+    },
+    {
+      "word": "Juntas suman ciento cincuenta y siete mil seiscientos soldados.",
+      "verse": 25,
+      "start_ms": 190750,
+      "end_ms": 195050,
+      "duration_ms": 4300
+    },
+    {
+      "word": "Todos ellos marcharán en último lugar.",
+      "verse": 25,
+      "start_ms": 195050,
+      "end_ms": 198100,
+      "duration_ms": 3050
+    },
+    {
+      "word": "Cuando se contaron las familias israelitas, entre todas formaron un ejército de seiscientos tres mil quinientos cincuenta soldados.",
+      "verse": 32,
+      "start_ms": 198100,
+      "end_ms": 206000,
+      "duration_ms": 7900
+    },
+    {
+      "word": "Dios le había ordenado a Moisés que no incluyera a los descendientes de Leví.",
+      "verse": 33,
+      "start_ms": 206000,
+      "end_ms": 210600,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Los israelitas obedecieron todo lo que Dios le había ordenado a Moisés.",
+      "verse": 34,
+      "start_ms": 210600,
+      "end_ms": 215362,
+      "duration_ms": 4762
+    },
+    {
+      "word": "Cada uno acampó bajo su propia bandera, y marchó con su propia familia y su propia tribu.",
+      "verse": 34,
+      "start_ms": 215362,
+      "end_ms": 221399,
+      "duration_ms": 6037
+    }
+  ]
+}

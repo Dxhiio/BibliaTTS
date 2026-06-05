@@ -1,0 +1,985 @@
+{
+  "book": "EZE",
+  "chapter": 16,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 41,
+  "word_count": 98,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 22,
+      "text": "Dios también me dijo:"
+    },
+    {
+      "verse": 2,
+      "label": "2-3",
+      "char_start": 22,
+      "char_end": 311,
+      "text": "Ezequiel, hombre mortal, habla con los habitantes de Jerusalén y hazles entender que me repugna su conducta. Dales de mi parte el siguiente mensaje: «La ciudad de Jerusalén fue fundada en Canaán. Antes fue habitada por los amorreos y los hititas. ¡Desde sus inicios es una ciudad malvada!"
+    },
+    {
+      "verse": 4,
+      "label": "4-5",
+      "char_start": 311,
+      "char_end": 548,
+      "text": "Cuando la fundaron, fue como una niña abandonada al nacer. Nadie se interesó por ella, ni la cuidó ni le cortó el ombligo. Nadie la bañó, ni la frotó con sal, ni la envolvió en pañales. Al contrario, la abandonaron como si fuera basura."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 548,
+      "char_end": 685,
+      "text": "Yo pasaba por ahí y la vi en el suelo, revolcándose en su propia sangre. Parecía una niña abandonada. Pensé que merecía una oportunidad,"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 685,
+      "char_end": 876,
+      "text": "y la ayudé a crecer. La ciudad creció; fue como ver a la niña convertirse en una joven muy hermosa. Le crecieron los pechos, y le salió el vello de mujer. Aun así, estaba totalmente desnuda."
+    },
+    {
+      "verse": 8,
+      "label": "8-9",
+      "char_start": 876,
+      "char_end": 1187,
+      "text": "Tiempo después volví a pasar, y vi que la ciudad ya había crecido bastante. Era como una jovencita convertida en mujer lista para casarse. La puse entonces bajo mi cuidado, y me comprometí a amarla para siempre, como si ella fuera mi mujer y yo su marido. La bañé, la limpié y la perfumé. Les juro que así fue."
+    },
+    {
+      "verse": 10,
+      "label": "10-13",
+      "char_start": 1187,
+      "char_end": 1523,
+      "text": "Luego le puse un vestido de pura seda y finos bordados, y le puse calzado en sus pies. Así de amoroso fui con Jerusalén. Y no sólo la alimenté bien, sino que la llené de grandes riquezas, como quien le regala a su novia brazaletes, collares, anillos, aretes, y una lujosa corona. Era la ciudad más hermosa de todas; ¡parecía una reina!"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1523,
+      "char_end": 1649,
+      "text": "De tal manera traté a Jerusalén, que la hice famosa. Todo el mundo la consideraba una belleza perfecta. Les juro que así fue."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1649,
+      "char_end": 1830,
+      "text": "Pero esta ciudad se sintió orgullosa de sí misma. Llegó a confiar sólo en su belleza y en su fama, y acabó como cualquier otra ciudad despreciable, pues adoró a cuanto ídolo quiso."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1830,
+      "char_end": 1957,
+      "text": "Con las mismas riquezas que le di se fue a los cerros, y allí adoró a esos ídolos. ¡Nunca antes se había visto algo semejante!"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1957,
+      "char_end": 2042,
+      "text": "Con las joyas de oro y de plata que le regalé, hizo figuras de hombres, y las adoró;"
+    },
+    {
+      "verse": 18,
+      "label": "18-19",
+      "char_start": 2042,
+      "char_end": 2222,
+      "text": "las vistió con finos vestidos y les rindió culto. Los ricos ungüentos y perfumes, y hasta los mejores alimentos que le di, los usó para adorar falsos dioses. Les juro que así fue."
+    },
+    {
+      "verse": 20,
+      "label": "20-21",
+      "char_start": 2222,
+      "char_end": 2383,
+      "text": "Pero no le bastó con portarse como una ciudad cualquiera. Sus habitantes tomaron a sus hijos y a sus hijas, y los quemaron como ofrenda en honor de esos ídolos."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2383,
+      "char_end": 2654,
+      "text": "Esta ciudad cayó tan bajo en sus prácticas repugnantes que parecía una prostituta. Me traicionó con cualquiera, y se olvidó que fui yo quien la aceptó cuando todos la despreciaron. En aquel tiempo parecía un bebé abandonado en el suelo, revolcándose en su propia sangre."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2654,
+      "char_end": 2743,
+      "text": "¡Jerusalén, qué lástima me das! ¡Yo soy quien te lo dice! Para colmo de todos tus males,"
+    },
+    {
+      "verse": 24,
+      "label": "24-26",
+      "char_start": 2743,
+      "char_end": 3032,
+      "text": "en las plazas y en las esquinas de las calles los israelitas construyeron altares para adorar cuanto ídolo quisieron. Se hicieron amigos de los egipcios, y juntos adoraron a sus ídolos, creyendo que podían más que yo. Realmente me hicieron enojar. ¡Jerusalén, has perdido toda tu belleza!"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3032,
+      "char_end": 3237,
+      "text": "Por eso te castigué. Por eso permití que perdieras parte de tu territorio. Por eso te dejé caer en manos de los filisteos, tus enemigos de siempre, ¡y hasta ellos se avergonzaron de tu mal comportamiento!"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3237,
+      "char_end": 3413,
+      "text": "Siempre buscaste la amistad de los asirios, y tus habitantes adoraron a sus dioses, pero no quedaron satisfechos y siguieron buscando amigos con quienes adorar a otros dioses."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3413,
+      "char_end": 3487,
+      "text": "Luego adoraron a los dioses de Babilonia, ¡y ni así quedaron satisfechos!"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3487,
+      "char_end": 3583,
+      "text": "¡Tus habitantes no tienen cura! ¡Eres más desvergonzada que una prostituta! Te juro que así es."
+    },
+    {
+      "verse": 31,
+      "label": "31-33",
+      "char_start": 3583,
+      "char_end": 4029,
+      "text": "¡Jerusalén, te comportas como una mujer que engaña a su esposo! ¡Me engañaste! En realidad, te has portado peor que una prostituta. Porque la prostituta cobra por tener relaciones sexuales con alguien; tú, en cambio, cuando adoras a otros ídolos, lo haces a cambio de nada, más bien eres tú quien lo da todo. Obligas a la gente a venir de todas partes, para adorar juntos a los ídolos en los altares que construiste en las plazas y las esquinas."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4029,
+      "char_end": 4169,
+      "text": "Y como ya nadie quiere venir, ni te da nada a cambio, eres tú quien les paga para que vengan. ¡Sólo en eso eres diferente a una prostituta!"
+    },
+    {
+      "verse": 35,
+      "label": "35-36",
+      "char_start": 4169,
+      "char_end": 4362,
+      "text": "Por lo tanto, ciudad infiel, presta atención a lo que voy a decirte: Como no te dio vergüenza adorar descaradamente a los ídolos de otras naciones, y como les ofreciste la sangre de tus hijos,"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4362,
+      "char_end": 4437,
+      "text": "voy a reunir a todas esas naciones, y delante de todas ellas te humillaré."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4437,
+      "char_end": 4530,
+      "text": "Te voy a juzgar como a una prostituta y asesina. Es tanto mi enojo que te condenaré a morir,"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4530,
+      "char_end": 4746,
+      "text": "y serán esas naciones amigas tuyas las que cumplan la sentencia. Ellas derribarán todos los altares que hiciste para adorar a sus ídolos. Te quitarán tus joyas, te arrancarán tus riquezas y te dejarán en la pobreza."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4746,
+      "char_end": 4826,
+      "text": "Luego, esas naciones le dirán a la gente que te acuchille y te mate a pedradas,"
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4826,
+      "char_end": 5057,
+      "text": "y que les prenda fuego a tus casas. Así cumplirán tus amigas la sentencia contra ti, delante de muchas otras naciones. Sólo así dejarás de portarte como una prostituta, y ya no les darás tus riquezas a los ídolos de esas naciones."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 5057,
+      "char_end": 5158,
+      "text": "Una vez que se me pase el enojo, y que se hayan calmado mis celos por ti, volveré a estar tranquilo."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 5158,
+      "char_end": 5374,
+      "text": "Pero yo te castigaré, porque has sido una ingrata. Tú, Jerusalén, te olvidaste de todo lo que hice por ti cuando no eras una ciudad importante. Me hiciste enojar con tus acciones tan repugnantes. Te juro que así es."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 5374,
+      "char_end": 5444,
+      "text": "La gente dirá que en ti se cumple el dicho: ‘De tal madre, tal hija’,"
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 5444,
+      "char_end": 5689,
+      "text": "pues eres igual que tus fundadores, los hititas y los amorreos. Ellos tampoco fueron fieles a sus fundadores, y nunca se preocuparon por sus descendientes. Tampoco a tus ciudades hermanas les importaban mucho sus fundadores y sus descendientes."
+    },
+    {
+      "verse": 46,
+      "label": "46-48",
+      "char_start": 5689,
+      "char_end": 6114,
+      "text": "Tu hermana mayor es la ciudad de Samaria, que está al norte, y sus descendientes son los pueblos que la rodean. Tu hermana menor es la ciudad de Sodoma, que está al sur, y sus descendientes son también los pueblos que la rodean. Pero ni ella ni sus pueblos se portaron como tú y tus pueblos, porque tú empezaste por seguir su mal ejemplo y cometer sus mismas maldades, pero acabaste siendo peor que ella. Te juro que así es."
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 6114,
+      "char_end": 6294,
+      "text": "Sodoma y sus pueblos pecaron por creer que tenían demasiado, pues les sobraba comida y vivían sin preocupaciones; también pecaron porque nunca ayudaron a los pobres y necesitados."
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 6294,
+      "char_end": 6400,
+      "text": "Era tanto su orgullo que delante de mí cometían maldades repugnantes. Por eso las destruí, y tú lo sabes."
+    },
+    {
+      "verse": 51,
+      "label": "51-55",
+      "char_start": 6400,
+      "char_end": 6851,
+      "text": "Pero ni Samaria ni sus pueblos llegaron a pecar como tú. Comparadas contigo, tus dos hermanas resultan dos blancas palomitas. ¡Así de graves son tus repugnantes acciones! Por todo eso, ahora tú tendrás que sufrir la vergüenza, y tu castigo será la humillación». Sin embargo, tu castigo les servirá de consuelo a Sodoma y a Samaria, y a sus pueblos, pues yo haré que ellas vuelvan a ser lo que antes fueron, ¡y lo mismo haré contigo y con tus pueblos!"
+    },
+    {
+      "verse": 56,
+      "label": "56",
+      "char_start": 6851,
+      "char_end": 6928,
+      "text": "Hubo un tiempo en que te burlabas de tu hermana Sodoma; ¡tan orgullosa eras!"
+    },
+    {
+      "verse": 57,
+      "label": "57",
+      "char_start": 6928,
+      "char_end": 7082,
+      "text": "Pero ahora son los pueblos edomitas los que se burlan de ti, junto con los filisteos y todos los pueblos vecinos, pues ya todo el mundo conoce tu maldad."
+    },
+    {
+      "verse": 58,
+      "label": "58",
+      "char_start": 7082,
+      "char_end": 7175,
+      "text": "Ahora tienes que sufrir las consecuencias de tus repugnantes maldades. Te juro que así será."
+    },
+    {
+      "verse": 59,
+      "label": "59",
+      "char_start": 7175,
+      "char_end": 7273,
+      "text": "Y también quiero decirte que te voy a castigar por no cumplir con tu parte de nuestro compromiso."
+    },
+    {
+      "verse": 60,
+      "label": "60-63",
+      "char_start": 7273,
+      "char_end": 7800,
+      "text": "Sin embargo, yo sí cumpliré mi compromiso contigo, lo mismo que las promesas que te hice cuando aún no eras una ciudad importante. ¡Jerusalén, mi amor por ti será siempre el mismo! Así reconocerás que yo soy tu Dios. Yo haré también que Samaria y Sodoma lleguen a ser tuyas, aun cuando esto no formaba parte de mi compromiso contigo. Cuando yo te haya perdonado por completo, te acordarás de todos los pecados que cometiste. Y te sentirás tan avergonzada y humillada, que no volverás a abrir la boca. Te juro que así lo haré»."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios también me dijo: Ezequiel, hombre mortal, habla con los habitantes de Jerusalén y hazles entender que me repugna su conducta.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 8237,
+      "duration_ms": 8137
+    },
+    {
+      "word": "Dales de mi parte el siguiente mensaje: «La ciudad de Jerusalén fue fundada en Canaán.",
+      "verse": 2,
+      "start_ms": 8187,
+      "end_ms": 13774,
+      "duration_ms": 5587
+    },
+    {
+      "word": "Antes fue habitada por los amorreos y los hititas.",
+      "verse": 2,
+      "start_ms": 13775,
+      "end_ms": 17412,
+      "duration_ms": 3637
+    },
+    {
+      "word": "Desde sus inicios es una ciudad malvada!",
+      "verse": 2,
+      "start_ms": 17412,
+      "end_ms": 20512,
+      "duration_ms": 3100
+    },
+    {
+      "word": "Cuando la fundaron, fue como una niña abandonada al nacer.",
+      "verse": 4,
+      "start_ms": 20512,
+      "end_ms": 24924,
+      "duration_ms": 4412
+    },
+    {
+      "word": "Nadie se interesó por ella, ni la cuidó ni le cortó el ombligo.",
+      "verse": 4,
+      "start_ms": 24925,
+      "end_ms": 29337,
+      "duration_ms": 4412
+    },
+    {
+      "word": "Nadie la bañó, ni la frotó con sal, ni la envolvió en pañales.",
+      "verse": 4,
+      "start_ms": 29337,
+      "end_ms": 34112,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Al contrario, la abandonaron como si fuera basura.",
+      "verse": 4,
+      "start_ms": 34112,
+      "end_ms": 37999,
+      "duration_ms": 3887
+    },
+    {
+      "word": "Yo pasaba por ahí y la vi en el suelo, revolcándose en su propia sangre.",
+      "verse": 6,
+      "start_ms": 38000,
+      "end_ms": 43075,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Parecía una niña abandonada.",
+      "verse": 6,
+      "start_ms": 43075,
+      "end_ms": 45825,
+      "duration_ms": 2750
+    },
+    {
+      "word": "Pensé que merecía una oportunidad, y la ayudé a crecer.",
+      "verse": 6,
+      "start_ms": 45825,
+      "end_ms": 50200,
+      "duration_ms": 4375
+    },
+    {
+      "word": "La ciudad creció; fue como ver a la niña convertirse en una joven muy hermosa.",
+      "verse": 7,
+      "start_ms": 50200,
+      "end_ms": 55587,
+      "duration_ms": 5387
+    },
+    {
+      "word": "Le crecieron los pechos, y le salió el vello de mujer.",
+      "verse": 7,
+      "start_ms": 55587,
+      "end_ms": 59574,
+      "duration_ms": 3987
+    },
+    {
+      "word": "Aun así, estaba totalmente desnuda.",
+      "verse": 7,
+      "start_ms": 59575,
+      "end_ms": 62987,
+      "duration_ms": 3412
+    },
+    {
+      "word": "Tiempo después volví a pasar, y vi que la ciudad ya había crecido bastante.",
+      "verse": 8,
+      "start_ms": 62987,
+      "end_ms": 68099,
+      "duration_ms": 5112
+    },
+    {
+      "word": "Era como una jovencita convertida en mujer lista para casarse.",
+      "verse": 8,
+      "start_ms": 68100,
+      "end_ms": 72462,
+      "duration_ms": 4362
+    },
+    {
+      "word": "La puse entonces bajo mi cuidado, y me comprometí a amarla para siempre, como si ella fuera mi mujer y yo su marido.",
+      "verse": 8,
+      "start_ms": 72462,
+      "end_ms": 79912,
+      "duration_ms": 7450
+    },
+    {
+      "word": "La bañé, la limpié y la perfumé.",
+      "verse": 8,
+      "start_ms": 79912,
+      "end_ms": 83024,
+      "duration_ms": 3112
+    },
+    {
+      "word": "Les juro que así fue.",
+      "verse": 8,
+      "start_ms": 83025,
+      "end_ms": 85162,
+      "duration_ms": 2137
+    },
+    {
+      "word": "Luego le puse un vestido de pura seda y finos bordados, y le puse calzado en sus pies.",
+      "verse": 10,
+      "start_ms": 85162,
+      "end_ms": 90999,
+      "duration_ms": 5837
+    },
+    {
+      "word": "Así de amoroso fui con Jerusalén.",
+      "verse": 10,
+      "start_ms": 91000,
+      "end_ms": 93937,
+      "duration_ms": 2937
+    },
+    {
+      "word": "Y no sólo la alimenté bien, sino que la llené de grandes riquezas, como quien le regala a su novia brazaletes, collares, anillos, aretes, y una lujosa corona.",
+      "verse": 10,
+      "start_ms": 93937,
+      "end_ms": 104924,
+      "duration_ms": 10987
+    },
+    {
+      "word": "Era la ciudad más hermosa de todas; ¡parecía una reina!",
+      "verse": 10,
+      "start_ms": 104925,
+      "end_ms": 109125,
+      "duration_ms": 4200
+    },
+    {
+      "word": "De tal manera traté a Jerusalén, que la hice famosa.",
+      "verse": 14,
+      "start_ms": 109125,
+      "end_ms": 113312,
+      "duration_ms": 4187
+    },
+    {
+      "word": "Todo el mundo la consideraba una belleza perfecta.",
+      "verse": 14,
+      "start_ms": 113312,
+      "end_ms": 116974,
+      "duration_ms": 3662
+    },
+    {
+      "word": "Les juro que así fue.",
+      "verse": 14,
+      "start_ms": 116975,
+      "end_ms": 119112,
+      "duration_ms": 2137
+    },
+    {
+      "word": "Pero esta ciudad se sintió orgullosa de sí misma.",
+      "verse": 15,
+      "start_ms": 119112,
+      "end_ms": 122612,
+      "duration_ms": 3500
+    },
+    {
+      "word": "Llegó a confiar sólo en su belleza y en su fama, y acabó como cualquier otra ciudad despreciable, pues adoró a cuanto ídolo quiso.",
+      "verse": 15,
+      "start_ms": 122612,
+      "end_ms": 130474,
+      "duration_ms": 7862
+    },
+    {
+      "word": "Con las mismas riquezas que le di se fue a los cerros, y allí adoró a esos ídolos.",
+      "verse": 16,
+      "start_ms": 130475,
+      "end_ms": 136062,
+      "duration_ms": 5587
+    },
+    {
+      "word": "Nunca antes se había visto algo semejante!",
+      "verse": 16,
+      "start_ms": 136062,
+      "end_ms": 139312,
+      "duration_ms": 3250
+    },
+    {
+      "word": "Con las joyas de oro y de plata que le regalé, hizo figuras de hombres, y las adoró; las vistió con finos vestidos y les rindió culto.",
+      "verse": 17,
+      "start_ms": 139312,
+      "end_ms": 147749,
+      "duration_ms": 8437
+    },
+    {
+      "word": "Los ricos ungüentos y perfumes, y hasta los mejores alimentos que le di, los usó para adorar falsos dioses.",
+      "verse": 18,
+      "start_ms": 147750,
+      "end_ms": 154937,
+      "duration_ms": 7187
+    },
+    {
+      "word": "Les juro que así fue.",
+      "verse": 18,
+      "start_ms": 154937,
+      "end_ms": 157074,
+      "duration_ms": 2137
+    },
+    {
+      "word": "Pero no le bastó con portarse como una ciudad cualquiera.",
+      "verse": 20,
+      "start_ms": 157075,
+      "end_ms": 160875,
+      "duration_ms": 3800
+    },
+    {
+      "word": "Sus habitantes tomaron a sus hijos y a sus hijas, y los quemaron como ofrenda en honor de esos ídolos.",
+      "verse": 20,
+      "start_ms": 160875,
+      "end_ms": 167450,
+      "duration_ms": 6575
+    },
+    {
+      "word": "Esta ciudad cayó tan bajo en sus prácticas repugnantes que parecía una prostituta.",
+      "verse": 22,
+      "start_ms": 167450,
+      "end_ms": 172687,
+      "duration_ms": 5237
+    },
+    {
+      "word": "Me traicionó con cualquiera, y se olvidó que fui yo quien la aceptó cuando todos la despreciaron.",
+      "verse": 22,
+      "start_ms": 172687,
+      "end_ms": 178349,
+      "duration_ms": 5662
+    },
+    {
+      "word": "En aquel tiempo parecía un bebé abandonado en el suelo, revolcándose en su propia sangre.",
+      "verse": 22,
+      "start_ms": 178350,
+      "end_ms": 184187,
+      "duration_ms": 5837
+    },
+    {
+      "word": "Jerusalén, qué lástima me das!",
+      "verse": 23,
+      "start_ms": 184187,
+      "end_ms": 187299,
+      "duration_ms": 3112
+    },
+    {
+      "word": "Yo soy quien te lo dice!",
+      "verse": 23,
+      "start_ms": 187300,
+      "end_ms": 189400,
+      "duration_ms": 2100
+    },
+    {
+      "word": "Para colmo de todos tus males, en las plazas y en las esquinas de las calles los israelitas construyeron altares para adorar cuanto ídolo quisieron.",
+      "verse": 23,
+      "start_ms": 189400,
+      "end_ms": 197950,
+      "duration_ms": 8550
+    },
+    {
+      "word": "Se hicieron amigos de los egipcios, y juntos adoraron a sus ídolos, creyendo que podían más que yo.",
+      "verse": 24,
+      "start_ms": 197950,
+      "end_ms": 204575,
+      "duration_ms": 6625
+    },
+    {
+      "word": "Realmente me hicieron enojar.",
+      "verse": 24,
+      "start_ms": 204575,
+      "end_ms": 207162,
+      "duration_ms": 2587
+    },
+    {
+      "word": "Jerusalén, has perdido toda tu belleza!",
+      "verse": 24,
+      "start_ms": 207162,
+      "end_ms": 210724,
+      "duration_ms": 3562
+    },
+    {
+      "word": "Por eso te castigué.",
+      "verse": 27,
+      "start_ms": 210725,
+      "end_ms": 212825,
+      "duration_ms": 2100
+    },
+    {
+      "word": "Por eso permití que perdieras parte de tu territorio.",
+      "verse": 27,
+      "start_ms": 212825,
+      "end_ms": 216462,
+      "duration_ms": 3637
+    },
+    {
+      "word": "Por eso te dejé caer en manos de los filisteos, tus enemigos de siempre, ¡y hasta ellos se avergonzaron de tu mal comportamiento!",
+      "verse": 27,
+      "start_ms": 216462,
+      "end_ms": 224262,
+      "duration_ms": 7800
+    },
+    {
+      "word": "Siempre buscaste la amistad de los asirios, y tus habitantes adoraron a sus dioses, pero no quedaron satisfechos y siguieron buscando amigos con quienes adorar a otros dioses.",
+      "verse": 28,
+      "start_ms": 224262,
+      "end_ms": 234524,
+      "duration_ms": 10262
+    },
+    {
+      "word": "Luego adoraron a los dioses de Babilonia, ¡y ni así quedaron satisfechos!",
+      "verse": 29,
+      "start_ms": 234525,
+      "end_ms": 239550,
+      "duration_ms": 5025
+    },
+    {
+      "word": "Tus habitantes no tienen cura!",
+      "verse": 30,
+      "start_ms": 239550,
+      "end_ms": 242112,
+      "duration_ms": 2562
+    },
+    {
+      "word": "Eres más desvergonzada que una prostituta!",
+      "verse": 30,
+      "start_ms": 242112,
+      "end_ms": 245387,
+      "duration_ms": 3275
+    },
+    {
+      "word": "Te juro que así es.",
+      "verse": 30,
+      "start_ms": 245387,
+      "end_ms": 247574,
+      "duration_ms": 2187
+    },
+    {
+      "word": "Jerusalén, te comportas como una mujer que engaña a su esposo!",
+      "verse": 31,
+      "start_ms": 247575,
+      "end_ms": 252125,
+      "duration_ms": 4550
+    },
+    {
+      "word": "Me engañaste!",
+      "verse": 31,
+      "start_ms": 252125,
+      "end_ms": 253825,
+      "duration_ms": 1700
+    },
+    {
+      "word": "En realidad, te has portado peor que una prostituta.",
+      "verse": 31,
+      "start_ms": 253825,
+      "end_ms": 257975,
+      "duration_ms": 4150
+    },
+    {
+      "word": "Porque la prostituta cobra por tener relaciones sexuales con alguien; tú, en cambio, cuando adoras a otros ídolos, lo haces a cambio de nada, más bien eres tú quien lo da todo.",
+      "verse": 31,
+      "start_ms": 257975,
+      "end_ms": 268600,
+      "duration_ms": 10625
+    },
+    {
+      "word": "Obligas a la gente a venir de todas partes, para adorar juntos a los ídolos en los altares que",
+      "verse": 31,
+      "start_ms": 268600,
+      "end_ms": 274862,
+      "duration_ms": 6262
+    },
+    {
+      "word": "construiste en las plazas y las esquinas.",
+      "verse": 31,
+      "start_ms": 275020,
+      "end_ms": 278220,
+      "duration_ms": 3200
+    },
+    {
+      "word": "Y como ya nadie quiere venir, ni te da nada a cambio, eres tú quien les paga para que vengan.",
+      "verse": 34,
+      "start_ms": 278170,
+      "end_ms": 284295,
+      "duration_ms": 6125
+    },
+    {
+      "word": "Sólo en eso eres diferente a una prostituta!",
+      "verse": 34,
+      "start_ms": 284295,
+      "end_ms": 287707,
+      "duration_ms": 3412
+    },
+    {
+      "word": "Por lo tanto, ciudad infiel, presta atención a lo que voy a decirte: Como no te dio vergüenza adorar descaradamente a los ídolos de otras naciones, y como les ofreciste la sangre de tus hijos, voy a reunir a todas esas naciones, y delante de todas ellas te humillaré.",
+      "verse": 35,
+      "start_ms": 287707,
+      "end_ms": 303969,
+      "duration_ms": 16262
+    },
+    {
+      "word": "Te voy a juzgar como a una prostituta y asesina.",
+      "verse": 38,
+      "start_ms": 303970,
+      "end_ms": 307607,
+      "duration_ms": 3637
+    },
+    {
+      "word": "Es tanto mi enojo que te condenaré a morir, y serán esas naciones amigas tuyas las que cumplan la sentencia.",
+      "verse": 38,
+      "start_ms": 307607,
+      "end_ms": 314394,
+      "duration_ms": 6787
+    },
+    {
+      "word": "Ellas derribarán todos los altares que hiciste para adorar a sus ídolos.",
+      "verse": 39,
+      "start_ms": 314395,
+      "end_ms": 319132,
+      "duration_ms": 4737
+    },
+    {
+      "word": "Te quitarán tus joyas, te arrancarán tus riquezas y te dejarán en la pobreza.",
+      "verse": 39,
+      "start_ms": 319132,
+      "end_ms": 324194,
+      "duration_ms": 5062
+    },
+    {
+      "word": "Luego, esas naciones le dirán a la gente que te acuchille y te mate a pedradas, y que les prenda fuego a tus casas.",
+      "verse": 40,
+      "start_ms": 324195,
+      "end_ms": 331645,
+      "duration_ms": 7450
+    },
+    {
+      "word": "Así cumplirán tus amigas la sentencia contra ti, delante de muchas otras naciones.",
+      "verse": 41,
+      "start_ms": 331645,
+      "end_ms": 337295,
+      "duration_ms": 5650
+    },
+    {
+      "word": "Sólo así dejarás de portarte como una prostituta, y ya no les darás tus riquezas a los ídolos de esas naciones.",
+      "verse": 41,
+      "start_ms": 337295,
+      "end_ms": 344420,
+      "duration_ms": 7125
+    },
+    {
+      "word": "Una vez que se me pase el enojo, y que se hayan calmado mis celos por ti, volveré a estar tranquilo.",
+      "verse": 42,
+      "start_ms": 344420,
+      "end_ms": 350932,
+      "duration_ms": 6512
+    },
+    {
+      "word": "Pero yo te castigaré, porque has sido una ingrata.",
+      "verse": 43,
+      "start_ms": 350932,
+      "end_ms": 354732,
+      "duration_ms": 3800
+    },
+    {
+      "word": "Tú, Jerusalén, te olvidaste de todo lo que hice por ti cuando no eras una ciudad importante.",
+      "verse": 43,
+      "start_ms": 354732,
+      "end_ms": 361094,
+      "duration_ms": 6362
+    },
+    {
+      "word": "Me hiciste enojar con tus acciones tan repugnantes.",
+      "verse": 43,
+      "start_ms": 361095,
+      "end_ms": 364770,
+      "duration_ms": 3675
+    },
+    {
+      "word": "Te juro que así es.",
+      "verse": 43,
+      "start_ms": 364770,
+      "end_ms": 366957,
+      "duration_ms": 2187
+    },
+    {
+      "word": "La gente dirá que en ti se cumple el dicho: ‘De tal madre, tal hija’, pues eres igual que tus fundadores, los hititas y los amorreos.",
+      "verse": 44,
+      "start_ms": 366957,
+      "end_ms": 375632,
+      "duration_ms": 8675
+    },
+    {
+      "word": "Ellos tampoco fueron fieles a sus fundadores, y nunca se preocuparon por sus descendientes.",
+      "verse": 45,
+      "start_ms": 375632,
+      "end_ms": 381507,
+      "duration_ms": 5875
+    },
+    {
+      "word": "Tampoco a tus ciudades hermanas les importaban mucho sus fundadores y sus descendientes.",
+      "verse": 45,
+      "start_ms": 381507,
+      "end_ms": 386919,
+      "duration_ms": 5412
+    },
+    {
+      "word": "Tu hermana mayor es la ciudad de Samaria, que está al norte, y sus descendientes son los pueblos que la rodean.",
+      "verse": 46,
+      "start_ms": 386920,
+      "end_ms": 393545,
+      "duration_ms": 6625
+    },
+    {
+      "word": "Tu hermana menor es la ciudad de Sodoma, que está al sur, y sus descendientes son también los pueblos que la rodean.",
+      "verse": 46,
+      "start_ms": 393545,
+      "end_ms": 400295,
+      "duration_ms": 6750
+    },
+    {
+      "word": "Pero ni ella ni sus pueblos se portaron como tú y tus pueblos, porque tú empezaste por seguir su mal ejemplo y cometer sus mismas maldades, pero acabaste siendo peor que ella.",
+      "verse": 46,
+      "start_ms": 400295,
+      "end_ms": 410332,
+      "duration_ms": 10037
+    },
+    {
+      "word": "Te juro que así es.",
+      "verse": 46,
+      "start_ms": 410332,
+      "end_ms": 412519,
+      "duration_ms": 2187
+    },
+    {
+      "word": "Sodoma y sus pueblos pecaron por creer que tenían demasiado, pues les sobraba comida y vivían sin preocupaciones; también pecaron porque nunca ayudaron a los pobres y necesitados.",
+      "verse": 49,
+      "start_ms": 412520,
+      "end_ms": 423082,
+      "duration_ms": 10562
+    },
+    {
+      "word": "Era tanto su orgullo que delante de mí cometían maldades repugnantes.",
+      "verse": 50,
+      "start_ms": 423082,
+      "end_ms": 427719,
+      "duration_ms": 4637
+    },
+    {
+      "word": "Por eso las destruí, y tú lo sabes.",
+      "verse": 50,
+      "start_ms": 427720,
+      "end_ms": 430907,
+      "duration_ms": 3187
+    },
+    {
+      "word": "Pero ni Samaria ni sus pueblos llegaron a pecar como tú.",
+      "verse": 51,
+      "start_ms": 430907,
+      "end_ms": 434569,
+      "duration_ms": 3662
+    },
+    {
+      "word": "Comparadas contigo, tus dos hermanas resultan dos blancas palomitas. ¡Así de graves son tus repugnantes acciones!",
+      "verse": 51,
+      "start_ms": 434570,
+      "end_ms": 442082,
+      "duration_ms": 7512
+    },
+    {
+      "word": "Por todo eso, ahora tú tendrás que sufrir la vergüenza, y tu castigo será la humillación».",
+      "verse": 51,
+      "start_ms": 442082,
+      "end_ms": 448232,
+      "duration_ms": 6150
+    },
+    {
+      "word": "Sin embargo, tu castigo les servirá de consuelo a Sodoma y a Samaria, y a sus pueblos, pues yo haré que ellas vuelvan a ser lo que antes fueron, ¡y lo mismo haré contigo y con tus pueblos!",
+      "verse": 51,
+      "start_ms": 448232,
+      "end_ms": 459407,
+      "duration_ms": 11175
+    },
+    {
+      "word": "Hubo un tiempo en que te burlabas de tu hermana Sodoma; ¡tan orgullosa eras!",
+      "verse": 56,
+      "start_ms": 459407,
+      "end_ms": 464307,
+      "duration_ms": 4900
+    },
+    {
+      "word": "Pero ahora son los pueblos edomitas los que se burlan de ti, junto con los filisteos y todos los pueblos vecinos, pues ya todo el mundo conoce tu maldad.",
+      "verse": 57,
+      "start_ms": 464307,
+      "end_ms": 473219,
+      "duration_ms": 8912
+    },
+    {
+      "word": "Ahora tienes que sufrir las consecuencias de tus repugnantes maldades.",
+      "verse": 58,
+      "start_ms": 473220,
+      "end_ms": 477732,
+      "duration_ms": 4512
+    },
+    {
+      "word": "Te juro que así será.",
+      "verse": 58,
+      "start_ms": 477732,
+      "end_ms": 479907,
+      "duration_ms": 2175
+    },
+    {
+      "word": "Y también quiero decirte que te voy a castigar por no cumplir con tu parte de nuestro compromiso.",
+      "verse": 59,
+      "start_ms": 479907,
+      "end_ms": 485369,
+      "duration_ms": 5462
+    },
+    {
+      "word": "Sin embargo, yo sí cumpliré mi compromiso contigo, lo mismo que las promesas que te hice cuando aún no eras una ciudad importante. ¡Jerusalén, mi amor por ti será siempre el mismo!",
+      "verse": 60,
+      "start_ms": 485370,
+      "end_ms": 496270,
+      "duration_ms": 10900
+    },
+    {
+      "word": "Así reconocerás que yo soy tu Dios.",
+      "verse": 60,
+      "start_ms": 496270,
+      "end_ms": 499320,
+      "duration_ms": 3050
+    },
+    {
+      "word": "Yo haré también que Samaria y Sodoma lleguen a ser tuyas, aun cuando esto no formaba parte de mi compromiso contigo.",
+      "verse": 60,
+      "start_ms": 499320,
+      "end_ms": 506470,
+      "duration_ms": 7150
+    },
+    {
+      "word": "Cuando yo te haya perdonado por completo, te acordarás de todos los pecados que cometiste.",
+      "verse": 60,
+      "start_ms": 506470,
+      "end_ms": 512182,
+      "duration_ms": 5712
+    },
+    {
+      "word": "Y te sentirás tan avergonzada y humillada, que no volverás a abrir la boca.",
+      "verse": 60,
+      "start_ms": 512182,
+      "end_ms": 517357,
+      "duration_ms": 5175
+    },
+    {
+      "word": "Te juro que así lo haré».",
+      "verse": 60,
+      "start_ms": 517357,
+      "end_ms": 519507,
+      "duration_ms": 2150
+    }
+  ]
+}

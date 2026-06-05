@@ -1,0 +1,327 @@
+{
+  "book": "MIQ",
+  "chapter": 1,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 15,
+  "word_count": 30,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 201,
+      "text": "Yo soy Miqueas de Moréset. Dios me comunicó lo que pensaba hacer contra las ciudades de Samaria y Jerusalén. Esto sucedió cuando Jotán, Ahaz y Ezequías eran reyes de Judá. Esto es lo que Dios me dijo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 201,
+      "char_end": 372,
+      "text": "¡Escúchenme bien, pueblos todos de la tierra! ¡Préstenme atención, habitantes de este país! Yo soy el Dios de Israel y desde mi santo templo voy a denunciar sus maldades."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 372,
+      "char_end": 471,
+      "text": "Ya estoy por salir y destruiré los pequeños templos que han construido en los cerros de este país."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 471,
+      "char_end": 653,
+      "text": "Cuando ponga mis pies sobre las montañas, ellas se derretirán como la cera en el fuego, y los valles se partirán en dos, como se parten las montañas cuando los ríos bajan por ellas."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 653,
+      "char_end": 849,
+      "text": "Todo esto sucederá por la rebeldía de los israelitas, pues ya son muchos sus pecados. Los de Israel pecaron en la ciudad de Samaria; los de Judá adoraron a otros dioses en la ciudad de Jerusalén."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 849,
+      "char_end": 1001,
+      "text": "Por eso convertiré a Samaria en un montón de ruinas; esparciré sus piedras por el valle y la dejaré al descubierto. ¡Sólo servirá para plantar viñedos!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 1001,
+      "char_end": 1180,
+      "text": "Por eso haré pedazos todos los ídolos de Samaria. Los hicieron con las monedas que ganaron las prostitutas; ¡pues yo los fundiré en el fuego y en monedas los convertiré de nuevo!"
+    },
+    {
+      "verse": 8,
+      "label": "8-9",
+      "char_start": 1180,
+      "char_end": 1436,
+      "text": "Entonces yo dije: Samaria y mi pueblo Judá han sido heridos de muerte. La muerte también amenaza a Jerusalén, capital de Judá. Por eso lloro y estoy triste; por eso ando desnudo y descalzo; por eso chillo como avestruz, por eso lanzo aullidos como chacal."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1436,
+      "char_end": 1571,
+      "text": "Pero no se pongan a llorar ni digan nada a los de Gat. Más bien retuérzanse de dolor en ese pueblo polvoriento que se llama Polvareda."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1571,
+      "char_end": 1761,
+      "text": "Ustedes, habitantes de Bellavista, serán llevados como esclavos; avanzarán desnudos y avergonzados. Habrá lágrimas en el pueblo vecino, pero los habitantes de Zaanán no saldrán en su ayuda."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1761,
+      "char_end": 1896,
+      "text": "Los habitantes del pueblo de Amargura se quedarán esperando ayuda, pero Dios enviará la desgracia hasta la entrada misma de Jerusalén."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1896,
+      "char_end": 2094,
+      "text": "Ustedes, habitantes de Laquis, ¡enganchen sus caballos a los carros! Fue en la ciudad de ustedes donde todos nuestros males comenzaron. Allí pecaron los israelitas, y allí pecaron los de Jerusalén."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 2094,
+      "char_end": 2225,
+      "text": "Por eso tendrán que despedirse de su amado pueblo de Moréset-gat. Los reyes de Israel serán engañados en el pueblo llamado Trampa."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2225,
+      "char_end": 2393,
+      "text": "Y Dios dijo: Contra ustedes, habitantes del pueblo llamado Conquista, voy a enviar un conquistador, y aun los israelitas más valientes huirán hasta la cueva de Adulam."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2393,
+      "char_end": 2575,
+      "text": "Habitantes de Jerusalén, ¡lloren y aféitense la barba!, ¡lloren y córtense el cabello hasta quedar calvos como un buitre! ¡Sus hijos queridos serán llevados a un país lejos de aquí!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Yo soy Miqueas de Moréset.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 2612,
+      "duration_ms": 2512
+    },
+    {
+      "word": "Dios me comunicó lo que pensaba hacer contra las ciudades de Samaria y Jerusalén.",
+      "verse": 1,
+      "start_ms": 2562,
+      "end_ms": 7549,
+      "duration_ms": 4987
+    },
+    {
+      "word": "Esto sucedió cuando Jotán, Ahaz y Ezequías eran reyes de Judá.",
+      "verse": 1,
+      "start_ms": 7550,
+      "end_ms": 12150,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Esto es lo que Dios me dijo: ¡Escúchenme bien, pueblos todos de la tierra!",
+      "verse": 1,
+      "start_ms": 12150,
+      "end_ms": 17275,
+      "duration_ms": 5125
+    },
+    {
+      "word": "Préstenme atención, habitantes de este país!",
+      "verse": 2,
+      "start_ms": 17275,
+      "end_ms": 20912,
+      "duration_ms": 3637
+    },
+    {
+      "word": "Yo soy el Dios de Israel y desde mi santo templo voy a denunciar sus maldades.",
+      "verse": 2,
+      "start_ms": 20912,
+      "end_ms": 26012,
+      "duration_ms": 5100
+    },
+    {
+      "word": "Ya estoy por salir y destruiré los pequeños templos que han construido en los cerros de este país.",
+      "verse": 3,
+      "start_ms": 26012,
+      "end_ms": 31874,
+      "duration_ms": 5862
+    },
+    {
+      "word": "Cuando ponga mis pies sobre las montañas, ellas se derretirán como la cera en el fuego, y los valles se partirán en dos, como se parten las montañas cuando los ríos bajan por ellas.",
+      "verse": 4,
+      "start_ms": 31875,
+      "end_ms": 42475,
+      "duration_ms": 10600
+    },
+    {
+      "word": "Todo esto sucederá por la rebeldía de los israelitas, pues ya son muchos sus pecados.",
+      "verse": 5,
+      "start_ms": 42475,
+      "end_ms": 48375,
+      "duration_ms": 5900
+    },
+    {
+      "word": "Los de Israel pecaron en la ciudad de Samaria; los de Judá adoraron a otros dioses en la ciudad de Jerusalén.",
+      "verse": 5,
+      "start_ms": 48375,
+      "end_ms": 55000,
+      "duration_ms": 6625
+    },
+    {
+      "word": "Por eso convertiré a Samaria en un montón de ruinas; esparciré sus piedras por el valle y la dejaré al descubierto.",
+      "verse": 6,
+      "start_ms": 55000,
+      "end_ms": 62137,
+      "duration_ms": 7137
+    },
+    {
+      "word": "Sólo servirá para plantar viñedos!",
+      "verse": 6,
+      "start_ms": 62137,
+      "end_ms": 65099,
+      "duration_ms": 2962
+    },
+    {
+      "word": "Por eso haré pedazos todos los ídolos de Samaria.",
+      "verse": 7,
+      "start_ms": 65100,
+      "end_ms": 68762,
+      "duration_ms": 3662
+    },
+    {
+      "word": "Los hicieron con las monedas que ganaron las prostitutas; ¡pues yo los fundiré en el fuego y en monedas los convertiré de nuevo!",
+      "verse": 7,
+      "start_ms": 68762,
+      "end_ms": 75987,
+      "duration_ms": 7225
+    },
+    {
+      "word": "Entonces yo dije: Samaria y mi pueblo Judá han sido heridos de muerte.",
+      "verse": 8,
+      "start_ms": 75987,
+      "end_ms": 81074,
+      "duration_ms": 5087
+    },
+    {
+      "word": "La muerte también amenaza a Jerusalén, capital de Judá.",
+      "verse": 8,
+      "start_ms": 81075,
+      "end_ms": 85350,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Por eso lloro y estoy triste; por eso ando desnudo y descalzo; por eso chillo como avestruz, por eso lanzo aullidos como chacal.",
+      "verse": 8,
+      "start_ms": 85350,
+      "end_ms": 93912,
+      "duration_ms": 8562
+    },
+    {
+      "word": "Pero no se pongan a llorar ni digan nada a los de Gat.",
+      "verse": 10,
+      "start_ms": 93912,
+      "end_ms": 97649,
+      "duration_ms": 3737
+    },
+    {
+      "word": "Más bien retuérzanse de dolor en ese pueblo polvoriento que se llama Polvareda.",
+      "verse": 10,
+      "start_ms": 97650,
+      "end_ms": 102500,
+      "duration_ms": 4850
+    },
+    {
+      "word": "Ustedes, habitantes de Bellavista, serán llevados como esclavos; avanzarán desnudos y avergonzados.",
+      "verse": 11,
+      "start_ms": 102500,
+      "end_ms": 109775,
+      "duration_ms": 7275
+    },
+    {
+      "word": "Habrá lágrimas en el pueblo vecino, pero los habitantes de Zaanán no saldrán en su ayuda.",
+      "verse": 11,
+      "start_ms": 109775,
+      "end_ms": 115500,
+      "duration_ms": 5725
+    },
+    {
+      "word": "Los habitantes del pueblo de Amargura se quedarán esperando ayuda, pero Dios enviará la desgracia hasta la entrada misma de Jerusalén.",
+      "verse": 12,
+      "start_ms": 115500,
+      "end_ms": 123087,
+      "duration_ms": 7587
+    },
+    {
+      "word": "Ustedes, habitantes de Laquis, ¡enganchen sus caballos a los carros!",
+      "verse": 13,
+      "start_ms": 123087,
+      "end_ms": 128162,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Fue en la ciudad de ustedes donde todos nuestros males comenzaron.",
+      "verse": 13,
+      "start_ms": 128162,
+      "end_ms": 132387,
+      "duration_ms": 4225
+    },
+    {
+      "word": "Allí pecaron los israelitas, y allí pecaron los de Jerusalén.",
+      "verse": 13,
+      "start_ms": 132387,
+      "end_ms": 136874,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Por eso tendrán que despedirse de su amado pueblo de Moréset-gat.",
+      "verse": 14,
+      "start_ms": 136875,
+      "end_ms": 141087,
+      "duration_ms": 4212
+    },
+    {
+      "word": "Los reyes de Israel serán engañados en el pueblo llamado Trampa.",
+      "verse": 14,
+      "start_ms": 141087,
+      "end_ms": 145487,
+      "duration_ms": 4400
+    },
+    {
+      "word": "Y Dios dijo: Contra ustedes, habitantes del pueblo llamado Conquista, voy a enviar un conquistador, y aun los israelitas más valientes huirán hasta la cueva de Adulam.",
+      "verse": 15,
+      "start_ms": 145487,
+      "end_ms": 155874,
+      "duration_ms": 10387
+    },
+    {
+      "word": "Habitantes de Jerusalén, ¡lloren y aféitense la barba!, ¡lloren y córtense el cabello hasta quedar calvos como un buitre!",
+      "verse": 16,
+      "start_ms": 155875,
+      "end_ms": 163737,
+      "duration_ms": 7862
+    },
+    {
+      "word": "Sus hijos queridos serán llevados a un país lejos de aquí!",
+      "verse": 16,
+      "start_ms": 163737,
+      "end_ms": 167612,
+      "duration_ms": 3875
+    }
+  ]
+}

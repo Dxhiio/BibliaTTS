@@ -1,0 +1,516 @@
+{
+  "book": "APO",
+  "chapter": 2,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 26,
+  "word_count": 46,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 177,
+      "text": "Escribe al ángel de la iglesia de Éfeso: «Yo sostengo las siete estrellas en mi mano derecha, y camino entre los siete candelabros de oro. Pon atención a lo que te voy a decir:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 177,
+      "char_end": 463,
+      "text": "‘Estoy enterado de todo lo que haces, y sé que por obedecerme has tenido muchas dificultades. También sé que las has soportado con mucha paciencia, y que rechazas a los malvados. Has puesto a prueba a los que no son apóstoles pero dicen serlo, y has demostrado que son unos mentirosos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 463,
+      "char_end": 564,
+      "text": "Has sido paciente, y por obedecerme has sufrido mucho. Pero aun así no te has cansado de obedecerme."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 564,
+      "char_end": 683,
+      "text": "’Sin embargo, hay algo que no me gusta de ti, y es que ya no me amas tanto como me amabas cuando te hiciste cristiano."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 683,
+      "char_end": 878,
+      "text": "Por eso, acuérdate de cómo eras antes, y vuelve a obedecer a Dios. Deja de hacer lo malo, y compórtate como al principio. Si no lo haces, yo iré a castigarte y quitaré tu candelabro de su lugar."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 878,
+      "char_end": 961,
+      "text": "’Lo que me gusta de ti es que, lo mismo que yo, odias lo que hacen los nicolaitas."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 961,
+      "char_end": 1228,
+      "text": "’Si alguien tiene oídos, que ponga atención a lo que el Espíritu de Dios les dice a las iglesias.’A los que triunfen sobre las dificultades y no dejen de confiar en mí, les daré a comer el fruto del árbol que da vida. Ese árbol crece en el hermoso jardín de Dios.’»."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1228,
+      "char_end": 1374,
+      "text": "Escribe al ángel de la iglesia de Esmirna: «Yo soy el primero y el último. ¡Había muerto, pero he resucitado! Escucha bien lo que te voy a decir:"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1374,
+      "char_end": 1611,
+      "text": "‘Yo conozco las dificultades por las que ahora pasas, y sé que eres pobre, aunque espiritualmente eres muy rico. También sé lo mal que hablan de ti los que se consideran judíos, pero que en realidad son un grupo que pertenece a Satanás."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1611,
+      "char_end": 1879,
+      "text": "’No tengas miedo de lo que vas a sufrir. El diablo meterá a algunos de ustedes en la cárcel, para ver si en verdad confían en mí. Durante algún tiempo, ustedes tendrán muchas dificultades; pero si confían en mí hasta la muerte, yo les daré como premio la vida eterna."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1879,
+      "char_end": 2076,
+      "text": "’Si alguien tiene oídos, que ponga atención a lo que el Espíritu de Dios les dice a las iglesias.’Los que triunfen sobre las dificultades y sigan confiando en mí, jamás serán separados de Dios.’»."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 2076,
+      "char_end": 2195,
+      "text": "Escribe al ángel de la iglesia de Pérgamo: «Yo tengo la espada delgada y de doble filo. Escucha lo que te voy a decir:"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 2195,
+      "char_end": 2441,
+      "text": "‘Yo sé que tú vives en la ciudad donde Satanás tiene su trono, pero también sé que, a pesar de eso, sigues confiando en mí. En esa ciudad mataron a Antipas, quien siempre me sirvió con fidelidad, ¡y ni siquiera entonces dejaste de confiar en mí!"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 2441,
+      "char_end": 2700,
+      "text": "’Sin embargo, hay algo que no me gusta de ti, y es que no has rechazado a los que siguen el mal ejemplo de Balaam. Él le aconsejó a Balac que hiciera pecar a los israelitas, y además los animó a adorar dioses falsos y a comer de lo que se les había ofrecido."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2700,
+      "char_end": 2774,
+      "text": "’Tampoco has rechazado a los que siguen las enseñanzas de los nicolaitas."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2774,
+      "char_end": 2928,
+      "text": "Por eso, vuelve a obedecerme, porque si no lo haces, vendré pronto y, con el poder de mi palabra, te castigaré a ti, a los nicolaitas y a sus seguidores."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2928,
+      "char_end": 3282,
+      "text": "’Si alguien tiene oídos, que ponga atención a lo que el Espíritu de Dios les dice a las iglesias.’A los que triunfen sobre las dificultades y sigan confiando en mí, les daré a comer del maná escondido y les entregaré una piedra blanca. Sobre esa piedra está escrito un nuevo nombre, que nadie conoce. Solamente lo conocerán los que reciban la piedra.’»."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 3282,
+      "char_end": 3463,
+      "text": "Escribe al ángel de la iglesia de Tiatira: «¡Yo soy el Hijo de Dios! Mis ojos parecen llamas de fuego, y mis pies brillan como el bronce bien pulido. Escucha lo que te voy a decir:"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 3463,
+      "char_end": 3662,
+      "text": "‘Estoy enterado de todo lo que haces. Sé muy bien que me amas y que no has dejado de confiar en mí; también sé que has servido a los demás, y que ahora los estás ayudando mucho más que al principio."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 3662,
+      "char_end": 3922,
+      "text": "’Pero hay algo que no me gusta de ti, y es que has dejado que Jezabel siga engañando a mis servidores. Esa mujer anda diciendo que yo la envié, y les ha dicho a mis servidores que pueden comer de lo que se ofrece a dioses falsos, y los anima a serme infieles."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 3922,
+      "char_end": 4041,
+      "text": "Yo le he dado tiempo para que vuelva a obedecerme, pero no ha querido hacerlo, ni ha dejado de creer en dioses falsos."
+    },
+    {
+      "verse": 22,
+      "label": "22-23",
+      "char_start": 4041,
+      "char_end": 4406,
+      "text": "’Yo voy a hacer que esa mujer se enferme gravemente, y que se mueran los que obedecen sus enseñanzas y siguen creyendo en dioses falsos. Pero si ellos se arrepienten y vuelven a obedecerme, no les haré ningún daño.’Así, todas las iglesias sabrán que yo conozco los pensamientos y deseos de todos, y que a cada uno le daré el castigo que merecen sus malas acciones."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 4406,
+      "char_end": 4598,
+      "text": "’Pero a los que están en Tiatira, los cuales no siguen las enseñanzas de esa mujer, ni han llegado a conocer lo que algunos llaman los secretos profundos de Satanás, les doy esta única orden:"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 4598,
+      "char_end": 4655,
+      "text": "que sigan creyendo firmemente en mí hasta que yo vuelva."
+    },
+    {
+      "verse": 26,
+      "label": "26-28",
+      "char_start": 4655,
+      "char_end": 4999,
+      "text": "’A los que triunfen sobre las dificultades y no dejen de confiar en mí, les daré como señal de victoria la estrella de la mañana. Y si me obedecen siempre, les daré poder sobre los países del mundo, así como mi Padre me dio ese poder a mí. Gobernarán a esos países, y los tratarán con dureza; ¡los harán pedazos, como si fueran ollas de barro!"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 4999,
+      "char_end": 5100,
+      "text": "’Si alguien tiene oídos, que ponga atención a lo que el Espíritu de Dios les dice a las iglesias.’»."
+    }
+  ],
+  "words": [
+    {
+      "word": "Escribe al ángel de la iglesia de Éfeso: «Yo sostengo las siete estrellas en mi mano derecha, y camino entre los siete candelabros de oro.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 8362,
+      "duration_ms": 8262
+    },
+    {
+      "word": "Pon atención a lo que te voy a decir: ‘Estoy enterado de todo lo que haces, y sé que por obedecerme has tenido muchas dificultades.",
+      "verse": 1,
+      "start_ms": 8312,
+      "end_ms": 16437,
+      "duration_ms": 8125
+    },
+    {
+      "word": "También sé que las has soportado con mucha paciencia, y que rechazas a los malvados.",
+      "verse": 2,
+      "start_ms": 16437,
+      "end_ms": 21762,
+      "duration_ms": 5325
+    },
+    {
+      "word": "Has puesto a prueba a los que no son apóstoles pero dicen serlo, y has demostrado que son unos mentirosos.",
+      "verse": 2,
+      "start_ms": 21762,
+      "end_ms": 28437,
+      "duration_ms": 6675
+    },
+    {
+      "word": "Has sido paciente, y por obedecerme has sufrido mucho.",
+      "verse": 3,
+      "start_ms": 28437,
+      "end_ms": 32487,
+      "duration_ms": 4050
+    },
+    {
+      "word": "Pero aun así no te has cansado de obedecerme.",
+      "verse": 3,
+      "start_ms": 32487,
+      "end_ms": 35724,
+      "duration_ms": 3237
+    },
+    {
+      "word": "Sin embargo, hay algo que no me gusta de ti, y es que ya no me amas tanto como me amabas cuando te hiciste cristiano.",
+      "verse": 4,
+      "start_ms": 35725,
+      "end_ms": 42875,
+      "duration_ms": 7150
+    },
+    {
+      "word": "Por eso, acuérdate de cómo eras antes, y vuelve a obedecer a Dios.",
+      "verse": 5,
+      "start_ms": 42875,
+      "end_ms": 48037,
+      "duration_ms": 5162
+    },
+    {
+      "word": "Deja de hacer lo malo, y compórtate como al principio.",
+      "verse": 5,
+      "start_ms": 48037,
+      "end_ms": 52024,
+      "duration_ms": 3987
+    },
+    {
+      "word": "Si no lo haces, yo iré a castigarte y quitaré tu candelabro de su lugar.",
+      "verse": 5,
+      "start_ms": 52025,
+      "end_ms": 57262,
+      "duration_ms": 5237
+    },
+    {
+      "word": "Lo que me gusta de ti es que, lo mismo que yo, odias lo que hacen los nicolaitas.",
+      "verse": 6,
+      "start_ms": 57262,
+      "end_ms": 62912,
+      "duration_ms": 5650
+    },
+    {
+      "word": "Si alguien tiene oídos, que ponga atención a lo que el Espíritu de Dios les dice a las iglesias.’A los que triunfen sobre las dificultades y no dejen de confiar en mí, les daré a comer el fruto del árbol que da vida.",
+      "verse": 7,
+      "start_ms": 62912,
+      "end_ms": 75237,
+      "duration_ms": 12325
+    },
+    {
+      "word": "Ese árbol crece en el hermoso jardín de Dios.",
+      "verse": 7,
+      "start_ms": 75237,
+      "end_ms": 78924,
+      "duration_ms": 3687
+    },
+    {
+      "word": "Escribe al ángel de la iglesia de Esmirna: «Yo soy el primero y el último.",
+      "verse": 8,
+      "start_ms": 78925,
+      "end_ms": 84037,
+      "duration_ms": 5112
+    },
+    {
+      "word": "Había muerto, pero he resucitado!",
+      "verse": 8,
+      "start_ms": 84037,
+      "end_ms": 87074,
+      "duration_ms": 3037
+    },
+    {
+      "word": "Escucha bien lo que te voy a decir: ‘Yo conozco las dificultades por las que ahora pasas, y sé que eres pobre, aunque espiritualmente eres muy rico.",
+      "verse": 8,
+      "start_ms": 87075,
+      "end_ms": 96000,
+      "duration_ms": 8925
+    },
+    {
+      "word": "También sé lo mal que hablan de ti los que se consideran judíos, pero que en realidad son un grupo que pertenece a Satanás.",
+      "verse": 9,
+      "start_ms": 96000,
+      "end_ms": 102912,
+      "duration_ms": 6912
+    },
+    {
+      "word": "No tengas miedo de lo que vas a sufrir.",
+      "verse": 10,
+      "start_ms": 102912,
+      "end_ms": 105799,
+      "duration_ms": 2887
+    },
+    {
+      "word": "El diablo meterá a algunos de ustedes en la cárcel, para ver si en verdad confían en mí.",
+      "verse": 10,
+      "start_ms": 105800,
+      "end_ms": 111325,
+      "duration_ms": 5525
+    },
+    {
+      "word": "Durante algún tiempo, ustedes tendrán muchas dificultades; pero si confían en mí hasta la muerte, yo les daré como premio la vida eterna.",
+      "verse": 10,
+      "start_ms": 111325,
+      "end_ms": 119912,
+      "duration_ms": 8587
+    },
+    {
+      "word": "Si alguien tiene oídos, que ponga atención a lo que el Espíritu de Dios les dice a las iglesias.’Los que triunfen sobre las dificultades y sigan confiando en mí, jamás serán separados de Dios.",
+      "verse": 11,
+      "start_ms": 119912,
+      "end_ms": 131324,
+      "duration_ms": 11412
+    },
+    {
+      "word": "Escribe al ángel de la iglesia de Pérgamo: «Yo tengo la espada delgada y de doble filo.",
+      "verse": 12,
+      "start_ms": 131325,
+      "end_ms": 137187,
+      "duration_ms": 5862
+    },
+    {
+      "word": "Escucha lo que te voy a decir: ‘Yo sé que tú vives en la ciudad donde Satanás tiene su trono, pero también sé que, a pesar de eso, sigues confiando en mí.",
+      "verse": 12,
+      "start_ms": 137187,
+      "end_ms": 146662,
+      "duration_ms": 9475
+    },
+    {
+      "word": "En esa ciudad mataron a Antipas, quien siempre me sirvió con fidelidad, ¡y ni siquiera entonces dejaste de confiar en mí!",
+      "verse": 13,
+      "start_ms": 146662,
+      "end_ms": 153937,
+      "duration_ms": 7275
+    },
+    {
+      "word": "Sin embargo, hay algo que no me gusta de ti, y es que no has rechazado a los que siguen el mal ejemplo de Balaam.",
+      "verse": 14,
+      "start_ms": 153937,
+      "end_ms": 160837,
+      "duration_ms": 6900
+    },
+    {
+      "word": "Él le aconsejó a Balac que hiciera pecar a los israelitas, y además los animó a adorar dioses falsos y a comer de lo que se les había ofrecido.",
+      "verse": 14,
+      "start_ms": 160837,
+      "end_ms": 169362,
+      "duration_ms": 8525
+    },
+    {
+      "word": "Tampoco has rechazado a los que siguen las enseñanzas de los nicolaitas.",
+      "verse": 15,
+      "start_ms": 169362,
+      "end_ms": 173974,
+      "duration_ms": 4612
+    },
+    {
+      "word": "Por eso, vuelve a obedecerme, porque si no lo haces, vendré pronto y, con el poder de mi palabra, te castigaré a ti, a los nicolaitas y a sus seguidores.",
+      "verse": 16,
+      "start_ms": 173975,
+      "end_ms": 184525,
+      "duration_ms": 10550
+    },
+    {
+      "word": "Si alguien tiene oídos, que ponga atención a lo que el Espíritu de Dios les dice a las iglesias.’A los que triunfen sobre las dificultades y sigan confiando en mí, les daré a comer del maná escondido y les entregaré una piedra blanca.",
+      "verse": 17,
+      "start_ms": 184525,
+      "end_ms": 198125,
+      "duration_ms": 13600
+    },
+    {
+      "word": "Sobre esa piedra está escrito un nuevo nombre, que nadie conoce.",
+      "verse": 17,
+      "start_ms": 198125,
+      "end_ms": 202737,
+      "duration_ms": 4612
+    },
+    {
+      "word": "Solamente lo conocerán los que reciban la piedra.",
+      "verse": 17,
+      "start_ms": 202737,
+      "end_ms": 206174,
+      "duration_ms": 3437
+    },
+    {
+      "word": "Escribe al ángel de la iglesia de Tiatira: «¡Yo soy el Hijo de Dios!",
+      "verse": 18,
+      "start_ms": 206175,
+      "end_ms": 210925,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Mis ojos parecen llamas de fuego, y mis pies brillan como el bronce bien pulido.",
+      "verse": 18,
+      "start_ms": 210925,
+      "end_ms": 216175,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Escucha lo que te voy a decir: ‘Estoy enterado de todo lo que haces.",
+      "verse": 18,
+      "start_ms": 216175,
+      "end_ms": 220925,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Sé muy bien que me amas y que no has dejado de confiar en mí; también sé que has servido a los demás, y que ahora los estás ayudando mucho más que al principio.",
+      "verse": 19,
+      "start_ms": 220925,
+      "end_ms": 229800,
+      "duration_ms": 8875
+    },
+    {
+      "word": "Pero hay algo que no me gusta de ti, y es que has dejado que Jezabel siga engañando a mis servidores.",
+      "verse": 20,
+      "start_ms": 229800,
+      "end_ms": 235900,
+      "duration_ms": 6100
+    },
+    {
+      "word": "Esa mujer anda diciendo que yo la envié, y les ha dicho a mis servidores que pueden comer de lo que se ofrece a dioses falsos, y los anima a serme infieles.",
+      "verse": 20,
+      "start_ms": 235900,
+      "end_ms": 245025,
+      "duration_ms": 9125
+    },
+    {
+      "word": "Yo le he dado tiempo para que vuelva a",
+      "verse": 21,
+      "start_ms": 245025,
+      "end_ms": 247962,
+      "duration_ms": 2937
+    },
+    {
+      "word": "obedecerme, pero no ha querido hacerlo, ni ha dejado de creer en dioses falsos.",
+      "verse": 21,
+      "start_ms": 248116,
+      "end_ms": 253853,
+      "duration_ms": 5737
+    },
+    {
+      "word": "Yo voy a hacer que esa mujer se enferme gravemente, y que se mueran los que obedecen sus enseñanzas y siguen creyendo en dioses falsos.",
+      "verse": 22,
+      "start_ms": 253803,
+      "end_ms": 261728,
+      "duration_ms": 7925
+    },
+    {
+      "word": "Pero si ellos se arrepienten y vuelven a obedecerme, no les haré ningún daño.’Así, todas las iglesias sabrán que yo conozco los pensamientos y deseos de todos, y que a cada uno le daré el castigo que merecen sus malas acciones.",
+      "verse": 22,
+      "start_ms": 261728,
+      "end_ms": 275315,
+      "duration_ms": 13587
+    },
+    {
+      "word": "Pero a los que están en Tiatira, los cuales no siguen las enseñanzas de esa mujer, ni han llegado a conocer lo que algunos llaman los secretos profundos de Satanás, les doy esta única orden: que sigan creyendo firmemente en mí hasta que yo vuelva.",
+      "verse": 24,
+      "start_ms": 275316,
+      "end_ms": 289053,
+      "duration_ms": 13737
+    },
+    {
+      "word": "A los que triunfen sobre las dificultades y no dejen de confiar en mí, les daré como señal de victoria la estrella de la mañana.",
+      "verse": 26,
+      "start_ms": 289053,
+      "end_ms": 296265,
+      "duration_ms": 7212
+    },
+    {
+      "word": "Y si me obedecen siempre, les daré poder sobre los países del mundo, así como mi Padre me dio ese poder a mí.",
+      "verse": 26,
+      "start_ms": 296266,
+      "end_ms": 303203,
+      "duration_ms": 6937
+    },
+    {
+      "word": "Gobernarán a esos países, y los tratarán con dureza; ¡los harán pedazos, como si fueran ollas de barro!",
+      "verse": 26,
+      "start_ms": 303203,
+      "end_ms": 310203,
+      "duration_ms": 7000
+    },
+    {
+      "word": "Si alguien tiene oídos, que ponga atención a lo que el Espíritu de Dios les dice a las iglesias.",
+      "verse": 29,
+      "start_ms": 310203,
+      "end_ms": 316465,
+      "duration_ms": 6262
+    }
+  ]
+}

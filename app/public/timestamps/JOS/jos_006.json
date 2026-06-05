@@ -1,0 +1,516 @@
+{
+  "book": "JOS",
+  "chapter": 6,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 26,
+  "word_count": 46,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 145,
+      "text": "El portón de la ciudad de Jericó se cerró y quedó bajo vigilancia para que no entraran los israelitas. Nadie podía entrar ni salir de la ciudad."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 145,
+      "char_end": 246,
+      "text": "Entonces Dios le dijo a Josué: Voy a poner en tus manos a Jericó, a su rey y a sus mejores soldados."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 246,
+      "char_end": 332,
+      "text": "Tú y tus soldados marcharán alrededor de la ciudad una vez al día, durante seis días."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 332,
+      "char_end": 531,
+      "text": "Delante del cofre del pacto irán siete sacerdotes, cada uno de ellos con una trompeta. El séptimo día todos marcharán siete veces alrededor de la ciudad, mientras los sacerdotes tocan sus trompetas."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 531,
+      "char_end": 734,
+      "text": "Después de eso, ellos darán un toque largo. En cuanto lo oigan, todos los hombres gritarán con fuerza y los muros de la ciudad se vendrán abajo; entonces cada uno atacará la ciudad sin dar marcha atrás."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 734,
+      "char_end": 879,
+      "text": "Josué reunió a los sacerdotes y les dijo: ¡Vamos, levanten el cofre del pacto! Siete de ustedes irán al frente del cofre, tocando sus trompetas."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 879,
+      "char_end": 1029,
+      "text": "Después les dijo a sus hombres: Comiencen a marchar alrededor de la ciudad. La guardia avanzará al frente del cofre del pacto, lista para el combate."
+    },
+    {
+      "verse": 8,
+      "label": "8-9",
+      "char_start": 1029,
+      "char_end": 1315,
+      "text": "Tal como Josué lo había ordenado, primero avanzó un grupo especial de hombres armados. Siguieron después los sacerdotes que tocaban las trompetas sin parar. Después se pusieron en marcha los sacerdotes que llevaban el cofre del pacto, y cerraba la marcha otro grupo de hombres armados."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1315,
+      "char_end": 1461,
+      "text": "Josué les había dicho a sus hombres: Vayan en silencio, no se dejen oír. Pero cuando les diga que griten, ustedes gritarán con todas sus fuerzas."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1461,
+      "char_end": 1584,
+      "text": "Este grupo de hombres llevó el cofre del pacto alrededor de la ciudad, y después volvió al campamento para pasar la noche."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1584,
+      "char_end": 1701,
+      "text": "A la mañana siguiente Josué se levantó temprano, y mandó a los sacerdotes que volvieran a llevar el cofre del pacto."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1701,
+      "char_end": 1926,
+      "text": "Primero salió el grupo especial de hombres armados, seguido de los siete sacerdotes con sus trompetas. Después de ellos salieron los sacerdotes que llevaban el cofre del pacto y, finalmente, el otro grupo de hombres armados."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1926,
+      "char_end": 2053,
+      "text": "Ese segundo día marcharon una sola vez alrededor de la ciudad, y volvieron al campamento. Hicieron lo mismo durante seis días."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2053,
+      "char_end": 2183,
+      "text": "El séptimo día se levantaron de madrugada y volvieron a marchar alrededor de la ciudad, sólo que ese día lo hicieron siete veces."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2183,
+      "char_end": 2337,
+      "text": "En la séptima vuelta, mientras los sacerdotes tocaban sus trompetas, Josué dio la orden: ¡Griten con todas sus fuerzas! ¡Dios nos ha entregado la ciudad!"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2337,
+      "char_end": 2541,
+      "text": "La ciudad y todos sus habitantes serán destruidos por completo, como una ofrenda para Dios. Pero acuérdense de no hacerles daño ni a Rahab ni a su familia, porque ella escondió a los espías que enviamos."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2541,
+      "char_end": 2654,
+      "text": "No toquen nada de lo que hay que destruir. Si lo hacen, causarán una terrible destrucción en nuestro campamento."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2654,
+      "char_end": 2758,
+      "text": "Toda la plata, y el oro, el bronce y el hierro serán dedicados a Dios, y deben ponerse con sus tesoros."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2758,
+      "char_end": 2965,
+      "text": "Cuando los sacerdotes tocaron sus trompetas, los soldados gritaron con todas sus fuerzas y los muros se derrumbaron. Entonces todo el ejército entró en la ciudad, y cada soldado la atacó hasta conquistarla."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2965,
+      "char_end": 3087,
+      "text": "Con sus espadas mataron a todos los hombres, mujeres, niños y ancianos. Lo mismo hicieron con los bueyes, ovejas y asnos."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3087,
+      "char_end": 3227,
+      "text": "Josué les había dicho a los dos espías: Vayan a la casa de Rahab y pónganla a salvo, junto con toda su familia, tal como se lo prometieron."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3227,
+      "char_end": 3365,
+      "text": "Los dos espías fueron a buscar a Rahab y a todos sus familiares, y los llevaron a un lugar seguro cerca del campamento de los israelitas."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3365,
+      "char_end": 3559,
+      "text": "Mientras tanto, los soldados incendiaron la ciudad y quemaron todo, pero se llevaron la plata, el oro y las vasijas de bronce y de hierro, y todo esto lo pusieron junto con los tesoros de Dios."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3559,
+      "char_end": 3775,
+      "text": "Los únicos que se salvaron fueron Rahab y todos los de su casa. Josué la salvó porque ella escondió a los dos espías que él había enviado a Jericó. Hasta el día de hoy hay descendientes de Rahab que viven en Israel."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3775,
+      "char_end": 4060,
+      "text": "Después de la destrucción de Jericó, Josué les advirtió a los israelitas: Nadie deberá edificar de nuevo la ciudad de Jericó. Cualquiera que trate de hacerlo caerá bajo un terrible castigo de Dios. Si alguien intenta reconstruirla, Dios hará que mueran todos los hijos de esa persona."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 4060,
+      "char_end": 4143,
+      "text": "Dios ayudó a Josué en todo lo que hizo, y todo el país se enteró de sus victorias."
+    }
+  ],
+  "words": [
+    {
+      "word": "El portón de la ciudad de Jericó se cerró y quedó bajo vigilancia para que no entraran los israelitas.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6200,
+      "duration_ms": 6100
+    },
+    {
+      "word": "Nadie podía entrar ni salir de la ciudad.",
+      "verse": 1,
+      "start_ms": 6150,
+      "end_ms": 9362,
+      "duration_ms": 3212
+    },
+    {
+      "word": "Entonces Dios le dijo a Josué: Voy a poner en tus manos a Jericó, a su rey y a sus mejores soldados.",
+      "verse": 2,
+      "start_ms": 9362,
+      "end_ms": 16299,
+      "duration_ms": 6937
+    },
+    {
+      "word": "Tú y tus soldados marcharán alrededor de la ciudad una vez al día, durante seis días.",
+      "verse": 3,
+      "start_ms": 16300,
+      "end_ms": 21925,
+      "duration_ms": 5625
+    },
+    {
+      "word": "Delante del cofre del pacto irán siete sacerdotes, cada uno de ellos con una trompeta.",
+      "verse": 4,
+      "start_ms": 21925,
+      "end_ms": 28125,
+      "duration_ms": 6200
+    },
+    {
+      "word": "El séptimo día todos marcharán siete veces alrededor de la ciudad, mientras los sacerdotes tocan sus trompetas.",
+      "verse": 4,
+      "start_ms": 28125,
+      "end_ms": 35287,
+      "duration_ms": 7162
+    },
+    {
+      "word": "Después de eso, ellos darán un toque largo.",
+      "verse": 5,
+      "start_ms": 35287,
+      "end_ms": 38824,
+      "duration_ms": 3537
+    },
+    {
+      "word": "En cuanto lo oigan, todos los hombres gritarán con fuerza y los muros de la ciudad se vendrán abajo; entonces cada uno atacará la ciudad sin dar marcha atrás.",
+      "verse": 5,
+      "start_ms": 38825,
+      "end_ms": 48237,
+      "duration_ms": 9412
+    },
+    {
+      "word": "Josué reunió a los sacerdotes y les dijo: ¡Vamos, levanten el cofre del pacto!",
+      "verse": 6,
+      "start_ms": 48237,
+      "end_ms": 53687,
+      "duration_ms": 5450
+    },
+    {
+      "word": "Siete de ustedes irán al frente del cofre, tocando sus trompetas.",
+      "verse": 6,
+      "start_ms": 53687,
+      "end_ms": 58462,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Después les dijo a sus hombres: Comiencen a marchar alrededor de la ciudad.",
+      "verse": 7,
+      "start_ms": 58462,
+      "end_ms": 63474,
+      "duration_ms": 5012
+    },
+    {
+      "word": "La guardia avanzará al frente del cofre del pacto, lista para el combate.",
+      "verse": 7,
+      "start_ms": 63475,
+      "end_ms": 68400,
+      "duration_ms": 4925
+    },
+    {
+      "word": "Tal como Josué lo había ordenado, primero avanzó un grupo especial de hombres armados.",
+      "verse": 8,
+      "start_ms": 68400,
+      "end_ms": 73975,
+      "duration_ms": 5575
+    },
+    {
+      "word": "Siguieron después los sacerdotes que tocaban las trompetas sin parar.",
+      "verse": 8,
+      "start_ms": 73975,
+      "end_ms": 78200,
+      "duration_ms": 4225
+    },
+    {
+      "word": "Después se pusieron en marcha los sacerdotes que llevaban el cofre del pacto, y cerraba la marcha otro grupo de hombres armados.",
+      "verse": 8,
+      "start_ms": 78200,
+      "end_ms": 85637,
+      "duration_ms": 7437
+    },
+    {
+      "word": "Josué les había dicho a sus hombres: Vayan en silencio, no se dejen oír.",
+      "verse": 10,
+      "start_ms": 85637,
+      "end_ms": 90999,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Pero cuando les diga que griten, ustedes gritarán con todas sus fuerzas.",
+      "verse": 10,
+      "start_ms": 91000,
+      "end_ms": 95875,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Este grupo de hombres llevó el cofre del pacto alrededor de la ciudad, y después volvió al campamento para pasar la noche.",
+      "verse": 11,
+      "start_ms": 95875,
+      "end_ms": 102925,
+      "duration_ms": 7050
+    },
+    {
+      "word": "A la mañana siguiente Josué se levantó temprano, y mandó a los sacerdotes que volvieran a llevar el cofre del pacto.",
+      "verse": 12,
+      "start_ms": 102925,
+      "end_ms": 109800,
+      "duration_ms": 6875
+    },
+    {
+      "word": "Primero salió el grupo especial de hombres armados, seguido de los siete sacerdotes con sus trompetas.",
+      "verse": 13,
+      "start_ms": 109800,
+      "end_ms": 116250,
+      "duration_ms": 6450
+    },
+    {
+      "word": "Después de ellos salieron los sacerdotes que llevaban el cofre del pacto y, finalmente, el otro grupo de hombres armados.",
+      "verse": 13,
+      "start_ms": 116250,
+      "end_ms": 123700,
+      "duration_ms": 7450
+    },
+    {
+      "word": "Ese segundo día marcharon una sola vez alrededor de la ciudad, y volvieron al campamento.",
+      "verse": 14,
+      "start_ms": 123700,
+      "end_ms": 129525,
+      "duration_ms": 5825
+    },
+    {
+      "word": "Hicieron lo mismo durante seis días.",
+      "verse": 14,
+      "start_ms": 129525,
+      "end_ms": 132537,
+      "duration_ms": 3012
+    },
+    {
+      "word": "El séptimo día se levantaron de madrugada y volvieron a marchar alrededor de la ciudad, sólo que ese día lo hicieron siete veces.",
+      "verse": 15,
+      "start_ms": 132537,
+      "end_ms": 140249,
+      "duration_ms": 7712
+    },
+    {
+      "word": "En la séptima vuelta, mientras los sacerdotes tocaban sus trompetas, Josué dio la orden: ¡Griten con todas sus fuerzas!",
+      "verse": 16,
+      "start_ms": 140250,
+      "end_ms": 148287,
+      "duration_ms": 8037
+    },
+    {
+      "word": "Dios nos ha entregado la ciudad!",
+      "verse": 16,
+      "start_ms": 148287,
+      "end_ms": 150887,
+      "duration_ms": 2600
+    },
+    {
+      "word": "La ciudad y todos sus habitantes serán destruidos por completo, como una ofrenda para Dios.",
+      "verse": 17,
+      "start_ms": 150887,
+      "end_ms": 156824,
+      "duration_ms": 5937
+    },
+    {
+      "word": "Pero acuérdense de no hacerles daño ni a Rahab ni a su familia, porque ella escondió a los espías que enviamos.",
+      "verse": 17,
+      "start_ms": 156825,
+      "end_ms": 163425,
+      "duration_ms": 6600
+    },
+    {
+      "word": "No toquen nada de lo que hay que destruir.",
+      "verse": 18,
+      "start_ms": 163425,
+      "end_ms": 166387,
+      "duration_ms": 2962
+    },
+    {
+      "word": "Si lo hacen, causarán una terrible destrucción en nuestro campamento.",
+      "verse": 18,
+      "start_ms": 166387,
+      "end_ms": 171149,
+      "duration_ms": 4762
+    },
+    {
+      "word": "Toda la plata, y el oro, el bronce y el hierro serán dedicados a Dios, y deben ponerse con sus tesoros.",
+      "verse": 19,
+      "start_ms": 171150,
+      "end_ms": 178462,
+      "duration_ms": 7312
+    },
+    {
+      "word": "Cuando los sacerdotes tocaron sus trompetas, los soldados gritaron con todas sus fuerzas y los muros se derrumbaron.",
+      "verse": 20,
+      "start_ms": 178462,
+      "end_ms": 185437,
+      "duration_ms": 6975
+    },
+    {
+      "word": "Entonces todo el ejército entró en la ciudad, y cada soldado la atacó hasta conquistarla.",
+      "verse": 20,
+      "start_ms": 185437,
+      "end_ms": 191274,
+      "duration_ms": 5837
+    },
+    {
+      "word": "Con sus espadas mataron a todos los hombres, mujeres, niños y ancianos.",
+      "verse": 21,
+      "start_ms": 191275,
+      "end_ms": 196700,
+      "duration_ms": 5425
+    },
+    {
+      "word": "Lo mismo hicieron con los bueyes, ovejas y asnos.",
+      "verse": 21,
+      "start_ms": 196700,
+      "end_ms": 200512,
+      "duration_ms": 3812
+    },
+    {
+      "word": "Josué les había dicho a los dos espías: Vayan a la casa de Rahab y pónganla a salvo, junto con toda su familia, tal como se lo prometieron.",
+      "verse": 22,
+      "start_ms": 200512,
+      "end_ms": 209499,
+      "duration_ms": 8987
+    },
+    {
+      "word": "Los dos espías fueron a buscar a Rahab y a todos sus familiares, y los llevaron a un lugar seguro cerca del campamento de los israelitas.",
+      "verse": 23,
+      "start_ms": 209500,
+      "end_ms": 217687,
+      "duration_ms": 8187
+    },
+    {
+      "word": "Mientras tanto, los soldados incendiaron la ciudad y quemaron todo, pero se llevaron la plata, el oro y las vasijas de bronce y de hierro, y todo esto lo pusieron junto con los tesoros de Dios.",
+      "verse": 24,
+      "start_ms": 217687,
+      "end_ms": 229112,
+      "duration_ms": 11425
+    },
+    {
+      "word": "Los únicos que se salvaron fueron Rahab y todos los de su casa.",
+      "verse": 25,
+      "start_ms": 229112,
+      "end_ms": 233237,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Josué la salvó porque ella escondió a los dos espías que él había enviado a Jericó.",
+      "verse": 25,
+      "start_ms": 233237,
+      "end_ms": 238524,
+      "duration_ms": 5287
+    },
+    {
+      "word": "Hasta el día de hoy hay descendientes de Rahab que viven en Israel.",
+      "verse": 25,
+      "start_ms": 238525,
+      "end_ms": 242675,
+      "duration_ms": 4150
+    },
+    {
+      "word": "Después de la destrucción de Jericó, Josué les advirtió a los israelitas: Nadie deberá edificar de nuevo la ciudad de Jericó.",
+      "verse": 26,
+      "start_ms": 242675,
+      "end_ms": 250562,
+      "duration_ms": 7887
+    },
+    {
+      "word": "Cualquiera que trate de hacerlo caerá bajo un terrible castigo de Dios.",
+      "verse": 26,
+      "start_ms": 250562,
+      "end_ms": 255162,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Si alguien intenta reconstruirla,",
+      "verse": 26,
+      "start_ms": 255162,
+      "end_ms": 258037,
+      "duration_ms": 2875
+    },
+    {
+      "word": "Dios hará que mueran todos los hijos de esa persona.",
+      "verse": 26,
+      "start_ms": 258196,
+      "end_ms": 261933,
+      "duration_ms": 3737
+    },
+    {
+      "word": "Dios ayudó a Josué en todo lo que hizo, y todo el país se enteró de sus victorias.",
+      "verse": 27,
+      "start_ms": 261883,
+      "end_ms": 267633,
+      "duration_ms": 5750
+    }
+  ]
+}

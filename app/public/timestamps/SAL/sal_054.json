@@ -1,0 +1,96 @@
+{
+  "book": "SAL",
+  "chapter": 54,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 5,
+  "word_count": 7,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 86,
+      "text": "Dios mío, ven a salvarme, ven a defenderme; haz uso de tu poder, ¡muestra quién eres!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 86,
+      "char_end": 138,
+      "text": "Dios mío, escucha mi oración; atiende mis palabras."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 138,
+      "char_end": 226,
+      "text": "Gente extraña y violenta me ataca y me quiere matar. ¡Esa gente no quiere nada contigo!"
+    },
+    {
+      "verse": 4,
+      "label": "4-6",
+      "char_start": 226,
+      "char_end": 444,
+      "text": "Tú, mi Dios y Señor, me das tu ayuda y tu apoyo; harás caer sobre mis enemigos el mal que quieren hacerme. ¡Destrúyelos, Dios mío, pues tú eres fiel! Yo, con mucho gusto, te presentaré una ofrenda y alabaré tu bondad,"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 444,
+      "char_end": 530,
+      "text": "pues me dejaste ver la derrota de mis enemigos, y me libraste de todos mis problemas."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios mío, ven a salvarme, ven a defenderme; haz uso de tu poder, ¡muestra quién eres!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6425,
+      "duration_ms": 6325
+    },
+    {
+      "word": "Dios mío, escucha mi oración; atiende mis palabras.",
+      "verse": 2,
+      "start_ms": 6375,
+      "end_ms": 10937,
+      "duration_ms": 4562
+    },
+    {
+      "word": "Gente extraña y violenta me ataca y me quiere matar.",
+      "verse": 3,
+      "start_ms": 10937,
+      "end_ms": 14662,
+      "duration_ms": 3725
+    },
+    {
+      "word": "Esa gente no quiere nada contigo!",
+      "verse": 3,
+      "start_ms": 14662,
+      "end_ms": 17399,
+      "duration_ms": 2737
+    },
+    {
+      "word": "Tú, mi Dios y Señor, me das tu ayuda y tu apoyo; harás caer sobre mis enemigos el mal que quieren hacerme.",
+      "verse": 4,
+      "start_ms": 17400,
+      "end_ms": 24550,
+      "duration_ms": 7150
+    },
+    {
+      "word": "Destrúyelos, Dios mío, pues tú eres fiel!",
+      "verse": 4,
+      "start_ms": 24550,
+      "end_ms": 28437,
+      "duration_ms": 3887
+    },
+    {
+      "word": "Yo, con mucho gusto, te presentaré una ofrenda y alabaré tu bondad, pues me dejaste ver la derrota de mis enemigos, y me libraste de todos mis problemas.",
+      "verse": 4,
+      "start_ms": 28437,
+      "end_ms": 38387,
+      "duration_ms": 9950
+    }
+  ]
+}

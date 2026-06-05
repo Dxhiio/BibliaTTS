@@ -1,0 +1,145 @@
+{
+  "book": "SAL",
+  "chapter": 149,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 8,
+  "word_count": 11,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 109,
+      "text": "¡Alabemos a nuestro Dios! ¡Alabémoslo todos juntos, pues somos su pueblo fiel! ¡Cantémosle un cántico nuevo!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 109,
+      "char_end": 208,
+      "text": "Nosotros, los israelitas que vivimos en Jerusalén, cantemos alegres a Dios, nuestro creador y rey;"
+    },
+    {
+      "verse": 3,
+      "label": "3-4",
+      "char_start": 208,
+      "char_end": 347,
+      "text": "pues él se agrada de su pueblo y da la victoria a los humildes. ¡Alabémoslo con danzas! ¡Cantémosle himnos con música de arpas y panderos!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 347,
+      "char_end": 445,
+      "text": "Pueblo fiel de Dios, ¡alégrate por la victoria obtenida! Aunque estés dormido, ¡grita de alegría!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 445,
+      "char_end": 536,
+      "text": "Lanza a voz en cuello alabanzas a tu Dios, y toma entre tus manos una espada de dos filos,"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 536,
+      "char_end": 583,
+      "text": "para que tomes venganza de pueblos y naciones;"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 583,
+      "char_end": 644,
+      "text": "para que pongas cadenas de hierro sobre reyes y gobernantes;"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 644,
+      "char_end": 793,
+      "text": "para que se cumpla la sentencia que Dios dictó contra ellos. Pueblo fiel de Dios, ¡esto será para ti un motivo de orgullo! ¡Alabemos a nuestro Dios!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Alabemos a nuestro Dios!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 2475,
+      "duration_ms": 2375
+    },
+    {
+      "word": "Alabémoslo todos juntos, pues somos su pueblo fiel!",
+      "verse": 1,
+      "start_ms": 2425,
+      "end_ms": 6512,
+      "duration_ms": 4087
+    },
+    {
+      "word": "Cantémosle un cántico nuevo!",
+      "verse": 1,
+      "start_ms": 6512,
+      "end_ms": 9124,
+      "duration_ms": 2612
+    },
+    {
+      "word": "Nosotros, los israelitas que vivimos en Jerusalén, cantemos alegres a Dios, nuestro creador y rey; pues él se agrada de su pueblo y da la victoria a los humildes.",
+      "verse": 2,
+      "start_ms": 9125,
+      "end_ms": 19737,
+      "duration_ms": 10612
+    },
+    {
+      "word": "Alabémoslo con danzas!",
+      "verse": 3,
+      "start_ms": 19737,
+      "end_ms": 22137,
+      "duration_ms": 2400
+    },
+    {
+      "word": "Cantémosle himnos con música de arpas y panderos!",
+      "verse": 3,
+      "start_ms": 22137,
+      "end_ms": 25999,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Pueblo fiel de Dios, ¡alégrate por la victoria obtenida!",
+      "verse": 5,
+      "start_ms": 26000,
+      "end_ms": 30287,
+      "duration_ms": 4287
+    },
+    {
+      "word": "Aunque estés dormido, ¡grita de alegría!",
+      "verse": 5,
+      "start_ms": 30287,
+      "end_ms": 33449,
+      "duration_ms": 3162
+    },
+    {
+      "word": "Lanza a voz en cuello alabanzas a tu Dios, y toma entre tus manos una espada de dos filos, para que tomes venganza de pueblos y naciones; para que pongas cadenas de hierro sobre reyes y gobernantes; para que se cumpla la sentencia que Dios dictó contra ellos.",
+      "verse": 6,
+      "start_ms": 33450,
+      "end_ms": 48800,
+      "duration_ms": 15350
+    },
+    {
+      "word": "Pueblo fiel de Dios, ¡esto será para ti un motivo de orgullo!",
+      "verse": 9,
+      "start_ms": 48800,
+      "end_ms": 53237,
+      "duration_ms": 4437
+    },
+    {
+      "word": "Alabemos a nuestro Dios!",
+      "verse": 9,
+      "start_ms": 53237,
+      "end_ms": 55612,
+      "duration_ms": 2375
+    }
+  ]
+}

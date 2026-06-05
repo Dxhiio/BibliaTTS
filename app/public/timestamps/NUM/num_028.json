@@ -1,0 +1,243 @@
+{
+  "book": "NUM",
+  "chapter": 28,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 8,
+  "word_count": 25,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 25,
+      "text": "Dios le ordenó a Moisés:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 25,
+      "char_end": 193,
+      "text": "Diles a los israelitas que, en el día que les he señalado, deben presentarme las ofrendas de pan y las ofrendas quemadas en mi honor. Que lo hagan como a mí me agrada;"
+    },
+    {
+      "verse": 3,
+      "label": "3-8",
+      "char_start": 193,
+      "char_end": 576,
+      "text": "de la siguiente manera: Cada día sacrificarán y quemarán dos corderos de un año y sin defectos. Uno lo ofrecerán en la mañana, y el otro al atardecer. Con cada cordero llevarán un litro de vino, que derramarán en el santuario para honrarme, y dos kilos de la mejor harina, amasada con un litro de aceite de oliva. Ya en el monte Sinaí les había dicho cómo me agradan estas ofrendas."
+    },
+    {
+      "verse": 9,
+      "label": "9-10",
+      "char_start": 576,
+      "char_end": 782,
+      "text": "Junto con las ofrendas diarias, cada sábado sacrificarán y quemarán dos corderos de un año, que no tengan defectos. Cada cordero lo ofrecerán con vino y cuatro kilos de la mejor harina, amasada con aceite."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 782,
+      "char_end": 956,
+      "text": "Además de las ofrendas que me presentan cada día, el primer día de cada mes sacrificarán y quemarán dos toros, un carnero y siete corderos de un año, que no tengan defectos."
+    },
+    {
+      "verse": 12,
+      "label": "12-15",
+      "char_start": 956,
+      "char_end": 1320,
+      "text": "Con cada toro presentarán dos litros de vino y seis kilos de la mejor harina, amasada con aceite. Con el carnero ofrecerán litro y medio de vino y cuatro kilos de harina, y con cada cordero un litro de vino y dos kilos de harina. También me presentarán como sacrificio un chivo para que yo, su Dios, les perdone sus pecados. Así es como me agradan estas ofrendas."
+    },
+    {
+      "verse": 16,
+      "label": "16-25",
+      "char_start": 1320,
+      "char_end": 2081,
+      "text": "El día catorce del mes de Abib de cada año, dará comienzo la fiesta de la Pascua en mi honor, y durará una semana. El primer día y el último de esa semana no trabajarán, sino que se reunirán para adorarme. A partir del segundo día de la fiesta comerán panes sin levadura. Durante los siete días que dura la fiesta sacrificarán y quemarán en mi honor dos toros, un carnero y siete corderos de un año, que no tengan defectos. Además deberán entregarme las ofrendas diarias. Con cada toro presentarán seis kilos de la mejor harina amasada con aceite; con el carnero ofrecerán cuatro kilos de harina, y con cada cordero dos kilos. También me presentarán como sacrificio un chivo para que yo, su Dios, les perdone sus pecados. Así es como me agradan estas ofrendas."
+    },
+    {
+      "verse": 26,
+      "label": "26-31",
+      "char_start": 2081,
+      "char_end": 2646,
+      "text": "El día en que recojan los primeros frutos de sus campos, empezarán a celebrar la fiesta de la cosecha. Ese día nadie trabajará, sino que se reunirán para adorarme. Además de las ofrendas diarias, sacrificarán y quemarán en mi honor dos toros, un carnero y siete corderos de un año, que no tengan defectos. Con cada toro presentarán seis kilos de la mejor harina amasada con aceite de oliva; con el carnero ofrecerán cuatro kilos de harina, y con cada cordero dos kilos. También me presentarán como sacrificio un chivo para que yo, su Dios, les perdone sus pecados."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios le ordenó a Moisés: Diles a los israelitas que, en el día que les he señalado, deben presentarme las ofrendas de pan y las ofrendas quemadas en mi honor.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 9750,
+      "duration_ms": 9650
+    },
+    {
+      "word": "Que lo hagan como a mí me agrada; de la siguiente manera: Cada día sacrificarán y quemarán dos corderos de un año y sin defectos.",
+      "verse": 2,
+      "start_ms": 9700,
+      "end_ms": 17712,
+      "duration_ms": 8012
+    },
+    {
+      "word": "Uno lo ofrecerán en la mañana, y el otro al atardecer.",
+      "verse": 3,
+      "start_ms": 17712,
+      "end_ms": 21674,
+      "duration_ms": 3962
+    },
+    {
+      "word": "Con cada cordero llevarán un litro de vino, que derramarán en el santuario para honrarme, y dos kilos de la mejor harina, amasada con un litro de aceite de oliva.",
+      "verse": 3,
+      "start_ms": 21675,
+      "end_ms": 31312,
+      "duration_ms": 9637
+    },
+    {
+      "word": "Ya en el monte Sinaí les había dicho cómo me agradan estas ofrendas.",
+      "verse": 3,
+      "start_ms": 31312,
+      "end_ms": 35974,
+      "duration_ms": 4662
+    },
+    {
+      "word": "Junto con las ofrendas diarias, cada sábado sacrificarán y quemarán dos corderos de un año, que no tengan defectos.",
+      "verse": 9,
+      "start_ms": 35975,
+      "end_ms": 43425,
+      "duration_ms": 7450
+    },
+    {
+      "word": "Cada cordero lo ofrecerán con vino y cuatro kilos de la mejor harina, amasada con aceite.",
+      "verse": 9,
+      "start_ms": 43425,
+      "end_ms": 49300,
+      "duration_ms": 5875
+    },
+    {
+      "word": "Además de las ofrendas que me presentan cada día, el primer día de cada mes sacrificarán y quemarán dos toros, un carnero y siete corderos de un año, que no tengan defectos.",
+      "verse": 11,
+      "start_ms": 49300,
+      "end_ms": 59950,
+      "duration_ms": 10650
+    },
+    {
+      "word": "Con cada toro presentarán dos litros de vino y seis kilos de la mejor harina, amasada con aceite.",
+      "verse": 12,
+      "start_ms": 59950,
+      "end_ms": 66187,
+      "duration_ms": 6237
+    },
+    {
+      "word": "Con el carnero ofrecerán litro y medio de vino y cuatro kilos de harina, y con cada cordero un litro de vino y dos kilos de harina.",
+      "verse": 12,
+      "start_ms": 66187,
+      "end_ms": 73987,
+      "duration_ms": 7800
+    },
+    {
+      "word": "También me presentarán como sacrificio un chivo para que yo, su Dios, les perdone sus pecados.",
+      "verse": 12,
+      "start_ms": 73987,
+      "end_ms": 80374,
+      "duration_ms": 6387
+    },
+    {
+      "word": "Así es como me agradan estas ofrendas.",
+      "verse": 12,
+      "start_ms": 80375,
+      "end_ms": 83500,
+      "duration_ms": 3125
+    },
+    {
+      "word": "El día catorce del mes de Abib de cada año, dará comienzo la fiesta de la Pascua en mi honor, y durará una semana.",
+      "verse": 16,
+      "start_ms": 83500,
+      "end_ms": 90812,
+      "duration_ms": 7312
+    },
+    {
+      "word": "El primer día y el último de esa semana no trabajarán, sino que se reunirán para adorarme.",
+      "verse": 16,
+      "start_ms": 90812,
+      "end_ms": 96687,
+      "duration_ms": 5875
+    },
+    {
+      "word": "A partir del segundo día de la fiesta comerán panes sin levadura.",
+      "verse": 16,
+      "start_ms": 96687,
+      "end_ms": 101012,
+      "duration_ms": 4325
+    },
+    {
+      "word": "Durante los siete días que dura la fiesta sacrificarán y quemarán en mi honor dos toros, un carnero y siete corderos de un año, que no tengan defectos.",
+      "verse": 16,
+      "start_ms": 101012,
+      "end_ms": 110112,
+      "duration_ms": 9100
+    },
+    {
+      "word": "Además deberán entregarme las ofrendas diarias.",
+      "verse": 16,
+      "start_ms": 110112,
+      "end_ms": 113674,
+      "duration_ms": 3562
+    },
+    {
+      "word": "Con cada toro presentarán seis kilos de la mejor harina amasada con aceite; con el carnero ofrecerán cuatro kilos de harina, y con cada cordero dos kilos.",
+      "verse": 16,
+      "start_ms": 113675,
+      "end_ms": 123112,
+      "duration_ms": 9437
+    },
+    {
+      "word": "También me presentarán como sacrificio un chivo para que yo, su Dios, les perdone sus pecados.",
+      "verse": 16,
+      "start_ms": 123112,
+      "end_ms": 129499,
+      "duration_ms": 6387
+    },
+    {
+      "word": "Así es como me agradan estas ofrendas.",
+      "verse": 16,
+      "start_ms": 129500,
+      "end_ms": 132625,
+      "duration_ms": 3125
+    },
+    {
+      "word": "El día en que recojan los primeros frutos de sus campos, empezarán a celebrar la fiesta de la cosecha.",
+      "verse": 26,
+      "start_ms": 132625,
+      "end_ms": 138937,
+      "duration_ms": 6312
+    },
+    {
+      "word": "Ese día nadie trabajará, sino que se reunirán para adorarme.",
+      "verse": 26,
+      "start_ms": 138937,
+      "end_ms": 143549,
+      "duration_ms": 4612
+    },
+    {
+      "word": "Además de las ofrendas diarias, sacrificarán y quemarán en mi honor dos toros, un carnero y siete corderos de un año, que no tengan defectos.",
+      "verse": 26,
+      "start_ms": 143550,
+      "end_ms": 152562,
+      "duration_ms": 9012
+    },
+    {
+      "word": "Con cada toro presentarán seis kilos de la mejor harina amasada con aceite de oliva; con el carnero ofrecerán cuatro kilos de harina, y con cada cordero dos kilos.",
+      "verse": 26,
+      "start_ms": 152562,
+      "end_ms": 162387,
+      "duration_ms": 9825
+    },
+    {
+      "word": "También me presentarán como sacrificio un chivo para que yo, su Dios, les perdone sus pecados.",
+      "verse": 26,
+      "start_ms": 162387,
+      "end_ms": 168774,
+      "duration_ms": 6387
+    }
+  ]
+}

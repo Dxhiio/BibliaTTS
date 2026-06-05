@@ -1,0 +1,978 @@
+{
+  "book": "JER",
+  "chapter": 50,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 43,
+  "word_count": 95,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 55,
+      "text": "Dios me dio este mensaje acerca de Babilonia. Me dijo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 55,
+      "char_end": 387,
+      "text": "A ti, Jeremías, te encargo que se anuncie entre las naciones mi mensaje, para que todos se enteren. Que se agite la señal de victoria y se dé a conocer la noticia: «¡Babilonia será conquistada! ¡El dios Bel quedará en ridículo! ¡El dios Marduc temblará de miedo! ¡Todos los dioses de Babilonia se asustarán y quedarán humillados!»."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 387,
+      "char_end": 520,
+      "text": "Del norte vendrá una nación que atacará y destruirá a Babilonia. Hombres y animales saldrán corriendo, y nadie volverá a vivir allí."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 520,
+      "char_end": 633,
+      "text": "Cuando todo esto suceda, la gente de Israel y de Judá vendrá llorando a buscarme, pues yo soy el Dios de Israel."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 633,
+      "char_end": 795,
+      "text": "Preguntarán cómo llegar a Jerusalén, y hacia allá se dirigirán. Al llegar, se reunirán conmigo para que hagamos un pacto eterno, del cual nunca más se olvidarán."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 795,
+      "char_end": 996,
+      "text": "Mi pueblo ha perdido el rumbo; ha vivido como un rebaño perdido, pues sus jefes no supieron dirigirlo. Por eso anduvo por las montañas, extraviado y sin rumbo fijo; ¡hasta olvidó su lugar de descanso!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 996,
+      "char_end": 1183,
+      "text": "Al verlos, sus enemigos se burlaban y les decían: «De esto no tenemos la culpa, pues ustedes pecaron contra Dios; contra el Dios que todo les daba, y en quien confiaban sus antepasados»."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1183,
+      "char_end": 1280,
+      "text": "Pueblo mío, ¡salgan ya de Babilonia! ¡Escápense de ese país! ¡Corran al frente de los que huyen!"
+    },
+    {
+      "verse": 9,
+      "label": "9-10",
+      "char_start": 1280,
+      "char_end": 1475,
+      "text": "Yo enviaré contra Babilonia grandes naciones del norte que la atacarán, la conquistarán y se quedarán con todas sus riquezas. Sus soldados son de lo mejor; ¡sus flechas siempre dan en el blanco!"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1475,
+      "char_end": 1565,
+      "text": "Y ustedes, babilonios, que le han robado a mi pueblo, ¡ríanse si quieren, y hagan fiesta,"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1565,
+      "char_end": 1659,
+      "text": "pero su patria quedará humillada y al final morirá avergonzada y hecha un desierto solitario!"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1659,
+      "char_end": 1824,
+      "text": "Yo haré que Babilonia nunca más vuelva a ser habitada. Estoy tan enojado con ella que voy a destruirla. Todos los que pasen por allí se asustarán al ver sus ruinas."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1824,
+      "char_end": 1946,
+      "text": "Y ustedes, guerreros, ¡prepárense para atacar a Babilonia! ¡Disparen contra ella sus flechas, porque ha pecado contra mí!"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1946,
+      "char_end": 2165,
+      "text": "Griten por todas partes: «¡Babilonia se ha rendido! ¡Sus torres se derrumban! ¡Sus muros caen por los suelos!». ¡Y ahora ustedes hagan con ella lo mismo que ella hizo con ustedes! ¡Ésta es mi venganza contra Babilonia!"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2165,
+      "char_end": 2323,
+      "text": "¡Que no quede en ese país nadie que siembre ni coseche! Cuando Babilonia sea atacada los que fueron llevados prisioneros huirán de allá y volverán a su país."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2323,
+      "char_end": 2547,
+      "text": "Israel es un pueblo que ha vivido perdido como oveja, y siempre en peligro de que se lo devoren los leones. El primero en devorarlo fue el rey de Asiria, y a él le siguió el rey de Babilonia, que lo devoró hasta los huesos."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2547,
+      "char_end": 2667,
+      "text": "Pero yo soy el Dios de Israel, y así como antes castigué al rey de Asiria, castigaré al rey de Babilonia y a su nación."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2667,
+      "char_end": 2823,
+      "text": "Yo haré que Israel regrese a su propia tierra, y yo mismo le daré de comer en el monte Carmelo, en la región de Basán y en las montañas de Efraín y Galaad."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2823,
+      "char_end": 2930,
+      "text": "Cuando llegue ese día, perdonaré a los que aún queden con vida. A Israel y a Judá les perdonaré su maldad."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2930,
+      "char_end": 3033,
+      "text": "Y a ustedes, enemigos de Babilonia, les mando que ataquen y persigan a estos despreciables babilonios."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3033,
+      "char_end": 3105,
+      "text": "Ya se escuchan los gritos de guerra y el ruido de una gran destrucción."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3105,
+      "char_end": 3278,
+      "text": "Tú, Babilonia, eras como un martillo que golpeaba a todo el mundo, pero ahora pareces un martillo inútil; ¡Has quedado hecha pedazos, y todas las naciones están asombradas!"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3278,
+      "char_end": 3361,
+      "text": "Al rebelarte contra mí, tú misma te pusiste una trampa y acabaste cayendo en ella."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3361,
+      "char_end": 3571,
+      "text": "Yo soy el Dios de Israel; yo soy el Dios todopoderoso. Tengo algo pendiente con Babilonia. Ya he abierto mi depósito de armas, y sacaré las más destructivas. Estoy muy enojado, y haré pedazos a los babilonios."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3571,
+      "char_end": 3747,
+      "text": "¡Vengan de todas partes y ataquen a Babilonia! ¡Abran sus depósitos de trigo y llévense todo ese grano! ¡Amontonen lo que encuentren y destrúyanlo todo! ¡Que no le quede nada!"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3747,
+      "char_end": 3828,
+      "text": "¡Llegó la hora del castigo! ¡Maten a todos sus soldados! ¡Maten a toda su gente!"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3828,
+      "char_end": 3986,
+      "text": "Ahora escuchen a la gente que ha escapado de Babilonia; óiganlos hablar de mi venganza: «¡Dios acabó con los babilonios porque ellos destruyeron su templo!»."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3986,
+      "char_end": 4224,
+      "text": "¡Que vengan los guerreros, y ataquen a Babilonia! ¡Que la rodeen para que nadie se escape! Babilonia se rebeló contra mí. Por eso, ¡denle su merecido! ¡Trátenla como ella trató a otros! Yo soy el Dios de Israel, yo soy un Dios diferente."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4224,
+      "char_end": 4317,
+      "text": "Yo les juro que en ese día sus jóvenes y sus mejores soldados caerán muertos por las calles."
+    },
+    {
+      "verse": 31,
+      "label": "31-32",
+      "char_start": 4317,
+      "char_end": 4626,
+      "text": "Babilonia, nación orgullosa, cuando llegue el día de tu castigo, vendré y te daré tu merecido. Les prenderé fuego a tus ciudades y a todos sus alrededores. Tus habitantes tropezarán y caerán, y nadie los ayudará a levantarse. Yo soy el Dios todopoderoso, yo soy el Dios de Israel, y les juro que así lo haré."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4626,
+      "char_end": 4756,
+      "text": "Ustedes los babilonios han tratado muy mal al pueblo de Israel y de Judá. Los han hecho prisioneros y no quieren dejarlos libres."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4756,
+      "char_end": 4909,
+      "text": "Yo soy el Dios todopoderoso, y con mi poder les daré libertad y los haré vivir en paz. Pero a ustedes, los babilonios, les voy a enviar un gran castigo."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4909,
+      "char_end": 4973,
+      "text": "¡Que mueran los babilonios! ¡Que mueran sus jefes y sus sabios!"
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4973,
+      "char_end": 5081,
+      "text": "¡Que todos sus profetas mentirosos se vuelvan locos y pierdan la vida! ¡Que tiemblen de miedo sus soldados!"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 5081,
+      "char_end": 5272,
+      "text": "¡Que se mueran sus caballos, y sean destrozados sus carros de guerra! ¡Que todos sus soldados extranjeros se acobarden y se mueran! ¡Que les roben todos sus tesoros! ¡Que se sequen sus ríos!"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 5272,
+      "char_end": 5337,
+      "text": "Tantos ídolos hay en Babilonia que la gente ha perdido la razón."
+    },
+    {
+      "verse": 39,
+      "label": "39-40",
+      "char_start": 5337,
+      "char_end": 5531,
+      "text": "Nunca más Babilonia volverá a ser habitada. Será como cuando destruí a Sodoma y a Gomorra, y las ciudades vecinas: allí sólo vivirán chacales, lechuzas y perros salvajes. Les juró que así será."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 5531,
+      "char_end": 5654,
+      "text": "¡Miren lo que viene del norte! ¡Es el ejército de una gran nación! ¡Viene desde muy lejos, y se le han unido muchos reyes!"
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 5654,
+      "char_end": 5843,
+      "text": "Son gente cruel y sanguinaria, armada con arcos y lanzas; vienen a todo galope y dispuestos a atacarte, bella ciudad de Babilonia. El estruendo de sus gritos resuena como las olas del mar."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 5843,
+      "char_end": 5918,
+      "text": "El rey de Babilonia lo sabe, y se muere de miedo; se retuerce de angustia."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 5918,
+      "char_end": 6103,
+      "text": "¡No hay otro Dios como yo! ¡No hay quien me pueda desafiar! ¡No hay jefe que se me oponga! Yo atacaré a Babilonia de repente, como ataca el león a su presa. Yo elegiré a su destructor."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 6103,
+      "char_end": 6289,
+      "text": "Presten atención al plan que tengo; escuchen lo que voy a hacer con Babilonia y sus habitantes: hasta los niños más pequeños serán llevados a rastras, y la nación entera será destruida."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 6289,
+      "char_end": 6409,
+      "text": "Babilonia caerá con tanta violencia que la tierra misma se sacudirá, y por todas las naciones se escucharán sus gritos."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios me dio este mensaje acerca de Babilonia.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3612,
+      "duration_ms": 3512
+    },
+    {
+      "word": "Me dijo: A ti, Jeremías, te encargo que se anuncie entre las naciones mi mensaje, para que todos se enteren.",
+      "verse": 1,
+      "start_ms": 3562,
+      "end_ms": 10874,
+      "duration_ms": 7312
+    },
+    {
+      "word": "Que se agite la señal de victoria y se dé a conocer la noticia: «¡Babilonia será conquistada!",
+      "verse": 2,
+      "start_ms": 10875,
+      "end_ms": 16737,
+      "duration_ms": 5862
+    },
+    {
+      "word": "El dios Bel quedará en ridículo!",
+      "verse": 2,
+      "start_ms": 16737,
+      "end_ms": 19374,
+      "duration_ms": 2637
+    },
+    {
+      "word": "El dios Marduc temblará de miedo!",
+      "verse": 2,
+      "start_ms": 19375,
+      "end_ms": 22075,
+      "duration_ms": 2700
+    },
+    {
+      "word": "Todos los dioses de Babilonia se asustarán y quedarán humillados!",
+      "verse": 2,
+      "start_ms": 22075,
+      "end_ms": 26237,
+      "duration_ms": 4162
+    },
+    {
+      "word": "Del norte vendrá una nación que atacará y destruirá a Babilonia.",
+      "verse": 3,
+      "start_ms": 26237,
+      "end_ms": 30637,
+      "duration_ms": 4400
+    },
+    {
+      "word": "Hombres y animales saldrán corriendo, y nadie volverá a vivir allí.",
+      "verse": 3,
+      "start_ms": 30637,
+      "end_ms": 35224,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Cuando todo esto suceda, la gente de Israel y de Judá vendrá llorando a buscarme, pues yo soy el Dios de Israel.",
+      "verse": 4,
+      "start_ms": 35225,
+      "end_ms": 42425,
+      "duration_ms": 7200
+    },
+    {
+      "word": "Preguntarán cómo llegar a Jerusalén, y hacia allá se dirigirán.",
+      "verse": 5,
+      "start_ms": 42425,
+      "end_ms": 46875,
+      "duration_ms": 4450
+    },
+    {
+      "word": "Al llegar, se reunirán conmigo para que hagamos un pacto eterno, del cual nunca más se olvidarán.",
+      "verse": 5,
+      "start_ms": 46875,
+      "end_ms": 53287,
+      "duration_ms": 6412
+    },
+    {
+      "word": "Mi pueblo ha perdido el rumbo; ha vivido como un rebaño perdido, pues sus jefes no supieron dirigirlo.",
+      "verse": 6,
+      "start_ms": 53287,
+      "end_ms": 60137,
+      "duration_ms": 6850
+    },
+    {
+      "word": "Por eso anduvo por las montañas, extraviado y sin rumbo fijo; ¡hasta olvidó su lugar de descanso!",
+      "verse": 6,
+      "start_ms": 60137,
+      "end_ms": 66749,
+      "duration_ms": 6612
+    },
+    {
+      "word": "Al verlos, sus enemigos se burlaban y les decían: «De esto no tenemos la culpa, pues ustedes pecaron contra Dios; contra el Dios que todo les daba, y en quien confiaban sus antepasados».",
+      "verse": 7,
+      "start_ms": 66750,
+      "end_ms": 78700,
+      "duration_ms": 11950
+    },
+    {
+      "word": "Pueblo mío, ¡salgan ya de Babilonia!",
+      "verse": 8,
+      "start_ms": 78700,
+      "end_ms": 81825,
+      "duration_ms": 3125
+    },
+    {
+      "word": "Escápense de ese país!",
+      "verse": 8,
+      "start_ms": 81825,
+      "end_ms": 84300,
+      "duration_ms": 2475
+    },
+    {
+      "word": "Corran al frente de los que huyen!",
+      "verse": 8,
+      "start_ms": 84300,
+      "end_ms": 87037,
+      "duration_ms": 2737
+    },
+    {
+      "word": "Yo enviaré contra Babilonia grandes naciones del norte que la atacarán, la conquistarán y se quedarán con todas sus riquezas.",
+      "verse": 9,
+      "start_ms": 87037,
+      "end_ms": 94487,
+      "duration_ms": 7450
+    },
+    {
+      "word": "Sus soldados son de lo mejor; ¡sus flechas siempre dan en el blanco!",
+      "verse": 9,
+      "start_ms": 94487,
+      "end_ms": 99024,
+      "duration_ms": 4537
+    },
+    {
+      "word": "Y ustedes, babilonios, que le han robado a mi pueblo, ¡ríanse si quieren, y hagan fiesta, pero su patria quedará humillada y al final morirá avergonzada y hecha un desierto solitario!",
+      "verse": 11,
+      "start_ms": 99025,
+      "end_ms": 110612,
+      "duration_ms": 11587
+    },
+    {
+      "word": "Yo haré que Babilonia nunca más vuelva a ser habitada.",
+      "verse": 13,
+      "start_ms": 110612,
+      "end_ms": 114399,
+      "duration_ms": 3787
+    },
+    {
+      "word": "Estoy tan enojado con ella que voy a destruirla.",
+      "verse": 13,
+      "start_ms": 114400,
+      "end_ms": 117850,
+      "duration_ms": 3450
+    },
+    {
+      "word": "Todos los que pasen por allí se asustarán al ver sus ruinas.",
+      "verse": 13,
+      "start_ms": 117850,
+      "end_ms": 121725,
+      "duration_ms": 3875
+    },
+    {
+      "word": "Y ustedes, guerreros, ¡prepárense para atacar a Babilonia!",
+      "verse": 14,
+      "start_ms": 121725,
+      "end_ms": 126325,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Disparen contra ella sus flechas, porque ha pecado contra mí!",
+      "verse": 14,
+      "start_ms": 126325,
+      "end_ms": 130675,
+      "duration_ms": 4350
+    },
+    {
+      "word": "Griten por todas partes: «¡Babilonia se ha rendido!",
+      "verse": 15,
+      "start_ms": 130675,
+      "end_ms": 134550,
+      "duration_ms": 3875
+    },
+    {
+      "word": "Sus torres se derrumban!",
+      "verse": 15,
+      "start_ms": 134550,
+      "end_ms": 136812,
+      "duration_ms": 2262
+    },
+    {
+      "word": "Sus muros caen por los suelos!",
+      "verse": 15,
+      "start_ms": 136812,
+      "end_ms": 139437,
+      "duration_ms": 2625
+    },
+    {
+      "word": "Y ahora ustedes hagan con ella lo mismo que ella hizo con ustedes!",
+      "verse": 15,
+      "start_ms": 139437,
+      "end_ms": 143687,
+      "duration_ms": 4250
+    },
+    {
+      "word": "Ésta es mi venganza contra Babilonia!",
+      "verse": 15,
+      "start_ms": 143687,
+      "end_ms": 146512,
+      "duration_ms": 2825
+    },
+    {
+      "word": "Que no quede en ese país nadie que siembre ni coseche!",
+      "verse": 16,
+      "start_ms": 146512,
+      "end_ms": 150149,
+      "duration_ms": 3637
+    },
+    {
+      "word": "Cuando Babilonia sea atacada los que fueron llevados prisioneros huirán de allá y volverán a su país.",
+      "verse": 16,
+      "start_ms": 150150,
+      "end_ms": 156000,
+      "duration_ms": 5850
+    },
+    {
+      "word": "Israel es un pueblo que ha vivido perdido como oveja, y siempre en peligro de que se lo devoren los leones.",
+      "verse": 17,
+      "start_ms": 156000,
+      "end_ms": 162562,
+      "duration_ms": 6562
+    },
+    {
+      "word": "El primero en devorarlo fue el rey de Asiria, y a él le siguió el rey de Babilonia, que lo devoró hasta los huesos.",
+      "verse": 17,
+      "start_ms": 162562,
+      "end_ms": 169549,
+      "duration_ms": 6987
+    },
+    {
+      "word": "Pero yo soy el Dios de Israel, y así como antes castigué al rey de Asiria, castigaré al rey de Babilonia y a su nación.",
+      "verse": 18,
+      "start_ms": 169550,
+      "end_ms": 177187,
+      "duration_ms": 7637
+    },
+    {
+      "word": "Yo haré que Israel regrese a su propia tierra, y yo mismo le daré de comer en el monte Carmelo, en la región de Basán y en las montañas de Efraín y Galaad.",
+      "verse": 19,
+      "start_ms": 177187,
+      "end_ms": 186237,
+      "duration_ms": 9050
+    },
+    {
+      "word": "Cuando llegue ese día, perdonaré a los que aún queden con vida.",
+      "verse": 20,
+      "start_ms": 186237,
+      "end_ms": 190687,
+      "duration_ms": 4450
+    },
+    {
+      "word": "A Israel y a Judá les perdonaré su maldad.",
+      "verse": 20,
+      "start_ms": 190687,
+      "end_ms": 193962,
+      "duration_ms": 3275
+    },
+    {
+      "word": "Y a ustedes, enemigos de Babilonia, les mando que ataquen y persigan a estos despreciables babilonios.",
+      "verse": 21,
+      "start_ms": 193962,
+      "end_ms": 200787,
+      "duration_ms": 6825
+    },
+    {
+      "word": "Ya se escuchan los gritos de guerra y el ruido de una gran destrucción.",
+      "verse": 22,
+      "start_ms": 200787,
+      "end_ms": 205287,
+      "duration_ms": 4500
+    },
+    {
+      "word": "Tú, Babilonia, eras como un martillo que golpeaba a todo el mundo, pero ahora pareces un martillo inútil; ¡Has quedado hecha pedazos, y todas las naciones están asombradas!",
+      "verse": 23,
+      "start_ms": 205287,
+      "end_ms": 216287,
+      "duration_ms": 11000
+    },
+    {
+      "word": "Al rebelarte contra mí, tú misma te pusiste una trampa y acabaste cayendo en ella.",
+      "verse": 24,
+      "start_ms": 216287,
+      "end_ms": 221749,
+      "duration_ms": 5462
+    },
+    {
+      "word": "Yo soy el Dios de Israel; yo soy el Dios todopoderoso.",
+      "verse": 25,
+      "start_ms": 221750,
+      "end_ms": 226325,
+      "duration_ms": 4575
+    },
+    {
+      "word": "Tengo algo pendiente con Babilonia.",
+      "verse": 25,
+      "start_ms": 226325,
+      "end_ms": 229087,
+      "duration_ms": 2762
+    },
+    {
+      "word": "Ya he abierto mi depósito de armas, y sacaré las más destructivas.",
+      "verse": 25,
+      "start_ms": 229087,
+      "end_ms": 234112,
+      "duration_ms": 5025
+    },
+    {
+      "word": "Estoy muy enojado, y haré pedazos a los babilonios.",
+      "verse": 25,
+      "start_ms": 234112,
+      "end_ms": 238237,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Vengan de todas partes y ataquen a Babilonia!",
+      "verse": 26,
+      "start_ms": 238237,
+      "end_ms": 241549,
+      "duration_ms": 3312
+    },
+    {
+      "word": "Abran sus depósitos de trigo y llévense todo ese grano!",
+      "verse": 26,
+      "start_ms": 241550,
+      "end_ms": 245625,
+      "duration_ms": 4075
+    },
+    {
+      "word": "Amontonen lo que encuentren y destrúyanlo todo!",
+      "verse": 26,
+      "start_ms": 245625,
+      "end_ms": 249000,
+      "duration_ms": 3375
+    },
+    {
+      "word": "Que no le quede nada!",
+      "verse": 26,
+      "start_ms": 249000,
+      "end_ms": 251000,
+      "duration_ms": 2000
+    },
+    {
+      "word": "Llegó la hora del castigo!",
+      "verse": 27,
+      "start_ms": 251000,
+      "end_ms": 253337,
+      "duration_ms": 2337
+    },
+    {
+      "word": "Maten a todos sus soldados!",
+      "verse": 27,
+      "start_ms": 253337,
+      "end_ms": 255849,
+      "duration_ms": 2512
+    },
+    {
+      "word": "Maten a toda su gente!",
+      "verse": 27,
+      "start_ms": 255850,
+      "end_ms": 258137,
+      "duration_ms": 2287
+    },
+    {
+      "word": "Ahora escuchen a la gente que ha escapado de Babilonia; óiganlos hablar de mi venganza: «¡Dios acabó con los babilonios porque ellos destruyeron su",
+      "verse": 28,
+      "start_ms": 258137,
+      "end_ms": 266762,
+      "duration_ms": 8625
+    },
+    {
+      "word": "templo!",
+      "verse": 28,
+      "start_ms": 266932,
+      "end_ms": 268307,
+      "duration_ms": 1375
+    },
+    {
+      "word": "Que vengan los guerreros, y ataquen a Babilonia!",
+      "verse": 29,
+      "start_ms": 268257,
+      "end_ms": 271894,
+      "duration_ms": 3637
+    },
+    {
+      "word": "Que la rodeen para que nadie se escape!",
+      "verse": 29,
+      "start_ms": 271894,
+      "end_ms": 274756,
+      "duration_ms": 2862
+    },
+    {
+      "word": "Babilonia se rebeló contra mí.",
+      "verse": 29,
+      "start_ms": 274757,
+      "end_ms": 277382,
+      "duration_ms": 2625
+    },
+    {
+      "word": "Por eso, ¡denle su merecido!",
+      "verse": 29,
+      "start_ms": 277382,
+      "end_ms": 280044,
+      "duration_ms": 2662
+    },
+    {
+      "word": "Trátenla como ella trató a otros!",
+      "verse": 29,
+      "start_ms": 280044,
+      "end_ms": 283031,
+      "duration_ms": 2987
+    },
+    {
+      "word": "Yo soy el Dios de Israel, yo soy un Dios diferente.",
+      "verse": 29,
+      "start_ms": 283032,
+      "end_ms": 287057,
+      "duration_ms": 4025
+    },
+    {
+      "word": "Yo les juro que en ese día sus jóvenes y sus mejores soldados caerán muertos por las calles.",
+      "verse": 30,
+      "start_ms": 287057,
+      "end_ms": 292907,
+      "duration_ms": 5850
+    },
+    {
+      "word": "Babilonia, nación orgullosa, cuando llegue el día de tu castigo, vendré y te daré tu merecido.",
+      "verse": 31,
+      "start_ms": 292907,
+      "end_ms": 299557,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Les prenderé fuego a tus ciudades y a todos sus alrededores.",
+      "verse": 31,
+      "start_ms": 299557,
+      "end_ms": 303782,
+      "duration_ms": 4225
+    },
+    {
+      "word": "Tus habitantes tropezarán y caerán, y nadie los ayudará a levantarse.",
+      "verse": 31,
+      "start_ms": 303782,
+      "end_ms": 308719,
+      "duration_ms": 4937
+    },
+    {
+      "word": "Yo soy el Dios todopoderoso, yo soy el Dios de Israel, y les juro que así lo haré.",
+      "verse": 31,
+      "start_ms": 308719,
+      "end_ms": 314569,
+      "duration_ms": 5850
+    },
+    {
+      "word": "Ustedes los babilonios han tratado muy mal al pueblo de Israel y de Judá.",
+      "verse": 33,
+      "start_ms": 314569,
+      "end_ms": 319319,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Los han hecho prisioneros y no quieren dejarlos libres.",
+      "verse": 33,
+      "start_ms": 319319,
+      "end_ms": 323031,
+      "duration_ms": 3712
+    },
+    {
+      "word": "Yo soy el Dios todopoderoso, y con mi poder les daré libertad y los haré vivir en paz.",
+      "verse": 34,
+      "start_ms": 323032,
+      "end_ms": 328882,
+      "duration_ms": 5850
+    },
+    {
+      "word": "Pero a ustedes, los babilonios, les voy a enviar un gran castigo.",
+      "verse": 34,
+      "start_ms": 328882,
+      "end_ms": 333694,
+      "duration_ms": 4812
+    },
+    {
+      "word": "Que mueran los babilonios!",
+      "verse": 35,
+      "start_ms": 333694,
+      "end_ms": 335956,
+      "duration_ms": 2262
+    },
+    {
+      "word": "Que mueran sus jefes y sus sabios!",
+      "verse": 35,
+      "start_ms": 335957,
+      "end_ms": 338732,
+      "duration_ms": 2775
+    },
+    {
+      "word": "Que todos sus profetas mentirosos se vuelvan locos y pierdan la vida!",
+      "verse": 36,
+      "start_ms": 338732,
+      "end_ms": 343257,
+      "duration_ms": 4525
+    },
+    {
+      "word": "Que tiemblen de miedo sus soldados!",
+      "verse": 36,
+      "start_ms": 343257,
+      "end_ms": 345994,
+      "duration_ms": 2737
+    },
+    {
+      "word": "Que se mueran sus caballos, y sean destrozados sus carros de guerra!",
+      "verse": 37,
+      "start_ms": 345994,
+      "end_ms": 350481,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Que todos sus soldados extranjeros se acobarden y se mueran!",
+      "verse": 37,
+      "start_ms": 350482,
+      "end_ms": 354419,
+      "duration_ms": 3937
+    },
+    {
+      "word": "Que les roben todos sus tesoros!",
+      "verse": 37,
+      "start_ms": 354419,
+      "end_ms": 357194,
+      "duration_ms": 2775
+    },
+    {
+      "word": "Que se sequen sus ríos!",
+      "verse": 37,
+      "start_ms": 357194,
+      "end_ms": 359406,
+      "duration_ms": 2212
+    },
+    {
+      "word": "Tantos ídolos hay en Babilonia que la gente ha perdido la razón.",
+      "verse": 38,
+      "start_ms": 359407,
+      "end_ms": 363644,
+      "duration_ms": 4237
+    },
+    {
+      "word": "Nunca más Babilonia volverá a ser habitada.",
+      "verse": 39,
+      "start_ms": 363644,
+      "end_ms": 366919,
+      "duration_ms": 3275
+    },
+    {
+      "word": "Será como cuando destruí a Sodoma y a Gomorra, y las ciudades vecinas: allí sólo vivirán chacales, lechuzas y perros salvajes.",
+      "verse": 39,
+      "start_ms": 366919,
+      "end_ms": 375556,
+      "duration_ms": 8637
+    },
+    {
+      "word": "Les juró que así será.",
+      "verse": 39,
+      "start_ms": 375557,
+      "end_ms": 377782,
+      "duration_ms": 2225
+    },
+    {
+      "word": "Miren lo que viene del norte!",
+      "verse": 41,
+      "start_ms": 377782,
+      "end_ms": 380157,
+      "duration_ms": 2375
+    },
+    {
+      "word": "Es el ejército de una gran nación!",
+      "verse": 41,
+      "start_ms": 380157,
+      "end_ms": 383019,
+      "duration_ms": 2862
+    },
+    {
+      "word": "Viene desde muy lejos, y se le han unido muchos reyes!",
+      "verse": 41,
+      "start_ms": 383019,
+      "end_ms": 387194,
+      "duration_ms": 4175
+    },
+    {
+      "word": "Son gente cruel y sanguinaria, armada con arcos y lanzas; vienen a todo galope y dispuestos a atacarte, bella ciudad de Babilonia.",
+      "verse": 42,
+      "start_ms": 387194,
+      "end_ms": 396044,
+      "duration_ms": 8850
+    },
+    {
+      "word": "El estruendo de sus gritos resuena como las olas del mar.",
+      "verse": 42,
+      "start_ms": 396044,
+      "end_ms": 399819,
+      "duration_ms": 3775
+    },
+    {
+      "word": "El rey de Babilonia lo sabe, y se muere de miedo; se retuerce de angustia.",
+      "verse": 43,
+      "start_ms": 399819,
+      "end_ms": 405131,
+      "duration_ms": 5312
+    },
+    {
+      "word": "No hay otro Dios como yo!",
+      "verse": 44,
+      "start_ms": 405132,
+      "end_ms": 407432,
+      "duration_ms": 2300
+    },
+    {
+      "word": "No hay quien me pueda desafiar!",
+      "verse": 44,
+      "start_ms": 407432,
+      "end_ms": 409882,
+      "duration_ms": 2450
+    },
+    {
+      "word": "No hay jefe que se me oponga!",
+      "verse": 44,
+      "start_ms": 409882,
+      "end_ms": 412294,
+      "duration_ms": 2412
+    },
+    {
+      "word": "Yo atacaré a Babilonia de repente, como ataca el león a su presa.",
+      "verse": 44,
+      "start_ms": 412294,
+      "end_ms": 417144,
+      "duration_ms": 4850
+    },
+    {
+      "word": "Yo elegiré a su destructor.",
+      "verse": 44,
+      "start_ms": 417144,
+      "end_ms": 419794,
+      "duration_ms": 2650
+    },
+    {
+      "word": "Presten atención al plan que tengo; escuchen lo que voy a hacer con Babilonia y sus habitantes: hasta los niños más pequeños serán llevados a rastras, y la nación entera será destruida.",
+      "verse": 45,
+      "start_ms": 419794,
+      "end_ms": 430794,
+      "duration_ms": 11000
+    },
+    {
+      "word": "Babilonia caerá con tanta violencia que la tierra misma se sacudirá, y por todas las naciones se escucharán sus gritos.",
+      "verse": 46,
+      "start_ms": 430794,
+      "end_ms": 438019,
+      "duration_ms": 7225
+    }
+  ]
+}

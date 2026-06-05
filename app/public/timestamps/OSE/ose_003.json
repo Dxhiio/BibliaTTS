@@ -1,0 +1,110 @@
+{
+  "book": "OSE",
+  "chapter": 3,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 5,
+  "word_count": 9,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 263,
+      "text": "Dios volvió a decirme: Oseas, tu esposa te es infiel: tiene un amigo que es su amante. También los israelitas me son infieles, pues adoran a dioses falsos y comen de las ofrendas que presentan. Sin embargo, ve y ama a tu esposa, así como yo amo a los israelitas."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 263,
+      "char_end": 415,
+      "text": "Yo, Oseas, le pagué al amante de mi esposa quince monedas de plata y le di trescientos treinta kilos de cebada, para que ella volviera a vivir conmigo."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 415,
+      "char_end": 584,
+      "text": "Y luego le dije a ella: Ya eres mía, y vivirás conmigo mucho tiempo. Si tú prometes serme fiel, yo también te seré fiel, aunque por un tiempo no viviremos como esposos."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 584,
+      "char_end": 801,
+      "text": "Lo mismo sucederá con los israelitas: Durante mucho tiempo no tendrán rey ni jefe; tampoco podrán presentar ofrendas a Dios, ni sabrán lo que Dios quiere que hagan; además, no tendrán sacerdotes ni ídolos familiares."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 801,
+      "char_end": 967,
+      "text": "Después de esto, se arrepentirán. Cuando llegue el tiempo del fin, volverán a obedecer a Dios y pedirán sus bendiciones, y también seguirán el ejemplo del rey David."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios volvió a decirme: Oseas, tu esposa te es infiel: tiene un amigo que es su amante.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6587,
+      "duration_ms": 6487
+    },
+    {
+      "word": "También los israelitas me son infieles, pues adoran a dioses falsos y comen de las ofrendas que presentan.",
+      "verse": 1,
+      "start_ms": 6537,
+      "end_ms": 13162,
+      "duration_ms": 6625
+    },
+    {
+      "word": "Sin embargo, ve y ama a tu esposa, así como yo amo a los israelitas.",
+      "verse": 1,
+      "start_ms": 13162,
+      "end_ms": 18662,
+      "duration_ms": 5500
+    },
+    {
+      "word": "Yo, Oseas, le pagué al amante de mi esposa quince monedas de plata y le di trescientos treinta kilos de cebada, para que ella volviera a vivir conmigo.",
+      "verse": 2,
+      "start_ms": 18662,
+      "end_ms": 28124,
+      "duration_ms": 9462
+    },
+    {
+      "word": "Y luego le dije a ella: Ya eres mía, y vivirás conmigo mucho tiempo.",
+      "verse": 3,
+      "start_ms": 28125,
+      "end_ms": 33425,
+      "duration_ms": 5300
+    },
+    {
+      "word": "Si tú prometes serme fiel, yo también te seré fiel, aunque por un tiempo no viviremos como esposos.",
+      "verse": 3,
+      "start_ms": 33425,
+      "end_ms": 40025,
+      "duration_ms": 6600
+    },
+    {
+      "word": "Lo mismo sucederá con los israelitas: Durante mucho tiempo no tendrán rey ni jefe; tampoco podrán presentar ofrendas a Dios, ni sabrán lo que Dios quiere que hagan; además, no tendrán sacerdotes ni ídolos familiares.",
+      "verse": 4,
+      "start_ms": 40025,
+      "end_ms": 53612,
+      "duration_ms": 13587
+    },
+    {
+      "word": "Después de esto, se arrepentirán.",
+      "verse": 5,
+      "start_ms": 53612,
+      "end_ms": 56574,
+      "duration_ms": 2962
+    },
+    {
+      "word": "Cuando llegue el tiempo del fin, volverán a obedecer a Dios y pedirán sus bendiciones, y también seguirán el ejemplo del rey David.",
+      "verse": 5,
+      "start_ms": 56575,
+      "end_ms": 64487,
+      "duration_ms": 7912
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "book": "CAN",
+  "chapter": 8,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 14,
+  "word_count": 33,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 158,
+      "text": "¡Cómo quisiera que fueras mi hermano! ¡Cómo quisiera que mi madre te hubiera alimentado! Podría darte un beso al encontrarte en la calle, y nadie lo notaría."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 158,
+      "char_end": 337,
+      "text": "Podría tomarte de la mano y llevarte a la casa de mi madre, para que allí me enseñaras el arte del amor. Yo misma te daría a beber un vino con especias y el jugo de mis manzanas."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 337,
+      "char_end": 432,
+      "text": "¡Pon tu brazo izquierdo bajo mi cabeza! ¡Con tu brazo derecho aprieta tu cuerpo contra el mío!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 432,
+      "char_end": 579,
+      "text": "Mujeres de Jerusalén, quiero que me prometan que no molestarán a mi amada ni la despertarán de su sueño de amor, hasta que ella sola se despierte."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 579,
+      "char_end": 675,
+      "text": "¡Alguien viene por el desierto! Avanza recostada sobre el hombro de su amado. ¿Quién podrá ser?"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 675,
+      "char_end": 877,
+      "text": "¡Graba mi nombre en tu corazón! ¡Graba mi imagen en tu brazo! ¡Tan fuerte es el amor como la muerte! ¡Tan cierta es la pasión como la tumba! ¡El fuego del amor es una llama que Dios mismo ha encendido!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 877,
+      "char_end": 1048,
+      "text": "¡No hay mares que puedan apagarlo, ni ríos que puedan extinguirlo! Si alguien se atreviera a ofrecer todas sus riquezas a cambio del amor, no recibiría más que desprecio."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1048,
+      "char_end": 1155,
+      "text": "Nuestra hermana es muy pequeña; todavía no tiene pechos. ¿Qué podemos hacer por ella si la vienen a pedir?"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1155,
+      "char_end": 1301,
+      "text": "¡Ojalá fuera una muralla, para levantar sobre ella defensas de plata! ¡Ojalá fuera una puerta, para recubrirla toda con hojas de madera de cedro!"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1301,
+      "char_end": 1402,
+      "text": "¡Yo soy ya una muralla y mis pechos son dos torres! ¡A los ojos de mi amado no podría ser más bella!"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1402,
+      "char_end": 1545,
+      "text": "Salomón tenía una viña, pues era un rey muy rico. Puso gente a su cuidado y al final de la cosecha cada uno le entregaba mil monedas de plata."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1545,
+      "char_end": 1691,
+      "text": "Tú, Salomón, puedes quedarte con mil monedas; y que tu gente se quede sólo con doscientas. ¡Yo me quedo con mi viña, pues sólo a mí me pertenece!"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1691,
+      "char_end": 1789,
+      "text": "Mi reina de los jardines, nuestros amigos están atentos para escuchar tu voz; ¡déjame escucharla!"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1789,
+      "char_end": 1915,
+      "text": "¡Date prisa, amado mío! ¡Corre como venado! ¡Corre como un cervatillo! Ya están cubiertas las colinas con hierbas aromáticas."
+    }
+  ],
+  "words": [
+    {
+      "word": "Cómo quisiera que fueras mi hermano!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 2675,
+      "duration_ms": 2575
+    },
+    {
+      "word": "Cómo quisiera que mi madre te hubiera alimentado!",
+      "verse": 1,
+      "start_ms": 2625,
+      "end_ms": 5837,
+      "duration_ms": 3212
+    },
+    {
+      "word": "Podría darte un beso al encontrarte en la calle, y nadie lo notaría.",
+      "verse": 1,
+      "start_ms": 5837,
+      "end_ms": 10612,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Podría tomarte de la mano y llevarte a la casa de mi madre, para que allí me enseñaras el arte del amor.",
+      "verse": 2,
+      "start_ms": 10612,
+      "end_ms": 17037,
+      "duration_ms": 6425
+    },
+    {
+      "word": "Yo misma te daría a beber un vino con especias y el jugo de mis manzanas.",
+      "verse": 2,
+      "start_ms": 17037,
+      "end_ms": 21887,
+      "duration_ms": 4850
+    },
+    {
+      "word": "Pon tu brazo izquierdo bajo mi cabeza!",
+      "verse": 3,
+      "start_ms": 21887,
+      "end_ms": 24812,
+      "duration_ms": 2925
+    },
+    {
+      "word": "Con tu brazo derecho aprieta tu cuerpo contra el mío!",
+      "verse": 3,
+      "start_ms": 24812,
+      "end_ms": 28287,
+      "duration_ms": 3475
+    },
+    {
+      "word": "Mujeres de Jerusalén, quiero que me prometan que no molestarán a mi amada ni la despertarán de su sueño de amor, hasta que ella sola se despierte.",
+      "verse": 4,
+      "start_ms": 28287,
+      "end_ms": 36712,
+      "duration_ms": 8425
+    },
+    {
+      "word": "Alguien viene por el desierto!",
+      "verse": 5,
+      "start_ms": 36712,
+      "end_ms": 39074,
+      "duration_ms": 2362
+    },
+    {
+      "word": "Avanza recostada sobre el hombro de su amado.",
+      "verse": 5,
+      "start_ms": 39075,
+      "end_ms": 42387,
+      "duration_ms": 3312
+    },
+    {
+      "word": "Quién podrá ser?",
+      "verse": 5,
+      "start_ms": 42387,
+      "end_ms": 44287,
+      "duration_ms": 1900
+    },
+    {
+      "word": "Graba mi nombre en tu corazón!",
+      "verse": 6,
+      "start_ms": 44287,
+      "end_ms": 46787,
+      "duration_ms": 2500
+    },
+    {
+      "word": "Graba mi imagen en tu brazo!",
+      "verse": 6,
+      "start_ms": 46787,
+      "end_ms": 49174,
+      "duration_ms": 2387
+    },
+    {
+      "word": "Tan fuerte es el amor como la muerte!",
+      "verse": 6,
+      "start_ms": 49175,
+      "end_ms": 52050,
+      "duration_ms": 2875
+    },
+    {
+      "word": "Tan cierta es la pasión como la tumba!",
+      "verse": 6,
+      "start_ms": 52050,
+      "end_ms": 54800,
+      "duration_ms": 2750
+    },
+    {
+      "word": "El fuego del amor es una llama que Dios mismo ha encendido!",
+      "verse": 6,
+      "start_ms": 54800,
+      "end_ms": 58487,
+      "duration_ms": 3687
+    },
+    {
+      "word": "No hay mares que puedan apagarlo, ni ríos que puedan extinguirlo!",
+      "verse": 7,
+      "start_ms": 58487,
+      "end_ms": 62849,
+      "duration_ms": 4362
+    },
+    {
+      "word": "Si alguien se atreviera a ofrecer todas sus riquezas a cambio del amor, no recibiría más que desprecio.",
+      "verse": 7,
+      "start_ms": 62850,
+      "end_ms": 69162,
+      "duration_ms": 6312
+    },
+    {
+      "word": "Nuestra hermana es muy pequeña; todavía no tiene pechos.",
+      "verse": 8,
+      "start_ms": 69162,
+      "end_ms": 73512,
+      "duration_ms": 4350
+    },
+    {
+      "word": "Qué podemos hacer por ella si la vienen a pedir?",
+      "verse": 8,
+      "start_ms": 73512,
+      "end_ms": 76774,
+      "duration_ms": 3262
+    },
+    {
+      "word": "Ojalá fuera una muralla, para levantar sobre ella defensas de plata!",
+      "verse": 9,
+      "start_ms": 76775,
+      "end_ms": 81512,
+      "duration_ms": 4737
+    },
+    {
+      "word": "Ojalá fuera una puerta, para recubrirla toda con hojas de madera de cedro!",
+      "verse": 9,
+      "start_ms": 81512,
+      "end_ms": 86587,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Yo soy ya una muralla y mis pechos son dos torres!",
+      "verse": 10,
+      "start_ms": 86587,
+      "end_ms": 90249,
+      "duration_ms": 3662
+    },
+    {
+      "word": "A los ojos de mi amado no podría ser más bella!",
+      "verse": 10,
+      "start_ms": 90250,
+      "end_ms": 93600,
+      "duration_ms": 3350
+    },
+    {
+      "word": "Salomón tenía una viña, pues era un rey muy rico.",
+      "verse": 11,
+      "start_ms": 93600,
+      "end_ms": 97525,
+      "duration_ms": 3925
+    },
+    {
+      "word": "Puso gente a su cuidado y al final de la cosecha cada uno le entregaba mil monedas de plata.",
+      "verse": 11,
+      "start_ms": 97525,
+      "end_ms": 103250,
+      "duration_ms": 5725
+    },
+    {
+      "word": "Tú, Salomón, puedes quedarte con mil monedas; y que tu gente se quede sólo con doscientas.",
+      "verse": 12,
+      "start_ms": 103250,
+      "end_ms": 109812,
+      "duration_ms": 6562
+    },
+    {
+      "word": "Yo me quedo con mi viña, pues sólo a mí me pertenece!",
+      "verse": 12,
+      "start_ms": 109812,
+      "end_ms": 113687,
+      "duration_ms": 3875
+    },
+    {
+      "word": "Mi reina de los jardines, nuestros amigos están atentos para escuchar tu voz; ¡déjame escucharla!",
+      "verse": 13,
+      "start_ms": 113687,
+      "end_ms": 120224,
+      "duration_ms": 6537
+    },
+    {
+      "word": "Date prisa, amado mío!",
+      "verse": 14,
+      "start_ms": 120225,
+      "end_ms": 122662,
+      "duration_ms": 2437
+    },
+    {
+      "word": "Corre como venado!",
+      "verse": 14,
+      "start_ms": 122662,
+      "end_ms": 124549,
+      "duration_ms": 1887
+    },
+    {
+      "word": "Corre como un cervatillo!",
+      "verse": 14,
+      "start_ms": 124550,
+      "end_ms": 126837,
+      "duration_ms": 2287
+    },
+    {
+      "word": "Ya están cubiertas las colinas con hierbas aromáticas.",
+      "verse": 14,
+      "start_ms": 126837,
+      "end_ms": 130749,
+      "duration_ms": 3912
+    }
+  ]
+}

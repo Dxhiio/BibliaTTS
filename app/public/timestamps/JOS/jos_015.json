@@ -1,0 +1,719 @@
+{
+  "book": "JOS",
+  "chapter": 15,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 60,
+  "word_count": 41,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 129,
+      "text": "El territorio que recibió la tribu de Judá se extendía hacia el sur por el desierto de Sin hasta Temán, en la frontera con Edom."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 129,
+      "char_end": 187,
+      "text": "Esta frontera comenzaba en el extremo sur del Mar Muerto,"
+    },
+    {
+      "verse": 3,
+      "label": "3-4",
+      "char_start": 187,
+      "char_end": 559,
+      "text": "seguía hacia el sur por el paso de Acrabim, y cruzaba el desierto de Sin, pasando al sur de Cadés-barnea. Luego seguía hasta la ciudad de Hezrón, subía a Adar, y daba la vuelta por Carcá hasta la ciudad de Asmón. De allí seguía por el arroyo, en la frontera con Egipto, hacia el noroeste, y terminaba en el mar Mediterráneo. Ésta era la frontera sur de la tierra de Judá."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 559,
+      "char_end": 677,
+      "text": "Al este, la frontera era todo el Mar Muerto, hasta la desembocadura del río Jordán. Allí comenzaba la frontera norte,"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 677,
+      "char_end": 778,
+      "text": "que se extendía hasta Bet-hoglá, pasando al norte de Bet-arabá hasta la Roca de Bohan hijo de Rubén."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 778,
+      "char_end": 959,
+      "text": "Después subía del valle de Acor hasta Debir, doblando hacia Guilgal frente al paso de Adumim, al sur del valle; pasaba por el manantial de En-semes, y seguía hasta el de En-roguel;"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 959,
+      "char_end": 1124,
+      "text": "luego cruzaba el valle de Ben-hinom, que está al sur de Jerusalén, y subía por la cumbre del cerro al oeste del valle de Hinom, y de allí bajaba al valle de Refaim;"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1124,
+      "char_end": 1267,
+      "text": "daba la vuelta desde la cumbre del cerro hasta el manantial de Neftóah, y seguía por las ciudades del monte Efrón, pasando por Quiriat-jearim."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1267,
+      "char_end": 1438,
+      "text": "Hacia el oeste de Baalá, la frontera llegaba hasta el monte de Seír, pasaba por Quesalón, por el lado norte del monte Jearim, y bajaba hasta Bet-semes, pasando por Timná."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1438,
+      "char_end": 1590,
+      "text": "De allí seguía por los cerros al norte de Ecrón, y seguía a Sicrón, hasta Jabneel, pasando por el monte de Baalá, para terminar en el mar Mediterráneo."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1590,
+      "char_end": 1743,
+      "text": "Por último, la frontera oeste era el mar Mediterráneo. Éstas eran las fronteras del territorio que les tocó a los grupos familiares de la tribu de Judá."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1743,
+      "char_end": 1950,
+      "text": "Dios le había dicho a Josué: Dale a Caleb hijo de Jefuné, una parte del territorio de la tribu de Judá. Josué le asignó entonces la ciudad de Hebrón, que había fundado Arbá, el padre de la raza de gigantes."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1950,
+      "char_end": 2083,
+      "text": "En esa ciudad vivían los grupos familiares de los gigantes Sesai, Ahimán y Talmai. Caleb los echó de allí y se apoderó de la ciudad."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2083,
+      "char_end": 2136,
+      "text": "Después salió para atacar a los habitantes de Debir."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2136,
+      "char_end": 2206,
+      "text": "Y dijo Caleb: Al que conquiste Debir le daré mi hija Acsa por esposa."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2206,
+      "char_end": 2321,
+      "text": "El que conquistó la ciudad fue su sobrino, Otoniel hijo de Quenaz, así que Caleb le dio a su hija Acsa por esposa."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2321,
+      "char_end": 2480,
+      "text": "El día de su casamiento Otoniel le dijo a su esposa: —Dile a tu padre que nos dé un terreno. Entonces ella se bajó de su asno, y Caleb le preguntó qué quería."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2480,
+      "char_end": 2665,
+      "text": "Ella le contestó: —Quiero un regalo de bodas. Ya me diste tierras, pero están en zonas áridas. Dame ahora también manantiales. Y Caleb le dio los manantiales del cerro y los del valle."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2665,
+      "char_end": 2772,
+      "text": "El territorio que recibieron los grupos familiares de la tribu de Judá comprendía las siguientes ciudades:"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2772,
+      "char_end": 2851,
+      "text": "En la región sur, cerca de la frontera con Edom, estaban Cabseel, Éder, Jagur,"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2851,
+      "char_end": 2873,
+      "text": "Quiná, Dimoná, Adadá,"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2873,
+      "char_end": 2894,
+      "text": "Cedes, Hasor, Itnán,"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2894,
+      "char_end": 2914,
+      "text": "Zif, Télem, Bealot,"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2914,
+      "char_end": 2945,
+      "text": "Hasor-hadatá, Queriot, Hesrón,"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2945,
+      "char_end": 2965,
+      "text": "Amam, Semá, Moladá,"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2965,
+      "char_end": 2996,
+      "text": "Hasar-gadá, Hesmón, Bet-pélet,"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2996,
+      "char_end": 3031,
+      "text": "Hasar-sual, Beerseba y sus aldeas,"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3031,
+      "char_end": 3049,
+      "text": "Baalá, Iim, Ésem,"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3049,
+      "char_end": 3073,
+      "text": "Eltolad, Quesil, Hormá,"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3073,
+      "char_end": 3099,
+      "text": "Siclag, Madmaná, Sansaná,"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3099,
+      "char_end": 3194,
+      "text": "Lebaot, Silhim y En-rimón. En total eran veintinueve ciudades más las aldeas que las rodeaban."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3194,
+      "char_end": 3247,
+      "text": "Las ciudades de la llanura eran: Estaol, Sorá, Asná,"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3247,
+      "char_end": 3279,
+      "text": "Zanóah, En-ganim, Tapúah, Enam,"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3279,
+      "char_end": 3308,
+      "text": "Jarmut, Adulam, Socó, Azecá,"
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3308,
+      "char_end": 3392,
+      "text": "Saaraim, Aditaim, Guederá y Guederotaim, es decir, catorce ciudades con sus aldeas."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3392,
+      "char_end": 3439,
+      "text": "Otras ciudades eran Senán, Hadasá, Migdal-gad,"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 3439,
+      "char_end": 3463,
+      "text": "Dileán, Mispá, Jocteel,"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 3463,
+      "char_end": 3486,
+      "text": "Laquis, Boscat, Eglón,"
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 3486,
+      "char_end": 3510,
+      "text": "Cabón, Lahmam, Quitlís,"
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 3510,
+      "char_end": 3593,
+      "text": "Guederot, Bet-dagón, Naamá y Maquedá, es decir, dieciséis ciudades con sus aldeas."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 3593,
+      "char_end": 3643,
+      "text": "Estaban además las ciudades de Libná, Éter, Asán,"
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 3643,
+      "char_end": 3663,
+      "text": "Ifta, Seana, Nesib,"
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 3663,
+      "char_end": 3735,
+      "text": "Queilá, Aczib y Maresá, es decir, otras nueve ciudades, con sus aldeas."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 3735,
+      "char_end": 3782,
+      "text": "También estaba Ecrón con sus pueblos y aldeas,"
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 3782,
+      "char_end": 3869,
+      "text": "y todas las ciudades y aldeas cercanas a Asdod, desde Ecrón hasta el mar Mediterráneo."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 3869,
+      "char_end": 4040,
+      "text": "Formaban parte de este territorio las ciudades de Asdod y Gaza, con sus pueblos y aldeas, cuya zona se extendía hasta el arroyo de Egipto y la costa del mar Mediterráneo."
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 4040,
+      "char_end": 4132,
+      "text": "En la región montañosa el pueblo de Judá tenía las siguientes ciudades: Samir, Jatir, Socó,"
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 4132,
+      "char_end": 4145,
+      "text": "Daná, Debir,"
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 4145,
+      "char_end": 4166,
+      "text": "Anab, Estemoa, Anim,"
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 4166,
+      "char_end": 4223,
+      "text": "Gosen, Holón y Guiló. Eran once ciudades con sus aldeas."
+    },
+    {
+      "verse": 52,
+      "label": "52-54",
+      "char_start": 4223,
+      "char_end": 4329,
+      "text": "Otras nueve ciudades con sus aldeas eran Arab, Dumá, Esán, Janum, Bet-tapúa, Afecá, Humtá, Sior y Hebrón."
+    },
+    {
+      "verse": 55,
+      "label": "55",
+      "char_start": 4329,
+      "char_end": 4402,
+      "text": "Otro grupo de diez ciudades con sus aldeas eran Maón, Carmel, Zif, Jutá,"
+    },
+    {
+      "verse": 56,
+      "label": "56",
+      "char_start": 4402,
+      "char_end": 4428,
+      "text": "Jezreel, Jocdeam, Zanóah,"
+    },
+    {
+      "verse": 57,
+      "label": "57",
+      "char_start": 4428,
+      "char_end": 4450,
+      "text": "Caín, Guibeá y Timná."
+    },
+    {
+      "verse": 58,
+      "label": "58",
+      "char_start": 4450,
+      "char_end": 4492,
+      "text": "Las ciudades de Halhul, Bet-sur y Guedor,"
+    },
+    {
+      "verse": 59,
+      "label": "59",
+      "char_start": 4492,
+      "char_end": 4554,
+      "text": "Maarat, Bet-anot y Eltecón, seis ciudades más con sus aldeas."
+    },
+    {
+      "verse": 60,
+      "label": "60",
+      "char_start": 4554,
+      "char_end": 4609,
+      "text": "Las ciudades de Quiriat-jearim y Rabá, con sus aldeas."
+    },
+    {
+      "verse": 61,
+      "label": "61",
+      "char_start": 4609,
+      "char_end": 4662,
+      "text": "En el desierto les tocaron Bet-arabá, Midín, Secacá,"
+    },
+    {
+      "verse": 62,
+      "label": "62",
+      "char_start": 4662,
+      "char_end": 4742,
+      "text": "Nibsán, Ciudad de la Sal y En-gadi, es decir, seis ciudades más con sus aldeas."
+    },
+    {
+      "verse": 63,
+      "label": "63",
+      "char_start": 4742,
+      "char_end": 4844,
+      "text": "Pero la tribu de Judá no pudo expulsar de Jerusalén a los jebuseos; por eso ellos todavía viven allí."
+    }
+  ],
+  "words": [
+    {
+      "word": "El territorio que recibió la tribu de Judá se extendía hacia el sur por el desierto de Sin hasta Temán, en la frontera con Edom.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7400,
+      "duration_ms": 7300
+    },
+    {
+      "word": "Esta frontera comenzaba en el extremo sur del Mar Muerto, seguía hacia el sur por el paso de Acrabim, y cruzaba el desierto de Sin, pasando al sur de Cadés-barnea.",
+      "verse": 2,
+      "start_ms": 7350,
+      "end_ms": 17425,
+      "duration_ms": 10075
+    },
+    {
+      "word": "Luego seguía hasta la ciudad de Hezrón, subía a Adar, y daba la vuelta por Carcá hasta la ciudad de Asmón.",
+      "verse": 3,
+      "start_ms": 17425,
+      "end_ms": 24237,
+      "duration_ms": 6812
+    },
+    {
+      "word": "De allí seguía por el arroyo, en la frontera con Egipto, hacia el noroeste, y terminaba en el mar Mediterráneo.",
+      "verse": 3,
+      "start_ms": 24237,
+      "end_ms": 31699,
+      "duration_ms": 7462
+    },
+    {
+      "word": "Ésta era la frontera sur de la tierra de Judá.",
+      "verse": 3,
+      "start_ms": 31700,
+      "end_ms": 35025,
+      "duration_ms": 3325
+    },
+    {
+      "word": "Al este, la frontera era todo el Mar Muerto, hasta la desembocadura del río Jordán.",
+      "verse": 5,
+      "start_ms": 35025,
+      "end_ms": 40962,
+      "duration_ms": 5937
+    },
+    {
+      "word": "Allí comenzaba la frontera norte, que se extendía hasta Bet-hoglá, pasando al norte de Bet-arabá hasta la Roca de Bohan hijo de Rubén.",
+      "verse": 5,
+      "start_ms": 40962,
+      "end_ms": 49424,
+      "duration_ms": 8462
+    },
+    {
+      "word": "Después subía del valle de Acor hasta Debir, doblando hacia Guilgal frente al paso de Adumim, al sur del valle; pasaba por el manantial de En-semes, y seguía hasta el de En-roguel; luego cruzaba el valle de Ben-hinom, que está al sur de Jerusalén, y subía por la cumbre del cerro al oeste del valle de Hinom, y de allí bajaba al valle de Refaim; daba la vuelta desde la cumbre del cerro hasta el manantial de Neftóah, y seguía por las ciudades del monte Efrón, pasando por Quiriat-jearim.",
+      "verse": 7,
+      "start_ms": 49425,
+      "end_ms": 77062,
+      "duration_ms": 27637
+    },
+    {
+      "word": "Hacia el oeste de Baalá, la frontera llegaba hasta el monte de Seír, pasaba por Quesalón, por el lado norte del monte Jearim, y bajaba hasta Bet-semes, pasando por Timná.",
+      "verse": 10,
+      "start_ms": 77062,
+      "end_ms": 88074,
+      "duration_ms": 11012
+    },
+    {
+      "word": "De allí seguía por los cerros al norte de Ecrón, y seguía a Sicrón, hasta Jabneel, pasando por el monte de Baalá, para terminar en el mar Mediterráneo.",
+      "verse": 11,
+      "start_ms": 88075,
+      "end_ms": 97550,
+      "duration_ms": 9475
+    },
+    {
+      "word": "Por último, la frontera oeste era el mar Mediterráneo.",
+      "verse": 12,
+      "start_ms": 97550,
+      "end_ms": 101662,
+      "duration_ms": 4112
+    },
+    {
+      "word": "Éstas eran las fronteras del territorio que les tocó a los grupos familiares de la tribu de Judá.",
+      "verse": 12,
+      "start_ms": 101662,
+      "end_ms": 107149,
+      "duration_ms": 5487
+    },
+    {
+      "word": "Dios le había dicho a Josué: Dale a Caleb hijo de Jefuné, una parte del territorio de la tribu de Judá.",
+      "verse": 13,
+      "start_ms": 107150,
+      "end_ms": 113975,
+      "duration_ms": 6825
+    },
+    {
+      "word": "Josué le asignó entonces la ciudad de Hebrón, que había fundado Arbá, el padre de la raza de gigantes.",
+      "verse": 13,
+      "start_ms": 113975,
+      "end_ms": 120687,
+      "duration_ms": 6712
+    },
+    {
+      "word": "En esa ciudad vivían los grupos familiares de los gigantes Sesai, Ahimán y Talmai.",
+      "verse": 14,
+      "start_ms": 120687,
+      "end_ms": 126074,
+      "duration_ms": 5387
+    },
+    {
+      "word": "Caleb los echó de allí y se apoderó de la ciudad.",
+      "verse": 14,
+      "start_ms": 126075,
+      "end_ms": 129637,
+      "duration_ms": 3562
+    },
+    {
+      "word": "Después salió para atacar a los habitantes de Debir.",
+      "verse": 15,
+      "start_ms": 129637,
+      "end_ms": 133262,
+      "duration_ms": 3625
+    },
+    {
+      "word": "Y dijo Caleb: Al que conquiste Debir le daré mi hija Acsa por esposa.",
+      "verse": 16,
+      "start_ms": 133262,
+      "end_ms": 138374,
+      "duration_ms": 5112
+    },
+    {
+      "word": "El que conquistó la ciudad fue su sobrino, Otoniel hijo de Quenaz, así que Caleb le dio a su hija Acsa por esposa.",
+      "verse": 17,
+      "start_ms": 138375,
+      "end_ms": 145687,
+      "duration_ms": 7312
+    },
+    {
+      "word": "El día de su casamiento Otoniel le dijo a su esposa: —Dile a tu padre que nos dé un terreno.",
+      "verse": 18,
+      "start_ms": 145687,
+      "end_ms": 151362,
+      "duration_ms": 5675
+    },
+    {
+      "word": "Entonces ella se bajó de su asno, y Caleb le preguntó qué quería.",
+      "verse": 18,
+      "start_ms": 151362,
+      "end_ms": 156037,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Ella le contestó: —Quiero un regalo de bodas.",
+      "verse": 19,
+      "start_ms": 156037,
+      "end_ms": 159699,
+      "duration_ms": 3662
+    },
+    {
+      "word": "Ya me diste tierras, pero están en zonas áridas.",
+      "verse": 19,
+      "start_ms": 159700,
+      "end_ms": 163700,
+      "duration_ms": 4000
+    },
+    {
+      "word": "Dame ahora también manantiales.",
+      "verse": 19,
+      "start_ms": 163700,
+      "end_ms": 166612,
+      "duration_ms": 2912
+    },
+    {
+      "word": "Y Caleb le dio los manantiales del cerro y los del valle.",
+      "verse": 19,
+      "start_ms": 166612,
+      "end_ms": 170337,
+      "duration_ms": 3725
+    },
+    {
+      "word": "El territorio que recibieron los grupos familiares de la tribu de Judá comprendía las siguientes ciudades: En la región sur, cerca de la frontera con Edom, estaban Cabseel, Éder, Jagur, Quiná, Dimoná, Adadá, Cedes, Hasor, Itnán, Zif, Télem, Bealot, Hasor-hadatá, Queriot, Hesrón, Amam, Semá, Moladá, Hasar-gadá, Hesmón, Bet-pélet, Hasar-sual, Beerseba y sus aldeas, Baalá, Iim, Ésem, Eltolad, Quesil, Hormá, Siclag, Madmaná, Sansaná, Lebaot, Silhim y En-rimón.",
+      "verse": 20,
+      "start_ms": 170337,
+      "end_ms": 206412,
+      "duration_ms": 36075
+    },
+    {
+      "word": "En total eran veintinueve ciudades más las aldeas que las rodeaban.",
+      "verse": 32,
+      "start_ms": 206412,
+      "end_ms": 210787,
+      "duration_ms": 4375
+    },
+    {
+      "word": "Las ciudades de la llanura eran: Estaol, Sorá, Asná, Zanóah, En-ganim, Tapúah, Enam, Jarmut, Adulam, Socó, Azecá, Saaraim, Aditaim, Guederá y Guederotaim, es decir, catorce ciudades con sus aldeas.",
+      "verse": 33,
+      "start_ms": 210787,
+      "end_ms": 227487,
+      "duration_ms": 16700
+    },
+    {
+      "word": "Otras ciudades eran Senán, Hadasá, Migdal-gad, Dileán, Mispá, Jocteel, Laquis, Boscat, Eglón, Cabón, Lahmam, Quitlís, Guederot, Bet-dagón, Naamá y Maquedá, es decir, dieciséis ciudades con sus aldeas.",
+      "verse": 37,
+      "start_ms": 227487,
+      "end_ms": 244262,
+      "duration_ms": 16775
+    },
+    {
+      "word": "Estaban además las ciudades de Libná, Éter, Asán, Ifta, Seana, Nesib, Queilá, Aczib y Maresá, es decir, otras nueve ciudades, con sus aldeas.",
+      "verse": 42,
+      "start_ms": 244262,
+      "end_ms": 255874,
+      "duration_ms": 11612
+    },
+    {
+      "word": "También estaba Ecrón con sus pueblos y aldeas, y todas las ciudades y aldeas cercanas a Asdod, desde Ecrón hasta el mar Mediterráneo.",
+      "verse": 45,
+      "start_ms": 255875,
+      "end_ms": 263875,
+      "duration_ms": 8000
+    },
+    {
+      "word": "Formaban parte de este territorio las ciudades de Asdod y Gaza, con sus pueblos y aldeas,",
+      "verse": 47,
+      "start_ms": 263875,
+      "end_ms": 269612,
+      "duration_ms": 5737
+    },
+    {
+      "word": "cuya zona se extendía hasta el arroyo de Egipto y la costa del mar Mediterráneo.",
+      "verse": 47,
+      "start_ms": 269764,
+      "end_ms": 274851,
+      "duration_ms": 5087
+    },
+    {
+      "word": "En la región montañosa el pueblo de Judá tenía las siguientes ciudades: Samir, Jatir, Socó, Daná, Debir, Anab, Estemoa, Anim, Gosen, Holón y Guiló.",
+      "verse": 48,
+      "start_ms": 274801,
+      "end_ms": 286288,
+      "duration_ms": 11487
+    },
+    {
+      "word": "Eran once ciudades con sus aldeas.",
+      "verse": 51,
+      "start_ms": 286289,
+      "end_ms": 289226,
+      "duration_ms": 2937
+    },
+    {
+      "word": "Otras nueve ciudades con sus aldeas eran Arab, Dumá, Esán, Janum, Bet-tapúa, Afecá, Humtá, Sior y Hebrón.",
+      "verse": 52,
+      "start_ms": 289226,
+      "end_ms": 298063,
+      "duration_ms": 8837
+    },
+    {
+      "word": "Otro grupo de diez ciudades con sus aldeas eran Maón, Carmel, Zif, Jutá, Jezreel, Jocdeam, Zanóah, Caín, Guibeá y Timná.",
+      "verse": 55,
+      "start_ms": 298064,
+      "end_ms": 308301,
+      "duration_ms": 10237
+    },
+    {
+      "word": "Las ciudades de Halhul, Bet-sur y Guedor, Maarat, Bet-anot y Eltecón, seis ciudades más con sus aldeas.",
+      "verse": 58,
+      "start_ms": 308301,
+      "end_ms": 315876,
+      "duration_ms": 7575
+    },
+    {
+      "word": "Las ciudades de Quiriat-jearim y Rabá, con sus aldeas.",
+      "verse": 60,
+      "start_ms": 315876,
+      "end_ms": 320013,
+      "duration_ms": 4137
+    },
+    {
+      "word": "En el desierto les tocaron Bet-arabá, Midín, Secacá, Nibsán, Ciudad de la Sal y En-gadi, es decir, seis ciudades más con sus aldeas.",
+      "verse": 61,
+      "start_ms": 320014,
+      "end_ms": 329564,
+      "duration_ms": 9550
+    },
+    {
+      "word": "Pero la tribu de Judá no pudo expulsar de Jerusalén a los jebuseos; por eso ellos todavía viven allí.",
+      "verse": 63,
+      "start_ms": 329564,
+      "end_ms": 336176,
+      "duration_ms": 6612
+    }
+  ]
+}

@@ -1,0 +1,691 @@
+{
+  "book": "LEV",
+  "chapter": 25,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 41,
+  "word_count": 56,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 39,
+      "text": "En el monte Sinaí Dios ordenó a Moisés"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 39,
+      "char_end": 201,
+      "text": "que les diera a los israelitas las siguientes instrucciones: Cuando entren al territorio que voy a darles, la tierra deberá tener un año de descanso en mi honor."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 201,
+      "char_end": 287,
+      "text": "Durante seis años, podrán sembrar sus campos, podar sus viñedos y recoger sus frutos,"
+    },
+    {
+      "verse": 4,
+      "label": "4-7",
+      "char_start": 287,
+      "char_end": 724,
+      "text": "pero al llegar el séptimo año no deberán sembrar sus campos ni podar sus viñedos. Tampoco deberán cosechar los campos ni recoger las uvas que broten después de la última cosecha. Lo que la tierra produzca por sí misma el séptimo año alcanzará para que coman ustedes, sus esclavos, sus trabajadores y los refugiados en el país, además de su ganado y los animales salvajes. Así la tierra gozará de un año completo de descanso en mi honor."
+    },
+    {
+      "verse": 8,
+      "label": "8-13",
+      "char_start": 724,
+      "char_end": 1308,
+      "text": "Además, deberán multiplicar siete años por siete, lo cual da cuarenta y nueve años, y el año siguiente, es decir, el cincuenta, será declarado año de liberación. En el día diez del mes de Etanim de ese año, que es el día del perdón, harán sonar por todo el país la trompeta y anunciarán la libertad para todos los habitantes del país. En ese año, los que hayan perdido su propiedad podrán recobrarla, y los esclavos quedarán en libertad de volver a sus familias. En el año cincuenta no deberán trabajar la tierra en ninguna manera, sólo comerán lo que la tierra produzca por sí sola."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1308,
+      "char_end": 1371,
+      "text": "Para que nadie haga trampa en la compra o venta de un terreno,"
+    },
+    {
+      "verse": 15,
+      "label": "15-16",
+      "char_start": 1371,
+      "char_end": 1479,
+      "text": "el precio se fijará según el número de cosechas que se puedan recoger hasta el siguiente año de liberación."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1479,
+      "char_end": 1558,
+      "text": "Nadie debe abusar de nadie. Muestren respeto por mí. Yo soy el Dios de Israel."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1558,
+      "char_end": 1647,
+      "text": "Si ustedes obedecen mis leyes y cumplen mis mandamientos, vivirán tranquilos en el país,"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1647,
+      "char_end": 1735,
+      "text": "la tierra les dará sus frutos, y ustedes disfrutarán de ellos hasta quedar satisfechos."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1735,
+      "char_end": 1878,
+      "text": "Seguramente ustedes se preguntarán: «¿Y qué vamos a comer durante el séptimo año, si no podemos sembrar ni recoger los frutos de la cosecha?»."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1878,
+      "char_end": 1982,
+      "text": "Pues bien, en el sexto año yo los bendeciré tanto que la cosecha bastará para los tres años siguientes."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1982,
+      "char_end": 2177,
+      "text": "Así, en el octavo año, mientras ustedes estén sembrando, podrán comer del grano que hayan almacenado. Y lo mismo sucederá en el noveno año, mientras llega el momento de recoger la nueva cosecha."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2177,
+      "char_end": 2313,
+      "text": "Nadie debe vender de manera definitiva su propiedad familiar. La tierra es mía. Ustedes sólo son mis huéspedes y están de paso en ella."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2313,
+      "char_end": 2417,
+      "text": "Si acaso compran un terreno, deberán reconocer que el propietario anterior tiene derecho a recuperarlo."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2417,
+      "char_end": 2602,
+      "text": "Si algún israelita queda en la miseria y se ve obligado a vender su propiedad, su pariente más cercano tiene el derecho de recuperarla por él, para que la propiedad vuelva a sus manos."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2602,
+      "char_end": 2698,
+      "text": "Si no tiene ningún pariente cercano, y puede conseguir por sí mismo el dinero para recuperarla,"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2698,
+      "char_end": 2813,
+      "text": "deberá contar cuántas cosechas faltan hasta el siguiente año de liberación, y ése será el precio que deberá pagar."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2813,
+      "char_end": 3046,
+      "text": "Si el que vendió no tiene dinero suficiente para recuperar su propiedad, el que compró seguirá siendo el dueño de la propiedad hasta el año de liberación. En ese año, la propiedad quedará liberada, y el dueño original la recuperará."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3046,
+      "char_end": 3169,
+      "text": "Si alguien vende una casa construida en una ciudad protegida con murallas, tendrá un año de plazo para volver a comprarla."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3169,
+      "char_end": 3340,
+      "text": "Si en ese plazo no logra recuperarla, la casa no le será devuelta en el año de liberación sino que pasará a ser propiedad permanente del comprador y de sus descendientes."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3340,
+      "char_end": 3510,
+      "text": "Con las casas construidas fuera de las ciudades, se hará lo mismo que con los terrenos: podrán ser recuperadas y devueltas a sus antiguos dueños en el año de liberación."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3510,
+      "char_end": 3639,
+      "text": "Los de la tribu de Leví podrán volver a comprar, en cualquier momento, las casas que construyan en las ciudades de su propiedad."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3639,
+      "char_end": 3730,
+      "text": "Si alguno de ellos no puede volver a comprarla, podrá recuperarla en el año de liberación."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3730,
+      "char_end": 3854,
+      "text": "Los terrenos que rodean las ciudades de la tribu de Leví, no podrán ser vendidos jamás, porque son su propiedad permanente."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3854,
+      "char_end": 3965,
+      "text": "Cuando algún israelita se quede en la miseria, deberán ayudarlo como si se tratara de un refugiado en el país."
+    },
+    {
+      "verse": 36,
+      "label": "36-37",
+      "char_start": 3965,
+      "char_end": 4125,
+      "text": "Si le hacen un préstamo, no deben cobrarle intereses; si le dan de comer, no deben hacerlo por negocio. Muestren respeto por mí, y déjenlo vivir entre ustedes."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4125,
+      "char_end": 4235,
+      "text": "Yo los saqué de Egipto para darles el país de Canaán y para ser el Dios de ustedes. Yo soy el Dios de Israel."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4235,
+      "char_end": 4336,
+      "text": "Si algún israelita se queda en la miseria y para sobrevivir se vende como esclavo, no lo traten mal."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4336,
+      "char_end": 4460,
+      "text": "Él estará al servicio de su amo en calidad de trabajador y de huésped, y trabajará para él sólo hasta el año de liberación."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4460,
+      "char_end": 4576,
+      "text": "En ese año quedará en libertad, y junto con sus hijos podrá volver a vivir con sus parientes, en su propio terreno."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4576,
+      "char_end": 4697,
+      "text": "Los israelitas me pertenecen. No pueden ser vendidos como esclavos, porque eran esclavos en Egipto y yo les di libertad."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4697,
+      "char_end": 4755,
+      "text": "No maltraten a ningún israelita. Muestren respeto por mí."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 4755,
+      "char_end": 4826,
+      "text": "Si ustedes quieren tener esclavos, cómprenlos en las naciones vecinas,"
+    },
+    {
+      "verse": 45,
+      "label": "45-46",
+      "char_start": 4826,
+      "char_end": 5038,
+      "text": "o entre los hijos de los extranjeros que han nacido en el país y viven entre ustedes. A ellos sí podrán tenerlos como esclavos, y hasta dejárselos a sus hijos como herencia. Pero no maltraten a ningún israelita."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 5038,
+      "char_end": 5192,
+      "text": "Si alguno de los extranjeros que viven en el país se hace rico, y un israelita queda en la pobreza, al punto de venderse como esclavo al extranjero rico,"
+    },
+    {
+      "verse": 48,
+      "label": "48-49",
+      "char_start": 5192,
+      "char_end": 5336,
+      "text": "ese israelita tendrá el derecho a ser rescatado. Esto podrá hacerlo un pariente cercano, y hasta él mismo si cuenta con los medios suficientes."
+    },
+    {
+      "verse": 50,
+      "label": "50-52",
+      "char_start": 5336,
+      "char_end": 5531,
+      "text": "El dueño contará los años que faltan para que llegue el año de liberación, y calculará cuánto habría ganado un obrero en todo ese tiempo. Ése será el precio que deberá pagarse por su liberación."
+    },
+    {
+      "verse": 53,
+      "label": "53",
+      "char_start": 5531,
+      "char_end": 5606,
+      "text": "Ustedes deben cuidar que ningún extranjero maltrate a un obrero israelita."
+    },
+    {
+      "verse": 54,
+      "label": "54",
+      "char_start": 5606,
+      "char_end": 5741,
+      "text": "Si el israelita que se vende como esclavo no es rescatado de este modo, quedará libre en el año de liberación, lo mismo que sus hijos."
+    },
+    {
+      "verse": 55,
+      "label": "55",
+      "char_start": 5741,
+      "char_end": 5821,
+      "text": "Ustedes me pertenecen, porque yo los saqué de Egipto. Yo soy el Dios de Israel."
+    }
+  ],
+  "words": [
+    {
+      "word": "En el monte Sinaí Dios ordenó a Moisés que les diera a los israelitas las siguientes instrucciones: Cuando entren al territorio que voy a darles, la tierra deberá tener un año de descanso en mi honor.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 11212,
+      "duration_ms": 11112
+    },
+    {
+      "word": "Durante seis años, podrán sembrar sus campos, podar sus viñedos y recoger sus frutos, pero al llegar el séptimo año no deberán sembrar sus campos ni podar sus viñedos.",
+      "verse": 3,
+      "start_ms": 11162,
+      "end_ms": 21849,
+      "duration_ms": 10687
+    },
+    {
+      "word": "Tampoco deberán cosechar los campos ni recoger las uvas que broten después de la última cosecha.",
+      "verse": 4,
+      "start_ms": 21850,
+      "end_ms": 27725,
+      "duration_ms": 5875
+    },
+    {
+      "word": "Lo que la tierra produzca por sí misma el séptimo año alcanzará para que coman ustedes, sus esclavos, sus trabajadores y los refugiados en el país, además de su ganado y los animales salvajes.",
+      "verse": 4,
+      "start_ms": 27725,
+      "end_ms": 39562,
+      "duration_ms": 11837
+    },
+    {
+      "word": "Así la tierra gozará de un año completo de descanso en mi honor.",
+      "verse": 4,
+      "start_ms": 39562,
+      "end_ms": 43887,
+      "duration_ms": 4325
+    },
+    {
+      "word": "Además, deberán multiplicar siete años por siete, lo cual da cuarenta y nueve años, y el año siguiente, es decir, el cincuenta, será declarado año de liberación.",
+      "verse": 8,
+      "start_ms": 43887,
+      "end_ms": 54924,
+      "duration_ms": 11037
+    },
+    {
+      "word": "En el día diez del mes de Etanim de ese año, que es el día del perdón, harán sonar por todo el país la trompeta y anunciarán la libertad para todos los habitantes del país.",
+      "verse": 8,
+      "start_ms": 54925,
+      "end_ms": 65150,
+      "duration_ms": 10225
+    },
+    {
+      "word": "En ese año, los que hayan perdido su propiedad podrán recobrarla, y los esclavos quedarán en libertad de volver a sus familias.",
+      "verse": 8,
+      "start_ms": 65150,
+      "end_ms": 73000,
+      "duration_ms": 7850
+    },
+    {
+      "word": "En el año cincuenta no deberán trabajar la tierra en ninguna manera, sólo comerán lo que la tierra produzca por sí sola.",
+      "verse": 8,
+      "start_ms": 73000,
+      "end_ms": 79975,
+      "duration_ms": 6975
+    },
+    {
+      "word": "Para que nadie haga trampa en la compra o venta de un terreno, el precio se fijará según el número de cosechas que se puedan recoger hasta el siguiente año de liberación.",
+      "verse": 14,
+      "start_ms": 79975,
+      "end_ms": 89037,
+      "duration_ms": 9062
+    },
+    {
+      "word": "Nadie debe abusar de nadie.",
+      "verse": 17,
+      "start_ms": 89037,
+      "end_ms": 91562,
+      "duration_ms": 2525
+    },
+    {
+      "word": "Muestren respeto por mí.",
+      "verse": 17,
+      "start_ms": 91562,
+      "end_ms": 93837,
+      "duration_ms": 2275
+    },
+    {
+      "word": "Yo soy el Dios de Israel.",
+      "verse": 17,
+      "start_ms": 93837,
+      "end_ms": 96337,
+      "duration_ms": 2500
+    },
+    {
+      "word": "Si ustedes obedecen mis leyes y cumplen mis mandamientos, vivirán tranquilos en el país, la tierra les dará sus frutos, y ustedes disfrutarán de ellos hasta quedar satisfechos.",
+      "verse": 18,
+      "start_ms": 96337,
+      "end_ms": 107362,
+      "duration_ms": 11025
+    },
+    {
+      "word": "Seguramente ustedes se preguntarán: «¿Y qué vamos a comer durante el séptimo año, si no podemos sembrar ni recoger los frutos de la cosecha?",
+      "verse": 20,
+      "start_ms": 107362,
+      "end_ms": 115912,
+      "duration_ms": 8550
+    },
+    {
+      "word": "Pues bien, en el sexto año yo los bendeciré tanto que la cosecha bastará para los tres años siguientes.",
+      "verse": 21,
+      "start_ms": 115912,
+      "end_ms": 122412,
+      "duration_ms": 6500
+    },
+    {
+      "word": "Así, en el octavo año, mientras ustedes estén sembrando, podrán comer del grano que hayan almacenado.",
+      "verse": 22,
+      "start_ms": 122412,
+      "end_ms": 129412,
+      "duration_ms": 7000
+    },
+    {
+      "word": "Y lo mismo sucederá en el noveno año, mientras llega el momento de recoger la nueva cosecha.",
+      "verse": 22,
+      "start_ms": 129412,
+      "end_ms": 135549,
+      "duration_ms": 6137
+    },
+    {
+      "word": "Nadie debe vender de manera definitiva su propiedad familiar.",
+      "verse": 23,
+      "start_ms": 135550,
+      "end_ms": 139800,
+      "duration_ms": 4250
+    },
+    {
+      "word": "La tierra es mía.",
+      "verse": 23,
+      "start_ms": 139800,
+      "end_ms": 141850,
+      "duration_ms": 2050
+    },
+    {
+      "word": "Ustedes sólo son mis huéspedes y están de paso en ella.",
+      "verse": 23,
+      "start_ms": 141850,
+      "end_ms": 145650,
+      "duration_ms": 3800
+    },
+    {
+      "word": "Si acaso compran un terreno, deberán reconocer que el propietario anterior tiene derecho a recuperarlo.",
+      "verse": 24,
+      "start_ms": 145650,
+      "end_ms": 151875,
+      "duration_ms": 6225
+    },
+    {
+      "word": "Si algún israelita queda en la miseria y se ve obligado a vender su propiedad, su pariente más cercano tiene el derecho de recuperarla por él, para que la propiedad vuelva a sus manos.",
+      "verse": 25,
+      "start_ms": 151875,
+      "end_ms": 162137,
+      "duration_ms": 10262
+    },
+    {
+      "word": "Si no tiene ningún pariente cercano, y puede conseguir por sí mismo el dinero para recuperarla, deberá contar cuántas cosechas faltan hasta el siguiente año de liberación, y ése será el precio que deberá pagar.",
+      "verse": 26,
+      "start_ms": 162137,
+      "end_ms": 174162,
+      "duration_ms": 12025
+    },
+    {
+      "word": "Si el que vendió no tiene dinero suficiente para recuperar su propiedad, el que compró seguirá siendo el dueño de la propiedad hasta el año de liberación.",
+      "verse": 28,
+      "start_ms": 174162,
+      "end_ms": 182537,
+      "duration_ms": 8375
+    },
+    {
+      "word": "En ese año, la propiedad quedará liberada, y el dueño original la recuperará.",
+      "verse": 28,
+      "start_ms": 182537,
+      "end_ms": 188174,
+      "duration_ms": 5637
+    },
+    {
+      "word": "Si alguien vende una casa construida en una ciudad protegida con murallas, tendrá un año de plazo para volver a comprarla.",
+      "verse": 29,
+      "start_ms": 188175,
+      "end_ms": 195612,
+      "duration_ms": 7437
+    },
+    {
+      "word": "Si en ese plazo no logra recuperarla, la casa no le será devuelta en el año de liberación sino que pasará a ser propiedad permanente del comprador y de sus descendientes.",
+      "verse": 30,
+      "start_ms": 195612,
+      "end_ms": 205449,
+      "duration_ms": 9837
+    },
+    {
+      "word": "Con las casas construidas fuera de las ciudades, se hará lo mismo que con los terrenos: podrán ser recuperadas y devueltas a sus antiguos dueños en el año de liberación.",
+      "verse": 31,
+      "start_ms": 205450,
+      "end_ms": 215050,
+      "duration_ms": 9600
+    },
+    {
+      "word": "Los de la tribu de Leví podrán volver a comprar, en cualquier momento, las casas que construyan en las ciudades de su propiedad.",
+      "verse": 32,
+      "start_ms": 215050,
+      "end_ms": 222462,
+      "duration_ms": 7412
+    },
+    {
+      "word": "Si alguno de ellos no puede volver a comprarla, podrá recuperarla en el año de liberación.",
+      "verse": 33,
+      "start_ms": 222462,
+      "end_ms": 228224,
+      "duration_ms": 5762
+    },
+    {
+      "word": "Los terrenos que rodean las ciudades de la tribu de Leví, no podrán ser vendidos jamás, porque son su propiedad permanente.",
+      "verse": 34,
+      "start_ms": 228225,
+      "end_ms": 235687,
+      "duration_ms": 7462
+    },
+    {
+      "word": "Cuando algún israelita se quede en la miseria, deberán ayudarlo como si se tratara de un refugiado en el país.",
+      "verse": 35,
+      "start_ms": 235687,
+      "end_ms": 242449,
+      "duration_ms": 6762
+    },
+    {
+      "word": "Si le",
+      "verse": 36,
+      "start_ms": 242450,
+      "end_ms": 243887,
+      "duration_ms": 1437
+    },
+    {
+      "word": "hacen un préstamo, no deben cobrarle intereses; si le dan de comer, no deben hacerlo por negocio.",
+      "verse": 36,
+      "start_ms": 244036,
+      "end_ms": 250748,
+      "duration_ms": 6712
+    },
+    {
+      "word": "Muestren respeto por mí, y déjenlo vivir entre ustedes.",
+      "verse": 36,
+      "start_ms": 250698,
+      "end_ms": 254848,
+      "duration_ms": 4150
+    },
+    {
+      "word": "Yo los saqué de Egipto para darles el país de Canaán y para ser el Dios de ustedes.",
+      "verse": 38,
+      "start_ms": 254848,
+      "end_ms": 260010,
+      "duration_ms": 5162
+    },
+    {
+      "word": "Yo soy el Dios de Israel.",
+      "verse": 38,
+      "start_ms": 260011,
+      "end_ms": 262511,
+      "duration_ms": 2500
+    },
+    {
+      "word": "Si algún israelita se queda en la miseria y para sobrevivir se vende como esclavo, no lo traten mal.",
+      "verse": 39,
+      "start_ms": 262511,
+      "end_ms": 268698,
+      "duration_ms": 6187
+    },
+    {
+      "word": "Él estará al servicio de su amo en calidad de trabajador y de huésped, y trabajará para él sólo hasta el año de liberación.",
+      "verse": 40,
+      "start_ms": 268698,
+      "end_ms": 276035,
+      "duration_ms": 7337
+    },
+    {
+      "word": "En ese año quedará en libertad, y junto con sus hijos podrá volver a vivir con sus parientes, en su propio terreno.",
+      "verse": 41,
+      "start_ms": 276036,
+      "end_ms": 283323,
+      "duration_ms": 7287
+    },
+    {
+      "word": "Los israelitas me pertenecen.",
+      "verse": 42,
+      "start_ms": 283323,
+      "end_ms": 286035,
+      "duration_ms": 2712
+    },
+    {
+      "word": "No pueden ser vendidos como esclavos, porque eran esclavos en Egipto y yo les di libertad.",
+      "verse": 42,
+      "start_ms": 286036,
+      "end_ms": 292048,
+      "duration_ms": 6012
+    },
+    {
+      "word": "No maltraten a ningún israelita.",
+      "verse": 43,
+      "start_ms": 292048,
+      "end_ms": 294848,
+      "duration_ms": 2800
+    },
+    {
+      "word": "Muestren respeto por mí.",
+      "verse": 43,
+      "start_ms": 294848,
+      "end_ms": 297123,
+      "duration_ms": 2275
+    },
+    {
+      "word": "Si ustedes quieren tener esclavos, cómprenlos en las naciones vecinas, o entre los hijos de los extranjeros que han nacido en el país y viven entre ustedes.",
+      "verse": 44,
+      "start_ms": 297123,
+      "end_ms": 306235,
+      "duration_ms": 9112
+    },
+    {
+      "word": "A ellos sí podrán tenerlos como esclavos, y hasta dejárselos a sus hijos como herencia.",
+      "verse": 45,
+      "start_ms": 306236,
+      "end_ms": 311923,
+      "duration_ms": 5687
+    },
+    {
+      "word": "Pero no maltraten a ningún israelita.",
+      "verse": 45,
+      "start_ms": 311923,
+      "end_ms": 314898,
+      "duration_ms": 2975
+    },
+    {
+      "word": "Si alguno de los extranjeros que viven en el país se hace rico, y un israelita queda en la pobreza, al punto de venderse como esclavo al extranjero rico, ese israelita tendrá el derecho a ser rescatado.",
+      "verse": 47,
+      "start_ms": 314898,
+      "end_ms": 326985,
+      "duration_ms": 12087
+    },
+    {
+      "word": "Esto podrá hacerlo un pariente cercano, y hasta él mismo si cuenta con los medios suficientes.",
+      "verse": 48,
+      "start_ms": 326986,
+      "end_ms": 332823,
+      "duration_ms": 5837
+    },
+    {
+      "word": "El dueño contará los años que faltan para que llegue el año de liberación, y calculará cuánto habría ganado un obrero en todo ese tiempo.",
+      "verse": 50,
+      "start_ms": 332823,
+      "end_ms": 340873,
+      "duration_ms": 8050
+    },
+    {
+      "word": "Ése será el precio que deberá pagarse por su liberación.",
+      "verse": 50,
+      "start_ms": 340873,
+      "end_ms": 344635,
+      "duration_ms": 3762
+    },
+    {
+      "word": "Ustedes deben cuidar que ningún extranjero maltrate a un obrero israelita.",
+      "verse": 53,
+      "start_ms": 344636,
+      "end_ms": 349548,
+      "duration_ms": 4912
+    },
+    {
+      "word": "Si el israelita que se vende como esclavo no es rescatado de este modo, quedará libre en el año de liberación, lo mismo que sus hijos.",
+      "verse": 54,
+      "start_ms": 349548,
+      "end_ms": 358023,
+      "duration_ms": 8475
+    },
+    {
+      "word": "Ustedes me pertenecen, porque yo los saqué de Egipto.",
+      "verse": 55,
+      "start_ms": 358023,
+      "end_ms": 362148,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Yo soy el Dios de Israel.",
+      "verse": 55,
+      "start_ms": 362148,
+      "end_ms": 364648,
+      "duration_ms": 2500
+    }
+  ]
+}

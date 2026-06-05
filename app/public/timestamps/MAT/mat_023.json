@@ -1,0 +1,712 @@
+{
+  "book": "MAT",
+  "chapter": 23,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 36,
+  "word_count": 64,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 62,
+      "text": "Tiempo después, Jesús les dijo a la gente y a sus discípulos:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 62,
+      "char_end": 142,
+      "text": "Los fariseos y los maestros de la Ley son los que más conocen la ley de Moisés."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 142,
+      "char_end": 259,
+      "text": "Ustedes deben hacer todo lo que ellos digan; pero no hagan lo que ellos hacen, porque enseñan una cosa y hacen otra."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 259,
+      "char_end": 362,
+      "text": "Imponen mandamientos muy difíciles de cumplir, pero no hacen ni el más mínimo esfuerzo por cumplirlos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 362,
+      "char_end": 681,
+      "text": "Todo eso lo hacen para que la gente los vea y los admire. Por eso escriben frases de la Biblia en papelitos que guardan en cajitas de cuero, y se las ponen en la frente y en los brazos. Cada vez hacen más grandes esas cajitas y los flecos que le ponen a la ropa, para que la gente piense que son muy obedientes a Dios."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 681,
+      "char_end": 790,
+      "text": "Cuando van a la sinagoga o asisten a fiestas, les encanta que los traten como si fueran los más importantes."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 790,
+      "char_end": 882,
+      "text": "Les gusta que la gente los salude en el mercado con gran respeto, y que los llame maestros."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 882,
+      "char_end": 1004,
+      "text": "Pero ustedes no esperen que la gente los llame maestros, porque ustedes son como hermanos, y tienen solamente un maestro."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1004,
+      "char_end": 1103,
+      "text": "No le digan padre a nadie, porque el único padre que ustedes tienen es Dios, que está en el cielo."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1103,
+      "char_end": 1198,
+      "text": "Tampoco esperen que la gente los trate como líderes, porque yo, el Mesías, soy su único líder."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1198,
+      "char_end": 1261,
+      "text": "El más importante de ustedes deberá ser el sirviente de todos."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1261,
+      "char_end": 1449,
+      "text": "Porque los que se creen más importantes que los demás serán tratados como los menos importantes. Y los que se comportan como los menos importantes serán tratados como los más importantes."
+    },
+    {
+      "verse": 13,
+      "label": "13-14",
+      "char_start": 1449,
+      "char_end": 1649,
+      "text": "Jesús les dijo a los fariseos y a los maestros de la Ley: ¡Qué mal les va a ir, hipócritas! Ustedes les cierran la puerta del reino de Dios a los demás. Y ni entran ustedes ni dejan que otros entren."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1649,
+      "char_end": 1832,
+      "text": "¡Qué mal les va a ir, hipócritas! Ustedes van por todas partes tratando de ganar un seguidor y, cuando lo consiguen, lo hacen dos veces más merecedor del infierno que ustedes mismos."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1832,
+      "char_end": 2100,
+      "text": "¡Qué mal les va a ir! Se supone que ustedes deben enseñar al pueblo a obedecer a Dios, pero ni ustedes mismos lo hacen. Enseñan que se puede no cumplir una promesa, si se jura sólo por el templo; pero que se debe cumplir esa promesa, si se jura por el oro del templo."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2100,
+      "char_end": 2260,
+      "text": "¡Ustedes no saben nada, son unos tontos! No se dan cuenta de que el templo es más importante que el oro, y que el templo hace que el oro sea valioso ante Dios."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2260,
+      "char_end": 2442,
+      "text": "También enseñan que se puede no cumplir una promesa, si se jura sólo por el altar del templo; pero que se debe cumplir esa promesa si se jura por la ofrenda que está sobre el altar."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2442,
+      "char_end": 2551,
+      "text": "¡Ignorantes! El altar de Dios es más importante que la ofrenda, y hace que la ofrenda sea valiosa ante Dios."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2551,
+      "char_end": 2720,
+      "text": "Cuando una persona hace una promesa, y jura por el altar del templo que la cumplirá, está jurando no sólo por el altar, sino también por todo lo que hay sobre el altar."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2720,
+      "char_end": 2827,
+      "text": "Y si alguien jura por el templo, no sólo está jurando por el templo, sino también por Dios, que vive allí."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2827,
+      "char_end": 2914,
+      "text": "Si jura por el cielo, también jura por Dios, porque el trono de Dios está en el cielo."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2914,
+      "char_end": 3314,
+      "text": "¡Qué mal les va a ir a ustedes, maestros de la Ley y fariseos! ¡Hipócritas! Se preocupan por dar como ofrenda la décima parte de la menta, del anís y del comino que cosechan en sus terrenos. Pero no obedecen las enseñanzas más importantes de la ley: ser justos con los demás, tratarlos con amor, y obedecer a Dios en todo. Hay que hacer esas tres cosas, sin dejar de obedecer los demás mandamientos."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3314,
+      "char_end": 3553,
+      "text": "¡Ustedes, como líderes, no saben nada! Cumplen los detalles más insignificantes de la ley, pero no cumplen lo más importante de ella. Ustedes son como los que, al beber vino, sacan el mosquito pero se tragan el camello que hay en el vino."
+    },
+    {
+      "verse": 25,
+      "label": "25-26",
+      "char_start": 3553,
+      "char_end": 3894,
+      "text": "¡Qué mal les va a ir, hipócritas! Parecen buena gente, pero en realidad son malos, no ayudan a nadie, y roban a los demás. ¡Tontos! Sean buenos de verdad, porque si no lo hacen, serán como un vaso o un plato limpio por fuera, pero lleno de suciedad por dentro. Pero si el vaso o el plato se limpian por dentro, todo estará limpio de verdad."
+    },
+    {
+      "verse": 27,
+      "label": "27-28",
+      "char_start": 3894,
+      "char_end": 4119,
+      "text": "¡Qué mal les va a ir! Aparentan ser gente buena y honrada, pero en realidad son hipócritas y malvados. Son como una tumba pintada de blanco, que por fuera se ve limpia, pero que por dentro está llena de huesos y de suciedad."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 4119,
+      "char_end": 4290,
+      "text": "¡Pobrecitos de ustedes, qué mal les va a ir, hipócritas! Construyen monumentos para recordar a los profetas muertos, y ponen adornos en las tumbas de las personas buenas."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4290,
+      "char_end": 4402,
+      "text": "Dicen que, si hubieran vivido en aquel tiempo, no habrían estado de acuerdo con los que mataron a los profetas."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4402,
+      "char_end": 4453,
+      "text": "Pero, en realidad, demuestran ser iguales a ellos."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4453,
+      "char_end": 4504,
+      "text": "¡Terminen, pues, de hacer lo que ellos comenzaron!"
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4504,
+      "char_end": 4641,
+      "text": "¡Ustedes son unos mentirosos y unos malvados! Son tan malos como el veneno de una serpiente. ¡Por eso no se escaparán de ir al infierno!"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4641,
+      "char_end": 4847,
+      "text": "Yo les enviaré profetas, sabios y maestros, pero a algunos de ellos ustedes los matarán o los clavarán en una cruz, a otros los golpearán en las sinagogas, y a otros los perseguirán por todas las ciudades."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4847,
+      "char_end": 5104,
+      "text": "Por eso, serán culpables de la muerte de toda persona buena en el mundo; comenzando por la muerte de Abel hasta terminar con la muerte del profeta Zacarías, que era hijo de Berequías. A este profeta lo mataron entre el templo y el altar de los sacrificios."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 5104,
+      "char_end": 5161,
+      "text": "Les aseguro que todos ustedes serán castigados por esto."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 5161,
+      "char_end": 5389,
+      "text": "¡Gente de Jerusalén, gente de Jerusalén! Ustedes matan a los profetas y a los mensajeros que Dios les envía. Muchas veces quise protegerlos, como protege la gallina a sus pollitos debajo de sus alas, pero ustedes no me dejaron."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 5389,
+      "char_end": 5419,
+      "text": "Su templo quedará abandonado."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 5419,
+      "char_end": 5550,
+      "text": "Les aseguro que a partir de este momento no volverán a verme, hasta que digan: «Bendito el Mesías que viene en el nombre de Dios»."
+    }
+  ],
+  "words": [
+    {
+      "word": "Tiempo después, Jesús les dijo a la gente y a sus discípulos: Los fariseos y los maestros de la Ley son los que más conocen la ley de Moisés.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 8725,
+      "duration_ms": 8625
+    },
+    {
+      "word": "Ustedes deben hacer todo lo que ellos digan; pero no hagan lo que ellos hacen, porque enseñan una cosa y hacen otra.",
+      "verse": 3,
+      "start_ms": 8675,
+      "end_ms": 16062,
+      "duration_ms": 7387
+    },
+    {
+      "word": "Imponen mandamientos muy difíciles de cumplir, pero no hacen ni el más mínimo esfuerzo por cumplirlos.",
+      "verse": 4,
+      "start_ms": 16062,
+      "end_ms": 22787,
+      "duration_ms": 6725
+    },
+    {
+      "word": "Todo eso lo hacen para que la gente los vea y los admire.",
+      "verse": 5,
+      "start_ms": 22787,
+      "end_ms": 26724,
+      "duration_ms": 3937
+    },
+    {
+      "word": "Por eso escriben frases de la Biblia en papelitos que guardan en cajitas de cuero, y se las ponen en la frente y en los brazos.",
+      "verse": 5,
+      "start_ms": 26725,
+      "end_ms": 33912,
+      "duration_ms": 7187
+    },
+    {
+      "word": "Cada vez hacen más grandes esas cajitas y los flecos que le ponen a la ropa, para que la gente piense que son muy obedientes a Dios.",
+      "verse": 5,
+      "start_ms": 33912,
+      "end_ms": 41524,
+      "duration_ms": 7612
+    },
+    {
+      "word": "Cuando van a la sinagoga o asisten a fiestas, les encanta que los traten como si fueran los más importantes.",
+      "verse": 6,
+      "start_ms": 41525,
+      "end_ms": 48250,
+      "duration_ms": 6725
+    },
+    {
+      "word": "Les gusta que la gente los salude en el mercado con gran respeto, y que los llame maestros.",
+      "verse": 7,
+      "start_ms": 48250,
+      "end_ms": 54075,
+      "duration_ms": 5825
+    },
+    {
+      "word": "Pero ustedes no esperen que la gente los llame maestros, porque ustedes son como hermanos, y tienen solamente un maestro.",
+      "verse": 8,
+      "start_ms": 54075,
+      "end_ms": 61562,
+      "duration_ms": 7487
+    },
+    {
+      "word": "No le digan padre a nadie, porque el único padre que ustedes tienen es Dios, que está en el cielo.",
+      "verse": 9,
+      "start_ms": 61562,
+      "end_ms": 67862,
+      "duration_ms": 6300
+    },
+    {
+      "word": "Tampoco esperen que la gente los trate como líderes, porque yo, el Mesías, soy su único líder.",
+      "verse": 10,
+      "start_ms": 67862,
+      "end_ms": 74737,
+      "duration_ms": 6875
+    },
+    {
+      "word": "El más importante de ustedes deberá ser el sirviente de todos.",
+      "verse": 11,
+      "start_ms": 74737,
+      "end_ms": 79037,
+      "duration_ms": 4300
+    },
+    {
+      "word": "Porque los que se creen más importantes que los demás serán tratados como los menos importantes.",
+      "verse": 12,
+      "start_ms": 79037,
+      "end_ms": 84574,
+      "duration_ms": 5537
+    },
+    {
+      "word": "Y los que se comportan como los menos importantes serán tratados como los más importantes.",
+      "verse": 12,
+      "start_ms": 84575,
+      "end_ms": 90175,
+      "duration_ms": 5600
+    },
+    {
+      "word": "Jesús les dijo a los fariseos y a los maestros de la Ley: ¡Qué mal les va a ir, hipócritas!",
+      "verse": 13,
+      "start_ms": 90175,
+      "end_ms": 96262,
+      "duration_ms": 6087
+    },
+    {
+      "word": "Ustedes les cierran la puerta del reino de Dios a los demás.",
+      "verse": 13,
+      "start_ms": 96262,
+      "end_ms": 100299,
+      "duration_ms": 4037
+    },
+    {
+      "word": "Y ni entran ustedes ni dejan que otros entren.",
+      "verse": 13,
+      "start_ms": 100300,
+      "end_ms": 103737,
+      "duration_ms": 3437
+    },
+    {
+      "word": "Qué mal les va a ir, hipócritas!",
+      "verse": 15,
+      "start_ms": 103737,
+      "end_ms": 106599,
+      "duration_ms": 2862
+    },
+    {
+      "word": "Ustedes van por todas partes tratando de ganar un seguidor y, cuando lo consiguen, lo hacen dos veces más merecedor del infierno que ustedes mismos.",
+      "verse": 15,
+      "start_ms": 106600,
+      "end_ms": 115287,
+      "duration_ms": 8687
+    },
+    {
+      "word": "Qué mal les va a ir!",
+      "verse": 16,
+      "start_ms": 115287,
+      "end_ms": 117099,
+      "duration_ms": 1812
+    },
+    {
+      "word": "Se supone que ustedes deben enseñar al pueblo a obedecer a Dios, pero ni ustedes mismos lo hacen.",
+      "verse": 16,
+      "start_ms": 117100,
+      "end_ms": 123425,
+      "duration_ms": 6325
+    },
+    {
+      "word": "Enseñan que se puede no cumplir una promesa, si se jura sólo por el templo; pero que se debe cumplir esa promesa, si se jura por el oro del templo.",
+      "verse": 16,
+      "start_ms": 123425,
+      "end_ms": 132450,
+      "duration_ms": 9025
+    },
+    {
+      "word": "Ustedes no saben nada, son unos tontos!",
+      "verse": 17,
+      "start_ms": 132450,
+      "end_ms": 136062,
+      "duration_ms": 3612
+    },
+    {
+      "word": "No se dan cuenta de que el templo es más importante que el oro, y que el templo hace que el oro sea valioso ante Dios.",
+      "verse": 17,
+      "start_ms": 136062,
+      "end_ms": 143137,
+      "duration_ms": 7075
+    },
+    {
+      "word": "También enseñan que se puede no cumplir una promesa, si se jura sólo por el altar del templo; pero que se debe cumplir esa promesa si se jura por la ofrenda que está sobre el altar.",
+      "verse": 18,
+      "start_ms": 143137,
+      "end_ms": 153037,
+      "duration_ms": 9900
+    },
+    {
+      "word": "Ignorantes!",
+      "verse": 19,
+      "start_ms": 153037,
+      "end_ms": 154799,
+      "duration_ms": 1762
+    },
+    {
+      "word": "El altar de Dios es más importante que la ofrenda, y hace que la ofrenda sea valiosa ante Dios.",
+      "verse": 19,
+      "start_ms": 154800,
+      "end_ms": 160962,
+      "duration_ms": 6162
+    },
+    {
+      "word": "Cuando una persona hace una promesa, y jura por el altar del templo que la cumplirá, está jurando no sólo por el altar, sino también por todo lo que hay sobre el altar.",
+      "verse": 20,
+      "start_ms": 160962,
+      "end_ms": 170937,
+      "duration_ms": 9975
+    },
+    {
+      "word": "Y si alguien jura por el templo, no sólo está jurando por el templo, sino también por Dios, que vive allí.",
+      "verse": 21,
+      "start_ms": 170937,
+      "end_ms": 177762,
+      "duration_ms": 6825
+    },
+    {
+      "word": "Si jura por el cielo, también jura por Dios, porque el trono de Dios está en el cielo.",
+      "verse": 22,
+      "start_ms": 177762,
+      "end_ms": 183512,
+      "duration_ms": 5750
+    },
+    {
+      "word": "Qué mal les va a ir a ustedes, maestros de la Ley y fariseos!",
+      "verse": 23,
+      "start_ms": 183512,
+      "end_ms": 188012,
+      "duration_ms": 4500
+    },
+    {
+      "word": "Hipócritas!",
+      "verse": 23,
+      "start_ms": 188012,
+      "end_ms": 189762,
+      "duration_ms": 1750
+    },
+    {
+      "word": "Se preocupan por dar como ofrenda la décima parte de la menta, del anís y del comino que cosechan en sus terrenos.",
+      "verse": 23,
+      "start_ms": 189762,
+      "end_ms": 196824,
+      "duration_ms": 7062
+    },
+    {
+      "word": "Pero no obedecen las enseñanzas más importantes de la ley: ser justos con los demás, tratarlos con amor, y obedecer a Dios en todo.",
+      "verse": 23,
+      "start_ms": 196825,
+      "end_ms": 205325,
+      "duration_ms": 8500
+    },
+    {
+      "word": "Hay que hacer esas tres cosas, sin dejar de obedecer los demás mandamientos.",
+      "verse": 23,
+      "start_ms": 205325,
+      "end_ms": 210400,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Ustedes, como líderes, no saben nada!",
+      "verse": 24,
+      "start_ms": 210400,
+      "end_ms": 214175,
+      "duration_ms": 3775
+    },
+    {
+      "word": "Cumplen los detalles más insignificantes de la ley, pero no cumplen lo más importante de ella.",
+      "verse": 24,
+      "start_ms": 214175,
+      "end_ms": 220137,
+      "duration_ms": 5962
+    },
+    {
+      "word": "Ustedes son como los que, al beber vino, sacan el mosquito pero se tragan el camello que hay en el vino.",
+      "verse": 24,
+      "start_ms": 220137,
+      "end_ms": 226562,
+      "duration_ms": 6425
+    },
+    {
+      "word": "Qué mal les va a ir, hipócritas!",
+      "verse": 25,
+      "start_ms": 226562,
+      "end_ms": 229424,
+      "duration_ms": 2862
+    },
+    {
+      "word": "Parecen buena gente, pero en realidad son malos, no ayudan a nadie, y roban a los demás.",
+      "verse": 25,
+      "start_ms": 229425,
+      "end_ms": 235800,
+      "duration_ms": 6375
+    },
+    {
+      "word": "Tontos!",
+      "verse": 25,
+      "start_ms": 235800,
+      "end_ms": 237300,
+      "duration_ms": 1500
+    },
+    {
+      "word": "Sean buenos de verdad, porque si no lo hacen, serán como un vaso o un plato limpio por fuera, pero lleno de suciedad por dentro.",
+      "verse": 25,
+      "start_ms": 237300,
+      "end_ms": 245550,
+      "duration_ms": 8250
+    },
+    {
+      "word": "Pero si el vaso o el plato se limpian por dentro, todo estará limpio de verdad.",
+      "verse": 25,
+      "start_ms": 245550,
+      "end_ms": 250700,
+      "duration_ms": 5150
+    },
+    {
+      "word": "Qué mal les va a ir!",
+      "verse": 27,
+      "start_ms": 250700,
+      "end_ms": 252512,
+      "duration_ms": 1812
+    },
+    {
+      "word": "Aparentan ser gente buena y honrada, pero en realidad son hipócritas y malvados.",
+      "verse": 27,
+      "start_ms": 252512,
+      "end_ms": 258037,
+      "duration_ms": 5525
+    },
+    {
+      "word": "Son como una tumba",
+      "verse": 27,
+      "start_ms": 258037,
+      "end_ms": 260162,
+      "duration_ms": 2125
+    },
+    {
+      "word": "pintada de blanco, que por fuera se ve limpia, pero que por dentro está llena de huesos y de suciedad.",
+      "verse": 27,
+      "start_ms": 260332,
+      "end_ms": 266919,
+      "duration_ms": 6587
+    },
+    {
+      "word": "Pobrecitos de ustedes, qué mal les va a ir, hipócritas!",
+      "verse": 29,
+      "start_ms": 266869,
+      "end_ms": 271356,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Construyen monumentos para recordar a los profetas muertos, y ponen adornos en las tumbas de las personas buenas.",
+      "verse": 29,
+      "start_ms": 271357,
+      "end_ms": 278394,
+      "duration_ms": 7037
+    },
+    {
+      "word": "Dicen que, si hubieran vivido en aquel tiempo, no habrían estado de acuerdo con los que mataron a los profetas.",
+      "verse": 30,
+      "start_ms": 278394,
+      "end_ms": 285044,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Pero, en realidad, demuestran ser iguales a ellos.",
+      "verse": 31,
+      "start_ms": 285044,
+      "end_ms": 289319,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Terminen, pues, de hacer lo que ellos comenzaron!",
+      "verse": 32,
+      "start_ms": 289319,
+      "end_ms": 293181,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Ustedes son unos mentirosos y unos malvados!",
+      "verse": 33,
+      "start_ms": 293182,
+      "end_ms": 296657,
+      "duration_ms": 3475
+    },
+    {
+      "word": "Son tan malos como el veneno de una serpiente.",
+      "verse": 33,
+      "start_ms": 296657,
+      "end_ms": 300069,
+      "duration_ms": 3412
+    },
+    {
+      "word": "Por eso no se escaparán de ir al infierno!",
+      "verse": 33,
+      "start_ms": 300069,
+      "end_ms": 303006,
+      "duration_ms": 2937
+    },
+    {
+      "word": "Yo les enviaré profetas, sabios y maestros, pero a algunos de ellos ustedes los matarán o los clavarán en una cruz, a otros los golpearán en las sinagogas, y a otros los perseguirán por todas las ciudades.",
+      "verse": 34,
+      "start_ms": 303007,
+      "end_ms": 315594,
+      "duration_ms": 12587
+    },
+    {
+      "word": "Por eso, serán culpables de la muerte de toda persona buena en el mundo; comenzando por la muerte de Abel hasta terminar con la muerte del profeta Zacarías, que era hijo de Berequías.",
+      "verse": 35,
+      "start_ms": 315594,
+      "end_ms": 326531,
+      "duration_ms": 10937
+    },
+    {
+      "word": "A este profeta lo mataron entre el templo y el altar de los sacrificios.",
+      "verse": 35,
+      "start_ms": 326532,
+      "end_ms": 331144,
+      "duration_ms": 4612
+    },
+    {
+      "word": "Les aseguro que todos ustedes serán castigados por esto.",
+      "verse": 36,
+      "start_ms": 331144,
+      "end_ms": 335144,
+      "duration_ms": 4000
+    },
+    {
+      "word": "Gente de Jerusalén, gente de Jerusalén!",
+      "verse": 37,
+      "start_ms": 335144,
+      "end_ms": 338619,
+      "duration_ms": 3475
+    },
+    {
+      "word": "Ustedes matan a los profetas y a los mensajeros que Dios les envía.",
+      "verse": 37,
+      "start_ms": 338619,
+      "end_ms": 342981,
+      "duration_ms": 4362
+    },
+    {
+      "word": "Muchas veces quise protegerlos, como protege la gallina a sus pollitos debajo de sus alas, pero ustedes no me dejaron.",
+      "verse": 37,
+      "start_ms": 342982,
+      "end_ms": 350719,
+      "duration_ms": 7737
+    },
+    {
+      "word": "Su templo quedará abandonado.",
+      "verse": 38,
+      "start_ms": 350719,
+      "end_ms": 353306,
+      "duration_ms": 2587
+    },
+    {
+      "word": "Les aseguro que a partir de este momento no volverán a verme, hasta que digan: «Bendito el Mesías que viene en el nombre de Dios».",
+      "verse": 39,
+      "start_ms": 353307,
+      "end_ms": 361182,
+      "duration_ms": 7875
+    }
+  ]
+}

@@ -1,0 +1,593 @@
+{
+  "book": "JOS",
+  "chapter": 21,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 42,
+  "word_count": 41,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-2",
+      "char_start": 0,
+      "char_end": 392,
+      "text": "Los israelitas estaban acampando cerca de la ciudad de Siló, en la tierra de Canaán. Un día, los jefes de los grupos familiares de la tribu de Leví fueron a hablar con los jefes de las otras tribus, con Josué y con el sacerdote Eleazar. Les dijeron: Por medio de Moisés, Dios ordenó que se nos dieran ciudades para que viviéramos en ellas, y también campos de pastoreo para nuestros ganados."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 392,
+      "char_end": 524,
+      "text": "Así que, de acuerdo con ese mandato de Dios, los israelitas dieron a la tribu de Leví algunas de sus ciudades y campos de pastoreo."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 524,
+      "char_end": 731,
+      "text": "Primero, se asignaron ciudades al grupo familiar de Quehat. A las familias quehatitas que descendían del sacerdote Aarón se les asignaron trece ciudades dentro de los territorios de Judá, Simeón y Benjamín."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 731,
+      "char_end": 840,
+      "text": "Los otros quehatitas recibieron diez ciudades dentro de los territorios de Efraín, Dan y Manasés Occidental."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 840,
+      "char_end": 956,
+      "text": "El grupo familiar de Guersón recibió trece ciudades de los territorios de Isacar, Aser, Neftalí y Manasés Oriental."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 956,
+      "char_end": 1056,
+      "text": "El grupo familiar de Merarí recibió doce ciudades de las pertenecientes a Rubén, a Gad y a Zabulón."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1056,
+      "char_end": 1230,
+      "text": "Los israelitas asignaron a los de la tribu de Leví estas ciudades y sus campos de pastoreo por medio de un sorteo, de acuerdo con el mandato que Dios le había dado a Moisés."
+    },
+    {
+      "verse": 9,
+      "label": "9-10",
+      "char_start": 1230,
+      "char_end": 1360,
+      "text": "En el primer sorteo, algunas de las familias quehatitas recibieron ciudades en los territorios de las tribus de Judá y de Simeón:"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1360,
+      "char_end": 1533,
+      "text": "En la región montañosa de Judá les dieron la ciudad de Arbá, que es Hebrón. Arbá era padre de Anac. También se les entregaron los campos de pastoreo alrededor de la ciudad,"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1533,
+      "char_end": 1620,
+      "text": "pero no así las tierras y aldeas, porque ya se las habían dado a Caleb hijo de Jefuné."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1620,
+      "char_end": 1782,
+      "text": "Además de Hebrón, que era una de las ciudades de refugio para quienes mataran sin intención, los descendientes de Leví recibieron las siguientes ciudades: Libná,"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1782,
+      "char_end": 1798,
+      "text": "Jatir, Estemoa,"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1798,
+      "char_end": 1812,
+      "text": "Holón, Debir,"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1812,
+      "char_end": 1946,
+      "text": "Ain, Jutá y Bet-semes, junto con sus campos de pastoreo. Estas nueve ciudades quedaban dentro de los territorios de Judá y de Simeón."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1946,
+      "char_end": 2026,
+      "text": "En los territorios de Benjamín se les asignaron cuatro ciudades: Gabaón, Gueba,"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2026,
+      "char_end": 2076,
+      "text": "Anatot y Almón, junto con sus campos de pastoreo."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2076,
+      "char_end": 2189,
+      "text": "En total, a los sacerdotes, descendientes de Aarón, se les entregaron trece ciudades con sus campos de pastoreo."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2189,
+      "char_end": 2299,
+      "text": "A las otras familias quehatitas se les asignaron cuatro ciudades dentro del territorio de la tribu de Efraín."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2299,
+      "char_end": 2402,
+      "text": "Una de ellas, Siquem, estaba en las montañas y era una ciudad de refugio. Las otras tres eran: Guézer,"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2402,
+      "char_end": 2424,
+      "text": "Quibsaim y Bet-horón."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2424,
+      "char_end": 2490,
+      "text": "De la tribu de Dan recibieron cuatro ciudades: Eltequé, Guibetón,"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2490,
+      "char_end": 2547,
+      "text": "Aialón y Gat-rimón, cada una con sus campos de pastoreo."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2547,
+      "char_end": 2629,
+      "text": "Del territorio de Manasés Occidental recibieron dos ciudades: Taanac y Gat-rimón."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2629,
+      "char_end": 2735,
+      "text": "En total estas familias quehatitas recibieron diez ciudades, cada una con sus propios campos de pastoreo."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2735,
+      "char_end": 2957,
+      "text": "A las familias del grupo familiar de Guersón, descendiente de Leví, se les asignaron dos ciudades dentro del territorio de Manasés Oriental. En la región de Basán recibieron Beeterá y Golán, que era una ciudad de refugio."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2957,
+      "char_end": 3047,
+      "text": "Del territorio del grupo familiar de Isacar recibieron cuatro ciudades: Quisión, Daberat,"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3047,
+      "char_end": 3066,
+      "text": "Jarmut y En-ganim."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3066,
+      "char_end": 3150,
+      "text": "Del territorio de la tribu de Aser recibieron otras cuatro ciudades: Misael, Abdón,"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3150,
+      "char_end": 3166,
+      "text": "Helcat y Rehob."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3166,
+      "char_end": 3283,
+      "text": "Del territorio de la tribu de Neftalí recibieron tres ciudades: Hamot-dor, Cartán y Quedes, en la región de Galilea."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3283,
+      "char_end": 3407,
+      "text": "En total, las familias del grupo familiar de Guersón recibieron trece ciudades con sus correspondientes campos de pastoreo."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3407,
+      "char_end": 3575,
+      "text": "Al resto de los descendientes de Leví, es decir, al grupo familiar de Merarí, se les asignaron cuatro ciudades en el territorio de la tribu de Zabulón: Jocneam, Carta,"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3575,
+      "char_end": 3592,
+      "text": "Dimná y Nahalal."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3592,
+      "char_end": 3682,
+      "text": "Del territorio de la tribu de Rubén se les asignaron otras cuatro ciudades: Béser, Jahas,"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3682,
+      "char_end": 3700,
+      "text": "Cademot y Mefáat."
+    },
+    {
+      "verse": 38,
+      "label": "38-39",
+      "char_start": 3700,
+      "char_end": 3854,
+      "text": "Del territorio de la tribu de Gad recibieron también cuatro ciudades: Mahanaim, Hesbón, Jazer y Ramot, en la región de Galaad, que era ciudad de refugio."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 3854,
+      "char_end": 3953,
+      "text": "En total el grupo familiar de Merarí recibió doce ciudades con sus respectivos campos de pastoreo."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 3953,
+      "char_end": 4100,
+      "text": "Dentro del territorio israelita, los de la tribu de Leví recibieron en total cuarenta y ocho ciudades con sus correspondientes campos de pastoreo."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4100,
+      "char_end": 4169,
+      "text": "Estos campos estaban ubicados alrededor de cada una de las ciudades."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4169,
+      "char_end": 4310,
+      "text": "Así fue como Dios entregó a los israelitas toda la tierra que bajo juramento ya había prometido darles. Ellos se instalaron y vivieron allí."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 4310,
+      "char_end": 4456,
+      "text": "Dios también les había prometido que vivirían en paz, y lo cumplió. Les dio la victoria sobre todos sus enemigos, y ninguno pudo hacerles frente."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 4456,
+      "char_end": 4567,
+      "text": "Dios cumplió con todas las promesas que les había hecho a los israelitas; no dejó de cumplir ninguna de ellas."
+    }
+  ],
+  "words": [
+    {
+      "word": "Los israelitas estaban acampando cerca de la ciudad de Siló, en la tierra de Canaán.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5675,
+      "duration_ms": 5575
+    },
+    {
+      "word": "Un día, los jefes de los grupos familiares de la tribu de Leví fueron a hablar con los jefes de las otras tribus, con Josué y con el sacerdote Eleazar.",
+      "verse": 1,
+      "start_ms": 5625,
+      "end_ms": 14425,
+      "duration_ms": 8800
+    },
+    {
+      "word": "Les dijeron: Por medio de Moisés, Dios ordenó que se nos dieran ciudades para que viviéramos en ellas, y también campos de pastoreo para nuestros ganados.",
+      "verse": 1,
+      "start_ms": 14425,
+      "end_ms": 23900,
+      "duration_ms": 9475
+    },
+    {
+      "word": "Así que, de acuerdo con ese mandato de Dios, los israelitas dieron a la tribu de Leví algunas de sus ciudades y campos de pastoreo.",
+      "verse": 3,
+      "start_ms": 23900,
+      "end_ms": 32062,
+      "duration_ms": 8162
+    },
+    {
+      "word": "Primero, se asignaron ciudades al grupo familiar de Quehat.",
+      "verse": 4,
+      "start_ms": 32062,
+      "end_ms": 36237,
+      "duration_ms": 4175
+    },
+    {
+      "word": "A las familias quehatitas que descendían del sacerdote Aarón se les asignaron trece ciudades dentro de los territorios de Judá, Simeón y Benjamín.",
+      "verse": 4,
+      "start_ms": 36237,
+      "end_ms": 44587,
+      "duration_ms": 8350
+    },
+    {
+      "word": "Los otros quehatitas recibieron diez ciudades dentro de los territorios de Efraín, Dan y Manasés Occidental.",
+      "verse": 5,
+      "start_ms": 44587,
+      "end_ms": 51174,
+      "duration_ms": 6587
+    },
+    {
+      "word": "El grupo familiar de Guersón recibió trece ciudades de los territorios de Isacar, Aser, Neftalí y Manasés Oriental.",
+      "verse": 6,
+      "start_ms": 51175,
+      "end_ms": 58537,
+      "duration_ms": 7362
+    },
+    {
+      "word": "El grupo familiar de Merarí recibió doce ciudades de las pertenecientes a Rubén, a Gad y a Zabulón.",
+      "verse": 7,
+      "start_ms": 58537,
+      "end_ms": 64862,
+      "duration_ms": 6325
+    },
+    {
+      "word": "Los israelitas asignaron a los de la tribu de Leví estas ciudades y sus campos de pastoreo por medio de un sorteo, de acuerdo con el mandato que Dios le había dado a Moisés.",
+      "verse": 8,
+      "start_ms": 64862,
+      "end_ms": 74887,
+      "duration_ms": 10025
+    },
+    {
+      "word": "En el primer sorteo, algunas de las familias quehatitas recibieron ciudades en los territorios de las tribus de Judá y de Simeón: En la región montañosa de Judá les dieron la ciudad de Arbá, que es Hebrón.",
+      "verse": 9,
+      "start_ms": 74887,
+      "end_ms": 86262,
+      "duration_ms": 11375
+    },
+    {
+      "word": "Arbá era padre de Anac.",
+      "verse": 11,
+      "start_ms": 86262,
+      "end_ms": 88612,
+      "duration_ms": 2350
+    },
+    {
+      "word": "También se les entregaron los campos de pastoreo alrededor de la ciudad, pero no así las tierras y aldeas, porque ya se las habían dado a Caleb hijo de Jefuné.",
+      "verse": 11,
+      "start_ms": 88612,
+      "end_ms": 97824,
+      "duration_ms": 9212
+    },
+    {
+      "word": "Además de Hebrón, que era una de las ciudades de refugio para quienes mataran sin intención, los descendientes de Leví recibieron las siguientes ciudades: Libná, Jatir, Estemoa, Holón, Debir, Ain, Jutá y Bet-semes, junto con sus campos de pastoreo.",
+      "verse": 13,
+      "start_ms": 97825,
+      "end_ms": 114012,
+      "duration_ms": 16187
+    },
+    {
+      "word": "Estas nueve ciudades quedaban dentro de los territorios de Judá y de Simeón.",
+      "verse": 16,
+      "start_ms": 114012,
+      "end_ms": 118837,
+      "duration_ms": 4825
+    },
+    {
+      "word": "En los territorios de Benjamín se les asignaron cuatro ciudades: Gabaón, Gueba, Anatot y Almón, junto con sus campos de pastoreo.",
+      "verse": 17,
+      "start_ms": 118837,
+      "end_ms": 127487,
+      "duration_ms": 8650
+    },
+    {
+      "word": "En total, a los sacerdotes, descendientes de Aarón, se les entregaron trece ciudades con sus campos de pastoreo.",
+      "verse": 19,
+      "start_ms": 127487,
+      "end_ms": 134812,
+      "duration_ms": 7325
+    },
+    {
+      "word": "A las otras familias quehatitas se les asignaron cuatro ciudades dentro del territorio de la tribu de Efraín.",
+      "verse": 20,
+      "start_ms": 134812,
+      "end_ms": 141099,
+      "duration_ms": 6287
+    },
+    {
+      "word": "Una de ellas, Siquem, estaba en las montañas y era una ciudad de refugio.",
+      "verse": 21,
+      "start_ms": 141100,
+      "end_ms": 146350,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Las otras tres eran: Guézer, Quibsaim y Bet-horón.",
+      "verse": 21,
+      "start_ms": 146350,
+      "end_ms": 150450,
+      "duration_ms": 4100
+    },
+    {
+      "word": "De la tribu de Dan recibieron cuatro ciudades: Eltequé, Guibetón, Aialón y Gat-rimón, cada una con sus campos de pastoreo.",
+      "verse": 23,
+      "start_ms": 150450,
+      "end_ms": 159012,
+      "duration_ms": 8562
+    },
+    {
+      "word": "Del territorio de Manasés Occidental recibieron dos ciudades: Taanac y Gat-rimón.",
+      "verse": 25,
+      "start_ms": 159012,
+      "end_ms": 164637,
+      "duration_ms": 5625
+    },
+    {
+      "word": "En total estas familias quehatitas recibieron diez ciudades, cada una con sus propios campos de pastoreo.",
+      "verse": 26,
+      "start_ms": 164637,
+      "end_ms": 171237,
+      "duration_ms": 6600
+    },
+    {
+      "word": "A las familias del grupo familiar de Guersón, descendiente de Leví, se les asignaron dos ciudades dentro del territorio de Manasés Oriental.",
+      "verse": 27,
+      "start_ms": 171237,
+      "end_ms": 179612,
+      "duration_ms": 8375
+    },
+    {
+      "word": "En la región de Basán recibieron Beeterá y Golán, que era una ciudad de refugio.",
+      "verse": 27,
+      "start_ms": 179612,
+      "end_ms": 184749,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Del territorio del grupo familiar de Isacar recibieron cuatro ciudades: Quisión, Daberat, Jarmut y En-ganim.",
+      "verse": 28,
+      "start_ms": 184750,
+      "end_ms": 192225,
+      "duration_ms": 7475
+    },
+    {
+      "word": "Del territorio de la tribu de Aser recibieron otras cuatro ciudades: Misael, Abdón, Helcat y Rehob.",
+      "verse": 30,
+      "start_ms": 192225,
+      "end_ms": 199037,
+      "duration_ms": 6812
+    },
+    {
+      "word": "Del territorio de la tribu de Neftalí recibieron tres ciudades: Hamot-dor, Cartán y Quedes, en la región de Galilea.",
+      "verse": 32,
+      "start_ms": 199037,
+      "end_ms": 206874,
+      "duration_ms": 7837
+    },
+    {
+      "word": "En total, las familias del grupo familiar de Guersón recibieron trece ciudades con sus correspondientes campos de pastoreo.",
+      "verse": 33,
+      "start_ms": 206875,
+      "end_ms": 214075,
+      "duration_ms": 7200
+    },
+    {
+      "word": "Al resto de los descendientes de Leví, es decir, al grupo familiar de Merarí, se les asignaron cuatro ciudades en el territorio de la tribu de Zabulón: Jocneam, Carta, Dimná y Nahalal.",
+      "verse": 34,
+      "start_ms": 214075,
+      "end_ms": 225962,
+      "duration_ms": 11887
+    },
+    {
+      "word": "Del territorio de la tribu de Rubén se les asignaron otras cuatro ciudades: Béser, Jahas, Cademot y Mefáat.",
+      "verse": 36,
+      "start_ms": 225962,
+      "end_ms": 233412,
+      "duration_ms": 7450
+    },
+    {
+      "word": "Del territorio de la tribu de Gad recibieron también cuatro ciudades: Mahanaim, Hesbón, Jazer y Ramot, en la región de Galaad, que era ciudad de refugio.",
+      "verse": 38,
+      "start_ms": 233412,
+      "end_ms": 243274,
+      "duration_ms": 9862
+    },
+    {
+      "word": "En total el grupo familiar de Merarí recibió doce ciudades con sus respectivos campos de pastoreo.",
+      "verse": 40,
+      "start_ms": 243275,
+      "end_ms": 249512,
+      "duration_ms": 6237
+    },
+    {
+      "word": "Dentro del territorio israelita, los de la tribu de",
+      "verse": 41,
+      "start_ms": 249512,
+      "end_ms": 253274,
+      "duration_ms": 3762
+    },
+    {
+      "word": "Leví recibieron en total cuarenta y ocho ciudades con sus correspondientes campos de pastoreo.",
+      "verse": 41,
+      "start_ms": 253444,
+      "end_ms": 259094,
+      "duration_ms": 5650
+    },
+    {
+      "word": "Estos campos estaban ubicados alrededor de cada una de las ciudades.",
+      "verse": 42,
+      "start_ms": 259044,
+      "end_ms": 263869,
+      "duration_ms": 4825
+    },
+    {
+      "word": "Así fue como Dios entregó a los israelitas toda la tierra que bajo juramento ya había prometido darles.",
+      "verse": 43,
+      "start_ms": 263869,
+      "end_ms": 270206,
+      "duration_ms": 6337
+    },
+    {
+      "word": "Ellos se instalaron y vivieron allí.",
+      "verse": 43,
+      "start_ms": 270206,
+      "end_ms": 273056,
+      "duration_ms": 2850
+    },
+    {
+      "word": "Dios también les había prometido que vivirían en paz, y lo cumplió.",
+      "verse": 44,
+      "start_ms": 273056,
+      "end_ms": 277581,
+      "duration_ms": 4525
+    },
+    {
+      "word": "Les dio la victoria sobre todos sus enemigos, y ninguno pudo hacerles frente.",
+      "verse": 44,
+      "start_ms": 277581,
+      "end_ms": 282931,
+      "duration_ms": 5350
+    },
+    {
+      "word": "Dios cumplió con todas las promesas que les había hecho a los israelitas; no dejó de cumplir ninguna de ellas.",
+      "verse": 45,
+      "start_ms": 282931,
+      "end_ms": 289893,
+      "duration_ms": 6962
+    }
+  ]
+}

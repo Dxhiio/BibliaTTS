@@ -1,0 +1,215 @@
+{
+  "book": "SAL",
+  "chapter": 30,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 12,
+  "word_count": 17,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 117,
+      "text": "Dios mío, yo alabo tu grandeza porque me salvaste del peligro, porque no dejaste que mis enemigos se burlaran de mí."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 117,
+      "char_end": 163,
+      "text": "Mi Señor y Dios, te pedí ayuda, y me sanaste;"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 163,
+      "char_end": 242,
+      "text": "¡me salvaste de la muerte! Estaba a punto de morir ¡y me libraste de la tumba!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 242,
+      "char_end": 300,
+      "text": "Ustedes, los que aman a Dios, alábenlo y cántenle himnos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 300,
+      "char_end": 462,
+      "text": "Cuando Dios se enoja, el enojo pronto se le pasa; pero cuando ama, su amor dura toda la vida. Tal vez lloremos por la noche, pero en la mañana estaremos felices."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 462,
+      "char_end": 533,
+      "text": "Yo vivía tan tranquilo que hasta llegué a pensar que jamás fracasaría."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 533,
+      "char_end": 648,
+      "text": "Tú, mi Dios, en tu bondad, me habías puesto en lugar seguro, pero me diste la espalda y me quedé lleno de espanto."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 648,
+      "char_end": 697,
+      "text": "Dios mío, te estoy llamando; escucha mis ruegos."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 697,
+      "char_end": 815,
+      "text": "¡Nada ganas con mi muerte! ¡Nada ganas con verme en la tumba! ¡Los muertos no pueden alabarte ni hablar de tu verdad!"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 815,
+      "char_end": 887,
+      "text": "Mi Señor y Dios, ¡escúchame y tenme compasión! ¡No me niegues tu ayuda!"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 887,
+      "char_end": 996,
+      "text": "Tú cambiaste mi tristeza y la convertiste en baile. Me quitaste la ropa de luto y me pusiste ropa de fiesta,"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 996,
+      "char_end": 1111,
+      "text": "para que te cante himnos y alabe tu poder. Mi Señor y Dios, no puedo quedarme callado, por eso siempre te alabaré."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios mío, yo alabo tu grandeza porque me salvaste del peligro, porque no dejaste que mis enemigos se burlaran de mí.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7612,
+      "duration_ms": 7512
+    },
+    {
+      "word": "Mi Señor y Dios, te pedí ayuda, y me sanaste; ¡me salvaste de la muerte!",
+      "verse": 2,
+      "start_ms": 7562,
+      "end_ms": 13012,
+      "duration_ms": 5450
+    },
+    {
+      "word": "Estaba a punto de morir ¡y me libraste de la tumba!",
+      "verse": 3,
+      "start_ms": 13012,
+      "end_ms": 16662,
+      "duration_ms": 3650
+    },
+    {
+      "word": "Ustedes, los que aman a Dios, alábenlo y cántenle himnos.",
+      "verse": 4,
+      "start_ms": 16662,
+      "end_ms": 21587,
+      "duration_ms": 4925
+    },
+    {
+      "word": "Cuando Dios se enoja, el enojo pronto se le pasa; pero cuando ama, su amor dura toda la vida.",
+      "verse": 5,
+      "start_ms": 21587,
+      "end_ms": 28124,
+      "duration_ms": 6537
+    },
+    {
+      "word": "Tal vez lloremos por la noche, pero en la mañana estaremos felices.",
+      "verse": 5,
+      "start_ms": 28125,
+      "end_ms": 32650,
+      "duration_ms": 4525
+    },
+    {
+      "word": "Yo vivía tan tranquilo que hasta llegué a pensar que jamás fracasaría.",
+      "verse": 6,
+      "start_ms": 32650,
+      "end_ms": 37237,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Tú, mi Dios, en tu bondad, me habías puesto en lugar seguro, pero me diste la espalda y me quedé lleno de espanto.",
+      "verse": 7,
+      "start_ms": 37237,
+      "end_ms": 44799,
+      "duration_ms": 7562
+    },
+    {
+      "word": "Dios mío, te estoy llamando; escucha mis ruegos.",
+      "verse": 8,
+      "start_ms": 44800,
+      "end_ms": 48975,
+      "duration_ms": 4175
+    },
+    {
+      "word": "Nada ganas con mi muerte!",
+      "verse": 9,
+      "start_ms": 48975,
+      "end_ms": 51337,
+      "duration_ms": 2362
+    },
+    {
+      "word": "Nada ganas con verme en la tumba!",
+      "verse": 9,
+      "start_ms": 51337,
+      "end_ms": 54037,
+      "duration_ms": 2700
+    },
+    {
+      "word": "Los muertos no pueden alabarte ni hablar de tu verdad!",
+      "verse": 9,
+      "start_ms": 54037,
+      "end_ms": 57599,
+      "duration_ms": 3562
+    },
+    {
+      "word": "Mi Señor y Dios, ¡escúchame y tenme compasión!",
+      "verse": 10,
+      "start_ms": 57600,
+      "end_ms": 61337,
+      "duration_ms": 3737
+    },
+    {
+      "word": "No me niegues tu ayuda!",
+      "verse": 10,
+      "start_ms": 61337,
+      "end_ms": 63362,
+      "duration_ms": 2025
+    },
+    {
+      "word": "Tú cambiaste mi tristeza y la convertiste en baile.",
+      "verse": 11,
+      "start_ms": 63362,
+      "end_ms": 67074,
+      "duration_ms": 3712
+    },
+    {
+      "word": "Me quitaste la ropa de luto y me pusiste ropa de fiesta, para que te cante himnos y alabe tu poder.",
+      "verse": 11,
+      "start_ms": 67075,
+      "end_ms": 73537,
+      "duration_ms": 6462
+    },
+    {
+      "word": "Mi Señor y Dios, no puedo quedarme callado, por eso siempre te alabaré.",
+      "verse": 12,
+      "start_ms": 73537,
+      "end_ms": 78612,
+      "duration_ms": 5075
+    }
+  ]
+}

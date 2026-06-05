@@ -1,0 +1,96 @@
+{
+  "book": "SAL",
+  "chapter": 100,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 5,
+  "word_count": 7,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 72,
+      "text": "Habitantes de toda la tierra, griten con todas sus fuerzas: ¡Viva Dios!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 72,
+      "char_end": 145,
+      "text": "¡Adórenlo con alegría! ¡Vengan a su templo lanzando gritos de felicidad!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 145,
+      "char_end": 277,
+      "text": "Reconozcan que él es Dios; él nos hizo, y somos suyos. Nosotros somos su pueblo: ¡él es nuestro pastor, y nosotros somos su rebaño!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 277,
+      "char_end": 339,
+      "text": "Vengan a las puertas de su templo; ¡denle gracias y alábenlo!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 339,
+      "char_end": 418,
+      "text": "Él es un Dios bueno; su amor es siempre el mismo, y su fidelidad jamás cambia."
+    }
+  ],
+  "words": [
+    {
+      "word": "Habitantes de toda la tierra, griten con todas sus fuerzas: ¡Viva Dios!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5387,
+      "duration_ms": 5287
+    },
+    {
+      "word": "Adórenlo con alegría!",
+      "verse": 2,
+      "start_ms": 5337,
+      "end_ms": 7574,
+      "duration_ms": 2237
+    },
+    {
+      "word": "Vengan a su templo lanzando gritos de felicidad!",
+      "verse": 2,
+      "start_ms": 7575,
+      "end_ms": 11050,
+      "duration_ms": 3475
+    },
+    {
+      "word": "Reconozcan que él es Dios; él nos hizo, y somos suyos.",
+      "verse": 3,
+      "start_ms": 11050,
+      "end_ms": 15700,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Nosotros somos su pueblo: ¡él es nuestro pastor, y nosotros somos su rebaño!",
+      "verse": 3,
+      "start_ms": 15700,
+      "end_ms": 21025,
+      "duration_ms": 5325
+    },
+    {
+      "word": "Vengan a las puertas de su templo; ¡denle gracias y alábenlo!",
+      "verse": 4,
+      "start_ms": 21025,
+      "end_ms": 25125,
+      "duration_ms": 4100
+    },
+    {
+      "word": "Él es un Dios bueno; su amor es siempre el mismo, y su fidelidad jamás cambia.",
+      "verse": 5,
+      "start_ms": 25125,
+      "end_ms": 30675,
+      "duration_ms": 5550
+    }
+  ]
+}

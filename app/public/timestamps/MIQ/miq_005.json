@@ -1,0 +1,243 @@
+{
+  "book": "MIQ",
+  "chapter": 5,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 13,
+  "word_count": 20,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 139,
+      "text": "Yo, Miqueas, anuncio: Jerusalén, Jerusalén, prepárate para la guerra. Por medio de tus enemigos Dios castigará duramente al rey de Israel."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 139,
+      "char_end": 318,
+      "text": "Pero tú, Belén Efrata, entre los pueblos de Judá eres un pueblo pequeño, pero llegarás a ser muy importante. En ti nacerá un rey de familia muy antigua, que gobernará sobre Judá."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 318,
+      "char_end": 459,
+      "text": "Dios nos va a abandonar hasta que nazca ese rey. Luego de su nacimiento los que hayan quedado con vida se reunirán con los demás israelitas."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 459,
+      "char_end": 629,
+      "text": "Entonces Dios le dará a ese rey toda su fuerza y poder para dirigir a su pueblo y hacerlo vivir en paz. Ese rey extenderá su dominio hasta el último rincón de la tierra."
+    },
+    {
+      "verse": 5,
+      "label": "5-6",
+      "char_start": 629,
+      "char_end": 901,
+      "text": "Cuando vengan los asirios para invadir nuestro país y quieran ocupar nuestros palacios, ese rey nos librará de ellos y nos hará vivir en paz. Ordenará que los ataquen siete jefes y ocho capitanes. ¡Así conquistaremos por la fuerza el país de Asiria, territorio de Nimrod!"
+    },
+    {
+      "verse": 7,
+      "label": "7-8",
+      "char_start": 901,
+      "char_end": 1171,
+      "text": "Los que quedemos con vida seremos entre las naciones, como la lluvia que Dios envía: cae del cielo y riega la hierba sin la intervención humana. Seremos también como los leones: cuando están entre un rebaño, atrapan a las ovejas y las destrozan, y no las dejan escapar."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1171,
+      "char_end": 1240,
+      "text": "¡Tú, mi Dios, atacarás a tus enemigos y los destruirás por completo!"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1240,
+      "char_end": 1348,
+      "text": "Dios dijo a su pueblo: Cuando llegue ese día, mataré a todos tus caballos y destruiré tus carros de guerra."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1348,
+      "char_end": 1409,
+      "text": "Destruiré también tus ciudades y derribaré todas tus torres."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1409,
+      "char_end": 1472,
+      "text": "Pondré fin a tus hechicerías y acabaré con todos tus adivinos."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1472,
+      "char_end": 1563,
+      "text": "Destruiré tus ídolos y tus imágenes, y no volverás a adorar a dioses que tú mismo hiciste."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1563,
+      "char_end": 1626,
+      "text": "¡Yo destruiré tus ciudades y las imágenes de tu diosa Astarté!"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1626,
+      "char_end": 1695,
+      "text": "¡Yo me vengaré con gran furia de las naciones que no me obedecieron!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Yo, Miqueas, anuncio: Jerusalén, Jerusalén, prepárate para la guerra.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6575,
+      "duration_ms": 6475
+    },
+    {
+      "word": "Por medio de tus enemigos Dios castigará duramente al rey de Israel.",
+      "verse": 1,
+      "start_ms": 6525,
+      "end_ms": 11200,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Pero tú, Belén Efrata, entre los pueblos de Judá eres un pueblo pequeño, pero llegarás a ser muy importante.",
+      "verse": 2,
+      "start_ms": 11200,
+      "end_ms": 18425,
+      "duration_ms": 7225
+    },
+    {
+      "word": "En ti nacerá un rey de familia muy antigua, que gobernará sobre Judá.",
+      "verse": 2,
+      "start_ms": 18425,
+      "end_ms": 23212,
+      "duration_ms": 4787
+    },
+    {
+      "word": "Dios nos va a abandonar hasta que nazca ese rey.",
+      "verse": 3,
+      "start_ms": 23212,
+      "end_ms": 26699,
+      "duration_ms": 3487
+    },
+    {
+      "word": "Luego de su nacimiento los que hayan quedado con vida se reunirán con los demás israelitas.",
+      "verse": 3,
+      "start_ms": 26700,
+      "end_ms": 32300,
+      "duration_ms": 5600
+    },
+    {
+      "word": "Entonces Dios le dará a ese rey toda su fuerza y poder para dirigir a su pueblo y hacerlo vivir en paz.",
+      "verse": 4,
+      "start_ms": 32300,
+      "end_ms": 38675,
+      "duration_ms": 6375
+    },
+    {
+      "word": "Ese rey extenderá su dominio hasta el último rincón de la tierra.",
+      "verse": 4,
+      "start_ms": 38675,
+      "end_ms": 42975,
+      "duration_ms": 4300
+    },
+    {
+      "word": "Cuando vengan los asirios para invadir nuestro país y quieran ocupar nuestros palacios, ese rey nos librará de ellos y nos hará vivir en paz.",
+      "verse": 5,
+      "start_ms": 42975,
+      "end_ms": 51112,
+      "duration_ms": 8137
+    },
+    {
+      "word": "Ordenará que los ataquen siete jefes y ocho capitanes.",
+      "verse": 5,
+      "start_ms": 51112,
+      "end_ms": 55199,
+      "duration_ms": 4087
+    },
+    {
+      "word": "Así conquistaremos por la fuerza el país de Asiria, territorio de Nimrod!",
+      "verse": 5,
+      "start_ms": 55200,
+      "end_ms": 60125,
+      "duration_ms": 4925
+    },
+    {
+      "word": "Los que quedemos con vida seremos entre las naciones, como la lluvia que Dios envía: cae del cielo y riega la hierba sin la intervención humana.",
+      "verse": 7,
+      "start_ms": 60125,
+      "end_ms": 68625,
+      "duration_ms": 8500
+    },
+    {
+      "word": "Seremos también como los leones: cuando están entre un rebaño, atrapan a las ovejas y las destrozan, y no las dejan escapar.",
+      "verse": 7,
+      "start_ms": 68625,
+      "end_ms": 76900,
+      "duration_ms": 8275
+    },
+    {
+      "word": "Tú, mi Dios, atacarás a tus enemigos y los destruirás por completo!",
+      "verse": 9,
+      "start_ms": 76900,
+      "end_ms": 82112,
+      "duration_ms": 5212
+    },
+    {
+      "word": "Dios dijo a su pueblo: Cuando llegue ese día, mataré a todos tus caballos y destruiré tus carros de guerra.",
+      "verse": 10,
+      "start_ms": 82112,
+      "end_ms": 89312,
+      "duration_ms": 7200
+    },
+    {
+      "word": "Destruiré también tus ciudades y derribaré todas tus torres.",
+      "verse": 11,
+      "start_ms": 89312,
+      "end_ms": 93624,
+      "duration_ms": 4312
+    },
+    {
+      "word": "Pondré fin a tus hechicerías y acabaré con todos tus adivinos.",
+      "verse": 12,
+      "start_ms": 93625,
+      "end_ms": 98050,
+      "duration_ms": 4425
+    },
+    {
+      "word": "Destruiré tus ídolos y tus imágenes, y no volverás a adorar a dioses que tú mismo hiciste.",
+      "verse": 13,
+      "start_ms": 98050,
+      "end_ms": 104200,
+      "duration_ms": 6150
+    },
+    {
+      "word": "Yo destruiré tus ciudades y las imágenes de tu diosa Astarté!",
+      "verse": 14,
+      "start_ms": 104200,
+      "end_ms": 108450,
+      "duration_ms": 4250
+    },
+    {
+      "word": "Yo me vengaré con gran furia de las naciones que no me obedecieron!",
+      "verse": 15,
+      "start_ms": 108450,
+      "end_ms": 112675,
+      "duration_ms": 4225
+    }
+  ]
+}

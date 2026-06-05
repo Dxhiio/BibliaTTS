@@ -1,0 +1,866 @@
+{
+  "book": "MAT",
+  "chapter": 24,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 51,
+  "word_count": 71,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 103,
+      "text": "Cuando Jesús salió del templo, sus discípulos se le acercaron para mostrarle los edificios del templo."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 103,
+      "char_end": 242,
+      "text": "Entonces él les dijo: ¿Ven ustedes todos estos edificios? Les aseguro que todos ellos serán destruidos. ¡Ni una sola pared quedará en pie!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 242,
+      "char_end": 519,
+      "text": "Después, Jesús y sus discípulos se fueron al Monte de los Olivos. Jesús se sentó y, cuando ya estaban solos, los discípulos le preguntaron: —¿Cuándo será destruido el templo? ¿Cómo sabremos que tú vendrás otra vez, y que ha llegado el fin del mundo? ¿Cuáles serán las señales?"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 519,
+      "char_end": 572,
+      "text": "Jesús les respondió: —¡Cuidado! No se dejen engañar."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 572,
+      "char_end": 702,
+      "text": "Muchos vendrán, y se harán pasar por mí, y le dirán a la gente: «Yo soy el Mesías». Usarán mi nombre y lograrán engañar a muchos."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 702,
+      "char_end": 878,
+      "text": "Ustedes oirán que en algunos países habrá guerras, y que otros países están a punto de pelearse. Pero no se asusten; esas cosas pasarán, pero todavía no será el fin del mundo."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 878,
+      "char_end": 992,
+      "text": "Porque los países pelearán unos contra otros, la gente no tendrá qué comer, y en muchos lugares habrá terremotos."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 992,
+      "char_end": 1050,
+      "text": "Eso es sólo el principio de todo lo que el mundo sufrirá."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1050,
+      "char_end": 1197,
+      "text": "Ustedes serán llevados presos, y entregados a las autoridades para que los maltraten y los maten. Todo el mundo los odiará por ser mis discípulos."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1197,
+      "char_end": 1293,
+      "text": "Muchos de mis seguidores dejarán de creer en mí; uno traicionará al otro y sentirá odio por él."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1293,
+      "char_end": 1356,
+      "text": "Llegarán muchos falsos profetas y engañarán a muchas personas."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1356,
+      "char_end": 1412,
+      "text": "La gente será tan mala que la mayoría dejará de amarse."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1412,
+      "char_end": 1485,
+      "text": "Pero yo salvaré a todos mis seguidores que confíen en mí hasta el final."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1485,
+      "char_end": 1626,
+      "text": "El fin del mundo llegará cuando las buenas noticias del reino de Dios sean anunciadas en toda la tierra, y todo el mundo las haya escuchado."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1626,
+      "char_end": 1931,
+      "text": "Jesús siguió hablando con sus discípulos acerca del fin del mundo, y les dijo: —El que lea esto debe tratar de entender lo que dijo el profeta Daniel. Él anunció que algún día se presentaría una ofrenda asquerosa en el templo. Cuando vean que en el Lugar Santo pasa lo que anunció Daniel, entonces huyan."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1931,
+      "char_end": 1998,
+      "text": "Los que estén en la región de Judea que corran hacia las montañas;"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1998,
+      "char_end": 2060,
+      "text": "el que esté en la azotea de su casa que no baje a sacar nada;"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2060,
+      "char_end": 2123,
+      "text": "y el que esté en el campo que no vaya a su casa a buscar ropa."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2123,
+      "char_end": 2237,
+      "text": "¡Que mal les va a ir a las mujeres que en ese momento estén embarazadas, y a las que tengan hijos recién nacidos!"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2237,
+      "char_end": 2326,
+      "text": "Oren a Dios y pídanle que esto no suceda en tiempo de invierno, o en un día de descanso,"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2326,
+      "char_end": 2496,
+      "text": "porque ese día la gente sufrirá muchísimo. Nunca, desde que Dios creó el mundo hasta ahora, la gente ha sufrido tanto como sufrirá ese día; y jamás volverá a sufrir así."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2496,
+      "char_end": 2617,
+      "text": "Dios ama a quienes él ha elegido, y por eso el tiempo de sufrimiento no será muy largo. Si no fuera así, todos morirían."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2617,
+      "char_end": 2719,
+      "text": "Si en esos días alguien les dice: «Miren, aquí está el Mesías», o «allí está el Mesías», no le crean."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2719,
+      "char_end": 2891,
+      "text": "Porque vendrán falsos profetas y falsos mesías, y harán cosas tan maravillosas que engañarán a la gente. Si pueden, también engañarán a los que Dios ha llamado a seguirlo."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2891,
+      "char_end": 2926,
+      "text": "Ya antes les había dicho a ustedes"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2926,
+      "char_end": 3071,
+      "text": "que si otros vienen y les anuncian: «¡El Mesías está en el desierto!», no vayan. Y si les dicen: «¡El Mesías está escondido allí!», no lo crean."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3071,
+      "char_end": 3207,
+      "text": "Cuando yo, el Hijo del hombre, venga, no me esconderé. Todos me verán, pues mi venida será como un relámpago que ilumina todo el cielo."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3207,
+      "char_end": 3323,
+      "text": "Todo el mundo sabe que donde se juntan los buitres, allí hay un cadáver. Así será cuando yo venga: todos lo sabrán."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3323,
+      "char_end": 3513,
+      "text": "Jesús continuó diciendo: —Cuando pase ese tiempo de sufrimiento: «El sol se pondrá oscuro, y la luna dejará de brillar. Las estrellas caerán, y temblarán los poderes que están en el cielo»."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3513,
+      "char_end": 3741,
+      "text": "Entonces todos verán en el cielo una señal, la cual indicará que yo, el Hijo del hombre, vengo de nuevo. Y cuando me vean venir entre las nubes del cielo, con mucho poder y gloria, todos los países del mundo temblarán de miedo."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3741,
+      "char_end": 3840,
+      "text": "Y enviaré por todo el mundo a mis ángeles con una gran trompeta, para que reúnan a mis seguidores."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3840,
+      "char_end": 3982,
+      "text": "Aprendan la enseñanza que da la higuera. Cuando a este árbol le salen ramas tiernas y hojas nuevas, ustedes saben que ya se acerca el verano."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3982,
+      "char_end": 4086,
+      "text": "Del mismo modo, cuando vean que todo está pasando como les he dicho, sabrán que pronto vendré de nuevo."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4086,
+      "char_end": 4177,
+      "text": "Les aseguro que todo esto pasará antes de que mueran algunos de los que ahora están vivos."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4177,
+      "char_end": 4263,
+      "text": "El cielo y la tierra dejarán de existir, pero mis palabras permanecerán para siempre."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4263,
+      "char_end": 4413,
+      "text": "Nadie sabe el día ni la hora en que yo vendré; no lo saben ni siquiera los ángeles del cielo. Es más, tampoco yo lo sé. Sólo Dios, mi Padre, lo sabe."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4413,
+      "char_end": 4510,
+      "text": "Cuando yo, el Hijo del hombre, venga otra vez, la gente estará viviendo como en la época de Noé."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4510,
+      "char_end": 4661,
+      "text": "En ese tiempo la gente seguía comiendo, bebiendo y casándose, hasta el momento mismo en que Noé entró en la casa flotante; y luego vino la inundación."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4661,
+      "char_end": 4819,
+      "text": "La gente no sabía lo que pasaba, hasta el momento en que llegó el diluvio y todos se ahogaron. Algo así pasará cuando yo, el Hijo del hombre, venga otra vez."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4819,
+      "char_end": 4912,
+      "text": "Si en ese momento hay dos hombres trabajando en el campo, me llevaré a uno y dejaré al otro."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4912,
+      "char_end": 4987,
+      "text": "Si dos mujeres están moliendo granos, me llevaré a una y dejaré a la otra."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4987,
+      "char_end": 5085,
+      "text": "Por eso, estén siempre alerta, pues ustedes no saben el día en que yo, su Señor, vendré otra vez."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 5085,
+      "char_end": 5224,
+      "text": "Les aseguro que si el dueño de una casa supiera a qué hora va a llegar el ladrón, vigilaría la casa y no permitiría que el ladrón entrara."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 5224,
+      "char_end": 5346,
+      "text": "Del mismo modo, ustedes deben estar atentos y preparados, porque yo, el Hijo del hombre, llegaré cuando menos lo esperen."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 5346,
+      "char_end": 5489,
+      "text": "¿Quién es el sirviente responsable y atento? Es aquel a quien el amo deja a cargo de toda su familia, para darles de comer a su debido tiempo."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 5489,
+      "char_end": 5565,
+      "text": "¡Qué feliz es el sirviente si su dueño lo encuentra cumpliendo sus órdenes!"
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 5565,
+      "char_end": 5636,
+      "text": "Les aseguro que el dueño lo pondrá a administrar todas sus posesiones."
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 5636,
+      "char_end": 5733,
+      "text": "Pero supongamos que un sirviente malo piensa: «Mi amo salió de viaje y tardará mucho en volver»,"
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 5733,
+      "char_end": 5805,
+      "text": "y comienza a golpear a sus compañeros, y a comer y beber con borrachos."
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 5805,
+      "char_end": 5884,
+      "text": "Cuando vuelva su amo, en el día y la hora en que el sirviente menos lo espere,"
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 5884,
+      "char_end": 6005,
+      "text": "lo castigará como se castiga a todos los que engañan a sus amos. Entonces llorará y le rechinarán de terror los dientes."
+    }
+  ],
+  "words": [
+    {
+      "word": "Cuando Jesús salió del templo, sus discípulos se le acercaron para mostrarle los edificios del templo.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6187,
+      "duration_ms": 6087
+    },
+    {
+      "word": "Entonces él les dijo: ¿Ven ustedes todos estos edificios?",
+      "verse": 2,
+      "start_ms": 6137,
+      "end_ms": 10599,
+      "duration_ms": 4462
+    },
+    {
+      "word": "Les aseguro que todos ellos serán destruidos.",
+      "verse": 2,
+      "start_ms": 10600,
+      "end_ms": 14150,
+      "duration_ms": 3550
+    },
+    {
+      "word": "Ni una sola pared quedará en pie!",
+      "verse": 2,
+      "start_ms": 14150,
+      "end_ms": 16800,
+      "duration_ms": 2650
+    },
+    {
+      "word": "Después, Jesús y sus discípulos se fueron al Monte de los Olivos.",
+      "verse": 3,
+      "start_ms": 16800,
+      "end_ms": 21450,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Jesús se sentó y, cuando ya estaban solos, los discípulos le preguntaron: —¿Cuándo será destruido el templo?",
+      "verse": 3,
+      "start_ms": 21450,
+      "end_ms": 28712,
+      "duration_ms": 7262
+    },
+    {
+      "word": "Cómo sabremos que tú vendrás otra vez, y que ha llegado el fin del mundo?",
+      "verse": 3,
+      "start_ms": 28712,
+      "end_ms": 33499,
+      "duration_ms": 4787
+    },
+    {
+      "word": "Cuáles serán las señales?",
+      "verse": 3,
+      "start_ms": 33500,
+      "end_ms": 35875,
+      "duration_ms": 2375
+    },
+    {
+      "word": "Jesús les respondió: —¡Cuidado!",
+      "verse": 4,
+      "start_ms": 35875,
+      "end_ms": 38550,
+      "duration_ms": 2675
+    },
+    {
+      "word": "No se dejen engañar.",
+      "verse": 4,
+      "start_ms": 38550,
+      "end_ms": 40712,
+      "duration_ms": 2162
+    },
+    {
+      "word": "Muchos vendrán, y se harán pasar por mí, y le dirán a la gente: «Yo soy el Mesías».",
+      "verse": 5,
+      "start_ms": 40712,
+      "end_ms": 46712,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Usarán mi nombre y lograrán engañar a muchos.",
+      "verse": 5,
+      "start_ms": 46712,
+      "end_ms": 50124,
+      "duration_ms": 3412
+    },
+    {
+      "word": "Ustedes oirán que en algunos países habrá guerras, y que otros países están a punto de pelearse.",
+      "verse": 6,
+      "start_ms": 50125,
+      "end_ms": 56375,
+      "duration_ms": 6250
+    },
+    {
+      "word": "Pero no se asusten; esas cosas pasarán, pero todavía no será el fin del mundo.",
+      "verse": 6,
+      "start_ms": 56375,
+      "end_ms": 62075,
+      "duration_ms": 5700
+    },
+    {
+      "word": "Porque los países pelearán unos contra otros, la gente no tendrá qué comer, y en muchos lugares habrá terremotos.",
+      "verse": 7,
+      "start_ms": 62075,
+      "end_ms": 69312,
+      "duration_ms": 7237
+    },
+    {
+      "word": "Eso es sólo el principio de todo lo que el mundo sufrirá.",
+      "verse": 8,
+      "start_ms": 69312,
+      "end_ms": 73124,
+      "duration_ms": 3812
+    },
+    {
+      "word": "Ustedes serán llevados presos, y entregados a las autoridades para que los maltraten y los maten.",
+      "verse": 9,
+      "start_ms": 73125,
+      "end_ms": 79287,
+      "duration_ms": 6162
+    },
+    {
+      "word": "Todo el mundo los odiará por ser mis discípulos.",
+      "verse": 9,
+      "start_ms": 79287,
+      "end_ms": 82699,
+      "duration_ms": 3412
+    },
+    {
+      "word": "Muchos de mis seguidores dejarán de creer en mí; uno traicionará al otro y sentirá odio por él.",
+      "verse": 10,
+      "start_ms": 82700,
+      "end_ms": 88625,
+      "duration_ms": 5925
+    },
+    {
+      "word": "Llegarán muchos falsos profetas y engañarán a muchas personas.",
+      "verse": 11,
+      "start_ms": 88625,
+      "end_ms": 93025,
+      "duration_ms": 4400
+    },
+    {
+      "word": "La gente será tan mala que la mayoría dejará de amarse.",
+      "verse": 12,
+      "start_ms": 93025,
+      "end_ms": 96962,
+      "duration_ms": 3937
+    },
+    {
+      "word": "Pero yo salvaré a todos mis seguidores que confíen en mí hasta el final.",
+      "verse": 13,
+      "start_ms": 96962,
+      "end_ms": 101412,
+      "duration_ms": 4450
+    },
+    {
+      "word": "El fin del mundo llegará cuando las buenas noticias del reino de Dios sean anunciadas en toda la tierra, y todo el mundo las haya escuchado.",
+      "verse": 14,
+      "start_ms": 101412,
+      "end_ms": 109349,
+      "duration_ms": 7937
+    },
+    {
+      "word": "Jesús siguió hablando con sus discípulos acerca del fin del mundo, y les dijo: —El que lea esto debe tratar de entender lo que dijo el profeta Daniel.",
+      "verse": 15,
+      "start_ms": 109350,
+      "end_ms": 118162,
+      "duration_ms": 8812
+    },
+    {
+      "word": "Él anunció que algún día se presentaría una ofrenda asquerosa en el templo.",
+      "verse": 15,
+      "start_ms": 118162,
+      "end_ms": 122737,
+      "duration_ms": 4575
+    },
+    {
+      "word": "Cuando vean que en el Lugar Santo pasa lo que anunció Daniel, entonces huyan.",
+      "verse": 15,
+      "start_ms": 122737,
+      "end_ms": 127674,
+      "duration_ms": 4937
+    },
+    {
+      "word": "Los que estén en la región de Judea que corran hacia las montañas; el que esté en la azotea de su casa que no baje a sacar nada; y el que esté en el campo que no vaya a su casa a buscar ropa.",
+      "verse": 16,
+      "start_ms": 127675,
+      "end_ms": 138300,
+      "duration_ms": 10625
+    },
+    {
+      "word": "Que mal les va a ir a las mujeres que en ese momento estén embarazadas, y a las que tengan hijos recién nacidos!",
+      "verse": 19,
+      "start_ms": 138300,
+      "end_ms": 145000,
+      "duration_ms": 6700
+    },
+    {
+      "word": "Oren a Dios y pídanle que esto no suceda en tiempo de invierno, o en un día de descanso, porque ese día la gente sufrirá muchísimo.",
+      "verse": 20,
+      "start_ms": 145000,
+      "end_ms": 153137,
+      "duration_ms": 8137
+    },
+    {
+      "word": "Nunca, desde que Dios creó el mundo hasta ahora, la gente ha sufrido tanto como sufrirá ese día; y jamás volverá a sufrir así.",
+      "verse": 21,
+      "start_ms": 153137,
+      "end_ms": 161549,
+      "duration_ms": 8412
+    },
+    {
+      "word": "Dios ama a quienes él ha elegido, y por eso el tiempo de sufrimiento no será muy largo.",
+      "verse": 22,
+      "start_ms": 161550,
+      "end_ms": 167425,
+      "duration_ms": 5875
+    },
+    {
+      "word": "Si no fuera así, todos morirían.",
+      "verse": 22,
+      "start_ms": 167425,
+      "end_ms": 170525,
+      "duration_ms": 3100
+    },
+    {
+      "word": "Si en esos días alguien les dice: «Miren, aquí está el Mesías», o «allí está el Mesías», no le crean.",
+      "verse": 23,
+      "start_ms": 170525,
+      "end_ms": 177875,
+      "duration_ms": 7350
+    },
+    {
+      "word": "Porque vendrán falsos profetas y falsos mesías, y harán cosas tan maravillosas que engañarán a la gente.",
+      "verse": 24,
+      "start_ms": 177875,
+      "end_ms": 184387,
+      "duration_ms": 6512
+    },
+    {
+      "word": "Si pueden, también engañarán a los que Dios ha llamado a seguirlo.",
+      "verse": 24,
+      "start_ms": 184387,
+      "end_ms": 188787,
+      "duration_ms": 4400
+    },
+    {
+      "word": "Ya antes les había dicho a ustedes que si otros vienen y les anuncian: «¡El Mesías está en el desierto!», no vayan.",
+      "verse": 25,
+      "start_ms": 188787,
+      "end_ms": 195937,
+      "duration_ms": 7150
+    },
+    {
+      "word": "Y si les dicen: «¡El Mesías está escondido allí!», no lo crean.",
+      "verse": 26,
+      "start_ms": 195937,
+      "end_ms": 200549,
+      "duration_ms": 4612
+    },
+    {
+      "word": "Cuando yo, el Hijo del hombre, venga, no me esconderé.",
+      "verse": 27,
+      "start_ms": 200550,
+      "end_ms": 204875,
+      "duration_ms": 4325
+    },
+    {
+      "word": "Todos me verán, pues mi venida será como un relámpago que ilumina todo el cielo.",
+      "verse": 27,
+      "start_ms": 204875,
+      "end_ms": 210250,
+      "duration_ms": 5375
+    },
+    {
+      "word": "Todo el mundo sabe que donde se juntan los buitres, allí hay un cadáver.",
+      "verse": 28,
+      "start_ms": 210250,
+      "end_ms": 215150,
+      "duration_ms": 4900
+    },
+    {
+      "word": "Así será cuando yo venga: todos lo sabrán.",
+      "verse": 28,
+      "start_ms": 215150,
+      "end_ms": 218737,
+      "duration_ms": 3587
+    },
+    {
+      "word": "Jesús continuó diciendo: —Cuando pase ese tiempo de sufrimiento: «El sol se pondrá oscuro, y la luna dejará de brillar.",
+      "verse": 29,
+      "start_ms": 218737,
+      "end_ms": 226824,
+      "duration_ms": 8087
+    },
+    {
+      "word": "Las estrellas caerán, y temblarán los poderes que están en el cielo».",
+      "verse": 29,
+      "start_ms": 226825,
+      "end_ms": 231437,
+      "duration_ms": 4612
+    },
+    {
+      "word": "Entonces todos verán en el cielo una señal, la cual indicará que yo, el Hijo del hombre, vengo de nuevo.",
+      "verse": 30,
+      "start_ms": 231437,
+      "end_ms": 238437,
+      "duration_ms": 7000
+    },
+    {
+      "word": "Y cuando me vean venir entre las nubes del cielo, con mucho poder y gloria, todos los países del mundo temblarán de miedo.",
+      "verse": 30,
+      "start_ms": 238437,
+      "end_ms": 245812,
+      "duration_ms": 7375
+    },
+    {
+      "word": "Y enviaré por todo el mundo a mis ángeles con una gran trompeta, para que reúnan a mis seguidores.",
+      "verse": 31,
+      "start_ms": 245812,
+      "end_ms": 252024,
+      "duration_ms": 6212
+    },
+    {
+      "word": "Aprendan la enseñanza que da la higuera.",
+      "verse": 32,
+      "start_ms": 252025,
+      "end_ms": 254975,
+      "duration_ms": 2950
+    },
+    {
+      "word": "Cuando a este árbol le salen ramas tiernas",
+      "verse": 32,
+      "start_ms": 254975,
+      "end_ms": 258237,
+      "duration_ms": 3262
+    },
+    {
+      "word": "y hojas nuevas, ustedes saben que ya se acerca el verano.",
+      "verse": 32,
+      "start_ms": 258388,
+      "end_ms": 262500,
+      "duration_ms": 4112
+    },
+    {
+      "word": "Del mismo modo, cuando vean que todo está pasando como les he dicho, sabrán que pronto vendré de nuevo.",
+      "verse": 33,
+      "start_ms": 262450,
+      "end_ms": 269050,
+      "duration_ms": 6600
+    },
+    {
+      "word": "Les aseguro que todo esto pasará antes de que mueran algunos de los que ahora están vivos.",
+      "verse": 34,
+      "start_ms": 269050,
+      "end_ms": 274475,
+      "duration_ms": 5425
+    },
+    {
+      "word": "El cielo y la tierra dejarán de existir, pero mis palabras permanecerán para siempre.",
+      "verse": 35,
+      "start_ms": 274475,
+      "end_ms": 279937,
+      "duration_ms": 5462
+    },
+    {
+      "word": "Nadie sabe el día ni la hora en que yo vendré; no lo saben ni siquiera los ángeles del cielo.",
+      "verse": 36,
+      "start_ms": 279938,
+      "end_ms": 285963,
+      "duration_ms": 6025
+    },
+    {
+      "word": "Es más, tampoco yo lo sé.",
+      "verse": 36,
+      "start_ms": 285963,
+      "end_ms": 288788,
+      "duration_ms": 2825
+    },
+    {
+      "word": "Sólo Dios, mi Padre, lo sabe.",
+      "verse": 36,
+      "start_ms": 288788,
+      "end_ms": 291950,
+      "duration_ms": 3162
+    },
+    {
+      "word": "Cuando yo, el Hijo del hombre, venga otra vez, la gente estará viviendo como en la época de Noé.",
+      "verse": 37,
+      "start_ms": 291950,
+      "end_ms": 298575,
+      "duration_ms": 6625
+    },
+    {
+      "word": "En ese tiempo la gente seguía comiendo, bebiendo y casándose, hasta el momento mismo en que Noé entró en la casa flotante; y luego vino la inundación.",
+      "verse": 38,
+      "start_ms": 298575,
+      "end_ms": 307800,
+      "duration_ms": 9225
+    },
+    {
+      "word": "La gente no sabía lo que pasaba, hasta el momento en que llegó el diluvio y todos se ahogaron.",
+      "verse": 39,
+      "start_ms": 307800,
+      "end_ms": 313462,
+      "duration_ms": 5662
+    },
+    {
+      "word": "Algo así pasará cuando yo, el Hijo del hombre, venga otra vez.",
+      "verse": 39,
+      "start_ms": 313463,
+      "end_ms": 318388,
+      "duration_ms": 4925
+    },
+    {
+      "word": "Si en ese momento hay dos hombres trabajando en el campo, me llevaré a uno y dejaré al otro.",
+      "verse": 40,
+      "start_ms": 318388,
+      "end_ms": 324400,
+      "duration_ms": 6012
+    },
+    {
+      "word": "Si dos mujeres están moliendo granos, me llevaré a una y dejaré a la otra.",
+      "verse": 41,
+      "start_ms": 324400,
+      "end_ms": 329712,
+      "duration_ms": 5312
+    },
+    {
+      "word": "Por eso, estén siempre alerta, pues ustedes no saben el día en que yo, su Señor, vendré otra vez.",
+      "verse": 42,
+      "start_ms": 329713,
+      "end_ms": 336925,
+      "duration_ms": 7212
+    },
+    {
+      "word": "Les aseguro que si el dueño de una casa supiera a qué hora va a llegar el ladrón, vigilaría la casa y no permitiría que el ladrón entrara.",
+      "verse": 43,
+      "start_ms": 336925,
+      "end_ms": 344950,
+      "duration_ms": 8025
+    },
+    {
+      "word": "Del mismo modo, ustedes deben estar atentos y preparados, porque yo, el Hijo del hombre, llegaré cuando menos lo esperen.",
+      "verse": 44,
+      "start_ms": 344950,
+      "end_ms": 352962,
+      "duration_ms": 8012
+    },
+    {
+      "word": "Quién es el sirviente responsable y atento?",
+      "verse": 45,
+      "start_ms": 352963,
+      "end_ms": 356125,
+      "duration_ms": 3162
+    },
+    {
+      "word": "Es aquel a quien el amo deja a cargo de toda su familia, para darles de comer a su debido tiempo.",
+      "verse": 45,
+      "start_ms": 356125,
+      "end_ms": 362150,
+      "duration_ms": 6025
+    },
+    {
+      "word": "Qué feliz es el sirviente si su dueño lo encuentra cumpliendo sus órdenes!",
+      "verse": 46,
+      "start_ms": 362150,
+      "end_ms": 366712,
+      "duration_ms": 4562
+    },
+    {
+      "word": "Les aseguro que el dueño lo pondrá a administrar todas sus posesiones.",
+      "verse": 47,
+      "start_ms": 366713,
+      "end_ms": 371425,
+      "duration_ms": 4712
+    },
+    {
+      "word": "Pero supongamos que un sirviente malo piensa: «Mi amo salió de viaje y tardará mucho en volver», y comienza a golpear a sus compañeros, y a comer y beber con borrachos.",
+      "verse": 48,
+      "start_ms": 371425,
+      "end_ms": 381625,
+      "duration_ms": 10200
+    },
+    {
+      "word": "Cuando vuelva su amo, en el día y la hora en que el sirviente menos lo espere, lo castigará como se castiga a todos los que engañan a sus amos.",
+      "verse": 50,
+      "start_ms": 381625,
+      "end_ms": 390112,
+      "duration_ms": 8487
+    },
+    {
+      "word": "Entonces llorará y le rechinarán de terror los dientes.",
+      "verse": 51,
+      "start_ms": 390113,
+      "end_ms": 393950,
+      "duration_ms": 3837
+    }
+  ]
+}

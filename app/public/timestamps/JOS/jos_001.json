@@ -1,0 +1,292 @@
+{
+  "book": "JOS",
+  "chapter": 1,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 17,
+  "word_count": 23,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-2",
+      "char_start": 0,
+      "char_end": 285,
+      "text": "Después de la muerte de Moisés, Dios habló con Josué hijo de Nun, que había sido ayudante de Moisés. Dios le dijo a Josué: —Ahora que mi servidor Moisés ha muerto, te toca a ti guiar al pueblo de Israel. Cruza el río Jordán con todos ellos, y llévalos al territorio que les voy a dar."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 285,
+      "char_end": 372,
+      "text": "Yo les entregaré todo territorio donde pongan el pie, tal como se lo prometí a Moisés."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 372,
+      "char_end": 596,
+      "text": "Les daré todo el territorio que va desde el desierto del sur hasta las montañas del Líbano en el norte, y desde el gran río Éufrates en el este hasta el mar Mediterráneo en el oeste, incluyendo el territorio de los hititas."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 596,
+      "char_end": 708,
+      "text": "Nadie podrá derrotarte jamás, porque yo te ayudaré, así como ayudé a Moisés. Nunca te fallaré ni te abandonaré."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 708,
+      "char_end": 857,
+      "text": "Pero tú debes ser fuerte y valiente, porque serás tú quien guíe al pueblo de Israel para que reciba el territorio que les prometí a sus antepasados."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 857,
+      "char_end": 1056,
+      "text": "Sólo te pido que seas muy fuerte y valiente. Así podrás obedecer siempre todas las leyes que te dio mi servidor Moisés. No desobedezcas ni una sola de ellas, y te irá bien por dondequiera que vayas."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1056,
+      "char_end": 1190,
+      "text": "Nunca dejes de leer el libro de la Ley; estúdialo de día y de noche, y ponlo en práctica, para que tengas éxito en todo lo que hagas."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1190,
+      "char_end": 1329,
+      "text": "Yo te pido que seas fuerte y valiente, que no te desanimes ni tengas miedo, porque yo soy tu Dios, y te ayudaré por dondequiera que vayas."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1329,
+      "char_end": 1379,
+      "text": "Entonces Josué les ordenó a los jefes del pueblo:"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1379,
+      "char_end": 1564,
+      "text": "—Vayan por el campamento y díganles a todos que se preparen con alimentos, porque dentro de tres días cruzaremos el río Jordán y ocuparemos el territorio que nuestro Dios nos va a dar."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1564,
+      "char_end": 1659,
+      "text": "Josué dio también instrucciones a las tribus de Rubén y de Gad, y a la media tribu de Manasés:"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1659,
+      "char_end": 1756,
+      "text": "—Recuerden que Moisés les dijo que nuestro Dios les daría este territorio para que vivan en paz."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1756,
+      "char_end": 1955,
+      "text": "Dejen a sus esposas y a sus hijos, y a su ganado en esta tierra que Moisés les dio al este del río Jordán. Pero todos los hombres que tengan armas deberán cruzar el río y ayudar al resto del pueblo."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1955,
+      "char_end": 2203,
+      "text": "No descansen hasta que hayan conquistado el territorio que Dios les dará a ellos, tal como se lo ha dado a ustedes. Una vez que ellos tengan su territorio, ustedes podrán regresar y vivir en la tierra que Moisés les ha dado al este del río Jordán."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2203,
+      "char_end": 2300,
+      "text": "Ellos le respondieron a Josué: —Haremos todo lo que nos has pedido, e iremos a donde tú quieras."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2300,
+      "char_end": 2412,
+      "text": "Te obedeceremos en todo, como obedecimos a Moisés, siempre y cuando nuestro Dios, te apoye como apoyó a Moisés."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2412,
+      "char_end": 2518,
+      "text": "Si alguien no te obedece, será condenado a muerte. Lo único que te pedimos es que seas fuerte y valiente."
+    }
+  ],
+  "words": [
+    {
+      "word": "Después de la muerte de Moisés, Dios habló con Josué hijo de Nun, que había sido ayudante de Moisés.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6825,
+      "duration_ms": 6725
+    },
+    {
+      "word": "Dios le dijo a Josué: —Ahora que mi servidor Moisés ha muerto, te toca a ti guiar al pueblo de Israel.",
+      "verse": 1,
+      "start_ms": 6775,
+      "end_ms": 13537,
+      "duration_ms": 6762
+    },
+    {
+      "word": "Cruza el río Jordán con todos ellos, y llévalos al territorio que les voy a dar.",
+      "verse": 1,
+      "start_ms": 13537,
+      "end_ms": 18974,
+      "duration_ms": 5437
+    },
+    {
+      "word": "Yo les entregaré todo territorio donde pongan el pie, tal como se lo prometí a Moisés.",
+      "verse": 3,
+      "start_ms": 18975,
+      "end_ms": 24775,
+      "duration_ms": 5800
+    },
+    {
+      "word": "Les daré todo el territorio que va desde el desierto del sur hasta las montañas del Líbano en el norte, y desde el gran río Éufrates en el este hasta el mar Mediterráneo en el oeste, incluyendo el territorio de los hititas.",
+      "verse": 4,
+      "start_ms": 24775,
+      "end_ms": 37000,
+      "duration_ms": 12225
+    },
+    {
+      "word": "Nadie podrá derrotarte jamás, porque yo te ayudaré, así como ayudé a Moisés.",
+      "verse": 5,
+      "start_ms": 37000,
+      "end_ms": 42862,
+      "duration_ms": 5862
+    },
+    {
+      "word": "Nunca te fallaré ni te abandonaré.",
+      "verse": 5,
+      "start_ms": 42862,
+      "end_ms": 45662,
+      "duration_ms": 2800
+    },
+    {
+      "word": "Pero tú debes ser fuerte y valiente, porque serás tú quien guíe al pueblo de Israel para que reciba el territorio que les prometí a sus antepasados.",
+      "verse": 6,
+      "start_ms": 45662,
+      "end_ms": 53987,
+      "duration_ms": 8325
+    },
+    {
+      "word": "Sólo te pido que seas muy fuerte y valiente.",
+      "verse": 7,
+      "start_ms": 53987,
+      "end_ms": 57374,
+      "duration_ms": 3387
+    },
+    {
+      "word": "Así podrás obedecer siempre todas las leyes que te dio mi servidor Moisés.",
+      "verse": 7,
+      "start_ms": 57375,
+      "end_ms": 62312,
+      "duration_ms": 4937
+    },
+    {
+      "word": "No desobedezcas ni una sola de ellas, y te irá bien por dondequiera que vayas.",
+      "verse": 7,
+      "start_ms": 62312,
+      "end_ms": 67774,
+      "duration_ms": 5462
+    },
+    {
+      "word": "Nunca dejes de leer el libro de la Ley; estúdialo de día y de noche, y ponlo en práctica, para que tengas éxito en todo lo que hagas.",
+      "verse": 8,
+      "start_ms": 67775,
+      "end_ms": 76137,
+      "duration_ms": 8362
+    },
+    {
+      "word": "Yo te pido que seas fuerte y valiente, que no te desanimes ni tengas miedo, porque yo soy tu Dios, y te ayudaré por dondequiera que vayas.",
+      "verse": 9,
+      "start_ms": 76137,
+      "end_ms": 84949,
+      "duration_ms": 8812
+    },
+    {
+      "word": "Entonces Josué les ordenó a los jefes del pueblo: —Vayan por el campamento y díganles a todos que se preparen con alimentos, porque dentro de tres días cruzaremos el río Jordán y ocuparemos el territorio que nuestro Dios nos va a dar.",
+      "verse": 10,
+      "start_ms": 84950,
+      "end_ms": 97925,
+      "duration_ms": 12975
+    },
+    {
+      "word": "Josué dio también instrucciones a las tribus de Rubén y de Gad, y a la media tribu de Manasés: —Recuerden que Moisés les dijo que nuestro Dios les daría este territorio para que vivan en paz.",
+      "verse": 12,
+      "start_ms": 97925,
+      "end_ms": 108737,
+      "duration_ms": 10812
+    },
+    {
+      "word": "Dejen a sus esposas y a sus hijos, y a su ganado en esta tierra que Moisés les dio al este del río Jordán.",
+      "verse": 14,
+      "start_ms": 108737,
+      "end_ms": 115462,
+      "duration_ms": 6725
+    },
+    {
+      "word": "Pero todos los hombres que tengan armas deberán cruzar el río y ayudar al resto del pueblo.",
+      "verse": 14,
+      "start_ms": 115462,
+      "end_ms": 120762,
+      "duration_ms": 5300
+    },
+    {
+      "word": "No descansen hasta que hayan conquistado el territorio que Dios les dará a ellos, tal como se lo ha dado a ustedes.",
+      "verse": 15,
+      "start_ms": 120762,
+      "end_ms": 127712,
+      "duration_ms": 6950
+    },
+    {
+      "word": "Una vez que ellos tengan su territorio, ustedes podrán regresar y vivir en la tierra que Moisés les ha dado al este del río Jordán.",
+      "verse": 15,
+      "start_ms": 127712,
+      "end_ms": 135362,
+      "duration_ms": 7650
+    },
+    {
+      "word": "Ellos le respondieron a Josué: —Haremos todo lo que nos has pedido, e iremos a donde tú quieras.",
+      "verse": 16,
+      "start_ms": 135362,
+      "end_ms": 141687,
+      "duration_ms": 6325
+    },
+    {
+      "word": "Te obedeceremos en todo, como obedecimos a Moisés, siempre y cuando nuestro Dios, te apoye como apoyó a Moisés.",
+      "verse": 17,
+      "start_ms": 141687,
+      "end_ms": 149424,
+      "duration_ms": 7737
+    },
+    {
+      "word": "Si alguien no te obedece, será condenado a muerte.",
+      "verse": 18,
+      "start_ms": 149425,
+      "end_ms": 153300,
+      "duration_ms": 3875
+    },
+    {
+      "word": "Lo único que te pedimos es que seas fuerte y valiente.",
+      "verse": 18,
+      "start_ms": 153300,
+      "end_ms": 157062,
+      "duration_ms": 3762
+    }
+  ]
+}

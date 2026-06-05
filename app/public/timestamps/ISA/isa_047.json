@@ -1,0 +1,271 @@
+{
+  "book": "ISA",
+  "chapter": 47,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 14,
+  "word_count": 23,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 152,
+      "text": "Dios dijo: Ciudad de Babilonia, baja ya de tu trono y siéntate en el suelo. Eres como una viuda joven, y no volverán a llamarte «hermosa» y «delicada»."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 152,
+      "char_end": 345,
+      "text": "Ya no podrás disfrutar de lujos y privilegios; ahora tendrás que trabajar. Toma una piedra y muele el grano para hacer la harina, pues has quedado destruida y tendrás que valerte por ti misma."
+    },
+    {
+      "verse": 3,
+      "label": "3-4",
+      "char_start": 345,
+      "char_end": 469,
+      "text": "Yo, el Dios santo de Israel, el Dios todopoderoso, voy a vengarme de ti. ¡Ya te ven los pueblos como si estuvieras desnuda!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 469,
+      "char_end": 598,
+      "text": "¡Siéntate en silencio, ciudad de Babilonia! Siéntate en un rincón oscuro, porque no volverán a llamarte «Reina de las naciones»."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 598,
+      "char_end": 786,
+      "text": "Yo me enojé con mi pueblo; me enojé con los israelitas y los dejé caer en tu poder. Pero tú, Babilonia, no te compadeciste de ellos, y maltrataste a los ancianos con una carga muy pesada."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 786,
+      "char_end": 878,
+      "text": "Creíste que nunca dejarías de ser reina y no te pusiste a pensar cómo terminaría todo esto."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 878,
+      "char_end": 1087,
+      "text": "Por eso, ciudad de Babilonia, escucha bien: tú eres como una mujer que ama el lujo y se sienta tranquila en su trono; piensas que nadie es mejor que tú, y crees que nunca serás viuda ni te quedarás sin hijos."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1087,
+      "char_end": 1249,
+      "text": "Pero de repente, en un majestuoso día, te sucederán dos desgracias, y de nada te servirán tus brujerías y tu magia: te quedarás viuda y perderás todos tus hijos."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1249,
+      "char_end": 1447,
+      "text": "A pesar de tu maldad, te sentías segura, porque nadie te llamaba la atención. Tu sabiduría y tus conocimientos te hicieron perder la cabeza, mientras te decías a ti misma: «Yo, y nadie más que yo»."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1447,
+      "char_end": 1535,
+      "text": "Pero cuando menos lo esperes te caerá una desgracia, que ni con tu magia podrás evitar."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1535,
+      "char_end": 1680,
+      "text": "Babilonia, sigue con las brujerías y la magia que has practicado toda tu vida, a ver si te sirven de algo, a ver si consigues asustar a alguien."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1680,
+      "char_end": 1819,
+      "text": "¡Que se presenten ahora los sabios que te han dado consejos! ¡Que traten de salvarte los que miran a los astros para anunciarte el futuro!"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1819,
+      "char_end": 1982,
+      "text": "Pero esos adivinos son como paja: el fuego los devorará y no podrán salvarse de las llamas. Ese fuego no será como el fuego de una chimenea que da calor al hogar."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1982,
+      "char_end": 2099,
+      "text": "Esos adivinos, que has consultado toda tu vida, andan perdidos, cada uno por su lado. ¡Así que nadie podrá salvarte!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios dijo: Ciudad de Babilonia, baja ya de tu trono y siéntate en el suelo.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5775,
+      "duration_ms": 5675
+    },
+    {
+      "word": "Eres como una viuda joven, y no volverán a llamarte «hermosa» y «delicada».",
+      "verse": 1,
+      "start_ms": 5725,
+      "end_ms": 11725,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Ya no podrás disfrutar de lujos y privilegios; ahora tendrás que trabajar.",
+      "verse": 2,
+      "start_ms": 11725,
+      "end_ms": 16887,
+      "duration_ms": 5162
+    },
+    {
+      "word": "Toma una piedra y muele el grano para hacer la harina, pues has quedado destruida y tendrás que valerte por ti misma.",
+      "verse": 2,
+      "start_ms": 16887,
+      "end_ms": 23987,
+      "duration_ms": 7100
+    },
+    {
+      "word": "Yo, el Dios santo de Israel, el Dios todopoderoso, voy a vengarme de ti.",
+      "verse": 3,
+      "start_ms": 23987,
+      "end_ms": 29724,
+      "duration_ms": 5737
+    },
+    {
+      "word": "Ya te ven los pueblos como si estuvieras desnuda!",
+      "verse": 3,
+      "start_ms": 29725,
+      "end_ms": 33062,
+      "duration_ms": 3337
+    },
+    {
+      "word": "Siéntate en silencio, ciudad de Babilonia!",
+      "verse": 5,
+      "start_ms": 33062,
+      "end_ms": 36637,
+      "duration_ms": 3575
+    },
+    {
+      "word": "Siéntate en un rincón oscuro, porque no volverán a llamarte «Reina de las naciones».",
+      "verse": 5,
+      "start_ms": 36637,
+      "end_ms": 42574,
+      "duration_ms": 5937
+    },
+    {
+      "word": "Yo me enojé con mi pueblo; me enojé con los israelitas y los dejé caer en tu poder.",
+      "verse": 6,
+      "start_ms": 42575,
+      "end_ms": 48212,
+      "duration_ms": 5637
+    },
+    {
+      "word": "Pero tú, Babilonia, no te compadeciste de ellos, y maltrataste a los ancianos con una carga muy pesada.",
+      "verse": 6,
+      "start_ms": 48212,
+      "end_ms": 55412,
+      "duration_ms": 7200
+    },
+    {
+      "word": "Creíste que nunca dejarías de ser reina y no te pusiste a pensar cómo terminaría todo esto.",
+      "verse": 7,
+      "start_ms": 55412,
+      "end_ms": 61387,
+      "duration_ms": 5975
+    },
+    {
+      "word": "Por eso, ciudad de Babilonia, escucha bien: tú eres como una mujer que ama el lujo y se sienta tranquila en su trono; piensas que nadie es mejor que tú, y crees que nunca serás viuda ni te quedarás sin hijos.",
+      "verse": 8,
+      "start_ms": 61387,
+      "end_ms": 73912,
+      "duration_ms": 12525
+    },
+    {
+      "word": "Pero de repente, en un majestuoso día, te sucederán dos desgracias, y de nada te servirán tus brujerías y tu magia: te quedarás viuda y perderás todos tus hijos.",
+      "verse": 9,
+      "start_ms": 73912,
+      "end_ms": 84712,
+      "duration_ms": 10800
+    },
+    {
+      "word": "A pesar de tu maldad, te sentías segura, porque nadie te llamaba la atención.",
+      "verse": 10,
+      "start_ms": 84712,
+      "end_ms": 90137,
+      "duration_ms": 5425
+    },
+    {
+      "word": "Tu sabiduría y tus conocimientos te hicieron perder la cabeza, mientras te decías a ti misma: «Yo, y nadie más que yo».",
+      "verse": 10,
+      "start_ms": 90137,
+      "end_ms": 98024,
+      "duration_ms": 7887
+    },
+    {
+      "word": "Pero cuando menos lo esperes te caerá una desgracia, que ni con tu magia podrás evitar.",
+      "verse": 11,
+      "start_ms": 98025,
+      "end_ms": 103487,
+      "duration_ms": 5462
+    },
+    {
+      "word": "Babilonia, sigue con las brujerías y la magia que has practicado toda tu vida, a ver si te sirven de algo, a ver si consigues asustar a alguien.",
+      "verse": 12,
+      "start_ms": 103487,
+      "end_ms": 112237,
+      "duration_ms": 8750
+    },
+    {
+      "word": "Que se presenten ahora los sabios que te han dado consejos!",
+      "verse": 13,
+      "start_ms": 112237,
+      "end_ms": 116087,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Que traten de salvarte los que miran a los astros para anunciarte el futuro!",
+      "verse": 13,
+      "start_ms": 116087,
+      "end_ms": 120637,
+      "duration_ms": 4550
+    },
+    {
+      "word": "Pero esos adivinos son como paja: el fuego los devorará y no podrán salvarse de las llamas.",
+      "verse": 14,
+      "start_ms": 120637,
+      "end_ms": 126649,
+      "duration_ms": 6012
+    },
+    {
+      "word": "Ese fuego no será como el fuego de una chimenea que da calor al hogar.",
+      "verse": 14,
+      "start_ms": 126650,
+      "end_ms": 131037,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Esos adivinos, que has consultado toda tu vida, andan perdidos, cada uno por su lado.",
+      "verse": 15,
+      "start_ms": 131037,
+      "end_ms": 137487,
+      "duration_ms": 6450
+    },
+    {
+      "word": "Así que nadie podrá salvarte!",
+      "verse": 15,
+      "start_ms": 137487,
+      "end_ms": 140099,
+      "duration_ms": 2612
+    }
+  ]
+}

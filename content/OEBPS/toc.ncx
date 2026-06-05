@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:3db37a86-4f7c-4152-ac22-2918293add0a" />
+    <meta name="dtb:depth" content="2" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Biblia Traducción al Lenguaje Actual Protestante</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Cubierta</text>
+      </navLabel>
+      <content src="Text/cubierta.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Biblia Traducción al Lenguaje Actual Protestante</text>
+      </navLabel>
+      <content src="Text/titulo.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Génesis</text>
+      </navLabel>
+      <content src="Text/Section0001.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Éxodo</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Levítico</text>
+      </navLabel>
+      <content src="Text/Section0003.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Números</text>
+      </navLabel>
+      <content src="Text/Section0004.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Deuteronomio</text>
+      </navLabel>
+      <content src="Text/Section0005.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Josué</text>
+      </navLabel>
+      <content src="Text/Section0006.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Jueces</text>
+      </navLabel>
+      <content src="Text/Section0007.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Rut</text>
+      </navLabel>
+      <content src="Text/Section0008.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>1 Samuel</text>
+      </navLabel>
+      <content src="Text/Section0009.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>2 Samuel</text>
+      </navLabel>
+      <content src="Text/Section0010.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>1 Reyes</text>
+      </navLabel>
+      <content src="Text/Section0011.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>2 Reyes</text>
+      </navLabel>
+      <content src="Text/Section0012.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>1 Crónicas</text>
+      </navLabel>
+      <content src="Text/Section0013.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>2 Crónicas</text>
+      </navLabel>
+      <content src="Text/Section0014.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Esdras</text>
+      </navLabel>
+      <content src="Text/Section0015.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Nehemías</text>
+      </navLabel>
+      <content src="Text/Section0016.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Ester</text>
+      </navLabel>
+      <content src="Text/Section0017.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Job</text>
+      </navLabel>
+      <content src="Text/Section0018.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Salmos</text>
+      </navLabel>
+      <content src="Text/Section0019.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Proverbios</text>
+      </navLabel>
+      <content src="Text/Section0020.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Eclesiastés</text>
+      </navLabel>
+      <content src="Text/Section0021.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Cantar de los Cantares</text>
+      </navLabel>
+      <content src="Text/Section0022.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Isaías</text>
+      </navLabel>
+      <content src="Text/Section0023.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Jeremías</text>
+      </navLabel>
+      <content src="Text/Section0024.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Lamentaciones</text>
+      </navLabel>
+      <content src="Text/Section0025.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Ezequiel</text>
+      </navLabel>
+      <content src="Text/Section0026.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Daniel</text>
+      </navLabel>
+      <content src="Text/Section0027.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Oseas</text>
+      </navLabel>
+      <content src="Text/Section0028.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Joel</text>
+      </navLabel>
+      <content src="Text/Section0029.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Amós</text>
+      </navLabel>
+      <content src="Text/Section0030.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Abdías</text>
+      </navLabel>
+      <content src="Text/Section0031.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Jonás</text>
+      </navLabel>
+      <content src="Text/Section0032.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Miqueas</text>
+      </navLabel>
+      <content src="Text/Section0033.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Nahum</text>
+      </navLabel>
+      <content src="Text/Section0034.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Habacuc</text>
+      </navLabel>
+      <content src="Text/Section0035.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Sofonías</text>
+      </navLabel>
+      <content src="Text/Section0036.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Hageo</text>
+      </navLabel>
+      <content src="Text/Section0037.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>Zacarías</text>
+      </navLabel>
+      <content src="Text/Section0038.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>Malaquías</text>
+      </navLabel>
+      <content src="Text/Section0039.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>Mateo</text>
+      </navLabel>
+      <content src="Text/Section0040.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>Marcos</text>
+      </navLabel>
+      <content src="Text/Section0041.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>Lucas</text>
+      </navLabel>
+      <content src="Text/Section0042.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>Juan</text>
+      </navLabel>
+      <content src="Text/Section0043.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>Hechos de los Apóstoles</text>
+      </navLabel>
+      <content src="Text/Section0044.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>Romanos</text>
+      </navLabel>
+      <content src="Text/Section0045.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>1 Corintios</text>
+      </navLabel>
+      <content src="Text/Section0046.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>2 Corintios</text>
+      </navLabel>
+      <content src="Text/Section0047.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Gálatas</text>
+      </navLabel>
+      <content src="Text/Section0048.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>Efesios</text>
+      </navLabel>
+      <content src="Text/Section0049.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>Filipenses</text>
+      </navLabel>
+      <content src="Text/Section0050.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>Colosenses</text>
+      </navLabel>
+      <content src="Text/Section0051.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>1 Tesalonicenses</text>
+      </navLabel>
+      <content src="Text/Section0052.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>2 Tesalonicenses</text>
+      </navLabel>
+      <content src="Text/Section0053.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>1 Timoteo</text>
+      </navLabel>
+      <content src="Text/Section0054.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>2 Timoteo</text>
+      </navLabel>
+      <content src="Text/Section0055.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>Tito</text>
+      </navLabel>
+      <content src="Text/Section0056.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>Filemón</text>
+      </navLabel>
+      <content src="Text/Section0057.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>Hebreos</text>
+      </navLabel>
+      <content src="Text/Section0058.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-61" playOrder="61">
+      <navLabel>
+        <text>Santiago</text>
+      </navLabel>
+      <content src="Text/Section0059.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>1 Pedro</text>
+      </navLabel>
+      <content src="Text/Section0060.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-63" playOrder="63">
+      <navLabel>
+        <text>2 Pedro</text>
+      </navLabel>
+      <content src="Text/Section0061.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-64" playOrder="64">
+      <navLabel>
+        <text>1 Juan</text>
+      </navLabel>
+      <content src="Text/Section0062.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>2 Juan</text>
+      </navLabel>
+      <content src="Text/Section0063.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-66" playOrder="66">
+      <navLabel>
+        <text>3 Juan</text>
+      </navLabel>
+      <content src="Text/Section0064.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>Judas</text>
+      </navLabel>
+      <content src="Text/Section0065.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-68" playOrder="68">
+      <navLabel>
+        <text>Apocalipsis</text>
+      </navLabel>
+      <content src="Text/Section0066.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-69" playOrder="69">
+      <navLabel>
+        <text>Notas</text>
+      </navLabel>
+      <content src="Text/notas0001.xhtml" />
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>Notas de Génesis</text>
+        </navLabel>
+        <content src="Text/notas0001.xhtml#sigil_toc_id_1" />
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>Notas de Éxodo</text>
+        </navLabel>
+        <content src="Text/notas0002.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>Notas de Levítico</text>
+        </navLabel>
+        <content src="Text/notas0003.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>Notas de Números</text>
+        </navLabel>
+        <content src="Text/notas0004.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>Notas de Deuteronomio</text>
+        </navLabel>
+        <content src="Text/notas0005.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>Notas de Josué</text>
+        </navLabel>
+        <content src="Text/notas0006.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>Notas de Jueces</text>
+        </navLabel>
+        <content src="Text/notas0007.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>Notas de Rut</text>
+        </navLabel>
+        <content src="Text/notas0008.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>Notas de 1 Samuel</text>
+        </navLabel>
+        <content src="Text/notas0009.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>Notas de 1 Reyes</text>
+        </navLabel>
+        <content src="Text/notas0011.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>Notas de 2 Reyes</text>
+        </navLabel>
+        <content src="Text/notas0012.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>Notas de 1 Crónicas</text>
+        </navLabel>
+        <content src="Text/notas0013.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>Notas de 2 Crónicas</text>
+        </navLabel>
+        <content src="Text/notas0014.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>Notas de Esdras</text>
+        </navLabel>
+        <content src="Text/notas0015.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>Notas de Nehemías</text>
+        </navLabel>
+        <content src="Text/notas0016.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>Notas de Ester</text>
+        </navLabel>
+        <content src="Text/notas0017.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>Notas de Salmos</text>
+        </navLabel>
+        <content src="Text/notas0019.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>Notas de Proverbios</text>
+        </navLabel>
+        <content src="Text/notas0020.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>Notas de Isaías</text>
+        </navLabel>
+        <content src="Text/notas0023.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>Notas de Jeremías</text>
+        </navLabel>
+        <content src="Text/notas0024.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text>Notas de Lamentaciones</text>
+        </navLabel>
+        <content src="Text/notas0025.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>Notas de Ezequiel</text>
+        </navLabel>
+        <content src="Text/notas0026.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>Notas de Daniel</text>
+        </navLabel>
+        <content src="Text/notas0027.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>Notas de Amós</text>
+        </navLabel>
+        <content src="Text/notas0030.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>Notas de Hageo</text>
+        </navLabel>
+        <content src="Text/notas0037.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>Notas de Zacarías</text>
+        </navLabel>
+        <content src="Text/notas0038.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>Notas de Mateo</text>
+        </navLabel>
+        <content src="Text/notas0040.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>Notas de Marcos</text>
+        </navLabel>
+        <content src="Text/notas0041.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-98" playOrder="98">
+        <navLabel>
+          <text>Notas de Lucas</text>
+        </navLabel>
+        <content src="Text/notas0042.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-99" playOrder="99">
+        <navLabel>
+          <text>Notas de Juan</text>
+        </navLabel>
+        <content src="Text/notas0043.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-100" playOrder="100">
+        <navLabel>
+          <text>Notas de Hechos de los Apóstoles</text>
+        </navLabel>
+        <content src="Text/notas0044.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-101" playOrder="101">
+        <navLabel>
+          <text>Notas de Romanos</text>
+        </navLabel>
+        <content src="Text/notas0045.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-102" playOrder="102">
+        <navLabel>
+          <text>Notas de 1 Corintios</text>
+        </navLabel>
+        <content src="Text/notas0046.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-103" playOrder="103">
+        <navLabel>
+          <text>Notas de 2 Corintios</text>
+        </navLabel>
+        <content src="Text/notas0047.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-104" playOrder="104">
+        <navLabel>
+          <text>Notas de Efesios</text>
+        </navLabel>
+        <content src="Text/notas0049.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-105" playOrder="105">
+        <navLabel>
+          <text>Notas de Filipenses</text>
+        </navLabel>
+        <content src="Text/notas0050.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-106" playOrder="106">
+        <navLabel>
+          <text>Notas de 1 Tesalonicenses</text>
+        </navLabel>
+        <content src="Text/notas0052.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-107" playOrder="107">
+        <navLabel>
+          <text>Notas de 2 Tesalonicenses</text>
+        </navLabel>
+        <content src="Text/notas0053.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-108" playOrder="108">
+        <navLabel>
+          <text>Notas de 1 Timoteo</text>
+        </navLabel>
+        <content src="Text/notas0054.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-109" playOrder="109">
+        <navLabel>
+          <text>Notas de 2 Timoteo</text>
+        </navLabel>
+        <content src="Text/notas0055.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-110" playOrder="110">
+        <navLabel>
+          <text>Notas de Tito</text>
+        </navLabel>
+        <content src="Text/notas0056.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-111" playOrder="111">
+        <navLabel>
+          <text>Notas de Hebreos</text>
+        </navLabel>
+        <content src="Text/notas0058.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-112" playOrder="112">
+        <navLabel>
+          <text>Notas de Santiago</text>
+        </navLabel>
+        <content src="Text/notas0059.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-113" playOrder="113">
+        <navLabel>
+          <text>Notas de 2 Pedro</text>
+        </navLabel>
+        <content src="Text/notas0061.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-114" playOrder="114">
+        <navLabel>
+          <text>Notas de 1 Juan</text>
+        </navLabel>
+        <content src="Text/notas0062.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-115" playOrder="115">
+        <navLabel>
+          <text>Notas de 3 Juan</text>
+        </navLabel>
+        <content src="Text/notas0064.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-116" playOrder="116">
+        <navLabel>
+          <text>Notas de Judas</text>
+        </navLabel>
+        <content src="Text/notas0065.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-117" playOrder="117">
+        <navLabel>
+          <text>Notas de Apocalipsis</text>
+        </navLabel>
+        <content src="Text/notas0066.xhtml" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-118" playOrder="118">
+      <navLabel>
+        <text>Autor</text>
+      </navLabel>
+      <content src="Text/autor.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

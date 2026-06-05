@@ -1,0 +1,502 @@
+{
+  "book": "HEC",
+  "chapter": 25,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 26,
+  "word_count": 44,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 123,
+      "text": "Festo llegó a la ciudad de Cesarea para ocupar su puesto de gobernador. Tres días después se fue a la ciudad de Jerusalén."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 123,
+      "char_end": 250,
+      "text": "Cuando llegó, los sacerdotes principales y los judíos más importantes de la ciudad hicieron una acusación formal contra Pablo."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 250,
+      "char_end": 419,
+      "text": "También le pidieron a Festo que les hiciera el favor de ordenar que Pablo fuera llevado a Jerusalén. Ellos planeaban matar a Pablo cuando viniera de camino a la ciudad."
+    },
+    {
+      "verse": 4,
+      "label": "4-5",
+      "char_start": 419,
+      "char_end": 622,
+      "text": "Pero Festo les dijo: —No; Pablo seguirá preso en Cesarea, y muy pronto yo iré para allá. Si él ha hecho algo malo y las autoridades de ustedes quieren acusarlo, que vengan conmigo. Allá podrán acusarlo."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 622,
+      "char_end": 775,
+      "text": "Festo se quedó ocho días en Jerusalén, y luego regresó a Cesarea. Al día siguiente fue a la corte, se sentó en la silla del juez, y mandó traer a Pablo."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 775,
+      "char_end": 949,
+      "text": "Cuando Pablo entró en la corte, los judíos que habían venido desde Jerusalén comenzaron a acusarlo de hacer cosas muy malas. Pero no pudieron demostrar que eso fuera cierto."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 949,
+      "char_end": 1136,
+      "text": "Pablo entonces tomó la palabra para defenderse, y dijo: —Yo no he hecho nada malo contra el templo de Jerusalén, ni contra el emperador de Roma. Tampoco he desobedecido las leyes judías."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1136,
+      "char_end": 1260,
+      "text": "Como Festo quería quedar bien con los judíos, le preguntó a Pablo: —¿Te gustaría ir a Jerusalén para que yo te juzgue allá?"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1260,
+      "char_end": 1427,
+      "text": "Pablo le contestó: —El tribunal del emperador de Roma está aquí, y es aquí donde debo ser juzgado. Usted sabe muy bien que yo no he hecho nada malo contra los judíos."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1427,
+      "char_end": 1621,
+      "text": "Si lo hubiera hecho, no me importaría si como castigo me mataran. Pero si lo que ellos dicen de mí no es cierto, nadie tiene derecho de entregarme a ellos. Yo pido que el emperador sea mi juez."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1621,
+      "char_end": 1769,
+      "text": "Festo se reunió con sus consejeros para hablar del asunto, y luego le dijo a Pablo: —Si quieres que el emperador sea tu juez, entonces irás a Roma."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1769,
+      "char_end": 1882,
+      "text": "Pasaron algunos días, y el rey Agripa y Berenice fueron a la ciudad de Cesarea para saludar al gobernador Festo."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1882,
+      "char_end": 2037,
+      "text": "Como Agripa y Berenice se quedaron allí varios días, Festo le contó al rey Agripa lo que pasaba con Pablo: —Tenemos aquí a un hombre que Félix dejó preso."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2037,
+      "char_end": 2173,
+      "text": "Cuando fui a Jerusalén, los principales sacerdotes y los líderes judíos lo acusaron formalmente. Ellos querían que yo ordenara matarlo."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2173,
+      "char_end": 2337,
+      "text": "Pero les dije que nosotros, los romanos, no acostumbramos ordenar la muerte de nadie sin que esa persona tenga la oportunidad de ver a sus acusadores y defenderse."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2337,
+      "char_end": 2497,
+      "text": "Entonces los acusadores vinieron a Cesarea y yo, sin pensarlo mucho, al día siguiente fui al tribunal y ocupé mi puesto de juez. Ordené que trajeran al hombre,"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2497,
+      "char_end": 2552,
+      "text": "pero no lo acusaron de nada terrible, como yo pensaba."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2552,
+      "char_end": 2691,
+      "text": "Lo acusaban sólo de cosas que tenían que ver con su religión, y de andar diciendo que un tal Jesús, que ya había muerto, había resucitado."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2691,
+      "char_end": 2790,
+      "text": "Yo no sabía qué hacer, así que le pregunté a Pablo si quería ir a Jerusalén para ser juzgado allá."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2790,
+      "char_end": 2945,
+      "text": "Pero él contestó que prefería quedarse preso hasta que el emperador lo juzgara. Entonces ordené que lo dejaran preso hasta que yo pudiera enviarlo a Roma."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2945,
+      "char_end": 3052,
+      "text": "Agripa le dijo a Festo: —Me gustaría escuchar a ese hombre. —Mañana mismo podrás oírlo —le contestó Festo."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3052,
+      "char_end": 3274,
+      "text": "Al día siguiente, Agripa y Berenice llegaron al tribunal, y con mucha pompa entraron en la sala. Iban acompañados de los jefes del ejército y de los hombres más importantes de la ciudad. Festo ordenó que trajeran a Pablo,"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3274,
+      "char_end": 3496,
+      "text": "y luego dijo: —Rey Agripa, y señores que hoy nos acompañan, ¡aquí está el hombre! Muchos judíos han venido a verme aquí, en Cesarea, y allá en Jerusalén, para acusarlo de muchas cosas. Ellos quieren que yo ordene matarlo,"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3496,
+      "char_end": 3665,
+      "text": "pero no creo que haya hecho algo tan malo como para merecer la muerte. Sin embargo, él ha pedido que sea el emperador quien lo juzgue, y yo he decidido enviarlo a Roma."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3665,
+      "char_end": 3886,
+      "text": "Pero no sé qué decirle al emperador acerca de él. Por eso lo he traído hoy aquí, para que ustedes, y sobre todo usted, rey Agripa, le hagan preguntas. Así sabré lo que puedo escribir en la carta que enviaré al emperador."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3886,
+      "char_end": 3960,
+      "text": "Porque no tendría sentido enviar a un preso sin decir de qué se le acusa."
+    }
+  ],
+  "words": [
+    {
+      "word": "Festo llegó a la ciudad de Cesarea para ocupar su puesto de gobernador.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4725,
+      "duration_ms": 4625
+    },
+    {
+      "word": "Tres días después se fue a la ciudad de Jerusalén.",
+      "verse": 1,
+      "start_ms": 4675,
+      "end_ms": 8100,
+      "duration_ms": 3425
+    },
+    {
+      "word": "Cuando llegó, los sacerdotes principales y los judíos más importantes de la ciudad hicieron una acusación formal contra Pablo.",
+      "verse": 2,
+      "start_ms": 8100,
+      "end_ms": 15325,
+      "duration_ms": 7225
+    },
+    {
+      "word": "También le pidieron a Festo que les hiciera el favor de ordenar que Pablo fuera llevado a Jerusalén.",
+      "verse": 3,
+      "start_ms": 15325,
+      "end_ms": 20800,
+      "duration_ms": 5475
+    },
+    {
+      "word": "Ellos planeaban matar a Pablo cuando viniera de camino a la ciudad.",
+      "verse": 3,
+      "start_ms": 20800,
+      "end_ms": 25025,
+      "duration_ms": 4225
+    },
+    {
+      "word": "Pero Festo les dijo: —No; Pablo seguirá preso en Cesarea, y muy pronto yo iré para allá.",
+      "verse": 4,
+      "start_ms": 25025,
+      "end_ms": 31437,
+      "duration_ms": 6412
+    },
+    {
+      "word": "Si él ha hecho algo malo y las autoridades de ustedes quieren acusarlo, que vengan conmigo.",
+      "verse": 4,
+      "start_ms": 31437,
+      "end_ms": 37274,
+      "duration_ms": 5837
+    },
+    {
+      "word": "Allá podrán acusarlo.",
+      "verse": 4,
+      "start_ms": 37275,
+      "end_ms": 39562,
+      "duration_ms": 2287
+    },
+    {
+      "word": "Festo se quedó ocho días en Jerusalén, y luego regresó a Cesarea.",
+      "verse": 6,
+      "start_ms": 39562,
+      "end_ms": 44374,
+      "duration_ms": 4812
+    },
+    {
+      "word": "Al día siguiente fue a la corte, se sentó en la silla del juez, y mandó traer a Pablo.",
+      "verse": 6,
+      "start_ms": 44375,
+      "end_ms": 50187,
+      "duration_ms": 5812
+    },
+    {
+      "word": "Cuando Pablo entró en la corte, los judíos que habían venido desde Jerusalén comenzaron a acusarlo de hacer cosas muy malas.",
+      "verse": 7,
+      "start_ms": 50187,
+      "end_ms": 57462,
+      "duration_ms": 7275
+    },
+    {
+      "word": "Pero no pudieron demostrar que eso fuera cierto.",
+      "verse": 7,
+      "start_ms": 57462,
+      "end_ms": 60824,
+      "duration_ms": 3362
+    },
+    {
+      "word": "Pablo entonces tomó la palabra para defenderse, y dijo: —Yo no he hecho nada malo contra el templo de Jerusalén, ni contra el emperador de Roma.",
+      "verse": 8,
+      "start_ms": 60825,
+      "end_ms": 69725,
+      "duration_ms": 8900
+    },
+    {
+      "word": "Tampoco he desobedecido las leyes judías.",
+      "verse": 8,
+      "start_ms": 69725,
+      "end_ms": 73275,
+      "duration_ms": 3550
+    },
+    {
+      "word": "Como Festo quería quedar bien con los judíos, le preguntó a Pablo: —¿Te gustaría ir a Jerusalén para que yo te juzgue allá?",
+      "verse": 9,
+      "start_ms": 73275,
+      "end_ms": 80850,
+      "duration_ms": 7575
+    },
+    {
+      "word": "Pablo le contestó: —El tribunal del emperador de Roma está aquí, y es aquí donde debo ser juzgado.",
+      "verse": 10,
+      "start_ms": 80850,
+      "end_ms": 87512,
+      "duration_ms": 6662
+    },
+    {
+      "word": "Usted sabe muy bien que yo no he hecho nada malo contra los judíos.",
+      "verse": 10,
+      "start_ms": 87512,
+      "end_ms": 92037,
+      "duration_ms": 4525
+    },
+    {
+      "word": "Si lo hubiera hecho, no me importaría si como castigo me mataran.",
+      "verse": 11,
+      "start_ms": 92037,
+      "end_ms": 96512,
+      "duration_ms": 4475
+    },
+    {
+      "word": "Pero si lo que ellos dicen de mí no es cierto, nadie tiene derecho de entregarme a ellos.",
+      "verse": 11,
+      "start_ms": 96512,
+      "end_ms": 102049,
+      "duration_ms": 5537
+    },
+    {
+      "word": "Yo pido que el emperador sea mi juez.",
+      "verse": 11,
+      "start_ms": 102050,
+      "end_ms": 105175,
+      "duration_ms": 3125
+    },
+    {
+      "word": "Festo se reunió con sus consejeros para hablar del asunto, y luego le dijo a Pablo: —Si quieres que el emperador sea tu juez, entonces irás a Roma.",
+      "verse": 12,
+      "start_ms": 105175,
+      "end_ms": 114150,
+      "duration_ms": 8975
+    },
+    {
+      "word": "Pasaron algunos días, y el rey Agripa y Berenice fueron a la ciudad de Cesarea para saludar al gobernador Festo.",
+      "verse": 13,
+      "start_ms": 114150,
+      "end_ms": 121162,
+      "duration_ms": 7012
+    },
+    {
+      "word": "Como Agripa y Berenice se quedaron allí varios días, Festo le contó al rey Agripa lo que pasaba con Pablo: —Tenemos aquí a un hombre que Félix dejó preso.",
+      "verse": 14,
+      "start_ms": 121162,
+      "end_ms": 130424,
+      "duration_ms": 9262
+    },
+    {
+      "word": "Cuando fui a Jerusalén, los principales sacerdotes y los líderes judíos lo acusaron formalmente.",
+      "verse": 15,
+      "start_ms": 130425,
+      "end_ms": 136575,
+      "duration_ms": 6150
+    },
+    {
+      "word": "Ellos querían que yo ordenara matarlo.",
+      "verse": 15,
+      "start_ms": 136575,
+      "end_ms": 139587,
+      "duration_ms": 3012
+    },
+    {
+      "word": "Pero les dije que nosotros, los romanos, no acostumbramos ordenar la muerte de nadie sin que esa persona tenga la oportunidad de ver a sus acusadores y defenderse.",
+      "verse": 16,
+      "start_ms": 139587,
+      "end_ms": 149237,
+      "duration_ms": 9650
+    },
+    {
+      "word": "Entonces los acusadores vinieron a Cesarea y yo, sin pensarlo mucho, al día siguiente fui al tribunal y ocupé mi puesto de juez.",
+      "verse": 17,
+      "start_ms": 149237,
+      "end_ms": 157424,
+      "duration_ms": 8187
+    },
+    {
+      "word": "Ordené que trajeran al hombre, pero no lo acusaron de nada terrible, como yo pensaba.",
+      "verse": 17,
+      "start_ms": 157425,
+      "end_ms": 163075,
+      "duration_ms": 5650
+    },
+    {
+      "word": "Lo acusaban sólo de cosas que tenían que ver con su religión, y de andar diciendo que un tal Jesús, que ya había muerto, había resucitado.",
+      "verse": 19,
+      "start_ms": 163075,
+      "end_ms": 171662,
+      "duration_ms": 8587
+    },
+    {
+      "word": "Yo no sabía qué hacer, así que le pregunté a Pablo si quería ir a Jerusalén para ser juzgado allá.",
+      "verse": 20,
+      "start_ms": 171662,
+      "end_ms": 177749,
+      "duration_ms": 6087
+    },
+    {
+      "word": "Pero él contestó que prefería quedarse preso hasta que el emperador lo juzgara.",
+      "verse": 21,
+      "start_ms": 177750,
+      "end_ms": 182500,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Entonces ordené que lo dejaran preso hasta que yo pudiera enviarlo a Roma.",
+      "verse": 21,
+      "start_ms": 182500,
+      "end_ms": 186950,
+      "duration_ms": 4450
+    },
+    {
+      "word": "Agripa le dijo a Festo: —Me gustaría escuchar a ese hombre.",
+      "verse": 22,
+      "start_ms": 186950,
+      "end_ms": 191400,
+      "duration_ms": 4450
+    },
+    {
+      "word": "Mañana mismo podrás oírlo —le contestó Festo.",
+      "verse": 22,
+      "start_ms": 191400,
+      "end_ms": 195275,
+      "duration_ms": 3875
+    },
+    {
+      "word": "Al día siguiente, Agripa y Berenice llegaron al tribunal, y con mucha pompa entraron en la sala.",
+      "verse": 23,
+      "start_ms": 195275,
+      "end_ms": 201675,
+      "duration_ms": 6400
+    },
+    {
+      "word": "Iban acompañados de los jefes del ejército y de los hombres más importantes de la ciudad.",
+      "verse": 23,
+      "start_ms": 201675,
+      "end_ms": 207037,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Festo ordenó que trajeran a Pablo, y luego dijo: —Rey Agripa, y señores que hoy nos acompañan, ¡aquí está el hombre!",
+      "verse": 23,
+      "start_ms": 207037,
+      "end_ms": 214949,
+      "duration_ms": 7912
+    },
+    {
+      "word": "Muchos judíos han venido a verme aquí, en Cesarea, y allá en Jerusalén, para acusarlo de muchas cosas.",
+      "verse": 24,
+      "start_ms": 214950,
+      "end_ms": 221987,
+      "duration_ms": 7037
+    },
+    {
+      "word": "Ellos quieren que yo ordene matarlo, pero no creo que haya hecho algo tan malo como para merecer la muerte.",
+      "verse": 24,
+      "start_ms": 221987,
+      "end_ms": 228312,
+      "duration_ms": 6325
+    },
+    {
+      "word": "Sin embargo, él ha pedido que sea el emperador quien lo juzgue, y yo he decidido enviarlo a Roma.",
+      "verse": 25,
+      "start_ms": 228312,
+      "end_ms": 234674,
+      "duration_ms": 6362
+    },
+    {
+      "word": "Pero no sé qué decirle al emperador acerca de él.",
+      "verse": 26,
+      "start_ms": 234675,
+      "end_ms": 238225,
+      "duration_ms": 3550
+    },
+    {
+      "word": "Por eso lo he traído hoy aquí, para que ustedes, y sobre todo usted, rey Agripa, le hagan preguntas.",
+      "verse": 26,
+      "start_ms": 238225,
+      "end_ms": 245412,
+      "duration_ms": 7187
+    },
+    {
+      "word": "Así sabré lo que puedo escribir en la carta que enviaré al emperador.",
+      "verse": 26,
+      "start_ms": 245412,
+      "end_ms": 249674,
+      "duration_ms": 4262
+    },
+    {
+      "word": "Porque no tendría sentido enviar a un preso sin decir de qué se le acusa.",
+      "verse": 27,
+      "start_ms": 249675,
+      "end_ms": 254000,
+      "duration_ms": 4325
+    }
+  ]
+}

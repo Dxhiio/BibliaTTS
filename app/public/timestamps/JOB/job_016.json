@@ -1,0 +1,320 @@
+{
+  "book": "JOB",
+  "chapter": 16,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 19,
+  "word_count": 25,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 26,
+      "text": "Job le contestó a Elifaz:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 26,
+      "char_end": 113,
+      "text": "Todo lo que ustedes han dicho lo he escuchado muchas veces; ¡y no fue ningún consuelo!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 113,
+      "char_end": 176,
+      "text": "¿Qué es lo que tanto les molesta? ¿Por qué no me dejan en paz?"
+    },
+    {
+      "verse": 4,
+      "label": "4-5",
+      "char_start": 176,
+      "char_end": 306,
+      "text": "Si estuvieran en mi lugar, verían que no necesito tanta palabrería. ¡Lo que necesito es que me animen, que calmen mi sufrimiento!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 306,
+      "char_end": 373,
+      "text": "¿Qué se gana con hablar? ¡Mi dolor no me deja ni tampoco se calma!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 373,
+      "char_end": 420,
+      "text": "Dios ha acabado conmigo y con toda mi familia."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 420,
+      "char_end": 519,
+      "text": "Me tiene arrinconado, se levanta y me condena; lo que ha dejado de mí es sólo un montón de huesos."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 519,
+      "char_end": 650,
+      "text": "Tan enojado está Dios conmigo que me persigue y me despedaza; me considera su enemigo. Me mira con rabia y me muestra los dientes."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 650,
+      "char_end": 727,
+      "text": "Mis enemigos se han puesto en mi contra; se burlan de mí y me dan bofetadas."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 727,
+      "char_end": 772,
+      "text": "Dios me dejó caer en manos de gente malvada."
+    },
+    {
+      "verse": 12,
+      "label": "12-14",
+      "char_start": 772,
+      "char_end": 1028,
+      "text": "Antes, yo vivía tranquilo; pero Dios me agarró por el cuello y me hizo objeto de sus ataques. Se lanzó contra mí como un guerrero y me abrió una herida tras otra, destrozándome sin ninguna compasión. ¡Regados por el suelo quedaron mi hígado y mis riñones!"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1028,
+      "char_end": 1119,
+      "text": "Me vestí con ropas ásperas, para mostrar mi angustia; ¡mi orgullo ha quedado por el suelo!"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1119,
+      "char_end": 1191,
+      "text": "De tanto llorar tengo roja la cara; mis ojos muestran profundas ojeras."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1191,
+      "char_end": 1263,
+      "text": "¿Por qué no aceptan que no soy un malvado, y que es sincera mi oración?"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1263,
+      "char_end": 1324,
+      "text": "Si acaso muero, espero que la tierra no oculte mi inocencia."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1324,
+      "char_end": 1407,
+      "text": "Yo sé que en el cielo tengo un testigo a mi favor. Allí sin duda, está mi abogado."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1407,
+      "char_end": 1471,
+      "text": "Ante Dios lloro amargamente, porque mis amigos se burlan de mí."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1471,
+      "char_end": 1521,
+      "text": "Dios me defenderá como quien defiende a un amigo."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1521,
+      "char_end": 1579,
+      "text": "En unos cuantos años estaré en la tumba, y ya no volveré."
+    }
+  ],
+  "words": [
+    {
+      "word": "Job le contestó a Elifaz: Todo lo que ustedes han dicho lo he escuchado muchas veces; ¡y no fue ningún consuelo!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7162,
+      "duration_ms": 7062
+    },
+    {
+      "word": "Qué es lo que tanto les molesta?",
+      "verse": 3,
+      "start_ms": 7112,
+      "end_ms": 9812,
+      "duration_ms": 2700
+    },
+    {
+      "word": "Por qué no me dejan en paz?",
+      "verse": 3,
+      "start_ms": 9812,
+      "end_ms": 12112,
+      "duration_ms": 2300
+    },
+    {
+      "word": "Si estuvieran en mi lugar, verían que no necesito tanta palabrería.",
+      "verse": 4,
+      "start_ms": 12112,
+      "end_ms": 16924,
+      "duration_ms": 4812
+    },
+    {
+      "word": "Lo que necesito es que me animen, que calmen mi sufrimiento!",
+      "verse": 4,
+      "start_ms": 16925,
+      "end_ms": 21050,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Qué se gana con hablar?",
+      "verse": 6,
+      "start_ms": 21050,
+      "end_ms": 23175,
+      "duration_ms": 2125
+    },
+    {
+      "word": "Mi dolor no me deja ni tampoco se calma!",
+      "verse": 6,
+      "start_ms": 23175,
+      "end_ms": 26262,
+      "duration_ms": 3087
+    },
+    {
+      "word": "Dios ha acabado conmigo y con toda mi familia.",
+      "verse": 7,
+      "start_ms": 26262,
+      "end_ms": 29987,
+      "duration_ms": 3725
+    },
+    {
+      "word": "Me tiene arrinconado, se levanta y me condena; lo que ha dejado de mí es sólo un montón de huesos.",
+      "verse": 8,
+      "start_ms": 29987,
+      "end_ms": 36562,
+      "duration_ms": 6575
+    },
+    {
+      "word": "Tan enojado está Dios conmigo que me persigue y me despedaza; me considera su enemigo.",
+      "verse": 9,
+      "start_ms": 36562,
+      "end_ms": 42212,
+      "duration_ms": 5650
+    },
+    {
+      "word": "Me mira con rabia y me muestra los dientes.",
+      "verse": 9,
+      "start_ms": 42212,
+      "end_ms": 45524,
+      "duration_ms": 3312
+    },
+    {
+      "word": "Mis enemigos se han puesto en mi contra; se burlan de mí y me dan bofetadas.",
+      "verse": 10,
+      "start_ms": 45525,
+      "end_ms": 50775,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Dios me dejó caer en manos de gente malvada.",
+      "verse": 11,
+      "start_ms": 50775,
+      "end_ms": 54175,
+      "duration_ms": 3400
+    },
+    {
+      "word": "Antes, yo vivía tranquilo; pero Dios me agarró por el cuello y me hizo objeto de sus ataques.",
+      "verse": 12,
+      "start_ms": 54175,
+      "end_ms": 60650,
+      "duration_ms": 6475
+    },
+    {
+      "word": "Se lanzó contra mí como un guerrero y me abrió una herida tras otra, destrozándome sin ninguna compasión.",
+      "verse": 12,
+      "start_ms": 60650,
+      "end_ms": 67287,
+      "duration_ms": 6637
+    },
+    {
+      "word": "Regados por el suelo quedaron mi hígado y mis riñones!",
+      "verse": 12,
+      "start_ms": 67287,
+      "end_ms": 70999,
+      "duration_ms": 3712
+    },
+    {
+      "word": "Me vestí con ropas ásperas, para mostrar mi angustia; ¡mi orgullo ha quedado por el suelo!",
+      "verse": 15,
+      "start_ms": 71000,
+      "end_ms": 76850,
+      "duration_ms": 5850
+    },
+    {
+      "word": "De tanto llorar tengo roja la cara; mis ojos muestran profundas ojeras.",
+      "verse": 16,
+      "start_ms": 76850,
+      "end_ms": 82175,
+      "duration_ms": 5325
+    },
+    {
+      "word": "Por qué no aceptan que no soy un malvado, y que es sincera mi oración?",
+      "verse": 17,
+      "start_ms": 82175,
+      "end_ms": 86750,
+      "duration_ms": 4575
+    },
+    {
+      "word": "Si acaso muero, espero que la tierra no oculte mi inocencia.",
+      "verse": 18,
+      "start_ms": 86750,
+      "end_ms": 91425,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Yo sé que en el cielo tengo un testigo a mi favor.",
+      "verse": 19,
+      "start_ms": 91425,
+      "end_ms": 94975,
+      "duration_ms": 3550
+    },
+    {
+      "word": "Allí sin duda, está mi abogado.",
+      "verse": 19,
+      "start_ms": 94975,
+      "end_ms": 97950,
+      "duration_ms": 2975
+    },
+    {
+      "word": "Ante Dios lloro amargamente, porque mis amigos se burlan de mí.",
+      "verse": 20,
+      "start_ms": 97950,
+      "end_ms": 102600,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Dios me defenderá como quien defiende a un amigo.",
+      "verse": 21,
+      "start_ms": 102600,
+      "end_ms": 106150,
+      "duration_ms": 3550
+    },
+    {
+      "word": "En unos cuantos años estaré en la tumba, y ya no volveré.",
+      "verse": 22,
+      "start_ms": 106150,
+      "end_ms": 110212,
+      "duration_ms": 4062
+    }
+  ]
+}

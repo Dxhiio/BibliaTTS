@@ -1,0 +1,152 @@
+{
+  "book": "SAL",
+  "chapter": 101,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 7,
+  "word_count": 13,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-2",
+      "char_start": 0,
+      "char_end": 191,
+      "text": "Dios mío, tú eres justo y fiel; por eso quiero cantarte himnos. ¿Cuándo vendrás a visitarme? Quiero vivir una vida correcta y demostrar en mi propio palacio que no guardo malos pensamientos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 191,
+      "char_end": 306,
+      "text": "No quiero poner los ojos en la maldad que me rodea. No quiero nada con los desobedientes. ¡Odio todo lo que hacen!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 306,
+      "char_end": 374,
+      "text": "Me alejaré de los malos pensamientos y no participaré en nada malo."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 374,
+      "char_end": 513,
+      "text": "Destruiré por completo al que hable mal de su amigo; no soportaré a mi lado al que se crea más importante y más inteligente que los demás."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 513,
+      "char_end": 626,
+      "text": "Pero sí me juntaré con la gente obediente de este país; sólo estará a mi servicio quien lleve una vida correcta."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 626,
+      "char_end": 718,
+      "text": "¡Ningún mentiroso podrá vivir bajo mi techo! ¡Ningún hipócrita podrá estar en mi presencia!"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 718,
+      "char_end": 848,
+      "text": "¡Arrojaré de la ciudad de Dios a todos los malhechores! ¡No pasará un solo día sin que yo destruya a todos los malvados del país!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios mío, tú eres justo y fiel; por eso quiero cantarte himnos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5175,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Cuándo vendrás a visitarme?",
+      "verse": 1,
+      "start_ms": 5125,
+      "end_ms": 7525,
+      "duration_ms": 2400
+    },
+    {
+      "word": "Quiero vivir una vida correcta y demostrar en mi propio palacio que no guardo malos pensamientos.",
+      "verse": 1,
+      "start_ms": 7525,
+      "end_ms": 13387,
+      "duration_ms": 5862
+    },
+    {
+      "word": "No quiero poner los ojos en la maldad que me rodea.",
+      "verse": 3,
+      "start_ms": 13387,
+      "end_ms": 16849,
+      "duration_ms": 3462
+    },
+    {
+      "word": "No quiero nada con los desobedientes.",
+      "verse": 3,
+      "start_ms": 16850,
+      "end_ms": 19825,
+      "duration_ms": 2975
+    },
+    {
+      "word": "Odio todo lo que hacen!",
+      "verse": 3,
+      "start_ms": 19825,
+      "end_ms": 22037,
+      "duration_ms": 2212
+    },
+    {
+      "word": "Me alejaré de los malos pensamientos y no participaré en nada malo.",
+      "verse": 4,
+      "start_ms": 22037,
+      "end_ms": 26524,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Destruiré por completo al que hable mal de su amigo; no soportaré a mi lado al que se crea más importante y más inteligente que los demás.",
+      "verse": 5,
+      "start_ms": 26525,
+      "end_ms": 34850,
+      "duration_ms": 8325
+    },
+    {
+      "word": "Pero sí me juntaré con la gente obediente de este país; sólo estará a mi servicio quien lleve una vida correcta.",
+      "verse": 6,
+      "start_ms": 34850,
+      "end_ms": 41837,
+      "duration_ms": 6987
+    },
+    {
+      "word": "Ningún mentiroso podrá vivir bajo mi techo!",
+      "verse": 7,
+      "start_ms": 41837,
+      "end_ms": 45174,
+      "duration_ms": 3337
+    },
+    {
+      "word": "Ningún hipócrita podrá estar en mi presencia!",
+      "verse": 7,
+      "start_ms": 45175,
+      "end_ms": 48462,
+      "duration_ms": 3287
+    },
+    {
+      "word": "Arrojaré de la ciudad de Dios a todos los malhechores!",
+      "verse": 8,
+      "start_ms": 48462,
+      "end_ms": 52287,
+      "duration_ms": 3825
+    },
+    {
+      "word": "No pasará un solo día sin que yo destruya a todos los malvados del país!",
+      "verse": 8,
+      "start_ms": 52287,
+      "end_ms": 57024,
+      "duration_ms": 4737
+    }
+  ]
+}

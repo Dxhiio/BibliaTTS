@@ -1,0 +1,740 @@
+{
+  "book": "1SA",
+  "chapter": 25,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 35,
+  "word_count": 69,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 195,
+      "text": "Cuando Samuel murió, todos los israelitas se reunieron para llorar su muerte y sepultarlo en Ramá, que era la ciudad donde había nacido. Después del entierro, David regresó al desierto de Parán."
+    },
+    {
+      "verse": 2,
+      "label": "2-3",
+      "char_start": 195,
+      "char_end": 484,
+      "text": "En Maón vivía un hombre de la familia de Caleb. Se llamaba Nabal, y era muy rico, pues tenía propiedades en Carmel y era dueño de tres mil ovejas y mil cabras. Pero también era muy grosero y maleducado. En cambio su esposa, que se llamaba Abigail, era una mujer muy inteligente y hermosa."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 484,
+      "char_end": 555,
+      "text": "David supo que Nabal estaba en Carmel, cortando la lana de sus ovejas,"
+    },
+    {
+      "verse": 5,
+      "label": "5-6",
+      "char_start": 555,
+      "char_end": 745,
+      "text": "así que envió a diez de sus ayudantes para que saludaran a Nabal y le dijeran de su parte: Que Dios te bendiga, y que siempre le vaya bien a tu familia. Que cada día tengas más propiedades."
+    },
+    {
+      "verse": 7,
+      "label": "7-8",
+      "char_start": 745,
+      "char_end": 1160,
+      "text": "Aquí, en Carmel, tus pastores han estado entre nosotros, y nunca les hemos hecho ningún daño ni les hemos robado nada. Pregúntales y verás que digo la verdad. Me he enterado de que tus pastores están cortándoles la lana a tus ovejas, y que por eso estás haciendo fiesta. Yo te ruego que nos des lo que sea tu voluntad. Te lo piden humildemente estos servidores tuyos, y también yo, David, que me considero tu hijo."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1160,
+      "char_end": 1222,
+      "text": "Los ayudantes que envió David le dieron a Nabal este mensaje,"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1222,
+      "char_end": 1348,
+      "text": "pero él les contestó: ¿Y quién es ese David, hijo de Jesé? ¡Seguramente ha de ser uno de esos esclavos que huyen de sus amos!"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1348,
+      "char_end": 1451,
+      "text": "¿Por qué le voy a dar la comida que preparé para mis trabajadores a gente que no sé ni de dónde viene?"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1451,
+      "char_end": 1525,
+      "text": "Los ayudantes regresaron a donde estaba David, y le contaron lo sucedido."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1525,
+      "char_end": 1739,
+      "text": "Entonces David les dijo a sus hombres: Preparen sus espadas. Y tomando sus espadas, David y cuatrocientos de sus hombres se fueron a atacar a Nabal, mientras doscientos de ellos se quedaban a cuidar lo que tenían."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1739,
+      "char_end": 1894,
+      "text": "Uno de los sirvientes de Nabal fue a decirle a Abigail, su esposa: David envió unos mensajeros a nuestro amo, con un saludo amistoso. Pero él los insultó,"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1894,
+      "char_end": 2055,
+      "text": "a pesar de que ellos han sido muy buenos con nosotros. Todo el tiempo que hemos estado con ellos en los campos, nunca nos han maltratado ni nos han robado nada."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2055,
+      "char_end": 2096,
+      "text": "Al contrario, siempre nos han protegido."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2096,
+      "char_end": 2238,
+      "text": "Nuestro amo Nabal es tan malo que nadie se atreve a decirle nada. Y David ya decidió atacarnos a todos nosotros. ¡Por favor, haga usted algo!"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2238,
+      "char_end": 2507,
+      "text": "Abigail no perdió tiempo. De inmediato le envió a David doscientos panes, dos recipientes de cuero llenos de vino, cinco ovejas asadas, cuarenta kilos de grano tostado, cien racimos de pasas y doscientos panes de higo. Toda esta comida la cargó Abigail en unas burras,"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2507,
+      "char_end": 2606,
+      "text": "y le dijo a sus sirvientes: Adelántense ustedes, que yo iré después. Sin decirle nada a su esposo,"
+    },
+    {
+      "verse": 20,
+      "label": "20-22",
+      "char_start": 2606,
+      "char_end": 3053,
+      "text": "Abigail se montó en un burro y empezó a bajar del cerro. También David y sus hombres venían bajando del cerro. Y David les dijo: De nada nos ha servido cuidar en el desierto las ovejas de ese hombre. Nunca le he pedido nada y, sin embargo, me ha pagado mal el bien que le he hecho. ¡Que Dios me castigue duramente si antes de que amanezca no he matado a Nabal y a todos sus hombres! En ese momento, David y sus hombres se encontraron con Abigail."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3053,
+      "char_end": 3122,
+      "text": "Cuando ella lo vio, se bajó del burro y se inclinó de cara al suelo,"
+    },
+    {
+      "verse": 24,
+      "label": "24-26",
+      "char_start": 3122,
+      "char_end": 3635,
+      "text": "y echándose a los pies de David le dijo: —Señor mío, por favor, ¡escuche usted mis palabras, aunque no soy más que una simple sirvienta suya! ¡No le dé usted importancia a las groserías de Nabal! ¡Su nombre significa «estúpido», y en verdad lo es! ¡Yo tengo la culpa de todo! Y la tengo, señor mío, porque no vi a los mensajeros que usted envió. Pero Dios no permitirá que usted se desquite matando a gente inocente. Yo le pido a Dios que castigue a los enemigos de usted del mismo modo que será castigado Nabal."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3635,
+      "char_end": 3708,
+      "text": "Por favor, acepte la comida que he traído para usted y para sus hombres,"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3708,
+      "char_end": 3905,
+      "text": "y perdone mis errores. Usted sólo lucha cuando Dios se lo manda; estoy segura de que Dios hará que todos los descendientes de usted reinen en Israel. Por eso, ni ahora ni nunca haga usted lo malo."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3905,
+      "char_end": 4093,
+      "text": "Cuando alguien lo persiga y quiera matarlo, Dios lo cuidará y usted estará seguro. Pero a quienes quieran matarlo, Dios los arrojará lejos, como cuando se arroja una piedra con una honda."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4093,
+      "char_end": 4193,
+      "text": "Usted, mi señor, será el líder de Israel, pues Dios le cumplirá todas las promesas que le ha hecho."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4193,
+      "char_end": 4379,
+      "text": "Cuando eso suceda, usted no se sentirá culpable de haber matado a gente inocente, ni triste por haberse desquitado. Cuando todo esto suceda, acuérdese usted de mí, que soy su servidora."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4379,
+      "char_end": 4450,
+      "text": "David le contestó: —¡Bendito sea el Dios de Israel, que te envío a mí!"
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4450,
+      "char_end": 4560,
+      "text": "¡Y bendita seas tú, por ser tan inteligente y por no dejar que yo mismo me vengara y matara a gente inocente!"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4560,
+      "char_end": 4755,
+      "text": "Si no hubieras venido a verme, te juro por Dios que para mañana no habría quedado vivo un solo hombre de la familia de Nabal. ¡Qué bueno que el Dios de Israel no permitió que yo te hiciera daño!"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4755,
+      "char_end": 4876,
+      "text": "David aceptó la comida que Abigail le había traído, y le dijo: —Puedes irte tranquila, que yo haré lo que me has pedido."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4876,
+      "char_end": 5030,
+      "text": "Cuando Abigail regresó a su casa, encontró a Nabal muy contento y completamente borracho. Por eso no le contó hasta el día siguiente lo que había pasado."
+    },
+    {
+      "verse": 37,
+      "label": "37-38",
+      "char_start": 5030,
+      "char_end": 5280,
+      "text": "Por la mañana, cuando a Nabal ya se le había pasado la borrachera, su esposa le contó lo sucedido. En ese momento, Dios hizo que Nabal tuviera un ataque al corazón, y Nabal se quedó tieso como una piedra. Diez días después, tuvo otro ataque y murió."
+    },
+    {
+      "verse": 39,
+      "label": "39-40",
+      "char_start": 5280,
+      "char_end": 5585,
+      "text": "Cuando David se enteró de que Nabal había muerto, dijo: ¡Bendito sea Dios, que castigó a Nabal! Se vengó por lo que me hizo, y no dejó que yo mismo lo castigara. Luego, David envió algunos de sus ayudantes a Carmel, para que le dijeran a Abigail: David nos manda a pedirle que acepte usted ser su esposa."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 5585,
+      "char_end": 5775,
+      "text": "Al oír esto, Abigail se inclinó de cara al suelo, y dijo: Yo estoy para servir a mi señor David, y para hacer lo que él me ordene. ¡Incluso estoy dispuesta a lavar los pies de sus esclavos!"
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 5775,
+      "char_end": 5937,
+      "text": "Después de haber dicho esto, se preparó rápidamente y, acompañada de cinco sirvientas, montó en un burro y se fue tras los enviados de David para casarse con él."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 5937,
+      "char_end": 6055,
+      "text": "David tuvo dos esposas, pues además de casarse con Abigail se casó también con una mujer de Jezreel, llamada Ahinóam."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 6055,
+      "char_end": 6171,
+      "text": "Aunque Mical había sido esposa de David, más tarde Saúl le ordenó casarse con Paltí hijo de Lais, que era de Galim."
+    }
+  ],
+  "words": [
+    {
+      "word": "Cuando Samuel murió, todos los israelitas se reunieron para llorar su muerte y sepultarlo en Ramá, que era la ciudad donde había nacido.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 8112,
+      "duration_ms": 8012
+    },
+    {
+      "word": "Después del entierro, David regresó al desierto de Parán.",
+      "verse": 1,
+      "start_ms": 8062,
+      "end_ms": 12274,
+      "duration_ms": 4212
+    },
+    {
+      "word": "En Maón vivía un hombre de la familia de Caleb.",
+      "verse": 2,
+      "start_ms": 12275,
+      "end_ms": 15687,
+      "duration_ms": 3412
+    },
+    {
+      "word": "Se llamaba Nabal, y era muy rico, pues tenía propiedades en Carmel y era dueño de tres mil ovejas y mil cabras.",
+      "verse": 2,
+      "start_ms": 15687,
+      "end_ms": 23074,
+      "duration_ms": 7387
+    },
+    {
+      "word": "Pero también era muy grosero y maleducado.",
+      "verse": 2,
+      "start_ms": 23075,
+      "end_ms": 26325,
+      "duration_ms": 3250
+    },
+    {
+      "word": "En cambio su esposa, que se llamaba Abigail, era una mujer muy inteligente y hermosa.",
+      "verse": 2,
+      "start_ms": 26325,
+      "end_ms": 32375,
+      "duration_ms": 6050
+    },
+    {
+      "word": "David supo que Nabal estaba en Carmel, cortando la lana de sus ovejas, así que envió a diez de sus ayudantes para que saludaran a Nabal y le dijeran de su parte: Que Dios te bendiga, y que siempre le vaya bien a tu familia.",
+      "verse": 4,
+      "start_ms": 32375,
+      "end_ms": 45275,
+      "duration_ms": 12900
+    },
+    {
+      "word": "Que cada día tengas más propiedades.",
+      "verse": 5,
+      "start_ms": 45275,
+      "end_ms": 48425,
+      "duration_ms": 3150
+    },
+    {
+      "word": "Aquí, en Carmel, tus pastores han estado entre nosotros, y nunca les hemos hecho ningún daño ni les hemos robado nada.",
+      "verse": 7,
+      "start_ms": 48425,
+      "end_ms": 56237,
+      "duration_ms": 7812
+    },
+    {
+      "word": "Pregúntales y verás que digo la verdad.",
+      "verse": 7,
+      "start_ms": 56237,
+      "end_ms": 59287,
+      "duration_ms": 3050
+    },
+    {
+      "word": "Me he enterado de que tus pastores están cortándoles la lana a tus ovejas, y que por eso estás haciendo fiesta.",
+      "verse": 7,
+      "start_ms": 59287,
+      "end_ms": 66224,
+      "duration_ms": 6937
+    },
+    {
+      "word": "Yo te ruego que nos des lo que sea tu voluntad.",
+      "verse": 7,
+      "start_ms": 66225,
+      "end_ms": 69550,
+      "duration_ms": 3325
+    },
+    {
+      "word": "Te lo piden humildemente estos servidores tuyos, y también yo, David, que me considero tu hijo.",
+      "verse": 7,
+      "start_ms": 69550,
+      "end_ms": 76487,
+      "duration_ms": 6937
+    },
+    {
+      "word": "Los ayudantes que envió David le dieron a Nabal este mensaje, pero él les contestó: ¿Y quién es ese David, hijo de Jesé?",
+      "verse": 9,
+      "start_ms": 76487,
+      "end_ms": 84274,
+      "duration_ms": 7787
+    },
+    {
+      "word": "Seguramente ha de ser uno de esos esclavos que huyen de sus amos!",
+      "verse": 10,
+      "start_ms": 84275,
+      "end_ms": 88662,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Por qué le voy a dar la comida que preparé para mis trabajadores a gente que no sé ni de dónde viene?",
+      "verse": 11,
+      "start_ms": 88662,
+      "end_ms": 94512,
+      "duration_ms": 5850
+    },
+    {
+      "word": "Los ayudantes regresaron a donde estaba David, y le contaron lo sucedido.",
+      "verse": 12,
+      "start_ms": 94512,
+      "end_ms": 99499,
+      "duration_ms": 4987
+    },
+    {
+      "word": "Entonces David les dijo a sus hombres: Preparen sus espadas.",
+      "verse": 13,
+      "start_ms": 99500,
+      "end_ms": 104062,
+      "duration_ms": 4562
+    },
+    {
+      "word": "Y tomando sus espadas, David y cuatrocientos de sus hombres se fueron a atacar a Nabal, mientras doscientos de ellos se quedaban a cuidar lo que tenían.",
+      "verse": 13,
+      "start_ms": 104062,
+      "end_ms": 112574,
+      "duration_ms": 8512
+    },
+    {
+      "word": "Uno de los sirvientes de Nabal fue a decirle a Abigail, su esposa: David envió unos mensajeros a nuestro amo, con un saludo amistoso.",
+      "verse": 14,
+      "start_ms": 112575,
+      "end_ms": 121175,
+      "duration_ms": 8600
+    },
+    {
+      "word": "Pero él los insultó, a pesar de que ellos han sido muy buenos con nosotros.",
+      "verse": 14,
+      "start_ms": 121175,
+      "end_ms": 126337,
+      "duration_ms": 5162
+    },
+    {
+      "word": "Todo el tiempo que hemos estado con ellos en los campos, nunca nos han maltratado ni nos han robado nada.",
+      "verse": 15,
+      "start_ms": 126337,
+      "end_ms": 132649,
+      "duration_ms": 6312
+    },
+    {
+      "word": "Al contrario, siempre nos han protegido.",
+      "verse": 16,
+      "start_ms": 132650,
+      "end_ms": 135912,
+      "duration_ms": 3262
+    },
+    {
+      "word": "Nuestro amo Nabal es tan malo que nadie se atreve a decirle nada.",
+      "verse": 17,
+      "start_ms": 135912,
+      "end_ms": 140149,
+      "duration_ms": 4237
+    },
+    {
+      "word": "Y David ya decidió atacarnos a todos nosotros.",
+      "verse": 17,
+      "start_ms": 140150,
+      "end_ms": 144012,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Por favor, haga usted algo!",
+      "verse": 17,
+      "start_ms": 144012,
+      "end_ms": 146637,
+      "duration_ms": 2625
+    },
+    {
+      "word": "Abigail no perdió tiempo.",
+      "verse": 18,
+      "start_ms": 146637,
+      "end_ms": 149099,
+      "duration_ms": 2462
+    },
+    {
+      "word": "De inmediato le envió a David doscientos panes, dos recipientes de cuero llenos de vino, cinco ovejas asadas, cuarenta kilos de grano tostado, cien racimos de pasas y doscientos panes de higo.",
+      "verse": 18,
+      "start_ms": 149100,
+      "end_ms": 161000,
+      "duration_ms": 11900
+    },
+    {
+      "word": "Toda esta comida la cargó Abigail en unas burras, y le dijo a sus sirvientes: Adelántense ustedes, que yo iré después.",
+      "verse": 18,
+      "start_ms": 161000,
+      "end_ms": 169150,
+      "duration_ms": 8150
+    },
+    {
+      "word": "Sin decirle nada a su esposo, Abigail se montó en un burro y empezó a bajar del cerro.",
+      "verse": 19,
+      "start_ms": 169150,
+      "end_ms": 175012,
+      "duration_ms": 5862
+    },
+    {
+      "word": "También David y sus hombres venían bajando del cerro.",
+      "verse": 20,
+      "start_ms": 175012,
+      "end_ms": 178774,
+      "duration_ms": 3762
+    },
+    {
+      "word": "Y David les dijo: De nada nos ha servido cuidar en el desierto las ovejas de ese hombre.",
+      "verse": 20,
+      "start_ms": 178775,
+      "end_ms": 184600,
+      "duration_ms": 5825
+    },
+    {
+      "word": "Nunca le he pedido nada y, sin embargo, me ha pagado mal el bien que le he hecho.",
+      "verse": 20,
+      "start_ms": 184600,
+      "end_ms": 190287,
+      "duration_ms": 5687
+    },
+    {
+      "word": "Que Dios me castigue duramente si antes de que amanezca no he matado a Nabal y a todos sus hombres!",
+      "verse": 20,
+      "start_ms": 190287,
+      "end_ms": 196012,
+      "duration_ms": 5725
+    },
+    {
+      "word": "En ese momento, David y sus hombres se encontraron con Abigail.",
+      "verse": 20,
+      "start_ms": 196012,
+      "end_ms": 200337,
+      "duration_ms": 4325
+    },
+    {
+      "word": "Cuando ella lo vio, se bajó del burro y se inclinó de cara al suelo, y echándose a los pies de David le dijo: —Señor mío, por favor, ¡escuche usted mis palabras, aunque no soy más que una simple sirvienta suya!",
+      "verse": 23,
+      "start_ms": 200337,
+      "end_ms": 213524,
+      "duration_ms": 13187
+    },
+    {
+      "word": "No le dé usted importancia a las groserías de Nabal!",
+      "verse": 24,
+      "start_ms": 213525,
+      "end_ms": 217225,
+      "duration_ms": 3700
+    },
+    {
+      "word": "Su nombre significa «estúpido», y en verdad lo es!",
+      "verse": 24,
+      "start_ms": 217225,
+      "end_ms": 221225,
+      "duration_ms": 4000
+    },
+    {
+      "word": "Yo tengo la culpa de todo!",
+      "verse": 24,
+      "start_ms": 221225,
+      "end_ms": 223637,
+      "duration_ms": 2412
+    },
+    {
+      "word": "Y la tengo, señor mío, porque no vi a los mensajeros que usted envió.",
+      "verse": 24,
+      "start_ms": 223637,
+      "end_ms": 228587,
+      "duration_ms": 4950
+    },
+    {
+      "word": "Pero Dios no permitirá que usted se desquite matando a gente inocente.",
+      "verse": 24,
+      "start_ms": 228587,
+      "end_ms": 233149,
+      "duration_ms": 4562
+    },
+    {
+      "word": "Yo le pido a Dios que castigue a los enemigos de usted del mismo modo que será castigado Nabal.",
+      "verse": 24,
+      "start_ms": 233150,
+      "end_ms": 238787,
+      "duration_ms": 5637
+    },
+    {
+      "word": "Por favor, acepte la comida que he traído para usted y para sus hombres, y perdone mis errores.",
+      "verse": 27,
+      "start_ms": 238787,
+      "end_ms": 245124,
+      "duration_ms": 6337
+    },
+    {
+      "word": "Usted sólo lucha cuando Dios se lo manda; estoy segura de que Dios hará que todos los descendientes de usted reinen en Israel.",
+      "verse": 28,
+      "start_ms": 245125,
+      "end_ms": 252512,
+      "duration_ms": 7387
+    },
+    {
+      "word": "Por eso, ni ahora ni nunca haga usted lo malo.",
+      "verse": 28,
+      "start_ms": 252512,
+      "end_ms": 256249,
+      "duration_ms": 3737
+    },
+    {
+      "word": "Cuando alguien lo persiga y quiera matarlo, Dios lo cuidará y usted estará seguro.",
+      "verse": 29,
+      "start_ms": 256250,
+      "end_ms": 261550,
+      "duration_ms": 5300
+    },
+    {
+      "word": "Pero a quienes quieran",
+      "verse": 29,
+      "start_ms": 261550,
+      "end_ms": 263500,
+      "duration_ms": 1950
+    },
+    {
+      "word": "matarlo, Dios los arrojará lejos, como cuando se arroja una piedra con una honda.",
+      "verse": 29,
+      "start_ms": 263668,
+      "end_ms": 269593,
+      "duration_ms": 5925
+    },
+    {
+      "word": "Usted, mi señor, será el líder de Israel, pues Dios le cumplirá todas las promesas que le ha hecho.",
+      "verse": 30,
+      "start_ms": 269543,
+      "end_ms": 276443,
+      "duration_ms": 6900
+    },
+    {
+      "word": "Cuando eso suceda, usted no se sentirá culpable de haber matado a gente inocente, ni triste por haberse desquitado.",
+      "verse": 31,
+      "start_ms": 276443,
+      "end_ms": 283793,
+      "duration_ms": 7350
+    },
+    {
+      "word": "Cuando todo esto suceda, acuérdese usted de mí, que soy su servidora.",
+      "verse": 31,
+      "start_ms": 283793,
+      "end_ms": 288905,
+      "duration_ms": 5112
+    },
+    {
+      "word": "David le contestó: —¡Bendito sea el Dios de Israel, que te envío a mí!",
+      "verse": 32,
+      "start_ms": 288905,
+      "end_ms": 293767,
+      "duration_ms": 4862
+    },
+    {
+      "word": "Y bendita seas tú, por ser tan inteligente y por no dejar que yo mismo me vengara y matara a gente inocente!",
+      "verse": 33,
+      "start_ms": 293768,
+      "end_ms": 300730,
+      "duration_ms": 6962
+    },
+    {
+      "word": "Si no hubieras venido a verme, te juro por Dios que para mañana no habría quedado vivo un solo hombre de la familia de Nabal.",
+      "verse": 34,
+      "start_ms": 300730,
+      "end_ms": 307867,
+      "duration_ms": 7137
+    },
+    {
+      "word": "Qué bueno que el Dios de Israel no permitió que yo te hiciera daño!",
+      "verse": 34,
+      "start_ms": 307868,
+      "end_ms": 311905,
+      "duration_ms": 4037
+    },
+    {
+      "word": "David aceptó la comida que Abigail le había traído, y le dijo: —Puedes irte tranquila, que yo haré lo que me has pedido.",
+      "verse": 35,
+      "start_ms": 311905,
+      "end_ms": 319705,
+      "duration_ms": 7800
+    },
+    {
+      "word": "Cuando Abigail regresó a su casa, encontró a Nabal muy contento y completamente borracho.",
+      "verse": 36,
+      "start_ms": 319705,
+      "end_ms": 325517,
+      "duration_ms": 5812
+    },
+    {
+      "word": "Por eso no le contó hasta el día siguiente lo que había pasado.",
+      "verse": 36,
+      "start_ms": 325518,
+      "end_ms": 329380,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Por la mañana, cuando a Nabal ya se le había pasado la borrachera, su esposa le contó lo sucedido.",
+      "verse": 37,
+      "start_ms": 329380,
+      "end_ms": 335742,
+      "duration_ms": 6362
+    },
+    {
+      "word": "En ese momento, Dios hizo que Nabal tuviera un ataque al corazón, y Nabal se quedó tieso como una piedra.",
+      "verse": 37,
+      "start_ms": 335743,
+      "end_ms": 342655,
+      "duration_ms": 6912
+    },
+    {
+      "word": "Diez días después, tuvo otro ataque y murió.",
+      "verse": 37,
+      "start_ms": 342655,
+      "end_ms": 346342,
+      "duration_ms": 3687
+    },
+    {
+      "word": "Cuando David se enteró de que Nabal había muerto, dijo: ¡Bendito sea Dios, que castigó a Nabal!",
+      "verse": 39,
+      "start_ms": 346343,
+      "end_ms": 352768,
+      "duration_ms": 6425
+    },
+    {
+      "word": "Se vengó por lo que me hizo, y no dejó que yo mismo lo castigara.",
+      "verse": 39,
+      "start_ms": 352768,
+      "end_ms": 357343,
+      "duration_ms": 4575
+    },
+    {
+      "word": "Luego, David envió algunos de sus ayudantes a Carmel, para que le dijeran a Abigail: David nos manda a pedirle que acepte usted ser su esposa.",
+      "verse": 39,
+      "start_ms": 357343,
+      "end_ms": 366330,
+      "duration_ms": 8987
+    },
+    {
+      "word": "Al oír esto, Abigail se inclinó de cara al suelo, y dijo: Yo estoy para servir a mi señor David, y para hacer lo que él me ordene.",
+      "verse": 41,
+      "start_ms": 366330,
+      "end_ms": 374992,
+      "duration_ms": 8662
+    },
+    {
+      "word": "Incluso estoy dispuesta a lavar los pies de sus esclavos!",
+      "verse": 41,
+      "start_ms": 374993,
+      "end_ms": 378943,
+      "duration_ms": 3950
+    },
+    {
+      "word": "Después de haber dicho esto, se preparó rápidamente y, acompañada de cinco sirvientas, montó en un burro y se fue tras los enviados de David para casarse con él.",
+      "verse": 42,
+      "start_ms": 378943,
+      "end_ms": 388955,
+      "duration_ms": 10012
+    },
+    {
+      "word": "David tuvo dos esposas, pues además de casarse con Abigail se casó también con una mujer de Jezreel, llamada Ahinóam.",
+      "verse": 43,
+      "start_ms": 388955,
+      "end_ms": 396905,
+      "duration_ms": 7950
+    },
+    {
+      "word": "Aunque Mical había sido esposa de David, más tarde Saúl le ordenó casarse con Paltí hijo de Lais, que era de Galim.",
+      "verse": 44,
+      "start_ms": 396905,
+      "end_ms": 404305,
+      "duration_ms": 7400
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "book": "PRO",
+  "chapter": 26,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 28,
+  "word_count": 29,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 108,
+      "text": "No es posible imaginar que caiga nieve en la selva ni que llueva en el desierto ni que se alabe a un tonto."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 108,
+      "char_end": 178,
+      "text": "La maldición sin motivo jamás surte efecto; es como un ave sin rumbo."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 178,
+      "char_end": 258,
+      "text": "Para el caballo, el látigo; para el burro, el freno; para el necio, el garrote."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 258,
+      "char_end": 325,
+      "text": "No te pongas al nivel del necio, o resultará que el necio eres tú."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 325,
+      "char_end": 382,
+      "text": "Pon al tonto en su lugar, para que no se crea muy sabio."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 382,
+      "char_end": 450,
+      "text": "Enviar como mensajero a un tonto da lo mismo que no enviar a nadie."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 450,
+      "char_end": 545,
+      "text": "Dime de qué sirve que el tonto diga proverbios, y te diré de qué sirve una carreta sin bueyes."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 545,
+      "char_end": 624,
+      "text": "Dime de qué sirve alabar al tonto, y te diré de qué sirve un arco sin flechas."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 624,
+      "char_end": 712,
+      "text": "Un proverbio en labios de un tonto es lo mismo que un cuchillo en manos de un borracho."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 712,
+      "char_end": 804,
+      "text": "Tan peligroso es que lances piedras al aire, como que a un tonto le des trabajo en tu casa."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 804,
+      "char_end": 867,
+      "text": "El perro vuelve a su vómito, y el necio insiste en su necedad."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 867,
+      "char_end": 958,
+      "text": "Más puede esperarse de quien reconoce que es tonto, que de un tonto que se cree muy sabio."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 958,
+      "char_end": 1041,
+      "text": "El perezoso pone como pretexto que en la calle hay leones que se lo quieren comer."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1041,
+      "char_end": 1132,
+      "text": "¿En qué se parece el perezoso a la puerta? ¡En que los dos se mueven, pero ninguno avanza!"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1132,
+      "char_end": 1182,
+      "text": "Al que es perezoso hasta comer le cuesta trabajo."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1182,
+      "char_end": 1246,
+      "text": "El perezoso se cree muy sabio; piensa que no hay nadie como él."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1246,
+      "char_end": 1345,
+      "text": "Tan peligroso resulta meterse en pleitos ajenos, como querer agarrar por la cola a un perro bravo."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1345,
+      "char_end": 1382,
+      "text": "Como loco que lanza piedras al aire,"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1382,
+      "char_end": 1436,
+      "text": "es quien engaña al amigo y dice que estaba bromeando."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1436,
+      "char_end": 1528,
+      "text": "El fuego se apaga si no se le echa más leña, y el pleito se acaba si no siguen los chismes."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1528,
+      "char_end": 1632,
+      "text": "¿En qué se parecen la leña y el peleador? En que la leña aviva el fuego, y el peleador aviva el pleito."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1632,
+      "char_end": 1693,
+      "text": "Los chismes son muy sabrosos, pero también hacen mucho daño."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1693,
+      "char_end": 1777,
+      "text": "Los piropos del malvado son tan engañosos como una olla de barro cubierta de plata."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1777,
+      "char_end": 1832,
+      "text": "El que esconde sus rencores, en el fondo es mentiroso."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1832,
+      "char_end": 1908,
+      "text": "No creas lo que te diga, pues te habla con dulzura pero busca hacerte daño."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 1908,
+      "char_end": 1969,
+      "text": "Miente al decir que te quiere, pues todos saben que te odia."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 1969,
+      "char_end": 2068,
+      "text": "No abras zanjas si no quieres caer en ellas, ni hagas rodar piedras si no quieres que te aplasten."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2068,
+      "char_end": 2148,
+      "text": "Quien miente, no se quiere a sí mismo; quien a todos alaba, se busca problemas."
+    }
+  ],
+  "words": [
+    {
+      "word": "No es posible imaginar que caiga nieve en la selva ni que llueva en el desierto ni que se alabe a un tonto.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6312,
+      "duration_ms": 6212
+    },
+    {
+      "word": "La maldición sin motivo jamás surte efecto; es como un ave sin rumbo.",
+      "verse": 2,
+      "start_ms": 6262,
+      "end_ms": 11374,
+      "duration_ms": 5112
+    },
+    {
+      "word": "Para el caballo, el látigo; para el burro, el freno; para el necio, el garrote.",
+      "verse": 3,
+      "start_ms": 11375,
+      "end_ms": 17462,
+      "duration_ms": 6087
+    },
+    {
+      "word": "No te pongas al nivel del necio, o resultará que el necio eres tú.",
+      "verse": 4,
+      "start_ms": 17462,
+      "end_ms": 22112,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Pon al tonto en su lugar, para que no se crea muy sabio.",
+      "verse": 5,
+      "start_ms": 22112,
+      "end_ms": 26099,
+      "duration_ms": 3987
+    },
+    {
+      "word": "Enviar como mensajero a un tonto da lo mismo que no enviar a nadie.",
+      "verse": 6,
+      "start_ms": 26100,
+      "end_ms": 30537,
+      "duration_ms": 4437
+    },
+    {
+      "word": "Dime de qué sirve que el tonto diga proverbios, y te diré de qué sirve una carreta sin bueyes.",
+      "verse": 7,
+      "start_ms": 30537,
+      "end_ms": 36849,
+      "duration_ms": 6312
+    },
+    {
+      "word": "Dime de qué sirve alabar al tonto, y te diré de qué sirve un arco sin flechas.",
+      "verse": 8,
+      "start_ms": 36850,
+      "end_ms": 42362,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Un proverbio en labios de un tonto es lo mismo que un cuchillo en manos de un borracho.",
+      "verse": 9,
+      "start_ms": 42362,
+      "end_ms": 47462,
+      "duration_ms": 5100
+    },
+    {
+      "word": "Tan peligroso es que lances piedras al aire, como que a un tonto le des trabajo en tu casa.",
+      "verse": 10,
+      "start_ms": 47462,
+      "end_ms": 53124,
+      "duration_ms": 5662
+    },
+    {
+      "word": "El perro vuelve a su vómito, y el necio insiste en su necedad.",
+      "verse": 11,
+      "start_ms": 53125,
+      "end_ms": 57537,
+      "duration_ms": 4412
+    },
+    {
+      "word": "Más puede esperarse de quien reconoce que es tonto, que de un tonto que se cree muy sabio.",
+      "verse": 12,
+      "start_ms": 57537,
+      "end_ms": 63137,
+      "duration_ms": 5600
+    },
+    {
+      "word": "El perezoso pone como pretexto que en la calle hay leones que se lo quieren comer.",
+      "verse": 13,
+      "start_ms": 63137,
+      "end_ms": 68162,
+      "duration_ms": 5025
+    },
+    {
+      "word": "En qué se parece el perezoso a la puerta?",
+      "verse": 14,
+      "start_ms": 68162,
+      "end_ms": 71212,
+      "duration_ms": 3050
+    },
+    {
+      "word": "En que los dos se mueven, pero ninguno avanza!",
+      "verse": 14,
+      "start_ms": 71212,
+      "end_ms": 74649,
+      "duration_ms": 3437
+    },
+    {
+      "word": "Al que es perezoso hasta comer le cuesta trabajo.",
+      "verse": 15,
+      "start_ms": 74650,
+      "end_ms": 78225,
+      "duration_ms": 3575
+    },
+    {
+      "word": "El perezoso se cree muy sabio; piensa que no hay nadie como él.",
+      "verse": 16,
+      "start_ms": 78225,
+      "end_ms": 82762,
+      "duration_ms": 4537
+    },
+    {
+      "word": "Tan peligroso resulta meterse en pleitos ajenos, como querer agarrar por la cola a un perro bravo.",
+      "verse": 17,
+      "start_ms": 82762,
+      "end_ms": 89262,
+      "duration_ms": 6500
+    },
+    {
+      "word": "Como loco que lanza piedras al aire, es quien engaña al amigo y dice que estaba bromeando.",
+      "verse": 18,
+      "start_ms": 89262,
+      "end_ms": 94949,
+      "duration_ms": 5687
+    },
+    {
+      "word": "El fuego se apaga si no se le echa más leña, y el pleito se acaba si no siguen los chismes.",
+      "verse": 20,
+      "start_ms": 94950,
+      "end_ms": 100937,
+      "duration_ms": 5987
+    },
+    {
+      "word": "En qué se parecen la leña y el peleador?",
+      "verse": 21,
+      "start_ms": 100937,
+      "end_ms": 103887,
+      "duration_ms": 2950
+    },
+    {
+      "word": "En que la leña aviva el fuego, y el peleador aviva el pleito.",
+      "verse": 21,
+      "start_ms": 103887,
+      "end_ms": 108274,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Los chismes son muy sabrosos, pero también hacen mucho daño.",
+      "verse": 22,
+      "start_ms": 108275,
+      "end_ms": 112725,
+      "duration_ms": 4450
+    },
+    {
+      "word": "Los piropos del malvado son tan engañosos como una olla de barro cubierta de plata.",
+      "verse": 23,
+      "start_ms": 112725,
+      "end_ms": 118125,
+      "duration_ms": 5400
+    },
+    {
+      "word": "El que esconde sus rencores, en el fondo es mentiroso.",
+      "verse": 24,
+      "start_ms": 118125,
+      "end_ms": 122237,
+      "duration_ms": 4112
+    },
+    {
+      "word": "No creas lo que te diga, pues te habla con dulzura pero busca hacerte daño.",
+      "verse": 25,
+      "start_ms": 122237,
+      "end_ms": 127249,
+      "duration_ms": 5012
+    },
+    {
+      "word": "Miente al decir que te quiere, pues todos saben que te odia.",
+      "verse": 26,
+      "start_ms": 127250,
+      "end_ms": 131350,
+      "duration_ms": 4100
+    },
+    {
+      "word": "No abras zanjas si no quieres caer en ellas, ni hagas rodar piedras si no quieres que te aplasten.",
+      "verse": 27,
+      "start_ms": 131350,
+      "end_ms": 137087,
+      "duration_ms": 5737
+    },
+    {
+      "word": "Quien miente, no se quiere a sí mismo; quien a todos alaba, se busca problemas.",
+      "verse": 28,
+      "start_ms": 137087,
+      "end_ms": 142712,
+      "duration_ms": 5625
+    }
+  ]
+}

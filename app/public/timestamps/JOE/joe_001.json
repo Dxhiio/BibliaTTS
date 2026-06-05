@@ -1,0 +1,320 @@
+{
+  "book": "JOE",
+  "chapter": 1,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 18,
+  "word_count": 26,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 89,
+      "text": "Dios le dio un mensaje a Joel hijo de Petuel, y Joel se lo comunicó al pueblo de Israel:"
+    },
+    {
+      "verse": 2,
+      "label": "2-4",
+      "char_start": 89,
+      "char_end": 489,
+      "text": "¡Pongan mucha atención ustedes, jefes del pueblo, y todos los que viven en este país! ¡Cuatro plagas de saltamontes han venido sobre nuestra tierra y han acabado con nuestras siembras! ¿Cuándo han visto ustedes algo así? ¡Ni siquiera los antepasados de ustedes vieron en su vida algo parecido! ¡Cuéntenselo a sus hijos, para que ellos, a su vez, se lo cuenten a sus nietos, bisnietos y tataranietos!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 489,
+      "char_end": 582,
+      "text": "¡Vamos, borrachos, levántense! ¡Despierten y pónganse a llorar, pues ya no van a tener vino!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 582,
+      "char_end": 730,
+      "text": "Una plaga de saltamontes ha invadido nuestro país, como si fuera un gran ejército. Sus dientes tienen tanto filo que hasta parecen leones furiosos."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 730,
+      "char_end": 824,
+      "text": "Destruyeron nuestras viñas y despedazaron nuestras higueras; ¡pelaron las ramas por completo!"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 824,
+      "char_end": 919,
+      "text": "La gente llora desconsolada, como la novia que llora de tristeza porque se ha muerto su novio."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 919,
+      "char_end": 1042,
+      "text": "También lloran los sacerdotes que están al servicio de Dios, pues ya nadie lleva al templo ofrendas de vino y de cereales."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1042,
+      "char_end": 1143,
+      "text": "Ya no hay trigo, ya no hay vino ni aceite, pues los campos se secaron y quedaron hechos un desierto."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1143,
+      "char_end": 1271,
+      "text": "Ustedes, los campesinos, y ustedes, los agricultores: ¡lloren de tristeza! Ya se han perdido las cosechas de trigo y de cebada;"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1271,
+      "char_end": 1426,
+      "text": "ya se han secado los viñedos, las higueras, los granados, las palmeras, los manzanos y todos los árboles del campo; ¡la gente misma ha perdido la alegría!"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1426,
+      "char_end": 1592,
+      "text": "Ustedes, los sacerdotes, que sirven a Dios en el altar, pónganse ropa de luto y pasen la noche llorando, pues ya nadie trae al templo ofrendas de vino y de cereales."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1592,
+      "char_end": 1675,
+      "text": "Reúnan en el templo a los israelitas y a sus jefes, para que ayunen y oren a Dios."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1675,
+      "char_end": 1775,
+      "text": "¡Nuestro Dios viene! ¡Ya está cerca el día! ¡Será un día de destrucción por parte del Todopoderoso!"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1775,
+      "char_end": 1885,
+      "text": "En nuestra propia cara nos quitaron la comida; nos quitaron la alegría de estar en el templo de nuestro Dios."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1885,
+      "char_end": 1960,
+      "text": "La siembra de trigo se secó, por eso están vacíos todos nuestros graneros."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1960,
+      "char_end": 2072,
+      "text": "¡Mugen nuestras vacas y balan nuestras ovejas! ¡Los ganados se mueren de hambre porque ya no encuentran pastos!"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2072,
+      "char_end": 2171,
+      "text": "Dios nuestro, ¡en ti buscamos ayuda porque el fuego ha quemado nuestros campos y nuestros bosques!"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2171,
+      "char_end": 2286,
+      "text": "¡También te piden ayuda los animales del campo, pues los arroyos están secos y el fuego ha acabado con los pastos!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios le dio un mensaje a Joel hijo de Petuel, y Joel se lo comunicó al pueblo de Israel: ¡Pongan mucha atención ustedes, jefes del pueblo, y todos los que viven en este país!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 10950,
+      "duration_ms": 10850
+    },
+    {
+      "word": "Cuatro plagas de saltamontes han venido sobre nuestra tierra y han acabado con nuestras siembras!",
+      "verse": 2,
+      "start_ms": 10900,
+      "end_ms": 16537,
+      "duration_ms": 5637
+    },
+    {
+      "word": "Cuándo han visto ustedes algo así?",
+      "verse": 2,
+      "start_ms": 16537,
+      "end_ms": 19149,
+      "duration_ms": 2612
+    },
+    {
+      "word": "Ni siquiera los antepasados de ustedes vieron en su vida algo parecido!",
+      "verse": 2,
+      "start_ms": 19150,
+      "end_ms": 23725,
+      "duration_ms": 4575
+    },
+    {
+      "word": "Cuéntenselo a sus hijos, para que ellos, a su vez, se lo cuenten a sus nietos, bisnietos y tataranietos!",
+      "verse": 2,
+      "start_ms": 23725,
+      "end_ms": 31287,
+      "duration_ms": 7562
+    },
+    {
+      "word": "Vamos, borrachos, levántense!",
+      "verse": 5,
+      "start_ms": 31287,
+      "end_ms": 34387,
+      "duration_ms": 3100
+    },
+    {
+      "word": "Despierten y pónganse a llorar, pues ya no van a tener vino!",
+      "verse": 5,
+      "start_ms": 34387,
+      "end_ms": 38537,
+      "duration_ms": 4150
+    },
+    {
+      "word": "Una plaga de saltamontes ha invadido nuestro país, como si fuera un gran ejército.",
+      "verse": 6,
+      "start_ms": 38537,
+      "end_ms": 44124,
+      "duration_ms": 5587
+    },
+    {
+      "word": "Sus dientes tienen tanto filo que hasta parecen leones furiosos.",
+      "verse": 6,
+      "start_ms": 44125,
+      "end_ms": 48462,
+      "duration_ms": 4337
+    },
+    {
+      "word": "Destruyeron nuestras viñas y despedazaron nuestras higueras; ¡pelaron las ramas por completo!",
+      "verse": 7,
+      "start_ms": 48462,
+      "end_ms": 54287,
+      "duration_ms": 5825
+    },
+    {
+      "word": "La gente llora desconsolada, como la novia que llora de tristeza porque se ha muerto su novio.",
+      "verse": 8,
+      "start_ms": 54287,
+      "end_ms": 60274,
+      "duration_ms": 5987
+    },
+    {
+      "word": "También lloran los sacerdotes que están al servicio de Dios, pues ya nadie lleva al templo ofrendas de vino y de cereales.",
+      "verse": 9,
+      "start_ms": 60275,
+      "end_ms": 67425,
+      "duration_ms": 7150
+    },
+    {
+      "word": "Ya no hay trigo, ya no hay vino ni aceite, pues los campos se secaron y quedaron hechos un desierto.",
+      "verse": 10,
+      "start_ms": 67425,
+      "end_ms": 73812,
+      "duration_ms": 6387
+    },
+    {
+      "word": "Ustedes, los campesinos, y ustedes, los agricultores: ¡lloren de tristeza!",
+      "verse": 11,
+      "start_ms": 73812,
+      "end_ms": 79949,
+      "duration_ms": 6137
+    },
+    {
+      "word": "Ya se han perdido las cosechas de trigo y de cebada; ya se han secado los viñedos, las higueras, los granados, las palmeras, los manzanos y todos los árboles del campo; ¡la gente misma ha perdido la alegría!",
+      "verse": 11,
+      "start_ms": 79950,
+      "end_ms": 93287,
+      "duration_ms": 13337
+    },
+    {
+      "word": "Ustedes, los sacerdotes, que sirven a Dios en el altar, pónganse ropa de luto y pasen la noche llorando, pues ya nadie trae al templo ofrendas de vino y de cereales.",
+      "verse": 13,
+      "start_ms": 93287,
+      "end_ms": 103812,
+      "duration_ms": 10525
+    },
+    {
+      "word": "Reúnan en el templo a los israelitas y a sus jefes, para que ayunen y oren a Dios.",
+      "verse": 14,
+      "start_ms": 103812,
+      "end_ms": 109437,
+      "duration_ms": 5625
+    },
+    {
+      "word": "Nuestro Dios viene!",
+      "verse": 15,
+      "start_ms": 109437,
+      "end_ms": 111449,
+      "duration_ms": 2012
+    },
+    {
+      "word": "Ya está cerca el día!",
+      "verse": 15,
+      "start_ms": 111450,
+      "end_ms": 113487,
+      "duration_ms": 2037
+    },
+    {
+      "word": "Será un día de destrucción por parte del Todopoderoso!",
+      "verse": 15,
+      "start_ms": 113487,
+      "end_ms": 117349,
+      "duration_ms": 3862
+    },
+    {
+      "word": "En nuestra propia cara nos quitaron la comida; nos quitaron la alegría de estar en el templo de nuestro Dios.",
+      "verse": 16,
+      "start_ms": 117350,
+      "end_ms": 123762,
+      "duration_ms": 6412
+    },
+    {
+      "word": "La siembra de trigo se secó, por eso están vacíos todos nuestros graneros.",
+      "verse": 17,
+      "start_ms": 123762,
+      "end_ms": 128999,
+      "duration_ms": 5237
+    },
+    {
+      "word": "Mugen nuestras vacas y balan nuestras ovejas!",
+      "verse": 18,
+      "start_ms": 129000,
+      "end_ms": 132375,
+      "duration_ms": 3375
+    },
+    {
+      "word": "Los ganados se mueren de hambre porque ya no encuentran pastos!",
+      "verse": 18,
+      "start_ms": 132375,
+      "end_ms": 136325,
+      "duration_ms": 3950
+    },
+    {
+      "word": "Dios nuestro, ¡en ti buscamos ayuda porque el fuego ha quemado nuestros campos y nuestros bosques!",
+      "verse": 19,
+      "start_ms": 136325,
+      "end_ms": 142312,
+      "duration_ms": 5987
+    },
+    {
+      "word": "También te piden ayuda los animales del campo, pues los arroyos están secos y el fuego ha acabado con los pastos!",
+      "verse": 20,
+      "start_ms": 142312,
+      "end_ms": 149112,
+      "duration_ms": 6800
+    }
+  ]
+}

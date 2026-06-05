@@ -1,0 +1,348 @@
+{
+  "book": "LAM",
+  "chapter": 5,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 22,
+  "word_count": 26,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 71,
+      "text": "Dios mío, fíjate en nuestra desgracia; date cuenta de que nos ofenden."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 71,
+      "char_end": 140,
+      "text": "Nuestras tierras y nuestra patria han caído en manos de extranjeros."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 140,
+      "char_end": 205,
+      "text": "Nos hemos quedado sin padre; nuestras madres han quedado viudas."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 205,
+      "char_end": 252,
+      "text": "¡Hasta el agua y la leña tenemos que pagarlas!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 252,
+      "char_end": 300,
+      "text": "El enemigo nos persigue. Nos tiene acorralados."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 300,
+      "char_end": 360,
+      "text": "¡A nuestros peores enemigos, tenemos que pedirles alimento!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 360,
+      "char_end": 422,
+      "text": "Pecaron nuestros antepasados, ¡y Dios nos castigó a nosotros!"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 422,
+      "char_end": 485,
+      "text": "Los esclavos se creen reyes, ¡y no podemos librarnos de ellos!"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 485,
+      "char_end": 547,
+      "text": "Para conseguir alimentos, arriesgamos la vida en el desierto."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 547,
+      "char_end": 599,
+      "text": "Tanta es el hambre que tenemos que hasta deliramos."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 599,
+      "char_end": 655,
+      "text": "En todas nuestras ciudades violaron a nuestras mujeres."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 655,
+      "char_end": 715,
+      "text": "No respetaron a nuestros jefes; ¡los colgaron de las manos!"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 715,
+      "char_end": 767,
+      "text": "Nuestros jóvenes y niños cargan leña como esclavos."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 767,
+      "char_end": 819,
+      "text": "Ya los jóvenes no cantan ni se reúnen los ancianos."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 819,
+      "char_end": 881,
+      "text": "No tenemos motivo de alegría; en vez de danzas, hay tristeza."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 881,
+      "char_end": 935,
+      "text": "¡Pobres de nosotros! Por el pecado perdimos el reino."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 935,
+      "char_end": 990,
+      "text": "Vamos perdiendo las fuerzas; estamos a punto de morir."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 990,
+      "char_end": 1056,
+      "text": "El monte Sión ha quedado desierto; sólo se ven animales salvajes."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1056,
+      "char_end": 1122,
+      "text": "Pero tú, Dios nuestro, reinas para siempre. ¡Tú eres nuestro rey!"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1122,
+      "char_end": 1184,
+      "text": "¿Por qué te olvidas de nosotros y nos abandonas tanto tiempo?"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1184,
+      "char_end": 1255,
+      "text": "¡Déjanos volver a ti, y volveremos! ¡Devuélvenos el poder que tuvimos!"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1255,
+      "char_end": 1307,
+      "text": "En verdad nos diste la espalda; ¡se te fue la mano!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios mío, fíjate en nuestra desgracia; date cuenta de que nos ofenden.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5350,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Nuestras tierras y nuestra patria han caído en manos de extranjeros.",
+      "verse": 2,
+      "start_ms": 5300,
+      "end_ms": 9825,
+      "duration_ms": 4525
+    },
+    {
+      "word": "Nos hemos quedado sin padre; nuestras madres han quedado viudas.",
+      "verse": 3,
+      "start_ms": 9825,
+      "end_ms": 14462,
+      "duration_ms": 4637
+    },
+    {
+      "word": "Hasta el agua y la leña tenemos que pagarlas!",
+      "verse": 4,
+      "start_ms": 14462,
+      "end_ms": 17737,
+      "duration_ms": 3275
+    },
+    {
+      "word": "El enemigo nos persigue.",
+      "verse": 5,
+      "start_ms": 17737,
+      "end_ms": 20049,
+      "duration_ms": 2312
+    },
+    {
+      "word": "Nos tiene acorralados.",
+      "verse": 5,
+      "start_ms": 20050,
+      "end_ms": 22412,
+      "duration_ms": 2362
+    },
+    {
+      "word": "A nuestros peores enemigos, tenemos que pedirles alimento!",
+      "verse": 6,
+      "start_ms": 22412,
+      "end_ms": 26537,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Pecaron nuestros antepasados, ¡y Dios nos castigó a nosotros!",
+      "verse": 7,
+      "start_ms": 26537,
+      "end_ms": 31124,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Los esclavos se creen reyes, ¡y no podemos librarnos de ellos!",
+      "verse": 8,
+      "start_ms": 31125,
+      "end_ms": 35587,
+      "duration_ms": 4462
+    },
+    {
+      "word": "Para conseguir alimentos, arriesgamos la vida en el desierto.",
+      "verse": 9,
+      "start_ms": 35587,
+      "end_ms": 39937,
+      "duration_ms": 4350
+    },
+    {
+      "word": "Tanta es el hambre que tenemos que hasta deliramos.",
+      "verse": 10,
+      "start_ms": 39937,
+      "end_ms": 43337,
+      "duration_ms": 3400
+    },
+    {
+      "word": "En todas nuestras ciudades violaron a nuestras mujeres.",
+      "verse": 11,
+      "start_ms": 43337,
+      "end_ms": 47174,
+      "duration_ms": 3837
+    },
+    {
+      "word": "No respetaron a nuestros jefes; ¡los colgaron de las manos!",
+      "verse": 12,
+      "start_ms": 47175,
+      "end_ms": 51350,
+      "duration_ms": 4175
+    },
+    {
+      "word": "Nuestros jóvenes y niños cargan leña como esclavos.",
+      "verse": 13,
+      "start_ms": 51350,
+      "end_ms": 55100,
+      "duration_ms": 3750
+    },
+    {
+      "word": "Ya los jóvenes no cantan ni se reúnen los ancianos.",
+      "verse": 14,
+      "start_ms": 55100,
+      "end_ms": 58837,
+      "duration_ms": 3737
+    },
+    {
+      "word": "No tenemos motivo de alegría; en vez de danzas, hay tristeza.",
+      "verse": 15,
+      "start_ms": 58837,
+      "end_ms": 63437,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Pobres de nosotros!",
+      "verse": 16,
+      "start_ms": 63437,
+      "end_ms": 65562,
+      "duration_ms": 2125
+    },
+    {
+      "word": "Por el pecado perdimos el reino.",
+      "verse": 16,
+      "start_ms": 65562,
+      "end_ms": 68237,
+      "duration_ms": 2675
+    },
+    {
+      "word": "Vamos perdiendo las fuerzas; estamos a punto de morir.",
+      "verse": 17,
+      "start_ms": 68237,
+      "end_ms": 72349,
+      "duration_ms": 4112
+    },
+    {
+      "word": "El monte Sión ha quedado desierto; sólo se ven animales salvajes.",
+      "verse": 18,
+      "start_ms": 72350,
+      "end_ms": 77225,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Pero tú, Dios nuestro, reinas para siempre.",
+      "verse": 19,
+      "start_ms": 77225,
+      "end_ms": 80787,
+      "duration_ms": 3562
+    },
+    {
+      "word": "Tú eres nuestro rey!",
+      "verse": 19,
+      "start_ms": 80787,
+      "end_ms": 82724,
+      "duration_ms": 1937
+    },
+    {
+      "word": "Por qué te olvidas de nosotros y nos abandonas tanto tiempo?",
+      "verse": 20,
+      "start_ms": 82725,
+      "end_ms": 86712,
+      "duration_ms": 3987
+    },
+    {
+      "word": "Déjanos volver a ti, y volveremos!",
+      "verse": 21,
+      "start_ms": 86712,
+      "end_ms": 89812,
+      "duration_ms": 3100
+    },
+    {
+      "word": "Devuélvenos el poder que tuvimos!",
+      "verse": 21,
+      "start_ms": 89812,
+      "end_ms": 92512,
+      "duration_ms": 2700
+    },
+    {
+      "word": "En verdad nos diste la espalda; ¡se te fue la mano!",
+      "verse": 22,
+      "start_ms": 92512,
+      "end_ms": 96099,
+      "duration_ms": 3587
+    }
+  ]
+}

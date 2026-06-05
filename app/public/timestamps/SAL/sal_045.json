@@ -1,0 +1,271 @@
+{
+  "book": "SAL",
+  "chapter": 45,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 15,
+  "word_count": 22,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 128,
+      "text": "Me nace del corazón decir palabras bonitas. ¡Cómo quisiera tener la inspiración de un poeta, y escribirle versos a Su Majestad!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 128,
+      "char_end": 235,
+      "text": "El rey es el hombre más hermoso y sabe hablar con elegancia. Bien puede verse que Dios siempre lo bendice."
+    },
+    {
+      "verse": 3,
+      "label": "3-4",
+      "char_start": 235,
+      "char_end": 452,
+      "text": "¡Su Majestad es valiente y cabalga con gran elegancia, llevando la espada en la cintura! Sale a luchar por la verdad, sale a luchar por la justicia. Con el poder de su brazo realiza grandes hazañas y sale victorioso."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 452,
+      "char_end": 553,
+      "text": "Traspasa con sus flechas el corazón de sus enemigos; ¡al paso de Su Majestad se rinden las naciones!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 553,
+      "char_end": 657,
+      "text": "Su Majestad, su reinado, como el de Dios, durará para siempre y usará su poder en favor de la justicia."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 657,
+      "char_end": 781,
+      "text": "Su Majestad se complace en lo bueno, y rechaza la injusticia. Dios lo hizo su rey favorito, ¡el rey más feliz de la tierra!"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 781,
+      "char_end": 913,
+      "text": "De sus vestidos brota el aroma de finísimos perfumes. Desde los palacios de marfil se oye música de arpas que lo llenan de alegría."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 913,
+      "char_end": 1045,
+      "text": "Las más bellas princesas son las damas de su corte; sentada a su mano derecha está la futura reina, vestida con finas telas de oro."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1045,
+      "char_end": 1142,
+      "text": "Escúchame, princesa; préstame atención: Ya no pienses en tu pueblo, ya no llores por tus padres."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1142,
+      "char_end": 1244,
+      "text": "Su Majestad te desea; tu hermosura lo cautiva. Harás todo lo que te pida, pues pronto será tu esposo."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1244,
+      "char_end": 1343,
+      "text": "Los príncipes de Tiro te llenarán de regalos; la gente más importante buscará quedar bien contigo."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1343,
+      "char_end": 1424,
+      "text": "La princesa está en su alcoba; sus finos vestidos de oro, resaltan su hermosura."
+    },
+    {
+      "verse": 14,
+      "label": "14-15",
+      "char_start": 1424,
+      "char_end": 1526,
+      "text": "Vestida de finos bordados y acompañada de sus damas, se presenta ante el rey entre gritos de alegría."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1526,
+      "char_end": 1620,
+      "text": "Su Majestad, sus hijos serán príncipes, y al igual que sus abuelos, dominarán toda la tierra."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1620,
+      "char_end": 1706,
+      "text": "Yo, con mis versos, haré que Su Majestad sea recordado siempre en todas las naciones."
+    }
+  ],
+  "words": [
+    {
+      "word": "Me nace del corazón decir palabras bonitas.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3587,
+      "duration_ms": 3487
+    },
+    {
+      "word": "Cómo quisiera tener la inspiración de un poeta, y escribirle versos a Su Majestad!",
+      "verse": 1,
+      "start_ms": 3537,
+      "end_ms": 8949,
+      "duration_ms": 5412
+    },
+    {
+      "word": "El rey es el hombre más hermoso y sabe hablar con elegancia.",
+      "verse": 2,
+      "start_ms": 8950,
+      "end_ms": 13012,
+      "duration_ms": 4062
+    },
+    {
+      "word": "Bien puede verse que Dios siempre lo bendice.",
+      "verse": 2,
+      "start_ms": 13012,
+      "end_ms": 16112,
+      "duration_ms": 3100
+    },
+    {
+      "word": "Su Majestad es valiente y cabalga con gran elegancia, llevando la espada en la cintura!",
+      "verse": 3,
+      "start_ms": 16112,
+      "end_ms": 21749,
+      "duration_ms": 5637
+    },
+    {
+      "word": "Sale a luchar por la verdad, sale a luchar por la justicia.",
+      "verse": 3,
+      "start_ms": 21750,
+      "end_ms": 26025,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Con el poder de su brazo realiza grandes hazañas y sale victorioso.",
+      "verse": 3,
+      "start_ms": 26025,
+      "end_ms": 30625,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Traspasa con sus flechas el corazón de sus enemigos; ¡al paso de Su Majestad se rinden las naciones!",
+      "verse": 5,
+      "start_ms": 30625,
+      "end_ms": 37150,
+      "duration_ms": 6525
+    },
+    {
+      "word": "Su Majestad, su reinado, como el de Dios, durará para siempre y usará su poder en favor de la justicia.",
+      "verse": 6,
+      "start_ms": 37150,
+      "end_ms": 44275,
+      "duration_ms": 7125
+    },
+    {
+      "word": "Su Majestad se complace en lo bueno, y rechaza la injusticia.",
+      "verse": 7,
+      "start_ms": 44275,
+      "end_ms": 48687,
+      "duration_ms": 4412
+    },
+    {
+      "word": "Dios lo hizo su rey favorito, ¡el rey más feliz de la tierra!",
+      "verse": 7,
+      "start_ms": 48687,
+      "end_ms": 53187,
+      "duration_ms": 4500
+    },
+    {
+      "word": "De sus vestidos brota el aroma de finísimos perfumes.",
+      "verse": 8,
+      "start_ms": 53187,
+      "end_ms": 57187,
+      "duration_ms": 4000
+    },
+    {
+      "word": "Desde los palacios de marfil se oye música de arpas que lo llenan de alegría.",
+      "verse": 8,
+      "start_ms": 57187,
+      "end_ms": 62037,
+      "duration_ms": 4850
+    },
+    {
+      "word": "Las más bellas princesas son las damas de su corte; sentada a su mano derecha está la futura reina, vestida con finas telas de oro.",
+      "verse": 9,
+      "start_ms": 62037,
+      "end_ms": 70199,
+      "duration_ms": 8162
+    },
+    {
+      "word": "Escúchame, princesa; préstame atención: Ya no pienses en tu pueblo, ya no llores por tus padres.",
+      "verse": 10,
+      "start_ms": 70200,
+      "end_ms": 77225,
+      "duration_ms": 7025
+    },
+    {
+      "word": "Su Majestad te desea; tu hermosura lo cautiva.",
+      "verse": 11,
+      "start_ms": 77225,
+      "end_ms": 81100,
+      "duration_ms": 3875
+    },
+    {
+      "word": "Harás todo lo que te pida, pues pronto será tu esposo.",
+      "verse": 11,
+      "start_ms": 81100,
+      "end_ms": 85150,
+      "duration_ms": 4050
+    },
+    {
+      "word": "Los príncipes de Tiro te llenarán de regalos; la gente más importante buscará quedar bien contigo.",
+      "verse": 12,
+      "start_ms": 85150,
+      "end_ms": 91425,
+      "duration_ms": 6275
+    },
+    {
+      "word": "La princesa está en su alcoba; sus finos vestidos de oro, resaltan su hermosura.",
+      "verse": 13,
+      "start_ms": 91425,
+      "end_ms": 97137,
+      "duration_ms": 5712
+    },
+    {
+      "word": "Vestida de finos bordados y acompañada de sus damas, se presenta ante el rey entre gritos de alegría.",
+      "verse": 14,
+      "start_ms": 97137,
+      "end_ms": 103787,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Su Majestad, sus hijos serán príncipes, y al igual que sus abuelos, dominarán toda la tierra.",
+      "verse": 16,
+      "start_ms": 103787,
+      "end_ms": 110362,
+      "duration_ms": 6575
+    },
+    {
+      "word": "Yo, con mis versos, haré que Su Majestad sea recordado siempre en todas las naciones.",
+      "verse": 17,
+      "start_ms": 110362,
+      "end_ms": 116374,
+      "duration_ms": 6012
+    }
+  ]
+}

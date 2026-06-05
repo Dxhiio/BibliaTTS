@@ -1,0 +1,502 @@
+{
+  "book": "PRO",
+  "chapter": 10,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 32,
+  "word_count": 38,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 69,
+      "text": "Qué dicha es tener un hijo sabio; qué triste es tener un hijo tonto."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 69,
+      "char_end": 169,
+      "text": "De muy poco aprovecha el dinero mal ganado. Lo que vale es la honradez, pues te salva de la muerte."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 169,
+      "char_end": 249,
+      "text": "Dios calma el hambre de la gente buena, pero no el apetito de la gente malvada."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 249,
+      "char_end": 312,
+      "text": "Si no trabajas, te quedas pobre; si trabajas, te vuelves rico."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 312,
+      "char_end": 423,
+      "text": "El que es precavido guarda comida durante el verano; el que duerme durante la cosecha termina en la vergüenza."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 423,
+      "char_end": 495,
+      "text": "Al hombre honrado, Dios lo bendice; al malvado, la violencia lo domina."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 495,
+      "char_end": 569,
+      "text": "Al hombre honrado, Dios lo bendice; al malvado, su mala fama lo destruye."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 569,
+      "char_end": 636,
+      "text": "El hombre sabio cumple una orden; el imprudente acaba en la ruina."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 636,
+      "char_end": 735,
+      "text": "El que vive honradamente lleva una vida tranquila. El que es sinvergüenza un día será descubierto."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 735,
+      "char_end": 803,
+      "text": "El engaño causa muchos problemas y la imprudencia lleva a la ruina."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 803,
+      "char_end": 895,
+      "text": "Las palabras del hombre honrado son una fuente de vida. Al malvado, la violencia lo domina."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 895,
+      "char_end": 946,
+      "text": "El odio produce más odio; el amor todo lo perdona."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 946,
+      "char_end": 1048,
+      "text": "En los labios del sabio no falta la sabiduría; en la espalda del imprudente no faltan los garrotazos."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1048,
+      "char_end": 1104,
+      "text": "El sabio sabe callar; el tonto habla y causa problemas."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1104,
+      "char_end": 1166,
+      "text": "Al rico lo defiende su riqueza; al pobre no lo defiende nada."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1166,
+      "char_end": 1228,
+      "text": "¿Qué gana el justo? La vida. ¿Qué gana el malvado? El pecado."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1228,
+      "char_end": 1328,
+      "text": "El que acepta la corrección tendrá una larga vida, pero quien no oye consejos no llegará muy lejos."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1328,
+      "char_end": 1397,
+      "text": "Los mentirosos no muestran su odio, pero los tontos todo lo cuentan."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1397,
+      "char_end": 1451,
+      "text": "Hablar mucho es de tontos; saber callar es de sabios."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1451,
+      "char_end": 1515,
+      "text": "La palabra justa vale mucho; los planes malvados no valen nada."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1515,
+      "char_end": 1592,
+      "text": "El buen consejo es ayuda de muchos, pero la imprudencia es trampa de tontos."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1592,
+      "char_end": 1659,
+      "text": "La bendición de Dios es riqueza que viene libre de preocupaciones."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1659,
+      "char_end": 1728,
+      "text": "Al tonto lo divierte la maldad; al sabio lo entretiene la sabiduría."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1728,
+      "char_end": 1837,
+      "text": "Lo que menos desea el malvado es lo que más le sucede, en cambio al que es honrado se le cumplen sus deseos."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1837,
+      "char_end": 1931,
+      "text": "Llegan los problemas, se acaban los malvados; ¡sólo el que es honrado permanece para siempre!"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 1931,
+      "char_end": 2020,
+      "text": "El mensajero perezoso es peor que vinagre en los dientes; ¡es peor que humo en los ojos!"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2020,
+      "char_end": 2101,
+      "text": "Quien obedece a Dios vivirá muchos años, pero el malvado no vivirá mucho tiempo."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2101,
+      "char_end": 2165,
+      "text": "A los justos les espera la felicidad; a los malvados, la ruina."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2165,
+      "char_end": 2221,
+      "text": "Dios cuida de los buenos, pero destruye a los malvados."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2221,
+      "char_end": 2287,
+      "text": "Los buenos nunca fracasarán; los malvados no habitarán la tierra."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2287,
+      "char_end": 2367,
+      "text": "Los buenos hablan siempre con sabiduría; a los malvados se les obliga a callar."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2367,
+      "char_end": 2441,
+      "text": "Los buenos saben decir cosas bonitas; los malvados sólo dicen cosas feas."
+    }
+  ],
+  "words": [
+    {
+      "word": "Qué dicha es tener un hijo sabio; qué triste es tener un hijo tonto.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4625,
+      "duration_ms": 4525
+    },
+    {
+      "word": "De muy poco aprovecha el dinero mal ganado.",
+      "verse": 2,
+      "start_ms": 4575,
+      "end_ms": 7825,
+      "duration_ms": 3250
+    },
+    {
+      "word": "Lo que vale es la honradez, pues te salva de la muerte.",
+      "verse": 2,
+      "start_ms": 7825,
+      "end_ms": 11812,
+      "duration_ms": 3987
+    },
+    {
+      "word": "Dios calma el hambre de la gente buena, pero no el apetito de la gente malvada.",
+      "verse": 3,
+      "start_ms": 11812,
+      "end_ms": 17074,
+      "duration_ms": 5262
+    },
+    {
+      "word": "Si no trabajas, te quedas pobre; si trabajas, te vuelves rico.",
+      "verse": 4,
+      "start_ms": 17075,
+      "end_ms": 22100,
+      "duration_ms": 5025
+    },
+    {
+      "word": "El que es precavido guarda comida durante el verano; el que duerme durante la cosecha termina en la vergüenza.",
+      "verse": 5,
+      "start_ms": 22100,
+      "end_ms": 28575,
+      "duration_ms": 6475
+    },
+    {
+      "word": "Al hombre honrado, Dios lo bendice; al malvado, la violencia lo domina.",
+      "verse": 6,
+      "start_ms": 28575,
+      "end_ms": 33887,
+      "duration_ms": 5312
+    },
+    {
+      "word": "Al hombre honrado, Dios lo bendice; al malvado, su mala fama lo destruye.",
+      "verse": 7,
+      "start_ms": 33887,
+      "end_ms": 39499,
+      "duration_ms": 5612
+    },
+    {
+      "word": "El hombre sabio cumple una orden; el imprudente acaba en la ruina.",
+      "verse": 8,
+      "start_ms": 39500,
+      "end_ms": 44062,
+      "duration_ms": 4562
+    },
+    {
+      "word": "El que vive honradamente lleva una vida tranquila.",
+      "verse": 9,
+      "start_ms": 44062,
+      "end_ms": 47649,
+      "duration_ms": 3587
+    },
+    {
+      "word": "El que es sinvergüenza un día será descubierto.",
+      "verse": 9,
+      "start_ms": 47650,
+      "end_ms": 51050,
+      "duration_ms": 3400
+    },
+    {
+      "word": "El engaño causa muchos problemas y la imprudencia lleva a la ruina.",
+      "verse": 10,
+      "start_ms": 51050,
+      "end_ms": 55525,
+      "duration_ms": 4475
+    },
+    {
+      "word": "Las palabras del hombre honrado son una fuente de vida.",
+      "verse": 11,
+      "start_ms": 55525,
+      "end_ms": 59137,
+      "duration_ms": 3612
+    },
+    {
+      "word": "Al malvado, la violencia lo domina.",
+      "verse": 11,
+      "start_ms": 59137,
+      "end_ms": 62212,
+      "duration_ms": 3075
+    },
+    {
+      "word": "El odio produce más odio; el amor todo lo perdona.",
+      "verse": 12,
+      "start_ms": 62212,
+      "end_ms": 66387,
+      "duration_ms": 4175
+    },
+    {
+      "word": "En los labios del sabio no falta la sabiduría; en la espalda del imprudente no faltan los garrotazos.",
+      "verse": 13,
+      "start_ms": 66387,
+      "end_ms": 72974,
+      "duration_ms": 6587
+    },
+    {
+      "word": "El sabio sabe callar; el tonto habla y causa problemas.",
+      "verse": 14,
+      "start_ms": 72975,
+      "end_ms": 77475,
+      "duration_ms": 4500
+    },
+    {
+      "word": "Al rico lo defiende su riqueza; al pobre no lo defiende nada.",
+      "verse": 15,
+      "start_ms": 77475,
+      "end_ms": 81962,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Qué gana el justo?",
+      "verse": 16,
+      "start_ms": 81962,
+      "end_ms": 83974,
+      "duration_ms": 2012
+    },
+    {
+      "word": "La vida.",
+      "verse": 16,
+      "start_ms": 83975,
+      "end_ms": 85512,
+      "duration_ms": 1537
+    },
+    {
+      "word": "Qué gana el malvado?",
+      "verse": 16,
+      "start_ms": 85512,
+      "end_ms": 87512,
+      "duration_ms": 2000
+    },
+    {
+      "word": "El pecado.",
+      "verse": 16,
+      "start_ms": 87512,
+      "end_ms": 89149,
+      "duration_ms": 1637
+    },
+    {
+      "word": "El que acepta la corrección tendrá una larga vida, pero quien no oye consejos no llegará muy lejos.",
+      "verse": 17,
+      "start_ms": 89150,
+      "end_ms": 95712,
+      "duration_ms": 6562
+    },
+    {
+      "word": "Los mentirosos no muestran su odio, pero los tontos todo lo cuentan.",
+      "verse": 18,
+      "start_ms": 95712,
+      "end_ms": 100549,
+      "duration_ms": 4837
+    },
+    {
+      "word": "Hablar mucho es de tontos; saber callar es de sabios.",
+      "verse": 19,
+      "start_ms": 100550,
+      "end_ms": 104787,
+      "duration_ms": 4237
+    },
+    {
+      "word": "La palabra justa vale mucho; los planes malvados no valen nada.",
+      "verse": 20,
+      "start_ms": 104787,
+      "end_ms": 109562,
+      "duration_ms": 4775
+    },
+    {
+      "word": "El buen consejo es ayuda de muchos, pero la imprudencia es trampa de tontos.",
+      "verse": 21,
+      "start_ms": 109562,
+      "end_ms": 114737,
+      "duration_ms": 5175
+    },
+    {
+      "word": "La bendición de Dios es riqueza que viene libre de preocupaciones.",
+      "verse": 22,
+      "start_ms": 114737,
+      "end_ms": 119112,
+      "duration_ms": 4375
+    },
+    {
+      "word": "Al tonto lo divierte la maldad; al sabio lo entretiene la sabiduría.",
+      "verse": 23,
+      "start_ms": 119112,
+      "end_ms": 123887,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Lo que menos desea el malvado es lo que más le sucede, en cambio al que es honrado se le cumplen sus deseos.",
+      "verse": 24,
+      "start_ms": 123887,
+      "end_ms": 130399,
+      "duration_ms": 6512
+    },
+    {
+      "word": "Llegan los problemas, se acaban los malvados; ¡sólo el que es honrado permanece para siempre!",
+      "verse": 25,
+      "start_ms": 130400,
+      "end_ms": 136337,
+      "duration_ms": 5937
+    },
+    {
+      "word": "El mensajero perezoso es peor que vinagre en los dientes; ¡es peor que humo en los ojos!",
+      "verse": 26,
+      "start_ms": 136337,
+      "end_ms": 142137,
+      "duration_ms": 5800
+    },
+    {
+      "word": "Quien obedece a Dios vivirá muchos años, pero el malvado no vivirá mucho tiempo.",
+      "verse": 27,
+      "start_ms": 142137,
+      "end_ms": 147549,
+      "duration_ms": 5412
+    },
+    {
+      "word": "A los justos les espera la felicidad; a los malvados, la ruina.",
+      "verse": 28,
+      "start_ms": 147550,
+      "end_ms": 152200,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Dios cuida de los buenos, pero destruye a los malvados.",
+      "verse": 29,
+      "start_ms": 152200,
+      "end_ms": 156487,
+      "duration_ms": 4287
+    },
+    {
+      "word": "Los buenos nunca fracasarán; los malvados no habitarán la tierra.",
+      "verse": 30,
+      "start_ms": 156487,
+      "end_ms": 161212,
+      "duration_ms": 4725
+    },
+    {
+      "word": "Los buenos hablan siempre con sabiduría; a los malvados se les obliga a callar.",
+      "verse": 31,
+      "start_ms": 161212,
+      "end_ms": 166424,
+      "duration_ms": 5212
+    },
+    {
+      "word": "Los buenos saben decir cosas bonitas; los malvados sólo dicen cosas feas.",
+      "verse": 32,
+      "start_ms": 166425,
+      "end_ms": 171875,
+      "duration_ms": 5450
+    }
+  ]
+}

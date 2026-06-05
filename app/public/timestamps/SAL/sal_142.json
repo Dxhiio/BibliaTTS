@@ -1,0 +1,145 @@
+{
+  "book": "SAL",
+  "chapter": 142,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 6,
+  "word_count": 13,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 89,
+      "text": "Mi Dios, a ti elevo mi voz para pedirte ayuda; a ti elevo mi voz para pedirte compasión."
+    },
+    {
+      "verse": 2,
+      "label": "2-3",
+      "char_start": 89,
+      "char_end": 232,
+      "text": "Cuando me siento deprimido, a ti te hago saber lo que me angustia. Tú sabes cómo me comporto. Hay algunos que a mi paso me tienden una trampa."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 232,
+      "char_end": 334,
+      "text": "Mira bien a mi derecha: ¡nadie me presta atención! ¡No hay nadie que me proteja! ¡A nadie le importo!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 334,
+      "char_end": 432,
+      "text": "Dios mío, a ti te ruego y te digo: ¡Tú eres mi refugio! ¡En este mundo tú eres todo lo que tengo!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 432,
+      "char_end": 537,
+      "text": "¡Atiende mis ruegos, pues me encuentro muy débil! ¡Líbrame de mis enemigos, pues son más fuertes que yo!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 537,
+      "char_end": 640,
+      "text": "¡Sácame de esta angustia, para que pueda alabarte! Al ver que me tratas bien, los justos harán fiesta."
+    }
+  ],
+  "words": [
+    {
+      "word": "Mi Dios, a ti elevo mi voz para pedirte ayuda; a ti elevo mi voz para pedirte compasión.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6487,
+      "duration_ms": 6387
+    },
+    {
+      "word": "Cuando me siento deprimido, a ti te hago saber lo que me angustia.",
+      "verse": 2,
+      "start_ms": 6437,
+      "end_ms": 10849,
+      "duration_ms": 4412
+    },
+    {
+      "word": "Tú sabes cómo me comporto.",
+      "verse": 2,
+      "start_ms": 10850,
+      "end_ms": 13287,
+      "duration_ms": 2437
+    },
+    {
+      "word": "Hay algunos que a mi paso me tienden una trampa.",
+      "verse": 2,
+      "start_ms": 13287,
+      "end_ms": 16612,
+      "duration_ms": 3325
+    },
+    {
+      "word": "Mira bien a mi derecha: ¡nadie me presta atención!",
+      "verse": 4,
+      "start_ms": 16612,
+      "end_ms": 20337,
+      "duration_ms": 3725
+    },
+    {
+      "word": "No hay nadie que me proteja!",
+      "verse": 4,
+      "start_ms": 20337,
+      "end_ms": 22687,
+      "duration_ms": 2350
+    },
+    {
+      "word": "A nadie le importo!",
+      "verse": 4,
+      "start_ms": 22687,
+      "end_ms": 24712,
+      "duration_ms": 2025
+    },
+    {
+      "word": "Dios mío, a ti te ruego y te digo: ¡Tú eres mi refugio!",
+      "verse": 5,
+      "start_ms": 24712,
+      "end_ms": 29099,
+      "duration_ms": 4387
+    },
+    {
+      "word": "En este mundo tú eres todo lo que tengo!",
+      "verse": 5,
+      "start_ms": 29100,
+      "end_ms": 32062,
+      "duration_ms": 2962
+    },
+    {
+      "word": "Atiende mis ruegos, pues me encuentro muy débil!",
+      "verse": 6,
+      "start_ms": 32062,
+      "end_ms": 35674,
+      "duration_ms": 3612
+    },
+    {
+      "word": "Líbrame de mis enemigos, pues son más fuertes que yo!",
+      "verse": 6,
+      "start_ms": 35675,
+      "end_ms": 39575,
+      "duration_ms": 3900
+    },
+    {
+      "word": "Sácame de esta angustia, para que pueda alabarte!",
+      "verse": 7,
+      "start_ms": 39575,
+      "end_ms": 43400,
+      "duration_ms": 3825
+    },
+    {
+      "word": "Al ver que me tratas bien, los justos harán fiesta.",
+      "verse": 7,
+      "start_ms": 43400,
+      "end_ms": 47212,
+      "duration_ms": 3812
+    }
+  ]
+}

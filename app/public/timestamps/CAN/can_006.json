@@ -1,0 +1,236 @@
+{
+  "book": "CAN",
+  "chapter": 6,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 13,
+  "word_count": 19,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 118,
+      "text": "Dinos entonces, mujer bella entre las bellas, ¿a dónde se ha ido tu amado? ¿Qué rumbo tomó? ¡Vamos juntas a buscarlo!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 118,
+      "char_end": 236,
+      "text": "Mi amado ha venido a su jardín, al huerto de hierbas aromáticas, para juguetear entre las flores y para cortar rosas."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 236,
+      "char_end": 320,
+      "text": "Yo soy de mi amado, y mi amado es mío; mi amado cuida de su rebaño entre las rosas."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 320,
+      "char_end": 429,
+      "text": "Eres bella, amada mía; bella como la ciudad de Tirsá, hermosa como Jerusalén, majestuosa como las estrellas."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 429,
+      "char_end": 559,
+      "text": "¡Por favor, ya no me mires, que tus ojos me conquistaron! Son tus negros cabellos cabritos que juguetean en los montes de Galaad."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 559,
+      "char_end": 644,
+      "text": "Son tus blancos dientes cabritas recién bañadas. Son perfectos, no te falta ninguno."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 644,
+      "char_end": 697,
+      "text": "Tus mejillas, tras el velo, son rojas como manzanas."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 697,
+      "char_end": 751,
+      "text": "Puede haber sesenta reinas, y más de ochenta mujeres;"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 751,
+      "char_end": 948,
+      "text": "pero mi palomita amada es una mujer singular; ¡es una mujer perfecta! Es la hija preferida de su madre. Hasta las mujeres mismas la ven y la felicitan; reinas y princesas no se cansan de alabarla."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 948,
+      "char_end": 1090,
+      "text": "¿Y quién es esta hermosura? Es admirable, como la aurora; bella es, como la luna, y esplendorosa como el sol; ¡majestuosa como las estrellas!"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1090,
+      "char_end": 1207,
+      "text": "Bajé al jardín de los nogales para ver las nuevas flores del valle, los retoños de las vides y los manzanos en flor."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1207,
+      "char_end": 1289,
+      "text": "Pero, antes de darme cuenta, ¡mi pasión me condujo hasta el carro de mi príncipe!"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1289,
+      "char_end": 1351,
+      "text": "Danza, Sulamita; danza para nosotros: ¡queremos verte danzar!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Dinos entonces, mujer bella entre las bellas, ¿a dónde se ha ido tu amado?",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5450,
+      "duration_ms": 5350
+    },
+    {
+      "word": "Qué rumbo tomó?",
+      "verse": 1,
+      "start_ms": 5400,
+      "end_ms": 7237,
+      "duration_ms": 1837
+    },
+    {
+      "word": "Vamos juntas a buscarlo!",
+      "verse": 1,
+      "start_ms": 7237,
+      "end_ms": 9562,
+      "duration_ms": 2325
+    },
+    {
+      "word": "Mi amado ha venido a su jardín, al huerto de hierbas aromáticas, para juguetear entre las flores y para cortar rosas.",
+      "verse": 2,
+      "start_ms": 9562,
+      "end_ms": 16949,
+      "duration_ms": 7387
+    },
+    {
+      "word": "Yo soy de mi amado, y mi amado es mío; mi amado cuida de su rebaño entre las rosas.",
+      "verse": 3,
+      "start_ms": 16950,
+      "end_ms": 22862,
+      "duration_ms": 5912
+    },
+    {
+      "word": "Eres bella, amada mía; bella como la ciudad de Tirsá, hermosa como Jerusalén, majestuosa como las estrellas.",
+      "verse": 4,
+      "start_ms": 22862,
+      "end_ms": 30999,
+      "duration_ms": 8137
+    },
+    {
+      "word": "Por favor, ya no me mires, que tus ojos me conquistaron!",
+      "verse": 5,
+      "start_ms": 31000,
+      "end_ms": 35262,
+      "duration_ms": 4262
+    },
+    {
+      "word": "Son tus negros cabellos cabritos que juguetean en los montes de Galaad.",
+      "verse": 5,
+      "start_ms": 35262,
+      "end_ms": 39774,
+      "duration_ms": 4512
+    },
+    {
+      "word": "Son tus blancos dientes cabritas recién bañadas.",
+      "verse": 6,
+      "start_ms": 39775,
+      "end_ms": 43462,
+      "duration_ms": 3687
+    },
+    {
+      "word": "Son perfectos, no te falta ninguno.",
+      "verse": 6,
+      "start_ms": 43462,
+      "end_ms": 46837,
+      "duration_ms": 3375
+    },
+    {
+      "word": "Tus mejillas, tras el velo, son rojas como manzanas.",
+      "verse": 7,
+      "start_ms": 46837,
+      "end_ms": 51449,
+      "duration_ms": 4612
+    },
+    {
+      "word": "Puede haber sesenta reinas, y más de ochenta mujeres; pero mi palomita amada es una mujer singular; ¡es una mujer perfecta!",
+      "verse": 8,
+      "start_ms": 51450,
+      "end_ms": 59725,
+      "duration_ms": 8275
+    },
+    {
+      "word": "Es la hija preferida de su madre.",
+      "verse": 9,
+      "start_ms": 59725,
+      "end_ms": 62462,
+      "duration_ms": 2737
+    },
+    {
+      "word": "Hasta las mujeres mismas la ven y la felicitan; reinas y princesas no se cansan de alabarla.",
+      "verse": 9,
+      "start_ms": 62462,
+      "end_ms": 68449,
+      "duration_ms": 5987
+    },
+    {
+      "word": "Y quién es esta hermosura?",
+      "verse": 10,
+      "start_ms": 68450,
+      "end_ms": 70787,
+      "duration_ms": 2337
+    },
+    {
+      "word": "Es admirable, como la aurora; bella es, como la luna, y esplendorosa como el sol; ¡majestuosa como las estrellas!",
+      "verse": 10,
+      "start_ms": 70787,
+      "end_ms": 79299,
+      "duration_ms": 8512
+    },
+    {
+      "word": "Bajé al jardín de los nogales para ver las nuevas flores del valle, los retoños de las vides y los manzanos en flor.",
+      "verse": 11,
+      "start_ms": 79300,
+      "end_ms": 86187,
+      "duration_ms": 6887
+    },
+    {
+      "word": "Pero, antes de darme cuenta, ¡mi pasión me condujo hasta el carro de mi príncipe!",
+      "verse": 12,
+      "start_ms": 86187,
+      "end_ms": 91474,
+      "duration_ms": 5287
+    },
+    {
+      "word": "Danza, Sulamita; danza para nosotros: ¡queremos verte danzar!",
+      "verse": 13,
+      "start_ms": 91475,
+      "end_ms": 96900,
+      "duration_ms": 5425
+    }
+  ]
+}

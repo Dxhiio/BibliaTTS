@@ -1,0 +1,131 @@
+{
+  "book": "SAL",
+  "chapter": 67,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 7,
+  "word_count": 10,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 100,
+      "text": "Dios mío, ten compasión de nosotros y danos tu bendición. Míranos con alegría y muéstranos tu amor;"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 100,
+      "char_end": 182,
+      "text": "así todas las naciones del mundo conocerán tus enseñanzas y tu poder para salvar."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 182,
+      "char_end": 254,
+      "text": "Dios mío, ¡que te alaben los pueblos! ¡Que todos los pueblos te alaben!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 254,
+      "char_end": 399,
+      "text": "¡Que todas las naciones se alegren y canten llenas de felicidad! Tú gobiernas a los pueblos con justicia; ¡tú guías a las naciones de la tierra!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 399,
+      "char_end": 471,
+      "text": "Dios mío, ¡que te alaben los pueblos! ¡Que todos los pueblos te alaben!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 471,
+      "char_end": 525,
+      "text": "La tierra dará grandes cosechas, y tú nos bendecirás."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 525,
+      "char_end": 602,
+      "text": "Sí, tú nos bendecirás; a ti te alabarán los más lejanos países de la tierra."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios mío, ten compasión de nosotros y danos tu bendición.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4425,
+      "duration_ms": 4325
+    },
+    {
+      "word": "Míranos con alegría y muéstranos tu amor; así todas las naciones del mundo conocerán tus enseñanzas y tu poder para salvar.",
+      "verse": 1,
+      "start_ms": 4375,
+      "end_ms": 12112,
+      "duration_ms": 7737
+    },
+    {
+      "word": "Dios mío, ¡que te alaben los pueblos!",
+      "verse": 3,
+      "start_ms": 12112,
+      "end_ms": 15287,
+      "duration_ms": 3175
+    },
+    {
+      "word": "Que todos los pueblos te alaben!",
+      "verse": 3,
+      "start_ms": 15287,
+      "end_ms": 17862,
+      "duration_ms": 2575
+    },
+    {
+      "word": "Que todas las naciones se alegren y canten llenas de felicidad!",
+      "verse": 4,
+      "start_ms": 17862,
+      "end_ms": 21987,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Tú gobiernas a los pueblos con justicia; ¡tú guías a las naciones de la tierra!",
+      "verse": 4,
+      "start_ms": 21987,
+      "end_ms": 26962,
+      "duration_ms": 4975
+    },
+    {
+      "word": "Dios mío, ¡que te alaben los pueblos!",
+      "verse": 5,
+      "start_ms": 26962,
+      "end_ms": 30137,
+      "duration_ms": 3175
+    },
+    {
+      "word": "Que todos los pueblos te alaben!",
+      "verse": 5,
+      "start_ms": 30137,
+      "end_ms": 32712,
+      "duration_ms": 2575
+    },
+    {
+      "word": "La tierra dará grandes cosechas, y tú nos bendecirás.",
+      "verse": 6,
+      "start_ms": 32712,
+      "end_ms": 36962,
+      "duration_ms": 4250
+    },
+    {
+      "word": "Sí, tú nos bendecirás; a ti te alabarán los más lejanos países de la tierra.",
+      "verse": 7,
+      "start_ms": 36962,
+      "end_ms": 42612,
+      "duration_ms": 5650
+    }
+  ]
+}

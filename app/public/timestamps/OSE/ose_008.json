@@ -1,0 +1,271 @@
+{
+  "book": "OSE",
+  "chapter": 8,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 13,
+  "word_count": 24,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 233,
+      "text": "¡Vigilante, toca la trompeta! ¡Da la señal de alerta! Ya viene el destructor de mi pueblo; se parece a un águila que se lanza sobre su presa. Mi pueblo es muy desobediente; no ha cumplido con mi pacto ni ha seguido mis mandamientos."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 233,
+      "char_end": 302,
+      "text": "Ellos quieren convencerme a gritos de que reconocen que soy su Dios,"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 302,
+      "char_end": 370,
+      "text": "pero no quieren hacer lo bueno. ¡Por eso los perseguirá el enemigo!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 370,
+      "char_end": 547,
+      "text": "Cuando eligieron a sus reyes, no me tomaron en cuenta; cuando nombraron a sus jefes, no me pidieron consejo; ¡ellos mismos se hicieron daño al fabricarse ídolos de oro y plata!"
+    },
+    {
+      "verse": 5,
+      "label": "5-6",
+      "char_start": 547,
+      "char_end": 725,
+      "text": "Habitantes de Samaria, ¡dejen ya de pecar! Estoy muy enojado con ustedes porque adoran a ese toro. ¡Es tan sólo un dios falso, hecho por ustedes mismos! Pero yo lo haré pedazos."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 725,
+      "char_end": 859,
+      "text": "Si no me obedecen, recibirán su castigo: sus campos no darán frutos; y si llegaran a darlos, servirán de alimento para gente extraña."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 859,
+      "char_end": 924,
+      "text": "¡Israel quedará en ruinas! ¡Será la burla de todas las naciones!"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 924,
+      "char_end": 1007,
+      "text": "Mi pueblo anda solo y perdido como perro callejero. Ha pedido ayuda a los asirios,"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1007,
+      "char_end": 1182,
+      "text": "pero de nada le servirá pagar impuestos ni a Asiria ni a las otras naciones. Yo lo enviaré como prisionero a otras naciones lejanas, y por un tiempo no tendrá reyes ni jefes."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1182,
+      "char_end": 1265,
+      "text": "Israelitas, ustedes han construido muchos altares, que sólo les sirven para pecar."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1265,
+      "char_end": 1352,
+      "text": "Yo les di muchas enseñanzas, y se las puse por escrito, pero ustedes las despreciaron."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1352,
+      "char_end": 1586,
+      "text": "Les encanta presentar ofrendas, y luego se comen la carne de los animales que presentan; pero todo eso me disgusta. Yo soy su Dios, y tengo presente sus muchos pecados. Por eso los voy a castigar, y volverán a ser esclavos de Egipto."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1586,
+      "char_end": 1753,
+      "text": "Israelitas, ustedes se olvidan de mí, que soy su creador. Construyen palacios, edifican ciudades y altas murallas, pero yo le prenderé fuego a todo lo que construyan."
+    }
+  ],
+  "words": [
+    {
+      "word": "Vigilante, toca la trompeta!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3025,
+      "duration_ms": 2925
+    },
+    {
+      "word": "Da la señal de alerta!",
+      "verse": 1,
+      "start_ms": 2975,
+      "end_ms": 5287,
+      "duration_ms": 2312
+    },
+    {
+      "word": "Ya viene el destructor de mi pueblo; se parece a un águila que se lanza sobre su presa.",
+      "verse": 1,
+      "start_ms": 5287,
+      "end_ms": 10899,
+      "duration_ms": 5612
+    },
+    {
+      "word": "Mi pueblo es muy desobediente; no ha cumplido con mi pacto ni ha seguido mis mandamientos.",
+      "verse": 1,
+      "start_ms": 10900,
+      "end_ms": 16875,
+      "duration_ms": 5975
+    },
+    {
+      "word": "Ellos quieren convencerme a gritos de que reconocen que soy su Dios, pero no quieren hacer lo bueno.",
+      "verse": 2,
+      "start_ms": 16875,
+      "end_ms": 22612,
+      "duration_ms": 5737
+    },
+    {
+      "word": "Por eso los perseguirá el enemigo!",
+      "verse": 3,
+      "start_ms": 22612,
+      "end_ms": 25274,
+      "duration_ms": 2662
+    },
+    {
+      "word": "Cuando eligieron a sus reyes, no me tomaron en cuenta; cuando nombraron a sus jefes, no me pidieron consejo; ¡ellos mismos se hicieron daño al fabricarse ídolos de oro y plata!",
+      "verse": 4,
+      "start_ms": 25275,
+      "end_ms": 35687,
+      "duration_ms": 10412
+    },
+    {
+      "word": "Habitantes de Samaria, ¡dejen ya de pecar!",
+      "verse": 5,
+      "start_ms": 35687,
+      "end_ms": 39137,
+      "duration_ms": 3450
+    },
+    {
+      "word": "Estoy muy enojado con ustedes porque adoran a ese toro.",
+      "verse": 5,
+      "start_ms": 39137,
+      "end_ms": 43112,
+      "duration_ms": 3975
+    },
+    {
+      "word": "Es tan sólo un dios falso, hecho por ustedes mismos!",
+      "verse": 5,
+      "start_ms": 43112,
+      "end_ms": 47112,
+      "duration_ms": 4000
+    },
+    {
+      "word": "Pero yo lo haré pedazos.",
+      "verse": 5,
+      "start_ms": 47112,
+      "end_ms": 49462,
+      "duration_ms": 2350
+    },
+    {
+      "word": "Si no me obedecen, recibirán su castigo: sus campos no darán frutos; y si llegaran a darlos, servirán de alimento para gente extraña.",
+      "verse": 7,
+      "start_ms": 49462,
+      "end_ms": 58549,
+      "duration_ms": 9087
+    },
+    {
+      "word": "Israel quedará en ruinas!",
+      "verse": 8,
+      "start_ms": 58550,
+      "end_ms": 61037,
+      "duration_ms": 2487
+    },
+    {
+      "word": "Será la burla de todas las naciones!",
+      "verse": 8,
+      "start_ms": 61037,
+      "end_ms": 64174,
+      "duration_ms": 3137
+    },
+    {
+      "word": "Mi pueblo anda solo y perdido como perro callejero.",
+      "verse": 9,
+      "start_ms": 64175,
+      "end_ms": 67950,
+      "duration_ms": 3775
+    },
+    {
+      "word": "Ha pedido ayuda a los asirios, pero de nada le servirá pagar impuestos ni a Asiria ni a las otras naciones.",
+      "verse": 9,
+      "start_ms": 67950,
+      "end_ms": 74887,
+      "duration_ms": 6937
+    },
+    {
+      "word": "Yo lo enviaré como prisionero a otras naciones lejanas, y por un tiempo no tendrá reyes ni jefes.",
+      "verse": 10,
+      "start_ms": 74887,
+      "end_ms": 81387,
+      "duration_ms": 6500
+    },
+    {
+      "word": "Israelitas, ustedes han construido muchos altares, que sólo les sirven para pecar.",
+      "verse": 11,
+      "start_ms": 81387,
+      "end_ms": 87362,
+      "duration_ms": 5975
+    },
+    {
+      "word": "Yo les di muchas enseñanzas, y se las puse por escrito, pero ustedes las despreciaron.",
+      "verse": 12,
+      "start_ms": 87362,
+      "end_ms": 93237,
+      "duration_ms": 5875
+    },
+    {
+      "word": "Les encanta presentar ofrendas, y luego se comen la carne de los animales que presentan; pero todo eso me disgusta.",
+      "verse": 13,
+      "start_ms": 93237,
+      "end_ms": 100562,
+      "duration_ms": 7325
+    },
+    {
+      "word": "Yo soy su Dios, y tengo presente sus muchos pecados.",
+      "verse": 13,
+      "start_ms": 100562,
+      "end_ms": 104874,
+      "duration_ms": 4312
+    },
+    {
+      "word": "Por eso los voy a castigar, y volverán a ser esclavos de Egipto.",
+      "verse": 13,
+      "start_ms": 104875,
+      "end_ms": 109362,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Israelitas, ustedes se olvidan de mí, que soy su creador.",
+      "verse": 14,
+      "start_ms": 109362,
+      "end_ms": 113874,
+      "duration_ms": 4512
+    },
+    {
+      "word": "Construyen palacios, edifican ciudades y altas murallas, pero yo le prenderé fuego a todo lo que construyan.",
+      "verse": 14,
+      "start_ms": 113875,
+      "end_ms": 121262,
+      "duration_ms": 7387
+    }
+  ]
+}

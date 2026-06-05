@@ -1,0 +1,222 @@
+{
+  "book": "OSE",
+  "chapter": 1,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 10,
+  "word_count": 20,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 170,
+      "text": "Dios le habló al profeta Oseas hijo de Beerí, cuando Jeroboam hijo de Joás era rey de Israel. Esto sucedió durante los reinados de Ozías, Jotam, Ahaz y Ezequías en Judá."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 170,
+      "char_end": 355,
+      "text": "Lo primero que Dios le dijo a Oseas fue lo siguiente: Ve y cásate con una prostituta, y ten hijos con ella, porque los israelitas me abandonaron, y se comportaron como las prostitutas."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 355,
+      "char_end": 449,
+      "text": "Oseas obedeció y se casó con Gómer, la hija de Diblaim. Ella quedó embarazada y tuvo un hijo."
+    },
+    {
+      "verse": 4,
+      "label": "4-5",
+      "char_start": 449,
+      "char_end": 716,
+      "text": "Entonces Dios le dijo a Oseas: El rey Jehú ha cometido muchos crímenes en el valle de Jezreel. Por lo tanto, en ese mismo valle derrotaré a su ejército. Castigaré a sus descendientes y acabaré con el reino de Israel. Por eso, a tu hijo le pondrás por nombre Jezreel."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 716,
+      "char_end": 972,
+      "text": "Tiempo después, Gómer volvió a quedar embarazada y tuvo una hija. Entonces Dios le dijo a Oseas: A esta niña la llamarás Lo-ruhama, que quiere decir «no-compadecida», porque no volveré a perdonar ni a tener compasión de los habitantes del reino de Israel."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 972,
+      "char_end": 1106,
+      "text": "Sólo tendré compasión de los habitantes del reino de Judá. Yo mismo los salvaré, y para eso no necesito ejércitos ni armas de guerra."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1106,
+      "char_end": 1208,
+      "text": "Cuando Gómer dejó de darle pecho a Lo-ruhama, volvió a quedar embarazada; pero esta vez tuvo un hijo."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1208,
+      "char_end": 1377,
+      "text": "Entonces Dios le dijo a Oseas: A este niño lo llamarás Lo-amí, que quiere decir «no-mi pueblo». Porque los israelitas ya no son mi pueblo y yo he dejado de ser su Dios."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1377,
+      "char_end": 1635,
+      "text": "Pero un día los del reino de Israel volverán a ser como la arena del mar, que no se puede contar. Cuando llegue ese día, ya no volveré a decirles: «Ustedes no son mi pueblo»; al contrario, les diré: «Ustedes son mi pueblo, porque yo soy el Dios de la vida»."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1635,
+      "char_end": 1856,
+      "text": "Ese día será grandioso, pues yo les devolveré a los reinos de Judá y de Israel la grandeza que tuvieron. Volverán a ser una sola nación; tendrán un solo rey, y volverán a Jerusalén los que fueron llevados a otros países."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios le habló al profeta Oseas hijo de Beerí, cuando Jeroboam hijo de Joás era rey de Israel.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6150,
+      "duration_ms": 6050
+    },
+    {
+      "word": "Esto sucedió durante los reinados de Ozías, Jotam, Ahaz y Ezequías en Judá.",
+      "verse": 1,
+      "start_ms": 6100,
+      "end_ms": 11912,
+      "duration_ms": 5812
+    },
+    {
+      "word": "Lo primero que Dios le dijo a Oseas fue lo siguiente: Ve y cásate con una prostituta, y ten hijos con ella, porque los israelitas me abandonaron, y se comportaron como las prostitutas.",
+      "verse": 2,
+      "start_ms": 11912,
+      "end_ms": 23212,
+      "duration_ms": 11300
+    },
+    {
+      "word": "Oseas obedeció y se casó con Gómer, la hija de Diblaim.",
+      "verse": 3,
+      "start_ms": 23212,
+      "end_ms": 27474,
+      "duration_ms": 4262
+    },
+    {
+      "word": "Ella quedó embarazada y tuvo un hijo.",
+      "verse": 3,
+      "start_ms": 27475,
+      "end_ms": 30387,
+      "duration_ms": 2912
+    },
+    {
+      "word": "Entonces Dios le dijo a Oseas: El rey Jehú ha cometido muchos crímenes en el valle de Jezreel.",
+      "verse": 4,
+      "start_ms": 30387,
+      "end_ms": 36862,
+      "duration_ms": 6475
+    },
+    {
+      "word": "Por lo tanto, en ese mismo valle derrotaré a su ejército.",
+      "verse": 4,
+      "start_ms": 36862,
+      "end_ms": 41099,
+      "duration_ms": 4237
+    },
+    {
+      "word": "Castigaré a sus descendientes y acabaré con el reino de Israel.",
+      "verse": 4,
+      "start_ms": 41100,
+      "end_ms": 45350,
+      "duration_ms": 4250
+    },
+    {
+      "word": "Por eso, a tu hijo le pondrás por nombre Jezreel.",
+      "verse": 4,
+      "start_ms": 45350,
+      "end_ms": 49300,
+      "duration_ms": 3950
+    },
+    {
+      "word": "Tiempo después, Gómer volvió a quedar embarazada y tuvo una hija.",
+      "verse": 6,
+      "start_ms": 49300,
+      "end_ms": 53925,
+      "duration_ms": 4625
+    },
+    {
+      "word": "Entonces Dios le dijo a Oseas: A esta niña la llamarás Lo-ruhama, que quiere decir «no-compadecida», porque no volveré a perdonar ni a tener compasión de los habitantes del reino de Israel.",
+      "verse": 6,
+      "start_ms": 53925,
+      "end_ms": 65437,
+      "duration_ms": 11512
+    },
+    {
+      "word": "Sólo tendré compasión de los habitantes del reino de Judá.",
+      "verse": 7,
+      "start_ms": 65437,
+      "end_ms": 69299,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Yo mismo los salvaré, y para eso no necesito ejércitos ni armas de guerra.",
+      "verse": 7,
+      "start_ms": 69300,
+      "end_ms": 74700,
+      "duration_ms": 5400
+    },
+    {
+      "word": "Cuando Gómer dejó de darle pecho a Lo-ruhama, volvió a quedar embarazada; pero esta vez tuvo un hijo.",
+      "verse": 8,
+      "start_ms": 74700,
+      "end_ms": 81037,
+      "duration_ms": 6337
+    },
+    {
+      "word": "Entonces Dios le dijo a Oseas: A este niño lo llamarás Lo-amí, que quiere decir «no-mi pueblo».",
+      "verse": 9,
+      "start_ms": 81037,
+      "end_ms": 87874,
+      "duration_ms": 6837
+    },
+    {
+      "word": "Porque los israelitas ya no son mi pueblo y yo he dejado de ser su Dios.",
+      "verse": 9,
+      "start_ms": 87875,
+      "end_ms": 92662,
+      "duration_ms": 4787
+    },
+    {
+      "word": "Pero un día los del reino de Israel volverán a ser como la arena del mar, que no se puede contar.",
+      "verse": 10,
+      "start_ms": 92662,
+      "end_ms": 98799,
+      "duration_ms": 6137
+    },
+    {
+      "word": "Cuando llegue ese día, ya no volveré a decirles: «Ustedes no son mi pueblo»; al contrario, les diré: «Ustedes son mi pueblo, porque yo soy el Dios de la vida».",
+      "verse": 10,
+      "start_ms": 98800,
+      "end_ms": 109025,
+      "duration_ms": 10225
+    },
+    {
+      "word": "Ese día será grandioso, pues yo les devolveré a los reinos de Judá y de Israel la grandeza que tuvieron.",
+      "verse": 11,
+      "start_ms": 109025,
+      "end_ms": 115612,
+      "duration_ms": 6587
+    },
+    {
+      "word": "Volverán a ser una sola nación; tendrán un solo rey, y volverán a Jerusalén los que fueron llevados a otros países.",
+      "verse": 11,
+      "start_ms": 115612,
+      "end_ms": 123087,
+      "duration_ms": 7475
+    }
+  ]
+}

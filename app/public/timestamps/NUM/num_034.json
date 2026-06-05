@@ -1,0 +1,166 @@
+{
+  "book": "NUM",
+  "chapter": 34,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 7,
+  "word_count": 15,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 25,
+      "text": "Dios le ordenó a Moisés:"
+    },
+    {
+      "verse": 2,
+      "label": "2-12",
+      "char_start": 25,
+      "char_end": 967,
+      "text": "Diles a los israelitas que éstos serán los límites del territorio que les voy a dar: Límite sur, junto al desierto de Sin y la región de Edom: empieza al este, donde termina el Mar Muerto, y se extiende rumbo sur hasta Cadés-barnea, pasando por la cuesta de Acrabim y por Sin. De Cadés-barnea seguirá rumbo a Hasar-adar, hasta llegar a Asmón. De allí dará vuelta hacia el arroyo de Egipto, y terminará en el mar Mediterráneo. Límite oeste: estará formado por la costa del mar Mediterráneo. Límite norte: se extiende en línea recta desde el mar Mediterráneo hasta el monte Hor. Desde Hor seguirá hasta la entrada de Hamat, y de allí hasta Sedad. Luego la frontera se alargará hasta Zifrón y terminará en Hasar-enán. Límite este: se extiende desde Hasar-enán hasta Sefam. De allí irá hasta Riblá, que está al este de Ain. Luego la frontera bajará por la costa oriental del lago Quinéret, y seguirá por el río Jordán hasta llegar al Mar Muerto."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 967,
+      "char_end": 1132,
+      "text": "Moisés les dijo a los israelitas: Éste es el territorio que Dios repartirá entre las nueve tribus y media. Cada una recibirá su parte, según la suerte que le toque."
+    },
+    {
+      "verse": 14,
+      "label": "14-15",
+      "char_start": 1132,
+      "char_end": 1277,
+      "text": "La tribu de Rubén, la tribu de Gad y la media tribu de Manasés ya recibieron su parte al otro lado del río Jordán, frente a la ciudad de Jericó."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1277,
+      "char_end": 1302,
+      "text": "Y Dios le dijo a Moisés:"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1302,
+      "char_end": 1358,
+      "text": "El sacerdote Eleazar y Josué, repartirán el territorio."
+    },
+    {
+      "verse": 18,
+      "label": "18-29",
+      "char_start": 1358,
+      "char_end": 1745,
+      "text": "Además, deben llamar a los siguientes jefes de tribu para que los ayuden: Caleb, de la tribu de Judá, Samuel, de la tribu de Simeón, Elidad, de la tribu de Benjamín, Buquí, de la tribu de Dan, Haniel, de la tribu de Manasés, Quemuel, de la tribu de Efraín, Elisafán, de la tribu de Zabulón, Palatiel, de la tribu de Isacar, Ahihud, de la tribu de Aser, yPedahel, de la tribu de Neftalí."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios le ordenó a Moisés: Diles a los israelitas que éstos serán los límites del territorio que les voy a dar: Límite sur, junto al desierto de Sin y la región de Edom: empieza al este, donde termina el Mar Muerto, y se extiende rumbo sur hasta Cadés-barnea, pasando por la cuesta de Acrabim y por Sin.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 18162,
+      "duration_ms": 18062
+    },
+    {
+      "word": "De Cadés-barnea seguirá rumbo a Hasar-adar, hasta llegar a Asmón.",
+      "verse": 2,
+      "start_ms": 18162,
+      "end_ms": 22637,
+      "duration_ms": 4475
+    },
+    {
+      "word": "De allí dará vuelta hacia el arroyo de Egipto, y terminará en el mar Mediterráneo.",
+      "verse": 2,
+      "start_ms": 22637,
+      "end_ms": 28224,
+      "duration_ms": 5587
+    },
+    {
+      "word": "Límite oeste: estará formado por la costa del mar Mediterráneo.",
+      "verse": 2,
+      "start_ms": 28225,
+      "end_ms": 33112,
+      "duration_ms": 4887
+    },
+    {
+      "word": "Límite norte: se extiende en línea recta desde el mar Mediterráneo hasta el monte Hor.",
+      "verse": 2,
+      "start_ms": 33112,
+      "end_ms": 39024,
+      "duration_ms": 5912
+    },
+    {
+      "word": "Desde Hor seguirá hasta la entrada de Hamat, y de allí hasta Sedad.",
+      "verse": 2,
+      "start_ms": 39025,
+      "end_ms": 43487,
+      "duration_ms": 4462
+    },
+    {
+      "word": "Luego la frontera se alargará hasta Zifrón y terminará en Hasar-enán.",
+      "verse": 2,
+      "start_ms": 43487,
+      "end_ms": 47999,
+      "duration_ms": 4512
+    },
+    {
+      "word": "Límite este: se extiende desde Hasar-enán hasta Sefam.",
+      "verse": 2,
+      "start_ms": 48000,
+      "end_ms": 52175,
+      "duration_ms": 4175
+    },
+    {
+      "word": "De allí irá hasta Riblá, que está al este de Ain.",
+      "verse": 2,
+      "start_ms": 52175,
+      "end_ms": 56075,
+      "duration_ms": 3900
+    },
+    {
+      "word": "Luego la frontera bajará por la costa oriental del lago Quinéret, y seguirá por el río Jordán hasta llegar al Mar Muerto.",
+      "verse": 2,
+      "start_ms": 56075,
+      "end_ms": 63325,
+      "duration_ms": 7250
+    },
+    {
+      "word": "Moisés les dijo a los israelitas: Éste es el territorio que Dios repartirá entre las nueve tribus y media.",
+      "verse": 13,
+      "start_ms": 63325,
+      "end_ms": 70187,
+      "duration_ms": 6862
+    },
+    {
+      "word": "Cada una recibirá su parte, según la suerte que le toque.",
+      "verse": 13,
+      "start_ms": 70187,
+      "end_ms": 74362,
+      "duration_ms": 4175
+    },
+    {
+      "word": "La tribu de Rubén, la tribu de Gad y la media tribu de Manasés ya recibieron su parte al otro lado del río Jordán, frente a la ciudad de Jericó.",
+      "verse": 14,
+      "start_ms": 74362,
+      "end_ms": 82949,
+      "duration_ms": 8587
+    },
+    {
+      "word": "Y Dios le dijo a Moisés: El sacerdote Eleazar y Josué, repartirán el territorio.",
+      "verse": 16,
+      "start_ms": 82950,
+      "end_ms": 89012,
+      "duration_ms": 6062
+    },
+    {
+      "word": "Además, deben llamar a los siguientes jefes de tribu para que los ayuden: Caleb, de la tribu de Judá, Samuel, de la tribu de Simeón, Elidad, de la tribu de Benjamín, Buquí, de la tribu de Dan, Haniel, de la tribu de Manasés, Quemuel, de la tribu de Efraín, Elisafán, de la tribu de Zabulón, Palatiel, de la tribu de Isacar, Ahihud, de la tribu de Aser, yPedahel, de la tribu de Neftalí.",
+      "verse": 18,
+      "start_ms": 89012,
+      "end_ms": 116062,
+      "duration_ms": 27050
+    }
+  ]
+}

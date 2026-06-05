@@ -1,0 +1,208 @@
+{
+  "book": "NUM",
+  "chapter": 30,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 16,
+  "word_count": 12,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 87,
+      "text": "Moisés les dijo a los jefes de las tribus de Israel: Dios me ordenó que los instruyera"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 87,
+      "char_end": 131,
+      "text": "sobre las promesas que se le deben cumplir."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 131,
+      "char_end": 180,
+      "text": "Si una joven soltera le hace una promesa a Dios,"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 180,
+      "char_end": 242,
+      "text": "y su padre está de acuerdo con ella, la joven debe cumplirla."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 242,
+      "char_end": 380,
+      "text": "Pero si su padre no está de acuerdo con lo que ella prometió, entonces ella no estará obligada a cumplir su promesa, y Dios la perdonará."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 380,
+      "char_end": 454,
+      "text": "Si una mujer soltera hace una promesa sin pensarlo bien, y luego se casa,"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 454,
+      "char_end": 519,
+      "text": "y su esposo está de acuerdo con ella, la mujer deberá cumplirla."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 519,
+      "char_end": 658,
+      "text": "Pero si su esposo no está de acuerdo con lo que ella prometió, entonces ella no estará obligada a cumplir su promesa, y Dios la perdonará."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 658,
+      "char_end": 759,
+      "text": "La mujer está obligada a cumplir lo que le haya prometido a Dios, aun cuando sea divorciada o viuda."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 759,
+      "char_end": 797,
+      "text": "Si una mujer casada hace una promesa,"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 797,
+      "char_end": 862,
+      "text": "y su esposo está de acuerdo con ella, la mujer deberá cumplirla."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 862,
+      "char_end": 994,
+      "text": "Pero si su esposo no está de acuerdo con lo que ella prometió, entonces ella no tendrá que cumplir su promesa, y Dios la perdonará."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 994,
+      "char_end": 1094,
+      "text": "El esposo siempre tendrá la última palabra con respecto a las promesas que su mujer le haga a Dios."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1094,
+      "char_end": 1210,
+      "text": "Si el esposo sabe que su mujer ha hecho una promesa y está de acuerdo con ella, la mujer está obligada a cumplirla."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1210,
+      "char_end": 1367,
+      "text": "Pero si el esposo primero estaba de acuerdo, y después de un tiempo le impide a su mujer que cumpla sus promesas, entonces él será culpable delante de Dios."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1367,
+      "char_end": 1495,
+      "text": "Éstas son las instrucciones que Dios le dio a Moisés acerca de las promesas que hacen las mujeres, tanto casadas como solteras."
+    }
+  ],
+  "words": [
+    {
+      "word": "Moisés les dijo a los jefes de las tribus de Israel: Dios me ordenó que los instruyera sobre las promesas que se le deben cumplir.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7587,
+      "duration_ms": 7487
+    },
+    {
+      "word": "Si una joven soltera le hace una promesa a Dios, y su padre está de acuerdo con ella, la joven debe cumplirla.",
+      "verse": 3,
+      "start_ms": 7537,
+      "end_ms": 14574,
+      "duration_ms": 7037
+    },
+    {
+      "word": "Pero si su padre no está de acuerdo con lo que ella prometió, entonces ella no estará obligada a cumplir su promesa, y Dios la perdonará.",
+      "verse": 5,
+      "start_ms": 14575,
+      "end_ms": 22800,
+      "duration_ms": 8225
+    },
+    {
+      "word": "Si una mujer soltera hace una promesa sin pensarlo bien, y luego se casa, y su esposo está de acuerdo con ella, la mujer deberá cumplirla.",
+      "verse": 6,
+      "start_ms": 22800,
+      "end_ms": 31425,
+      "duration_ms": 8625
+    },
+    {
+      "word": "Pero si su esposo no está de acuerdo con lo que ella prometió, entonces ella no estará obligada a cumplir su promesa, y Dios la perdonará.",
+      "verse": 8,
+      "start_ms": 31425,
+      "end_ms": 39612,
+      "duration_ms": 8187
+    },
+    {
+      "word": "La mujer está obligada a cumplir lo que le haya prometido a Dios, aun cuando sea divorciada o viuda.",
+      "verse": 9,
+      "start_ms": 39612,
+      "end_ms": 45699,
+      "duration_ms": 6087
+    },
+    {
+      "word": "Si una mujer casada hace una promesa, y su esposo está de acuerdo con ella, la mujer deberá cumplirla.",
+      "verse": 10,
+      "start_ms": 45700,
+      "end_ms": 52375,
+      "duration_ms": 6675
+    },
+    {
+      "word": "Pero si su esposo no está de acuerdo con lo que ella prometió, entonces ella no tendrá que cumplir su promesa, y Dios la perdonará.",
+      "verse": 12,
+      "start_ms": 52375,
+      "end_ms": 60075,
+      "duration_ms": 7700
+    },
+    {
+      "word": "El esposo siempre tendrá la última palabra con respecto a las promesas que su mujer le haga a Dios.",
+      "verse": 13,
+      "start_ms": 60075,
+      "end_ms": 65962,
+      "duration_ms": 5887
+    },
+    {
+      "word": "Si el esposo sabe que su mujer ha hecho una promesa y está de acuerdo con ella, la mujer está obligada a cumplirla.",
+      "verse": 14,
+      "start_ms": 65962,
+      "end_ms": 72999,
+      "duration_ms": 7037
+    },
+    {
+      "word": "Pero si el esposo primero estaba de acuerdo, y después de un tiempo le impide a su mujer que cumpla sus promesas, entonces él será culpable delante de Dios.",
+      "verse": 15,
+      "start_ms": 73000,
+      "end_ms": 82125,
+      "duration_ms": 9125
+    },
+    {
+      "word": "Éstas son las instrucciones que Dios le dio a Moisés acerca de las promesas que hacen las mujeres, tanto casadas como solteras.",
+      "verse": 16,
+      "start_ms": 82125,
+      "end_ms": 89512,
+      "duration_ms": 7387
+    }
+  ]
+}

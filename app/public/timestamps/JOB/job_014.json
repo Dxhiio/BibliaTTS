@@ -1,0 +1,299 @@
+{
+  "book": "JOB",
+  "chapter": 14,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 19,
+  "word_count": 22,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 61,
+      "text": "Es muy corta nuestra vida, y muy grande nuestro sufrimiento."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 61,
+      "char_end": 164,
+      "text": "Somos como las flores: nacemos, y pronto nos marchitamos; somos como una sombra que pronto desaparece."
+    },
+    {
+      "verse": 3,
+      "label": "3-4",
+      "char_start": 164,
+      "char_end": 294,
+      "text": "Lo impuro no puede volverse puro; no hay nadie que pueda hacerlo. Y aun así te fijas en nosotros, y discutes con alguien como yo."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 294,
+      "char_end": 362,
+      "text": "Nuestra vida tiene un límite; has decidido cuánto tiempo viviremos."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 362,
+      "char_end": 445,
+      "text": "¡Deja ya de vigilarnos! ¡Déjanos vivir tranquilos, y disfrutar de nuestro salario!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 445,
+      "char_end": 503,
+      "text": "Al árbol caído le queda la esperanza de volver a retoñar."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 503,
+      "char_end": 558,
+      "text": "Tal vez el tronco y las raíces se pudran en la tierra,"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 558,
+      "char_end": 658,
+      "text": "pero en cuanto sientan el agua volverán a florecer, y echarán ramas, como un árbol recién plantado."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 658,
+      "char_end": 742,
+      "text": "En cambio, nosotros, con el último suspiro perdemos la fuerza y dejamos de existir."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 742,
+      "char_end": 807,
+      "text": "Somos como los lagos y los ríos: sin agua, se agotan y se secan."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 807,
+      "char_end": 942,
+      "text": "Mientras el cielo exista, no habrá uno solo de nosotros que se levante de la tumba; una vez que caiga muerto, no volverá a levantarse."
+    },
+    {
+      "verse": 13,
+      "label": "13-15",
+      "char_start": 942,
+      "char_end": 1220,
+      "text": "Si fuera posible volver a la vida después de la muerte, preferiría estar muerto. Tú me esconderías en la tumba, hasta que se calmara tu enojo. Luego te acordarías de mí y volverías a despertarme. Como eres mi creador, cuando al fin quisieras verme, yo respondería a tu llamado."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1220,
+      "char_end": 1286,
+      "text": "Seguirías viendo todo lo que hago, sin tomar en cuenta mi pecado."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1286,
+      "char_end": 1371,
+      "text": "Tú me perdonarías; echarías mi pecado en una bolsa y lo arrojarías lejos, muy lejos."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1371,
+      "char_end": 1443,
+      "text": "Sin embargo, nos derrumbamos como los montes, rodamos como las piedras,"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1443,
+      "char_end": 1571,
+      "text": "¡nos desgastamos como las rocas ante el constante paso del agua! Tú acabas con nuestras esperanzas; nos destrozas por completo,"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1571,
+      "char_end": 1644,
+      "text": "nos haces desaparecer, nos quitas la vida y luego nos mandas a la tumba."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1644,
+      "char_end": 1733,
+      "text": "Si más tarde a nuestros hijos se les honra o se les humilla, nosotros ya no lo sabremos."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1733,
+      "char_end": 1794,
+      "text": "Sólo sentiremos en carne propia nuestro dolor y sufrimiento."
+    }
+  ],
+  "words": [
+    {
+      "word": "Es muy corta nuestra vida, y muy grande nuestro sufrimiento.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4425,
+      "duration_ms": 4325
+    },
+    {
+      "word": "Somos como las flores: nacemos, y pronto nos marchitamos; somos como una sombra que pronto desaparece.",
+      "verse": 2,
+      "start_ms": 4375,
+      "end_ms": 11912,
+      "duration_ms": 7537
+    },
+    {
+      "word": "Lo impuro no puede volverse puro; no hay nadie que pueda hacerlo.",
+      "verse": 3,
+      "start_ms": 11912,
+      "end_ms": 16449,
+      "duration_ms": 4537
+    },
+    {
+      "word": "Y aun así te fijas en nosotros, y discutes con alguien como yo.",
+      "verse": 3,
+      "start_ms": 16450,
+      "end_ms": 21037,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Nuestra vida tiene un límite; has decidido cuánto tiempo viviremos.",
+      "verse": 5,
+      "start_ms": 21037,
+      "end_ms": 25799,
+      "duration_ms": 4762
+    },
+    {
+      "word": "Deja ya de vigilarnos!",
+      "verse": 6,
+      "start_ms": 25800,
+      "end_ms": 28175,
+      "duration_ms": 2375
+    },
+    {
+      "word": "Déjanos vivir tranquilos, y disfrutar de nuestro salario!",
+      "verse": 6,
+      "start_ms": 28175,
+      "end_ms": 32487,
+      "duration_ms": 4312
+    },
+    {
+      "word": "Al árbol caído le queda la esperanza de volver a retoñar.",
+      "verse": 7,
+      "start_ms": 32487,
+      "end_ms": 36499,
+      "duration_ms": 4012
+    },
+    {
+      "word": "Tal vez el tronco y las raíces se pudran en la tierra, pero en cuanto sientan el agua volverán a florecer, y echarán ramas, como un árbol recién plantado.",
+      "verse": 8,
+      "start_ms": 36500,
+      "end_ms": 45625,
+      "duration_ms": 9125
+    },
+    {
+      "word": "En cambio, nosotros, con el último suspiro perdemos la fuerza y dejamos de existir.",
+      "verse": 10,
+      "start_ms": 45625,
+      "end_ms": 51625,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Somos como los lagos y los ríos: sin agua, se agotan y se secan.",
+      "verse": 11,
+      "start_ms": 51625,
+      "end_ms": 56850,
+      "duration_ms": 5225
+    },
+    {
+      "word": "Mientras el cielo exista, no habrá uno solo de nosotros que se levante de la tumba; una vez que caiga muerto, no volverá a levantarse.",
+      "verse": 12,
+      "start_ms": 56850,
+      "end_ms": 65200,
+      "duration_ms": 8350
+    },
+    {
+      "word": "Si fuera posible volver a la vida después de la muerte, preferiría estar muerto.",
+      "verse": 13,
+      "start_ms": 65200,
+      "end_ms": 70350,
+      "duration_ms": 5150
+    },
+    {
+      "word": "Tú me esconderías en la tumba, hasta que se calmara tu enojo.",
+      "verse": 13,
+      "start_ms": 70350,
+      "end_ms": 74425,
+      "duration_ms": 4075
+    },
+    {
+      "word": "Luego te acordarías de mí y volverías a despertarme.",
+      "verse": 13,
+      "start_ms": 74425,
+      "end_ms": 78212,
+      "duration_ms": 3787
+    },
+    {
+      "word": "Como eres mi creador, cuando al fin quisieras verme, yo respondería a tu llamado.",
+      "verse": 13,
+      "start_ms": 78212,
+      "end_ms": 83674,
+      "duration_ms": 5462
+    },
+    {
+      "word": "Seguirías viendo todo lo que hago, sin tomar en cuenta mi pecado.",
+      "verse": 16,
+      "start_ms": 83675,
+      "end_ms": 88212,
+      "duration_ms": 4537
+    },
+    {
+      "word": "Tú me perdonarías; echarías mi pecado en una bolsa y lo arrojarías lejos, muy lejos.",
+      "verse": 17,
+      "start_ms": 88212,
+      "end_ms": 94487,
+      "duration_ms": 6275
+    },
+    {
+      "word": "Sin embargo, nos derrumbamos como los montes, rodamos como las piedras, ¡nos desgastamos como las rocas ante el constante paso del agua!",
+      "verse": 18,
+      "start_ms": 94487,
+      "end_ms": 102962,
+      "duration_ms": 8475
+    },
+    {
+      "word": "Tú acabas con nuestras esperanzas; nos destrozas por completo, nos haces desaparecer, nos quitas la vida y luego nos mandas a la tumba.",
+      "verse": 19,
+      "start_ms": 102962,
+      "end_ms": 111374,
+      "duration_ms": 8412
+    },
+    {
+      "word": "Si más tarde a nuestros hijos se les honra o se les humilla, nosotros ya no lo sabremos.",
+      "verse": 21,
+      "start_ms": 111375,
+      "end_ms": 117187,
+      "duration_ms": 5812
+    },
+    {
+      "word": "Sólo sentiremos en carne propia nuestro dolor y sufrimiento.",
+      "verse": 22,
+      "start_ms": 117187,
+      "end_ms": 121262,
+      "duration_ms": 4075
+    }
+  ]
+}

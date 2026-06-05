@@ -1,0 +1,264 @@
+{
+  "book": "SAL",
+  "chapter": 7,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 16,
+  "word_count": 20,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 83,
+      "text": "Mi Dios, en ti confío; ¡sálvame de los que me persiguen!, ¡líbrame de todos ellos!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 83,
+      "char_end": 179,
+      "text": "Si no me salvas, acabarán conmigo; me despedazarán como leones y nadie podrá librarme de ellos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 179,
+      "char_end": 227,
+      "text": "Dios mío, ¿qué daño les hice?, ¿qué mal cometí?"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 227,
+      "char_end": 311,
+      "text": "¿Acaso le hice daño a mi amigo? ¿Acaso le quité algo a quien me maltrata sin razón?"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 311,
+      "char_end": 430,
+      "text": "Si es así, deja que mi enemigo me persiga y me alcance; deja que me arrastre por el suelo y que me ponga en vergüenza."
+    },
+    {
+      "verse": 6,
+      "label": "6-7",
+      "char_start": 430,
+      "char_end": 580,
+      "text": "Dios mío, ¡siéntate ya en tu alto trono, y rodeado de las naciones, declárame inocente! ¡Enfréntate a la furia de mis enemigos y muéstrales tu enojo!"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 580,
+      "char_end": 692,
+      "text": "Tú, Dios mío, eres el juez de los pueblos: ¡júzgame y dicta mi sentencia, pero toma en cuenta que soy inocente!"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 692,
+      "char_end": 849,
+      "text": "Tú eres un Dios justo, y conoces nuestros pensamientos: ¡acaba, pues, con los malvados, para que ya no hagan lo malo, pero dale tu apoyo a la gente honrada!"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 849,
+      "char_end": 942,
+      "text": "Dios mío, tú me das tu protección; me proteges como un escudo. Tú salvas a la gente honrada."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 942,
+      "char_end": 999,
+      "text": "Tú eres un juez justo y siempre castigas a los malvados."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 999,
+      "char_end": 1071,
+      "text": "Si éstos no se arrepienten, tú afilarás tu espada y prepararás tu arco."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1071,
+      "char_end": 1149,
+      "text": "Ya tienes listas tus armas de muerte; ¡ya tienes listas tus flechas de fuego!"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1149,
+      "char_end": 1233,
+      "text": "¡Fíjense en el malvado! Planea el crimen, lo comete y luego niega haberlo cometido."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1233,
+      "char_end": 1294,
+      "text": "Ha hecho un hoyo muy profundo, pero en ese mismo hoyo caerá,"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1294,
+      "char_end": 1348,
+      "text": "y sufrirá las consecuencias de su violencia y maldad."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1348,
+      "char_end": 1435,
+      "text": "Yo, en cambio, alabaré a Dios porque es justo. ¡Yo le cantaré himnos al Dios altísimo!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Mi Dios, en ti confío; ¡sálvame de los que me persiguen!, ¡líbrame de todos ellos!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5825,
+      "duration_ms": 5725
+    },
+    {
+      "word": "Si no me salvas, acabarán conmigo; me despedazarán como leones y nadie podrá librarme de ellos.",
+      "verse": 2,
+      "start_ms": 5775,
+      "end_ms": 12625,
+      "duration_ms": 6850
+    },
+    {
+      "word": "Dios mío, ¿qué daño les hice?, ¿qué mal cometí?",
+      "verse": 3,
+      "start_ms": 12625,
+      "end_ms": 16550,
+      "duration_ms": 3925
+    },
+    {
+      "word": "Acaso le hice daño a mi amigo?",
+      "verse": 4,
+      "start_ms": 16550,
+      "end_ms": 19200,
+      "duration_ms": 2650
+    },
+    {
+      "word": "Acaso le quité algo a quien me maltrata sin razón?",
+      "verse": 4,
+      "start_ms": 19200,
+      "end_ms": 22700,
+      "duration_ms": 3500
+    },
+    {
+      "word": "Si es así, deja que mi enemigo me persiga y me alcance; deja que me arrastre por el suelo y que me ponga en vergüenza.",
+      "verse": 5,
+      "start_ms": 22700,
+      "end_ms": 30025,
+      "duration_ms": 7325
+    },
+    {
+      "word": "Dios mío, ¡siéntate ya en tu alto trono, y rodeado de las naciones, declárame inocente!",
+      "verse": 6,
+      "start_ms": 30025,
+      "end_ms": 36600,
+      "duration_ms": 6575
+    },
+    {
+      "word": "Enfréntate a la furia de mis enemigos y muéstrales tu enojo!",
+      "verse": 6,
+      "start_ms": 36600,
+      "end_ms": 40700,
+      "duration_ms": 4100
+    },
+    {
+      "word": "Tú, Dios mío, eres el juez de los pueblos: ¡júzgame y dicta mi sentencia, pero toma en cuenta que soy inocente!",
+      "verse": 8,
+      "start_ms": 40700,
+      "end_ms": 48462,
+      "duration_ms": 7762
+    },
+    {
+      "word": "Tú eres un Dios justo, y conoces nuestros pensamientos: ¡acaba, pues, con los malvados, para que ya no hagan lo malo, pero dale tu apoyo a la gente honrada!",
+      "verse": 9,
+      "start_ms": 48462,
+      "end_ms": 58749,
+      "duration_ms": 10287
+    },
+    {
+      "word": "Dios mío, tú me das tu protección; me proteges como un escudo.",
+      "verse": 10,
+      "start_ms": 58750,
+      "end_ms": 63612,
+      "duration_ms": 4862
+    },
+    {
+      "word": "Tú salvas a la gente honrada.",
+      "verse": 10,
+      "start_ms": 63612,
+      "end_ms": 66149,
+      "duration_ms": 2537
+    },
+    {
+      "word": "Tú eres un juez justo y siempre castigas a los malvados.",
+      "verse": 11,
+      "start_ms": 66150,
+      "end_ms": 70200,
+      "duration_ms": 4050
+    },
+    {
+      "word": "Si éstos no se arrepienten, tú afilarás tu espada y prepararás tu arco.",
+      "verse": 12,
+      "start_ms": 70200,
+      "end_ms": 75262,
+      "duration_ms": 5062
+    },
+    {
+      "word": "Ya tienes listas tus armas de muerte; ¡ya tienes listas tus flechas de fuego!",
+      "verse": 13,
+      "start_ms": 75262,
+      "end_ms": 80287,
+      "duration_ms": 5025
+    },
+    {
+      "word": "Fíjense en el malvado!",
+      "verse": 14,
+      "start_ms": 80287,
+      "end_ms": 82449,
+      "duration_ms": 2162
+    },
+    {
+      "word": "Planea el crimen, lo comete y luego niega haberlo cometido.",
+      "verse": 14,
+      "start_ms": 82450,
+      "end_ms": 86962,
+      "duration_ms": 4512
+    },
+    {
+      "word": "Ha hecho un hoyo muy profundo, pero en ese mismo hoyo caerá, y sufrirá las consecuencias de su violencia y maldad.",
+      "verse": 15,
+      "start_ms": 86962,
+      "end_ms": 94262,
+      "duration_ms": 7300
+    },
+    {
+      "word": "Yo, en cambio, alabaré a Dios porque es justo.",
+      "verse": 17,
+      "start_ms": 94262,
+      "end_ms": 98599,
+      "duration_ms": 4337
+    },
+    {
+      "word": "Yo le cantaré himnos al Dios altísimo!",
+      "verse": 17,
+      "start_ms": 98600,
+      "end_ms": 101637,
+      "duration_ms": 3037
+    }
+  ]
+}

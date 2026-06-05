@@ -1,0 +1,586 @@
+{
+  "book": "GEN",
+  "chapter": 1,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 31,
+  "word_count": 51,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 50,
+      "text": "Cuando Dios comenzó a crear el cielo y la tierra,"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 50,
+      "char_end": 232,
+      "text": "la tierra no tenía forma, ni había en ella nada que tuviera vida. Las aguas estaban cubiertas por una gran oscuridad, pero sobre la superficie del agua se movía el espíritu de Dios."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 232,
+      "char_end": 299,
+      "text": "Dijo entonces Dios: ¡Quiero que haya luz! ¡Y al instante hubo luz!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 299,
+      "char_end": 359,
+      "text": "Al ver Dios la belleza de la luz, la apartó de la oscuridad"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 359,
+      "char_end": 475,
+      "text": "y le puso por nombre día. A la oscuridad la llamó noche. Y cayó la noche, y llegó la mañana. Ése fue el primer día."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 475,
+      "char_end": 554,
+      "text": "Dijo entonces Dios: Quiero que haya entre las aguas algo firme que las separe."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 554,
+      "char_end": 686,
+      "text": "¡Y al instante se hizo así! Dios puso algo firme entre las aguas, y la mitad de las aguas quedó abajo y la otra mitad quedó arriba."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 686,
+      "char_end": 811,
+      "text": "Al ver la belleza del firmamento, Dios le puso por nombre cielo. Y cayó la noche, y llegó la mañana. Ése fue el segundo día."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 811,
+      "char_end": 959,
+      "text": "Dijo entonces Dios: Quiero que las aguas que están debajo del cielo se junten en un solo lugar, y que aparezca lo seco. ¡Y al instante se hizo así!"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 959,
+      "char_end": 1013,
+      "text": "Dios llamó tierra a lo seco, y llamó mar a las aguas."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1013,
+      "char_end": 1144,
+      "text": "Al ver Dios tal belleza, dijo: Quiero que haya en la tierra árboles y plantas que den fruto y semilla. ¡Y al instante se hizo así!"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1144,
+      "char_end": 1275,
+      "text": "La tierra produjo árboles y plantas; los árboles dieron frutos, y las plantas dieron semillas. Mientras Dios admiraba tal belleza,"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1275,
+      "char_end": 1332,
+      "text": "cayó la noche, y llegó la mañana. Ése fue el tercer día."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1332,
+      "char_end": 1474,
+      "text": "Dijo entonces Dios: Quiero que haya en el cielo luces que separen el día de la noche; luces que indiquen las estaciones, los días y los años;"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1474,
+      "char_end": 1549,
+      "text": "luces en el cielo azul que iluminen la tierra. ¡Y al instante se hizo así!"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1549,
+      "char_end": 1685,
+      "text": "Dios hizo las dos grandes luces: el sol, para que domine en el día, y la luna, para que domine en la noche. También hizo las estrellas."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1685,
+      "char_end": 1744,
+      "text": "Dios puso estas luces en el cielo para alumbrar la tierra,"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1744,
+      "char_end": 1857,
+      "text": "para dominar en el día y en la noche, y para separar la luz de la oscuridad. Mientras Dios admiraba tal belleza,"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1857,
+      "char_end": 1914,
+      "text": "cayó la noche, y llegó la mañana. Ése fue el cuarto día."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1914,
+      "char_end": 2049,
+      "text": "Dijo entonces Dios: Quiero que los mares se llenen con seres vivos. Quiero que las aves vuelen sobre la tierra y crucen el cielo azul."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2049,
+      "char_end": 2200,
+      "text": "Así creó Dios los grandes monstruos marinos. Creó todos los seres vivos que se mueven en el agua, y todas las aves del cielo. Al ver Dios tal belleza,"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2200,
+      "char_end": 2333,
+      "text": "les dio esta bendición: Quiero que los peces se reproduzcan y llenen los mares; quiero que las aves se multipliquen sobre la tierra."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2333,
+      "char_end": 2392,
+      "text": "Y cayó la noche, y llegó la mañana. Ése fue el quinto día."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2392,
+      "char_end": 2557,
+      "text": "Dijo entonces Dios: Quiero que haya en la tierra toda clase de seres vivos: animales domésticos, animales salvajes, reptiles e insectos. ¡Y al instante se hizo así!"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2557,
+      "char_end": 2644,
+      "text": "Dios hizo los animales salvajes, los animales domésticos, los reptiles y los insectos."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2644,
+      "char_end": 2855,
+      "text": "Al ver Dios tal belleza, dijo: Hagamos ahora al ser humano tal y como somos nosotros. Que domine a los peces del mar y a las aves del cielo, a todos los animales de la tierra, y a todos los reptiles e insectos."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2855,
+      "char_end": 2965,
+      "text": "Fue así como Dios creó al ser humano tal y como es Dios. Lo creó a su semejanza. Creó al hombre y a la mujer,"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2965,
+      "char_end": 3216,
+      "text": "y les dio esta bendición: Quiero que se reproduzcan, quiero que se multipliquen, quiero que llenen la tierra y la pongan bajo su dominio. Que dominen a los peces del mar y a las aves del cielo, y a todos los seres vivos que se arrastran por el suelo."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3216,
+      "char_end": 3354,
+      "text": "También les dijo Dios: Hoy les entrego a ustedes toda planta que da semilla y todo árbol que da fruto. Todo esto les servirá de alimento."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3354,
+      "char_end": 3433,
+      "text": "Pero la hierba verde será para todos los animales. ¡Y al instante se hizo así!"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3433,
+      "char_end": 3544,
+      "text": "Mientras Dios admiraba la gran belleza de su creación, cayó la noche, y llegó la mañana. Ése fue el sexto día."
+    }
+  ],
+  "words": [
+    {
+      "word": "Cuando Dios comenzó a crear el cielo y la tierra, la tierra no tenía forma, ni había en ella nada que tuviera vida.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7150,
+      "duration_ms": 7050
+    },
+    {
+      "word": "Las aguas estaban cubiertas por una gran oscuridad, pero sobre la superficie del agua se movía el espíritu de Dios.",
+      "verse": 2,
+      "start_ms": 7100,
+      "end_ms": 14050,
+      "duration_ms": 6950
+    },
+    {
+      "word": "Dijo entonces Dios: ¡Quiero que haya luz!",
+      "verse": 3,
+      "start_ms": 14050,
+      "end_ms": 17325,
+      "duration_ms": 3275
+    },
+    {
+      "word": "Y al instante hubo luz!",
+      "verse": 3,
+      "start_ms": 17325,
+      "end_ms": 19612,
+      "duration_ms": 2287
+    },
+    {
+      "word": "Al ver Dios la belleza de la luz, la apartó de la oscuridad y le puso por nombre día.",
+      "verse": 4,
+      "start_ms": 19612,
+      "end_ms": 25224,
+      "duration_ms": 5612
+    },
+    {
+      "word": "A la oscuridad la llamó noche.",
+      "verse": 5,
+      "start_ms": 25225,
+      "end_ms": 27750,
+      "duration_ms": 2525
+    },
+    {
+      "word": "Y cayó la noche, y llegó la mañana.",
+      "verse": 5,
+      "start_ms": 27750,
+      "end_ms": 30762,
+      "duration_ms": 3012
+    },
+    {
+      "word": "Ése fue el primer día.",
+      "verse": 5,
+      "start_ms": 30762,
+      "end_ms": 32937,
+      "duration_ms": 2175
+    },
+    {
+      "word": "Dijo entonces Dios: Quiero que haya entre las aguas algo firme que las separe.",
+      "verse": 6,
+      "start_ms": 32937,
+      "end_ms": 38012,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Y al instante se hizo así!",
+      "verse": 7,
+      "start_ms": 38012,
+      "end_ms": 40362,
+      "duration_ms": 2350
+    },
+    {
+      "word": "Dios puso algo firme entre las aguas, y la mitad de las aguas quedó abajo y la otra mitad quedó arriba.",
+      "verse": 7,
+      "start_ms": 40362,
+      "end_ms": 46999,
+      "duration_ms": 6637
+    },
+    {
+      "word": "Al ver la belleza del firmamento, Dios le puso por nombre cielo.",
+      "verse": 8,
+      "start_ms": 47000,
+      "end_ms": 51675,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Y cayó la noche, y llegó la mañana.",
+      "verse": 8,
+      "start_ms": 51675,
+      "end_ms": 54687,
+      "duration_ms": 3012
+    },
+    {
+      "word": "Ése fue el segundo día.",
+      "verse": 8,
+      "start_ms": 54687,
+      "end_ms": 56962,
+      "duration_ms": 2275
+    },
+    {
+      "word": "Dijo entonces Dios: Quiero que las aguas que están debajo del cielo se junten en un solo lugar, y que aparezca lo seco.",
+      "verse": 9,
+      "start_ms": 56962,
+      "end_ms": 64374,
+      "duration_ms": 7412
+    },
+    {
+      "word": "Y al instante se hizo así!",
+      "verse": 9,
+      "start_ms": 64375,
+      "end_ms": 66725,
+      "duration_ms": 2350
+    },
+    {
+      "word": "Dios llamó tierra a lo seco, y llamó mar a las aguas.",
+      "verse": 10,
+      "start_ms": 66725,
+      "end_ms": 70812,
+      "duration_ms": 4087
+    },
+    {
+      "word": "Al ver Dios tal belleza, dijo: Quiero que haya en la tierra árboles y plantas que den fruto y semilla.",
+      "verse": 11,
+      "start_ms": 70812,
+      "end_ms": 77349,
+      "duration_ms": 6537
+    },
+    {
+      "word": "Y al instante se hizo así!",
+      "verse": 11,
+      "start_ms": 77350,
+      "end_ms": 79700,
+      "duration_ms": 2350
+    },
+    {
+      "word": "La tierra produjo árboles y plantas; los árboles dieron frutos, y las plantas dieron semillas.",
+      "verse": 12,
+      "start_ms": 79700,
+      "end_ms": 86237,
+      "duration_ms": 6537
+    },
+    {
+      "word": "Mientras Dios admiraba tal belleza, cayó la noche, y llegó la mañana.",
+      "verse": 12,
+      "start_ms": 86237,
+      "end_ms": 91262,
+      "duration_ms": 5025
+    },
+    {
+      "word": "Ése fue el tercer día.",
+      "verse": 13,
+      "start_ms": 91262,
+      "end_ms": 93474,
+      "duration_ms": 2212
+    },
+    {
+      "word": "Dijo entonces Dios: Quiero que haya en el cielo luces que separen el día de la noche; luces que indiquen las estaciones, los días y los años; luces en el cielo azul que iluminen la tierra.",
+      "verse": 14,
+      "start_ms": 93475,
+      "end_ms": 104875,
+      "duration_ms": 11400
+    },
+    {
+      "word": "Y al instante se hizo así!",
+      "verse": 15,
+      "start_ms": 104875,
+      "end_ms": 107225,
+      "duration_ms": 2350
+    },
+    {
+      "word": "Dios hizo las dos grandes luces: el sol, para que domine en el día, y la luna, para que domine en la noche.",
+      "verse": 16,
+      "start_ms": 107225,
+      "end_ms": 114975,
+      "duration_ms": 7750
+    },
+    {
+      "word": "También hizo las estrellas.",
+      "verse": 16,
+      "start_ms": 114975,
+      "end_ms": 117512,
+      "duration_ms": 2537
+    },
+    {
+      "word": "Dios puso estas luces en el cielo para alumbrar la tierra, para dominar en el día y en la noche, y para separar la luz de la oscuridad.",
+      "verse": 17,
+      "start_ms": 117512,
+      "end_ms": 125449,
+      "duration_ms": 7937
+    },
+    {
+      "word": "Mientras Dios admiraba tal belleza, cayó la noche, y llegó la mañana.",
+      "verse": 18,
+      "start_ms": 125450,
+      "end_ms": 130475,
+      "duration_ms": 5025
+    },
+    {
+      "word": "Ése fue el cuarto día.",
+      "verse": 19,
+      "start_ms": 130475,
+      "end_ms": 132725,
+      "duration_ms": 2250
+    },
+    {
+      "word": "Dijo entonces Dios: Quiero que los mares se llenen con seres vivos.",
+      "verse": 20,
+      "start_ms": 132725,
+      "end_ms": 137462,
+      "duration_ms": 4737
+    },
+    {
+      "word": "Quiero que las aves vuelen sobre la tierra y crucen el cielo azul.",
+      "verse": 20,
+      "start_ms": 137462,
+      "end_ms": 141549,
+      "duration_ms": 4087
+    },
+    {
+      "word": "Así creó Dios los grandes monstruos marinos.",
+      "verse": 21,
+      "start_ms": 141550,
+      "end_ms": 145112,
+      "duration_ms": 3562
+    },
+    {
+      "word": "Creó todos los seres vivos que se mueven en el agua, y todas las aves del cielo.",
+      "verse": 21,
+      "start_ms": 145112,
+      "end_ms": 150337,
+      "duration_ms": 5225
+    },
+    {
+      "word": "Al ver Dios tal belleza, les dio esta bendición: Quiero que los peces se reproduzcan y llenen los mares; quiero que las aves se multipliquen sobre la tierra.",
+      "verse": 21,
+      "start_ms": 150337,
+      "end_ms": 159537,
+      "duration_ms": 9200
+    },
+    {
+      "word": "Y cayó la noche, y llegó la mañana.",
+      "verse": 23,
+      "start_ms": 159537,
+      "end_ms": 162549,
+      "duration_ms": 3012
+    },
+    {
+      "word": "Ése fue el quinto día.",
+      "verse": 23,
+      "start_ms": 162550,
+      "end_ms": 164750,
+      "duration_ms": 2200
+    },
+    {
+      "word": "Dijo entonces Dios: Quiero que haya en la tierra toda clase de seres vivos: animales domésticos, animales salvajes, reptiles e insectos.",
+      "verse": 24,
+      "start_ms": 164750,
+      "end_ms": 174112,
+      "duration_ms": 9362
+    },
+    {
+      "word": "Y al instante se hizo así!",
+      "verse": 24,
+      "start_ms": 174112,
+      "end_ms": 176462,
+      "duration_ms": 2350
+    },
+    {
+      "word": "Dios hizo los animales salvajes, los animales domésticos, los reptiles y los insectos.",
+      "verse": 25,
+      "start_ms": 176462,
+      "end_ms": 182724,
+      "duration_ms": 6262
+    },
+    {
+      "word": "Al ver Dios tal belleza, dijo: Hagamos ahora al ser humano tal y como somos nosotros.",
+      "verse": 26,
+      "start_ms": 182725,
+      "end_ms": 189087,
+      "duration_ms": 6362
+    },
+    {
+      "word": "Que domine a los peces del mar y a las aves del cielo, a todos los animales de la tierra, y a todos los reptiles e insectos.",
+      "verse": 26,
+      "start_ms": 189087,
+      "end_ms": 196599,
+      "duration_ms": 7512
+    },
+    {
+      "word": "Fue así como Dios creó al ser humano tal y como es Dios.",
+      "verse": 27,
+      "start_ms": 196600,
+      "end_ms": 200662,
+      "duration_ms": 4062
+    },
+    {
+      "word": "Lo creó a su semejanza.",
+      "verse": 27,
+      "start_ms": 200662,
+      "end_ms": 203062,
+      "duration_ms": 2400
+    },
+    {
+      "word": "Creó al hombre y a la mujer, y les dio esta bendición: Quiero que se reproduzcan, quiero que se multipliquen, quiero que llenen la tierra y la pongan bajo su dominio.",
+      "verse": 27,
+      "start_ms": 203062,
+      "end_ms": 212687,
+      "duration_ms": 9625
+    },
+    {
+      "word": "Que dominen a los peces del mar y a las aves del cielo, y a todos los seres vivos que se arrastran por el suelo.",
+      "verse": 28,
+      "start_ms": 212687,
+      "end_ms": 219037,
+      "duration_ms": 6350
+    },
+    {
+      "word": "También les dijo Dios: Hoy les entrego a ustedes toda planta que da semilla y todo árbol que da fruto.",
+      "verse": 29,
+      "start_ms": 219037,
+      "end_ms": 225362,
+      "duration_ms": 6325
+    },
+    {
+      "word": "Todo esto les servirá de alimento.",
+      "verse": 29,
+      "start_ms": 225362,
+      "end_ms": 228124,
+      "duration_ms": 2762
+    },
+    {
+      "word": "Pero la hierba verde será para todos los animales.",
+      "verse": 30,
+      "start_ms": 228125,
+      "end_ms": 231800,
+      "duration_ms": 3675
+    },
+    {
+      "word": "Y al instante se hizo así!",
+      "verse": 30,
+      "start_ms": 231800,
+      "end_ms": 234150,
+      "duration_ms": 2350
+    },
+    {
+      "word": "Mientras Dios admiraba la gran belleza de su creación, cayó la noche, y llegó la mañana.",
+      "verse": 31,
+      "start_ms": 234150,
+      "end_ms": 240050,
+      "duration_ms": 5900
+    },
+    {
+      "word": "Ése fue el sexto día.",
+      "verse": 31,
+      "start_ms": 240050,
+      "end_ms": 242337,
+      "duration_ms": 2287
+    }
+  ]
+}

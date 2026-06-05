@@ -1,0 +1,537 @@
+{
+  "book": "DEU",
+  "chapter": 5,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 33,
+  "word_count": 42,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 143,
+      "text": "Moisés se reunió con todo el pueblo de Israel, y le dijo: Pongan atención, porque voy a darles los mandamientos que deben aprender y obedecer."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 143,
+      "char_end": 202,
+      "text": "Nuestro Dios hizo un pacto con nosotros en el monte Horeb."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 202,
+      "char_end": 278,
+      "text": "No fue un pacto sólo para nuestros antepasados, sino también para nosotros."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 278,
+      "char_end": 334,
+      "text": "En ese monte Dios nos habló cara a cara desde el fuego."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 334,
+      "char_end": 500,
+      "text": "Yo serví de intermediario entre Dios y ustedes para comunicarles el mensaje de Dios, pues todos tenían miedo del fuego. Por eso no subieron al monte. Allí Dios dijo:"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 500,
+      "char_end": 571,
+      "text": "Yo soy el Dios de Israel. Yo los saqué de Egipto, donde eran esclavos."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 571,
+      "char_end": 608,
+      "text": "No tengan otros dioses aparte de mí."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 608,
+      "char_end": 705,
+      "text": "No hagan ídolos ni imágenes de nada que esté en el cielo, en la tierra o en lo profundo del mar."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 705,
+      "char_end": 874,
+      "text": "No se arrodillen ante ellos ni hagan cultos en su honor. Yo soy el Dios de Israel, y soy un Dios celoso. Yo castigo a los hijos, nietos y bisnietos de quienes me odian,"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 874,
+      "char_end": 969,
+      "text": "pero trato con bondad a todos los descendientes de los que me aman y cumplen mis mandamientos."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 969,
+      "char_end": 1045,
+      "text": "No usen mi nombre sin el respeto que se merece. Si lo hacen, los castigaré."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1045,
+      "char_end": 1104,
+      "text": "Recuerden que el sábado es un día especial, dedicado a mí."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1104,
+      "char_end": 1190,
+      "text": "Durante los primeros seis días de la semana podrán hacer todo el trabajo que quieran,"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1190,
+      "char_end": 1484,
+      "text": "pero el sábado será un día de descanso, un día dedicado a mí. Ese día nadie deberá hacer ningún tipo de trabajo: ni ustedes, ni sus hijos ni sus hijas, ni sus esclavos ni sus esclavas, ni su buey, ni su burro, ni ninguno de sus animales y ni siquiera los extranjeros que trabajen para ustedes."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1484,
+      "char_end": 1674,
+      "text": "Así que deben recordar que ustedes también fueron esclavos en Egipto, y que yo los saqué de allí haciendo uso de mi gran poder. Por eso les ordeno tomar el día séptimo como día de descanso."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1674,
+      "char_end": 1793,
+      "text": "Obedezcan y cuiden a su padre y a su madre. Así les irá bien, y podrán vivir muchos años en el país que les voy a dar."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1793,
+      "char_end": 1803,
+      "text": "No maten,"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1803,
+      "char_end": 1838,
+      "text": "ni sean infieles en su matrimonio,"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1838,
+      "char_end": 1848,
+      "text": "ni roben,"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1848,
+      "char_end": 1911,
+      "text": "ni hablen mal de otra persona, ni digan mentiras en su contra,"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1911,
+      "char_end": 2069,
+      "text": "ni se dejen dominar por el deseo de tener lo que otros tienen, ya sea su esposa, su esclavo, su esclava, su buey, su burro, o cualquiera de sus pertenencias."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2069,
+      "char_end": 2337,
+      "text": "Éstos fueron los mandamientos que Dios les comunicó en voz alta cuando ustedes estaban al pie del monte. Su voz salía desde las llamas de fuego y desde una nube muy espesa. Dios escribió los mandamientos en dos tablas de piedra, y me los entregó, sin añadir nada más."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2337,
+      "char_end": 2554,
+      "text": "Cuando ustedes oyeron la voz de Dios, que salía de la oscuridad, y vieron que del monte salían llamas de fuego, tuvieron miedo. Entonces los jefes de las tribus y las autoridades del pueblo vinieron a hablar conmigo,"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2554,
+      "char_end": 2746,
+      "text": "y me dijeron: «No hay duda de que nuestro Dios nos ha dejado ver su poder y su grandeza. Hemos oído su voz, que salía de las llamas de fuego. Hoy hemos visto que Dios nos habló, y no morimos."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2746,
+      "char_end": 2896,
+      "text": "Sin embargo, ¿para qué correr el riesgo de morir quemados por este fuego tan terrible? ¡Si volvemos a oír la voz de nuestro Dios, sin duda moriremos!"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2896,
+      "char_end": 3006,
+      "text": "Todo el mundo sabe que no es posible escuchar la voz de Dios, como la hemos oído nosotros, y seguir con vida."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3006,
+      "char_end": 3180,
+      "text": "Es mejor que tú vayas y escuches todo lo que nuestro Dios tenga que decirnos, y luego nos lo comuniques. Nosotros, por nuestra parte, obedeceremos todo lo que él nos mande»."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3180,
+      "char_end": 3272,
+      "text": "Dios escuchó lo que ustedes me pidieron, y entonces me dijo: «Está muy bien lo que piensan."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3272,
+      "char_end": 3421,
+      "text": "Espero que nunca cambien de opinión, y que siempre me adoren y obedezcan mis mandamientos. Así, tanto a ellos como a sus descendientes les irá bien."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3421,
+      "char_end": 3467,
+      "text": "Ve ahora a decirles que regresen a sus casas,"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3467,
+      "char_end": 3629,
+      "text": "pero vuelve luego y quédate conmigo. Voy a entregarte los mandamientos que deberás enseñarles, para que todos ellos los obedezcan en la tierra que voy a darles»."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3629,
+      "char_end": 3715,
+      "text": "Por eso, israelitas, no dejen de obedecer ni uno solo de los mandamientos de su Dios."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3715,
+      "char_end": 3817,
+      "text": "Sigan cada uno de sus consejos, y les irá bien y vivirán muchos años en la tierra que él va a darles."
+    }
+  ],
+  "words": [
+    {
+      "word": "Moisés se reunió con todo el pueblo de Israel, y le dijo: Pongan atención, porque voy a darles los mandamientos que deben aprender y obedecer.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 8925,
+      "duration_ms": 8825
+    },
+    {
+      "word": "Nuestro Dios hizo un pacto con nosotros en el monte Horeb.",
+      "verse": 2,
+      "start_ms": 8875,
+      "end_ms": 12662,
+      "duration_ms": 3787
+    },
+    {
+      "word": "No fue un pacto sólo para nuestros antepasados, sino también para nosotros.",
+      "verse": 3,
+      "start_ms": 12662,
+      "end_ms": 17874,
+      "duration_ms": 5212
+    },
+    {
+      "word": "En ese monte Dios nos habló cara a cara desde el fuego.",
+      "verse": 4,
+      "start_ms": 17875,
+      "end_ms": 21537,
+      "duration_ms": 3662
+    },
+    {
+      "word": "Yo serví de intermediario entre Dios y ustedes para comunicarles el mensaje de Dios, pues todos tenían miedo del fuego.",
+      "verse": 5,
+      "start_ms": 21537,
+      "end_ms": 28824,
+      "duration_ms": 7287
+    },
+    {
+      "word": "Por eso no subieron al monte.",
+      "verse": 5,
+      "start_ms": 28825,
+      "end_ms": 31312,
+      "duration_ms": 2487
+    },
+    {
+      "word": "Allí Dios dijo: Yo soy el Dios de Israel.",
+      "verse": 5,
+      "start_ms": 31312,
+      "end_ms": 34999,
+      "duration_ms": 3687
+    },
+    {
+      "word": "Yo los saqué de Egipto, donde eran esclavos.",
+      "verse": 6,
+      "start_ms": 35000,
+      "end_ms": 38775,
+      "duration_ms": 3775
+    },
+    {
+      "word": "No tengan otros dioses aparte de mí.",
+      "verse": 7,
+      "start_ms": 38775,
+      "end_ms": 41637,
+      "duration_ms": 2862
+    },
+    {
+      "word": "No hagan ídolos ni imágenes de nada que esté en el cielo, en la tierra o en lo profundo del mar.",
+      "verse": 8,
+      "start_ms": 41637,
+      "end_ms": 47724,
+      "duration_ms": 6087
+    },
+    {
+      "word": "No se arrodillen ante ellos ni hagan cultos en su honor.",
+      "verse": 9,
+      "start_ms": 47725,
+      "end_ms": 51512,
+      "duration_ms": 3787
+    },
+    {
+      "word": "Yo soy el Dios de Israel, y soy un Dios celoso.",
+      "verse": 9,
+      "start_ms": 51512,
+      "end_ms": 55362,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Yo castigo a los hijos, nietos y bisnietos de quienes me odian, pero trato con bondad a todos los descendientes de los que me aman y cumplen mis mandamientos.",
+      "verse": 9,
+      "start_ms": 55362,
+      "end_ms": 64499,
+      "duration_ms": 9137
+    },
+    {
+      "word": "No usen mi nombre sin el respeto que se merece.",
+      "verse": 11,
+      "start_ms": 64500,
+      "end_ms": 67962,
+      "duration_ms": 3462
+    },
+    {
+      "word": "Si lo hacen, los castigaré.",
+      "verse": 11,
+      "start_ms": 67962,
+      "end_ms": 70687,
+      "duration_ms": 2725
+    },
+    {
+      "word": "Recuerden que el sábado es un día especial, dedicado a mí.",
+      "verse": 12,
+      "start_ms": 70687,
+      "end_ms": 74874,
+      "duration_ms": 4187
+    },
+    {
+      "word": "Durante los primeros seis días de la semana podrán hacer todo el trabajo que quieran, pero el sábado será un día de descanso, un día dedicado a mí.",
+      "verse": 13,
+      "start_ms": 74875,
+      "end_ms": 83400,
+      "duration_ms": 8525
+    },
+    {
+      "word": "Ese día nadie deberá hacer ningún tipo de trabajo: ni ustedes, ni sus hijos ni sus hijas, ni sus esclavos ni sus esclavas, ni su buey, ni su burro, ni ninguno de sus animales y ni siquiera los extranjeros que trabajen para ustedes.",
+      "verse": 14,
+      "start_ms": 83400,
+      "end_ms": 98162,
+      "duration_ms": 14762
+    },
+    {
+      "word": "Así que deben recordar que ustedes también fueron esclavos en Egipto, y que yo los saqué de allí haciendo uso de mi gran poder.",
+      "verse": 15,
+      "start_ms": 98162,
+      "end_ms": 105462,
+      "duration_ms": 7300
+    },
+    {
+      "word": "Por eso les ordeno tomar el día séptimo como día de descanso.",
+      "verse": 15,
+      "start_ms": 105462,
+      "end_ms": 109724,
+      "duration_ms": 4262
+    },
+    {
+      "word": "Obedezcan y cuiden a su padre y a su madre.",
+      "verse": 16,
+      "start_ms": 109725,
+      "end_ms": 113000,
+      "duration_ms": 3275
+    },
+    {
+      "word": "Así les irá bien, y podrán vivir muchos años en el país que les voy a dar.",
+      "verse": 16,
+      "start_ms": 113000,
+      "end_ms": 118162,
+      "duration_ms": 5162
+    },
+    {
+      "word": "No maten, ni sean infieles en su matrimonio, ni roben, ni hablen mal de otra persona, ni digan mentiras en su contra, ni se dejen dominar por el deseo de tener lo que otros tienen, ya sea su esposa, su esclavo, su esclava, su buey, su burro, o cualquiera de sus pertenencias.",
+      "verse": 17,
+      "start_ms": 118162,
+      "end_ms": 135699,
+      "duration_ms": 17537
+    },
+    {
+      "word": "Éstos fueron los mandamientos que Dios les comunicó en voz alta cuando ustedes estaban al pie del monte.",
+      "verse": 22,
+      "start_ms": 135700,
+      "end_ms": 141600,
+      "duration_ms": 5900
+    },
+    {
+      "word": "Su voz salía desde las llamas de fuego y desde una nube muy espesa.",
+      "verse": 22,
+      "start_ms": 141600,
+      "end_ms": 146312,
+      "duration_ms": 4712
+    },
+    {
+      "word": "Dios escribió los mandamientos en dos tablas de piedra, y me los entregó, sin añadir nada más.",
+      "verse": 22,
+      "start_ms": 146312,
+      "end_ms": 152899,
+      "duration_ms": 6587
+    },
+    {
+      "word": "Cuando ustedes oyeron la voz de Dios, que salía de la oscuridad, y vieron que del monte salían llamas de fuego, tuvieron miedo.",
+      "verse": 23,
+      "start_ms": 152900,
+      "end_ms": 160850,
+      "duration_ms": 7950
+    },
+    {
+      "word": "Entonces los jefes de las tribus y las autoridades del pueblo vinieron a hablar conmigo, y me dijeron: «No hay duda de que nuestro Dios nos ha dejado ver su poder y su grandeza.",
+      "verse": 23,
+      "start_ms": 160850,
+      "end_ms": 170825,
+      "duration_ms": 9975
+    },
+    {
+      "word": "Hemos oído su voz, que salía de las llamas de fuego.",
+      "verse": 24,
+      "start_ms": 170825,
+      "end_ms": 174887,
+      "duration_ms": 4062
+    },
+    {
+      "word": "Hoy hemos visto que Dios nos habló, y no morimos.",
+      "verse": 24,
+      "start_ms": 174887,
+      "end_ms": 178612,
+      "duration_ms": 3725
+    },
+    {
+      "word": "Sin embargo, ¿para qué correr el riesgo de morir quemados por este fuego tan terrible?",
+      "verse": 25,
+      "start_ms": 178612,
+      "end_ms": 183974,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Si volvemos a oír la voz de nuestro Dios, sin duda moriremos!",
+      "verse": 25,
+      "start_ms": 183975,
+      "end_ms": 188425,
+      "duration_ms": 4450
+    },
+    {
+      "word": "Todo el mundo sabe que no es posible escuchar la voz de Dios, como la hemos oído nosotros, y seguir con vida.",
+      "verse": 26,
+      "start_ms": 188425,
+      "end_ms": 195262,
+      "duration_ms": 6837
+    },
+    {
+      "word": "Es mejor que tú vayas y escuches todo lo que nuestro Dios tenga que decirnos, y luego nos lo comuniques.",
+      "verse": 27,
+      "start_ms": 195262,
+      "end_ms": 201662,
+      "duration_ms": 6400
+    },
+    {
+      "word": "Nosotros, por nuestra parte, obedeceremos todo lo que él nos mande».",
+      "verse": 27,
+      "start_ms": 201662,
+      "end_ms": 206737,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Dios escuchó lo que ustedes me pidieron, y entonces me dijo: «Está muy bien lo que piensan.",
+      "verse": 28,
+      "start_ms": 206737,
+      "end_ms": 212674,
+      "duration_ms": 5937
+    },
+    {
+      "word": "Espero que nunca cambien de opinión, y que siempre me adoren y obedezcan mis mandamientos.",
+      "verse": 29,
+      "start_ms": 212675,
+      "end_ms": 218337,
+      "duration_ms": 5662
+    },
+    {
+      "word": "Así, tanto a ellos como a sus descendientes les irá bien.",
+      "verse": 29,
+      "start_ms": 218337,
+      "end_ms": 222599,
+      "duration_ms": 4262
+    },
+    {
+      "word": "Ve ahora a decirles que regresen a sus casas, pero vuelve luego y quédate conmigo.",
+      "verse": 30,
+      "start_ms": 222600,
+      "end_ms": 228412,
+      "duration_ms": 5812
+    },
+    {
+      "word": "Voy a entregarte los mandamientos que deberás enseñarles, para que todos ellos los obedezcan en la tierra que voy a darles».",
+      "verse": 31,
+      "start_ms": 228412,
+      "end_ms": 235699,
+      "duration_ms": 7287
+    },
+    {
+      "word": "Por eso, israelitas, no dejen de obedecer ni uno solo de los mandamientos de su Dios.",
+      "verse": 32,
+      "start_ms": 235700,
+      "end_ms": 241775,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Sigan cada uno de sus consejos, y les irá bien y vivirán muchos años en la tierra que él va a darles.",
+      "verse": 33,
+      "start_ms": 241775,
+      "end_ms": 248662,
+      "duration_ms": 6887
+    }
+  ]
+}

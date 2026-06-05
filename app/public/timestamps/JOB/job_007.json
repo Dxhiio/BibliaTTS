@@ -1,0 +1,292 @@
+{
+  "book": "JOB",
+  "chapter": 7,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 15,
+  "word_count": 25,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-3",
+      "char_start": 0,
+      "char_end": 293,
+      "text": "He pasado noches miserables, he pasado meses enteros esperando en vano que terminen mis sufrimientos. Mi vida ha sido como la de un soldado que ansioso espera el fin de la guerra; como la de un peón, que ansioso espera su paga; como un esclavo fatigado, que ansioso espera que caiga la noche."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 293,
+      "char_end": 426,
+      "text": "Cuando me acuesto, la noche me parece interminable; doy vueltas en la cama sin poder pegar los ojos, y me pregunto cuándo amanecerá."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 426,
+      "char_end": 508,
+      "text": "Tengo todo el cuerpo lleno de gusanos y de costras; ¡por todos lados me sale pus!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 508,
+      "char_end": 587,
+      "text": "La vida se me escapa con la velocidad del rayo. ¡Ya he perdido toda esperanza!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 587,
+      "char_end": 688,
+      "text": "Acuérdate, Dios mío, que mi vida es como un suspiro y que no volveré a saber lo que es la felicidad."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 688,
+      "char_end": 756,
+      "text": "Hoy me ves, pero mañana ya no; me buscarás, pero ya no estaré aquí."
+    },
+    {
+      "verse": 9,
+      "label": "9-10",
+      "char_start": 756,
+      "char_end": 894,
+      "text": "Los que bajan a la tumba ya no vuelven a subir; nunca más regresan a su casa. Son como las nubes: ¡desaparecen y se pierden para siempre!"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 894,
+      "char_end": 986,
+      "text": "En cuanto a mí, estoy tan angustiado y tan lleno de amargura que no puedo quedarme callado."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 986,
+      "char_end": 1044,
+      "text": "¿Por qué me vigilas tanto, si no soy el monstruo del mar?"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1044,
+      "char_end": 1111,
+      "text": "A veces pienso que durmiendo hallaré consuelo y alivio a mi queja,"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1111,
+      "char_end": 1186,
+      "text": "pero aun estando acostado me haces tener pesadillas y me llenas de terror."
+    },
+    {
+      "verse": 15,
+      "label": "15-16",
+      "char_start": 1186,
+      "char_end": 1323,
+      "text": "Ya no quiero seguir viviendo. ¡Preferiría morir ahorcado que seguir viviendo en este mundo! Mi vida ha perdido valor; ¡ya déjame en paz!"
+    },
+    {
+      "verse": 17,
+      "label": "17-18",
+      "char_start": 1323,
+      "char_end": 1439,
+      "text": "Tú nos das mucha importancia; todos los días nos examinas. Yo me pregunto por qué a todas horas nos pones a prueba."
+    },
+    {
+      "verse": 19,
+      "label": "19-20",
+      "char_start": 1439,
+      "char_end": 1617,
+      "text": "Tú, que a todos nos vigilas, ¿por qué sólo a mí me castigas? ¡Ya no me vigiles tanto! ¡Déjame al menos tragar saliva! ¿En qué te afecta que yo peque? ¿Acaso te soy una molestia?"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1617,
+      "char_end": 1732,
+      "text": "¿Por qué no me perdonas y te olvidas de mi maldad? Me queda muy poco de vida; cuando me busques, ya estaré muerto."
+    }
+  ],
+  "words": [
+    {
+      "word": "He pasado noches miserables, he pasado meses enteros esperando en vano que terminen mis sufrimientos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6662,
+      "duration_ms": 6562
+    },
+    {
+      "word": "Mi vida ha sido como la de un soldado que ansioso espera el fin de la guerra; como la de un peón, que ansioso espera su paga; como un esclavo fatigado, que ansioso espera que caiga la noche.",
+      "verse": 1,
+      "start_ms": 6612,
+      "end_ms": 18262,
+      "duration_ms": 11650
+    },
+    {
+      "word": "Cuando me acuesto, la noche me parece interminable; doy vueltas en la cama sin poder pegar los ojos, y me pregunto cuándo amanecerá.",
+      "verse": 4,
+      "start_ms": 18262,
+      "end_ms": 26549,
+      "duration_ms": 8287
+    },
+    {
+      "word": "Tengo todo el cuerpo lleno de gusanos y de costras; ¡por todos lados me sale pus!",
+      "verse": 5,
+      "start_ms": 26550,
+      "end_ms": 32025,
+      "duration_ms": 5475
+    },
+    {
+      "word": "La vida se me escapa con la velocidad del rayo.",
+      "verse": 6,
+      "start_ms": 32025,
+      "end_ms": 35362,
+      "duration_ms": 3337
+    },
+    {
+      "word": "Ya he perdido toda esperanza!",
+      "verse": 6,
+      "start_ms": 35362,
+      "end_ms": 38012,
+      "duration_ms": 2650
+    },
+    {
+      "word": "Acuérdate, Dios mío, que mi vida es como un suspiro y que no volveré a saber lo que es la felicidad.",
+      "verse": 7,
+      "start_ms": 38012,
+      "end_ms": 44899,
+      "duration_ms": 6887
+    },
+    {
+      "word": "Hoy me ves, pero mañana ya no; me buscarás, pero ya no estaré aquí.",
+      "verse": 8,
+      "start_ms": 44900,
+      "end_ms": 50500,
+      "duration_ms": 5600
+    },
+    {
+      "word": "Los que bajan a la tumba ya no vuelven a subir; nunca más regresan a su casa.",
+      "verse": 9,
+      "start_ms": 50500,
+      "end_ms": 55575,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Son como las nubes: ¡desaparecen y se pierden para siempre!",
+      "verse": 9,
+      "start_ms": 55575,
+      "end_ms": 59787,
+      "duration_ms": 4212
+    },
+    {
+      "word": "En cuanto a mí, estoy tan angustiado y tan lleno de amargura que no puedo quedarme callado.",
+      "verse": 11,
+      "start_ms": 59787,
+      "end_ms": 65274,
+      "duration_ms": 5487
+    },
+    {
+      "word": "Por qué me vigilas tanto, si no soy el monstruo del mar?",
+      "verse": 12,
+      "start_ms": 65275,
+      "end_ms": 69337,
+      "duration_ms": 4062
+    },
+    {
+      "word": "A veces pienso que durmiendo hallaré consuelo y alivio a mi queja, pero aun estando acostado me haces tener pesadillas y me llenas de terror.",
+      "verse": 13,
+      "start_ms": 69337,
+      "end_ms": 77199,
+      "duration_ms": 7862
+    },
+    {
+      "word": "Ya no quiero seguir viviendo.",
+      "verse": 15,
+      "start_ms": 77200,
+      "end_ms": 79587,
+      "duration_ms": 2387
+    },
+    {
+      "word": "Preferiría morir ahorcado que seguir viviendo en este mundo!",
+      "verse": 15,
+      "start_ms": 79587,
+      "end_ms": 83437,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Mi vida ha perdido valor; ¡ya déjame en paz!",
+      "verse": 15,
+      "start_ms": 83437,
+      "end_ms": 87049,
+      "duration_ms": 3612
+    },
+    {
+      "word": "Tú nos das mucha importancia; todos los días nos examinas.",
+      "verse": 17,
+      "start_ms": 87050,
+      "end_ms": 91375,
+      "duration_ms": 4325
+    },
+    {
+      "word": "Yo me pregunto por qué a todas horas nos pones a prueba.",
+      "verse": 17,
+      "start_ms": 91375,
+      "end_ms": 95200,
+      "duration_ms": 3825
+    },
+    {
+      "word": "Tú, que a todos nos vigilas, ¿por qué sólo a mí me castigas?",
+      "verse": 19,
+      "start_ms": 95200,
+      "end_ms": 99912,
+      "duration_ms": 4712
+    },
+    {
+      "word": "Ya no me vigiles tanto!",
+      "verse": 19,
+      "start_ms": 99912,
+      "end_ms": 102037,
+      "duration_ms": 2125
+    },
+    {
+      "word": "Déjame al menos tragar saliva!",
+      "verse": 19,
+      "start_ms": 102037,
+      "end_ms": 104737,
+      "duration_ms": 2700
+    },
+    {
+      "word": "En qué te afecta que yo peque?",
+      "verse": 19,
+      "start_ms": 104737,
+      "end_ms": 107199,
+      "duration_ms": 2462
+    },
+    {
+      "word": "Acaso te soy una molestia?",
+      "verse": 19,
+      "start_ms": 107200,
+      "end_ms": 109675,
+      "duration_ms": 2475
+    },
+    {
+      "word": "Por qué no me perdonas y te olvidas de mi maldad?",
+      "verse": 21,
+      "start_ms": 109675,
+      "end_ms": 113000,
+      "duration_ms": 3325
+    },
+    {
+      "word": "Me queda muy poco de vida; cuando me busques, ya estaré muerto.",
+      "verse": 21,
+      "start_ms": 113000,
+      "end_ms": 117712,
+      "duration_ms": 4712
+    }
+  ]
+}

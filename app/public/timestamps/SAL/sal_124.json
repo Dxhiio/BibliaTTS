@@ -1,0 +1,124 @@
+{
+  "book": "SAL",
+  "chapter": 124,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 8,
+  "word_count": 8,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 91,
+      "text": "Si Dios no nos hubiera ayudado, ¿qué habría sido de nosotros? ¡Todos en Israel lo sabemos!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 91,
+      "char_end": 156,
+      "text": "Si Dios no nos hubiera ayudado cuando nos atacaba todo el mundo,"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 156,
+      "char_end": 242,
+      "text": "nos habrían matado a todos, pues nuestros enemigos estaban muy enojados con nosotros."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 242,
+      "char_end": 326,
+      "text": "Habrían acabado con nosotros como aguas desbordadas que arrasan con todo a su paso,"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 326,
+      "char_end": 372,
+      "text": "como aguas turbulentas que todo lo destruyen."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 372,
+      "char_end": 454,
+      "text": "¡Alabemos a Dios, que no dejó que esos malvados nos despedazaran con sus dientes!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 454,
+      "char_end": 527,
+      "text": "¡La trampa está hecha pedazos! ¡Hemos logrado escapar, como los pájaros!"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 527,
+      "char_end": 578,
+      "text": "¡El creador de cielo y tierra nos ayudó a escapar!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Si Dios no nos hubiera ayudado, ¿qué habría sido de nosotros?",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4500,
+      "duration_ms": 4400
+    },
+    {
+      "word": "Todos en Israel lo sabemos!",
+      "verse": 1,
+      "start_ms": 4450,
+      "end_ms": 7050,
+      "duration_ms": 2600
+    },
+    {
+      "word": "Si Dios no nos hubiera ayudado cuando nos atacaba todo el mundo, nos habrían matado a todos, pues nuestros enemigos estaban muy enojados con nosotros.",
+      "verse": 2,
+      "start_ms": 7050,
+      "end_ms": 16075,
+      "duration_ms": 9025
+    },
+    {
+      "word": "Habrían acabado con nosotros como aguas desbordadas que arrasan con todo a su paso, como aguas turbulentas que todo lo destruyen.",
+      "verse": 4,
+      "start_ms": 16075,
+      "end_ms": 23987,
+      "duration_ms": 7912
+    },
+    {
+      "word": "Alabemos a Dios, que no dejó que esos malvados nos despedazaran con sus dientes!",
+      "verse": 6,
+      "start_ms": 23987,
+      "end_ms": 29462,
+      "duration_ms": 5475
+    },
+    {
+      "word": "La trampa está hecha pedazos!",
+      "verse": 7,
+      "start_ms": 29462,
+      "end_ms": 32049,
+      "duration_ms": 2587
+    },
+    {
+      "word": "Hemos logrado escapar, como los pájaros!",
+      "verse": 7,
+      "start_ms": 32050,
+      "end_ms": 35450,
+      "duration_ms": 3400
+    },
+    {
+      "word": "El creador de cielo y tierra nos ayudó a escapar!",
+      "verse": 8,
+      "start_ms": 35450,
+      "end_ms": 38912,
+      "duration_ms": 3462
+    }
+  ]
+}

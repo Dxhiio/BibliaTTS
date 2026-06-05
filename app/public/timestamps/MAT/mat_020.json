@@ -1,0 +1,635 @@
+{
+  "book": "MAT",
+  "chapter": 20,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 33,
+  "word_count": 56,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 146,
+      "text": "En el reino de Dios sucede algo parecido a lo que pasó en una viña. El dueño salió muy de mañana a contratar hombres para que trabajaran en ella."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 146,
+      "char_end": 255,
+      "text": "Se puso de acuerdo con los trabajadores para pagarles el salario de un día completo; y los envió a trabajar."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 255,
+      "char_end": 376,
+      "text": "Como a las nueve de la mañana, el dueño volvió a salir, y en la plaza encontró a varios hombres que estaban desocupados."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 376,
+      "char_end": 490,
+      "text": "Les dijo: «Vayan a trabajar a mi viña, y les pagaré un salario justo». Los hombres aceptaron y fueron a trabajar."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 490,
+      "char_end": 590,
+      "text": "Como a las doce del día, el dueño volvió a hacer lo mismo; y salió otra vez a las tres de la tarde."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 590,
+      "char_end": 774,
+      "text": "Ya eran las cinco de la tarde cuando el dueño fue de nuevo a la plaza, y vio a otros hombres desocupados. Entonces les preguntó: «¿Por qué han estado ahí todo el día sin hacer nada?»."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 774,
+      "char_end": 886,
+      "text": "Ellos le contestaron: «¡Porque nadie nos ha dado trabajo!». El dueño les dijo: «Vayan a trabajar a mi terreno»."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 886,
+      "char_end": 1091,
+      "text": "Cuando se hizo de noche, el dueño le dijo al jefe de los trabajadores: «Llama a cada uno de los trabajadores y págales, comenzando por los últimos que vinieron, y terminando por los que vinieron primero»."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1091,
+      "char_end": 1211,
+      "text": "Entonces se acercaron los trabajadores que llegaron a las cinco de la tarde y recibieron el salario de un día completo."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1211,
+      "char_end": 1395,
+      "text": "Después, cuando pasaron los que habían llegado primero, muy de mañana, pensaron que a ellos les pagarían mucho más. Pero cada uno de ellos recibió el mismo salario de un día completo."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1395,
+      "char_end": 1488,
+      "text": "Después de recibir el dinero, esos trabajadores comenzaron a hablar mal del dueño de la viña"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1488,
+      "char_end": 1689,
+      "text": "y le dijeron: «Los que llegaron a las cinco de la tarde sólo trabajaron una hora, pero usted les pagó a ellos lo mismo que a nosotros, que trabajamos todo el día aguantando el calor. Eso no es justo»."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1689,
+      "char_end": 1862,
+      "text": "Pero el dueño le contestó a uno de ellos: «¡Mira, amigo! Yo no he sido injusto contigo. Recuerda que los dos acordamos que tú trabajarías por el salario de un día completo."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1862,
+      "char_end": 1979,
+      "text": "Toma el dinero que te ganaste, y vete. No es problema tuyo que yo les pague lo mismo a los que vinieron a las cinco."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1979,
+      "char_end": 2084,
+      "text": "Yo puedo hacer con mi dinero lo que me parezca. ¿Por qué te da envidia que yo sea bueno con los demás?»."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2084,
+      "char_end": 2217,
+      "text": "Jesús terminó diciendo: Así, los que ahora son los primeros, serán los últimos; y los que ahora son los últimos, serán los primeros."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2217,
+      "char_end": 2307,
+      "text": "Mientras Jesús iba hacia Jerusalén, en el camino reunió a sus doce discípulos y les dijo:"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2307,
+      "char_end": 2476,
+      "text": "Como pueden ver, ahora vamos a Jerusalén. Y a mí, el Hijo del hombre, me entregarán a los sacerdotes principales y a los maestros de la Ley. Ellos dirán que debo morir,"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2476,
+      "char_end": 2624,
+      "text": "y me entregarán a mis enemigos para que se burlen de mí, y para que me golpeen y me hagan morir en una cruz. Pero después de tres días, resucitaré."
+    },
+    {
+      "verse": 20,
+      "label": "20-21",
+      "char_start": 2624,
+      "char_end": 3003,
+      "text": "La madre de Santiago y Juan, que eran dos de los discípulos, fue con ellos a hablar con Jesús. Cuando llegaron, ella se arrodilló delante de Jesús para pedirle un favor. Jesús le preguntó: —¿Qué es lo que quieres? Ella le dijo: —Por favor, ordena que, cuando estés sentado en el trono de tu reino, mis hijos se sienten siempre junto a ti, uno a tu derecha y otro a tu izquierda."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3003,
+      "char_end": 3145,
+      "text": "Jesús respondió: —Ustedes no saben lo que piden. ¿Están dispuestos a sufrir todo lo malo que va a pasarme? Ellos le dijeron: —Sí, lo estamos."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3145,
+      "char_end": 3310,
+      "text": "Jesús les dijo: —Les aseguro que ustedes sufrirán mucho, igual que yo. Pero sólo mi Padre decide quiénes serán los más importantes en mi reino. Eso no lo decido yo."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3310,
+      "char_end": 3407,
+      "text": "Cuando los otros diez discípulos se dieron cuenta de todo esto, se enojaron con Santiago y Juan."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3407,
+      "char_end": 3591,
+      "text": "Entonces Jesús los llamó a todos y les dijo: Ustedes saben que los que gobiernan a los pueblos se portan como sus amos, y que los grandes señores imponen su autoridad sobre esa gente."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3591,
+      "char_end": 3716,
+      "text": "Pero entre ustedes no debe ser así. Al contrario, si alguno de ustedes quiere ser importante, tendrá que servir a los demás."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3716,
+      "char_end": 3781,
+      "text": "Si alguno quiere ser el primero, deberá ser el esclavo de todos."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3781,
+      "char_end": 3939,
+      "text": "Yo, el Hijo del hombre, lo hago así. No vine a este mundo para que me sirvan, sino para servir a los demás. Vine para dar mi vida por la salvación de muchos."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3939,
+      "char_end": 4035,
+      "text": "Cuando Jesús salió de la ciudad de Jericó en compañía de sus discípulos, mucha gente lo siguió."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4035,
+      "char_end": 4207,
+      "text": "Junto al camino estaban sentados dos ciegos. Cuando oyeron que Jesús iba pasando, comenzaron a gritar: ¡Señor, tú que eres el Mesías, ten compasión de nosotros y ayúdanos!"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4207,
+      "char_end": 4384,
+      "text": "La gente comenzó a reprender a los ciegos para que se callaran, pero ellos gritaron con más fuerza todavía: ¡Señor, tú que eres el Mesías, ten compasión de nosotros y ayúdanos!"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4384,
+      "char_end": 4481,
+      "text": "Entonces Jesús se detuvo, llamó a los ciegos y les preguntó: —¿Qué quieren que haga por ustedes?"
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4481,
+      "char_end": 4542,
+      "text": "Ellos le respondieron: —Señor, haz que podamos ver de nuevo."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4542,
+      "char_end": 4671,
+      "text": "Jesús tuvo compasión de ellos, y les tocó los ojos. En ese mismo instante, los ciegos pudieron ver de nuevo y siguieron a Jesús."
+    }
+  ],
+  "words": [
+    {
+      "word": "En el reino de Dios sucede algo parecido a lo que pasó en una viña.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4562,
+      "duration_ms": 4462
+    },
+    {
+      "word": "El dueño salió muy de mañana a contratar hombres para que trabajaran en ella.",
+      "verse": 1,
+      "start_ms": 4512,
+      "end_ms": 9274,
+      "duration_ms": 4762
+    },
+    {
+      "word": "Se puso de acuerdo con los trabajadores para pagarles el salario de un día completo; y los envió a trabajar.",
+      "verse": 2,
+      "start_ms": 9275,
+      "end_ms": 15825,
+      "duration_ms": 6550
+    },
+    {
+      "word": "Como a las nueve de la mañana, el dueño volvió a salir, y en la plaza encontró a varios hombres que estaban desocupados.",
+      "verse": 3,
+      "start_ms": 15825,
+      "end_ms": 23025,
+      "duration_ms": 7200
+    },
+    {
+      "word": "Les dijo: «Vayan a trabajar a mi viña, y les pagaré un salario justo».",
+      "verse": 4,
+      "start_ms": 23025,
+      "end_ms": 28200,
+      "duration_ms": 5175
+    },
+    {
+      "word": "Los hombres aceptaron y fueron a trabajar.",
+      "verse": 4,
+      "start_ms": 28200,
+      "end_ms": 31187,
+      "duration_ms": 2987
+    },
+    {
+      "word": "Como a las doce del día, el dueño volvió a hacer lo mismo; y salió otra vez a las tres de la tarde.",
+      "verse": 5,
+      "start_ms": 31187,
+      "end_ms": 37674,
+      "duration_ms": 6487
+    },
+    {
+      "word": "Ya eran las cinco de la tarde cuando el dueño fue de nuevo a la plaza, y vio a otros hombres desocupados.",
+      "verse": 6,
+      "start_ms": 37675,
+      "end_ms": 44050,
+      "duration_ms": 6375
+    },
+    {
+      "word": "Entonces les preguntó: «¿Por qué han estado ahí todo el día sin hacer nada?",
+      "verse": 6,
+      "start_ms": 44050,
+      "end_ms": 49125,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Ellos le contestaron: «¡Porque nadie nos ha dado trabajo!",
+      "verse": 7,
+      "start_ms": 49125,
+      "end_ms": 53100,
+      "duration_ms": 3975
+    },
+    {
+      "word": "El dueño les dijo: «Vayan a trabajar a mi terreno».",
+      "verse": 7,
+      "start_ms": 53100,
+      "end_ms": 56950,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Cuando se hizo de noche, el dueño le dijo al jefe de los trabajadores: «Llama a cada uno de los trabajadores y págales, comenzando por los últimos que vinieron, y terminando por los que vinieron primero».",
+      "verse": 8,
+      "start_ms": 56950,
+      "end_ms": 69062,
+      "duration_ms": 12112
+    },
+    {
+      "word": "Entonces se acercaron los trabajadores que llegaron a las cinco de la tarde y recibieron el salario de un día completo.",
+      "verse": 9,
+      "start_ms": 69062,
+      "end_ms": 75812,
+      "duration_ms": 6750
+    },
+    {
+      "word": "Después, cuando pasaron los que habían llegado primero, muy de mañana, pensaron que a ellos les pagarían mucho más.",
+      "verse": 10,
+      "start_ms": 75812,
+      "end_ms": 83187,
+      "duration_ms": 7375
+    },
+    {
+      "word": "Pero cada uno de ellos recibió el mismo salario de un día completo.",
+      "verse": 10,
+      "start_ms": 83187,
+      "end_ms": 87837,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Después de recibir el dinero, esos trabajadores comenzaron a hablar mal del dueño de la viña y le dijeron: «Los que llegaron a las cinco de la tarde sólo trabajaron una hora, pero usted les pagó a ellos lo mismo que a nosotros, que trabajamos todo el día aguantando el calor.",
+      "verse": 11,
+      "start_ms": 87837,
+      "end_ms": 103449,
+      "duration_ms": 15612
+    },
+    {
+      "word": "Eso no es justo».",
+      "verse": 12,
+      "start_ms": 103450,
+      "end_ms": 105450,
+      "duration_ms": 2000
+    },
+    {
+      "word": "Pero el dueño le contestó a uno de ellos: «¡Mira, amigo!",
+      "verse": 13,
+      "start_ms": 105450,
+      "end_ms": 109575,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Yo no he sido injusto contigo.",
+      "verse": 13,
+      "start_ms": 109575,
+      "end_ms": 112375,
+      "duration_ms": 2800
+    },
+    {
+      "word": "Recuerda que los dos acordamos que tú trabajarías por el salario de un día completo.",
+      "verse": 13,
+      "start_ms": 112375,
+      "end_ms": 117512,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Toma el dinero que te ganaste, y vete.",
+      "verse": 14,
+      "start_ms": 117512,
+      "end_ms": 120637,
+      "duration_ms": 3125
+    },
+    {
+      "word": "No es problema tuyo que yo les pague lo mismo a los que vinieron a las cinco.",
+      "verse": 14,
+      "start_ms": 120637,
+      "end_ms": 125224,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Yo puedo hacer con mi dinero lo que me parezca.",
+      "verse": 15,
+      "start_ms": 125225,
+      "end_ms": 128462,
+      "duration_ms": 3237
+    },
+    {
+      "word": "Por qué te da envidia que yo sea bueno con los demás?",
+      "verse": 15,
+      "start_ms": 128462,
+      "end_ms": 131824,
+      "duration_ms": 3362
+    },
+    {
+      "word": "Jesús terminó diciendo: Así, los que ahora son los primeros, serán los últimos; y los que ahora son los últimos, serán los primeros.",
+      "verse": 16,
+      "start_ms": 131825,
+      "end_ms": 141112,
+      "duration_ms": 9287
+    },
+    {
+      "word": "Mientras Jesús iba hacia Jerusalén, en el camino reunió a sus doce discípulos y les dijo: Como pueden ver, ahora vamos a Jerusalén.",
+      "verse": 17,
+      "start_ms": 141112,
+      "end_ms": 149737,
+      "duration_ms": 8625
+    },
+    {
+      "word": "Y a mí, el Hijo del hombre, me entregarán a los sacerdotes principales y a los maestros de la Ley.",
+      "verse": 18,
+      "start_ms": 149737,
+      "end_ms": 155724,
+      "duration_ms": 5987
+    },
+    {
+      "word": "Ellos dirán que debo morir, y me entregarán a mis enemigos para que se burlen de mí, y para que me golpeen y me hagan morir en una cruz.",
+      "verse": 18,
+      "start_ms": 155725,
+      "end_ms": 163762,
+      "duration_ms": 8037
+    },
+    {
+      "word": "Pero después de tres días, resucitaré.",
+      "verse": 19,
+      "start_ms": 163762,
+      "end_ms": 166899,
+      "duration_ms": 3137
+    },
+    {
+      "word": "La madre de Santiago y Juan, que eran dos de los discípulos, fue con ellos a hablar con Jesús.",
+      "verse": 20,
+      "start_ms": 166900,
+      "end_ms": 173137,
+      "duration_ms": 6237
+    },
+    {
+      "word": "Cuando llegaron, ella se arrodilló delante de Jesús para pedirle un favor.",
+      "verse": 20,
+      "start_ms": 173137,
+      "end_ms": 177962,
+      "duration_ms": 4825
+    },
+    {
+      "word": "Jesús le preguntó: —¿Qué es lo que quieres?",
+      "verse": 20,
+      "start_ms": 177962,
+      "end_ms": 181324,
+      "duration_ms": 3362
+    },
+    {
+      "word": "Ella le dijo: —Por favor, ordena que, cuando estés sentado en el trono de tu reino, mis hijos se sienten siempre junto a ti, uno a tu derecha y otro a tu izquierda.",
+      "verse": 20,
+      "start_ms": 181325,
+      "end_ms": 191362,
+      "duration_ms": 10037
+    },
+    {
+      "word": "Jesús respondió: —Ustedes no saben lo que piden.",
+      "verse": 22,
+      "start_ms": 191362,
+      "end_ms": 195074,
+      "duration_ms": 3712
+    },
+    {
+      "word": "Están dispuestos a sufrir todo lo malo que va a pasarme?",
+      "verse": 22,
+      "start_ms": 195075,
+      "end_ms": 198962,
+      "duration_ms": 3887
+    },
+    {
+      "word": "Ellos le dijeron: —Sí, lo estamos.",
+      "verse": 22,
+      "start_ms": 198962,
+      "end_ms": 202349,
+      "duration_ms": 3387
+    },
+    {
+      "word": "Jesús les dijo: —Les aseguro que ustedes sufrirán mucho, igual que yo.",
+      "verse": 23,
+      "start_ms": 202350,
+      "end_ms": 207487,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Pero sólo mi Padre decide quiénes serán los más importantes en mi reino.",
+      "verse": 23,
+      "start_ms": 207487,
+      "end_ms": 212099,
+      "duration_ms": 4612
+    },
+    {
+      "word": "Eso no lo decido yo.",
+      "verse": 23,
+      "start_ms": 212100,
+      "end_ms": 214312,
+      "duration_ms": 2212
+    },
+    {
+      "word": "Cuando los otros diez discípulos se dieron cuenta de todo esto, se enojaron con Santiago y Juan.",
+      "verse": 24,
+      "start_ms": 214312,
+      "end_ms": 220212,
+      "duration_ms": 5900
+    },
+    {
+      "word": "Entonces Jesús los llamó a todos y les dijo: Ustedes saben que los que gobiernan a los pueblos se portan como sus amos, y que los grandes señores imponen su autoridad sobre esa gente.",
+      "verse": 25,
+      "start_ms": 220212,
+      "end_ms": 230762,
+      "duration_ms": 10550
+    },
+    {
+      "word": "Pero entre ustedes no debe ser así.",
+      "verse": 26,
+      "start_ms": 230762,
+      "end_ms": 233474,
+      "duration_ms": 2712
+    },
+    {
+      "word": "Al contrario, si alguno de ustedes quiere ser importante, tendrá que servir a los demás.",
+      "verse": 26,
+      "start_ms": 233475,
+      "end_ms": 239350,
+      "duration_ms": 5875
+    },
+    {
+      "word": "Si alguno quiere ser el primero, deberá ser el esclavo de todos.",
+      "verse": 27,
+      "start_ms": 239350,
+      "end_ms": 243912,
+      "duration_ms": 4562
+    },
+    {
+      "word": "Yo, el Hijo del hombre, lo hago así.",
+      "verse": 28,
+      "start_ms": 243912,
+      "end_ms": 247324,
+      "duration_ms": 3412
+    },
+    {
+      "word": "No vine a este mundo para que me sirvan, sino para servir a los demás.",
+      "verse": 28,
+      "start_ms": 247325,
+      "end_ms": 251912,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Vine para dar mi vida por la salvación de muchos.",
+      "verse": 28,
+      "start_ms": 251912,
+      "end_ms": 255387,
+      "duration_ms": 3475
+    },
+    {
+      "word": "Cuando Jesús salió de la",
+      "verse": 29,
+      "start_ms": 255387,
+      "end_ms": 257524,
+      "duration_ms": 2137
+    },
+    {
+      "word": "ciudad de Jericó en compañía de sus discípulos, mucha gente lo siguió.",
+      "verse": 29,
+      "start_ms": 257692,
+      "end_ms": 262567,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Junto al camino estaban sentados dos ciegos.",
+      "verse": 30,
+      "start_ms": 262517,
+      "end_ms": 265904,
+      "duration_ms": 3387
+    },
+    {
+      "word": "Cuando oyeron que Jesús iba pasando, comenzaron a gritar: ¡Señor, tú que eres el Mesías, ten compasión de nosotros y ayúdanos!",
+      "verse": 30,
+      "start_ms": 265904,
+      "end_ms": 274341,
+      "duration_ms": 8437
+    },
+    {
+      "word": "La gente comenzó a reprender a los ciegos para que se callaran, pero ellos gritaron con más fuerza todavía: ¡Señor, tú que eres el Mesías, ten compasión de nosotros y ayúdanos!",
+      "verse": 31,
+      "start_ms": 274342,
+      "end_ms": 285067,
+      "duration_ms": 10725
+    },
+    {
+      "word": "Entonces Jesús se detuvo, llamó a los ciegos y les preguntó: —¿Qué quieren que haga por ustedes?",
+      "verse": 32,
+      "start_ms": 285067,
+      "end_ms": 291304,
+      "duration_ms": 6237
+    },
+    {
+      "word": "Ellos le respondieron: —Señor, haz que podamos ver de nuevo.",
+      "verse": 33,
+      "start_ms": 291304,
+      "end_ms": 295879,
+      "duration_ms": 4575
+    },
+    {
+      "word": "Jesús tuvo compasión de ellos, y les tocó los ojos.",
+      "verse": 34,
+      "start_ms": 295879,
+      "end_ms": 299991,
+      "duration_ms": 4112
+    },
+    {
+      "word": "En ese mismo instante, los ciegos pudieron ver de nuevo y siguieron a Jesús.",
+      "verse": 34,
+      "start_ms": 299992,
+      "end_ms": 305042,
+      "duration_ms": 5050
+    }
+  ]
+}

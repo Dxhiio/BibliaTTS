@@ -1,0 +1,285 @@
+{
+  "book": "SAL",
+  "chapter": 40,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 16,
+  "word_count": 23,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 75,
+      "text": "Toda mi esperanza la tengo puesta en Dios, pues aceptó atender mis ruegos."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 75,
+      "char_end": 176,
+      "text": "Mi vida corría peligro, y él me libró de la muerte; me puso sobre una roca, me puso en lugar seguro."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 176,
+      "char_end": 295,
+      "text": "Me enseñó un nuevo himno para cantarle alabanzas. Muchos, al ver esto, se sintieron conmovidos y confiaron en mi Dios."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 295,
+      "char_end": 395,
+      "text": "Dios bendice a los que en él confían, a los que rechazan a los orgullosos que adoran dioses falsos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 395,
+      "char_end": 562,
+      "text": "Mi Señor y Dios, me faltan palabras para contar los muchos planes y maravillas que has hecho en nuestro favor. Quisiera mencionarlos todos, pero me resulta imposible."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 562,
+      "char_end": 640,
+      "text": "Tú no pides sacrificios a cambio de tu perdón; tan sólo nos pides obediencia."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 640,
+      "char_end": 712,
+      "text": "Por eso te he dicho: Aquí me tienes. Así me lo enseña la Ley de Moisés."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 712,
+      "char_end": 812,
+      "text": "Dios mío, cumplir tu voluntad es mi más grande alegría; ¡tus enseñanzas las llevo muy dentro de mí!"
+    },
+    {
+      "verse": 9,
+      "label": "9-10",
+      "char_start": 812,
+      "char_end": 1002,
+      "text": "Dios mío, tú bien sabes que no he guardado silencio. Siempre he dicho que eres justo. A todo el mundo le he dicho que tú eres fiel y salvas. No le he ocultado a tu pueblo tu gran fidelidad."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1002,
+      "char_end": 1098,
+      "text": "Y tú, Dios mío, no me dejes sin tus cuidados; por tu gran fidelidad, nunca dejes de protegerme."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1098,
+      "char_end": 1266,
+      "text": "Son tantas mis maldades que no las puedo contar; me dominan, me tienen acorralado, ya no puedo ver, ya no me quedan fuerzas. ¡Tengo más pecados que pelos en la cabeza!"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1266,
+      "char_end": 1323,
+      "text": "Dios mío, ¡líbrame, por favor!, ¡ven pronto en mi ayuda!"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1323,
+      "char_end": 1432,
+      "text": "Confunde y avergüenza a todos los que quieren matarme; haz que huyan derrotados todos los que desean mi mal;"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1432,
+      "char_end": 1480,
+      "text": "derrota y avergüenza a los que se burlan de mí."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1480,
+      "char_end": 1609,
+      "text": "Pero deja que se alegren los que en tu templo te adoran; que digan siempre los que aman tu salvación: ¡Nuestro Dios es poderoso!"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1609,
+      "char_end": 1744,
+      "text": "Y a mí, Señor y Dios, ¡no me olvides, pues estoy pobre e indefenso! No te tardes, pues tú eres quien me ayuda; ¡tú eres mi libertador!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Toda mi esperanza la tengo puesta en Dios, pues aceptó atender mis ruegos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5212,
+      "duration_ms": 5112
+    },
+    {
+      "word": "Mi vida corría peligro, y él me libró de la muerte; me puso sobre una roca, me puso en lugar seguro.",
+      "verse": 2,
+      "start_ms": 5162,
+      "end_ms": 12112,
+      "duration_ms": 6950
+    },
+    {
+      "word": "Me enseñó un nuevo himno para cantarle alabanzas.",
+      "verse": 3,
+      "start_ms": 12112,
+      "end_ms": 15787,
+      "duration_ms": 3675
+    },
+    {
+      "word": "Muchos, al ver esto, se sintieron conmovidos y confiaron en mi Dios.",
+      "verse": 3,
+      "start_ms": 15787,
+      "end_ms": 20762,
+      "duration_ms": 4975
+    },
+    {
+      "word": "Dios bendice a los que en él confían, a los que rechazan a los orgullosos que adoran dioses falsos.",
+      "verse": 4,
+      "start_ms": 20762,
+      "end_ms": 27012,
+      "duration_ms": 6250
+    },
+    {
+      "word": "Mi Señor y Dios, me faltan palabras para contar los muchos planes y maravillas que has hecho en nuestro favor.",
+      "verse": 5,
+      "start_ms": 27012,
+      "end_ms": 33449,
+      "duration_ms": 6437
+    },
+    {
+      "word": "Quisiera mencionarlos todos, pero me resulta imposible.",
+      "verse": 5,
+      "start_ms": 33450,
+      "end_ms": 37625,
+      "duration_ms": 4175
+    },
+    {
+      "word": "Tú no pides sacrificios a cambio de tu perdón; tan sólo nos pides obediencia.",
+      "verse": 6,
+      "start_ms": 37625,
+      "end_ms": 42837,
+      "duration_ms": 5212
+    },
+    {
+      "word": "Por eso te he dicho: Aquí me tienes.",
+      "verse": 7,
+      "start_ms": 42837,
+      "end_ms": 46074,
+      "duration_ms": 3237
+    },
+    {
+      "word": "Así me lo enseña la Ley de Moisés.",
+      "verse": 7,
+      "start_ms": 46075,
+      "end_ms": 48962,
+      "duration_ms": 2887
+    },
+    {
+      "word": "Dios mío, cumplir tu voluntad es mi más grande alegría; ¡tus enseñanzas las llevo muy dentro de mí!",
+      "verse": 8,
+      "start_ms": 48962,
+      "end_ms": 55487,
+      "duration_ms": 6525
+    },
+    {
+      "word": "Dios mío, tú bien sabes que no he guardado silencio.",
+      "verse": 9,
+      "start_ms": 55487,
+      "end_ms": 59549,
+      "duration_ms": 4062
+    },
+    {
+      "word": "Siempre he dicho que eres justo.",
+      "verse": 9,
+      "start_ms": 59550,
+      "end_ms": 62112,
+      "duration_ms": 2562
+    },
+    {
+      "word": "A todo el mundo le he dicho que tú eres fiel y salvas.",
+      "verse": 9,
+      "start_ms": 62112,
+      "end_ms": 65987,
+      "duration_ms": 3875
+    },
+    {
+      "word": "No le he ocultado a tu pueblo tu gran fidelidad.",
+      "verse": 9,
+      "start_ms": 65987,
+      "end_ms": 69549,
+      "duration_ms": 3562
+    },
+    {
+      "word": "Y tú, Dios mío, no me dejes sin tus cuidados; por tu gran fidelidad, nunca dejes de protegerme.",
+      "verse": 11,
+      "start_ms": 69550,
+      "end_ms": 76600,
+      "duration_ms": 7050
+    },
+    {
+      "word": "Son tantas mis maldades que no las puedo contar; me dominan, me tienen acorralado, ya no puedo ver, ya no me quedan fuerzas.",
+      "verse": 12,
+      "start_ms": 76600,
+      "end_ms": 84962,
+      "duration_ms": 8362
+    },
+    {
+      "word": "Tengo más pecados que pelos en la cabeza!",
+      "verse": 12,
+      "start_ms": 84962,
+      "end_ms": 87999,
+      "duration_ms": 3037
+    },
+    {
+      "word": "Dios mío, ¡líbrame, por favor!, ¡ven pronto en mi ayuda!",
+      "verse": 13,
+      "start_ms": 88000,
+      "end_ms": 92412,
+      "duration_ms": 4412
+    },
+    {
+      "word": "Confunde y avergüenza a todos los que quieren matarme; haz que huyan derrotados todos los que desean mi mal; derrota y avergüenza a los que se burlan de mí.",
+      "verse": 14,
+      "start_ms": 92412,
+      "end_ms": 101487,
+      "duration_ms": 9075
+    },
+    {
+      "word": "Pero deja que se alegren los que en tu templo te adoran; que digan siempre los que aman tu salvación: ¡Nuestro Dios es poderoso!",
+      "verse": 16,
+      "start_ms": 101487,
+      "end_ms": 108899,
+      "duration_ms": 7412
+    },
+    {
+      "word": "Y a mí, Señor y Dios, ¡no me olvides, pues estoy pobre e indefenso!",
+      "verse": 17,
+      "start_ms": 108900,
+      "end_ms": 114175,
+      "duration_ms": 5275
+    },
+    {
+      "word": "No te tardes, pues tú eres quien me ayuda; ¡tú eres mi libertador!",
+      "verse": 17,
+      "start_ms": 114175,
+      "end_ms": 118962,
+      "duration_ms": 4787
+    }
+  ]
+}

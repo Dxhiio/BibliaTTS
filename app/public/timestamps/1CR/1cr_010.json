@@ -1,0 +1,257 @@
+{
+  "book": "1CR",
+  "chapter": 10,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 13,
+  "word_count": 22,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 120,
+      "text": "Los filisteos lucharon contra los israelitas y los hicieron huir. A muchos de ellos los mataron en el cerro de Guilboa,"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 120,
+      "char_end": 220,
+      "text": "y a Saúl y a sus hijos los persiguieron hasta matarlos. Así murieron Jonatán, Abinadab y Malquisúa."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 220,
+      "char_end": 329,
+      "text": "Luego los filisteos concentraron sus fuerzas en el ataque a Saúl, y sus arqueros lograron herirlo de muerte."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 329,
+      "char_end": 612,
+      "text": "Entonces Saúl le dijo a su escudero: —Saca tu espada y mátame. Hazlo antes de que vengan esos extranjeros idólatras. De lo contrario, se burlarán de mí y me rematarán. Pero su escudero tenía tanto miedo que no se atrevió a matarlo. Entonces Saúl tomó su espada y se echó sobre ella."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 612,
+      "char_end": 689,
+      "text": "Al ver muerto a Saúl, también el escudero se echó sobre su espada y se mató."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 689,
+      "char_end": 765,
+      "text": "Así fue como Saúl, sus tres hijos, y toda su familia murieron el mismo día."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 765,
+      "char_end": 1005,
+      "text": "Cuando los israelitas del otro lado del valle vieron que el ejército de Israel había huido, y que Saúl y sus hijos estaban muertos, también ellos huyeron y abandonaron sus ciudades. Entonces llegaron los filisteos y ocuparon esas ciudades."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1005,
+      "char_end": 1171,
+      "text": "Al otro día, mientras los filisteos les quitaban a los israelitas muertos sus objetos de valor, encontraron muertos en el cerro de Guilboa a Saúl y a sus tres hijos."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1171,
+      "char_end": 1353,
+      "text": "Entonces a Saúl le cortaron la cabeza y le quitaron su armadura, y enviaron mensajeros a su país para que dieran la noticia en los templos de sus dioses y entre todos los filisteos."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1353,
+      "char_end": 1468,
+      "text": "Más tarde, pusieron la armadura de Saúl en el templo de sus dioses, y su cabeza la colgaron en el templo de Dagón."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1468,
+      "char_end": 1566,
+      "text": "Los israelitas que vivían en Jabés de Galaad supieron lo que los filisteos habían hecho con Saúl."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1566,
+      "char_end": 1794,
+      "text": "Entonces un grupo de valientes fue y quitó de la muralla los cadáveres de Saúl y de sus hijos. Se los llevaron a Jabés, y allí tomaron sus huesos y los enterraron bajo un árbol. Después ayunaron por siete días en señal de luto."
+    },
+    {
+      "verse": 13,
+      "label": "13-14",
+      "char_start": 1794,
+      "char_end": 1985,
+      "text": "Así fue como Dios le quitó la vida a Saúl, porque no obedeció sus mandamientos y porque fue a consultar a una adivina en vez de consultarlo a él. Por eso Dios hizo rey a David, hijo de Jesé."
+    }
+  ],
+  "words": [
+    {
+      "word": "Los filisteos lucharon contra los israelitas y los hicieron huir.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4550,
+      "duration_ms": 4450
+    },
+    {
+      "word": "A muchos de ellos los mataron en el cerro de Guilboa, y a Saúl y a sus hijos los persiguieron hasta matarlos.",
+      "verse": 1,
+      "start_ms": 4500,
+      "end_ms": 11212,
+      "duration_ms": 6712
+    },
+    {
+      "word": "Así murieron Jonatán, Abinadab y Malquisúa.",
+      "verse": 2,
+      "start_ms": 11212,
+      "end_ms": 15037,
+      "duration_ms": 3825
+    },
+    {
+      "word": "Luego los filisteos concentraron sus fuerzas en el ataque a Saúl, y sus arqueros lograron herirlo de muerte.",
+      "verse": 3,
+      "start_ms": 15037,
+      "end_ms": 21662,
+      "duration_ms": 6625
+    },
+    {
+      "word": "Entonces Saúl le dijo a su escudero: —Saca tu espada y mátame.",
+      "verse": 4,
+      "start_ms": 21662,
+      "end_ms": 26262,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Hazlo antes de que vengan esos extranjeros idólatras.",
+      "verse": 4,
+      "start_ms": 26262,
+      "end_ms": 30199,
+      "duration_ms": 3937
+    },
+    {
+      "word": "De lo contrario, se burlarán de mí y me rematarán.",
+      "verse": 4,
+      "start_ms": 30200,
+      "end_ms": 34162,
+      "duration_ms": 3962
+    },
+    {
+      "word": "Pero su escudero tenía tanto miedo que no se atrevió a matarlo.",
+      "verse": 4,
+      "start_ms": 34162,
+      "end_ms": 38212,
+      "duration_ms": 4050
+    },
+    {
+      "word": "Entonces Saúl tomó su espada y se echó sobre ella.",
+      "verse": 4,
+      "start_ms": 38212,
+      "end_ms": 41949,
+      "duration_ms": 3737
+    },
+    {
+      "word": "Al ver muerto a Saúl, también el escudero se echó sobre su espada y se mató.",
+      "verse": 5,
+      "start_ms": 41950,
+      "end_ms": 46987,
+      "duration_ms": 5037
+    },
+    {
+      "word": "Así fue como Saúl, sus tres hijos, y toda su familia murieron el mismo día.",
+      "verse": 6,
+      "start_ms": 46987,
+      "end_ms": 52787,
+      "duration_ms": 5800
+    },
+    {
+      "word": "Cuando los israelitas del otro lado del valle vieron que el ejército de Israel había huido, y que Saúl y sus hijos estaban muertos, también ellos huyeron y abandonaron sus ciudades.",
+      "verse": 7,
+      "start_ms": 52787,
+      "end_ms": 63574,
+      "duration_ms": 10787
+    },
+    {
+      "word": "Entonces llegaron los filisteos y ocuparon esas ciudades.",
+      "verse": 7,
+      "start_ms": 63575,
+      "end_ms": 67612,
+      "duration_ms": 4037
+    },
+    {
+      "word": "Al otro día, mientras los filisteos les quitaban a los israelitas muertos sus objetos de valor, encontraron muertos en el cerro de Guilboa a Saúl y a sus tres hijos.",
+      "verse": 8,
+      "start_ms": 67612,
+      "end_ms": 77474,
+      "duration_ms": 9862
+    },
+    {
+      "word": "Entonces a Saúl le cortaron la cabeza y le quitaron su armadura, y enviaron mensajeros a su país para que dieran la noticia en los templos de sus dioses y entre todos los filisteos.",
+      "verse": 9,
+      "start_ms": 77475,
+      "end_ms": 87687,
+      "duration_ms": 10212
+    },
+    {
+      "word": "Más tarde, pusieron la armadura de Saúl en el templo de sus dioses, y su cabeza la colgaron en el templo de Dagón.",
+      "verse": 10,
+      "start_ms": 87687,
+      "end_ms": 94999,
+      "duration_ms": 7312
+    },
+    {
+      "word": "Los israelitas que vivían en Jabés de Galaad supieron lo que los filisteos habían hecho con Saúl.",
+      "verse": 11,
+      "start_ms": 95000,
+      "end_ms": 100862,
+      "duration_ms": 5862
+    },
+    {
+      "word": "Entonces un grupo de valientes fue y quitó de la muralla los cadáveres de Saúl y de sus hijos.",
+      "verse": 12,
+      "start_ms": 100862,
+      "end_ms": 106662,
+      "duration_ms": 5800
+    },
+    {
+      "word": "Se los llevaron a Jabés, y allí tomaron sus huesos y los enterraron bajo un árbol.",
+      "verse": 12,
+      "start_ms": 106662,
+      "end_ms": 112087,
+      "duration_ms": 5425
+    },
+    {
+      "word": "Después ayunaron por siete días en señal de luto.",
+      "verse": 12,
+      "start_ms": 112087,
+      "end_ms": 115674,
+      "duration_ms": 3587
+    },
+    {
+      "word": "Así fue como Dios le quitó la vida a Saúl, porque no obedeció sus mandamientos y porque fue a consultar a una adivina en vez de consultarlo a él.",
+      "verse": 13,
+      "start_ms": 115675,
+      "end_ms": 124087,
+      "duration_ms": 8412
+    },
+    {
+      "word": "Por eso Dios hizo rey a David, hijo de Jesé.",
+      "verse": 13,
+      "start_ms": 124087,
+      "end_ms": 127624,
+      "duration_ms": 3537
+    }
+  ]
+}

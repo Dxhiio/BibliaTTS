@@ -1,0 +1,768 @@
+{
+  "book": "JUA",
+  "chapter": 5,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 45,
+  "word_count": 63,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 96,
+      "text": "Tiempo después, Jesús regresó a la ciudad de Jerusalén para asistir a una fiesta de los judíos."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 96,
+      "char_end": 232,
+      "text": "En Jerusalén, cerca de la entrada llamada Portón de las Ovejas, había una piscina con cinco entradas, que en hebreo se llamaba Betzatá."
+    },
+    {
+      "verse": 3,
+      "label": "3-4",
+      "char_start": 232,
+      "char_end": 313,
+      "text": "Allí, acostados en el suelo, había muchos enfermos: ciegos, cojos y paralíticos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 313,
+      "char_end": 393,
+      "text": "Entre ellos había un hombre que desde hacía treinta y ocho años estaba enfermo."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 393,
+      "char_end": 520,
+      "text": "Cuando Jesús lo vio allí acostado, y se enteró de cuánto tiempo había estado enfermo, le preguntó: —¿Quieres que Dios te sane?"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 520,
+      "char_end": 673,
+      "text": "El enfermo contestó: —Señor, no tengo a nadie que me meta en la piscina cuando el agua se mueve. Cada vez que trato de meterme, alguien lo hace primero."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 673,
+      "char_end": 726,
+      "text": "Jesús le dijo: —Levántate, alza tu camilla y camina."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 726,
+      "char_end": 879,
+      "text": "En ese momento el hombre quedó sano, alzó su camilla y comenzó a caminar. Esto sucedió un sábado, que es el día de descanso obligatorio para los judíos."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 879,
+      "char_end": 1021,
+      "text": "Por eso, unos jefes de los judíos le dijeron al hombre que había sido sanado: —Hoy es sábado, y está prohibido que andes cargando tu camilla."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1021,
+      "char_end": 1107,
+      "text": "Pero él les contestó: —El que me sanó me dijo: «Levántate, alza tu camilla y camina»."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1107,
+      "char_end": 1175,
+      "text": "Ellos preguntaron: —¿Y quién te dijo que te levantaras y caminaras?"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1175,
+      "char_end": 1291,
+      "text": "Pero el hombre no sabía quién lo había sanado, porque Jesús había desaparecido entre toda la gente que estaba allí."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1291,
+      "char_end": 1430,
+      "text": "Más tarde, Jesús encontró a ese hombre en el templo, y le dijo: Ahora que estás sano, no vuelvas a pecar, porque te puede pasar algo peor."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1430,
+      "char_end": 1508,
+      "text": "El hombre fue a ver a los jefes judíos, y les dijo que Jesús lo había sanado."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1508,
+      "char_end": 1585,
+      "text": "Entonces ellos empezaron a perseguir a Jesús por hacer milagros los sábados."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1585,
+      "char_end": 1654,
+      "text": "Pero Jesús les dijo: Mi Padre nunca deja de trabajar, ni yo tampoco."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1654,
+      "char_end": 1865,
+      "text": "Los jefes judíos se molestaron tanto que tuvieron aun más ganas de matar a Jesús. No lo querían porque, además de sanar a los enfermos en día sábado, decía que Dios era su Padre, y que por eso era igual a Dios."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1865,
+      "char_end": 2006,
+      "text": "Jesús les dijo: Les aseguro que yo, el Hijo de Dios, no puedo hacer nada por mi propia cuenta. Sólo hago lo que veo que hace Dios, mi Padre."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2006,
+      "char_end": 2122,
+      "text": "Él me ama y me muestra todo lo que hace. Y me mostrará cosas aun más grandes, que a ustedes los dejarán asombrados."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2122,
+      "char_end": 2228,
+      "text": "Porque así como mi Padre hace que los muertos vuelvan a vivir, así también yo le doy vida a quien quiero."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2228,
+      "char_end": 2313,
+      "text": "Y mi Padre no juzga a nadie. Es a mí, que soy su Hijo, a quien le ha dado ese poder,"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2313,
+      "char_end": 2427,
+      "text": "para que todos me honren como lo honran a él. Cuando alguien no me honra, tampoco honra a mi Padre, que me envió."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2427,
+      "char_end": 2646,
+      "text": "Les aseguro que todo el que preste atención a lo que digo, y crea en Dios, que fue quien me envió, tendrá vida eterna. Aunque antes haya vivido alejado de Dios, ya no será condenado, pues habrá recibido la vida eterna."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2646,
+      "char_end": 2785,
+      "text": "Una cosa es cierta: ahora es cuando los que viven alejados de Dios me oirán a mí, que soy su Hijo. Si me obedecen, tendrán la vida eterna."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2785,
+      "char_end": 2870,
+      "text": "Porque Dios, mi Padre, tiene el poder para dar la vida, y a mí me ha dado ese poder."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2870,
+      "char_end": 2944,
+      "text": "También me ha dado autoridad para juzgar, pues yo soy el Hijo del hombre."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2944,
+      "char_end": 3043,
+      "text": "No se sorprendan de lo que les digo, porque va a llegar el momento en que los muertos oirán mi voz"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3043,
+      "char_end": 3223,
+      "text": "y saldrán de sus tumbas. Entonces, los que hicieron lo bueno volverán a vivir, y estarán con Dios para siempre; pero los que hicieron lo malo volverán a vivir para ser castigados."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3223,
+      "char_end": 3436,
+      "text": "Yo no puedo hacer nada por mi propia cuenta. Mi Padre me envió, y él me dice cómo debo juzgar a las personas. Por eso yo juzgo correctamente, porque no hago lo que yo quiero, sino lo que mi Padre me ordena hacer."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3436,
+      "char_end": 3495,
+      "text": "Si yo hablara bien de mí mismo, ustedes dirían que miento."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3495,
+      "char_end": 3581,
+      "text": "Pero conozco a alguien que dirá quién soy yo, y que confirmará que yo digo la verdad."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3581,
+      "char_end": 3647,
+      "text": "Cuando ustedes enviaron mensajeros a Juan, él les dijo la verdad."
+    },
+    {
+      "verse": 34,
+      "label": "34-35",
+      "char_start": 3647,
+      "char_end": 3901,
+      "text": "Las enseñanzas de Juan fueron como una lámpara encendida en la oscuridad, y por un tiempo ustedes se alegraron de escucharlas. Pero yo no necesito que nadie hable bien de mí. Si he mencionado a Juan, ha sido sólo para que ustedes crean y Dios los salve."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3901,
+      "char_end": 4090,
+      "text": "Yo puedo probarles que de verdad mi Padre me ha enviado. Así lo prueba todo lo que hago, y ni siquiera Juan puede ser mejor testigo. Porque yo hago las cosas que mi Padre me envió a hacer."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4090,
+      "char_end": 4227,
+      "text": "Mi Padre me ha enviado, y él también habla bien de mí. Lo que pasa es que ustedes nunca lo han oído hablar, ni lo han visto cara a cara."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4227,
+      "char_end": 4312,
+      "text": "Ustedes no aceptan su mensaje, pues no han creído en mí, que he sido enviado por él."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4312,
+      "char_end": 4461,
+      "text": "Ustedes estudian la Biblia con mucho cuidado porque creen que así alcanzarán la vida eterna. Sin embargo, a pesar de que la Biblia habla bien de mí,"
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4461,
+      "char_end": 4522,
+      "text": "ustedes no quieren creer en mí para alcanzar la vida eterna."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4522,
+      "char_end": 4573,
+      "text": "A mí no me interesa que la gente hable bien de mí."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4573,
+      "char_end": 4638,
+      "text": "Además, a ustedes los conozco muy bien, y sé que no aman a Dios."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4638,
+      "char_end": 4776,
+      "text": "Él es mi Padre, y me ha enviado, pero ustedes no me han aceptado. Sin embargo, a quien viene por su propia cuenta, ustedes sí lo reciben."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 4776,
+      "char_end": 4877,
+      "text": "¡Cómo van a creerme, si les gusta que sea la gente la que hable bien de ustedes, y no el Dios único!"
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 4877,
+      "char_end": 5002,
+      "text": "No crean que yo voy a acusarlos con mi Padre. Ustedes han confiado en lo que Moisés escribió, y será Moisés quien los acuse."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 5002,
+      "char_end": 5082,
+      "text": "Si le creyeran a Moisés, también creerían en mí, pues él escribió acerca de mí."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 5082,
+      "char_end": 5163,
+      "text": "Pero si no creen en lo que él escribió, ¿cómo van a creer en lo que yo les digo?"
+    }
+  ],
+  "words": [
+    {
+      "word": "Tiempo después, Jesús regresó a la ciudad de Jerusalén para asistir a una fiesta de los judíos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6187,
+      "duration_ms": 6087
+    },
+    {
+      "word": "En Jerusalén, cerca de la entrada llamada Portón de las Ovejas, había una piscina con cinco entradas, que en hebreo se llamaba Betzatá.",
+      "verse": 2,
+      "start_ms": 6137,
+      "end_ms": 14937,
+      "duration_ms": 8800
+    },
+    {
+      "word": "Allí, acostados en el suelo, había muchos enfermos: ciegos, cojos y paralíticos.",
+      "verse": 3,
+      "start_ms": 14937,
+      "end_ms": 21874,
+      "duration_ms": 6937
+    },
+    {
+      "word": "Entre ellos había un hombre que desde hacía treinta y ocho años estaba enfermo.",
+      "verse": 5,
+      "start_ms": 21875,
+      "end_ms": 26775,
+      "duration_ms": 4900
+    },
+    {
+      "word": "Cuando Jesús lo vio allí acostado, y se enteró de cuánto tiempo había estado enfermo, le preguntó: —¿Quieres que Dios te sane?",
+      "verse": 6,
+      "start_ms": 26775,
+      "end_ms": 34525,
+      "duration_ms": 7750
+    },
+    {
+      "word": "El enfermo contestó: —Señor, no tengo a nadie que me meta en la piscina cuando el agua se mueve.",
+      "verse": 7,
+      "start_ms": 34525,
+      "end_ms": 40537,
+      "duration_ms": 6012
+    },
+    {
+      "word": "Cada vez que trato de meterme, alguien lo hace primero.",
+      "verse": 7,
+      "start_ms": 40537,
+      "end_ms": 44412,
+      "duration_ms": 3875
+    },
+    {
+      "word": "Jesús le dijo: —Levántate, alza tu camilla y camina.",
+      "verse": 8,
+      "start_ms": 44412,
+      "end_ms": 48924,
+      "duration_ms": 4512
+    },
+    {
+      "word": "En ese momento el hombre quedó sano, alzó su camilla y comenzó a caminar.",
+      "verse": 9,
+      "start_ms": 48925,
+      "end_ms": 54000,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Esto sucedió un sábado, que es el día de descanso obligatorio para los judíos.",
+      "verse": 9,
+      "start_ms": 54000,
+      "end_ms": 59462,
+      "duration_ms": 5462
+    },
+    {
+      "word": "Por eso, unos jefes de los judíos le dijeron al hombre que había sido sanado: —Hoy es sábado, y está prohibido que andes cargando tu camilla.",
+      "verse": 10,
+      "start_ms": 59462,
+      "end_ms": 67962,
+      "duration_ms": 8500
+    },
+    {
+      "word": "Pero él les contestó: —El que me sanó me dijo: «Levántate, alza tu camilla y camina».",
+      "verse": 11,
+      "start_ms": 67962,
+      "end_ms": 73949,
+      "duration_ms": 5987
+    },
+    {
+      "word": "Ellos preguntaron: —¿Y quién te dijo que te levantaras y caminaras?",
+      "verse": 12,
+      "start_ms": 73950,
+      "end_ms": 78437,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Pero el hombre no sabía quién lo había sanado, porque Jesús había desaparecido entre toda la gente que estaba allí.",
+      "verse": 13,
+      "start_ms": 78437,
+      "end_ms": 84999,
+      "duration_ms": 6562
+    },
+    {
+      "word": "Más tarde, Jesús encontró a ese hombre en el templo, y le dijo: Ahora que estás sano, no vuelvas a pecar, porque te puede pasar algo peor.",
+      "verse": 14,
+      "start_ms": 85000,
+      "end_ms": 94312,
+      "duration_ms": 9312
+    },
+    {
+      "word": "El hombre fue a ver a los jefes judíos, y les dijo que Jesús lo había sanado.",
+      "verse": 15,
+      "start_ms": 94312,
+      "end_ms": 99324,
+      "duration_ms": 5012
+    },
+    {
+      "word": "Entonces ellos empezaron a perseguir a Jesús por hacer milagros los sábados.",
+      "verse": 16,
+      "start_ms": 99325,
+      "end_ms": 104237,
+      "duration_ms": 4912
+    },
+    {
+      "word": "Pero Jesús les dijo: Mi Padre nunca deja de trabajar, ni yo tampoco.",
+      "verse": 17,
+      "start_ms": 104237,
+      "end_ms": 109374,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Los jefes judíos se molestaron tanto que tuvieron aun más ganas de matar a Jesús.",
+      "verse": 18,
+      "start_ms": 109375,
+      "end_ms": 114562,
+      "duration_ms": 5187
+    },
+    {
+      "word": "No lo querían porque, además de sanar a los enfermos en día sábado, decía que Dios era su Padre, y que por eso era igual a Dios.",
+      "verse": 18,
+      "start_ms": 114562,
+      "end_ms": 122599,
+      "duration_ms": 8037
+    },
+    {
+      "word": "Jesús les dijo: Les aseguro que yo, el Hijo de Dios, no puedo hacer nada por mi propia cuenta.",
+      "verse": 19,
+      "start_ms": 122600,
+      "end_ms": 129375,
+      "duration_ms": 6775
+    },
+    {
+      "word": "Sólo hago lo que veo que hace Dios, mi Padre.",
+      "verse": 19,
+      "start_ms": 129375,
+      "end_ms": 132875,
+      "duration_ms": 3500
+    },
+    {
+      "word": "Él me ama y me muestra todo lo que hace.",
+      "verse": 20,
+      "start_ms": 132875,
+      "end_ms": 135887,
+      "duration_ms": 3012
+    },
+    {
+      "word": "Y me mostrará cosas aun más grandes, que a ustedes los dejarán asombrados.",
+      "verse": 20,
+      "start_ms": 135887,
+      "end_ms": 141074,
+      "duration_ms": 5187
+    },
+    {
+      "word": "Porque así como mi Padre hace que los muertos vuelvan a vivir, así también yo le doy vida a quien quiero.",
+      "verse": 21,
+      "start_ms": 141075,
+      "end_ms": 147412,
+      "duration_ms": 6337
+    },
+    {
+      "word": "Y mi Padre no juzga a nadie.",
+      "verse": 22,
+      "start_ms": 147412,
+      "end_ms": 150099,
+      "duration_ms": 2687
+    },
+    {
+      "word": "Es a mí, que soy su Hijo, a quien le ha dado ese poder, para que todos me honren como lo honran a él.",
+      "verse": 22,
+      "start_ms": 150100,
+      "end_ms": 156937,
+      "duration_ms": 6837
+    },
+    {
+      "word": "Cuando alguien no me honra, tampoco honra a mi Padre, que me envió.",
+      "verse": 23,
+      "start_ms": 156937,
+      "end_ms": 161699,
+      "duration_ms": 4762
+    },
+    {
+      "word": "Les aseguro que todo el que preste atención a lo que digo, y crea en Dios, que fue quien me envió, tendrá vida eterna.",
+      "verse": 24,
+      "start_ms": 161700,
+      "end_ms": 169037,
+      "duration_ms": 7337
+    },
+    {
+      "word": "Aunque antes haya vivido alejado de Dios, ya no será condenado, pues habrá recibido la vida eterna.",
+      "verse": 24,
+      "start_ms": 169037,
+      "end_ms": 175599,
+      "duration_ms": 6562
+    },
+    {
+      "word": "Una cosa es cierta: ahora es cuando los que viven alejados de Dios me oirán a mí, que soy su Hijo.",
+      "verse": 25,
+      "start_ms": 175600,
+      "end_ms": 181850,
+      "duration_ms": 6250
+    },
+    {
+      "word": "Si me obedecen, tendrán la vida eterna.",
+      "verse": 25,
+      "start_ms": 181850,
+      "end_ms": 185287,
+      "duration_ms": 3437
+    },
+    {
+      "word": "Porque Dios, mi Padre, tiene el poder para dar la vida, y a mí me ha dado ese poder.",
+      "verse": 26,
+      "start_ms": 185287,
+      "end_ms": 191249,
+      "duration_ms": 5962
+    },
+    {
+      "word": "También me ha dado autoridad para juzgar, pues yo soy el Hijo del hombre.",
+      "verse": 27,
+      "start_ms": 191250,
+      "end_ms": 195937,
+      "duration_ms": 4687
+    },
+    {
+      "word": "No se sorprendan de lo que les digo, porque va a llegar el momento en que los muertos oirán mi voz y saldrán de sus tumbas.",
+      "verse": 28,
+      "start_ms": 195937,
+      "end_ms": 202974,
+      "duration_ms": 7037
+    },
+    {
+      "word": "Entonces, los que hicieron lo bueno volverán a vivir, y estarán con Dios para siempre; pero los que hicieron lo malo volverán a vivir para ser castigados.",
+      "verse": 29,
+      "start_ms": 202975,
+      "end_ms": 211875,
+      "duration_ms": 8900
+    },
+    {
+      "word": "Yo no puedo hacer nada por mi propia cuenta.",
+      "verse": 30,
+      "start_ms": 211875,
+      "end_ms": 215112,
+      "duration_ms": 3237
+    },
+    {
+      "word": "Mi Padre me envió, y él me dice cómo debo juzgar a las personas.",
+      "verse": 30,
+      "start_ms": 215112,
+      "end_ms": 219824,
+      "duration_ms": 4712
+    },
+    {
+      "word": "Por eso yo juzgo correctamente, porque no hago lo que yo quiero, sino lo que mi Padre me ordena hacer.",
+      "verse": 30,
+      "start_ms": 219825,
+      "end_ms": 226375,
+      "duration_ms": 6550
+    },
+    {
+      "word": "Si yo hablara bien de mí mismo, ustedes dirían que miento.",
+      "verse": 31,
+      "start_ms": 226375,
+      "end_ms": 230462,
+      "duration_ms": 4087
+    },
+    {
+      "word": "Pero conozco a alguien que dirá quién soy yo, y que confirmará que yo digo la verdad.",
+      "verse": 32,
+      "start_ms": 230462,
+      "end_ms": 235849,
+      "duration_ms": 5387
+    },
+    {
+      "word": "Cuando ustedes enviaron mensajeros a Juan, él les dijo la verdad.",
+      "verse": 33,
+      "start_ms": 235850,
+      "end_ms": 240212,
+      "duration_ms": 4362
+    },
+    {
+      "word": "Las enseñanzas de Juan fueron como una lámpara encendida en la oscuridad, y por un tiempo ustedes se alegraron de escucharlas.",
+      "verse": 34,
+      "start_ms": 240212,
+      "end_ms": 247287,
+      "duration_ms": 7075
+    },
+    {
+      "word": "Pero yo no necesito que nadie hable bien de mí.",
+      "verse": 34,
+      "start_ms": 247287,
+      "end_ms": 250662,
+      "duration_ms": 3375
+    },
+    {
+      "word": "Si he mencionado a Juan, ha sido sólo para que ustedes crean y Dios los salve.",
+      "verse": 34,
+      "start_ms": 250662,
+      "end_ms": 255874,
+      "duration_ms": 5212
+    },
+    {
+      "word": "Yo puedo probarles que de verdad mi Padre me ha enviado.",
+      "verse": 36,
+      "start_ms": 255875,
+      "end_ms": 259700,
+      "duration_ms": 3825
+    },
+    {
+      "word": "Así lo prueba",
+      "verse": 36,
+      "start_ms": 259700,
+      "end_ms": 261525,
+      "duration_ms": 1825
+    },
+    {
+      "word": "todo lo que hago, y ni siquiera Juan puede ser mejor testigo.",
+      "verse": 36,
+      "start_ms": 261676,
+      "end_ms": 265963,
+      "duration_ms": 4287
+    },
+    {
+      "word": "Porque yo hago las cosas que mi Padre me envió a hacer.",
+      "verse": 36,
+      "start_ms": 265913,
+      "end_ms": 269588,
+      "duration_ms": 3675
+    },
+    {
+      "word": "Mi Padre me ha enviado, y él también habla bien de mí.",
+      "verse": 37,
+      "start_ms": 269588,
+      "end_ms": 273513,
+      "duration_ms": 3925
+    },
+    {
+      "word": "Lo que pasa es que ustedes nunca lo han oído hablar, ni lo han visto cara a cara.",
+      "verse": 37,
+      "start_ms": 273513,
+      "end_ms": 278763,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Ustedes no aceptan su mensaje, pues no han creído en mí, que he sido enviado por él.",
+      "verse": 38,
+      "start_ms": 278763,
+      "end_ms": 284713,
+      "duration_ms": 5950
+    },
+    {
+      "word": "Ustedes estudian la Biblia con mucho cuidado porque creen que así alcanzarán la vida eterna.",
+      "verse": 39,
+      "start_ms": 284713,
+      "end_ms": 290250,
+      "duration_ms": 5537
+    },
+    {
+      "word": "Sin embargo, a pesar de que la Biblia habla bien de mí, ustedes no quieren creer en mí para alcanzar la vida eterna.",
+      "verse": 39,
+      "start_ms": 290251,
+      "end_ms": 297201,
+      "duration_ms": 6950
+    },
+    {
+      "word": "A mí no me interesa que la gente hable bien de mí.",
+      "verse": 41,
+      "start_ms": 297201,
+      "end_ms": 300488,
+      "duration_ms": 3287
+    },
+    {
+      "word": "Además, a ustedes los conozco muy bien, y sé que no aman a Dios.",
+      "verse": 42,
+      "start_ms": 300488,
+      "end_ms": 305513,
+      "duration_ms": 5025
+    },
+    {
+      "word": "Él es mi Padre, y me ha enviado, pero ustedes no me han aceptado.",
+      "verse": 43,
+      "start_ms": 305513,
+      "end_ms": 310338,
+      "duration_ms": 4825
+    },
+    {
+      "word": "Sin embargo, a quien viene por su propia cuenta, ustedes sí lo reciben.",
+      "verse": 43,
+      "start_ms": 310338,
+      "end_ms": 315275,
+      "duration_ms": 4937
+    },
+    {
+      "word": "Cómo van a creerme, si les gusta que sea la gente la que hable bien de ustedes, y no el Dios único!",
+      "verse": 44,
+      "start_ms": 315276,
+      "end_ms": 321601,
+      "duration_ms": 6325
+    },
+    {
+      "word": "No crean que yo voy a acusarlos con mi Padre.",
+      "verse": 45,
+      "start_ms": 321601,
+      "end_ms": 324751,
+      "duration_ms": 3150
+    },
+    {
+      "word": "Ustedes han confiado en lo que Moisés escribió, y será Moisés quien los acuse.",
+      "verse": 45,
+      "start_ms": 324751,
+      "end_ms": 329851,
+      "duration_ms": 5100
+    },
+    {
+      "word": "Si le creyeran a Moisés, también creerían en mí, pues él escribió acerca de mí.",
+      "verse": 46,
+      "start_ms": 329851,
+      "end_ms": 335488,
+      "duration_ms": 5637
+    },
+    {
+      "word": "Pero si no creen en lo que él escribió, ¿cómo van a creer en lo que yo les digo?",
+      "verse": 47,
+      "start_ms": 335488,
+      "end_ms": 340375,
+      "duration_ms": 4887
+    }
+  ]
+}

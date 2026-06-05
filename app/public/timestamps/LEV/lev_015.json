@@ -1,0 +1,411 @@
+{
+  "book": "LEV",
+  "chapter": 15,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 26,
+  "word_count": 31,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 31,
+      "text": "Dios ordenó a Moisés y a Aarón"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 31,
+      "char_end": 166,
+      "text": "que les dieran a los israelitas las siguientes instrucciones: Todo hombre que tenga una infección en su pene, será considerado impuro,"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 166,
+      "char_end": 196,
+      "text": "ya sea que le salga pus o no."
+    },
+    {
+      "verse": 4,
+      "label": "4-7",
+      "char_start": 196,
+      "char_end": 422,
+      "text": "También se considerarán impuras la cama donde se acueste ese hombre, y la silla donde se siente. Si alguien toca a este hombre, o toca su cama o su silla, quedará impuro hasta el anochecer, y deberá lavar sus ropas y bañarse."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 422,
+      "char_end": 550,
+      "text": "Si ese hombre escupe sobre una persona pura, esa persona quedará impura hasta el anochecer, y deberá lavar sus ropas y bañarse."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 550,
+      "char_end": 601,
+      "text": "Si el hombre usa una montura, ésta quedará impura."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 601,
+      "char_end": 725,
+      "text": "Si alguien toca un objeto que ese hombre haya usado, quedará impuro hasta el anochecer, y deberá lavar sus ropas y bañarse."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 725,
+      "char_end": 816,
+      "text": "Lo mismo hará quien haya sido tocado por ese hombre, si éste no se había lavado las manos."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 816,
+      "char_end": 932,
+      "text": "Toda olla de barro que toque ese hombre tendrá que romperse, y todo objeto de madera que toque, tendrá que lavarse."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 932,
+      "char_end": 1094,
+      "text": "Si ese hombre sana, deberá esperar siete días, después de los cuales lavará sus ropas y se bañará con agua de manantial. Sólo entonces se considerará purificado."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1094,
+      "char_end": 1233,
+      "text": "Al octavo día irá a la entrada del santuario para presentarse ante Dios. Llevará dos palomas y dos tortolitas, y se los dará al sacerdote."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1233,
+      "char_end": 1407,
+      "text": "Entonces el sacerdote presentará una de ellas como ofrenda para el perdón de pecados, y la otra la quemará en mi honor. Así el enfermo será declarado limpio de su infección."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1407,
+      "char_end": 1522,
+      "text": "Si algún hombre derrama semen involuntariamente, quedará impuro hasta el anochecer, y deberá lavar todo su cuerpo."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1522,
+      "char_end": 1649,
+      "text": "Si llega a caer semen sobre alguna ropa o sobre algún objeto de cuero, quedarán impuros hasta el anochecer, y deberán lavarse."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1649,
+      "char_end": 1758,
+      "text": "Si un hombre y una mujer tienen relaciones sexuales, quedarán impuros hasta el anochecer, y deberán bañarse."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1758,
+      "char_end": 1866,
+      "text": "La mujer que tenga su menstruación será considerada impura durante siete días. Si alguien toca a esa mujer,"
+    },
+    {
+      "verse": 20,
+      "label": "20-23",
+      "char_start": 1866,
+      "char_end": 1991,
+      "text": "o toca su cama, o cualquier otro mueble que ella use, quedará impuro hasta el anochecer, y deberá lavar sus ropas y bañarse."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1991,
+      "char_end": 2172,
+      "text": "Si alguien tiene relaciones sexuales con ella, quedará impuro durante siete días, pues la impureza de ella se pasará también a él. La cama donde se acuesten quedará también impura."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2172,
+      "char_end": 2289,
+      "text": "La mujer que tenga una hemorragia durante varios días, fuera del tiempo de su menstruación, será considerada impura."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2289,
+      "char_end": 2374,
+      "text": "También se considerarán impuras la cama donde se acueste y la silla donde se siente."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2374,
+      "char_end": 2484,
+      "text": "Todo el que toque esos muebles quedará también impuro hasta el anochecer, y deberá lavar sus ropas y bañarse."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2484,
+      "char_end": 2608,
+      "text": "Para volver a ser considerada pura, la mujer deberá contar siete días a partir del momento en que se detenga la hemorragia."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2608,
+      "char_end": 2719,
+      "text": "Al octavo día, tomará dos palomas o dos tortolitas, y las presentará al sacerdote, a la entrada del santuario."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2719,
+      "char_end": 2872,
+      "text": "El sacerdote presentará una de ellas como ofrenda para el perdón de pecados, y quemará la otra en mi honor. Así la mujer será considerada pura otra vez."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2872,
+      "char_end": 3031,
+      "text": "Ustedes, Moisés y Aarón, deberán instruir a los israelitas acerca de las impurezas. De lo contrario, ellos morirán por haber llenado de impureza mi santuario."
+    },
+    {
+      "verse": 32,
+      "label": "32-33",
+      "char_start": 3031,
+      "char_end": 3108,
+      "text": "Éstas son las instrucciones acerca de las impurezas en hombres y en mujeres."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios ordenó a Moisés y a Aarón que les dieran a los israelitas las siguientes instrucciones: Todo hombre que tenga una infección en su pene, será considerado impuro, ya sea que le salga pus o no.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 11450,
+      "duration_ms": 11350
+    },
+    {
+      "word": "También se considerarán impuras la cama donde se acueste ese hombre, y la silla donde se siente.",
+      "verse": 4,
+      "start_ms": 11400,
+      "end_ms": 17375,
+      "duration_ms": 5975
+    },
+    {
+      "word": "Si alguien toca a este hombre, o toca su cama o su silla, quedará impuro hasta el anochecer, y deberá lavar sus ropas y bañarse.",
+      "verse": 4,
+      "start_ms": 17375,
+      "end_ms": 25650,
+      "duration_ms": 8275
+    },
+    {
+      "word": "Si ese hombre escupe sobre una persona pura, esa persona quedará impura hasta el anochecer, y deberá lavar sus ropas y bañarse.",
+      "verse": 8,
+      "start_ms": 25650,
+      "end_ms": 33675,
+      "duration_ms": 8025
+    },
+    {
+      "word": "Si el hombre usa una montura, ésta quedará impura.",
+      "verse": 9,
+      "start_ms": 33675,
+      "end_ms": 37687,
+      "duration_ms": 4012
+    },
+    {
+      "word": "Si alguien toca un objeto que ese hombre haya usado, quedará impuro hasta el anochecer, y deberá lavar sus ropas y bañarse.",
+      "verse": 10,
+      "start_ms": 37687,
+      "end_ms": 45537,
+      "duration_ms": 7850
+    },
+    {
+      "word": "Lo mismo hará quien haya sido tocado por ese hombre, si éste no se había lavado las manos.",
+      "verse": 11,
+      "start_ms": 45537,
+      "end_ms": 51299,
+      "duration_ms": 5762
+    },
+    {
+      "word": "Toda olla de barro que toque ese hombre tendrá que romperse, y todo objeto de madera que toque, tendrá que lavarse.",
+      "verse": 12,
+      "start_ms": 51300,
+      "end_ms": 58687,
+      "duration_ms": 7387
+    },
+    {
+      "word": "Si ese hombre sana, deberá esperar siete días, después de los cuales lavará sus ropas y se bañará con agua de manantial.",
+      "verse": 13,
+      "start_ms": 58687,
+      "end_ms": 66262,
+      "duration_ms": 7575
+    },
+    {
+      "word": "Sólo entonces se considerará purificado.",
+      "verse": 13,
+      "start_ms": 66262,
+      "end_ms": 69462,
+      "duration_ms": 3200
+    },
+    {
+      "word": "Al octavo día irá a la entrada del santuario para presentarse ante Dios.",
+      "verse": 14,
+      "start_ms": 69462,
+      "end_ms": 74124,
+      "duration_ms": 4662
+    },
+    {
+      "word": "Llevará dos palomas y dos tortolitas, y se los dará al sacerdote.",
+      "verse": 14,
+      "start_ms": 74125,
+      "end_ms": 78900,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Entonces el sacerdote presentará una de ellas como ofrenda para el perdón de pecados, y la otra la quemará en mi honor.",
+      "verse": 15,
+      "start_ms": 78900,
+      "end_ms": 86025,
+      "duration_ms": 7125
+    },
+    {
+      "word": "Así el enfermo será declarado limpio de su infección.",
+      "verse": 15,
+      "start_ms": 86025,
+      "end_ms": 89862,
+      "duration_ms": 3837
+    },
+    {
+      "word": "Si algún hombre derrama semen involuntariamente, quedará impuro hasta el anochecer, y deberá lavar todo su cuerpo.",
+      "verse": 16,
+      "start_ms": 89862,
+      "end_ms": 97262,
+      "duration_ms": 7400
+    },
+    {
+      "word": "Si llega a caer semen sobre alguna ropa o sobre algún objeto de cuero, quedarán impuros hasta el anochecer, y deberán lavarse.",
+      "verse": 17,
+      "start_ms": 97262,
+      "end_ms": 105199,
+      "duration_ms": 7937
+    },
+    {
+      "word": "Si un hombre y una mujer tienen relaciones sexuales, quedarán impuros hasta el anochecer, y deberán bañarse.",
+      "verse": 18,
+      "start_ms": 105200,
+      "end_ms": 112187,
+      "duration_ms": 6987
+    },
+    {
+      "word": "La mujer que tenga su menstruación será considerada impura durante siete días.",
+      "verse": 19,
+      "start_ms": 112187,
+      "end_ms": 117249,
+      "duration_ms": 5062
+    },
+    {
+      "word": "Si alguien toca a esa mujer, o toca su cama, o cualquier otro mueble que ella use, quedará impuro hasta el anochecer, y deberá lavar sus ropas y bañarse.",
+      "verse": 19,
+      "start_ms": 117250,
+      "end_ms": 127137,
+      "duration_ms": 9887
+    },
+    {
+      "word": "Si alguien tiene relaciones sexuales con ella, quedará impuro durante siete días, pues la impureza de ella se pasará también a él.",
+      "verse": 24,
+      "start_ms": 127137,
+      "end_ms": 135237,
+      "duration_ms": 8100
+    },
+    {
+      "word": "La cama donde se acuesten quedará también impura.",
+      "verse": 24,
+      "start_ms": 135237,
+      "end_ms": 138749,
+      "duration_ms": 3512
+    },
+    {
+      "word": "La mujer que tenga una hemorragia durante varios días, fuera del tiempo de su menstruación, será considerada impura.",
+      "verse": 25,
+      "start_ms": 138750,
+      "end_ms": 146037,
+      "duration_ms": 7287
+    },
+    {
+      "word": "También se considerarán impuras la cama donde se acueste y la silla donde se siente.",
+      "verse": 26,
+      "start_ms": 146037,
+      "end_ms": 151249,
+      "duration_ms": 5212
+    },
+    {
+      "word": "Todo el que toque esos muebles quedará también impuro hasta el anochecer, y deberá lavar sus ropas y bañarse.",
+      "verse": 27,
+      "start_ms": 151250,
+      "end_ms": 157837,
+      "duration_ms": 6587
+    },
+    {
+      "word": "Para volver a ser considerada pura, la mujer deberá contar siete días a partir del momento en que se detenga la hemorragia.",
+      "verse": 28,
+      "start_ms": 157837,
+      "end_ms": 165012,
+      "duration_ms": 7175
+    },
+    {
+      "word": "Al octavo día, tomará dos palomas o dos tortolitas, y las presentará al sacerdote, a la entrada del santuario.",
+      "verse": 29,
+      "start_ms": 165012,
+      "end_ms": 172637,
+      "duration_ms": 7625
+    },
+    {
+      "word": "El sacerdote presentará una de ellas como ofrenda para el perdón de pecados, y quemará la otra en mi honor.",
+      "verse": 30,
+      "start_ms": 172637,
+      "end_ms": 179124,
+      "duration_ms": 6487
+    },
+    {
+      "word": "Así la mujer será considerada pura otra vez.",
+      "verse": 30,
+      "start_ms": 179125,
+      "end_ms": 182775,
+      "duration_ms": 3650
+    },
+    {
+      "word": "Ustedes, Moisés y Aarón, deberán instruir a los israelitas acerca de las impurezas.",
+      "verse": 31,
+      "start_ms": 182775,
+      "end_ms": 188950,
+      "duration_ms": 6175
+    },
+    {
+      "word": "De lo contrario, ellos morirán por haber llenado de impureza mi santuario.",
+      "verse": 31,
+      "start_ms": 188950,
+      "end_ms": 193950,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Éstas son las instrucciones acerca de las impurezas en hombres y en mujeres.",
+      "verse": 32,
+      "start_ms": 193950,
+      "end_ms": 198650,
+      "duration_ms": 4700
+    }
+  ]
+}

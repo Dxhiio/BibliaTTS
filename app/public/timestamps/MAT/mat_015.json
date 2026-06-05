@@ -1,0 +1,635 @@
+{
+  "book": "MAT",
+  "chapter": 15,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 36,
+  "word_count": 53,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 109,
+      "text": "Algunos de los fariseos y de los maestros de la Ley, que habían venido de Jerusalén, le preguntaron a Jesús:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 109,
+      "char_end": 271,
+      "text": "—¿Por qué tus discípulos no siguen las costumbres que nuestros antepasados han practicado desde hace mucho tiempo? ¿Por qué no se lavan las manos antes de comer?"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 271,
+      "char_end": 380,
+      "text": "Jesús les dijo: —¿Y por qué ustedes desobedecen el mandamiento de Dios para obedecer sus propias costumbres?"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 380,
+      "char_end": 510,
+      "text": "Porque Dios dijo: «Obedezcan y cuiden a su padre y a su madre; la persona que maltrate a su padre o a su madre tendrá que morir»."
+    },
+    {
+      "verse": 5,
+      "label": "5-6",
+      "char_start": 510,
+      "char_end": 767,
+      "text": "Pero ustedes dicen que uno no desobedece a Dios si le dice a sus padres: «No puedo ayudarlos, porque prometí darle a Dios todo lo que tengo, incluyendo mi dinero». Ustedes no hacen caso de los mandamientos de Dios, con tal de seguir sus propias costumbres."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 767,
+      "char_end": 848,
+      "text": "¡Son unos hipócritas! Dios tenía razón cuando dijo por medio del profeta Isaías:"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 848,
+      "char_end": 917,
+      "text": "«Este pueblo dice que me obedece, pero en verdad nunca piensa en mí."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 917,
+      "char_end": 1024,
+      "text": "De nada sirve que ustedes me alaben, pues inventan reglas y luego las enseñan diciendo que yo las ordené»."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1024,
+      "char_end": 1086,
+      "text": "Jesús llamó a la gente y le dijo: —Escuchen y entiendan bien:"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1086,
+      "char_end": 1238,
+      "text": "Lo que los hace impuros delante de Dios no es la comida que entra por su boca. Lo que los hace impuros son los insultos y las malas palabras que dicen."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1238,
+      "char_end": 1343,
+      "text": "Entonces los discípulos de Jesús se acercaron y le dijeron: —A los fariseos no les gustó lo que dijiste."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1343,
+      "char_end": 1489,
+      "text": "Jesús respondió: —Mi Padre tratará a los fariseos como trata el jardinero a las plantas que no ha sembrado: las arranca de raíz y las echa fuera."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1489,
+      "char_end": 1629,
+      "text": "No hagan caso de los fariseos: son como el ciego que guía a otro ciego, y si un ciego guía a otro, los dos terminan cayéndose en una zanja."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1629,
+      "char_end": 1736,
+      "text": "Pedro preguntó: —Explícanos qué quisiste decir cuando hablaste de lo que nos hace impuros delante de Dios."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1736,
+      "char_end": 1782,
+      "text": "Jesús respondió: —¿Tampoco ustedes entienden?"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1782,
+      "char_end": 1860,
+      "text": "Todo lo que comemos o bebemos va al estómago, y después el cuerpo lo expulsa."
+    },
+    {
+      "verse": 18,
+      "label": "18-20",
+      "char_start": 1860,
+      "char_end": 2207,
+      "text": "Pero si la gente dice cosas malas, es porque es mala y siempre está pensando en lo malo: en cómo matar, en cómo ser infieles en el matrimonio, en cómo hacer cosas indecentes, o en cómo robar, o insultar a otras personas, y mentir. A Dios no le agrada que gente así lo alabe. Pero cualquiera puede alabar a Dios, aunque coma sin lavarse las manos."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2207,
+      "char_end": 2260,
+      "text": "Jesús se fue de allí a la región de Tiro y de Sidón."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2260,
+      "char_end": 2493,
+      "text": "Una mujer de esa región, que era del grupo al que los judíos llamaban cananeos, se acercó a Jesús y le dijo a gritos: —¡Señor, tú que eres el Mesías, ten compasión de mí y ayúdame! ¡Mi hija tiene un demonio que la hace sufrir mucho!"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2493,
+      "char_end": 2630,
+      "text": "Jesús no le hizo caso. Pero los discípulos se acercaron a él y le rogaron: —Atiende a esa mujer, pues viene gritando detrás de nosotros."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2630,
+      "char_end": 2742,
+      "text": "Jesús respondió: —Dios me envió para ayudar sólo a los israelitas, pues ellos son para mí como ovejas perdidas."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2742,
+      "char_end": 2831,
+      "text": "Pero la mujer se acercó a Jesús, se arrodilló delante de él y le dijo: —¡Señor, ayúdame!"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2831,
+      "char_end": 2921,
+      "text": "Jesús le dijo: —No está bien quitarles la comida a los hijos para echársela a los perros."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2921,
+      "char_end": 3043,
+      "text": "La mujer le respondió: —¡Señor, eso es cierto! Pero aun los perros comen de las sobras que caen de la mesa de sus dueños."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3043,
+      "char_end": 3186,
+      "text": "Entonces Jesús le dijo: —¡Mujer, tú sí que tienes confianza en Dios! Lo que me has pedido se hará. Y en ese mismo instante su hija quedó sana."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3186,
+      "char_end": 3282,
+      "text": "Jesús salió de allí y llegó a la orilla del Lago de Galilea. Luego subió a un cerro y se sentó."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3282,
+      "char_end": 3429,
+      "text": "Mucha gente llevó a Jesús personas que estaban enfermas. Entre ellas había cojos, ciegos, mancos, mudos y muchos otros enfermos. Y Jesús los sanó."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3429,
+      "char_end": 3529,
+      "text": "La gente, asombrada de ver a todos completamente sanos, comenzó a alabar al Dios de los israelitas."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3529,
+      "char_end": 3733,
+      "text": "Jesús llamó a sus discípulos y les dijo: —Siento compasión de toda esta gente. Ya han estado conmigo tres días, y no tienen comida. No quiero que se vayan sin comer, pues podrían desmayarse en el camino."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3733,
+      "char_end": 3853,
+      "text": "Los discípulos le dijeron: —Pero en un lugar tan solitario como éste, ¿dónde vamos a conseguir comida para tanta gente?"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3853,
+      "char_end": 3957,
+      "text": "Jesús les preguntó: —¿Cuántos panes tienen? —Siete panes y unos pescaditos —contestaron los discípulos."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3957,
+      "char_end": 4012,
+      "text": "Jesús le ordenó a la gente que se sentara en el suelo."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4012,
+      "char_end": 4187,
+      "text": "Luego tomó los siete panes y los pescados, y dio gracias a Dios. Partió en pedazos los panes y los pescados, los entregó a sus discípulos, y ellos los repartieron a la gente."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4187,
+      "char_end": 4283,
+      "text": "Todos comieron hasta quedar satisfechos. Con los pedazos que sobraron, llenaron siete canastas."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4283,
+      "char_end": 4367,
+      "text": "Los que comieron fueron como cuatro mil hombres, además de las mujeres y los niños."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4367,
+      "char_end": 4451,
+      "text": "Después Jesús despidió a la gente, subió a una barca y se fue al pueblo de Magadán."
+    }
+  ],
+  "words": [
+    {
+      "word": "Algunos de los fariseos y de los maestros de la Ley, que habían venido de Jerusalén, le preguntaron a Jesús: —¿Por qué tus discípulos no siguen las costumbres que nuestros antepasados han practicado desde hace mucho tiempo?",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 12400,
+      "duration_ms": 12300
+    },
+    {
+      "word": "Por qué no se lavan las manos antes de comer?",
+      "verse": 2,
+      "start_ms": 12350,
+      "end_ms": 15512,
+      "duration_ms": 3162
+    },
+    {
+      "word": "Jesús les dijo: —¿Y por qué ustedes desobedecen el mandamiento de Dios para obedecer sus propias costumbres?",
+      "verse": 3,
+      "start_ms": 15512,
+      "end_ms": 22424,
+      "duration_ms": 6912
+    },
+    {
+      "word": "Porque Dios dijo: «Obedezcan y cuiden a su padre y a su madre; la persona que maltrate a su padre o a su madre tendrá que morir».",
+      "verse": 4,
+      "start_ms": 22425,
+      "end_ms": 30362,
+      "duration_ms": 7937
+    },
+    {
+      "word": "Pero ustedes dicen que uno no desobedece a Dios si le dice a sus padres: «No puedo ayudarlos, porque prometí darle a Dios todo lo que tengo, incluyendo mi dinero».",
+      "verse": 5,
+      "start_ms": 30362,
+      "end_ms": 40312,
+      "duration_ms": 9950
+    },
+    {
+      "word": "Ustedes no hacen caso de los mandamientos de Dios, con tal de seguir sus propias costumbres.",
+      "verse": 5,
+      "start_ms": 40312,
+      "end_ms": 46249,
+      "duration_ms": 5937
+    },
+    {
+      "word": "Son unos hipócritas!",
+      "verse": 7,
+      "start_ms": 46250,
+      "end_ms": 48512,
+      "duration_ms": 2262
+    },
+    {
+      "word": "Dios tenía razón cuando dijo por medio del profeta Isaías: «Este pueblo dice que me obedece, pero en verdad nunca piensa en mí.",
+      "verse": 7,
+      "start_ms": 48512,
+      "end_ms": 56474,
+      "duration_ms": 7962
+    },
+    {
+      "word": "De nada sirve que ustedes me alaben, pues inventan reglas y luego las enseñan diciendo que yo las ordené».",
+      "verse": 9,
+      "start_ms": 56475,
+      "end_ms": 62950,
+      "duration_ms": 6475
+    },
+    {
+      "word": "Jesús llamó a la gente y le dijo: —Escuchen y entiendan bien: Lo que los hace impuros delante de Dios no es la comida que entra por su boca.",
+      "verse": 10,
+      "start_ms": 62950,
+      "end_ms": 71375,
+      "duration_ms": 8425
+    },
+    {
+      "word": "Lo que los hace impuros son los insultos y las malas palabras que dicen.",
+      "verse": 11,
+      "start_ms": 71375,
+      "end_ms": 75775,
+      "duration_ms": 4400
+    },
+    {
+      "word": "Entonces los discípulos de Jesús se acercaron y le dijeron: —A los fariseos no les gustó lo que dijiste.",
+      "verse": 12,
+      "start_ms": 75775,
+      "end_ms": 82225,
+      "duration_ms": 6450
+    },
+    {
+      "word": "Jesús respondió: —Mi Padre tratará a los fariseos como trata el jardinero a las plantas que no ha sembrado: las arranca de raíz y las echa fuera.",
+      "verse": 13,
+      "start_ms": 82225,
+      "end_ms": 91112,
+      "duration_ms": 8887
+    },
+    {
+      "word": "No hagan caso de los fariseos: son como el ciego que guía a otro ciego, y si un ciego guía a otro, los dos terminan cayéndose en una zanja.",
+      "verse": 14,
+      "start_ms": 91112,
+      "end_ms": 100349,
+      "duration_ms": 9237
+    },
+    {
+      "word": "Pedro preguntó: —Explícanos qué quisiste decir cuando hablaste de lo que nos hace impuros delante de Dios.",
+      "verse": 15,
+      "start_ms": 100350,
+      "end_ms": 106737,
+      "duration_ms": 6387
+    },
+    {
+      "word": "Jesús respondió: —¿Tampoco ustedes entienden?",
+      "verse": 16,
+      "start_ms": 106737,
+      "end_ms": 110399,
+      "duration_ms": 3662
+    },
+    {
+      "word": "Todo lo que comemos o bebemos va al estómago, y después el cuerpo lo expulsa.",
+      "verse": 17,
+      "start_ms": 110400,
+      "end_ms": 115550,
+      "duration_ms": 5150
+    },
+    {
+      "word": "Pero si la gente dice cosas malas, es porque es mala y siempre está pensando en lo malo: en cómo matar, en cómo ser infieles en el matrimonio, en cómo hacer cosas indecentes, o en cómo robar, o insultar a otras personas, y mentir.",
+      "verse": 18,
+      "start_ms": 115550,
+      "end_ms": 129812,
+      "duration_ms": 14262
+    },
+    {
+      "word": "A Dios no le agrada que gente así lo alabe.",
+      "verse": 18,
+      "start_ms": 129812,
+      "end_ms": 133087,
+      "duration_ms": 3275
+    },
+    {
+      "word": "Pero cualquiera puede alabar a Dios, aunque coma sin lavarse las manos.",
+      "verse": 18,
+      "start_ms": 133087,
+      "end_ms": 137724,
+      "duration_ms": 4637
+    },
+    {
+      "word": "Jesús se fue de allí a la región de Tiro y de Sidón.",
+      "verse": 21,
+      "start_ms": 137725,
+      "end_ms": 141337,
+      "duration_ms": 3612
+    },
+    {
+      "word": "Una mujer de esa región, que era del grupo al que los judíos llamaban cananeos, se acercó a Jesús y le dijo a gritos: —¡Señor, tú que eres el Mesías, ten compasión de mí y ayúdame!",
+      "verse": 22,
+      "start_ms": 141337,
+      "end_ms": 152949,
+      "duration_ms": 11612
+    },
+    {
+      "word": "Mi hija tiene un demonio que la hace sufrir mucho!",
+      "verse": 22,
+      "start_ms": 152950,
+      "end_ms": 156212,
+      "duration_ms": 3262
+    },
+    {
+      "word": "Jesús no le hizo caso.",
+      "verse": 23,
+      "start_ms": 156212,
+      "end_ms": 158574,
+      "duration_ms": 2362
+    },
+    {
+      "word": "Pero los discípulos se acercaron a él y le rogaron: —Atiende a esa mujer, pues viene gritando detrás de nosotros.",
+      "verse": 23,
+      "start_ms": 158575,
+      "end_ms": 165812,
+      "duration_ms": 7237
+    },
+    {
+      "word": "Jesús respondió: —Dios me envió para ayudar sólo a los israelitas, pues ellos son para mí como ovejas perdidas.",
+      "verse": 24,
+      "start_ms": 165812,
+      "end_ms": 173099,
+      "duration_ms": 7287
+    },
+    {
+      "word": "Pero la mujer se acercó a Jesús, se arrodilló delante de él y le dijo: —¡Señor, ayúdame!",
+      "verse": 25,
+      "start_ms": 173100,
+      "end_ms": 179312,
+      "duration_ms": 6212
+    },
+    {
+      "word": "Jesús le dijo: —No está bien quitarles la comida a los hijos para echársela a los perros.",
+      "verse": 26,
+      "start_ms": 179312,
+      "end_ms": 185124,
+      "duration_ms": 5812
+    },
+    {
+      "word": "La mujer le respondió: —¡Señor, eso es cierto!",
+      "verse": 27,
+      "start_ms": 185125,
+      "end_ms": 188937,
+      "duration_ms": 3812
+    },
+    {
+      "word": "Pero aun los perros comen de las sobras que caen de la mesa de sus dueños.",
+      "verse": 27,
+      "start_ms": 188937,
+      "end_ms": 193499,
+      "duration_ms": 4562
+    },
+    {
+      "word": "Entonces Jesús le dijo: —¡Mujer, tú sí que tienes confianza en Dios!",
+      "verse": 28,
+      "start_ms": 193500,
+      "end_ms": 198337,
+      "duration_ms": 4837
+    },
+    {
+      "word": "Lo que me has pedido se hará.",
+      "verse": 28,
+      "start_ms": 198337,
+      "end_ms": 200662,
+      "duration_ms": 2325
+    },
+    {
+      "word": "Y en ese mismo instante su hija quedó sana.",
+      "verse": 28,
+      "start_ms": 200662,
+      "end_ms": 203949,
+      "duration_ms": 3287
+    },
+    {
+      "word": "Jesús salió de allí y llegó a la orilla del Lago de Galilea.",
+      "verse": 29,
+      "start_ms": 203950,
+      "end_ms": 208112,
+      "duration_ms": 4162
+    },
+    {
+      "word": "Luego subió a un cerro y se sentó.",
+      "verse": 29,
+      "start_ms": 208112,
+      "end_ms": 211012,
+      "duration_ms": 2900
+    },
+    {
+      "word": "Mucha gente llevó a Jesús personas que estaban enfermas.",
+      "verse": 30,
+      "start_ms": 211012,
+      "end_ms": 214962,
+      "duration_ms": 3950
+    },
+    {
+      "word": "Entre ellas había cojos, ciegos, mancos, mudos y muchos otros enfermos.",
+      "verse": 30,
+      "start_ms": 214962,
+      "end_ms": 221162,
+      "duration_ms": 6200
+    },
+    {
+      "word": "Y Jesús los sanó.",
+      "verse": 30,
+      "start_ms": 221162,
+      "end_ms": 223087,
+      "duration_ms": 1925
+    },
+    {
+      "word": "La gente, asombrada de ver a todos completamente sanos, comenzó a alabar al Dios de los israelitas.",
+      "verse": 31,
+      "start_ms": 223087,
+      "end_ms": 230162,
+      "duration_ms": 7075
+    },
+    {
+      "word": "Jesús llamó a sus discípulos y les dijo: —Siento compasión de toda esta gente.",
+      "verse": 32,
+      "start_ms": 230162,
+      "end_ms": 235524,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Ya han estado conmigo tres días, y no tienen comida.",
+      "verse": 32,
+      "start_ms": 235525,
+      "end_ms": 239625,
+      "duration_ms": 4100
+    },
+    {
+      "word": "No quiero que se vayan sin comer, pues podrían desmayarse en el camino.",
+      "verse": 32,
+      "start_ms": 239625,
+      "end_ms": 244362,
+      "duration_ms": 4737
+    },
+    {
+      "word": "Los discípulos le dijeron: —Pero en un lugar tan solitario como éste, ¿dónde vamos a conseguir comida para tanta gente?",
+      "verse": 33,
+      "start_ms": 244362,
+      "end_ms": 251874,
+      "duration_ms": 7512
+    },
+    {
+      "word": "Jesús les preguntó: —¿Cuántos panes tienen?",
+      "verse": 34,
+      "start_ms": 251875,
+      "end_ms": 255400,
+      "duration_ms": 3525
+    },
+    {
+      "word": "Siete panes y unos pescaditos",
+      "verse": 34,
+      "start_ms": 255400,
+      "end_ms": 258350,
+      "duration_ms": 2950
+    },
+    {
+      "word": "contestaron los discípulos.",
+      "verse": 34,
+      "start_ms": 258508,
+      "end_ms": 260983,
+      "duration_ms": 2475
+    },
+    {
+      "word": "Jesús le ordenó a la gente que se sentara en el suelo.",
+      "verse": 35,
+      "start_ms": 260933,
+      "end_ms": 264520,
+      "duration_ms": 3587
+    },
+    {
+      "word": "Luego tomó los siete panes y los pescados, y dio gracias a Dios.",
+      "verse": 36,
+      "start_ms": 264520,
+      "end_ms": 269345,
+      "duration_ms": 4825
+    },
+    {
+      "word": "Partió en pedazos los panes y los pescados, los entregó a sus discípulos, y ellos los repartieron a la gente.",
+      "verse": 36,
+      "start_ms": 269345,
+      "end_ms": 276070,
+      "duration_ms": 6725
+    },
+    {
+      "word": "Todos comieron hasta quedar satisfechos.",
+      "verse": 37,
+      "start_ms": 276070,
+      "end_ms": 279207,
+      "duration_ms": 3137
+    },
+    {
+      "word": "Con los pedazos que sobraron, llenaron siete canastas.",
+      "verse": 37,
+      "start_ms": 279208,
+      "end_ms": 283245,
+      "duration_ms": 4037
+    },
+    {
+      "word": "Los que comieron fueron como cuatro mil hombres, además de las mujeres y los niños.",
+      "verse": 38,
+      "start_ms": 283245,
+      "end_ms": 288395,
+      "duration_ms": 5150
+    },
+    {
+      "word": "Después Jesús despidió a la gente, subió a una barca y se fue al pueblo de Magadán.",
+      "verse": 39,
+      "start_ms": 288395,
+      "end_ms": 293970,
+      "duration_ms": 5575
+    }
+  ]
+}

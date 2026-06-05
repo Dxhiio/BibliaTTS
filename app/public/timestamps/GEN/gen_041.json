@@ -1,0 +1,908 @@
+{
+  "book": "GEN",
+  "chapter": 41,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 53,
+  "word_count": 75,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 94,
+      "text": "Dos años después, el rey de Egipto tuvo un sueño en el que se veía de pie, junto al río Nilo."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 94,
+      "char_end": 227,
+      "text": "De pronto vio que del río salían siete vacas, gordas y bonitas, las cuales se ponían a comer el pasto que había a la orilla del río."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 227,
+      "char_end": 343,
+      "text": "También vio salir del río otras siete vacas, flacas y feas, las cuales se pararon junto a las primeras siete vacas."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 343,
+      "char_end": 447,
+      "text": "Y de repente, ¡las flacas y feas se comieron a las gordas y bonitas! En ese momento el rey se despertó."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 447,
+      "char_end": 567,
+      "text": "Pero volvió a dormirse, y tuvo otro sueño. Soñó que de un mismo tallo brotaron siete espigas, verdes y llenas de trigo."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 567,
+      "char_end": 660,
+      "text": "Tras ellas brotaron otras siete espigas, sin trigo y marchitadas por el viento del desierto."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 660,
+      "char_end": 779,
+      "text": "¡Y las espigas secas se tragaron a las verdes y llenas de trigo! El rey se despertó, y vio que se trataba de un sueño."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 779,
+      "char_end": 952,
+      "text": "Sin embargo, al levantarse estaba tan preocupado que mandó llamar a todos los magos y sabios de Egipto. Les contó sus sueños, pero ninguno pudo decirle lo que significaban."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 952,
+      "char_end": 1046,
+      "text": "De pronto, el jefe de los coperos se acordó de José y le dijo al rey: —¡Soy un malagradecido!"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1046,
+      "char_end": 1188,
+      "text": "Una vez usted se enojó conmigo y con el jefe de los panaderos, y mandó que nos encerraran en la cárcel, al cuidado del capitán de la guardia."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1188,
+      "char_end": 1225,
+      "text": "Una noche, los dos tuvimos un sueño."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1225,
+      "char_end": 1382,
+      "text": "Allí en la cárcel estaba con nosotros un joven hebreo, que ayudaba al capitán de la guardia; le contamos nuestros sueños, y él nos dijo lo que significaban."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1382,
+      "char_end": 1467,
+      "text": "¡Y dicho y hecho! A mí usted me devolvió a mi cargo, y al otro mandó que lo mataran."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1467,
+      "char_end": 1612,
+      "text": "El rey mandó llamar a José, y de inmediato lo sacaron de la cárcel. Entonces José se afeitó, se cambió de ropa, y luego se presentó ante el rey."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1612,
+      "char_end": 1755,
+      "text": "Y el rey le dijo: —Tuve un sueño, y nadie puede decirme lo que significa. Pero me han dicho que en cuanto oyes un sueño, sabes su significado."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1755,
+      "char_end": 1862,
+      "text": "José le respondió: —Yo no tengo ese poder, pero Dios sí lo tiene, y le dará a usted la respuesta esperada."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1862,
+      "char_end": 1957,
+      "text": "Entonces el rey le dijo: —Resulta que, en mi sueño, yo estaba de pie a la orilla del río Nilo."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1957,
+      "char_end": 2090,
+      "text": "De pronto vi que del río salían siete vacas gordas y bonitas, las cuales se pusieron a comer el pasto que había a la orilla del río."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2090,
+      "char_end": 2189,
+      "text": "Tras ellas salieron otras siete vacas, muy flacas y feas. ¡Jamás vi vacas tan feas en todo Egipto!"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2189,
+      "char_end": 2285,
+      "text": "Y resulta que las vacas flacas y feas se comieron a las vacas gordas que habían salido primero."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2285,
+      "char_end": 2434,
+      "text": "Eran tan flacas y feas esas vacas, que después de comerse a las otras, no se les notaba nada; ¡seguían tan flacas como al principio! Yo me desperté."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2434,
+      "char_end": 2551,
+      "text": "Pero volví a soñar, y en mi sueño vi también siete espigas verdes y llenas de trigo, que brotaban de un mismo tallo."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2551,
+      "char_end": 2658,
+      "text": "Después de ellas brotaron otras siete espigas, delgadas y marchitas, resecadas por el viento del desierto."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2658,
+      "char_end": 2806,
+      "text": "Esas espigas delgadas se comieron a las siete espigas llenas de trigo. Todo esto se lo he contado a los magos, pero ninguno ha podido explicármelo."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2806,
+      "char_end": 2930,
+      "text": "José le dijo al rey: —Los dos sueños que tuvo Su Majestad son uno solo. Dios le ha hecho saber a usted lo que piensa hacer."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2930,
+      "char_end": 3039,
+      "text": "Las siete vacas gordas son siete años, lo mismo que las siete espigas llenas de trigo; el sueño es uno solo."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3039,
+      "char_end": 3245,
+      "text": "Las siete vacas flacas y feas que salieron detrás de aquéllas son también siete años, lo mismo que las siete espigas marchitas y resecadas por el viento del desierto. Ellas significan siete años de hambre."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3245,
+      "char_end": 3311,
+      "text": "Dios quiere que Su Majestad sepa lo que él está a punto de hacer."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3311,
+      "char_end": 3364,
+      "text": "Egipto va a tener siete años de abundantes cosechas,"
+    },
+    {
+      "verse": 30,
+      "label": "30-31",
+      "char_start": 3364,
+      "char_end": 3537,
+      "text": "pero después vendrán siete años en que no habrá qué comer. Cuando eso suceda, nadie se acordará de la abundancia que antes hubo. Habrá tanta hambre que acabará con el país."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3537,
+      "char_end": 3668,
+      "text": "Su Majestad tuvo el mismo sueño en dos formas distintas, y eso significa que Dios ha decidido hacerlo, y lo va a hacer muy pronto."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3668,
+      "char_end": 3775,
+      "text": "Yo le sugiero a Su Majestad que busque a alguien muy sabio e inteligente, y que lo ponga a cargo del país."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3775,
+      "char_end": 3908,
+      "text": "También le sugiero que nombre gente que se encargue de recoger la quinta parte de las cosechas durante los siete años de abundancia."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3908,
+      "char_end": 4065,
+      "text": "Durante los siete años buenos que van a venir, Su Majestad debe darles autoridad para que junten y almacenen en las ciudades todos los alimentos y el trigo."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4065,
+      "char_end": 4210,
+      "text": "Ese alimento quedará guardado, para usarlo durante los siete años de hambre que habrá en Egipto. Así el país no quedará arruinado por el hambre."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4210,
+      "char_end": 4290,
+      "text": "El rey y sus consejeros estuvieron de acuerdo en que el plan de José era bueno,"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4290,
+      "char_end": 4385,
+      "text": "y el rey les comentó: En ningún lado vamos a encontrar a nadie más inteligente que este joven."
+    },
+    {
+      "verse": 39,
+      "label": "39-41",
+      "char_start": 4385,
+      "char_end": 4692,
+      "text": "Por eso le dijo a José: —Dios te ha dado a conocer todo esto, y eso quiere decir que no hay nadie tan sabio e inteligente como tú. Por eso, a partir de este momento quedas a cargo de mi palacio y de todo mi pueblo. Todos en Egipto tendrán que obedecerte. Sólo yo tendré más poder que tú, porque soy el rey."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4692,
+      "char_end": 4871,
+      "text": "Después, el rey se quitó el anillo que usaba para sellar sus cartas, y se lo puso a José. Luego ordenó que lo vistieran con ropas de lino fino y que le pusieran un collar de oro,"
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4871,
+      "char_end": 5029,
+      "text": "y le pidió que lo acompañara en su carro, como su gobernador. Delante de José gritaban: ¡Abran paso! Así fue como el rey puso a José a cargo de todo su país."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 5029,
+      "char_end": 5128,
+      "text": "Luego le dijo a José: Aunque yo soy el rey de Egipto, nadie en este país hará nada sin tu permiso."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 5128,
+      "char_end": 5337,
+      "text": "Además, el rey le cambió el nombre a José, y le puso Safenat-panéah, y le dio por esposa a la hija de Potifera, sacerdote de On, la cual se llamaba Asenat. Después de eso, José comenzó a recorrer todo Egipto."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 5337,
+      "char_end": 5424,
+      "text": "José tenía treinta años cuando se despidió del rey y comenzó a viajar por todo Egipto."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 5424,
+      "char_end": 5503,
+      "text": "Durante los siete años de abundancia, en todo Egipto hubo muy buenas cosechas,"
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 5503,
+      "char_end": 5657,
+      "text": "así que José juntó todo el alimento que se produjo en esos siete años y lo almacenó. En cada ciudad guardó el alimento que produjeron los campos vecinos."
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 5657,
+      "char_end": 5827,
+      "text": "José almacenó tanto trigo que parecía haber juntado toda la arena del mar; hasta dejó de anotar la cantidad de trigo guardada, porque ya no era posible llevar la cuenta."
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 5827,
+      "char_end": 5904,
+      "text": "Antes de que llegaran los años de escasez, Asenat y José tuvieron dos hijos."
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 5904,
+      "char_end": 6039,
+      "text": "Al primero de ellos José lo llamó Manasés porque dijo: Dios ha hecho que me olvide de todos mis problemas y de la familia de mi padre."
+    },
+    {
+      "verse": 52,
+      "label": "52",
+      "char_start": 6039,
+      "char_end": 6159,
+      "text": "A su segundo hijo lo llamó Efraín, porque dijo: Dios permitió que yo tuviera hijos en este país donde he sufrido tanto."
+    },
+    {
+      "verse": 53,
+      "label": "53-54",
+      "char_start": 6159,
+      "char_end": 6336,
+      "text": "Tal como lo había anunciado José, a los siete años de abundancia siguieron los siete años de escasez. Y aunque había hambre en todos los otros países, en Egipto había de comer."
+    },
+    {
+      "verse": 55,
+      "label": "55",
+      "char_start": 6336,
+      "char_end": 6518,
+      "text": "Cuando comenzó a sentirse el hambre en Egipto, los egipcios fueron a pedirle al rey que les diera de comer. Entonces el rey les dijo: Vayan a ver a José, y hagan lo que él les diga."
+    },
+    {
+      "verse": 56,
+      "label": "56",
+      "char_start": 6518,
+      "char_end": 6621,
+      "text": "Cuando ya no había comida en todo el país, José abrió los almacenes y les vendió trigo a los egipcios."
+    },
+    {
+      "verse": 57,
+      "label": "57",
+      "char_start": 6621,
+      "char_end": 6722,
+      "text": "Era tanta la escasez de alimentos que de todos los países iban a Egipto para comprarle trigo a José."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dos años después, el rey de Egipto tuvo un sueño en el que se veía de pie, junto al río Nilo.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6312,
+      "duration_ms": 6212
+    },
+    {
+      "word": "De pronto vio que del río salían siete vacas, gordas y bonitas, las cuales se ponían a comer el pasto que había a la orilla del río.",
+      "verse": 2,
+      "start_ms": 6262,
+      "end_ms": 14487,
+      "duration_ms": 8225
+    },
+    {
+      "word": "También vio salir del río otras siete vacas, flacas y feas, las cuales se pararon junto a las primeras siete vacas.",
+      "verse": 3,
+      "start_ms": 14487,
+      "end_ms": 22074,
+      "duration_ms": 7587
+    },
+    {
+      "word": "Y de repente, ¡las flacas y feas se comieron a las gordas y bonitas!",
+      "verse": 4,
+      "start_ms": 22075,
+      "end_ms": 26875,
+      "duration_ms": 4800
+    },
+    {
+      "word": "En ese momento el rey se despertó.",
+      "verse": 4,
+      "start_ms": 26875,
+      "end_ms": 29587,
+      "duration_ms": 2712
+    },
+    {
+      "word": "Pero volvió a dormirse, y tuvo otro sueño.",
+      "verse": 5,
+      "start_ms": 29587,
+      "end_ms": 33049,
+      "duration_ms": 3462
+    },
+    {
+      "word": "Soñó que de un mismo tallo brotaron siete espigas, verdes y llenas de trigo.",
+      "verse": 5,
+      "start_ms": 33050,
+      "end_ms": 38300,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Tras ellas brotaron otras siete espigas, sin trigo y marchitadas por el viento del desierto.",
+      "verse": 6,
+      "start_ms": 38300,
+      "end_ms": 44250,
+      "duration_ms": 5950
+    },
+    {
+      "word": "Y las espigas secas se tragaron a las verdes y llenas de trigo!",
+      "verse": 7,
+      "start_ms": 44250,
+      "end_ms": 48300,
+      "duration_ms": 4050
+    },
+    {
+      "word": "El rey se despertó, y vio que se trataba de un sueño.",
+      "verse": 7,
+      "start_ms": 48300,
+      "end_ms": 52350,
+      "duration_ms": 4050
+    },
+    {
+      "word": "Sin embargo, al levantarse estaba tan preocupado que mandó llamar a todos los magos y sabios de Egipto.",
+      "verse": 8,
+      "start_ms": 52350,
+      "end_ms": 58750,
+      "duration_ms": 6400
+    },
+    {
+      "word": "Les contó sus sueños, pero ninguno pudo decirle lo que significaban.",
+      "verse": 8,
+      "start_ms": 58750,
+      "end_ms": 63600,
+      "duration_ms": 4850
+    },
+    {
+      "word": "De pronto, el jefe de los coperos se acordó de José y le dijo al rey: —¡Soy un malagradecido!",
+      "verse": 9,
+      "start_ms": 63600,
+      "end_ms": 69975,
+      "duration_ms": 6375
+    },
+    {
+      "word": "Una vez usted se enojó conmigo y con el jefe de los panaderos, y mandó que nos encerraran en la cárcel, al cuidado del capitán de la guardia.",
+      "verse": 10,
+      "start_ms": 69975,
+      "end_ms": 78587,
+      "duration_ms": 8612
+    },
+    {
+      "word": "Una noche, los dos tuvimos un sueño.",
+      "verse": 11,
+      "start_ms": 78587,
+      "end_ms": 81849,
+      "duration_ms": 3262
+    },
+    {
+      "word": "Allí en la cárcel estaba con nosotros un joven hebreo, que ayudaba al capitán de la guardia; le contamos nuestros sueños, y él nos dijo lo que significaban.",
+      "verse": 12,
+      "start_ms": 81850,
+      "end_ms": 91112,
+      "duration_ms": 9262
+    },
+    {
+      "word": "Y dicho y hecho!",
+      "verse": 13,
+      "start_ms": 91112,
+      "end_ms": 92924,
+      "duration_ms": 1812
+    },
+    {
+      "word": "A mí usted me devolvió a mi cargo, y al otro mandó que lo mataran.",
+      "verse": 13,
+      "start_ms": 92925,
+      "end_ms": 97350,
+      "duration_ms": 4425
+    },
+    {
+      "word": "El rey mandó llamar a José, y de inmediato lo sacaron de la cárcel.",
+      "verse": 14,
+      "start_ms": 97350,
+      "end_ms": 101962,
+      "duration_ms": 4612
+    },
+    {
+      "word": "Entonces José se afeitó, se cambió de ropa, y luego se presentó ante el rey.",
+      "verse": 14,
+      "start_ms": 101962,
+      "end_ms": 107349,
+      "duration_ms": 5387
+    },
+    {
+      "word": "Y el rey le dijo: —Tuve un sueño, y nadie puede decirme lo que significa.",
+      "verse": 15,
+      "start_ms": 107350,
+      "end_ms": 112675,
+      "duration_ms": 5325
+    },
+    {
+      "word": "Pero me han dicho que en cuanto oyes un sueño, sabes su significado.",
+      "verse": 15,
+      "start_ms": 112675,
+      "end_ms": 117275,
+      "duration_ms": 4600
+    },
+    {
+      "word": "José le respondió: —Yo no tengo ese poder, pero Dios sí lo tiene, y le dará a usted la respuesta esperada.",
+      "verse": 16,
+      "start_ms": 117275,
+      "end_ms": 124500,
+      "duration_ms": 7225
+    },
+    {
+      "word": "Entonces el rey le dijo: —Resulta que, en mi sueño, yo estaba de pie a la orilla del río Nilo.",
+      "verse": 17,
+      "start_ms": 124500,
+      "end_ms": 131250,
+      "duration_ms": 6750
+    },
+    {
+      "word": "De pronto vi que del río salían siete vacas gordas y bonitas, las cuales se pusieron a comer el pasto que había a la orilla del río.",
+      "verse": 18,
+      "start_ms": 131250,
+      "end_ms": 138975,
+      "duration_ms": 7725
+    },
+    {
+      "word": "Tras ellas salieron otras siete vacas, muy flacas y feas.",
+      "verse": 19,
+      "start_ms": 138975,
+      "end_ms": 143362,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Jamás vi vacas tan feas en todo Egipto!",
+      "verse": 19,
+      "start_ms": 143362,
+      "end_ms": 146537,
+      "duration_ms": 3175
+    },
+    {
+      "word": "Y resulta que las vacas flacas y feas se comieron a las vacas gordas que habían salido primero.",
+      "verse": 20,
+      "start_ms": 146537,
+      "end_ms": 152337,
+      "duration_ms": 5800
+    },
+    {
+      "word": "Eran tan flacas y feas esas vacas, que después de comerse a las otras, no se les notaba nada; ¡seguían tan flacas como al principio!",
+      "verse": 21,
+      "start_ms": 152337,
+      "end_ms": 160762,
+      "duration_ms": 8425
+    },
+    {
+      "word": "Yo me desperté.",
+      "verse": 21,
+      "start_ms": 160762,
+      "end_ms": 162612,
+      "duration_ms": 1850
+    },
+    {
+      "word": "Pero volví a soñar, y en mi sueño vi también siete espigas verdes y llenas de trigo, que brotaban de un mismo tallo.",
+      "verse": 22,
+      "start_ms": 162612,
+      "end_ms": 169787,
+      "duration_ms": 7175
+    },
+    {
+      "word": "Después de ellas brotaron otras siete espigas, delgadas y marchitas, resecadas por el viento del desierto.",
+      "verse": 23,
+      "start_ms": 169787,
+      "end_ms": 176712,
+      "duration_ms": 6925
+    },
+    {
+      "word": "Esas espigas delgadas se comieron a las siete espigas llenas de trigo.",
+      "verse": 24,
+      "start_ms": 176712,
+      "end_ms": 181137,
+      "duration_ms": 4425
+    },
+    {
+      "word": "Todo esto se lo he contado a los magos, pero ninguno ha podido explicármelo.",
+      "verse": 24,
+      "start_ms": 181137,
+      "end_ms": 186249,
+      "duration_ms": 5112
+    },
+    {
+      "word": "José le dijo al rey: —Los dos sueños que tuvo Su Majestad son uno solo.",
+      "verse": 25,
+      "start_ms": 186250,
+      "end_ms": 191212,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Dios le ha hecho saber a usted lo que piensa hacer.",
+      "verse": 25,
+      "start_ms": 191212,
+      "end_ms": 194699,
+      "duration_ms": 3487
+    },
+    {
+      "word": "Las siete vacas gordas son siete años, lo mismo que las siete espigas llenas de trigo; el sueño es uno solo.",
+      "verse": 26,
+      "start_ms": 194700,
+      "end_ms": 201912,
+      "duration_ms": 7212
+    },
+    {
+      "word": "Las siete vacas flacas y feas que salieron detrás de aquéllas son también siete años, lo mismo que las siete espigas marchitas y resecadas por el viento del desierto.",
+      "verse": 27,
+      "start_ms": 201912,
+      "end_ms": 211274,
+      "duration_ms": 9362
+    },
+    {
+      "word": "Ellas significan siete años de hambre.",
+      "verse": 27,
+      "start_ms": 211275,
+      "end_ms": 214312,
+      "duration_ms": 3037
+    },
+    {
+      "word": "Dios quiere que Su Majestad sepa lo que él está a punto de hacer.",
+      "verse": 28,
+      "start_ms": 214312,
+      "end_ms": 218649,
+      "duration_ms": 4337
+    },
+    {
+      "word": "Egipto va a tener siete años de abundantes cosechas, pero después vendrán siete años en que no habrá qué comer.",
+      "verse": 29,
+      "start_ms": 218650,
+      "end_ms": 225637,
+      "duration_ms": 6987
+    },
+    {
+      "word": "Cuando eso suceda, nadie se acordará de la abundancia que antes hubo.",
+      "verse": 30,
+      "start_ms": 225637,
+      "end_ms": 230337,
+      "duration_ms": 4700
+    },
+    {
+      "word": "Habrá tanta hambre que acabará con el país.",
+      "verse": 30,
+      "start_ms": 230337,
+      "end_ms": 233599,
+      "duration_ms": 3262
+    },
+    {
+      "word": "Su Majestad tuvo el mismo sueño en dos formas distintas, y eso significa que Dios ha decidido hacerlo, y lo va a hacer muy pronto.",
+      "verse": 32,
+      "start_ms": 233600,
+      "end_ms": 241837,
+      "duration_ms": 8237
+    },
+    {
+      "word": "Yo le sugiero a Su Majestad que busque a alguien muy sabio e inteligente, y que lo ponga a cargo del país.",
+      "verse": 33,
+      "start_ms": 241837,
+      "end_ms": 248499,
+      "duration_ms": 6662
+    },
+    {
+      "word": "También le sugiero que nombre gente que se encargue de recoger la quinta parte de las cosechas durante los siete años de abundancia.",
+      "verse": 34,
+      "start_ms": 248500,
+      "end_ms": 255525,
+      "duration_ms": 7025
+    },
+    {
+      "word": "Durante los siete años buenos que van a venir, Su Majestad debe darles",
+      "verse": 35,
+      "start_ms": 255525,
+      "end_ms": 260537,
+      "duration_ms": 5012
+    },
+    {
+      "word": "autoridad para que junten y almacenen en las ciudades todos los alimentos y el trigo.",
+      "verse": 35,
+      "start_ms": 260692,
+      "end_ms": 266017,
+      "duration_ms": 5325
+    },
+    {
+      "word": "Ese alimento quedará guardado, para usarlo durante los siete años de hambre que habrá en Egipto.",
+      "verse": 36,
+      "start_ms": 265967,
+      "end_ms": 271942,
+      "duration_ms": 5975
+    },
+    {
+      "word": "Así el país no quedará arruinado por el hambre.",
+      "verse": 36,
+      "start_ms": 271942,
+      "end_ms": 275367,
+      "duration_ms": 3425
+    },
+    {
+      "word": "El rey y sus consejeros estuvieron de acuerdo en que el plan de José era bueno, y el rey les comentó: En ningún lado vamos a encontrar a nadie más inteligente que este joven.",
+      "verse": 37,
+      "start_ms": 275367,
+      "end_ms": 285417,
+      "duration_ms": 10050
+    },
+    {
+      "word": "Por eso le dijo a José: —Dios te ha dado a conocer todo esto, y eso quiere decir que no hay nadie tan sabio e inteligente como tú.",
+      "verse": 39,
+      "start_ms": 285417,
+      "end_ms": 293579,
+      "duration_ms": 8162
+    },
+    {
+      "word": "Por eso, a partir de este momento quedas a cargo de mi palacio y de todo mi pueblo.",
+      "verse": 39,
+      "start_ms": 293579,
+      "end_ms": 299191,
+      "duration_ms": 5612
+    },
+    {
+      "word": "Todos en Egipto tendrán que obedecerte.",
+      "verse": 39,
+      "start_ms": 299192,
+      "end_ms": 302204,
+      "duration_ms": 3012
+    },
+    {
+      "word": "Sólo yo tendré más poder que tú, porque soy el rey.",
+      "verse": 39,
+      "start_ms": 302204,
+      "end_ms": 306066,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Después, el rey se quitó el anillo que usaba para sellar sus cartas, y se lo puso a José.",
+      "verse": 42,
+      "start_ms": 306067,
+      "end_ms": 312079,
+      "duration_ms": 6012
+    },
+    {
+      "word": "Luego ordenó que lo vistieran con ropas de lino fino y que le pusieran un collar de oro, y le pidió que lo acompañara en su carro, como su gobernador.",
+      "verse": 42,
+      "start_ms": 312079,
+      "end_ms": 320554,
+      "duration_ms": 8475
+    },
+    {
+      "word": "Delante de José gritaban: ¡Abran paso!",
+      "verse": 43,
+      "start_ms": 320554,
+      "end_ms": 323979,
+      "duration_ms": 3425
+    },
+    {
+      "word": "Así fue como el rey puso a José a cargo de todo su país.",
+      "verse": 43,
+      "start_ms": 323979,
+      "end_ms": 328254,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Luego le dijo a José: Aunque yo soy el rey de Egipto, nadie en este país hará nada sin tu permiso.",
+      "verse": 44,
+      "start_ms": 328254,
+      "end_ms": 335029,
+      "duration_ms": 6775
+    },
+    {
+      "word": "Además, el rey le cambió el nombre a José, y le puso Safenat-panéah, y le dio por esposa a la hija de Potifera, sacerdote de On, la cual se llamaba Asenat.",
+      "verse": 45,
+      "start_ms": 335029,
+      "end_ms": 345641,
+      "duration_ms": 10612
+    },
+    {
+      "word": "Después de eso, José comenzó a recorrer todo Egipto.",
+      "verse": 45,
+      "start_ms": 345642,
+      "end_ms": 349792,
+      "duration_ms": 4150
+    },
+    {
+      "word": "José tenía treinta años cuando se despidió del rey y comenzó a viajar por todo Egipto.",
+      "verse": 46,
+      "start_ms": 349792,
+      "end_ms": 355379,
+      "duration_ms": 5587
+    },
+    {
+      "word": "Durante los siete años de abundancia, en todo Egipto hubo muy buenas cosechas, así que José juntó todo el alimento que se produjo en esos siete años y lo almacenó.",
+      "verse": 47,
+      "start_ms": 355379,
+      "end_ms": 365216,
+      "duration_ms": 9837
+    },
+    {
+      "word": "En cada ciudad guardó el alimento que produjeron los campos vecinos.",
+      "verse": 48,
+      "start_ms": 365217,
+      "end_ms": 369729,
+      "duration_ms": 4512
+    },
+    {
+      "word": "José almacenó tanto trigo que parecía haber juntado toda la arena del mar; hasta dejó de anotar la cantidad de trigo guardada, porque ya no era posible llevar la cuenta.",
+      "verse": 49,
+      "start_ms": 369729,
+      "end_ms": 379654,
+      "duration_ms": 9925
+    },
+    {
+      "word": "Antes de que llegaran los años de escasez, Asenat y José tuvieron dos hijos.",
+      "verse": 50,
+      "start_ms": 379654,
+      "end_ms": 384816,
+      "duration_ms": 5162
+    },
+    {
+      "word": "Al primero de ellos José lo llamó Manasés porque dijo: Dios ha hecho que me olvide de todos mis problemas y de la familia de mi padre.",
+      "verse": 51,
+      "start_ms": 384817,
+      "end_ms": 392667,
+      "duration_ms": 7850
+    },
+    {
+      "word": "A su segundo hijo lo llamó Efraín, porque dijo: Dios permitió que yo tuviera hijos en este país donde he sufrido tanto.",
+      "verse": 52,
+      "start_ms": 392667,
+      "end_ms": 400404,
+      "duration_ms": 7737
+    },
+    {
+      "word": "Tal como lo había anunciado José, a los siete años de abundancia siguieron los siete años de escasez.",
+      "verse": 53,
+      "start_ms": 400404,
+      "end_ms": 406679,
+      "duration_ms": 6275
+    },
+    {
+      "word": "Y aunque había hambre en todos los otros países, en Egipto había de comer.",
+      "verse": 53,
+      "start_ms": 406679,
+      "end_ms": 411666,
+      "duration_ms": 4987
+    },
+    {
+      "word": "Cuando comenzó a sentirse el hambre en Egipto, los egipcios fueron a pedirle al rey que les diera de comer.",
+      "verse": 55,
+      "start_ms": 411667,
+      "end_ms": 417879,
+      "duration_ms": 6212
+    },
+    {
+      "word": "Entonces el rey les dijo: Vayan a ver a José, y hagan lo que él les diga.",
+      "verse": 55,
+      "start_ms": 417879,
+      "end_ms": 423179,
+      "duration_ms": 5300
+    },
+    {
+      "word": "Cuando ya no había comida en todo el país, José abrió los almacenes y les vendió trigo a los egipcios.",
+      "verse": 56,
+      "start_ms": 423179,
+      "end_ms": 429666,
+      "duration_ms": 6487
+    },
+    {
+      "word": "Era tanta la escasez de alimentos que de todos los países iban a Egipto para comprarle trigo a José.",
+      "verse": 57,
+      "start_ms": 429667,
+      "end_ms": 435654,
+      "duration_ms": 5987
+    }
+  ]
+}

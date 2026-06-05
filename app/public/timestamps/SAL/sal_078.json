@@ -1,0 +1,866 @@
+{
+  "book": "SAL",
+  "chapter": 78,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 66,
+  "word_count": 56,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 60,
+      "text": "Pueblo mío, escucha mis enseñanzas; atiende a mis palabras."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 60,
+      "char_end": 135,
+      "text": "Te hablaré por medio de ejemplos, y te explicaré los misterios del pasado."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 135,
+      "char_end": 201,
+      "text": "Son cosas que ya conocemos pues nuestros padres nos las contaron."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 201,
+      "char_end": 359,
+      "text": "Pero nuestros hijos deben conocerlas; debemos hablarles a nuestros nietos del poder de Dios y de sus grandes acciones; ¡de las maravillas que puede realizar!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 359,
+      "char_end": 473,
+      "text": "Dios fijó una ley permanente para su pueblo Israel, y a nuestros abuelos les ordenó instruir en ella a sus hijos,"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 473,
+      "char_end": 582,
+      "text": "para que ellos, a su vez, nos instruyeran a nosotros y a las futuras generaciones que todavía no han nacido."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 582,
+      "char_end": 678,
+      "text": "Así confiaremos en Dios, tendremos presentes sus grandes hechos y cumpliremos sus mandamientos."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 678,
+      "char_end": 807,
+      "text": "Así no seremos rebeldes, como lo fueron nuestros abuelos: tan malvados eran sus pensamientos que Dios no podía confiar en ellos."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 807,
+      "char_end": 891,
+      "text": "Los israelitas eran buenos guerreros, pero se acobardaron y no entraron en batalla."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 891,
+      "char_end": 958,
+      "text": "No cumplieron su compromiso con Dios, ni siguieron sus enseñanzas."
+    },
+    {
+      "verse": 11,
+      "label": "11-12",
+      "char_start": 958,
+      "char_end": 1099,
+      "text": "Cuando estaban en Egipto, en la región de Soan, vieron las grandes maravillas que Dios realizó ante sus ojos, pero no las tomaron en cuenta."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1099,
+      "char_end": 1199,
+      "text": "Dios partió el mar en dos, y para que ellos pudieran cruzar, mantuvo las aguas firmes como paredes."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1199,
+      "char_end": 1270,
+      "text": "De día, los guiaba con una nube; de noche, los alumbraba con un fuego."
+    },
+    {
+      "verse": 15,
+      "label": "15-16",
+      "char_start": 1270,
+      "char_end": 1410,
+      "text": "Cuando llegaron al desierto, Dios partió en dos una piedra; ¡de ella hizo que brotaran verdaderos torrentes de agua, y así apagaron su sed!"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1410,
+      "char_end": 1523,
+      "text": "Pero nuestros abuelos volvieron a pecar contra Dios: ¡en pleno desierto se pusieron en contra del Dios altísimo!"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1523,
+      "char_end": 1606,
+      "text": "Se les metió en la cabeza poner a Dios a prueba, y le pidieron comida a su antojo."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1606,
+      "char_end": 1705,
+      "text": "Hablaron mal de Dios, y hasta llegaron a decir: Aquí en el desierto Dios no puede darnos de comer."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1705,
+      "char_end": 1846,
+      "text": "Es verdad que golpeó una piedra y que hizo que brotaran grandes torrentes de agua, ¡pero no podrá alimentarnos! ¡No va a poder darnos carne!"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1846,
+      "char_end": 1912,
+      "text": "Cuando Dios oyó lo que decían, se encendió su enojo contra ellos,"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1912,
+      "char_end": 1970,
+      "text": "pues no confiaron en él ni creyeron que podría ayudarlos."
+    },
+    {
+      "verse": 23,
+      "label": "23-24",
+      "char_start": 1970,
+      "char_end": 2107,
+      "text": "Dios, desde el alto cielo, les dio una orden a las nubes, y del cielo llovió comida: Dios les dio a comer maná, que es el pan del cielo."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2107,
+      "char_end": 2198,
+      "text": "Dios les mandó mucha comida, y aunque eran gente insignificante comieron como los ángeles."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2198,
+      "char_end": 2277,
+      "text": "Luego, con su poder Dios hizo que desde el cielo soplaran vientos encontrados."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2277,
+      "char_end": 2398,
+      "text": "¡Dios hizo que les lloviera carne como si les lloviera polvo! ¡Les mandó nubes de pájaros, tantos como la arena del mar!"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2398,
+      "char_end": 2457,
+      "text": "Dios dejó caer esos pájaros dentro y fuera del campamento,"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2457,
+      "char_end": 2522,
+      "text": "y la gente se hartó de comer, pues Dios les cumplió su capricho."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2522,
+      "char_end": 2586,
+      "text": "No les duró mucho el gusto: todavía tenían la comida en la boca"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2586,
+      "char_end": 2710,
+      "text": "cuando Dios se enojó contra ellos. ¡Les quitó la vida a sus hombres más fuertes! ¡Hirió de muerte a los mejores israelitas!"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2710,
+      "char_end": 2767,
+      "text": "Pero ellos siguieron pecando; dudaron del poder de Dios."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 2767,
+      "char_end": 2862,
+      "text": "Por eso Dios les quitó la vida; ¡les envió una desgracia repentina, y acabó con su existencia!"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 2862,
+      "char_end": 2962,
+      "text": "Ellos sólo buscaban a Dios cuando él los castigaba; sólo así se arrepentían y volvían a obedecerlo;"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 2962,
+      "char_end": 3035,
+      "text": "sólo entonces se acordaban del Dios altísimo, su protector y libertador."
+    },
+    {
+      "verse": 36,
+      "label": "36-37",
+      "char_start": 3035,
+      "char_end": 3121,
+      "text": "Nunca le decían la verdad; nunca le fueron sinceros ni cumplieron fielmente su pacto."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 3121,
+      "char_end": 3224,
+      "text": "Pero Dios, que es compasivo, les perdonó su maldad y no los destruyó. Más de una vez refrenó su enojo,"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 3224,
+      "char_end": 3328,
+      "text": "pues tomó en cuenta que eran simples seres humanos; sabía que son como el viento que se va y no vuelve."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 3328,
+      "char_end": 3413,
+      "text": "Muchas veces, en el desierto, se rebelaron contra Dios y lo hicieron ponerse triste."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 3413,
+      "char_end": 3490,
+      "text": "Muchas veces lo pusieron a prueba; ¡hicieron enojar al santo Dios de Israel!"
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 3490,
+      "char_end": 3568,
+      "text": "No se acordaron del día cuando Dios, con su poder, los libró de sus enemigos."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 3568,
+      "char_end": 3633,
+      "text": "Tampoco recordaron los grandes milagros que Dios hizo en Egipto,"
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 3633,
+      "char_end": 3714,
+      "text": "cuando convirtió en sangre todos los ríos egipcios, y el agua no se podía beber."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 3714,
+      "char_end": 3763,
+      "text": "Les mandó moscas y ranas, que todo lo destruían;"
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 3763,
+      "char_end": 3822,
+      "text": "dejó que los saltamontes acabaran con todos sus sembrados;"
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 3822,
+      "char_end": 3888,
+      "text": "destruyó sus viñas con granizo, y sus higueras, con inundaciones;"
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 3888,
+      "char_end": 3957,
+      "text": "dejó que los rayos y el granizo acabaran con sus vacas y sus ovejas."
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 3957,
+      "char_end": 4061,
+      "text": "Dios estaba tan enojado que los castigó con dureza; les mandó todo un ejército de mensajeros de muerte;"
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 4061,
+      "char_end": 4146,
+      "text": "dio rienda suelta a su enojo y les mandó un castigo mortal; ¡no les perdonó la vida!"
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 4146,
+      "char_end": 4207,
+      "text": "En cada familia egipcia hirió de muerte a los hijos mayores."
+    },
+    {
+      "verse": 52,
+      "label": "52",
+      "char_start": 4207,
+      "char_end": 4294,
+      "text": "Pero a su pueblo lo guió y lo llevó por el desierto, como guía el pastor a sus ovejas;"
+    },
+    {
+      "verse": 53,
+      "label": "53",
+      "char_start": 4294,
+      "char_end": 4392,
+      "text": "les dio seguridad para que no tuvieran miedo, pero hizo que a sus enemigos se los tragara el mar."
+    },
+    {
+      "verse": 54,
+      "label": "54",
+      "char_start": 4392,
+      "char_end": 4472,
+      "text": "Dejó que su pueblo ocupara toda la tierra prometida, la cual ganó con su poder."
+    },
+    {
+      "verse": 55,
+      "label": "55",
+      "char_start": 4472,
+      "char_end": 4644,
+      "text": "Conforme avanzaban los israelitas, Dios echaba fuera a las naciones, y a Israel le entregó las tierras de esos pueblos. ¡Fue así como los israelitas se establecieron allí!"
+    },
+    {
+      "verse": 56,
+      "label": "56",
+      "char_start": 4644,
+      "char_end": 4736,
+      "text": "Pero pusieron a Dios a prueba: se opusieron al Dios altísimo y desobedecieron sus mandatos;"
+    },
+    {
+      "verse": 57,
+      "label": "57",
+      "char_start": 4736,
+      "char_end": 4847,
+      "text": "no eran dignos de confianza; se portaron igual que sus padres, pues traicionaron a Dios y no le fueron fieles."
+    },
+    {
+      "verse": 58,
+      "label": "58-59",
+      "char_start": 4847,
+      "char_end": 4984,
+      "text": "Dios se puso muy furioso y rechazó del todo a Israel; se sintió traicionado pues adoraron a dioses falsos y les construyeron santuarios."
+    },
+    {
+      "verse": 60,
+      "label": "60",
+      "char_start": 4984,
+      "char_end": 5047,
+      "text": "Por eso Dios abandonó Siló, que era donde vivía en este mundo;"
+    },
+    {
+      "verse": 61,
+      "label": "61",
+      "char_start": 5047,
+      "char_end": 5135,
+      "text": "¡dejó que el cofre del pacto, que era el símbolo de su poder, cayera en manos enemigas!"
+    },
+    {
+      "verse": 62,
+      "label": "62",
+      "char_start": 5135,
+      "char_end": 5198,
+      "text": "Tanto se enojó con su pueblo que los hizo perder sus batallas."
+    },
+    {
+      "verse": 63,
+      "label": "63",
+      "char_start": 5198,
+      "char_end": 5272,
+      "text": "El fuego acabó con sus muchachos, las novias no tuvieron fiesta de bodas,"
+    },
+    {
+      "verse": 64,
+      "label": "64",
+      "char_start": 5272,
+      "char_end": 5342,
+      "text": "sus sacerdotes perdieron la vida, y sus viudas no les guardaron luto."
+    },
+    {
+      "verse": 65,
+      "label": "65",
+      "char_start": 5342,
+      "char_end": 5429,
+      "text": "Pero Dios despertó, como quien despierta de un sueño, y dando rienda suelta a su furia"
+    },
+    {
+      "verse": 66,
+      "label": "66",
+      "char_start": 5429,
+      "char_end": 5499,
+      "text": "puso en retirada a sus enemigos; ¡para siempre los dejó en vergüenza!"
+    },
+    {
+      "verse": 67,
+      "label": "67",
+      "char_start": 5499,
+      "char_end": 5548,
+      "text": "Se negó a favorecer a los de la tribu de Efraín,"
+    },
+    {
+      "verse": 68,
+      "label": "68",
+      "char_start": 5548,
+      "char_end": 5603,
+      "text": "pero eligió a la tribu de Judá y a su amada Jerusalén."
+    },
+    {
+      "verse": 69,
+      "label": "69",
+      "char_start": 5603,
+      "char_end": 5710,
+      "text": "En lo alto del monte Sión construyó su templo: alto como los cielos, y firme para siempre, como la tierra."
+    },
+    {
+      "verse": 70,
+      "label": "70-71",
+      "char_start": 5710,
+      "char_end": 5846,
+      "text": "Dios prefirió a David, que era su hombre de confianza, y lo quitó de cuidar ovejas para que cuidara a Israel, que es el pueblo de Dios."
+    },
+    {
+      "verse": 72,
+      "label": "72",
+      "char_start": 5846,
+      "char_end": 5895,
+      "text": "Y David fue un gobernante inteligente y sincero."
+    }
+  ],
+  "words": [
+    {
+      "word": "Pueblo mío, escucha mis enseñanzas; atiende a mis palabras.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5087,
+      "duration_ms": 4987
+    },
+    {
+      "word": "Te hablaré por medio de ejemplos, y te explicaré los misterios del pasado.",
+      "verse": 2,
+      "start_ms": 5037,
+      "end_ms": 9974,
+      "duration_ms": 4937
+    },
+    {
+      "word": "Son cosas que ya conocemos pues nuestros padres nos las contaron.",
+      "verse": 3,
+      "start_ms": 9975,
+      "end_ms": 14200,
+      "duration_ms": 4225
+    },
+    {
+      "word": "Pero nuestros hijos deben conocerlas; debemos hablarles a nuestros nietos del poder de Dios y de sus grandes acciones; ¡de las maravillas que puede realizar!",
+      "verse": 4,
+      "start_ms": 14200,
+      "end_ms": 23712,
+      "duration_ms": 9512
+    },
+    {
+      "word": "Dios fijó una ley permanente para su pueblo Israel, y a nuestros abuelos les ordenó instruir en ella a sus hijos, para que ellos, a su vez, nos instruyeran a nosotros y a las futuras generaciones que todavía no han nacido.",
+      "verse": 5,
+      "start_ms": 23712,
+      "end_ms": 36749,
+      "duration_ms": 13037
+    },
+    {
+      "word": "Así confiaremos en Dios, tendremos presentes sus grandes hechos y cumpliremos sus mandamientos.",
+      "verse": 7,
+      "start_ms": 36750,
+      "end_ms": 42787,
+      "duration_ms": 6037
+    },
+    {
+      "word": "Así no seremos rebeldes, como lo fueron nuestros abuelos: tan malvados eran sus pensamientos que Dios no podía confiar en ellos.",
+      "verse": 8,
+      "start_ms": 42787,
+      "end_ms": 50699,
+      "duration_ms": 7912
+    },
+    {
+      "word": "Los israelitas eran buenos guerreros, pero se acobardaron y no entraron en batalla.",
+      "verse": 9,
+      "start_ms": 50700,
+      "end_ms": 56162,
+      "duration_ms": 5462
+    },
+    {
+      "word": "No cumplieron su compromiso con Dios, ni siguieron sus enseñanzas.",
+      "verse": 10,
+      "start_ms": 56162,
+      "end_ms": 60699,
+      "duration_ms": 4537
+    },
+    {
+      "word": "Cuando estaban en Egipto, en la región de Soan, vieron las grandes maravillas que Dios realizó ante sus ojos, pero no las tomaron en cuenta.",
+      "verse": 11,
+      "start_ms": 60700,
+      "end_ms": 69150,
+      "duration_ms": 8450
+    },
+    {
+      "word": "Dios partió el mar en dos, y para que ellos pudieran cruzar, mantuvo las aguas firmes como paredes.",
+      "verse": 13,
+      "start_ms": 69150,
+      "end_ms": 75937,
+      "duration_ms": 6787
+    },
+    {
+      "word": "De día, los guiaba con una nube; de noche, los alumbraba con un fuego.",
+      "verse": 14,
+      "start_ms": 75937,
+      "end_ms": 81324,
+      "duration_ms": 5387
+    },
+    {
+      "word": "Cuando llegaron al desierto, Dios partió en dos una piedra; ¡de ella hizo que brotaran verdaderos torrentes de agua, y así apagaron su sed!",
+      "verse": 15,
+      "start_ms": 81325,
+      "end_ms": 90087,
+      "duration_ms": 8762
+    },
+    {
+      "word": "Pero nuestros abuelos volvieron a pecar contra Dios: ¡en pleno desierto se pusieron en contra del Dios altísimo!",
+      "verse": 17,
+      "start_ms": 90087,
+      "end_ms": 96849,
+      "duration_ms": 6762
+    },
+    {
+      "word": "Se les metió en la cabeza poner a Dios a prueba, y le pidieron comida a su antojo.",
+      "verse": 18,
+      "start_ms": 96850,
+      "end_ms": 102012,
+      "duration_ms": 5162
+    },
+    {
+      "word": "Hablaron mal de Dios, y hasta llegaron a decir: Aquí en el desierto Dios no puede darnos de comer.",
+      "verse": 19,
+      "start_ms": 102012,
+      "end_ms": 108524,
+      "duration_ms": 6512
+    },
+    {
+      "word": "Es verdad que golpeó una piedra y que hizo que brotaran grandes torrentes de agua, ¡pero no podrá alimentarnos!",
+      "verse": 20,
+      "start_ms": 108525,
+      "end_ms": 115150,
+      "duration_ms": 6625
+    },
+    {
+      "word": "No va a poder darnos carne!",
+      "verse": 20,
+      "start_ms": 115150,
+      "end_ms": 117562,
+      "duration_ms": 2412
+    },
+    {
+      "word": "Cuando Dios oyó lo que decían, se encendió su enojo contra ellos, pues no confiaron en él ni creyeron que podría ayudarlos.",
+      "verse": 21,
+      "start_ms": 117562,
+      "end_ms": 125224,
+      "duration_ms": 7662
+    },
+    {
+      "word": "Dios, desde el alto cielo, les dio una orden a las nubes, y del cielo llovió comida: Dios les dio a comer maná, que es el pan del cielo.",
+      "verse": 23,
+      "start_ms": 125225,
+      "end_ms": 134350,
+      "duration_ms": 9125
+    },
+    {
+      "word": "Dios les mandó mucha comida, y aunque eran gente insignificante comieron como los ángeles.",
+      "verse": 25,
+      "start_ms": 134350,
+      "end_ms": 140250,
+      "duration_ms": 5900
+    },
+    {
+      "word": "Luego, con su poder Dios hizo que desde el cielo soplaran vientos encontrados.",
+      "verse": 26,
+      "start_ms": 140250,
+      "end_ms": 145675,
+      "duration_ms": 5425
+    },
+    {
+      "word": "Dios hizo que les lloviera carne como si les lloviera polvo!",
+      "verse": 27,
+      "start_ms": 145675,
+      "end_ms": 149400,
+      "duration_ms": 3725
+    },
+    {
+      "word": "Les mandó nubes de pájaros, tantos como la arena del mar!",
+      "verse": 27,
+      "start_ms": 149400,
+      "end_ms": 153700,
+      "duration_ms": 4300
+    },
+    {
+      "word": "Dios dejó caer esos pájaros dentro y fuera del campamento, y la gente se hartó de comer, pues Dios les cumplió su capricho.",
+      "verse": 28,
+      "start_ms": 153700,
+      "end_ms": 161162,
+      "duration_ms": 7462
+    },
+    {
+      "word": "No les duró mucho el gusto: todavía tenían la comida en la boca cuando Dios se enojó contra ellos.",
+      "verse": 30,
+      "start_ms": 161162,
+      "end_ms": 167349,
+      "duration_ms": 6187
+    },
+    {
+      "word": "Les quitó la vida a sus hombres más fuertes!",
+      "verse": 31,
+      "start_ms": 167350,
+      "end_ms": 170575,
+      "duration_ms": 3225
+    },
+    {
+      "word": "Hirió de muerte a los mejores israelitas!",
+      "verse": 31,
+      "start_ms": 170575,
+      "end_ms": 173837,
+      "duration_ms": 3262
+    },
+    {
+      "word": "Pero ellos siguieron pecando; dudaron del poder de Dios.",
+      "verse": 32,
+      "start_ms": 173837,
+      "end_ms": 177849,
+      "duration_ms": 4012
+    },
+    {
+      "word": "Por eso Dios les quitó la vida; ¡les envió una desgracia repentina, y acabó con su existencia!",
+      "verse": 33,
+      "start_ms": 177850,
+      "end_ms": 184137,
+      "duration_ms": 6287
+    },
+    {
+      "word": "Ellos sólo buscaban a Dios cuando él los castigaba; sólo así se arrepentían y volvían a obedecerlo; sólo entonces se acordaban del Dios altísimo, su protector y libertador.",
+      "verse": 34,
+      "start_ms": 184137,
+      "end_ms": 194674,
+      "duration_ms": 10537
+    },
+    {
+      "word": "Nunca le decían la verdad; nunca le fueron sinceros ni cumplieron fielmente su pacto.",
+      "verse": 36,
+      "start_ms": 194675,
+      "end_ms": 200237,
+      "duration_ms": 5562
+    },
+    {
+      "word": "Pero Dios, que es compasivo, les perdonó su maldad y no los destruyó.",
+      "verse": 38,
+      "start_ms": 200237,
+      "end_ms": 205337,
+      "duration_ms": 5100
+    },
+    {
+      "word": "Más de una vez refrenó su enojo, pues tomó en cuenta que eran simples seres humanos; sabía que son como el viento que se va y no vuelve.",
+      "verse": 38,
+      "start_ms": 205337,
+      "end_ms": 213474,
+      "duration_ms": 8137
+    },
+    {
+      "word": "Muchas veces, en el desierto, se rebelaron contra Dios y lo hicieron ponerse triste.",
+      "verse": 40,
+      "start_ms": 213475,
+      "end_ms": 219162,
+      "duration_ms": 5687
+    },
+    {
+      "word": "Muchas veces lo pusieron a prueba; ¡hicieron enojar al santo Dios de Israel!",
+      "verse": 41,
+      "start_ms": 219162,
+      "end_ms": 224124,
+      "duration_ms": 4962
+    },
+    {
+      "word": "No se acordaron del día cuando Dios, con su poder, los libró de sus enemigos.",
+      "verse": 42,
+      "start_ms": 224125,
+      "end_ms": 229512,
+      "duration_ms": 5387
+    },
+    {
+      "word": "Tampoco recordaron los grandes milagros que Dios hizo en Egipto, cuando convirtió en sangre todos los ríos egipcios, y el agua no se podía beber.",
+      "verse": 43,
+      "start_ms": 229512,
+      "end_ms": 238187,
+      "duration_ms": 8675
+    },
+    {
+      "word": "Les mandó moscas y ranas, que todo lo destruían; dejó que los saltamontes acabaran con todos sus sembrados; destruyó sus viñas con granizo, y sus higueras, con inundaciones; dejó que los rayos y el granizo acabaran con sus vacas y sus ovejas.",
+      "verse": 45,
+      "start_ms": 238187,
+      "end_ms": 253574,
+      "duration_ms": 15387
+    },
+    {
+      "word": "Dios estaba tan enojado que los castigó con dureza;",
+      "verse": 49,
+      "start_ms": 253575,
+      "end_ms": 257375,
+      "duration_ms": 3800
+    },
+    {
+      "word": "les mandó todo un ejército de mensajeros de muerte; dio rienda suelta a su enojo y les mandó un castigo mortal; ¡no les perdonó la vida!",
+      "verse": 49,
+      "start_ms": 257524,
+      "end_ms": 266086,
+      "duration_ms": 8562
+    },
+    {
+      "word": "En cada familia egipcia hirió de muerte a los hijos mayores.",
+      "verse": 51,
+      "start_ms": 266036,
+      "end_ms": 270298,
+      "duration_ms": 4262
+    },
+    {
+      "word": "Pero a su pueblo lo guió y lo llevó por el desierto, como guía el pastor a sus ovejas; les dio seguridad para que no tuvieran miedo, pero hizo que a sus enemigos se los tragara el mar.",
+      "verse": 52,
+      "start_ms": 270299,
+      "end_ms": 280724,
+      "duration_ms": 10425
+    },
+    {
+      "word": "Dejó que su pueblo ocupara toda la tierra prometida, la cual ganó con su poder.",
+      "verse": 54,
+      "start_ms": 280724,
+      "end_ms": 286049,
+      "duration_ms": 5325
+    },
+    {
+      "word": "Conforme avanzaban los israelitas, Dios echaba fuera a las naciones, y a Israel le entregó las tierras de esos pueblos.",
+      "verse": 55,
+      "start_ms": 286049,
+      "end_ms": 293761,
+      "duration_ms": 7712
+    },
+    {
+      "word": "Fue así como los israelitas se establecieron allí!",
+      "verse": 55,
+      "start_ms": 293761,
+      "end_ms": 297323,
+      "duration_ms": 3562
+    },
+    {
+      "word": "Pero pusieron a Dios a prueba: se opusieron al Dios altísimo y desobedecieron sus mandatos; no eran dignos de confianza; se portaron igual que sus padres, pues traicionaron a Dios y no le fueron fieles.",
+      "verse": 56,
+      "start_ms": 297324,
+      "end_ms": 309836,
+      "duration_ms": 12512
+    },
+    {
+      "word": "Dios se puso muy furioso y rechazó del todo a Israel; se sintió traicionado pues adoraron a dioses falsos y les construyeron santuarios.",
+      "verse": 58,
+      "start_ms": 309836,
+      "end_ms": 318461,
+      "duration_ms": 8625
+    },
+    {
+      "word": "Por eso Dios abandonó Siló, que era donde vivía en este mundo; ¡dejó que el cofre del pacto, que era el símbolo de su poder, cayera en manos enemigas!",
+      "verse": 60,
+      "start_ms": 318461,
+      "end_ms": 328261,
+      "duration_ms": 9800
+    },
+    {
+      "word": "Tanto se enojó con su pueblo que los hizo perder sus batallas.",
+      "verse": 62,
+      "start_ms": 328261,
+      "end_ms": 332436,
+      "duration_ms": 4175
+    },
+    {
+      "word": "El fuego acabó con sus muchachos, las novias no tuvieron fiesta de bodas, sus sacerdotes perdieron la vida, y sus viudas no les guardaron luto.",
+      "verse": 63,
+      "start_ms": 332436,
+      "end_ms": 341548,
+      "duration_ms": 9112
+    },
+    {
+      "word": "Pero Dios despertó, como quien despierta de un sueño, y dando rienda suelta a su furia puso en retirada a sus enemigos; ¡para siempre los dejó en vergüenza!",
+      "verse": 65,
+      "start_ms": 341549,
+      "end_ms": 351049,
+      "duration_ms": 9500
+    },
+    {
+      "word": "Se negó a favorecer a los de la tribu de Efraín, pero eligió a la tribu de Judá y a su amada Jerusalén.",
+      "verse": 67,
+      "start_ms": 351049,
+      "end_ms": 357586,
+      "duration_ms": 6537
+    },
+    {
+      "word": "En lo alto del monte Sión construyó su templo: alto como los cielos, y firme para siempre, como la tierra.",
+      "verse": 69,
+      "start_ms": 357586,
+      "end_ms": 364573,
+      "duration_ms": 6987
+    },
+    {
+      "word": "Dios prefirió a David, que era su hombre de confianza, y lo quitó de cuidar ovejas para que cuidara a Israel, que es el pueblo de Dios.",
+      "verse": 70,
+      "start_ms": 364574,
+      "end_ms": 373011,
+      "duration_ms": 8437
+    },
+    {
+      "word": "Y David fue un gobernante inteligente y sincero.",
+      "verse": 72,
+      "start_ms": 373011,
+      "end_ms": 376673,
+      "duration_ms": 3662
+    }
+  ]
+}

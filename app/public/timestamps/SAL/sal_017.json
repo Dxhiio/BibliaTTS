@@ -1,0 +1,229 @@
+{
+  "book": "SAL",
+  "chapter": 17,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 11,
+  "word_count": 20,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 73,
+      "text": "Dios mío, atiende mis ruegos, declárame inocente, pues yo no he mentido."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 73,
+      "char_end": 127,
+      "text": "Dicta tú mi sentencia, pues tú sabes lo que es justo."
+    },
+    {
+      "verse": 3,
+      "label": "3-5",
+      "char_start": 127,
+      "char_end": 400,
+      "text": "Tú sabes bien lo que pienso; has venido por las noches para ponerme a prueba y no me encontraste haciendo planes malvados; tampoco digo malas palabras, ni actúo con violencia, como lo hacen los demás. Yo sólo a ti te obedezco; cumplo tus mandatos, y no me aparto de ellos."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 400,
+      "char_end": 495,
+      "text": "Dios mío, yo te llamo porque me respondes. Te ruego que me escuches y que atiendas mis ruegos."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 495,
+      "char_end": 604,
+      "text": "¡Demuéstrame que me amas! Yo sé que tienes poder para salvar de sus enemigos a quienes buscan refugio en ti."
+    },
+    {
+      "verse": 8,
+      "label": "8-9",
+      "char_start": 604,
+      "char_end": 742,
+      "text": "Cuídame como a tus propios ojos, pues me atacan los malvados; escóndeme bajo tus alas, pues los que quieren matarme ya me tienen rodeado."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 742,
+      "char_end": 794,
+      "text": "No tienen sentimientos, hablan sólo para ofenderme."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 794,
+      "char_end": 863,
+      "text": "Me siguen muy de cerca, no dejan de vigilarme, quieren hacerme caer."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 863,
+      "char_end": 918,
+      "text": "Parecen leones en su escondite, en espera de su presa."
+    },
+    {
+      "verse": 13,
+      "label": "13-14",
+      "char_start": 918,
+      "char_end": 1190,
+      "text": "¡Vamos, Dios mío! ¡Enfréntate a ellos y derrótalos! ¡Echa mano a la espada y sálvame de esos malvados! ¡Sálvame con tu poder! ¡Sálvame de esta gente que todo lo tiene! Mándales todos los castigos que les tienes reservados, pero castiga también a sus hijos y a sus nietos."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1190,
+      "char_end": 1319,
+      "text": "Yo, por mi parte, he de quedar satisfecho cuando me declares inocente. ¡Despertar y verme en tu presencia será mi mayor alegría!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios mío, atiende mis ruegos, declárame inocente, pues yo no he mentido.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5862,
+      "duration_ms": 5762
+    },
+    {
+      "word": "Dicta tú mi sentencia, pues tú sabes lo que es justo.",
+      "verse": 2,
+      "start_ms": 5812,
+      "end_ms": 9899,
+      "duration_ms": 4087
+    },
+    {
+      "word": "Tú sabes bien lo que pienso; has venido por las noches para ponerme a prueba y no me encontraste haciendo planes malvados; tampoco digo malas palabras, ni actúo con violencia, como lo hacen los demás.",
+      "verse": 3,
+      "start_ms": 9900,
+      "end_ms": 21725,
+      "duration_ms": 11825
+    },
+    {
+      "word": "Yo sólo a ti te obedezco; cumplo tus mandatos, y no me aparto de ellos.",
+      "verse": 3,
+      "start_ms": 21725,
+      "end_ms": 27325,
+      "duration_ms": 5600
+    },
+    {
+      "word": "Dios mío, yo te llamo porque me respondes.",
+      "verse": 6,
+      "start_ms": 27325,
+      "end_ms": 31012,
+      "duration_ms": 3687
+    },
+    {
+      "word": "Te ruego que me escuches y que atiendas mis ruegos.",
+      "verse": 6,
+      "start_ms": 31012,
+      "end_ms": 34524,
+      "duration_ms": 3512
+    },
+    {
+      "word": "Demuéstrame que me amas!",
+      "verse": 7,
+      "start_ms": 34525,
+      "end_ms": 36787,
+      "duration_ms": 2262
+    },
+    {
+      "word": "Yo sé que tienes poder para salvar de sus enemigos a quienes buscan refugio en ti.",
+      "verse": 7,
+      "start_ms": 36787,
+      "end_ms": 41699,
+      "duration_ms": 4912
+    },
+    {
+      "word": "Cuídame como a tus propios ojos, pues me atacan los malvados; escóndeme bajo tus alas, pues los que quieren matarme ya me tienen rodeado.",
+      "verse": 8,
+      "start_ms": 41700,
+      "end_ms": 50287,
+      "duration_ms": 8587
+    },
+    {
+      "word": "No tienen sentimientos, hablan sólo para ofenderme.",
+      "verse": 10,
+      "start_ms": 50287,
+      "end_ms": 54237,
+      "duration_ms": 3950
+    },
+    {
+      "word": "Me siguen muy de cerca, no dejan de vigilarme, quieren hacerme caer.",
+      "verse": 11,
+      "start_ms": 54237,
+      "end_ms": 59212,
+      "duration_ms": 4975
+    },
+    {
+      "word": "Parecen leones en su escondite, en espera de su presa.",
+      "verse": 12,
+      "start_ms": 59212,
+      "end_ms": 63249,
+      "duration_ms": 4037
+    },
+    {
+      "word": "Vamos, Dios mío!",
+      "verse": 13,
+      "start_ms": 63250,
+      "end_ms": 65437,
+      "duration_ms": 2187
+    },
+    {
+      "word": "Enfréntate a ellos y derrótalos!",
+      "verse": 13,
+      "start_ms": 65437,
+      "end_ms": 68312,
+      "duration_ms": 2875
+    },
+    {
+      "word": "Echa mano a la espada y sálvame de esos malvados!",
+      "verse": 13,
+      "start_ms": 68312,
+      "end_ms": 71912,
+      "duration_ms": 3600
+    },
+    {
+      "word": "Sálvame con tu poder!",
+      "verse": 13,
+      "start_ms": 71912,
+      "end_ms": 74087,
+      "duration_ms": 2175
+    },
+    {
+      "word": "Sálvame de esta gente que todo lo tiene!",
+      "verse": 13,
+      "start_ms": 74087,
+      "end_ms": 77262,
+      "duration_ms": 3175
+    },
+    {
+      "word": "Mándales todos los castigos que les tienes reservados, pero castiga también a sus hijos y a sus nietos.",
+      "verse": 13,
+      "start_ms": 77262,
+      "end_ms": 83974,
+      "duration_ms": 6712
+    },
+    {
+      "word": "Yo, por mi parte, he de quedar satisfecho cuando me declares inocente.",
+      "verse": 15,
+      "start_ms": 83975,
+      "end_ms": 89112,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Despertar y verme en tu presencia será mi mayor alegría!",
+      "verse": 15,
+      "start_ms": 89112,
+      "end_ms": 92962,
+      "duration_ms": 3850
+    }
+  ]
+}

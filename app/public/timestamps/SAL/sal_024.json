@@ -1,0 +1,201 @@
+{
+  "book": "SAL",
+  "chapter": 24,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 10,
+  "word_count": 17,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 116,
+      "text": "Dios es dueño de toda la tierra y de todo lo que hay en ella; también es dueño del mundo y de todos sus habitantes."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 116,
+      "char_end": 216,
+      "text": "Dios afirmó la tierra sobre el agua de los mares; Dios afirmó este mundo sobre el agua de los ríos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 216,
+      "char_end": 278,
+      "text": "Sólo puede subir al monte de Dios y entrar en su santo templo"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 278,
+      "char_end": 402,
+      "text": "el que siempre hace lo bueno y jamás piensa hacer lo malo; el que no adora a dioses falsos ni hace juramentos en su nombre."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 402,
+      "char_end": 486,
+      "text": "Al que es así, Dios lo llena de bendiciones; ¡Dios, su Salvador, le da la victoria!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 486,
+      "char_end": 564,
+      "text": "Dios de Israel, así son todos los que te buscan; así son los que a ti acuden."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 564,
+      "char_end": 668,
+      "text": "¡Abran los portones de Jerusalén! ¡Dejen abiertas sus antiguas entradas! ¡Está pasando el Rey poderoso!"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 668,
+      "char_end": 786,
+      "text": "¿Y quién es este Rey poderoso? ¡Es el Dios de Israel; Dios fuerte y valiente! ¡Es nuestro Dios, el valiente guerrero!"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 786,
+      "char_end": 890,
+      "text": "¡Abran los portones de Jerusalén! ¡Dejen abiertas sus antiguas entradas! ¡Está pasando el Rey poderoso!"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 890,
+      "char_end": 990,
+      "text": "¿Y quién es este Rey poderoso? ¡Es el Dios de Israel, el Rey poderoso! ¡Él es el Dios del universo!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios es dueño de toda la tierra y de todo lo que hay en ella; también es dueño del mundo y de todos sus habitantes.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7175,
+      "duration_ms": 7075
+    },
+    {
+      "word": "Dios afirmó la tierra sobre el agua de los mares; Dios afirmó este mundo sobre el agua de los ríos.",
+      "verse": 2,
+      "start_ms": 7125,
+      "end_ms": 13637,
+      "duration_ms": 6512
+    },
+    {
+      "word": "Sólo puede subir al monte de Dios y entrar en su santo templo el que siempre hace lo bueno y jamás piensa hacer lo malo; el que no adora a dioses falsos ni hace juramentos en su nombre.",
+      "verse": 3,
+      "start_ms": 13637,
+      "end_ms": 23699,
+      "duration_ms": 10062
+    },
+    {
+      "word": "Al que es así, Dios lo llena de bendiciones; ¡Dios, su Salvador, le da la victoria!",
+      "verse": 5,
+      "start_ms": 23700,
+      "end_ms": 30137,
+      "duration_ms": 6437
+    },
+    {
+      "word": "Dios de Israel, así son todos los que te buscan; así son los que a ti acuden.",
+      "verse": 6,
+      "start_ms": 30137,
+      "end_ms": 35762,
+      "duration_ms": 5625
+    },
+    {
+      "word": "Abran los portones de Jerusalén!",
+      "verse": 7,
+      "start_ms": 35762,
+      "end_ms": 38487,
+      "duration_ms": 2725
+    },
+    {
+      "word": "Dejen abiertas sus antiguas entradas!",
+      "verse": 7,
+      "start_ms": 38487,
+      "end_ms": 41599,
+      "duration_ms": 3112
+    },
+    {
+      "word": "Está pasando el Rey poderoso!",
+      "verse": 7,
+      "start_ms": 41600,
+      "end_ms": 44200,
+      "duration_ms": 2600
+    },
+    {
+      "word": "Y quién es este Rey poderoso?",
+      "verse": 8,
+      "start_ms": 44200,
+      "end_ms": 46825,
+      "duration_ms": 2625
+    },
+    {
+      "word": "Es el Dios de Israel; Dios fuerte y valiente!",
+      "verse": 8,
+      "start_ms": 46825,
+      "end_ms": 50512,
+      "duration_ms": 3687
+    },
+    {
+      "word": "Es nuestro Dios, el valiente guerrero!",
+      "verse": 8,
+      "start_ms": 50512,
+      "end_ms": 53662,
+      "duration_ms": 3150
+    },
+    {
+      "word": "Abran los portones de Jerusalén!",
+      "verse": 9,
+      "start_ms": 53662,
+      "end_ms": 56387,
+      "duration_ms": 2725
+    },
+    {
+      "word": "Dejen abiertas sus antiguas entradas!",
+      "verse": 9,
+      "start_ms": 56387,
+      "end_ms": 59499,
+      "duration_ms": 3112
+    },
+    {
+      "word": "Está pasando el Rey poderoso!",
+      "verse": 9,
+      "start_ms": 59500,
+      "end_ms": 62100,
+      "duration_ms": 2600
+    },
+    {
+      "word": "Y quién es este Rey poderoso?",
+      "verse": 10,
+      "start_ms": 62100,
+      "end_ms": 64725,
+      "duration_ms": 2625
+    },
+    {
+      "word": "Es el Dios de Israel, el Rey poderoso!",
+      "verse": 10,
+      "start_ms": 64725,
+      "end_ms": 68075,
+      "duration_ms": 3350
+    },
+    {
+      "word": "Él es el Dios del universo!",
+      "verse": 10,
+      "start_ms": 68075,
+      "end_ms": 70475,
+      "duration_ms": 2400
+    }
+  ]
+}

@@ -1,0 +1,684 @@
+{
+  "book": "JOS",
+  "chapter": 19,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 47,
+  "word_count": 49,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 149,
+      "text": "El segundo territorio sorteado fue para los grupos familiares de la tribu de Simeón. Sus tierras quedaban dentro del territorio de la tribu de Judá."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 149,
+      "char_end": 200,
+      "text": "Comprendía las ciudades de Beerseba, Moladá, Sebá,"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 200,
+      "char_end": 224,
+      "text": "Hasar-sual, Balá, Ésem,"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 224,
+      "char_end": 247,
+      "text": "Eltolad, Betul, Hormá,"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 247,
+      "char_end": 281,
+      "text": "Siclag, Bet-marcabot, Hasar-susá,"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 281,
+      "char_end": 339,
+      "text": "Bet-lebaot y Saruhén. Eran trece ciudades con sus aldeas."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 339,
+      "char_end": 413,
+      "text": "También recibieron las ciudades de En-rimón, Éter y Asán, con sus aldeas."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 413,
+      "char_end": 527,
+      "text": "Este territorio comprendía todas las ciudades y aldeas en el sur, hasta la ciudad de Ramá en el desierto del sur."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 527,
+      "char_end": 663,
+      "text": "Josué le había dado a la tribu de Judá más territorio del que necesitaba, así que le entregó parte de sus tierras a la tribu de Simeón."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 663,
+      "char_end": 806,
+      "text": "El tercer territorio sorteado fue para los grupos familiares de la tribu de Zabulón. El territorio que recibieron llegaba al sur, hasta Sarid."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 806,
+      "char_end": 923,
+      "text": "De allí la frontera seguía hacia el oeste hasta Maralá, pasando por Dabéset y el arroyo que está al este de Jocneam."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 923,
+      "char_end": 1035,
+      "text": "Al este de Sarid, la frontera llegaba hasta Quislot-tabor; de allí seguía a Daberat, y luego subía hasta Jafía."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1035,
+      "char_end": 1146,
+      "text": "Siguiendo hacia el este, llegaba a Gat-héfer, pasaba por Itá-casín, dando luego la vuelta por Nea hasta Rimón."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1146,
+      "char_end": 1238,
+      "text": "En el norte, la frontera daba la vuelta hasta Hanatón, y terminaba en el valle de Jefté-el."
+    },
+    {
+      "verse": 15,
+      "label": "15-16",
+      "char_start": 1238,
+      "char_end": 1383,
+      "text": "Este territorio que recibió la tribu de Zabulón incluía doce ciudades con sus aldeas. Entre ellas estaban Catat, Nahalal, Simrón, Idalá y Belén."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1383,
+      "char_end": 1467,
+      "text": "El cuarto territorio sorteado fue para los grupos familiares de la tribu de Isacar."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1467,
+      "char_end": 1520,
+      "text": "Comprendía las ciudades de Jezreel, Quesulot, Sunem,"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1520,
+      "char_end": 1547,
+      "text": "Hafaraim, Sihón, Anaharat,"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1547,
+      "char_end": 1569,
+      "text": "Rabit, Quisión, Ebes,"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1569,
+      "char_end": 1607,
+      "text": "Rémet, En-ganim, En-hadá y Bet-pasés."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1607,
+      "char_end": 1742,
+      "text": "En el norte, su frontera hacia el este iba desde el monte Tabor hasta el río Jordán, pasando por las ciudades de Sahasimá y Bet-semes."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1742,
+      "char_end": 1847,
+      "text": "Todo este territorio, incluyendo las dieciséis ciudades con sus aldeas, pertenecía a la tribu de Isacar."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1847,
+      "char_end": 1929,
+      "text": "El quinto territorio sorteado fue para los grupos familiares de la tribu de Aser."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1929,
+      "char_end": 2042,
+      "text": "Al sur, la frontera iba desde la ciudad de Helcat hacia el oeste, incluyendo las ciudades de Halí, Beten, Acsaf,"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2042,
+      "char_end": 2121,
+      "text": "Alamélec, Amad y Misal. La frontera oeste era el monte Carmelo y Sihor-libnat."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2121,
+      "char_end": 2331,
+      "text": "Al este, la frontera partía de Helcat hacia el norte, hasta Bet-dagón. Luego de pasar por el territorio de la tribu de Zabulón, seguía por el valle de Jefté-el hasta Bet-émec y Neiel. Después pasaba por Cabul,"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2331,
+      "char_end": 2387,
+      "text": "Abdón, Ebrón, Rehob, Hamón y Caná, terminando en Sidón."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2387,
+      "char_end": 2542,
+      "text": "De allí giraba hacia Ramá, llegaba hasta el fuerte de Tiro, continuaba por Hosá y terminaba en el mar Mediterráneo. Comprendía también a Mahaleb, a Aczib,"
+    },
+    {
+      "verse": 30,
+      "label": "30-31",
+      "char_start": 2542,
+      "char_end": 2680,
+      "text": "a Umá, a Afec y a Rehob. Estas veintidós ciudades con sus aldeas estaban comprendidas dentro del territorio que recibió la tribu de Aser."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2680,
+      "char_end": 2764,
+      "text": "El sexto territorio sorteado fue para los grupos familiares de la tribu de Neftalí."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 2764,
+      "char_end": 2946,
+      "text": "La frontera norte iba desde la ciudad de Hélef, pasando por el roble cercano a Saanamim, seguía por las ciudades de Adamí-néqueb y Jabneel hasta Lacum, y terminaba en el río Jordán."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 2946,
+      "char_end": 3306,
+      "text": "La frontera sur comenzaba en el Jordán; llegaba, por el oeste, hasta la ciudad de Aznot-tabor. Allí giraba al norte y seguía por la frontera de la tribu de Zabulón, hasta la ciudad de Hucoc. Después seguía hacia el oeste, siempre bordeando la frontera de Zabulón. Al oeste, su frontera daba con el territorio de la tribu de Aser, y al este, con el río Jordán."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3306,
+      "char_end": 3373,
+      "text": "Las ciudades fortificadas eran Sidim, Ser, Hamat, Racat, Quinéret,"
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3373,
+      "char_end": 3393,
+      "text": "Adamá, Ramá, Hasor,"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3393,
+      "char_end": 3418,
+      "text": "Quedes, Edrei, En-hasor,"
+    },
+    {
+      "verse": 38,
+      "label": "38-39",
+      "char_start": 3418,
+      "char_end": 3564,
+      "text": "Irón, Migdal-el, Horem, Bet-anat y Bet-semes. En total había diecinueve ciudades con sus aldeas en el territorio entregado a la tribu de Neftalí."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 3564,
+      "char_end": 3646,
+      "text": "El séptimo territorio sorteado fue para los grupos familiares de la tribu de Dan."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 3646,
+      "char_end": 3697,
+      "text": "Comprendía las ciudades de Sorá, Estaol, Ir-semes,"
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 3697,
+      "char_end": 3721,
+      "text": "Saalbim, Aialón, Jetlá,"
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 3721,
+      "char_end": 3742,
+      "text": "Elón, Timnat, Ecrón,"
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 3742,
+      "char_end": 3769,
+      "text": "Eltequé, Guibetón, Baalat,"
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 3769,
+      "char_end": 3799,
+      "text": "Jehúd, Bené-berac, Gat-rimón,"
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 3799,
+      "char_end": 3852,
+      "text": "Mejarcón y Racón, junto con la región frente a Jope."
+    },
+    {
+      "verse": 47,
+      "label": "47-48",
+      "char_start": 3852,
+      "char_end": 4167,
+      "text": "Todas estas ciudades y sus aldeas pertenecían a la tribu de Dan. Más tarde los de Dan perdieron sus tierras, así que fueron al norte y atacaron la ciudad de Lésem. Mataron a toda la gente que allí vivía, y se apoderaron de la ciudad. A la ciudad le cambiaron el nombre y la llamaron Dan, en honor de su antepasado."
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 4167,
+      "char_end": 4251,
+      "text": "Cuando los israelitas terminaron de repartir la tierra, le dieron su parte a Josué."
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 4251,
+      "char_end": 4425,
+      "text": "Por orden de Dios le dieron la ciudad que Josué había pedido, es decir, Timnat-sérah, en la región montañosa de la tribu de Efraín. Josué reconstruyó la ciudad y vivió allí."
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 4425,
+      "char_end": 4673,
+      "text": "Josué, el sacerdote Eleazar y los jefes de los grupos familiares consultaron a Dios antes de hacer el sorteo de cada uno de estos territorios. Para esto se reunieron a la entrada del santuario, en Siló. Y así terminó el reparto de los territorios."
+    }
+  ],
+  "words": [
+    {
+      "word": "El segundo territorio sorteado fue para los grupos familiares de la tribu de Simeón.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5300,
+      "duration_ms": 5200
+    },
+    {
+      "word": "Sus tierras quedaban dentro del territorio de la tribu de Judá.",
+      "verse": 1,
+      "start_ms": 5250,
+      "end_ms": 9362,
+      "duration_ms": 4112
+    },
+    {
+      "word": "Comprendía las ciudades de Beerseba, Moladá, Sebá, Hasar-sual, Balá, Ésem, Eltolad, Betul, Hormá, Siclag, Bet-marcabot, Hasar-susá, Bet-lebaot y Saruhén.",
+      "verse": 2,
+      "start_ms": 9362,
+      "end_ms": 21962,
+      "duration_ms": 12600
+    },
+    {
+      "word": "Eran trece ciudades con sus aldeas.",
+      "verse": 6,
+      "start_ms": 21962,
+      "end_ms": 24912,
+      "duration_ms": 2950
+    },
+    {
+      "word": "También recibieron las ciudades de En-rimón, Éter y Asán, con sus aldeas.",
+      "verse": 7,
+      "start_ms": 24912,
+      "end_ms": 30199,
+      "duration_ms": 5287
+    },
+    {
+      "word": "Este territorio comprendía todas las ciudades y aldeas en el sur, hasta la ciudad de Ramá en el desierto del sur.",
+      "verse": 8,
+      "start_ms": 30200,
+      "end_ms": 37212,
+      "duration_ms": 7012
+    },
+    {
+      "word": "Josué le había dado a la tribu de Judá más territorio del que necesitaba, así que le entregó parte de sus tierras a la tribu de Simeón.",
+      "verse": 9,
+      "start_ms": 37212,
+      "end_ms": 45112,
+      "duration_ms": 7900
+    },
+    {
+      "word": "El tercer territorio sorteado fue para los grupos familiares de la tribu de Zabulón.",
+      "verse": 10,
+      "start_ms": 45112,
+      "end_ms": 50249,
+      "duration_ms": 5137
+    },
+    {
+      "word": "El territorio que recibieron llegaba al sur, hasta Sarid.",
+      "verse": 10,
+      "start_ms": 50250,
+      "end_ms": 54237,
+      "duration_ms": 3987
+    },
+    {
+      "word": "De allí la frontera seguía hacia el oeste hasta Maralá, pasando por Dabéset y el arroyo que está al este de Jocneam.",
+      "verse": 11,
+      "start_ms": 54237,
+      "end_ms": 61399,
+      "duration_ms": 7162
+    },
+    {
+      "word": "Al este de Sarid, la frontera llegaba hasta Quislot-tabor; de allí seguía a Daberat, y luego subía hasta Jafía.",
+      "verse": 12,
+      "start_ms": 61400,
+      "end_ms": 69037,
+      "duration_ms": 7637
+    },
+    {
+      "word": "Siguiendo hacia el este, llegaba a Gat-héfer, pasaba por Itá-casín, dando luego la vuelta por Nea hasta Rimón.",
+      "verse": 13,
+      "start_ms": 69037,
+      "end_ms": 76449,
+      "duration_ms": 7412
+    },
+    {
+      "word": "En el norte, la frontera daba la vuelta hasta Hanatón, y terminaba en el valle de Jefté-el.",
+      "verse": 14,
+      "start_ms": 76450,
+      "end_ms": 82550,
+      "duration_ms": 6100
+    },
+    {
+      "word": "Este territorio que recibió la tribu de Zabulón incluía doce ciudades con sus aldeas.",
+      "verse": 15,
+      "start_ms": 82550,
+      "end_ms": 88262,
+      "duration_ms": 5712
+    },
+    {
+      "word": "Entre ellas estaban Catat, Nahalal, Simrón, Idalá y Belén.",
+      "verse": 15,
+      "start_ms": 88262,
+      "end_ms": 93362,
+      "duration_ms": 5100
+    },
+    {
+      "word": "El cuarto territorio sorteado fue para los grupos familiares de la tribu de Isacar.",
+      "verse": 17,
+      "start_ms": 93362,
+      "end_ms": 98549,
+      "duration_ms": 5187
+    },
+    {
+      "word": "Comprendía las ciudades de Jezreel, Quesulot, Sunem, Hafaraim, Sihón, Anaharat, Rabit, Quisión, Ebes, Rémet, En-ganim, En-hadá y Bet-pasés.",
+      "verse": 18,
+      "start_ms": 98550,
+      "end_ms": 110250,
+      "duration_ms": 11700
+    },
+    {
+      "word": "En el norte, su frontera hacia el este iba desde el monte Tabor hasta el río Jordán, pasando por las ciudades de Sahasimá y Bet-semes.",
+      "verse": 22,
+      "start_ms": 110250,
+      "end_ms": 118575,
+      "duration_ms": 8325
+    },
+    {
+      "word": "Todo este territorio, incluyendo las dieciséis ciudades con sus aldeas, pertenecía a la tribu de Isacar.",
+      "verse": 23,
+      "start_ms": 118575,
+      "end_ms": 125700,
+      "duration_ms": 7125
+    },
+    {
+      "word": "El quinto territorio sorteado fue para los grupos familiares de la tribu de Aser.",
+      "verse": 24,
+      "start_ms": 125700,
+      "end_ms": 130687,
+      "duration_ms": 4987
+    },
+    {
+      "word": "Al sur, la frontera iba desde la ciudad de Helcat hacia el oeste, incluyendo las ciudades de Halí, Beten, Acsaf, Alamélec, Amad y Misal.",
+      "verse": 25,
+      "start_ms": 130687,
+      "end_ms": 140162,
+      "duration_ms": 9475
+    },
+    {
+      "word": "La frontera oeste era el monte Carmelo y Sihor-libnat.",
+      "verse": 26,
+      "start_ms": 140162,
+      "end_ms": 143974,
+      "duration_ms": 3812
+    },
+    {
+      "word": "Al este, la frontera partía de Helcat hacia el norte, hasta Bet-dagón.",
+      "verse": 27,
+      "start_ms": 143975,
+      "end_ms": 148975,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Luego de pasar por el territorio de la tribu de Zabulón, seguía por el valle de Jefté-el hasta Bet-émec y Neiel.",
+      "verse": 27,
+      "start_ms": 148975,
+      "end_ms": 155825,
+      "duration_ms": 6850
+    },
+    {
+      "word": "Después pasaba por Cabul, Abdón, Ebrón, Rehob, Hamón y Caná, terminando en Sidón.",
+      "verse": 27,
+      "start_ms": 155825,
+      "end_ms": 162362,
+      "duration_ms": 6537
+    },
+    {
+      "word": "De allí giraba hacia Ramá, llegaba hasta el fuerte de Tiro, continuaba por Hosá y terminaba en el mar Mediterráneo.",
+      "verse": 29,
+      "start_ms": 162362,
+      "end_ms": 169687,
+      "duration_ms": 7325
+    },
+    {
+      "word": "Comprendía también a Mahaleb, a Aczib, a Umá, a Afec y a Rehob.",
+      "verse": 29,
+      "start_ms": 169687,
+      "end_ms": 174649,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Estas veintidós ciudades con sus aldeas estaban comprendidas dentro del territorio que recibió la tribu de Aser.",
+      "verse": 30,
+      "start_ms": 174650,
+      "end_ms": 181275,
+      "duration_ms": 6625
+    },
+    {
+      "word": "El sexto territorio sorteado fue para los grupos familiares de la tribu de Neftalí.",
+      "verse": 32,
+      "start_ms": 181275,
+      "end_ms": 186462,
+      "duration_ms": 5187
+    },
+    {
+      "word": "La frontera norte iba desde la ciudad de Hélef, pasando por el roble cercano a Saanamim, seguía por las ciudades de Adamí-néqueb y Jabneel hasta Lacum, y terminaba en el río Jordán.",
+      "verse": 33,
+      "start_ms": 186462,
+      "end_ms": 197474,
+      "duration_ms": 11012
+    },
+    {
+      "word": "La frontera sur comenzaba en el Jordán; llegaba, por el oeste, hasta la ciudad de Aznot-tabor.",
+      "verse": 34,
+      "start_ms": 197475,
+      "end_ms": 204025,
+      "duration_ms": 6550
+    },
+    {
+      "word": "Allí giraba al norte y seguía por la frontera de la tribu de Zabulón, hasta la ciudad de Hucoc.",
+      "verse": 34,
+      "start_ms": 204025,
+      "end_ms": 210050,
+      "duration_ms": 6025
+    },
+    {
+      "word": "Después seguía hacia el oeste, siempre bordeando la frontera de Zabulón.",
+      "verse": 34,
+      "start_ms": 210050,
+      "end_ms": 214950,
+      "duration_ms": 4900
+    },
+    {
+      "word": "Al oeste, su frontera daba con el territorio de la tribu de Aser, y al este, con el río Jordán.",
+      "verse": 34,
+      "start_ms": 214950,
+      "end_ms": 221700,
+      "duration_ms": 6750
+    },
+    {
+      "word": "Las ciudades fortificadas eran Sidim, Ser, Hamat, Racat, Quinéret, Adamá, Ramá, Hasor, Quedes, Edrei, En-hasor, Irón, Migdal-el, Horem, Bet-anat y Bet-semes.",
+      "verse": 35,
+      "start_ms": 221700,
+      "end_ms": 235500,
+      "duration_ms": 13800
+    },
+    {
+      "word": "En total había diecinueve ciudades con sus aldeas en el territorio entregado a la tribu de Neftalí.",
+      "verse": 38,
+      "start_ms": 235500,
+      "end_ms": 241525,
+      "duration_ms": 6025
+    },
+    {
+      "word": "El séptimo territorio sorteado fue para los grupos familiares de la tribu de Dan.",
+      "verse": 40,
+      "start_ms": 241525,
+      "end_ms": 246587,
+      "duration_ms": 5062
+    },
+    {
+      "word": "Comprendía las ciudades de Sorá, Estaol, Ir-semes, Saalbim, Aialón, Jetlá, Elón, Timnat, Ecrón, Eltequé, Guibetón, Baalat, Jehúd, Bené-berac, Gat-rimón, Mejarcón y Racón, junto con la región frente a Jope.",
+      "verse": 41,
+      "start_ms": 246587,
+      "end_ms": 263187,
+      "duration_ms": 16600
+    },
+    {
+      "word": "Todas estas ciudades y sus aldeas pertenecían a la tribu de Dan.",
+      "verse": 47,
+      "start_ms": 263187,
+      "end_ms": 267549,
+      "duration_ms": 4362
+    },
+    {
+      "word": "Más tarde los de Dan perdieron sus tierras, así que fueron",
+      "verse": 47,
+      "start_ms": 267550,
+      "end_ms": 271812,
+      "duration_ms": 4262
+    },
+    {
+      "word": "al norte y atacaron la ciudad de Lésem.",
+      "verse": 47,
+      "start_ms": 271972,
+      "end_ms": 275097,
+      "duration_ms": 3125
+    },
+    {
+      "word": "Mataron a toda la gente que allí vivía, y se apoderaron de la ciudad.",
+      "verse": 47,
+      "start_ms": 275047,
+      "end_ms": 279847,
+      "duration_ms": 4800
+    },
+    {
+      "word": "A la ciudad le cambiaron el nombre y la llamaron Dan, en honor de su antepasado.",
+      "verse": 47,
+      "start_ms": 279847,
+      "end_ms": 284922,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Cuando los israelitas terminaron de repartir la tierra, le dieron su parte a Josué.",
+      "verse": 49,
+      "start_ms": 284922,
+      "end_ms": 290059,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Por orden de Dios le dieron la ciudad que Josué había pedido, es decir, Timnat-sérah, en la región montañosa de la tribu de Efraín.",
+      "verse": 50,
+      "start_ms": 290059,
+      "end_ms": 298309,
+      "duration_ms": 8250
+    },
+    {
+      "word": "Josué reconstruyó la ciudad y vivió allí.",
+      "verse": 50,
+      "start_ms": 298309,
+      "end_ms": 301596,
+      "duration_ms": 3287
+    },
+    {
+      "word": "Josué, el sacerdote Eleazar y los jefes de los grupos familiares consultaron a Dios antes de hacer el sorteo de cada uno de estos territorios.",
+      "verse": 51,
+      "start_ms": 301597,
+      "end_ms": 310259,
+      "duration_ms": 8662
+    },
+    {
+      "word": "Para esto se reunieron a la entrada del santuario, en Siló.",
+      "verse": 51,
+      "start_ms": 310259,
+      "end_ms": 314296,
+      "duration_ms": 4037
+    },
+    {
+      "word": "Y así terminó el reparto de los territorios.",
+      "verse": 51,
+      "start_ms": 314297,
+      "end_ms": 317759,
+      "duration_ms": 3462
+    }
+  ]
+}

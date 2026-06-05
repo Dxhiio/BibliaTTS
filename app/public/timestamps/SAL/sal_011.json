@@ -1,0 +1,110 @@
+{
+  "book": "SAL",
+  "chapter": 11,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 6,
+  "word_count": 8,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 83,
+      "text": "Dios es mi protector, ¡no me digan que huya a los cerros, como si fuera un pájaro!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 83,
+      "char_end": 193,
+      "text": "Fíjense en los malvados: se esconden en las sombras, y esperan a la gente honrada, para atacarla cuando pase."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 193,
+      "char_end": 288,
+      "text": "¡Si este mundo parece estar bajo el control de los malvados, qué puede hacer la gente honrada!"
+    },
+    {
+      "verse": 4,
+      "label": "4-5",
+      "char_start": 288,
+      "char_end": 496,
+      "text": "Pero Dios está en su santo templo; desde su palacio celestial vigila a la humanidad entera. Dios pone a prueba a los justos; él mismo los examina, pero odia con toda su alma a los malvados y a los violentos."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 496,
+      "char_end": 606,
+      "text": "Sobre ellos dejará caer una lluvia de brasas de fuego y de azufre encendido. ¡Un viento caliente los acabará!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 606,
+      "char_end": 704,
+      "text": "Dios es justo de verdad, y ama la justicia; ¡por eso la gente honrada habrá de verlo cara a cara!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios es mi protector, ¡no me digan que huya a los cerros, como si fuera un pájaro!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5437,
+      "duration_ms": 5337
+    },
+    {
+      "word": "Fíjense en los malvados: se esconden en las sombras, y esperan a la gente honrada, para atacarla cuando pase.",
+      "verse": 2,
+      "start_ms": 5387,
+      "end_ms": 12662,
+      "duration_ms": 7275
+    },
+    {
+      "word": "Si este mundo parece estar bajo el control de los malvados, qué puede hacer la gente honrada!",
+      "verse": 3,
+      "start_ms": 12662,
+      "end_ms": 18349,
+      "duration_ms": 5687
+    },
+    {
+      "word": "Pero Dios está en su santo templo; desde su palacio celestial vigila a la humanidad entera.",
+      "verse": 4,
+      "start_ms": 18350,
+      "end_ms": 24337,
+      "duration_ms": 5987
+    },
+    {
+      "word": "Dios pone a prueba a los justos; él mismo los examina, pero odia con toda su alma a los malvados y a los violentos.",
+      "verse": 4,
+      "start_ms": 24337,
+      "end_ms": 32149,
+      "duration_ms": 7812
+    },
+    {
+      "word": "Sobre ellos dejará caer una lluvia de brasas de fuego y de azufre encendido.",
+      "verse": 6,
+      "start_ms": 32150,
+      "end_ms": 37162,
+      "duration_ms": 5012
+    },
+    {
+      "word": "Un viento caliente los acabará!",
+      "verse": 6,
+      "start_ms": 37162,
+      "end_ms": 39774,
+      "duration_ms": 2612
+    },
+    {
+      "word": "Dios es justo de verdad, y ama la justicia; ¡por eso la gente honrada habrá de verlo cara a cara!",
+      "verse": 7,
+      "start_ms": 39775,
+      "end_ms": 46275,
+      "duration_ms": 6500
+    }
+  ]
+}

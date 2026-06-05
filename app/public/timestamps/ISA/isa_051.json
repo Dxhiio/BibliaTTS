@@ -1,0 +1,495 @@
+{
+  "book": "ISA",
+  "chapter": 51,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 23,
+  "word_count": 46,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 128,
+      "text": "Dios dijo: ¡Escúchenme todos ustedes, los que buscan a Dios y aman la justicia! Ustedes son descendientes de Abraham y de Sara."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 128,
+      "char_end": 253,
+      "text": "Miren el ejemplo que ellos les han dejado. Cuando yo llamé a Abraham, él era sólo uno, pero lo bendije y le di muchos hijos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 253,
+      "char_end": 464,
+      "text": "Aunque Jerusalén está en ruinas, yo la consolaré y la convertiré en un hermoso jardín. Será como el jardín que planté en Edén. Entonces Jerusalén celebrará y cantará canciones de alegría y de acción de gracias."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 464,
+      "char_end": 592,
+      "text": "Dios continuó diciendo: Préstame atención, pueblo mío; voy a dar mi enseñanza, y mi justicia servirá de guía para las naciones."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 592,
+      "char_end": 767,
+      "text": "Ya se acerca mi justicia, mi salvación está en camino. ¡Con mi poder juzgaré a las naciones! Los pueblos de las costas lejanas confían en mí. Mi poder los llena de esperanza."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 767,
+      "char_end": 993,
+      "text": "¡Levanten los ojos al cielo! ¡Miren la tierra aquí abajo! El cielo desaparecerá como humo, la tierra se gastará como un vestido, y sus habitantes morirán como moscas. Pero mi salvación y mi justicia permanecerán para siempre."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 993,
+      "char_end": 1118,
+      "text": "Escúchenme, ustedes que saben lo que es bueno y que conocen mi ley. No teman ni se desalienten por los insultos de la gente,"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1118,
+      "char_end": 1276,
+      "text": "porque esa gente desaparecerá como ropa comida por la polilla, como lana devorada por los gusanos. Pero mi salvación y mi justicia permanecerán para siempre."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1276,
+      "char_end": 1443,
+      "text": "Los israelitas clamaron: ¡Despierta, Dios, despierta! ¡Despierta y vístete de fuerza! Muestra tu poder como lo hiciste en el pasado, cuando destruiste a los egipcios."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1443,
+      "char_end": 1534,
+      "text": "Tú secaste las aguas del mar y allí abriste un camino por donde marchó tu pueblo liberado."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1534,
+      "char_end": 1710,
+      "text": "Lo mismo que en el pasado, ahora volverán los que tú rescataste y entrarán en Jerusalén con gritos de alegría. Estarán llenos de alegría, y el llanto y el dolor desaparecerán."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1710,
+      "char_end": 1828,
+      "text": "Dios dijo: Soy yo mismo el que los anima. ¿Por qué le tienen miedo a simples seres humanos que no son más que hierba?"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1828,
+      "char_end": 2014,
+      "text": "No olviden que yo soy su creador, yo soy el que extendió los cielos y afirmó la tierra. No teman al enemigo que con furia quiere destruirlos. Frente a mi poder toda su furia desaparece."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 2014,
+      "char_end": 2101,
+      "text": "Pronto serán liberados los prisioneros; no les faltará el pan ni morirán en la cárcel,"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2101,
+      "char_end": 2207,
+      "text": "porque yo soy el único Dios, el Dios todopoderoso. Yo agito el mar, y las olas se levantan con estruendo."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2207,
+      "char_end": 2384,
+      "text": "Yo les dije lo que deben decir, y los protegeré con mi poder. Yo he extendido los cielos y afirmado la tierra, y ahora digo: «Habitantes de Jerusalén, ¡ustedes son mi pueblo!»."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2384,
+      "char_end": 2529,
+      "text": "Isaías dijo: ¡Despierta, Jerusalén, despierta! Levántate, tú que has sufrido el enojo de Dios. Lo has sufrido tanto que ya ni levantarte puedes."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2529,
+      "char_end": 2652,
+      "text": "De todos los hijos que tuviste, no hubo ninguno que te guiara; de todos los hijos que criaste, ninguno te tomó de la mano."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2652,
+      "char_end": 2782,
+      "text": "Estas dos desgracias han venido sobre ti: ¡Has sufrido la guerra y el hambre! ¿Quién tendrá compasión de ti? ¿Quién te consolará?"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2782,
+      "char_end": 2921,
+      "text": "Tus hijos están tirados por las calles, están como venados atrapados en la red. Toda la furia y el reproche de Dios han caído sobre ellos."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2921,
+      "char_end": 3030,
+      "text": "Por eso, habitantes de Jerusalén, ustedes que están borrachos pero no de vino, escuchen lo que dice su Dios,"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3030,
+      "char_end": 3165,
+      "text": "el Dios que defiende a su pueblo: «En mi enojo los castigué duramente y los hice rodar por el suelo; pero ya no volveré a castigarlos."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3165,
+      "char_end": 3316,
+      "text": "Más bien castigaré a sus enemigos, esos que les dijeron: ‘¡Tírense al suelo, para que los aplastemos!’ Ustedes obedecieron, ¡y ellos los aplastaron!»."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios dijo: ¡Escúchenme todos ustedes, los que buscan a Dios y aman la justicia!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5937,
+      "duration_ms": 5837
+    },
+    {
+      "word": "Ustedes son descendientes de Abraham y de Sara.",
+      "verse": 1,
+      "start_ms": 5887,
+      "end_ms": 9137,
+      "duration_ms": 3250
+    },
+    {
+      "word": "Miren el ejemplo que ellos les han dejado.",
+      "verse": 2,
+      "start_ms": 9137,
+      "end_ms": 12287,
+      "duration_ms": 3150
+    },
+    {
+      "word": "Cuando yo llamé a Abraham, él era sólo uno, pero lo bendije y le di muchos hijos.",
+      "verse": 2,
+      "start_ms": 12287,
+      "end_ms": 18112,
+      "duration_ms": 5825
+    },
+    {
+      "word": "Aunque Jerusalén está en ruinas, yo la consolaré y la convertiré en un hermoso jardín.",
+      "verse": 3,
+      "start_ms": 18112,
+      "end_ms": 23874,
+      "duration_ms": 5762
+    },
+    {
+      "word": "Será como el jardín que planté en Edén.",
+      "verse": 3,
+      "start_ms": 23875,
+      "end_ms": 26912,
+      "duration_ms": 3037
+    },
+    {
+      "word": "Entonces Jerusalén celebrará y cantará canciones de alegría y de acción de gracias.",
+      "verse": 3,
+      "start_ms": 26912,
+      "end_ms": 32287,
+      "duration_ms": 5375
+    },
+    {
+      "word": "Dios continuó diciendo: Préstame atención, pueblo mío; voy a dar mi enseñanza, y mi justicia servirá de guía para las naciones.",
+      "verse": 4,
+      "start_ms": 32287,
+      "end_ms": 41012,
+      "duration_ms": 8725
+    },
+    {
+      "word": "Ya se acerca mi justicia, mi salvación está en camino.",
+      "verse": 5,
+      "start_ms": 41012,
+      "end_ms": 45174,
+      "duration_ms": 4162
+    },
+    {
+      "word": "Con mi poder juzgaré a las naciones!",
+      "verse": 5,
+      "start_ms": 45175,
+      "end_ms": 48087,
+      "duration_ms": 2912
+    },
+    {
+      "word": "Los pueblos de las costas lejanas confían en mí.",
+      "verse": 5,
+      "start_ms": 48087,
+      "end_ms": 51487,
+      "duration_ms": 3400
+    },
+    {
+      "word": "Mi poder los llena de esperanza.",
+      "verse": 5,
+      "start_ms": 51487,
+      "end_ms": 54137,
+      "duration_ms": 2650
+    },
+    {
+      "word": "Levanten los ojos al cielo!",
+      "verse": 6,
+      "start_ms": 54137,
+      "end_ms": 56512,
+      "duration_ms": 2375
+    },
+    {
+      "word": "Miren la tierra aquí abajo!",
+      "verse": 6,
+      "start_ms": 56512,
+      "end_ms": 58924,
+      "duration_ms": 2412
+    },
+    {
+      "word": "El cielo desaparecerá como humo, la tierra se gastará como un vestido, y sus habitantes morirán como moscas.",
+      "verse": 6,
+      "start_ms": 58925,
+      "end_ms": 66237,
+      "duration_ms": 7312
+    },
+    {
+      "word": "Pero mi salvación y mi justicia permanecerán para siempre.",
+      "verse": 6,
+      "start_ms": 66237,
+      "end_ms": 70149,
+      "duration_ms": 3912
+    },
+    {
+      "word": "Escúchenme, ustedes que saben lo que es bueno y que conocen mi ley.",
+      "verse": 7,
+      "start_ms": 70150,
+      "end_ms": 74675,
+      "duration_ms": 4525
+    },
+    {
+      "word": "No teman ni se desalienten por los insultos de la gente, porque esa gente desaparecerá como ropa comida por la polilla, como lana devorada por los gusanos.",
+      "verse": 7,
+      "start_ms": 74675,
+      "end_ms": 83837,
+      "duration_ms": 9162
+    },
+    {
+      "word": "Pero mi salvación y mi justicia permanecerán para siempre.",
+      "verse": 8,
+      "start_ms": 83837,
+      "end_ms": 87749,
+      "duration_ms": 3912
+    },
+    {
+      "word": "Los israelitas clamaron: ¡Despierta, Dios, despierta!",
+      "verse": 9,
+      "start_ms": 87750,
+      "end_ms": 92400,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Despierta y vístete de fuerza!",
+      "verse": 9,
+      "start_ms": 92400,
+      "end_ms": 95112,
+      "duration_ms": 2712
+    },
+    {
+      "word": "Muestra tu poder como lo hiciste en el pasado, cuando destruiste a los egipcios.",
+      "verse": 9,
+      "start_ms": 95112,
+      "end_ms": 100412,
+      "duration_ms": 5300
+    },
+    {
+      "word": "Tú secaste las aguas del mar y allí abriste un camino por donde marchó tu pueblo liberado.",
+      "verse": 10,
+      "start_ms": 100412,
+      "end_ms": 105937,
+      "duration_ms": 5525
+    },
+    {
+      "word": "Lo mismo que en el pasado, ahora volverán los que tú rescataste y entrarán en Jerusalén con gritos de alegría.",
+      "verse": 11,
+      "start_ms": 105937,
+      "end_ms": 112762,
+      "duration_ms": 6825
+    },
+    {
+      "word": "Estarán llenos de alegría, y el llanto y el dolor desaparecerán.",
+      "verse": 11,
+      "start_ms": 112762,
+      "end_ms": 117374,
+      "duration_ms": 4612
+    },
+    {
+      "word": "Dios dijo: Soy yo mismo el que los anima.",
+      "verse": 12,
+      "start_ms": 117375,
+      "end_ms": 121000,
+      "duration_ms": 3625
+    },
+    {
+      "word": "Por qué le tienen miedo a simples seres humanos que no son más que hierba?",
+      "verse": 12,
+      "start_ms": 121000,
+      "end_ms": 125412,
+      "duration_ms": 4412
+    },
+    {
+      "word": "No olviden que yo soy su creador, yo soy el que extendió los cielos y afirmó la tierra.",
+      "verse": 13,
+      "start_ms": 125412,
+      "end_ms": 131037,
+      "duration_ms": 5625
+    },
+    {
+      "word": "No teman al enemigo que con furia quiere destruirlos.",
+      "verse": 13,
+      "start_ms": 131037,
+      "end_ms": 134899,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Frente a mi poder toda su furia desaparece.",
+      "verse": 13,
+      "start_ms": 134900,
+      "end_ms": 138325,
+      "duration_ms": 3425
+    },
+    {
+      "word": "Pronto serán liberados los prisioneros; no les faltará el pan ni morirán en la cárcel, porque yo soy el único Dios, el Dios todopoderoso.",
+      "verse": 14,
+      "start_ms": 138325,
+      "end_ms": 147387,
+      "duration_ms": 9062
+    },
+    {
+      "word": "Yo agito el mar, y las olas se levantan con estruendo.",
+      "verse": 15,
+      "start_ms": 147387,
+      "end_ms": 151387,
+      "duration_ms": 4000
+    },
+    {
+      "word": "Yo les dije lo que deben decir, y los protegeré con mi poder.",
+      "verse": 16,
+      "start_ms": 151387,
+      "end_ms": 155687,
+      "duration_ms": 4300
+    },
+    {
+      "word": "Yo he extendido los cielos y afirmado la tierra, y ahora digo: «Habitantes de Jerusalén, ¡ustedes son mi pueblo!",
+      "verse": 16,
+      "start_ms": 155687,
+      "end_ms": 163199,
+      "duration_ms": 7512
+    },
+    {
+      "word": "Isaías dijo: ¡Despierta, Jerusalén, despierta!",
+      "verse": 17,
+      "start_ms": 163200,
+      "end_ms": 167875,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Levántate, tú que has sufrido el enojo de Dios.",
+      "verse": 17,
+      "start_ms": 167875,
+      "end_ms": 171750,
+      "duration_ms": 3875
+    },
+    {
+      "word": "Lo has sufrido tanto que ya ni levantarte puedes.",
+      "verse": 17,
+      "start_ms": 171750,
+      "end_ms": 175475,
+      "duration_ms": 3725
+    },
+    {
+      "word": "De todos los hijos que tuviste, no hubo ninguno que te guiara; de todos los hijos que criaste, ninguno te tomó de la mano.",
+      "verse": 18,
+      "start_ms": 175475,
+      "end_ms": 183437,
+      "duration_ms": 7962
+    },
+    {
+      "word": "Estas dos desgracias han venido sobre ti: ¡Has sufrido la guerra y el hambre!",
+      "verse": 19,
+      "start_ms": 183437,
+      "end_ms": 188349,
+      "duration_ms": 4912
+    },
+    {
+      "word": "Quién tendrá compasión de ti?",
+      "verse": 19,
+      "start_ms": 188350,
+      "end_ms": 190750,
+      "duration_ms": 2400
+    },
+    {
+      "word": "Quién te consolará?",
+      "verse": 19,
+      "start_ms": 190750,
+      "end_ms": 192712,
+      "duration_ms": 1962
+    },
+    {
+      "word": "Tus hijos están tirados por las calles, están como venados atrapados en la red.",
+      "verse": 20,
+      "start_ms": 192712,
+      "end_ms": 198112,
+      "duration_ms": 5400
+    },
+    {
+      "word": "Toda la furia y el reproche de Dios han caído sobre ellos.",
+      "verse": 20,
+      "start_ms": 198112,
+      "end_ms": 202387,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Por eso, habitantes de Jerusalén, ustedes que están borrachos pero no de vino, escuchen lo que dice su Dios, el Dios que defiende a su pueblo: «En mi enojo los castigué duramente y los hice rodar por el suelo; pero ya no volveré a castigarlos.",
+      "verse": 21,
+      "start_ms": 202387,
+      "end_ms": 216974,
+      "duration_ms": 14587
+    },
+    {
+      "word": "Más bien castigaré a sus enemigos, esos que les dijeron: ‘¡Tírense al suelo, para que los aplastemos!",
+      "verse": 23,
+      "start_ms": 216975,
+      "end_ms": 223837,
+      "duration_ms": 6862
+    },
+    {
+      "word": "Ustedes obedecieron, ¡y ellos los aplastaron!",
+      "verse": 23,
+      "start_ms": 223837,
+      "end_ms": 227399,
+      "duration_ms": 3562
+    }
+  ]
+}

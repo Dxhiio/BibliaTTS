@@ -1,0 +1,544 @@
+{
+  "book": "NEH",
+  "chapter": 12,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 27,
+  "word_count": 49,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-7",
+      "char_start": 0,
+      "char_end": 387,
+      "text": "Ésta es la lista de los sacerdotes y ayudantes que regresaron de Babilonia con Zorobabel hijo de Salatiel, y con Josué. Los jefes de los sacerdotes de la época de Josué, que regresaron, son los siguientes: Seraías, Jeremías, Esdras, Amarías, Maluc, Hatús, Secanías, Rehúm, Meremot, Idó, Guinetón, Abías, Mijamín, Maadías, Bilgá, Semaías, Joiarib, Jedaías, Salú, Amoc, Hilquías, Jedaías."
+    },
+    {
+      "verse": 8,
+      "label": "8-9",
+      "char_start": 387,
+      "char_end": 638,
+      "text": "Había dos coros encargados de los himnos de alabanza. De los cantores que formaban el primer coro regresaron los siguientes: Josué, Binuy, Cadmiel, Serebías, Judá, Matanías. Del segundo coro regresaron los siguientes: Bacbuquías, Uní y sus ayudantes."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 638,
+      "char_end": 705,
+      "text": "Los antepasados del ayudante Josué fueron Joacín, Eliasib, Joiadá,"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 705,
+      "char_end": 722,
+      "text": "Johanán y Jadúa."
+    },
+    {
+      "verse": 12,
+      "label": "12-21",
+      "char_start": 722,
+      "char_end": 815,
+      "text": "En la época de Joacín éstos eran los jefes de las familias de los sacerdotes que regresaron:"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 815,
+      "char_end": 1029,
+      "text": "En la época de Eliasib, Joiadá, Johanán y Jadúa, había una lista de los jefes de familia de los sacerdotes y sus ayudantes. La información de esa lista llegaba hasta el año en que Darío comenzó a reinar en Persia."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1029,
+      "char_end": 1167,
+      "text": "En la lista oficial estaban anotados los jefes de familia de los ayudantes de los sacerdotes, hasta la época de Johanán nieto de Eliasib."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1167,
+      "char_end": 1502,
+      "text": "Los ayudantes de los sacerdotes estaban divididos en dos coros, que eran dirigidos por Hasabías, Serebías, Josué, Binuy y Cadmiel, y sus asistentes. Durante el culto, el coro principal cantaba una estrofa de un himno, y el otro coro respondía con otra estrofa. Así alababan y daban gracias a Dios, según lo había mandado el rey David."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1502,
+      "char_end": 1639,
+      "text": "Los vigilantes de las entradas, que también cuidaban las bodegas de al lado, eran: Matanías, Bacbuquías, Abdías, Mesulam, Talmón y Acub."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 1639,
+      "char_end": 1772,
+      "text": "Éstos vivieron en la misma época de Joacín hijo de Josué. Era el tiempo cuando Nehemías gobernaba y el sacerdote Esdras era maestro."
+    },
+    {
+      "verse": 27,
+      "label": "27-29",
+      "char_start": 1772,
+      "char_end": 2265,
+      "text": "Las familias de los cantores que se habían instalado alrededor de Jerusalén eran descendientes de Leví. También se instalaron en las aldeas de Netofá, en el pueblito de Guilgal y en los campos de Gueba y Azmávet. Para dedicar a Dios el muro de Jerusalén, los fueron a llamar para que participaran en la celebración. Ellos no sólo cantaban sino que también tocaban instrumentos musicales como platillos, arpas y liras. Por eso los invitaron para que cantaran a Dios alegres himnos de gratitud."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2265,
+      "char_end": 2519,
+      "text": "Los sacerdotes y sus ayudantes realizaron la ceremonia de purificación, para que ellos mismos pudieran adorar a Dios, junto con todo el pueblo. También purificaron las entradas de la ciudad y el muro de protección, para que Dios los aceptara con agrado."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2519,
+      "char_end": 2791,
+      "text": "Yo, Nehemías, les pedí a los líderes de Judá que se subieran al muro, y que formaran dos grandes grupos para que marcharan por el muro dando gracias a Dios. También organicé dos coros. Un coro marchó primero, hacia la derecha, como si fuera hacia la entrada del Basurero."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2791,
+      "char_end": 2852,
+      "text": "Detrás de ellos iba Hosaías, con el primer grupo de líderes,"
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 2852,
+      "char_end": 2898,
+      "text": "en el cual estaban: Azarías, Esdras, Mesulam,"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 2898,
+      "char_end": 2933,
+      "text": "Judá, Benjamín, Semaías, Jeremías."
+    },
+    {
+      "verse": 35,
+      "label": "35-36",
+      "char_start": 2933,
+      "char_end": 3302,
+      "text": "Los sacerdotes que los acompañaban eran todos miembros de una misma familia: Semaías, Azarel, Milalai, Guilalai, Maai, Natanael, Judá, Hananí, Zacarías. Todos ellos tocaban trompetas, y otros instrumentos musicales inventados por David. Los antepasados de Zacarías fueron: Jonatán, Semaías, Matanías, Micaías, Zacur, Asaf. Delante de todos ellos iba el maestro Esdras."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3302,
+      "char_end": 3506,
+      "text": "Cuando llegaron a la entrada de la Fuente, siguieron por el muro, subieron las escaleras de la ciudad de Jerusalén, pasaron por el palacio de David y llegaron hasta la entrada del Agua, que está al este."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 3506,
+      "char_end": 3712,
+      "text": "El otro coro marchó hacia la izquierda dando gracias a Dios, y yo iba detrás de ellos con el otro grupo de líderes. Marchamos por el muro desde la torre de los Hornos hasta donde el muro se hace más ancho,"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 3712,
+      "char_end": 3907,
+      "text": "pasando por la entrada de Efraín, la entrada de Jesaná, la de los Pescados, la torre de Hananel y la torre de los Cien, hasta la entrada de las Ovejas. Nos detuvimos en la entrada de la Guardia."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 3907,
+      "char_end": 4046,
+      "text": "Luego los dos coros que daban gracias a Dios ocuparon sus puestos en el templo de Dios. Los líderes que me acompañaban y yo, nos colocamos"
+    },
+    {
+      "verse": 41,
+      "label": "41-42",
+      "char_start": 4046,
+      "char_end": 4286,
+      "text": "junto a varios sacerdotes que tocaban las trompetas. Entre ellos estaban: Eliaquim, Maaseías, Miniamín, Micaías, Elioenai, Zacarías, Hananías, Maaseías, Semaías, Eleazar, Uzí, Johanán, Malquías, Elam, Éser. Izrahías dirigía a los cantores."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4286,
+      "char_end": 4494,
+      "text": "Aquel día se ofrecieron muchos sacrificios, y todos nosotros, hombres, mujeres y niños, estuvimos muy contentos, pues Dios nos había llenado de alegría. El gozo que había en Jerusalén se oía desde muy lejos."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 4494,
+      "char_end": 4895,
+      "text": "En aquel tiempo nombramos a los encargados de las bodegas en donde se guardaban las provisiones para el templo de Dios, es decir, las ofrendas, los primeros frutos y los diezmos. Eran las porciones que llegaban de los campos de cada ciudad y que, según la ley, les correspondían a los sacerdotes y sus ayudantes. Los de Judá estaban satisfechos con la tarea que hacían los sacerdotes y sus ayudantes."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 4895,
+      "char_end": 5090,
+      "text": "Ellos, junto con los cantores y los vigilantes de las entradas, celebraban el culto a Dios y la ceremonia de la purificación, siguiendo las instrucciones que habían dado David y su hijo Salomón."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 5090,
+      "char_end": 5225,
+      "text": "Antiguamente, en los tiempos de David y Asaf, había un director de coro. Entonces se cantaban himnos para alabar y dar gracias a Dios."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 5225,
+      "char_end": 5500,
+      "text": "En los tiempos de Zorobabel y de Nehemías, todos los israelitas daban ofrendas para los cantores y los vigilantes de las entradas. También daban ofrendas para los ayudantes de los sacerdotes, y éstos apartaban lo que les correspondía a los sacerdotes descendientes de Aarón."
+    }
+  ],
+  "words": [
+    {
+      "word": "Ésta es la lista de los sacerdotes y ayudantes que regresaron de Babilonia con Zorobabel hijo de Salatiel, y con Josué.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7025,
+      "duration_ms": 6925
+    },
+    {
+      "word": "Los jefes de los sacerdotes de la época de Josué, que regresaron, son los siguientes: Seraías, Jeremías, Esdras, Amarías, Maluc, Hatús, Secanías, Rehúm, Meremot, Idó, Guinetón, Abías, Mijamín, Maadías, Bilgá, Semaías, Joiarib, Jedaías, Salú, Amoc, Hilquías, Jedaías.",
+      "verse": 1,
+      "start_ms": 6975,
+      "end_ms": 30362,
+      "duration_ms": 23387
+    },
+    {
+      "word": "Había dos coros encargados de los himnos de alabanza.",
+      "verse": 8,
+      "start_ms": 30362,
+      "end_ms": 34037,
+      "duration_ms": 3675
+    },
+    {
+      "word": "De los cantores que formaban el primer coro regresaron los siguientes: Josué, Binuy, Cadmiel, Serebías, Judá, Matanías.",
+      "verse": 8,
+      "start_ms": 34037,
+      "end_ms": 42887,
+      "duration_ms": 8850
+    },
+    {
+      "word": "Del segundo coro regresaron los siguientes: Bacbuquías, Uní y sus ayudantes.",
+      "verse": 8,
+      "start_ms": 42887,
+      "end_ms": 48449,
+      "duration_ms": 5562
+    },
+    {
+      "word": "Los antepasados del ayudante Josué fueron Joacín, Eliasib, Joiadá, Johanán y Jadúa.",
+      "verse": 10,
+      "start_ms": 48450,
+      "end_ms": 54850,
+      "duration_ms": 6400
+    },
+    {
+      "word": "En la época de Joacín éstos eran los jefes de las familias de los sacerdotes que regresaron: En la época de Eliasib, Joiadá, Johanán y Jadúa, había una lista de los jefes de familia de los sacerdotes y sus ayudantes.",
+      "verse": 12,
+      "start_ms": 54850,
+      "end_ms": 67550,
+      "duration_ms": 12700
+    },
+    {
+      "word": "La información de esa lista llegaba hasta el año en que Darío comenzó a reinar en Persia.",
+      "verse": 22,
+      "start_ms": 67550,
+      "end_ms": 72937,
+      "duration_ms": 5387
+    },
+    {
+      "word": "En la lista oficial estaban anotados los jefes de familia de los ayudantes de los sacerdotes, hasta la época de Johanán nieto de Eliasib.",
+      "verse": 23,
+      "start_ms": 72937,
+      "end_ms": 80862,
+      "duration_ms": 7925
+    },
+    {
+      "word": "Los ayudantes de los sacerdotes estaban divididos en dos coros, que eran dirigidos por Hasabías, Serebías, Josué, Binuy y Cadmiel, y sus asistentes.",
+      "verse": 24,
+      "start_ms": 80862,
+      "end_ms": 91137,
+      "duration_ms": 10275
+    },
+    {
+      "word": "Durante el culto, el coro principal cantaba una estrofa de un himno, y el otro coro respondía con otra estrofa.",
+      "verse": 24,
+      "start_ms": 91137,
+      "end_ms": 98324,
+      "duration_ms": 7187
+    },
+    {
+      "word": "Así alababan y daban gracias a Dios, según lo había mandado el rey David.",
+      "verse": 24,
+      "start_ms": 98325,
+      "end_ms": 103350,
+      "duration_ms": 5025
+    },
+    {
+      "word": "Los vigilantes de las entradas, que también cuidaban las bodegas de al lado, eran: Matanías, Bacbuquías, Abdías, Mesulam, Talmón y Acub.",
+      "verse": 25,
+      "start_ms": 103350,
+      "end_ms": 113362,
+      "duration_ms": 10012
+    },
+    {
+      "word": "Éstos vivieron en la misma época de Joacín hijo de Josué.",
+      "verse": 26,
+      "start_ms": 113362,
+      "end_ms": 117249,
+      "duration_ms": 3887
+    },
+    {
+      "word": "Era el tiempo cuando Nehemías gobernaba y el sacerdote Esdras era maestro.",
+      "verse": 26,
+      "start_ms": 117250,
+      "end_ms": 122150,
+      "duration_ms": 4900
+    },
+    {
+      "word": "Las familias de los cantores que se habían instalado alrededor de Jerusalén eran descendientes de Leví.",
+      "verse": 27,
+      "start_ms": 122150,
+      "end_ms": 128037,
+      "duration_ms": 5887
+    },
+    {
+      "word": "También se instalaron en las aldeas de Netofá, en el pueblito de Guilgal y en los campos de Gueba y Azmávet.",
+      "verse": 27,
+      "start_ms": 128037,
+      "end_ms": 134412,
+      "duration_ms": 6375
+    },
+    {
+      "word": "Para dedicar a Dios el muro de Jerusalén, los fueron a llamar para que participaran en la celebración.",
+      "verse": 27,
+      "start_ms": 134412,
+      "end_ms": 140487,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Ellos no sólo cantaban sino que también tocaban instrumentos musicales como platillos, arpas y liras.",
+      "verse": 27,
+      "start_ms": 140487,
+      "end_ms": 146999,
+      "duration_ms": 6512
+    },
+    {
+      "word": "Por eso los invitaron para que cantaran a Dios alegres himnos de gratitud.",
+      "verse": 27,
+      "start_ms": 147000,
+      "end_ms": 151612,
+      "duration_ms": 4612
+    },
+    {
+      "word": "Los sacerdotes y sus ayudantes realizaron la ceremonia de purificación, para que ellos mismos pudieran adorar a Dios, junto con todo el pueblo.",
+      "verse": 30,
+      "start_ms": 151612,
+      "end_ms": 160049,
+      "duration_ms": 8437
+    },
+    {
+      "word": "También purificaron las entradas de la ciudad y el muro de protección, para que Dios los aceptara con agrado.",
+      "verse": 30,
+      "start_ms": 160050,
+      "end_ms": 166437,
+      "duration_ms": 6387
+    },
+    {
+      "word": "Yo, Nehemías, les pedí a los líderes de Judá que se subieran al muro, y que formaran dos grandes grupos para que marcharan por el muro dando gracias a Dios.",
+      "verse": 31,
+      "start_ms": 166437,
+      "end_ms": 175962,
+      "duration_ms": 9525
+    },
+    {
+      "word": "También organicé dos coros.",
+      "verse": 31,
+      "start_ms": 175962,
+      "end_ms": 178612,
+      "duration_ms": 2650
+    },
+    {
+      "word": "Un coro marchó primero, hacia la derecha, como si fuera hacia la entrada del Basurero.",
+      "verse": 31,
+      "start_ms": 178612,
+      "end_ms": 184487,
+      "duration_ms": 5875
+    },
+    {
+      "word": "Detrás de ellos iba Hosaías, con el primer grupo de líderes, en el cual estaban: Azarías, Esdras, Mesulam, Judá, Benjamín, Semaías, Jeremías.",
+      "verse": 32,
+      "start_ms": 184487,
+      "end_ms": 195912,
+      "duration_ms": 11425
+    },
+    {
+      "word": "Los sacerdotes que los acompañaban eran todos miembros de una misma familia: Semaías, Azarel, Milalai, Guilalai, Maai, Natanael, Judá, Hananí, Zacarías.",
+      "verse": 35,
+      "start_ms": 195912,
+      "end_ms": 207762,
+      "duration_ms": 11850
+    },
+    {
+      "word": "Todos ellos tocaban trompetas, y otros instrumentos musicales inventados por David.",
+      "verse": 35,
+      "start_ms": 207762,
+      "end_ms": 213474,
+      "duration_ms": 5712
+    },
+    {
+      "word": "Los antepasados de Zacarías fueron: Jonatán, Semaías, Matanías, Micaías, Zacur, Asaf.",
+      "verse": 35,
+      "start_ms": 213475,
+      "end_ms": 221200,
+      "duration_ms": 7725
+    },
+    {
+      "word": "Delante de todos ellos iba el maestro Esdras.",
+      "verse": 35,
+      "start_ms": 221200,
+      "end_ms": 224887,
+      "duration_ms": 3687
+    },
+    {
+      "word": "Cuando llegaron a la entrada de la Fuente, siguieron por el muro, subieron las escaleras de la ciudad de Jerusalén, pasaron por el palacio de David y llegaron hasta la entrada del Agua, que está al este.",
+      "verse": 37,
+      "start_ms": 224887,
+      "end_ms": 236162,
+      "duration_ms": 11275
+    },
+    {
+      "word": "El otro coro marchó hacia la izquierda dando gracias a Dios, y yo iba detrás de ellos con el otro grupo de líderes.",
+      "verse": 38,
+      "start_ms": 236162,
+      "end_ms": 243462,
+      "duration_ms": 7300
+    },
+    {
+      "word": "Marchamos por el muro desde la torre de los Hornos hasta donde el muro se hace más ancho, pasando por la entrada de Efraín, la entrada de Jesaná, la de los Pescados, la torre de Hananel y la torre de los Cien, hasta la entrada de las Ovejas.",
+      "verse": 38,
+      "start_ms": 243462,
+      "end_ms": 257487,
+      "duration_ms": 14025
+    },
+    {
+      "word": "Nos detuvimos en la entrada de la Guardia.",
+      "verse": 39,
+      "start_ms": 257487,
+      "end_ms": 260449,
+      "duration_ms": 2962
+    },
+    {
+      "word": "Luego los dos coros que daban gracias a Dios ocuparon sus puestos en el templo",
+      "verse": 40,
+      "start_ms": 260450,
+      "end_ms": 265262,
+      "duration_ms": 4812
+    },
+    {
+      "word": "de Dios.",
+      "verse": 40,
+      "start_ms": 265420,
+      "end_ms": 267032,
+      "duration_ms": 1612
+    },
+    {
+      "word": "Los líderes que me acompañaban y yo, nos colocamos junto a varios sacerdotes que tocaban las trompetas.",
+      "verse": 40,
+      "start_ms": 266982,
+      "end_ms": 273382,
+      "duration_ms": 6400
+    },
+    {
+      "word": "Entre ellos estaban: Eliaquim, Maaseías, Miniamín, Micaías, Elioenai, Zacarías, Hananías, Maaseías, Semaías, Eleazar, Uzí, Johanán, Malquías, Elam, Éser.",
+      "verse": 41,
+      "start_ms": 273382,
+      "end_ms": 288719,
+      "duration_ms": 15337
+    },
+    {
+      "word": "Izrahías dirigía a los cantores.",
+      "verse": 41,
+      "start_ms": 288720,
+      "end_ms": 291795,
+      "duration_ms": 3075
+    },
+    {
+      "word": "Aquel día se ofrecieron muchos sacrificios, y todos nosotros, hombres, mujeres y niños, estuvimos muy contentos, pues Dios nos había llenado de alegría.",
+      "verse": 43,
+      "start_ms": 291795,
+      "end_ms": 302095,
+      "duration_ms": 10300
+    },
+    {
+      "word": "El gozo que había en Jerusalén se oía desde muy lejos.",
+      "verse": 43,
+      "start_ms": 302095,
+      "end_ms": 306082,
+      "duration_ms": 3987
+    },
+    {
+      "word": "En aquel tiempo nombramos a los encargados de las bodegas en donde se guardaban las provisiones para el templo de Dios, es decir, las ofrendas, los primeros frutos y los diezmos.",
+      "verse": 44,
+      "start_ms": 306082,
+      "end_ms": 316269,
+      "duration_ms": 10187
+    },
+    {
+      "word": "Eran las porciones que llegaban de los campos de cada ciudad y que, según la ley, les correspondían a los sacerdotes y sus ayudantes.",
+      "verse": 44,
+      "start_ms": 316270,
+      "end_ms": 324120,
+      "duration_ms": 7850
+    },
+    {
+      "word": "Los de Judá estaban satisfechos con la tarea que hacían los sacerdotes y sus ayudantes.",
+      "verse": 44,
+      "start_ms": 324120,
+      "end_ms": 329332,
+      "duration_ms": 5212
+    },
+    {
+      "word": "Ellos, junto con los cantores y los vigilantes de las entradas, celebraban el culto a Dios y la ceremonia de la purificación, siguiendo las instrucciones que habían dado David y su hijo Salomón.",
+      "verse": 45,
+      "start_ms": 329332,
+      "end_ms": 340544,
+      "duration_ms": 11212
+    },
+    {
+      "word": "Antiguamente, en los tiempos de David y Asaf, había un director de coro.",
+      "verse": 46,
+      "start_ms": 340545,
+      "end_ms": 345720,
+      "duration_ms": 5175
+    },
+    {
+      "word": "Entonces se cantaban himnos para alabar y dar gracias a Dios.",
+      "verse": 46,
+      "start_ms": 345720,
+      "end_ms": 349895,
+      "duration_ms": 4175
+    },
+    {
+      "word": "En los tiempos de Zorobabel y de Nehemías, todos los israelitas daban ofrendas para los cantores y los vigilantes de las entradas.",
+      "verse": 47,
+      "start_ms": 349895,
+      "end_ms": 357420,
+      "duration_ms": 7525
+    },
+    {
+      "word": "También daban ofrendas para los ayudantes de los sacerdotes, y éstos apartaban lo que les correspondía a los sacerdotes descendientes de Aarón.",
+      "verse": 47,
+      "start_ms": 357420,
+      "end_ms": 365332,
+      "duration_ms": 7912
+    }
+  ]
+}

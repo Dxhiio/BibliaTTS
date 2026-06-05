@@ -1,0 +1,180 @@
+{
+  "book": "SAL",
+  "chapter": 111,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 10,
+  "word_count": 14,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 101,
+      "text": "¡Alabemos a nuestro Dios! Ustedes, la gente honrada, únanse a mí para alabar a Dios de todo corazón."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 101,
+      "char_end": 206,
+      "text": "¡Grandes son las maravillas que Dios ha realizado! Grande es la alegría de los que se admiran al verlas."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 206,
+      "char_end": 329,
+      "text": "En todo lo que hace puede verse el esplendor y la grandeza que merece nuestro Dios y rey; su justicia es siempre la misma."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 329,
+      "char_end": 412,
+      "text": "Dios es muy tierno y bondadoso, y hace que sus maravillas sean siempre recordadas."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 412,
+      "char_end": 484,
+      "text": "Dios da de comer al pueblo que lo adora, y jamás se olvida de su pacto."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 484,
+      "char_end": 585,
+      "text": "Da a conocer a su pueblo sus actos poderosos, y le da en posesión los territorios de otras naciones."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 585,
+      "char_end": 655,
+      "text": "La ley de nuestro Dios es verdadera; podemos confiar en sus mandatos,"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 655,
+      "char_end": 722,
+      "text": "pues tienen valor permanente; nacen de la verdad y de la rectitud."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 722,
+      "char_end": 829,
+      "text": "Dios dio libertad a su pueblo; así afirmó su pacto eterno. ¡Imponente es el Dios de Israel; el único Dios!"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 829,
+      "char_end": 972,
+      "text": "Si alguien quiere ser sabio, que empiece por obedecer a Dios. Quienes lo hacen así, demuestran inteligencia. ¡Dios merece ser siempre alabado!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Alabemos a nuestro Dios!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 2475,
+      "duration_ms": 2375
+    },
+    {
+      "word": "Ustedes, la gente honrada, únanse a mí para alabar a Dios de todo corazón.",
+      "verse": 1,
+      "start_ms": 2425,
+      "end_ms": 8025,
+      "duration_ms": 5600
+    },
+    {
+      "word": "Grandes son las maravillas que Dios ha realizado!",
+      "verse": 2,
+      "start_ms": 8025,
+      "end_ms": 11500,
+      "duration_ms": 3475
+    },
+    {
+      "word": "Grande es la alegría de los que se admiran al verlas.",
+      "verse": 2,
+      "start_ms": 11500,
+      "end_ms": 15287,
+      "duration_ms": 3787
+    },
+    {
+      "word": "En todo lo que hace puede verse el esplendor y la grandeza que merece nuestro Dios y rey; su justicia es siempre la misma.",
+      "verse": 3,
+      "start_ms": 15287,
+      "end_ms": 22474,
+      "duration_ms": 7187
+    },
+    {
+      "word": "Dios es muy tierno y bondadoso, y hace que sus maravillas sean siempre recordadas.",
+      "verse": 4,
+      "start_ms": 22475,
+      "end_ms": 28062,
+      "duration_ms": 5587
+    },
+    {
+      "word": "Dios da de comer al pueblo que lo adora, y jamás se olvida de su pacto.",
+      "verse": 5,
+      "start_ms": 28062,
+      "end_ms": 32824,
+      "duration_ms": 4762
+    },
+    {
+      "word": "Da a conocer a su pueblo sus actos poderosos, y le da en posesión los territorios de otras naciones.",
+      "verse": 6,
+      "start_ms": 32825,
+      "end_ms": 39387,
+      "duration_ms": 6562
+    },
+    {
+      "word": "La ley de nuestro Dios es verdadera; podemos confiar en sus mandatos, pues tienen valor permanente; nacen de la verdad y de la rectitud.",
+      "verse": 7,
+      "start_ms": 39387,
+      "end_ms": 47849,
+      "duration_ms": 8462
+    },
+    {
+      "word": "Dios dio libertad a su pueblo; así afirmó su pacto eterno.",
+      "verse": 9,
+      "start_ms": 47850,
+      "end_ms": 52362,
+      "duration_ms": 4512
+    },
+    {
+      "word": "Imponente es el Dios de Israel; el único Dios!",
+      "verse": 9,
+      "start_ms": 52362,
+      "end_ms": 56274,
+      "duration_ms": 3912
+    },
+    {
+      "word": "Si alguien quiere ser sabio, que empiece por obedecer a Dios.",
+      "verse": 10,
+      "start_ms": 56275,
+      "end_ms": 60562,
+      "duration_ms": 4287
+    },
+    {
+      "word": "Quienes lo hacen así, demuestran inteligencia.",
+      "verse": 10,
+      "start_ms": 60562,
+      "end_ms": 64324,
+      "duration_ms": 3762
+    },
+    {
+      "word": "Dios merece ser siempre alabado!",
+      "verse": 10,
+      "start_ms": 64325,
+      "end_ms": 66987,
+      "duration_ms": 2662
+    }
+  ]
+}

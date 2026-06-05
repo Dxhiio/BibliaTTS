@@ -1,0 +1,502 @@
+{
+  "book": "JOB",
+  "chapter": 31,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 35,
+  "word_count": 35,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 63,
+      "text": "Yo siempre me propuse no mirar con deseos a ninguna jovencita."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 63,
+      "char_end": 97,
+      "text": "¿Y qué recibí del Dios del cielo?"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 97,
+      "char_end": 159,
+      "text": "¡Tan sólo la ruina y el desastre que merecen los malhechores!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 159,
+      "char_end": 216,
+      "text": "¡Tal parece que Dios no me ve ni se fija en lo que hago!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 216,
+      "char_end": 274,
+      "text": "Yo nunca he hecho nada malo. Nunca a nadie le he mentido."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 274,
+      "char_end": 328,
+      "text": "¡Que Dios me ponga a prueba, y verá que soy inocente!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 328,
+      "char_end": 444,
+      "text": "Nunca me aparté del buen camino, ni me dejé llevar por mis deseos. Si se encuentra en mis manos alguna cosa robada,"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 444,
+      "char_end": 507,
+      "text": "¡que otros disfruten mis cosechas, y se queden con mis campos!"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 507,
+      "char_end": 584,
+      "text": "Si acaso he esperado que se vaya mi vecino para estar a solas con su esposa,"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 584,
+      "char_end": 642,
+      "text": "¡que mi esposa se convierta en esclava y amante de otros!"
+    },
+    {
+      "verse": 11,
+      "label": "11-12",
+      "char_start": 642,
+      "char_end": 756,
+      "text": "Eso sería una vergüenza. Sería un terrible castigo, ¡peor que si un incendio destructor acabara con mis cosechas!"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 756,
+      "char_end": 829,
+      "text": "Cuando mis esclavos me hacían algún reclamo siempre fui justo con ellos."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 829,
+      "char_end": 903,
+      "text": "De otra manera, ¿cómo podría responder a Dios si él me llamara a cuentas?"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 903,
+      "char_end": 951,
+      "text": "¡Tanto a ellos como a mí Dios nos hizo iguales!"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 951,
+      "char_end": 1058,
+      "text": "Jamás he dejado de atender los ruegos de los pobres; jamás he dejado que las viudas se desmayen de hambre;"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1058,
+      "char_end": 1120,
+      "text": "jamás he probado un bocado sin compartirlo con los huérfanos."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1120,
+      "char_end": 1196,
+      "text": "Desde mi más temprana edad, siempre he sido el apoyo de huérfanos y viudas;"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1196,
+      "char_end": 1253,
+      "text": "jamás he dejado que los pobres mueran por falta de ropa."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1253,
+      "char_end": 1308,
+      "text": "Muchos me agradecieron el abrigarlos con ropa de lana."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1308,
+      "char_end": 1367,
+      "text": "Nunca abusé de mi autoridad para amenazar a los huérfanos."
+    },
+    {
+      "verse": 22,
+      "label": "22-23",
+      "char_start": 1367,
+      "char_end": 1489,
+      "text": "¡No quiero que Dios me castigue! ¡No podría resistir su poder! Pero si acaso he actuado así, ¡que me quede yo sin brazos!"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1489,
+      "char_end": 1547,
+      "text": "Jamás he puesto mi confianza en el poder de las riquezas;"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1547,
+      "char_end": 1602,
+      "text": "jamás las muchas riquezas me fueron motivo de orgullo."
+    },
+    {
+      "verse": 26,
+      "label": "26-27",
+      "char_start": 1602,
+      "char_end": 1710,
+      "text": "El sol y la luna son dos astros maravillosos, pero jamás les he rendido culto, ni en público ni en secreto."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 1710,
+      "char_end": 1793,
+      "text": "Si hubiera cometido tal pecado, Dios tendría que juzgarme por haberlo traicionado."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 1793,
+      "char_end": 1849,
+      "text": "Jamás me he alegrado de ver la desgracia de mi enemigo;"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 1849,
+      "char_end": 1903,
+      "text": "jamás he cometido el pecado de pedir que le vaya mal;"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 1903,
+      "char_end": 1963,
+      "text": "jamás nadie visitó mi casa sin calmar su hambre en mi mesa;"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 1963,
+      "char_end": 2032,
+      "text": "jamás un extraño tocó a mi puerta sin ser invitado a pasar la noche;"
+    },
+    {
+      "verse": 33,
+      "label": "33-34",
+      "char_start": 2032,
+      "char_end": 2165,
+      "text": "a diferencia de otros, jamás he guardado en secreto ninguno de mis pecados, y no por miedo a mis parientes o por temor al qué dirán."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 2165,
+      "char_end": 2302,
+      "text": "Juro que digo la verdad. ¡Espero que el Dios todopoderoso me escuche y me responda! Si de algo puede acusarme, que lo ponga por escrito."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 2302,
+      "char_end": 2354,
+      "text": "Llevaré su acusación en los hombros y en la frente."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 2354,
+      "char_end": 2432,
+      "text": "Me presentaré ante Dios con la frente en alto, y le daré cuenta de mis actos."
+    },
+    {
+      "verse": 38,
+      "label": "38-39",
+      "char_start": 2432,
+      "char_end": 2570,
+      "text": "Jamás he abusado de mis tierras, pues las he dejado descansar. Jamás he explotado a mis trabajadores pues les he pagado su justo salario."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 2570,
+      "char_end": 2705,
+      "text": "Si lo que digo no es cierto, ¡que en vez de trigo y cebada produzca mi tierra espinas! Así fue como Job dio por terminado su discurso."
+    }
+  ],
+  "words": [
+    {
+      "word": "Yo siempre me propuse no mirar con deseos a ninguna jovencita.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4400,
+      "duration_ms": 4300
+    },
+    {
+      "word": "Y qué recibí del Dios del cielo?",
+      "verse": 2,
+      "start_ms": 4350,
+      "end_ms": 7000,
+      "duration_ms": 2650
+    },
+    {
+      "word": "Tan sólo la ruina y el desastre que merecen los malhechores!",
+      "verse": 3,
+      "start_ms": 7000,
+      "end_ms": 11125,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Tal parece que Dios no me ve ni se fija en lo que hago!",
+      "verse": 4,
+      "start_ms": 11125,
+      "end_ms": 14537,
+      "duration_ms": 3412
+    },
+    {
+      "word": "Yo nunca he hecho nada malo.",
+      "verse": 5,
+      "start_ms": 14537,
+      "end_ms": 17274,
+      "duration_ms": 2737
+    },
+    {
+      "word": "Nunca a nadie le he mentido.",
+      "verse": 5,
+      "start_ms": 17275,
+      "end_ms": 20050,
+      "duration_ms": 2775
+    },
+    {
+      "word": "Que Dios me ponga a prueba, y verá que soy inocente!",
+      "verse": 6,
+      "start_ms": 20050,
+      "end_ms": 23912,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Nunca me aparté del buen camino, ni me dejé llevar por mis deseos.",
+      "verse": 7,
+      "start_ms": 23912,
+      "end_ms": 28599,
+      "duration_ms": 4687
+    },
+    {
+      "word": "Si se encuentra en mis manos alguna cosa robada, ¡que otros disfruten mis cosechas, y se queden con mis campos!",
+      "verse": 7,
+      "start_ms": 28600,
+      "end_ms": 35550,
+      "duration_ms": 6950
+    },
+    {
+      "word": "Si acaso he esperado que se vaya mi vecino para estar a solas con su esposa, ¡que mi esposa se convierta en esclava y amante de otros!",
+      "verse": 9,
+      "start_ms": 35550,
+      "end_ms": 43450,
+      "duration_ms": 7900
+    },
+    {
+      "word": "Eso sería una vergüenza.",
+      "verse": 11,
+      "start_ms": 43450,
+      "end_ms": 45912,
+      "duration_ms": 2462
+    },
+    {
+      "word": "Sería un terrible castigo, ¡peor que si un incendio destructor acabara con mis cosechas!",
+      "verse": 11,
+      "start_ms": 45912,
+      "end_ms": 51612,
+      "duration_ms": 5700
+    },
+    {
+      "word": "Cuando mis esclavos me hacían algún reclamo siempre fui justo con ellos.",
+      "verse": 13,
+      "start_ms": 51612,
+      "end_ms": 56174,
+      "duration_ms": 4562
+    },
+    {
+      "word": "De otra manera, ¿cómo podría responder a Dios si él me llamara a cuentas?",
+      "verse": 14,
+      "start_ms": 56175,
+      "end_ms": 61112,
+      "duration_ms": 4937
+    },
+    {
+      "word": "Tanto a ellos como a mí Dios nos hizo iguales!",
+      "verse": 15,
+      "start_ms": 61112,
+      "end_ms": 64412,
+      "duration_ms": 3300
+    },
+    {
+      "word": "Jamás he dejado de atender los ruegos de los pobres; jamás he dejado que las viudas se desmayen de hambre; jamás he probado un bocado sin compartirlo con los huérfanos.",
+      "verse": 16,
+      "start_ms": 64412,
+      "end_ms": 74149,
+      "duration_ms": 9737
+    },
+    {
+      "word": "Desde mi más temprana edad, siempre he sido el apoyo de huérfanos y viudas; jamás he dejado que los pobres mueran por falta de ropa.",
+      "verse": 18,
+      "start_ms": 74150,
+      "end_ms": 82262,
+      "duration_ms": 8112
+    },
+    {
+      "word": "Muchos me agradecieron el abrigarlos con ropa de lana.",
+      "verse": 20,
+      "start_ms": 82262,
+      "end_ms": 85899,
+      "duration_ms": 3637
+    },
+    {
+      "word": "Nunca abusé de mi autoridad para amenazar a los huérfanos.",
+      "verse": 21,
+      "start_ms": 85900,
+      "end_ms": 90037,
+      "duration_ms": 4137
+    },
+    {
+      "word": "No quiero que Dios me castigue!",
+      "verse": 22,
+      "start_ms": 90037,
+      "end_ms": 92474,
+      "duration_ms": 2437
+    },
+    {
+      "word": "No podría resistir su poder!",
+      "verse": 22,
+      "start_ms": 92475,
+      "end_ms": 95087,
+      "duration_ms": 2612
+    },
+    {
+      "word": "Pero si acaso he actuado así, ¡que me quede yo sin brazos!",
+      "verse": 22,
+      "start_ms": 95087,
+      "end_ms": 99262,
+      "duration_ms": 4175
+    },
+    {
+      "word": "Jamás he puesto mi confianza en el poder de las riquezas; jamás las muchas riquezas me fueron motivo de orgullo.",
+      "verse": 24,
+      "start_ms": 99262,
+      "end_ms": 105974,
+      "duration_ms": 6712
+    },
+    {
+      "word": "El sol y la luna son dos astros maravillosos, pero jamás les he rendido culto, ni en público ni en secreto.",
+      "verse": 26,
+      "start_ms": 105975,
+      "end_ms": 113300,
+      "duration_ms": 7325
+    },
+    {
+      "word": "Si hubiera cometido tal pecado, Dios tendría que juzgarme por haberlo traicionado.",
+      "verse": 28,
+      "start_ms": 113300,
+      "end_ms": 118675,
+      "duration_ms": 5375
+    },
+    {
+      "word": "Jamás me he alegrado de ver la desgracia de mi enemigo; jamás he cometido el pecado de pedir que le vaya mal; jamás nadie visitó mi casa sin calmar su hambre en mi mesa; jamás un extraño tocó a mi puerta sin ser invitado a pasar la noche; a diferencia de otros, jamás he guardado en secreto ninguno de mis pecados, y no por miedo a mis parientes o por temor al qué dirán.",
+      "verse": 29,
+      "start_ms": 118675,
+      "end_ms": 139750,
+      "duration_ms": 21075
+    },
+    {
+      "word": "Juro que digo la verdad.",
+      "verse": 35,
+      "start_ms": 139750,
+      "end_ms": 142012,
+      "duration_ms": 2262
+    },
+    {
+      "word": "Espero que el Dios todopoderoso me escuche y me responda!",
+      "verse": 35,
+      "start_ms": 142012,
+      "end_ms": 145962,
+      "duration_ms": 3950
+    },
+    {
+      "word": "Si de algo puede acusarme, que lo ponga por escrito.",
+      "verse": 35,
+      "start_ms": 145962,
+      "end_ms": 149824,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Llevaré su acusación en los hombros y en la frente.",
+      "verse": 36,
+      "start_ms": 149825,
+      "end_ms": 153137,
+      "duration_ms": 3312
+    },
+    {
+      "word": "Me presentaré ante Dios con la frente en alto, y le daré cuenta de mis actos.",
+      "verse": 37,
+      "start_ms": 153137,
+      "end_ms": 158287,
+      "duration_ms": 5150
+    },
+    {
+      "word": "Jamás he abusado de mis tierras, pues las he dejado descansar.",
+      "verse": 38,
+      "start_ms": 158287,
+      "end_ms": 162987,
+      "duration_ms": 4700
+    },
+    {
+      "word": "Jamás he explotado a mis trabajadores pues les he pagado su justo salario.",
+      "verse": 38,
+      "start_ms": 162987,
+      "end_ms": 167862,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Si lo que digo no es cierto, ¡que en vez de trigo y cebada produzca mi tierra espinas!",
+      "verse": 40,
+      "start_ms": 167862,
+      "end_ms": 173149,
+      "duration_ms": 5287
+    },
+    {
+      "word": "Así fue como Job dio por terminado su discurso.",
+      "verse": 40,
+      "start_ms": 173150,
+      "end_ms": 176712,
+      "duration_ms": 3562
+    }
+  ]
+}

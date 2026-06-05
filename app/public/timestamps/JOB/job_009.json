@@ -1,0 +1,495 @@
+{
+  "book": "JOB",
+  "chapter": 9,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 33,
+  "word_count": 36,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 28,
+      "text": "Al oír esto, Job respondió:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 28,
+      "char_end": 110,
+      "text": "¡Ese cuento ya lo conozco! Yo sé bien que ante Dios nadie puede alegar inocencia,"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 110,
+      "char_end": 203,
+      "text": "ni puede tampoco discutir con él. Dios puede hacer mil preguntas, y nadie puede responderle."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 203,
+      "char_end": 316,
+      "text": "¿Quién puede desafiar a Dios y esperar salir victorioso? Su sabiduría es muy profunda, y su poder es muy grande."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 316,
+      "char_end": 395,
+      "text": "Cuando Dios se enoja, cambia de lugar las montañas sin que nadie se dé cuenta;"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 395,
+      "char_end": 467,
+      "text": "también cambia de lugar a la tierra, y la hace temblar hasta sus bases."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 467,
+      "char_end": 541,
+      "text": "Reprende al sol, y el sol no sale; también apaga la luz de las estrellas."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 541,
+      "char_end": 598,
+      "text": "Con su poder extiende el cielo y calma las olas del mar."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 598,
+      "char_end": 720,
+      "text": "Dios creó todas las estrellas, y las agrupó en constelaciones: la Osa Mayor, la Cruz del Sur, Orión y las Siete Cabritas."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 720,
+      "char_end": 815,
+      "text": "Dios hace cosas tan maravillosas que es muy difícil comprenderlas, y más aún, hablar de ellas."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 815,
+      "char_end": 909,
+      "text": "Si Dios pasara junto a mí, me sería imposible verlo; si se alejara de mí, no me daría cuenta."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 909,
+      "char_end": 969,
+      "text": "Si quisiera tomar algo, ¿quién podría ordenarle no hacerlo?"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 969,
+      "char_end": 1034,
+      "text": "Cuando Dios se enoja, hasta el mar y sus olas se rinden ante él."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1034,
+      "char_end": 1081,
+      "text": "Si esto es así, ¿cómo voy a poder responderle?"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1081,
+      "char_end": 1188,
+      "text": "A pesar de que soy inocente, ante Dios no me puedo defender; sólo puedo suplicarle que me tenga compasión."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1188,
+      "char_end": 1259,
+      "text": "Si lo llamara, y él me respondiera, no creo que me prestaría atención."
+    },
+    {
+      "verse": 17,
+      "label": "17-18",
+      "char_start": 1259,
+      "char_end": 1411,
+      "text": "¡Al contrario! ¡Por la cosa más simple aumentaría mis heridas y no me dejaría ni respirar! ¡Me llenaría de amargura y con una tormenta me despedazaría!"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1411,
+      "char_end": 1533,
+      "text": "Si de comparar fuerzas se trata, ¡Dios es más poderoso! Y si le abriera un juicio, ¿quién podría obligarlo a presentarse?"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1533,
+      "char_end": 1603,
+      "text": "¡Aunque no he hecho nada malo, mi boca me condena y resulto culpable!"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1603,
+      "char_end": 1691,
+      "text": "No tengo nada de qué arrepentirme, pero eso ya no importa; ¡estoy cansado de esta vida!"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1691,
+      "char_end": 1796,
+      "text": "En todo caso, da lo mismo. Por eso puedo afirmar que Dios destruye por igual a los buenos y a los malos."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1796,
+      "char_end": 1917,
+      "text": "Y si alguna enfermedad provoca que la gente muera de pronto, Dios se burla de la angustia de los que nada malo hicieron."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1917,
+      "char_end": 2016,
+      "text": "Cuando algún malvado se apodera de un terreno, es Dios mismo quien les tapa los ojos a los jueces."
+    },
+    {
+      "verse": 25,
+      "label": "25-26",
+      "char_start": 2016,
+      "char_end": 2233,
+      "text": "La vida se me escapa con la rapidez del rayo. Mis días pasan como el águila cuando se lanza sobre su presa. El tiempo es como un barco que se pierde en la distancia, y yo aquí estoy, sin saber lo que es la felicidad."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2233,
+      "char_end": 2300,
+      "text": "A veces pienso en olvidarlo todo, en cambiar de actitud y sonreír;"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2300,
+      "char_end": 2386,
+      "text": "pero me asusto de tanto sufrimiento, pues sé bien que ante Dios, no resulto inocente."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2386,
+      "char_end": 2450,
+      "text": "Y si él me considera culpable, ¿qué caso tiene seguir luchando?"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2450,
+      "char_end": 2503,
+      "text": "Aunque me lave con jabón las manos y todo el cuerpo,"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2503,
+      "char_end": 2564,
+      "text": "Dios me arrojará al basurero, ¡y no habrá ropa que me cubra!"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2564,
+      "char_end": 2644,
+      "text": "¿Cómo puedo atreverme a citar a Dios ante un tribunal, si soy un simple mortal?"
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 2644,
+      "char_end": 2708,
+      "text": "¿Qué juez en este mundo podría dictar sentencia entre nosotros?"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 2708,
+      "char_end": 2774,
+      "text": "Si alguien pudiera quitarme el miedo de sufrir el castigo divino,"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 2774,
+      "char_end": 2828,
+      "text": "podría hablar sin temor; pero en verdad, tengo miedo."
+    }
+  ],
+  "words": [
+    {
+      "word": "Al oír esto, Job respondió: ¡Ese cuento ya lo conozco!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4475,
+      "duration_ms": 4375
+    },
+    {
+      "word": "Yo sé bien que ante Dios nadie puede alegar inocencia, ni puede tampoco discutir con él.",
+      "verse": 2,
+      "start_ms": 4425,
+      "end_ms": 10125,
+      "duration_ms": 5700
+    },
+    {
+      "word": "Dios puede hacer mil preguntas, y nadie puede responderle.",
+      "verse": 3,
+      "start_ms": 10125,
+      "end_ms": 14525,
+      "duration_ms": 4400
+    },
+    {
+      "word": "Quién puede desafiar a Dios y esperar salir victorioso?",
+      "verse": 4,
+      "start_ms": 14525,
+      "end_ms": 18537,
+      "duration_ms": 4012
+    },
+    {
+      "word": "Su sabiduría es muy profunda, y su poder es muy grande.",
+      "verse": 4,
+      "start_ms": 18537,
+      "end_ms": 22749,
+      "duration_ms": 4212
+    },
+    {
+      "word": "Cuando Dios se enoja, cambia de lugar las montañas sin que nadie se dé cuenta; también cambia de lugar a la tierra, y la hace temblar hasta sus bases.",
+      "verse": 5,
+      "start_ms": 22750,
+      "end_ms": 31687,
+      "duration_ms": 8937
+    },
+    {
+      "word": "Reprende al sol, y el sol no sale; también apaga la luz de las estrellas.",
+      "verse": 7,
+      "start_ms": 31687,
+      "end_ms": 37162,
+      "duration_ms": 5475
+    },
+    {
+      "word": "Con su poder extiende el cielo y calma las olas del mar.",
+      "verse": 8,
+      "start_ms": 37162,
+      "end_ms": 41037,
+      "duration_ms": 3875
+    },
+    {
+      "word": "Dios creó todas las estrellas, y las agrupó en constelaciones: la Osa Mayor, la Cruz del Sur, Orión y las Siete Cabritas.",
+      "verse": 9,
+      "start_ms": 41037,
+      "end_ms": 49824,
+      "duration_ms": 8787
+    },
+    {
+      "word": "Dios hace cosas tan maravillosas que es muy difícil comprenderlas, y más aún, hablar de ellas.",
+      "verse": 10,
+      "start_ms": 49825,
+      "end_ms": 56400,
+      "duration_ms": 6575
+    },
+    {
+      "word": "Si Dios pasara junto a mí, me sería imposible verlo; si se alejara de mí, no me daría cuenta.",
+      "verse": 11,
+      "start_ms": 56400,
+      "end_ms": 63000,
+      "duration_ms": 6600
+    },
+    {
+      "word": "Si quisiera tomar algo, ¿quién podría ordenarle no hacerlo?",
+      "verse": 12,
+      "start_ms": 63000,
+      "end_ms": 67325,
+      "duration_ms": 4325
+    },
+    {
+      "word": "Cuando Dios se enoja, hasta el mar y sus olas se rinden ante él.",
+      "verse": 13,
+      "start_ms": 67325,
+      "end_ms": 71725,
+      "duration_ms": 4400
+    },
+    {
+      "word": "Si esto es así, ¿cómo voy a poder responderle?",
+      "verse": 14,
+      "start_ms": 71725,
+      "end_ms": 75462,
+      "duration_ms": 3737
+    },
+    {
+      "word": "A pesar de que soy inocente, ante Dios no me puedo defender; sólo puedo suplicarle que me tenga compasión.",
+      "verse": 15,
+      "start_ms": 75462,
+      "end_ms": 82537,
+      "duration_ms": 7075
+    },
+    {
+      "word": "Si lo llamara, y él me respondiera, no creo que me prestaría atención.",
+      "verse": 16,
+      "start_ms": 82537,
+      "end_ms": 87587,
+      "duration_ms": 5050
+    },
+    {
+      "word": "Al contrario!",
+      "verse": 17,
+      "start_ms": 87587,
+      "end_ms": 89237,
+      "duration_ms": 1650
+    },
+    {
+      "word": "Por la cosa más simple aumentaría mis heridas y no me dejaría ni respirar!",
+      "verse": 17,
+      "start_ms": 89237,
+      "end_ms": 93924,
+      "duration_ms": 4687
+    },
+    {
+      "word": "Me llenaría de amargura y con una tormenta me despedazaría!",
+      "verse": 17,
+      "start_ms": 93925,
+      "end_ms": 97900,
+      "duration_ms": 3975
+    },
+    {
+      "word": "Si de comparar fuerzas se trata, ¡Dios es más poderoso!",
+      "verse": 19,
+      "start_ms": 97900,
+      "end_ms": 101975,
+      "duration_ms": 4075
+    },
+    {
+      "word": "Y si le abriera un juicio, ¿quién podría obligarlo a presentarse?",
+      "verse": 19,
+      "start_ms": 101975,
+      "end_ms": 106400,
+      "duration_ms": 4425
+    },
+    {
+      "word": "Aunque no he hecho nada malo, mi boca me condena y resulto culpable!",
+      "verse": 20,
+      "start_ms": 106400,
+      "end_ms": 111187,
+      "duration_ms": 4787
+    },
+    {
+      "word": "No tengo nada de qué arrepentirme, pero eso ya no importa; ¡estoy cansado de esta vida!",
+      "verse": 21,
+      "start_ms": 111187,
+      "end_ms": 117099,
+      "duration_ms": 5912
+    },
+    {
+      "word": "En todo caso, da lo mismo.",
+      "verse": 22,
+      "start_ms": 117100,
+      "end_ms": 119862,
+      "duration_ms": 2762
+    },
+    {
+      "word": "Por eso puedo afirmar que Dios destruye por igual a los buenos y a los malos.",
+      "verse": 22,
+      "start_ms": 119862,
+      "end_ms": 124549,
+      "duration_ms": 4687
+    },
+    {
+      "word": "Y si alguna enfermedad provoca que la gente muera de pronto, Dios se burla de la angustia de los que nada malo hicieron.",
+      "verse": 23,
+      "start_ms": 124550,
+      "end_ms": 131525,
+      "duration_ms": 6975
+    },
+    {
+      "word": "Cuando algún malvado se apodera de un terreno, es Dios mismo quien les tapa los ojos a los jueces.",
+      "verse": 24,
+      "start_ms": 131525,
+      "end_ms": 137587,
+      "duration_ms": 6062
+    },
+    {
+      "word": "La vida se me escapa con la rapidez del rayo.",
+      "verse": 25,
+      "start_ms": 137587,
+      "end_ms": 140799,
+      "duration_ms": 3212
+    },
+    {
+      "word": "Mis días pasan como el águila cuando se lanza sobre su presa.",
+      "verse": 25,
+      "start_ms": 140800,
+      "end_ms": 144900,
+      "duration_ms": 4100
+    },
+    {
+      "word": "El tiempo es como un barco que se pierde en la distancia, y yo aquí estoy, sin saber lo que es la felicidad.",
+      "verse": 25,
+      "start_ms": 144900,
+      "end_ms": 151687,
+      "duration_ms": 6787
+    },
+    {
+      "word": "A veces pienso en olvidarlo todo, en cambiar de actitud y sonreír; pero me asusto de tanto sufrimiento, pues sé bien que ante Dios, no resulto inocente.",
+      "verse": 27,
+      "start_ms": 151687,
+      "end_ms": 161374,
+      "duration_ms": 9687
+    },
+    {
+      "word": "Y si él me considera culpable, ¿qué caso tiene seguir luchando?",
+      "verse": 29,
+      "start_ms": 161375,
+      "end_ms": 165875,
+      "duration_ms": 4500
+    },
+    {
+      "word": "Aunque me lave con jabón las manos y todo el cuerpo, Dios me arrojará al basurero, ¡y no habrá ropa que me cubra!",
+      "verse": 30,
+      "start_ms": 165875,
+      "end_ms": 172787,
+      "duration_ms": 6912
+    },
+    {
+      "word": "Cómo puedo atreverme a citar a Dios ante un tribunal, si soy un simple mortal?",
+      "verse": 32,
+      "start_ms": 172787,
+      "end_ms": 178124,
+      "duration_ms": 5337
+    },
+    {
+      "word": "Qué juez en este mundo podría dictar sentencia entre nosotros?",
+      "verse": 33,
+      "start_ms": 178125,
+      "end_ms": 182412,
+      "duration_ms": 4287
+    },
+    {
+      "word": "Si alguien pudiera quitarme el miedo de sufrir el castigo divino, podría hablar sin temor; pero en verdad, tengo miedo.",
+      "verse": 34,
+      "start_ms": 182412,
+      "end_ms": 190112,
+      "duration_ms": 7700
+    }
+  ]
+}

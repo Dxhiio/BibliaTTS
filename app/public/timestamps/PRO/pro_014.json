@@ -1,0 +1,502 @@
+{
+  "book": "PRO",
+  "chapter": 14,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 35,
+  "word_count": 35,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 62,
+      "text": "La mujer sabia une a su familia; la mujer tonta la desbarata."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 62,
+      "char_end": 126,
+      "text": "La gente honrada obedece a Dios; la gente malvada lo desprecia."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 126,
+      "char_end": 195,
+      "text": "Es de tontos hablar con orgullo; es de sabios ser de pocas palabras."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 195,
+      "char_end": 300,
+      "text": "Sin las herramientas apropiadas, el trabajo no da fruto; con buenas herramientas se saca mejor provecho."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 300,
+      "char_end": 377,
+      "text": "El testigo verdadero dice la verdad; el testigo falso siempre dice mentiras."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 377,
+      "char_end": 493,
+      "text": "El malcriado quisiera ser sabio, pero jamás llegará a serlo; en cambio, el entendido muy pronto gana conocimientos."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 493,
+      "char_end": 552,
+      "text": "Aléjate de los tontos, que nunca aprenderás nada de ellos."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 552,
+      "char_end": 666,
+      "text": "El que es sabio lo demuestra en que piensa bien lo que hace, pero el tonto vive engañado por su propia estupidez."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 666,
+      "char_end": 766,
+      "text": "A los necios no les importa si Dios los perdona o no, pero la gente buena quiere el perdón de Dios."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 766,
+      "char_end": 830,
+      "text": "Nadie más que tú conoce realmente tus tristezas y tus alegrías."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 830,
+      "char_end": 905,
+      "text": "La familia del malvado será destruida, pero el hogar del bueno prosperará."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 905,
+      "char_end": 1004,
+      "text": "Hay cosas que hacemos que nos parecen correctas, pero que al fin de cuentas nos llevan a la tumba."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1004,
+      "char_end": 1068,
+      "text": "La mucha risa causa dolor; hay alegrías que acaban en tristeza."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1068,
+      "char_end": 1163,
+      "text": "La gente tonta es feliz con su mala conducta; la gente buena es feliz con sus buenas acciones."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1163,
+      "char_end": 1249,
+      "text": "La gente tonta cree todo lo que le dicen; la gente sabia piensa bien antes de actuar."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1249,
+      "char_end": 1347,
+      "text": "El sabio conoce el miedo y se cuida del peligro, pero el tonto es atrevido y se pasa de confiado."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1347,
+      "char_end": 1451,
+      "text": "El que pronto se enoja pronto hace tonterías, pero el que piensa en lo que hace muestra gran paciencia."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1451,
+      "char_end": 1558,
+      "text": "La recompensa de los tontos es su propia estupidez; el premio de los sabios consiste en saber cómo actuar."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1558,
+      "char_end": 1610,
+      "text": "Los malvados no resisten la justicia de los buenos."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1610,
+      "char_end": 1691,
+      "text": "Si eres pobre, ni tus amigos te buscan; si eres rico, todo el mundo es tu amigo."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1691,
+      "char_end": 1771,
+      "text": "No debes despreciar al amigo; ¡si eres bueno con los pobres, Dios te bendecirá!"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1771,
+      "char_end": 1887,
+      "text": "Los que piensan hacer lo malo cometen un grave error; los que procuran hacer lo bueno reciben el gran amor de Dios."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1887,
+      "char_end": 1964,
+      "text": "Todo esfuerzo vale la pena, pero quien habla y no actúa acaba en la pobreza."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1964,
+      "char_end": 2040,
+      "text": "La riqueza del sabio es su sabiduría; la pobreza del tonto es su estupidez."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2040,
+      "char_end": 2128,
+      "text": "El testigo que dice la verdad salva a otros de la muerte, pero hay testigos mentirosos."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2128,
+      "char_end": 2207,
+      "text": "El que obedece a Dios ya tiene un poderoso protector para él y para sus hijos."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2207,
+      "char_end": 2273,
+      "text": "El que obedece a Dios tiene larga vida; ha escapado de la muerte."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2273,
+      "char_end": 2383,
+      "text": "Para el rey es un orgullo gobernar a un pueblo numeroso; ¡qué vergüenza es para él no tener a quién gobernar!"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2383,
+      "char_end": 2444,
+      "text": "El sabio domina su enojo; el tonto no controla su violencia."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2444,
+      "char_end": 2516,
+      "text": "Mente sana en cuerpo sano; por eso la envidia te destruye por completo."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2516,
+      "char_end": 2614,
+      "text": "Quien le quita todo al pobre ofende a Dios, su creador; quien obedece a Dios trata bien al pobre."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2614,
+      "char_end": 2701,
+      "text": "El malvado fracasa por su maldad; pero el hombre bueno confía en Dios hasta la muerte."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 2701,
+      "char_end": 2794,
+      "text": "En la mente del sabio hay lugar para la sabiduría; pero la gente tonta no llega a conocerla."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 2794,
+      "char_end": 2896,
+      "text": "El orgullo de un pueblo es que se haga justicia; la desgracia de los pueblos es que se cometa pecado."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 2896,
+      "char_end": 2997,
+      "text": "El ayudante inteligente se gana el aprecio del jefe, pero el empleado sinvergüenza provoca su enojo."
+    }
+  ],
+  "words": [
+    {
+      "word": "La mujer sabia une a su familia; la mujer tonta la desbarata.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4737,
+      "duration_ms": 4637
+    },
+    {
+      "word": "La gente honrada obedece a Dios; la gente malvada lo desprecia.",
+      "verse": 2,
+      "start_ms": 4687,
+      "end_ms": 9462,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Es de tontos hablar con orgullo; es de sabios ser de pocas palabras.",
+      "verse": 3,
+      "start_ms": 9462,
+      "end_ms": 14287,
+      "duration_ms": 4825
+    },
+    {
+      "word": "Sin las herramientas apropiadas, el trabajo no da fruto; con buenas herramientas se saca mejor provecho.",
+      "verse": 4,
+      "start_ms": 14287,
+      "end_ms": 21124,
+      "duration_ms": 6837
+    },
+    {
+      "word": "El testigo verdadero dice la verdad; el testigo falso siempre dice mentiras.",
+      "verse": 5,
+      "start_ms": 21125,
+      "end_ms": 26725,
+      "duration_ms": 5600
+    },
+    {
+      "word": "El malcriado quisiera ser sabio, pero jamás llegará a serlo; en cambio, el entendido muy pronto gana conocimientos.",
+      "verse": 6,
+      "start_ms": 26725,
+      "end_ms": 34725,
+      "duration_ms": 8000
+    },
+    {
+      "word": "Aléjate de los tontos, que nunca aprenderás nada de ellos.",
+      "verse": 7,
+      "start_ms": 34725,
+      "end_ms": 39400,
+      "duration_ms": 4675
+    },
+    {
+      "word": "El que es sabio lo demuestra en que piensa bien lo que hace, pero el tonto vive engañado por su propia estupidez.",
+      "verse": 8,
+      "start_ms": 39400,
+      "end_ms": 46062,
+      "duration_ms": 6662
+    },
+    {
+      "word": "A los necios no les importa si Dios los perdona o no, pero la gente buena quiere el perdón de Dios.",
+      "verse": 9,
+      "start_ms": 46062,
+      "end_ms": 52249,
+      "duration_ms": 6187
+    },
+    {
+      "word": "Nadie más que tú conoce realmente tus tristezas y tus alegrías.",
+      "verse": 10,
+      "start_ms": 52250,
+      "end_ms": 56775,
+      "duration_ms": 4525
+    },
+    {
+      "word": "La familia del malvado será destruida, pero el hogar del bueno prosperará.",
+      "verse": 11,
+      "start_ms": 56775,
+      "end_ms": 61812,
+      "duration_ms": 5037
+    },
+    {
+      "word": "Hay cosas que hacemos que nos parecen correctas, pero que al fin de cuentas nos llevan a la tumba.",
+      "verse": 12,
+      "start_ms": 61812,
+      "end_ms": 67424,
+      "duration_ms": 5612
+    },
+    {
+      "word": "La mucha risa causa dolor; hay alegrías que acaban en tristeza.",
+      "verse": 13,
+      "start_ms": 67425,
+      "end_ms": 72100,
+      "duration_ms": 4675
+    },
+    {
+      "word": "La gente tonta es feliz con su mala conducta; la gente buena es feliz con sus buenas acciones.",
+      "verse": 14,
+      "start_ms": 72100,
+      "end_ms": 78350,
+      "duration_ms": 6250
+    },
+    {
+      "word": "La gente tonta cree todo lo que le dicen; la gente sabia piensa bien antes de actuar.",
+      "verse": 15,
+      "start_ms": 78350,
+      "end_ms": 83925,
+      "duration_ms": 5575
+    },
+    {
+      "word": "El sabio conoce el miedo y se cuida del peligro, pero el tonto es atrevido y se pasa de confiado.",
+      "verse": 16,
+      "start_ms": 83925,
+      "end_ms": 90237,
+      "duration_ms": 6312
+    },
+    {
+      "word": "El que pronto se enoja pronto hace tonterías, pero el que piensa en lo que hace muestra gran paciencia.",
+      "verse": 17,
+      "start_ms": 90237,
+      "end_ms": 96449,
+      "duration_ms": 6212
+    },
+    {
+      "word": "La recompensa de los tontos es su propia estupidez; el premio de los sabios consiste en saber cómo actuar.",
+      "verse": 18,
+      "start_ms": 96450,
+      "end_ms": 103100,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Los malvados no resisten la justicia de los buenos.",
+      "verse": 19,
+      "start_ms": 103100,
+      "end_ms": 106775,
+      "duration_ms": 3675
+    },
+    {
+      "word": "Si eres pobre, ni tus amigos te buscan; si eres rico, todo el mundo es tu amigo.",
+      "verse": 20,
+      "start_ms": 106775,
+      "end_ms": 112887,
+      "duration_ms": 6112
+    },
+    {
+      "word": "No debes despreciar al amigo; ¡si eres bueno con los pobres, Dios te bendecirá!",
+      "verse": 21,
+      "start_ms": 112887,
+      "end_ms": 118437,
+      "duration_ms": 5550
+    },
+    {
+      "word": "Los que piensan hacer lo malo cometen un grave error; los que procuran hacer lo bueno reciben el gran amor de Dios.",
+      "verse": 22,
+      "start_ms": 118437,
+      "end_ms": 125262,
+      "duration_ms": 6825
+    },
+    {
+      "word": "Todo esfuerzo vale la pena, pero quien habla y no actúa acaba en la pobreza.",
+      "verse": 23,
+      "start_ms": 125262,
+      "end_ms": 130262,
+      "duration_ms": 5000
+    },
+    {
+      "word": "La riqueza del sabio es su sabiduría; la pobreza del tonto es su estupidez.",
+      "verse": 24,
+      "start_ms": 130262,
+      "end_ms": 135562,
+      "duration_ms": 5300
+    },
+    {
+      "word": "El testigo que dice la verdad salva a otros de la muerte, pero hay testigos mentirosos.",
+      "verse": 25,
+      "start_ms": 135562,
+      "end_ms": 141274,
+      "duration_ms": 5712
+    },
+    {
+      "word": "El que obedece a Dios ya tiene un poderoso protector para él y para sus hijos.",
+      "verse": 26,
+      "start_ms": 141275,
+      "end_ms": 146087,
+      "duration_ms": 4812
+    },
+    {
+      "word": "El que obedece a Dios tiene larga vida; ha escapado de la muerte.",
+      "verse": 27,
+      "start_ms": 146087,
+      "end_ms": 150762,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Para el rey es un orgullo gobernar a un pueblo numeroso; ¡qué vergüenza es para él no tener a quién gobernar!",
+      "verse": 28,
+      "start_ms": 150762,
+      "end_ms": 156974,
+      "duration_ms": 6212
+    },
+    {
+      "word": "El sabio domina su enojo; el tonto no controla su violencia.",
+      "verse": 29,
+      "start_ms": 156975,
+      "end_ms": 161587,
+      "duration_ms": 4612
+    },
+    {
+      "word": "Mente sana en cuerpo sano; por eso la envidia te destruye por completo.",
+      "verse": 30,
+      "start_ms": 161587,
+      "end_ms": 166549,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Quien le quita todo al pobre ofende a Dios, su creador; quien obedece a Dios trata bien al pobre.",
+      "verse": 31,
+      "start_ms": 166550,
+      "end_ms": 172937,
+      "duration_ms": 6387
+    },
+    {
+      "word": "El malvado fracasa por su maldad; pero el hombre bueno confía en Dios hasta la muerte.",
+      "verse": 32,
+      "start_ms": 172937,
+      "end_ms": 178349,
+      "duration_ms": 5412
+    },
+    {
+      "word": "En la mente del sabio hay lugar para la sabiduría; pero la gente tonta no llega a conocerla.",
+      "verse": 33,
+      "start_ms": 178350,
+      "end_ms": 184125,
+      "duration_ms": 5775
+    },
+    {
+      "word": "El orgullo de un pueblo es que se haga justicia; la desgracia de los pueblos es que se cometa pecado.",
+      "verse": 34,
+      "start_ms": 184125,
+      "end_ms": 190287,
+      "duration_ms": 6162
+    },
+    {
+      "word": "El ayudante inteligente se gana el aprecio del jefe, pero el empleado sinvergüenza provoca su enojo.",
+      "verse": 35,
+      "start_ms": 190287,
+      "end_ms": 196512,
+      "duration_ms": 6225
+    }
+  ]
+}

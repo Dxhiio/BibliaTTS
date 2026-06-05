@@ -1,0 +1,502 @@
+{
+  "book": "MAT",
+  "chapter": 17,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 26,
+  "word_count": 44,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 111,
+      "text": "Seis días después, Jesús llevó a Pedro y a los hermanos Santiago y Juan hasta un cerro alto, para estar solos."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 111,
+      "char_end": 233,
+      "text": "Frente a ellos, Jesús se transformó: Su cara brillaba como el sol, y su ropa se puso tan blanca como la luz del mediodía."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 233,
+      "char_end": 335,
+      "text": "Luego los tres discípulos vieron aparecer a Moisés y al profeta Elías, y ellos conversaban con Jesús."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 335,
+      "char_end": 495,
+      "text": "Entonces Pedro le dijo a Jesús: Señor, ¡qué bueno que estemos aquí! Si quieres, voy a construir tres enramadas: una para ti, una para Moisés y otra para Elías."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 495,
+      "char_end": 696,
+      "text": "Mientras Pedro hablaba, una nube brillante vino y se detuvo sobre ellos. Desde la nube se oyó una voz que decía: Éste es mi Hijo, yo lo amo mucho y estoy muy contento con él. Ustedes deben obedecerlo."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 696,
+      "char_end": 796,
+      "text": "Al oír esto, los discípulos se tiraron al suelo, y no se atrevían a mirar, pues tenían mucho miedo."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 796,
+      "char_end": 864,
+      "text": "Jesús se acercó, los tocó y les dijo: Levántense y no tengan miedo."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 864,
+      "char_end": 931,
+      "text": "Cuando los discípulos se levantaron, vieron que Jesús estaba solo."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 931,
+      "char_end": 1077,
+      "text": "Mientras bajaban del cerro, Jesús les ordenó: —No le cuenten a nadie lo que han visto hasta que yo, el Hijo del hombre, haya muerto y resucitado."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1077,
+      "char_end": 1200,
+      "text": "Los discípulos le preguntaron: —¿Por qué los maestros de la Ley dicen que el profeta Elías va a venir antes que el Mesías?"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1200,
+      "char_end": 1280,
+      "text": "Jesús les respondió: —Eso es verdad. Elías viene primero, para prepararlo todo."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1280,
+      "char_end": 1453,
+      "text": "Sin embargo, les aseguro que Elías ya vino; pero la gente no lo reconoció, y lo trataron como quisieron. A mí, el Hijo del hombre, también me tratarán así, y sufriré mucho."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1453,
+      "char_end": 1532,
+      "text": "Los tres discípulos entendieron que Jesús estaba hablando de Juan el Bautista."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1532,
+      "char_end": 1623,
+      "text": "Cuando llegaron a donde estaba la gente, un hombre se acercó a Jesús, se arrodilló ante él"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1623,
+      "char_end": 1788,
+      "text": "y le dijo: —¡Señor, ten compasión de mi hijo y ayúdalo! Está muy enfermo y sufre de terribles ataques. Muchas veces, cuando le da un ataque, cae al fuego o al agua."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1788,
+      "char_end": 1861,
+      "text": "Lo traje para que tus discípulos lo sanaran, pero no han podido hacerlo."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1861,
+      "char_end": 2015,
+      "text": "Jesús contestó: —Ustedes están confundidos y no confían en Dios. ¿Acaso no pueden hacer nada sin mí? ¿Cuándo van a aprender? ¡Tráiganme aquí al muchacho!"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2015,
+      "char_end": 2114,
+      "text": "Jesús reprendió al demonio que estaba en el muchacho, y lo obligó a salir. El muchacho quedó sano."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2114,
+      "char_end": 2234,
+      "text": "Poco después, los discípulos llamaron a Jesús aparte y le preguntaron: —¿Por qué nosotros no pudimos sacar ese demonio?"
+    },
+    {
+      "verse": 20,
+      "label": "20-21",
+      "char_start": 2234,
+      "char_end": 2486,
+      "text": "Jesús les respondió: —Porque ustedes no confían en Dios. Les aseguro que si tuvieran una confianza tan pequeña como un grano de mostaza, podrían ordenarle a esta montaña que se moviera de su lugar, y los obedecería. ¡Nada sería imposible para ustedes!"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2486,
+      "char_end": 2604,
+      "text": "Mientras viajaban juntos por la región de Galilea, Jesús les dijo a sus discípulos: Mis enemigos me van a traicionar,"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2604,
+      "char_end": 2725,
+      "text": "y me matarán. Pero yo, el Hijo del hombre, resucitaré al tercer día. Al oír eso, los discípulos se pusieron muy tristes."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2725,
+      "char_end": 2908,
+      "text": "Cuando Jesús y sus discípulos llegaron al pueblo de Cafarnaúm, los que cobraban el impuesto para el templo fueron a preguntarle a Pedro: —¿Paga tu maestro el impuesto para el templo?"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2908,
+      "char_end": 3145,
+      "text": "Pedro contestó: —Sí, lo paga. Cuando Pedro entró en la casa donde estaban todos, Jesús le habló primero y le dijo: —Dime, Pedro, ¿a quiénes cobran los reyes impuestos y contribuciones? ¿A los ciudadanos de su reino, o a los extranjeros?"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3145,
+      "char_end": 3260,
+      "text": "Pedro contestó: —A los extranjeros. Jesús dijo: —Entonces, los ciudadanos del reino no tienen que pagar impuestos."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3260,
+      "char_end": 3461,
+      "text": "Sin embargo, para que estos cobradores no se enojen, ve al mar y echa tu anzuelo. Ábrele la boca al primer pez que saques, y allí encontrarás una moneda. Toma ese dinero, y paga mi impuesto y el tuyo."
+    }
+  ],
+  "words": [
+    {
+      "word": "Seis días después, Jesús llevó a Pedro y a los hermanos Santiago y Juan hasta un cerro alto, para estar solos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7225,
+      "duration_ms": 7125
+    },
+    {
+      "word": "Frente a ellos, Jesús se transformó: Su cara brillaba como el sol, y su ropa se puso tan blanca como la luz del mediodía.",
+      "verse": 2,
+      "start_ms": 7175,
+      "end_ms": 15175,
+      "duration_ms": 8000
+    },
+    {
+      "word": "Luego los tres discípulos vieron aparecer a Moisés y al profeta Elías, y ellos conversaban con Jesús.",
+      "verse": 3,
+      "start_ms": 15175,
+      "end_ms": 21600,
+      "duration_ms": 6425
+    },
+    {
+      "word": "Entonces Pedro le dijo a Jesús: Señor, ¡qué bueno que estemos aquí!",
+      "verse": 4,
+      "start_ms": 21600,
+      "end_ms": 26575,
+      "duration_ms": 4975
+    },
+    {
+      "word": "Si quieres, voy a construir tres enramadas: una para ti, una para Moisés y otra para Elías.",
+      "verse": 4,
+      "start_ms": 26575,
+      "end_ms": 33337,
+      "duration_ms": 6762
+    },
+    {
+      "word": "Mientras Pedro hablaba, una nube brillante vino y se detuvo sobre ellos.",
+      "verse": 5,
+      "start_ms": 33337,
+      "end_ms": 38499,
+      "duration_ms": 5162
+    },
+    {
+      "word": "Desde la nube se oyó una voz que decía: Éste es mi Hijo, yo lo amo mucho y estoy muy contento con él.",
+      "verse": 5,
+      "start_ms": 38500,
+      "end_ms": 45262,
+      "duration_ms": 6762
+    },
+    {
+      "word": "Ustedes deben obedecerlo.",
+      "verse": 5,
+      "start_ms": 45262,
+      "end_ms": 47662,
+      "duration_ms": 2400
+    },
+    {
+      "word": "Al oír esto, los discípulos se tiraron al suelo, y no se atrevían a mirar, pues tenían mucho miedo.",
+      "verse": 6,
+      "start_ms": 47662,
+      "end_ms": 54362,
+      "duration_ms": 6700
+    },
+    {
+      "word": "Jesús se acercó, los tocó y les dijo: Levántense y no tengan miedo.",
+      "verse": 7,
+      "start_ms": 54362,
+      "end_ms": 59649,
+      "duration_ms": 5287
+    },
+    {
+      "word": "Cuando los discípulos se levantaron, vieron que Jesús estaba solo.",
+      "verse": 8,
+      "start_ms": 59650,
+      "end_ms": 64037,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Mientras bajaban del cerro, Jesús les ordenó: —No le cuenten a nadie lo que han visto hasta que yo, el Hijo del hombre, haya muerto y resucitado.",
+      "verse": 9,
+      "start_ms": 64037,
+      "end_ms": 72824,
+      "duration_ms": 8787
+    },
+    {
+      "word": "Los discípulos le preguntaron: —¿Por qué los maestros de la Ley dicen que el profeta Elías va a venir antes que el Mesías?",
+      "verse": 10,
+      "start_ms": 72825,
+      "end_ms": 79837,
+      "duration_ms": 7012
+    },
+    {
+      "word": "Jesús les respondió: —Eso es verdad.",
+      "verse": 11,
+      "start_ms": 79837,
+      "end_ms": 83074,
+      "duration_ms": 3237
+    },
+    {
+      "word": "Elías viene primero, para prepararlo todo.",
+      "verse": 11,
+      "start_ms": 83075,
+      "end_ms": 86687,
+      "duration_ms": 3612
+    },
+    {
+      "word": "Sin embargo, les aseguro que Elías ya vino; pero la gente no lo reconoció, y lo trataron como quisieron.",
+      "verse": 12,
+      "start_ms": 86687,
+      "end_ms": 93799,
+      "duration_ms": 7112
+    },
+    {
+      "word": "A mí, el Hijo del hombre, también me tratarán así, y sufriré mucho.",
+      "verse": 12,
+      "start_ms": 93800,
+      "end_ms": 98812,
+      "duration_ms": 5012
+    },
+    {
+      "word": "Los tres discípulos entendieron que Jesús estaba hablando de Juan el Bautista.",
+      "verse": 13,
+      "start_ms": 98812,
+      "end_ms": 103612,
+      "duration_ms": 4800
+    },
+    {
+      "word": "Cuando llegaron a donde estaba la gente, un hombre se acercó a Jesús, se arrodilló ante él y le dijo: —¡Señor, ten compasión de mi hijo y ayúdalo!",
+      "verse": 14,
+      "start_ms": 103612,
+      "end_ms": 112662,
+      "duration_ms": 9050
+    },
+    {
+      "word": "Está muy enfermo y sufre de terribles ataques.",
+      "verse": 15,
+      "start_ms": 112662,
+      "end_ms": 116337,
+      "duration_ms": 3675
+    },
+    {
+      "word": "Muchas veces, cuando le da un ataque, cae al fuego o al agua.",
+      "verse": 15,
+      "start_ms": 116337,
+      "end_ms": 121187,
+      "duration_ms": 4850
+    },
+    {
+      "word": "Lo traje para que tus discípulos lo sanaran, pero no han podido hacerlo.",
+      "verse": 16,
+      "start_ms": 121187,
+      "end_ms": 126012,
+      "duration_ms": 4825
+    },
+    {
+      "word": "Jesús contestó: —Ustedes están confundidos y no confían en Dios.",
+      "verse": 17,
+      "start_ms": 126012,
+      "end_ms": 130999,
+      "duration_ms": 4987
+    },
+    {
+      "word": "Acaso no pueden hacer nada sin mí?",
+      "verse": 17,
+      "start_ms": 131000,
+      "end_ms": 133850,
+      "duration_ms": 2850
+    },
+    {
+      "word": "Cuándo van a aprender?",
+      "verse": 17,
+      "start_ms": 133850,
+      "end_ms": 135987,
+      "duration_ms": 2137
+    },
+    {
+      "word": "Tráiganme aquí al muchacho!",
+      "verse": 17,
+      "start_ms": 135987,
+      "end_ms": 138299,
+      "duration_ms": 2312
+    },
+    {
+      "word": "Jesús reprendió al demonio que estaba en el muchacho, y lo obligó a salir.",
+      "verse": 18,
+      "start_ms": 138300,
+      "end_ms": 143150,
+      "duration_ms": 4850
+    },
+    {
+      "word": "El muchacho quedó sano.",
+      "verse": 18,
+      "start_ms": 143150,
+      "end_ms": 145437,
+      "duration_ms": 2287
+    },
+    {
+      "word": "Poco después, los discípulos llamaron a Jesús aparte y le preguntaron: —¿Por qué nosotros no pudimos sacar ese demonio?",
+      "verse": 19,
+      "start_ms": 145437,
+      "end_ms": 152912,
+      "duration_ms": 7475
+    },
+    {
+      "word": "Jesús les respondió: —Porque ustedes no confían en Dios.",
+      "verse": 20,
+      "start_ms": 152912,
+      "end_ms": 157162,
+      "duration_ms": 4250
+    },
+    {
+      "word": "Les aseguro que si tuvieran una confianza tan pequeña como un grano de mostaza, podrían ordenarle a esta montaña que se moviera de su lugar, y los obedecería.",
+      "verse": 20,
+      "start_ms": 157162,
+      "end_ms": 166412,
+      "duration_ms": 9250
+    },
+    {
+      "word": "Nada sería imposible para ustedes!",
+      "verse": 20,
+      "start_ms": 166412,
+      "end_ms": 169449,
+      "duration_ms": 3037
+    },
+    {
+      "word": "Mientras viajaban juntos por la región de Galilea, Jesús les dijo a sus discípulos: Mis enemigos me van a traicionar, y me matarán.",
+      "verse": 22,
+      "start_ms": 169450,
+      "end_ms": 177837,
+      "duration_ms": 8387
+    },
+    {
+      "word": "Pero yo, el Hijo del hombre, resucitaré al tercer día.",
+      "verse": 23,
+      "start_ms": 177837,
+      "end_ms": 182162,
+      "duration_ms": 4325
+    },
+    {
+      "word": "Al oír eso, los discípulos se pusieron muy tristes.",
+      "verse": 23,
+      "start_ms": 182162,
+      "end_ms": 186199,
+      "duration_ms": 4037
+    },
+    {
+      "word": "Cuando Jesús y sus discípulos llegaron al pueblo de Cafarnaúm, los que cobraban el impuesto para el templo fueron a preguntarle a Pedro: —¿Paga tu maestro el impuesto para el templo?",
+      "verse": 24,
+      "start_ms": 186200,
+      "end_ms": 195962,
+      "duration_ms": 9762
+    },
+    {
+      "word": "Pedro contestó: —Sí, lo paga.",
+      "verse": 25,
+      "start_ms": 195962,
+      "end_ms": 199112,
+      "duration_ms": 3150
+    },
+    {
+      "word": "Cuando Pedro entró en la casa donde estaban todos, Jesús le habló primero y le dijo: —Dime, Pedro, ¿a quiénes cobran los reyes impuestos y contribuciones?",
+      "verse": 25,
+      "start_ms": 199112,
+      "end_ms": 208737,
+      "duration_ms": 9625
+    },
+    {
+      "word": "A los ciudadanos de su reino, o a los extranjeros?",
+      "verse": 25,
+      "start_ms": 208737,
+      "end_ms": 212562,
+      "duration_ms": 3825
+    },
+    {
+      "word": "Pedro contestó: —A los extranjeros.",
+      "verse": 26,
+      "start_ms": 212562,
+      "end_ms": 215824,
+      "duration_ms": 3262
+    },
+    {
+      "word": "Jesús dijo: —Entonces, los ciudadanos del reino no tienen que pagar impuestos.",
+      "verse": 26,
+      "start_ms": 215825,
+      "end_ms": 221487,
+      "duration_ms": 5662
+    },
+    {
+      "word": "Sin embargo, para que estos cobradores no se enojen, ve al mar y echa tu anzuelo.",
+      "verse": 27,
+      "start_ms": 221487,
+      "end_ms": 227262,
+      "duration_ms": 5775
+    },
+    {
+      "word": "Ábrele la boca al primer pez que saques, y allí encontrarás una moneda.",
+      "verse": 27,
+      "start_ms": 227262,
+      "end_ms": 232262,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Toma ese dinero, y paga mi impuesto y el tuyo.",
+      "verse": 27,
+      "start_ms": 232262,
+      "end_ms": 236062,
+      "duration_ms": 3800
+    }
+  ]
+}

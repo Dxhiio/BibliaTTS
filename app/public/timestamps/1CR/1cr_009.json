@@ -1,0 +1,628 @@
+{
+  "book": "1CR",
+  "chapter": 9,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 27,
+  "word_count": 61,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 115,
+      "text": "Éstas fueron las listas de todo el pueblo de Israel, tal y como están escritas en el Libro de los reyes de Israel."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 115,
+      "char_end": 284,
+      "text": "Los primeros que regresaron a vivir a sus ciudades y propiedades fueron algunos del pueblo, los sacerdotes y sus ayudantes, y los vigilantes de las entradas del templo."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 284,
+      "char_end": 391,
+      "text": "Entre ellos llegaron a vivir a Jerusalén algunos de los descendientes de Judá, Benjamín, Efraín y Manasés."
+    },
+    {
+      "verse": 4,
+      "label": "4-6",
+      "char_start": 391,
+      "char_end": 751,
+      "text": "De los descendientes de Judá regresaron seiscientas noventa personas, que pertenecían a los grupos familiares de Utai, Asaías y Jeuel. Los antepasados de Utai fueron: Amihud, Omrí, Imrí, Baní, Fares, Judá. Asaías, que era el mayor del grupo de los silonitas, regresó junto con sus hijos. Jeuel, que era descendiente de Zérah, regresó junto con sus familiares."
+    },
+    {
+      "verse": 7,
+      "label": "7-9",
+      "char_start": 751,
+      "char_end": 1059,
+      "text": "De los descendientes de Benjamín regresaron novecientos cincuenta y seis jefes de sus grupos familiares. Entre ellos estaban: Salú hijo de Mesulam, nieto de Hodavías y bisnieto de Senúa. Ibneías hijo de Jeroham. Elá hijo de Uzí, nieto de Micrí. Mesulam hijo de Sefatías, nieto de Reuel y bisnieto de Ibnías."
+    },
+    {
+      "verse": 10,
+      "label": "10-13",
+      "char_start": 1059,
+      "char_end": 1552,
+      "text": "Regresaron mil setecientos sesenta sacerdotes con sus familias. Todos ellos eran jefes de sus grupos familiares, hombres muy capaces para servir en el templo de Dios. Entre ellos estaban: Jedaías, Joiarib, Jaquín, Azarías. Azarías fue el jefe de los vigilantes del templo, y sus antepasados fueron: Hilquías, Mesulam, Sadoc, Meraiot, Ahitub, Adaías, Masai. Los antepasados de Adaías fueron: Jeroham, Pashur, Malquías. Los antepasados de Masai fueron: Adiel, Jahzera, Mesulam, Mesilemit, Imer."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1552,
+      "char_end": 1759,
+      "text": "De los ayudantes de los sacerdotes regresaron: Semaías, Bacbacar, Jeres, Galal, Matanías, Abdías, Berequías. Los antepasados de Semaías fueron: Hasub, Azricam, Hasabías. Hasabías fue descendiente de Merarí."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1759,
+      "char_end": 1817,
+      "text": "Los antepasados de Matanías fueron: Micaías, Zicrí, Asaf."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1817,
+      "char_end": 1973,
+      "text": "Los antepasados de Abdías fueron: Semaías, Galal, Jedutún. Los antepasados de Berequías fueron: Asá, Elcaná. Elcaná vivió en las aldeas de los netofatitas."
+    },
+    {
+      "verse": 17,
+      "label": "17-19",
+      "char_start": 1973,
+      "char_end": 2629,
+      "text": "Los hombres que regresaron a Jerusalén y estuvieron a cargo de vigilar las entradas del templo: Salum, Acub, Talmón, Ahimán. Los antepasados de Salum fueron: Coré, Ebiasaf, Coré. Salum fue el jefe de todos los guardianes de las entradas del templo, y hasta el momento en que esto se escribió tuvo la responsabilidad de vigilar el Portón del Rey, al oeste de la ciudad. Los antepasados de éstos vigilaron antes las entradas del campamento de la tribu de Leví. Los parientes de Salum, del grupo familiar de Coré, eran los que cuidaban la entrada del templo. Tiempo atrás, sus antepasados habían sido los guardianes de la entrada al santuario en el desierto."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2629,
+      "char_end": 2735,
+      "text": "Antes de eso, el jefe de estos guardianes había sido Finees hijo de Eleazar, al que Dios siempre ayudaba."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2735,
+      "char_end": 2807,
+      "text": "Zacarías hijo de Meselemías era el guardián de la entrada al santuario."
+    },
+    {
+      "verse": 22,
+      "label": "22-23",
+      "char_start": 2807,
+      "char_end": 3137,
+      "text": "David y el profeta Samuel habían elegido a personas de confianza para vigilar la entrada del santuario. De los descendientes de esas personas se eligieron luego doscientos doce, para que cuidaran la entrada del templo de Dios. Estos guardianes fueron elegidos siguiendo su lista familiar, y de acuerdo a los lugares donde vivían."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3137,
+      "char_end": 3185,
+      "text": "El templo estaba vigilado por sus cuatro lados."
+    },
+    {
+      "verse": 25,
+      "label": "25-30",
+      "char_start": 3185,
+      "char_end": 3822,
+      "text": "Cada siete días, los guardianes elegidos venían de sus pueblos para cumplir con su deber. Algunos de ellos eran responsables de cuidar los utensilios que se usaban en el culto, y les tocaba contarlos cuando se sacaban y cuando se guardaban. Otros estaban encargados de cuidar los demás utensilios sagrados, además de la harina fina, el vino, el aceite, el incienso y los perfumes, que eran preparados por algunos sacerdotes. Los cuatro guardianes principales eran de la tribu de Leví, y estaban todo el tiempo cuidando los cuartos y los tesoros del templo de Dios: de noche vigilaban sus alrededores, y por la mañana abrían sus puertas."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3822,
+      "char_end": 3966,
+      "text": "Matatías, el encargado de preparar los panes para las ofrendas diarias, era el hijo mayor de Salum el coreíta, y pertenecía a la tribu de Leví."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3966,
+      "char_end": 4097,
+      "text": "Los encargados de ordenar los panes que todos los sábados se ofrecían a Dios, eran de la tribu de Leví, y descendientes de Quehat."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4097,
+      "char_end": 4317,
+      "text": "Por último estaban los cantores, que eran de la tribu de Leví y jefes de sus grupos familiares. Ellos vivían en los cuartos del templo; sólo se dedicaban a cumplir con su trabajo, y no podían hacer otro tipo de labores."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4317,
+      "char_end": 4440,
+      "text": "Según una lista, todos estos servidores del templo eran descendientes de Leví, y jefes de familia que vivían en Jerusalén."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4440,
+      "char_end": 4508,
+      "text": "Jehiel fundó la ciudad de Gabaón, y vivió allí con su esposa Maacá."
+    },
+    {
+      "verse": 36,
+      "label": "36-38",
+      "char_start": 4508,
+      "char_end": 4695,
+      "text": "Sus hijos, del mayor al menor, fueron: Abdón, Sur, Quis, Baal, Ner, Nadab, Guedor, Ahió, Zéquer, Miclot. Todos estos vivieron en Jerusalén con sus familiares. Miclot tuvo un hijo, Simam."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4695,
+      "char_end": 4807,
+      "text": "Ner tuvo un hijo, Quis. Quis tuvo un hijo, Saúl. Saúl tuvo cuatro hijos: Jonatán, Malquisúa, Abinadab, Es-baal."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4807,
+      "char_end": 4875,
+      "text": "Jonatán tuvo un hijo, Merib-baal. Merib-baal tuvo un hijo, Micaías."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4875,
+      "char_end": 4929,
+      "text": "Micaías tuvo cuatro hijos: Pitón, Mélec, Tarea, Ahaz."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4929,
+      "char_end": 5041,
+      "text": "Ahaz tuvo un hijo, Jará. Jará tuvo tres hijos: Alémet, Azmávet, Zimrí. Los descendientes de Zimrí fueron: Mosá,"
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 5041,
+      "char_end": 5069,
+      "text": "Biná, Refaías, Elasá, Asel."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 5069,
+      "char_end": 5139,
+      "text": "Asel tuvo seis hijos: Azricam, Bocrú, Ismael, Searías, Abdías, Hanán."
+    }
+  ],
+  "words": [
+    {
+      "word": "Éstas fueron las listas de todo el pueblo de Israel, tal y como están escritas en el Libro de los reyes de Israel.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6650,
+      "duration_ms": 6550
+    },
+    {
+      "word": "Los primeros que regresaron a vivir a sus ciudades y propiedades fueron algunos del pueblo, los sacerdotes y sus ayudantes, y los vigilantes de las entradas del templo.",
+      "verse": 2,
+      "start_ms": 6600,
+      "end_ms": 16000,
+      "duration_ms": 9400
+    },
+    {
+      "word": "Entre ellos llegaron a vivir a Jerusalén algunos de los descendientes de Judá, Benjamín, Efraín y Manasés.",
+      "verse": 3,
+      "start_ms": 16000,
+      "end_ms": 22862,
+      "duration_ms": 6862
+    },
+    {
+      "word": "De los descendientes de Judá regresaron seiscientas noventa personas, que pertenecían a los grupos familiares de Utai, Asaías y Jeuel.",
+      "verse": 4,
+      "start_ms": 22862,
+      "end_ms": 31062,
+      "duration_ms": 8200
+    },
+    {
+      "word": "Los antepasados de Utai fueron: Amihud, Omrí, Imrí, Baní, Fares, Judá.",
+      "verse": 4,
+      "start_ms": 31062,
+      "end_ms": 37562,
+      "duration_ms": 6500
+    },
+    {
+      "word": "Asaías, que era el mayor del grupo de los silonitas, regresó junto con sus hijos.",
+      "verse": 4,
+      "start_ms": 37562,
+      "end_ms": 43437,
+      "duration_ms": 5875
+    },
+    {
+      "word": "Jeuel, que era descendiente de Zérah, regresó junto con sus familiares.",
+      "verse": 4,
+      "start_ms": 43437,
+      "end_ms": 48724,
+      "duration_ms": 5287
+    },
+    {
+      "word": "De los descendientes de Benjamín regresaron novecientos cincuenta y seis jefes de sus grupos familiares.",
+      "verse": 7,
+      "start_ms": 48725,
+      "end_ms": 54687,
+      "duration_ms": 5962
+    },
+    {
+      "word": "Entre ellos estaban: Salú hijo de Mesulam, nieto de Hodavías y bisnieto de Senúa.",
+      "verse": 7,
+      "start_ms": 54687,
+      "end_ms": 60687,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Ibneías hijo de Jeroham.",
+      "verse": 7,
+      "start_ms": 60687,
+      "end_ms": 63212,
+      "duration_ms": 2525
+    },
+    {
+      "word": "Elá hijo de Uzí, nieto de Micrí.",
+      "verse": 7,
+      "start_ms": 63212,
+      "end_ms": 66362,
+      "duration_ms": 3150
+    },
+    {
+      "word": "Mesulam hijo de Sefatías, nieto de Reuel y bisnieto de Ibnías.",
+      "verse": 7,
+      "start_ms": 66362,
+      "end_ms": 71324,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Regresaron mil setecientos sesenta sacerdotes con sus familias.",
+      "verse": 10,
+      "start_ms": 71325,
+      "end_ms": 75762,
+      "duration_ms": 4437
+    },
+    {
+      "word": "Todos ellos eran jefes de sus grupos familiares, hombres muy capaces para servir en el templo de Dios.",
+      "verse": 10,
+      "start_ms": 75762,
+      "end_ms": 82249,
+      "duration_ms": 6487
+    },
+    {
+      "word": "Entre ellos estaban: Jedaías, Joiarib, Jaquín, Azarías.",
+      "verse": 10,
+      "start_ms": 82250,
+      "end_ms": 87650,
+      "duration_ms": 5400
+    },
+    {
+      "word": "Azarías fue el jefe de los vigilantes del templo, y sus antepasados fueron: Hilquías, Mesulam, Sadoc, Meraiot, Ahitub, Adaías, Masai.",
+      "verse": 10,
+      "start_ms": 87650,
+      "end_ms": 98000,
+      "duration_ms": 10350
+    },
+    {
+      "word": "Los antepasados de Adaías fueron: Jeroham, Pashur, Malquías.",
+      "verse": 10,
+      "start_ms": 98000,
+      "end_ms": 103275,
+      "duration_ms": 5275
+    },
+    {
+      "word": "Los antepasados de Masai fueron: Adiel, Jahzera, Mesulam, Mesilemit, Imer.",
+      "verse": 10,
+      "start_ms": 103275,
+      "end_ms": 109775,
+      "duration_ms": 6500
+    },
+    {
+      "word": "De los ayudantes de los sacerdotes regresaron: Semaías, Bacbacar, Jeres, Galal, Matanías, Abdías, Berequías.",
+      "verse": 14,
+      "start_ms": 109775,
+      "end_ms": 119000,
+      "duration_ms": 9225
+    },
+    {
+      "word": "Los antepasados de Semaías fueron: Hasub, Azricam, Hasabías.",
+      "verse": 14,
+      "start_ms": 119000,
+      "end_ms": 124312,
+      "duration_ms": 5312
+    },
+    {
+      "word": "Hasabías fue descendiente de Merarí.",
+      "verse": 14,
+      "start_ms": 124312,
+      "end_ms": 127199,
+      "duration_ms": 2887
+    },
+    {
+      "word": "Los antepasados de Matanías fueron: Micaías, Zicrí, Asaf.",
+      "verse": 15,
+      "start_ms": 127200,
+      "end_ms": 132262,
+      "duration_ms": 5062
+    },
+    {
+      "word": "Los antepasados de Abdías fueron: Semaías, Galal, Jedutún.",
+      "verse": 16,
+      "start_ms": 132262,
+      "end_ms": 137299,
+      "duration_ms": 5037
+    },
+    {
+      "word": "Los antepasados de Berequías fueron: Asá, Elcaná.",
+      "verse": 16,
+      "start_ms": 137300,
+      "end_ms": 141450,
+      "duration_ms": 4150
+    },
+    {
+      "word": "Elcaná vivió en las aldeas de los netofatitas.",
+      "verse": 16,
+      "start_ms": 141450,
+      "end_ms": 145037,
+      "duration_ms": 3587
+    },
+    {
+      "word": "Los hombres que regresaron a Jerusalén y estuvieron a cargo de vigilar las entradas del templo: Salum, Acub, Talmón, Ahimán.",
+      "verse": 17,
+      "start_ms": 145037,
+      "end_ms": 153087,
+      "duration_ms": 8050
+    },
+    {
+      "word": "Los antepasados de Salum fueron: Coré, Ebiasaf, Coré.",
+      "verse": 17,
+      "start_ms": 153087,
+      "end_ms": 157899,
+      "duration_ms": 4812
+    },
+    {
+      "word": "Salum fue el jefe de todos los guardianes de las entradas del templo, y hasta el momento en que esto se escribió tuvo la responsabilidad de vigilar el Portón del Rey, al oeste de la ciudad.",
+      "verse": 17,
+      "start_ms": 157900,
+      "end_ms": 168262,
+      "duration_ms": 10362
+    },
+    {
+      "word": "Los antepasados de éstos vigilaron antes las entradas del campamento de la tribu de Leví.",
+      "verse": 17,
+      "start_ms": 168262,
+      "end_ms": 173712,
+      "duration_ms": 5450
+    },
+    {
+      "word": "Los parientes de Salum, del grupo familiar de Coré, eran los que cuidaban la entrada del templo.",
+      "verse": 17,
+      "start_ms": 173712,
+      "end_ms": 179799,
+      "duration_ms": 6087
+    },
+    {
+      "word": "Tiempo atrás, sus antepasados habían sido los guardianes de la entrada al santuario en el desierto.",
+      "verse": 17,
+      "start_ms": 179800,
+      "end_ms": 185875,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Antes de eso, el jefe de estos guardianes había sido Finees hijo de Eleazar, al que Dios siempre ayudaba.",
+      "verse": 20,
+      "start_ms": 185875,
+      "end_ms": 192950,
+      "duration_ms": 7075
+    },
+    {
+      "word": "Zacarías hijo de Meselemías era el guardián de la entrada al santuario.",
+      "verse": 21,
+      "start_ms": 192950,
+      "end_ms": 197462,
+      "duration_ms": 4512
+    },
+    {
+      "word": "David y el profeta Samuel habían elegido a personas de confianza para vigilar la entrada del santuario.",
+      "verse": 22,
+      "start_ms": 197462,
+      "end_ms": 203637,
+      "duration_ms": 6175
+    },
+    {
+      "word": "De los descendientes de esas personas se eligieron luego doscientos doce, para que cuidaran la entrada del templo de Dios.",
+      "verse": 22,
+      "start_ms": 203637,
+      "end_ms": 210624,
+      "duration_ms": 6987
+    },
+    {
+      "word": "Estos guardianes fueron elegidos siguiendo su lista familiar, y de acuerdo a los lugares donde vivían.",
+      "verse": 22,
+      "start_ms": 210625,
+      "end_ms": 216775,
+      "duration_ms": 6150
+    },
+    {
+      "word": "El templo estaba vigilado por sus cuatro lados.",
+      "verse": 24,
+      "start_ms": 216775,
+      "end_ms": 220275,
+      "duration_ms": 3500
+    },
+    {
+      "word": "Cada siete días, los guardianes elegidos venían de sus pueblos para cumplir con su deber.",
+      "verse": 25,
+      "start_ms": 220275,
+      "end_ms": 226075,
+      "duration_ms": 5800
+    },
+    {
+      "word": "Algunos de ellos eran responsables de cuidar los utensilios que se usaban en el culto, y les tocaba contarlos cuando se sacaban y cuando se guardaban.",
+      "verse": 25,
+      "start_ms": 226075,
+      "end_ms": 234225,
+      "duration_ms": 8150
+    },
+    {
+      "word": "Otros estaban encargados de cuidar los demás utensilios sagrados, además de la harina fina, el vino, el aceite, el incienso y los perfumes, que eran preparados por algunos sacerdotes.",
+      "verse": 25,
+      "start_ms": 234225,
+      "end_ms": 245975,
+      "duration_ms": 11750
+    },
+    {
+      "word": "Los cuatro guardianes principales eran de la tribu de Leví, y estaban todo el tiempo cuidando los cuartos y los tesoros del templo de Dios: de noche vigilaban sus alrededores, y por la mañana abrían sus puertas.",
+      "verse": 25,
+      "start_ms": 245975,
+      "end_ms": 258400,
+      "duration_ms": 12425
+    },
+    {
+      "word": "Matatías, el encargado de preparar los panes para las ofrendas diarias, era el hijo mayor de Salum el coreíta, y pertenecía a la tribu de Leví.",
+      "verse": 31,
+      "start_ms": 258400,
+      "end_ms": 267625,
+      "duration_ms": 9225
+    },
+    {
+      "word": "Los encargados de ordenar los panes que todos",
+      "verse": 32,
+      "start_ms": 267625,
+      "end_ms": 271050,
+      "duration_ms": 3425
+    },
+    {
+      "word": "los sábados se ofrecían a Dios, eran de la tribu de Leví, y descendientes de Quehat.",
+      "verse": 32,
+      "start_ms": 271204,
+      "end_ms": 276716,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Por último estaban los cantores, que eran de la tribu de Leví y jefes de sus grupos familiares.",
+      "verse": 33,
+      "start_ms": 276666,
+      "end_ms": 282741,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Ellos vivían en los cuartos del templo; sólo se dedicaban a cumplir con su trabajo, y no podían hacer otro tipo de labores.",
+      "verse": 33,
+      "start_ms": 282741,
+      "end_ms": 290316,
+      "duration_ms": 7575
+    },
+    {
+      "word": "Según una lista, todos estos servidores del templo eran descendientes de Leví, y jefes de familia que vivían en Jerusalén.",
+      "verse": 34,
+      "start_ms": 290316,
+      "end_ms": 297866,
+      "duration_ms": 7550
+    },
+    {
+      "word": "Jehiel fundó la ciudad de Gabaón, y vivió allí con su esposa Maacá.",
+      "verse": 35,
+      "start_ms": 297866,
+      "end_ms": 302591,
+      "duration_ms": 4725
+    },
+    {
+      "word": "Sus hijos, del mayor al menor, fueron: Abdón, Sur, Quis, Baal, Ner, Nadab, Guedor, Ahió, Zéquer, Miclot.",
+      "verse": 36,
+      "start_ms": 302591,
+      "end_ms": 312778,
+      "duration_ms": 10187
+    },
+    {
+      "word": "Todos estos vivieron en Jerusalén con sus familiares.",
+      "verse": 36,
+      "start_ms": 312779,
+      "end_ms": 316566,
+      "duration_ms": 3787
+    },
+    {
+      "word": "Miclot tuvo un hijo, Simam.",
+      "verse": 36,
+      "start_ms": 316566,
+      "end_ms": 319378,
+      "duration_ms": 2812
+    },
+    {
+      "word": "Ner tuvo un hijo, Quis.",
+      "verse": 39,
+      "start_ms": 319379,
+      "end_ms": 322004,
+      "duration_ms": 2625
+    },
+    {
+      "word": "Quis tuvo un hijo, Saúl.",
+      "verse": 39,
+      "start_ms": 322004,
+      "end_ms": 324591,
+      "duration_ms": 2587
+    },
+    {
+      "word": "Saúl tuvo cuatro hijos: Jonatán, Malquisúa, Abinadab, Es-baal.",
+      "verse": 39,
+      "start_ms": 324591,
+      "end_ms": 330466,
+      "duration_ms": 5875
+    },
+    {
+      "word": "Jonatán tuvo un hijo, Merib-baal.",
+      "verse": 40,
+      "start_ms": 330466,
+      "end_ms": 333566,
+      "duration_ms": 3100
+    },
+    {
+      "word": "Merib-baal tuvo un hijo, Micaías.",
+      "verse": 40,
+      "start_ms": 333566,
+      "end_ms": 336866,
+      "duration_ms": 3300
+    },
+    {
+      "word": "Micaías tuvo cuatro hijos: Pitón, Mélec, Tarea, Ahaz.",
+      "verse": 41,
+      "start_ms": 336866,
+      "end_ms": 342541,
+      "duration_ms": 5675
+    },
+    {
+      "word": "Ahaz tuvo un hijo, Jará.",
+      "verse": 42,
+      "start_ms": 342541,
+      "end_ms": 345228,
+      "duration_ms": 2687
+    },
+    {
+      "word": "Jará tuvo tres hijos: Alémet, Azmávet, Zimrí.",
+      "verse": 42,
+      "start_ms": 345229,
+      "end_ms": 349791,
+      "duration_ms": 4562
+    },
+    {
+      "word": "Los descendientes de Zimrí fueron: Mosá, Biná, Refaías, Elasá, Asel.",
+      "verse": 42,
+      "start_ms": 349791,
+      "end_ms": 355978,
+      "duration_ms": 6187
+    },
+    {
+      "word": "Asel tuvo seis hijos: Azricam, Bocrú, Ismael, Searías, Abdías, Hanán.",
+      "verse": 44,
+      "start_ms": 355979,
+      "end_ms": 363179,
+      "duration_ms": 7200
+    }
+  ]
+}

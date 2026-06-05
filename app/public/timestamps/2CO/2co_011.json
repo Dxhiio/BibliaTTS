@@ -1,0 +1,628 @@
+{
+  "book": "2CO",
+  "chapter": 11,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 32,
+  "word_count": 56,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 61,
+      "text": "Por favor, sopórtenme, aunque parezca yo estar un poco loco."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 61,
+      "char_end": 284,
+      "text": "Dios ha hecho que yo me preocupe por ustedes. Lo que quiero es que ustedes sean siempre fieles a Cristo, es decir, que sean como una novia ya comprometida para casarse, que le es fiel a su novio y se mantiene pura para él."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 284,
+      "char_end": 476,
+      "text": "Pero tengo miedo de que les pase lo mismo que a Eva, que fue engañada por la astuta serpiente. También ustedes pueden ser engañados y dejar de pensar con sinceridad y pureza acerca de Cristo."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 476,
+      "char_end": 708,
+      "text": "Y es que ustedes aceptan con gusto a todo el que viene y les habla de un Jesús distinto del que nosotros les hemos anunciado. Aceptan un espíritu diferente del Espíritu Santo que recibieron, y un mensaje distinto del que aceptaron."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 708,
+      "char_end": 806,
+      "text": "Pero yo no soy menos importante que los que vinieron después, y que se creen unos superapóstoles."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 806,
+      "char_end": 907,
+      "text": "Aunque yo no hablo tan bien como ellos, sé tanto o más que ellos, y lo he demostrado una y otra vez."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 907,
+      "char_end": 1053,
+      "text": "¿Cuál fue mi pecado? Lo único que hice fue anunciarles la buena noticia de Dios sin cobrarles nada; me resté importancia, para dársela a ustedes,"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1053,
+      "char_end": 1116,
+      "text": "y para servirlos y ayudarlos, recibí dinero de otras iglesias."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1116,
+      "char_end": 1369,
+      "text": "Cuando estuve entre ustedes y necesité algo, nunca les pedí que me ayudaran. Los miembros de la iglesia en la región de Macedonia llegaron y me dieron lo que necesitaba. Traté de que ustedes no tuvieran que molestarse por mí, y así lo seguiré haciendo."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1369,
+      "char_end": 1518,
+      "text": "Así como estoy seguro de que conozco la verdad de Cristo, también estoy seguro de que en toda la región de Acaya nadie me quitará esta satisfacción."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1518,
+      "char_end": 1591,
+      "text": "Pero no digo esto porque no los quiera. ¡Dios sabe que los quiero mucho!"
+    },
+    {
+      "verse": 12,
+      "label": "12-13",
+      "char_start": 1591,
+      "char_end": 1817,
+      "text": "Voy a continuar como hasta ahora, sin recibir dinero de ustedes. Así esos falsos profetas no podrán sentirse importantes. Andan engañando a la gente diciendo que son apóstoles de Cristo y que sirven a Dios igual que nosotros."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1817,
+      "char_end": 1884,
+      "text": "Lo cual no es extraño. ¡Hasta Satanás se disfraza de ángel de luz,"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1884,
+      "char_end": 2019,
+      "text": "y también sus ayudantes se disfrazan de gente que hace el bien! Pero al final recibirán el castigo que merecen por sus malas acciones."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2019,
+      "char_end": 2154,
+      "text": "Vuelvo a repetirles: no quiero que me tomen por loco. Y aunque lo estuviera, acéptenme así, para que pueda sentirme un poco orgulloso."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2154,
+      "char_end": 2254,
+      "text": "Voy a decirles algo, pero no de parte de Dios. Reconozco que hablar bien de mí mismo es una locura,"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2254,
+      "char_end": 2345,
+      "text": "pero ya que hay tantos que hablan bien de sí mismos, ¿por qué no voy a hacerlo yo también?"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2345,
+      "char_end": 2418,
+      "text": "¡Ustedes son tan inteligentes, que con mucho gusto soportan a los locos!"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2418,
+      "char_end": 2569,
+      "text": "¡Hasta aguantan a quienes los tratan como esclavos y se aprovechan de ustedes, a quienes los engañan y desprecian, y a quienes los golpean en la cara!"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2569,
+      "char_end": 2733,
+      "text": "Me da vergüenza decirlo, pero nosotros no nos atrevimos a tratarlos así. Pero ya que otros se atreven a presumir, yo también lo voy a hacer, aunque sea una locura."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2733,
+      "char_end": 2846,
+      "text": "Si ellos son hebreos, yo también lo soy. ¿Son israelitas? Yo también. ¿Son de la familia de Abraham? Yo también."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2846,
+      "char_end": 3083,
+      "text": "¿Son servidores de Cristo? Yo lo soy más todavía, aunque sea una locura decirlo. Yo he trabajado más que ellos, he estado preso más veces, me han azotado con látigos más que a ellos, y he estado más veces que ellos en peligro de muerte."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3083,
+      "char_end": 3168,
+      "text": "Cinco veces las autoridades judías me han dado treinta y nueve azotes con un látigo."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3168,
+      "char_end": 3384,
+      "text": "Tres veces las autoridades romanas me han golpeado con varas. Una vez me tiraron piedras. En tres ocasiones se hundió el barco en que yo viajaba. Una vez pasé una noche y un día en alta mar, hasta que me rescataron."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3384,
+      "char_end": 3627,
+      "text": "He viajado mucho. He cruzado ríos arriesgando mi vida, he estado a punto de ser asaltado, me he visto en peligro entre la gente de mi pueblo y entre los extranjeros, en la ciudad y en el campo, en el mar y entre falsos hermanos de la iglesia."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3627,
+      "char_end": 3774,
+      "text": "He trabajado mucho, y he tenido dificultades. Muchas noches las he pasado sin dormir. He sufrido hambre y sed, y por falta de ropa he pasado frío."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3774,
+      "char_end": 3848,
+      "text": "Por si esto fuera poco, nunca dejo de preocuparme por todas las iglesias."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3848,
+      "char_end": 3945,
+      "text": "Me enferma ver que alguien se enferme, y me avergüenza y me enoja ver que se haga pecar a otros."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3945,
+      "char_end": 4003,
+      "text": "Si de algo puedo estar orgulloso, es de lo débil que soy."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4003,
+      "char_end": 4097,
+      "text": "El Dios y Padre del Señor Jesús, que merece ser siempre alabado, sabe que no estoy mintiendo."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4097,
+      "char_end": 4208,
+      "text": "Cuando estuve en Damasco, el gobernador nombrado por el rey Aretas puso guardias en la ciudad para arrestarme."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4208,
+      "char_end": 4329,
+      "text": "Pero pude escapar porque unos amigos me pusieron en un canasto, y me bajaron por una ventana de la muralla de la ciudad."
+    }
+  ],
+  "words": [
+    {
+      "word": "Por favor, sopórtenme, aunque parezca yo estar un poco loco.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4750,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Dios ha hecho que yo me preocupe por ustedes.",
+      "verse": 2,
+      "start_ms": 4700,
+      "end_ms": 8087,
+      "duration_ms": 3387
+    },
+    {
+      "word": "Lo que quiero es que ustedes sean siempre fieles a Cristo, es decir, que sean como una novia ya comprometida para casarse, que le es fiel a su novio y se mantiene pura para él.",
+      "verse": 2,
+      "start_ms": 8087,
+      "end_ms": 18187,
+      "duration_ms": 10100
+    },
+    {
+      "word": "Pero tengo miedo de que les pase lo mismo que a Eva, que fue engañada por la astuta serpiente.",
+      "verse": 3,
+      "start_ms": 18187,
+      "end_ms": 23787,
+      "duration_ms": 5600
+    },
+    {
+      "word": "También ustedes pueden ser engañados y dejar de pensar con sinceridad y pureza acerca de Cristo.",
+      "verse": 3,
+      "start_ms": 23787,
+      "end_ms": 29787,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Y es que ustedes aceptan con gusto a todo el que viene y les habla de un Jesús distinto del que nosotros les hemos anunciado.",
+      "verse": 4,
+      "start_ms": 29787,
+      "end_ms": 36899,
+      "duration_ms": 7112
+    },
+    {
+      "word": "Aceptan un espíritu diferente del Espíritu Santo que recibieron, y un mensaje distinto del que aceptaron.",
+      "verse": 4,
+      "start_ms": 36900,
+      "end_ms": 43550,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Pero yo no soy menos importante que los que vinieron después, y que se creen unos superapóstoles.",
+      "verse": 5,
+      "start_ms": 43550,
+      "end_ms": 49537,
+      "duration_ms": 5987
+    },
+    {
+      "word": "Aunque yo no hablo tan bien como ellos, sé tanto o más que ellos, y lo he demostrado una y otra vez.",
+      "verse": 6,
+      "start_ms": 49537,
+      "end_ms": 56349,
+      "duration_ms": 6812
+    },
+    {
+      "word": "Cuál fue mi pecado?",
+      "verse": 7,
+      "start_ms": 56350,
+      "end_ms": 58325,
+      "duration_ms": 1975
+    },
+    {
+      "word": "Lo único que hice fue anunciarles la buena noticia de Dios sin cobrarles nada; me resté importancia, para dársela a ustedes, y para servirlos y ayudarlos, recibí dinero de otras iglesias.",
+      "verse": 7,
+      "start_ms": 58325,
+      "end_ms": 70050,
+      "duration_ms": 11725
+    },
+    {
+      "word": "Cuando estuve entre ustedes y necesité algo, nunca les pedí que me ayudaran.",
+      "verse": 9,
+      "start_ms": 70050,
+      "end_ms": 74987,
+      "duration_ms": 4937
+    },
+    {
+      "word": "Los miembros de la iglesia en la región de Macedonia llegaron y me dieron lo que necesitaba.",
+      "verse": 9,
+      "start_ms": 74987,
+      "end_ms": 80037,
+      "duration_ms": 5050
+    },
+    {
+      "word": "Traté de que ustedes no tuvieran que molestarse por mí, y así lo seguiré haciendo.",
+      "verse": 9,
+      "start_ms": 80037,
+      "end_ms": 85312,
+      "duration_ms": 5275
+    },
+    {
+      "word": "Así como estoy seguro de que conozco la verdad de Cristo, también estoy seguro de que en toda la región de Acaya nadie me quitará esta satisfacción.",
+      "verse": 10,
+      "start_ms": 85312,
+      "end_ms": 93649,
+      "duration_ms": 8337
+    },
+    {
+      "word": "Pero no digo esto porque no los quiera.",
+      "verse": 11,
+      "start_ms": 93650,
+      "end_ms": 96437,
+      "duration_ms": 2787
+    },
+    {
+      "word": "Dios sabe que los quiero mucho!",
+      "verse": 11,
+      "start_ms": 96437,
+      "end_ms": 98874,
+      "duration_ms": 2437
+    },
+    {
+      "word": "Voy a continuar como hasta ahora, sin recibir dinero de ustedes.",
+      "verse": 12,
+      "start_ms": 98875,
+      "end_ms": 103537,
+      "duration_ms": 4662
+    },
+    {
+      "word": "Así esos falsos profetas no podrán sentirse importantes.",
+      "verse": 12,
+      "start_ms": 103537,
+      "end_ms": 107824,
+      "duration_ms": 4287
+    },
+    {
+      "word": "Andan engañando a la gente diciendo que son apóstoles de Cristo y que sirven a Dios igual que nosotros.",
+      "verse": 12,
+      "start_ms": 107825,
+      "end_ms": 114112,
+      "duration_ms": 6287
+    },
+    {
+      "word": "Lo cual no es extraño.",
+      "verse": 14,
+      "start_ms": 114112,
+      "end_ms": 116412,
+      "duration_ms": 2300
+    },
+    {
+      "word": "Hasta Satanás se disfraza de ángel de luz, y también sus ayudantes se disfrazan de gente que hace el bien!",
+      "verse": 14,
+      "start_ms": 116412,
+      "end_ms": 123012,
+      "duration_ms": 6600
+    },
+    {
+      "word": "Pero al final recibirán el castigo que merecen por sus malas acciones.",
+      "verse": 15,
+      "start_ms": 123012,
+      "end_ms": 127574,
+      "duration_ms": 4562
+    },
+    {
+      "word": "Vuelvo a repetirles: no quiero que me tomen por loco.",
+      "verse": 16,
+      "start_ms": 127575,
+      "end_ms": 131537,
+      "duration_ms": 3962
+    },
+    {
+      "word": "Y aunque lo estuviera, acéptenme así, para que pueda sentirme un poco orgulloso.",
+      "verse": 16,
+      "start_ms": 131537,
+      "end_ms": 137062,
+      "duration_ms": 5525
+    },
+    {
+      "word": "Voy a decirles algo, pero no de parte de Dios.",
+      "verse": 17,
+      "start_ms": 137062,
+      "end_ms": 140937,
+      "duration_ms": 3875
+    },
+    {
+      "word": "Reconozco que hablar bien de mí mismo es una locura, pero ya que hay tantos que hablan bien de sí mismos, ¿por qué no voy a hacerlo yo también?",
+      "verse": 17,
+      "start_ms": 140937,
+      "end_ms": 149187,
+      "duration_ms": 8250
+    },
+    {
+      "word": "Ustedes son tan inteligentes, que con mucho gusto soportan a los locos!",
+      "verse": 19,
+      "start_ms": 149187,
+      "end_ms": 154349,
+      "duration_ms": 5162
+    },
+    {
+      "word": "Hasta aguantan a quienes los tratan como esclavos y se aprovechan de ustedes, a quienes los engañan y desprecian, y a quienes los golpean en la cara!",
+      "verse": 20,
+      "start_ms": 154350,
+      "end_ms": 162775,
+      "duration_ms": 8425
+    },
+    {
+      "word": "Me da vergüenza decirlo, pero nosotros no nos atrevimos a tratarlos así.",
+      "verse": 21,
+      "start_ms": 162775,
+      "end_ms": 167825,
+      "duration_ms": 5050
+    },
+    {
+      "word": "Pero ya que otros se atreven a presumir, yo también lo voy a hacer, aunque sea una locura.",
+      "verse": 21,
+      "start_ms": 167825,
+      "end_ms": 173587,
+      "duration_ms": 5762
+    },
+    {
+      "word": "Si ellos son hebreos, yo también lo soy.",
+      "verse": 22,
+      "start_ms": 173587,
+      "end_ms": 176912,
+      "duration_ms": 3325
+    },
+    {
+      "word": "Son israelitas?",
+      "verse": 22,
+      "start_ms": 176912,
+      "end_ms": 178949,
+      "duration_ms": 2037
+    },
+    {
+      "word": "Yo también.",
+      "verse": 22,
+      "start_ms": 178950,
+      "end_ms": 180612,
+      "duration_ms": 1662
+    },
+    {
+      "word": "Son de la familia de Abraham?",
+      "verse": 22,
+      "start_ms": 180612,
+      "end_ms": 182949,
+      "duration_ms": 2337
+    },
+    {
+      "word": "Yo también.",
+      "verse": 22,
+      "start_ms": 182950,
+      "end_ms": 184612,
+      "duration_ms": 1662
+    },
+    {
+      "word": "Son servidores de Cristo?",
+      "verse": 23,
+      "start_ms": 184612,
+      "end_ms": 186987,
+      "duration_ms": 2375
+    },
+    {
+      "word": "Yo lo soy más todavía, aunque sea una locura decirlo.",
+      "verse": 23,
+      "start_ms": 186987,
+      "end_ms": 191274,
+      "duration_ms": 4287
+    },
+    {
+      "word": "Yo he trabajado más que ellos, he estado preso más veces, me han azotado con látigos más que a ellos, y he estado más veces que ellos en peligro de muerte.",
+      "verse": 23,
+      "start_ms": 191275,
+      "end_ms": 201037,
+      "duration_ms": 9762
+    },
+    {
+      "word": "Cinco veces las autoridades judías me han dado treinta y nueve azotes con un látigo.",
+      "verse": 24,
+      "start_ms": 201037,
+      "end_ms": 206474,
+      "duration_ms": 5437
+    },
+    {
+      "word": "Tres veces las autoridades romanas me han golpeado con varas.",
+      "verse": 25,
+      "start_ms": 206475,
+      "end_ms": 210737,
+      "duration_ms": 4262
+    },
+    {
+      "word": "Una vez me tiraron piedras.",
+      "verse": 25,
+      "start_ms": 210737,
+      "end_ms": 213237,
+      "duration_ms": 2500
+    },
+    {
+      "word": "En tres ocasiones se hundió el barco en que yo viajaba.",
+      "verse": 25,
+      "start_ms": 213237,
+      "end_ms": 216712,
+      "duration_ms": 3475
+    },
+    {
+      "word": "Una vez pasé una noche y un día en alta mar, hasta que me rescataron.",
+      "verse": 25,
+      "start_ms": 216712,
+      "end_ms": 221512,
+      "duration_ms": 4800
+    },
+    {
+      "word": "He viajado mucho.",
+      "verse": 26,
+      "start_ms": 221512,
+      "end_ms": 223512,
+      "duration_ms": 2000
+    },
+    {
+      "word": "He cruzado ríos arriesgando mi vida, he estado a punto de ser asaltado, me he visto en peligro entre la gente de mi pueblo y entre los extranjeros, en la ciudad y en el campo, en el mar y entre falsos hermanos de la iglesia.",
+      "verse": 26,
+      "start_ms": 223512,
+      "end_ms": 236624,
+      "duration_ms": 13112
+    },
+    {
+      "word": "He trabajado mucho, y he tenido dificultades.",
+      "verse": 27,
+      "start_ms": 236625,
+      "end_ms": 240537,
+      "duration_ms": 3912
+    },
+    {
+      "word": "Muchas noches las he pasado sin dormir.",
+      "verse": 27,
+      "start_ms": 240537,
+      "end_ms": 243699,
+      "duration_ms": 3162
+    },
+    {
+      "word": "He sufrido hambre y sed, y por falta de ropa he pasado frío.",
+      "verse": 27,
+      "start_ms": 243700,
+      "end_ms": 248300,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Por si esto fuera poco, nunca dejo de preocuparme por todas las iglesias.",
+      "verse": 28,
+      "start_ms": 248300,
+      "end_ms": 253437,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Me enferma ver que alguien se enferme, y me avergüenza y me enoja ver que se haga pecar a otros.",
+      "verse": 29,
+      "start_ms": 253437,
+      "end_ms": 259274,
+      "duration_ms": 5837
+    },
+    {
+      "word": "Si de algo puedo estar orgulloso, es de lo débil que soy.",
+      "verse": 30,
+      "start_ms": 259275,
+      "end_ms": 263412,
+      "duration_ms": 4137
+    },
+    {
+      "word": "El Dios y Padre",
+      "verse": 31,
+      "start_ms": 263412,
+      "end_ms": 265374,
+      "duration_ms": 1962
+    },
+    {
+      "word": "del Señor Jesús, que merece ser siempre alabado, sabe que no estoy mintiendo.",
+      "verse": 31,
+      "start_ms": 265540,
+      "end_ms": 271102,
+      "duration_ms": 5562
+    },
+    {
+      "word": "Cuando estuve en Damasco, el gobernador nombrado por el rey Aretas puso guardias en la ciudad para arrestarme.",
+      "verse": 32,
+      "start_ms": 271052,
+      "end_ms": 277614,
+      "duration_ms": 6562
+    },
+    {
+      "word": "Pero pude escapar porque unos amigos me pusieron en un canasto, y me bajaron por una ventana de la muralla de la ciudad.",
+      "verse": 33,
+      "start_ms": 277615,
+      "end_ms": 284577,
+      "duration_ms": 6962
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "book": "MAT",
+  "chapter": 7,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 28,
+  "word_count": 42,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 78,
+      "text": "No se conviertan en jueces de los demás, y así Dios no los juzgará a ustedes."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 78,
+      "char_end": 212,
+      "text": "Si son muy duros para juzgar a otras personas, Dios será igualmente duro con ustedes. Él los tratará como ustedes traten a los demás."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 212,
+      "char_end": 433,
+      "text": "¿Por qué te fijas en lo malo que hacen otros, y no te das cuenta de las muchas cosas malas que haces tú? Es como si te fijaras que en el ojo del otro hay una basurita, y no te dieras cuenta de que en tu ojo hay una rama."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 433,
+      "char_end": 549,
+      "text": "¿Cómo te atreves a decirle a otro: «Déjame sacarte la basurita que tienes en el ojo», si en tu ojo tienes una rama?"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 549,
+      "char_end": 678,
+      "text": "¡Hipócrita! Primero saca la rama que tienes en tu ojo, y así podrás ver bien para sacar la basurita que está en el ojo del otro."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 678,
+      "char_end": 879,
+      "text": "No den a los perros las cosas que pertenecen a Dios, ni echen delante de los cerdos lo que para ustedes es más valioso. Los cerdos no sabrán apreciar su valor, y los perros pueden morderlos a ustedes."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 879,
+      "char_end": 983,
+      "text": "Pidan a Dios, y él les dará. Hablen con Dios, y encontrarán lo que buscan. Llámenlo, y él los atenderá."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 983,
+      "char_end": 1081,
+      "text": "Porque el que confía en Dios recibe lo que pide, encuentra lo que busca y, si llama, es atendido."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1081,
+      "char_end": 1134,
+      "text": "Nadie le da a su hijo una piedra, si él le pide pan."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1134,
+      "char_end": 1181,
+      "text": "Ni le da una serpiente, si le pide un pescado."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1181,
+      "char_end": 1339,
+      "text": "Si ustedes, que son malos, saben dar cosas buenas a sus hijos, con mayor razón Dios, su Padre que está en el cielo, dará buenas cosas a quienes se las pidan."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1339,
+      "char_end": 1426,
+      "text": "Traten a los demás como ustedes quieran ser tratados, porque eso nos enseña la Biblia."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1426,
+      "char_end": 1546,
+      "text": "Es muy fácil andar por el camino que lleva a la perdición, porque es un camino ancho. ¡Y mucha gente va por ese camino!"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1546,
+      "char_end": 1686,
+      "text": "Pero es muy difícil andar por el camino que lleva a la vida, porque es un camino muy angosto. Por eso, son muy pocos los que lo encuentran."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1686,
+      "char_end": 1877,
+      "text": "¡Cuídense de los profetas mentirosos, que dicen que hablan de parte de Dios! Se presentan ante ustedes tan inofensivos como una oveja, pero en realidad son tan peligrosos como un lobo feroz."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1877,
+      "char_end": 1975,
+      "text": "Ustedes los podrán reconocer, pues no hacen nada bueno. Son como las espinas, que sólo te hieren."
+    },
+    {
+      "verse": 17,
+      "label": "17-18",
+      "char_start": 1975,
+      "char_end": 2060,
+      "text": "El árbol bueno sólo produce frutos buenos y el árbol malo sólo produce frutos malos."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2060,
+      "char_end": 2114,
+      "text": "El árbol que no da buenos frutos se corta y se quema."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2114,
+      "char_end": 2182,
+      "text": "Así que ustedes reconocerán a esos mentirosos por el mal que hacen."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2182,
+      "char_end": 2367,
+      "text": "No todos los que dicen que yo soy su Señor y dueño entrarán en el reino de Dios. Eso no es suficiente; antes que nada deben obedecer los mandamientos de mi Padre, que está en el cielo."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2367,
+      "char_end": 2597,
+      "text": "Cuando llegue el día en que Dios juzgará a todo el mundo, muchos me dirán: «Señor y dueño nuestro, nosotros anunciamos de parte tuya el mensaje a otros. Y también usamos tu nombre para echar fuera demonios y para hacer milagros»."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2597,
+      "char_end": 2687,
+      "text": "Pero yo les diré: ¡Apártense de mí, gente malvada! ¡Yo no tengo nada que ver con ustedes!"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2687,
+      "char_end": 2814,
+      "text": "El que escucha lo que yo enseño y hace lo que yo digo, es como una persona precavida que construyó su casa sobre piedra firme."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2814,
+      "char_end": 2980,
+      "text": "Vino la lluvia, y el agua de los ríos subió mucho, y el viento sopló con fuerza contra la casa. Pero la casa no se cayó, porque estaba construida sobre piedra firme."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2980,
+      "char_end": 3106,
+      "text": "Pero el que escucha lo que yo enseño y no hace lo que yo digo es como una persona tonta que construyó su casa sobre la arena."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3106,
+      "char_end": 3250,
+      "text": "Vino la lluvia, y el agua de los ríos subió mucho, y el viento sopló con fuerza contra la casa. Y la casa se cayó y quedó totalmente destruida."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3250,
+      "char_end": 3345,
+      "text": "Cuando Jesús terminó de hablar, todos los que escuchaban quedaron admirados de sus enseñanzas,"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3345,
+      "char_end": 3420,
+      "text": "porque Jesús hablaba con toda autoridad, y no como los maestros de la Ley."
+    }
+  ],
+  "words": [
+    {
+      "word": "No se conviertan en jueces de los demás, y así Dios no los juzgará a ustedes.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5500,
+      "duration_ms": 5400
+    },
+    {
+      "word": "Si son muy duros para juzgar a otras personas, Dios será igualmente duro con ustedes.",
+      "verse": 2,
+      "start_ms": 5450,
+      "end_ms": 11300,
+      "duration_ms": 5850
+    },
+    {
+      "word": "Él los tratará como ustedes traten a los demás.",
+      "verse": 2,
+      "start_ms": 11300,
+      "end_ms": 14812,
+      "duration_ms": 3512
+    },
+    {
+      "word": "Por qué te fijas en lo malo que hacen otros, y no te das cuenta de las muchas cosas malas que haces tú?",
+      "verse": 3,
+      "start_ms": 14812,
+      "end_ms": 21012,
+      "duration_ms": 6200
+    },
+    {
+      "word": "Es como si te fijaras que en el ojo del otro hay una basurita, y no te dieras cuenta de que en tu ojo hay una rama.",
+      "verse": 3,
+      "start_ms": 21012,
+      "end_ms": 27912,
+      "duration_ms": 6900
+    },
+    {
+      "word": "Cómo te atreves a decirle a otro: «Déjame sacarte la basurita que tienes en el ojo», si en tu ojo tienes una rama?",
+      "verse": 4,
+      "start_ms": 27912,
+      "end_ms": 35337,
+      "duration_ms": 7425
+    },
+    {
+      "word": "Hipócrita!",
+      "verse": 5,
+      "start_ms": 35337,
+      "end_ms": 36999,
+      "duration_ms": 1662
+    },
+    {
+      "word": "Primero saca la rama que tienes en tu ojo, y así podrás ver bien para sacar la basurita que está en el ojo del otro.",
+      "verse": 5,
+      "start_ms": 37000,
+      "end_ms": 44087,
+      "duration_ms": 7087
+    },
+    {
+      "word": "No den a los perros las cosas que pertenecen a Dios, ni echen delante de los cerdos lo que para ustedes es más valioso.",
+      "verse": 6,
+      "start_ms": 44087,
+      "end_ms": 50974,
+      "duration_ms": 6887
+    },
+    {
+      "word": "Los cerdos no sabrán apreciar su valor, y los perros pueden morderlos a ustedes.",
+      "verse": 6,
+      "start_ms": 50975,
+      "end_ms": 56387,
+      "duration_ms": 5412
+    },
+    {
+      "word": "Pidan a Dios, y él les dará.",
+      "verse": 7,
+      "start_ms": 56387,
+      "end_ms": 59112,
+      "duration_ms": 2725
+    },
+    {
+      "word": "Hablen con Dios, y encontrarán lo que buscan.",
+      "verse": 7,
+      "start_ms": 59112,
+      "end_ms": 62649,
+      "duration_ms": 3537
+    },
+    {
+      "word": "Llámenlo, y él los atenderá.",
+      "verse": 7,
+      "start_ms": 62650,
+      "end_ms": 65462,
+      "duration_ms": 2812
+    },
+    {
+      "word": "Porque el que confía en Dios recibe lo que pide, encuentra lo que busca y, si llama, es atendido.",
+      "verse": 8,
+      "start_ms": 65462,
+      "end_ms": 71812,
+      "duration_ms": 6350
+    },
+    {
+      "word": "Nadie le da a su hijo una piedra, si él le pide pan.",
+      "verse": 9,
+      "start_ms": 71812,
+      "end_ms": 75999,
+      "duration_ms": 4187
+    },
+    {
+      "word": "Ni le da una serpiente, si le pide un pescado.",
+      "verse": 10,
+      "start_ms": 76000,
+      "end_ms": 79800,
+      "duration_ms": 3800
+    },
+    {
+      "word": "Si ustedes, que son malos, saben dar cosas buenas a sus hijos, con mayor razón Dios, su Padre que está en el cielo, dará buenas cosas a quienes se las pidan.",
+      "verse": 11,
+      "start_ms": 79800,
+      "end_ms": 89925,
+      "duration_ms": 10125
+    },
+    {
+      "word": "Traten a los demás como ustedes quieran ser tratados, porque eso nos enseña la Biblia.",
+      "verse": 12,
+      "start_ms": 89925,
+      "end_ms": 95562,
+      "duration_ms": 5637
+    },
+    {
+      "word": "Es muy fácil andar por el camino que lleva a la perdición, porque es un camino ancho.",
+      "verse": 13,
+      "start_ms": 95562,
+      "end_ms": 101062,
+      "duration_ms": 5500
+    },
+    {
+      "word": "Y mucha gente va por ese camino!",
+      "verse": 13,
+      "start_ms": 101062,
+      "end_ms": 103737,
+      "duration_ms": 2675
+    },
+    {
+      "word": "Pero es muy difícil andar por el camino que lleva a la vida, porque es un camino muy angosto.",
+      "verse": 14,
+      "start_ms": 103737,
+      "end_ms": 109599,
+      "duration_ms": 5862
+    },
+    {
+      "word": "Por eso, son muy pocos los que lo encuentran.",
+      "verse": 14,
+      "start_ms": 109600,
+      "end_ms": 113025,
+      "duration_ms": 3425
+    },
+    {
+      "word": "Cuídense de los profetas mentirosos, que dicen que hablan de parte de Dios!",
+      "verse": 15,
+      "start_ms": 113025,
+      "end_ms": 118100,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Se presentan ante ustedes tan inofensivos como una oveja, pero en realidad son tan peligrosos como un lobo feroz.",
+      "verse": 15,
+      "start_ms": 118100,
+      "end_ms": 125175,
+      "duration_ms": 7075
+    },
+    {
+      "word": "Ustedes los podrán reconocer, pues no hacen nada bueno.",
+      "verse": 16,
+      "start_ms": 125175,
+      "end_ms": 129475,
+      "duration_ms": 4300
+    },
+    {
+      "word": "Son como las espinas, que sólo te hieren.",
+      "verse": 16,
+      "start_ms": 129475,
+      "end_ms": 132900,
+      "duration_ms": 3425
+    },
+    {
+      "word": "El árbol bueno sólo produce frutos buenos y el árbol malo sólo produce frutos malos.",
+      "verse": 17,
+      "start_ms": 132900,
+      "end_ms": 138475,
+      "duration_ms": 5575
+    },
+    {
+      "word": "El árbol que no da buenos frutos se corta y se quema.",
+      "verse": 19,
+      "start_ms": 138475,
+      "end_ms": 142037,
+      "duration_ms": 3562
+    },
+    {
+      "word": "Así que ustedes reconocerán a esos mentirosos por el mal que hacen.",
+      "verse": 20,
+      "start_ms": 142037,
+      "end_ms": 146487,
+      "duration_ms": 4450
+    },
+    {
+      "word": "No todos los que dicen que yo soy su Señor y dueño entrarán en el reino de Dios.",
+      "verse": 21,
+      "start_ms": 146487,
+      "end_ms": 151499,
+      "duration_ms": 5012
+    },
+    {
+      "word": "Eso no es suficiente; antes que nada deben obedecer los mandamientos de mi Padre, que está en el cielo.",
+      "verse": 21,
+      "start_ms": 151500,
+      "end_ms": 158225,
+      "duration_ms": 6725
+    },
+    {
+      "word": "Cuando llegue el día en que Dios juzgará a todo el mundo, muchos me dirán: «Señor y dueño nuestro, nosotros anunciamos de parte tuya el mensaje a otros.",
+      "verse": 22,
+      "start_ms": 158225,
+      "end_ms": 167575,
+      "duration_ms": 9350
+    },
+    {
+      "word": "Y también usamos tu nombre para echar fuera demonios y para hacer milagros».",
+      "verse": 22,
+      "start_ms": 167575,
+      "end_ms": 172225,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Pero yo les diré: ¡Apártense de mí, gente malvada!",
+      "verse": 23,
+      "start_ms": 172225,
+      "end_ms": 176337,
+      "duration_ms": 4112
+    },
+    {
+      "word": "Yo no tengo nada que ver con ustedes!",
+      "verse": 23,
+      "start_ms": 176337,
+      "end_ms": 179187,
+      "duration_ms": 2850
+    },
+    {
+      "word": "El que escucha lo que yo enseño y hace lo que yo digo, es como una persona precavida que construyó su casa sobre piedra firme.",
+      "verse": 24,
+      "start_ms": 179187,
+      "end_ms": 186612,
+      "duration_ms": 7425
+    },
+    {
+      "word": "Vino la lluvia, y el agua de los ríos subió mucho, y el viento sopló con fuerza contra la casa.",
+      "verse": 25,
+      "start_ms": 186612,
+      "end_ms": 193212,
+      "duration_ms": 6600
+    },
+    {
+      "word": "Pero la casa no se cayó, porque estaba construida sobre piedra firme.",
+      "verse": 25,
+      "start_ms": 193212,
+      "end_ms": 198074,
+      "duration_ms": 4862
+    },
+    {
+      "word": "Pero el que escucha lo que yo enseño y no hace lo que yo digo es como una persona tonta que construyó su casa sobre la arena.",
+      "verse": 26,
+      "start_ms": 198075,
+      "end_ms": 204937,
+      "duration_ms": 6862
+    },
+    {
+      "word": "Vino la lluvia, y el agua de los ríos subió mucho, y el viento sopló con fuerza contra la casa.",
+      "verse": 27,
+      "start_ms": 204937,
+      "end_ms": 211537,
+      "duration_ms": 6600
+    },
+    {
+      "word": "Y la casa se cayó y quedó totalmente destruida.",
+      "verse": 27,
+      "start_ms": 211537,
+      "end_ms": 215249,
+      "duration_ms": 3712
+    },
+    {
+      "word": "Cuando Jesús terminó de hablar, todos los que escuchaban quedaron admirados de sus enseñanzas, porque Jesús hablaba con toda autoridad, y no como los maestros de la Ley.",
+      "verse": 28,
+      "start_ms": 215250,
+      "end_ms": 225312,
+      "duration_ms": 10062
+    }
+  ]
+}

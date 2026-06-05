@@ -1,0 +1,222 @@
+{
+  "book": "SAL",
+  "chapter": 56,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 12,
+  "word_count": 18,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 101,
+      "text": "Dios mío, ten compasión de mí, pues hay quienes me persiguen. A toda hora me atacan y me atormentan."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 101,
+      "char_end": 207,
+      "text": "Mis enemigos no dejan de atacarme ni de noche ni de día; ¡son ya demasiados los orgullosos que me atacan!"
+    },
+    {
+      "verse": 3,
+      "label": "3-4",
+      "char_start": 207,
+      "char_end": 358,
+      "text": "Cuando siento miedo, confío en ti, mi Dios, y te alabo por tus promesas; Confío en ti, mi Dios, y ya no siento miedo. ¡Nadie podrá hacerme daño jamás!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 358,
+      "char_end": 420,
+      "text": "Siempre cambian mis palabras, y sólo piensan en perjudicarme."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 420,
+      "char_end": 527,
+      "text": "Se ponen a espiarme y hacen planes contra mí; ¡tantas ganas tienen de matarme que vigilan todos mis pasos!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 527,
+      "char_end": 609,
+      "text": "Dios mío, ¡enójate con mis enemigos y ponlos en vergüenza! ¡No los dejes escapar!"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 609,
+      "char_end": 697,
+      "text": "Anota en tu libro todas las veces que he huido; tú bien sabes las veces que he llorado."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 697,
+      "char_end": 804,
+      "text": "Cuando yo te pida ayuda, mis enemigos saldrán huyendo. Yo estoy seguro, Dios mío, que cuento con tu apoyo."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 804,
+      "char_end": 906,
+      "text": "Confío en ti, mi Dios, y te alabo por tus promesas. Confío en ti, Señor, y te alabo por tus promesas."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 906,
+      "char_end": 984,
+      "text": "Confío en ti, mi Dios, y ya no siento miedo. ¡Nadie podrá hacerme daño jamás!"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 984,
+      "char_end": 1082,
+      "text": "Yo te prometo, Dios mío, que te cumpliré mis promesas, y delante de tu altar te daré las gracias."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1082,
+      "char_end": 1212,
+      "text": "Tú, mi Dios, me libraste de caer, me libraste de morir, para que nunca deje yo de andar en tu presencia que es la luz de la vida."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios mío, ten compasión de mí, pues hay quienes me persiguen.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4437,
+      "duration_ms": 4337
+    },
+    {
+      "word": "A toda hora me atacan y me atormentan.",
+      "verse": 1,
+      "start_ms": 4387,
+      "end_ms": 7449,
+      "duration_ms": 3062
+    },
+    {
+      "word": "Mis enemigos no dejan de atacarme ni de noche ni de día; ¡son ya demasiados los orgullosos que me atacan!",
+      "verse": 2,
+      "start_ms": 7450,
+      "end_ms": 14100,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Cuando siento miedo, confío en ti, mi Dios, y te alabo por tus promesas; Confío en ti, mi Dios, y ya no siento miedo.",
+      "verse": 3,
+      "start_ms": 14100,
+      "end_ms": 22887,
+      "duration_ms": 8787
+    },
+    {
+      "word": "Nadie podrá hacerme daño jamás!",
+      "verse": 3,
+      "start_ms": 22887,
+      "end_ms": 25687,
+      "duration_ms": 2800
+    },
+    {
+      "word": "Siempre cambian mis palabras, y sólo piensan en perjudicarme.",
+      "verse": 5,
+      "start_ms": 25687,
+      "end_ms": 30062,
+      "duration_ms": 4375
+    },
+    {
+      "word": "Se ponen a espiarme y hacen planes contra mí; ¡tantas ganas tienen de matarme que vigilan todos mis pasos!",
+      "verse": 6,
+      "start_ms": 30062,
+      "end_ms": 36699,
+      "duration_ms": 6637
+    },
+    {
+      "word": "Dios mío, ¡enójate con mis enemigos y ponlos en vergüenza!",
+      "verse": 7,
+      "start_ms": 36700,
+      "end_ms": 40950,
+      "duration_ms": 4250
+    },
+    {
+      "word": "No los dejes escapar!",
+      "verse": 7,
+      "start_ms": 40950,
+      "end_ms": 43025,
+      "duration_ms": 2075
+    },
+    {
+      "word": "Anota en tu libro todas las veces que he huido; tú bien sabes las veces que he llorado.",
+      "verse": 8,
+      "start_ms": 43025,
+      "end_ms": 48662,
+      "duration_ms": 5637
+    },
+    {
+      "word": "Cuando yo te pida ayuda, mis enemigos saldrán huyendo.",
+      "verse": 9,
+      "start_ms": 48662,
+      "end_ms": 52674,
+      "duration_ms": 4012
+    },
+    {
+      "word": "Yo estoy seguro, Dios mío, que cuento con tu apoyo.",
+      "verse": 9,
+      "start_ms": 52675,
+      "end_ms": 56812,
+      "duration_ms": 4137
+    },
+    {
+      "word": "Confío en ti, mi Dios, y te alabo por tus promesas.",
+      "verse": 10,
+      "start_ms": 56812,
+      "end_ms": 61262,
+      "duration_ms": 4450
+    },
+    {
+      "word": "Confío en ti, Señor, y te alabo por tus promesas.",
+      "verse": 10,
+      "start_ms": 61262,
+      "end_ms": 65574,
+      "duration_ms": 4312
+    },
+    {
+      "word": "Confío en ti, mi Dios, y ya no siento miedo.",
+      "verse": 11,
+      "start_ms": 65575,
+      "end_ms": 69500,
+      "duration_ms": 3925
+    },
+    {
+      "word": "Nadie podrá hacerme daño jamás!",
+      "verse": 11,
+      "start_ms": 69500,
+      "end_ms": 72300,
+      "duration_ms": 2800
+    },
+    {
+      "word": "Yo te prometo, Dios mío, que te cumpliré mis promesas, y delante de tu altar te daré las gracias.",
+      "verse": 12,
+      "start_ms": 72300,
+      "end_ms": 79300,
+      "duration_ms": 7000
+    },
+    {
+      "word": "Tú, mi Dios, me libraste de caer, me libraste de morir, para que nunca deje yo de andar en tu presencia que es la luz de la vida.",
+      "verse": 13,
+      "start_ms": 79300,
+      "end_ms": 87587,
+      "duration_ms": 8287
+    }
+  ]
+}

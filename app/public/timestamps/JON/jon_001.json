@@ -1,0 +1,376 @@
+{
+  "book": "JON",
+  "chapter": 1,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 16,
+  "word_count": 36,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 88,
+      "text": "Cierto día, un hombre llamado Jonás hijo de Amitai recibió un mensaje de parte de Dios:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 88,
+      "char_end": 175,
+      "text": "¡Levántate, ve a la gran ciudad de Nínive y diles que ya he visto lo malvados que son!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 175,
+      "char_end": 439,
+      "text": "Pero en vez de ir a Nínive, Jonás decidió irse lo más lejos posible, a un lugar donde Dios no pudiera encontrarlo. Llegó al puerto de Jope y encontró un barco que estaba a punto de salir. Pagó su pasaje y se embarcó, contento de irse lo más lejos posible de Dios."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 439,
+      "char_end": 601,
+      "text": "Cuando ya estaban en alta mar, Dios mandó un viento muy fuerte que pronto se convirtió en una terrible tempestad. El barco estaba a punto de romperse en pedazos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 601,
+      "char_end": 820,
+      "text": "Cada uno de los marineros, temblando de miedo, llamaba a gritos a su dios. Ya desesperados, arrojaron al mar toda la carga del barco para quitarle peso. Mientras tanto, Jonás dormía plácidamente en la bodega del barco."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 820,
+      "char_end": 968,
+      "text": "El capitán se le acercó y le dijo: —¡Qué haces aquí, dormilón! ¡Levántate y pide ayuda a tu dios! ¡Tal vez nos salve al ver que estamos en peligro!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 968,
+      "char_end": 1121,
+      "text": "Al mismo tiempo, los marineros decían: —Echemos suertes para saber quién tiene la culpa de nuestra desgracia. Echaron suertes, y Jonás resultó culpable."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1121,
+      "char_end": 1295,
+      "text": "Entonces, los marineros preguntaron a Jonás: —¡Dinos ya por qué estamos sufriendo todo esto! ¿En qué trabajas? ¿De dónde vienes? ¿Cuál es tu país? ¿De qué nacionalidad eres?"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1295,
+      "char_end": 1447,
+      "text": "Jonás respondió: —Soy hebreo y adoro a nuestro Dios, soberano y creador de todas las cosas. Lo que está pasando es culpa mía, pues estoy huyendo de él."
+    },
+    {
+      "verse": 10,
+      "label": "10-11",
+      "char_start": 1447,
+      "char_end": 1620,
+      "text": "Los marineros, llenos de terror, le dijeron: —¿Por qué has hecho esto? ¿Qué podemos hacer contigo? ¡El agua se nos viene encima y la tormenta se está poniendo más violenta!"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1620,
+      "char_end": 1732,
+      "text": "—Échenme al mar, y el mar se calmará —contestó Jonás—. Esta terrible tempestad cayó sobre ustedes por mi culpa."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1732,
+      "char_end": 1912,
+      "text": "Los marineros comenzaron a remar con todas sus fuerzas, tratando de acercar el barco a tierra; pero no pudieron. Las olas eran cada vez más altas, y la tormenta casi los destruía."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1912,
+      "char_end": 2106,
+      "text": "Desesperados, los marineros gritaron: ¡Dios! ¡Por favor, no nos dejes morir por matar a un hombre inocente! No nos culpes de su muerte, pues eres tú, Dios mío, quien ha querido hacer todo esto."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2106,
+      "char_end": 2196,
+      "text": "Entonces los marineros tomaron a Jonás y lo tiraron al mar. De inmediato el mar se calmó."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2196,
+      "char_end": 2335,
+      "text": "Al ver lo sucedido, los marineros reconocieron al Dios de Israel como su Dios, le presentaron una ofrenda y prometieron seguir adorándolo."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2335,
+      "char_end": 2447,
+      "text": "Entonces Dios mandó un pez enorme, que se tragó a Jonás. Y Jonás estuvo dentro del pez tres días y tres noches."
+    }
+  ],
+  "words": [
+    {
+      "word": "Cierto día, un hombre llamado Jonás hijo de Amitai recibió un mensaje de parte de Dios: ¡Levántate, ve a la gran ciudad de Nínive y diles que ya he visto lo malvados que son!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 10675,
+      "duration_ms": 10575
+    },
+    {
+      "word": "Pero en vez de ir a Nínive, Jonás decidió irse lo más lejos posible, a un lugar donde Dios no pudiera encontrarlo.",
+      "verse": 3,
+      "start_ms": 10625,
+      "end_ms": 17825,
+      "duration_ms": 7200
+    },
+    {
+      "word": "Llegó al puerto de Jope y encontró un barco que estaba a punto de salir.",
+      "verse": 3,
+      "start_ms": 17825,
+      "end_ms": 22562,
+      "duration_ms": 4737
+    },
+    {
+      "word": "Pagó su pasaje y se embarcó, contento de irse lo más lejos posible de Dios.",
+      "verse": 3,
+      "start_ms": 22562,
+      "end_ms": 28037,
+      "duration_ms": 5475
+    },
+    {
+      "word": "Cuando ya estaban en alta mar, Dios mandó un viento muy fuerte que pronto se convirtió en una terrible tempestad.",
+      "verse": 4,
+      "start_ms": 28037,
+      "end_ms": 34787,
+      "duration_ms": 6750
+    },
+    {
+      "word": "El barco estaba a punto de romperse en pedazos.",
+      "verse": 4,
+      "start_ms": 34787,
+      "end_ms": 38349,
+      "duration_ms": 3562
+    },
+    {
+      "word": "Cada uno de los marineros, temblando de miedo, llamaba a gritos a su dios.",
+      "verse": 5,
+      "start_ms": 38350,
+      "end_ms": 43850,
+      "duration_ms": 5500
+    },
+    {
+      "word": "Ya desesperados, arrojaron al mar toda la carga del barco para quitarle peso.",
+      "verse": 5,
+      "start_ms": 43850,
+      "end_ms": 49362,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Mientras tanto, Jonás dormía plácidamente en la bodega del barco.",
+      "verse": 5,
+      "start_ms": 49362,
+      "end_ms": 54074,
+      "duration_ms": 4712
+    },
+    {
+      "word": "El capitán se le acercó y le dijo: —¡Qué haces aquí, dormilón!",
+      "verse": 6,
+      "start_ms": 54075,
+      "end_ms": 58675,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Levántate y pide ayuda a tu dios!",
+      "verse": 6,
+      "start_ms": 58675,
+      "end_ms": 61537,
+      "duration_ms": 2862
+    },
+    {
+      "word": "Tal vez nos salve al ver que estamos en peligro!",
+      "verse": 6,
+      "start_ms": 61537,
+      "end_ms": 64749,
+      "duration_ms": 3212
+    },
+    {
+      "word": "Al mismo tiempo, los marineros decían: —Echemos suertes para saber quién tiene la culpa de nuestra desgracia.",
+      "verse": 7,
+      "start_ms": 64750,
+      "end_ms": 71575,
+      "duration_ms": 6825
+    },
+    {
+      "word": "Echaron suertes, y Jonás resultó culpable.",
+      "verse": 7,
+      "start_ms": 71575,
+      "end_ms": 75200,
+      "duration_ms": 3625
+    },
+    {
+      "word": "Entonces, los marineros preguntaron a Jonás: —¡Dinos ya por qué estamos sufriendo todo esto!",
+      "verse": 8,
+      "start_ms": 75200,
+      "end_ms": 81400,
+      "duration_ms": 6200
+    },
+    {
+      "word": "En qué trabajas?",
+      "verse": 8,
+      "start_ms": 81400,
+      "end_ms": 83300,
+      "duration_ms": 1900
+    },
+    {
+      "word": "De dónde vienes?",
+      "verse": 8,
+      "start_ms": 83300,
+      "end_ms": 85175,
+      "duration_ms": 1875
+    },
+    {
+      "word": "Cuál es tu país?",
+      "verse": 8,
+      "start_ms": 85175,
+      "end_ms": 87050,
+      "duration_ms": 1875
+    },
+    {
+      "word": "De qué nacionalidad eres?",
+      "verse": 8,
+      "start_ms": 87050,
+      "end_ms": 89512,
+      "duration_ms": 2462
+    },
+    {
+      "word": "Jonás respondió: —Soy hebreo y adoro a nuestro Dios, soberano y creador de todas las cosas.",
+      "verse": 9,
+      "start_ms": 89512,
+      "end_ms": 96224,
+      "duration_ms": 6712
+    },
+    {
+      "word": "Lo que está pasando es culpa mía, pues estoy huyendo de él.",
+      "verse": 9,
+      "start_ms": 96225,
+      "end_ms": 100537,
+      "duration_ms": 4312
+    },
+    {
+      "word": "Los marineros, llenos de terror, le dijeron: —¿Por qué has hecho esto?",
+      "verse": 10,
+      "start_ms": 100537,
+      "end_ms": 105899,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Qué podemos hacer contigo?",
+      "verse": 10,
+      "start_ms": 105900,
+      "end_ms": 108262,
+      "duration_ms": 2362
+    },
+    {
+      "word": "El agua se nos viene encima y la tormenta se está poniendo más violenta!",
+      "verse": 10,
+      "start_ms": 108262,
+      "end_ms": 112699,
+      "duration_ms": 4437
+    },
+    {
+      "word": "Échenme al mar, y el mar se calmará —contestó Jonás—.",
+      "verse": 12,
+      "start_ms": 112700,
+      "end_ms": 117075,
+      "duration_ms": 4375
+    },
+    {
+      "word": "Esta terrible tempestad cayó sobre ustedes por mi culpa.",
+      "verse": 12,
+      "start_ms": 117075,
+      "end_ms": 120987,
+      "duration_ms": 3912
+    },
+    {
+      "word": "Los marineros comenzaron a remar con todas sus fuerzas, tratando de acercar el barco a tierra; pero no pudieron.",
+      "verse": 13,
+      "start_ms": 120987,
+      "end_ms": 128037,
+      "duration_ms": 7050
+    },
+    {
+      "word": "Las olas eran cada vez más altas, y la tormenta casi los destruía.",
+      "verse": 13,
+      "start_ms": 128037,
+      "end_ms": 132862,
+      "duration_ms": 4825
+    },
+    {
+      "word": "Desesperados, los marineros gritaron: ¡Dios!",
+      "verse": 14,
+      "start_ms": 132862,
+      "end_ms": 136837,
+      "duration_ms": 3975
+    },
+    {
+      "word": "Por favor, no nos dejes morir por matar a un hombre inocente!",
+      "verse": 14,
+      "start_ms": 136837,
+      "end_ms": 141024,
+      "duration_ms": 4187
+    },
+    {
+      "word": "No nos culpes de su muerte, pues eres tú, Dios mío, quien ha querido hacer todo esto.",
+      "verse": 14,
+      "start_ms": 141025,
+      "end_ms": 147137,
+      "duration_ms": 6112
+    },
+    {
+      "word": "Entonces los marineros tomaron a Jonás y lo tiraron al mar.",
+      "verse": 15,
+      "start_ms": 147137,
+      "end_ms": 151149,
+      "duration_ms": 4012
+    },
+    {
+      "word": "De inmediato el mar se calmó.",
+      "verse": 15,
+      "start_ms": 151150,
+      "end_ms": 153712,
+      "duration_ms": 2562
+    },
+    {
+      "word": "Al ver lo sucedido, los marineros reconocieron al Dios de Israel como su Dios, le presentaron una ofrenda y prometieron seguir adorándolo.",
+      "verse": 16,
+      "start_ms": 153712,
+      "end_ms": 161974,
+      "duration_ms": 8262
+    },
+    {
+      "word": "Entonces Dios mandó un pez enorme, que se tragó a Jonás.",
+      "verse": 17,
+      "start_ms": 161975,
+      "end_ms": 166350,
+      "duration_ms": 4375
+    },
+    {
+      "word": "Y Jonás estuvo dentro del pez tres días y tres noches.",
+      "verse": 17,
+      "start_ms": 166350,
+      "end_ms": 170475,
+      "duration_ms": 4125
+    }
+  ]
+}

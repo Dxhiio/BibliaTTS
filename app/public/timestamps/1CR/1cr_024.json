@@ -1,0 +1,180 @@
+{
+  "book": "1CR",
+  "chapter": 24,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 6,
+  "word_count": 18,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 140,
+      "text": "Aarón tuvo cuatro hijos: Nadab, Abihú, Eleazar, Itamar. Aarón y sus descendientes fueron los encargados de todos los trabajos sacerdotales."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 140,
+      "char_end": 273,
+      "text": "Pero como Nadab y Abihú murieron antes que su padre, y no tuvieron hijos, Eleazar e Itamar se hicieron cargo del trabajo sacerdotal."
+    },
+    {
+      "verse": 3,
+      "label": "3-6",
+      "char_start": 273,
+      "char_end": 1054,
+      "text": "Después de hacer un sorteo, David, Sadoc y Ahimélec les asignaron turnos a los sacerdotes para que prestaran sus servicios. Lo hicieron así porque tanto entre los descendientes de Eleazar como entre los de Itamar había sacerdotes muy importantes dedicados al servicio del templo. Uno de los ayudantes de los sacerdotes, llamado Semaías hijo de Natanael, fue el encargado de anotar todos los nombres en una lista oficial; el rey, los jefes, los sacerdotes Sadoc y Ahimélec, y los jefes de los grupos sacerdotales y de los grupos de ayudantes, fueron testigos de cómo se escribió esta lista. Como había más sacerdotes descendientes de Eleazar que de Itamar, se asignaron más turnos a los jefes de Eleazar. A los de Itamar se les asignaron ocho turnos, y a los de Eleazar, dieciséis."
+    },
+    {
+      "verse": 7,
+      "label": "7-18",
+      "char_start": 1054,
+      "char_end": 1295,
+      "text": "Según el sorteo que se hizo, éste es el orden: Joiarib, Jedaías, Harim, Seorim, Malquías, Mijamín, Cos, Abías, Jesús, Secanías, Eliasib, Jaquim, Hupá, Jesebab, Bilgá, Imer, Hezir, Pisés, Petahías, Hezequiel, Jaquín, Gamul, Delaías, Maazías."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1295,
+      "char_end": 1447,
+      "text": "De acuerdo a este orden, estos sacerdotes se fueron turnando para servir en el templo, tal como lo había ordenado el Dios de Israel por medio de Aarón."
+    },
+    {
+      "verse": 20,
+      "label": "20-31",
+      "char_start": 1447,
+      "char_end": 2528,
+      "text": "Hubo otros ayudantes que también fueron asignados por sorteo para servir en el templo. Y tanto los sacerdotes como estos ayudantes fueron tratados de igual manera. También en este caso el rey David, Sadoc, Ahimélec y los jefes de los grupos familiares de los sacerdotes y de los descendientes de Leví, fueron testigos de cómo se hizo el sorteo. Ésta es la lista de sus nombres y del grupo al que pertenecían: Subael, descendiente de Amram; Jehedías, descendiente de Subael; Isías, descendiente de Rehabías. Isías era el principal de ellos. Selomot, descendiente de Ishar; Jáhat, descendiente de Selomot; Jerías, Amarías, Jahaziel, Jecamán; los cuatro anteriores eran descendientes de Hebrón; Micaías, descendiente de Uziel; Samir, descendiente de Micaías; Isías, hermano de Micaías; Zacarías, descendiente de Isías; Mahli, Musí, descendientes de Merarí; Sóham, Zacur, Ibrí, descendientes de Jaazías, hijo de Merarí; Eleazar, descendiente de Mahli, hijo de Merarí. Eleazar no tuvo hijos. Jerahmeel, descendiente de Quis, hijo de Merarí; Mahli, Éder, Jerimot, descendientes de Musí."
+    }
+  ],
+  "words": [
+    {
+      "word": "Aarón tuvo cuatro hijos: Nadab, Abihú, Eleazar, Itamar.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5475,
+      "duration_ms": 5375
+    },
+    {
+      "word": "Aarón y sus descendientes fueron los encargados de todos los trabajos sacerdotales.",
+      "verse": 1,
+      "start_ms": 5425,
+      "end_ms": 10637,
+      "duration_ms": 5212
+    },
+    {
+      "word": "Pero como Nadab y Abihú murieron antes que su padre, y no tuvieron hijos, Eleazar e Itamar se hicieron cargo del trabajo sacerdotal.",
+      "verse": 2,
+      "start_ms": 10637,
+      "end_ms": 18874,
+      "duration_ms": 8237
+    },
+    {
+      "word": "Después de hacer un sorteo, David, Sadoc y Ahimélec les asignaron turnos a los sacerdotes para que prestaran sus servicios.",
+      "verse": 3,
+      "start_ms": 18875,
+      "end_ms": 26525,
+      "duration_ms": 7650
+    },
+    {
+      "word": "Lo hicieron así porque tanto entre los descendientes de Eleazar como entre los de Itamar había sacerdotes muy importantes dedicados al servicio del templo.",
+      "verse": 3,
+      "start_ms": 26525,
+      "end_ms": 34937,
+      "duration_ms": 8412
+    },
+    {
+      "word": "Uno de los ayudantes de los sacerdotes, llamado Semaías hijo de Natanael, fue el encargado de anotar todos los nombres en una lista oficial; el rey, los jefes, los sacerdotes Sadoc y Ahimélec, y los jefes de los grupos sacerdotales y de los grupos de ayudantes, fueron testigos de cómo se escribió esta lista.",
+      "verse": 3,
+      "start_ms": 34937,
+      "end_ms": 53324,
+      "duration_ms": 18387
+    },
+    {
+      "word": "Como había más sacerdotes descendientes de Eleazar que de Itamar, se asignaron más turnos a los jefes de Eleazar.",
+      "verse": 3,
+      "start_ms": 53325,
+      "end_ms": 60250,
+      "duration_ms": 6925
+    },
+    {
+      "word": "A los de Itamar se les asignaron ocho turnos, y a los de Eleazar, dieciséis.",
+      "verse": 3,
+      "start_ms": 60250,
+      "end_ms": 65750,
+      "duration_ms": 5500
+    },
+    {
+      "word": "Según el sorteo que se hizo, éste es el orden: Joiarib, Jedaías, Harim, Seorim, Malquías, Mijamín, Cos, Abías, Jesús, Secanías, Eliasib, Jaquim, Hupá, Jesebab, Bilgá, Imer, Hezir, Pisés, Petahías, Hezequiel, Jaquín, Gamul, Delaías, Maazías.",
+      "verse": 7,
+      "start_ms": 65750,
+      "end_ms": 88375,
+      "duration_ms": 22625
+    },
+    {
+      "word": "De acuerdo a este orden, estos sacerdotes se fueron turnando para servir en el templo, tal como lo había ordenado el Dios de Israel por medio de Aarón.",
+      "verse": 19,
+      "start_ms": 88375,
+      "end_ms": 96950,
+      "duration_ms": 8575
+    },
+    {
+      "word": "Hubo otros ayudantes que también fueron asignados por sorteo para servir en el templo.",
+      "verse": 20,
+      "start_ms": 96950,
+      "end_ms": 102000,
+      "duration_ms": 5050
+    },
+    {
+      "word": "Y tanto los sacerdotes como estos ayudantes fueron tratados de igual manera.",
+      "verse": 20,
+      "start_ms": 102000,
+      "end_ms": 106775,
+      "duration_ms": 4775
+    },
+    {
+      "word": "También en este caso el rey David, Sadoc, Ahimélec y los jefes de los grupos familiares de los sacerdotes y de los descendientes de Leví, fueron testigos de cómo se hizo el sorteo.",
+      "verse": 20,
+      "start_ms": 106775,
+      "end_ms": 117362,
+      "duration_ms": 10587
+    },
+    {
+      "word": "Ésta es la lista de sus nombres y del grupo al que pertenecían: Subael, descendiente de Amram; Jehedías, descendiente de Subael; Isías, descendiente de Rehabías.",
+      "verse": 20,
+      "start_ms": 117362,
+      "end_ms": 128387,
+      "duration_ms": 11025
+    },
+    {
+      "word": "Isías era el principal de ellos.",
+      "verse": 20,
+      "start_ms": 128387,
+      "end_ms": 131212,
+      "duration_ms": 2825
+    },
+    {
+      "word": "Selomot, descendiente de Ishar; Jáhat, descendiente de Selomot; Jerías, Amarías, Jahaziel, Jecamán; los cuatro anteriores eran descendientes de Hebrón; Micaías, descendiente de Uziel; Samir, descendiente de Micaías; Isías, hermano de Micaías; Zacarías, descendiente de Isías; Mahli, Musí, descendientes de Merarí; Sóham, Zacur, Ibrí, descendientes de Jaazías, hijo de Merarí; Eleazar, descendiente de Mahli, hijo de Merarí.",
+      "verse": 20,
+      "start_ms": 131212,
+      "end_ms": 162274,
+      "duration_ms": 31062
+    },
+    {
+      "word": "Eleazar no tuvo hijos.",
+      "verse": 20,
+      "start_ms": 162275,
+      "end_ms": 164762,
+      "duration_ms": 2487
+    },
+    {
+      "word": "Jerahmeel, descendiente de Quis, hijo de Merarí; Mahli, Éder, Jerimot, descendientes de Musí.",
+      "verse": 20,
+      "start_ms": 164762,
+      "end_ms": 171849,
+      "duration_ms": 7087
+    }
+  ]
+}

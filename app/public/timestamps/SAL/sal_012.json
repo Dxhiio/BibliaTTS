@@ -1,0 +1,110 @@
+{
+  "book": "SAL",
+  "chapter": 12,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 6,
+  "word_count": 8,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 72,
+      "text": "Sálvanos, Dios mío, pues ya no hay en este mundo gente que te sea fiel."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 72,
+      "char_end": 169,
+      "text": "Todo el mundo dice mentiras y unos a otros se engañan; ahora dicen una cosa, y luego dicen otra."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 169,
+      "char_end": 218,
+      "text": "Tú acabarás con esa gente mentirosa y arrogante,"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 218,
+      "char_end": 320,
+      "text": "con esa gente que dice: Lo que nos sobra es lengua; sabemos hablar muy bien. ¡Nadie podrá dominarnos!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 320,
+      "char_end": 445,
+      "text": "Pero tú mismo has dicho: La gente pobre y humilde ya no aguanta tanto maltrato; voy a entrar en acción y los pondré a salvo."
+    },
+    {
+      "verse": 6,
+      "label": "6-8",
+      "char_start": 445,
+      "char_end": 693,
+      "text": "Dios mío, tú siempre cumples tus promesas y lo has demostrado una y otra vez. Tus promesas son más valiosas que plata refinada. Podrá haber malvados en el mundo, y la maldad ir en aumento, pero tú siempre nos proteges y nos defiendes de esa gente."
+    }
+  ],
+  "words": [
+    {
+      "word": "Sálvanos, Dios mío, pues ya no hay en este mundo gente que te sea fiel.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5262,
+      "duration_ms": 5162
+    },
+    {
+      "word": "Todo el mundo dice mentiras y unos a otros se engañan; ahora dicen una cosa, y luego dicen otra.",
+      "verse": 2,
+      "start_ms": 5212,
+      "end_ms": 11749,
+      "duration_ms": 6537
+    },
+    {
+      "word": "Tú acabarás con esa gente mentirosa y arrogante, con esa gente que dice: Lo que nos sobra es lengua; sabemos hablar muy bien.",
+      "verse": 3,
+      "start_ms": 11750,
+      "end_ms": 19725,
+      "duration_ms": 7975
+    },
+    {
+      "word": "Nadie podrá dominarnos!",
+      "verse": 4,
+      "start_ms": 19725,
+      "end_ms": 22137,
+      "duration_ms": 2412
+    },
+    {
+      "word": "Pero tú mismo has dicho: La gente pobre y humilde ya no aguanta tanto maltrato; voy a entrar en acción y los pondré a salvo.",
+      "verse": 5,
+      "start_ms": 22137,
+      "end_ms": 29699,
+      "duration_ms": 7562
+    },
+    {
+      "word": "Dios mío, tú siempre cumples tus promesas y lo has demostrado una y otra vez.",
+      "verse": 6,
+      "start_ms": 29700,
+      "end_ms": 35200,
+      "duration_ms": 5500
+    },
+    {
+      "word": "Tus promesas son más valiosas que plata refinada.",
+      "verse": 6,
+      "start_ms": 35200,
+      "end_ms": 38737,
+      "duration_ms": 3537
+    },
+    {
+      "word": "Podrá haber malvados en el mundo, y la maldad ir en aumento, pero tú siempre nos proteges y nos defiendes de esa gente.",
+      "verse": 6,
+      "start_ms": 38737,
+      "end_ms": 46099,
+      "duration_ms": 7362
+    }
+  ]
+}

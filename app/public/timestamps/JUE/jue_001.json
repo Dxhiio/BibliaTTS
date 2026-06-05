@@ -1,0 +1,572 @@
+{
+  "book": "JUE",
+  "chapter": 1,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 32,
+  "word_count": 48,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 127,
+      "text": "Después de la muerte de Josué, los israelitas le preguntaron a Dios: —¿Cuál de nuestras tribus atacará primero a los cananeos?"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 127,
+      "char_end": 230,
+      "text": "Dios les respondió: —Primero atacará la tribu de Judá, pues a ellos les voy a entregar ese territorio."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 230,
+      "char_end": 439,
+      "text": "Entonces los de Judá les dijeron a los de Simeón: Vengan con nosotros a pelear contra los cananeos. Primero iremos al territorio que nos ha tocado a nosotros, y después al de ustedes. Los de Simeón aceptaron,"
+    },
+    {
+      "verse": 4,
+      "label": "4-5",
+      "char_start": 439,
+      "char_end": 629,
+      "text": "así que salieron juntos a pelear, y Dios los ayudó a derrotar a los cananeos y a los ferezeos. En Bézec derrotaron a diez mil ferezeos y cananeos, entre los cuales estaba el rey Adonisédec."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 629,
+      "char_end": 780,
+      "text": "Durante la lucha Adonisédec había escapado, pero lo persiguieron y capturaron, y le cortaron los pulgares de las manos y los dedos gordos de los pies."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 780,
+      "char_end": 1016,
+      "text": "Entonces Adonisédec dijo: Dios ha hecho conmigo lo mismo que yo hice con setenta reyes: les corté los pulgares y los dedos gordos, y andaban bajo mi mesa recogiendo las sobras. Después, Adonisédec fue llevado a Jerusalén, y allí murió."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1016,
+      "char_end": 1131,
+      "text": "Los de Judá atacaron a Jerusalén y la conquistaron. Mataron a toda la gente de esa ciudad, y luego la incendiaron."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1131,
+      "char_end": 1238,
+      "text": "Después fueron a atacar a los cananeos que vivían en las montañas, en el desierto del sur y en la llanura."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1238,
+      "char_end": 1399,
+      "text": "Atacaron también a los cananeos que vivían en Hebrón, ciudad que antes se llamaba Quiriat-arbá. Allí derrotaron a los grupos cananeos de Sesai, Ahimán y Talmai."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1399,
+      "char_end": 1489,
+      "text": "Luego los de Judá marcharon hacia la ciudad de Debir, que antes se llamaba Quiriat-séfer."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1489,
+      "char_end": 1568,
+      "text": "Caleb había prometido que quien conquistara Debir se casaría con su hija Acsa,"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1568,
+      "char_end": 1724,
+      "text": "y fue su sobrino Otoniel quien la conquistó. Así que Caleb le dio a Otoniel su hija Acsa por esposa. Otoniel era hijo de Quenaz, el hermano menor de Caleb."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1724,
+      "char_end": 1873,
+      "text": "El día de su casamiento, Otoniel le dijo a Acsa que le pidiera un terreno a su padre. Cuando Caleb la vio bajar de su burro, le preguntó qué quería;"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1873,
+      "char_end": 2025,
+      "text": "y Acsa le dijo: Los terrenos que me has dado no tienen agua. Por favor, dame también manantiales. Y Caleb le dio el manantial Alto y el manantial Bajo."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2025,
+      "char_end": 2206,
+      "text": "Los quenitas, que eran descendientes del suegro de Moisés, salieron de Jericó junto con la tribu de Judá, y se fueron al desierto que está al sur de Arad. Allí se quedaron a vivir."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2206,
+      "char_end": 2360,
+      "text": "Después los de Judá, junto con los de Simeón, derrotaron a los cananeos que vivían en Sefat. Como destruyeron por completo esa ciudad, la llamaron Hormá."
+    },
+    {
+      "verse": 18,
+      "label": "18-19",
+      "char_start": 2360,
+      "char_end": 2601,
+      "text": "Con la ayuda de Dios, la tribu de Judá se apoderó de la zona montañosa, pero no de la llanura, porque los habitantes de esa región tenían carros de hierro. No pudieron conquistar Gaza ni Ascalón ni Ecrón, ni tampoco los territorios vecinos."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2601,
+      "char_end": 2796,
+      "text": "Y tal como Moisés había prometido, la región de Hebrón le fue dada a Caleb, para que allí viviera. Por eso Caleb echó de esa región a los tres grupos de familias que descendían del gigante Anac."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2796,
+      "char_end": 3005,
+      "text": "Pero los de la tribu de Benjamín no pudieron echar a los jebuseos, que vivían en Jerusalén. Por eso, hasta el día en que este relato se escribió, los jebuseos vivieron en Jerusalén, junto con los de Benjamín."
+    },
+    {
+      "verse": 22,
+      "label": "22-23",
+      "char_start": 3005,
+      "char_end": 3155,
+      "text": "Las tribus de Efraín y Manasés decidieron atacar a Betel, la ciudad que antes se llamaba Luz; así que enviaron espías a esa ciudad, y Dios los ayudó."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3155,
+      "char_end": 3298,
+      "text": "Cuando esos espías vieron a un hombre que salía de la ciudad, le dijeron: Si nos muestras cómo entrar en la ciudad, no te haremos ningún daño."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3298,
+      "char_end": 3482,
+      "text": "Aquel hombre les enseñó cómo entrar en la ciudad, y así pudieron entrar los de Efraín y Manasés. Mataron a todos los que allí vivían, pero no al que los había ayudado ni a su familia."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3482,
+      "char_end": 3656,
+      "text": "Más tarde, ese hombre se fue al territorio de los hititas y edificó una nueva ciudad, a la cual llamó Luz; y hasta el momento en que este relato se escribe aún se llama así."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3656,
+      "char_end": 3836,
+      "text": "Los de Manasés no pudieron echar a los que vivían en Bet-seán, Taanac, Dor, Ibleam y Meguido, ni tampoco a los de las aldeas vecinas. Así que los cananeos siguieron viviendo allí."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3836,
+      "char_end": 3980,
+      "text": "Después los israelitas se hicieron más poderosos y obligaron a los cananeos a trabajar para ellos, pero no los pudieron echar de su territorio."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3980,
+      "char_end": 4123,
+      "text": "Los de Efraín tampoco pudieron echar a los cananeos que vivían en Guézer, así que los cananeos siguieron allí, viviendo junto a los de Efraín."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4123,
+      "char_end": 4289,
+      "text": "Los de Zabulón tampoco pudieron echar a los cananeos que vivían en Quitrón y en Nahalal, así que éstos siguieron allí, pero obligados a trabajar para los de Zabulón."
+    },
+    {
+      "verse": 31,
+      "label": "31-32",
+      "char_start": 4289,
+      "char_end": 4464,
+      "text": "Tampoco los de Aser pudieron echar a los cananeos que vivían en Aco, Sidón, Ahlab, Aczib, Helbá, Afec y Rehob, así que se quedaron a vivir entre los cananeos que allí vivían."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4464,
+      "char_end": 4642,
+      "text": "Tampoco los de la tribu de Neftalí pudieron echar a los cananeos que vivían en Bet-semes y Bet-anat, así que éstos siguieron allí, pero obligados a trabajar para los de Neftalí."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4642,
+      "char_end": 4759,
+      "text": "Los de la tribu de Dan tuvieron que retroceder a las montañas porque los amorreos no los dejaron bajar a la llanura."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4759,
+      "char_end": 4939,
+      "text": "Así que los amorreos se quedaron en Jeres, Aialón y Saalbim. Tiempo después, los de Efraín y de Manasés se hicieron más poderosos y obligaron a los amorreos a trabajar para ellos."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4939,
+      "char_end": 5057,
+      "text": "La frontera de los amorreos comenzaba en el paso de Acrabim, llegaba hasta Selá, y de allí seguía hacia las montañas."
+    }
+  ],
+  "words": [
+    {
+      "word": "Después de la muerte de Josué, los israelitas le preguntaron a Dios: —¿Cuál de nuestras tribus atacará primero a los cananeos?",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7912,
+      "duration_ms": 7812
+    },
+    {
+      "word": "Dios les respondió: —Primero atacará la tribu de Judá, pues a ellos les voy a entregar ese territorio.",
+      "verse": 2,
+      "start_ms": 7862,
+      "end_ms": 14512,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Entonces los de Judá les dijeron a los de Simeón: Vengan con nosotros a pelear contra los cananeos.",
+      "verse": 3,
+      "start_ms": 14512,
+      "end_ms": 20787,
+      "duration_ms": 6275
+    },
+    {
+      "word": "Primero iremos al territorio que nos ha tocado a nosotros, y después al de ustedes.",
+      "verse": 3,
+      "start_ms": 20787,
+      "end_ms": 26237,
+      "duration_ms": 5450
+    },
+    {
+      "word": "Los de Simeón aceptaron, así que salieron juntos a pelear, y Dios los ayudó a derrotar a los cananeos y a los ferezeos.",
+      "verse": 3,
+      "start_ms": 26237,
+      "end_ms": 33824,
+      "duration_ms": 7587
+    },
+    {
+      "word": "En Bézec derrotaron a diez mil ferezeos y cananeos, entre los cuales estaba el rey Adonisédec.",
+      "verse": 4,
+      "start_ms": 33825,
+      "end_ms": 40075,
+      "duration_ms": 6250
+    },
+    {
+      "word": "Durante la lucha Adonisédec había escapado, pero lo persiguieron y capturaron, y le cortaron los pulgares de las manos y los dedos gordos de los pies.",
+      "verse": 6,
+      "start_ms": 40075,
+      "end_ms": 48825,
+      "duration_ms": 8750
+    },
+    {
+      "word": "Entonces Adonisédec dijo: Dios ha hecho conmigo lo mismo que yo hice con setenta reyes: les corté los pulgares y los dedos gordos, y andaban bajo mi mesa recogiendo las sobras.",
+      "verse": 7,
+      "start_ms": 48825,
+      "end_ms": 60300,
+      "duration_ms": 11475
+    },
+    {
+      "word": "Después, Adonisédec fue llevado a Jerusalén, y allí murió.",
+      "verse": 7,
+      "start_ms": 60300,
+      "end_ms": 65100,
+      "duration_ms": 4800
+    },
+    {
+      "word": "Los de Judá atacaron a Jerusalén y la conquistaron.",
+      "verse": 8,
+      "start_ms": 65100,
+      "end_ms": 68837,
+      "duration_ms": 3737
+    },
+    {
+      "word": "Mataron a toda la gente de esa ciudad, y luego la incendiaron.",
+      "verse": 8,
+      "start_ms": 68837,
+      "end_ms": 73387,
+      "duration_ms": 4550
+    },
+    {
+      "word": "Después fueron a atacar a los cananeos que vivían en las montañas, en el desierto del sur y en la llanura.",
+      "verse": 9,
+      "start_ms": 73387,
+      "end_ms": 79799,
+      "duration_ms": 6412
+    },
+    {
+      "word": "Atacaron también a los cananeos que vivían en Hebrón, ciudad que antes se llamaba Quiriat-arbá.",
+      "verse": 10,
+      "start_ms": 79800,
+      "end_ms": 85775,
+      "duration_ms": 5975
+    },
+    {
+      "word": "Allí derrotaron a los grupos cananeos de Sesai, Ahimán y Talmai.",
+      "verse": 10,
+      "start_ms": 85775,
+      "end_ms": 90362,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Luego los de Judá marcharon hacia la ciudad de Debir, que antes se llamaba Quiriat-séfer.",
+      "verse": 11,
+      "start_ms": 90362,
+      "end_ms": 95874,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Caleb había prometido que quien conquistara Debir se casaría con su hija Acsa, y fue su sobrino Otoniel quien la conquistó.",
+      "verse": 12,
+      "start_ms": 95875,
+      "end_ms": 103300,
+      "duration_ms": 7425
+    },
+    {
+      "word": "Así que Caleb le dio a Otoniel su hija Acsa por esposa.",
+      "verse": 13,
+      "start_ms": 103300,
+      "end_ms": 107237,
+      "duration_ms": 3937
+    },
+    {
+      "word": "Otoniel era hijo de Quenaz, el hermano menor de Caleb.",
+      "verse": 13,
+      "start_ms": 107237,
+      "end_ms": 111287,
+      "duration_ms": 4050
+    },
+    {
+      "word": "El día de su casamiento, Otoniel le dijo a Acsa que le pidiera un terreno a su padre.",
+      "verse": 14,
+      "start_ms": 111287,
+      "end_ms": 116699,
+      "duration_ms": 5412
+    },
+    {
+      "word": "Cuando Caleb la vio bajar de su burro, le preguntó qué quería; y Acsa le dijo: Los terrenos que me has dado no tienen agua.",
+      "verse": 14,
+      "start_ms": 116700,
+      "end_ms": 124425,
+      "duration_ms": 7725
+    },
+    {
+      "word": "Por favor, dame también manantiales.",
+      "verse": 15,
+      "start_ms": 124425,
+      "end_ms": 127775,
+      "duration_ms": 3350
+    },
+    {
+      "word": "Y Caleb le dio el manantial Alto y el manantial Bajo.",
+      "verse": 15,
+      "start_ms": 127775,
+      "end_ms": 131512,
+      "duration_ms": 3737
+    },
+    {
+      "word": "Los quenitas, que eran descendientes del suegro de Moisés, salieron de Jericó junto con la tribu de Judá, y se fueron al desierto que está al sur de Arad.",
+      "verse": 16,
+      "start_ms": 131512,
+      "end_ms": 140524,
+      "duration_ms": 9012
+    },
+    {
+      "word": "Allí se quedaron a vivir.",
+      "verse": 16,
+      "start_ms": 140525,
+      "end_ms": 142912,
+      "duration_ms": 2387
+    },
+    {
+      "word": "Después los de Judá, junto con los de Simeón, derrotaron a los cananeos que vivían en Sefat.",
+      "verse": 17,
+      "start_ms": 142912,
+      "end_ms": 148962,
+      "duration_ms": 6050
+    },
+    {
+      "word": "Como destruyeron por completo esa ciudad, la llamaron Hormá.",
+      "verse": 17,
+      "start_ms": 148962,
+      "end_ms": 153099,
+      "duration_ms": 4137
+    },
+    {
+      "word": "Con la ayuda de Dios, la tribu de Judá se apoderó de la zona montañosa, pero no de la llanura, porque los habitantes de esa región tenían carros de hierro.",
+      "verse": 18,
+      "start_ms": 153100,
+      "end_ms": 162475,
+      "duration_ms": 9375
+    },
+    {
+      "word": "No pudieron conquistar Gaza ni Ascalón ni Ecrón, ni tampoco los territorios vecinos.",
+      "verse": 18,
+      "start_ms": 162475,
+      "end_ms": 168125,
+      "duration_ms": 5650
+    },
+    {
+      "word": "Y tal como Moisés había prometido, la región de Hebrón le fue dada a Caleb, para que allí viviera.",
+      "verse": 20,
+      "start_ms": 168125,
+      "end_ms": 174437,
+      "duration_ms": 6312
+    },
+    {
+      "word": "Por eso Caleb echó de esa región a los tres grupos de familias que descendían del gigante Anac.",
+      "verse": 20,
+      "start_ms": 174437,
+      "end_ms": 180262,
+      "duration_ms": 5825
+    },
+    {
+      "word": "Pero los de la tribu de Benjamín no pudieron echar a los jebuseos, que vivían en Jerusalén.",
+      "verse": 21,
+      "start_ms": 180262,
+      "end_ms": 185949,
+      "duration_ms": 5687
+    },
+    {
+      "word": "Por eso, hasta el día en que este relato se escribió, los jebuseos vivieron en Jerusalén, junto con los de Benjamín.",
+      "verse": 21,
+      "start_ms": 185950,
+      "end_ms": 193387,
+      "duration_ms": 7437
+    },
+    {
+      "word": "Las tribus de Efraín y Manasés decidieron atacar a Betel, la ciudad que antes se llamaba Luz; así que enviaron espías a esa ciudad, y Dios los ayudó.",
+      "verse": 22,
+      "start_ms": 193387,
+      "end_ms": 202812,
+      "duration_ms": 9425
+    },
+    {
+      "word": "Cuando esos espías vieron a un hombre que salía de la ciudad, le dijeron: Si nos muestras cómo entrar en la ciudad, no te haremos ningún daño.",
+      "verse": 24,
+      "start_ms": 202812,
+      "end_ms": 211137,
+      "duration_ms": 8325
+    },
+    {
+      "word": "Aquel hombre les enseñó cómo entrar en la ciudad, y así pudieron entrar los de Efraín y Manasés.",
+      "verse": 25,
+      "start_ms": 211137,
+      "end_ms": 217137,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Mataron a todos los que allí vivían, pero no al que los había ayudado ni a su familia.",
+      "verse": 25,
+      "start_ms": 217137,
+      "end_ms": 222649,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Más tarde, ese hombre se fue al territorio de los hititas y edificó una nueva ciudad, a la cual llamó Luz; y hasta el momento en que este relato se escribe aún se llama así.",
+      "verse": 26,
+      "start_ms": 222650,
+      "end_ms": 233050,
+      "duration_ms": 10400
+    },
+    {
+      "word": "Los de Manasés no pudieron echar a los que vivían en Bet-seán, Taanac, Dor, Ibleam y Meguido, ni tampoco a los de las aldeas vecinas.",
+      "verse": 27,
+      "start_ms": 233050,
+      "end_ms": 241900,
+      "duration_ms": 8850
+    },
+    {
+      "word": "Así que los cananeos siguieron viviendo allí.",
+      "verse": 27,
+      "start_ms": 241900,
+      "end_ms": 245012,
+      "duration_ms": 3112
+    },
+    {
+      "word": "Después los israelitas se hicieron más poderosos y obligaron a los cananeos a trabajar para ellos, pero no los pudieron echar de su territorio.",
+      "verse": 28,
+      "start_ms": 245012,
+      "end_ms": 253112,
+      "duration_ms": 8100
+    },
+    {
+      "word": "Los de Efraín tampoco pudieron echar a los cananeos que vivían en Guézer, así que los cananeos siguieron allí, viviendo junto a los de Efraín.",
+      "verse": 29,
+      "start_ms": 253276,
+      "end_ms": 261526,
+      "duration_ms": 8250
+    },
+    {
+      "word": "Los de Zabulón tampoco pudieron echar a los cananeos que vivían en Quitrón y en Nahalal, así que éstos siguieron allí, pero obligados a trabajar para los de Zabulón.",
+      "verse": 30,
+      "start_ms": 261476,
+      "end_ms": 270663,
+      "duration_ms": 9187
+    },
+    {
+      "word": "Tampoco los de Aser pudieron echar a los cananeos que vivían en Aco, Sidón, Ahlab, Aczib, Helbá, Afec y Rehob, así que se quedaron a vivir entre los cananeos que allí vivían.",
+      "verse": 31,
+      "start_ms": 270663,
+      "end_ms": 281663,
+      "duration_ms": 11000
+    },
+    {
+      "word": "Tampoco los de la tribu de Neftalí pudieron echar a los cananeos que vivían en Bet-semes y Bet-anat, así que éstos siguieron allí, pero obligados a trabajar para los de Neftalí.",
+      "verse": 33,
+      "start_ms": 281663,
+      "end_ms": 291725,
+      "duration_ms": 10062
+    },
+    {
+      "word": "Los de la tribu de Dan tuvieron que retroceder a las montañas porque los amorreos no los dejaron bajar a la llanura.",
+      "verse": 34,
+      "start_ms": 291726,
+      "end_ms": 298026,
+      "duration_ms": 6300
+    },
+    {
+      "word": "Así que los amorreos se quedaron en Jeres, Aialón y Saalbim.",
+      "verse": 35,
+      "start_ms": 298026,
+      "end_ms": 302388,
+      "duration_ms": 4362
+    },
+    {
+      "word": "Tiempo después, los de Efraín y de Manasés se hicieron más poderosos y obligaron a los amorreos a trabajar para ellos.",
+      "verse": 35,
+      "start_ms": 302388,
+      "end_ms": 309525,
+      "duration_ms": 7137
+    },
+    {
+      "word": "La frontera de los amorreos comenzaba en el paso de Acrabim, llegaba hasta Selá, y de allí seguía hacia las montañas.",
+      "verse": 36,
+      "start_ms": 309526,
+      "end_ms": 317226,
+      "duration_ms": 7700
+    }
+  ]
+}

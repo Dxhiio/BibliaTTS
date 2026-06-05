@@ -1,0 +1,670 @@
+{
+  "book": "LAM",
+  "chapter": 1,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 22,
+  "word_count": 72,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 226,
+      "text": "¡Pobrecita de ti, Jerusalén! Antes eras la más famosa de todas las ciudades. ¡Antes estabas llena de gente, pero te has quedado muy sola, te has quedado viuda! ¡Fuiste la reina de las naciones, pero hoy eres esclava de ellas!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 226,
+      "char_end": 388,
+      "text": "Olvidada y bañada en lágrimas pasas todas las noches. Muchos decían que te amaban, pero hoy nadie te consuela. Los que se decían tus amigos hoy son tus enemigos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 388,
+      "char_end": 576,
+      "text": "Bajo el peso de las cadenas, la gente de Judá salió prisionera. Sus enemigos los atraparon y los maltrataron con crueldad. Ahora son esclavos en países lejanos, y no han dejado de sufrir."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 576,
+      "char_end": 770,
+      "text": "Ruido ya no se escucha en tus portones, Jerusalén. ¡Qué triste es ver tus calles desiertas! Los sacerdotes lloran y las jóvenes se afligen. Todo en ti es amargura; ya nadie viene a tus fiestas."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 770,
+      "char_end": 919,
+      "text": "Es tanto tu pecado, que Dios te castigó. El enemigo se llevó prisioneros a todos tus habitantes. Ahora el enemigo te domina y vive feliz y contento."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 919,
+      "char_end": 1095,
+      "text": "¡Cómo has perdido, Jerusalén, la belleza que tuviste! Tus jefes, ya sin fuerzas, huyen de quienes los persiguen. ¡Hasta parecen venados hambrientos en busca de pastos frescos!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 1095,
+      "char_end": 1323,
+      "text": "Insistes en recordar que alguna vez fuiste rica. Ahora vives en la tristeza y no tienes a dónde ir. Cuando el enemigo te conquistó, no hubo nadie que te ayudara. Cuando el enemigo te vio vencida, se burló de verte en desgracia."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1323,
+      "char_end": 1499,
+      "text": "Tanto has pecado, Jerusalén, que todos te desprecian. Los que antes te admiraban hoy se burlan al verte en desgracia. ¡Ahora derramas lágrimas, y avergonzada escondes la cara!"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1499,
+      "char_end": 1683,
+      "text": "¡Asombrosa ha sido tu caída! ¡No hay nadie que te consuele! Jamás pensaste en llegar a ser tan despreciada, y ahora exclamas: Mis enemigos me vencieron. ¡Mira, Dios mío, mi aflicción!"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1683,
+      "char_end": 1845,
+      "text": "Dueño de todas tus riquezas es ahora tu enemigo. Tú misma viste entrar en el templo gente de otros pueblos, aunque Dios había ordenado que no debían entrar allí."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1845,
+      "char_end": 2004,
+      "text": "El pueblo entero llora y anda en busca de pan. Con tal de seguir con vida, cambian sus riquezas por comida. Llorando le dicen a Dios: ¡Mira cómo nos humillan!"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 2004,
+      "char_end": 2180,
+      "text": "Todos ustedes, que pasan y me ven, ¿por qué gozan al verme sufrir? ¿Dónde han visto a alguien que sufra tanto como yo? Cuando Dios se enojó conmigo, me mandó este sufrimiento."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 2180,
+      "char_end": 2378,
+      "text": "Intensa lluvia de fuego ha enviado Dios sobre mí. Mis huesos se han quemado, y siento que me muero. Dios me cerró el paso, y me hizo retroceder. Me dejó en el abandono; mi sufrimiento no tiene fin."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 2378,
+      "char_end": 2530,
+      "text": "Juntó Dios todos mis pecados y me los ató al cuello. Ya no me quedan fuerzas; ya no los soporto más. Dios me entregó al enemigo, y no puedo defenderme."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2530,
+      "char_end": 2719,
+      "text": "En mis calles hay muchos muertos. ¡Dios rechazó a mis valientes! Juntó un ejército para atacarme, y acabó con todos mis jóvenes. Dios me aplastó por completo; ¡me exprimió como a las uvas!"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2719,
+      "char_end": 2887,
+      "text": "Ruedan por mis mejillas lágrimas que no puedo contener. Cerca de mí no hay nadie que me consuele y me reanime. Mi gente no puede creer que el enemigo nos haya vencido."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2887,
+      "char_end": 3024,
+      "text": "Un montón de escombros es ahora Jerusalén. Suplicante pide ayuda, pero nadie la consuela. Dios mismo ordenó que sus vecinos la atacaran."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 3024,
+      "char_end": 3180,
+      "text": "Siempre Dios hace lo justo, pero yo soy muy rebelde. ¡Escuchen, naciones todas! ¡Miren cómo sufro! ¡El enemigo se llevó prisioneros a todos mis habitantes!"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 3180,
+      "char_end": 3334,
+      "text": "Ayuda pedí a mis amigos, pero me dieron la espalda. Los jefes y sacerdotes acabaron perdiendo la vida. Andaban buscando comida, y no pudieron sobrevivir."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 3334,
+      "char_end": 3508,
+      "text": "¡La muerte me quitó a mis hijos dentro y fuera de la ciudad! ¡Mira mi angustia, Dios mío! ¡Siento que me muero! ¡Tan rebelde he sido contigo que estoy totalmente confundida!"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 3508,
+      "char_end": 3696,
+      "text": "El enemigo no esconde su alegría porque tú, Dios mío, me haces sufrir. Todo el mundo escucha mi llanto, pero nadie me consuela. ¡Ya es tiempo de que los castigues como me castigaste a mí!"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3696,
+      "char_end": 3858,
+      "text": "No hay un solo pecado que ellos no hayan cometido; ¡castiga entonces su rebeldía, como me castigaste a mí! ¡Ya es mucho lo que he llorado, y siento que me muero!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Pobrecita de ti, Jerusalén!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 2837,
+      "duration_ms": 2737
+    },
+    {
+      "word": "Antes eras la más famosa de todas las ciudades.",
+      "verse": 1,
+      "start_ms": 2787,
+      "end_ms": 6462,
+      "duration_ms": 3675
+    },
+    {
+      "word": "Antes estabas llena de gente, pero te has quedado muy sola, te has quedado viuda!",
+      "verse": 1,
+      "start_ms": 6462,
+      "end_ms": 12124,
+      "duration_ms": 5662
+    },
+    {
+      "word": "Fuiste la reina de las naciones, pero hoy eres esclava de ellas!",
+      "verse": 1,
+      "start_ms": 12125,
+      "end_ms": 16775,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Olvidada y bañada en lágrimas pasas todas las noches.",
+      "verse": 2,
+      "start_ms": 16775,
+      "end_ms": 20900,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Muchos decían que te amaban, pero hoy nadie te consuela.",
+      "verse": 2,
+      "start_ms": 20900,
+      "end_ms": 24912,
+      "duration_ms": 4012
+    },
+    {
+      "word": "Los que se decían tus amigos hoy son tus enemigos.",
+      "verse": 2,
+      "start_ms": 24912,
+      "end_ms": 28512,
+      "duration_ms": 3600
+    },
+    {
+      "word": "Bajo el peso de las cadenas, la gente de Judá salió prisionera.",
+      "verse": 3,
+      "start_ms": 28512,
+      "end_ms": 32999,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Sus enemigos los atraparon y los maltrataron con crueldad.",
+      "verse": 3,
+      "start_ms": 33000,
+      "end_ms": 36925,
+      "duration_ms": 3925
+    },
+    {
+      "word": "Ahora son esclavos en países lejanos, y no han dejado de sufrir.",
+      "verse": 3,
+      "start_ms": 36925,
+      "end_ms": 41800,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Ruido ya no se escucha en tus portones, Jerusalén.",
+      "verse": 4,
+      "start_ms": 41800,
+      "end_ms": 45562,
+      "duration_ms": 3762
+    },
+    {
+      "word": "Qué triste es ver tus calles desiertas!",
+      "verse": 4,
+      "start_ms": 45562,
+      "end_ms": 48587,
+      "duration_ms": 3025
+    },
+    {
+      "word": "Los sacerdotes lloran y las jóvenes se afligen.",
+      "verse": 4,
+      "start_ms": 48587,
+      "end_ms": 51949,
+      "duration_ms": 3362
+    },
+    {
+      "word": "Todo en ti es amargura; ya nadie viene a tus fiestas.",
+      "verse": 4,
+      "start_ms": 51950,
+      "end_ms": 56225,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Es tanto tu pecado, que Dios te castigó.",
+      "verse": 5,
+      "start_ms": 56225,
+      "end_ms": 59675,
+      "duration_ms": 3450
+    },
+    {
+      "word": "El enemigo se llevó prisioneros a todos tus habitantes.",
+      "verse": 5,
+      "start_ms": 59675,
+      "end_ms": 63700,
+      "duration_ms": 4025
+    },
+    {
+      "word": "Ahora el enemigo te domina y vive feliz y contento.",
+      "verse": 5,
+      "start_ms": 63700,
+      "end_ms": 67625,
+      "duration_ms": 3925
+    },
+    {
+      "word": "Cómo has perdido, Jerusalén, la belleza que tuviste!",
+      "verse": 6,
+      "start_ms": 67625,
+      "end_ms": 71900,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Tus jefes, ya sin fuerzas, huyen de quienes los persiguen.",
+      "verse": 6,
+      "start_ms": 71900,
+      "end_ms": 76250,
+      "duration_ms": 4350
+    },
+    {
+      "word": "Hasta parecen venados hambrientos en busca de pastos frescos!",
+      "verse": 6,
+      "start_ms": 76250,
+      "end_ms": 80412,
+      "duration_ms": 4162
+    },
+    {
+      "word": "Insistes en recordar que alguna vez fuiste rica.",
+      "verse": 7,
+      "start_ms": 80412,
+      "end_ms": 83824,
+      "duration_ms": 3412
+    },
+    {
+      "word": "Ahora vives en la tristeza y no tienes a dónde ir.",
+      "verse": 7,
+      "start_ms": 83825,
+      "end_ms": 87400,
+      "duration_ms": 3575
+    },
+    {
+      "word": "Cuando el enemigo te conquistó, no hubo nadie que te ayudara.",
+      "verse": 7,
+      "start_ms": 87400,
+      "end_ms": 91662,
+      "duration_ms": 4262
+    },
+    {
+      "word": "Cuando el enemigo te vio vencida, se burló de verte en desgracia.",
+      "verse": 7,
+      "start_ms": 91662,
+      "end_ms": 96262,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Tanto has pecado, Jerusalén, que todos te desprecian.",
+      "verse": 8,
+      "start_ms": 96262,
+      "end_ms": 100599,
+      "duration_ms": 4337
+    },
+    {
+      "word": "Los que antes te admiraban hoy se burlan al verte en desgracia.",
+      "verse": 8,
+      "start_ms": 100600,
+      "end_ms": 104612,
+      "duration_ms": 4012
+    },
+    {
+      "word": "Ahora derramas lágrimas, y avergonzada escondes la cara!",
+      "verse": 8,
+      "start_ms": 104612,
+      "end_ms": 108962,
+      "duration_ms": 4350
+    },
+    {
+      "word": "Asombrosa ha sido tu caída!",
+      "verse": 9,
+      "start_ms": 108962,
+      "end_ms": 111574,
+      "duration_ms": 2612
+    },
+    {
+      "word": "No hay nadie que te consuele!",
+      "verse": 9,
+      "start_ms": 111575,
+      "end_ms": 113912,
+      "duration_ms": 2337
+    },
+    {
+      "word": "Jamás pensaste en llegar a ser tan despreciada, y ahora exclamas: Mis enemigos me vencieron.",
+      "verse": 9,
+      "start_ms": 113912,
+      "end_ms": 120137,
+      "duration_ms": 6225
+    },
+    {
+      "word": "Mira, Dios mío, mi aflicción!",
+      "verse": 9,
+      "start_ms": 120137,
+      "end_ms": 123299,
+      "duration_ms": 3162
+    },
+    {
+      "word": "Dueño de todas tus riquezas es ahora tu enemigo.",
+      "verse": 10,
+      "start_ms": 123300,
+      "end_ms": 126850,
+      "duration_ms": 3550
+    },
+    {
+      "word": "Tú misma viste entrar en el templo gente de otros pueblos, aunque Dios había ordenado que no debían entrar allí.",
+      "verse": 10,
+      "start_ms": 126850,
+      "end_ms": 133475,
+      "duration_ms": 6625
+    },
+    {
+      "word": "El pueblo entero llora y anda en busca de pan.",
+      "verse": 11,
+      "start_ms": 133475,
+      "end_ms": 136887,
+      "duration_ms": 3412
+    },
+    {
+      "word": "Con tal de seguir con vida, cambian sus riquezas por comida.",
+      "verse": 11,
+      "start_ms": 136887,
+      "end_ms": 141074,
+      "duration_ms": 4187
+    },
+    {
+      "word": "Llorando le dicen a Dios: ¡Mira cómo nos humillan!",
+      "verse": 11,
+      "start_ms": 141075,
+      "end_ms": 144900,
+      "duration_ms": 3825
+    },
+    {
+      "word": "Todos ustedes, que pasan y me ven, ¿por qué gozan al verme sufrir?",
+      "verse": 12,
+      "start_ms": 144900,
+      "end_ms": 150087,
+      "duration_ms": 5187
+    },
+    {
+      "word": "Dónde han visto a alguien que sufra tanto como yo?",
+      "verse": 12,
+      "start_ms": 150087,
+      "end_ms": 153499,
+      "duration_ms": 3412
+    },
+    {
+      "word": "Cuando Dios se enojó conmigo, me mandó este sufrimiento.",
+      "verse": 12,
+      "start_ms": 153500,
+      "end_ms": 157625,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Intensa lluvia de fuego ha enviado Dios sobre mí.",
+      "verse": 13,
+      "start_ms": 157625,
+      "end_ms": 161200,
+      "duration_ms": 3575
+    },
+    {
+      "word": "Mis huesos se han quemado, y siento que me muero.",
+      "verse": 13,
+      "start_ms": 161200,
+      "end_ms": 164712,
+      "duration_ms": 3512
+    },
+    {
+      "word": "Dios me cerró el paso, y me hizo retroceder.",
+      "verse": 13,
+      "start_ms": 164712,
+      "end_ms": 168487,
+      "duration_ms": 3775
+    },
+    {
+      "word": "Me dejó en el abandono; mi sufrimiento no tiene fin.",
+      "verse": 13,
+      "start_ms": 168487,
+      "end_ms": 172437,
+      "duration_ms": 3950
+    },
+    {
+      "word": "Juntó Dios todos mis pecados y me los ató al cuello.",
+      "verse": 14,
+      "start_ms": 172437,
+      "end_ms": 176299,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Ya no me quedan fuerzas; ya no los soporto más.",
+      "verse": 14,
+      "start_ms": 176300,
+      "end_ms": 180137,
+      "duration_ms": 3837
+    },
+    {
+      "word": "Dios me entregó al enemigo, y no puedo defenderme.",
+      "verse": 14,
+      "start_ms": 180137,
+      "end_ms": 184062,
+      "duration_ms": 3925
+    },
+    {
+      "word": "En mis calles hay muchos muertos.",
+      "verse": 15,
+      "start_ms": 184062,
+      "end_ms": 186787,
+      "duration_ms": 2725
+    },
+    {
+      "word": "Dios rechazó a mis valientes!",
+      "verse": 15,
+      "start_ms": 186787,
+      "end_ms": 189412,
+      "duration_ms": 2625
+    },
+    {
+      "word": "Juntó un ejército para atacarme, y acabó con todos mis jóvenes.",
+      "verse": 15,
+      "start_ms": 189412,
+      "end_ms": 194324,
+      "duration_ms": 4912
+    },
+    {
+      "word": "Dios me aplastó por completo; ¡me exprimió como a las uvas!",
+      "verse": 15,
+      "start_ms": 194325,
+      "end_ms": 198462,
+      "duration_ms": 4137
+    },
+    {
+      "word": "Ruedan por mis mejillas lágrimas que no puedo contener.",
+      "verse": 16,
+      "start_ms": 198462,
+      "end_ms": 202212,
+      "duration_ms": 3750
+    },
+    {
+      "word": "Cerca de mí no hay nadie que me consuele y me reanime.",
+      "verse": 16,
+      "start_ms": 202212,
+      "end_ms": 205987,
+      "duration_ms": 3775
+    },
+    {
+      "word": "Mi gente no puede creer que el enemigo nos haya vencido.",
+      "verse": 16,
+      "start_ms": 205987,
+      "end_ms": 209862,
+      "duration_ms": 3875
+    },
+    {
+      "word": "Un montón de escombros es ahora Jerusalén.",
+      "verse": 17,
+      "start_ms": 209862,
+      "end_ms": 213099,
+      "duration_ms": 3237
+    },
+    {
+      "word": "Suplicante pide ayuda, pero nadie la consuela.",
+      "verse": 17,
+      "start_ms": 213100,
+      "end_ms": 216900,
+      "duration_ms": 3800
+    },
+    {
+      "word": "Dios mismo ordenó que sus vecinos la atacaran.",
+      "verse": 17,
+      "start_ms": 216900,
+      "end_ms": 220375,
+      "duration_ms": 3475
+    },
+    {
+      "word": "Siempre Dios hace lo justo, pero yo soy muy rebelde.",
+      "verse": 18,
+      "start_ms": 220375,
+      "end_ms": 224375,
+      "duration_ms": 4000
+    },
+    {
+      "word": "Escuchen, naciones todas!",
+      "verse": 18,
+      "start_ms": 224375,
+      "end_ms": 227225,
+      "duration_ms": 2850
+    },
+    {
+      "word": "Miren cómo sufro!",
+      "verse": 18,
+      "start_ms": 227225,
+      "end_ms": 229125,
+      "duration_ms": 1900
+    },
+    {
+      "word": "El enemigo se llevó prisioneros a todos mis habitantes!",
+      "verse": 18,
+      "start_ms": 229125,
+      "end_ms": 233087,
+      "duration_ms": 3962
+    },
+    {
+      "word": "Ayuda pedí a mis amigos, pero me dieron la espalda.",
+      "verse": 19,
+      "start_ms": 233087,
+      "end_ms": 236949,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Los jefes y sacerdotes acabaron perdiendo la vida.",
+      "verse": 19,
+      "start_ms": 236950,
+      "end_ms": 240512,
+      "duration_ms": 3562
+    },
+    {
+      "word": "Andaban buscando comida, y no pudieron sobrevivir.",
+      "verse": 19,
+      "start_ms": 240512,
+      "end_ms": 244437,
+      "duration_ms": 3925
+    },
+    {
+      "word": "La muerte me quitó a mis hijos dentro y fuera de la ciudad!",
+      "verse": 20,
+      "start_ms": 244437,
+      "end_ms": 248249,
+      "duration_ms": 3812
+    },
+    {
+      "word": "Mira mi angustia, Dios mío!",
+      "verse": 20,
+      "start_ms": 248250,
+      "end_ms": 250875,
+      "duration_ms": 2625
+    },
+    {
+      "word": "Siento que me muero!",
+      "verse": 20,
+      "start_ms": 250875,
+      "end_ms": 252712,
+      "duration_ms": 1837
+    },
+    {
+      "word": "Tan rebelde he sido contigo que estoy totalmente confundida!",
+      "verse": 20,
+      "start_ms": 252712,
+      "end_ms": 256824,
+      "duration_ms": 4112
+    },
+    {
+      "word": "El enemigo no esconde su alegría porque tú, Dios mío, me haces sufrir.",
+      "verse": 21,
+      "start_ms": 256825,
+      "end_ms": 262037,
+      "duration_ms": 5212
+    },
+    {
+      "word": "Todo el mundo escucha mi llanto, pero nadie me consuela.",
+      "verse": 21,
+      "start_ms": 262037,
+      "end_ms": 266024,
+      "duration_ms": 3987
+    },
+    {
+      "word": "Ya es tiempo de que los castigues como me castigaste a mí!",
+      "verse": 21,
+      "start_ms": 266025,
+      "end_ms": 269750,
+      "duration_ms": 3725
+    },
+    {
+      "word": "No hay un solo pecado que ellos no hayan cometido; ¡castiga entonces su rebeldía, como me castigaste a mí!",
+      "verse": 22,
+      "start_ms": 269750,
+      "end_ms": 276512,
+      "duration_ms": 6762
+    },
+    {
+      "word": "Ya es mucho lo que he llorado, y siento que me muero!",
+      "verse": 22,
+      "start_ms": 276512,
+      "end_ms": 279999,
+      "duration_ms": 3487
+    }
+  ]
+}

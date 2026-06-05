@@ -1,0 +1,334 @@
+{
+  "book": "CAN",
+  "chapter": 1,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 17,
+  "word_count": 29,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 41,
+      "text": "Éste es el poema más hermoso de Salomón."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 41,
+      "char_end": 122,
+      "text": "¡Ay, amado mío, cómo deseo que me beses! Prefiero tus caricias, más que el vino;"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 122,
+      "char_end": 253,
+      "text": "prefiero disfrutar del aroma de tus perfumes. Y eso eres tú: ¡perfume agradable! ¡Ahora me doy cuenta por qué te aman las mujeres!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 253,
+      "char_end": 499,
+      "text": "¡Vamos, date prisa y llévame contigo! ¡Llévame ya a tus habitaciones, rey de mi vida! Por ti haremos fiesta, por ti estaremos alegres; nos olvidaremos del vino y disfrutaré de tus caricias. ¡Ahora me doy cuenta por qué las mujeres te aman tanto!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 499,
+      "char_end": 622,
+      "text": "¡Mujeres de Jerusalén! Yo soy morena, sí, como las tiendas de Quedar. Y soy también hermosa, como las cortinas de Salomón."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 622,
+      "char_end": 780,
+      "text": "No se fijen en mi piel morena, pues el sol la requemó. Mis hermanos se enojaron contra mí, y me obligaron a cuidar sus viñas, ¡y así mi propia viña descuidé!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 780,
+      "char_end": 991,
+      "text": "Cuéntame, amor de mi vida, ¿a dónde llevas tus rebaños? A la hora de la siesta, ¿dónde los haces descansar? No tengo por qué andar como una vagabunda; ¡no tengo por qué buscarte entre los rebaños de tus amigos!"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 991,
+      "char_end": 1138,
+      "text": "Si acaso no lo sabes, mujer bella entre las bellas, sigue las huellas del rebaño y lleva a pastar tus cabritos junto a las carpas de los pastores."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1138,
+      "char_end": 1227,
+      "text": "Amada mía, tu andar tiene la gracia del trote de las yeguas que tiran del carro del rey."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1227,
+      "char_end": 1336,
+      "text": "¡Preciosas se ven tus mejillas en medio de tus trenzas! ¡Bellísimo luce tu cuello entre tan bellos collares!"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1336,
+      "char_end": 1389,
+      "text": "¡Voy a regalarte joyas de oro, incrustadas de plata!"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1389,
+      "char_end": 1451,
+      "text": "Mientras el rey se recuesta, mi perfume esparce su fragancia."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1451,
+      "char_end": 1525,
+      "text": "Mi amado es para mí como el saquito perfumado que llevo entre mis pechos."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1525,
+      "char_end": 1595,
+      "text": "Mi amado es para mí como un ramito de flores de las viñas de En-gadi."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1595,
+      "char_end": 1665,
+      "text": "¡Tú eres bella, amada mía; eres muy bella! ¡Tus ojos son dos luceros!"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1665,
+      "char_end": 1722,
+      "text": "¡Tú eres hermoso, amado mío! ¡Eres un hombre encantador!"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1722,
+      "char_end": 1782,
+      "text": "y a la sombra de los cedros pondremos nuestro nido de amor."
+    }
+  ],
+  "words": [
+    {
+      "word": "Éste es el poema más hermoso de Salomón.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3462,
+      "duration_ms": 3362
+    },
+    {
+      "word": "Ay, amado mío, cómo deseo que me beses!",
+      "verse": 2,
+      "start_ms": 3412,
+      "end_ms": 7149,
+      "duration_ms": 3737
+    },
+    {
+      "word": "Prefiero tus caricias, más que el vino; prefiero disfrutar del aroma de tus perfumes.",
+      "verse": 2,
+      "start_ms": 7150,
+      "end_ms": 13137,
+      "duration_ms": 5987
+    },
+    {
+      "word": "Y eso eres tú: ¡perfume agradable!",
+      "verse": 3,
+      "start_ms": 13137,
+      "end_ms": 16262,
+      "duration_ms": 3125
+    },
+    {
+      "word": "Ahora me doy cuenta por qué te aman las mujeres!",
+      "verse": 3,
+      "start_ms": 16262,
+      "end_ms": 19699,
+      "duration_ms": 3437
+    },
+    {
+      "word": "Vamos, date prisa y llévame contigo!",
+      "verse": 4,
+      "start_ms": 19700,
+      "end_ms": 23037,
+      "duration_ms": 3337
+    },
+    {
+      "word": "Llévame ya a tus habitaciones, rey de mi vida!",
+      "verse": 4,
+      "start_ms": 23037,
+      "end_ms": 26787,
+      "duration_ms": 3750
+    },
+    {
+      "word": "Por ti haremos fiesta, por ti estaremos alegres; nos olvidaremos del vino y disfrutaré de tus caricias.",
+      "verse": 4,
+      "start_ms": 26787,
+      "end_ms": 33887,
+      "duration_ms": 7100
+    },
+    {
+      "word": "Ahora me doy cuenta por qué las mujeres te aman tanto!",
+      "verse": 4,
+      "start_ms": 33887,
+      "end_ms": 37624,
+      "duration_ms": 3737
+    },
+    {
+      "word": "Mujeres de Jerusalén!",
+      "verse": 5,
+      "start_ms": 37625,
+      "end_ms": 39787,
+      "duration_ms": 2162
+    },
+    {
+      "word": "Yo soy morena, sí, como las tiendas de Quedar.",
+      "verse": 5,
+      "start_ms": 39787,
+      "end_ms": 43849,
+      "duration_ms": 4062
+    },
+    {
+      "word": "Y soy también hermosa, como las cortinas de Salomón.",
+      "verse": 5,
+      "start_ms": 43850,
+      "end_ms": 47725,
+      "duration_ms": 3875
+    },
+    {
+      "word": "No se fijen en mi piel morena, pues el sol la requemó.",
+      "verse": 6,
+      "start_ms": 47725,
+      "end_ms": 51575,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Mis hermanos se enojaron contra mí, y me obligaron a cuidar sus viñas, ¡y así mi propia viña descuidé!",
+      "verse": 6,
+      "start_ms": 51575,
+      "end_ms": 58200,
+      "duration_ms": 6625
+    },
+    {
+      "word": "Cuéntame, amor de mi vida, ¿a dónde llevas tus rebaños?",
+      "verse": 7,
+      "start_ms": 58200,
+      "end_ms": 62475,
+      "duration_ms": 4275
+    },
+    {
+      "word": "A la hora de la siesta, ¿dónde los haces descansar?",
+      "verse": 7,
+      "start_ms": 62475,
+      "end_ms": 66212,
+      "duration_ms": 3737
+    },
+    {
+      "word": "No tengo por qué andar como una vagabunda; ¡no tengo por qué buscarte entre los rebaños de tus amigos!",
+      "verse": 7,
+      "start_ms": 66212,
+      "end_ms": 72524,
+      "duration_ms": 6312
+    },
+    {
+      "word": "Si acaso no lo sabes, mujer bella entre las bellas, sigue las huellas del rebaño y lleva a pastar tus cabritos junto a las carpas de los pastores.",
+      "verse": 8,
+      "start_ms": 72525,
+      "end_ms": 81325,
+      "duration_ms": 8800
+    },
+    {
+      "word": "Amada mía, tu andar tiene la gracia del trote de las yeguas que tiran del carro del rey.",
+      "verse": 9,
+      "start_ms": 81325,
+      "end_ms": 86825,
+      "duration_ms": 5500
+    },
+    {
+      "word": "Preciosas se ven tus mejillas en medio de tus trenzas!",
+      "verse": 10,
+      "start_ms": 86825,
+      "end_ms": 90762,
+      "duration_ms": 3937
+    },
+    {
+      "word": "Bellísimo luce tu cuello entre tan bellos collares!",
+      "verse": 10,
+      "start_ms": 90762,
+      "end_ms": 94362,
+      "duration_ms": 3600
+    },
+    {
+      "word": "Voy a regalarte joyas de oro, incrustadas de plata!",
+      "verse": 11,
+      "start_ms": 94362,
+      "end_ms": 98324,
+      "duration_ms": 3962
+    },
+    {
+      "word": "Mientras el rey se recuesta, mi perfume esparce su fragancia.",
+      "verse": 12,
+      "start_ms": 98325,
+      "end_ms": 102562,
+      "duration_ms": 4237
+    },
+    {
+      "word": "Mi amado es para mí como el saquito perfumado que llevo entre mis pechos.",
+      "verse": 13,
+      "start_ms": 102562,
+      "end_ms": 107249,
+      "duration_ms": 4687
+    },
+    {
+      "word": "Mi amado es para mí como un ramito de flores de las viñas de En-gadi.",
+      "verse": 14,
+      "start_ms": 107250,
+      "end_ms": 111750,
+      "duration_ms": 4500
+    },
+    {
+      "word": "Tú eres bella, amada mía; eres muy bella!",
+      "verse": 15,
+      "start_ms": 111750,
+      "end_ms": 115400,
+      "duration_ms": 3650
+    },
+    {
+      "word": "Tus ojos son dos luceros!",
+      "verse": 15,
+      "start_ms": 115400,
+      "end_ms": 117925,
+      "duration_ms": 2525
+    },
+    {
+      "word": "Tú eres hermoso, amado mío!",
+      "verse": 16,
+      "start_ms": 117925,
+      "end_ms": 120612,
+      "duration_ms": 2687
+    },
+    {
+      "word": "Eres un hombre encantador! y a la sombra de los cedros pondremos nuestro nido de amor.",
+      "verse": 16,
+      "start_ms": 120612,
+      "end_ms": 126187,
+      "duration_ms": 5575
+    }
+  ]
+}

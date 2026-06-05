@@ -1,0 +1,635 @@
+{
+  "book": "HEC",
+  "chapter": 23,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 32,
+  "word_count": 57,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 158,
+      "text": "Pablo miró a todos los de la Junta Suprema, y les dijo: —Amigos israelitas, yo tengo la conciencia tranquila, porque hasta ahora he obedecido a Dios en todo."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 158,
+      "char_end": 244,
+      "text": "Entonces Ananías, el jefe de los sacerdotes, ordenó que golpearan a Pablo en la boca."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 244,
+      "char_end": 423,
+      "text": "Pero Pablo le dijo: —Es Dios quien lo va a golpear a usted, ¡hipócrita! Usted tiene que juzgarme de acuerdo con la Ley; entonces, ¿por qué la desobedece ordenando que me golpeen?"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 423,
+      "char_end": 518,
+      "text": "Los demás judíos de la Junta le dijeron: —¿Por qué insultas al jefe de los sacerdotes de Dios?"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 518,
+      "char_end": 662,
+      "text": "Pablo contestó: —Amigos, yo no sabía que él era el jefe de los sacerdotes. La Biblia dice que no debemos hablar mal del jefe de nuestro pueblo."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 662,
+      "char_end": 929,
+      "text": "Cuando Pablo vio que algunos de los judíos de la Junta eran saduceos, y que otros eran fariseos, dijo en voz alta: —Amigos israelitas, yo soy fariseo, y muchos en mi familia también lo han sido. ¿Por qué se me juzga? ¿Por creer que los muertos pueden volver a vivir?"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 929,
+      "char_end": 1082,
+      "text": "Apenas Pablo dijo eso, los fariseos y los saduceos comenzaron a discutir. La reunión no pudo continuar en paz, pues unos pensaban una cosa y otros otra."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1082,
+      "char_end": 1230,
+      "text": "Los saduceos dicen que los muertos no pueden volver a vivir, y que no existen los ángeles ni los espíritus. Pero los fariseos sí creen en todo eso."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1230,
+      "char_end": 1442,
+      "text": "Se armó entonces un gran alboroto, en el que todos gritaban. Algunos maestros de la Ley, que eran fariseos, dijeron: No creemos que este hombre sea culpable de nada. Tal vez un ángel o un espíritu le ha hablado."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1442,
+      "char_end": 1623,
+      "text": "El alboroto era cada vez mayor. Entonces el jefe de los soldados romanos tuvo miedo de que mataran a Pablo, y ordenó que vinieran los soldados y se lo llevaran de nuevo al cuartel."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1623,
+      "char_end": 1777,
+      "text": "A la noche siguiente, el Señor Jesús se le apareció a Pablo y le dijo: Anímate, porque así como has hablado de mí en Jerusalén, también lo harás en Roma."
+    },
+    {
+      "verse": 12,
+      "label": "12-14",
+      "char_start": 1777,
+      "char_end": 2098,
+      "text": "Al día siguiente, unos cuarenta judíos se pusieron de acuerdo para matar a Pablo. Fueron entonces a ver a los sacerdotes principales y a los líderes del país, y les dijeron: —Hemos jurado no comer ni beber nada, hasta que hayamos matado a Pablo. Que una maldición caiga sobre nosotros, si no cumplimos nuestro juramento."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2098,
+      "char_end": 2379,
+      "text": "Ahora bien, éste es nuestro plan: ustedes, y los demás judíos de la Junta Suprema, le pedirán al jefe de los soldados romanos que traiga mañana a Pablo. Díganle que desean saber más acerca de él. Nosotros, por nuestra parte, estaremos listos para matarlo antes de que llegue aquí."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2379,
+      "char_end": 2468,
+      "text": "Pero un sobrino de Pablo se dio cuenta de lo que planeaban, y fue al cuartel a avisarle."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2468,
+      "char_end": 2615,
+      "text": "Pablo llamó entonces a uno de los capitanes romanos, y le dijo: —Este muchacho tiene algo importante que decirle al jefe de usted; llévelo con él."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2615,
+      "char_end": 2752,
+      "text": "El capitán lo llevó y le dijo a su jefe: —El prisionero Pablo me pidió que trajera a este muchacho, pues tiene algo que decirle a usted."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2752,
+      "char_end": 2860,
+      "text": "El jefe tomó de la mano al muchacho y lo llevó a un lugar aparte. Allí le preguntó: —¿Qué vienes a decirme?"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2860,
+      "char_end": 3037,
+      "text": "El muchacho le dijo: —Unos judíos han hecho un plan para pedirle a usted que lleve mañana a Pablo ante la Junta Suprema. Van a decirle que es para investigarlo con más cuidado."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 3037,
+      "char_end": 3282,
+      "text": "Pero usted no les haga caso, porque más de cuarenta hombres estarán escondidos esperando a Pablo, y han jurado que no comerán ni beberán nada hasta matarlo, y que si no lo hacen les caerá una maldición. Ellos están ahora esperando su respuesta."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3282,
+      "char_end": 3366,
+      "text": "El jefe despidió al muchacho y le ordenó: —No le digas a nadie lo que me has dicho."
+    },
+    {
+      "verse": 23,
+      "label": "23-24",
+      "char_start": 3366,
+      "char_end": 3761,
+      "text": "El jefe de los guardias llamó a dos de sus capitanes y les dio esta orden: Preparen a doscientos soldados que vayan a pie, setenta soldados que vayan a caballo, y doscientos soldados con lanzas. Preparen también un caballo para Pablo. Quiero que a las nueve de la noche vayan a la ciudad de Cesarea, y que lleven a Pablo ante el gobernador Félix. Asegúrense de que a Pablo no le pase nada malo."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3761,
+      "char_end": 3826,
+      "text": "Además, el jefe envió una carta con los soldados, la cual decía:"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3826,
+      "char_end": 3894,
+      "text": "De Claudio Lisias, para el excelentísimo gobernador Félix. Saludos."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3894,
+      "char_end": 4033,
+      "text": "Los líderes judíos arrestaron a este hombre, y querían matarlo. Cuando supe que él es ciudadano romano, fui con mis soldados y lo rescaté."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 4033,
+      "char_end": 4116,
+      "text": "Luego lo llevé ante la Junta Suprema de los judíos, para saber de qué lo acusaban."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 4116,
+      "char_end": 4263,
+      "text": "Así supe que lo acusaban de cuestiones que tienen que ver con la ley de ellos. Pero yo no creo que haya razón para matarlo o tenerlo en la cárcel."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4263,
+      "char_end": 4459,
+      "text": "Me he enterado también de que unos judíos planean matarlo, y por eso lo he enviado ante usted. A los judíos que lo acusan les he dicho que vayan y traten con usted el asunto que tienen contra él."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4459,
+      "char_end": 4565,
+      "text": "Los soldados cumplieron las órdenes de su jefe, y por la noche llevaron a Pablo al cuartel de Antípatris."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4565,
+      "char_end": 4704,
+      "text": "Al día siguiente, los soldados que iban a pie regresaron al cuartel de Jerusalén, y los que iban a caballo continuaron el viaje con Pablo."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4704,
+      "char_end": 4816,
+      "text": "Cuando llegaron a Cesarea, se presentaron ante el gobernador Félix, y le entregaron a Pablo junto con la carta."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4816,
+      "char_end": 4927,
+      "text": "El gobernador leyó la carta, y luego preguntó de dónde era Pablo. Cuando supo que era de la región de Cilicia,"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4927,
+      "char_end": 5190,
+      "text": "le dijo a Pablo: Escucharé lo que tengas que decir cuando vengan los que te acusan. Después, el gobernador ordenó a unos soldados que se llevaran a Pablo, y que lo vigilaran bien. Los soldados lo llevaron al palacio que había construido el rey Herodes el Grande."
+    }
+  ],
+  "words": [
+    {
+      "word": "Pablo miró a todos los de la Junta Suprema, y les dijo: —Amigos israelitas, yo tengo la conciencia tranquila, porque hasta ahora he obedecido a Dios en todo.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 10075,
+      "duration_ms": 9975
+    },
+    {
+      "word": "Entonces Ananías, el jefe de los sacerdotes, ordenó que golpearan a Pablo en la boca.",
+      "verse": 2,
+      "start_ms": 10025,
+      "end_ms": 15837,
+      "duration_ms": 5812
+    },
+    {
+      "word": "Pero Pablo le dijo: —Es Dios quien lo va a golpear a usted, ¡hipócrita!",
+      "verse": 3,
+      "start_ms": 15837,
+      "end_ms": 20737,
+      "duration_ms": 4900
+    },
+    {
+      "word": "Usted tiene que juzgarme de acuerdo con la Ley; entonces, ¿por qué la desobedece ordenando que me golpeen?",
+      "verse": 3,
+      "start_ms": 20737,
+      "end_ms": 27362,
+      "duration_ms": 6625
+    },
+    {
+      "word": "Los demás judíos de la Junta le dijeron: —¿Por qué insultas al jefe de los sacerdotes de Dios?",
+      "verse": 4,
+      "start_ms": 27362,
+      "end_ms": 33287,
+      "duration_ms": 5925
+    },
+    {
+      "word": "Pablo contestó: —Amigos, yo no sabía que él era el jefe de los sacerdotes.",
+      "verse": 5,
+      "start_ms": 33287,
+      "end_ms": 38837,
+      "duration_ms": 5550
+    },
+    {
+      "word": "La Biblia dice que no debemos hablar mal del jefe de nuestro pueblo.",
+      "verse": 5,
+      "start_ms": 38837,
+      "end_ms": 43087,
+      "duration_ms": 4250
+    },
+    {
+      "word": "Cuando Pablo vio que algunos de los judíos de la Junta eran saduceos, y que otros eran fariseos, dijo en voz alta: —Amigos israelitas, yo soy fariseo, y muchos en mi familia también lo han sido.",
+      "verse": 6,
+      "start_ms": 43087,
+      "end_ms": 55199,
+      "duration_ms": 12112
+    },
+    {
+      "word": "Por qué se me juzga?",
+      "verse": 6,
+      "start_ms": 55200,
+      "end_ms": 57250,
+      "duration_ms": 2050
+    },
+    {
+      "word": "Por creer que los muertos pueden volver a vivir?",
+      "verse": 6,
+      "start_ms": 57250,
+      "end_ms": 60550,
+      "duration_ms": 3300
+    },
+    {
+      "word": "Apenas Pablo dijo eso, los fariseos y los saduceos comenzaron a discutir.",
+      "verse": 7,
+      "start_ms": 60550,
+      "end_ms": 66037,
+      "duration_ms": 5487
+    },
+    {
+      "word": "La reunión no pudo continuar en paz, pues unos pensaban una cosa y otros otra.",
+      "verse": 7,
+      "start_ms": 66037,
+      "end_ms": 71437,
+      "duration_ms": 5400
+    },
+    {
+      "word": "Los saduceos dicen que los muertos no pueden volver a vivir, y que no existen los ángeles ni los espíritus.",
+      "verse": 8,
+      "start_ms": 71437,
+      "end_ms": 78112,
+      "duration_ms": 6675
+    },
+    {
+      "word": "Pero los fariseos sí creen en todo eso.",
+      "verse": 8,
+      "start_ms": 78112,
+      "end_ms": 81187,
+      "duration_ms": 3075
+    },
+    {
+      "word": "Se armó entonces un gran alboroto, en el que todos gritaban.",
+      "verse": 9,
+      "start_ms": 81187,
+      "end_ms": 85562,
+      "duration_ms": 4375
+    },
+    {
+      "word": "Algunos maestros de la Ley, que eran fariseos, dijeron: No creemos que este hombre sea culpable de nada.",
+      "verse": 9,
+      "start_ms": 85562,
+      "end_ms": 92737,
+      "duration_ms": 7175
+    },
+    {
+      "word": "Tal vez un ángel o un espíritu le ha hablado.",
+      "verse": 9,
+      "start_ms": 92737,
+      "end_ms": 96087,
+      "duration_ms": 3350
+    },
+    {
+      "word": "El alboroto era cada vez mayor.",
+      "verse": 10,
+      "start_ms": 96087,
+      "end_ms": 98899,
+      "duration_ms": 2812
+    },
+    {
+      "word": "Entonces el jefe de los soldados romanos tuvo miedo de que mataran a Pablo, y ordenó que vinieran los soldados y se lo llevaran de nuevo al cuartel.",
+      "verse": 10,
+      "start_ms": 98900,
+      "end_ms": 107162,
+      "duration_ms": 8262
+    },
+    {
+      "word": "A la noche siguiente, el Señor Jesús se le apareció a Pablo y le dijo: Anímate, porque así como has hablado de mí en Jerusalén, también lo harás en Roma.",
+      "verse": 11,
+      "start_ms": 107162,
+      "end_ms": 116574,
+      "duration_ms": 9412
+    },
+    {
+      "word": "Al día siguiente, unos cuarenta judíos se pusieron de acuerdo para matar a Pablo.",
+      "verse": 12,
+      "start_ms": 116575,
+      "end_ms": 121575,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Fueron entonces a ver a los sacerdotes principales y a los líderes del país, y les dijeron: —Hemos jurado no comer ni beber nada, hasta que hayamos matado a Pablo.",
+      "verse": 12,
+      "start_ms": 121575,
+      "end_ms": 131287,
+      "duration_ms": 9712
+    },
+    {
+      "word": "Que una maldición caiga sobre nosotros, si no cumplimos nuestro juramento.",
+      "verse": 12,
+      "start_ms": 131287,
+      "end_ms": 136337,
+      "duration_ms": 5050
+    },
+    {
+      "word": "Ahora bien, éste es nuestro plan: ustedes, y los demás judíos de la Junta Suprema, le pedirán al jefe de los soldados romanos que traiga mañana a Pablo.",
+      "verse": 15,
+      "start_ms": 136337,
+      "end_ms": 146324,
+      "duration_ms": 9987
+    },
+    {
+      "word": "Díganle que desean saber más acerca de él.",
+      "verse": 15,
+      "start_ms": 146325,
+      "end_ms": 149662,
+      "duration_ms": 3337
+    },
+    {
+      "word": "Nosotros, por nuestra parte, estaremos listos para matarlo antes de que llegue aquí.",
+      "verse": 15,
+      "start_ms": 149662,
+      "end_ms": 155299,
+      "duration_ms": 5637
+    },
+    {
+      "word": "Pero un sobrino de Pablo se dio cuenta de lo que planeaban, y fue al cuartel a avisarle.",
+      "verse": 16,
+      "start_ms": 155300,
+      "end_ms": 160775,
+      "duration_ms": 5475
+    },
+    {
+      "word": "Pablo llamó entonces a uno de los capitanes romanos, y le dijo: —Este muchacho tiene algo importante que decirle al jefe de usted; llévelo con él.",
+      "verse": 17,
+      "start_ms": 160775,
+      "end_ms": 170037,
+      "duration_ms": 9262
+    },
+    {
+      "word": "El capitán lo llevó y le dijo a su jefe: —El prisionero Pablo me pidió que trajera a este muchacho, pues tiene algo que decirle a usted.",
+      "verse": 18,
+      "start_ms": 170037,
+      "end_ms": 178137,
+      "duration_ms": 8100
+    },
+    {
+      "word": "El jefe tomó de la mano al muchacho y lo llevó a un lugar aparte.",
+      "verse": 19,
+      "start_ms": 178137,
+      "end_ms": 182449,
+      "duration_ms": 4312
+    },
+    {
+      "word": "Allí le preguntó: —¿Qué vienes a decirme?",
+      "verse": 19,
+      "start_ms": 182450,
+      "end_ms": 185837,
+      "duration_ms": 3387
+    },
+    {
+      "word": "El muchacho le dijo: —Unos judíos han hecho un plan para pedirle a usted que lleve mañana a Pablo ante la Junta Suprema.",
+      "verse": 20,
+      "start_ms": 185837,
+      "end_ms": 193074,
+      "duration_ms": 7237
+    },
+    {
+      "word": "Van a decirle que es para investigarlo con más cuidado.",
+      "verse": 20,
+      "start_ms": 193075,
+      "end_ms": 196887,
+      "duration_ms": 3812
+    },
+    {
+      "word": "Pero usted no les haga caso, porque más de cuarenta hombres estarán escondidos esperando a Pablo, y han jurado que no comerán ni beberán nada hasta matarlo, y que si no lo hacen les caerá una maldición.",
+      "verse": 21,
+      "start_ms": 196887,
+      "end_ms": 208412,
+      "duration_ms": 11525
+    },
+    {
+      "word": "Ellos están ahora esperando su respuesta.",
+      "verse": 21,
+      "start_ms": 208412,
+      "end_ms": 211399,
+      "duration_ms": 2987
+    },
+    {
+      "word": "El jefe despidió al muchacho y le ordenó: —No le digas a nadie lo que me has dicho.",
+      "verse": 22,
+      "start_ms": 211400,
+      "end_ms": 216650,
+      "duration_ms": 5250
+    },
+    {
+      "word": "El jefe de los guardias llamó a dos de sus capitanes y les dio esta orden: Preparen a doscientos soldados que vayan a pie, setenta soldados que vayan a caballo, y doscientos soldados con lanzas.",
+      "verse": 23,
+      "start_ms": 216650,
+      "end_ms": 228087,
+      "duration_ms": 11437
+    },
+    {
+      "word": "Preparen también un caballo para Pablo.",
+      "verse": 23,
+      "start_ms": 228087,
+      "end_ms": 230912,
+      "duration_ms": 2825
+    },
+    {
+      "word": "Quiero que a las nueve de la noche vayan a la ciudad de Cesarea, y que lleven a Pablo ante el gobernador Félix.",
+      "verse": 23,
+      "start_ms": 230912,
+      "end_ms": 237599,
+      "duration_ms": 6687
+    },
+    {
+      "word": "Asegúrense de que a Pablo no le pase nada malo.",
+      "verse": 23,
+      "start_ms": 237600,
+      "end_ms": 241125,
+      "duration_ms": 3525
+    },
+    {
+      "word": "Además, el jefe envió una carta con los soldados, la cual decía: De Claudio Lisias, para el excelentísimo gobernador Félix.",
+      "verse": 25,
+      "start_ms": 241125,
+      "end_ms": 249912,
+      "duration_ms": 8787
+    },
+    {
+      "word": "Saludos.",
+      "verse": 26,
+      "start_ms": 249912,
+      "end_ms": 251612,
+      "duration_ms": 1700
+    },
+    {
+      "word": "Los líderes judíos arrestaron a este hombre, y querían matarlo.",
+      "verse": 27,
+      "start_ms": 251612,
+      "end_ms": 256174,
+      "duration_ms": 4562
+    },
+    {
+      "word": "Cuando supe que él es",
+      "verse": 27,
+      "start_ms": 256175,
+      "end_ms": 258437,
+      "duration_ms": 2262
+    },
+    {
+      "word": "ciudadano romano, fui con mis soldados y lo rescaté.",
+      "verse": 27,
+      "start_ms": 258604,
+      "end_ms": 262641,
+      "duration_ms": 4037
+    },
+    {
+      "word": "Luego lo llevé ante la Junta Suprema de los judíos, para saber de qué lo acusaban.",
+      "verse": 28,
+      "start_ms": 262591,
+      "end_ms": 267953,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Así supe que lo acusaban de cuestiones que tienen que ver con la ley de ellos.",
+      "verse": 29,
+      "start_ms": 267954,
+      "end_ms": 272716,
+      "duration_ms": 4762
+    },
+    {
+      "word": "Pero yo no creo que haya razón para matarlo o tenerlo en la cárcel.",
+      "verse": 29,
+      "start_ms": 272716,
+      "end_ms": 276853,
+      "duration_ms": 4137
+    },
+    {
+      "word": "Me he enterado también de que unos judíos planean matarlo, y por eso lo he enviado ante usted.",
+      "verse": 30,
+      "start_ms": 276854,
+      "end_ms": 283004,
+      "duration_ms": 6150
+    },
+    {
+      "word": "A los judíos que lo acusan les he dicho que vayan y traten con usted el asunto que tienen contra él.",
+      "verse": 30,
+      "start_ms": 283004,
+      "end_ms": 288616,
+      "duration_ms": 5612
+    },
+    {
+      "word": "Los soldados cumplieron las órdenes de su jefe, y por la noche llevaron a Pablo al cuartel de Antípatris.",
+      "verse": 31,
+      "start_ms": 288616,
+      "end_ms": 294866,
+      "duration_ms": 6250
+    },
+    {
+      "word": "Al día siguiente, los soldados que iban a pie regresaron al cuartel de Jerusalén, y los que iban a caballo continuaron el viaje con Pablo.",
+      "verse": 32,
+      "start_ms": 294866,
+      "end_ms": 302928,
+      "duration_ms": 8062
+    },
+    {
+      "word": "Cuando llegaron a Cesarea, se presentaron ante el gobernador Félix, y le entregaron a Pablo junto con la carta.",
+      "verse": 33,
+      "start_ms": 302929,
+      "end_ms": 309829,
+      "duration_ms": 6900
+    },
+    {
+      "word": "El gobernador leyó la carta, y luego preguntó de dónde era Pablo.",
+      "verse": 34,
+      "start_ms": 309829,
+      "end_ms": 314504,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Cuando supo que era de la región de Cilicia, le dijo a Pablo: Escucharé lo que tengas que decir cuando vengan los que te acusan.",
+      "verse": 34,
+      "start_ms": 314504,
+      "end_ms": 321929,
+      "duration_ms": 7425
+    },
+    {
+      "word": "Después, el gobernador ordenó a unos soldados que se llevaran a Pablo, y que lo vigilaran bien.",
+      "verse": 35,
+      "start_ms": 321929,
+      "end_ms": 328141,
+      "duration_ms": 6212
+    },
+    {
+      "word": "Los soldados lo llevaron al palacio que había construido el rey Herodes el Grande.",
+      "verse": 35,
+      "start_ms": 328141,
+      "end_ms": 333216,
+      "duration_ms": 5075
+    }
+  ]
+}

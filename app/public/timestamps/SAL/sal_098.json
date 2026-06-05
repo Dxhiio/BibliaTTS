@@ -1,0 +1,173 @@
+{
+  "book": "SAL",
+  "chapter": 98,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 9,
+  "word_count": 14,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 116,
+      "text": "¡Cantemos a Dios un nuevo himno! ¡Él hace grandes maravillas! Con su brazo santo y poderoso, venció a sus enemigos."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 116,
+      "char_end": 173,
+      "text": "Todo el mundo ha presenciado el triunfo de nuestro Dios."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 173,
+      "char_end": 300,
+      "text": "Nuestro Dios se acordó de Israel, su pueblo amado. ¡Los más lejanos lugares de la tierra han visto el triunfo de nuestro Dios!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 300,
+      "char_end": 421,
+      "text": "Habitantes de toda la tierra, griten con todas sus fuerzas: ¡Viva nuestro Dios! ¡Alábenlo con himnos y cánticos alegres!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 421,
+      "char_end": 495,
+      "text": "¡Cántenle himnos al son de instrumentos de cuerda y con voces melodiosas!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 495,
+      "char_end": 558,
+      "text": "¡Canten alegres a nuestro Rey, al son de clarines y trompetas!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 558,
+      "char_end": 647,
+      "text": "¡Que se unan en alabanza el mar y todo lo que contiene, el mundo y todos sus habitantes!"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 647,
+      "char_end": 706,
+      "text": "¡Que aplaudan los ríos, y canten alegres todos los cerros!"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 706,
+      "char_end": 850,
+      "text": "¡Que canten delante de Dios, que viene para gobernar el mundo! ¡Él es un Dios justo, y gobernará con justicia a todos los pueblos de la tierra!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Cantemos a Dios un nuevo himno!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 2662,
+      "duration_ms": 2562
+    },
+    {
+      "word": "Él hace grandes maravillas!",
+      "verse": 1,
+      "start_ms": 2612,
+      "end_ms": 5024,
+      "duration_ms": 2412
+    },
+    {
+      "word": "Con su brazo santo y poderoso, venció a sus enemigos.",
+      "verse": 1,
+      "start_ms": 5025,
+      "end_ms": 9237,
+      "duration_ms": 4212
+    },
+    {
+      "word": "Todo el mundo ha presenciado el triunfo de nuestro Dios.",
+      "verse": 2,
+      "start_ms": 9237,
+      "end_ms": 12899,
+      "duration_ms": 3662
+    },
+    {
+      "word": "Nuestro Dios se acordó de Israel, su pueblo amado.",
+      "verse": 3,
+      "start_ms": 12900,
+      "end_ms": 16775,
+      "duration_ms": 3875
+    },
+    {
+      "word": "Los más lejanos lugares de la tierra han visto el triunfo de nuestro Dios!",
+      "verse": 3,
+      "start_ms": 16775,
+      "end_ms": 21225,
+      "duration_ms": 4450
+    },
+    {
+      "word": "Habitantes de toda la tierra, griten con todas sus fuerzas: ¡Viva nuestro Dios!",
+      "verse": 4,
+      "start_ms": 21225,
+      "end_ms": 26775,
+      "duration_ms": 5550
+    },
+    {
+      "word": "Alábenlo con himnos y cánticos alegres!",
+      "verse": 4,
+      "start_ms": 26775,
+      "end_ms": 30037,
+      "duration_ms": 3262
+    },
+    {
+      "word": "Cántenle himnos al son de instrumentos de cuerda y con voces melodiosas!",
+      "verse": 5,
+      "start_ms": 30037,
+      "end_ms": 34724,
+      "duration_ms": 4687
+    },
+    {
+      "word": "Canten alegres a nuestro Rey, al son de clarines y trompetas!",
+      "verse": 6,
+      "start_ms": 34725,
+      "end_ms": 39112,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Que se unan en alabanza el mar y todo lo que contiene, el mundo y todos sus habitantes!",
+      "verse": 7,
+      "start_ms": 39112,
+      "end_ms": 44687,
+      "duration_ms": 5575
+    },
+    {
+      "word": "Que aplaudan los ríos, y canten alegres todos los cerros!",
+      "verse": 8,
+      "start_ms": 44687,
+      "end_ms": 48912,
+      "duration_ms": 4225
+    },
+    {
+      "word": "Que canten delante de Dios, que viene para gobernar el mundo!",
+      "verse": 9,
+      "start_ms": 48912,
+      "end_ms": 53187,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Él es un Dios justo, y gobernará con justicia a todos los pueblos de la tierra!",
+      "verse": 9,
+      "start_ms": 53187,
+      "end_ms": 58537,
+      "duration_ms": 5350
+    }
+  ]
+}

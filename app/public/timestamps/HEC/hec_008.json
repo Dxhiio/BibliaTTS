@@ -1,0 +1,684 @@
+{
+  "book": "HEC",
+  "chapter": 8,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 35,
+  "word_count": 61,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-2",
+      "char_start": 0,
+      "char_end": 197,
+      "text": "Saulo vio cómo mataban a Esteban, y le pareció muy bien. Más tarde, unos hombres que amaban mucho al Señor recogieron el cuerpo de Esteban, lo enterraron, y durante varios días lloraron su muerte."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 197,
+      "char_end": 364,
+      "text": "Mientras tanto, Saulo seguía maltratando a los miembros de la iglesia. Entraba en las casas, sacaba por la fuerza a hombres y a mujeres, y los encerraba en la cárcel."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 364,
+      "char_end": 510,
+      "text": "Sin embargo, los que habían huido de la ciudad de Jerusalén seguían anunciando las buenas noticias de salvación en los lugares por donde pasaban."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 510,
+      "char_end": 650,
+      "text": "Felipe fue a la ciudad de Samaria, y allí se puso a hablar acerca de Jesús, el Mesías. Felipe era uno de los siete ayudantes de la iglesia."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 650,
+      "char_end": 738,
+      "text": "Toda la gente se reunía para escucharlo con atención y para ver los milagros que hacía."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 738,
+      "char_end": 915,
+      "text": "Muchos de los que fueron a verlo tenían espíritus impuros, pero Felipe los expulsaba, y los espíritus salían dando gritos. Además, muchos cojos y paralíticos volvían a caminar."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 915,
+      "char_end": 957,
+      "text": "Y todos en la ciudad estaban muy alegres."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 957,
+      "char_end": 1130,
+      "text": "Desde hacía algún tiempo, un hombre llamado Simón andaba por ahí. Este Simón asombraba a la gente de Samaria con sus trucos de magia, y se hacía pasar por gente importante."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1130,
+      "char_end": 1235,
+      "text": "Ricos y pobres le prestaban atención, y decían: Este hombre tiene lo que se llama el gran poder de Dios."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1235,
+      "char_end": 1309,
+      "text": "Toda la gente prestaba mucha atención a los trucos mágicos que realizaba."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1309,
+      "char_end": 1499,
+      "text": "Pero llegó Felipe y les anunció las buenas noticias del reino de Dios. Les habló acerca de Jesús, el Mesías, y todos en Samaria le creyeron. Y así Felipe bautizó a muchos hombres y mujeres."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1499,
+      "char_end": 1671,
+      "text": "También Simón creyó en el mensaje de Felipe, y Felipe lo bautizó. Y Simón estaba tan asombrado de los milagros y las maravillas que Felipe hacía, que no se apartaba de él."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1671,
+      "char_end": 1817,
+      "text": "Los apóstoles estaban en Jerusalén. En cuanto supieron que la gente de Samaria había aceptado el mensaje de Dios, mandaron allá a Pedro y a Juan."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1817,
+      "char_end": 1908,
+      "text": "Cuando éstos llegaron, oraron para que los nuevos seguidores recibieran el Espíritu Santo,"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1908,
+      "char_end": 2006,
+      "text": "porque todavía no lo habían recibido. Y es que sólo habían sido bautizados en el nombre de Jesús."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2006,
+      "char_end": 2120,
+      "text": "Entonces Pedro y Juan pusieron sus manos sobre la cabeza de cada uno, y todos ellos recibieron el Espíritu Santo."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2120,
+      "char_end": 2278,
+      "text": "Al ver Simón que la gente recibía el Espíritu Santo cuando los apóstoles les ponían las manos sobre la cabeza, les ofreció dinero a los apóstoles y les dijo:"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2278,
+      "char_end": 2396,
+      "text": "—Denme ese mismo poder que tienen ustedes. Así yo también podré darle el Espíritu Santo a quien le imponga las manos."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2396,
+      "char_end": 2516,
+      "text": "Pero Pedro le respondió: —¡Vete al infierno con todo y tu dinero! ¡Lo que Dios da como regalo, no se compra con dinero!"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2516,
+      "char_end": 2604,
+      "text": "Tú no tienes parte con nosotros, pues bien sabe Dios que tus intenciones no son buenas."
+    },
+    {
+      "verse": 22,
+      "label": "22-23",
+      "char_start": 2604,
+      "char_end": 2781,
+      "text": "Claramente veo que tienes envidia, y que no puedes dejar de hacer lo malo. Tienes que dejar de hacerlo. Si le pides perdón a Dios por tus malas intenciones, tal vez te perdone."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2781,
+      "char_end": 2877,
+      "text": "Simón les suplicó: —¡Por favor, pídanle a Dios que me perdone, para que no me vaya al infierno!"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2877,
+      "char_end": 3103,
+      "text": "Antes de volver a Samaria, Pedro y Juan compartieron con la gente el mensaje del Señor. Después regresaron a la ciudad de Jerusalén, pero en el camino fueron anunciando a los samaritanos las buenas noticias del reino de Dios."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3103,
+      "char_end": 3278,
+      "text": "Un ángel del Señor se le apareció a Felipe y le dijo: Prepárate para cruzar el desierto, y dirígete al sur por el camino que va de la ciudad de Jerusalén a la ciudad de Gaza."
+    },
+    {
+      "verse": 27,
+      "label": "27-28",
+      "char_start": 3278,
+      "char_end": 3558,
+      "text": "Felipe obedeció. En el camino se encontró con un hombre muy importante, pues era oficial y tesorero de la reina de Etiopía. Ese oficial había ido a Jerusalén para adorar a Dios, y ahora volvía a su país. El oficial iba sentado en su carruaje, leyendo el libro del profeta Isaías."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3558,
+      "char_end": 3648,
+      "text": "Entonces el Espíritu de Dios le dijo a Felipe: Acércate al carruaje, y camina junto a él."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3648,
+      "char_end": 3830,
+      "text": "Felipe corrió para alcanzar el carruaje. Cuando ya estuvo cerca, escuchó que el oficial leía el libro del profeta Isaías. Entonces le preguntó: —¿Entiende usted lo que está leyendo?"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3830,
+      "char_end": 4018,
+      "text": "Y el oficial de Etiopía le respondió: —¿Y cómo voy a entenderlo, si no hay quien me lo explique? Dicho esto, el oficial invitó a Felipe a que subiera a su carruaje y se sentara a su lado."
+    },
+    {
+      "verse": 32,
+      "label": "32-33",
+      "char_start": 4018,
+      "char_end": 4330,
+      "text": "En ese momento el oficial leía el pasaje que dice: Fue llevado al matadero, como se lleva a las ovejas para cortarles la lana. Como si fuera un cordero, él ni siquiera abrió su boca. Fue maltratado y humillado, pero nunca se quejó. No lo trataron con justicia; no llegó a tener hijos porque le quitaron la vida."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4330,
+      "char_end": 4447,
+      "text": "El oficial le preguntó a Felipe: —Dígame usted, por favor: ¿está hablando el profeta de él mismo, o de otra persona?"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4447,
+      "char_end": 4547,
+      "text": "Entonces Felipe, partiendo de ese pasaje de Isaías, le explicó las buenas noticias acerca de Jesús."
+    },
+    {
+      "verse": 36,
+      "label": "36-37",
+      "char_start": 4547,
+      "char_end": 4676,
+      "text": "En el camino pasaron por un lugar donde había agua. Entonces el oficial dijo: ¡Allí hay agua! ¿No podría usted bautizarme ahora?"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4676,
+      "char_end": 4768,
+      "text": "Enseguida el oficial mandó parar el carruaje, bajó con Felipe al agua, y Felipe lo bautizó."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4768,
+      "char_end": 4909,
+      "text": "Pero cuando salieron del agua, el Espíritu del Señor se llevó a Felipe; y aunque el oficial no volvió a verlo, siguió su viaje muy contento."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4909,
+      "char_end": 5083,
+      "text": "Más tarde, Felipe apareció en la ciudad de Azoto y se dirigió a la ciudad de Cesarea. Y en todos los pueblos por donde pasaba, anunciaba las buenas noticias acerca de Jesús."
+    }
+  ],
+  "words": [
+    {
+      "word": "Saulo vio cómo mataban a Esteban, y le pareció muy bien.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4225,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Más tarde, unos hombres que amaban mucho al Señor recogieron el cuerpo de Esteban, lo enterraron, y durante varios días lloraron su muerte.",
+      "verse": 1,
+      "start_ms": 4175,
+      "end_ms": 12462,
+      "duration_ms": 8287
+    },
+    {
+      "word": "Mientras tanto, Saulo seguía maltratando a los miembros de la iglesia.",
+      "verse": 3,
+      "start_ms": 12462,
+      "end_ms": 17049,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Entraba en las casas, sacaba por la fuerza a hombres y a mujeres, y los encerraba en la cárcel.",
+      "verse": 3,
+      "start_ms": 17050,
+      "end_ms": 23125,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Sin embargo, los que habían huido de la ciudad de Jerusalén seguían anunciando las buenas noticias de salvación en los lugares por donde pasaban.",
+      "verse": 4,
+      "start_ms": 23125,
+      "end_ms": 31187,
+      "duration_ms": 8062
+    },
+    {
+      "word": "Felipe fue a la ciudad de Samaria, y allí se puso a hablar acerca de Jesús, el Mesías.",
+      "verse": 5,
+      "start_ms": 31187,
+      "end_ms": 37299,
+      "duration_ms": 6112
+    },
+    {
+      "word": "Felipe era uno de los siete ayudantes de la iglesia.",
+      "verse": 5,
+      "start_ms": 37300,
+      "end_ms": 40987,
+      "duration_ms": 3687
+    },
+    {
+      "word": "Toda la gente se reunía para escucharlo con atención y para ver los milagros que hacía.",
+      "verse": 6,
+      "start_ms": 40987,
+      "end_ms": 46224,
+      "duration_ms": 5237
+    },
+    {
+      "word": "Muchos de los que fueron a verlo tenían espíritus impuros, pero Felipe los expulsaba, y los espíritus salían dando gritos.",
+      "verse": 7,
+      "start_ms": 46225,
+      "end_ms": 54000,
+      "duration_ms": 7775
+    },
+    {
+      "word": "Además, muchos cojos y paralíticos volvían a caminar.",
+      "verse": 7,
+      "start_ms": 54000,
+      "end_ms": 58237,
+      "duration_ms": 4237
+    },
+    {
+      "word": "Y todos en la ciudad estaban muy alegres.",
+      "verse": 8,
+      "start_ms": 58237,
+      "end_ms": 61537,
+      "duration_ms": 3300
+    },
+    {
+      "word": "Desde hacía algún tiempo, un hombre llamado Simón andaba por ahí.",
+      "verse": 9,
+      "start_ms": 61537,
+      "end_ms": 65924,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Este Simón asombraba a la gente de Samaria con sus trucos de magia, y se hacía pasar por gente importante.",
+      "verse": 9,
+      "start_ms": 65925,
+      "end_ms": 72600,
+      "duration_ms": 6675
+    },
+    {
+      "word": "Ricos y pobres le prestaban atención, y decían: Este hombre tiene lo que se llama el gran poder de Dios.",
+      "verse": 10,
+      "start_ms": 72600,
+      "end_ms": 79400,
+      "duration_ms": 6800
+    },
+    {
+      "word": "Toda la gente prestaba mucha atención a los trucos mágicos que realizaba.",
+      "verse": 11,
+      "start_ms": 79400,
+      "end_ms": 84162,
+      "duration_ms": 4762
+    },
+    {
+      "word": "Pero llegó Felipe y les anunció las buenas noticias del reino de Dios.",
+      "verse": 12,
+      "start_ms": 84162,
+      "end_ms": 88712,
+      "duration_ms": 4550
+    },
+    {
+      "word": "Les habló acerca de Jesús, el Mesías, y todos en Samaria le creyeron.",
+      "verse": 12,
+      "start_ms": 88712,
+      "end_ms": 94149,
+      "duration_ms": 5437
+    },
+    {
+      "word": "Y así Felipe bautizó a muchos hombres y mujeres.",
+      "verse": 12,
+      "start_ms": 94150,
+      "end_ms": 98000,
+      "duration_ms": 3850
+    },
+    {
+      "word": "También Simón creyó en el mensaje de Felipe, y Felipe lo bautizó.",
+      "verse": 13,
+      "start_ms": 98000,
+      "end_ms": 102787,
+      "duration_ms": 4787
+    },
+    {
+      "word": "Y Simón estaba tan asombrado de los milagros y las maravillas que Felipe hacía, que no se apartaba de él.",
+      "verse": 13,
+      "start_ms": 102787,
+      "end_ms": 109424,
+      "duration_ms": 6637
+    },
+    {
+      "word": "Los apóstoles estaban en Jerusalén.",
+      "verse": 14,
+      "start_ms": 109425,
+      "end_ms": 112425,
+      "duration_ms": 3000
+    },
+    {
+      "word": "En cuanto supieron que la gente de Samaria había aceptado el mensaje de Dios, mandaron allá a Pedro y a Juan.",
+      "verse": 14,
+      "start_ms": 112425,
+      "end_ms": 119075,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Cuando éstos llegaron, oraron para que los nuevos seguidores recibieran el Espíritu Santo, porque todavía no lo habían recibido.",
+      "verse": 15,
+      "start_ms": 119075,
+      "end_ms": 126487,
+      "duration_ms": 7412
+    },
+    {
+      "word": "Y es que sólo habían sido bautizados en el nombre de Jesús.",
+      "verse": 16,
+      "start_ms": 126487,
+      "end_ms": 130637,
+      "duration_ms": 4150
+    },
+    {
+      "word": "Entonces Pedro y Juan pusieron sus manos sobre la cabeza de cada uno, y todos ellos recibieron el Espíritu Santo.",
+      "verse": 17,
+      "start_ms": 130637,
+      "end_ms": 137774,
+      "duration_ms": 7137
+    },
+    {
+      "word": "Al ver Simón que la gente recibía el Espíritu Santo cuando los apóstoles les ponían las manos sobre la cabeza, les ofreció dinero a los apóstoles y les dijo: —Denme ese mismo poder que tienen ustedes.",
+      "verse": 18,
+      "start_ms": 137775,
+      "end_ms": 149150,
+      "duration_ms": 11375
+    },
+    {
+      "word": "Así yo también podré darle el Espíritu Santo a quien le imponga las manos.",
+      "verse": 19,
+      "start_ms": 149150,
+      "end_ms": 153850,
+      "duration_ms": 4700
+    },
+    {
+      "word": "Pero Pedro le respondió: —¡Vete al infierno con todo y tu dinero!",
+      "verse": 20,
+      "start_ms": 153850,
+      "end_ms": 158312,
+      "duration_ms": 4462
+    },
+    {
+      "word": "Lo que Dios da como regalo, no se compra con dinero!",
+      "verse": 20,
+      "start_ms": 158312,
+      "end_ms": 161974,
+      "duration_ms": 3662
+    },
+    {
+      "word": "Tú no tienes parte con nosotros, pues bien sabe Dios que tus intenciones no son buenas.",
+      "verse": 21,
+      "start_ms": 161975,
+      "end_ms": 167687,
+      "duration_ms": 5712
+    },
+    {
+      "word": "Claramente veo que tienes envidia, y que no puedes dejar de hacer lo malo.",
+      "verse": 22,
+      "start_ms": 167687,
+      "end_ms": 172399,
+      "duration_ms": 4712
+    },
+    {
+      "word": "Tienes que dejar de hacerlo.",
+      "verse": 22,
+      "start_ms": 172400,
+      "end_ms": 174675,
+      "duration_ms": 2275
+    },
+    {
+      "word": "Si le pides perdón a Dios por tus malas intenciones, tal vez te perdone.",
+      "verse": 22,
+      "start_ms": 174675,
+      "end_ms": 179762,
+      "duration_ms": 5087
+    },
+    {
+      "word": "Simón les suplicó: —¡Por favor, pídanle a Dios que me perdone, para que no me vaya al infierno!",
+      "verse": 24,
+      "start_ms": 179762,
+      "end_ms": 186099,
+      "duration_ms": 6337
+    },
+    {
+      "word": "Antes de volver a Samaria, Pedro y Juan compartieron con la gente el mensaje del Señor.",
+      "verse": 25,
+      "start_ms": 186100,
+      "end_ms": 191675,
+      "duration_ms": 5575
+    },
+    {
+      "word": "Después regresaron a la ciudad de Jerusalén, pero en el camino fueron anunciando a los samaritanos las buenas noticias del reino de Dios.",
+      "verse": 25,
+      "start_ms": 191675,
+      "end_ms": 199325,
+      "duration_ms": 7650
+    },
+    {
+      "word": "Un ángel del Señor se le apareció a Felipe y le dijo: Prepárate para cruzar el desierto, y dirígete al sur por el camino que va de la ciudad de Jerusalén a la ciudad de Gaza.",
+      "verse": 26,
+      "start_ms": 199325,
+      "end_ms": 209362,
+      "duration_ms": 10037
+    },
+    {
+      "word": "Felipe obedeció.",
+      "verse": 27,
+      "start_ms": 209362,
+      "end_ms": 211374,
+      "duration_ms": 2012
+    },
+    {
+      "word": "En el camino se encontró con un hombre muy importante, pues era oficial y tesorero de la reina de Etiopía.",
+      "verse": 27,
+      "start_ms": 211375,
+      "end_ms": 217837,
+      "duration_ms": 6462
+    },
+    {
+      "word": "Ese oficial había ido a Jerusalén para adorar a Dios, y ahora volvía a su país.",
+      "verse": 27,
+      "start_ms": 217837,
+      "end_ms": 223462,
+      "duration_ms": 5625
+    },
+    {
+      "word": "El oficial iba sentado en su carruaje, leyendo el libro del profeta Isaías.",
+      "verse": 27,
+      "start_ms": 223462,
+      "end_ms": 228812,
+      "duration_ms": 5350
+    },
+    {
+      "word": "Entonces el Espíritu de Dios le dijo a Felipe: Acércate al carruaje, y camina junto a él.",
+      "verse": 29,
+      "start_ms": 228812,
+      "end_ms": 235187,
+      "duration_ms": 6375
+    },
+    {
+      "word": "Felipe corrió para alcanzar el carruaje.",
+      "verse": 30,
+      "start_ms": 235187,
+      "end_ms": 238237,
+      "duration_ms": 3050
+    },
+    {
+      "word": "Cuando ya estuvo cerca, escuchó que el oficial leía el libro del profeta Isaías.",
+      "verse": 30,
+      "start_ms": 238237,
+      "end_ms": 243824,
+      "duration_ms": 5587
+    },
+    {
+      "word": "Entonces le preguntó: —¿Entiende usted lo que está leyendo?",
+      "verse": 30,
+      "start_ms": 243825,
+      "end_ms": 248062,
+      "duration_ms": 4237
+    },
+    {
+      "word": "Y el oficial de Etiopía le respondió: —¿Y cómo voy a entenderlo, si no hay quien me lo explique?",
+      "verse": 31,
+      "start_ms": 248062,
+      "end_ms": 254037,
+      "duration_ms": 5975
+    },
+    {
+      "word": "Dicho esto, el oficial invitó a Felipe a que",
+      "verse": 31,
+      "start_ms": 254037,
+      "end_ms": 257749,
+      "duration_ms": 3712
+    },
+    {
+      "word": "subiera a su carruaje y se sentara a su lado.",
+      "verse": 31,
+      "start_ms": 257908,
+      "end_ms": 261220,
+      "duration_ms": 3312
+    },
+    {
+      "word": "En ese momento el oficial leía el pasaje que dice: Fue llevado al matadero, como se lleva a las ovejas para cortarles la lana.",
+      "verse": 32,
+      "start_ms": 261170,
+      "end_ms": 269032,
+      "duration_ms": 7862
+    },
+    {
+      "word": "Como si fuera un cordero, él ni siquiera abrió su boca.",
+      "verse": 32,
+      "start_ms": 269033,
+      "end_ms": 273058,
+      "duration_ms": 4025
+    },
+    {
+      "word": "Fue maltratado y humillado, pero nunca se quejó.",
+      "verse": 32,
+      "start_ms": 273058,
+      "end_ms": 276883,
+      "duration_ms": 3825
+    },
+    {
+      "word": "No lo trataron con justicia; no llegó a tener hijos porque le quitaron la vida.",
+      "verse": 32,
+      "start_ms": 276883,
+      "end_ms": 282033,
+      "duration_ms": 5150
+    },
+    {
+      "word": "El oficial le preguntó a Felipe: —Dígame usted, por favor: ¿está hablando el profeta de él mismo, o de otra persona?",
+      "verse": 34,
+      "start_ms": 282033,
+      "end_ms": 289833,
+      "duration_ms": 7800
+    },
+    {
+      "word": "Entonces Felipe, partiendo de ese pasaje de Isaías, le explicó las buenas noticias acerca de Jesús.",
+      "verse": 35,
+      "start_ms": 289833,
+      "end_ms": 296933,
+      "duration_ms": 7100
+    },
+    {
+      "word": "En el camino pasaron por un lugar donde había agua.",
+      "verse": 36,
+      "start_ms": 296933,
+      "end_ms": 300420,
+      "duration_ms": 3487
+    },
+    {
+      "word": "Entonces el oficial dijo: ¡Allí hay agua!",
+      "verse": 36,
+      "start_ms": 300420,
+      "end_ms": 303820,
+      "duration_ms": 3400
+    },
+    {
+      "word": "No podría usted bautizarme ahora?",
+      "verse": 36,
+      "start_ms": 303820,
+      "end_ms": 306807,
+      "duration_ms": 2987
+    },
+    {
+      "word": "Enseguida el oficial mandó parar el carruaje, bajó con Felipe al agua, y Felipe lo bautizó.",
+      "verse": 38,
+      "start_ms": 306808,
+      "end_ms": 312820,
+      "duration_ms": 6012
+    },
+    {
+      "word": "Pero cuando salieron del agua, el Espíritu del Señor se llevó a Felipe; y aunque el oficial no volvió a verlo, siguió su viaje muy contento.",
+      "verse": 39,
+      "start_ms": 312820,
+      "end_ms": 321307,
+      "duration_ms": 8487
+    },
+    {
+      "word": "Más tarde, Felipe apareció en la ciudad de Azoto y se dirigió a la ciudad de Cesarea.",
+      "verse": 40,
+      "start_ms": 321308,
+      "end_ms": 326908,
+      "duration_ms": 5600
+    },
+    {
+      "word": "Y en todos los pueblos por donde pasaba, anunciaba las buenas noticias acerca de Jesús.",
+      "verse": 40,
+      "start_ms": 326908,
+      "end_ms": 332708,
+      "duration_ms": 5800
+    }
+  ]
+}

@@ -1,0 +1,887 @@
+{
+  "book": "DAN",
+  "chapter": 11,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 42,
+  "word_count": 83,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 122,
+      "text": "Y aquel personaje siguió diciendo: Durante el primer año del reinado de Darío en Media, yo le brindé mi ayuda y mi apoyo."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 122,
+      "char_end": 295,
+      "text": "Y es que Persia todavía tendrá tres reyes. Después vendrá un cuarto rey, que será más rico que los tres anteriores. Será tan rico y poderoso que atacará al reino de Grecia."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 295,
+      "char_end": 389,
+      "text": "Después vendrá un rey muy valiente, que gobernará un gran imperio y hará lo que se le antoje."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 389,
+      "char_end": 630,
+      "text": "Cuando su reino ya esté bien establecido, será destruido y se dividirá en cuatro partes. Este rey no les dejará el poder a sus hijos, ni será tan poderoso como antes fue, porque su reino estará dividido y en su lugar gobernarán otros reyes."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 630,
+      "char_end": 762,
+      "text": "El rey del sur será muy poderoso, pero uno de los jefes de su ejército le ganará en poder y controlará a muchas naciones y pueblos."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 762,
+      "char_end": 1040,
+      "text": "Después de algunos años, el rey del norte y el rey del sur unirán sus fuerzas. Para que haya paz entre ellos, el rey del norte se casará con la hija del rey del sur. Sin embargo, este plan no tendrá éxito porque matarán a la hija y a su esposo, junto con su hijo y sus criados."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 1040,
+      "char_end": 1214,
+      "text": "Un miembro de la familia del rey del sur peleará contra el ejército del rey del norte, y lo vencerá; luego ocupará el castillo del rey, y con su ejército lo controlará todo."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1214,
+      "char_end": 1362,
+      "text": "Se llevará a Egipto sus dioses de metal, y otros objetos de oro y plata. De este modo, durante algún tiempo no habrá guerra entre estos dos reinos."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1362,
+      "char_end": 1473,
+      "text": "Tiempo después, el rey del norte tratará de conquistar al reino del sur, pero tendrá que regresar a su tierra."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1473,
+      "char_end": 1705,
+      "text": "Entonces los hijos del rey del norte se enojarán y reunirán un gran ejército para luchar contra el rey del sur. Y lo atacarán, y llegarán hasta el castillo de ese rey. A su paso lo destruirán todo, como si fueran un río desbordado."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1705,
+      "char_end": 1848,
+      "text": "Ante este ataque, el rey del sur se enojará mucho. Entonces saldrá a luchar contra el ejército del rey del norte, y lo derrotará por completo."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1848,
+      "char_end": 1954,
+      "text": "Esta victoria hará que el rey del sur se vuelva muy orgulloso. Pero su orgullo no le durará mucho tiempo,"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1954,
+      "char_end": 2121,
+      "text": "porque el rey del norte organizará otro ejército, más grande y mejor preparado que el primero, y después de algunos años volverá a atacar al rey del sur y lo vencerá."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 2121,
+      "char_end": 2330,
+      "text": "En ese tiempo, muchos se unirán al rey del norte para pelear contra el rey del sur. Tal y como lo viste en tu sueño, entre ellos habrá algunos israelitas malvados; pero no les irá bien, pues serán derrotados."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2330,
+      "char_end": 2518,
+      "text": "El rey del norte construirá una rampa alrededor de una ciudad amurallada, y subirá a sus muros y la conquistará. ¡Ni los soldados más valientes del sur podrán detener al ejército enemigo!"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2518,
+      "char_end": 2678,
+      "text": "El rey conquistador hará lo que quiera, y nadie se atreverá a hacerle frente. Destruirá todo lo que encuentre a su paso, y se quedará en la tierra más hermosa."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2678,
+      "char_end": 2852,
+      "text": "El rey del norte tratará de vencer por completo al rey del sur. Para quedarse con su reino, firmará la paz y dejará que su hija se case con él. Pero su plan no tendrá éxito."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2852,
+      "char_end": 3036,
+      "text": "Entonces atacará las ciudades que están a la orilla del mar, y a muchas de ellas las conquistará. Pero un jefe del ejército terminará con esto, y pondrá en vergüenza al rey del norte."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 3036,
+      "char_end": 3158,
+      "text": "Así el rey del norte volverá a sus castillos, pero un accidente le causará la muerte, y nadie más volverá a hablar de él."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 3158,
+      "char_end": 3313,
+      "text": "Su lugar lo ocupará otro rey, que para hacerse rico enviará uno de sus criados a cobrar impuestos. Pero pocos días después morirá, aunque no en la guerra."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 3313,
+      "char_end": 3472,
+      "text": "Después de ese rey vendrá un malvado, que no merecerá ser rey, pero que llegará a serlo por medio de engaños, y sin que nadie se dé cuenta de sus intenciones."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3472,
+      "char_end": 3582,
+      "text": "Ese malvado derrotará por completo a los ejércitos enemigos, y también al príncipe con quien hizo un tratado."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3582,
+      "char_end": 3676,
+      "text": "Engañará también a sus amigos, y a pesar de no tener un gran ejército logrará sus propósitos."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3676,
+      "char_end": 3962,
+      "text": "Ese malvado tomará por sorpresa las tierras más ricas del lugar, y hará lo que no hicieron sus padres ni sus abuelos: repartirá entre sus soldados las riquezas que hayan ganado en la guerra, y hará planes para conquistar a las ciudades más protegidas. Pero esto no durará mucho tiempo."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3962,
+      "char_end": 4233,
+      "text": "Sin embargo, se sentirá tan poderoso que, con su gran ejército, atacará al rey del sur. Pero el rey del sur se le enfrentará valientemente, apoyado por su ejército grande y poderoso. Sin embargo, este rey será traicionado y no podrá resistir los ataques de sus enemigos."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 4233,
+      "char_end": 4412,
+      "text": "Sus propios amigos, a quienes invitaba a comer en su propia mesa, serán la causa de su desgracia. Y así, su ejército perderá la guerra, y muchos de sus soldados perderán la vida."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 4412,
+      "char_end": 4620,
+      "text": "Estos dos reyes se sentarán a comer en la misma mesa, pero sólo pensarán en hacerse daño. Se engañarán el uno al otro, pero ninguno de los dos logrará su propósito, porque todavía no será el tiempo adecuado."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 4620,
+      "char_end": 4816,
+      "text": "Después de llevar a cabo sus planes, el rey del norte regresará a su país, llevándose todo lo que ganó en la guerra. Pasado el tiempo, el rey del norte no cumplirá con el tratado de paz que hizo."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 4816,
+      "char_end": 4924,
+      "text": "Al contrario, en el momento preciso volverá a luchar contra el rey del sur, sólo que esta vez no triunfará."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4924,
+      "char_end": 5187,
+      "text": "Vendrá en barcos un ejército del oeste, y lo atacará. Esto le dará tanto miedo que lo hará huir. Entonces les hará caso a quienes, por estar a su servicio, no cumplieron con el tratado de paz. Será tanto su odio que hará cosas terribles en contra de ese tratado."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 5187,
+      "char_end": 5349,
+      "text": "Sus soldados no respetarán el templo ni la ciudad amurallada. No permitirán que se presente la ofrenda de todos los días, y en su lugar ofrecerán algo asqueroso."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 5349,
+      "char_end": 5504,
+      "text": "El rey tratará de ganarse la simpatía de los que no cumplieron con el tratado de paz, pero los que aman a su Dios se mantendrán firmes y no le harán caso."
+    },
+    {
+      "verse": 33,
+      "label": "33-35",
+      "char_start": 5504,
+      "char_end": 6042,
+      "text": "Los maestros del pueblo enseñarán a mucha gente a mantenerse fieles a Dios, aunque serán perseguidos. A unos los matarán, a otros los quemarán, y a otros les robarán todas sus pertenencias. Muchos de ellos serán llevados como esclavos a otros países. Mientras esto suceda, no les faltará un poco de ayuda, aunque muchos se unirán a ellos sólo por conveniencia. Todo esto sucederá como preparación, para que puedan resistir mejor otras pruebas. Pero esto durará sólo un poco de tiempo, hasta que llegue el momento final señalado por Dios."
+    },
+    {
+      "verse": 36,
+      "label": "36-37",
+      "char_start": 6042,
+      "char_end": 6308,
+      "text": "El rey del norte hará todo lo que quiera. Será tanto su orgullo que se creerá superior a todos los dioses. Hasta llegará a ofender gravemente al verdadero Dios. Y todo le saldrá bien, pero sólo hasta que Dios lo castigue, porque lo que Dios tiene que hacer lo hace."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 6308,
+      "char_end": 6489,
+      "text": "Este rey adorará al dios de las ciudades amuralladas, dios al que ni sus padres ni sus abuelos adoraron, y hasta le ofrecerá oro, plata, piedras preciosas y objetos de mucho valor."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 6489,
+      "char_end": 6696,
+      "text": "Para defender las ciudades conquistadas, pedirá el apoyo de un ejército que adora a otros dioses. Y a todos los que le rindan honores, los recompensará con puestos muy importantes y con grandes territorios."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 6696,
+      "char_end": 6971,
+      "text": "Cuando llegue el momento final, el rey del sur atacará al rey del norte, pero éste responderá a los ataques. Saldrá al frente de carros de guerra, y de todo un ejército montado a caballo, y apoyado por muchos barcos. ¡Caerá sobre todo el país, con la fuerza de una tormenta!"
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 6971,
+      "char_end": 7149,
+      "text": "También invadirá la tierra más hermosa, y matará a muchísimas personas; sin embargo, no les pasará nada a los que viven en Edom y Moab, ni a la mayoría de los que viven en Amón."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 7149,
+      "char_end": 7240,
+      "text": "El ejército del rey del norte conquistará varios países, y ni siquiera Egipto se escapará."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 7240,
+      "char_end": 7371,
+      "text": "El rey se llevará todos los tesoros de Egipto: el oro, la plata y todas sus riquezas. Después de eso, conquistará Libia y Etiopía."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 7371,
+      "char_end": 7489,
+      "text": "Pero le llegarán noticias del este y del norte, que le darán mucho miedo. Se enojará tanto que querrá matar a muchos."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 7489,
+      "char_end": 7651,
+      "text": "Entonces pondrá su campamento entre el mar y la montaña de Dios, que está en la tierra más hermosa. Allí le llegará la hora de su muerte, y nadie podrá ayudarlo."
+    }
+  ],
+  "words": [
+    {
+      "word": "Y aquel personaje siguió diciendo: Durante el primer año del reinado de Darío en Media, yo le brindé mi ayuda y mi apoyo.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7887,
+      "duration_ms": 7787
+    },
+    {
+      "word": "Y es que Persia todavía tendrá tres reyes.",
+      "verse": 2,
+      "start_ms": 7837,
+      "end_ms": 11337,
+      "duration_ms": 3500
+    },
+    {
+      "word": "Después vendrá un cuarto rey, que será más rico que los tres anteriores.",
+      "verse": 2,
+      "start_ms": 11337,
+      "end_ms": 16387,
+      "duration_ms": 5050
+    },
+    {
+      "word": "Será tan rico y poderoso que atacará al reino de Grecia.",
+      "verse": 2,
+      "start_ms": 16387,
+      "end_ms": 20462,
+      "duration_ms": 4075
+    },
+    {
+      "word": "Después vendrá un rey muy valiente, que gobernará un gran imperio y hará lo que se le antoje.",
+      "verse": 3,
+      "start_ms": 20462,
+      "end_ms": 26499,
+      "duration_ms": 6037
+    },
+    {
+      "word": "Cuando su reino ya esté bien establecido, será destruido y se dividirá en cuatro partes.",
+      "verse": 4,
+      "start_ms": 26500,
+      "end_ms": 32550,
+      "duration_ms": 6050
+    },
+    {
+      "word": "Este rey no les dejará el poder a sus hijos, ni será tan poderoso como antes fue, porque su reino estará dividido y en su lugar gobernarán otros reyes.",
+      "verse": 4,
+      "start_ms": 32550,
+      "end_ms": 41812,
+      "duration_ms": 9262
+    },
+    {
+      "word": "El rey del sur será muy poderoso, pero uno de los jefes de su ejército le ganará en poder y controlará a muchas naciones y pueblos.",
+      "verse": 5,
+      "start_ms": 41812,
+      "end_ms": 49774,
+      "duration_ms": 7962
+    },
+    {
+      "word": "Después de algunos años, el rey del norte y el rey del sur unirán sus fuerzas.",
+      "verse": 6,
+      "start_ms": 49775,
+      "end_ms": 55212,
+      "duration_ms": 5437
+    },
+    {
+      "word": "Para que haya paz entre ellos, el rey del norte se casará con la hija del rey del sur.",
+      "verse": 6,
+      "start_ms": 55212,
+      "end_ms": 60749,
+      "duration_ms": 5537
+    },
+    {
+      "word": "Sin embargo, este plan no tendrá éxito porque matarán a la hija y a su esposo, junto con su hijo y sus criados.",
+      "verse": 6,
+      "start_ms": 60750,
+      "end_ms": 68062,
+      "duration_ms": 7312
+    },
+    {
+      "word": "Un miembro de la familia del rey del sur peleará contra el ejército del rey del norte, y lo vencerá; luego ocupará el castillo del rey, y con su ejército lo controlará todo.",
+      "verse": 7,
+      "start_ms": 68062,
+      "end_ms": 78187,
+      "duration_ms": 10125
+    },
+    {
+      "word": "Se llevará a Egipto sus dioses de metal, y otros objetos de oro y plata.",
+      "verse": 8,
+      "start_ms": 78187,
+      "end_ms": 83212,
+      "duration_ms": 5025
+    },
+    {
+      "word": "De este modo, durante algún tiempo no habrá guerra entre estos dos reinos.",
+      "verse": 8,
+      "start_ms": 83212,
+      "end_ms": 88312,
+      "duration_ms": 5100
+    },
+    {
+      "word": "Tiempo después, el rey del norte tratará de conquistar al reino del sur, pero tendrá que regresar a su tierra.",
+      "verse": 9,
+      "start_ms": 88312,
+      "end_ms": 95224,
+      "duration_ms": 6912
+    },
+    {
+      "word": "Entonces los hijos del rey del norte se enojarán y reunirán un gran ejército para luchar contra el rey del sur.",
+      "verse": 10,
+      "start_ms": 95225,
+      "end_ms": 101787,
+      "duration_ms": 6562
+    },
+    {
+      "word": "Y lo atacarán, y llegarán hasta el castillo de ese rey.",
+      "verse": 10,
+      "start_ms": 101787,
+      "end_ms": 105837,
+      "duration_ms": 4050
+    },
+    {
+      "word": "A su paso lo destruirán todo, como si fueran un río desbordado.",
+      "verse": 10,
+      "start_ms": 105837,
+      "end_ms": 110462,
+      "duration_ms": 4625
+    },
+    {
+      "word": "Ante este ataque, el rey del sur se enojará mucho.",
+      "verse": 11,
+      "start_ms": 110462,
+      "end_ms": 114337,
+      "duration_ms": 3875
+    },
+    {
+      "word": "Entonces saldrá a luchar contra el ejército del rey del norte, y lo derrotará por completo.",
+      "verse": 11,
+      "start_ms": 114337,
+      "end_ms": 120162,
+      "duration_ms": 5825
+    },
+    {
+      "word": "Esta victoria hará que el rey del sur se vuelva muy orgulloso.",
+      "verse": 12,
+      "start_ms": 120162,
+      "end_ms": 124462,
+      "duration_ms": 4300
+    },
+    {
+      "word": "Pero su orgullo no le durará mucho tiempo, porque el rey del norte organizará otro ejército, más grande y mejor preparado que el primero, y después de algunos años volverá a atacar al rey del sur y lo vencerá.",
+      "verse": 12,
+      "start_ms": 124462,
+      "end_ms": 136237,
+      "duration_ms": 11775
+    },
+    {
+      "word": "En ese tiempo, muchos se unirán al rey del norte para pelear contra el rey del sur.",
+      "verse": 14,
+      "start_ms": 136237,
+      "end_ms": 141487,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Tal y como lo viste en tu sueño, entre ellos habrá algunos israelitas malvados; pero no les irá bien, pues serán derrotados.",
+      "verse": 14,
+      "start_ms": 141487,
+      "end_ms": 149624,
+      "duration_ms": 8137
+    },
+    {
+      "word": "El rey del norte construirá una rampa alrededor de una ciudad amurallada, y subirá a sus muros y la conquistará.",
+      "verse": 15,
+      "start_ms": 149625,
+      "end_ms": 156800,
+      "duration_ms": 7175
+    },
+    {
+      "word": "Ni los soldados más valientes del sur podrán detener al ejército enemigo!",
+      "verse": 15,
+      "start_ms": 156800,
+      "end_ms": 161462,
+      "duration_ms": 4662
+    },
+    {
+      "word": "El rey conquistador hará lo que quiera, y nadie se atreverá a hacerle frente.",
+      "verse": 16,
+      "start_ms": 161462,
+      "end_ms": 166499,
+      "duration_ms": 5037
+    },
+    {
+      "word": "Destruirá todo lo que encuentre a su paso, y se quedará en la tierra más hermosa.",
+      "verse": 16,
+      "start_ms": 166500,
+      "end_ms": 171737,
+      "duration_ms": 5237
+    },
+    {
+      "word": "El rey del norte tratará de vencer por completo al rey del sur.",
+      "verse": 17,
+      "start_ms": 171737,
+      "end_ms": 175987,
+      "duration_ms": 4250
+    },
+    {
+      "word": "Para quedarse con su reino, firmará la paz y dejará que su hija se case con él.",
+      "verse": 17,
+      "start_ms": 175987,
+      "end_ms": 181212,
+      "duration_ms": 5225
+    },
+    {
+      "word": "Pero su plan no tendrá éxito.",
+      "verse": 17,
+      "start_ms": 181212,
+      "end_ms": 183774,
+      "duration_ms": 2562
+    },
+    {
+      "word": "Entonces atacará las ciudades que están a la orilla del mar, y a muchas de ellas las conquistará.",
+      "verse": 18,
+      "start_ms": 183775,
+      "end_ms": 189737,
+      "duration_ms": 5962
+    },
+    {
+      "word": "Pero un jefe del ejército terminará con esto, y pondrá en vergüenza al rey del norte.",
+      "verse": 18,
+      "start_ms": 189737,
+      "end_ms": 195374,
+      "duration_ms": 5637
+    },
+    {
+      "word": "Así el rey del norte volverá a sus castillos, pero un accidente le causará la muerte, y nadie más volverá a hablar de él.",
+      "verse": 19,
+      "start_ms": 195375,
+      "end_ms": 203125,
+      "duration_ms": 7750
+    },
+    {
+      "word": "Su lugar lo ocupará otro rey, que para hacerse rico enviará uno de sus criados a cobrar impuestos.",
+      "verse": 20,
+      "start_ms": 203125,
+      "end_ms": 209625,
+      "duration_ms": 6500
+    },
+    {
+      "word": "Pero pocos días después morirá, aunque no en la guerra.",
+      "verse": 20,
+      "start_ms": 209625,
+      "end_ms": 213500,
+      "duration_ms": 3875
+    },
+    {
+      "word": "Después de ese rey vendrá un malvado, que no merecerá ser rey, pero que llegará a serlo por medio de engaños, y sin que nadie se dé cuenta de sus intenciones.",
+      "verse": 21,
+      "start_ms": 213500,
+      "end_ms": 223175,
+      "duration_ms": 9675
+    },
+    {
+      "word": "Ese malvado derrotará por completo a los ejércitos enemigos, y también al príncipe con quien hizo un tratado.",
+      "verse": 22,
+      "start_ms": 223175,
+      "end_ms": 230025,
+      "duration_ms": 6850
+    },
+    {
+      "word": "Engañará también a sus amigos, y a pesar de no tener un gran ejército logrará sus propósitos.",
+      "verse": 23,
+      "start_ms": 230025,
+      "end_ms": 236150,
+      "duration_ms": 6125
+    },
+    {
+      "word": "Ese malvado tomará por sorpresa las tierras más ricas del lugar, y hará lo que no hicieron sus padres ni sus abuelos: repartirá entre sus soldados las riquezas que hayan ganado en la guerra, y hará planes para conquistar a las ciudades más protegidas.",
+      "verse": 24,
+      "start_ms": 236150,
+      "end_ms": 250000,
+      "duration_ms": 13850
+    },
+    {
+      "word": "Pero esto no durará mucho tiempo.",
+      "verse": 24,
+      "start_ms": 250000,
+      "end_ms": 252825,
+      "duration_ms": 2825
+    },
+    {
+      "word": "Sin",
+      "verse": 25,
+      "start_ms": 252825,
+      "end_ms": 254237,
+      "duration_ms": 1412
+    },
+    {
+      "word": "embargo, se sentirá tan poderoso que, con su gran ejército, atacará al rey del sur.",
+      "verse": 25,
+      "start_ms": 254404,
+      "end_ms": 260754,
+      "duration_ms": 6350
+    },
+    {
+      "word": "Pero el rey del sur se le enfrentará valientemente, apoyado por su ejército grande y poderoso.",
+      "verse": 25,
+      "start_ms": 260704,
+      "end_ms": 266791,
+      "duration_ms": 6087
+    },
+    {
+      "word": "Sin embargo, este rey será traicionado y no podrá resistir los ataques de sus enemigos.",
+      "verse": 25,
+      "start_ms": 266791,
+      "end_ms": 272728,
+      "duration_ms": 5937
+    },
+    {
+      "word": "Sus propios amigos, a quienes invitaba a comer en su propia mesa, serán la causa de su desgracia.",
+      "verse": 26,
+      "start_ms": 272729,
+      "end_ms": 279254,
+      "duration_ms": 6525
+    },
+    {
+      "word": "Y así, su ejército perderá la guerra, y muchos de sus soldados perderán la vida.",
+      "verse": 26,
+      "start_ms": 279254,
+      "end_ms": 284879,
+      "duration_ms": 5625
+    },
+    {
+      "word": "Estos dos reyes se sentarán a comer en la misma mesa, pero sólo pensarán en hacerse daño.",
+      "verse": 27,
+      "start_ms": 284879,
+      "end_ms": 290679,
+      "duration_ms": 5800
+    },
+    {
+      "word": "Se engañarán el uno al otro, pero ninguno de los dos logrará su propósito, porque todavía no será el tiempo adecuado.",
+      "verse": 27,
+      "start_ms": 290679,
+      "end_ms": 298229,
+      "duration_ms": 7550
+    },
+    {
+      "word": "Después de llevar a cabo sus planes, el rey del norte regresará a su país, llevándose todo lo que ganó en la guerra.",
+      "verse": 28,
+      "start_ms": 298229,
+      "end_ms": 305466,
+      "duration_ms": 7237
+    },
+    {
+      "word": "Pasado el tiempo, el rey del norte no cumplirá con el tratado de paz que hizo.",
+      "verse": 28,
+      "start_ms": 305466,
+      "end_ms": 310603,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Al contrario, en el momento preciso volverá a luchar contra el rey del sur, sólo que esta vez no triunfará.",
+      "verse": 29,
+      "start_ms": 310604,
+      "end_ms": 317579,
+      "duration_ms": 6975
+    },
+    {
+      "word": "Vendrá en barcos un ejército del oeste, y lo atacará.",
+      "verse": 30,
+      "start_ms": 317579,
+      "end_ms": 321691,
+      "duration_ms": 4112
+    },
+    {
+      "word": "Esto le dará tanto miedo que lo hará huir.",
+      "verse": 30,
+      "start_ms": 321691,
+      "end_ms": 324866,
+      "duration_ms": 3175
+    },
+    {
+      "word": "Entonces les hará caso a quienes, por estar a su servicio, no cumplieron con el tratado de paz.",
+      "verse": 30,
+      "start_ms": 324866,
+      "end_ms": 330928,
+      "duration_ms": 6062
+    },
+    {
+      "word": "Será tanto su odio que hará cosas terribles en contra de ese tratado.",
+      "verse": 30,
+      "start_ms": 330929,
+      "end_ms": 335529,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Sus soldados no respetarán el templo ni la ciudad amurallada.",
+      "verse": 31,
+      "start_ms": 335529,
+      "end_ms": 339779,
+      "duration_ms": 4250
+    },
+    {
+      "word": "No permitirán que se presente la ofrenda de todos los días, y en su lugar ofrecerán algo asqueroso.",
+      "verse": 31,
+      "start_ms": 339779,
+      "end_ms": 345991,
+      "duration_ms": 6212
+    },
+    {
+      "word": "El rey tratará de ganarse la simpatía de los que no cumplieron con el tratado de paz, pero los que aman a su Dios se mantendrán firmes y no le harán caso.",
+      "verse": 32,
+      "start_ms": 345991,
+      "end_ms": 354466,
+      "duration_ms": 8475
+    },
+    {
+      "word": "Los maestros del pueblo enseñarán a mucha gente a mantenerse fieles a Dios, aunque serán perseguidos.",
+      "verse": 33,
+      "start_ms": 354466,
+      "end_ms": 360603,
+      "duration_ms": 6137
+    },
+    {
+      "word": "A unos los matarán, a otros los quemarán, y a otros les robarán todas sus pertenencias.",
+      "verse": 33,
+      "start_ms": 360604,
+      "end_ms": 366591,
+      "duration_ms": 5987
+    },
+    {
+      "word": "Muchos de ellos serán llevados como esclavos a otros países.",
+      "verse": 33,
+      "start_ms": 366591,
+      "end_ms": 370853,
+      "duration_ms": 4262
+    },
+    {
+      "word": "Mientras esto suceda, no les faltará un poco de ayuda, aunque muchos se unirán a ellos sólo por conveniencia.",
+      "verse": 33,
+      "start_ms": 370854,
+      "end_ms": 377666,
+      "duration_ms": 6812
+    },
+    {
+      "word": "Todo esto sucederá como preparación, para que puedan resistir mejor otras pruebas.",
+      "verse": 33,
+      "start_ms": 377666,
+      "end_ms": 383266,
+      "duration_ms": 5600
+    },
+    {
+      "word": "Pero esto durará sólo un poco de tiempo, hasta que llegue el momento final señalado por Dios.",
+      "verse": 33,
+      "start_ms": 383266,
+      "end_ms": 389141,
+      "duration_ms": 5875
+    },
+    {
+      "word": "El rey del norte hará todo lo que quiera.",
+      "verse": 36,
+      "start_ms": 389141,
+      "end_ms": 392166,
+      "duration_ms": 3025
+    },
+    {
+      "word": "Será tanto su orgullo que se creerá superior a todos los dioses.",
+      "verse": 36,
+      "start_ms": 392166,
+      "end_ms": 396603,
+      "duration_ms": 4437
+    },
+    {
+      "word": "Hasta llegará a ofender gravemente al verdadero Dios.",
+      "verse": 36,
+      "start_ms": 396604,
+      "end_ms": 400529,
+      "duration_ms": 3925
+    },
+    {
+      "word": "Y todo le saldrá bien, pero sólo hasta que Dios lo castigue, porque lo que Dios tiene que hacer lo hace.",
+      "verse": 36,
+      "start_ms": 400529,
+      "end_ms": 407004,
+      "duration_ms": 6475
+    },
+    {
+      "word": "Este rey adorará al dios de las ciudades amuralladas, dios al que ni sus padres ni sus abuelos adoraron, y hasta le ofrecerá oro, plata, piedras preciosas y objetos de mucho valor.",
+      "verse": 38,
+      "start_ms": 407004,
+      "end_ms": 418241,
+      "duration_ms": 11237
+    },
+    {
+      "word": "Para defender las ciudades conquistadas, pedirá el apoyo de un ejército que adora a otros dioses.",
+      "verse": 39,
+      "start_ms": 418241,
+      "end_ms": 424678,
+      "duration_ms": 6437
+    },
+    {
+      "word": "Y a todos los que le rindan honores, los recompensará con puestos muy importantes y con grandes territorios.",
+      "verse": 39,
+      "start_ms": 424679,
+      "end_ms": 431354,
+      "duration_ms": 6675
+    },
+    {
+      "word": "Cuando llegue el momento final, el rey del sur atacará al rey del norte, pero éste responderá a los ataques.",
+      "verse": 40,
+      "start_ms": 431354,
+      "end_ms": 438379,
+      "duration_ms": 7025
+    },
+    {
+      "word": "Saldrá al frente de carros de guerra, y de todo un ejército montado a caballo, y apoyado por muchos barcos.",
+      "verse": 40,
+      "start_ms": 438379,
+      "end_ms": 445741,
+      "duration_ms": 7362
+    },
+    {
+      "word": "Caerá sobre todo el país, con la fuerza de una tormenta!",
+      "verse": 40,
+      "start_ms": 445741,
+      "end_ms": 449953,
+      "duration_ms": 4212
+    },
+    {
+      "word": "También invadirá la tierra más hermosa, y matará a muchísimas personas; sin embargo, no les pasará nada a los que viven en Edom y Moab, ni a la mayoría de los que viven en Amón.",
+      "verse": 41,
+      "start_ms": 449954,
+      "end_ms": 460866,
+      "duration_ms": 10912
+    },
+    {
+      "word": "El ejército del rey del norte conquistará varios países, y ni siquiera Egipto se escapará.",
+      "verse": 42,
+      "start_ms": 460866,
+      "end_ms": 466778,
+      "duration_ms": 5912
+    },
+    {
+      "word": "El rey se llevará todos los tesoros de Egipto: el oro, la plata y todas sus riquezas.",
+      "verse": 43,
+      "start_ms": 466779,
+      "end_ms": 472929,
+      "duration_ms": 6150
+    },
+    {
+      "word": "Después de eso, conquistará Libia y Etiopía.",
+      "verse": 43,
+      "start_ms": 472929,
+      "end_ms": 476704,
+      "duration_ms": 3775
+    },
+    {
+      "word": "Pero le llegarán noticias del este y del norte, que le darán mucho miedo.",
+      "verse": 44,
+      "start_ms": 476704,
+      "end_ms": 481491,
+      "duration_ms": 4787
+    },
+    {
+      "word": "Se enojará tanto que querrá matar a muchos.",
+      "verse": 44,
+      "start_ms": 481491,
+      "end_ms": 484741,
+      "duration_ms": 3250
+    },
+    {
+      "word": "Entonces pondrá su campamento entre el mar y la montaña de Dios, que está en la tierra más hermosa.",
+      "verse": 45,
+      "start_ms": 484741,
+      "end_ms": 490928,
+      "duration_ms": 6187
+    },
+    {
+      "word": "Allí le llegará la hora de su muerte, y nadie podrá ayudarlo.",
+      "verse": 45,
+      "start_ms": 490929,
+      "end_ms": 495354,
+      "duration_ms": 4425
+    }
+  ]
+}

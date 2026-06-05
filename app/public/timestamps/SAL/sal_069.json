@@ -1,0 +1,607 @@
+{
+  "book": "SAL",
+  "chapter": 69,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 34,
+  "word_count": 51,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 46,
+      "text": "Dios mío, ¡sálvame, pues siento que me ahogo!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 46,
+      "char_end": 170,
+      "text": "¡Siento que me hundo en el barro y no tengo dónde apoyarme! ¡Me encuentro en aguas profundas, luchando contra la corriente!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 170,
+      "char_end": 280,
+      "text": "Cansado estoy de pedir ayuda; tengo reseca la garganta. Ya los ojos se me cierran, y tú no vienes a ayudarme."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 280,
+      "char_end": 422,
+      "text": "¡Tengo más enemigos que pelos en la cabeza! Muchos me odian sin motivo, y quieren matarme; ¡me exigen que les devuelva lo que nunca les robé!"
+    },
+    {
+      "verse": 5,
+      "label": "5-6",
+      "char_start": 422,
+      "char_end": 684,
+      "text": "Dios de Israel y Dios del universo, tú eres mi Dios. Tú conoces mis tonterías; ¡no te puedo esconder mis errores! ¡No dejes que por mi culpa queden en vergüenza los que confían en ti! ¡No dejes que por mi culpa sean puestos en ridículo los que buscan agradarte!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 684,
+      "char_end": 740,
+      "text": "Por ti he sido ofendido; ¡me arde la cara de vergüenza!"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 740,
+      "char_end": 794,
+      "text": "¡Hasta mis propios hermanos me ven como a un extraño!"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 794,
+      "char_end": 902,
+      "text": "El amor que siento por tu templo me quema como un fuego; por eso me siento ofendido cuando te ofenden a ti."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 902,
+      "char_end": 959,
+      "text": "Si me aflijo y no como, tengo que aguantar sus insultos;"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 959,
+      "char_end": 1014,
+      "text": "y si me visto de luto, tengo que soportar sus ofensas."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1014,
+      "char_end": 1080,
+      "text": "¡Toda la gente del pueblo y hasta los borrachos hablan mal de mí!"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1080,
+      "char_end": 1180,
+      "text": "Dios mío, te ruego que me respondas en el mejor momento. Yo sé que me amas, así que ven a salvarme."
+    },
+    {
+      "verse": 14,
+      "label": "14-15",
+      "char_start": 1180,
+      "char_end": 1350,
+      "text": "¡Líbrame de los que me odian! ¡Sácame del barro en que me hundo! ¡Sácame de esta profunda corriente que me arrastra! Siento que me traga un remolino; ¡no me dejes morir!"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1350,
+      "char_end": 1445,
+      "text": "Dios mío, tú me amas y eres bueno; ¡respóndeme! Tú eres un Dios compasivo; ¡préstame atención!"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1445,
+      "char_end": 1505,
+      "text": "No me des la espalda, pues estoy en problemas; ¡date prisa!"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1505,
+      "char_end": 1548,
+      "text": "¡Acércate a mí, y sálvame de mis enemigos!"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1548,
+      "char_end": 1639,
+      "text": "Tú siempre los estás viendo y sabes muy bien que me ofenden, me avergüenzan y me insultan."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1639,
+      "char_end": 1769,
+      "text": "Cuando escucho sus ofensas, se me rompe el corazón; ¡no tengo ánimo para nada! Esperaba hallar apoyo y consuelo, y no los recibí;"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1769,
+      "char_end": 1859,
+      "text": "cuando tuve hambre, me dieron a comer veneno; cuando tuve sed, me dieron a beber vinagre."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1859,
+      "char_end": 1932,
+      "text": "¡Haz que sus fiestas y banquetes se conviertan en una trampa para ellos!"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1932,
+      "char_end": 2020,
+      "text": "¡Haz que se les nublen los ojos para que no puedan ver! ¡Haz que se queden sin fuerzas!"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2020,
+      "char_end": 2075,
+      "text": "¡Descarga tu enojo sobre ellos! ¡No los dejes escapar!"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2075,
+      "char_end": 2134,
+      "text": "¡Que sus casas se queden vacías! ¡Que nadie viva en ellas!"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2134,
+      "char_end": 2226,
+      "text": "Aunque tú ya me afligiste y me hiciste sufrir, mis enemigos me persiguen y se burlan de mí."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2226,
+      "char_end": 2286,
+      "text": "¡Págales mal por mal! ¡No los dejes disfrutar de tu perdón!"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2286,
+      "char_end": 2370,
+      "text": "¡Bórralos del libro de la vida! ¡No pongas su nombre en la lista de la gente buena!"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2370,
+      "char_end": 2432,
+      "text": "Dios mío, ¡levántame, dame ánimo! Yo soy muy pobre y humilde,"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2432,
+      "char_end": 2503,
+      "text": "pero te alabaré con mis canciones, ¡te pondré en alto con mi alabanza!"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2503,
+      "char_end": 2558,
+      "text": "Eso te será más agradable que recibir muchas ofrendas."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2558,
+      "char_end": 2648,
+      "text": "Cuando vean esto los pobres que te buscan, se pondrán muy alegres, y recobrarán el ánimo."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 2648,
+      "char_end": 2739,
+      "text": "Tú, Dios mío, atiendes a los pobres; ¡no te olvidas de tu pueblo que se encuentra cautivo!"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 2739,
+      "char_end": 2816,
+      "text": "¡Que te alaben cielo y tierra! ¡Que te alabe el mar y todo lo que hay en él!"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 2816,
+      "char_end": 2947,
+      "text": "Tú vendrás en ayuda de Jerusalén, y reconstruirás las ciudades de Judá. Tu pueblo tomará posesión del país y se establecerá en él."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 2947,
+      "char_end": 3058,
+      "text": "Los descendientes de tu pueblo recibirán el país como herencia; el pueblo que te ama se quedará a vivir en él."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios mío, ¡sálvame, pues siento que me ahogo!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3737,
+      "duration_ms": 3637
+    },
+    {
+      "word": "Siento que me hundo en el barro y no tengo dónde apoyarme!",
+      "verse": 2,
+      "start_ms": 3687,
+      "end_ms": 7449,
+      "duration_ms": 3762
+    },
+    {
+      "word": "Me encuentro en aguas profundas, luchando contra la corriente!",
+      "verse": 2,
+      "start_ms": 7450,
+      "end_ms": 11637,
+      "duration_ms": 4187
+    },
+    {
+      "word": "Cansado estoy de pedir ayuda; tengo reseca la garganta.",
+      "verse": 3,
+      "start_ms": 11637,
+      "end_ms": 15799,
+      "duration_ms": 4162
+    },
+    {
+      "word": "Ya los ojos se me cierran, y tú no vienes a ayudarme.",
+      "verse": 3,
+      "start_ms": 15800,
+      "end_ms": 19787,
+      "duration_ms": 3987
+    },
+    {
+      "word": "Tengo más enemigos que pelos en la cabeza!",
+      "verse": 4,
+      "start_ms": 19787,
+      "end_ms": 22837,
+      "duration_ms": 3050
+    },
+    {
+      "word": "Muchos me odian sin motivo, y quieren matarme; ¡me exigen que les devuelva lo que nunca les robé!",
+      "verse": 4,
+      "start_ms": 22837,
+      "end_ms": 28912,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Dios de Israel y Dios del universo, tú eres mi Dios.",
+      "verse": 5,
+      "start_ms": 28912,
+      "end_ms": 33074,
+      "duration_ms": 4162
+    },
+    {
+      "word": "Tú conoces mis tonterías; ¡no te puedo esconder mis errores!",
+      "verse": 5,
+      "start_ms": 33075,
+      "end_ms": 37300,
+      "duration_ms": 4225
+    },
+    {
+      "word": "No dejes que por mi culpa queden en vergüenza los que confían en ti!",
+      "verse": 5,
+      "start_ms": 37300,
+      "end_ms": 41450,
+      "duration_ms": 4150
+    },
+    {
+      "word": "No dejes que por mi culpa sean puestos en ridículo los que buscan agradarte!",
+      "verse": 5,
+      "start_ms": 41450,
+      "end_ms": 46175,
+      "duration_ms": 4725
+    },
+    {
+      "word": "Por ti he sido ofendido; ¡me arde la cara de vergüenza!",
+      "verse": 7,
+      "start_ms": 46175,
+      "end_ms": 50187,
+      "duration_ms": 4012
+    },
+    {
+      "word": "Hasta mis propios hermanos me ven como a un extraño!",
+      "verse": 8,
+      "start_ms": 50187,
+      "end_ms": 53674,
+      "duration_ms": 3487
+    },
+    {
+      "word": "El amor que siento por tu templo me quema como un fuego; por eso me siento ofendido cuando te ofenden a ti.",
+      "verse": 9,
+      "start_ms": 53675,
+      "end_ms": 59700,
+      "duration_ms": 6025
+    },
+    {
+      "word": "Si me aflijo y no como, tengo que aguantar sus insultos; y si me visto de luto, tengo que soportar sus ofensas.",
+      "verse": 10,
+      "start_ms": 59700,
+      "end_ms": 67237,
+      "duration_ms": 7537
+    },
+    {
+      "word": "Toda la gente del pueblo y hasta los borrachos hablan mal de mí!",
+      "verse": 12,
+      "start_ms": 67237,
+      "end_ms": 71412,
+      "duration_ms": 4175
+    },
+    {
+      "word": "Dios mío, te ruego que me respondas en el mejor momento.",
+      "verse": 13,
+      "start_ms": 71412,
+      "end_ms": 75574,
+      "duration_ms": 4162
+    },
+    {
+      "word": "Yo sé que me amas, así que ven a salvarme.",
+      "verse": 13,
+      "start_ms": 75575,
+      "end_ms": 78975,
+      "duration_ms": 3400
+    },
+    {
+      "word": "Líbrame de los que me odian!",
+      "verse": 14,
+      "start_ms": 78975,
+      "end_ms": 81312,
+      "duration_ms": 2337
+    },
+    {
+      "word": "Sácame del barro en que me hundo!",
+      "verse": 14,
+      "start_ms": 81312,
+      "end_ms": 83874,
+      "duration_ms": 2562
+    },
+    {
+      "word": "Sácame de esta profunda corriente que me arrastra!",
+      "verse": 14,
+      "start_ms": 83875,
+      "end_ms": 87425,
+      "duration_ms": 3550
+    },
+    {
+      "word": "Siento que me traga un remolino; ¡no me dejes morir!",
+      "verse": 14,
+      "start_ms": 87425,
+      "end_ms": 90962,
+      "duration_ms": 3537
+    },
+    {
+      "word": "Dios mío, tú me amas y eres bueno; ¡respóndeme!",
+      "verse": 16,
+      "start_ms": 90962,
+      "end_ms": 94949,
+      "duration_ms": 3987
+    },
+    {
+      "word": "Tú eres un Dios compasivo; ¡préstame atención!",
+      "verse": 16,
+      "start_ms": 94950,
+      "end_ms": 98487,
+      "duration_ms": 3537
+    },
+    {
+      "word": "No me des la espalda, pues estoy en problemas; ¡date prisa!",
+      "verse": 17,
+      "start_ms": 98487,
+      "end_ms": 102874,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Acércate a mí, y sálvame de mis enemigos!",
+      "verse": 18,
+      "start_ms": 102875,
+      "end_ms": 106412,
+      "duration_ms": 3537
+    },
+    {
+      "word": "Tú siempre los estás viendo y sabes muy bien que me ofenden, me avergüenzan y me insultan.",
+      "verse": 19,
+      "start_ms": 106412,
+      "end_ms": 111987,
+      "duration_ms": 5575
+    },
+    {
+      "word": "Cuando escucho sus ofensas, se me rompe el corazón; ¡no tengo ánimo para nada!",
+      "verse": 20,
+      "start_ms": 111987,
+      "end_ms": 117474,
+      "duration_ms": 5487
+    },
+    {
+      "word": "Esperaba hallar apoyo y consuelo, y no los recibí; cuando tuve hambre, me dieron a comer veneno; cuando tuve sed, me dieron a beber vinagre.",
+      "verse": 20,
+      "start_ms": 117475,
+      "end_ms": 126650,
+      "duration_ms": 9175
+    },
+    {
+      "word": "Haz que sus fiestas y banquetes se conviertan en una trampa para ellos!",
+      "verse": 22,
+      "start_ms": 126650,
+      "end_ms": 131100,
+      "duration_ms": 4450
+    },
+    {
+      "word": "Haz que se les nublen los ojos para que no puedan ver!",
+      "verse": 23,
+      "start_ms": 131100,
+      "end_ms": 134425,
+      "duration_ms": 3325
+    },
+    {
+      "word": "Haz que se queden sin fuerzas!",
+      "verse": 23,
+      "start_ms": 134425,
+      "end_ms": 136925,
+      "duration_ms": 2500
+    },
+    {
+      "word": "Descarga tu enojo sobre ellos!",
+      "verse": 24,
+      "start_ms": 136925,
+      "end_ms": 139725,
+      "duration_ms": 2800
+    },
+    {
+      "word": "No los dejes escapar!",
+      "verse": 24,
+      "start_ms": 139725,
+      "end_ms": 141800,
+      "duration_ms": 2075
+    },
+    {
+      "word": "Que sus casas se queden vacías!",
+      "verse": 25,
+      "start_ms": 141800,
+      "end_ms": 144525,
+      "duration_ms": 2725
+    },
+    {
+      "word": "Que nadie viva en ellas!",
+      "verse": 25,
+      "start_ms": 144525,
+      "end_ms": 146687,
+      "duration_ms": 2162
+    },
+    {
+      "word": "Aunque tú ya me afligiste y me hiciste sufrir, mis enemigos me persiguen y se burlan de mí.",
+      "verse": 26,
+      "start_ms": 146687,
+      "end_ms": 152412,
+      "duration_ms": 5725
+    },
+    {
+      "word": "Págales mal por mal!",
+      "verse": 27,
+      "start_ms": 152412,
+      "end_ms": 154487,
+      "duration_ms": 2075
+    },
+    {
+      "word": "No los dejes disfrutar de tu perdón!",
+      "verse": 27,
+      "start_ms": 154487,
+      "end_ms": 157299,
+      "duration_ms": 2812
+    },
+    {
+      "word": "Bórralos del libro de la vida!",
+      "verse": 28,
+      "start_ms": 157300,
+      "end_ms": 159837,
+      "duration_ms": 2537
+    },
+    {
+      "word": "No pongas su nombre en la lista de la gente buena!",
+      "verse": 28,
+      "start_ms": 159837,
+      "end_ms": 163174,
+      "duration_ms": 3337
+    },
+    {
+      "word": "Dios mío, ¡levántame, dame ánimo!",
+      "verse": 29,
+      "start_ms": 163175,
+      "end_ms": 166487,
+      "duration_ms": 3312
+    },
+    {
+      "word": "Yo soy muy pobre y humilde, pero te alabaré con mis canciones, ¡te pondré en alto con mi alabanza!",
+      "verse": 29,
+      "start_ms": 166487,
+      "end_ms": 172974,
+      "duration_ms": 6487
+    },
+    {
+      "word": "Eso te será más agradable que recibir muchas ofrendas.",
+      "verse": 31,
+      "start_ms": 172975,
+      "end_ms": 176887,
+      "duration_ms": 3912
+    },
+    {
+      "word": "Cuando vean esto los pobres que te buscan, se pondrán muy alegres, y recobrarán el ánimo.",
+      "verse": 32,
+      "start_ms": 176887,
+      "end_ms": 182962,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Tú, Dios mío, atiendes a los pobres; ¡no te olvidas de tu pueblo que se encuentra cautivo!",
+      "verse": 33,
+      "start_ms": 182962,
+      "end_ms": 189037,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Que te alaben cielo y tierra!",
+      "verse": 34,
+      "start_ms": 189037,
+      "end_ms": 191449,
+      "duration_ms": 2412
+    },
+    {
+      "word": "Que te alabe el mar y todo lo que hay en él!",
+      "verse": 34,
+      "start_ms": 191450,
+      "end_ms": 194362,
+      "duration_ms": 2912
+    },
+    {
+      "word": "Tú vendrás en ayuda de Jerusalén, y reconstruirás las ciudades de Judá.",
+      "verse": 35,
+      "start_ms": 194362,
+      "end_ms": 199262,
+      "duration_ms": 4900
+    },
+    {
+      "word": "Tu pueblo tomará posesión del país y se establecerá en él.",
+      "verse": 35,
+      "start_ms": 199262,
+      "end_ms": 203262,
+      "duration_ms": 4000
+    },
+    {
+      "word": "Los descendientes de tu pueblo recibirán el país como herencia; el pueblo que te ama se quedará a vivir en él.",
+      "verse": 36,
+      "start_ms": 203262,
+      "end_ms": 209749,
+      "duration_ms": 6487
+    }
+  ]
+}

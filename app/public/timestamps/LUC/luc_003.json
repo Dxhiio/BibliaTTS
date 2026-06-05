@@ -1,0 +1,593 @@
+{
+  "book": "LUC",
+  "chapter": 3,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 37,
+  "word_count": 46,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-2",
+      "char_start": 0,
+      "char_end": 486,
+      "text": "Juan el Bautista, el hijo de Zacarías, vivía en el desierto. Dios le habló allí, en el desierto, cuando Tiberio tenía ya quince años de ser el emperador romano y Poncio Pilato era el gobernador de la región de Judea. En ese tiempo Herodes Antipas gobernaba en la región de Galilea; por su parte Filipo, el hermano de Herodes, gobernaba en las regiones de Iturea y Traconítide; Lisanias gobernaba en la región de Abilene. Anás y Caifás eran los jefes de los sacerdotes del pueblo judío."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 486,
+      "char_end": 626,
+      "text": "Juan fue entonces a la región cercana al río Jordán. Allí le decía a la gente: ¡Bautícense y vuélvanse a Dios! Sólo así Dios los perdonará."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 626,
+      "char_end": 805,
+      "text": "Mucho tiempo atrás, el profeta Isaías había escrito acerca de Juan: Alguien grita en el desierto: «Prepárenle el camino a nuestro Dios. ¡Ábranle paso! ¡Que no encuentre estorbos!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 805,
+      "char_end": 903,
+      "text": "Rellenen los valles, y conviertan en llanura la región montañosa. Enderecen los caminos torcidos."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 903,
+      "char_end": 953,
+      "text": "¡Todo el mundo verá al Salvador que Dios envía!»."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 953,
+      "char_end": 1105,
+      "text": "Mucha gente venía para que Juan los bautizara, y él les decía: —¡Ustedes son unas víboras! ¿Creen que van a escaparse del castigo que Dios les enviará?"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1105,
+      "char_end": 1323,
+      "text": "Muestren con su conducta que realmente han dejado de pecar. No piensen que van a salvarse sólo por ser descendientes de Abraham. Si Dios así lo quiere, hasta estas piedras las puede convertir en familiares de Abraham."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1323,
+      "char_end": 1468,
+      "text": "Cuando un árbol no produce buenos frutos, su dueño lo corta de raíz y lo quema. ¡Y Dios ya está listo para destruir a los que no hacen lo bueno!"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1468,
+      "char_end": 1525,
+      "text": "La gente le preguntaba: —Y entonces, ¿qué podemos hacer?"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1525,
+      "char_end": 1686,
+      "text": "Él les respondía: —El que tenga dos mantos, comparta uno con quien no tenga nada que ponerse. El que tenga comida, compártala con quien no tenga nada que comer."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1686,
+      "char_end": 1802,
+      "text": "Vinieron también unos cobradores de impuestos y le preguntaron a Juan: —Maestro, ¿qué podemos hacer para salvarnos?"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1802,
+      "char_end": 1877,
+      "text": "Juan les contestó: —No le cobren a la gente más dinero del que debe pagar."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1877,
+      "char_end": 2120,
+      "text": "Unos soldados preguntaron: —Juan, ¿qué podemos hacer nosotros? Él les contestó: —Ustedes amenazan a la gente y la obligan a que les dé dinero. Sólo así le prometen dejarla en paz. ¡No lo vuelvan a hacer, y quédense satisfechos con su salario!"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2120,
+      "char_end": 2192,
+      "text": "Todos se admiraban y querían saber si Juan era el Mesías que esperaban."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2192,
+      "char_end": 2417,
+      "text": "Pero Juan les respondió: —Yo los bautizo a ustedes con agua. Pero hay alguien que viene después de mí, y que es más poderoso que yo. Él los bautizará con el Espíritu Santo y con fuego. ¡Yo ni siquiera merezco ser su esclavo!"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2417,
+      "char_end": 2570,
+      "text": "El que viene después de mí separará a los buenos de los malos. A los buenos los pondrá a salvo, y a los malos los echará en un fuego que nunca se apaga."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2570,
+      "char_end": 2651,
+      "text": "De este modo, y de otras maneras, Juan anunciaba las buenas noticias a la gente."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2651,
+      "char_end": 2782,
+      "text": "Además, reprendió a Herodes Antipas porque vivía con Herodías, la esposa de su hermano Filipo, y por todo lo malo que había hecho."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2782,
+      "char_end": 2863,
+      "text": "Pero a toda su maldad Herodes añadió otra mala acción: puso a Juan en la cárcel."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2863,
+      "char_end": 2977,
+      "text": "Cuando Juan terminó de bautizar a todos, Jesús vino y también se bautizó. Mientras Jesús oraba, el cielo se abrió"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2977,
+      "char_end": 3145,
+      "text": "y el Espíritu Santo bajó sobre él en forma de paloma. Luego se oyó una voz que desde el cielo decía: Tú eres mi Hijo, a quien quiero mucho. Estoy muy contento contigo."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3145,
+      "char_end": 3286,
+      "text": "Jesús comenzó a predicar cuando tenía unos treinta años y, según la gente, era hijo de José. Ésta es la lista de sus antepasados: José, Elí,"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3286,
+      "char_end": 3320,
+      "text": "Matat, Leví, Melquí, Janai, José,"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3320,
+      "char_end": 3356,
+      "text": "Matatías, Amós, Nahúm, Eslí, Nagai,"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3356,
+      "char_end": 3395,
+      "text": "Máhat, Matatías, Semeí, Josec, Joiadá,"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3395,
+      "char_end": 3437,
+      "text": "Johanán, Resá, Zorobabel, Salatiel, Nerí,"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3437,
+      "char_end": 3470,
+      "text": "Melquí, Adí, Cosam, Elmadam, Er,"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3470,
+      "char_end": 3500,
+      "text": "Jesús, Eliézer, Jorim, Matat,"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3500,
+      "char_end": 3543,
+      "text": "Leví, Simeón, Judá, José, Jonam, Eliaquim,"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3543,
+      "char_end": 3571,
+      "text": "Meleá, Mená, Matatá, Natán,"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3571,
+      "char_end": 3612,
+      "text": "David, Jesé, Obed, Booz, Sélah, Nahasón,"
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3612,
+      "char_end": 3656,
+      "text": "Aminadab, Admín, Arní, Hersón, Fares, Judá,"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3656,
+      "char_end": 3693,
+      "text": "Jacob, Isaac, Abraham, Térah, Nahor,"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3693,
+      "char_end": 3727,
+      "text": "Serug, Ragau, Péleg, Éber, Sélah,"
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3727,
+      "char_end": 3761,
+      "text": "Cainán, Arfaxad, Sem, Noé, Lámec,"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3761,
+      "char_end": 3805,
+      "text": "Matusalén, Henoc, Jéred, Mahalalel, Cainán,"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 3805,
+      "char_end": 3834,
+      "text": "Enós, Set, Adán, Dios mismo."
+    }
+  ],
+  "words": [
+    {
+      "word": "Juan el Bautista, el hijo de Zacarías, vivía en el desierto.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4837,
+      "duration_ms": 4737
+    },
+    {
+      "word": "Dios le habló allí, en el desierto, cuando Tiberio tenía ya quince años de ser el emperador romano y Poncio Pilato era el gobernador de la región de Judea.",
+      "verse": 1,
+      "start_ms": 4787,
+      "end_ms": 13824,
+      "duration_ms": 9037
+    },
+    {
+      "word": "En ese tiempo Herodes Antipas gobernaba en la región de Galilea; por su parte Filipo, el hermano de Herodes, gobernaba en las regiones de Iturea y Traconítide; Lisanias gobernaba en la región de Abilene.",
+      "verse": 1,
+      "start_ms": 13825,
+      "end_ms": 26012,
+      "duration_ms": 12187
+    },
+    {
+      "word": "Anás y Caifás eran los jefes de los sacerdotes del pueblo judío.",
+      "verse": 1,
+      "start_ms": 26012,
+      "end_ms": 30249,
+      "duration_ms": 4237
+    },
+    {
+      "word": "Juan fue entonces a la región cercana al río Jordán.",
+      "verse": 3,
+      "start_ms": 30250,
+      "end_ms": 34062,
+      "duration_ms": 3812
+    },
+    {
+      "word": "Allí le decía a la gente: ¡Bautícense y vuélvanse a Dios!",
+      "verse": 3,
+      "start_ms": 34062,
+      "end_ms": 38512,
+      "duration_ms": 4450
+    },
+    {
+      "word": "Sólo así Dios los perdonará.",
+      "verse": 3,
+      "start_ms": 38512,
+      "end_ms": 41087,
+      "duration_ms": 2575
+    },
+    {
+      "word": "Mucho tiempo atrás, el profeta Isaías había escrito acerca de Juan: Alguien grita en el desierto: «Prepárenle el camino a nuestro Dios.",
+      "verse": 4,
+      "start_ms": 41087,
+      "end_ms": 49874,
+      "duration_ms": 8787
+    },
+    {
+      "word": "Ábranle paso!",
+      "verse": 4,
+      "start_ms": 49875,
+      "end_ms": 51712,
+      "duration_ms": 1837
+    },
+    {
+      "word": "Que no encuentre estorbos!",
+      "verse": 4,
+      "start_ms": 51712,
+      "end_ms": 54012,
+      "duration_ms": 2300
+    },
+    {
+      "word": "Rellenen los valles, y conviertan en llanura la región montañosa.",
+      "verse": 5,
+      "start_ms": 54012,
+      "end_ms": 58762,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Enderecen los caminos torcidos.",
+      "verse": 5,
+      "start_ms": 58762,
+      "end_ms": 61562,
+      "duration_ms": 2800
+    },
+    {
+      "word": "Todo el mundo verá al Salvador que Dios envía!",
+      "verse": 6,
+      "start_ms": 61562,
+      "end_ms": 64774,
+      "duration_ms": 3212
+    },
+    {
+      "word": "Mucha gente venía para que Juan los bautizara, y él les decía: —¡Ustedes son unas víboras!",
+      "verse": 7,
+      "start_ms": 64775,
+      "end_ms": 70775,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Creen que van a escaparse del castigo que Dios les enviará?",
+      "verse": 7,
+      "start_ms": 70775,
+      "end_ms": 74625,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Muestren con su conducta que realmente han dejado de pecar.",
+      "verse": 8,
+      "start_ms": 74625,
+      "end_ms": 78675,
+      "duration_ms": 4050
+    },
+    {
+      "word": "No piensen que van a salvarse sólo por ser descendientes de Abraham.",
+      "verse": 8,
+      "start_ms": 78675,
+      "end_ms": 82900,
+      "duration_ms": 4225
+    },
+    {
+      "word": "Si Dios así lo quiere, hasta estas piedras las puede convertir en familiares de Abraham.",
+      "verse": 8,
+      "start_ms": 82900,
+      "end_ms": 88200,
+      "duration_ms": 5300
+    },
+    {
+      "word": "Cuando un árbol no produce buenos frutos, su dueño lo corta de raíz y lo quema.",
+      "verse": 9,
+      "start_ms": 88200,
+      "end_ms": 93487,
+      "duration_ms": 5287
+    },
+    {
+      "word": "Y Dios ya está listo para destruir a los que no hacen lo bueno!",
+      "verse": 9,
+      "start_ms": 93487,
+      "end_ms": 97374,
+      "duration_ms": 3887
+    },
+    {
+      "word": "La gente le preguntaba: —Y entonces, ¿qué podemos hacer?",
+      "verse": 10,
+      "start_ms": 97375,
+      "end_ms": 101812,
+      "duration_ms": 4437
+    },
+    {
+      "word": "Él les respondía: —El que tenga dos mantos, comparta uno con quien no tenga nada que ponerse.",
+      "verse": 11,
+      "start_ms": 101812,
+      "end_ms": 108137,
+      "duration_ms": 6325
+    },
+    {
+      "word": "El que tenga comida, compártala con quien no tenga nada que comer.",
+      "verse": 11,
+      "start_ms": 108137,
+      "end_ms": 112712,
+      "duration_ms": 4575
+    },
+    {
+      "word": "Vinieron también unos cobradores de impuestos y le preguntaron a Juan: —Maestro, ¿qué podemos hacer para salvarnos?",
+      "verse": 12,
+      "start_ms": 112712,
+      "end_ms": 119824,
+      "duration_ms": 7112
+    },
+    {
+      "word": "Juan les contestó: —No le cobren a la gente más dinero del que debe pagar.",
+      "verse": 13,
+      "start_ms": 119825,
+      "end_ms": 124812,
+      "duration_ms": 4987
+    },
+    {
+      "word": "Unos soldados preguntaron: —Juan, ¿qué podemos hacer nosotros?",
+      "verse": 14,
+      "start_ms": 124812,
+      "end_ms": 129574,
+      "duration_ms": 4762
+    },
+    {
+      "word": "Él les contestó: —Ustedes amenazan a la gente y la obligan a que les dé dinero.",
+      "verse": 14,
+      "start_ms": 129575,
+      "end_ms": 134650,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Sólo así le prometen dejarla en paz.",
+      "verse": 14,
+      "start_ms": 134650,
+      "end_ms": 137712,
+      "duration_ms": 3062
+    },
+    {
+      "word": "No lo vuelvan a hacer, y quédense satisfechos con su salario!",
+      "verse": 14,
+      "start_ms": 137712,
+      "end_ms": 141937,
+      "duration_ms": 4225
+    },
+    {
+      "word": "Todos se admiraban y querían saber si Juan era el Mesías que esperaban.",
+      "verse": 15,
+      "start_ms": 141937,
+      "end_ms": 146324,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Pero Juan les respondió: —Yo los bautizo a ustedes con agua.",
+      "verse": 16,
+      "start_ms": 146325,
+      "end_ms": 150562,
+      "duration_ms": 4237
+    },
+    {
+      "word": "Pero hay alguien que viene después de mí, y que es más poderoso que yo.",
+      "verse": 16,
+      "start_ms": 150562,
+      "end_ms": 155062,
+      "duration_ms": 4500
+    },
+    {
+      "word": "Él los bautizará con el Espíritu Santo y con fuego.",
+      "verse": 16,
+      "start_ms": 155062,
+      "end_ms": 158749,
+      "duration_ms": 3687
+    },
+    {
+      "word": "Yo ni siquiera merezco ser su esclavo!",
+      "verse": 16,
+      "start_ms": 158750,
+      "end_ms": 161612,
+      "duration_ms": 2862
+    },
+    {
+      "word": "El que viene después de mí separará a los buenos de los malos.",
+      "verse": 17,
+      "start_ms": 161612,
+      "end_ms": 165537,
+      "duration_ms": 3925
+    },
+    {
+      "word": "A los buenos los pondrá a salvo, y a los malos los echará en un fuego que nunca se apaga.",
+      "verse": 17,
+      "start_ms": 165537,
+      "end_ms": 171212,
+      "duration_ms": 5675
+    },
+    {
+      "word": "De este modo, y de otras maneras, Juan anunciaba las buenas noticias a la gente.",
+      "verse": 18,
+      "start_ms": 171212,
+      "end_ms": 176849,
+      "duration_ms": 5637
+    },
+    {
+      "word": "Además, reprendió a Herodes Antipas porque vivía con Herodías, la esposa de su hermano Filipo, y por todo lo malo que había hecho.",
+      "verse": 19,
+      "start_ms": 176850,
+      "end_ms": 185287,
+      "duration_ms": 8437
+    },
+    {
+      "word": "Pero a toda su maldad Herodes añadió otra mala acción: puso a Juan en la cárcel.",
+      "verse": 20,
+      "start_ms": 185287,
+      "end_ms": 190774,
+      "duration_ms": 5487
+    },
+    {
+      "word": "Cuando Juan terminó de bautizar a todos, Jesús vino y también se bautizó.",
+      "verse": 21,
+      "start_ms": 190775,
+      "end_ms": 195975,
+      "duration_ms": 5200
+    },
+    {
+      "word": "Mientras Jesús oraba, el cielo se abrió y el Espíritu Santo bajó sobre él en forma de paloma.",
+      "verse": 21,
+      "start_ms": 195975,
+      "end_ms": 202075,
+      "duration_ms": 6100
+    },
+    {
+      "word": "Luego se oyó una voz que desde el cielo decía: Tú eres mi Hijo, a quien quiero mucho.",
+      "verse": 22,
+      "start_ms": 202075,
+      "end_ms": 207787,
+      "duration_ms": 5712
+    },
+    {
+      "word": "Estoy muy contento contigo.",
+      "verse": 22,
+      "start_ms": 207787,
+      "end_ms": 210324,
+      "duration_ms": 2537
+    },
+    {
+      "word": "Jesús comenzó a predicar cuando tenía unos treinta años y, según la gente, era hijo de José.",
+      "verse": 23,
+      "start_ms": 210325,
+      "end_ms": 216737,
+      "duration_ms": 6412
+    },
+    {
+      "word": "Ésta es la lista de sus antepasados: José, Elí, Matat, Leví, Melquí, Janai, José, Matatías, Amós, Nahúm, Eslí, Nagai, Máhat, Matatías, Semeí, Josec, Joiadá, Johanán, Resá, Zorobabel, Salatiel, Nerí, Melquí, Adí, Cosam, Elmadam, Er, Jesús, Eliézer, Jorim, Matat, Leví, Simeón, Judá, José, Jonam, Eliaquim, Meleá, Mená, Matatá, Natán, David, Jesé, Obed, Booz, Sélah, Nahasón, Aminadab, Admín, Arní, Hersón, Fares, Judá, Jacob, Isaac, Abraham, Térah, Nahor, Serug, Ragau, Péleg, Éber, Sélah, Cainán,",
+      "verse": 23,
+      "start_ms": 216737,
+      "end_ms": 266224,
+      "duration_ms": 49487
+    },
+    {
+      "word": "Arfaxad, Sem, Noé, Lámec, Matusalén, Henoc, Jéred, Mahalalel, Cainán, Enós, Set, Adán, Dios mismo.",
+      "verse": 36,
+      "start_ms": 266225,
+      "end_ms": 276937,
+      "duration_ms": 10712
+    }
+  ]
+}

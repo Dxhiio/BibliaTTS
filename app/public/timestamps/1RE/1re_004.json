@@ -1,0 +1,600 @@
+{
+  "book": "1RE",
+  "chapter": 4,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 30,
+  "word_count": 54,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 45,
+      "text": "Salomón fue rey de todo el pueblo de Israel."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 45,
+      "char_end": 143,
+      "text": "Ésta es la lista de sus funcionarios más importantes: Azarías hijo de Sadoc: sacerdote principal."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 143,
+      "char_end": 257,
+      "text": "Elihóref y Ahías hijos de Sisá: secretarios. Josafat hijo de Ahihud: encargado de escribir la historia del reino."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 257,
+      "char_end": 332,
+      "text": "Benaías hijo de Joiadá: general del ejército. Sadoc y Abiatar: sacerdotes."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 332,
+      "char_end": 443,
+      "text": "Azarías hijo de Natán: jefe de los gobernadores del reino. Zabud hijo de Natán: sacerdote y consejero del rey."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 443,
+      "char_end": 533,
+      "text": "Ahisar: encargado del palacio. Adoniram hijo de Abdá: encargado de los trabajos forzados."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 533,
+      "char_end": 678,
+      "text": "Salomón tenía doce gobernadores en todo Israel. Cada mes, uno de ellos tenía que proveer alimentos y todo lo necesario para el rey y su familia."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 678,
+      "char_end": 776,
+      "text": "Ésta es la lista de esos doce gobernadores: Ben-hur: gobernador de la región montañosa de Efraín."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 776,
+      "char_end": 847,
+      "text": "Ben-déquer: gobernador de Macás, Saalbim, Bet-semes, Elón y Bet-hanán."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 847,
+      "char_end": 912,
+      "text": "Ben-hésed: gobernador de Arubot, Socó y toda la región de Héfer."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 912,
+      "char_end": 1020,
+      "text": "Ben-abinadab: gobernador de toda la provincia de Dor. Ben-abinadab era esposo de Tafat, la hija de Salomón."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1020,
+      "char_end": 1209,
+      "text": "Baaná hijo de Ahilud: gobernador de Taanac, Meguido y toda Bet-seán. Esta región está al lado de Saretán, al sur de Jezreel, y abarca desde Bet-seán hasta Abel-meholá, más allá de Jocmeam."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1209,
+      "char_end": 1491,
+      "text": "Ben-guéber: gobernador de Ramot y de los demás pueblos de la región de Galaad, que pertenecían a Jaír hijo de Manasés. También fue gobernador de Argob, en la región de Basán. Allí había sesenta ciudades grandes, rodeadas por murallas. Sus portones se cerraban con barras de bronce."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1491,
+      "char_end": 1537,
+      "text": "Ahinadab hijo de Idó: gobernador de Mahanaim."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1537,
+      "char_end": 1629,
+      "text": "Ahimaas: gobernador de la región de Neftalí. Ahimaas era esposo de Basemat hija de Salomón."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1629,
+      "char_end": 1696,
+      "text": "Baaná hijo de Husai: gobernador de las regiones de Aser y Zabulón."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1696,
+      "char_end": 1755,
+      "text": "Josafat hijo de Parúah: gobernador en la región de Isacar."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1755,
+      "char_end": 1810,
+      "text": "Simí hijo de Elá: gobernador en la región de Benjamín."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1810,
+      "char_end": 2048,
+      "text": "Guéber hijo de Urí: gobernador de la región de Gad, donde estaba el país de Sihón, que era el rey de los amorreos, y el reino de Og en Basán. Además de estos doce gobernadores, había un jefe de gobernadores que gobernaba en todo el país."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2048,
+      "char_end": 2192,
+      "text": "Los habitantes de Israel y Judá eran tantos como la arena del mar, que no se puede contar. Tenían comida y bebida de sobra, y eran muy felices."
+    },
+    {
+      "verse": 21,
+      "label": "21-24",
+      "char_start": 2192,
+      "char_end": 2933,
+      "text": "Por ejemplo, para Salomón y todos los empleados del reino se necesitaban, cada día, seis mil seiscientos kilos de harina fina, trece mil doscientos kilos de harina corriente, cien ovejas, diez toros de los más gordos, veinte toros alimentados con pasto, además de venados, gacelas, antílopes y aves bien gordas. Salomón dominaba todos los reinos que había entre el río Éufrates y el país de los filisteos, hasta la frontera con Egipto. El reino de Salomón era muy grande. Abarcaba toda la región al oeste del río Éufrates, desde Tífsah hasta Gaza. Esos reinos le pagaban impuestos a Salomón y lo sirvieron durante toda su vida. Fue así como Salomón dominó a todos los reyes de esta región, y logró la paz en todo el territorio de alrededor."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2933,
+      "char_end": 3107,
+      "text": "Durante el reinado de Salomón todas las familias de Israel y Judá vivieron con tranquilidad, paz y seguridad, desde Dan hasta Beerseba. Cultivaban huertos, viñas e higueras."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3107,
+      "char_end": 3215,
+      "text": "Además, Salomón tenía cuatro mil caballerizas. Allí guardaba los caballos de sus carros y de su caballería."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3215,
+      "char_end": 3385,
+      "text": "Al rey y a sus invitados nunca les faltaba nada porque los doce gobernadores se ocupaban de llevarles todo lo necesario. Cada uno lo hacía en el mes que le correspondía,"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3385,
+      "char_end": 3458,
+      "text": "y a los caballos y a los animales de trabajo les llevaban cebada y paja."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3458,
+      "char_end": 3545,
+      "text": "Dios le dio a Salomón sabiduría, inteligencia y gran capacidad para comprenderlo todo."
+    },
+    {
+      "verse": 30,
+      "label": "30-31",
+      "char_start": 3545,
+      "char_end": 3743,
+      "text": "Fue más sabio que todos los sabios de Mesopotamia y Egipto. Por ejemplo, fue más sabio que Etán, el de Zérah, y que los músicos Hemán, Calcol y Dardá. Era famoso en todas las regiones de alrededor."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3743,
+      "char_end": 3792,
+      "text": "Escribió tres mil proverbios y mil cinco poemas."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3792,
+      "char_end": 3978,
+      "text": "Habló acerca de los árboles, desde el cedro que crece en el Líbano hasta la hierba que crece en las paredes. También habló acerca de los animales, los pájaros, los reptiles y los peces."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3978,
+      "char_end": 4055,
+      "text": "De todos los países de la tierra venían a escuchar lo sabio que era Salomón."
+    }
+  ],
+  "words": [
+    {
+      "word": "Salomón fue rey de todo el pueblo de Israel.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3475,
+      "duration_ms": 3375
+    },
+    {
+      "word": "Ésta es la lista de sus funcionarios más importantes: Azarías hijo de Sadoc: sacerdote principal.",
+      "verse": 2,
+      "start_ms": 3425,
+      "end_ms": 10300,
+      "duration_ms": 6875
+    },
+    {
+      "word": "Elihóref y Ahías hijos de Sisá: secretarios.",
+      "verse": 3,
+      "start_ms": 10300,
+      "end_ms": 14312,
+      "duration_ms": 4012
+    },
+    {
+      "word": "Josafat hijo de Ahihud: encargado de escribir la historia del reino.",
+      "verse": 3,
+      "start_ms": 14312,
+      "end_ms": 19137,
+      "duration_ms": 4825
+    },
+    {
+      "word": "Benaías hijo de Joiadá: general del ejército.",
+      "verse": 4,
+      "start_ms": 19137,
+      "end_ms": 23099,
+      "duration_ms": 3962
+    },
+    {
+      "word": "Sadoc y Abiatar: sacerdotes.",
+      "verse": 4,
+      "start_ms": 23100,
+      "end_ms": 26325,
+      "duration_ms": 3225
+    },
+    {
+      "word": "Azarías hijo de Natán: jefe de los gobernadores del reino.",
+      "verse": 5,
+      "start_ms": 26325,
+      "end_ms": 30762,
+      "duration_ms": 4437
+    },
+    {
+      "word": "Zabud hijo de Natán: sacerdote y consejero del rey.",
+      "verse": 5,
+      "start_ms": 30762,
+      "end_ms": 35062,
+      "duration_ms": 4300
+    },
+    {
+      "word": "Ahisar: encargado del palacio.",
+      "verse": 6,
+      "start_ms": 35062,
+      "end_ms": 38124,
+      "duration_ms": 3062
+    },
+    {
+      "word": "Adoniram hijo de Abdá: encargado de los trabajos forzados.",
+      "verse": 6,
+      "start_ms": 38125,
+      "end_ms": 42862,
+      "duration_ms": 4737
+    },
+    {
+      "word": "Salomón tenía doce gobernadores en todo Israel.",
+      "verse": 7,
+      "start_ms": 42862,
+      "end_ms": 46749,
+      "duration_ms": 3887
+    },
+    {
+      "word": "Cada mes, uno de ellos tenía que proveer alimentos y todo lo necesario para el rey y su familia.",
+      "verse": 7,
+      "start_ms": 46750,
+      "end_ms": 53075,
+      "duration_ms": 6325
+    },
+    {
+      "word": "Ésta es la lista de esos doce gobernadores: Ben-hur: gobernador de la región montañosa de Efraín.",
+      "verse": 8,
+      "start_ms": 53075,
+      "end_ms": 60100,
+      "duration_ms": 7025
+    },
+    {
+      "word": "Ben-déquer: gobernador de Macás, Saalbim, Bet-semes, Elón y Bet-hanán.",
+      "verse": 9,
+      "start_ms": 60100,
+      "end_ms": 66150,
+      "duration_ms": 6050
+    },
+    {
+      "word": "Ben-hésed: gobernador de Arubot, Socó y toda la región de Héfer.",
+      "verse": 10,
+      "start_ms": 66150,
+      "end_ms": 71375,
+      "duration_ms": 5225
+    },
+    {
+      "word": "Ben-abinadab: gobernador de toda la provincia de Dor.",
+      "verse": 11,
+      "start_ms": 71375,
+      "end_ms": 75687,
+      "duration_ms": 4312
+    },
+    {
+      "word": "Ben-abinadab era esposo de Tafat, la hija de Salomón.",
+      "verse": 11,
+      "start_ms": 75687,
+      "end_ms": 79812,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Baaná hijo de Ahilud: gobernador de Taanac, Meguido y toda Bet-seán.",
+      "verse": 12,
+      "start_ms": 79812,
+      "end_ms": 85099,
+      "duration_ms": 5287
+    },
+    {
+      "word": "Esta región está al lado de Saretán, al sur de Jezreel, y abarca desde Bet-seán hasta Abel-meholá, más allá de Jocmeam.",
+      "verse": 12,
+      "start_ms": 85100,
+      "end_ms": 93025,
+      "duration_ms": 7925
+    },
+    {
+      "word": "Ben-guéber: gobernador de Ramot y de los demás pueblos de la región de Galaad, que pertenecían a Jaír hijo de Manasés.",
+      "verse": 13,
+      "start_ms": 93025,
+      "end_ms": 100487,
+      "duration_ms": 7462
+    },
+    {
+      "word": "También fue gobernador de Argob, en la región de Basán.",
+      "verse": 13,
+      "start_ms": 100487,
+      "end_ms": 104274,
+      "duration_ms": 3787
+    },
+    {
+      "word": "Allí había sesenta ciudades grandes, rodeadas por murallas.",
+      "verse": 13,
+      "start_ms": 104275,
+      "end_ms": 108875,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Sus portones se cerraban con barras de bronce.",
+      "verse": 13,
+      "start_ms": 108875,
+      "end_ms": 112125,
+      "duration_ms": 3250
+    },
+    {
+      "word": "Ahinadab hijo de Idó: gobernador de Mahanaim.",
+      "verse": 14,
+      "start_ms": 112125,
+      "end_ms": 115887,
+      "duration_ms": 3762
+    },
+    {
+      "word": "Ahimaas: gobernador de la región de Neftalí.",
+      "verse": 15,
+      "start_ms": 115887,
+      "end_ms": 119624,
+      "duration_ms": 3737
+    },
+    {
+      "word": "Ahimaas era esposo de Basemat hija de Salomón.",
+      "verse": 15,
+      "start_ms": 119625,
+      "end_ms": 123075,
+      "duration_ms": 3450
+    },
+    {
+      "word": "Baaná hijo de Husai: gobernador de las regiones de Aser y Zabulón.",
+      "verse": 16,
+      "start_ms": 123075,
+      "end_ms": 127875,
+      "duration_ms": 4800
+    },
+    {
+      "word": "Josafat hijo de Parúah: gobernador en la región de Isacar.",
+      "verse": 17,
+      "start_ms": 127875,
+      "end_ms": 132387,
+      "duration_ms": 4512
+    },
+    {
+      "word": "Simí hijo de Elá: gobernador en la región de Benjamín.",
+      "verse": 18,
+      "start_ms": 132387,
+      "end_ms": 136637,
+      "duration_ms": 4250
+    },
+    {
+      "word": "Guéber hijo de Urí: gobernador de la región de Gad, donde estaba el país de Sihón, que era el rey de los amorreos, y el reino de Og en Basán.",
+      "verse": 19,
+      "start_ms": 136637,
+      "end_ms": 145524,
+      "duration_ms": 8887
+    },
+    {
+      "word": "Además de estos doce gobernadores, había un jefe de gobernadores que gobernaba en todo el país.",
+      "verse": 19,
+      "start_ms": 145525,
+      "end_ms": 151937,
+      "duration_ms": 6412
+    },
+    {
+      "word": "Los habitantes de Israel y Judá eran tantos como la arena del mar, que no se puede contar.",
+      "verse": 20,
+      "start_ms": 151937,
+      "end_ms": 157874,
+      "duration_ms": 5937
+    },
+    {
+      "word": "Tenían comida y bebida de sobra, y eran muy felices.",
+      "verse": 20,
+      "start_ms": 157875,
+      "end_ms": 162137,
+      "duration_ms": 4262
+    },
+    {
+      "word": "Por ejemplo, para Salomón y todos los empleados del reino se necesitaban, cada día, seis mil seiscientos kilos de harina fina, trece mil doscientos kilos de harina corriente, cien ovejas, diez toros de los más gordos, veinte toros alimentados con pasto, además de venados, gacelas, antílopes y aves bien gordas.",
+      "verse": 21,
+      "start_ms": 162137,
+      "end_ms": 182287,
+      "duration_ms": 20150
+    },
+    {
+      "word": "Salomón dominaba todos los reinos que había entre el río Éufrates y el país de los filisteos, hasta la frontera con Egipto.",
+      "verse": 21,
+      "start_ms": 182287,
+      "end_ms": 189712,
+      "duration_ms": 7425
+    },
+    {
+      "word": "El reino de Salomón era muy grande.",
+      "verse": 21,
+      "start_ms": 189712,
+      "end_ms": 192574,
+      "duration_ms": 2862
+    },
+    {
+      "word": "Abarcaba toda la región al oeste del río Éufrates, desde Tífsah hasta Gaza.",
+      "verse": 21,
+      "start_ms": 192575,
+      "end_ms": 198175,
+      "duration_ms": 5600
+    },
+    {
+      "word": "Esos reinos le pagaban impuestos a Salomón y lo sirvieron durante toda su vida.",
+      "verse": 21,
+      "start_ms": 198175,
+      "end_ms": 203175,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Fue así como Salomón dominó a todos los reyes de esta región, y logró la paz en todo el territorio de alrededor.",
+      "verse": 21,
+      "start_ms": 203175,
+      "end_ms": 210287,
+      "duration_ms": 7112
+    },
+    {
+      "word": "Durante el reinado de Salomón todas las familias de Israel y Judá vivieron con tranquilidad, paz y seguridad, desde Dan hasta Beerseba.",
+      "verse": 25,
+      "start_ms": 210287,
+      "end_ms": 218474,
+      "duration_ms": 8187
+    },
+    {
+      "word": "Cultivaban huertos, viñas e higueras.",
+      "verse": 25,
+      "start_ms": 218475,
+      "end_ms": 221837,
+      "duration_ms": 3362
+    },
+    {
+      "word": "Además, Salomón tenía cuatro mil caballerizas.",
+      "verse": 26,
+      "start_ms": 221837,
+      "end_ms": 225937,
+      "duration_ms": 4100
+    },
+    {
+      "word": "Allí guardaba los caballos de sus carros y de su caballería.",
+      "verse": 26,
+      "start_ms": 225937,
+      "end_ms": 229962,
+      "duration_ms": 4025
+    },
+    {
+      "word": "Al rey y a sus invitados nunca les faltaba nada porque los doce gobernadores se ocupaban de llevarles todo lo necesario.",
+      "verse": 27,
+      "start_ms": 229962,
+      "end_ms": 237162,
+      "duration_ms": 7200
+    },
+    {
+      "word": "Cada uno lo hacía en el mes que le correspondía, y a los caballos y a los animales de trabajo les llevaban cebada y paja.",
+      "verse": 27,
+      "start_ms": 237162,
+      "end_ms": 244312,
+      "duration_ms": 7150
+    },
+    {
+      "word": "Dios le dio a Salomón sabiduría, inteligencia y gran capacidad para comprenderlo todo.",
+      "verse": 29,
+      "start_ms": 244312,
+      "end_ms": 250324,
+      "duration_ms": 6012
+    },
+    {
+      "word": "Fue más sabio que todos los sabios de Mesopotamia y Egipto.",
+      "verse": 30,
+      "start_ms": 250325,
+      "end_ms": 254375,
+      "duration_ms": 4050
+    },
+    {
+      "word": "Por ejemplo, fue más sabio que Etán, el de Zérah, y que los músicos Hemán, Calcol y Dardá.",
+      "verse": 30,
+      "start_ms": 254375,
+      "end_ms": 260937,
+      "duration_ms": 6562
+    },
+    {
+      "word": "Era famoso en todas las regiones de alrededor.",
+      "verse": 30,
+      "start_ms": 260937,
+      "end_ms": 264449,
+      "duration_ms": 3512
+    },
+    {
+      "word": "Escribió tres mil proverbios y mil cinco poemas.",
+      "verse": 32,
+      "start_ms": 264450,
+      "end_ms": 268375,
+      "duration_ms": 3925
+    },
+    {
+      "word": "Habló acerca de los árboles, desde el cedro que crece en el Líbano hasta la hierba que crece en las paredes.",
+      "verse": 33,
+      "start_ms": 268375,
+      "end_ms": 275087,
+      "duration_ms": 6712
+    },
+    {
+      "word": "También habló acerca de los animales, los pájaros, los reptiles y los",
+      "verse": 33,
+      "start_ms": 275087,
+      "end_ms": 280224,
+      "duration_ms": 5137
+    },
+    {
+      "word": "peces.",
+      "verse": 33,
+      "start_ms": 280396,
+      "end_ms": 281946,
+      "duration_ms": 1550
+    },
+    {
+      "word": "De todos los países de la tierra venían a escuchar lo sabio que era Salomón.",
+      "verse": 34,
+      "start_ms": 281896,
+      "end_ms": 286708,
+      "duration_ms": 4812
+    }
+  ]
+}

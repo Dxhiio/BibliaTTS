@@ -1,0 +1,656 @@
+{
+  "book": "MAT",
+  "chapter": 6,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 33,
+  "word_count": 59,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 129,
+      "text": "Cuando ustedes hagan una buena acción, no lo anuncien por todos lados; de lo contrario, Dios su Padre no les dará ningún premio."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 129,
+      "char_end": 382,
+      "text": "Si alguno de ustedes ayuda a los pobres, no se ponga a publicarlo en las sinagogas ni en los lugares por donde pasa la gente; eso lo hacen los hipócritas, que quieren que la gente los alabe. Les aseguro que ése es el único premio que ustedes recibirán."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 382,
+      "char_end": 452,
+      "text": "Cuando alguno de ustedes ayude a los pobres, no se lo cuente a nadie."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 452,
+      "char_end": 562,
+      "text": "Así esa ayuda se mantendrá en secreto, y Dios el Padre, que conoce ese secreto, les dará a ustedes su premio."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 562,
+      "char_end": 798,
+      "text": "Cuando ustedes oren, no hagan como los hipócritas. A ellos les encanta que la gente los vea orar. Por eso oran de pie en las sinagogas y en los lugares por donde pasa mucha gente. Pueden estar seguros de que no tendrán otra recompensa."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 798,
+      "char_end": 964,
+      "text": "Cuando alguno de ustedes ore, hágalo a solas. Vaya a su cuarto, cierre la puerta y hable allí en secreto con Dios, su Padre, pues él da lo que se le pide en secreto."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 964,
+      "char_end": 1131,
+      "text": "Cuando ustedes oren, no usen muchas palabras, como hacen los que no conocen verdaderamente a Dios. Ellos creen que, porque hablan mucho, Dios les va a hacer más caso."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1131,
+      "char_end": 1235,
+      "text": "No los imiten, porque Dios, nuestro Padre, sabe lo que ustedes necesitan, aun antes de que se lo pidan."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1235,
+      "char_end": 1349,
+      "text": "Ustedes deben orar así: «Padre nuestro que estás en el cielo: Que todos reconozcan que tú eres el verdadero Dios."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1349,
+      "char_end": 1472,
+      "text": "Ven y sé nuestro único rey. Que todos los que viven en la tierra te obedezcan, como te obedecen los que están en el cielo."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1472,
+      "char_end": 1509,
+      "text": "Danos la comida que necesitamos hoy."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1509,
+      "char_end": 1591,
+      "text": "Perdona el mal que hacemos, así como nosotros perdonamos a los que nos hacen mal."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1591,
+      "char_end": 1695,
+      "text": "Y cuando vengan las pruebas, no permitas que ellas nos aparten de ti, y líbranos del poder del diablo»."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1695,
+      "char_end": 1811,
+      "text": "Si ustedes perdonan a otros el mal que les han hecho, Dios, su Padre que está en el cielo, los perdonará a ustedes."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1811,
+      "char_end": 1894,
+      "text": "Pero si ustedes no perdonan a los demás, tampoco su Padre los perdonará a ustedes."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1894,
+      "char_end": 2085,
+      "text": "Cuando ustedes ayunen, no pongan cara triste, como hacen los hipócritas. A ellos les gusta que la gente sepa que están ayunando. Les aseguro que ése será el único premio que ellos recibirán."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2085,
+      "char_end": 2141,
+      "text": "Cuando ustedes ayunen, péinense bien y lávense la cara,"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2141,
+      "char_end": 2299,
+      "text": "para que la gente no se dé cuenta de que están ayunando. Sólo Dios, su Padre, quien conoce todos los secretos, sabrá que están ayunando y les dará su premio."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2299,
+      "char_end": 2459,
+      "text": "No traten de amontonar riquezas aquí en la tierra. Esas cosas se echan a perder o son destruidas por la polilla. Además, los ladrones pueden entrar y robarlas."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2459,
+      "char_end": 2602,
+      "text": "Es mejor que amontonen riquezas en el cielo. Allí nada se echa a perder ni la polilla lo destruye. Tampoco los ladrones pueden entrar y robar."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2602,
+      "char_end": 2677,
+      "text": "Recuerden que la verdadera riqueza consiste en obedecerme de todo corazón."
+    },
+    {
+      "verse": 22,
+      "label": "22-23",
+      "char_start": 2677,
+      "char_end": 2773,
+      "text": "Los ojos son el reflejo de tu carácter. Así que, tu bondad o tu maldad se refleja en tu mirada."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2773,
+      "char_end": 2977,
+      "text": "Ningún esclavo puede trabajar al mismo tiempo para dos amos, porque siempre obedecerá o amará a uno más que al otro. Del mismo modo, tampoco ustedes pueden servir al mismo tiempo a Dios y a las riquezas."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2977,
+      "char_end": 3146,
+      "text": "No vivan pensando en qué van a comer, qué van a beber o qué ropa se van a poner. La vida no consiste solamente en comer, ni Dios creó el cuerpo sólo para que lo vistan."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3146,
+      "char_end": 3376,
+      "text": "Miren los pajaritos que vuelan por el aire. Ellos no siembran ni cosechan, ni guardan semillas en graneros. Sin embargo, Dios, el Padre que está en el cielo, les da todo lo que necesitan. ¡Y ustedes son más importantes que ellos!"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3376,
+      "char_end": 3431,
+      "text": "¿Creen ustedes que por preocuparse vivirán un día más?"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3431,
+      "char_end": 3522,
+      "text": "Aprendan de las flores que están en el campo. Ellas no trabajan para hacerse sus vestidos."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3522,
+      "char_end": 3629,
+      "text": "Sin embargo, les aseguro que ni el rey Salomón se vistió tan bien como ellas, aunque tuvo muchas riquezas."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3629,
+      "char_end": 3781,
+      "text": "Si Dios hace tan hermosas a las flores, que viven tan poco tiempo, ¿acaso no hará más por ustedes? ¡Veo que todavía no han aprendido a confiar en Dios!"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3781,
+      "char_end": 3880,
+      "text": "Ya no se preocupen por lo que van a comer, o lo que van a beber, o por la ropa que se van a poner."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3880,
+      "char_end": 4024,
+      "text": "Sólo los que no conocen a Dios se preocupan por eso. Ustedes tienen como padre a Dios que está en el cielo, y él sabe lo que ustedes necesitan."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4024,
+      "char_end": 4164,
+      "text": "Lo más importante es que reconozcan a Dios como único rey, y que hagan lo que él les pide. Dios les dará a su tiempo todo lo que necesiten."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4164,
+      "char_end": 4307,
+      "text": "Así que no se preocupen por lo que pasará mañana. Ya tendrán tiempo para eso. Recuerden que ya tenemos bastante con los problemas de cada día."
+    }
+  ],
+  "words": [
+    {
+      "word": "Cuando ustedes hagan una buena acción, no lo anuncien por todos lados; de lo contrario, Dios su Padre no les dará ningún premio.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 8262,
+      "duration_ms": 8162
+    },
+    {
+      "word": "Si alguno de ustedes ayuda a los pobres, no se ponga a publicarlo en las sinagogas ni en los lugares por donde pasa la gente; eso lo hacen los hipócritas, que quieren que la gente los alabe.",
+      "verse": 2,
+      "start_ms": 8212,
+      "end_ms": 18887,
+      "duration_ms": 10675
+    },
+    {
+      "word": "Les aseguro que ése es el único premio que ustedes recibirán.",
+      "verse": 2,
+      "start_ms": 18887,
+      "end_ms": 23199,
+      "duration_ms": 4312
+    },
+    {
+      "word": "Cuando alguno de ustedes ayude a los pobres, no se lo cuente a nadie.",
+      "verse": 3,
+      "start_ms": 23200,
+      "end_ms": 27612,
+      "duration_ms": 4412
+    },
+    {
+      "word": "Así esa ayuda se mantendrá en secreto, y Dios el Padre, que conoce ese secreto, les dará a ustedes su premio.",
+      "verse": 4,
+      "start_ms": 27612,
+      "end_ms": 35149,
+      "duration_ms": 7537
+    },
+    {
+      "word": "Cuando ustedes oren, no hagan como los hipócritas.",
+      "verse": 5,
+      "start_ms": 35150,
+      "end_ms": 38975,
+      "duration_ms": 3825
+    },
+    {
+      "word": "A ellos les encanta que la gente los vea orar.",
+      "verse": 5,
+      "start_ms": 38975,
+      "end_ms": 42425,
+      "duration_ms": 3450
+    },
+    {
+      "word": "Por eso oran de pie en las sinagogas y en los lugares por donde pasa mucha gente.",
+      "verse": 5,
+      "start_ms": 42425,
+      "end_ms": 47287,
+      "duration_ms": 4862
+    },
+    {
+      "word": "Pueden estar seguros de que no tendrán otra recompensa.",
+      "verse": 5,
+      "start_ms": 47287,
+      "end_ms": 51024,
+      "duration_ms": 3737
+    },
+    {
+      "word": "Cuando alguno de ustedes ore, hágalo a solas.",
+      "verse": 6,
+      "start_ms": 51025,
+      "end_ms": 54625,
+      "duration_ms": 3600
+    },
+    {
+      "word": "Vaya a su cuarto, cierre la puerta y hable allí en secreto con Dios, su Padre, pues él da lo que se le pide en secreto.",
+      "verse": 6,
+      "start_ms": 54625,
+      "end_ms": 62237,
+      "duration_ms": 7612
+    },
+    {
+      "word": "Cuando ustedes oren, no usen muchas palabras, como hacen los que no conocen verdaderamente a Dios.",
+      "verse": 7,
+      "start_ms": 62237,
+      "end_ms": 68812,
+      "duration_ms": 6575
+    },
+    {
+      "word": "Ellos creen que, porque hablan mucho, Dios les va a hacer más caso.",
+      "verse": 7,
+      "start_ms": 68812,
+      "end_ms": 73737,
+      "duration_ms": 4925
+    },
+    {
+      "word": "No los imiten, porque Dios, nuestro Padre, sabe lo que ustedes necesitan, aun antes de que se lo pidan.",
+      "verse": 8,
+      "start_ms": 73737,
+      "end_ms": 80862,
+      "duration_ms": 7125
+    },
+    {
+      "word": "Ustedes deben orar así: «Padre nuestro que estás en el cielo: Que todos reconozcan que tú eres el verdadero Dios.",
+      "verse": 9,
+      "start_ms": 80862,
+      "end_ms": 88037,
+      "duration_ms": 7175
+    },
+    {
+      "word": "Ven y sé nuestro único rey.",
+      "verse": 10,
+      "start_ms": 88037,
+      "end_ms": 90474,
+      "duration_ms": 2437
+    },
+    {
+      "word": "Que todos los que viven en la tierra te obedezcan, como te obedecen los que están en el cielo.",
+      "verse": 10,
+      "start_ms": 90475,
+      "end_ms": 96000,
+      "duration_ms": 5525
+    },
+    {
+      "word": "Danos la comida que necesitamos hoy.",
+      "verse": 11,
+      "start_ms": 96000,
+      "end_ms": 98912,
+      "duration_ms": 2912
+    },
+    {
+      "word": "Perdona el mal que hacemos, así como nosotros perdonamos a los que nos hacen mal.",
+      "verse": 12,
+      "start_ms": 98912,
+      "end_ms": 104237,
+      "duration_ms": 5325
+    },
+    {
+      "word": "Y cuando vengan las pruebas, no permitas que ellas nos aparten de ti, y líbranos del poder del diablo».",
+      "verse": 13,
+      "start_ms": 104237,
+      "end_ms": 110549,
+      "duration_ms": 6312
+    },
+    {
+      "word": "Si ustedes perdonan a otros el mal que les han hecho, Dios, su Padre que está en el cielo, los perdonará a ustedes.",
+      "verse": 14,
+      "start_ms": 110550,
+      "end_ms": 118125,
+      "duration_ms": 7575
+    },
+    {
+      "word": "Pero si ustedes no perdonan a los demás, tampoco su Padre los perdonará a ustedes.",
+      "verse": 15,
+      "start_ms": 118125,
+      "end_ms": 123725,
+      "duration_ms": 5600
+    },
+    {
+      "word": "Cuando ustedes ayunen, no pongan cara triste, como hacen los hipócritas.",
+      "verse": 16,
+      "start_ms": 123725,
+      "end_ms": 129037,
+      "duration_ms": 5312
+    },
+    {
+      "word": "A ellos les gusta que la gente sepa que están ayunando.",
+      "verse": 16,
+      "start_ms": 129037,
+      "end_ms": 132749,
+      "duration_ms": 3712
+    },
+    {
+      "word": "Les aseguro que ése será el único premio que ellos recibirán.",
+      "verse": 16,
+      "start_ms": 132750,
+      "end_ms": 136987,
+      "duration_ms": 4237
+    },
+    {
+      "word": "Cuando ustedes ayunen, péinense bien y lávense la cara, para que la gente no se dé cuenta de que están ayunando.",
+      "verse": 17,
+      "start_ms": 136987,
+      "end_ms": 143999,
+      "duration_ms": 7012
+    },
+    {
+      "word": "Sólo Dios, su Padre, quien conoce todos los secretos, sabrá que están ayunando y les dará su premio.",
+      "verse": 18,
+      "start_ms": 144000,
+      "end_ms": 151025,
+      "duration_ms": 7025
+    },
+    {
+      "word": "No traten de amontonar riquezas aquí en la tierra.",
+      "verse": 19,
+      "start_ms": 151025,
+      "end_ms": 154462,
+      "duration_ms": 3437
+    },
+    {
+      "word": "Esas cosas se echan a perder o son destruidas por la polilla.",
+      "verse": 19,
+      "start_ms": 154462,
+      "end_ms": 158474,
+      "duration_ms": 4012
+    },
+    {
+      "word": "Además, los ladrones pueden entrar y robarlas.",
+      "verse": 19,
+      "start_ms": 158475,
+      "end_ms": 162412,
+      "duration_ms": 3937
+    },
+    {
+      "word": "Es mejor que amontonen riquezas en el cielo.",
+      "verse": 20,
+      "start_ms": 162412,
+      "end_ms": 165499,
+      "duration_ms": 3087
+    },
+    {
+      "word": "Allí nada se echa a perder ni la polilla lo destruye.",
+      "verse": 20,
+      "start_ms": 165500,
+      "end_ms": 169387,
+      "duration_ms": 3887
+    },
+    {
+      "word": "Tampoco los ladrones pueden entrar y robar.",
+      "verse": 20,
+      "start_ms": 169387,
+      "end_ms": 172637,
+      "duration_ms": 3250
+    },
+    {
+      "word": "Recuerden que la verdadera riqueza consiste en obedecerme de todo corazón.",
+      "verse": 21,
+      "start_ms": 172637,
+      "end_ms": 177599,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Los ojos son el reflejo de tu carácter.",
+      "verse": 22,
+      "start_ms": 177600,
+      "end_ms": 180637,
+      "duration_ms": 3037
+    },
+    {
+      "word": "Así que, tu bondad o tu maldad se refleja en tu mirada.",
+      "verse": 22,
+      "start_ms": 180637,
+      "end_ms": 184724,
+      "duration_ms": 4087
+    },
+    {
+      "word": "Ningún esclavo puede trabajar al mismo tiempo para dos amos, porque siempre obedecerá o amará a uno más que al otro.",
+      "verse": 24,
+      "start_ms": 184725,
+      "end_ms": 191900,
+      "duration_ms": 7175
+    },
+    {
+      "word": "Del mismo modo, tampoco ustedes pueden servir al mismo tiempo a Dios y a las riquezas.",
+      "verse": 24,
+      "start_ms": 191900,
+      "end_ms": 197487,
+      "duration_ms": 5587
+    },
+    {
+      "word": "No vivan pensando en qué van a comer, qué van a beber o qué ropa se van a poner.",
+      "verse": 25,
+      "start_ms": 197487,
+      "end_ms": 202474,
+      "duration_ms": 4987
+    },
+    {
+      "word": "La vida no consiste solamente en comer, ni Dios creó el cuerpo sólo para que lo vistan.",
+      "verse": 25,
+      "start_ms": 202475,
+      "end_ms": 208175,
+      "duration_ms": 5700
+    },
+    {
+      "word": "Miren los pajaritos que vuelan por el aire.",
+      "verse": 26,
+      "start_ms": 208175,
+      "end_ms": 211175,
+      "duration_ms": 3000
+    },
+    {
+      "word": "Ellos no siembran ni cosechan, ni guardan semillas en graneros.",
+      "verse": 26,
+      "start_ms": 211175,
+      "end_ms": 215850,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Sin embargo, Dios, el Padre que está en el cielo, les da todo lo que necesitan.",
+      "verse": 26,
+      "start_ms": 215850,
+      "end_ms": 221625,
+      "duration_ms": 5775
+    },
+    {
+      "word": "Y ustedes son más importantes que ellos!",
+      "verse": 26,
+      "start_ms": 221625,
+      "end_ms": 224750,
+      "duration_ms": 3125
+    },
+    {
+      "word": "Creen ustedes que por preocuparse vivirán un día más?",
+      "verse": 27,
+      "start_ms": 224750,
+      "end_ms": 228412,
+      "duration_ms": 3662
+    },
+    {
+      "word": "Aprendan de las flores que están en el campo.",
+      "verse": 28,
+      "start_ms": 228412,
+      "end_ms": 231562,
+      "duration_ms": 3150
+    },
+    {
+      "word": "Ellas no trabajan para hacerse sus vestidos.",
+      "verse": 28,
+      "start_ms": 231562,
+      "end_ms": 234824,
+      "duration_ms": 3262
+    },
+    {
+      "word": "Sin embargo, les aseguro que ni el rey Salomón se vistió tan bien como ellas, aunque tuvo muchas riquezas.",
+      "verse": 29,
+      "start_ms": 234825,
+      "end_ms": 241700,
+      "duration_ms": 6875
+    },
+    {
+      "word": "Si Dios hace tan hermosas a las flores, que viven tan poco tiempo, ¿acaso no hará más por ustedes?",
+      "verse": 30,
+      "start_ms": 241700,
+      "end_ms": 248375,
+      "duration_ms": 6675
+    },
+    {
+      "word": "Veo que todavía no han aprendido a confiar en Dios!",
+      "verse": 30,
+      "start_ms": 248375,
+      "end_ms": 251912,
+      "duration_ms": 3537
+    },
+    {
+      "word": "Ya no se preocupen por lo que van a comer, o lo que van a beber, o por la ropa que se van a poner.",
+      "verse": 31,
+      "start_ms": 251912,
+      "end_ms": 257612,
+      "duration_ms": 5700
+    },
+    {
+      "word": "Sólo los que no conocen a Dios se preocupan por eso.",
+      "verse": 32,
+      "start_ms": 257612,
+      "end_ms": 261224,
+      "duration_ms": 3612
+    },
+    {
+      "word": "Ustedes tienen como padre a Dios que está en el cielo, y él sabe lo que ustedes",
+      "verse": 32,
+      "start_ms": 261225,
+      "end_ms": 266412,
+      "duration_ms": 5187
+    },
+    {
+      "word": "necesitan.",
+      "verse": 32,
+      "start_ms": 266572,
+      "end_ms": 268397,
+      "duration_ms": 1825
+    },
+    {
+      "word": "Lo más importante es que reconozcan a Dios como único rey, y que hagan lo que él les pide.",
+      "verse": 33,
+      "start_ms": 268347,
+      "end_ms": 274184,
+      "duration_ms": 5837
+    },
+    {
+      "word": "Dios les dará a su tiempo todo lo que necesiten.",
+      "verse": 33,
+      "start_ms": 274184,
+      "end_ms": 277671,
+      "duration_ms": 3487
+    },
+    {
+      "word": "Así que no se preocupen por lo que pasará mañana.",
+      "verse": 34,
+      "start_ms": 277672,
+      "end_ms": 281022,
+      "duration_ms": 3350
+    },
+    {
+      "word": "Ya tendrán tiempo para eso.",
+      "verse": 34,
+      "start_ms": 281022,
+      "end_ms": 283572,
+      "duration_ms": 2550
+    },
+    {
+      "word": "Recuerden que ya tenemos bastante con los problemas de cada día.",
+      "verse": 34,
+      "start_ms": 283572,
+      "end_ms": 287609,
+      "duration_ms": 4037
+    }
+  ]
+}

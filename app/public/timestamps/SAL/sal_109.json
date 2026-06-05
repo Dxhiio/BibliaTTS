@@ -1,0 +1,474 @@
+{
+  "book": "SAL",
+  "chapter": 109,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 29,
+  "word_count": 37,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 46,
+      "text": "Dios mío, yo te alabo; ¡no te quedes callado!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 46,
+      "char_end": 98,
+      "text": "Hay un mentiroso y malvado que miente acerca de mí."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 98,
+      "char_end": 164,
+      "text": "Tanto odio me tiene que me ataca sin razón; ¡me tiene acorralado!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 164,
+      "char_end": 226,
+      "text": "Habla mal de mí, a pesar de que lo amo y hago oración por él."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 226,
+      "char_end": 288,
+      "text": "Me odia, me trata mal, a pesar de que lo amo y lo trato bien."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 288,
+      "char_end": 364,
+      "text": "Dios mío, ¡págale con la misma moneda! ¡Haz que lo acuse su propio abogado!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 364,
+      "char_end": 468,
+      "text": "¡Haz que lo declare culpable el juez que le dicte sentencia! ¡Haz que lo condenen sus propias mentiras!"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 468,
+      "char_end": 530,
+      "text": "¡Quítale la vida antes de tiempo, y que otro haga su trabajo!"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 530,
+      "char_end": 595,
+      "text": "¡Que se queden huérfanos sus hijos! ¡Que deje viuda a su esposa!"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 595,
+      "char_end": 687,
+      "text": "Convierte a sus hijos en vagos y limosneros; ¡haz que los echen de esas ruinas donde viven!"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 687,
+      "char_end": 758,
+      "text": "¡Que les quiten todo lo que tienen los que antes les prestaban dinero!"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 758,
+      "char_end": 831,
+      "text": "¡Que a esos huérfanos nadie los trate con cariño ni les tenga compasión!"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 831,
+      "char_end": 932,
+      "text": "¡Haz que sus descendientes pronto desaparezcan! ¡Haz que en el futuro nadie recuerde que existieron!"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 932,
+      "char_end": 1014,
+      "text": "Dios mío, no te olvides nunca de la maldad de su padre ni del pecado de su madre,"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1014,
+      "char_end": 1085,
+      "text": "y que nadie recuerde que existieron. No pierdas de vista a mi enemigo,"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1085,
+      "char_end": 1214,
+      "text": "pues jamás se le ocurrió ser bondadoso con nadie; persiguió a los pobres, a los humildes y necesitados, hasta quitarles la vida."
+    },
+    {
+      "verse": 17,
+      "label": "17-18",
+      "char_start": 1214,
+      "char_end": 1358,
+      "text": "Ya que le encantaba maldecir, ¡que le caiga una maldición! Ya que no le gustaba bendecir, ¡que nadie lo bendiga! ¡Castígalo donde más le duela!"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1358,
+      "char_end": 1433,
+      "text": "¡Que esa maldición lo cubra como un manto! ¡Que lo apriete hasta ahogarlo!"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1433,
+      "char_end": 1498,
+      "text": "Dios mío, ¡trata así al que me acuse, y al que mienta contra mí!"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1498,
+      "char_end": 1580,
+      "text": "Pero a mí, trátame bien; tú eres un Dios bondadoso, ¡sálvame, por tu gran bondad!"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1580,
+      "char_end": 1630,
+      "text": "Yo soy pobre y humilde, y es muy grande mi dolor."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1630,
+      "char_end": 1743,
+      "text": "Poco a poco me voy debilitando como las sombras de la noche; ¡hasta parezco una mariposa sacudida por el viento!"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1743,
+      "char_end": 1806,
+      "text": "Ya casi no como; tan flaco estoy que me tiemblan las rodillas."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1806,
+      "char_end": 1854,
+      "text": "Cuando la gente me ve, se ríe y se burla de mí."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 1854,
+      "char_end": 1902,
+      "text": "Dios mío, ¡ayúdame! Por tu gran amor, ¡sálvame!"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 1902,
+      "char_end": 1961,
+      "text": "Que sepan que esto me sucede porque tú así lo has querido."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 1961,
+      "char_end": 2121,
+      "text": "Pero si tú me bendices, no me importa que me maldigan. Mis enemigos están listos para atacarme, pero tú los pondrás en vergüenza y a mí me llenarás de alegría."
+    },
+    {
+      "verse": 29,
+      "label": "29-30",
+      "char_start": 2121,
+      "char_end": 2231,
+      "text": "Dios mío, cubre a mis acusadores de vergüenza y deshonra. Yo te daré gracias con el gran pueblo que te alaba,"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2231,
+      "char_end": 2320,
+      "text": "porque tú defiendes a los pobres y los salvas de los malvados que los condenan a muerte."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios mío, yo te alabo; ¡no te quedes callado!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3812,
+      "duration_ms": 3712
+    },
+    {
+      "word": "Hay un mentiroso y malvado que miente acerca de mí.",
+      "verse": 2,
+      "start_ms": 3762,
+      "end_ms": 7412,
+      "duration_ms": 3650
+    },
+    {
+      "word": "Tanto odio me tiene que me ataca sin razón; ¡me tiene acorralado!",
+      "verse": 3,
+      "start_ms": 7412,
+      "end_ms": 11762,
+      "duration_ms": 4350
+    },
+    {
+      "word": "Habla mal de mí, a pesar de que lo amo y hago oración por él.",
+      "verse": 4,
+      "start_ms": 11762,
+      "end_ms": 16124,
+      "duration_ms": 4362
+    },
+    {
+      "word": "Me odia, me trata mal, a pesar de que lo amo y lo trato bien.",
+      "verse": 5,
+      "start_ms": 16125,
+      "end_ms": 20925,
+      "duration_ms": 4800
+    },
+    {
+      "word": "Dios mío, ¡págale con la misma moneda!",
+      "verse": 6,
+      "start_ms": 20925,
+      "end_ms": 24162,
+      "duration_ms": 3237
+    },
+    {
+      "word": "Haz que lo acuse su propio abogado!",
+      "verse": 6,
+      "start_ms": 24162,
+      "end_ms": 26774,
+      "duration_ms": 2612
+    },
+    {
+      "word": "Haz que lo declare culpable el juez que le dicte sentencia!",
+      "verse": 7,
+      "start_ms": 26775,
+      "end_ms": 30587,
+      "duration_ms": 3812
+    },
+    {
+      "word": "Haz que lo condenen sus propias mentiras!",
+      "verse": 7,
+      "start_ms": 30587,
+      "end_ms": 33662,
+      "duration_ms": 3075
+    },
+    {
+      "word": "Quítale la vida antes de tiempo, y que otro haga su trabajo!",
+      "verse": 8,
+      "start_ms": 33662,
+      "end_ms": 37824,
+      "duration_ms": 4162
+    },
+    {
+      "word": "Que se queden huérfanos sus hijos!",
+      "verse": 9,
+      "start_ms": 37825,
+      "end_ms": 40387,
+      "duration_ms": 2562
+    },
+    {
+      "word": "Que deje viuda a su esposa!",
+      "verse": 9,
+      "start_ms": 40387,
+      "end_ms": 42774,
+      "duration_ms": 2387
+    },
+    {
+      "word": "Convierte a sus hijos en vagos y limosneros; ¡haz que los echen de esas ruinas donde viven!",
+      "verse": 10,
+      "start_ms": 42775,
+      "end_ms": 48487,
+      "duration_ms": 5712
+    },
+    {
+      "word": "Que les quiten todo lo que tienen los que antes les prestaban dinero!",
+      "verse": 11,
+      "start_ms": 48487,
+      "end_ms": 52487,
+      "duration_ms": 4000
+    },
+    {
+      "word": "Que a esos huérfanos nadie los trate con cariño ni les tenga compasión!",
+      "verse": 12,
+      "start_ms": 52487,
+      "end_ms": 56962,
+      "duration_ms": 4475
+    },
+    {
+      "word": "Haz que sus descendientes pronto desaparezcan!",
+      "verse": 13,
+      "start_ms": 56962,
+      "end_ms": 60287,
+      "duration_ms": 3325
+    },
+    {
+      "word": "Haz que en el futuro nadie recuerde que existieron!",
+      "verse": 13,
+      "start_ms": 60287,
+      "end_ms": 63687,
+      "duration_ms": 3400
+    },
+    {
+      "word": "Dios mío, no te olvides nunca de la maldad de su padre ni del pecado de su madre, y que nadie recuerde que existieron.",
+      "verse": 14,
+      "start_ms": 63687,
+      "end_ms": 71224,
+      "duration_ms": 7537
+    },
+    {
+      "word": "No pierdas de vista a mi enemigo, pues jamás se le ocurrió ser bondadoso con nadie; persiguió a los pobres, a los humildes y necesitados, hasta quitarles la vida.",
+      "verse": 15,
+      "start_ms": 71225,
+      "end_ms": 81287,
+      "duration_ms": 10062
+    },
+    {
+      "word": "Ya que le encantaba maldecir, ¡que le caiga una maldición!",
+      "verse": 17,
+      "start_ms": 81287,
+      "end_ms": 85262,
+      "duration_ms": 3975
+    },
+    {
+      "word": "Ya que no le gustaba bendecir, ¡que nadie lo bendiga!",
+      "verse": 17,
+      "start_ms": 85262,
+      "end_ms": 89149,
+      "duration_ms": 3887
+    },
+    {
+      "word": "Castígalo donde más le duela!",
+      "verse": 17,
+      "start_ms": 89150,
+      "end_ms": 91775,
+      "duration_ms": 2625
+    },
+    {
+      "word": "Que esa maldición lo cubra como un manto!",
+      "verse": 19,
+      "start_ms": 91775,
+      "end_ms": 94750,
+      "duration_ms": 2975
+    },
+    {
+      "word": "Que lo apriete hasta ahogarlo!",
+      "verse": 19,
+      "start_ms": 94750,
+      "end_ms": 97062,
+      "duration_ms": 2312
+    },
+    {
+      "word": "Dios mío, ¡trata así al que me acuse, y al que mienta contra mí!",
+      "verse": 20,
+      "start_ms": 97062,
+      "end_ms": 101649,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Pero a mí, trátame bien; tú eres un Dios bondadoso, ¡sálvame, por tu gran bondad!",
+      "verse": 21,
+      "start_ms": 101650,
+      "end_ms": 107625,
+      "duration_ms": 5975
+    },
+    {
+      "word": "Yo soy pobre y humilde, y es muy grande mi dolor.",
+      "verse": 22,
+      "start_ms": 107625,
+      "end_ms": 111662,
+      "duration_ms": 4037
+    },
+    {
+      "word": "Poco a poco me voy debilitando como las sombras de la noche; ¡hasta parezco una mariposa sacudida por el viento!",
+      "verse": 23,
+      "start_ms": 111662,
+      "end_ms": 118312,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Ya casi no como; tan flaco estoy que me tiemblan las rodillas.",
+      "verse": 24,
+      "start_ms": 118312,
+      "end_ms": 122699,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Cuando la gente me ve, se ríe y se burla de mí.",
+      "verse": 25,
+      "start_ms": 122700,
+      "end_ms": 126450,
+      "duration_ms": 3750
+    },
+    {
+      "word": "Dios mío, ¡ayúdame!",
+      "verse": 26,
+      "start_ms": 126450,
+      "end_ms": 128762,
+      "duration_ms": 2312
+    },
+    {
+      "word": "Por tu gran amor, ¡sálvame!",
+      "verse": 26,
+      "start_ms": 128762,
+      "end_ms": 131387,
+      "duration_ms": 2625
+    },
+    {
+      "word": "Que sepan que esto me sucede porque tú así lo has querido.",
+      "verse": 27,
+      "start_ms": 131387,
+      "end_ms": 135224,
+      "duration_ms": 3837
+    },
+    {
+      "word": "Pero si tú me bendices, no me importa que me maldigan.",
+      "verse": 28,
+      "start_ms": 135225,
+      "end_ms": 139125,
+      "duration_ms": 3900
+    },
+    {
+      "word": "Mis enemigos están listos para atacarme, pero tú los pondrás en vergüenza y a mí me llenarás de alegría.",
+      "verse": 28,
+      "start_ms": 139125,
+      "end_ms": 145462,
+      "duration_ms": 6337
+    },
+    {
+      "word": "Dios mío, cubre a mis acusadores de vergüenza y deshonra.",
+      "verse": 29,
+      "start_ms": 145462,
+      "end_ms": 149849,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Yo te daré gracias con el gran pueblo que te alaba, porque tú defiendes a los pobres y los salvas de los malvados que los condenan a muerte.",
+      "verse": 29,
+      "start_ms": 149850,
+      "end_ms": 157450,
+      "duration_ms": 7600
+    }
+  ]
+}

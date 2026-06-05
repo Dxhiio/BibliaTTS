@@ -1,0 +1,320 @@
+{
+  "book": "EZE",
+  "chapter": 5,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 12,
+  "word_count": 32,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 177,
+      "text": "Luego Dios me dijo: Ezequiel, hombre mortal, toma una navaja afilada y córtate el pelo de la cabeza y de la barba. Toma luego una balanza y pesa el pelo en tres partes iguales."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 177,
+      "char_end": 520,
+      "text": "Cuando Jerusalén haya sido conquistada, irás al centro de la ciudad y quemarás allí una tercera parte del pelo. Otra tercera parte la cortarás con una espada y la esparcirás alrededor de la ciudad. La tercera parte restante la arrojarás al viento, para que el pelo se esparza por todos lados. Por mi parte, yo los perseguiré para destruirlos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 520,
+      "char_end": 571,
+      "text": "Un poco de ese pelo lo atarás al borde de tu capa,"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 571,
+      "char_end": 673,
+      "text": "y otro poco lo quemarás en el fuego. Ésta será la señal de que todo el pueblo de Israel será quemado."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 673,
+      "char_end": 831,
+      "text": "Puedes estar seguro de que cumpliré mi palabra. Yo hice que Jerusalén fuera el centro de todas las naciones; yo la hice el lugar más importante de la tierra."
+    },
+    {
+      "verse": 6,
+      "label": "6-9",
+      "char_start": 831,
+      "char_end": 1254,
+      "text": "Pero Jerusalén fue más rebelde que las naciones y los pueblos vecinos; no se comportó como las otras naciones, sino que fue peor que ellas, pues desobedeció mis leyes y mis mandamientos. Puesto que Jerusalén se ha portado así, yo declaro que me pondré en contra suya. Yo soy el Dios de Israel. La castigaré por su horrible maldad; la castigaré delante de todas las naciones, como nunca antes lo hice ni lo volveré a hacer."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1254,
+      "char_end": 1466,
+      "text": "Cuando yo declare culpables a sus habitantes, tendrán tanta hambre que los padres se comerán a sus hijos, y los hijos se comerán a sus padres. A los que logren escapar con vida, los dispersaré por todo el mundo."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1466,
+      "char_end": 1675,
+      "text": "Juro que acabaré con todos los habitantes de Jerusalén. No les tendré compasión. Yo soy el Dios de Israel. Puesto que no respetaron mi templo, sino que adoraron a sus ídolos odiosos y siguieron con su maldad,"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1675,
+      "char_end": 1965,
+      "text": "la tercera parte de ellos morirá de hambre y de enfermedad. ¡Caerán muertos en las calles de la ciudad! En los alrededores, otra tercera parte morirá atravesada por la espada. Y a la tercera parte restante la dispersaré por todo el mundo, aunque no dejaré de perseguirlos para destruirlos."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1965,
+      "char_end": 2113,
+      "text": "Yo los castigaré con furia, y cuando mi enojo se haya calmado, reconocerán que yo, el Dios de Israel, soy un Dios muy celoso que cumple su palabra."
+    },
+    {
+      "verse": 14,
+      "label": "14-15",
+      "char_start": 2113,
+      "char_end": 2426,
+      "text": "Cuando haya descargado mi furia contra Jerusalén, la dejaré completamente destruida. Al verla, todos los pueblos vecinos se burlarán de ella. Y aunque la insultarán y la ofenderán, también se espantarán al ver el castigo tan duro que le mandé, y aprenderán la lección. Yo, el Dios de Israel, cumpliré mi palabra."
+    },
+    {
+      "verse": 16,
+      "label": "16-17",
+      "char_start": 2426,
+      "char_end": 2648,
+      "text": "No les enviaré comida, así que morirán de hambre. Mandaré animales salvajes, para que devoren a sus hijos. La guerra y las enfermedades acabarán con los habitantes de Jerusalén. Yo, el Dios de Israel, cumpliré mi palabra."
+    }
+  ],
+  "words": [
+    {
+      "word": "Luego Dios me dijo: Ezequiel, hombre mortal, toma una navaja afilada y córtate el pelo de la cabeza y de la barba.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7775,
+      "duration_ms": 7675
+    },
+    {
+      "word": "Toma luego una balanza y pesa el pelo en tres partes iguales.",
+      "verse": 1,
+      "start_ms": 7725,
+      "end_ms": 12112,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Cuando Jerusalén haya sido conquistada, irás al centro de la ciudad y quemarás allí una tercera parte del pelo.",
+      "verse": 2,
+      "start_ms": 12112,
+      "end_ms": 18962,
+      "duration_ms": 6850
+    },
+    {
+      "word": "Otra tercera parte la cortarás con una espada y la esparcirás alrededor de la ciudad.",
+      "verse": 2,
+      "start_ms": 18962,
+      "end_ms": 24224,
+      "duration_ms": 5262
+    },
+    {
+      "word": "La tercera parte restante la arrojarás al viento, para que el pelo se esparza por todos lados.",
+      "verse": 2,
+      "start_ms": 24225,
+      "end_ms": 30362,
+      "duration_ms": 6137
+    },
+    {
+      "word": "Por mi parte, yo los perseguiré para destruirlos.",
+      "verse": 2,
+      "start_ms": 30362,
+      "end_ms": 34199,
+      "duration_ms": 3837
+    },
+    {
+      "word": "Un poco de ese pelo lo atarás al borde de tu capa, y otro poco lo quemarás en el fuego.",
+      "verse": 3,
+      "start_ms": 34200,
+      "end_ms": 39775,
+      "duration_ms": 5575
+    },
+    {
+      "word": "Ésta será la señal de que todo el pueblo de Israel será quemado.",
+      "verse": 4,
+      "start_ms": 39775,
+      "end_ms": 44062,
+      "duration_ms": 4287
+    },
+    {
+      "word": "Puedes estar seguro de que cumpliré mi palabra.",
+      "verse": 5,
+      "start_ms": 44062,
+      "end_ms": 47287,
+      "duration_ms": 3225
+    },
+    {
+      "word": "Yo hice que Jerusalén fuera el centro de todas las naciones; yo la hice el lugar más importante de la tierra.",
+      "verse": 5,
+      "start_ms": 47287,
+      "end_ms": 54124,
+      "duration_ms": 6837
+    },
+    {
+      "word": "Pero Jerusalén fue más rebelde que las naciones y los pueblos vecinos; no se comportó como las otras naciones, sino que fue peor que ellas, pues desobedeció mis leyes y mis mandamientos.",
+      "verse": 6,
+      "start_ms": 54125,
+      "end_ms": 65312,
+      "duration_ms": 11187
+    },
+    {
+      "word": "Puesto que Jerusalén se ha portado así, yo declaro que me pondré en contra suya.",
+      "verse": 6,
+      "start_ms": 65312,
+      "end_ms": 70624,
+      "duration_ms": 5312
+    },
+    {
+      "word": "Yo soy el Dios de Israel.",
+      "verse": 6,
+      "start_ms": 70625,
+      "end_ms": 73125,
+      "duration_ms": 2500
+    },
+    {
+      "word": "La castigaré por su horrible maldad; la castigaré delante de todas las naciones, como nunca antes lo hice ni lo volveré a hacer.",
+      "verse": 6,
+      "start_ms": 73125,
+      "end_ms": 81187,
+      "duration_ms": 8062
+    },
+    {
+      "word": "Cuando yo declare culpables a sus habitantes, tendrán tanta hambre que los padres se comerán a sus hijos, y los hijos se comerán a sus padres.",
+      "verse": 10,
+      "start_ms": 81187,
+      "end_ms": 89599,
+      "duration_ms": 8412
+    },
+    {
+      "word": "A los que logren escapar con vida, los dispersaré por todo el mundo.",
+      "verse": 10,
+      "start_ms": 89600,
+      "end_ms": 94262,
+      "duration_ms": 4662
+    },
+    {
+      "word": "Juro que acabaré con todos los habitantes de Jerusalén.",
+      "verse": 11,
+      "start_ms": 94262,
+      "end_ms": 98074,
+      "duration_ms": 3812
+    },
+    {
+      "word": "No les tendré compasión.",
+      "verse": 11,
+      "start_ms": 98075,
+      "end_ms": 100400,
+      "duration_ms": 2325
+    },
+    {
+      "word": "Yo soy el Dios de Israel.",
+      "verse": 11,
+      "start_ms": 100400,
+      "end_ms": 102900,
+      "duration_ms": 2500
+    },
+    {
+      "word": "Puesto que no respetaron mi templo, sino que adoraron a sus ídolos odiosos y siguieron con su maldad, la tercera parte de ellos morirá de hambre y de enfermedad.",
+      "verse": 11,
+      "start_ms": 102900,
+      "end_ms": 112100,
+      "duration_ms": 9200
+    },
+    {
+      "word": "Caerán muertos en las calles de la ciudad!",
+      "verse": 12,
+      "start_ms": 112100,
+      "end_ms": 115100,
+      "duration_ms": 3000
+    },
+    {
+      "word": "En los alrededores, otra tercera parte morirá atravesada por la espada.",
+      "verse": 12,
+      "start_ms": 115100,
+      "end_ms": 120187,
+      "duration_ms": 5087
+    },
+    {
+      "word": "Y a la tercera parte restante la dispersaré por todo el mundo, aunque no dejaré de perseguirlos para destruirlos.",
+      "verse": 12,
+      "start_ms": 120187,
+      "end_ms": 127149,
+      "duration_ms": 6962
+    },
+    {
+      "word": "Yo los castigaré con furia, y cuando mi enojo se haya calmado, reconocerán que yo, el Dios de Israel, soy un Dios muy celoso que cumple su palabra.",
+      "verse": 13,
+      "start_ms": 127150,
+      "end_ms": 136700,
+      "duration_ms": 9550
+    },
+    {
+      "word": "Cuando haya descargado mi furia contra Jerusalén, la dejaré completamente destruida.",
+      "verse": 14,
+      "start_ms": 136700,
+      "end_ms": 142325,
+      "duration_ms": 5625
+    },
+    {
+      "word": "Al verla, todos los pueblos vecinos se burlarán de ella.",
+      "verse": 14,
+      "start_ms": 142325,
+      "end_ms": 146450,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Y aunque la insultarán y la ofenderán, también se espantarán al ver el castigo tan duro que le mandé, y aprenderán la lección.",
+      "verse": 14,
+      "start_ms": 146450,
+      "end_ms": 153825,
+      "duration_ms": 7375
+    },
+    {
+      "word": "Yo, el Dios de Israel, cumpliré mi palabra.",
+      "verse": 14,
+      "start_ms": 153825,
+      "end_ms": 157775,
+      "duration_ms": 3950
+    },
+    {
+      "word": "No les enviaré comida, así que morirán de hambre.",
+      "verse": 16,
+      "start_ms": 157775,
+      "end_ms": 161425,
+      "duration_ms": 3650
+    },
+    {
+      "word": "Mandaré animales salvajes, para que devoren a sus hijos.",
+      "verse": 16,
+      "start_ms": 161425,
+      "end_ms": 165762,
+      "duration_ms": 4337
+    },
+    {
+      "word": "La guerra y las enfermedades acabarán con los habitantes de Jerusalén.",
+      "verse": 16,
+      "start_ms": 165762,
+      "end_ms": 170224,
+      "duration_ms": 4462
+    },
+    {
+      "word": "Yo, el Dios de Israel, cumpliré mi palabra.",
+      "verse": 16,
+      "start_ms": 170225,
+      "end_ms": 174175,
+      "duration_ms": 3950
+    }
+  ]
+}

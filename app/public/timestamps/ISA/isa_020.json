@@ -1,0 +1,124 @@
+{
+  "book": "ISA",
+  "chapter": 20,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 5,
+  "word_count": 11,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 154,
+      "text": "En cierta ocasión, el rey Sargón de Asiria envió a la ciudad de Asdod a uno de sus generales con su ejército. Ellos atacaron la ciudad y la conquistaron."
+    },
+    {
+      "verse": 2,
+      "label": "2-3",
+      "char_start": 154,
+      "char_end": 510,
+      "text": "Entonces Dios le pidió al profeta Isaías que se quitara las sandalias y la ropa de luto que llevaba puesta. Isaías obedeció, y anduvo descalzo y medio desnudo durante tres años. Después, Dios envió a través de Isaías este mensaje: Durante tres años mi profeta ha andado descalzo y medio desnudo. Eso es una señal de lo que les pasará a Egipto y a Etiopía."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 510,
+      "char_end": 686,
+      "text": "El rey de Asiria se llevará prisioneros a los egipcios y a los etíopes, desde el más joven hasta el más viejo; se los llevará descalzos y desnudos, para que sientan vergüenza."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 686,
+      "char_end": 849,
+      "text": "Los demás países habían puesto su confianza en Etiopía y se sentían orgullosos de Egipto, pero ese día sentirán vergüenza de haberlo hecho, y tendrán mucho miedo."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 849,
+      "char_end": 1043,
+      "text": "Ese día los habitantes de la costa dirán: «Miren cómo han terminado Egipto y Etiopía. Teníamos la esperanza de que nos ayudarían a librarnos del rey de Asiria. ¿Ahora quién podrá defendernos?»."
+    }
+  ],
+  "words": [
+    {
+      "word": "En cierta ocasión, el rey Sargón de Asiria envió a la ciudad de Asdod a uno de sus generales con su ejército.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6612,
+      "duration_ms": 6512
+    },
+    {
+      "word": "Ellos atacaron la ciudad y la conquistaron.",
+      "verse": 1,
+      "start_ms": 6562,
+      "end_ms": 9774,
+      "duration_ms": 3212
+    },
+    {
+      "word": "Entonces Dios le pidió al profeta Isaías que se quitara las sandalias y la ropa de luto que llevaba puesta.",
+      "verse": 2,
+      "start_ms": 9775,
+      "end_ms": 16075,
+      "duration_ms": 6300
+    },
+    {
+      "word": "Isaías obedeció, y anduvo descalzo y medio desnudo durante tres años.",
+      "verse": 2,
+      "start_ms": 16075,
+      "end_ms": 21600,
+      "duration_ms": 5525
+    },
+    {
+      "word": "Después, Dios envió a través de Isaías este mensaje: Durante tres años mi profeta ha andado descalzo y medio desnudo.",
+      "verse": 2,
+      "start_ms": 21600,
+      "end_ms": 29537,
+      "duration_ms": 7937
+    },
+    {
+      "word": "Eso es una señal de lo que les pasará a Egipto y a Etiopía.",
+      "verse": 2,
+      "start_ms": 29537,
+      "end_ms": 33537,
+      "duration_ms": 4000
+    },
+    {
+      "word": "El rey de Asiria se llevará prisioneros a los egipcios y a los etíopes, desde el más joven hasta el más viejo; se los llevará descalzos y desnudos, para que sientan vergüenza.",
+      "verse": 4,
+      "start_ms": 33537,
+      "end_ms": 43949,
+      "duration_ms": 10412
+    },
+    {
+      "word": "Los demás países habían puesto su confianza en Etiopía y se sentían orgullosos de Egipto, pero ese día sentirán vergüenza de haberlo hecho, y tendrán mucho miedo.",
+      "verse": 5,
+      "start_ms": 43950,
+      "end_ms": 53437,
+      "duration_ms": 9487
+    },
+    {
+      "word": "Ese día los habitantes de la costa dirán: «Miren cómo han terminado Egipto y Etiopía.",
+      "verse": 6,
+      "start_ms": 53437,
+      "end_ms": 59099,
+      "duration_ms": 5662
+    },
+    {
+      "word": "Teníamos la esperanza de que nos ayudarían a librarnos del rey de Asiria.",
+      "verse": 6,
+      "start_ms": 59100,
+      "end_ms": 63625,
+      "duration_ms": 4525
+    },
+    {
+      "word": "Ahora quién podrá defendernos?",
+      "verse": 6,
+      "start_ms": 63625,
+      "end_ms": 66350,
+      "duration_ms": 2725
+    }
+  ]
+}

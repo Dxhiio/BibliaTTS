@@ -1,0 +1,810 @@
+{
+  "book": "1SA",
+  "chapter": 20,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 38,
+  "word_count": 76,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 150,
+      "text": "De Naiot, David se fue a donde estaba Jonatán, y le preguntó: —¿De qué maldad se me acusa? ¿En qué le he fallado a tu padre, para que quiera matarme?"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 150,
+      "char_end": 326,
+      "text": "—¡Nadie va a matarte! —contestó Jonatán. ¡Eso jamás pasará! Mi padre siempre me cuenta todo lo que piensa hacer, tenga o no importancia. ¿Tú crees que no me contaría algo así?"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 326,
+      "char_end": 553,
+      "text": "Pero David insistió: —¡Te juro por Dios y por ti mismo que puedo morir en cualquier momento! Tu padre sabe bien que tú y yo somos buenos amigos. Y seguramente habrá pensado: «Si se lo digo a Jonatán, haré que se ponga triste»."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 553,
+      "char_end": 612,
+      "text": "—Dime entonces qué quieres que haga —le respondió Jonatán."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 612,
+      "char_end": 800,
+      "text": "Y David le dijo: —Mañana se celebra la fiesta de la luna nueva. Se supone que yo debo comer con tu padre, pues es el rey. Te ruego que me dejes esconderme en el campo hasta pasado mañana."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 800,
+      "char_end": 928,
+      "text": "Si tu padre pregunta por mí, dile que tú me diste permiso de ir a Belén, que es mi pueblo, a celebrar la fiesta con mi familia."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 928,
+      "char_end": 1029,
+      "text": "Si no se enoja, podré estar tranquilo. Pero si se enoja, ¡puedes estar seguro de que quiere matarme!"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1029,
+      "char_end": 1203,
+      "text": "Tú y yo hemos hecho un pacto de amistad delante de Dios, por eso te ruego que me hagas un favor: Si hice algo malo, mátame tú mismo. Prefiero que lo hagas tú, y no tu padre."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1203,
+      "char_end": 1341,
+      "text": "Pero Jonatán le dijo: —¡Jamás haría yo tal cosa! Por el contrario, si llego a saber que mi padre quiere matarte, te lo diré de inmediato."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1341,
+      "char_end": 1410,
+      "text": "David le preguntó: —¿Cómo sabré entonces si tu padre quiere matarme?"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1410,
+      "char_end": 1466,
+      "text": "Y Jonatán le dijo: —Ven conmigo al campo. Una vez allí,"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1466,
+      "char_end": 1665,
+      "text": "Jonatán le dijo a David: —Te juro por el Dios de Israel, que pasado mañana, a esta misma hora, aquí mismo le preguntaré a mi padre qué piensa hacer contigo. Si todo está bien, te lo mandaré a decir."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1665,
+      "char_end": 1804,
+      "text": "Pero si quiere matarte y no te lo digo, ¡que Dios me castigue duramente si no te ayudo a escapar! Que Dios te cuide como cuidó a mi padre."
+    },
+    {
+      "verse": 14,
+      "label": "14-15",
+      "char_start": 1804,
+      "char_end": 2014,
+      "text": "Yo sé que Dios no dejará vivo a ninguno de tus enemigos. Pero tú, ¡júrame que serás bueno conmigo, así como Dios ha sido bueno con nosotros! ¡Júrame que no dejarás que me maten, ni que maten a toda mi familia!"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2014,
+      "char_end": 2116,
+      "text": "¡Que Dios castigue a todos tus enemigos! De este modo Jonatán renovó su pacto con David y su familia."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2116,
+      "char_end": 2192,
+      "text": "Además, como amaba tanto a David, volvió a hacerle un juramento de amistad."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2192,
+      "char_end": 2302,
+      "text": "Le dijo: —Mañana se celebra la fiesta de la luna nueva. Como no vas a estar presente, van a preguntar por ti."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2302,
+      "char_end": 2431,
+      "text": "Así que vete al lugar donde te escondiste cuando empezaron estos problemas, y espérame pasado mañana cerca de la piedra de Ézel."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2431,
+      "char_end": 2519,
+      "text": "Yo voy a disparar algunas flechas hacia ese lugar, como si estuviera tirando al blanco,"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2519,
+      "char_end": 2725,
+      "text": "y mandaré a un muchacho para que las levante. Si me oyes decirle: «¡Tráeme las flechas; están aquí cerca!», te juro por Dios que puedes volver tranquilo, pues eso quiere decir que no corres ningún peligro."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2725,
+      "char_end": 2834,
+      "text": "Pero si me oyes gritarle: «¡Más allá! ¡Las flechas están más allá!», huye, porque eso es lo que Dios quiere."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2834,
+      "char_end": 2885,
+      "text": "Dios es testigo de que hemos hecho estas promesas."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2885,
+      "char_end": 2996,
+      "text": "Entonces David fue a esconderse en el campo. Cuando empezó la fiesta de la luna nueva, el rey se sentó a comer"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2996,
+      "char_end": 3132,
+      "text": "junto a la pared, como siempre lo hacía. Jonatán se sentó enfrente del rey, y Abner se sentó a su lado. El lugar de David estaba vacío."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3132,
+      "char_end": 3248,
+      "text": "Saúl no dijo nada ese día porque pensó: Tal vez David no vino por no haber cumplido con los ritos para purificarse."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3248,
+      "char_end": 3423,
+      "text": "Al día siguiente, que era el segundo día del mes, el lugar de David seguía vacío. Entonces Saúl le preguntó a su hijo Jonatán: —¿Por qué David no vino a comer ni ayer ni hoy?"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3423,
+      "char_end": 3498,
+      "text": "Y Jonatán le respondió: —David me rogó que le diera permiso de ir a Belén,"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3498,
+      "char_end": 3656,
+      "text": "porque su hermano lo mandó a llamar. David va a presentar la ofrenda anual en Belén, junto con su familia. Yo le di permiso. Por eso no vino a comer contigo."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3656,
+      "char_end": 3803,
+      "text": "Saúl se enfureció contra Jonatán y le gritó: —¡Hijo de mala madre! Ya sabía que estabas del lado de David. ¡Qué vergüenza para ti y para tu madre!"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3803,
+      "char_end": 3917,
+      "text": "Mientras David viva, no podrás llegar a ser rey. Así que manda que me lo traigan, porque está condenado a muerte."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3917,
+      "char_end": 3988,
+      "text": "Pero Jonatán le respondió: —¿Y por qué ha de morir? ¿Qué mal ha hecho?"
+    },
+    {
+      "verse": 33,
+      "label": "33-34",
+      "char_start": 3988,
+      "char_end": 4310,
+      "text": "En vez de responderle, Saúl le arrojó su lanza, con la intención de matarlo. Jonatán, por su parte, se levantó de la mesa y ya no participó en la comida del segundo día de la fiesta. Estaba furioso y triste de que su padre hubiera ofendido a David. Fue así como Jonatán se dio cuenta de que su padre quería matar a David."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4310,
+      "char_end": 4429,
+      "text": "Al día siguiente, Jonatán salió al campo en compañía de un muchacho, y se dirigió al lugar que le había dicho a David."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4429,
+      "char_end": 4650,
+      "text": "Al llegar a ese lugar, le ordenó al muchacho: Ve a recoger las flechas que voy a disparar. Mientras el muchacho corría a buscar una de las flechas, Jonatán disparó otra, la cual cayó más allá de donde estaba el muchacho."
+    },
+    {
+      "verse": 37,
+      "label": "37-39",
+      "char_start": 4650,
+      "char_end": 4845,
+      "text": "Jonatán le gritó: ¡Corre, no te detengas, que más allá hay otra flecha! Sin sospechar nada, el muchacho fue y recogió las flechas de Jonatán, pues sólo David y él sabían lo que eso quería decir."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4845,
+      "char_end": 4923,
+      "text": "Luego Jonatán le dio sus armas al muchacho y le ordenó: Llévatelas a la casa."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4923,
+      "char_end": 5124,
+      "text": "Cuando el muchacho se fue, David salió de su escondite y, de cara al suelo en señal de respeto, se inclinó tres veces delante de Jonatán. Luego se abrazaron y lloraron mucho, aunque David lloraba más."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 5124,
+      "char_end": 5355,
+      "text": "Entonces Jonatán le dijo a David: Vete en paz. Tú y yo hemos jurado por Dios que siempre seremos buenos amigos. Que Dios nos ayude, y que ayude a nuestras familias a cumplir este juramento. Dicho esto, Jonatán regresó a la ciudad."
+    }
+  ],
+  "words": [
+    {
+      "word": "De Naiot, David se fue a donde estaba Jonatán, y le preguntó: —¿De qué maldad se me acusa?",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6387,
+      "duration_ms": 6287
+    },
+    {
+      "word": "En qué le he fallado a tu padre, para que quiera matarme?",
+      "verse": 1,
+      "start_ms": 6337,
+      "end_ms": 10274,
+      "duration_ms": 3937
+    },
+    {
+      "word": "Nadie va a matarte!",
+      "verse": 2,
+      "start_ms": 10275,
+      "end_ms": 12312,
+      "duration_ms": 2037
+    },
+    {
+      "word": "contestó Jonatán.",
+      "verse": 2,
+      "start_ms": 12312,
+      "end_ms": 14449,
+      "duration_ms": 2137
+    },
+    {
+      "word": "Eso jamás pasará!",
+      "verse": 2,
+      "start_ms": 14450,
+      "end_ms": 16475,
+      "duration_ms": 2025
+    },
+    {
+      "word": "Mi padre siempre me cuenta todo lo que piensa hacer, tenga o no importancia.",
+      "verse": 2,
+      "start_ms": 16475,
+      "end_ms": 21525,
+      "duration_ms": 5050
+    },
+    {
+      "word": "Tú crees que no me contaría algo así?",
+      "verse": 2,
+      "start_ms": 21525,
+      "end_ms": 24300,
+      "duration_ms": 2775
+    },
+    {
+      "word": "Pero David insistió: —¡Te juro por Dios y por ti mismo que puedo morir en cualquier momento!",
+      "verse": 3,
+      "start_ms": 24300,
+      "end_ms": 30075,
+      "duration_ms": 5775
+    },
+    {
+      "word": "Tu padre sabe bien que tú y yo somos buenos amigos.",
+      "verse": 3,
+      "start_ms": 30075,
+      "end_ms": 33962,
+      "duration_ms": 3887
+    },
+    {
+      "word": "Y seguramente habrá pensado: «Si se lo digo a Jonatán, haré que se ponga triste».",
+      "verse": 3,
+      "start_ms": 33962,
+      "end_ms": 39474,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Dime entonces qué quieres que haga —le respondió Jonatán.",
+      "verse": 4,
+      "start_ms": 39475,
+      "end_ms": 43462,
+      "duration_ms": 3987
+    },
+    {
+      "word": "Y David le dijo: —Mañana se celebra la fiesta de la luna nueva.",
+      "verse": 5,
+      "start_ms": 43462,
+      "end_ms": 48062,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Se supone que yo debo comer con tu padre, pues es el rey.",
+      "verse": 5,
+      "start_ms": 48062,
+      "end_ms": 52124,
+      "duration_ms": 4062
+    },
+    {
+      "word": "Te ruego que me dejes esconderme en el campo hasta pasado mañana.",
+      "verse": 5,
+      "start_ms": 52125,
+      "end_ms": 56425,
+      "duration_ms": 4300
+    },
+    {
+      "word": "Si tu padre pregunta por mí, dile que tú me diste permiso de ir a Belén, que es mi pueblo, a celebrar la fiesta con mi familia.",
+      "verse": 6,
+      "start_ms": 56425,
+      "end_ms": 64487,
+      "duration_ms": 8062
+    },
+    {
+      "word": "Si no se enoja, podré estar tranquilo.",
+      "verse": 7,
+      "start_ms": 64487,
+      "end_ms": 67987,
+      "duration_ms": 3500
+    },
+    {
+      "word": "Pero si se enoja, ¡puedes estar seguro de que quiere matarme!",
+      "verse": 7,
+      "start_ms": 67987,
+      "end_ms": 72174,
+      "duration_ms": 4187
+    },
+    {
+      "word": "Tú y yo hemos hecho un pacto de amistad delante de Dios, por eso te ruego que me hagas un favor: Si hice algo malo, mátame tú mismo.",
+      "verse": 8,
+      "start_ms": 72175,
+      "end_ms": 80550,
+      "duration_ms": 8375
+    },
+    {
+      "word": "Prefiero que lo hagas tú, y no tu padre.",
+      "verse": 8,
+      "start_ms": 80550,
+      "end_ms": 83800,
+      "duration_ms": 3250
+    },
+    {
+      "word": "Pero Jonatán le dijo: —¡Jamás haría yo tal cosa!",
+      "verse": 9,
+      "start_ms": 83800,
+      "end_ms": 87637,
+      "duration_ms": 3837
+    },
+    {
+      "word": "Por el contrario, si llego a saber que mi padre quiere matarte, te lo diré de inmediato.",
+      "verse": 9,
+      "start_ms": 87637,
+      "end_ms": 93424,
+      "duration_ms": 5787
+    },
+    {
+      "word": "David le preguntó: —¿Cómo sabré entonces si tu padre quiere matarme?",
+      "verse": 10,
+      "start_ms": 93425,
+      "end_ms": 98187,
+      "duration_ms": 4762
+    },
+    {
+      "word": "Y Jonatán le dijo: —Ven conmigo al campo.",
+      "verse": 11,
+      "start_ms": 98187,
+      "end_ms": 101787,
+      "duration_ms": 3600
+    },
+    {
+      "word": "Una vez allí, Jonatán le dijo a David: —Te juro por el Dios de Israel, que pasado mañana, a esta misma hora, aquí mismo le preguntaré a mi padre qué piensa hacer contigo.",
+      "verse": 11,
+      "start_ms": 101787,
+      "end_ms": 112949,
+      "duration_ms": 11162
+    },
+    {
+      "word": "Si todo está bien, te lo mandaré a decir.",
+      "verse": 12,
+      "start_ms": 112950,
+      "end_ms": 116337,
+      "duration_ms": 3387
+    },
+    {
+      "word": "Pero si quiere matarte y no te lo digo, ¡que Dios me castigue duramente si no te ayudo a escapar!",
+      "verse": 13,
+      "start_ms": 116337,
+      "end_ms": 122062,
+      "duration_ms": 5725
+    },
+    {
+      "word": "Que Dios te cuide como cuidó a mi padre.",
+      "verse": 13,
+      "start_ms": 122062,
+      "end_ms": 125049,
+      "duration_ms": 2987
+    },
+    {
+      "word": "Yo sé que Dios no dejará vivo a ninguno de tus enemigos.",
+      "verse": 14,
+      "start_ms": 125050,
+      "end_ms": 129187,
+      "duration_ms": 4137
+    },
+    {
+      "word": "Pero tú, ¡júrame que serás bueno conmigo, así como Dios ha sido bueno con nosotros!",
+      "verse": 14,
+      "start_ms": 129187,
+      "end_ms": 134899,
+      "duration_ms": 5712
+    },
+    {
+      "word": "Júrame que no dejarás que me maten, ni que maten a toda mi familia!",
+      "verse": 14,
+      "start_ms": 134900,
+      "end_ms": 139437,
+      "duration_ms": 4537
+    },
+    {
+      "word": "Que Dios castigue a todos tus enemigos!",
+      "verse": 16,
+      "start_ms": 139437,
+      "end_ms": 142562,
+      "duration_ms": 3125
+    },
+    {
+      "word": "De este modo Jonatán renovó su pacto con David y su familia.",
+      "verse": 16,
+      "start_ms": 142562,
+      "end_ms": 146824,
+      "duration_ms": 4262
+    },
+    {
+      "word": "Además, como amaba tanto a David, volvió a hacerle un juramento de amistad.",
+      "verse": 17,
+      "start_ms": 146825,
+      "end_ms": 152275,
+      "duration_ms": 5450
+    },
+    {
+      "word": "Le dijo: —Mañana se celebra la fiesta de la luna nueva.",
+      "verse": 18,
+      "start_ms": 152275,
+      "end_ms": 156450,
+      "duration_ms": 4175
+    },
+    {
+      "word": "Como no vas a estar presente, van a preguntar por ti.",
+      "verse": 18,
+      "start_ms": 156450,
+      "end_ms": 160250,
+      "duration_ms": 3800
+    },
+    {
+      "word": "Así que vete al lugar donde te escondiste cuando empezaron estos problemas, y espérame pasado mañana cerca de la piedra de Ézel.",
+      "verse": 19,
+      "start_ms": 160250,
+      "end_ms": 168012,
+      "duration_ms": 7762
+    },
+    {
+      "word": "Yo voy a disparar algunas flechas hacia ese lugar, como si estuviera tirando al blanco, y mandaré a un muchacho para que las levante.",
+      "verse": 20,
+      "start_ms": 168012,
+      "end_ms": 175937,
+      "duration_ms": 7925
+    },
+    {
+      "word": "Si me oyes decirle: «¡Tráeme las flechas; están aquí cerca!», te juro por Dios que puedes volver tranquilo, pues eso quiere decir que no corres ningún peligro.",
+      "verse": 21,
+      "start_ms": 175937,
+      "end_ms": 185899,
+      "duration_ms": 9962
+    },
+    {
+      "word": "Pero si me oyes gritarle: «¡Más allá!",
+      "verse": 22,
+      "start_ms": 185900,
+      "end_ms": 188875,
+      "duration_ms": 2975
+    },
+    {
+      "word": "Las flechas están más allá!», huye, porque eso es lo que Dios quiere.",
+      "verse": 22,
+      "start_ms": 188875,
+      "end_ms": 193587,
+      "duration_ms": 4712
+    },
+    {
+      "word": "Dios es testigo de que hemos hecho estas promesas.",
+      "verse": 23,
+      "start_ms": 193587,
+      "end_ms": 197249,
+      "duration_ms": 3662
+    },
+    {
+      "word": "Entonces David fue a esconderse en el campo.",
+      "verse": 24,
+      "start_ms": 197250,
+      "end_ms": 200537,
+      "duration_ms": 3287
+    },
+    {
+      "word": "Cuando empezó la fiesta de la luna nueva, el rey se sentó a comer junto a la pared, como siempre lo hacía.",
+      "verse": 24,
+      "start_ms": 200537,
+      "end_ms": 207037,
+      "duration_ms": 6500
+    },
+    {
+      "word": "Jonatán se sentó enfrente del rey, y Abner se sentó a su lado.",
+      "verse": 25,
+      "start_ms": 207037,
+      "end_ms": 211549,
+      "duration_ms": 4512
+    },
+    {
+      "word": "El lugar de David estaba vacío.",
+      "verse": 25,
+      "start_ms": 211550,
+      "end_ms": 214287,
+      "duration_ms": 2737
+    },
+    {
+      "word": "Saúl no dijo nada ese día porque pensó: Tal vez David no vino por no haber cumplido con los ritos para purificarse.",
+      "verse": 26,
+      "start_ms": 214287,
+      "end_ms": 221537,
+      "duration_ms": 7250
+    },
+    {
+      "word": "Al día siguiente, que era el segundo día del mes, el lugar de David seguía vacío.",
+      "verse": 27,
+      "start_ms": 221537,
+      "end_ms": 227324,
+      "duration_ms": 5787
+    },
+    {
+      "word": "Entonces Saúl le preguntó a su hijo Jonatán: —¿Por qué David no vino a comer ni ayer ni hoy?",
+      "verse": 27,
+      "start_ms": 227325,
+      "end_ms": 233237,
+      "duration_ms": 5912
+    },
+    {
+      "word": "Y Jonatán le respondió: —David me rogó que le diera permiso de ir a Belén, porque su hermano lo mandó a llamar.",
+      "verse": 28,
+      "start_ms": 233237,
+      "end_ms": 240237,
+      "duration_ms": 7000
+    },
+    {
+      "word": "David va a presentar la ofrenda anual en Belén, junto con su familia.",
+      "verse": 29,
+      "start_ms": 240237,
+      "end_ms": 244874,
+      "duration_ms": 4637
+    },
+    {
+      "word": "Yo le di permiso.",
+      "verse": 29,
+      "start_ms": 244875,
+      "end_ms": 246875,
+      "duration_ms": 2000
+    },
+    {
+      "word": "Por eso no vino a comer contigo.",
+      "verse": 29,
+      "start_ms": 246875,
+      "end_ms": 249612,
+      "duration_ms": 2737
+    },
+    {
+      "word": "Saúl se enfureció contra Jonatán y le gritó: —¡Hijo de mala madre!",
+      "verse": 30,
+      "start_ms": 249612,
+      "end_ms": 254412,
+      "duration_ms": 4800
+    },
+    {
+      "word": "Ya sabía que estabas del lado de David.",
+      "verse": 30,
+      "start_ms": 254412,
+      "end_ms": 257462,
+      "duration_ms": 3050
+    },
+    {
+      "word": "Qué vergüenza para ti y para tu madre!",
+      "verse": 30,
+      "start_ms": 257462,
+      "end_ms": 260274,
+      "duration_ms": 2812
+    },
+    {
+      "word": "Mientras David viva, no podrás llegar a ser rey.",
+      "verse": 31,
+      "start_ms": 260275,
+      "end_ms": 263900,
+      "duration_ms": 3625
+    },
+    {
+      "word": "Así que manda que me lo traigan, porque está condenado a muerte.",
+      "verse": 31,
+      "start_ms": 263900,
+      "end_ms": 268187,
+      "duration_ms": 4287
+    },
+    {
+      "word": "Pero Jonatán le",
+      "verse": 32,
+      "start_ms": 268187,
+      "end_ms": 270062,
+      "duration_ms": 1875
+    },
+    {
+      "word": "respondió: —¿Y por qué ha de morir?",
+      "verse": 32,
+      "start_ms": 270220,
+      "end_ms": 273182,
+      "duration_ms": 2962
+    },
+    {
+      "word": "Qué mal ha hecho?",
+      "verse": 32,
+      "start_ms": 273132,
+      "end_ms": 275032,
+      "duration_ms": 1900
+    },
+    {
+      "word": "En vez de responderle, Saúl le arrojó su lanza, con la intención de matarlo.",
+      "verse": 33,
+      "start_ms": 275032,
+      "end_ms": 280219,
+      "duration_ms": 5187
+    },
+    {
+      "word": "Jonatán, por su parte, se levantó de la mesa y ya no participó en la comida del segundo día de la fiesta.",
+      "verse": 33,
+      "start_ms": 280220,
+      "end_ms": 287157,
+      "duration_ms": 6937
+    },
+    {
+      "word": "Estaba furioso y triste de que su padre hubiera ofendido a David.",
+      "verse": 33,
+      "start_ms": 287157,
+      "end_ms": 291607,
+      "duration_ms": 4450
+    },
+    {
+      "word": "Fue así como Jonatán se dio cuenta de que su padre quería matar a David.",
+      "verse": 33,
+      "start_ms": 291607,
+      "end_ms": 296157,
+      "duration_ms": 4550
+    },
+    {
+      "word": "Al día siguiente, Jonatán salió al campo en compañía de un muchacho, y se dirigió al lugar que le había dicho a David.",
+      "verse": 35,
+      "start_ms": 296157,
+      "end_ms": 303444,
+      "duration_ms": 7287
+    },
+    {
+      "word": "Al llegar a ese lugar, le ordenó al muchacho: Ve a recoger las flechas que voy a disparar.",
+      "verse": 36,
+      "start_ms": 303445,
+      "end_ms": 309470,
+      "duration_ms": 6025
+    },
+    {
+      "word": "Mientras el muchacho corría a buscar una de las flechas, Jonatán disparó otra, la cual cayó más allá de donde estaba el muchacho.",
+      "verse": 36,
+      "start_ms": 309470,
+      "end_ms": 317245,
+      "duration_ms": 7775
+    },
+    {
+      "word": "Jonatán le gritó: ¡Corre, no te detengas, que más allá hay otra flecha!",
+      "verse": 37,
+      "start_ms": 317245,
+      "end_ms": 322557,
+      "duration_ms": 5312
+    },
+    {
+      "word": "Sin sospechar nada, el muchacho fue y recogió las flechas de Jonatán, pues sólo David y él sabían lo que eso quería decir.",
+      "verse": 37,
+      "start_ms": 322557,
+      "end_ms": 330457,
+      "duration_ms": 7900
+    },
+    {
+      "word": "Luego Jonatán le dio sus armas al muchacho y le ordenó: Llévatelas a la casa.",
+      "verse": 40,
+      "start_ms": 330457,
+      "end_ms": 335794,
+      "duration_ms": 5337
+    },
+    {
+      "word": "Cuando el muchacho se fue, David salió de su escondite y, de cara al suelo en señal de respeto, se inclinó tres veces delante de Jonatán.",
+      "verse": 41,
+      "start_ms": 335795,
+      "end_ms": 344507,
+      "duration_ms": 8712
+    },
+    {
+      "word": "Luego se abrazaron y lloraron mucho, aunque David lloraba más.",
+      "verse": 41,
+      "start_ms": 344507,
+      "end_ms": 348957,
+      "duration_ms": 4450
+    },
+    {
+      "word": "Entonces Jonatán le dijo a David: Vete en paz.",
+      "verse": 42,
+      "start_ms": 348957,
+      "end_ms": 352807,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Tú y yo hemos jurado por Dios que siempre seremos buenos amigos.",
+      "verse": 42,
+      "start_ms": 352807,
+      "end_ms": 357069,
+      "duration_ms": 4262
+    },
+    {
+      "word": "Que Dios nos ayude, y que ayude a nuestras familias a cumplir este juramento.",
+      "verse": 42,
+      "start_ms": 357070,
+      "end_ms": 362082,
+      "duration_ms": 5012
+    },
+    {
+      "word": "Dicho esto, Jonatán regresó a la ciudad.",
+      "verse": 42,
+      "start_ms": 362082,
+      "end_ms": 365544,
+      "duration_ms": 3462
+    }
+  ]
+}

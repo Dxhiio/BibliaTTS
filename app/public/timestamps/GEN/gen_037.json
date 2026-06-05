@@ -1,0 +1,649 @@
+{
+  "book": "GEN",
+  "chapter": 37,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 33,
+  "word_count": 58,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-2",
+      "char_start": 0,
+      "char_end": 115,
+      "text": "Ésta es la historia de Jacob, que vivió en la tierra de Canaán, donde antes su padre había vivido como extranjero."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 115,
+      "char_end": 250,
+      "text": "Jacob amaba a José más que a sus otros hijos, pues había nacido cuando ya era muy anciano. Por eso le hizo una capa de muchos colores."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 250,
+      "char_end": 358,
+      "text": "Pero sus hermanos lo odiaban, y ni siquiera le hablaban, pues veían que su padre lo quería más que a ellos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 358,
+      "char_end": 446,
+      "text": "Un día José tuvo un sueño. Cuando se lo contó a sus hermanos, ellos lo odiaron aún más,"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 446,
+      "char_end": 484,
+      "text": "pues les dijo: —Anoche tuve un sueño,"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 484,
+      "char_end": 672,
+      "text": "y soñé que estábamos en medio del campo, atando el trigo en manojos. De repente, mi manojo se levantó y se quedó bien derecho, mientras los de ustedes lo rodeaban y se inclinaban ante él."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 672,
+      "char_end": 837,
+      "text": "Sus hermanos protestaron: —¡Ahora resulta que vas a ser nuestro rey y nuestro jefe! Y por causa del sueño y por lo que decía, creció en ellos el odio que le tenían."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 837,
+      "char_end": 1015,
+      "text": "José tuvo otro sueño, y también se lo contó a sus hermanos. Les dijo: —Fíjense que tuve otro sueño. Resulta que esta vez el sol, la luna y once estrellas, se inclinaban ante mí."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1015,
+      "char_end": 1217,
+      "text": "Cuando les contó este sueño a su padre y a sus hermanos, su padre lo reprendió, y le dijo: —¿Qué clase de sueño es ése? ¿Quieres decir que tu madre y tus hermanos, y yo mismo, vamos a ser tus esclavos?"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1217,
+      "char_end": 1315,
+      "text": "Y sus hermanos le tenían envidia, pero su padre trataba de entender el significado de sus sueños."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1315,
+      "char_end": 1398,
+      "text": "Los hermanos de José habían llevado las ovejas de su padre a los pastos de Siquem."
+    },
+    {
+      "verse": 13,
+      "label": "13-14",
+      "char_start": 1398,
+      "char_end": 1665,
+      "text": "Unos días después, Jacob le dijo a José: —Ya sabes que tus hermanos están en Siquem, cuidando las ovejas. Quiero que vayas a ver si todo está bien, y que regreses a contármelo. —Sí, papá, enseguida voy —le respondió. José salió del valle de Hebrón, y llegó a Siquem,"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1665,
+      "char_end": 1786,
+      "text": "pero no encontró a sus hermanos por ningún lado. Poco después lo encontró un hombre y le preguntó: —¿Qué andas buscando?"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1786,
+      "char_end": 1885,
+      "text": "José le respondió: —Busco a mis hermanos y a sus rebaños. Tal vez usted pueda decirme dónde están."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1885,
+      "char_end": 2027,
+      "text": "Aquel hombre contestó: —Hace días que se fueron. Alcancé a oír que se iban a Dotán. José siguió buscando a sus hermanos, y allá los encontró."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2027,
+      "char_end": 2145,
+      "text": "Cuando ellos lo vieron acercarse, antes de que él llegara a donde ellos estaban, se pusieron de acuerdo para matarlo."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2145,
+      "char_end": 2212,
+      "text": "Unos a otros se decían: ¡Vaya, vaya! ¡Aquí viene ese gran soñador!"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2212,
+      "char_end": 2351,
+      "text": "Vamos a matarlo y a echarlo en uno de estos pozos, y diremos que algún animal feroz se lo comió. ¡Ya vamos a ver si se cumplen sus sueños!"
+    },
+    {
+      "verse": 21,
+      "label": "21-22",
+      "char_start": 2351,
+      "char_end": 2581,
+      "text": "Al oír esto, Rubén trató de librar a José de sus hermanos, para luego llevárselo a su padre. Por eso les dijo: No está bien que lo matemos. ¿Para qué matarlo? Si quieren, échenlo en este pozo del desierto; ¡pero no le hagan daño!"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2581,
+      "char_end": 2683,
+      "text": "Cuando José llegó a donde estaban sus hermanos, ellos le quitaron la capa que su padre le había hecho"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2683,
+      "char_end": 2738,
+      "text": "y lo echaron al pozo, que estaba seco. Y Rubén se fue."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2738,
+      "char_end": 2992,
+      "text": "Los hermanos se sentaron a comer. De pronto vieron que se acercaba un grupo de comerciantes. Eran unos ismaelitas que venían de Galaad. Sus camellos estaban cargados de finos perfumes y hierbas de rico olor, que los ismaelitas pensaban vender en Egipto."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2992,
+      "char_end": 3122,
+      "text": "Judá entonces les dijo a sus hermanos: No ganamos nada con matar a nuestro hermano, y luego tener que mentir acerca de su muerte."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3122,
+      "char_end": 3271,
+      "text": "Nos conviene más vendérselo a estos ismaelitas. Después de todo, José es nuestro hermano; ¡es de nuestra propia familia! Esta idea les pareció bien,"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3271,
+      "char_end": 3456,
+      "text": "así que cuando los comerciantes pasaron por allí, los hermanos de José lo sacaron del pozo y lo vendieron en veinte monedas de plata. Entonces los comerciantes se lo llevaron a Egipto."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3456,
+      "char_end": 3554,
+      "text": "Cuando Rubén regresó y vio que José ya no estaba en el pozo, rompió su ropa en señal de tristeza,"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3554,
+      "char_end": 3663,
+      "text": "y luego fue a decirles a sus hermanos: ¡José ya no está en el pozo! Y ahora, ¿qué le voy a decir a mi padre?"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3663,
+      "char_end": 3747,
+      "text": "Mataron entonces un cabrito, y con la sangre del cabrito mancharon la capa de José."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3747,
+      "char_end": 3861,
+      "text": "Luego le llevaron la capa a Jacob, y le dijeron: —¡Mira lo que encontramos! Nos parece que es la capa de tu hijo."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3861,
+      "char_end": 3997,
+      "text": "Jacob la reconoció, y lleno de dolor gritó: —¡Sí, es la capa de mi hijo! ¡Seguramente algún animal feroz lo hizo pedazos y se lo comió!"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3997,
+      "char_end": 4125,
+      "text": "Allí mismo Jacob rompió su ropa en señal de tristeza, se vistió de luto, y durante mucho tiempo lloró por la muerte de su hijo."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4125,
+      "char_end": 4270,
+      "text": "Todos sus hijos llegaron para consolarlo, pero él no quería que lo consolaran. Más bien, lloraba y decía que quería morirse para estar con José."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4270,
+      "char_end": 4412,
+      "text": "Cuando los comerciantes llegaron a Egipto, vendieron a José. Lo compró Potifar, que era un oficial del rey de Egipto y capitán de la guardia."
+    }
+  ],
+  "words": [
+    {
+      "word": "Ésta es la historia de Jacob, que vivió en la tierra de Canaán, donde antes su padre había vivido como extranjero.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7300,
+      "duration_ms": 7200
+    },
+    {
+      "word": "Jacob amaba a José más que a sus otros hijos, pues había nacido cuando ya era muy anciano.",
+      "verse": 3,
+      "start_ms": 7250,
+      "end_ms": 13287,
+      "duration_ms": 6037
+    },
+    {
+      "word": "Por eso le hizo una capa de muchos colores.",
+      "verse": 3,
+      "start_ms": 13287,
+      "end_ms": 16662,
+      "duration_ms": 3375
+    },
+    {
+      "word": "Pero sus hermanos lo odiaban, y ni siquiera le hablaban, pues veían que su padre lo quería más que a ellos.",
+      "verse": 4,
+      "start_ms": 16662,
+      "end_ms": 23324,
+      "duration_ms": 6662
+    },
+    {
+      "word": "Un día José tuvo un sueño.",
+      "verse": 5,
+      "start_ms": 23325,
+      "end_ms": 25887,
+      "duration_ms": 2562
+    },
+    {
+      "word": "Cuando se lo contó a sus hermanos, ellos lo odiaron aún más, pues les dijo: —Anoche tuve un sueño, y soñé que estábamos en medio del campo, atando el trigo en manojos.",
+      "verse": 5,
+      "start_ms": 25887,
+      "end_ms": 36412,
+      "duration_ms": 10525
+    },
+    {
+      "word": "De repente, mi manojo se levantó y se quedó bien derecho, mientras los de ustedes lo rodeaban y se inclinaban ante él.",
+      "verse": 7,
+      "start_ms": 36412,
+      "end_ms": 43749,
+      "duration_ms": 7337
+    },
+    {
+      "word": "Sus hermanos protestaron: —¡Ahora resulta que vas a ser nuestro rey y nuestro jefe!",
+      "verse": 8,
+      "start_ms": 43750,
+      "end_ms": 49100,
+      "duration_ms": 5350
+    },
+    {
+      "word": "Y por causa del sueño y por lo que decía, creció en ellos el odio que le tenían.",
+      "verse": 8,
+      "start_ms": 49100,
+      "end_ms": 54362,
+      "duration_ms": 5262
+    },
+    {
+      "word": "José tuvo otro sueño, y también se lo contó a sus hermanos.",
+      "verse": 9,
+      "start_ms": 54362,
+      "end_ms": 58749,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Les dijo: —Fíjense que tuve otro sueño.",
+      "verse": 9,
+      "start_ms": 58750,
+      "end_ms": 62287,
+      "duration_ms": 3537
+    },
+    {
+      "word": "Resulta que esta vez el sol, la luna y once estrellas, se inclinaban ante mí.",
+      "verse": 9,
+      "start_ms": 62287,
+      "end_ms": 67874,
+      "duration_ms": 5587
+    },
+    {
+      "word": "Cuando les contó este sueño a su padre y a sus hermanos, su padre lo reprendió, y le dijo: —¿Qué clase de sueño es ése?",
+      "verse": 10,
+      "start_ms": 67875,
+      "end_ms": 75575,
+      "duration_ms": 7700
+    },
+    {
+      "word": "Quieres decir que tu madre y tus hermanos, y yo mismo, vamos a ser tus esclavos?",
+      "verse": 10,
+      "start_ms": 75575,
+      "end_ms": 81212,
+      "duration_ms": 5637
+    },
+    {
+      "word": "Y sus hermanos le tenían envidia, pero su padre trataba de entender el significado de sus sueños.",
+      "verse": 11,
+      "start_ms": 81212,
+      "end_ms": 87524,
+      "duration_ms": 6312
+    },
+    {
+      "word": "Los hermanos de José habían llevado las ovejas de su padre a los pastos de Siquem.",
+      "verse": 12,
+      "start_ms": 87525,
+      "end_ms": 92550,
+      "duration_ms": 5025
+    },
+    {
+      "word": "Unos días después, Jacob le dijo a José: —Ya sabes que tus hermanos están en Siquem, cuidando las ovejas.",
+      "verse": 13,
+      "start_ms": 92550,
+      "end_ms": 100012,
+      "duration_ms": 7462
+    },
+    {
+      "word": "Quiero que vayas a ver si todo está bien, y que regreses a contármelo.",
+      "verse": 13,
+      "start_ms": 100012,
+      "end_ms": 104499,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Sí, papá, enseguida voy —le respondió.",
+      "verse": 13,
+      "start_ms": 104500,
+      "end_ms": 108350,
+      "duration_ms": 3850
+    },
+    {
+      "word": "José salió del valle de Hebrón, y llegó a Siquem, pero no encontró a sus hermanos por ningún lado.",
+      "verse": 13,
+      "start_ms": 108350,
+      "end_ms": 114687,
+      "duration_ms": 6337
+    },
+    {
+      "word": "Poco después lo encontró un hombre y le preguntó: —¿Qué andas buscando?",
+      "verse": 15,
+      "start_ms": 114687,
+      "end_ms": 119349,
+      "duration_ms": 4662
+    },
+    {
+      "word": "José le respondió: —Busco a mis hermanos y a sus rebaños.",
+      "verse": 16,
+      "start_ms": 119350,
+      "end_ms": 123675,
+      "duration_ms": 4325
+    },
+    {
+      "word": "Tal vez usted pueda decirme dónde están.",
+      "verse": 16,
+      "start_ms": 123675,
+      "end_ms": 126825,
+      "duration_ms": 3150
+    },
+    {
+      "word": "Aquel hombre contestó: —Hace días que se fueron.",
+      "verse": 17,
+      "start_ms": 126825,
+      "end_ms": 130475,
+      "duration_ms": 3650
+    },
+    {
+      "word": "Alcancé a oír que se iban a Dotán.",
+      "verse": 17,
+      "start_ms": 130475,
+      "end_ms": 133537,
+      "duration_ms": 3062
+    },
+    {
+      "word": "José siguió buscando a sus hermanos, y allá los encontró.",
+      "verse": 17,
+      "start_ms": 133537,
+      "end_ms": 137749,
+      "duration_ms": 4212
+    },
+    {
+      "word": "Cuando ellos lo vieron acercarse, antes de que él llegara a donde ellos estaban, se pusieron de acuerdo para matarlo.",
+      "verse": 18,
+      "start_ms": 137750,
+      "end_ms": 144612,
+      "duration_ms": 6862
+    },
+    {
+      "word": "Unos a otros se decían: ¡Vaya, vaya!",
+      "verse": 19,
+      "start_ms": 144612,
+      "end_ms": 147924,
+      "duration_ms": 3312
+    },
+    {
+      "word": "Aquí viene ese gran soñador!",
+      "verse": 19,
+      "start_ms": 147925,
+      "end_ms": 150437,
+      "duration_ms": 2512
+    },
+    {
+      "word": "Vamos a matarlo y a echarlo en uno de estos pozos, y diremos que algún animal feroz se lo comió.",
+      "verse": 20,
+      "start_ms": 150437,
+      "end_ms": 156574,
+      "duration_ms": 6137
+    },
+    {
+      "word": "Ya vamos a ver si se cumplen sus sueños!",
+      "verse": 20,
+      "start_ms": 156575,
+      "end_ms": 159587,
+      "duration_ms": 3012
+    },
+    {
+      "word": "Al oír esto, Rubén trató de librar a José de sus hermanos, para luego llevárselo a su padre.",
+      "verse": 21,
+      "start_ms": 159587,
+      "end_ms": 165874,
+      "duration_ms": 6287
+    },
+    {
+      "word": "Por eso les dijo: No está bien que lo matemos.",
+      "verse": 21,
+      "start_ms": 165875,
+      "end_ms": 169600,
+      "duration_ms": 3725
+    },
+    {
+      "word": "Para qué matarlo?",
+      "verse": 21,
+      "start_ms": 169600,
+      "end_ms": 171400,
+      "duration_ms": 1800
+    },
+    {
+      "word": "Si quieren, échenlo en este pozo del desierto; ¡pero no le hagan daño!",
+      "verse": 21,
+      "start_ms": 171400,
+      "end_ms": 176275,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Cuando José llegó a donde estaban sus hermanos, ellos le quitaron la capa que su padre le había hecho y lo echaron al pozo, que estaba seco.",
+      "verse": 23,
+      "start_ms": 176275,
+      "end_ms": 184487,
+      "duration_ms": 8212
+    },
+    {
+      "word": "Y Rubén se fue.",
+      "verse": 24,
+      "start_ms": 184487,
+      "end_ms": 186324,
+      "duration_ms": 1837
+    },
+    {
+      "word": "Los hermanos se sentaron a comer.",
+      "verse": 25,
+      "start_ms": 186325,
+      "end_ms": 188937,
+      "duration_ms": 2612
+    },
+    {
+      "word": "De pronto vieron que se acercaba un grupo de comerciantes.",
+      "verse": 25,
+      "start_ms": 188937,
+      "end_ms": 192724,
+      "duration_ms": 3787
+    },
+    {
+      "word": "Eran unos ismaelitas que venían de Galaad.",
+      "verse": 25,
+      "start_ms": 192725,
+      "end_ms": 196025,
+      "duration_ms": 3300
+    },
+    {
+      "word": "Sus camellos estaban cargados de finos perfumes y hierbas de rico olor, que los ismaelitas pensaban vender en Egipto.",
+      "verse": 25,
+      "start_ms": 196025,
+      "end_ms": 203350,
+      "duration_ms": 7325
+    },
+    {
+      "word": "Judá entonces les dijo a sus hermanos: No ganamos nada con matar a nuestro hermano, y luego tener que mentir acerca de su muerte.",
+      "verse": 26,
+      "start_ms": 203350,
+      "end_ms": 211137,
+      "duration_ms": 7787
+    },
+    {
+      "word": "Nos conviene más vendérselo a estos ismaelitas.",
+      "verse": 27,
+      "start_ms": 211137,
+      "end_ms": 214862,
+      "duration_ms": 3725
+    },
+    {
+      "word": "Después de todo, José es nuestro hermano; ¡es de nuestra propia familia!",
+      "verse": 27,
+      "start_ms": 214862,
+      "end_ms": 220049,
+      "duration_ms": 5187
+    },
+    {
+      "word": "Esta idea les pareció bien, así que cuando los comerciantes pasaron por allí, los hermanos de José lo sacaron del pozo y lo vendieron en veinte monedas de plata.",
+      "verse": 27,
+      "start_ms": 220050,
+      "end_ms": 229125,
+      "duration_ms": 9075
+    },
+    {
+      "word": "Entonces los comerciantes se lo llevaron a Egipto.",
+      "verse": 28,
+      "start_ms": 229125,
+      "end_ms": 232525,
+      "duration_ms": 3400
+    },
+    {
+      "word": "Cuando Rubén regresó y vio que José ya no estaba en el pozo, rompió su ropa en señal de tristeza, y luego fue a decirles a sus hermanos: ¡José ya no está en el pozo!",
+      "verse": 29,
+      "start_ms": 232525,
+      "end_ms": 242425,
+      "duration_ms": 9900
+    },
+    {
+      "word": "Y ahora, ¿qué le voy a decir a mi padre?",
+      "verse": 30,
+      "start_ms": 242425,
+      "end_ms": 245675,
+      "duration_ms": 3250
+    },
+    {
+      "word": "Mataron entonces un cabrito, y con la sangre del cabrito mancharon la capa de José.",
+      "verse": 31,
+      "start_ms": 245675,
+      "end_ms": 251237,
+      "duration_ms": 5562
+    },
+    {
+      "word": "Luego le llevaron la capa a Jacob, y le dijeron: —¡Mira lo que encontramos!",
+      "verse": 32,
+      "start_ms": 251237,
+      "end_ms": 256262,
+      "duration_ms": 5025
+    },
+    {
+      "word": "Nos parece que es la capa de tu hijo.",
+      "verse": 32,
+      "start_ms": 256262,
+      "end_ms": 259137,
+      "duration_ms": 2875
+    },
+    {
+      "word": "Jacob la reconoció, y lleno de dolor gritó: —¡Sí, es la capa de mi hijo!",
+      "verse": 33,
+      "start_ms": 259137,
+      "end_ms": 264837,
+      "duration_ms": 5700
+    },
+    {
+      "word": "Seguramente algún animal feroz lo hizo pedazos y se lo comió!",
+      "verse": 33,
+      "start_ms": 264988,
+      "end_ms": 268963,
+      "duration_ms": 3975
+    },
+    {
+      "word": "Allí mismo Jacob rompió su ropa en señal de tristeza, se vistió de luto, y durante mucho tiempo lloró por la muerte de su hijo.",
+      "verse": 34,
+      "start_ms": 268913,
+      "end_ms": 277000,
+      "duration_ms": 8087
+    },
+    {
+      "word": "Todos sus hijos llegaron para consolarlo, pero él no quería que lo consolaran.",
+      "verse": 35,
+      "start_ms": 277000,
+      "end_ms": 281925,
+      "duration_ms": 4925
+    },
+    {
+      "word": "Más bien, lloraba y decía que quería morirse para estar con José.",
+      "verse": 35,
+      "start_ms": 281925,
+      "end_ms": 286500,
+      "duration_ms": 4575
+    },
+    {
+      "word": "Cuando los comerciantes llegaron a Egipto, vendieron a José.",
+      "verse": 36,
+      "start_ms": 286500,
+      "end_ms": 290600,
+      "duration_ms": 4100
+    },
+    {
+      "word": "Lo compró Potifar, que era un oficial del rey de Egipto y capitán de la guardia.",
+      "verse": 36,
+      "start_ms": 290600,
+      "end_ms": 295950,
+      "duration_ms": 5350
+    }
+  ]
+}

@@ -1,0 +1,460 @@
+{
+  "book": "PRO",
+  "chapter": 8,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 31,
+  "word_count": 33,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 60,
+      "text": "¡La sabiduría está llamando! ¡Gritando está la experiencia!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 60,
+      "char_end": 146,
+      "text": "Se para a la orilla del camino o a la mitad de la calle, para que todos puedan verla."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 146,
+      "char_end": 228,
+      "text": "Se para junto a los portones, a la entrada de la ciudad, y grita a voz en cuello:"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 228,
+      "char_end": 279,
+      "text": "Gente de todo el mundo, ¡a ustedes estoy llamando!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 279,
+      "char_end": 354,
+      "text": "Jovencitos ignorantes, muchachitos inexpertos, ¡piensen bien lo que hacen!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 354,
+      "char_end": 411,
+      "text": "Préstenme atención, pues voy a decirles algo importante;"
+    },
+    {
+      "verse": 7,
+      "label": "7-8",
+      "char_start": 411,
+      "char_end": 484,
+      "text": "no me gusta la mentira ni tampoco la hipocresía, siempre digo la verdad."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 484,
+      "char_end": 562,
+      "text": "La gente que sabe entender reconoce que mis palabras son justas y verdaderas."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 562,
+      "char_end": 647,
+      "text": "No busquen las riquezas, mejor busquen mis enseñanzas y adquieran mis conocimientos,"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 647,
+      "char_end": 739,
+      "text": "pues son más valiosos que el oro y la plata. ¡Los más ricos tesoros no se comparan conmigo!"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 739,
+      "char_end": 826,
+      "text": "Yo soy la sabiduría, y mi compañera es la experiencia; siempre pienso antes de actuar."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 826,
+      "char_end": 974,
+      "text": "Los que obedecen a Dios aborrecen la maldad. Yo aborrezco a la gente que es orgullosa y presumida, que nunca dice la verdad ni vive como es debido."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 974,
+      "char_end": 1053,
+      "text": "Yo tengo en mi poder el consejo y el buen juicio, el valor y el entendimiento."
+    },
+    {
+      "verse": 15,
+      "label": "15-16",
+      "char_start": 1053,
+      "char_end": 1117,
+      "text": "Yo hago que actúen con justicia reyes, príncipes y gobernantes."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1117,
+      "char_end": 1192,
+      "text": "Yo amo a los que me aman, y me dejo encontrar por todos los que me buscan."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1192,
+      "char_end": 1262,
+      "text": "Mis compañeras son la riqueza, el honor, la abundancia y la justicia."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1262,
+      "char_end": 1320,
+      "text": "Lo que tengo para ofrecer vale más que el oro y la plata."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1320,
+      "char_end": 1348,
+      "text": "Siempre actúo con justicia,"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1348,
+      "char_end": 1393,
+      "text": "y lleno de riquezas a todos los que me aman."
+    },
+    {
+      "verse": 22,
+      "label": "22-23",
+      "char_start": 1393,
+      "char_end": 1529,
+      "text": "Dios fue quien me creó. Me formó desde el principio, desde antes de crear el mundo. Aún no había creado nada cuando me hizo nacer a mí."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1529,
+      "char_end": 1576,
+      "text": "Nací cuando aún no había mares ni manantiales."
+    },
+    {
+      "verse": 25,
+      "label": "25-26",
+      "char_start": 1576,
+      "char_end": 1666,
+      "text": "Nací mucho antes de que Dios hiciera los cerros y las montañas, la tierra y sus paisajes."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 1666,
+      "char_end": 1720,
+      "text": "Yo vi cuando Dios puso el cielo azul sobre los mares;"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 1720,
+      "char_end": 1788,
+      "text": "cuando puso las nubes en el cielo y cerró las fuentes del gran mar,"
+    },
+    {
+      "verse": 29,
+      "label": "29-30",
+      "char_start": 1788,
+      "char_end": 1983,
+      "text": "cuando les ordenó a las aguas no salirse de sus límites. Cuando Dios afirmó la tierra, yo estaba allí, a su lado, como su consejera. Mi dicha de todos los días era siempre gozar de su presencia."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 1983,
+      "char_end": 2086,
+      "text": "El mundo creado por Dios me llenaba de alegría; ¡la humanidad creada por Dios me llenaba de felicidad!"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2086,
+      "char_end": 2164,
+      "text": "Querido jovencito, ¡escúchame bien! Dios te bendecirá si sigues mis consejos."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 2164,
+      "char_end": 2227,
+      "text": "Acepta mis enseñanzas; no las rechaces. ¡Piensa con la cabeza!"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 2227,
+      "char_end": 2308,
+      "text": "Si todos los días vienes a mi casa y escuchas mis enseñanzas, Dios te bendecirá."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 2308,
+      "char_end": 2389,
+      "text": "Los que me encuentran, encuentran también la vida y reciben bendiciones de Dios;"
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 2389,
+      "char_end": 2466,
+      "text": "pero los que me ofenden ponen su vida en peligro; odiarme es amar la muerte."
+    }
+  ],
+  "words": [
+    {
+      "word": "La sabiduría está llamando!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 2537,
+      "duration_ms": 2437
+    },
+    {
+      "word": "Gritando está la experiencia!",
+      "verse": 1,
+      "start_ms": 2487,
+      "end_ms": 4999,
+      "duration_ms": 2512
+    },
+    {
+      "word": "Se para a la orilla del camino o a la mitad de la calle, para que todos puedan verla.",
+      "verse": 2,
+      "start_ms": 5000,
+      "end_ms": 10425,
+      "duration_ms": 5425
+    },
+    {
+      "word": "Se para junto a los portones, a la entrada de la ciudad, y grita a voz en cuello: Gente de todo el mundo, ¡a ustedes estoy llamando!",
+      "verse": 3,
+      "start_ms": 10425,
+      "end_ms": 18912,
+      "duration_ms": 8487
+    },
+    {
+      "word": "Jovencitos ignorantes, muchachitos inexpertos, ¡piensen bien lo que hacen!",
+      "verse": 5,
+      "start_ms": 18912,
+      "end_ms": 24362,
+      "duration_ms": 5450
+    },
+    {
+      "word": "Préstenme atención, pues voy a decirles algo importante; no me gusta la mentira ni tampoco la hipocresía, siempre digo la verdad.",
+      "verse": 6,
+      "start_ms": 24362,
+      "end_ms": 32649,
+      "duration_ms": 8287
+    },
+    {
+      "word": "La gente que sabe entender reconoce que mis palabras son justas y verdaderas.",
+      "verse": 9,
+      "start_ms": 32650,
+      "end_ms": 37650,
+      "duration_ms": 5000
+    },
+    {
+      "word": "No busquen las riquezas, mejor busquen mis enseñanzas y adquieran mis conocimientos, pues son más valiosos que el oro y la plata.",
+      "verse": 10,
+      "start_ms": 37650,
+      "end_ms": 45412,
+      "duration_ms": 7762
+    },
+    {
+      "word": "Los más ricos tesoros no se comparan conmigo!",
+      "verse": 11,
+      "start_ms": 45412,
+      "end_ms": 48774,
+      "duration_ms": 3362
+    },
+    {
+      "word": "Yo soy la sabiduría, y mi compañera es la experiencia; siempre pienso antes de actuar.",
+      "verse": 12,
+      "start_ms": 48775,
+      "end_ms": 54775,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Los que obedecen a Dios aborrecen la maldad.",
+      "verse": 13,
+      "start_ms": 54775,
+      "end_ms": 57950,
+      "duration_ms": 3175
+    },
+    {
+      "word": "Yo aborrezco a la gente que es orgullosa y presumida, que nunca dice la verdad ni vive como es debido.",
+      "verse": 13,
+      "start_ms": 57950,
+      "end_ms": 64600,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Yo tengo en mi poder el consejo y el buen juicio, el valor y el entendimiento.",
+      "verse": 14,
+      "start_ms": 64600,
+      "end_ms": 69775,
+      "duration_ms": 5175
+    },
+    {
+      "word": "Yo hago que actúen con justicia reyes, príncipes y gobernantes.",
+      "verse": 15,
+      "start_ms": 69775,
+      "end_ms": 74575,
+      "duration_ms": 4800
+    },
+    {
+      "word": "Yo amo a los que me aman, y me dejo encontrar por todos los que me buscan.",
+      "verse": 17,
+      "start_ms": 74575,
+      "end_ms": 79412,
+      "duration_ms": 4837
+    },
+    {
+      "word": "Mis compañeras son la riqueza, el honor, la abundancia y la justicia.",
+      "verse": 18,
+      "start_ms": 79412,
+      "end_ms": 84487,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Lo que tengo para ofrecer vale más que el oro y la plata.",
+      "verse": 19,
+      "start_ms": 84487,
+      "end_ms": 88349,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Siempre actúo con justicia, y lleno de riquezas a todos los que me aman.",
+      "verse": 20,
+      "start_ms": 88350,
+      "end_ms": 93225,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Dios fue quien me creó.",
+      "verse": 22,
+      "start_ms": 93225,
+      "end_ms": 95400,
+      "duration_ms": 2175
+    },
+    {
+      "word": "Me formó desde el principio, desde antes de crear el mundo.",
+      "verse": 22,
+      "start_ms": 95400,
+      "end_ms": 99512,
+      "duration_ms": 4112
+    },
+    {
+      "word": "Aún no había creado nada cuando me hizo nacer a mí.",
+      "verse": 22,
+      "start_ms": 99512,
+      "end_ms": 103062,
+      "duration_ms": 3550
+    },
+    {
+      "word": "Nací cuando aún no había mares ni manantiales.",
+      "verse": 24,
+      "start_ms": 103062,
+      "end_ms": 106612,
+      "duration_ms": 3550
+    },
+    {
+      "word": "Nací mucho antes de que Dios hiciera los cerros y las montañas, la tierra y sus paisajes.",
+      "verse": 25,
+      "start_ms": 106612,
+      "end_ms": 112624,
+      "duration_ms": 6012
+    },
+    {
+      "word": "Yo vi cuando Dios puso el cielo azul sobre los mares; cuando puso las nubes en el cielo y cerró las fuentes del gran mar, cuando les ordenó a las aguas no salirse de sus límites.",
+      "verse": 27,
+      "start_ms": 112625,
+      "end_ms": 122900,
+      "duration_ms": 10275
+    },
+    {
+      "word": "Cuando Dios afirmó la tierra, yo estaba allí, a su lado, como su consejera.",
+      "verse": 29,
+      "start_ms": 122900,
+      "end_ms": 128412,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Mi dicha de todos los días era siempre gozar de su presencia.",
+      "verse": 29,
+      "start_ms": 128412,
+      "end_ms": 132562,
+      "duration_ms": 4150
+    },
+    {
+      "word": "El mundo creado por Dios me llenaba de alegría; ¡la humanidad creada por Dios me llenaba de felicidad!",
+      "verse": 31,
+      "start_ms": 132562,
+      "end_ms": 138999,
+      "duration_ms": 6437
+    },
+    {
+      "word": "Querido jovencito, ¡escúchame bien!",
+      "verse": 32,
+      "start_ms": 139000,
+      "end_ms": 142112,
+      "duration_ms": 3112
+    },
+    {
+      "word": "Dios te bendecirá si sigues mis consejos.",
+      "verse": 32,
+      "start_ms": 142112,
+      "end_ms": 145437,
+      "duration_ms": 3325
+    },
+    {
+      "word": "Acepta mis enseñanzas; no las rechaces.",
+      "verse": 33,
+      "start_ms": 145437,
+      "end_ms": 149062,
+      "duration_ms": 3625
+    },
+    {
+      "word": "Piensa con la cabeza!",
+      "verse": 33,
+      "start_ms": 149062,
+      "end_ms": 151137,
+      "duration_ms": 2075
+    },
+    {
+      "word": "Si todos los días vienes a mi casa y escuchas mis enseñanzas, Dios te bendecirá.",
+      "verse": 34,
+      "start_ms": 151137,
+      "end_ms": 156599,
+      "duration_ms": 5462
+    },
+    {
+      "word": "Los que me encuentran, encuentran también la vida y reciben bendiciones de Dios; pero los que me ofenden ponen su vida en peligro; odiarme es amar la muerte.",
+      "verse": 35,
+      "start_ms": 156600,
+      "end_ms": 165637,
+      "duration_ms": 9037
+    }
+  ]
+}

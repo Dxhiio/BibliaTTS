@@ -1,0 +1,159 @@
+{
+  "book": "SAL",
+  "chapter": 122,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 9,
+  "word_count": 12,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 52,
+      "text": "Me da gusto que me digan: ¡Vamos al templo de Dios!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 52,
+      "char_end": 120,
+      "text": "Ciudad de Jerusalén, ¡aquí nos tienes! ¡Ya llegamos a tus portones!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 120,
+      "char_end": 202,
+      "text": "Ciudad de Jerusalén, ¡construida como punto de reunión de la comunidad de Israel!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 202,
+      "char_end": 328,
+      "text": "¡Hasta ti llegan las tribus, todas las tribus de Israel! ¡Hasta ti llega el pueblo para adorar a Dios, tal como él lo ordenó!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 328,
+      "char_end": 416,
+      "text": "En ti se encuentran los tribunales de justicia; en ti se encuentra el palacio de David."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 416,
+      "char_end": 505,
+      "text": "Por ti le pedimos a Dios: ¡Que tengas paz, Jerusalén! ¡Que vivan en paz los que te aman!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 505,
+      "char_end": 580,
+      "text": "¡Que dentro de tus murallas y dentro de tus palacios haya paz y seguridad!"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 580,
+      "char_end": 630,
+      "text": "A mis hermanos y amigos les deseo que tengan paz."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 630,
+      "char_end": 727,
+      "text": "Y a ti, Jerusalén, te deseo mucho bienestar porque en ti se encuentra el templo de nuestro Dios."
+    }
+  ],
+  "words": [
+    {
+      "word": "Me da gusto que me digan: ¡Vamos al templo de Dios!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3800,
+      "duration_ms": 3700
+    },
+    {
+      "word": "Ciudad de Jerusalén, ¡aquí nos tienes!",
+      "verse": 2,
+      "start_ms": 3750,
+      "end_ms": 7137,
+      "duration_ms": 3387
+    },
+    {
+      "word": "Ya llegamos a tus portones!",
+      "verse": 2,
+      "start_ms": 7137,
+      "end_ms": 9674,
+      "duration_ms": 2537
+    },
+    {
+      "word": "Ciudad de Jerusalén, ¡construida como punto de reunión de la comunidad de Israel!",
+      "verse": 3,
+      "start_ms": 9675,
+      "end_ms": 15275,
+      "duration_ms": 5600
+    },
+    {
+      "word": "Hasta ti llegan las tribus, todas las tribus de Israel!",
+      "verse": 4,
+      "start_ms": 15275,
+      "end_ms": 19312,
+      "duration_ms": 4037
+    },
+    {
+      "word": "Hasta ti llega el pueblo para adorar a Dios, tal como él lo ordenó!",
+      "verse": 4,
+      "start_ms": 19312,
+      "end_ms": 23812,
+      "duration_ms": 4500
+    },
+    {
+      "word": "En ti se encuentran los tribunales de justicia; en ti se encuentra el palacio de David.",
+      "verse": 5,
+      "start_ms": 23812,
+      "end_ms": 29074,
+      "duration_ms": 5262
+    },
+    {
+      "word": "Por ti le pedimos a Dios: ¡Que tengas paz, Jerusalén!",
+      "verse": 6,
+      "start_ms": 29075,
+      "end_ms": 33362,
+      "duration_ms": 4287
+    },
+    {
+      "word": "Que vivan en paz los que te aman!",
+      "verse": 6,
+      "start_ms": 33362,
+      "end_ms": 35812,
+      "duration_ms": 2450
+    },
+    {
+      "word": "Que dentro de tus murallas y dentro de tus palacios haya paz y seguridad!",
+      "verse": 7,
+      "start_ms": 35812,
+      "end_ms": 40487,
+      "duration_ms": 4675
+    },
+    {
+      "word": "A mis hermanos y amigos les deseo que tengan paz.",
+      "verse": 8,
+      "start_ms": 40487,
+      "end_ms": 44062,
+      "duration_ms": 3575
+    },
+    {
+      "word": "Y a ti, Jerusalén, te deseo mucho bienestar porque en ti se encuentra el templo de nuestro Dios.",
+      "verse": 9,
+      "start_ms": 44062,
+      "end_ms": 50337,
+      "duration_ms": 6275
+    }
+  ]
+}

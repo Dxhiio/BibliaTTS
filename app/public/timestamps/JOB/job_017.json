@@ -1,0 +1,229 @@
+{
+  "book": "JOB",
+  "chapter": 17,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 15,
+  "word_count": 16,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-2",
+      "char_start": 0,
+      "char_end": 127,
+      "text": "Todos los que me rodean se burlan de mí; tengo que soportar sus ataques. La vida se me escapa; ya la muerte me está esperando."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 127,
+      "char_end": 190,
+      "text": "¡Dios mío, ven a defenderme, pues no hay quien lo haga por mí!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 190,
+      "char_end": 244,
+      "text": "Confunde a mis enemigos, y no los dejes que triunfen."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 244,
+      "char_end": 330,
+      "text": "Si por ganarse unas monedas pueden acusar a un amigo, ¡merecen ver morir a sus hijos!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 330,
+      "char_end": 432,
+      "text": "Dios mío, tú me pones en vergüenza, y todo el mundo se burla de mí; algunos hasta me escupen la cara."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 432,
+      "char_end": 491,
+      "text": "Los ojos se me cierran de dolor; de mí sólo quedan huesos."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 491,
+      "char_end": 573,
+      "text": "Cuando me ve la gente buena, apenas puede creerlo y se enoja contra los malvados."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 573,
+      "char_end": 680,
+      "text": "¡Cuando uno es honrado y no ha hecho nada malo, al final se mantendrá firme y cada vez se hará más fuerte!"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 680,
+      "char_end": 765,
+      "text": "Pueden seguir atacándome, que yo sé que entre ustedes no se encuentra un solo sabio."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 765,
+      "char_end": 821,
+      "text": "La muerte anda cerca de mí, y mis deseos no se cumplen,"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 821,
+      "char_end": 933,
+      "text": "¡pero esta gente insiste en darme falsas esperanzas! ¡Dicen que ya está amaneciendo cuando todavía es de noche!"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 933,
+      "char_end": 1033,
+      "text": "Si lo único que espero es tener por casa una tumba, ¡puedo acostarme ya a dormir entre las sombras!"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1033,
+      "char_end": 1083,
+      "text": "No tendré más familia que la tumba y los gusanos."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1083,
+      "char_end": 1137,
+      "text": "No tengo nada que esperar; no tengo ya ningún futuro."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1137,
+      "char_end": 1194,
+      "text": "La esperanza morirá conmigo; ¡juntos seremos enterrados!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Todos los que me rodean se burlan de mí; tengo que soportar sus ataques.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4987,
+      "duration_ms": 4887
+    },
+    {
+      "word": "La vida se me escapa; ya la muerte me está esperando.",
+      "verse": 1,
+      "start_ms": 4937,
+      "end_ms": 8837,
+      "duration_ms": 3900
+    },
+    {
+      "word": "Dios mío, ven a defenderme, pues no hay quien lo haga por mí!",
+      "verse": 3,
+      "start_ms": 8837,
+      "end_ms": 13212,
+      "duration_ms": 4375
+    },
+    {
+      "word": "Confunde a mis enemigos, y no los dejes que triunfen.",
+      "verse": 4,
+      "start_ms": 13212,
+      "end_ms": 17187,
+      "duration_ms": 3975
+    },
+    {
+      "word": "Si por ganarse unas monedas pueden acusar a un amigo, ¡merecen ver morir a sus hijos!",
+      "verse": 5,
+      "start_ms": 17187,
+      "end_ms": 22512,
+      "duration_ms": 5325
+    },
+    {
+      "word": "Dios mío, tú me pones en vergüenza, y todo el mundo se burla de mí; algunos hasta me escupen la cara.",
+      "verse": 6,
+      "start_ms": 22512,
+      "end_ms": 29337,
+      "duration_ms": 6825
+    },
+    {
+      "word": "Los ojos se me cierran de dolor; de mí sólo quedan huesos.",
+      "verse": 7,
+      "start_ms": 29337,
+      "end_ms": 33674,
+      "duration_ms": 4337
+    },
+    {
+      "word": "Cuando me ve la gente buena, apenas puede creerlo y se enoja contra los malvados.",
+      "verse": 8,
+      "start_ms": 33675,
+      "end_ms": 39050,
+      "duration_ms": 5375
+    },
+    {
+      "word": "Cuando uno es honrado y no ha hecho nada malo, al final se mantendrá firme y cada vez se hará más fuerte!",
+      "verse": 9,
+      "start_ms": 39050,
+      "end_ms": 45687,
+      "duration_ms": 6637
+    },
+    {
+      "word": "Pueden seguir atacándome, que yo sé que entre ustedes no se encuentra un solo sabio.",
+      "verse": 10,
+      "start_ms": 45687,
+      "end_ms": 50987,
+      "duration_ms": 5300
+    },
+    {
+      "word": "La muerte anda cerca de mí, y mis deseos no se cumplen, ¡pero esta gente insiste en darme falsas esperanzas!",
+      "verse": 11,
+      "start_ms": 50987,
+      "end_ms": 58187,
+      "duration_ms": 7200
+    },
+    {
+      "word": "Dicen que ya está amaneciendo cuando todavía es de noche!",
+      "verse": 12,
+      "start_ms": 58187,
+      "end_ms": 61899,
+      "duration_ms": 3712
+    },
+    {
+      "word": "Si lo único que espero es tener por casa una tumba, ¡puedo acostarme ya a dormir entre las sombras!",
+      "verse": 13,
+      "start_ms": 61900,
+      "end_ms": 68075,
+      "duration_ms": 6175
+    },
+    {
+      "word": "No tendré más familia que la tumba y los gusanos.",
+      "verse": 14,
+      "start_ms": 68075,
+      "end_ms": 71625,
+      "duration_ms": 3550
+    },
+    {
+      "word": "No tengo nada que esperar; no tengo ya ningún futuro.",
+      "verse": 15,
+      "start_ms": 71625,
+      "end_ms": 75725,
+      "duration_ms": 4100
+    },
+    {
+      "word": "La esperanza morirá conmigo; ¡juntos seremos enterrados!",
+      "verse": 16,
+      "start_ms": 75725,
+      "end_ms": 79950,
+      "duration_ms": 4225
+    }
+  ]
+}

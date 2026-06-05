@@ -1,0 +1,208 @@
+{
+  "book": "JOB",
+  "chapter": 18,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 15,
+  "word_count": 13,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 18,
+      "text": "Bildad respondió:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 18,
+      "char_end": 79,
+      "text": "¡Hablemos menos y pensemos más; entonces podremos conversar!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 79,
+      "char_end": 143,
+      "text": "Job cree que somos tontos; nos trata como si fuéramos animales."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 143,
+      "char_end": 213,
+      "text": "Tan enojado está que él mismo se despedaza; ¡pero eso no cambia nada!"
+    },
+    {
+      "verse": 5,
+      "label": "5-6",
+      "char_start": 213,
+      "char_end": 327,
+      "text": "La vida de los malvados es como lámpara que se apaga; es como la luz de una casa, que de pronto deja de alumbrar."
+    },
+    {
+      "verse": 7,
+      "label": "7-10",
+      "char_start": 327,
+      "char_end": 416,
+      "text": "Sus pasos van perdiendo fuerza; caen en sus propias trampas, y allí se quedan atrapados."
+    },
+    {
+      "verse": 11,
+      "label": "11-12",
+      "char_start": 416,
+      "char_end": 497,
+      "text": "El miedo y el desastre los siguen por todas partes; ¡no los dejan ni un momento!"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 497,
+      "char_end": 551,
+      "text": "La enfermedad y la muerte les devoran todo el cuerpo."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 551,
+      "char_end": 603,
+      "text": "La muerte los arranca de la tranquilidad del hogar;"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 603,
+      "char_end": 660,
+      "text": "en su casa hay olor a azufre porque el fuego la consume."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 660,
+      "char_end": 751,
+      "text": "Los malvados son como un árbol, al que se le secan las raíces y se le marchitan las ramas."
+    },
+    {
+      "verse": 17,
+      "label": "17-18",
+      "char_start": 751,
+      "char_end": 836,
+      "text": "Nadie se acuerda de ellos; son lanzados a la oscuridad y su fama queda en el olvido."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 836,
+      "char_end": 893,
+      "text": "En el pueblo donde vivían, no les queda ningún pariente."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 893,
+      "char_end": 985,
+      "text": "De un extremo al otro de la tierra, la gente se asombra y se asusta al saber cómo acabaron."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 985,
+      "char_end": 1041,
+      "text": "Así terminan los malvados, los que no reconocen a Dios."
+    }
+  ],
+  "words": [
+    {
+      "word": "Bildad respondió: ¡Hablemos menos y pensemos más; entonces podremos conversar!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6162,
+      "duration_ms": 6062
+    },
+    {
+      "word": "Job cree que somos tontos; nos trata como si fuéramos animales.",
+      "verse": 3,
+      "start_ms": 6112,
+      "end_ms": 10887,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Tan enojado está que él mismo se despedaza; ¡pero eso no cambia nada!",
+      "verse": 4,
+      "start_ms": 10887,
+      "end_ms": 15699,
+      "duration_ms": 4812
+    },
+    {
+      "word": "La vida de los malvados es como lámpara que se apaga; es como la luz de una casa, que de pronto deja de alumbrar.",
+      "verse": 5,
+      "start_ms": 15700,
+      "end_ms": 22837,
+      "duration_ms": 7137
+    },
+    {
+      "word": "Sus pasos van perdiendo fuerza; caen en sus propias trampas, y allí se quedan atrapados.",
+      "verse": 7,
+      "start_ms": 22837,
+      "end_ms": 28974,
+      "duration_ms": 6137
+    },
+    {
+      "word": "El miedo y el desastre los siguen por todas partes; ¡no los dejan ni un momento!",
+      "verse": 11,
+      "start_ms": 28975,
+      "end_ms": 34162,
+      "duration_ms": 5187
+    },
+    {
+      "word": "La enfermedad y la muerte les devoran todo el cuerpo.",
+      "verse": 13,
+      "start_ms": 34162,
+      "end_ms": 37712,
+      "duration_ms": 3550
+    },
+    {
+      "word": "La muerte los arranca de la tranquilidad del hogar; en su casa hay olor a azufre porque el fuego la consume.",
+      "verse": 14,
+      "start_ms": 37712,
+      "end_ms": 44162,
+      "duration_ms": 6450
+    },
+    {
+      "word": "Los malvados son como un árbol, al que se le secan las raíces y se le marchitan las ramas.",
+      "verse": 16,
+      "start_ms": 44162,
+      "end_ms": 49862,
+      "duration_ms": 5700
+    },
+    {
+      "word": "Nadie se acuerda de ellos; son lanzados a la oscuridad y su fama queda en el olvido.",
+      "verse": 17,
+      "start_ms": 49862,
+      "end_ms": 55687,
+      "duration_ms": 5825
+    },
+    {
+      "word": "En el pueblo donde vivían, no les queda ningún pariente.",
+      "verse": 19,
+      "start_ms": 55687,
+      "end_ms": 59887,
+      "duration_ms": 4200
+    },
+    {
+      "word": "De un extremo al otro de la tierra, la gente se asombra y se asusta al saber cómo acabaron.",
+      "verse": 20,
+      "start_ms": 59887,
+      "end_ms": 65749,
+      "duration_ms": 5862
+    },
+    {
+      "word": "Así terminan los malvados, los que no reconocen a Dios.",
+      "verse": 21,
+      "start_ms": 65750,
+      "end_ms": 69900,
+      "duration_ms": 4150
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "book": "MAT",
+  "chapter": 9,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 37,
+  "word_count": 69,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 120,
+      "text": "Después de esto, Jesús subió a una barca y cruzó al otro lado del lago para llegar al pueblo de Cafarnaúm, donde vivía."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 120,
+      "char_end": 322,
+      "text": "Allí, algunas personas le llevaron a un hombre acostado en una camilla, pues no podía caminar. Al ver Jesús que estas personas confiaban en él, le dijo al hombre: ¡Ánimo, amigo! Te perdono tus pecados."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 322,
+      "char_end": 461,
+      "text": "Algunos de los maestros de la Ley, que estaban en aquel lugar, pensaron: ¿Qué se cree éste? ¿Se imagina que es Dios? ¡Qué equivocado está!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 461,
+      "char_end": 568,
+      "text": "Pero Jesús se dio cuenta de lo que estaban pensando, así que les preguntó: ¿Por qué piensan algo tan malo?"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 568,
+      "char_end": 633,
+      "text": "Díganme: ¿qué es más fácil? ¿Perdonar a este enfermo, o sanarlo?"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 633,
+      "char_end": 826,
+      "text": "Pues voy a demostrarles que yo, el Hijo del hombre, tengo poder en la tierra para perdonar pecados. Entonces Jesús le dijo al que no podía caminar: Levántate, toma tu camilla y vete a tu casa."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 826,
+      "char_end": 867,
+      "text": "El hombre se levantó y se fue a su casa."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 867,
+      "char_end": 977,
+      "text": "Cuando la gente vio esto, quedó muy impresionada y alabó a Dios por haber dado ese poder a los seres humanos."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 977,
+      "char_end": 1163,
+      "text": "Cuando Jesús salió de allí, vio a un hombre llamado Mateo, que estaba sentado cobrando impuestos para el gobierno de Roma. Entonces Jesús le dijo: Sígueme. Mateo se levantó y lo siguió."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1163,
+      "char_end": 1315,
+      "text": "Ese mismo día, Jesús y sus discípulos fueron a comer a casa de Mateo. Allí también estaban comiendo otros cobradores de impuestos y gente de mala fama."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1315,
+      "char_end": 1469,
+      "text": "Cuando algunos fariseos vieron a toda esa gente, les preguntaron a los discípulos: —¿Por qué su maestro come con cobradores de impuestos y con pecadores?"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1469,
+      "char_end": 1590,
+      "text": "Jesús oyó lo que decían los fariseos y les dijo: —Los que necesitan del médico son los enfermos, no los que están sanos."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1590,
+      "char_end": 1837,
+      "text": "Mejor vayan y traten de averiguar lo que Dios quiso decir con estas palabras: «Prefiero que sean compasivos con la gente, y no que me traigan ofrendas». Yo vine a invitar a los pecadores para que sean mis discípulos, no a los que se creen buenos."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1837,
+      "char_end": 1995,
+      "text": "Los discípulos de Juan el Bautista fueron a ver a Jesús y le preguntaron: —Nosotros y los fariseos ayunamos mucho. ¿Por qué tus discípulos no hacen lo mismo?"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1995,
+      "char_end": 2179,
+      "text": "Jesús les respondió: —En una boda, los invitados no están tristes mientras el novio está con ellos. Pero llegará el momento en que se lleven al novio. Entonces los invitados ayunarán."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2179,
+      "char_end": 2362,
+      "text": "Si un vestido viejo se rompe, no se le pone un parche de tela nueva. Porque al lavarse el vestido viejo, la tela nueva se encoge y rompe todo el vestido; y entonces el daño es mayor."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2362,
+      "char_end": 2668,
+      "text": "Tampoco se echa vino nuevo en recipientes viejos, porque cuando el vino nuevo fermenta, hace que se reviente el cuero viejo; así se pierde el vino nuevo, y se destruyen los recipientes. Por eso, hay que echar vino nuevo en recipientes de cuero nuevo. De ese modo, ni el vino ni los recipientes se pierden."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2668,
+      "char_end": 2847,
+      "text": "Mientras Jesús hablaba, llegó un jefe de los judíos, se arrodilló delante de él y le dijo: ¡Mi hija acaba de morir! Pero si tú vienes y pones tu mano sobre ella, volverá a vivir."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2847,
+      "char_end": 2920,
+      "text": "Jesús se levantó y se fue con él. Sus discípulos también lo acompañaron."
+    },
+    {
+      "verse": 20,
+      "label": "20-21",
+      "char_start": 2920,
+      "char_end": 3213,
+      "text": "En el camino, pasaron por donde estaba una mujer que había estado enferma durante doce años. Su enfermedad le hacía perder mucha sangre. Al verlos pasar, la mujer pensó: Si tan sólo pudiera tocar el manto de Jesús, con eso quedaría sana. Entonces se acercó a Jesús por detrás y tocó su manto."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3213,
+      "char_end": 3356,
+      "text": "Jesús se dio vuelta, vio a la mujer y le dijo: Ya no te preocupes, tu confianza en Dios te ha sanado. Y desde ese momento la mujer quedó sana."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3356,
+      "char_end": 3505,
+      "text": "Jesús siguió su camino hasta la casa del jefe judío. Cuando llegó, vio a los músicos preparados para el entierro, y a mucha gente llorando a gritos."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3505,
+      "char_end": 3601,
+      "text": "Jesús les dijo: Salgan de aquí. La niña no está muerta, sino dormida. La gente se rió de Jesús."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3601,
+      "char_end": 3694,
+      "text": "Pero una vez que sacaron a todos, Jesús entró, tomó de la mano a la niña, y ella se levantó."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3694,
+      "char_end": 3744,
+      "text": "Todos en esa región supieron lo que había pasado."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3744,
+      "char_end": 3880,
+      "text": "Cuando Jesús salió de allí, dos ciegos lo siguieron y comenzaron a gritarle: —¡Jesús, tú que eres el Mesías, ten compasión de nosotros!"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3880,
+      "char_end": 4053,
+      "text": "Los ciegos siguieron a Jesús hasta la casa. Y cuando ya estaban adentro, Jesús les preguntó: —¿Creen ustedes que puedo sanarlos? Ellos respondieron: —Sí, Señor; lo creemos."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 4053,
+      "char_end": 4136,
+      "text": "Entonces Jesús les tocó los ojos y dijo: —Por haber confiado en mí, serán sanados."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4136,
+      "char_end": 4243,
+      "text": "De inmediato, los ciegos pudieron volver a ver. Pero Jesús les ordenó: —No le cuenten a nadie lo que pasó."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4243,
+      "char_end": 4345,
+      "text": "Sin embargo, ellos salieron y le contaron a toda la gente de aquella región lo que Jesús había hecho."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4345,
+      "char_end": 4487,
+      "text": "Después de que aquellos hombres salieron de la casa, unas personas le trajeron a Jesús un hombre que no podía hablar porque tenía un demonio."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4487,
+      "char_end": 4639,
+      "text": "Cuando Jesús expulsó al demonio, el hombre pudo hablar. La gente que estaba allí se quedó asombrada, y decía: ¡Nunca se había visto algo así en Israel!"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4639,
+      "char_end": 4761,
+      "text": "Pero los fariseos decían: Si Jesús expulsa a los demonios, es porque el jefe mismo de todos los demonios le da ese poder."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4761,
+      "char_end": 4947,
+      "text": "Jesús recorría todos los pueblos y las ciudades. Enseñaba en las sinagogas, anunciaba las buenas noticias del reino de Dios, y sanaba a la gente que sufría de dolores y de enfermedades."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4947,
+      "char_end": 5140,
+      "text": "Y al ver la gran cantidad de gente que lo seguía, Jesús sintió mucha compasión, porque vio que era gente confundida, que no tenía quien la defendiera. ¡Parecían un rebaño de ovejas sin pastor!"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 5140,
+      "char_end": 5299,
+      "text": "Jesús les dijo a sus discípulos: Son muchos los que necesitan entrar al reino de Dios, pero son muy pocos los discípulos para anunciarles las buenas noticias."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 5299,
+      "char_end": 5408,
+      "text": "Por eso, pídanle a Dios que envíe más discípulos, para que compartan las buenas noticias con toda esa gente."
+    }
+  ],
+  "words": [
+    {
+      "word": "Después de esto, Jesús subió a una barca y cruzó al otro lado del lago para llegar al pueblo de Cafarnaúm, donde vivía.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7637,
+      "duration_ms": 7537
+    },
+    {
+      "word": "Allí, algunas personas le llevaron a un hombre acostado en una camilla, pues no podía caminar.",
+      "verse": 2,
+      "start_ms": 7587,
+      "end_ms": 13812,
+      "duration_ms": 6225
+    },
+    {
+      "word": "Al ver Jesús que estas personas confiaban en él, le dijo al hombre: ¡Ánimo, amigo!",
+      "verse": 2,
+      "start_ms": 13812,
+      "end_ms": 19574,
+      "duration_ms": 5762
+    },
+    {
+      "word": "Te perdono tus pecados.",
+      "verse": 2,
+      "start_ms": 19575,
+      "end_ms": 21987,
+      "duration_ms": 2412
+    },
+    {
+      "word": "Algunos de los maestros de la Ley, que estaban en aquel lugar, pensaron: ¿Qué se cree éste?",
+      "verse": 3,
+      "start_ms": 21987,
+      "end_ms": 28037,
+      "duration_ms": 6050
+    },
+    {
+      "word": "Se imagina que es Dios?",
+      "verse": 3,
+      "start_ms": 28037,
+      "end_ms": 30312,
+      "duration_ms": 2275
+    },
+    {
+      "word": "Qué equivocado está!",
+      "verse": 3,
+      "start_ms": 30312,
+      "end_ms": 32437,
+      "duration_ms": 2125
+    },
+    {
+      "word": "Pero Jesús se dio cuenta de lo que estaban pensando, así que les preguntó: ¿Por qué piensan algo tan malo?",
+      "verse": 4,
+      "start_ms": 32437,
+      "end_ms": 38999,
+      "duration_ms": 6562
+    },
+    {
+      "word": "Díganme: ¿qué es más fácil?",
+      "verse": 5,
+      "start_ms": 39000,
+      "end_ms": 41762,
+      "duration_ms": 2762
+    },
+    {
+      "word": "Perdonar a este enfermo, o sanarlo?",
+      "verse": 5,
+      "start_ms": 41762,
+      "end_ms": 44787,
+      "duration_ms": 3025
+    },
+    {
+      "word": "Pues voy a demostrarles que yo, el Hijo del hombre, tengo poder en la tierra para perdonar pecados.",
+      "verse": 6,
+      "start_ms": 44787,
+      "end_ms": 51087,
+      "duration_ms": 6300
+    },
+    {
+      "word": "Entonces Jesús le dijo al que no podía caminar: Levántate, toma tu camilla y vete a tu casa.",
+      "verse": 6,
+      "start_ms": 51087,
+      "end_ms": 57549,
+      "duration_ms": 6462
+    },
+    {
+      "word": "El hombre se levantó y se fue a su casa.",
+      "verse": 7,
+      "start_ms": 57550,
+      "end_ms": 60575,
+      "duration_ms": 3025
+    },
+    {
+      "word": "Cuando la gente vio esto, quedó muy impresionada y alabó a Dios por haber dado ese poder a los seres humanos.",
+      "verse": 8,
+      "start_ms": 60575,
+      "end_ms": 67312,
+      "duration_ms": 6737
+    },
+    {
+      "word": "Cuando Jesús salió de allí, vio a un hombre llamado Mateo, que estaba sentado cobrando impuestos para el gobierno de Roma.",
+      "verse": 9,
+      "start_ms": 67312,
+      "end_ms": 74562,
+      "duration_ms": 7250
+    },
+    {
+      "word": "Entonces Jesús le dijo: Sígueme.",
+      "verse": 9,
+      "start_ms": 74562,
+      "end_ms": 77799,
+      "duration_ms": 3237
+    },
+    {
+      "word": "Mateo se levantó y lo siguió.",
+      "verse": 9,
+      "start_ms": 77800,
+      "end_ms": 80412,
+      "duration_ms": 2612
+    },
+    {
+      "word": "Ese mismo día, Jesús y sus discípulos fueron a comer a casa de Mateo.",
+      "verse": 10,
+      "start_ms": 80412,
+      "end_ms": 85324,
+      "duration_ms": 4912
+    },
+    {
+      "word": "Allí también estaban comiendo otros cobradores de impuestos y gente de mala fama.",
+      "verse": 10,
+      "start_ms": 85325,
+      "end_ms": 90387,
+      "duration_ms": 5062
+    },
+    {
+      "word": "Cuando algunos fariseos vieron a toda esa gente, les preguntaron a los discípulos: —¿Por qué su maestro come con cobradores de impuestos y con pecadores?",
+      "verse": 11,
+      "start_ms": 90387,
+      "end_ms": 99387,
+      "duration_ms": 9000
+    },
+    {
+      "word": "Jesús oyó lo que decían los fariseos y les dijo: —Los que necesitan del médico son los enfermos, no los que están sanos.",
+      "verse": 12,
+      "start_ms": 99387,
+      "end_ms": 107012,
+      "duration_ms": 7625
+    },
+    {
+      "word": "Mejor vayan y traten de averiguar lo que Dios quiso decir con estas palabras: «Prefiero que sean compasivos con la gente, y no que me traigan ofrendas».",
+      "verse": 13,
+      "start_ms": 107012,
+      "end_ms": 115899,
+      "duration_ms": 8887
+    },
+    {
+      "word": "Yo vine a invitar a los pecadores para que sean mis discípulos, no a los que se creen buenos.",
+      "verse": 13,
+      "start_ms": 115900,
+      "end_ms": 121562,
+      "duration_ms": 5662
+    },
+    {
+      "word": "Los discípulos de Juan el Bautista fueron a ver a Jesús y le preguntaron: —Nosotros y los fariseos ayunamos mucho.",
+      "verse": 14,
+      "start_ms": 121562,
+      "end_ms": 128512,
+      "duration_ms": 6950
+    },
+    {
+      "word": "Por qué tus discípulos no hacen lo mismo?",
+      "verse": 14,
+      "start_ms": 128512,
+      "end_ms": 131562,
+      "duration_ms": 3050
+    },
+    {
+      "word": "Jesús les respondió: —En una boda, los invitados no están tristes mientras el novio está con ellos.",
+      "verse": 15,
+      "start_ms": 131562,
+      "end_ms": 138074,
+      "duration_ms": 6512
+    },
+    {
+      "word": "Pero llegará el momento en que se lleven al novio.",
+      "verse": 15,
+      "start_ms": 138075,
+      "end_ms": 141250,
+      "duration_ms": 3175
+    },
+    {
+      "word": "Entonces los invitados ayunarán.",
+      "verse": 15,
+      "start_ms": 141250,
+      "end_ms": 144075,
+      "duration_ms": 2825
+    },
+    {
+      "word": "Si un vestido viejo se rompe, no se le pone un parche de tela nueva.",
+      "verse": 16,
+      "start_ms": 144075,
+      "end_ms": 148762,
+      "duration_ms": 4687
+    },
+    {
+      "word": "Porque al lavarse el vestido viejo, la tela nueva se encoge y rompe todo el vestido; y entonces el daño es mayor.",
+      "verse": 16,
+      "start_ms": 148762,
+      "end_ms": 156162,
+      "duration_ms": 7400
+    },
+    {
+      "word": "Tampoco se echa vino nuevo en recipientes viejos, porque cuando el vino nuevo fermenta, hace que se reviente el cuero viejo; así se pierde el vino nuevo, y se destruyen los recipientes.",
+      "verse": 17,
+      "start_ms": 156162,
+      "end_ms": 167462,
+      "duration_ms": 11300
+    },
+    {
+      "word": "Por eso, hay que echar vino nuevo en recipientes de cuero nuevo.",
+      "verse": 17,
+      "start_ms": 167462,
+      "end_ms": 171762,
+      "duration_ms": 4300
+    },
+    {
+      "word": "De ese modo, ni el vino ni los recipientes se pierden.",
+      "verse": 17,
+      "start_ms": 171762,
+      "end_ms": 175937,
+      "duration_ms": 4175
+    },
+    {
+      "word": "Mientras Jesús hablaba, llegó un jefe de los judíos, se arrodilló delante de él y le dijo: ¡Mi hija acaba de morir!",
+      "verse": 18,
+      "start_ms": 175937,
+      "end_ms": 183337,
+      "duration_ms": 7400
+    },
+    {
+      "word": "Pero si tú vienes y pones tu mano sobre ella, volverá a vivir.",
+      "verse": 18,
+      "start_ms": 183337,
+      "end_ms": 187699,
+      "duration_ms": 4362
+    },
+    {
+      "word": "Jesús se levantó y se fue con él.",
+      "verse": 19,
+      "start_ms": 187700,
+      "end_ms": 190462,
+      "duration_ms": 2762
+    },
+    {
+      "word": "Sus discípulos también lo acompañaron.",
+      "verse": 19,
+      "start_ms": 190462,
+      "end_ms": 193449,
+      "duration_ms": 2987
+    },
+    {
+      "word": "En el camino, pasaron por donde estaba una mujer que había estado enferma durante doce años.",
+      "verse": 20,
+      "start_ms": 193450,
+      "end_ms": 199400,
+      "duration_ms": 5950
+    },
+    {
+      "word": "Su enfermedad le hacía perder mucha sangre.",
+      "verse": 20,
+      "start_ms": 199400,
+      "end_ms": 202675,
+      "duration_ms": 3275
+    },
+    {
+      "word": "Al verlos pasar, la mujer pensó: Si tan sólo pudiera tocar el manto de Jesús, con eso quedaría sana.",
+      "verse": 20,
+      "start_ms": 202675,
+      "end_ms": 209700,
+      "duration_ms": 7025
+    },
+    {
+      "word": "Entonces se acercó a Jesús por detrás y tocó su manto.",
+      "verse": 20,
+      "start_ms": 209700,
+      "end_ms": 213537,
+      "duration_ms": 3837
+    },
+    {
+      "word": "Jesús se dio vuelta, vio a la mujer y le dijo: Ya no te preocupes, tu confianza en Dios te ha sanado.",
+      "verse": 22,
+      "start_ms": 213537,
+      "end_ms": 220524,
+      "duration_ms": 6987
+    },
+    {
+      "word": "Y desde ese momento la mujer quedó sana.",
+      "verse": 22,
+      "start_ms": 220525,
+      "end_ms": 223700,
+      "duration_ms": 3175
+    },
+    {
+      "word": "Jesús siguió su camino hasta la casa del jefe judío.",
+      "verse": 23,
+      "start_ms": 223700,
+      "end_ms": 227487,
+      "duration_ms": 3787
+    },
+    {
+      "word": "Cuando llegó, vio a los músicos preparados para el entierro, y a mucha gente llorando a gritos.",
+      "verse": 23,
+      "start_ms": 227487,
+      "end_ms": 233674,
+      "duration_ms": 6187
+    },
+    {
+      "word": "Jesús les dijo: Salgan de aquí.",
+      "verse": 24,
+      "start_ms": 233675,
+      "end_ms": 236775,
+      "duration_ms": 3100
+    },
+    {
+      "word": "La niña no está muerta, sino dormida.",
+      "verse": 24,
+      "start_ms": 236775,
+      "end_ms": 240062,
+      "duration_ms": 3287
+    },
+    {
+      "word": "La gente se rió de Jesús.",
+      "verse": 24,
+      "start_ms": 240062,
+      "end_ms": 242537,
+      "duration_ms": 2475
+    },
+    {
+      "word": "Pero una vez que sacaron a todos, Jesús entró, tomó de la mano a la niña, y ella se levantó.",
+      "verse": 25,
+      "start_ms": 242537,
+      "end_ms": 248849,
+      "duration_ms": 6312
+    },
+    {
+      "word": "Todos en esa región supieron lo que había pasado.",
+      "verse": 26,
+      "start_ms": 248850,
+      "end_ms": 252275,
+      "duration_ms": 3425
+    },
+    {
+      "word": "Cuando Jesús salió de allí, dos ciegos lo siguieron y comenzaron a gritarle: —¡Jesús, tú que eres el Mesías, ten compasión de nosotros!",
+      "verse": 27,
+      "start_ms": 252275,
+      "end_ms": 261050,
+      "duration_ms": 8775
+    },
+    {
+      "word": "Los ciegos siguieron a Jesús hasta la casa.",
+      "verse": 28,
+      "start_ms": 261050,
+      "end_ms": 264175,
+      "duration_ms": 3125
+    },
+    {
+      "word": "Y cuando ya estaban adentro, Jesús",
+      "verse": 28,
+      "start_ms": 264175,
+      "end_ms": 267275,
+      "duration_ms": 3100
+    },
+    {
+      "word": "les preguntó: —¿Creen ustedes que puedo sanarlos?",
+      "verse": 28,
+      "start_ms": 267436,
+      "end_ms": 271198,
+      "duration_ms": 3762
+    },
+    {
+      "word": "Ellos respondieron: —Sí, Señor; lo creemos.",
+      "verse": 28,
+      "start_ms": 271148,
+      "end_ms": 275348,
+      "duration_ms": 4200
+    },
+    {
+      "word": "Entonces Jesús les tocó los ojos y dijo: —Por haber confiado en mí, serán sanados.",
+      "verse": 29,
+      "start_ms": 275348,
+      "end_ms": 281460,
+      "duration_ms": 6112
+    },
+    {
+      "word": "De inmediato, los ciegos pudieron volver a ver.",
+      "verse": 30,
+      "start_ms": 281461,
+      "end_ms": 285011,
+      "duration_ms": 3550
+    },
+    {
+      "word": "Pero Jesús les ordenó: —No le cuenten a nadie lo que pasó.",
+      "verse": 30,
+      "start_ms": 285011,
+      "end_ms": 289111,
+      "duration_ms": 4100
+    },
+    {
+      "word": "Sin embargo, ellos salieron y le contaron a toda la gente de aquella región lo que Jesús había hecho.",
+      "verse": 31,
+      "start_ms": 289111,
+      "end_ms": 295323,
+      "duration_ms": 6212
+    },
+    {
+      "word": "Después de que aquellos hombres salieron de la casa, unas personas le trajeron a Jesús un hombre que no podía hablar porque tenía un demonio.",
+      "verse": 32,
+      "start_ms": 295323,
+      "end_ms": 302923,
+      "duration_ms": 7600
+    },
+    {
+      "word": "Cuando Jesús expulsó al demonio, el hombre pudo hablar.",
+      "verse": 33,
+      "start_ms": 302923,
+      "end_ms": 306848,
+      "duration_ms": 3925
+    },
+    {
+      "word": "La gente que estaba allí se quedó asombrada, y decía: ¡Nunca se había visto algo así en Israel!",
+      "verse": 33,
+      "start_ms": 306848,
+      "end_ms": 313173,
+      "duration_ms": 6325
+    },
+    {
+      "word": "Pero los fariseos decían: Si Jesús expulsa a los demonios, es porque el jefe mismo de todos los demonios le da ese poder.",
+      "verse": 34,
+      "start_ms": 313173,
+      "end_ms": 321010,
+      "duration_ms": 7837
+    },
+    {
+      "word": "Jesús recorría todos los pueblos y las ciudades.",
+      "verse": 35,
+      "start_ms": 321011,
+      "end_ms": 324661,
+      "duration_ms": 3650
+    },
+    {
+      "word": "Enseñaba en las sinagogas, anunciaba las buenas noticias del reino de Dios, y sanaba a la gente que sufría de dolores y de enfermedades.",
+      "verse": 35,
+      "start_ms": 324661,
+      "end_ms": 333236,
+      "duration_ms": 8575
+    },
+    {
+      "word": "Y al ver la gran cantidad de gente que lo seguía, Jesús sintió mucha compasión, porque vio que era gente confundida, que no tenía quien la defendiera.",
+      "verse": 36,
+      "start_ms": 333236,
+      "end_ms": 342311,
+      "duration_ms": 9075
+    },
+    {
+      "word": "Parecían un rebaño de ovejas sin pastor!",
+      "verse": 36,
+      "start_ms": 342311,
+      "end_ms": 345298,
+      "duration_ms": 2987
+    },
+    {
+      "word": "Jesús les dijo a sus discípulos: Son muchos los que necesitan entrar al reino de Dios, pero son muy pocos los discípulos para anunciarles las buenas noticias.",
+      "verse": 37,
+      "start_ms": 345298,
+      "end_ms": 354810,
+      "duration_ms": 9512
+    },
+    {
+      "word": "Por eso, pídanle a Dios que envíe más discípulos, para que compartan las buenas noticias con toda esa gente.",
+      "verse": 38,
+      "start_ms": 354811,
+      "end_ms": 362036,
+      "duration_ms": 7225
+    }
+  ]
+}

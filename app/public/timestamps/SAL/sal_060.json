@@ -1,0 +1,201 @@
+{
+  "book": "SAL",
+  "chapter": 60,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 11,
+  "word_count": 16,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 95,
+      "text": "Dios mío, tú te enojaste, te alejaste de nosotros y nos destruiste. ¡Ahora vuelve a ayudarnos!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 95,
+      "char_end": 169,
+      "text": "Sacudiste la tierra, y se llenó de grietas; ¡sánala, porque se desmorona!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 169,
+      "char_end": 253,
+      "text": "Nos has dado pruebas muy duras; nos has dado a beber un vino que nos hace tropezar."
+    },
+    {
+      "verse": 4,
+      "label": "4-5",
+      "char_start": 253,
+      "char_end": 413,
+      "text": "Nosotros te somos fieles: ¡respóndenos! ¡Sálvanos con tu poder! ¡Dinos qué debemos hacer para escapar de las flechas! Así este pueblo que amas quedará a salvo."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 413,
+      "char_end": 536,
+      "text": "Desde tu templo has declarado: Cuando yo triunfe repartiré entre mi pueblo las tierras de Siquem y las del valle de Sucot."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 536,
+      "char_end": 657,
+      "text": "Las tierras de Galaad son mías; al norte están las tribus de José para proteger a mi pueblo, y en Judá he puesto al rey."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 657,
+      "char_end": 760,
+      "text": "Los de Moab son mis esclavos, Edom es mi propiedad, y en territorio filisteo lanzo gritos de victoria."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 760,
+      "char_end": 862,
+      "text": "¿Quién quiere llevarme hasta la ciudad con muros? ¿Quién quiere enseñarme el camino que lleva a Edom?"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 862,
+      "char_end": 960,
+      "text": "¡Tú, Dios mío, te has alejado de nosotros y ya no sales a pelear al frente de nuestros ejércitos!"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 960,
+      "char_end": 1023,
+      "text": "La ayuda humana resulta inútil; ¡ayúdanos a vencer al enemigo!"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1023,
+      "char_end": 1091,
+      "text": "Dios nuestro, tú los vencerás; ¡con tu ayuda saldremos victoriosos!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios mío, tú te enojaste, te alejaste de nosotros y nos destruiste.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5275,
+      "duration_ms": 5175
+    },
+    {
+      "word": "Ahora vuelve a ayudarnos!",
+      "verse": 1,
+      "start_ms": 5225,
+      "end_ms": 7662,
+      "duration_ms": 2437
+    },
+    {
+      "word": "Sacudiste la tierra, y se llenó de grietas; ¡sánala, porque se desmorona!",
+      "verse": 2,
+      "start_ms": 7662,
+      "end_ms": 13187,
+      "duration_ms": 5525
+    },
+    {
+      "word": "Nos has dado pruebas muy duras; nos has dado a beber un vino que nos hace tropezar.",
+      "verse": 3,
+      "start_ms": 13187,
+      "end_ms": 18637,
+      "duration_ms": 5450
+    },
+    {
+      "word": "Nosotros te somos fieles: ¡respóndenos!",
+      "verse": 4,
+      "start_ms": 18637,
+      "end_ms": 22212,
+      "duration_ms": 3575
+    },
+    {
+      "word": "Sálvanos con tu poder!",
+      "verse": 4,
+      "start_ms": 22212,
+      "end_ms": 24462,
+      "duration_ms": 2250
+    },
+    {
+      "word": "Dinos qué debemos hacer para escapar de las flechas!",
+      "verse": 4,
+      "start_ms": 24462,
+      "end_ms": 28012,
+      "duration_ms": 3550
+    },
+    {
+      "word": "Así este pueblo que amas quedará a salvo.",
+      "verse": 4,
+      "start_ms": 28012,
+      "end_ms": 31137,
+      "duration_ms": 3125
+    },
+    {
+      "word": "Desde tu templo has declarado: Cuando yo triunfe repartiré entre mi pueblo las tierras de Siquem y las del valle de Sucot.",
+      "verse": 6,
+      "start_ms": 31137,
+      "end_ms": 38262,
+      "duration_ms": 7125
+    },
+    {
+      "word": "Las tierras de Galaad son mías; al norte están las tribus de José para proteger a mi pueblo, y en Judá he puesto al rey.",
+      "verse": 7,
+      "start_ms": 38262,
+      "end_ms": 45562,
+      "duration_ms": 7300
+    },
+    {
+      "word": "Los de Moab son mis esclavos, Edom es mi propiedad, y en territorio filisteo lanzo gritos de victoria.",
+      "verse": 8,
+      "start_ms": 45562,
+      "end_ms": 52537,
+      "duration_ms": 6975
+    },
+    {
+      "word": "Quién quiere llevarme hasta la ciudad con muros?",
+      "verse": 9,
+      "start_ms": 52537,
+      "end_ms": 55762,
+      "duration_ms": 3225
+    },
+    {
+      "word": "Quién quiere enseñarme el camino que lleva a Edom?",
+      "verse": 9,
+      "start_ms": 55762,
+      "end_ms": 58924,
+      "duration_ms": 3162
+    },
+    {
+      "word": "Tú, Dios mío, te has alejado de nosotros y ya no sales a pelear al frente de nuestros ejércitos!",
+      "verse": 10,
+      "start_ms": 58925,
+      "end_ms": 65550,
+      "duration_ms": 6625
+    },
+    {
+      "word": "La ayuda humana resulta inútil; ¡ayúdanos a vencer al enemigo!",
+      "verse": 11,
+      "start_ms": 65550,
+      "end_ms": 70200,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Dios nuestro, tú los vencerás; ¡con tu ayuda saldremos victoriosos!",
+      "verse": 12,
+      "start_ms": 70200,
+      "end_ms": 75312,
+      "duration_ms": 5112
+    }
+  ]
+}

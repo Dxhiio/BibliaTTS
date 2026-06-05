@@ -1,0 +1,810 @@
+{
+  "book": "JER",
+  "chapter": 31,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 36,
+  "word_count": 78,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 126,
+      "text": "El Dios de Israel declara: El día que vuelvan de Babilonia, yo seré el Dios de todos los israelitas, y ellos serán mi pueblo."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 126,
+      "char_end": 244,
+      "text": "Cuando andaban por el desierto, yo les demostré mi gran amor. A los que no murieron en la guerra, los hice descansar."
+    },
+    {
+      "verse": 3,
+      "label": "3-4",
+      "char_start": 244,
+      "char_end": 494,
+      "text": "Hace mucho, mucho tiempo me aparecí ante ellos y les dije: «Pueblo de Israel, siempre te he amado, siempre te he sido fiel. Por eso nunca dejaré de tratarte con bondad. Volveré a reconstruirte, y volverás a danzar alegremente, a ritmo de panderetas."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 494,
+      "char_end": 575,
+      "text": "En las colinas de Samaria volverás a plantar viñedos, y disfrutarás de las uvas."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 575,
+      "char_end": 696,
+      "text": "Muy pronto los guardias gritarán por las colinas de Efraín: ‘¡Vengan, vayamos a Jerusalén, y adoremos a nuestro Dios!’»."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 696,
+      "char_end": 931,
+      "text": "El Dios de Israel dice: ¡Canten alegres, israelitas! ¡Ustedes son los más importantes entre todas las naciones! En sus alabanzas canten: «¡Tú, Dios nuestro, nos salvaste! ¡Salvaste a los pocos israelitas que aún quedábamos con vida!»."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 931,
+      "char_end": 1164,
+      "text": "Yo los haré volver de Babilonia; los haré volver de todos los rincones del mundo, y los llevaré a su tierra. Serán muchos los que vuelvan. Volverán los ciegos y los cojos, las que estén embarazadas, y las que llevan bebés en brazos."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1164,
+      "char_end": 1301,
+      "text": "Vendrán arrepentidos, con lágrimas en los ojos, y yo los llevaré por un camino seguro. Israel, yo soy tu padre, y tú eres mi hijo mayor."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1301,
+      "char_end": 1491,
+      "text": "Dios les dice a las naciones: Escuchen mi mensaje. Digan a las islas lejanas que yo dispersé a Israel, pero que volveré a reunirlo. Ahora voy a cuidarlos, como cuida el pastor a sus ovejas."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1491,
+      "char_end": 1585,
+      "text": "Rescataré a los israelitas; los libraré del poder de ustedes, pues son más fuertes que ellos."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1585,
+      "char_end": 1799,
+      "text": "Cuando ellos lleguen a Jerusalén disfrutarán de mis bendiciones. Yo les daré trigo, vino y aceite, y también vacas y ovejas, para que hagan fiesta. Serán como un jardín bien regado, y nunca más perderán su fuerza."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1799,
+      "char_end": 1909,
+      "text": "Yo les daré consuelo; cambiaré su dolor en danza y su tristeza en alegría. Bailarán alegres jóvenes y viejos."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1909,
+      "char_end": 2029,
+      "text": "Los sacerdotes y mi pueblo disfrutarán de mis bendiciones, y tendrán más de lo que necesitan. Les juro que así lo haré."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2029,
+      "char_end": 2178,
+      "text": "El Dios de Israel dice: Grandes llantos y lamentos oyó la gente de Ramá. Es Raquel, que llora por la muerte de sus hijos, y no quiere ser consolada."
+    },
+    {
+      "verse": 16,
+      "label": "16-17",
+      "char_start": 2178,
+      "char_end": 2395,
+      "text": "Pero Dios le dice: Sécate las lágrimas, Raquel; ya no sigas llorando ni pierdas la esperanza. Tus hijos volverán a su patria; volverán de ese país enemigo, y tu sufrimiento se verá recompensado. Te juro que así será."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2395,
+      "char_end": 2608,
+      "text": "Ya he escuchado a mi pueblo llorar amargamente. Los he oído reclamarme: «Dios de Israel, ¡tú eres nuestro Dios! Éramos como un toro salvaje, pero tú pudiste domarnos y ahora sabemos obedecer. ¡Acéptanos de nuevo!"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2608,
+      "char_end": 2734,
+      "text": "Cuando jóvenes, te abandonamos; pero ahora estamos arrepentidos. ¡Estamos tan avergonzados que nosotros mismos nos herimos!»."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2734,
+      "char_end": 2934,
+      "text": "Pero yo les he dicho: «Ustedes son mi pueblo preferido; ¡y los quiero más que a nadie! Es verdad que los reprendo, pero siempre pienso en ustedes. ¡Los amo de todo corazón! ¡Les tengo un gran cariño!"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2934,
+      "char_end": 3041,
+      "text": "Amado pueblo de Israel, ¡regresa ya a tus ciudades! ¡Pon señales en el camino para que puedas encontrarlo!"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3041,
+      "char_end": 3197,
+      "text": "¡Deja ya de andar perdido! ¡Deja ya de serme infiel! Yo soy el Dios de Israel, y he creado algo nuevo y sorprendente, tanto que nadie podría imaginárselo»."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3197,
+      "char_end": 3493,
+      "text": "En un sueño, el Dios todopoderoso me dijo: Cuando yo haga volver a los israelitas del país donde ahora son esclavos, los que viven en las ciudades de Judá volverán a decir: «¡Dios te bendiga, Jerusalén! ¡Ciudad elegida por Dios! ¡Dios te bendiga, templo de Dios, pues en ti habita la justicia!»."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3493,
+      "char_end": 3608,
+      "text": "Allí vivirán todos los que ahora viven en las ciudades de Judá, junto con los campesinos y los pastores de ovejas."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3608,
+      "char_end": 3693,
+      "text": "A los que tengan hambre les daré de comer, y a los que tengan sed les daré de beber."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3693,
+      "char_end": 3784,
+      "text": "Cuando me desperté y abrí los ojos, me di cuenta de que había tenido un sueño muy hermoso."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3784,
+      "char_end": 3894,
+      "text": "El Dios de Israel dice: Viene el día en que haré que Israel y Judá vuelvan a poblarse de gente y de animales."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3894,
+      "char_end": 4031,
+      "text": "Así como antes me dediqué a derribarlos, arrancarlos y destruirlos, ahora me dedicaré a plantarlos, reconstruirlos y ayudarlos a crecer."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 4031,
+      "char_end": 4122,
+      "text": "Cuando llegue ese día, nadie volverá a decir: «Los padres la hacen, y los hijos la pagan»,"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4122,
+      "char_end": 4247,
+      "text": "porque cada quien será responsable de sus propios actos. En otras palabras, cada uno de ustedes morirá por su propio pecado."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4247,
+      "char_end": 4360,
+      "text": "El Dios de Israel dice: Viene el día en que haré un nuevo pacto con el pueblo de Israel y con el pueblo de Judá."
+    },
+    {
+      "verse": 32,
+      "label": "32-33",
+      "char_start": 4360,
+      "char_end": 4722,
+      "text": "En el pasado, tomé de la mano a sus antepasados y los saqué de Egipto, y luego hice un pacto con ellos. Pero no lo cumplieron, a pesar de que yo era su Dios. Por eso, mi nuevo pacto con el pueblo de Israel será éste: Haré que mis enseñanzas las aprendan de memoria, y que sean la guía de su vida. Yo seré su Dios, y ellos serán mi pueblo. Les juro que así será."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4722,
+      "char_end": 4969,
+      "text": "Ya no hará falta que unos sean maestros de otros, y que les enseñen a conocerme, porque todos me conocerán, desde el más joven hasta el más viejo. Yo les perdonaré todas sus maldades, y nunca más me acordaré de sus pecados. Les juro que así será."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4969,
+      "char_end": 5157,
+      "text": "El Dios todopoderoso dice: Yo hago que el sol alumbre de día, y que la luna y las estrellas alumbren de noche. Yo hago que ruja el mar y que se agiten las olas. ¡Yo soy el Dios de Israel!"
+    },
+    {
+      "verse": 36,
+      "label": "36-37",
+      "char_start": 5157,
+      "char_end": 5469,
+      "text": "El día que estas leyes naturales lleguen a faltar, ese día el pueblo de Israel dejará de ser mi nación preferida. El día que alguien pueda medir la altura del cielo o explorar lo profundo de la tierra, ese día yo rechazaré a mi pueblo por todo el mal que ha hecho. ¡Pero eso nunca sucederá! ¡Les doy mi palabra!"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 5469,
+      "char_end": 5610,
+      "text": "El Dios de Israel dice: Viene el día en que Jerusalén, mi ciudad, será reconstruida desde la torre de Hananel hasta el portón de la Esquina,"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 5610,
+      "char_end": 5665,
+      "text": "y de allí hasta la colina de Gareb y el barrio de Goá."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 5665,
+      "char_end": 5933,
+      "text": "Y serán dedicados a mí el valle donde se arrojan los cadáveres y las cenizas, y también los campos que llegan hasta el arroyo de Cedrón y hasta la entrada de los Caballos, en la esquina del este. ¡Nunca más la ciudad de Jerusalén volverá a ser arrancada ni destruida!"
+    }
+  ],
+  "words": [
+    {
+      "word": "El Dios de Israel declara: El día que vuelvan de Babilonia, yo seré el Dios de todos los israelitas, y ellos serán mi pueblo.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 8325,
+      "duration_ms": 8225
+    },
+    {
+      "word": "Cuando andaban por el desierto, yo les demostré mi gran amor.",
+      "verse": 2,
+      "start_ms": 8275,
+      "end_ms": 12437,
+      "duration_ms": 4162
+    },
+    {
+      "word": "A los que no murieron en la guerra, los hice descansar.",
+      "verse": 2,
+      "start_ms": 12437,
+      "end_ms": 16199,
+      "duration_ms": 3762
+    },
+    {
+      "word": "Hace mucho, mucho tiempo me aparecí ante ellos y les dije: «Pueblo de Israel, siempre te he amado, siempre te he sido fiel.",
+      "verse": 3,
+      "start_ms": 16200,
+      "end_ms": 24462,
+      "duration_ms": 8262
+    },
+    {
+      "word": "Por eso nunca dejaré de tratarte con bondad.",
+      "verse": 3,
+      "start_ms": 24462,
+      "end_ms": 27824,
+      "duration_ms": 3362
+    },
+    {
+      "word": "Volveré a reconstruirte, y volverás a danzar alegremente, a ritmo de panderetas.",
+      "verse": 3,
+      "start_ms": 27825,
+      "end_ms": 33937,
+      "duration_ms": 6112
+    },
+    {
+      "word": "En las colinas de Samaria volverás a plantar viñedos, y disfrutarás de las uvas.",
+      "verse": 5,
+      "start_ms": 33937,
+      "end_ms": 39374,
+      "duration_ms": 5437
+    },
+    {
+      "word": "Muy pronto los guardias gritarán por las colinas de Efraín: ‘¡Vengan, vayamos a Jerusalén, y adoremos a nuestro Dios!",
+      "verse": 6,
+      "start_ms": 39375,
+      "end_ms": 46837,
+      "duration_ms": 7462
+    },
+    {
+      "word": "El Dios de Israel dice: ¡Canten alegres, israelitas!",
+      "verse": 7,
+      "start_ms": 46837,
+      "end_ms": 51312,
+      "duration_ms": 4475
+    },
+    {
+      "word": "Ustedes son los más importantes entre todas las naciones!",
+      "verse": 7,
+      "start_ms": 51312,
+      "end_ms": 55349,
+      "duration_ms": 4037
+    },
+    {
+      "word": "En sus alabanzas canten: «¡Tú, Dios nuestro, nos salvaste!",
+      "verse": 7,
+      "start_ms": 55350,
+      "end_ms": 59912,
+      "duration_ms": 4562
+    },
+    {
+      "word": "Salvaste a los pocos israelitas que aún quedábamos con vida!",
+      "verse": 7,
+      "start_ms": 59912,
+      "end_ms": 64112,
+      "duration_ms": 4200
+    },
+    {
+      "word": "Yo los haré volver de Babilonia; los haré volver de todos los rincones del mundo, y los llevaré a su tierra.",
+      "verse": 8,
+      "start_ms": 64112,
+      "end_ms": 70862,
+      "duration_ms": 6750
+    },
+    {
+      "word": "Serán muchos los que vuelvan.",
+      "verse": 8,
+      "start_ms": 70862,
+      "end_ms": 73312,
+      "duration_ms": 2450
+    },
+    {
+      "word": "Volverán los ciegos y los cojos, las que estén embarazadas, y las que llevan bebés en brazos.",
+      "verse": 8,
+      "start_ms": 73312,
+      "end_ms": 79537,
+      "duration_ms": 6225
+    },
+    {
+      "word": "Vendrán arrepentidos, con lágrimas en los ojos, y yo los llevaré por un camino seguro.",
+      "verse": 9,
+      "start_ms": 79537,
+      "end_ms": 85549,
+      "duration_ms": 6012
+    },
+    {
+      "word": "Israel, yo soy tu padre, y tú eres mi hijo mayor.",
+      "verse": 9,
+      "start_ms": 85550,
+      "end_ms": 90087,
+      "duration_ms": 4537
+    },
+    {
+      "word": "Dios les dice a las naciones: Escuchen mi mensaje.",
+      "verse": 10,
+      "start_ms": 90087,
+      "end_ms": 94099,
+      "duration_ms": 4012
+    },
+    {
+      "word": "Digan a las islas lejanas que yo dispersé a Israel, pero que volveré a reunirlo.",
+      "verse": 10,
+      "start_ms": 94100,
+      "end_ms": 99600,
+      "duration_ms": 5500
+    },
+    {
+      "word": "Ahora voy a cuidarlos, como cuida el pastor a sus ovejas.",
+      "verse": 10,
+      "start_ms": 99600,
+      "end_ms": 104075,
+      "duration_ms": 4475
+    },
+    {
+      "word": "Rescataré a los israelitas; los libraré del poder de ustedes, pues son más fuertes que ellos.",
+      "verse": 11,
+      "start_ms": 104075,
+      "end_ms": 110750,
+      "duration_ms": 6675
+    },
+    {
+      "word": "Cuando ellos lleguen a Jerusalén disfrutarán de mis bendiciones.",
+      "verse": 12,
+      "start_ms": 110750,
+      "end_ms": 114912,
+      "duration_ms": 4162
+    },
+    {
+      "word": "Yo les daré trigo, vino y aceite, y también vacas y ovejas, para que hagan fiesta.",
+      "verse": 12,
+      "start_ms": 114912,
+      "end_ms": 121137,
+      "duration_ms": 6225
+    },
+    {
+      "word": "Serán como un jardín bien regado, y nunca más perderán su fuerza.",
+      "verse": 12,
+      "start_ms": 121137,
+      "end_ms": 125962,
+      "duration_ms": 4825
+    },
+    {
+      "word": "Yo les daré consuelo; cambiaré su dolor en danza y su tristeza en alegría.",
+      "verse": 13,
+      "start_ms": 125962,
+      "end_ms": 131099,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Bailarán alegres jóvenes y viejos.",
+      "verse": 13,
+      "start_ms": 131100,
+      "end_ms": 134225,
+      "duration_ms": 3125
+    },
+    {
+      "word": "Los sacerdotes y mi pueblo disfrutarán de mis bendiciones, y tendrán más de lo que necesitan.",
+      "verse": 14,
+      "start_ms": 134225,
+      "end_ms": 140137,
+      "duration_ms": 5912
+    },
+    {
+      "word": "Les juro que así lo haré.",
+      "verse": 14,
+      "start_ms": 140137,
+      "end_ms": 142349,
+      "duration_ms": 2212
+    },
+    {
+      "word": "El Dios de Israel dice: Grandes llantos y lamentos oyó la gente de Ramá.",
+      "verse": 15,
+      "start_ms": 142350,
+      "end_ms": 147425,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Es Raquel, que llora por la muerte de sus hijos, y no quiere ser consolada.",
+      "verse": 15,
+      "start_ms": 147425,
+      "end_ms": 152612,
+      "duration_ms": 5187
+    },
+    {
+      "word": "Pero Dios le dice: Sécate las lágrimas, Raquel; ya no sigas llorando ni pierdas la esperanza.",
+      "verse": 16,
+      "start_ms": 152612,
+      "end_ms": 159387,
+      "duration_ms": 6775
+    },
+    {
+      "word": "Tus hijos volverán a su patria; volverán de ese país enemigo, y tu sufrimiento se verá recompensado.",
+      "verse": 16,
+      "start_ms": 159387,
+      "end_ms": 166337,
+      "duration_ms": 6950
+    },
+    {
+      "word": "Te juro que así será.",
+      "verse": 16,
+      "start_ms": 166337,
+      "end_ms": 168512,
+      "duration_ms": 2175
+    },
+    {
+      "word": "Ya he escuchado a mi pueblo llorar amargamente.",
+      "verse": 18,
+      "start_ms": 168512,
+      "end_ms": 172062,
+      "duration_ms": 3550
+    },
+    {
+      "word": "Los he oído reclamarme: «Dios de Israel, ¡tú eres nuestro Dios!",
+      "verse": 18,
+      "start_ms": 172062,
+      "end_ms": 177037,
+      "duration_ms": 4975
+    },
+    {
+      "word": "Éramos como un toro salvaje, pero tú pudiste domarnos y ahora sabemos obedecer.",
+      "verse": 18,
+      "start_ms": 177037,
+      "end_ms": 182762,
+      "duration_ms": 5725
+    },
+    {
+      "word": "Acéptanos de nuevo!",
+      "verse": 18,
+      "start_ms": 182762,
+      "end_ms": 184799,
+      "duration_ms": 2037
+    },
+    {
+      "word": "Cuando jóvenes, te abandonamos; pero ahora estamos arrepentidos.",
+      "verse": 19,
+      "start_ms": 184800,
+      "end_ms": 189775,
+      "duration_ms": 4975
+    },
+    {
+      "word": "Estamos tan avergonzados que nosotros mismos nos herimos!",
+      "verse": 19,
+      "start_ms": 189775,
+      "end_ms": 193862,
+      "duration_ms": 4087
+    },
+    {
+      "word": "Pero yo les he dicho: «Ustedes son mi pueblo preferido; ¡y los quiero más que a nadie!",
+      "verse": 20,
+      "start_ms": 193862,
+      "end_ms": 199499,
+      "duration_ms": 5637
+    },
+    {
+      "word": "Es verdad que los reprendo, pero siempre pienso en ustedes.",
+      "verse": 20,
+      "start_ms": 199500,
+      "end_ms": 203662,
+      "duration_ms": 4162
+    },
+    {
+      "word": "Los amo de todo corazón!",
+      "verse": 20,
+      "start_ms": 203662,
+      "end_ms": 206074,
+      "duration_ms": 2412
+    },
+    {
+      "word": "Les tengo un gran cariño!",
+      "verse": 20,
+      "start_ms": 206075,
+      "end_ms": 208287,
+      "duration_ms": 2212
+    },
+    {
+      "word": "Amado pueblo de Israel, ¡regresa ya a tus ciudades!",
+      "verse": 21,
+      "start_ms": 208287,
+      "end_ms": 212562,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Pon señales en el camino para que puedas encontrarlo!",
+      "verse": 21,
+      "start_ms": 212562,
+      "end_ms": 216112,
+      "duration_ms": 3550
+    },
+    {
+      "word": "Deja ya de andar perdido!",
+      "verse": 22,
+      "start_ms": 216112,
+      "end_ms": 218424,
+      "duration_ms": 2312
+    },
+    {
+      "word": "Deja ya de serme infiel!",
+      "verse": 22,
+      "start_ms": 218425,
+      "end_ms": 220725,
+      "duration_ms": 2300
+    },
+    {
+      "word": "Yo soy el Dios de Israel, y he creado algo nuevo y sorprendente, tanto que nadie podría imaginárselo».",
+      "verse": 22,
+      "start_ms": 220725,
+      "end_ms": 227700,
+      "duration_ms": 6975
+    },
+    {
+      "word": "En un sueño, el Dios todopoderoso me dijo: Cuando yo haga volver a los israelitas del país donde ahora son esclavos, los que viven en las ciudades de Judá volverán a decir: «¡Dios te bendiga, Jerusalén!",
+      "verse": 23,
+      "start_ms": 227700,
+      "end_ms": 240112,
+      "duration_ms": 12412
+    },
+    {
+      "word": "Ciudad elegida por Dios!",
+      "verse": 23,
+      "start_ms": 240112,
+      "end_ms": 242524,
+      "duration_ms": 2412
+    },
+    {
+      "word": "Dios te bendiga, templo de Dios, pues en ti habita la justicia!",
+      "verse": 23,
+      "start_ms": 242525,
+      "end_ms": 247275,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Allí vivirán todos los que ahora viven en las ciudades de Judá, junto con los campesinos y los pastores de ovejas.",
+      "verse": 24,
+      "start_ms": 247275,
+      "end_ms": 254050,
+      "duration_ms": 6775
+    },
+    {
+      "word": "A los que tengan hambre les daré de comer, y a los que tengan sed les daré de beber.",
+      "verse": 25,
+      "start_ms": 254050,
+      "end_ms": 259200,
+      "duration_ms": 5150
+    },
+    {
+      "word": "Cuando me desperté y abrí los ojos, me di cuenta de que había tenido un sueño muy hermoso.",
+      "verse": 26,
+      "start_ms": 259200,
+      "end_ms": 265050,
+      "duration_ms": 5850
+    },
+    {
+      "word": "El Dios de Israel dice: Viene el día en que haré que Israel y Judá vuelvan a poblarse de gente y de animales.",
+      "verse": 27,
+      "start_ms": 265050,
+      "end_ms": 272050,
+      "duration_ms": 7000
+    },
+    {
+      "word": "Así como antes me dediqué a derribarlos, arrancarlos y destruirlos, ahora me",
+      "verse": 28,
+      "start_ms": 272050,
+      "end_ms": 277925,
+      "duration_ms": 5875
+    },
+    {
+      "word": "dedicaré a plantarlos, reconstruirlos y ayudarlos a crecer.",
+      "verse": 28,
+      "start_ms": 278092,
+      "end_ms": 282754,
+      "duration_ms": 4662
+    },
+    {
+      "word": "Cuando llegue ese día, nadie volverá a decir: «Los padres la hacen, y los hijos la pagan», porque cada quien será responsable de sus propios actos.",
+      "verse": 29,
+      "start_ms": 282704,
+      "end_ms": 292291,
+      "duration_ms": 9587
+    },
+    {
+      "word": "En otras palabras, cada uno de ustedes morirá por su propio pecado.",
+      "verse": 30,
+      "start_ms": 292292,
+      "end_ms": 297142,
+      "duration_ms": 4850
+    },
+    {
+      "word": "El Dios de Israel dice: Viene el día en que haré un nuevo pacto con el pueblo de Israel y con el pueblo de Judá.",
+      "verse": 31,
+      "start_ms": 297142,
+      "end_ms": 304029,
+      "duration_ms": 6887
+    },
+    {
+      "word": "En el pasado, tomé de la mano a sus antepasados y los saqué de Egipto, y luego hice un pacto con ellos.",
+      "verse": 32,
+      "start_ms": 304029,
+      "end_ms": 311091,
+      "duration_ms": 7062
+    },
+    {
+      "word": "Pero no lo cumplieron, a pesar de que yo era su Dios.",
+      "verse": 32,
+      "start_ms": 311092,
+      "end_ms": 315004,
+      "duration_ms": 3912
+    },
+    {
+      "word": "Por eso, mi nuevo pacto con el pueblo de Israel será éste: Haré que mis enseñanzas las aprendan de memoria, y que sean la guía de su vida.",
+      "verse": 32,
+      "start_ms": 315004,
+      "end_ms": 323791,
+      "duration_ms": 8787
+    },
+    {
+      "word": "Yo seré su Dios, y ellos serán mi pueblo.",
+      "verse": 32,
+      "start_ms": 323792,
+      "end_ms": 327242,
+      "duration_ms": 3450
+    },
+    {
+      "word": "Les juro que así será.",
+      "verse": 32,
+      "start_ms": 327242,
+      "end_ms": 329479,
+      "duration_ms": 2237
+    },
+    {
+      "word": "Ya no hará falta que unos sean maestros de otros, y que les enseñen a conocerme, porque todos me conocerán, desde el más joven hasta el más viejo.",
+      "verse": 34,
+      "start_ms": 329479,
+      "end_ms": 338429,
+      "duration_ms": 8950
+    },
+    {
+      "word": "Yo les perdonaré todas sus maldades, y nunca más me acordaré de sus pecados.",
+      "verse": 34,
+      "start_ms": 338429,
+      "end_ms": 343991,
+      "duration_ms": 5562
+    },
+    {
+      "word": "Les juro que así será.",
+      "verse": 34,
+      "start_ms": 343992,
+      "end_ms": 346229,
+      "duration_ms": 2237
+    },
+    {
+      "word": "El Dios todopoderoso dice: Yo hago que el sol alumbre de día, y que la luna y las estrellas alumbren de noche.",
+      "verse": 35,
+      "start_ms": 346229,
+      "end_ms": 353604,
+      "duration_ms": 7375
+    },
+    {
+      "word": "Yo hago que ruja el mar y que se agiten las olas.",
+      "verse": 35,
+      "start_ms": 353604,
+      "end_ms": 357129,
+      "duration_ms": 3525
+    },
+    {
+      "word": "Yo soy el Dios de Israel!",
+      "verse": 35,
+      "start_ms": 357129,
+      "end_ms": 359416,
+      "duration_ms": 2287
+    },
+    {
+      "word": "El día que estas leyes naturales lleguen a faltar, ese día el pueblo de Israel dejará de ser mi nación preferida.",
+      "verse": 36,
+      "start_ms": 359417,
+      "end_ms": 366492,
+      "duration_ms": 7075
+    },
+    {
+      "word": "El día que alguien pueda medir la altura del cielo o explorar lo profundo de la tierra, ese día yo rechazaré a mi pueblo por todo el mal que ha hecho.",
+      "verse": 36,
+      "start_ms": 366492,
+      "end_ms": 375042,
+      "duration_ms": 8550
+    },
+    {
+      "word": "Pero eso nunca sucederá!",
+      "verse": 36,
+      "start_ms": 375042,
+      "end_ms": 377429,
+      "duration_ms": 2387
+    },
+    {
+      "word": "Les doy mi palabra!",
+      "verse": 36,
+      "start_ms": 377429,
+      "end_ms": 379441,
+      "duration_ms": 2012
+    },
+    {
+      "word": "El Dios de Israel dice: Viene el día en que Jerusalén, mi ciudad, será reconstruida desde la torre de Hananel hasta el portón de la Esquina, y de allí hasta la colina de Gareb y el barrio de Goá.",
+      "verse": 38,
+      "start_ms": 379442,
+      "end_ms": 391129,
+      "duration_ms": 11687
+    },
+    {
+      "word": "Y serán dedicados a mí el valle donde se arrojan los cadáveres y las cenizas, y también los campos que llegan hasta el arroyo de Cedrón y hasta la entrada de los Caballos, en la esquina del este.",
+      "verse": 40,
+      "start_ms": 391129,
+      "end_ms": 401641,
+      "duration_ms": 10512
+    },
+    {
+      "word": "Nunca más la ciudad de Jerusalén volverá a ser arrancada ni destruida!",
+      "verse": 40,
+      "start_ms": 401642,
+      "end_ms": 406192,
+      "duration_ms": 4550
+    }
+  ]
+}

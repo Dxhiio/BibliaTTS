@@ -1,0 +1,390 @@
+{
+  "book": "2CO",
+  "chapter": 5,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 18,
+  "word_count": 36,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 187,
+      "text": "Bien sabemos que en este mundo vivimos como en una tienda de campaña, que un día será destruida. Pero en el cielo tenemos una casa permanente, construida por Dios y no por seres humanos."
+    },
+    {
+      "verse": 2,
+      "label": "2-3",
+      "char_start": 187,
+      "char_end": 333,
+      "text": "Mientras vivimos en este mundo, suspiramos por la casa donde viviremos para siempre. Sabemos que, cuando estemos allí, estaremos bien protegidos."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 333,
+      "char_end": 600,
+      "text": "Mientras vivimos en esta tienda de campaña, que es nuestro cuerpo, nos sentimos muy tristes y cansados. Y no es que no queramos morir. Más bien, quisiéramos que nuestros cuerpos fueran transformados, y que lo que ha de morir se cambie por lo que vivirá para siempre."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 600,
+      "char_end": 695,
+      "text": "Dios nos preparó para ese cambio y, como prueba de que así lo hará, nos dio el Espíritu Santo."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 695,
+      "char_end": 801,
+      "text": "Por eso estamos siempre alegres. Sabemos que, mientras vivamos en este cuerpo, estaremos lejos del Señor."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 801,
+      "char_end": 850,
+      "text": "Pero, aunque no lo podamos ver, confiamos en él."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 850,
+      "char_end": 944,
+      "text": "No nos sentimos tristes, aunque preferiríamos dejar este cuerpo para ir a vivir con el Señor."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 944,
+      "char_end": 1010,
+      "text": "Por eso tratamos de obedecerlo, ya sea en esta vida o en la otra."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1010,
+      "char_end": 1218,
+      "text": "Porque todos nosotros vamos a tener que presentarnos delante de Cristo, que es nuestro juez. Él juzgará lo que hicimos mientras vivíamos en este cuerpo, y decidirá si merecemos que nos premie o nos castigue."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1218,
+      "char_end": 1406,
+      "text": "Nosotros sabemos que hay que obedecer y adorar a Dios. Por eso tratamos de convencer a los demás para que crean en él. Dios nos conoce muy bien, y espero que también ustedes nos conozcan."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1406,
+      "char_end": 1646,
+      "text": "No estamos tratando de impresionarlos al hablar bien de nosotros mismos. Lo que queremos es darles una razón para que se sientan orgullosos de nosotros. Así sabrán cómo responder a los que se creen importantes, y que en realidad no lo son."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1646,
+      "char_end": 1755,
+      "text": "Si acaso estamos locos, lo estamos por querer servir a Dios. Y si no lo estamos, es para el bien de ustedes."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1755,
+      "char_end": 1868,
+      "text": "El amor de Cristo domina nuestras vidas. Sabemos que él murió por todos y que, por lo tanto, todos hemos muerto."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1868,
+      "char_end": 2010,
+      "text": "Así que, si Cristo murió por nosotros, ya no debemos vivir más para nosotros mismos, sino para Cristo, que murió y resucitó para darnos vida."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2010,
+      "char_end": 2180,
+      "text": "A partir de ahora, ya no vamos a valorar a los demás desde el punto de vista humano. Y aunque antes valorábamos a Cristo de esa manera, ya no seguiremos valorándolo así."
+    },
+    {
+      "verse": 17,
+      "label": "17-19",
+      "char_start": 2180,
+      "char_end": 2611,
+      "text": "Ahora que estamos unidos a Cristo, somos una nueva creación. Dios ya no tiene en cuenta nuestra antigua manera de vivir, sino que nos ha hecho comenzar una vida nueva. Y todo esto viene de Dios. Antes éramos sus enemigos, pero ahora, por medio de Cristo, hemos llegado a ser sus amigos, y nos ha encargado que anunciemos a todo el mundo esta buena noticia: Por medio de Cristo, Dios perdona los pecados y hace las paces con todos."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2611,
+      "char_end": 2791,
+      "text": "Cristo nos envió para que hablemos de parte suya, y Dios mismo les ruega a ustedes que escuchen nuestro mensaje. Por eso, de parte de Cristo les pedimos: hagan las paces con Dios."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2791,
+      "char_end": 2901,
+      "text": "Cristo nunca pecó. Pero Dios lo trató como si hubiera pecado, para declararnos inocentes por medio de Cristo."
+    }
+  ],
+  "words": [
+    {
+      "word": "Bien sabemos que en este mundo vivimos como en una tienda de campaña, que un día será destruida.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6312,
+      "duration_ms": 6212
+    },
+    {
+      "word": "Pero en el cielo tenemos una casa permanente, construida por Dios y no por seres humanos.",
+      "verse": 1,
+      "start_ms": 6262,
+      "end_ms": 12174,
+      "duration_ms": 5912
+    },
+    {
+      "word": "Mientras vivimos en este mundo, suspiramos por la casa donde viviremos para siempre.",
+      "verse": 2,
+      "start_ms": 12175,
+      "end_ms": 17487,
+      "duration_ms": 5312
+    },
+    {
+      "word": "Sabemos que, cuando estemos allí, estaremos bien protegidos.",
+      "verse": 2,
+      "start_ms": 17487,
+      "end_ms": 22174,
+      "duration_ms": 4687
+    },
+    {
+      "word": "Mientras vivimos en esta tienda de campaña, que es nuestro cuerpo, nos sentimos muy tristes y cansados.",
+      "verse": 4,
+      "start_ms": 22175,
+      "end_ms": 28837,
+      "duration_ms": 6662
+    },
+    {
+      "word": "Y no es que no queramos morir.",
+      "verse": 4,
+      "start_ms": 28837,
+      "end_ms": 31349,
+      "duration_ms": 2512
+    },
+    {
+      "word": "Más bien, quisiéramos que nuestros cuerpos fueran transformados, y que lo que ha de morir se cambie por lo que vivirá para siempre.",
+      "verse": 4,
+      "start_ms": 31350,
+      "end_ms": 38712,
+      "duration_ms": 7362
+    },
+    {
+      "word": "Dios nos preparó para ese cambio y, como prueba de que así lo hará, nos dio el Espíritu Santo.",
+      "verse": 5,
+      "start_ms": 38712,
+      "end_ms": 44924,
+      "duration_ms": 6212
+    },
+    {
+      "word": "Por eso estamos siempre alegres.",
+      "verse": 6,
+      "start_ms": 44925,
+      "end_ms": 47550,
+      "duration_ms": 2625
+    },
+    {
+      "word": "Sabemos que, mientras vivamos en este cuerpo, estaremos lejos del Señor.",
+      "verse": 6,
+      "start_ms": 47550,
+      "end_ms": 52875,
+      "duration_ms": 5325
+    },
+    {
+      "word": "Pero, aunque no lo podamos ver, confiamos en él.",
+      "verse": 7,
+      "start_ms": 52875,
+      "end_ms": 56962,
+      "duration_ms": 4087
+    },
+    {
+      "word": "No nos sentimos tristes, aunque preferiríamos dejar este cuerpo para ir a vivir con el Señor.",
+      "verse": 8,
+      "start_ms": 56962,
+      "end_ms": 62874,
+      "duration_ms": 5912
+    },
+    {
+      "word": "Por eso tratamos de obedecerlo, ya sea en esta vida o en la otra.",
+      "verse": 9,
+      "start_ms": 62875,
+      "end_ms": 67562,
+      "duration_ms": 4687
+    },
+    {
+      "word": "Porque todos nosotros vamos a tener que presentarnos delante de Cristo, que es nuestro juez.",
+      "verse": 10,
+      "start_ms": 67562,
+      "end_ms": 73249,
+      "duration_ms": 5687
+    },
+    {
+      "word": "Él juzgará lo que hicimos mientras vivíamos en este cuerpo, y decidirá si merecemos que nos premie o nos castigue.",
+      "verse": 10,
+      "start_ms": 73250,
+      "end_ms": 80075,
+      "duration_ms": 6825
+    },
+    {
+      "word": "Nosotros sabemos que hay que obedecer y adorar a Dios.",
+      "verse": 11,
+      "start_ms": 80075,
+      "end_ms": 83725,
+      "duration_ms": 3650
+    },
+    {
+      "word": "Por eso tratamos de convencer a los demás para que crean en él.",
+      "verse": 11,
+      "start_ms": 83725,
+      "end_ms": 87700,
+      "duration_ms": 3975
+    },
+    {
+      "word": "Dios nos conoce muy bien, y espero que también ustedes nos conozcan.",
+      "verse": 11,
+      "start_ms": 87700,
+      "end_ms": 92487,
+      "duration_ms": 4787
+    },
+    {
+      "word": "No estamos tratando de impresionarlos al hablar bien de nosotros mismos.",
+      "verse": 12,
+      "start_ms": 92487,
+      "end_ms": 97099,
+      "duration_ms": 4612
+    },
+    {
+      "word": "Lo que queremos es darles una razón para que se sientan orgullosos de nosotros.",
+      "verse": 12,
+      "start_ms": 97100,
+      "end_ms": 101962,
+      "duration_ms": 4862
+    },
+    {
+      "word": "Así sabrán cómo responder a los que se creen importantes, y que en realidad no lo son.",
+      "verse": 12,
+      "start_ms": 101962,
+      "end_ms": 107499,
+      "duration_ms": 5537
+    },
+    {
+      "word": "Si acaso estamos locos, lo estamos por querer servir a Dios.",
+      "verse": 13,
+      "start_ms": 107500,
+      "end_ms": 111837,
+      "duration_ms": 4337
+    },
+    {
+      "word": "Y si no lo estamos, es para el bien de ustedes.",
+      "verse": 13,
+      "start_ms": 111837,
+      "end_ms": 115449,
+      "duration_ms": 3612
+    },
+    {
+      "word": "El amor de Cristo domina nuestras vidas.",
+      "verse": 14,
+      "start_ms": 115450,
+      "end_ms": 118625,
+      "duration_ms": 3175
+    },
+    {
+      "word": "Sabemos que él murió por todos y que, por lo tanto, todos hemos muerto.",
+      "verse": 14,
+      "start_ms": 118625,
+      "end_ms": 123812,
+      "duration_ms": 5187
+    },
+    {
+      "word": "Así que, si Cristo murió por nosotros, ya no debemos vivir más para nosotros mismos, sino para Cristo, que murió y resucitó para darnos vida.",
+      "verse": 15,
+      "start_ms": 123812,
+      "end_ms": 133374,
+      "duration_ms": 9562
+    },
+    {
+      "word": "A partir de ahora, ya no vamos a valorar a los demás desde el punto de vista humano.",
+      "verse": 16,
+      "start_ms": 133375,
+      "end_ms": 138625,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Y aunque antes valorábamos a Cristo de esa manera, ya no seguiremos valorándolo así.",
+      "verse": 16,
+      "start_ms": 138625,
+      "end_ms": 144112,
+      "duration_ms": 5487
+    },
+    {
+      "word": "Ahora que estamos unidos a Cristo, somos una nueva creación.",
+      "verse": 17,
+      "start_ms": 144112,
+      "end_ms": 148612,
+      "duration_ms": 4500
+    },
+    {
+      "word": "Dios ya no tiene en cuenta nuestra antigua manera de vivir, sino que nos ha hecho comenzar una vida nueva.",
+      "verse": 17,
+      "start_ms": 148612,
+      "end_ms": 154862,
+      "duration_ms": 6250
+    },
+    {
+      "word": "Y todo esto viene de Dios.",
+      "verse": 17,
+      "start_ms": 154862,
+      "end_ms": 157437,
+      "duration_ms": 2575
+    },
+    {
+      "word": "Antes éramos sus enemigos, pero ahora, por medio de Cristo, hemos llegado a ser sus amigos, y nos ha encargado que anunciemos a todo el mundo esta buena noticia: Por medio de Cristo, Dios perdona los pecados y hace las paces con todos.",
+      "verse": 17,
+      "start_ms": 157437,
+      "end_ms": 172087,
+      "duration_ms": 14650
+    },
+    {
+      "word": "Cristo nos envió para que hablemos de parte suya, y Dios mismo les ruega a ustedes que escuchen nuestro mensaje.",
+      "verse": 20,
+      "start_ms": 172087,
+      "end_ms": 178799,
+      "duration_ms": 6712
+    },
+    {
+      "word": "Por eso, de parte de Cristo les pedimos: hagan las paces con Dios.",
+      "verse": 20,
+      "start_ms": 178800,
+      "end_ms": 183837,
+      "duration_ms": 5037
+    },
+    {
+      "word": "Cristo nunca pecó.",
+      "verse": 21,
+      "start_ms": 183837,
+      "end_ms": 185924,
+      "duration_ms": 2087
+    },
+    {
+      "word": "Pero Dios lo trató como si hubiera pecado, para declararnos inocentes por medio de Cristo.",
+      "verse": 21,
+      "start_ms": 185925,
+      "end_ms": 191650,
+      "duration_ms": 5725
+    }
+  ]
+}

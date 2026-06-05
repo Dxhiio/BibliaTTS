@@ -1,0 +1,222 @@
+{
+  "book": "EZE",
+  "chapter": 6,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 11,
+  "word_count": 19,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 14,
+      "text": "Dios me dijo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 14,
+      "char_end": 156,
+      "text": "Ezequiel, hombre mortal, dirige la mirada hacia las montañas de Israel, y dales de mi parte el siguiente mensaje a los que van a adorar allí:"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 156,
+      "char_end": 336,
+      "text": "«¡Ustedes, que adoran dioses falsos en las montañas de Israel, presten atención a mi mensaje! Voy a destruirlos a todos, junto con los pequeños templos donde adoran a esos dioses."
+    },
+    {
+      "verse": 4,
+      "label": "4-6",
+      "char_start": 336,
+      "char_end": 622,
+      "text": "Haré pedazos los altares y los hornillos donde queman incienso; cualquiera que se acerque a uno de esos ídolos malolientes caerá muerto allí mismo, y alrededor de su altar dispersaré sus huesos. Destruiré por completo las ciudades; ¡destruiré todo lo que los israelitas han construido!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 622,
+      "char_end": 705,
+      "text": "Y cuando vean caer muerta a tanta gente, reconocerán que yo soy el Dios de Israel."
+    },
+    {
+      "verse": 8,
+      "label": "8-9",
+      "char_start": 705,
+      "char_end": 1050,
+      "text": "Sin embargo, yo dejaré con vida a algunos israelitas, los cuales serán llevados prisioneros a otras naciones de la tierra. Cuando estén allá, se acordarán de mí y del castigo que les di por engañarme y adorar a los ídolos. Entonces se darán cuenta de lo mal que se portaron, y se les revolverá el estómago al acordarse de sus actos repugnantes."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1050,
+      "char_end": 1132,
+      "text": "Entonces reconocerán que yo soy el Dios de Israel, y que siempre hablé en serio»."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1132,
+      "char_end": 1384,
+      "text": "Después, el Dios de Israel me dio esta orden: ¡Búrlate de los israelitas, felicitándolos por su repugnante maldad! ¡Apláudeles con todas tus fuerzas! ¡Recuérdales que gracias a ellos la guerra, el hambre y las enfermedades acabarán con todo el pueblo!"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1384,
+      "char_end": 1566,
+      "text": "Los que estén lejos morirán por causa de las enfermedades; los que estén cerca morirán en la guerra, y los que aún vivan se morirán de hambre, pues descargaré mi enojo contra ellos."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1566,
+      "char_end": 1818,
+      "text": "Los cuerpos de sus muertos quedarán tirados junto a sus ídolos malolientes. Habrá muertos por todas partes: alrededor de los altares, en las colinas y en las montañas, y aun debajo de cualquier árbol. Entonces reconocerán que yo soy el Dios de Israel."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1818,
+      "char_end": 1989,
+      "text": "Mi castigo contra ellos será muy duro. De norte a sur, y desde Riblá hasta el desierto, todo el país quedará en ruinas. Entonces reconocerán que yo soy el Dios de Israel."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios me dijo: Ezequiel, hombre mortal, dirige la mirada hacia las montañas de Israel, y dales de mi parte el siguiente mensaje a los que van a adorar allí: «¡Ustedes, que adoran dioses falsos en las montañas de Israel, presten atención a mi mensaje!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 15137,
+      "duration_ms": 15037
+    },
+    {
+      "word": "Voy a destruirlos a todos, junto con los pequeños templos donde adoran a esos dioses.",
+      "verse": 3,
+      "start_ms": 15137,
+      "end_ms": 20874,
+      "duration_ms": 5737
+    },
+    {
+      "word": "Haré pedazos los altares y los hornillos donde queman incienso; cualquiera que se acerque a uno de esos ídolos malolientes caerá muerto allí mismo, y alrededor de su altar dispersaré sus huesos.",
+      "verse": 4,
+      "start_ms": 20875,
+      "end_ms": 32125,
+      "duration_ms": 11250
+    },
+    {
+      "word": "Destruiré por completo las ciudades; ¡destruiré todo lo que los israelitas han construido!",
+      "verse": 4,
+      "start_ms": 32125,
+      "end_ms": 38112,
+      "duration_ms": 5987
+    },
+    {
+      "word": "Y cuando vean caer muerta a tanta gente, reconocerán que yo soy el Dios de Israel.",
+      "verse": 7,
+      "start_ms": 38112,
+      "end_ms": 43749,
+      "duration_ms": 5637
+    },
+    {
+      "word": "Sin embargo, yo dejaré con vida a algunos israelitas, los cuales serán llevados prisioneros a otras naciones de la tierra.",
+      "verse": 8,
+      "start_ms": 43750,
+      "end_ms": 51375,
+      "duration_ms": 7625
+    },
+    {
+      "word": "Cuando estén allá, se acordarán de mí y del castigo que les di por engañarme y adorar a los ídolos.",
+      "verse": 8,
+      "start_ms": 51375,
+      "end_ms": 57487,
+      "duration_ms": 6112
+    },
+    {
+      "word": "Entonces se darán cuenta de lo mal que se portaron, y se les revolverá el estómago al acordarse de sus actos repugnantes.",
+      "verse": 8,
+      "start_ms": 57487,
+      "end_ms": 64537,
+      "duration_ms": 7050
+    },
+    {
+      "word": "Entonces reconocerán que yo soy el Dios de Israel, y que siempre hablé en serio».",
+      "verse": 10,
+      "start_ms": 64537,
+      "end_ms": 69874,
+      "duration_ms": 5337
+    },
+    {
+      "word": "Después, el Dios de Israel me dio esta orden: ¡Búrlate de los israelitas, felicitándolos por su repugnante maldad!",
+      "verse": 11,
+      "start_ms": 69875,
+      "end_ms": 77862,
+      "duration_ms": 7987
+    },
+    {
+      "word": "Apláudeles con todas tus fuerzas!",
+      "verse": 11,
+      "start_ms": 77862,
+      "end_ms": 80837,
+      "duration_ms": 2975
+    },
+    {
+      "word": "Recuérdales que gracias a ellos la guerra, el hambre y las enfermedades acabarán con todo el pueblo!",
+      "verse": 11,
+      "start_ms": 80837,
+      "end_ms": 86924,
+      "duration_ms": 6087
+    },
+    {
+      "word": "Los que estén lejos morirán por causa de las enfermedades; los que estén cerca morirán en la guerra, y los que aún vivan se morirán de hambre, pues descargaré mi enojo contra ellos.",
+      "verse": 12,
+      "start_ms": 86925,
+      "end_ms": 97587,
+      "duration_ms": 10662
+    },
+    {
+      "word": "Los cuerpos de sus muertos quedarán tirados junto a sus ídolos malolientes.",
+      "verse": 13,
+      "start_ms": 97587,
+      "end_ms": 102374,
+      "duration_ms": 4787
+    },
+    {
+      "word": "Habrá muertos por todas partes: alrededor de los altares, en las colinas y en las montañas, y aun debajo de cualquier árbol.",
+      "verse": 13,
+      "start_ms": 102375,
+      "end_ms": 110500,
+      "duration_ms": 8125
+    },
+    {
+      "word": "Entonces reconocerán que yo soy el Dios de Israel.",
+      "verse": 13,
+      "start_ms": 110500,
+      "end_ms": 114187,
+      "duration_ms": 3687
+    },
+    {
+      "word": "Mi castigo contra ellos será muy duro.",
+      "verse": 14,
+      "start_ms": 114187,
+      "end_ms": 117262,
+      "duration_ms": 3075
+    },
+    {
+      "word": "De norte a sur, y desde Riblá hasta el desierto, todo el país quedará en ruinas.",
+      "verse": 14,
+      "start_ms": 117262,
+      "end_ms": 122949,
+      "duration_ms": 5687
+    },
+    {
+      "word": "Entonces reconocerán que yo soy el Dios de Israel.",
+      "verse": 14,
+      "start_ms": 122950,
+      "end_ms": 126637,
+      "duration_ms": 3687
+    }
+  ]
+}

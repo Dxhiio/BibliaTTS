@@ -1,0 +1,551 @@
+{
+  "book": "ISA",
+  "chapter": 44,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 28,
+  "word_count": 49,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 77,
+      "text": "Dios dijo: Escúchame ahora, pueblo de Israel, mi fiel servidor y mi elegido."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 77,
+      "char_end": 244,
+      "text": "Yo soy Dios, tu creador; yo te formé desde antes que nacieras, y vengo en tu ayuda. No tengas miedo, querido pueblo mío, tú eres mi fiel servidor, tú eres mi elegido."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 244,
+      "char_end": 389,
+      "text": "Yo haré que corra agua en el desierto y que broten arroyos en tierras secas. A tus descendientes les daré vida nueva y les enviaré mi bendición."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 389,
+      "char_end": 463,
+      "text": "Ellos crecerán como hierba bien regada, como árboles a la orilla del río."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 463,
+      "char_end": 610,
+      "text": "Unos dirán: «Yo pertenezco a Dios»; otros se darán cuenta de que son descendientes de Jacob, y se grabarán en la mano: «Yo soy propiedad de Dios»."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 610,
+      "char_end": 738,
+      "text": "El Dios todopoderoso, rey y salvador de Israel, continuó diciendo: Yo soy el primero y el último; fuera de mí no hay otro Dios."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 738,
+      "char_end": 832,
+      "text": "Si acaso lo hay, que se presente y lo diga; que anuncie el futuro y diga lo que va a suceder."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 832,
+      "char_end": 1034,
+      "text": "¡Ánimo, no tengan miedo! Desde hace mucho tiempo les he anunciado estas cosas y ustedes son mis testigos. No hay otro dios fuera de mí, no hay otro dios que los proteja. ¡Y si lo hay, yo no lo conozco!"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1034,
+      "char_end": 1205,
+      "text": "Isaías dijo: Los fabricantes de ídolos no valen nada, como tampoco valen nada los ídolos que ellos tanto quieren. Los que adoran a los ídolos son unos ciegos y estúpidos."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1205,
+      "char_end": 1293,
+      "text": "El que funde el metal para hacer una estatua y adorarla como un dios, pierde el tiempo."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1293,
+      "char_end": 1407,
+      "text": "Esos artesanos son simples seres humanos: ¡que se enfrenten conmigo en un juicio, y quedarán llenos de vergüenza!"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1407,
+      "char_end": 1617,
+      "text": "Miren lo que hace el herrero: calienta el metal en el fuego, lo moldea a golpe de martillo y lo trabaja con su fuerte brazo. Pero si el herrero no se alimenta ni bebe agua, se cansa y pierde todas sus fuerzas."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1617,
+      "char_end": 1813,
+      "text": "O fíjense en el escultor: toma las medidas con su regla, hace un dibujo con el lápiz y el compás. Luego hace una estatua que se parece a un ser humano, y coloca en un templo esa estatua sin vida."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1813,
+      "char_end": 1961,
+      "text": "Hay otros que plantan cedros, y la lluvia los hace crecer. Si prefieren cipreses o robles, los cultivan en el bosque hasta que están bien crecidos."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1961,
+      "char_end": 2163,
+      "text": "Luego se llevan unas ramas de los árboles para hacer fuego y calentarse, o para cocer el pan. Pero también usan otros pedazos del árbol para hacer la estatua de un dios, ¡y se arrodillan para adorarla!"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2163,
+      "char_end": 2389,
+      "text": "También hay quienes encienden fuego con la mitad de la madera, asan la carne, se comen el asado, y se sienten satisfechos. Además, se calientan junto al fuego y dicen: «¡Qué bien se está aquí! ¡Ya estamos entrando en calor!»."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2389,
+      "char_end": 2553,
+      "text": "Y con el resto de la madera hacen la estatua de un dios, se arrodillan ante ella para adorarla, y le dirigen esta oración: «¡Sálvanos, pues tú eres nuestro dios!»."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2553,
+      "char_end": 2644,
+      "text": "Esa gente no entiende nada. Están tan confundidos y cegados que no pueden comprender nada."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2644,
+      "char_end": 2856,
+      "text": "Les falta inteligencia para entender y poder decir: «Si la mitad de la madera la usamos para hacer el fuego, para asar la carne y cocer el pan, ¡lo que estamos adorando no es más que un simple trozo de madera!»."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2856,
+      "char_end": 2973,
+      "text": "Esa gente se deja engañar por ideas falsas, y no es capaz de entender que lo que tiene en sus manos es pura mentira."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2973,
+      "char_end": 3079,
+      "text": "Dios dijo: Recuerda, Israel, que tú eres mi fiel servidor. No te olvides de mí, porque yo soy tu creador."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3079,
+      "char_end": 3208,
+      "text": "Yo hice desaparecer tus faltas y pecados como desaparecen las nubes en el cielo. ¡Vuelve a obedecerme, porque yo te di libertad!"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3208,
+      "char_end": 3422,
+      "text": "El profeta Isaías declaró: ¡Cielos, griten de alegría por todo lo que Dios ha hecho! ¡Montañas y árboles del bosque, griten llenos de alegría! Dios ha mostrado su tremendo poder, dando libertad a su pueblo Israel."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3422,
+      "char_end": 3626,
+      "text": "Isaías le dijo al pueblo: Dios, tu salvador, el que te formó desde antes que nacieras, dice: «Yo soy Dios, el creador de todas las cosas; yo extendí el cielo y afirmé la tierra, sin que nadie me ayudara."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3626,
+      "char_end": 3816,
+      "text": "Cuando hablan los falsos profetas, no dejo que se cumpla lo que ellos anuncian; demuestro que los adivinos no tienen razón, y convierto en puras tonterías la sabiduría de los seres humanos."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3816,
+      "char_end": 4061,
+      "text": "En cambio, hago que las palabras y los planes de mis servidores y mensajeros se cumplan y tengan éxito. Yo declaro que la ciudad de Jerusalén volverá a ser habitada; las ciudades de Judá volverán a ser reconstruidas, y no estarán más en ruinas."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 4061,
+      "char_end": 4139,
+      "text": "Yo puedo hacer que el océano se quede seco y que los ríos se queden sin agua."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 4139,
+      "char_end": 4355,
+      "text": "Yo le digo a Ciro, el rey de Persia: ‘Tú eres como un pastor de ovejas, y harás lo que yo quiero.’ Yo le digo a Jerusalén: ‘Tú serás reconstruida.’ Y al templo le anuncio: ‘Serás reconstruido desde tus cimientos.’»."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios dijo: Escúchame ahora, pueblo de Israel, mi fiel servidor y mi elegido.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6250,
+      "duration_ms": 6150
+    },
+    {
+      "word": "Yo soy Dios, tu creador; yo te formé desde antes que nacieras, y vengo en tu ayuda.",
+      "verse": 2,
+      "start_ms": 6200,
+      "end_ms": 12262,
+      "duration_ms": 6062
+    },
+    {
+      "word": "No tengas miedo, querido pueblo mío, tú eres mi fiel servidor, tú eres mi elegido.",
+      "verse": 2,
+      "start_ms": 12262,
+      "end_ms": 18424,
+      "duration_ms": 6162
+    },
+    {
+      "word": "Yo haré que corra agua en el desierto y que broten arroyos en tierras secas.",
+      "verse": 3,
+      "start_ms": 18425,
+      "end_ms": 23350,
+      "duration_ms": 4925
+    },
+    {
+      "word": "A tus descendientes les daré vida nueva y les enviaré mi bendición.",
+      "verse": 3,
+      "start_ms": 23350,
+      "end_ms": 27700,
+      "duration_ms": 4350
+    },
+    {
+      "word": "Ellos crecerán como hierba bien regada, como árboles a la orilla del río.",
+      "verse": 4,
+      "start_ms": 27700,
+      "end_ms": 32662,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Unos dirán: «Yo pertenezco a Dios»; otros se darán cuenta de que son descendientes de Jacob, y se grabarán en la mano: «Yo soy propiedad de Dios».",
+      "verse": 5,
+      "start_ms": 32662,
+      "end_ms": 41599,
+      "duration_ms": 8937
+    },
+    {
+      "word": "El Dios todopoderoso, rey y salvador de Israel, continuó diciendo: Yo soy el primero y el último; fuera de mí no hay otro Dios.",
+      "verse": 6,
+      "start_ms": 41600,
+      "end_ms": 50550,
+      "duration_ms": 8950
+    },
+    {
+      "word": "Si acaso lo hay, que se presente y lo diga; que anuncie el futuro y diga lo que va a suceder.",
+      "verse": 7,
+      "start_ms": 50550,
+      "end_ms": 56812,
+      "duration_ms": 6262
+    },
+    {
+      "word": "Ánimo, no tengan miedo!",
+      "verse": 8,
+      "start_ms": 56812,
+      "end_ms": 59212,
+      "duration_ms": 2400
+    },
+    {
+      "word": "Desde hace mucho tiempo les he anunciado estas cosas y ustedes son mis testigos.",
+      "verse": 8,
+      "start_ms": 59212,
+      "end_ms": 64274,
+      "duration_ms": 5062
+    },
+    {
+      "word": "No hay otro dios fuera de mí, no hay otro dios que los proteja.",
+      "verse": 8,
+      "start_ms": 64275,
+      "end_ms": 68700,
+      "duration_ms": 4425
+    },
+    {
+      "word": "Y si lo hay, yo no lo conozco!",
+      "verse": 8,
+      "start_ms": 68700,
+      "end_ms": 71350,
+      "duration_ms": 2650
+    },
+    {
+      "word": "Isaías dijo: Los fabricantes de ídolos no valen nada, como tampoco valen nada los ídolos que ellos tanto quieren.",
+      "verse": 9,
+      "start_ms": 71350,
+      "end_ms": 79112,
+      "duration_ms": 7762
+    },
+    {
+      "word": "Los que adoran a los ídolos son unos ciegos y estúpidos.",
+      "verse": 9,
+      "start_ms": 79112,
+      "end_ms": 83062,
+      "duration_ms": 3950
+    },
+    {
+      "word": "El que funde el metal para hacer una estatua y adorarla como un dios, pierde el tiempo.",
+      "verse": 10,
+      "start_ms": 83062,
+      "end_ms": 88574,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Esos artesanos son simples seres humanos: ¡que se enfrenten conmigo en un juicio, y quedarán llenos de vergüenza!",
+      "verse": 11,
+      "start_ms": 88575,
+      "end_ms": 95650,
+      "duration_ms": 7075
+    },
+    {
+      "word": "Miren lo que hace el herrero: calienta el metal en el fuego, lo moldea a golpe de martillo y lo trabaja con su fuerte brazo.",
+      "verse": 12,
+      "start_ms": 95650,
+      "end_ms": 103262,
+      "duration_ms": 7612
+    },
+    {
+      "word": "Pero si el herrero no se alimenta ni bebe agua, se cansa y pierde todas sus fuerzas.",
+      "verse": 12,
+      "start_ms": 103262,
+      "end_ms": 109062,
+      "duration_ms": 5800
+    },
+    {
+      "word": "O fíjense en el escultor: toma las medidas con su regla, hace un dibujo con el lápiz y el compás.",
+      "verse": 13,
+      "start_ms": 109062,
+      "end_ms": 115562,
+      "duration_ms": 6500
+    },
+    {
+      "word": "Luego hace una estatua que se parece a un ser humano, y coloca en un templo esa estatua sin vida.",
+      "verse": 13,
+      "start_ms": 115562,
+      "end_ms": 121662,
+      "duration_ms": 6100
+    },
+    {
+      "word": "Hay otros que plantan cedros, y la lluvia los hace crecer.",
+      "verse": 14,
+      "start_ms": 121662,
+      "end_ms": 125937,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Si prefieren cipreses o robles, los cultivan en el bosque hasta que están bien crecidos.",
+      "verse": 14,
+      "start_ms": 125937,
+      "end_ms": 131549,
+      "duration_ms": 5612
+    },
+    {
+      "word": "Luego se llevan unas ramas de los árboles para hacer fuego y calentarse, o para cocer el pan.",
+      "verse": 15,
+      "start_ms": 131550,
+      "end_ms": 137250,
+      "duration_ms": 5700
+    },
+    {
+      "word": "Pero también usan otros pedazos del árbol para hacer la estatua de un dios, ¡y se arrodillan para adorarla!",
+      "verse": 15,
+      "start_ms": 137250,
+      "end_ms": 143500,
+      "duration_ms": 6250
+    },
+    {
+      "word": "También hay quienes encienden fuego con la mitad de la madera, asan la carne, se comen el asado, y se sienten satisfechos.",
+      "verse": 16,
+      "start_ms": 143500,
+      "end_ms": 150975,
+      "duration_ms": 7475
+    },
+    {
+      "word": "Además, se calientan junto al fuego y dicen: «¡Qué bien se está aquí!",
+      "verse": 16,
+      "start_ms": 150975,
+      "end_ms": 155812,
+      "duration_ms": 4837
+    },
+    {
+      "word": "Ya estamos entrando en calor!",
+      "verse": 16,
+      "start_ms": 155812,
+      "end_ms": 158237,
+      "duration_ms": 2425
+    },
+    {
+      "word": "Y con el resto de la madera hacen la estatua de un dios, se arrodillan ante ella para adorarla, y le dirigen esta oración: «¡Sálvanos, pues tú eres nuestro dios!",
+      "verse": 17,
+      "start_ms": 158237,
+      "end_ms": 168037,
+      "duration_ms": 9800
+    },
+    {
+      "word": "Esa gente no entiende nada.",
+      "verse": 18,
+      "start_ms": 168037,
+      "end_ms": 170587,
+      "duration_ms": 2550
+    },
+    {
+      "word": "Están tan confundidos y cegados que no pueden comprender nada.",
+      "verse": 18,
+      "start_ms": 170587,
+      "end_ms": 174749,
+      "duration_ms": 4162
+    },
+    {
+      "word": "Les falta inteligencia para entender y poder decir: «Si la mitad de la madera la usamos para hacer el fuego, para asar la carne y cocer el pan, ¡lo que estamos adorando no es más que un simple trozo de madera!",
+      "verse": 19,
+      "start_ms": 174750,
+      "end_ms": 186587,
+      "duration_ms": 11837
+    },
+    {
+      "word": "Esa gente se deja engañar por ideas falsas, y no es capaz de entender que lo que tiene en sus manos es pura mentira.",
+      "verse": 20,
+      "start_ms": 186587,
+      "end_ms": 193362,
+      "duration_ms": 6775
+    },
+    {
+      "word": "Dios dijo: Recuerda, Israel, que tú eres mi fiel servidor.",
+      "verse": 21,
+      "start_ms": 193362,
+      "end_ms": 198587,
+      "duration_ms": 5225
+    },
+    {
+      "word": "No te olvides de mí, porque yo soy tu creador.",
+      "verse": 21,
+      "start_ms": 198587,
+      "end_ms": 202199,
+      "duration_ms": 3612
+    },
+    {
+      "word": "Yo hice desaparecer tus faltas y pecados como desaparecen las nubes en el cielo.",
+      "verse": 22,
+      "start_ms": 202200,
+      "end_ms": 207475,
+      "duration_ms": 5275
+    },
+    {
+      "word": "Vuelve a obedecerme, porque yo te di libertad!",
+      "verse": 22,
+      "start_ms": 207475,
+      "end_ms": 211075,
+      "duration_ms": 3600
+    },
+    {
+      "word": "El profeta Isaías declaró: ¡Cielos, griten de alegría por todo lo que Dios ha hecho!",
+      "verse": 23,
+      "start_ms": 211075,
+      "end_ms": 216812,
+      "duration_ms": 5737
+    },
+    {
+      "word": "Montañas y árboles del bosque, griten llenos de alegría!",
+      "verse": 23,
+      "start_ms": 216812,
+      "end_ms": 220949,
+      "duration_ms": 4137
+    },
+    {
+      "word": "Dios ha mostrado su tremendo poder, dando libertad a su pueblo Israel.",
+      "verse": 23,
+      "start_ms": 220950,
+      "end_ms": 225962,
+      "duration_ms": 5012
+    },
+    {
+      "word": "Isaías le dijo al pueblo: Dios, tu salvador, el que te formó desde antes que nacieras, dice: «Yo soy Dios, el creador de todas las cosas; yo extendí el cielo y afirmé la tierra, sin que nadie me ayudara.",
+      "verse": 24,
+      "start_ms": 225962,
+      "end_ms": 239924,
+      "duration_ms": 13962
+    },
+    {
+      "word": "Cuando hablan los falsos profetas, no dejo que se cumpla lo que ellos anuncian; demuestro que los adivinos no tienen razón, y convierto en puras tonterías la sabiduría de los seres humanos.",
+      "verse": 25,
+      "start_ms": 239925,
+      "end_ms": 250937,
+      "duration_ms": 11012
+    },
+    {
+      "word": "En cambio, hago que las palabras y los planes de mis servidores y mensajeros se cumplan y tengan éxito.",
+      "verse": 26,
+      "start_ms": 250937,
+      "end_ms": 257312,
+      "duration_ms": 6375
+    },
+    {
+      "word": "Yo declaro que la ciudad de Jerusalén volverá a ser habitada; las ciudades de Judá",
+      "verse": 26,
+      "start_ms": 257312,
+      "end_ms": 262662,
+      "duration_ms": 5350
+    },
+    {
+      "word": "volverán a ser reconstruidas, y no estarán más en ruinas.",
+      "verse": 26,
+      "start_ms": 262828,
+      "end_ms": 267253,
+      "duration_ms": 4425
+    },
+    {
+      "word": "Yo puedo hacer que el océano se quede seco y que los ríos se queden sin agua.",
+      "verse": 27,
+      "start_ms": 267203,
+      "end_ms": 271890,
+      "duration_ms": 4687
+    },
+    {
+      "word": "Yo le digo a Ciro, el rey de Persia: ‘Tú eres como un pastor de ovejas, y harás lo que yo quiero.",
+      "verse": 28,
+      "start_ms": 271890,
+      "end_ms": 278465,
+      "duration_ms": 6575
+    },
+    {
+      "word": "Yo le digo a Jerusalén: ‘Tú serás reconstruida.",
+      "verse": 28,
+      "start_ms": 278465,
+      "end_ms": 282340,
+      "duration_ms": 3875
+    },
+    {
+      "word": "Y al templo le anuncio: ‘Serás reconstruido desde tus cimientos.",
+      "verse": 28,
+      "start_ms": 282340,
+      "end_ms": 287015,
+      "duration_ms": 4675
+    }
+  ]
+}

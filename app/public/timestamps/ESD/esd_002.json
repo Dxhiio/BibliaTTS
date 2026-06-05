@@ -1,0 +1,544 @@
+{
+  "book": "ESD",
+  "chapter": 2,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 16,
+  "word_count": 60,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-2",
+      "char_start": 0,
+      "char_end": 362,
+      "text": "El rey Nabucodonosor se había llevado cautivos a Babilonia a muchos judíos. Los que volvieron de allá fueron los hijos de esos cautivos. Varios líderes regresaron a Jerusalén y a las ciudades de Judá, bajo el mando de Zorobabel. Ésta es la lista de los líderes que regresaron: Josué, Nehemías, Seraías, Reelaías, Mardoqueo, Bilsán, Mispar, Bigvai, Rehúm, Baaná."
+    },
+    {
+      "verse": 3,
+      "label": "3-20",
+      "char_start": 362,
+      "char_end": 1509,
+      "text": "Los otros judíos que volvieron fueron los siguientes: De la familia de Parós, dos mil ciento setenta y dos personas. De la familia de Sefatías, trescientas setenta y dos personas. De la familia de Árah, setecientas setenta y cinco personas. De la familia de Pahat-moab, que descendía de Josué y Joab, dos mil ochocientas doce personas. De la familia de Elam, mil doscientas cincuenta y cuatro personas. De la familia de Zatú, novecientas cuarenta y cinco personas. De la familia de Zacai, setecientas sesenta personas. De la familia de Binuy, seiscientas cuarenta y dos personas. De la familia de Bebai, seiscientas veintitrés personas. De la familia de Azgad, mil doscientas veintidós personas. De la familia de Adonicam, seiscientas sesenta y seis personas. De la familia de Bigvai, dos mil cincuenta y seis personas. De la familia de Adín, cuatrocientas cincuenta y cuatro personas. De la familia de Ezequías, noventa y ocho personas. De la familia de Besai, trescientas veintitrés personas. De la familia de Jorá, ciento doce personas. De la familia de Hasum, doscientas veintitrés personas. De la familia de Guibar, noventa y cinco personas."
+    },
+    {
+      "verse": 21,
+      "label": "21-35",
+      "char_start": 1509,
+      "char_end": 2291,
+      "text": "También volvieron algunas familias que habían vivido en las siguientes ciudades y pueblos: De Belén, ciento veintitrés personas. De Netofá, cincuenta y seis personas. De Anatot, ciento veintiocho personas. De Bet-azmávet, cuarenta y dos personas. De Quiriat-jearim, Quefirá y Beerot, setecientas cuarenta y tres personas. De Ramá y Gueba, seiscientas veintiuna personas. De Micmás, ciento veintidós personas. De Betel y Ai, doscientas veintitrés personas. De Nebo, cincuenta y dos personas. De Magbís, ciento cincuenta y seis personas. De Elam, mil doscientas cincuenta y cuatro personas. De Harim, trescientas veinte personas. De Lod, Hadid y Onó, setecientas veinticinco personas. De Jericó, trescientas cuarenta y cinco personas. De Senaá, tres mil seiscientas treinta personas."
+    },
+    {
+      "verse": 36,
+      "label": "36-39",
+      "char_start": 2291,
+      "char_end": 2603,
+      "text": "También volvieron las siguientes familias sacerdotales: De la familia de Jedaías, que descendía de Josué, novecientas setenta y tres personas. De la familia de Imer, mil cincuenta y dos personas. De la familia de Pashur, mil doscientas cuarenta y siete personas. De la familia de Harim, mil diecisiete personas."
+    },
+    {
+      "verse": 40,
+      "label": "40-42",
+      "char_start": 2603,
+      "char_end": 2996,
+      "text": "Las familias de la tribu de Leví que volvieron eran las siguientes: De las familias de Josué y de Cadmiel, que descendían de Hodavías, setenta y cuatro personas. De las familias de los cantores que descendían de Asaf, ciento veintiocho personas. De las familias de Ater, Talmón, Acub, Hatitá, Sobai y Salum, que eran los guardianes de las entradas del templo, ciento treinta y nueve personas."
+    },
+    {
+      "verse": 43,
+      "label": "43-54",
+      "char_start": 2996,
+      "char_end": 3328,
+      "text": "De los sirvientes del templo volvieron las familias que descendían de: Sihá, Hasufá, Tabaot, Querós, Siahá, Padón, Lebaná, Hagabá, Acub, Hagab, Salmai, Hanán, Guidel, Gáhar, Reaías, Resín, Necodá, Gazam, Uzá, Paséah, Besai, Asná, Meunim, Nefusim, Bacbuc, Hacufá, Harhur, Baslut, Mehidá, Harsá, Barcós, Sísara, Temá, Nesíah, Hatifá."
+    },
+    {
+      "verse": 55,
+      "label": "55-58",
+      "char_start": 3328,
+      "char_end": 3606,
+      "text": "Las familias de los sirvientes de Salomón que volvieron fueron los descendientes de: Sotai, Soféret, Perudá, Jaalá, Darcón, Guidel, Sefatías, Hatil, Poquéret-hasebaím, Amón. Así que los sirvientes del templo y de Salomón que volvieron fueron en total trescientos noventa y dos."
+    },
+    {
+      "verse": 59,
+      "label": "59-60",
+      "char_start": 3606,
+      "char_end": 3836,
+      "text": "Desde los pueblos de Tel-mélah, Tel-harsá, Querub, Imer y Adón, llegaron algunas familias que descendían de Delaías, Tobías y Necodá. Eran en total seiscientas cincuenta y dos personas, pero no pudieron comprobar que eran judíos."
+    },
+    {
+      "verse": 61,
+      "label": "61-62",
+      "char_start": 3836,
+      "char_end": 4207,
+      "text": "De las familias sacerdotales llegaron las de Hobaías, Cos y Barzilai. Este último se llamaba así porque se había casado con una de las hijas de Barzilai de Galaad y se había puesto el nombre de su suegro. Ellos buscaron sus nombres en el registro de las familias, pero no estaban, así que no pudieron comprobar que eran judíos; por eso no les permitieron ser sacerdotes."
+    },
+    {
+      "verse": 63,
+      "label": "63",
+      "char_start": 4207,
+      "char_end": 4392,
+      "text": "El gobernador no les permitió comer de los alimentos ofrecidos a Dios mientras un sacerdote no consultara el Urim y el Tumim, las dos piedritas usadas para conocer la voluntad de Dios."
+    },
+    {
+      "verse": 64,
+      "label": "64",
+      "char_start": 4392,
+      "char_end": 4468,
+      "text": "En total se habían reunido cuarenta y dos mil trescientas sesenta personas,"
+    },
+    {
+      "verse": 65,
+      "label": "65",
+      "char_start": 4468,
+      "char_end": 4600,
+      "text": "además de sus esclavos y esclavas, que sumaban siete mil trescientos treinta y siete. También había doscientos cantores y cantoras."
+    },
+    {
+      "verse": 66,
+      "label": "66-67",
+      "char_start": 4600,
+      "char_end": 4789,
+      "text": "También traían los siguientes animales: setecientos treinta y seis caballos, doscientas cuarenta y cinco mulas, cuatrocientos treinta y cinco camellos y seis mil setecientos veinte burros."
+    },
+    {
+      "verse": 68,
+      "label": "68",
+      "char_start": 4789,
+      "char_end": 4882,
+      "text": "Algunos jefes de familia llevaron a Jerusalén donaciones para reconstruir el templo de Dios."
+    },
+    {
+      "verse": 69,
+      "label": "69",
+      "char_start": 4882,
+      "char_end": 5051,
+      "text": "En total entregaron cuatrocientos ochenta y ocho kilos de oro, dos mil setecientos cincuenta kilos de plata y cien túnicas para sacerdotes, que fue cuanto pudieron dar."
+    },
+    {
+      "verse": 70,
+      "label": "70",
+      "char_start": 5051,
+      "char_end": 5261,
+      "text": "Los sacerdotes, sus ayudantes y algunos otros judíos se quedaron a vivir en Jerusalén, pero los cantores, los guardianes y los sirvientes del templo, y los demás judíos se fueron a vivir a sus propios pueblos."
+    }
+  ],
+  "words": [
+    {
+      "word": "El rey Nabucodonosor se había llevado cautivos a Babilonia a muchos judíos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5187,
+      "duration_ms": 5087
+    },
+    {
+      "word": "Los que volvieron de allá fueron los hijos de esos cautivos.",
+      "verse": 1,
+      "start_ms": 5137,
+      "end_ms": 8987,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Varios líderes regresaron a Jerusalén y a las ciudades de Judá, bajo el mando de Zorobabel.",
+      "verse": 1,
+      "start_ms": 8987,
+      "end_ms": 14674,
+      "duration_ms": 5687
+    },
+    {
+      "word": "Ésta es la lista de los líderes que regresaron: Josué, Nehemías, Seraías, Reelaías, Mardoqueo, Bilsán, Mispar, Bigvai, Rehúm, Baaná.",
+      "verse": 1,
+      "start_ms": 14675,
+      "end_ms": 26012,
+      "duration_ms": 11337
+    },
+    {
+      "word": "Los otros judíos que volvieron fueron los siguientes: De la familia de Parós, dos mil ciento setenta y dos personas.",
+      "verse": 3,
+      "start_ms": 26012,
+      "end_ms": 33237,
+      "duration_ms": 7225
+    },
+    {
+      "word": "De la familia de Sefatías, trescientas setenta y dos personas.",
+      "verse": 3,
+      "start_ms": 33237,
+      "end_ms": 37874,
+      "duration_ms": 4637
+    },
+    {
+      "word": "De la familia de Árah, setecientas setenta y cinco personas.",
+      "verse": 3,
+      "start_ms": 37875,
+      "end_ms": 42300,
+      "duration_ms": 4425
+    },
+    {
+      "word": "De la familia de Pahat-moab, que descendía de Josué y Joab, dos mil ochocientas doce personas.",
+      "verse": 3,
+      "start_ms": 42300,
+      "end_ms": 48812,
+      "duration_ms": 6512
+    },
+    {
+      "word": "De la familia de Elam, mil doscientas cincuenta y cuatro personas.",
+      "verse": 3,
+      "start_ms": 48812,
+      "end_ms": 53349,
+      "duration_ms": 4537
+    },
+    {
+      "word": "De la familia de Zatú, novecientas cuarenta y cinco personas.",
+      "verse": 3,
+      "start_ms": 53350,
+      "end_ms": 57862,
+      "duration_ms": 4512
+    },
+    {
+      "word": "De la familia de Zacai, setecientas sesenta personas.",
+      "verse": 3,
+      "start_ms": 57862,
+      "end_ms": 62024,
+      "duration_ms": 4162
+    },
+    {
+      "word": "De la familia de Binuy, seiscientas cuarenta y dos personas.",
+      "verse": 3,
+      "start_ms": 62025,
+      "end_ms": 66387,
+      "duration_ms": 4362
+    },
+    {
+      "word": "De la familia de Bebai, seiscientas veintitrés personas.",
+      "verse": 3,
+      "start_ms": 66387,
+      "end_ms": 70624,
+      "duration_ms": 4237
+    },
+    {
+      "word": "De la familia de Azgad, mil doscientas veintidós personas.",
+      "verse": 3,
+      "start_ms": 70625,
+      "end_ms": 74837,
+      "duration_ms": 4212
+    },
+    {
+      "word": "De la familia de Adonicam, seiscientas sesenta y seis personas.",
+      "verse": 3,
+      "start_ms": 74837,
+      "end_ms": 79424,
+      "duration_ms": 4587
+    },
+    {
+      "word": "De la familia de Bigvai, dos mil cincuenta y seis personas.",
+      "verse": 3,
+      "start_ms": 79425,
+      "end_ms": 83800,
+      "duration_ms": 4375
+    },
+    {
+      "word": "De la familia de Adín, cuatrocientas cincuenta y cuatro personas.",
+      "verse": 3,
+      "start_ms": 83800,
+      "end_ms": 88225,
+      "duration_ms": 4425
+    },
+    {
+      "word": "De la familia de Ezequías, noventa y ocho personas.",
+      "verse": 3,
+      "start_ms": 88225,
+      "end_ms": 92212,
+      "duration_ms": 3987
+    },
+    {
+      "word": "De la familia de Besai, trescientas veintitrés personas.",
+      "verse": 3,
+      "start_ms": 92212,
+      "end_ms": 96524,
+      "duration_ms": 4312
+    },
+    {
+      "word": "De la familia de Jorá, ciento doce personas.",
+      "verse": 3,
+      "start_ms": 96525,
+      "end_ms": 100312,
+      "duration_ms": 3787
+    },
+    {
+      "word": "De la familia de Hasum, doscientas veintitrés personas.",
+      "verse": 3,
+      "start_ms": 100312,
+      "end_ms": 104549,
+      "duration_ms": 4237
+    },
+    {
+      "word": "De la familia de Guibar, noventa y cinco personas.",
+      "verse": 3,
+      "start_ms": 104550,
+      "end_ms": 108425,
+      "duration_ms": 3875
+    },
+    {
+      "word": "También volvieron algunas familias que habían vivido en las siguientes ciudades y pueblos: De Belén, ciento veintitrés personas.",
+      "verse": 21,
+      "start_ms": 108425,
+      "end_ms": 115925,
+      "duration_ms": 7500
+    },
+    {
+      "word": "De Netofá, cincuenta y seis personas.",
+      "verse": 21,
+      "start_ms": 115925,
+      "end_ms": 119412,
+      "duration_ms": 3487
+    },
+    {
+      "word": "De Anatot, ciento veintiocho personas.",
+      "verse": 21,
+      "start_ms": 119412,
+      "end_ms": 122874,
+      "duration_ms": 3462
+    },
+    {
+      "word": "De Bet-azmávet, cuarenta y dos personas.",
+      "verse": 21,
+      "start_ms": 122875,
+      "end_ms": 126450,
+      "duration_ms": 3575
+    },
+    {
+      "word": "De Quiriat-jearim, Quefirá y Beerot, setecientas cuarenta y tres personas.",
+      "verse": 21,
+      "start_ms": 126450,
+      "end_ms": 132000,
+      "duration_ms": 5550
+    },
+    {
+      "word": "De Ramá y Gueba, seiscientas veintiuna personas.",
+      "verse": 21,
+      "start_ms": 132000,
+      "end_ms": 136025,
+      "duration_ms": 4025
+    },
+    {
+      "word": "De Micmás, ciento veintidós personas.",
+      "verse": 21,
+      "start_ms": 136025,
+      "end_ms": 139562,
+      "duration_ms": 3537
+    },
+    {
+      "word": "De Betel y Ai, doscientas veintitrés personas.",
+      "verse": 21,
+      "start_ms": 139562,
+      "end_ms": 143524,
+      "duration_ms": 3962
+    },
+    {
+      "word": "De Nebo, cincuenta y dos personas.",
+      "verse": 21,
+      "start_ms": 143525,
+      "end_ms": 146837,
+      "duration_ms": 3312
+    },
+    {
+      "word": "De Magbís, ciento cincuenta y seis personas.",
+      "verse": 21,
+      "start_ms": 146837,
+      "end_ms": 150549,
+      "duration_ms": 3712
+    },
+    {
+      "word": "De Elam, mil doscientas cincuenta y cuatro personas.",
+      "verse": 21,
+      "start_ms": 150550,
+      "end_ms": 154525,
+      "duration_ms": 3975
+    },
+    {
+      "word": "De Harim, trescientas veinte personas.",
+      "verse": 21,
+      "start_ms": 154525,
+      "end_ms": 158012,
+      "duration_ms": 3487
+    },
+    {
+      "word": "De Lod, Hadid y Onó, setecientas veinticinco personas.",
+      "verse": 21,
+      "start_ms": 158012,
+      "end_ms": 162737,
+      "duration_ms": 4725
+    },
+    {
+      "word": "De Jericó, trescientas cuarenta y cinco personas.",
+      "verse": 21,
+      "start_ms": 162737,
+      "end_ms": 166737,
+      "duration_ms": 4000
+    },
+    {
+      "word": "De Senaá, tres mil seiscientas treinta personas.",
+      "verse": 21,
+      "start_ms": 166737,
+      "end_ms": 170987,
+      "duration_ms": 4250
+    },
+    {
+      "word": "También volvieron las siguientes familias sacerdotales: De la familia de Jedaías, que descendía de Josué, novecientas setenta y tres personas.",
+      "verse": 36,
+      "start_ms": 170987,
+      "end_ms": 180024,
+      "duration_ms": 9037
+    },
+    {
+      "word": "De la familia de Imer, mil cincuenta y dos personas.",
+      "verse": 36,
+      "start_ms": 180025,
+      "end_ms": 184075,
+      "duration_ms": 4050
+    },
+    {
+      "word": "De la familia de Pashur, mil doscientas cuarenta y siete personas.",
+      "verse": 36,
+      "start_ms": 184075,
+      "end_ms": 188625,
+      "duration_ms": 4550
+    },
+    {
+      "word": "De la familia de Harim, mil diecisiete personas.",
+      "verse": 36,
+      "start_ms": 188625,
+      "end_ms": 192425,
+      "duration_ms": 3800
+    },
+    {
+      "word": "Las familias de la tribu de Leví que volvieron eran las siguientes: De las familias de Josué y de Cadmiel, que descendían de Hodavías, setenta y cuatro personas.",
+      "verse": 40,
+      "start_ms": 192425,
+      "end_ms": 201975,
+      "duration_ms": 9550
+    },
+    {
+      "word": "De las familias de los cantores que descendían de Asaf, ciento veintiocho personas.",
+      "verse": 40,
+      "start_ms": 201975,
+      "end_ms": 207375,
+      "duration_ms": 5400
+    },
+    {
+      "word": "De las familias de Ater, Talmón, Acub, Hatitá, Sobai y Salum, que eran los guardianes de las entradas del templo, ciento treinta y nueve personas.",
+      "verse": 40,
+      "start_ms": 207375,
+      "end_ms": 217387,
+      "duration_ms": 10012
+    },
+    {
+      "word": "De los sirvientes del templo volvieron las familias que descendían de: Sihá, Hasufá, Tabaot, Querós, Siahá, Padón, Lebaná, Hagabá, Acub, Hagab, Salmai, Hanán, Guidel, Gáhar, Reaías, Resín, Necodá, Gazam, Uzá, Paséah, Besai, Asná, Meunim, Nefusim, Bacbuc, Hacufá, Harhur, Baslut, Mehidá, Harsá, Barcós, Sísara, Temá, Nesíah, Hatifá.",
+      "verse": 43,
+      "start_ms": 217387,
+      "end_ms": 247237,
+      "duration_ms": 29850
+    },
+    {
+      "word": "Las familias de los sirvientes de Salomón que volvieron fueron los descendientes de: Sotai, Soféret, Perudá, Jaalá, Darcón, Guidel, Sefatías, Hatil, Poquéret-hasebaím, Amón.",
+      "verse": 55,
+      "start_ms": 247237,
+      "end_ms": 260062,
+      "duration_ms": 12825
+    },
+    {
+      "word": "Así que los sirvientes del templo y de Salomón que volvieron fueron en total trescientos noventa y dos.",
+      "verse": 55,
+      "start_ms": 260062,
+      "end_ms": 265749,
+      "duration_ms": 5687
+    },
+    {
+      "word": "Desde los pueblos de Tel-mélah, Tel-harsá, Querub, Imer y Adón, llegaron algunas familias que descendían de Delaías, Tobías y Necodá.",
+      "verse": 59,
+      "start_ms": 265750,
+      "end_ms": 274962,
+      "duration_ms": 9212
+    },
+    {
+      "word": "Eran en total seiscientas cincuenta y dos personas, pero no pudieron comprobar que eran judíos.",
+      "verse": 59,
+      "start_ms": 274962,
+      "end_ms": 281024,
+      "duration_ms": 6062
+    },
+    {
+      "word": "De las familias sacerdotales llegaron las de Hobaías, Cos y Barzilai.",
+      "verse": 61,
+      "start_ms": 281025,
+      "end_ms": 285575,
+      "duration_ms": 4550
+    },
+    {
+      "word": "Este último se llamaba así porque se había casado con una de las hijas de Barzilai de",
+      "verse": 61,
+      "start_ms": 285575,
+      "end_ms": 290800,
+      "duration_ms": 5225
+    },
+    {
+      "word": "Galaad y se había puesto el nombre de su suegro.",
+      "verse": 61,
+      "start_ms": 290956,
+      "end_ms": 294406,
+      "duration_ms": 3450
+    },
+    {
+      "word": "Ellos buscaron sus nombres en el registro de las familias, pero no estaban, así que no pudieron comprobar que eran judíos; por eso no les permitieron ser sacerdotes.",
+      "verse": 61,
+      "start_ms": 294356,
+      "end_ms": 304293,
+      "duration_ms": 9937
+    },
+    {
+      "word": "El gobernador no les permitió comer de los alimentos ofrecidos a Dios mientras un sacerdote no consultara el Urim y el Tumim, las dos piedritas usadas para conocer la voluntad de Dios.",
+      "verse": 63,
+      "start_ms": 304293,
+      "end_ms": 314843,
+      "duration_ms": 10550
+    },
+    {
+      "word": "En total se habían reunido cuarenta y dos mil trescientas sesenta personas, además de sus esclavos y esclavas, que sumaban siete mil trescientos treinta y siete.",
+      "verse": 64,
+      "start_ms": 314843,
+      "end_ms": 324243,
+      "duration_ms": 9400
+    },
+    {
+      "word": "También había doscientos cantores y cantoras.",
+      "verse": 65,
+      "start_ms": 324243,
+      "end_ms": 327605,
+      "duration_ms": 3362
+    },
+    {
+      "word": "También traían los siguientes animales: setecientos treinta y seis caballos, doscientas cuarenta y cinco mulas, cuatrocientos treinta y cinco camellos y seis mil setecientos veinte burros.",
+      "verse": 66,
+      "start_ms": 327606,
+      "end_ms": 338793,
+      "duration_ms": 11187
+    },
+    {
+      "word": "Algunos jefes de familia llevaron a Jerusalén donaciones para reconstruir el templo de Dios.",
+      "verse": 68,
+      "start_ms": 338793,
+      "end_ms": 344543,
+      "duration_ms": 5750
+    },
+    {
+      "word": "En total entregaron cuatrocientos ochenta y ocho kilos de oro, dos mil setecientos cincuenta kilos de plata y cien túnicas para sacerdotes, que fue cuanto pudieron dar.",
+      "verse": 69,
+      "start_ms": 344543,
+      "end_ms": 354118,
+      "duration_ms": 9575
+    },
+    {
+      "word": "Los sacerdotes, sus ayudantes y algunos otros judíos se quedaron a vivir en Jerusalén, pero los cantores, los guardianes y los sirvientes del templo, y los demás judíos se fueron a vivir a sus propios pueblos.",
+      "verse": 70,
+      "start_ms": 354118,
+      "end_ms": 366205,
+      "duration_ms": 12087
+    }
+  ]
+}

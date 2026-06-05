@@ -1,0 +1,201 @@
+{
+  "book": "1CR",
+  "chapter": 20,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 8,
+  "word_count": 19,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 206,
+      "text": "Llegó la primavera, que era cuando los reyes salían a la guerra. Ese año, Joab salió con su ejército y enfrentó a los amonitas. Rodeó la ciudad de Rabá, y la conquistó. David se había quedado en Jerusalén."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 206,
+      "char_end": 450,
+      "text": "David le quitó la corona al rey amonita, la cual era de oro, pesaba treinta y tres kilos, y tenía una piedra preciosa. David le quitó esa piedra preciosa y la puso en su propia corona, y se llevó además gran parte de las riquezas de la ciudad."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 450,
+      "char_end": 749,
+      "text": "A la gente que vivía en la ciudad la sacó de allí y la condenó a trabajos forzados. La obligó a usar sierras, picos y hachas de hierro. También la obligó a hacer ladrillos, como lo había hecho con todas las ciudades que había conquistado. Después de eso, David y su ejército regresaron a Jerusalén."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 749,
+      "char_end": 919,
+      "text": "Después de esto, hubo en Guézer otra batalla contra los filisteos. Allí, Sibecai el husita mató a un gigante llamado Sipai. Así los israelitas dominaron a los filisteos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 919,
+      "char_end": 1073,
+      "text": "Tiempo después, hubo otra batalla contra los filisteos. Allí, Elhanán hijo de Jaír mató a Lahmí, hermano de Goliat el de Gat, que tenía una lanza enorme."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 1073,
+      "char_end": 1172,
+      "text": "Después hubo otra batalla en Gat. Allí, un gigante que tenía seis dedos en cada mano y en cada pie"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 1172,
+      "char_end": 1261,
+      "text": "desafió a los israelitas. Pero lo mató Jonatán, que era hijo de Simá y sobrino de David."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1261,
+      "char_end": 1355,
+      "text": "Estos gigantes eran de la familia de Refá, el de Gat, pero David y sus oficiales los mataron."
+    }
+  ],
+  "words": [
+    {
+      "word": "Llegó la primavera, que era cuando los reyes salían a la guerra.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4575,
+      "duration_ms": 4475
+    },
+    {
+      "word": "Ese año, Joab salió con su ejército y enfrentó a los amonitas.",
+      "verse": 1,
+      "start_ms": 4525,
+      "end_ms": 9275,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Rodeó la ciudad de Rabá, y la conquistó.",
+      "verse": 1,
+      "start_ms": 9275,
+      "end_ms": 12525,
+      "duration_ms": 3250
+    },
+    {
+      "word": "David se había quedado en Jerusalén.",
+      "verse": 1,
+      "start_ms": 12525,
+      "end_ms": 15487,
+      "duration_ms": 2962
+    },
+    {
+      "word": "David le quitó la corona al rey amonita, la cual era de oro, pesaba treinta y tres kilos, y tenía una piedra preciosa.",
+      "verse": 2,
+      "start_ms": 15487,
+      "end_ms": 23674,
+      "duration_ms": 8187
+    },
+    {
+      "word": "David le quitó esa piedra preciosa y la puso en su propia corona, y se llevó además gran parte de las riquezas de la ciudad.",
+      "verse": 2,
+      "start_ms": 23675,
+      "end_ms": 31012,
+      "duration_ms": 7337
+    },
+    {
+      "word": "A la gente que vivía en la ciudad la sacó de allí y la condenó a trabajos forzados.",
+      "verse": 3,
+      "start_ms": 31012,
+      "end_ms": 36162,
+      "duration_ms": 5150
+    },
+    {
+      "word": "La obligó a usar sierras, picos y hachas de hierro.",
+      "verse": 3,
+      "start_ms": 36162,
+      "end_ms": 40149,
+      "duration_ms": 3987
+    },
+    {
+      "word": "También la obligó a hacer ladrillos, como lo había hecho con todas las ciudades que había conquistado.",
+      "verse": 3,
+      "start_ms": 40150,
+      "end_ms": 46087,
+      "duration_ms": 5937
+    },
+    {
+      "word": "Después de eso, David y su ejército regresaron a Jerusalén.",
+      "verse": 3,
+      "start_ms": 46087,
+      "end_ms": 50512,
+      "duration_ms": 4425
+    },
+    {
+      "word": "Después de esto, hubo en Guézer otra batalla contra los filisteos.",
+      "verse": 4,
+      "start_ms": 50512,
+      "end_ms": 55174,
+      "duration_ms": 4662
+    },
+    {
+      "word": "Allí, Sibecai el husita mató a un gigante llamado Sipai.",
+      "verse": 4,
+      "start_ms": 55175,
+      "end_ms": 59662,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Así los israelitas dominaron a los filisteos.",
+      "verse": 4,
+      "start_ms": 59662,
+      "end_ms": 63212,
+      "duration_ms": 3550
+    },
+    {
+      "word": "Tiempo después, hubo otra batalla contra los filisteos.",
+      "verse": 5,
+      "start_ms": 63212,
+      "end_ms": 67412,
+      "duration_ms": 4200
+    },
+    {
+      "word": "Allí, Elhanán hijo de Jaír mató a Lahmí, hermano de Goliat el de Gat, que tenía una lanza enorme.",
+      "verse": 5,
+      "start_ms": 67412,
+      "end_ms": 74462,
+      "duration_ms": 7050
+    },
+    {
+      "word": "Después hubo otra batalla en Gat.",
+      "verse": 6,
+      "start_ms": 74462,
+      "end_ms": 77312,
+      "duration_ms": 2850
+    },
+    {
+      "word": "Allí, un gigante que tenía seis dedos en cada mano y en cada pie desafió a los israelitas.",
+      "verse": 6,
+      "start_ms": 77312,
+      "end_ms": 83574,
+      "duration_ms": 6262
+    },
+    {
+      "word": "Pero lo mató Jonatán, que era hijo de Simá y sobrino de David.",
+      "verse": 7,
+      "start_ms": 83575,
+      "end_ms": 88225,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Estos gigantes eran de la familia de Refá, el de Gat, pero David y sus oficiales los mataron.",
+      "verse": 8,
+      "start_ms": 88225,
+      "end_ms": 94475,
+      "duration_ms": 6250
+    }
+  ]
+}

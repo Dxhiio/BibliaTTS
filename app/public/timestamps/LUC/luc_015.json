@@ -1,0 +1,565 @@
+{
+  "book": "LUC",
+  "chapter": 15,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 32,
+  "word_count": 47,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 185,
+      "text": "Mientras Jesús enseñaba, se le acercaron muchos de los que cobraban impuestos para el gobierno de Roma, y también otras personas a quienes los fariseos consideraban gente de mala fama."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 185,
+      "char_end": 340,
+      "text": "Al ver esto, los fariseos y los maestros de la Ley comenzaron a criticar a Jesús, y decían: Este hombre es amigo de los pecadores, y hasta come con ellos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 340,
+      "char_end": 381,
+      "text": "Al oír eso, Jesús les puso este ejemplo:"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 381,
+      "char_end": 547,
+      "text": "Si alguno de ustedes tiene cien ovejas, y se da cuenta de que ha perdido una, ¿acaso no deja las otras noventa y nueve en el campo y se va a buscar la oveja perdida?"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 547,
+      "char_end": 593,
+      "text": "Y cuando la encuentra, la pone en sus hombros"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 593,
+      "char_end": 758,
+      "text": "y vuelve muy contento con ella. Después llama a sus amigos y vecinos, y les dice: «¡Vengan a mi casa y alégrense conmigo! ¡Ya encontré la oveja que había perdido!»."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 758,
+      "char_end": 931,
+      "text": "De la misma manera, hay más alegría allá en el cielo por una de estas personas que se vuelve a Dios, que por noventa y nueve personas buenas que no necesitan volverse a él."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 931,
+      "char_end": 1201,
+      "text": "Jesús les puso otro ejemplo: ¿Qué hará una mujer que, con mucho cuidado, ha guardado diez monedas, y de pronto se da cuenta de que ha perdido una de ellas? De inmediato prenderá las luces y se pondrá a barrer la casa, y buscará en todos los rincones, hasta encontrarla."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1201,
+      "char_end": 1352,
+      "text": "Y cuando la encuentre, invitará a sus amigas y vecinas y les dirá: «¡Vengan a mi casa y alégrense conmigo! ¡Ya encontré la moneda que había perdido!»."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1352,
+      "char_end": 1438,
+      "text": "De la misma manera, los ángeles de Dios hacen fiesta cuando alguien se vuelve a Dios."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1438,
+      "char_end": 1489,
+      "text": "Jesús también les dijo: Un hombre tenía dos hijos."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1489,
+      "char_end": 1660,
+      "text": "Un día, el hijo más joven le dijo a su padre: «Papá, dame la parte de tu propiedad que me toca como herencia». Entonces el padre repartió la herencia entre sus dos hijos."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1660,
+      "char_end": 1832,
+      "text": "A los pocos días, el hijo menor vendió lo que su padre le había dado y se fue lejos, a otro país. Allá se dedicó a darse gusto, haciendo lo malo y gastando todo el dinero."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1832,
+      "char_end": 1945,
+      "text": "Ya se había quedado sin nada, cuando comenzó a faltar la comida en aquel país, y el joven empezó a pasar hambre."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1945,
+      "char_end": 2033,
+      "text": "Entonces buscó trabajo, y el hombre que lo empleó lo mandó a cuidar cerdos en su finca."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2033,
+      "char_end": 2146,
+      "text": "Al joven le daban ganas de comer aunque fuera la comida con que alimentaban a los cerdos, pero nadie se la daba."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2146,
+      "char_end": 2314,
+      "text": "Por fin comprendió lo tonto que había sido, y pensó: «En la finca de mi padre los trabajadores tienen toda la comida que desean, y yo aquí me estoy muriendo de hambre."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2314,
+      "char_end": 2414,
+      "text": "Volveré a mi casa, y apenas llegue, le diré a mi padre que me he portado muy mal con Dios y con él."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2414,
+      "char_end": 2528,
+      "text": "Le diré que no merezco ser su hijo, pero que me dé empleo, y que me trate como a cualquiera de sus trabajadores»."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2528,
+      "char_end": 2671,
+      "text": "Entonces regresó a la casa de su padre. Cuando todavía estaba lejos, su padre corrió hacia él lleno de amor, y lo recibió con abrazos y besos."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2671,
+      "char_end": 2783,
+      "text": "El joven empezó a decirle: «¡Papá, me he portado muy mal contra Dios y contra ti! ¡Ya no merezco ser tu hijo!»."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2783,
+      "char_end": 2963,
+      "text": "Pero antes de que el muchacho terminara de hablar, el padre llamó a los sirvientes y les dijo: «¡Pronto! Traigan la mejor ropa y vístanlo. Pónganle un anillo, y también sandalias."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2963,
+      "char_end": 3018,
+      "text": "¡Maten el ternero más gordo y hagamos una gran fiesta,"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3018,
+      "char_end": 3157,
+      "text": "porque mi hijo ha regresado! Es como si hubiera muerto, y ha vuelto a vivir. Se había perdido y lo hemos encontrado». Y comenzó la fiesta."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3157,
+      "char_end": 3282,
+      "text": "Mientras tanto, el hijo mayor estaba trabajando en el campo. Cuando regresó, se acercó a la casa y oyó la música y el baile."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3282,
+      "char_end": 3341,
+      "text": "Llamó a uno de los sirvientes y le preguntó: «¿Qué pasa?»."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3341,
+      "char_end": 3473,
+      "text": "El sirviente le dijo: «Es que tu hermano ha vuelto sano y salvo, y tu papá mandó matar el ternero más gordo para hacer una fiesta»."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3473,
+      "char_end": 3580,
+      "text": "Entonces el hermano mayor se enojó mucho y no quiso entrar. Su padre tuvo que salir a rogarle que entrara."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3580,
+      "char_end": 3774,
+      "text": "Pero él, muy enojado, le dijo: «He trabajado para ti desde hace muchos años, y nunca te he desobedecido; pero a mí jamás me has dado siquiera un cabrito para que haga una fiesta con mis amigos."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3774,
+      "char_end": 3900,
+      "text": "¡Y ahora que vuelve ese hijo tuyo, después de malgastar todo tu dinero con prostitutas, matas para él el ternero más gordo!»."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3900,
+      "char_end": 3990,
+      "text": "El padre le contestó: «¡Pero hijo! Tú siempre estás conmigo, y todo lo que tengo es tuyo."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3990,
+      "char_end": 4174,
+      "text": "¡Cómo no íbamos a hacer una fiesta y alegrarnos por el regreso de tu hermano! Es como si hubiera muerto, pero ha vuelto a vivir; como si se hubiera perdido, pero lo hemos encontrado»."
+    }
+  ],
+  "words": [
+    {
+      "word": "Mientras Jesús enseñaba, se le acercaron muchos de los que cobraban impuestos para el gobierno de Roma, y también otras personas a quienes los fariseos consideraban gente de mala fama.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 10487,
+      "duration_ms": 10387
+    },
+    {
+      "word": "Al ver esto, los fariseos y los maestros de la Ley comenzaron a criticar a Jesús, y decían: Este hombre es amigo de los pecadores, y hasta come con ellos.",
+      "verse": 2,
+      "start_ms": 10437,
+      "end_ms": 20512,
+      "duration_ms": 10075
+    },
+    {
+      "word": "Al oír eso, Jesús les puso este ejemplo: Si alguno de ustedes tiene cien ovejas, y se da cuenta de que ha perdido una, ¿acaso no deja las otras noventa y nueve en el campo y se va a buscar la oveja perdida?",
+      "verse": 3,
+      "start_ms": 20512,
+      "end_ms": 32974,
+      "duration_ms": 12462
+    },
+    {
+      "word": "Y cuando la encuentra, la pone en sus hombros y vuelve muy contento con ella.",
+      "verse": 5,
+      "start_ms": 32975,
+      "end_ms": 37937,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Después llama a sus amigos y vecinos, y les dice: «¡Vengan a mi casa y alégrense conmigo!",
+      "verse": 6,
+      "start_ms": 37937,
+      "end_ms": 44037,
+      "duration_ms": 6100
+    },
+    {
+      "word": "Ya encontré la oveja que había perdido!",
+      "verse": 6,
+      "start_ms": 44037,
+      "end_ms": 46962,
+      "duration_ms": 2925
+    },
+    {
+      "word": "De la misma manera, hay más alegría allá en el cielo por una de estas personas que se vuelve a Dios, que por noventa y nueve personas buenas que no necesitan volverse a él.",
+      "verse": 7,
+      "start_ms": 46962,
+      "end_ms": 56637,
+      "duration_ms": 9675
+    },
+    {
+      "word": "Jesús les puso otro ejemplo: ¿Qué hará una mujer que, con mucho cuidado, ha guardado diez monedas, y de pronto se da cuenta de que ha perdido una de ellas?",
+      "verse": 8,
+      "start_ms": 56637,
+      "end_ms": 66737,
+      "duration_ms": 10100
+    },
+    {
+      "word": "De inmediato prenderá las luces y se pondrá a barrer la casa, y buscará en todos los rincones, hasta encontrarla.",
+      "verse": 8,
+      "start_ms": 66737,
+      "end_ms": 73962,
+      "duration_ms": 7225
+    },
+    {
+      "word": "Y cuando la encuentre, invitará a sus amigas y vecinas y les dirá: «¡Vengan a mi casa y alégrense conmigo!",
+      "verse": 9,
+      "start_ms": 73962,
+      "end_ms": 80712,
+      "duration_ms": 6750
+    },
+    {
+      "word": "Ya encontré la moneda que había perdido!",
+      "verse": 9,
+      "start_ms": 80712,
+      "end_ms": 83749,
+      "duration_ms": 3037
+    },
+    {
+      "word": "De la misma manera, los ángeles de Dios hacen fiesta cuando alguien se vuelve a Dios.",
+      "verse": 10,
+      "start_ms": 83750,
+      "end_ms": 89137,
+      "duration_ms": 5387
+    },
+    {
+      "word": "Jesús también les dijo: Un hombre tenía dos hijos.",
+      "verse": 11,
+      "start_ms": 89137,
+      "end_ms": 93162,
+      "duration_ms": 4025
+    },
+    {
+      "word": "Un día, el hijo más joven le dijo a su padre: «Papá, dame la parte de tu propiedad que me toca como herencia».",
+      "verse": 12,
+      "start_ms": 93162,
+      "end_ms": 100412,
+      "duration_ms": 7250
+    },
+    {
+      "word": "Entonces el padre repartió la herencia entre sus dos hijos.",
+      "verse": 12,
+      "start_ms": 100412,
+      "end_ms": 104574,
+      "duration_ms": 4162
+    },
+    {
+      "word": "A los pocos días, el hijo menor vendió lo que su padre le había dado y se fue lejos, a otro país.",
+      "verse": 13,
+      "start_ms": 104575,
+      "end_ms": 111187,
+      "duration_ms": 6612
+    },
+    {
+      "word": "Allá se dedicó a darse gusto, haciendo lo malo y gastando todo el dinero.",
+      "verse": 13,
+      "start_ms": 111187,
+      "end_ms": 116387,
+      "duration_ms": 5200
+    },
+    {
+      "word": "Ya se había quedado sin nada, cuando comenzó a faltar la comida en aquel país, y el joven empezó a pasar hambre.",
+      "verse": 14,
+      "start_ms": 116387,
+      "end_ms": 123324,
+      "duration_ms": 6937
+    },
+    {
+      "word": "Entonces buscó trabajo, y el hombre que lo empleó lo mandó a cuidar cerdos en su finca.",
+      "verse": 15,
+      "start_ms": 123325,
+      "end_ms": 128887,
+      "duration_ms": 5562
+    },
+    {
+      "word": "Al joven le daban ganas de comer aunque fuera la comida con que alimentaban a los cerdos, pero nadie se la daba.",
+      "verse": 16,
+      "start_ms": 128887,
+      "end_ms": 135362,
+      "duration_ms": 6475
+    },
+    {
+      "word": "Por fin comprendió lo tonto que había sido, y pensó: «En la finca de mi padre los trabajadores tienen toda la comida que desean, y yo aquí me estoy muriendo de hambre.",
+      "verse": 17,
+      "start_ms": 135362,
+      "end_ms": 145099,
+      "duration_ms": 9737
+    },
+    {
+      "word": "Volveré a mi casa, y apenas llegue, le diré a mi padre que me he portado muy mal con Dios y con él.",
+      "verse": 18,
+      "start_ms": 145100,
+      "end_ms": 151750,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Le diré que no merezco ser su hijo, pero que me dé empleo, y que me trate como a cualquiera de sus trabajadores».",
+      "verse": 19,
+      "start_ms": 151750,
+      "end_ms": 158625,
+      "duration_ms": 6875
+    },
+    {
+      "word": "Entonces regresó a la casa de su padre.",
+      "verse": 20,
+      "start_ms": 158625,
+      "end_ms": 161637,
+      "duration_ms": 3012
+    },
+    {
+      "word": "Cuando todavía estaba lejos, su padre corrió hacia él lleno de amor, y lo recibió con abrazos y besos.",
+      "verse": 20,
+      "start_ms": 161637,
+      "end_ms": 168437,
+      "duration_ms": 6800
+    },
+    {
+      "word": "El joven empezó a decirle: «¡Papá, me he portado muy mal contra Dios y contra ti!",
+      "verse": 21,
+      "start_ms": 168437,
+      "end_ms": 174074,
+      "duration_ms": 5637
+    },
+    {
+      "word": "Ya no merezco ser tu hijo!",
+      "verse": 21,
+      "start_ms": 174075,
+      "end_ms": 176362,
+      "duration_ms": 2287
+    },
+    {
+      "word": "Pero antes de que el muchacho terminara de hablar, el padre llamó a los sirvientes y les dijo: «¡Pronto!",
+      "verse": 22,
+      "start_ms": 176362,
+      "end_ms": 182587,
+      "duration_ms": 6225
+    },
+    {
+      "word": "Traigan la mejor ropa y vístanlo.",
+      "verse": 22,
+      "start_ms": 182587,
+      "end_ms": 185374,
+      "duration_ms": 2787
+    },
+    {
+      "word": "Pónganle un anillo, y también sandalias.",
+      "verse": 22,
+      "start_ms": 185375,
+      "end_ms": 188937,
+      "duration_ms": 3562
+    },
+    {
+      "word": "Maten el ternero más gordo y hagamos una gran fiesta, porque mi hijo ha regresado!",
+      "verse": 23,
+      "start_ms": 188937,
+      "end_ms": 194399,
+      "duration_ms": 5462
+    },
+    {
+      "word": "Es como si hubiera muerto, y ha vuelto a vivir.",
+      "verse": 24,
+      "start_ms": 194400,
+      "end_ms": 197862,
+      "duration_ms": 3462
+    },
+    {
+      "word": "Se había perdido y lo hemos encontrado».",
+      "verse": 24,
+      "start_ms": 197862,
+      "end_ms": 200874,
+      "duration_ms": 3012
+    },
+    {
+      "word": "Y comenzó la fiesta.",
+      "verse": 24,
+      "start_ms": 200875,
+      "end_ms": 203012,
+      "duration_ms": 2137
+    },
+    {
+      "word": "Mientras tanto, el hijo mayor estaba trabajando en el campo.",
+      "verse": 25,
+      "start_ms": 203012,
+      "end_ms": 207262,
+      "duration_ms": 4250
+    },
+    {
+      "word": "Cuando regresó, se acercó a la casa y oyó la música y el baile.",
+      "verse": 25,
+      "start_ms": 207262,
+      "end_ms": 211937,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Llamó a uno de los sirvientes y le preguntó: «¿Qué pasa?",
+      "verse": 26,
+      "start_ms": 211937,
+      "end_ms": 216062,
+      "duration_ms": 4125
+    },
+    {
+      "word": "El sirviente le dijo: «Es que tu hermano ha vuelto sano y salvo, y tu papá mandó matar el ternero más gordo para hacer una fiesta».",
+      "verse": 27,
+      "start_ms": 216062,
+      "end_ms": 224012,
+      "duration_ms": 7950
+    },
+    {
+      "word": "Entonces el hermano mayor se enojó mucho y no quiso entrar.",
+      "verse": 28,
+      "start_ms": 224012,
+      "end_ms": 228199,
+      "duration_ms": 4187
+    },
+    {
+      "word": "Su padre tuvo que salir a rogarle que entrara.",
+      "verse": 28,
+      "start_ms": 228200,
+      "end_ms": 231450,
+      "duration_ms": 3250
+    },
+    {
+      "word": "Pero él, muy enojado, le dijo: «He trabajado para ti desde hace muchos años, y nunca te he desobedecido; pero a mí jamás me has dado siquiera un cabrito para que haga una fiesta con mis amigos.",
+      "verse": 29,
+      "start_ms": 231450,
+      "end_ms": 243687,
+      "duration_ms": 12237
+    },
+    {
+      "word": "Y ahora que vuelve ese hijo tuyo, después de malgastar todo tu dinero con prostitutas, matas para él el ternero más gordo!",
+      "verse": 30,
+      "start_ms": 243687,
+      "end_ms": 251512,
+      "duration_ms": 7825
+    },
+    {
+      "word": "El padre le contestó: «¡Pero hijo!",
+      "verse": 31,
+      "start_ms": 251512,
+      "end_ms": 254487,
+      "duration_ms": 2975
+    },
+    {
+      "word": "Tú siempre estás conmigo, y todo lo",
+      "verse": 31,
+      "start_ms": 254487,
+      "end_ms": 257549,
+      "duration_ms": 3062
+    },
+    {
+      "word": "que tengo es tuyo.",
+      "verse": 31,
+      "start_ms": 257716,
+      "end_ms": 259703,
+      "duration_ms": 1987
+    },
+    {
+      "word": "Cómo no íbamos a hacer una fiesta y alegrarnos por el regreso de tu hermano!",
+      "verse": 32,
+      "start_ms": 259653,
+      "end_ms": 264140,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Es como si hubiera muerto, pero ha vuelto a vivir; como si se hubiera perdido, pero lo hemos encontrado».",
+      "verse": 32,
+      "start_ms": 264141,
+      "end_ms": 270841,
+      "duration_ms": 6700
+    }
+  ]
+}

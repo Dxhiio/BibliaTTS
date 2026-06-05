@@ -1,0 +1,831 @@
+{
+  "book": "JUA",
+  "chapter": 19,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 39,
+  "word_count": 78,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 53,
+      "text": "Entonces Pilato ordenó que le dieran azotes a Jesús."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 53,
+      "char_end": 188,
+      "text": "Luego, los soldados romanos hicieron una corona de espinas y se la pusieron a Jesús. También le pusieron un manto de color rojo oscuro"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 188,
+      "char_end": 273,
+      "text": "y, acercándose a él, dijeron: ¡Viva el rey de los judíos! Y lo golpeaban en la cara."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 273,
+      "char_end": 405,
+      "text": "Pilato volvió a salir, y dijo a la gente: ¡Escuchen! Ordené que traigan a Jesús de nuevo. Yo no creo que sea culpable de nada malo."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 405,
+      "char_end": 525,
+      "text": "Cuando sacaron a Jesús, llevaba puesta la corona de espinas y vestía el manto rojo. Pilato dijo: —¡Aquí está el hombre!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 525,
+      "char_end": 780,
+      "text": "Cuando los jefes de los sacerdotes y los guardias del templo vieron a Jesús, comenzaron a gritar: —¡Clávalo en una cruz! ¡Clávalo en una cruz! Pilato les dijo: —Yo no creo que sea culpable de nada. Así que llévenselo y clávenlo en la cruz ustedes mismos."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 780,
+      "char_end": 888,
+      "text": "La gente respondió: —De acuerdo a nuestra ley, este hombre tiene que morir porque dice ser el Hijo de Dios."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 888,
+      "char_end": 939,
+      "text": "Cuando Pilato oyó lo que decían, sintió más miedo."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 939,
+      "char_end": 1043,
+      "text": "Volvió a entrar en el palacio, llamó a Jesús y le preguntó: —¿De dónde eres? Pero Jesús no le contestó."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1043,
+      "char_end": 1196,
+      "text": "Entonces Pilato le dijo: —¿No me vas a contestar? ¿Acaso no sabes que tengo poder para mandar que te dejen libre, o para que mueras clavado en una cruz?"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1196,
+      "char_end": 1342,
+      "text": "Jesús le respondió: —No tendrías ningún poder sobre mí, si Dios no te lo hubiera dado. El hombre que me entregó es más culpable de pecado que tú."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1342,
+      "char_end": 1564,
+      "text": "A partir de ese momento, Pilato buscó la manera de dejar libre a Jesús, pero la gente gritó: —¡Si dejas libre a ese hombre, no eres amigo del emperador romano! ¡Cualquiera que quiera hacerse rey, es enemigo del emperador!"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1564,
+      "char_end": 1732,
+      "text": "Al oír esto, Pilato mandó que sacaran a Jesús del palacio. Luego se sentó en el asiento del tribunal, en un lugar llamado Gabatá, que en hebreo significa El Empedrado."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1732,
+      "char_end": 1865,
+      "text": "Faltaba un día para la fiesta de la Pascua, y eran como las doce del día. Entonces Pilato dijo a los judíos: —¡Aquí tienen a su rey!"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1865,
+      "char_end": 2092,
+      "text": "Pero la gente gritó: —¡Clávalo en una cruz! ¡Clávalo en una cruz! Pilato les preguntó: —¿De veras quieren que mate a su rey? Y los sacerdotes principales le respondieron: —¡Nosotros no tenemos más rey que el emperador de Roma!"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2092,
+      "char_end": 2185,
+      "text": "Entonces Pilato les entregó a Jesús para que lo mataran en una cruz, y ellos se lo llevaron."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2185,
+      "char_end": 2308,
+      "text": "Jesús salió de allí cargando su propia cruz, y fue al lugar llamado Gólgota, que en hebreo significa Lugar de la Calavera."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2308,
+      "char_end": 2410,
+      "text": "Allí clavaron a Jesús en la cruz. También crucificaron a otros dos hombres, uno a cada lado de Jesús."
+    },
+    {
+      "verse": 19,
+      "label": "19-20",
+      "char_start": 2410,
+      "char_end": 2771,
+      "text": "Pilato ordenó que escribieran un letrero que explicara por qué habían matado a Jesús. El letrero fue escrito en tres idiomas: hebreo, latín y griego; y decía: Jesús de Nazaret, Rey de los judíos. Colocaron el letrero en la cruz, por encima de la cabeza de Jesús. Como el lugar donde clavaron a Jesús estaba cerca de la ciudad, muchos judíos leyeron el letrero."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2771,
+      "char_end": 2934,
+      "text": "Por eso los sacerdotes principales le dijeron a Pilato: —No escribas: «Rey de los judíos». Más bien debes escribir: «Este hombre afirma ser el Rey de los judíos»."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2934,
+      "char_end": 2984,
+      "text": "Pilato les dijo: —Lo que he escrito así se queda."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2984,
+      "char_end": 3218,
+      "text": "Después de que los soldados romanos clavaron a Jesús en la cruz, recogieron su ropa y la partieron en cuatro pedazos, una para cada soldado. También tomaron el manto de Jesús, pero como era un tejido de una sola pieza y sin costuras,"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3218,
+      "char_end": 3399,
+      "text": "decidieron no romperlo, sino echarlo a la suerte, para ver quién se quedaría con él. Así se cumplió lo que dice la Biblia: Hicieron un sorteo para ver quién se quedaba con mi ropa."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3399,
+      "char_end": 3511,
+      "text": "Cerca de la cruz estaban María la madre de Jesús, María la esposa de Cleofás y tía de Jesús, y María Magdalena."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3511,
+      "char_end": 3614,
+      "text": "Cuando Jesús vio a su madre junto al discípulo preferido, le dijo a ella: Madre, ahí tienes a tu hijo."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3614,
+      "char_end": 3739,
+      "text": "Después le dijo al discípulo: Ahí tienes a tu madre. Y a partir de ese momento, el discípulo llevó a María a su propia casa."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3739,
+      "char_end": 3879,
+      "text": "Jesús sabía que ya había hecho todo lo que Dios le había ordenado. Por eso, y para que se cumpliera lo que dice la Biblia, dijo: Tengo sed."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3879,
+      "char_end": 4020,
+      "text": "Había allí un jarro lleno de vinagre. Entonces empaparon una esponja en el vinagre, la ataron a una rama, y la acercaron a la boca de Jesús."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4020,
+      "char_end": 4102,
+      "text": "Él probó el vinagre y dijo: Todo está cumplido. Luego, inclinó su cabeza y murió."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4102,
+      "char_end": 4457,
+      "text": "Era viernes, y al día siguiente sería la fiesta de la Pascua. Los jefes judíos no querían que en el día sábado los tres hombres siguieran colgados en las cruces, porque ése sería un sábado muy especial. Por eso le pidieron a Pilato ordenar que se les quebraran las piernas a los tres hombres. Así los harían morir más rápido y podrían quitar los cuerpos."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4457,
+      "char_end": 4555,
+      "text": "Los soldados fueron y les quebraron las piernas a los dos que habían sido clavados junto a Jesús."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4555,
+      "char_end": 4658,
+      "text": "Cuando llegaron a Jesús, se dieron cuenta de que ya había muerto. Por eso no le quebraron las piernas."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4658,
+      "char_end": 4768,
+      "text": "Sin embargo, uno de los soldados atravesó con una lanza el costado de Jesús, y enseguida salió sangre y agua."
+    },
+    {
+      "verse": 35,
+      "label": "35-37",
+      "char_start": 4768,
+      "char_end": 5061,
+      "text": "Todo esto sucedió para que se cumpliera lo que dice la Biblia: No le quebrarán ningún hueso. En otra parte, la Biblia también dice: Mirarán al que atravesaron con una lanza. El que dice esto, también vio lo que pasó, y sabe que todo esto es cierto. Él cuenta la verdad para que ustedes crean."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 5061,
+      "char_end": 5323,
+      "text": "Después de esto José, de la ciudad de Arimatea, le pidió permiso a Pilato para llevarse el cuerpo de Jesús. José era seguidor de Jesús, pero no se lo había dicho a nadie porque tenía miedo de los líderes judíos. Pilato le dio permiso, y José se llevó el cuerpo."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 5323,
+      "char_end": 5449,
+      "text": "También Nicodemo, el que una noche había ido a hablar con Jesús, llegó con unos treinta kilos de perfume a donde estaba José."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 5449,
+      "char_end": 5657,
+      "text": "Los dos tomaron el cuerpo de Jesús, y lo envolvieron en vendas de una tela muy cara. Luego empaparon las vendas con el perfume que había llevado Nicodemo. Los judíos acostumbraban sepultar así a los muertos."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 5657,
+      "char_end": 5763,
+      "text": "En el lugar donde Jesús murió había un jardín con una tumba nueva. Allí no habían puesto a nadie todavía."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 5763,
+      "char_end": 5926,
+      "text": "Como ya iba a empezar el sábado, que era el día de descanso obligatorio para los judíos, pusieron allí el cuerpo de Jesús en esa tumba, porque era la más cercana."
+    }
+  ],
+  "words": [
+    {
+      "word": "Entonces Pilato ordenó que le dieran azotes a Jesús.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3950,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Luego, los soldados romanos hicieron una corona de espinas y se la pusieron a Jesús.",
+      "verse": 2,
+      "start_ms": 3900,
+      "end_ms": 9375,
+      "duration_ms": 5475
+    },
+    {
+      "word": "También le pusieron un manto de color rojo oscuro y, acercándose a él, dijeron: ¡Viva el rey de los judíos!",
+      "verse": 2,
+      "start_ms": 9375,
+      "end_ms": 16737,
+      "duration_ms": 7362
+    },
+    {
+      "word": "Y lo golpeaban en la cara.",
+      "verse": 3,
+      "start_ms": 16737,
+      "end_ms": 18974,
+      "duration_ms": 2237
+    },
+    {
+      "word": "Pilato volvió a salir, y dijo a la gente: ¡Escuchen!",
+      "verse": 4,
+      "start_ms": 18975,
+      "end_ms": 23112,
+      "duration_ms": 4137
+    },
+    {
+      "word": "Ordené que traigan a Jesús de nuevo.",
+      "verse": 4,
+      "start_ms": 23112,
+      "end_ms": 25962,
+      "duration_ms": 2850
+    },
+    {
+      "word": "Yo no creo que sea culpable de nada malo.",
+      "verse": 4,
+      "start_ms": 25962,
+      "end_ms": 29124,
+      "duration_ms": 3162
+    },
+    {
+      "word": "Cuando sacaron a Jesús, llevaba puesta la corona de espinas y vestía el manto rojo.",
+      "verse": 5,
+      "start_ms": 29125,
+      "end_ms": 34662,
+      "duration_ms": 5537
+    },
+    {
+      "word": "Pilato dijo: —¡Aquí está el hombre!",
+      "verse": 5,
+      "start_ms": 34662,
+      "end_ms": 37562,
+      "duration_ms": 2900
+    },
+    {
+      "word": "Cuando los jefes de los sacerdotes y los guardias del templo vieron a Jesús, comenzaron a gritar: —¡Clávalo en una cruz!",
+      "verse": 6,
+      "start_ms": 37562,
+      "end_ms": 44824,
+      "duration_ms": 7262
+    },
+    {
+      "word": "Clávalo en una cruz!",
+      "verse": 6,
+      "start_ms": 44825,
+      "end_ms": 46862,
+      "duration_ms": 2037
+    },
+    {
+      "word": "Pilato les dijo: —Yo no creo que sea culpable de nada.",
+      "verse": 6,
+      "start_ms": 46862,
+      "end_ms": 51037,
+      "duration_ms": 4175
+    },
+    {
+      "word": "Así que llévenselo y clávenlo en la cruz ustedes mismos.",
+      "verse": 6,
+      "start_ms": 51037,
+      "end_ms": 54999,
+      "duration_ms": 3962
+    },
+    {
+      "word": "La gente respondió: —De acuerdo a nuestra ley, este hombre tiene que morir porque dice ser el Hijo de Dios.",
+      "verse": 7,
+      "start_ms": 55000,
+      "end_ms": 61537,
+      "duration_ms": 6537
+    },
+    {
+      "word": "Cuando Pilato oyó lo que decían, sintió más miedo.",
+      "verse": 8,
+      "start_ms": 61537,
+      "end_ms": 65449,
+      "duration_ms": 3912
+    },
+    {
+      "word": "Volvió a entrar en el palacio, llamó a Jesús y le preguntó: —¿De dónde eres?",
+      "verse": 9,
+      "start_ms": 65450,
+      "end_ms": 70762,
+      "duration_ms": 5312
+    },
+    {
+      "word": "Pero Jesús no le contestó.",
+      "verse": 9,
+      "start_ms": 70762,
+      "end_ms": 73162,
+      "duration_ms": 2400
+    },
+    {
+      "word": "Entonces Pilato le dijo: —¿No me vas a contestar?",
+      "verse": 10,
+      "start_ms": 73162,
+      "end_ms": 76974,
+      "duration_ms": 3812
+    },
+    {
+      "word": "Acaso no sabes que tengo poder para mandar que te dejen libre, o para que mueras clavado en una cruz?",
+      "verse": 10,
+      "start_ms": 76975,
+      "end_ms": 82962,
+      "duration_ms": 5987
+    },
+    {
+      "word": "Jesús le respondió: —No tendrías ningún poder sobre mí, si Dios no te lo hubiera dado.",
+      "verse": 11,
+      "start_ms": 82962,
+      "end_ms": 88887,
+      "duration_ms": 5925
+    },
+    {
+      "word": "El hombre que me entregó es más culpable de pecado que tú.",
+      "verse": 11,
+      "start_ms": 88887,
+      "end_ms": 92487,
+      "duration_ms": 3600
+    },
+    {
+      "word": "A partir de ese momento, Pilato buscó la manera de dejar libre a Jesús, pero la gente gritó: —¡Si dejas libre a ese hombre, no eres amigo del emperador romano!",
+      "verse": 12,
+      "start_ms": 92487,
+      "end_ms": 102887,
+      "duration_ms": 10400
+    },
+    {
+      "word": "Cualquiera que quiera hacerse rey, es enemigo del emperador!",
+      "verse": 12,
+      "start_ms": 102887,
+      "end_ms": 106949,
+      "duration_ms": 4062
+    },
+    {
+      "word": "Al oír esto, Pilato mandó que sacaran a Jesús del palacio.",
+      "verse": 13,
+      "start_ms": 106950,
+      "end_ms": 111325,
+      "duration_ms": 4375
+    },
+    {
+      "word": "Luego se sentó en el asiento del tribunal, en un lugar llamado Gabatá, que en hebreo significa El Empedrado.",
+      "verse": 13,
+      "start_ms": 111325,
+      "end_ms": 118262,
+      "duration_ms": 6937
+    },
+    {
+      "word": "Faltaba un día para la fiesta de la Pascua, y eran como las doce del día.",
+      "verse": 14,
+      "start_ms": 118262,
+      "end_ms": 123224,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Entonces Pilato dijo a los judíos: —¡Aquí tienen a su rey!",
+      "verse": 14,
+      "start_ms": 123225,
+      "end_ms": 127400,
+      "duration_ms": 4175
+    },
+    {
+      "word": "Pero la gente gritó: —¡Clávalo en una cruz!",
+      "verse": 15,
+      "start_ms": 127400,
+      "end_ms": 130800,
+      "duration_ms": 3400
+    },
+    {
+      "word": "Clávalo en una cruz!",
+      "verse": 15,
+      "start_ms": 130800,
+      "end_ms": 132837,
+      "duration_ms": 2037
+    },
+    {
+      "word": "Pilato les preguntó: —¿De veras quieren que mate a su rey?",
+      "verse": 15,
+      "start_ms": 132837,
+      "end_ms": 136737,
+      "duration_ms": 3900
+    },
+    {
+      "word": "Y los sacerdotes principales le respondieron: —¡Nosotros no tenemos más rey que el emperador de Roma!",
+      "verse": 15,
+      "start_ms": 136737,
+      "end_ms": 142949,
+      "duration_ms": 6212
+    },
+    {
+      "word": "Entonces Pilato les entregó a Jesús para que lo mataran en una cruz, y ellos se lo llevaron.",
+      "verse": 16,
+      "start_ms": 142950,
+      "end_ms": 148675,
+      "duration_ms": 5725
+    },
+    {
+      "word": "Jesús salió de allí cargando su propia cruz, y fue al lugar llamado Gólgota, que en hebreo significa Lugar de la Calavera.",
+      "verse": 17,
+      "start_ms": 148675,
+      "end_ms": 156325,
+      "duration_ms": 7650
+    },
+    {
+      "word": "Allí clavaron a Jesús en la cruz.",
+      "verse": 18,
+      "start_ms": 156325,
+      "end_ms": 159187,
+      "duration_ms": 2862
+    },
+    {
+      "word": "También crucificaron a otros dos hombres, uno a cada lado de Jesús.",
+      "verse": 18,
+      "start_ms": 159187,
+      "end_ms": 164149,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Pilato ordenó que escribieran un letrero que explicara por qué habían matado a Jesús.",
+      "verse": 19,
+      "start_ms": 164150,
+      "end_ms": 169325,
+      "duration_ms": 5175
+    },
+    {
+      "word": "El letrero fue escrito en tres idiomas: hebreo, latín y griego; y decía: Jesús de Nazaret, Rey de los judíos.",
+      "verse": 19,
+      "start_ms": 169325,
+      "end_ms": 177662,
+      "duration_ms": 8337
+    },
+    {
+      "word": "Colocaron el letrero en la cruz, por encima de la cabeza de Jesús.",
+      "verse": 19,
+      "start_ms": 177662,
+      "end_ms": 182324,
+      "duration_ms": 4662
+    },
+    {
+      "word": "Como el lugar donde clavaron a Jesús estaba cerca de la ciudad, muchos judíos leyeron el letrero.",
+      "verse": 19,
+      "start_ms": 182325,
+      "end_ms": 188400,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Por eso los sacerdotes principales le dijeron a Pilato: —No escribas: «Rey de los judíos».",
+      "verse": 21,
+      "start_ms": 188400,
+      "end_ms": 194500,
+      "duration_ms": 6100
+    },
+    {
+      "word": "Más bien debes escribir: «Este hombre afirma ser el Rey de los judíos».",
+      "verse": 21,
+      "start_ms": 194500,
+      "end_ms": 199375,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Pilato les dijo: —Lo que he escrito así se queda.",
+      "verse": 22,
+      "start_ms": 199375,
+      "end_ms": 203312,
+      "duration_ms": 3937
+    },
+    {
+      "word": "Después de que los soldados romanos clavaron a Jesús en la cruz, recogieron su ropa y la partieron en cuatro pedazos, una para cada soldado.",
+      "verse": 23,
+      "start_ms": 203312,
+      "end_ms": 211774,
+      "duration_ms": 8462
+    },
+    {
+      "word": "También tomaron el manto de Jesús, pero como era un tejido de una sola pieza y sin costuras, decidieron no romperlo, sino echarlo a la suerte, para ver quién se quedaría con él.",
+      "verse": 23,
+      "start_ms": 211775,
+      "end_ms": 222725,
+      "duration_ms": 10950
+    },
+    {
+      "word": "Así se cumplió lo que dice la Biblia: Hicieron un sorteo para ver quién se quedaba con mi ropa.",
+      "verse": 24,
+      "start_ms": 222725,
+      "end_ms": 228500,
+      "duration_ms": 5775
+    },
+    {
+      "word": "Cerca de la cruz estaban María la madre de Jesús, María la esposa de Cleofás y tía de Jesús, y María Magdalena.",
+      "verse": 25,
+      "start_ms": 228500,
+      "end_ms": 236212,
+      "duration_ms": 7712
+    },
+    {
+      "word": "Cuando Jesús vio a su madre junto al discípulo preferido, le dijo a ella: Madre, ahí tienes a tu hijo.",
+      "verse": 26,
+      "start_ms": 236212,
+      "end_ms": 243012,
+      "duration_ms": 6800
+    },
+    {
+      "word": "Después le dijo al discípulo: Ahí tienes a tu madre.",
+      "verse": 27,
+      "start_ms": 243012,
+      "end_ms": 246862,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Y a partir de ese momento, el discípulo llevó a María a su propia casa.",
+      "verse": 27,
+      "start_ms": 246862,
+      "end_ms": 251949,
+      "duration_ms": 5087
+    },
+    {
+      "word": "Jesús sabía que ya había hecho todo lo que Dios le había ordenado.",
+      "verse": 28,
+      "start_ms": 251950,
+      "end_ms": 256200,
+      "duration_ms": 4250
+    },
+    {
+      "word": "Por eso, y para que se cumpliera lo que dice la Biblia, dijo: Tengo sed.",
+      "verse": 28,
+      "start_ms": 256200,
+      "end_ms": 261462,
+      "duration_ms": 5262
+    },
+    {
+      "word": "Había allí un jarro lleno de vinagre.",
+      "verse": 29,
+      "start_ms": 261462,
+      "end_ms": 264512,
+      "duration_ms": 3050
+    },
+    {
+      "word": "Entonces",
+      "verse": 29,
+      "start_ms": 264512,
+      "end_ms": 266249,
+      "duration_ms": 1737
+    },
+    {
+      "word": "empaparon una esponja en el vinagre, la ataron a una rama, y la acercaron a la boca de Jesús.",
+      "verse": 29,
+      "start_ms": 266404,
+      "end_ms": 272691,
+      "duration_ms": 6287
+    },
+    {
+      "word": "Él probó el vinagre y dijo: Todo está cumplido.",
+      "verse": 30,
+      "start_ms": 272641,
+      "end_ms": 276466,
+      "duration_ms": 3825
+    },
+    {
+      "word": "Luego, inclinó su cabeza y murió.",
+      "verse": 30,
+      "start_ms": 276466,
+      "end_ms": 279603,
+      "duration_ms": 3137
+    },
+    {
+      "word": "Era viernes, y al día siguiente sería la fiesta de la Pascua.",
+      "verse": 31,
+      "start_ms": 279604,
+      "end_ms": 283979,
+      "duration_ms": 4375
+    },
+    {
+      "word": "Los jefes judíos no querían que en el día sábado los tres hombres siguieran colgados en las cruces, porque ése sería un sábado muy especial.",
+      "verse": 31,
+      "start_ms": 283979,
+      "end_ms": 292204,
+      "duration_ms": 8225
+    },
+    {
+      "word": "Por eso le pidieron a Pilato ordenar que se les quebraran las piernas a los tres hombres.",
+      "verse": 31,
+      "start_ms": 292204,
+      "end_ms": 297316,
+      "duration_ms": 5112
+    },
+    {
+      "word": "Así los harían morir más rápido y podrían quitar los cuerpos.",
+      "verse": 31,
+      "start_ms": 297316,
+      "end_ms": 301603,
+      "duration_ms": 4287
+    },
+    {
+      "word": "Los soldados fueron y les quebraron las piernas a los dos que habían sido clavados junto a Jesús.",
+      "verse": 32,
+      "start_ms": 301604,
+      "end_ms": 307216,
+      "duration_ms": 5612
+    },
+    {
+      "word": "Cuando llegaron a Jesús, se dieron cuenta de que ya había muerto.",
+      "verse": 33,
+      "start_ms": 307216,
+      "end_ms": 311566,
+      "duration_ms": 4350
+    },
+    {
+      "word": "Por eso no le quebraron las piernas.",
+      "verse": 33,
+      "start_ms": 311566,
+      "end_ms": 314341,
+      "duration_ms": 2775
+    },
+    {
+      "word": "Sin embargo, uno de los soldados atravesó con una lanza el costado de Jesús, y enseguida salió sangre y agua.",
+      "verse": 34,
+      "start_ms": 314341,
+      "end_ms": 321641,
+      "duration_ms": 7300
+    },
+    {
+      "word": "Todo esto sucedió para que se cumpliera lo que dice la Biblia: No le quebrarán ningún hueso.",
+      "verse": 35,
+      "start_ms": 321641,
+      "end_ms": 327466,
+      "duration_ms": 5825
+    },
+    {
+      "word": "En otra parte, la Biblia también dice: Mirarán al que atravesaron con una lanza.",
+      "verse": 35,
+      "start_ms": 327466,
+      "end_ms": 333103,
+      "duration_ms": 5637
+    },
+    {
+      "word": "El que dice esto, también vio lo que pasó, y sabe que todo esto es cierto.",
+      "verse": 35,
+      "start_ms": 333104,
+      "end_ms": 338416,
+      "duration_ms": 5312
+    },
+    {
+      "word": "Él cuenta la verdad para que ustedes crean.",
+      "verse": 35,
+      "start_ms": 338416,
+      "end_ms": 341466,
+      "duration_ms": 3050
+    },
+    {
+      "word": "Después de esto José, de la ciudad de Arimatea, le pidió permiso a Pilato para llevarse el cuerpo de Jesús.",
+      "verse": 38,
+      "start_ms": 341466,
+      "end_ms": 348366,
+      "duration_ms": 6900
+    },
+    {
+      "word": "José era seguidor de Jesús, pero no se lo había dicho a nadie porque tenía miedo de los líderes judíos.",
+      "verse": 38,
+      "start_ms": 348366,
+      "end_ms": 355103,
+      "duration_ms": 6737
+    },
+    {
+      "word": "Pilato le dio permiso, y José se llevó el cuerpo.",
+      "verse": 38,
+      "start_ms": 355104,
+      "end_ms": 359054,
+      "duration_ms": 3950
+    },
+    {
+      "word": "También Nicodemo, el que una noche había ido a hablar con Jesús, llegó con unos treinta kilos de perfume a donde estaba José.",
+      "verse": 39,
+      "start_ms": 359054,
+      "end_ms": 366979,
+      "duration_ms": 7925
+    },
+    {
+      "word": "Los dos tomaron el cuerpo de Jesús, y lo envolvieron en vendas de una tela muy cara.",
+      "verse": 40,
+      "start_ms": 366979,
+      "end_ms": 372554,
+      "duration_ms": 5575
+    },
+    {
+      "word": "Luego empaparon las vendas con el perfume que había llevado Nicodemo.",
+      "verse": 40,
+      "start_ms": 372554,
+      "end_ms": 376941,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Los judíos acostumbraban sepultar así a los muertos.",
+      "verse": 40,
+      "start_ms": 376941,
+      "end_ms": 380716,
+      "duration_ms": 3775
+    },
+    {
+      "word": "En el lugar donde Jesús murió había un jardín con una tumba nueva.",
+      "verse": 41,
+      "start_ms": 380716,
+      "end_ms": 385103,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Allí no habían puesto a nadie todavía.",
+      "verse": 41,
+      "start_ms": 385104,
+      "end_ms": 388204,
+      "duration_ms": 3100
+    },
+    {
+      "word": "Como ya iba a empezar el sábado, que era el día de descanso obligatorio para los judíos, pusieron allí el cuerpo de Jesús en esa tumba, porque era la más cercana.",
+      "verse": 42,
+      "start_ms": 388204,
+      "end_ms": 397779,
+      "duration_ms": 9575
+    }
+  ]
+}

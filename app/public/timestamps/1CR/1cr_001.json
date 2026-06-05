@@ -1,0 +1,523 @@
+{
+  "book": "1CR",
+  "chapter": 1,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 22,
+  "word_count": 51,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-4",
+      "char_start": 0,
+      "char_end": 98,
+      "text": "Los descendientes de Adán son: Set, Enós, Cainán, Mahalalel, Jéred, Henoc, Matusalén, Lámec, Noé."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 98,
+      "char_end": 171,
+      "text": "Jafet tuvo siete hijos: Gómer, Magog, Madai, Javán, Tubal, Mésec, Tirás."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 171,
+      "char_end": 220,
+      "text": "Gómer tuvo tres hijos: Asquenaz, Rifat, Togarmá."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 220,
+      "char_end": 277,
+      "text": "Javán tuvo cuatro hijos: Elisá, Tarsis, Quitim, Rodanim."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 277,
+      "char_end": 327,
+      "text": "Cam tuvo cuatro hijos: Cus, Misraim, Fut, Canaán."
+    },
+    {
+      "verse": 9,
+      "label": "9-10",
+      "char_start": 327,
+      "char_end": 479,
+      "text": "Cus tuvo seis hijos: Sebá, Havilá, Sabtá, Raamá, Sabtecá, Nimrod. Nimrod llegó a ser muy poderoso en toda la tierra. Raamá tuvo dos hijos: Sebá, Dedán."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 479,
+      "char_end": 584,
+      "text": "Éstos son los pueblos que descienden de Misraim: los ludeos, los anameos, los lehabitas, los naftuhítas,"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 584,
+      "char_end": 675,
+      "text": "los patruseos, los casluhítasy los caftoritas. Los filisteos descienden de los caftoritas."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 675,
+      "char_end": 710,
+      "text": "Canaán tuvo dos hijos: Sidón, Het."
+    },
+    {
+      "verse": 14,
+      "label": "14-16",
+      "char_start": 710,
+      "char_end": 880,
+      "text": "Éstos son los pueblos que descienden de Canaán: los jebuseos, los amorreos, los gergeseos, los heveos, los araceos, los sineos, los arvadeos, los semareosy los hamateos."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 880,
+      "char_end": 1004,
+      "text": "Sem, el primer hijo de Noé, tuvo cinco hijos: Elam, Asur, Arfaxad, Lud, Aram. Aram tuvo cuatro hijos: Us, Hul, Mas, Guéter."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1004,
+      "char_end": 1059,
+      "text": "Arfaxad tuvo un hijo, Sélah. Sélah tuvo un hijo, Éber."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1059,
+      "char_end": 1194,
+      "text": "Éber tuvo dos hijos: Péleg, Joctán. En los días cuando Péleg vivía, la gente se dividió. Entonces se formaron muchas tribus y pueblos."
+    },
+    {
+      "verse": 20,
+      "label": "20-23",
+      "char_start": 1194,
+      "char_end": 1319,
+      "text": "Joctán tuvo trece hijos: Almodad, Sélef, Hasar-mávet, Jérah, Hadoram, Uzal, Diclá, Obal, Abimael, Sebá, Ofir, Havilá, Jobab."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1319,
+      "char_end": 1392,
+      "text": "Los descendientes de Sem hasta Abram son los siguientes: Arfaxad, Sélah,"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1392,
+      "char_end": 1410,
+      "text": "Éber, Péleg, Reú,"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 1410,
+      "char_end": 1431,
+      "text": "Serug, Nahor, Térah,"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 1431,
+      "char_end": 1485,
+      "text": "Abram. A este Abram, Dios le puso por nombre Abraham."
+    },
+    {
+      "verse": 28,
+      "label": "28-33",
+      "char_start": 1485,
+      "char_end": 1717,
+      "text": "Abraham tuvo dos hijos: Isaac, Ismael. Después, Abraham se casó con Queturá y tuvo seis hijos: Zimrán, Jocsán, Medán, Madián, Isbac, Súah. Jocsán tuvo dos hijos: Sebá, Dedán. Madián tuvo cinco hijos: Efá, Éfer, Hanoc, Abidá, Eldaá."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 1717,
+      "char_end": 1778,
+      "text": "Isaac, el otro hijo de Abraham, tuvo dos hijos: Esaú, Jacob."
+    },
+    {
+      "verse": 35,
+      "label": "35-42",
+      "char_start": 1778,
+      "char_end": 2327,
+      "text": "Esaú tuvo doce hijos: Elifaz, Reuel, Jeús, Jaalam, Coré, Lotán, Sobal, Sibón, Aná, Disón, Éser, Disán. Elifaz tuvo siete hijos: Temán, Omar, Sefó, Gatam, Quenaz, Timná, Amalec. Reuel tuvo cuatro hijos: Náhat, Zérah, Samá, Mizá. Lotán tuvo dos hijos: Horí, Hemam. Lotán tuvo una hermana llamada Timná. Sobal tuvo cinco hijos: Alván, Manáhat, Ebal, Sefó, Onam. Sibón tuvo dos hijos: Aiá, Aná. Aná tuvo un hijo, Disón. Disón tuvo cuatro hijos: Hemdán, Esbán, Itrán, Querán. Éser tuvo tres hijos: Bilhán, Zaaván, Jaacán. Disán tuvo dos hijos: Us, Arán."
+    },
+    {
+      "verse": 43,
+      "label": "43-54",
+      "char_start": 2327,
+      "char_end": 3149,
+      "text": "Antes de que hubiera reyes en Israel, los descendientes de Esaú, que vivían en Edom, tuvieron varios reyes. Cada rey gobernaba hasta el día de su muerte, y entonces otro ocupaba su lugar. Ésta es la lista de los reyes de Edom: Bela hijo de Beor, de la ciudad de Dinhaba. Jobab hijo de Zérah, del pueblo de Bosrá. Husam, de la región de Temán. Hadad hijo de Bedad, de la ciudad de Avit. Samlá, del pueblo de Masrecá. Saúl, del pueblo de Rehobot, junto al Éufrates. Baal-hanán hijo de Acbor. Hadad, de la ciudad de Pau. La esposa de Hadad de Pau se llamaba Mehetabel y era hija de Matred y nieta de Mezaab. Hadad de Avit derrotó a Madián cuando pelearon en el campo de Moab. Después de que murió, los edomitas tuvieron a los siguientes jefes: Timná, Alvá, Jetet, Oholibamá, Elá, Pinón, Quenaz, Temán, Mibsar, Magdiel, Iram."
+    }
+  ],
+  "words": [
+    {
+      "word": "Los descendientes de Adán son: Set, Enós, Cainán, Mahalalel, Jéred, Henoc, Matusalén, Lámec, Noé.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 9250,
+      "duration_ms": 9150
+    },
+    {
+      "word": "Jafet tuvo siete hijos: Gómer, Magog, Madai, Javán, Tubal, Mésec, Tirás.",
+      "verse": 5,
+      "start_ms": 9200,
+      "end_ms": 16900,
+      "duration_ms": 7700
+    },
+    {
+      "word": "Gómer tuvo tres hijos: Asquenaz, Rifat, Togarmá.",
+      "verse": 6,
+      "start_ms": 16900,
+      "end_ms": 21500,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Javán tuvo cuatro hijos: Elisá, Tarsis, Quitim, Rodanim.",
+      "verse": 7,
+      "start_ms": 21500,
+      "end_ms": 26987,
+      "duration_ms": 5487
+    },
+    {
+      "word": "Cam tuvo cuatro hijos: Cus, Misraim, Fut, Canaán.",
+      "verse": 8,
+      "start_ms": 26987,
+      "end_ms": 31887,
+      "duration_ms": 4900
+    },
+    {
+      "word": "Cus tuvo seis hijos: Sebá, Havilá, Sabtá, Raamá, Sabtecá, Nimrod.",
+      "verse": 9,
+      "start_ms": 31887,
+      "end_ms": 38724,
+      "duration_ms": 6837
+    },
+    {
+      "word": "Nimrod llegó a ser muy poderoso en toda la tierra.",
+      "verse": 9,
+      "start_ms": 38725,
+      "end_ms": 42550,
+      "duration_ms": 3825
+    },
+    {
+      "word": "Raamá tuvo dos hijos: Sebá, Dedán.",
+      "verse": 9,
+      "start_ms": 42550,
+      "end_ms": 46400,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Éstos son los pueblos que descienden de Misraim: los ludeos, los anameos, los lehabitas, los naftuhítas, los patruseos, los casluhítasy los caftoritas.",
+      "verse": 11,
+      "start_ms": 46400,
+      "end_ms": 56800,
+      "duration_ms": 10400
+    },
+    {
+      "word": "Los filisteos descienden de los caftoritas.",
+      "verse": 12,
+      "start_ms": 56800,
+      "end_ms": 60100,
+      "duration_ms": 3300
+    },
+    {
+      "word": "Canaán tuvo dos hijos: Sidón, Het.",
+      "verse": 13,
+      "start_ms": 60100,
+      "end_ms": 63725,
+      "duration_ms": 3625
+    },
+    {
+      "word": "Éstos son los pueblos que descienden de Canaán: los jebuseos, los amorreos, los gergeseos, los heveos, los araceos, los sineos, los arvadeos, los semareosy los hamateos.",
+      "verse": 14,
+      "start_ms": 63725,
+      "end_ms": 75937,
+      "duration_ms": 12212
+    },
+    {
+      "word": "Sem, el primer hijo de Noé, tuvo cinco hijos: Elam, Asur, Arfaxad, Lud, Aram.",
+      "verse": 17,
+      "start_ms": 75937,
+      "end_ms": 83312,
+      "duration_ms": 7375
+    },
+    {
+      "word": "Aram tuvo cuatro hijos: Us, Hul, Mas, Guéter.",
+      "verse": 17,
+      "start_ms": 83312,
+      "end_ms": 88649,
+      "duration_ms": 5337
+    },
+    {
+      "word": "Arfaxad tuvo un hijo, Sélah.",
+      "verse": 18,
+      "start_ms": 88650,
+      "end_ms": 91612,
+      "duration_ms": 2962
+    },
+    {
+      "word": "Sélah tuvo un hijo, Éber.",
+      "verse": 18,
+      "start_ms": 91612,
+      "end_ms": 94324,
+      "duration_ms": 2712
+    },
+    {
+      "word": "Éber tuvo dos hijos: Péleg, Joctán.",
+      "verse": 19,
+      "start_ms": 94325,
+      "end_ms": 98262,
+      "duration_ms": 3937
+    },
+    {
+      "word": "En los días cuando Péleg vivía, la gente se dividió.",
+      "verse": 19,
+      "start_ms": 98262,
+      "end_ms": 102074,
+      "duration_ms": 3812
+    },
+    {
+      "word": "Entonces se formaron muchas tribus y pueblos.",
+      "verse": 19,
+      "start_ms": 102075,
+      "end_ms": 105475,
+      "duration_ms": 3400
+    },
+    {
+      "word": "Joctán tuvo trece hijos: Almodad, Sélef, Hasar-mávet, Jérah, Hadoram, Uzal, Diclá, Obal, Abimael, Sebá, Ofir, Havilá, Jobab.",
+      "verse": 20,
+      "start_ms": 105475,
+      "end_ms": 117750,
+      "duration_ms": 12275
+    },
+    {
+      "word": "Los descendientes de Sem hasta Abram son los siguientes: Arfaxad, Sélah, Éber, Péleg, Reú, Serug, Nahor, Térah, Abram.",
+      "verse": 24,
+      "start_ms": 117750,
+      "end_ms": 127512,
+      "duration_ms": 9762
+    },
+    {
+      "word": "A este Abram, Dios le puso por nombre Abraham.",
+      "verse": 27,
+      "start_ms": 127512,
+      "end_ms": 131137,
+      "duration_ms": 3625
+    },
+    {
+      "word": "Abraham tuvo dos hijos: Isaac, Ismael.",
+      "verse": 28,
+      "start_ms": 131137,
+      "end_ms": 135099,
+      "duration_ms": 3962
+    },
+    {
+      "word": "Después, Abraham se casó con Queturá y tuvo seis hijos: Zimrán, Jocsán, Medán, Madián, Isbac, Súah.",
+      "verse": 28,
+      "start_ms": 135100,
+      "end_ms": 143962,
+      "duration_ms": 8862
+    },
+    {
+      "word": "Jocsán tuvo dos hijos: Sebá, Dedán.",
+      "verse": 28,
+      "start_ms": 143962,
+      "end_ms": 147687,
+      "duration_ms": 3725
+    },
+    {
+      "word": "Madián tuvo cinco hijos: Efá, Éfer, Hanoc, Abidá, Eldaá.",
+      "verse": 28,
+      "start_ms": 147687,
+      "end_ms": 153687,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Isaac, el otro hijo de Abraham, tuvo dos hijos: Esaú, Jacob.",
+      "verse": 34,
+      "start_ms": 153687,
+      "end_ms": 159287,
+      "duration_ms": 5600
+    },
+    {
+      "word": "Esaú tuvo doce hijos: Elifaz, Reuel, Jeús, Jaalam, Coré, Lotán, Sobal, Sibón, Aná, Disón, Éser, Disán.",
+      "verse": 35,
+      "start_ms": 159287,
+      "end_ms": 170449,
+      "duration_ms": 11162
+    },
+    {
+      "word": "Elifaz tuvo siete hijos: Temán, Omar, Sefó, Gatam, Quenaz, Timná, Amalec.",
+      "verse": 35,
+      "start_ms": 170450,
+      "end_ms": 178150,
+      "duration_ms": 7700
+    },
+    {
+      "word": "Reuel tuvo cuatro hijos: Náhat, Zérah, Samá, Mizá.",
+      "verse": 35,
+      "start_ms": 178150,
+      "end_ms": 183200,
+      "duration_ms": 5050
+    },
+    {
+      "word": "Lotán tuvo dos hijos: Horí, Hemam.",
+      "verse": 35,
+      "start_ms": 183200,
+      "end_ms": 186700,
+      "duration_ms": 3500
+    },
+    {
+      "word": "Lotán tuvo una hermana llamada Timná.",
+      "verse": 35,
+      "start_ms": 186700,
+      "end_ms": 189737,
+      "duration_ms": 3037
+    },
+    {
+      "word": "Sobal tuvo cinco hijos: Alván, Manáhat, Ebal, Sefó, Onam.",
+      "verse": 35,
+      "start_ms": 189737,
+      "end_ms": 195737,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Sibón tuvo dos hijos: Aiá, Aná.",
+      "verse": 35,
+      "start_ms": 195737,
+      "end_ms": 199449,
+      "duration_ms": 3712
+    },
+    {
+      "word": "Aná tuvo un hijo, Disón.",
+      "verse": 35,
+      "start_ms": 199450,
+      "end_ms": 202125,
+      "duration_ms": 2675
+    },
+    {
+      "word": "Disón tuvo cuatro hijos: Hemdán, Esbán, Itrán, Querán.",
+      "verse": 35,
+      "start_ms": 202125,
+      "end_ms": 207425,
+      "duration_ms": 5300
+    },
+    {
+      "word": "Éser tuvo tres hijos: Bilhán, Zaaván, Jaacán.",
+      "verse": 35,
+      "start_ms": 207425,
+      "end_ms": 212125,
+      "duration_ms": 4700
+    },
+    {
+      "word": "Disán tuvo dos hijos: Us, Arán.",
+      "verse": 35,
+      "start_ms": 212125,
+      "end_ms": 215737,
+      "duration_ms": 3612
+    },
+    {
+      "word": "Antes de que hubiera reyes en Israel, los descendientes de Esaú, que vivían en Edom, tuvieron varios reyes.",
+      "verse": 43,
+      "start_ms": 215737,
+      "end_ms": 222874,
+      "duration_ms": 7137
+    },
+    {
+      "word": "Cada rey gobernaba hasta el día de su muerte, y entonces otro ocupaba su lugar.",
+      "verse": 43,
+      "start_ms": 222875,
+      "end_ms": 228275,
+      "duration_ms": 5400
+    },
+    {
+      "word": "Ésta es la lista de los reyes de Edom: Bela hijo de Beor, de la ciudad de Dinhaba.",
+      "verse": 43,
+      "start_ms": 228275,
+      "end_ms": 233775,
+      "duration_ms": 5500
+    },
+    {
+      "word": "Jobab hijo de Zérah, del pueblo de Bosrá.",
+      "verse": 43,
+      "start_ms": 233775,
+      "end_ms": 237100,
+      "duration_ms": 3325
+    },
+    {
+      "word": "Husam, de la región de Temán.",
+      "verse": 43,
+      "start_ms": 237100,
+      "end_ms": 239925,
+      "duration_ms": 2825
+    },
+    {
+      "word": "Hadad hijo de Bedad, de la ciudad de Avit.",
+      "verse": 43,
+      "start_ms": 239925,
+      "end_ms": 243200,
+      "duration_ms": 3275
+    },
+    {
+      "word": "Samlá, del pueblo de Masrecá.",
+      "verse": 43,
+      "start_ms": 243200,
+      "end_ms": 246112,
+      "duration_ms": 2912
+    },
+    {
+      "word": "Saúl, del pueblo de Rehobot, junto al Éufrates.",
+      "verse": 43,
+      "start_ms": 246112,
+      "end_ms": 250299,
+      "duration_ms": 4187
+    },
+    {
+      "word": "Baal-hanán hijo de Acbor.",
+      "verse": 43,
+      "start_ms": 250300,
+      "end_ms": 252750,
+      "duration_ms": 2450
+    },
+    {
+      "word": "Hadad, de la ciudad de Pau.",
+      "verse": 43,
+      "start_ms": 252750,
+      "end_ms": 255387,
+      "duration_ms": 2637
+    },
+    {
+      "word": "La esposa de Hadad de Pau se llamaba Mehetabel y era hija de Matred y nieta de Mezaab.",
+      "verse": 43,
+      "start_ms": 255387,
+      "end_ms": 260649,
+      "duration_ms": 5262
+    },
+    {
+      "word": "Hadad de Avit derrotó a Madián cuando pelearon en el campo de Moab.",
+      "verse": 43,
+      "start_ms": 260650,
+      "end_ms": 264925,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Después de que murió, los edomitas tuvieron a los siguientes jefes: Timná, Alvá, Jetet, Oholibamá, Elá, Pinón, Quenaz, Temán, Mibsar, Magdiel, Iram.",
+      "verse": 43,
+      "start_ms": 264925,
+      "end_ms": 276887,
+      "duration_ms": 11962
+    }
+  ]
+}

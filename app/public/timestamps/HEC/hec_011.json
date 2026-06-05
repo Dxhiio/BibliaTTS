@@ -1,0 +1,516 @@
+{
+  "book": "HEC",
+  "chapter": 11,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 28,
+  "word_count": 44,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-2",
+      "char_start": 0,
+      "char_end": 218,
+      "text": "En toda la región de Judea se supo que también los que no eran judíos habían recibido el mensaje de Dios. Así que, cuando Pedro regresó a Jerusalén, los apóstoles y los seguidores judíos se pusieron a discutir con él."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 218,
+      "char_end": 313,
+      "text": "Y le reclamaron: —¡Tú entraste en la casa de gente que no es judía, y hasta comiste con ellos!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 313,
+      "char_end": 366,
+      "text": "Pedro empezó a explicarles todo lo que había pasado:"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 366,
+      "char_end": 521,
+      "text": "—Un día, yo estaba orando en el puerto de Jope. De pronto, tuve una visión: Vi que del cielo bajaba algo como un gran manto, colgado de las cuatro puntas."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 521,
+      "char_end": 635,
+      "text": "Miré con atención, y en el manto había toda clase de animales domésticos y salvajes, y también serpientes y aves."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 635,
+      "char_end": 724,
+      "text": "Luego oí la voz de Dios, que me dijo: «Pedro, levántate; mata y come de estos animales»."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 724,
+      "char_end": 871,
+      "text": "Yo le respondí: «¡No, Señor, de ninguna manera! Nuestra ley no nos permite comer carne de esos animales. Yo jamás he comido alimentos prohibidos»."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 871,
+      "char_end": 965,
+      "text": "Pero Dios me dijo: «Si yo digo que puedes comer de estos animales, no digas que eso es malo»."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 965,
+      "char_end": 1041,
+      "text": "Esto ocurrió tres veces. Luego Dios retiró el manto y lo devolvió al cielo."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1041,
+      "char_end": 1114,
+      "text": "Poco después llegaron tres hombres, que fueron a buscarme desde Cesarea."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1114,
+      "char_end": 1290,
+      "text": "El Espíritu Santo me dijo que fuera con ellos y que no tuviera miedo. Seis miembros de la iglesia de Jope fueron conmigo. Al llegar a Cesarea, entramos en la casa de Cornelio."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1290,
+      "char_end": 1445,
+      "text": "Él nos contó que un ángel del Señor se le había aparecido y le había dicho: «Envía unos mensajeros a Jope, para que hagan venir a un hombre llamado Pedro."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1445,
+      "char_end": 1517,
+      "text": "El mensaje que él te va a dar hará que se salven tú y toda tu familia»."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1517,
+      "char_end": 1640,
+      "text": "Yo empecé a hablarles, y de pronto el Espíritu Santo vino sobre todos ellos, así como nos ocurrió a nosotros al principio."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1640,
+      "char_end": 1777,
+      "text": "Y me acordé de que el Señor Jesús nos había dicho: «Juan bautizó con agua, pero a ustedes Dios los va a bautizar con el Espíritu Santo»."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1777,
+      "char_end": 2008,
+      "text": "Entonces pensé: «Dios le ha dado a esta gente el mismo regalo que nos dio a nosotros los judíos, porque creímos en Jesús, el Mesías y Señor». Y yo no soy más poderoso que Dios para ponerme en contra de lo que él ha decidido hacer."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2008,
+      "char_end": 2220,
+      "text": "Cuando los hermanos judíos oyeron esto, dejaron de discutir y se pusieron a alabar a Dios. Y decían muy admirados: ¡Así que también a los que no son judíos Dios les ha permitido arrepentirse y tener vida eterna!"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2220,
+      "char_end": 2518,
+      "text": "Después de la muerte de Esteban, los seguidores de Jesús fueron perseguidos y maltratados. Por eso muchos de ellos huyeron a la región de Fenicia y a la isla de Chipre, y hasta el puerto de Antioquía. En todos esos lugares, ellos anunciaban las buenas noticias de Jesús solamente a la gente judía."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2518,
+      "char_end": 2660,
+      "text": "Sin embargo, algunos de Chipre y otros de Cirene fueron a Antioquía y anunciaron el mensaje del Señor Jesús también a los que no eran judíos."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2660,
+      "char_end": 2751,
+      "text": "Y Dios les dio poder y los ayudó para que muchos aceptaran el mensaje y creyeran en Jesús."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2751,
+      "char_end": 2869,
+      "text": "Los de la iglesia de Jerusalén supieron lo que estaba pasando en Antioquía, y enseguida mandaron para allá a Bernabé."
+    },
+    {
+      "verse": 23,
+      "label": "23-24",
+      "char_start": 2869,
+      "char_end": 3203,
+      "text": "Bernabé era un hombre bueno, que tenía el poder del Espíritu Santo y confiaba solamente en el Señor. Cuando Bernabé llegó y vio que Dios había bendecido a toda esa gente, se alegró mucho y los animó para que siguieran siendo fieles y obedientes al Señor. Y fueron muchos los que escucharon a Bernabé y obedecieron el mensaje de Dios."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3203,
+      "char_end": 3270,
+      "text": "De allí, Bernabé se fue a la ciudad de Tarso, para buscar a Saulo."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3270,
+      "char_end": 3509,
+      "text": "Cuando lo encontró, lo llevó a Antioquía. Allí estuvieron un año con toda la gente de la iglesia, y enseñaron a muchas personas. Fue allí, en Antioquía, donde por primera vez la gente comenzó a llamar cristianos a los seguidores de Jesús."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3509,
+      "char_end": 3571,
+      "text": "En ese tiempo, unos profetas fueron de Jerusalén a Antioquía."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3571,
+      "char_end": 3776,
+      "text": "Uno de ellos, llamado Agabo, recibió la ayuda del Espíritu Santo y anunció que mucha gente en el mundo no tendría nada para comer. Y esto ocurrió, en verdad, cuando el emperador Claudio gobernaba en Roma."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3776,
+      "char_end": 3925,
+      "text": "Los seguidores de Jesús en Antioquía se pusieron de acuerdo para ayudar a los cristianos en la región de Judea, y cada uno dio todo lo que pudo dar."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3925,
+      "char_end": 4027,
+      "text": "Entonces Bernabé y Saulo llevaron el dinero a Jerusalén, y lo entregaron a los líderes de la iglesia."
+    }
+  ],
+  "words": [
+    {
+      "word": "En toda la región de Judea se supo que también los que no eran judíos habían recibido el mensaje de Dios.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6212,
+      "duration_ms": 6112
+    },
+    {
+      "word": "Así que, cuando Pedro regresó a Jerusalén, los apóstoles y los seguidores judíos se pusieron a discutir con él.",
+      "verse": 1,
+      "start_ms": 6162,
+      "end_ms": 13337,
+      "duration_ms": 7175
+    },
+    {
+      "word": "Y le reclamaron: —¡Tú entraste en la casa de gente que no es judía, y hasta comiste con ellos!",
+      "verse": 3,
+      "start_ms": 13337,
+      "end_ms": 19299,
+      "duration_ms": 5962
+    },
+    {
+      "word": "Pedro empezó a explicarles todo lo que había pasado: —Un día, yo estaba orando en el puerto de Jope.",
+      "verse": 4,
+      "start_ms": 19300,
+      "end_ms": 25812,
+      "duration_ms": 6512
+    },
+    {
+      "word": "De pronto, tuve una visión: Vi que del cielo bajaba algo como un gran manto, colgado de las cuatro puntas.",
+      "verse": 5,
+      "start_ms": 25812,
+      "end_ms": 33187,
+      "duration_ms": 7375
+    },
+    {
+      "word": "Miré con atención, y en el manto había toda clase de animales domésticos y salvajes, y también serpientes y aves.",
+      "verse": 6,
+      "start_ms": 33187,
+      "end_ms": 40799,
+      "duration_ms": 7612
+    },
+    {
+      "word": "Luego oí la voz de Dios, que me dijo: «Pedro, levántate; mata y come de estos animales».",
+      "verse": 7,
+      "start_ms": 40800,
+      "end_ms": 47900,
+      "duration_ms": 7100
+    },
+    {
+      "word": "Yo le respondí: «¡No, Señor, de ninguna manera!",
+      "verse": 8,
+      "start_ms": 47900,
+      "end_ms": 52225,
+      "duration_ms": 4325
+    },
+    {
+      "word": "Nuestra ley no nos permite comer carne de esos animales.",
+      "verse": 8,
+      "start_ms": 52225,
+      "end_ms": 56312,
+      "duration_ms": 4087
+    },
+    {
+      "word": "Yo jamás he comido alimentos prohibidos».",
+      "verse": 8,
+      "start_ms": 56312,
+      "end_ms": 59587,
+      "duration_ms": 3275
+    },
+    {
+      "word": "Pero Dios me dijo: «Si yo digo que puedes comer de estos animales, no digas que eso es malo».",
+      "verse": 9,
+      "start_ms": 59587,
+      "end_ms": 65824,
+      "duration_ms": 6237
+    },
+    {
+      "word": "Esto ocurrió tres veces.",
+      "verse": 10,
+      "start_ms": 65825,
+      "end_ms": 68350,
+      "duration_ms": 2525
+    },
+    {
+      "word": "Luego Dios retiró el manto y lo devolvió al cielo.",
+      "verse": 10,
+      "start_ms": 68350,
+      "end_ms": 71925,
+      "duration_ms": 3575
+    },
+    {
+      "word": "Poco después llegaron tres hombres, que fueron a buscarme desde Cesarea.",
+      "verse": 11,
+      "start_ms": 71925,
+      "end_ms": 76687,
+      "duration_ms": 4762
+    },
+    {
+      "word": "El Espíritu Santo me dijo que fuera con ellos y que no tuviera miedo.",
+      "verse": 12,
+      "start_ms": 76687,
+      "end_ms": 81149,
+      "duration_ms": 4462
+    },
+    {
+      "word": "Seis miembros de la iglesia de Jope fueron conmigo.",
+      "verse": 12,
+      "start_ms": 81150,
+      "end_ms": 84650,
+      "duration_ms": 3500
+    },
+    {
+      "word": "Al llegar a Cesarea, entramos en la casa de Cornelio.",
+      "verse": 12,
+      "start_ms": 84650,
+      "end_ms": 88587,
+      "duration_ms": 3937
+    },
+    {
+      "word": "Él nos contó que un ángel del Señor se le había aparecido y le había dicho: «Envía unos mensajeros a Jope, para que hagan venir a un hombre llamado Pedro.",
+      "verse": 13,
+      "start_ms": 88587,
+      "end_ms": 97687,
+      "duration_ms": 9100
+    },
+    {
+      "word": "El mensaje que él te va a dar hará que se salven tú y toda tu familia».",
+      "verse": 14,
+      "start_ms": 97687,
+      "end_ms": 102224,
+      "duration_ms": 4537
+    },
+    {
+      "word": "Yo empecé a hablarles, y de pronto el Espíritu Santo vino sobre todos ellos, así como nos ocurrió a nosotros al principio.",
+      "verse": 15,
+      "start_ms": 102225,
+      "end_ms": 110250,
+      "duration_ms": 8025
+    },
+    {
+      "word": "Y me acordé de que el Señor Jesús nos había dicho: «Juan bautizó con agua, pero a ustedes Dios los va a bautizar con el Espíritu Santo».",
+      "verse": 16,
+      "start_ms": 110250,
+      "end_ms": 118487,
+      "duration_ms": 8237
+    },
+    {
+      "word": "Entonces pensé: «Dios le ha dado a esta gente el mismo regalo que nos dio a nosotros los judíos, porque creímos en Jesús, el Mesías y Señor».",
+      "verse": 17,
+      "start_ms": 118487,
+      "end_ms": 127424,
+      "duration_ms": 8937
+    },
+    {
+      "word": "Y yo no soy más poderoso que Dios para ponerme en contra de lo que él ha decidido hacer.",
+      "verse": 17,
+      "start_ms": 127425,
+      "end_ms": 132675,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Cuando los hermanos judíos oyeron esto, dejaron de discutir y se pusieron a alabar a Dios.",
+      "verse": 18,
+      "start_ms": 132675,
+      "end_ms": 138462,
+      "duration_ms": 5787
+    },
+    {
+      "word": "Y decían muy admirados: ¡Así que también a los que no son judíos Dios les ha permitido arrepentirse y tener vida eterna!",
+      "verse": 18,
+      "start_ms": 138462,
+      "end_ms": 145749,
+      "duration_ms": 7287
+    },
+    {
+      "word": "Después de la muerte de Esteban, los seguidores de Jesús fueron perseguidos y maltratados.",
+      "verse": 19,
+      "start_ms": 145750,
+      "end_ms": 151225,
+      "duration_ms": 5475
+    },
+    {
+      "word": "Por eso muchos de ellos huyeron a la región de Fenicia y a la isla de Chipre, y hasta el puerto de Antioquía.",
+      "verse": 19,
+      "start_ms": 151225,
+      "end_ms": 157600,
+      "duration_ms": 6375
+    },
+    {
+      "word": "En todos esos lugares, ellos anunciaban las buenas noticias de Jesús solamente a la gente judía.",
+      "verse": 19,
+      "start_ms": 157600,
+      "end_ms": 163850,
+      "duration_ms": 6250
+    },
+    {
+      "word": "Sin embargo, algunos de Chipre y otros de Cirene fueron a Antioquía y anunciaron el mensaje del Señor Jesús también a los que no eran judíos.",
+      "verse": 20,
+      "start_ms": 163850,
+      "end_ms": 172137,
+      "duration_ms": 8287
+    },
+    {
+      "word": "Y Dios les dio poder y los ayudó para que muchos aceptaran el mensaje y creyeran en Jesús.",
+      "verse": 21,
+      "start_ms": 172137,
+      "end_ms": 177837,
+      "duration_ms": 5700
+    },
+    {
+      "word": "Los de la iglesia de Jerusalén supieron lo que estaba pasando en Antioquía, y enseguida mandaron para allá a Bernabé.",
+      "verse": 22,
+      "start_ms": 177837,
+      "end_ms": 184587,
+      "duration_ms": 6750
+    },
+    {
+      "word": "Bernabé era un hombre bueno, que tenía el poder del Espíritu Santo y confiaba solamente en el Señor.",
+      "verse": 23,
+      "start_ms": 184587,
+      "end_ms": 191149,
+      "duration_ms": 6562
+    },
+    {
+      "word": "Cuando Bernabé llegó y vio que Dios había bendecido a toda esa gente, se alegró mucho y los animó para que siguieran siendo fieles y obedientes al Señor.",
+      "verse": 23,
+      "start_ms": 191150,
+      "end_ms": 200137,
+      "duration_ms": 8987
+    },
+    {
+      "word": "Y fueron muchos los que escucharon a Bernabé y obedecieron el mensaje de Dios.",
+      "verse": 23,
+      "start_ms": 200137,
+      "end_ms": 204949,
+      "duration_ms": 4812
+    },
+    {
+      "word": "De allí, Bernabé se fue a la ciudad de Tarso, para buscar a Saulo.",
+      "verse": 25,
+      "start_ms": 204950,
+      "end_ms": 209837,
+      "duration_ms": 4887
+    },
+    {
+      "word": "Cuando lo encontró, lo llevó a Antioquía.",
+      "verse": 26,
+      "start_ms": 209837,
+      "end_ms": 212937,
+      "duration_ms": 3100
+    },
+    {
+      "word": "Allí estuvieron un año con toda la gente de la iglesia, y enseñaron a muchas personas.",
+      "verse": 26,
+      "start_ms": 212937,
+      "end_ms": 218724,
+      "duration_ms": 5787
+    },
+    {
+      "word": "Fue allí, en Antioquía, donde por primera vez la gente comenzó a llamar cristianos a los seguidores de Jesús.",
+      "verse": 26,
+      "start_ms": 218725,
+      "end_ms": 225625,
+      "duration_ms": 6900
+    },
+    {
+      "word": "En ese tiempo, unos profetas fueron de Jerusalén a Antioquía.",
+      "verse": 27,
+      "start_ms": 225625,
+      "end_ms": 229950,
+      "duration_ms": 4325
+    },
+    {
+      "word": "Uno de ellos, llamado Agabo, recibió la ayuda del Espíritu Santo y anunció que mucha gente en el mundo no tendría nada para comer.",
+      "verse": 28,
+      "start_ms": 229950,
+      "end_ms": 238162,
+      "duration_ms": 8212
+    },
+    {
+      "word": "Y esto ocurrió, en verdad, cuando el emperador Claudio gobernaba en Roma.",
+      "verse": 28,
+      "start_ms": 238162,
+      "end_ms": 243412,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Los seguidores de Jesús en Antioquía se pusieron de acuerdo para ayudar a los cristianos en la región de Judea, y cada uno dio todo lo que pudo dar.",
+      "verse": 29,
+      "start_ms": 243412,
+      "end_ms": 251812,
+      "duration_ms": 8400
+    },
+    {
+      "word": "Entonces Bernabé y Saulo llevaron el",
+      "verse": 30,
+      "start_ms": 251812,
+      "end_ms": 254974,
+      "duration_ms": 3162
+    },
+    {
+      "word": "dinero a Jerusalén, y lo entregaron a los líderes de la iglesia.",
+      "verse": 30,
+      "start_ms": 255124,
+      "end_ms": 259386,
+      "duration_ms": 4262
+    }
+  ]
+}

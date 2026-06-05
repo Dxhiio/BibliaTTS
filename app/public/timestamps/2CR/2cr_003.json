@@ -1,0 +1,194 @@
+{
+  "book": "2CR",
+  "chapter": 3,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 6,
+  "word_count": 20,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-2",
+      "char_start": 0,
+      "char_end": 324,
+      "text": "El día dos del mes de Ziv, cuando ya tenía cuatro años de reinar, Salomón dio la orden para que empezaran a construir el templo de Dios en Jerusalén. Lo construyeron en el lugar que David había elegido, es decir, en el terreno de Ornán el jebuseo, que está en el monte Moria, porque allí Dios se le había aparecido a David."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 324,
+      "char_end": 460,
+      "text": "Éstas son las medidas del templo de Dios, según lo diseñó Salomón: Los cimientos medían veintisiete metros de largo por nueve de ancho."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 460,
+      "char_end": 618,
+      "text": "El pórtico de la entrada medía lo mismo que el ancho del templo: nueve metros de largo y nueve de alto. Salomón recubrió de oro fino el interior del pórtico."
+    },
+    {
+      "verse": 5,
+      "label": "5-7",
+      "char_start": 618,
+      "char_end": 945,
+      "text": "Las vigas, las entradas, las paredes y las puertas de la parte interior del edificio principal estaban cubiertas con tablas de pino que, a su vez, estaban recubiertas de oro finísimo. Sobre el oro grabaron palmeras y cadenas, y colocaron adornos con piedras preciosas. Sobre las paredes estaban grabadas figuras de querubines."
+    },
+    {
+      "verse": 8,
+      "label": "8-14",
+      "char_start": 945,
+      "char_end": 1748,
+      "text": "El Lugar Santísimo medía lo mismo que el ancho del templo: nueve metros de largo y nueve de ancho. Para recubrirlo usaron cerca de veinte mil kilos de oro fino. Cada clavo era de oro y pesaba un poco más de medio kilo. Dentro del Lugar Santísimo pusieron dos querubines totalmente recubiertos de oro. Los querubines estaban de pie; sus caras miraban hacia la entrada, y sus alas extendidas medían en total nueve metros, que era todo el ancho del Lugar Santísimo. Cada querubín tocaba con un ala una pared del lugar, y con la otra, tocaba la punta del ala del otro querubín. La cortina que separaba el Lugar Santísimo estaba hecha de lino fino tejido con lana morada, azul y roja; sobre ella bordaron figuras de querubines. Los cuartos de la parte superior del templo también estaban recubiertos de oro."
+    },
+    {
+      "verse": 15,
+      "label": "15-17",
+      "char_start": 1748,
+      "char_end": 2166,
+      "text": "Salomón mandó hacer dos columnas de casi dieciséis metros de altura, y las colocó a la derecha y a la izquierda de la entrada del templo. Sobre cada columna puso un adorno de dos metros veinticinco centímetros de alto. Cada adorno estaba decorado con figuras en forma de cadena, de las cuales colgaban cien figuras con forma de manzana. A la columna de la derecha Salomón la llamó Jaquín, y a la de la izquierda Bóaz."
+    }
+  ],
+  "words": [
+    {
+      "word": "El día dos del mes de Ziv, cuando ya tenía cuatro años de reinar, Salomón dio la orden para que empezaran a construir el templo de Dios en Jerusalén.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 8900,
+      "duration_ms": 8800
+    },
+    {
+      "word": "Lo construyeron en el lugar que David había elegido, es decir, en el terreno de Ornán el jebuseo, que está en el monte Moria, porque allí Dios se le había aparecido a David.",
+      "verse": 1,
+      "start_ms": 8850,
+      "end_ms": 19525,
+      "duration_ms": 10675
+    },
+    {
+      "word": "Éstas son las medidas del templo de Dios, según lo diseñó Salomón: Los cimientos medían veintisiete metros de largo por nueve de ancho.",
+      "verse": 3,
+      "start_ms": 19525,
+      "end_ms": 27700,
+      "duration_ms": 8175
+    },
+    {
+      "word": "El pórtico de la entrada medía lo mismo que el ancho del templo: nueve metros de largo y nueve de alto.",
+      "verse": 4,
+      "start_ms": 27700,
+      "end_ms": 34112,
+      "duration_ms": 6412
+    },
+    {
+      "word": "Salomón recubrió de oro fino el interior del pórtico.",
+      "verse": 4,
+      "start_ms": 34112,
+      "end_ms": 37962,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Las vigas, las entradas, las paredes y las puertas de la parte interior del edificio principal estaban cubiertas con tablas de pino que, a su vez, estaban recubiertas de oro finísimo.",
+      "verse": 5,
+      "start_ms": 37962,
+      "end_ms": 49262,
+      "duration_ms": 11300
+    },
+    {
+      "word": "Sobre el oro grabaron palmeras y cadenas, y colocaron adornos con piedras preciosas.",
+      "verse": 5,
+      "start_ms": 49262,
+      "end_ms": 55099,
+      "duration_ms": 5837
+    },
+    {
+      "word": "Sobre las paredes estaban grabadas figuras de querubines.",
+      "verse": 5,
+      "start_ms": 55100,
+      "end_ms": 59037,
+      "duration_ms": 3937
+    },
+    {
+      "word": "El Lugar Santísimo medía lo mismo que el ancho del templo: nueve metros de largo y nueve de ancho.",
+      "verse": 8,
+      "start_ms": 59037,
+      "end_ms": 65337,
+      "duration_ms": 6300
+    },
+    {
+      "word": "Para recubrirlo usaron cerca de veinte mil kilos de oro fino.",
+      "verse": 8,
+      "start_ms": 65337,
+      "end_ms": 69687,
+      "duration_ms": 4350
+    },
+    {
+      "word": "Cada clavo era de oro y pesaba un poco más de medio kilo.",
+      "verse": 8,
+      "start_ms": 69687,
+      "end_ms": 73812,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Dentro del Lugar Santísimo pusieron dos querubines totalmente recubiertos de oro.",
+      "verse": 8,
+      "start_ms": 73812,
+      "end_ms": 78962,
+      "duration_ms": 5150
+    },
+    {
+      "word": "Los querubines estaban de pie; sus caras miraban hacia la entrada, y sus alas extendidas medían en total nueve metros, que era todo el ancho del Lugar Santísimo.",
+      "verse": 8,
+      "start_ms": 78962,
+      "end_ms": 89037,
+      "duration_ms": 10075
+    },
+    {
+      "word": "Cada querubín tocaba con un ala una pared del lugar, y con la otra, tocaba la punta del ala del otro querubín.",
+      "verse": 8,
+      "start_ms": 89037,
+      "end_ms": 96124,
+      "duration_ms": 7087
+    },
+    {
+      "word": "La cortina que separaba el Lugar Santísimo estaba hecha de lino fino tejido con lana morada, azul y roja; sobre ella bordaron figuras de querubines.",
+      "verse": 8,
+      "start_ms": 96125,
+      "end_ms": 105262,
+      "duration_ms": 9137
+    },
+    {
+      "word": "Los cuartos de la parte superior del templo también estaban recubiertos de oro.",
+      "verse": 8,
+      "start_ms": 105262,
+      "end_ms": 110049,
+      "duration_ms": 4787
+    },
+    {
+      "word": "Salomón mandó hacer dos columnas de casi dieciséis metros de altura, y las colocó a la derecha y a la izquierda de la entrada del templo.",
+      "verse": 15,
+      "start_ms": 110050,
+      "end_ms": 118062,
+      "duration_ms": 8012
+    },
+    {
+      "word": "Sobre cada columna puso un adorno de dos metros veinticinco centímetros de alto.",
+      "verse": 15,
+      "start_ms": 118062,
+      "end_ms": 123324,
+      "duration_ms": 5262
+    },
+    {
+      "word": "Cada adorno estaba decorado con figuras en forma de cadena, de las cuales colgaban cien figuras con forma de manzana.",
+      "verse": 15,
+      "start_ms": 123325,
+      "end_ms": 130400,
+      "duration_ms": 7075
+    },
+    {
+      "word": "A la columna de la derecha Salomón la llamó Jaquín, y a la de la izquierda Bóaz.",
+      "verse": 15,
+      "start_ms": 130400,
+      "end_ms": 135662,
+      "duration_ms": 5262
+    }
+  ]
+}

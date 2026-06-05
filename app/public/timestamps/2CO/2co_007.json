@@ -1,0 +1,411 @@
+{
+  "book": "2CO",
+  "chapter": 7,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 16,
+  "word_count": 41,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 213,
+      "text": "Queridos hermanos y hermanas en Cristo, Dios nos hizo esa promesa. Por eso, para que Dios nos acepte, no debemos hacer el mal, sino mantenernos libres de pecado. Honremos a Dios, y tratemos de ser santos como él."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 213,
+      "char_end": 335,
+      "text": "¡Hágannos un lugar en su corazón! Con nadie hemos sido injustos. A nadie hemos dañado, ni de nadie nos hemos aprovechado."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 335,
+      "char_end": 460,
+      "text": "No les digo esto para que se sientan mal, pues ya les hemos dicho que ni la vida ni la muerte podrán impedir que los amemos."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 460,
+      "char_end": 593,
+      "text": "Me siento orgulloso de ustedes, y les tengo mucha confianza. Estoy muy contento, a pesar de todas las dificultades que hemos tenido."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 593,
+      "char_end": 757,
+      "text": "Desde que llegamos a la región de Macedonia, no hemos descansado. Al contrario, hemos sufrido mucho. Hemos luchado contra nuestros enemigos y contra nuestro miedo."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 757,
+      "char_end": 832,
+      "text": "Pero Dios, que anima a los que sufren, nos consoló con la llegada de Tito."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 832,
+      "char_end": 1081,
+      "text": "Y no sólo nos alegramos de verlo, sino también de saber que él estuvo muy contento con ustedes. Tito nos contó que desean vernos, que están tristes por lo que ha pasado, y que se preocupan por mí. Al oír esas noticias, me puse más contento todavía."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1081,
+      "char_end": 1265,
+      "text": "La carta que les escribí hizo que ustedes se pusieran tristes. Pero no lamento haberla escrito. Lo lamenté al principio, cuando supe que por un tiempo esa carta los llenó de tristeza."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1265,
+      "char_end": 1459,
+      "text": "Pero ahora estoy contento, porque esa tristeza hizo que ustedes cambiaran y que le pidieran perdón a Dios. En realidad, Dios así lo quiso. Por eso, no creo que hayamos hecho mal al escribirles."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1459,
+      "char_end": 1662,
+      "text": "Cuando Dios los ponga tristes, no lo lamenten, pues esa tristeza hará que ustedes cambien, y que pidan perdón y se salven. Pero la tristeza provocada por las dificultades de este mundo, los puede matar."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1662,
+      "char_end": 2004,
+      "text": "¡Qué bueno que Dios los haya hecho ponerse tristes! ¡Vaya cambio que tuvieron! Así pudieron darse cuenta de que soy inocente, y hasta me defendieron. También se enojaron y tuvieron miedo de lo que podría suceder. Sintieron deseos de verme, y castigaron al culpable. Con todo esto, ustedes demostraron que no tenían nada que ver en el asunto."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 2004,
+      "char_end": 2213,
+      "text": "Por mi parte, cuando les escribí esa carta, no estaba pensando en la persona que hizo el daño, ni a quién se lo hizo. Más bien, quería que Dios fuera testigo de lo mucho que ustedes se preocupan por nosotros."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 2213,
+      "char_end": 2340,
+      "text": "Esto nos hace sentirnos mejor. Tito está muy contento, pues ustedes lo ayudaron a seguir adelante. Eso nos alegró más todavía."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 2340,
+      "char_end": 2544,
+      "text": "Ya le había dicho a Tito que yo estaba muy orgulloso de ustedes. ¡Y no me hicieron quedar mal! Al contrario, todo lo que le dijimos a Tito fue verdad, como también es verdad lo que les dijimos a ustedes."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2544,
+      "char_end": 2649,
+      "text": "Tito recuerda que todos ustedes lo obedecieron y lo respetaron mucho. Por eso él los quiere más todavía."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2649,
+      "char_end": 2700,
+      "text": "¡Me alegro de poder confiar plenamente en ustedes!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Queridos hermanos y hermanas en Cristo, Dios nos hizo esa promesa.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4850,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Por eso, para que Dios nos acepte, no debemos hacer el mal, sino mantenernos libres de pecado.",
+      "verse": 1,
+      "start_ms": 4800,
+      "end_ms": 11287,
+      "duration_ms": 6487
+    },
+    {
+      "word": "Honremos a Dios, y tratemos de ser santos como él.",
+      "verse": 1,
+      "start_ms": 11287,
+      "end_ms": 15324,
+      "duration_ms": 4037
+    },
+    {
+      "word": "Hágannos un lugar en su corazón!",
+      "verse": 2,
+      "start_ms": 15325,
+      "end_ms": 17975,
+      "duration_ms": 2650
+    },
+    {
+      "word": "Con nadie hemos sido injustos.",
+      "verse": 2,
+      "start_ms": 17975,
+      "end_ms": 20700,
+      "duration_ms": 2725
+    },
+    {
+      "word": "A nadie hemos dañado, ni de nadie nos hemos aprovechado.",
+      "verse": 2,
+      "start_ms": 20700,
+      "end_ms": 24850,
+      "duration_ms": 4150
+    },
+    {
+      "word": "No les digo esto para que se sientan mal, pues ya les hemos dicho que ni la vida ni la muerte podrán impedir que los amemos.",
+      "verse": 3,
+      "start_ms": 24850,
+      "end_ms": 31812,
+      "duration_ms": 6962
+    },
+    {
+      "word": "Me siento orgulloso de ustedes, y les tengo mucha confianza.",
+      "verse": 4,
+      "start_ms": 31812,
+      "end_ms": 36174,
+      "duration_ms": 4362
+    },
+    {
+      "word": "Estoy muy contento, a pesar de todas las dificultades que hemos tenido.",
+      "verse": 4,
+      "start_ms": 36175,
+      "end_ms": 41137,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Desde que llegamos a la región de Macedonia, no hemos descansado.",
+      "verse": 5,
+      "start_ms": 41137,
+      "end_ms": 45549,
+      "duration_ms": 4412
+    },
+    {
+      "word": "Al contrario, hemos sufrido mucho.",
+      "verse": 5,
+      "start_ms": 45550,
+      "end_ms": 48662,
+      "duration_ms": 3112
+    },
+    {
+      "word": "Hemos luchado contra nuestros enemigos y contra nuestro miedo.",
+      "verse": 5,
+      "start_ms": 48662,
+      "end_ms": 52762,
+      "duration_ms": 4100
+    },
+    {
+      "word": "Pero Dios, que anima a los que sufren, nos consoló con la llegada de Tito.",
+      "verse": 6,
+      "start_ms": 52762,
+      "end_ms": 57899,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Y no sólo nos alegramos de verlo, sino también de saber que él estuvo muy contento con ustedes.",
+      "verse": 7,
+      "start_ms": 57900,
+      "end_ms": 64200,
+      "duration_ms": 6300
+    },
+    {
+      "word": "Tito nos contó que desean vernos, que están tristes por lo que ha pasado, y que se preocupan por mí.",
+      "verse": 7,
+      "start_ms": 64200,
+      "end_ms": 70437,
+      "duration_ms": 6237
+    },
+    {
+      "word": "Al oír esas noticias, me puse más contento todavía.",
+      "verse": 7,
+      "start_ms": 70437,
+      "end_ms": 74587,
+      "duration_ms": 4150
+    },
+    {
+      "word": "La carta que les escribí hizo que ustedes se pusieran tristes.",
+      "verse": 8,
+      "start_ms": 74587,
+      "end_ms": 78737,
+      "duration_ms": 4150
+    },
+    {
+      "word": "Pero no lamento haberla escrito.",
+      "verse": 8,
+      "start_ms": 78737,
+      "end_ms": 81274,
+      "duration_ms": 2537
+    },
+    {
+      "word": "Lo lamenté al principio, cuando supe que por un tiempo esa carta los llenó de tristeza.",
+      "verse": 8,
+      "start_ms": 81275,
+      "end_ms": 86825,
+      "duration_ms": 5550
+    },
+    {
+      "word": "Pero ahora estoy contento, porque esa tristeza hizo que ustedes cambiaran y que le pidieran perdón a Dios.",
+      "verse": 9,
+      "start_ms": 86825,
+      "end_ms": 93112,
+      "duration_ms": 6287
+    },
+    {
+      "word": "En realidad, Dios así lo quiso.",
+      "verse": 9,
+      "start_ms": 93112,
+      "end_ms": 96124,
+      "duration_ms": 3012
+    },
+    {
+      "word": "Por eso, no creo que hayamos hecho mal al escribirles.",
+      "verse": 9,
+      "start_ms": 96125,
+      "end_ms": 100162,
+      "duration_ms": 4037
+    },
+    {
+      "word": "Cuando Dios los ponga tristes, no lo lamenten, pues esa tristeza hará que ustedes cambien, y que pidan perdón y se salven.",
+      "verse": 10,
+      "start_ms": 100162,
+      "end_ms": 107937,
+      "duration_ms": 7775
+    },
+    {
+      "word": "Pero la tristeza provocada por las dificultades de este mundo, los puede matar.",
+      "verse": 10,
+      "start_ms": 107937,
+      "end_ms": 113262,
+      "duration_ms": 5325
+    },
+    {
+      "word": "Qué bueno que Dios los haya hecho ponerse tristes!",
+      "verse": 11,
+      "start_ms": 113262,
+      "end_ms": 116762,
+      "duration_ms": 3500
+    },
+    {
+      "word": "Vaya cambio que tuvieron!",
+      "verse": 11,
+      "start_ms": 116762,
+      "end_ms": 118974,
+      "duration_ms": 2212
+    },
+    {
+      "word": "Así pudieron darse cuenta de que soy inocente, y hasta me defendieron.",
+      "verse": 11,
+      "start_ms": 118975,
+      "end_ms": 123662,
+      "duration_ms": 4687
+    },
+    {
+      "word": "También se enojaron y tuvieron miedo de lo que podría suceder.",
+      "verse": 11,
+      "start_ms": 123662,
+      "end_ms": 127724,
+      "duration_ms": 4062
+    },
+    {
+      "word": "Sintieron deseos de verme, y castigaron al culpable.",
+      "verse": 11,
+      "start_ms": 127725,
+      "end_ms": 131562,
+      "duration_ms": 3837
+    },
+    {
+      "word": "Con todo esto, ustedes demostraron que no tenían nada que ver en el asunto.",
+      "verse": 11,
+      "start_ms": 131562,
+      "end_ms": 136512,
+      "duration_ms": 4950
+    },
+    {
+      "word": "Por mi parte, cuando les escribí esa carta, no estaba pensando en la persona que hizo el daño, ni a quién se lo hizo.",
+      "verse": 12,
+      "start_ms": 136512,
+      "end_ms": 143774,
+      "duration_ms": 7262
+    },
+    {
+      "word": "Más bien, quería que Dios fuera testigo de lo mucho que ustedes se preocupan por nosotros.",
+      "verse": 12,
+      "start_ms": 143775,
+      "end_ms": 149512,
+      "duration_ms": 5737
+    },
+    {
+      "word": "Esto nos hace sentirnos mejor.",
+      "verse": 13,
+      "start_ms": 149512,
+      "end_ms": 152149,
+      "duration_ms": 2637
+    },
+    {
+      "word": "Tito está muy contento, pues ustedes lo ayudaron a seguir adelante.",
+      "verse": 13,
+      "start_ms": 152150,
+      "end_ms": 156825,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Eso nos alegró más todavía.",
+      "verse": 13,
+      "start_ms": 156825,
+      "end_ms": 159525,
+      "duration_ms": 2700
+    },
+    {
+      "word": "Ya le había dicho a Tito que yo estaba muy orgulloso de ustedes.",
+      "verse": 14,
+      "start_ms": 159525,
+      "end_ms": 163825,
+      "duration_ms": 4300
+    },
+    {
+      "word": "Y no me hicieron quedar mal!",
+      "verse": 14,
+      "start_ms": 163825,
+      "end_ms": 165950,
+      "duration_ms": 2125
+    },
+    {
+      "word": "Al contrario, todo lo que le dijimos a Tito fue verdad, como también es verdad lo que les dijimos a ustedes.",
+      "verse": 14,
+      "start_ms": 165950,
+      "end_ms": 172925,
+      "duration_ms": 6975
+    },
+    {
+      "word": "Tito recuerda que todos ustedes lo obedecieron y lo respetaron mucho.",
+      "verse": 15,
+      "start_ms": 172925,
+      "end_ms": 177512,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Por eso él los quiere más todavía.",
+      "verse": 15,
+      "start_ms": 177512,
+      "end_ms": 180312,
+      "duration_ms": 2800
+    },
+    {
+      "word": "Me alegro de poder confiar plenamente en ustedes!",
+      "verse": 16,
+      "start_ms": 180312,
+      "end_ms": 183924,
+      "duration_ms": 3612
+    }
+  ]
+}

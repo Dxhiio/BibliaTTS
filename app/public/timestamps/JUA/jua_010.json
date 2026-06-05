@@ -1,0 +1,691 @@
+{
+  "book": "JUA",
+  "chapter": 10,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 40,
+  "word_count": 57,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 94,
+      "text": "Jesús les dijo: Ustedes saben que sólo un ladrón y bandido entra al corral saltando la cerca."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 94,
+      "char_end": 150,
+      "text": "En cambio, el pastor de las ovejas entra por la puerta."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 150,
+      "char_end": 308,
+      "text": "El que cuida la entrada le abre, y el pastor llama a cada una de sus ovejas por nombre, y ellas reconocen su voz. Luego el pastor las lleva fuera del corral,"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 308,
+      "char_end": 415,
+      "text": "y cuando ya han salido todas, él va delante de ellas. Las ovejas siguen al pastor porque reconocen su voz."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 415,
+      "char_end": 504,
+      "text": "Pero no seguirían a un desconocido; más bien huirían de él, pues no reconocerían su voz."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 504,
+      "char_end": 590,
+      "text": "Jesús les puso el ejemplo anterior, pero ellos no entendieron lo que les quiso decir."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 590,
+      "char_end": 661,
+      "text": "Entonces Jesús les explicó el ejemplo: Yo soy la puerta de las ovejas."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 661,
+      "char_end": 765,
+      "text": "Todos los que vinieron antes que yo, eran bandidos y ladrones; por eso las ovejas no les hicieron caso."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 765,
+      "char_end": 904,
+      "text": "Yo soy la puerta del reino de Dios: cualquiera que entre por esta puerta, se salvará; podrá salir y entrar, y siempre encontrará alimento."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 904,
+      "char_end": 1046,
+      "text": "Cuando el ladrón llega, se dedica a robar, matar y destruir. Yo he venido para que todos ustedes tengan vida, y para que la vivan plenamente."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1046,
+      "char_end": 1123,
+      "text": "Yo soy el buen pastor. El buen pastor está dispuesto a morir por sus ovejas."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1123,
+      "char_end": 1370,
+      "text": "El que recibe un salario por cuidar a las ovejas, huye cuando ve que se acerca el lobo. Deja a las ovejas solas, porque él no es el pastor y las ovejas no son suyas. Por eso, cuando el lobo llega y ataca a las ovejas, ellas huyen por todos lados."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1370,
+      "char_end": 1449,
+      "text": "Y es que a ése no le interesan las ovejas, sólo busca el dinero; por eso huye."
+    },
+    {
+      "verse": 14,
+      "label": "14-15",
+      "char_start": 1449,
+      "char_end": 1760,
+      "text": "Así como Dios mi Padre me conoce, yo lo conozco a él; y de igual manera, yo conozco a mis seguidores y ellos me conocen a mí. Yo soy su buen pastor, y ellos son mis ovejas. Así como el buen pastor está dispuesto a morir para salvar a sus ovejas, también yo estoy dispuesto a morir para salvar a mis seguidores."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1760,
+      "char_end": 1937,
+      "text": "También tengo otros seguidores que ustedes no conocen; son ovejas que traeré de otro corral, y me obedecerán. Así tendré un solo grupo de seguidores, y yo seré su único pastor."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1937,
+      "char_end": 2026,
+      "text": "Mi Padre me ama porque estoy dispuesto a entregar mi vida para luego volver a recibirla."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2026,
+      "char_end": 2220,
+      "text": "Nadie me quita la vida, sino que yo la entrego porque así lo quiero. Tengo poder para entregar mi vida, y tengo poder para volver a recibirla, pues esto es lo que mi Padre me ha ordenado hacer."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2220,
+      "char_end": 2323,
+      "text": "Cuando aquellos judíos oyeron esto, se pusieron a discutir, pues unos pensaban una cosa, y otros otra."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2323,
+      "char_end": 2403,
+      "text": "Muchos decían: Ese hombre tiene un demonio y está loco. ¿Por qué le hacen caso?"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2403,
+      "char_end": 2523,
+      "text": "Pero otros decían: Nadie que tenga un demonio puede hablar así. Además, ningún demonio puede darle la vista a un ciego."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2523,
+      "char_end": 2608,
+      "text": "Era invierno, y Jesús había ido a Jerusalén para participar en la fiesta del Templo."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2608,
+      "char_end": 2680,
+      "text": "Mientras andaba por los patios del templo, cerca del Portón de Salomón,"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2680,
+      "char_end": 2792,
+      "text": "la gente lo rodeó y le preguntó: —¿Hasta cuándo nos tendrás con esta duda? Dinos ahora mismo si eres el Mesías."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2792,
+      "char_end": 2952,
+      "text": "Jesús les respondió: —Ya les dije quién soy, pero ustedes no me han creído. Yo hago todo con la autoridad y el poder de mi Padre, y eso demuestra quién soy yo."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2952,
+      "char_end": 3014,
+      "text": "Pero ustedes no me creen, porque no me siguen ni me obedecen."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3014,
+      "char_end": 3184,
+      "text": "Mis seguidores me conocen, y yo también los conozco a ellos. Son como las ovejas, que reconocen la voz de su pastor, y él las conoce a ellas. Mis seguidores me obedecen,"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3184,
+      "char_end": 3232,
+      "text": "y yo les doy vida eterna; nadie me los quitará."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3232,
+      "char_end": 3319,
+      "text": "Dios mi Padre me los ha dado; él es más poderoso que todos, y nadie puede quitárselos."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3319,
+      "char_end": 3349,
+      "text": "Mi Padre y yo somos uno solo."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3349,
+      "char_end": 3404,
+      "text": "Otra vez, los jefes judíos quisieron apedrear a Jesús,"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3404,
+      "char_end": 3558,
+      "text": "pero él les dijo: —Ustedes me han visto hacer muchas cosas buenas con el poder que mi Padre me ha dado. A ver, díganme, ¿por cuál de ellas merezco morir?"
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3558,
+      "char_end": 3725,
+      "text": "Ellos le respondieron: —No queremos matarte por lo bueno que hayas hecho, sino por haber ofendido a Dios. Tú no eres más que un hombre, y dices que eres igual a Dios."
+    },
+    {
+      "verse": 34,
+      "label": "34-35",
+      "char_start": 3725,
+      "char_end": 3820,
+      "text": "Jesús les dijo: —¡Pero en la Biblia Dios dice que somos dioses! Y ella siempre dice la verdad."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3820,
+      "char_end": 3916,
+      "text": "Y si Dios me envió al mundo, ¿por qué dicen ustedes que ofendo a Dios al decir que soy su Hijo?"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3916,
+      "char_end": 3973,
+      "text": "Si no hago lo que mi Padre quiere, entonces no me crean."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 3973,
+      "char_end": 4119,
+      "text": "Pero si yo lo obedezco, crean en lo que hago, aunque no crean en lo que digo. Así, de una vez por todas, sabrán que mi Padre y yo somos uno solo."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4119,
+      "char_end": 4188,
+      "text": "De nuevo ellos intentaron encarcelar a Jesús. Pero él se les escapó,"
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4188,
+      "char_end": 4314,
+      "text": "y se fue de nuevo al otro lado del río Jordán, al lugar donde Juan el Bautista había estado bautizando. Mientras estaba allí,"
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4314,
+      "char_end": 4440,
+      "text": "muchas personas fueron a verlo, y decían: Juan el Bautista no hizo ningún milagro, pero todo lo que dijo de Jesús era verdad."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4440,
+      "char_end": 4485,
+      "text": "Y mucha gente de aquel lugar creyó en Jesús."
+    }
+  ],
+  "words": [
+    {
+      "word": "Jesús les dijo: Ustedes saben que sólo un ladrón y bandido entra al corral saltando la cerca.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6050,
+      "duration_ms": 5950
+    },
+    {
+      "word": "En cambio, el pastor de las ovejas entra por la puerta.",
+      "verse": 2,
+      "start_ms": 6000,
+      "end_ms": 9962,
+      "duration_ms": 3962
+    },
+    {
+      "word": "El que cuida la entrada le abre, y el pastor llama a cada una de sus ovejas por nombre, y ellas reconocen su voz.",
+      "verse": 3,
+      "start_ms": 9962,
+      "end_ms": 17462,
+      "duration_ms": 7500
+    },
+    {
+      "word": "Luego el pastor las lleva fuera del corral, y cuando ya han salido todas, él va delante de ellas.",
+      "verse": 3,
+      "start_ms": 17462,
+      "end_ms": 23899,
+      "duration_ms": 6437
+    },
+    {
+      "word": "Las ovejas siguen al pastor porque reconocen su voz.",
+      "verse": 4,
+      "start_ms": 23900,
+      "end_ms": 27625,
+      "duration_ms": 3725
+    },
+    {
+      "word": "Pero no seguirían a un desconocido; más bien huirían de él, pues no reconocerían su voz.",
+      "verse": 5,
+      "start_ms": 27625,
+      "end_ms": 33950,
+      "duration_ms": 6325
+    },
+    {
+      "word": "Jesús les puso el ejemplo anterior, pero ellos no entendieron lo que les quiso decir.",
+      "verse": 6,
+      "start_ms": 33950,
+      "end_ms": 39362,
+      "duration_ms": 5412
+    },
+    {
+      "word": "Entonces Jesús les explicó el ejemplo: Yo soy la puerta de las ovejas.",
+      "verse": 7,
+      "start_ms": 39362,
+      "end_ms": 44612,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Todos los que vinieron antes que yo, eran bandidos y ladrones; por eso las ovejas no les hicieron caso.",
+      "verse": 8,
+      "start_ms": 44612,
+      "end_ms": 51499,
+      "duration_ms": 6887
+    },
+    {
+      "word": "Yo soy la puerta del reino de Dios: cualquiera que entre por esta puerta, se salvará; podrá salir y entrar, y siempre encontrará alimento.",
+      "verse": 9,
+      "start_ms": 51500,
+      "end_ms": 60362,
+      "duration_ms": 8862
+    },
+    {
+      "word": "Cuando el ladrón llega, se dedica a robar, matar y destruir.",
+      "verse": 10,
+      "start_ms": 60362,
+      "end_ms": 65012,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Yo he venido para que todos ustedes tengan vida, y para que la vivan plenamente.",
+      "verse": 10,
+      "start_ms": 65012,
+      "end_ms": 70374,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Yo soy el buen pastor.",
+      "verse": 11,
+      "start_ms": 70375,
+      "end_ms": 72700,
+      "duration_ms": 2325
+    },
+    {
+      "word": "El buen pastor está dispuesto a morir por sus ovejas.",
+      "verse": 11,
+      "start_ms": 72700,
+      "end_ms": 76437,
+      "duration_ms": 3737
+    },
+    {
+      "word": "El que recibe un salario por cuidar a las ovejas, huye cuando ve que se acerca el lobo.",
+      "verse": 12,
+      "start_ms": 76437,
+      "end_ms": 81812,
+      "duration_ms": 5375
+    },
+    {
+      "word": "Deja a las ovejas solas, porque él no es el pastor y las ovejas no son suyas.",
+      "verse": 12,
+      "start_ms": 81812,
+      "end_ms": 87337,
+      "duration_ms": 5525
+    },
+    {
+      "word": "Por eso, cuando el lobo llega y ataca a las ovejas, ellas huyen por todos lados.",
+      "verse": 12,
+      "start_ms": 87337,
+      "end_ms": 93187,
+      "duration_ms": 5850
+    },
+    {
+      "word": "Y es que a ése no le interesan las ovejas, sólo busca el dinero; por eso huye.",
+      "verse": 13,
+      "start_ms": 93187,
+      "end_ms": 98712,
+      "duration_ms": 5525
+    },
+    {
+      "word": "Así como Dios mi Padre me conoce, yo lo conozco a él; y de igual manera, yo conozco a mis seguidores y ellos me conocen a mí.",
+      "verse": 14,
+      "start_ms": 98712,
+      "end_ms": 106937,
+      "duration_ms": 8225
+    },
+    {
+      "word": "Yo soy su buen pastor, y ellos son mis ovejas.",
+      "verse": 14,
+      "start_ms": 106937,
+      "end_ms": 110787,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Así como el buen pastor está dispuesto a morir para salvar a sus ovejas, también yo estoy dispuesto a morir para salvar a mis seguidores.",
+      "verse": 14,
+      "start_ms": 110787,
+      "end_ms": 118487,
+      "duration_ms": 7700
+    },
+    {
+      "word": "También tengo otros seguidores que ustedes no conocen; son ovejas que traeré de otro corral, y me obedecerán.",
+      "verse": 16,
+      "start_ms": 118487,
+      "end_ms": 125512,
+      "duration_ms": 7025
+    },
+    {
+      "word": "Así tendré un solo grupo de seguidores, y yo seré su único pastor.",
+      "verse": 16,
+      "start_ms": 125512,
+      "end_ms": 130549,
+      "duration_ms": 5037
+    },
+    {
+      "word": "Mi Padre me ama porque estoy dispuesto a entregar mi vida para luego volver a recibirla.",
+      "verse": 17,
+      "start_ms": 130550,
+      "end_ms": 135762,
+      "duration_ms": 5212
+    },
+    {
+      "word": "Nadie me quita la vida, sino que yo la entrego porque así lo quiero.",
+      "verse": 18,
+      "start_ms": 135762,
+      "end_ms": 140249,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Tengo poder para entregar mi vida, y tengo poder para volver a recibirla, pues esto es lo que mi Padre me ha ordenado hacer.",
+      "verse": 18,
+      "start_ms": 140250,
+      "end_ms": 147650,
+      "duration_ms": 7400
+    },
+    {
+      "word": "Cuando aquellos judíos oyeron esto, se pusieron a discutir, pues unos pensaban una cosa, y otros otra.",
+      "verse": 19,
+      "start_ms": 147650,
+      "end_ms": 154562,
+      "duration_ms": 6912
+    },
+    {
+      "word": "Muchos decían: Ese hombre tiene un demonio y está loco.",
+      "verse": 20,
+      "start_ms": 154562,
+      "end_ms": 158687,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Por qué le hacen caso?",
+      "verse": 20,
+      "start_ms": 158687,
+      "end_ms": 160837,
+      "duration_ms": 2150
+    },
+    {
+      "word": "Pero otros decían: Nadie que tenga un demonio puede hablar así.",
+      "verse": 21,
+      "start_ms": 160837,
+      "end_ms": 165274,
+      "duration_ms": 4437
+    },
+    {
+      "word": "Además, ningún demonio puede darle la vista a un ciego.",
+      "verse": 21,
+      "start_ms": 165275,
+      "end_ms": 169612,
+      "duration_ms": 4337
+    },
+    {
+      "word": "Era invierno, y Jesús había ido a Jerusalén para participar en la fiesta del Templo.",
+      "verse": 22,
+      "start_ms": 169612,
+      "end_ms": 175074,
+      "duration_ms": 5462
+    },
+    {
+      "word": "Mientras andaba por los patios del templo, cerca del Portón de Salomón, la gente lo rodeó y le preguntó: —¿Hasta cuándo nos tendrás con esta duda?",
+      "verse": 23,
+      "start_ms": 175075,
+      "end_ms": 183737,
+      "duration_ms": 8662
+    },
+    {
+      "word": "Dinos ahora mismo si eres el Mesías.",
+      "verse": 24,
+      "start_ms": 183737,
+      "end_ms": 186949,
+      "duration_ms": 3212
+    },
+    {
+      "word": "Jesús les respondió: —Ya les dije quién soy, pero ustedes no me han creído.",
+      "verse": 25,
+      "start_ms": 186950,
+      "end_ms": 192375,
+      "duration_ms": 5425
+    },
+    {
+      "word": "Yo hago todo con la autoridad y el poder de mi Padre, y eso demuestra quién soy yo.",
+      "verse": 25,
+      "start_ms": 192375,
+      "end_ms": 197900,
+      "duration_ms": 5525
+    },
+    {
+      "word": "Pero ustedes no me creen, porque no me siguen ni me obedecen.",
+      "verse": 26,
+      "start_ms": 197900,
+      "end_ms": 202037,
+      "duration_ms": 4137
+    },
+    {
+      "word": "Mis seguidores me conocen, y yo también los conozco a ellos.",
+      "verse": 27,
+      "start_ms": 202037,
+      "end_ms": 206449,
+      "duration_ms": 4412
+    },
+    {
+      "word": "Son como las ovejas, que reconocen la voz de su pastor, y él las conoce a ellas.",
+      "verse": 27,
+      "start_ms": 206450,
+      "end_ms": 212237,
+      "duration_ms": 5787
+    },
+    {
+      "word": "Mis seguidores me obedecen, y yo les doy vida eterna; nadie me los quitará.",
+      "verse": 27,
+      "start_ms": 212237,
+      "end_ms": 217524,
+      "duration_ms": 5287
+    },
+    {
+      "word": "Dios mi Padre me los ha dado; él es más poderoso que todos, y nadie puede quitárselos.",
+      "verse": 29,
+      "start_ms": 217525,
+      "end_ms": 223737,
+      "duration_ms": 6212
+    },
+    {
+      "word": "Mi Padre y yo somos uno solo.",
+      "verse": 30,
+      "start_ms": 223737,
+      "end_ms": 226562,
+      "duration_ms": 2825
+    },
+    {
+      "word": "Otra vez, los jefes judíos quisieron apedrear a Jesús, pero él les dijo: —Ustedes me han visto hacer muchas cosas buenas con el poder que mi Padre me ha dado.",
+      "verse": 31,
+      "start_ms": 226562,
+      "end_ms": 236112,
+      "duration_ms": 9550
+    },
+    {
+      "word": "A ver, díganme, ¿por cuál de ellas merezco morir?",
+      "verse": 32,
+      "start_ms": 236112,
+      "end_ms": 240224,
+      "duration_ms": 4112
+    },
+    {
+      "word": "Ellos le respondieron: —No queremos matarte por lo bueno que hayas hecho, sino por haber ofendido a Dios.",
+      "verse": 33,
+      "start_ms": 240225,
+      "end_ms": 246675,
+      "duration_ms": 6450
+    },
+    {
+      "word": "Tú no eres más que un hombre, y dices que eres igual a Dios.",
+      "verse": 33,
+      "start_ms": 246675,
+      "end_ms": 250912,
+      "duration_ms": 4237
+    },
+    {
+      "word": "Jesús les dijo: —¡Pero en la Biblia Dios dice que somos dioses!",
+      "verse": 34,
+      "start_ms": 250912,
+      "end_ms": 255337,
+      "duration_ms": 4425
+    },
+    {
+      "word": "Y ella siempre dice la verdad.",
+      "verse": 34,
+      "start_ms": 255337,
+      "end_ms": 257899,
+      "duration_ms": 2562
+    },
+    {
+      "word": "Y si Dios me envió al mundo, ¿por qué dicen ustedes que ofendo a Dios al decir que soy su Hijo?",
+      "verse": 36,
+      "start_ms": 257900,
+      "end_ms": 263650,
+      "duration_ms": 5750
+    },
+    {
+      "word": "Si no hago lo que mi Padre quiere, entonces no me crean.",
+      "verse": 37,
+      "start_ms": 263650,
+      "end_ms": 267725,
+      "duration_ms": 4075
+    },
+    {
+      "word": "Pero si yo lo obedezco, crean en",
+      "verse": 38,
+      "start_ms": 267725,
+      "end_ms": 270737,
+      "duration_ms": 3012
+    },
+    {
+      "word": "lo que hago, aunque no crean en lo que digo.",
+      "verse": 38,
+      "start_ms": 270892,
+      "end_ms": 274204,
+      "duration_ms": 3312
+    },
+    {
+      "word": "Así, de una vez por todas, sabrán que mi Padre y yo somos uno solo.",
+      "verse": 38,
+      "start_ms": 274154,
+      "end_ms": 279541,
+      "duration_ms": 5387
+    },
+    {
+      "word": "De nuevo ellos intentaron encarcelar a Jesús.",
+      "verse": 39,
+      "start_ms": 279542,
+      "end_ms": 283042,
+      "duration_ms": 3500
+    },
+    {
+      "word": "Pero él se les escapó, y se fue de nuevo al otro lado del río Jordán, al lugar donde Juan el Bautista había estado bautizando.",
+      "verse": 39,
+      "start_ms": 283042,
+      "end_ms": 290992,
+      "duration_ms": 7950
+    },
+    {
+      "word": "Mientras estaba allí, muchas personas fueron a verlo, y decían: Juan el Bautista no hizo ningún milagro, pero todo lo que dijo de Jesús era verdad.",
+      "verse": 40,
+      "start_ms": 290992,
+      "end_ms": 300442,
+      "duration_ms": 9450
+    },
+    {
+      "word": "Y mucha gente de aquel lugar creyó en Jesús.",
+      "verse": 42,
+      "start_ms": 300442,
+      "end_ms": 303854,
+      "duration_ms": 3412
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "book": "OSE",
+  "chapter": 9,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 15,
+  "word_count": 33,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 247,
+      "text": "El profeta le dijo al pueblo: ¡No cantes victoria, Israel! ¡No imites a esos pueblos que saltan de alegría! Te has apartado de Dios; has adorado a dioses falsos. Has sido infiel a tu Dios, porque al ver tus cosechas diste gracias a dioses falsos."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 247,
+      "char_end": 333,
+      "text": "Por eso, pueblo de Israel, faltará el trigo en tus graneros y el vino en tus bodegas."
+    },
+    {
+      "verse": 3,
+      "label": "3-4",
+      "char_start": 333,
+      "char_end": 711,
+      "text": "No tendrás pan ni vino para ofrecerlos en honor de tu Dios; el poco pan que comas será como pan de velorio: sólo sirve para calmar el hambre, pero no para ofrecérselo a Dios, porque Dios no lo acepta. Israel, ya no vivirás en la tierra que Dios te dio. Más bien volverás al país de Egipto y al país de Asiria. Allí tendrás que alimentarte con lo que Dios te ha prohibido comer."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 711,
+      "char_end": 766,
+      "text": "Ya no podrás celebrar ninguna fiesta en honor de Dios."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 766,
+      "char_end": 940,
+      "text": "Si escapas de la destrucción, Egipto se encargará de atraparte, y te enterrará en la ciudad de Menfis. ¡En tus ciudades y entre tus tesoros crecerán la maleza y los espinos!"
+    },
+    {
+      "verse": 7,
+      "label": "7-8",
+      "char_start": 940,
+      "char_end": 1267,
+      "text": "Dios dijo: Pronto entenderás, Israel, que ya ha llegado el día en que te daré tu merecido. Tan grande es tu maldad, y tan exagerado es tu odio, que llamas «tontos» y «locos» a los profetas que te he enviado. Los envié para avisarte del peligro, pero tú les tendiste trampas; ¡ni en mi propio templo les ocultaste tu gran odio!"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1267,
+      "char_end": 1407,
+      "text": "Tu maldad es tan grande que en nada eres diferente de los que vivían en Guibeá; ¡pero no olvidaré tu maldad y te castigaré por tus pecados!"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1407,
+      "char_end": 1665,
+      "text": "Grande fue mi alegría cuando te hallé por primera vez. Fue como hallar uvas en el desierto; ¡fue como cortar los primeros frutos! Pero al llegar a Baal-peor tus antepasados se volvieron repugnantes por adorar a dioses falsos, a esos ídolos que tanto amaban."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1665,
+      "char_end": 1791,
+      "text": "Israel tiene grandes riquezas, pero esas riquezas no durarán; ¡volarán como hojas al viento! Sus mujeres ya no tendrán hijos."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1791,
+      "char_end": 1882,
+      "text": "Y si llegaran a tenerlos, yo les quitaré la vida. ¡Pobres de ellos cuando yo los abandone!"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1882,
+      "char_end": 2011,
+      "text": "Israel y Tiro se parecen: los dos países tienen un hermoso territorio, ¡pero Israel conduce a sus hijos por un camino de muerte!"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 2011,
+      "char_end": 2139,
+      "text": "Dios nuestro, ¡dales su merecido! ¡Que no tengan hijos sus mujeres! Y, si acaso llegan a tenerlos, ¡que no puedan alimentarlos!"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2139,
+      "char_end": 2349,
+      "text": "Ustedes los israelitas llegaron a Guilgal y cometieron toda clase de maldad; por eso he dejado de amarlos, y los echaré de aquí. Ustedes son tan rebeldes como lo fueron sus jefes; por eso he dejado de amarlos."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2349,
+      "char_end": 2536,
+      "text": "Ustedes, israelitas, han sido heridos de muerte; ¡son como un árbol con raíces secas, que ya no da fruto! Si acaso llegan a tener hijos, yo les quitaré la vida, aunque los quieran mucho."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2536,
+      "char_end": 2688,
+      "text": "Oseas le dijo al pueblo: Israelitas, mi Dios los rechazará porque lo han desobedecido. Por eso perderán su patria y andarán vagando entre las naciones."
+    }
+  ],
+  "words": [
+    {
+      "word": "El profeta le dijo al pueblo: ¡No cantes victoria, Israel!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4525,
+      "duration_ms": 4425
+    },
+    {
+      "word": "No imites a esos pueblos que saltan de alegría!",
+      "verse": 1,
+      "start_ms": 4475,
+      "end_ms": 7825,
+      "duration_ms": 3350
+    },
+    {
+      "word": "Te has apartado de Dios; has adorado a dioses falsos.",
+      "verse": 1,
+      "start_ms": 7825,
+      "end_ms": 12212,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Has sido infiel a tu Dios, porque al ver tus cosechas diste gracias a dioses falsos.",
+      "verse": 1,
+      "start_ms": 12212,
+      "end_ms": 17812,
+      "duration_ms": 5600
+    },
+    {
+      "word": "Por eso, pueblo de Israel, faltará el trigo en tus graneros y el vino en tus bodegas.",
+      "verse": 2,
+      "start_ms": 17812,
+      "end_ms": 23774,
+      "duration_ms": 5962
+    },
+    {
+      "word": "No tendrás pan ni vino para ofrecerlos en honor de tu Dios; el poco pan que comas será como pan de velorio: sólo sirve para calmar el hambre, pero no para ofrecérselo a Dios, porque Dios no lo acepta.",
+      "verse": 3,
+      "start_ms": 23775,
+      "end_ms": 35700,
+      "duration_ms": 11925
+    },
+    {
+      "word": "Israel, ya no vivirás en la tierra que Dios te dio.",
+      "verse": 3,
+      "start_ms": 35700,
+      "end_ms": 39500,
+      "duration_ms": 3800
+    },
+    {
+      "word": "Más bien volverás al país de Egipto y al país de Asiria.",
+      "verse": 3,
+      "start_ms": 39500,
+      "end_ms": 43437,
+      "duration_ms": 3937
+    },
+    {
+      "word": "Allí tendrás que alimentarte con lo que Dios te ha prohibido comer.",
+      "verse": 3,
+      "start_ms": 43437,
+      "end_ms": 47624,
+      "duration_ms": 4187
+    },
+    {
+      "word": "Ya no podrás celebrar ninguna fiesta en honor de Dios.",
+      "verse": 5,
+      "start_ms": 47625,
+      "end_ms": 51500,
+      "duration_ms": 3875
+    },
+    {
+      "word": "Si escapas de la destrucción, Egipto se encargará de atraparte, y te enterrará en la ciudad de Menfis.",
+      "verse": 6,
+      "start_ms": 51500,
+      "end_ms": 57987,
+      "duration_ms": 6487
+    },
+    {
+      "word": "En tus ciudades y entre tus tesoros crecerán la maleza y los espinos!",
+      "verse": 6,
+      "start_ms": 57987,
+      "end_ms": 62524,
+      "duration_ms": 4537
+    },
+    {
+      "word": "Dios dijo: Pronto entenderás, Israel, que ya ha llegado el día en que te daré tu merecido.",
+      "verse": 7,
+      "start_ms": 62525,
+      "end_ms": 69100,
+      "duration_ms": 6575
+    },
+    {
+      "word": "Tan grande es tu maldad, y tan exagerado es tu odio, que llamas «tontos» y «locos» a los profetas que te he enviado.",
+      "verse": 7,
+      "start_ms": 69100,
+      "end_ms": 77637,
+      "duration_ms": 8537
+    },
+    {
+      "word": "Los envié para avisarte del peligro, pero tú les tendiste trampas; ¡ni en mi propio templo les ocultaste tu gran odio!",
+      "verse": 7,
+      "start_ms": 77637,
+      "end_ms": 85062,
+      "duration_ms": 7425
+    },
+    {
+      "word": "Tu maldad es tan grande que en nada eres diferente de los que vivían en Guibeá; ¡pero no olvidaré tu maldad y te castigaré por tus pecados!",
+      "verse": 9,
+      "start_ms": 85062,
+      "end_ms": 93112,
+      "duration_ms": 8050
+    },
+    {
+      "word": "Grande fue mi alegría cuando te hallé por primera vez.",
+      "verse": 10,
+      "start_ms": 93112,
+      "end_ms": 96762,
+      "duration_ms": 3650
+    },
+    {
+      "word": "Fue como hallar uvas en el desierto; ¡fue como cortar los primeros frutos!",
+      "verse": 10,
+      "start_ms": 96762,
+      "end_ms": 101512,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Pero al llegar a Baal-peor tus antepasados se volvieron repugnantes por adorar a dioses falsos, a esos ídolos que tanto amaban.",
+      "verse": 10,
+      "start_ms": 101512,
+      "end_ms": 109012,
+      "duration_ms": 7500
+    },
+    {
+      "word": "Israel tiene grandes riquezas, pero esas riquezas no durarán; ¡volarán como hojas al viento!",
+      "verse": 11,
+      "start_ms": 109012,
+      "end_ms": 115424,
+      "duration_ms": 6412
+    },
+    {
+      "word": "Sus mujeres ya no tendrán hijos.",
+      "verse": 11,
+      "start_ms": 115425,
+      "end_ms": 118287,
+      "duration_ms": 2862
+    },
+    {
+      "word": "Y si llegaran a tenerlos, yo les quitaré la vida.",
+      "verse": 12,
+      "start_ms": 118287,
+      "end_ms": 122062,
+      "duration_ms": 3775
+    },
+    {
+      "word": "Pobres de ellos cuando yo los abandone!",
+      "verse": 12,
+      "start_ms": 122062,
+      "end_ms": 124962,
+      "duration_ms": 2900
+    },
+    {
+      "word": "Israel y Tiro se parecen: los dos países tienen un hermoso territorio, ¡pero Israel conduce a sus hijos por un camino de muerte!",
+      "verse": 13,
+      "start_ms": 124962,
+      "end_ms": 133349,
+      "duration_ms": 8387
+    },
+    {
+      "word": "Dios nuestro, ¡dales su merecido!",
+      "verse": 14,
+      "start_ms": 133350,
+      "end_ms": 136200,
+      "duration_ms": 2850
+    },
+    {
+      "word": "Que no tengan hijos sus mujeres!",
+      "verse": 14,
+      "start_ms": 136200,
+      "end_ms": 138825,
+      "duration_ms": 2625
+    },
+    {
+      "word": "Y, si acaso llegan a tenerlos, ¡que no puedan alimentarlos!",
+      "verse": 14,
+      "start_ms": 138825,
+      "end_ms": 143262,
+      "duration_ms": 4437
+    },
+    {
+      "word": "Ustedes los israelitas llegaron a Guilgal y cometieron toda clase de maldad; por eso he dejado de amarlos, y los echaré de aquí.",
+      "verse": 15,
+      "start_ms": 143262,
+      "end_ms": 151262,
+      "duration_ms": 8000
+    },
+    {
+      "word": "Ustedes son tan rebeldes como lo fueron sus jefes; por eso he dejado de amarlos.",
+      "verse": 15,
+      "start_ms": 151262,
+      "end_ms": 156737,
+      "duration_ms": 5475
+    },
+    {
+      "word": "Ustedes, israelitas, han sido heridos de muerte; ¡son como un árbol con raíces secas, que ya no da fruto!",
+      "verse": 16,
+      "start_ms": 156737,
+      "end_ms": 164424,
+      "duration_ms": 7687
+    },
+    {
+      "word": "Si acaso llegan a tener hijos, yo les quitaré la vida, aunque los quieran mucho.",
+      "verse": 16,
+      "start_ms": 164425,
+      "end_ms": 169850,
+      "duration_ms": 5425
+    },
+    {
+      "word": "Oseas le dijo al pueblo: Israelitas, mi Dios los rechazará porque lo han desobedecido.",
+      "verse": 17,
+      "start_ms": 169850,
+      "end_ms": 175887,
+      "duration_ms": 6037
+    },
+    {
+      "word": "Por eso perderán su patria y andarán vagando entre las naciones.",
+      "verse": 17,
+      "start_ms": 175887,
+      "end_ms": 180262,
+      "duration_ms": 4375
+    }
+  ]
+}

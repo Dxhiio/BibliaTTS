@@ -1,0 +1,404 @@
+{
+  "book": "SAL",
+  "chapter": 102,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 25,
+  "word_count": 31,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-2",
+      "char_start": 0,
+      "char_end": 147,
+      "text": "Dios mío, escucha mi oración; atiende a mis ruegos. No tardes en responderme cuando te llame; no me des la espalda cuando me encuentre angustiado."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 147,
+      "char_end": 246,
+      "text": "La vida es como el humo y se me escapa. Los huesos me arden de dolor; parecen carbones encendidos."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 246,
+      "char_end": 357,
+      "text": "Me siento muy afligido; hasta parezco hierba marchita. ¡Ni ganas de comer tengo, y hasta los huesos se me ven!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 357,
+      "char_end": 385,
+      "text": "¡Es muy grande mi angustia!"
+    },
+    {
+      "verse": 6,
+      "label": "6-7",
+      "char_start": 385,
+      "char_end": 537,
+      "text": "Estoy tan triste y solitario como un buitre en el desierto, como un búho entre las ruinas, como un gorrión sobre el tejado. ¡Hasta he perdido el sueño!"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 537,
+      "char_end": 619,
+      "text": "No pasa un solo día sin que mis enemigos me ofendan; ¡hasta me echan maldiciones!"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 619,
+      "char_end": 663,
+      "text": "Mi comida y mi bebida son mi propio llanto."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 663,
+      "char_end": 740,
+      "text": "¡Te enojaste, te llenaste de furia! ¡Me levantaste, para derribarme después!"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 740,
+      "char_end": 827,
+      "text": "Mi vida va pasando como las sombras en la noche; ¡me estoy marchitando como la hierba!"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 827,
+      "char_end": 886,
+      "text": "Pero tú, mi Dios, eres el rey eterno y vives para siempre."
+    },
+    {
+      "verse": 13,
+      "label": "13-14",
+      "char_start": 886,
+      "char_end": 1120,
+      "text": "Un día te levantarás y tendrás compasión de tu pueblo. ¡Ese día ha llegado! ¡Ya es tiempo de que lo perdones! Nosotros estamos a tu servicio y amamos a la ciudad de Jerusalén; ¡verla en ruinas y entre escombros nos causa mucho dolor!"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1120,
+      "char_end": 1216,
+      "text": "Dios mío, todas las naciones te adorarán; todos los reyes de la tierra reconocerán tu grandeza."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1216,
+      "char_end": 1273,
+      "text": "Tú reconstruirás a Jerusalén y así demostrarás tu poder."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1273,
+      "char_end": 1362,
+      "text": "Prestarás toda tu atención a los ruegos de los desamparados, y no dejarás de atenderlos."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1362,
+      "char_end": 1473,
+      "text": "Que esto quede por escrito para los que aún no han nacido; para que alabe a Dios el pueblo que está por nacer."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1473,
+      "char_end": 1544,
+      "text": "Mientras Dios miraba desde su palacio celestial, se fijó en la tierra;"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1544,
+      "char_end": 1626,
+      "text": "al escuchar los lamentos de los presos condenados a muerte, los puso en libertad."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1626,
+      "char_end": 1712,
+      "text": "Por eso en Jerusalén se alaba su nombre; por eso en Jerusalén se le cantan alabanzas."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1712,
+      "char_end": 1764,
+      "text": "Todos los pueblos y reinos se juntan para adorarlo."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1764,
+      "char_end": 1857,
+      "text": "En el transcurso de mi vida, Dios usó su poder para humillarme y para acortar mi existencia."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1857,
+      "char_end": 1952,
+      "text": "Entonces le rogué: Para ti, Dios mío, los años no tienen fin; ¡no me lleves en plena juventud!"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1952,
+      "char_end": 2021,
+      "text": "En el principio tú afirmaste la tierra; tú mismo hiciste los cielos,"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2021,
+      "char_end": 2113,
+      "text": "pero se irán gastando, como la ropa, y un día, los destruirás. Pero tú te mantendrás firme;"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2113,
+      "char_end": 2164,
+      "text": "siempre serás el mismo, y tus años no tendrán fin."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2164,
+      "char_end": 2278,
+      "text": "Nuestros hijos y nuestros nietos estarán a tu servicio, como lo estamos nosotros, y vivirán contigo para siempre."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios mío, escucha mi oración; atiende a mis ruegos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4675,
+      "duration_ms": 4575
+    },
+    {
+      "word": "No tardes en responderme cuando te llame; no me des la espalda cuando me encuentre angustiado.",
+      "verse": 1,
+      "start_ms": 4625,
+      "end_ms": 10075,
+      "duration_ms": 5450
+    },
+    {
+      "word": "La vida es como el humo y se me escapa.",
+      "verse": 3,
+      "start_ms": 10075,
+      "end_ms": 13075,
+      "duration_ms": 3000
+    },
+    {
+      "word": "Los huesos me arden de dolor; parecen carbones encendidos.",
+      "verse": 3,
+      "start_ms": 13075,
+      "end_ms": 17662,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Me siento muy afligido; hasta parezco hierba marchita.",
+      "verse": 4,
+      "start_ms": 17662,
+      "end_ms": 21899,
+      "duration_ms": 4237
+    },
+    {
+      "word": "Ni ganas de comer tengo, y hasta los huesos se me ven!",
+      "verse": 4,
+      "start_ms": 21900,
+      "end_ms": 25887,
+      "duration_ms": 3987
+    },
+    {
+      "word": "Es muy grande mi angustia!",
+      "verse": 5,
+      "start_ms": 25887,
+      "end_ms": 28212,
+      "duration_ms": 2325
+    },
+    {
+      "word": "Estoy tan triste y solitario como un buitre en el desierto, como un búho entre las ruinas, como un gorrión sobre el tejado.",
+      "verse": 6,
+      "start_ms": 28212,
+      "end_ms": 35799,
+      "duration_ms": 7587
+    },
+    {
+      "word": "Hasta he perdido el sueño!",
+      "verse": 6,
+      "start_ms": 35800,
+      "end_ms": 37962,
+      "duration_ms": 2162
+    },
+    {
+      "word": "No pasa un solo día sin que mis enemigos me ofendan; ¡hasta me echan maldiciones!",
+      "verse": 8,
+      "start_ms": 37962,
+      "end_ms": 43312,
+      "duration_ms": 5350
+    },
+    {
+      "word": "Mi comida y mi bebida son mi propio llanto.",
+      "verse": 9,
+      "start_ms": 43312,
+      "end_ms": 46712,
+      "duration_ms": 3400
+    },
+    {
+      "word": "Te enojaste, te llenaste de furia!",
+      "verse": 10,
+      "start_ms": 46712,
+      "end_ms": 49962,
+      "duration_ms": 3250
+    },
+    {
+      "word": "Me levantaste, para derribarme después!",
+      "verse": 10,
+      "start_ms": 49962,
+      "end_ms": 53237,
+      "duration_ms": 3275
+    },
+    {
+      "word": "Mi vida va pasando como las sombras en la noche; ¡me estoy marchitando como la hierba!",
+      "verse": 11,
+      "start_ms": 53237,
+      "end_ms": 58537,
+      "duration_ms": 5300
+    },
+    {
+      "word": "Pero tú, mi Dios, eres el rey eterno y vives para siempre.",
+      "verse": 12,
+      "start_ms": 58537,
+      "end_ms": 63262,
+      "duration_ms": 4725
+    },
+    {
+      "word": "Un día te levantarás y tendrás compasión de tu pueblo.",
+      "verse": 13,
+      "start_ms": 63262,
+      "end_ms": 66824,
+      "duration_ms": 3562
+    },
+    {
+      "word": "Ese día ha llegado!",
+      "verse": 13,
+      "start_ms": 66825,
+      "end_ms": 68737,
+      "duration_ms": 1912
+    },
+    {
+      "word": "Ya es tiempo de que lo perdones!",
+      "verse": 13,
+      "start_ms": 68737,
+      "end_ms": 71387,
+      "duration_ms": 2650
+    },
+    {
+      "word": "Nosotros estamos a tu servicio y amamos a la ciudad de Jerusalén; ¡verla en ruinas y entre escombros nos causa mucho dolor!",
+      "verse": 13,
+      "start_ms": 71387,
+      "end_ms": 78887,
+      "duration_ms": 7500
+    },
+    {
+      "word": "Dios mío, todas las naciones te adorarán; todos los reyes de la tierra reconocerán tu grandeza.",
+      "verse": 15,
+      "start_ms": 78887,
+      "end_ms": 85337,
+      "duration_ms": 6450
+    },
+    {
+      "word": "Tú reconstruirás a Jerusalén y así demostrarás tu poder.",
+      "verse": 16,
+      "start_ms": 85337,
+      "end_ms": 89437,
+      "duration_ms": 4100
+    },
+    {
+      "word": "Prestarás toda tu atención a los ruegos de los desamparados, y no dejarás de atenderlos.",
+      "verse": 17,
+      "start_ms": 89437,
+      "end_ms": 95162,
+      "duration_ms": 5725
+    },
+    {
+      "word": "Que esto quede por escrito para los que aún no han nacido; para que alabe a Dios el pueblo que está por nacer.",
+      "verse": 18,
+      "start_ms": 95162,
+      "end_ms": 101474,
+      "duration_ms": 6312
+    },
+    {
+      "word": "Mientras Dios miraba desde su palacio celestial, se fijó en la tierra; al escuchar los lamentos de los presos condenados a muerte, los puso en libertad.",
+      "verse": 19,
+      "start_ms": 101475,
+      "end_ms": 110612,
+      "duration_ms": 9137
+    },
+    {
+      "word": "Por eso en Jerusalén se alaba su nombre; por eso en Jerusalén se le cantan alabanzas.",
+      "verse": 21,
+      "start_ms": 110612,
+      "end_ms": 116087,
+      "duration_ms": 5475
+    },
+    {
+      "word": "Todos los pueblos y reinos se juntan para adorarlo.",
+      "verse": 22,
+      "start_ms": 116087,
+      "end_ms": 119724,
+      "duration_ms": 3637
+    },
+    {
+      "word": "En el transcurso de mi vida, Dios usó su poder para humillarme y para acortar mi existencia.",
+      "verse": 23,
+      "start_ms": 119725,
+      "end_ms": 125775,
+      "duration_ms": 6050
+    },
+    {
+      "word": "Entonces le rogué: Para ti, Dios mío, los años no tienen fin; ¡no me lleves en plena juventud!",
+      "verse": 24,
+      "start_ms": 125775,
+      "end_ms": 132812,
+      "duration_ms": 7037
+    },
+    {
+      "word": "En el principio tú afirmaste la tierra; tú mismo hiciste los cielos, pero se irán gastando, como la ropa, y un día, los destruirás.",
+      "verse": 25,
+      "start_ms": 132812,
+      "end_ms": 141724,
+      "duration_ms": 8912
+    },
+    {
+      "word": "Pero tú te mantendrás firme; siempre serás el mismo, y tus años no tendrán fin.",
+      "verse": 26,
+      "start_ms": 141725,
+      "end_ms": 147387,
+      "duration_ms": 5662
+    },
+    {
+      "word": "Nuestros hijos y nuestros nietos estarán a tu servicio, como lo estamos nosotros, y vivirán contigo para siempre.",
+      "verse": 28,
+      "start_ms": 147387,
+      "end_ms": 154462,
+      "duration_ms": 7075
+    }
+  ]
+}

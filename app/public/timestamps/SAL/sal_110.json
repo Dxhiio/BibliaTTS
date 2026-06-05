@@ -1,0 +1,110 @@
+{
+  "book": "SAL",
+  "chapter": 110,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 6,
+  "word_count": 8,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 106,
+      "text": "Mi Dios le dijo a mi señor el rey: Siéntate a la derecha de mi trono hasta que yo derrote a tus enemigos."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 106,
+      "char_end": 203,
+      "text": "¡Que Dios te permita derrotar a tus enemigos, y extienda desde Jerusalén el poder de tu reinado!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 203,
+      "char_end": 335,
+      "text": "¡Que tus soldados te juren lealtad sobre los cerros de Dios en el día de la batalla! Cuando salga el sol, se renovarán tus fuerzas."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 335,
+      "char_end": 435,
+      "text": "Dios ha hecho un juramento, y lo cumplirá: Tú eres sacerdote para siempre, como lo fue Melquisedec."
+    },
+    {
+      "verse": 5,
+      "label": "5-6",
+      "char_start": 435,
+      "char_end": 604,
+      "text": "Mi Dios está a tu derecha, y siempre te ayudará. Cuando manifieste su enojo, aplastará reyes y gobernantes, juzgará naciones, y por toda la tierra amontonará cadáveres."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 604,
+      "char_end": 698,
+      "text": "Junto al camino, el rey apagará su sed con el agua de un arroyo, y así recobrará las fuerzas."
+    }
+  ],
+  "words": [
+    {
+      "word": "Mi Dios le dijo a mi señor el rey: Siéntate a la derecha de mi trono hasta que yo derrote a tus enemigos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6650,
+      "duration_ms": 6550
+    },
+    {
+      "word": "Que Dios te permita derrotar a tus enemigos, y extienda desde Jerusalén el poder de tu reinado!",
+      "verse": 2,
+      "start_ms": 6600,
+      "end_ms": 12762,
+      "duration_ms": 6162
+    },
+    {
+      "word": "Que tus soldados te juren lealtad sobre los cerros de Dios en el día de la batalla!",
+      "verse": 3,
+      "start_ms": 12762,
+      "end_ms": 17912,
+      "duration_ms": 5150
+    },
+    {
+      "word": "Cuando salga el sol, se renovarán tus fuerzas.",
+      "verse": 3,
+      "start_ms": 17912,
+      "end_ms": 21549,
+      "duration_ms": 3637
+    },
+    {
+      "word": "Dios ha hecho un juramento, y lo cumplirá: Tú eres sacerdote para siempre, como lo fue Melquisedec.",
+      "verse": 4,
+      "start_ms": 21550,
+      "end_ms": 28300,
+      "duration_ms": 6750
+    },
+    {
+      "word": "Mi Dios está a tu derecha, y siempre te ayudará.",
+      "verse": 5,
+      "start_ms": 28300,
+      "end_ms": 31887,
+      "duration_ms": 3587
+    },
+    {
+      "word": "Cuando manifieste su enojo, aplastará reyes y gobernantes, juzgará naciones, y por toda la tierra amontonará cadáveres.",
+      "verse": 5,
+      "start_ms": 31887,
+      "end_ms": 40437,
+      "duration_ms": 8550
+    },
+    {
+      "word": "Junto al camino, el rey apagará su sed con el agua de un arroyo, y así recobrará las fuerzas.",
+      "verse": 7,
+      "start_ms": 40437,
+      "end_ms": 46874,
+      "duration_ms": 6437
+    }
+  ]
+}

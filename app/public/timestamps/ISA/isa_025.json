@@ -1,0 +1,236 @@
+{
+  "book": "ISA",
+  "chapter": 25,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 11,
+  "word_count": 21,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 138,
+      "text": "Isaías dijo: Tú eres mi Dios. Yo alabo y bendigo tu nombre, porque has realizado planes admirables que prometiste desde tiempos antiguos."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 138,
+      "char_end": 273,
+      "text": "Has destruido las fortalezas de nuestros enemigos, has dejado las ciudades hechas un montón de ruinas. ¡Nunca más serán reconstruidas!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 273,
+      "char_end": 334,
+      "text": "Ahora los pueblos fuertes y tiranos te obedecen y te adoran."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 334,
+      "char_end": 537,
+      "text": "Has sido un refugio para el débil y has protegido al pobre en su aflicción. Tú eres un refugio en la tormenta, una sombra que protege del calor. El soplo de los tiranos es como una tormenta de invierno;"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 537,
+      "char_end": 662,
+      "text": "es como el calor del desierto. Tú frenaste el ataque de los enemigos, y así pusiste fin al canto de victoria de los tiranos."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 662,
+      "char_end": 807,
+      "text": "El Dios todopoderoso prepara en Jerusalén un banquete para todas las naciones. Allí hay ricos manjares, comidas deliciosas, y los mejores vinos."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 807,
+      "char_end": 853,
+      "text": "Dios acabará con la tristeza de las naciones."
+    },
+    {
+      "verse": 8,
+      "label": "8-9",
+      "char_start": 853,
+      "char_end": 1144,
+      "text": "Dios destruirá para siempre el poder de la muerte. Dios secará las lágrimas de todos y borrará la vergüenza de su pueblo en toda la tierra. Ese día se dirá: «Ahí está nuestro Dios. En él confiamos, y nos salvó. ¡Gritemos de alegría porque Dios nos ha salvado!». Dios ha jurado que así será."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1144,
+      "char_end": 1250,
+      "text": "Isaías continuó diciendo: Dios protegerá a Jerusalén, pero Moab será pisoteado como se pisotea la basura."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1250,
+      "char_end": 1339,
+      "text": "Moab intentará surgir de nuevo, pero por más que se esfuerce, Dios aplastará su orgullo."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1339,
+      "char_end": 1409,
+      "text": "Dios hará caer sus altas murallas y las dejará tendidas por el suelo."
+    }
+  ],
+  "words": [
+    {
+      "word": "Isaías dijo: Tú eres mi Dios.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3287,
+      "duration_ms": 3187
+    },
+    {
+      "word": "Yo alabo y bendigo tu nombre, porque has realizado planes admirables que prometiste desde tiempos antiguos.",
+      "verse": 1,
+      "start_ms": 3237,
+      "end_ms": 9999,
+      "duration_ms": 6762
+    },
+    {
+      "word": "Has destruido las fortalezas de nuestros enemigos, has dejado las ciudades hechas un montón de ruinas.",
+      "verse": 2,
+      "start_ms": 10000,
+      "end_ms": 16387,
+      "duration_ms": 6387
+    },
+    {
+      "word": "Nunca más serán reconstruidas!",
+      "verse": 2,
+      "start_ms": 16387,
+      "end_ms": 19087,
+      "duration_ms": 2700
+    },
+    {
+      "word": "Ahora los pueblos fuertes y tiranos te obedecen y te adoran.",
+      "verse": 3,
+      "start_ms": 19087,
+      "end_ms": 23162,
+      "duration_ms": 4075
+    },
+    {
+      "word": "Has sido un refugio para el débil y has protegido al pobre en su aflicción.",
+      "verse": 4,
+      "start_ms": 23162,
+      "end_ms": 27674,
+      "duration_ms": 4512
+    },
+    {
+      "word": "Tú eres un refugio en la tormenta, una sombra que protege del calor.",
+      "verse": 4,
+      "start_ms": 27675,
+      "end_ms": 32337,
+      "duration_ms": 4662
+    },
+    {
+      "word": "El soplo de los tiranos es como una tormenta de invierno; es como el calor del desierto.",
+      "verse": 4,
+      "start_ms": 32337,
+      "end_ms": 38024,
+      "duration_ms": 5687
+    },
+    {
+      "word": "Tú frenaste el ataque de los enemigos, y así pusiste fin al canto de victoria de los tiranos.",
+      "verse": 5,
+      "start_ms": 38025,
+      "end_ms": 44387,
+      "duration_ms": 6362
+    },
+    {
+      "word": "El Dios todopoderoso prepara en Jerusalén un banquete para todas las naciones.",
+      "verse": 6,
+      "start_ms": 44387,
+      "end_ms": 49499,
+      "duration_ms": 5112
+    },
+    {
+      "word": "Allí hay ricos manjares, comidas deliciosas, y los mejores vinos.",
+      "verse": 6,
+      "start_ms": 49500,
+      "end_ms": 54662,
+      "duration_ms": 5162
+    },
+    {
+      "word": "Dios acabará con la tristeza de las naciones.",
+      "verse": 7,
+      "start_ms": 54662,
+      "end_ms": 58074,
+      "duration_ms": 3412
+    },
+    {
+      "word": "Dios destruirá para siempre el poder de la muerte.",
+      "verse": 8,
+      "start_ms": 58075,
+      "end_ms": 61512,
+      "duration_ms": 3437
+    },
+    {
+      "word": "Dios secará las lágrimas de todos y borrará la vergüenza de su pueblo en toda la tierra.",
+      "verse": 8,
+      "start_ms": 61512,
+      "end_ms": 67012,
+      "duration_ms": 5500
+    },
+    {
+      "word": "Ese día se dirá: «Ahí está nuestro Dios.",
+      "verse": 8,
+      "start_ms": 67012,
+      "end_ms": 70537,
+      "duration_ms": 3525
+    },
+    {
+      "word": "En él confiamos, y nos salvó.",
+      "verse": 8,
+      "start_ms": 70537,
+      "end_ms": 73362,
+      "duration_ms": 2825
+    },
+    {
+      "word": "Gritemos de alegría porque Dios nos ha salvado!",
+      "verse": 8,
+      "start_ms": 73362,
+      "end_ms": 76674,
+      "duration_ms": 3312
+    },
+    {
+      "word": "Dios ha jurado que así será.",
+      "verse": 8,
+      "start_ms": 76675,
+      "end_ms": 79262,
+      "duration_ms": 2587
+    },
+    {
+      "word": "Isaías continuó diciendo: Dios protegerá a Jerusalén, pero Moab será pisoteado como se pisotea la basura.",
+      "verse": 10,
+      "start_ms": 79262,
+      "end_ms": 86662,
+      "duration_ms": 7400
+    },
+    {
+      "word": "Moab intentará surgir de nuevo, pero por más que se esfuerce, Dios aplastará su orgullo.",
+      "verse": 11,
+      "start_ms": 86662,
+      "end_ms": 92662,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Dios hará caer sus altas murallas y las dejará tendidas por el suelo.",
+      "verse": 12,
+      "start_ms": 92662,
+      "end_ms": 97187,
+      "duration_ms": 4525
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "book": "LEV",
+  "chapter": 1,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 12,
+  "word_count": 21,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 51,
+      "text": "Dios llamó a Moisés desde el santuario y le ordenó"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 51,
+      "char_end": 219,
+      "text": "que les diera este mensaje a los israelitas: Cuando alguno de ustedes me presente una ofrenda para quemarla en mi honor, podrá ofrecerme terneros, cabritos o corderos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 219,
+      "char_end": 351,
+      "text": "Si alguien me presenta un ternero como ofrenda, éste deberá ser un macho sin ningún defecto. Lo llevará a la entrada del santuario,"
+    },
+    {
+      "verse": 4,
+      "label": "4-5",
+      "char_start": 351,
+      "char_end": 592,
+      "text": "y allí pondrá su mano sobre la cabeza del ternero, y lo matará. Así, yo recibiré su ofrenda con agrado, y le perdonaré sus pecados. Los sacerdotes me presentarán la sangre del ternero, y luego la derramarán en los cuatro costados del altar."
+    },
+    {
+      "verse": 6,
+      "label": "6-9",
+      "char_start": 592,
+      "char_end": 1005,
+      "text": "El que me presente la ofrenda le quitará el cuero y cortará el animal en pedazos. Por último, lavará con agua los intestinos y las patas del animal, y entregará todo a los sacerdotes. Ellos pondrán leña sobre el altar y le prenderán fuego, y allí quemarán los pedazos del ternero, junto con la cabeza, las patas, los intestinos y la grasa. Se trata de una ofrenda de aroma agradable, que se presenta en mi honor."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1005,
+      "char_end": 1104,
+      "text": "Si alguien me ofrece un cordero o un cabrito, éste deberá ser también un macho sin ningún defecto."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1104,
+      "char_end": 1204,
+      "text": "Lo matará sobre un costado del altar, y los sacerdotes derramarán la sangre en los cuatro costados."
+    },
+    {
+      "verse": 12,
+      "label": "12-13",
+      "char_start": 1204,
+      "char_end": 1545,
+      "text": "Luego, el que me presente la ofrenda cortará el animal en pedazos. Por último, lavará con agua los intestinos y las patas del animal, y entregará todo a los sacerdotes. Ellos quemarán los pedazos en el altar, junto con la cabeza, las patas, los intestinos y la grasa. Se trata de una ofrenda de aroma agradable, que se presenta en mi honor."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1545,
+      "char_end": 1626,
+      "text": "Si alguien me presenta aves como ofrenda, éstas pueden ser palomas o tortolitas."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1626,
+      "char_end": 1769,
+      "text": "El sacerdote pondrá el ave sobre el altar, y allí le arrancará la cabeza y la quemará, dejando que la sangre corra por los costados del altar."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1769,
+      "char_end": 1879,
+      "text": "Luego le sacará el buche y los intestinos, y los arrojará en el costado del altar donde se echan las cenizas."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1879,
+      "char_end": 2130,
+      "text": "Después abrirá en dos el ave, de modo que en cada mitad haya un ala, pero sin separar las dos mitades. Por último, el sacerdote quemará el resto del ave sobre la leña encendida. Se trata de una ofrenda de aroma agradable, que se presenta en mi honor."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios llamó a Moisés desde el santuario y le ordenó que les diera este mensaje a los israelitas: Cuando alguno de ustedes me presente una ofrenda para quemarla en mi honor, podrá ofrecerme terneros, cabritos o corderos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 12487,
+      "duration_ms": 12387
+    },
+    {
+      "word": "Si alguien me presenta un ternero como ofrenda, éste deberá ser un macho sin ningún defecto.",
+      "verse": 3,
+      "start_ms": 12437,
+      "end_ms": 18274,
+      "duration_ms": 5837
+    },
+    {
+      "word": "Lo llevará a la entrada del santuario, y allí pondrá su mano sobre la cabeza del ternero, y lo matará.",
+      "verse": 3,
+      "start_ms": 18275,
+      "end_ms": 24812,
+      "duration_ms": 6537
+    },
+    {
+      "word": "Así, yo recibiré su ofrenda con agrado, y le perdonaré sus pecados.",
+      "verse": 4,
+      "start_ms": 24812,
+      "end_ms": 30012,
+      "duration_ms": 5200
+    },
+    {
+      "word": "Los sacerdotes me presentarán la sangre del ternero, y luego la derramarán en los cuatro costados del altar.",
+      "verse": 4,
+      "start_ms": 30012,
+      "end_ms": 36487,
+      "duration_ms": 6475
+    },
+    {
+      "word": "El que me presente la ofrenda le quitará el cuero y cortará el animal en pedazos.",
+      "verse": 6,
+      "start_ms": 36487,
+      "end_ms": 41549,
+      "duration_ms": 5062
+    },
+    {
+      "word": "Por último, lavará con agua los intestinos y las patas del animal, y entregará todo a los sacerdotes.",
+      "verse": 6,
+      "start_ms": 41550,
+      "end_ms": 48275,
+      "duration_ms": 6725
+    },
+    {
+      "word": "Ellos pondrán leña sobre el altar y le prenderán fuego, y allí quemarán los pedazos del ternero, junto con la cabeza, las patas, los intestinos y la grasa.",
+      "verse": 6,
+      "start_ms": 48275,
+      "end_ms": 57987,
+      "duration_ms": 9712
+    },
+    {
+      "word": "Se trata de una ofrenda de aroma agradable, que se presenta en mi honor.",
+      "verse": 6,
+      "start_ms": 57987,
+      "end_ms": 62812,
+      "duration_ms": 4825
+    },
+    {
+      "word": "Si alguien me ofrece un cordero o un cabrito, éste deberá ser también un macho sin ningún defecto.",
+      "verse": 10,
+      "start_ms": 62812,
+      "end_ms": 69099,
+      "duration_ms": 6287
+    },
+    {
+      "word": "Lo matará sobre un costado del altar, y los sacerdotes derramarán la sangre en los cuatro costados.",
+      "verse": 11,
+      "start_ms": 69100,
+      "end_ms": 75525,
+      "duration_ms": 6425
+    },
+    {
+      "word": "Luego, el que me presente la ofrenda cortará el animal en pedazos.",
+      "verse": 12,
+      "start_ms": 75525,
+      "end_ms": 80237,
+      "duration_ms": 4712
+    },
+    {
+      "word": "Por último, lavará con agua los intestinos y las patas del animal, y entregará todo a los sacerdotes.",
+      "verse": 12,
+      "start_ms": 80237,
+      "end_ms": 86962,
+      "duration_ms": 6725
+    },
+    {
+      "word": "Ellos quemarán los pedazos en el altar, junto con la cabeza, las patas, los intestinos y la grasa.",
+      "verse": 12,
+      "start_ms": 86962,
+      "end_ms": 93549,
+      "duration_ms": 6587
+    },
+    {
+      "word": "Se trata de una ofrenda de aroma agradable, que se presenta en mi honor.",
+      "verse": 12,
+      "start_ms": 93550,
+      "end_ms": 98375,
+      "duration_ms": 4825
+    },
+    {
+      "word": "Si alguien me presenta aves como ofrenda, éstas pueden ser palomas o tortolitas.",
+      "verse": 14,
+      "start_ms": 98375,
+      "end_ms": 103800,
+      "duration_ms": 5425
+    },
+    {
+      "word": "El sacerdote pondrá el ave sobre el altar, y allí le arrancará la cabeza y la quemará, dejando que la sangre corra por los costados del altar.",
+      "verse": 15,
+      "start_ms": 103800,
+      "end_ms": 112375,
+      "duration_ms": 8575
+    },
+    {
+      "word": "Luego le sacará el buche y los intestinos, y los arrojará en el costado del altar donde se echan las cenizas.",
+      "verse": 16,
+      "start_ms": 112375,
+      "end_ms": 119350,
+      "duration_ms": 6975
+    },
+    {
+      "word": "Después abrirá en dos el ave, de modo que en cada mitad haya un ala, pero sin separar las dos mitades.",
+      "verse": 17,
+      "start_ms": 119350,
+      "end_ms": 126350,
+      "duration_ms": 7000
+    },
+    {
+      "word": "Por último, el sacerdote quemará el resto del ave sobre la leña encendida.",
+      "verse": 17,
+      "start_ms": 126350,
+      "end_ms": 131350,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Se trata de una ofrenda de aroma agradable, que se presenta en mi honor.",
+      "verse": 17,
+      "start_ms": 131350,
+      "end_ms": 136175,
+      "duration_ms": 4825
+    }
+  ]
+}

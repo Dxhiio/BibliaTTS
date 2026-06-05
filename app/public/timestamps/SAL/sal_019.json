@@ -1,0 +1,264 @@
+{
+  "book": "SAL",
+  "chapter": 19,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 14,
+  "word_count": 22,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 74,
+      "text": "El cielo azul nos habla de la grandeza de Dios y de todo lo que ha hecho."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 74,
+      "char_end": 118,
+      "text": "Los días y las noches lo comentan entre sí."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 118,
+      "char_end": 176,
+      "text": "Aunque no hablan ni dicen nada, ni se oye un solo sonido,"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 176,
+      "char_end": 295,
+      "text": "sus palabras recorren toda la tierra y llegan hasta el fin del mundo. En el cielo Dios ha puesto una casa para el sol."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 295,
+      "char_end": 397,
+      "text": "Y sale el sol de su casa feliz como un novio; alegre como un atleta, se dispone a recorrer su camino."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 397,
+      "char_end": 483,
+      "text": "Sale por un lado y se oculta por el otro, sin que nada ni nadie se libre de su calor."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 483,
+      "char_end": 604,
+      "text": "La ley de Dios es perfecta, y nos da nueva vida. Sus mandatos son dignos de confianza, pues dan sabiduría a los jóvenes."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 604,
+      "char_end": 704,
+      "text": "Las normas de Dios son rectas y alegran el corazón. Sus mandamientos son puros y nos dan sabiduría."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 704,
+      "char_end": 818,
+      "text": "La palabra de Dios es limpia y siempre se mantiene firme. Sus decisiones son al mismo tiempo verdaderas y justas."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 818,
+      "char_end": 917,
+      "text": "Yo prefiero sus decisiones más que montones de oro, me endulzan la vida más que la miel del panal."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 917,
+      "char_end": 988,
+      "text": "Me sirven de advertencia; el premio es grande si uno cumple con ellas."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 988,
+      "char_end": 1104,
+      "text": "Nadie parece darse cuenta de los errores que comete. ¡Perdóname, Dios mío, los pecados que cometo sin darme cuenta!"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1104,
+      "char_end": 1205,
+      "text": "¡Líbrame del orgullo! ¡No dejes que me domine! ¡Líbrame de la desobediencia para no pecar contra ti!"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1205,
+      "char_end": 1321,
+      "text": "¡Tú eres mi Dios y mi protector! ¡Tú eres quien me defiende! ¡Recibe, pues, con agrado lo que digo y lo que pienso!"
+    }
+  ],
+  "words": [
+    {
+      "word": "El cielo azul nos habla de la grandeza de Dios y de todo lo que ha hecho.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4787,
+      "duration_ms": 4687
+    },
+    {
+      "word": "Los días y las noches lo comentan entre sí.",
+      "verse": 2,
+      "start_ms": 4737,
+      "end_ms": 7987,
+      "duration_ms": 3250
+    },
+    {
+      "word": "Aunque no hablan ni dicen nada, ni se oye un solo sonido, sus palabras recorren toda la tierra y llegan hasta el fin del mundo.",
+      "verse": 3,
+      "start_ms": 7987,
+      "end_ms": 15912,
+      "duration_ms": 7925
+    },
+    {
+      "word": "En el cielo Dios ha puesto una casa para el sol.",
+      "verse": 4,
+      "start_ms": 15912,
+      "end_ms": 19274,
+      "duration_ms": 3362
+    },
+    {
+      "word": "Y sale el sol de su casa feliz como un novio; alegre como un atleta, se dispone a recorrer su camino.",
+      "verse": 5,
+      "start_ms": 19275,
+      "end_ms": 26262,
+      "duration_ms": 6987
+    },
+    {
+      "word": "Sale por un lado y se oculta por el otro, sin que nada ni nadie se libre de su calor.",
+      "verse": 6,
+      "start_ms": 26262,
+      "end_ms": 31899,
+      "duration_ms": 5637
+    },
+    {
+      "word": "La ley de Dios es perfecta, y nos da nueva vida.",
+      "verse": 7,
+      "start_ms": 31900,
+      "end_ms": 35725,
+      "duration_ms": 3825
+    },
+    {
+      "word": "Sus mandatos son dignos de confianza, pues dan sabiduría a los jóvenes.",
+      "verse": 7,
+      "start_ms": 35725,
+      "end_ms": 40862,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Las normas de Dios son rectas y alegran el corazón.",
+      "verse": 8,
+      "start_ms": 40862,
+      "end_ms": 44574,
+      "duration_ms": 3712
+    },
+    {
+      "word": "Sus mandamientos son puros y nos dan sabiduría.",
+      "verse": 8,
+      "start_ms": 44575,
+      "end_ms": 48200,
+      "duration_ms": 3625
+    },
+    {
+      "word": "La palabra de Dios es limpia y siempre se mantiene firme.",
+      "verse": 9,
+      "start_ms": 48200,
+      "end_ms": 52087,
+      "duration_ms": 3887
+    },
+    {
+      "word": "Sus decisiones son al mismo tiempo verdaderas y justas.",
+      "verse": 9,
+      "start_ms": 52087,
+      "end_ms": 56099,
+      "duration_ms": 4012
+    },
+    {
+      "word": "Yo prefiero sus decisiones más que montones de oro, me endulzan la vida más que la miel del panal.",
+      "verse": 10,
+      "start_ms": 56100,
+      "end_ms": 62150,
+      "duration_ms": 6050
+    },
+    {
+      "word": "Me sirven de advertencia; el premio es grande si uno cumple con ellas.",
+      "verse": 11,
+      "start_ms": 62150,
+      "end_ms": 67000,
+      "duration_ms": 4850
+    },
+    {
+      "word": "Nadie parece darse cuenta de los errores que comete.",
+      "verse": 12,
+      "start_ms": 67000,
+      "end_ms": 70587,
+      "duration_ms": 3587
+    },
+    {
+      "word": "Perdóname, Dios mío, los pecados que cometo sin darme cuenta!",
+      "verse": 12,
+      "start_ms": 70587,
+      "end_ms": 75224,
+      "duration_ms": 4637
+    },
+    {
+      "word": "Líbrame del orgullo!",
+      "verse": 13,
+      "start_ms": 75225,
+      "end_ms": 77250,
+      "duration_ms": 2025
+    },
+    {
+      "word": "No dejes que me domine!",
+      "verse": 13,
+      "start_ms": 77250,
+      "end_ms": 79337,
+      "duration_ms": 2087
+    },
+    {
+      "word": "Líbrame de la desobediencia para no pecar contra ti!",
+      "verse": 13,
+      "start_ms": 79337,
+      "end_ms": 82999,
+      "duration_ms": 3662
+    },
+    {
+      "word": "Tú eres mi Dios y mi protector!",
+      "verse": 14,
+      "start_ms": 83000,
+      "end_ms": 85575,
+      "duration_ms": 2575
+    },
+    {
+      "word": "Tú eres quien me defiende!",
+      "verse": 14,
+      "start_ms": 85575,
+      "end_ms": 87712,
+      "duration_ms": 2137
+    },
+    {
+      "word": "Recibe, pues, con agrado lo que digo y lo que pienso!",
+      "verse": 14,
+      "start_ms": 87712,
+      "end_ms": 91787,
+      "duration_ms": 4075
+    }
+  ]
+}

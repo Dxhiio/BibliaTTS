@@ -1,0 +1,383 @@
+{
+  "book": "PRO",
+  "chapter": 27,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 24,
+  "word_count": 29,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 85,
+      "text": "No presumas hoy de lo que piensas hacer mañana; ¡nadie sabe lo que traerá el futuro!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 85,
+      "char_end": 140,
+      "text": "No presumas de ti mismo; deja que te alaben los demás."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 140,
+      "char_end": 228,
+      "text": "Las piedras son pesadas, y la arena también, pero aún más pesado es el enojo del necio."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 228,
+      "char_end": 301,
+      "text": "El enojo es cruel, la ira es destructiva, y la envidia es incontrolable."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 301,
+      "char_end": 351,
+      "text": "Quien de veras te ama te reprenderá abiertamente."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 351,
+      "char_end": 421,
+      "text": "Más te quiere tu amigo cuando te hiere que tu enemigo cuando te besa."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 421,
+      "char_end": 524,
+      "text": "Cuando no se tiene hambre, hasta la miel empalaga; cuando se tiene hambre, hasta lo amargo sabe dulce."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 524,
+      "char_end": 581,
+      "text": "Estar lejos de la patria, es andar como pájaro sin nido."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 581,
+      "char_end": 673,
+      "text": "Con un buen perfume se alegra el corazón; con la dulzura de la amistad se vuelve a la vida."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 673,
+      "char_end": 826,
+      "text": "Nunca les falles a los amigos, sean tuyos o de tu padre. Nunca lleves tus problemas a la casa de tu hermano. Más vale amigo cercano que pariente lejano."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 826,
+      "char_end": 933,
+      "text": "Querido jovencito, hazme feliz actuando con sabiduría, para taparles la boca a los que quieran humillarme."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 933,
+      "char_end": 1042,
+      "text": "Prever el peligro y evitarlo es actuar con inteligencia; hay que ser muy tonto para no preverlo ni evitarlo."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1042,
+      "char_end": 1160,
+      "text": "El que se comprometa a pagar las deudas de un desconocido y se enrede con una mujer infiel perderá todo lo que tenga."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1160,
+      "char_end": 1242,
+      "text": "Hasta el mejor saludo es un insulto grave, si se hace a gritos y en la madrugada."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1242,
+      "char_end": 1309,
+      "text": "Peor que gotera en día lluvioso, es la persona que por todo pelea."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1309,
+      "char_end": 1385,
+      "text": "¡Querer controlarla es querer atajar el viento o retener aceite en la mano!"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1385,
+      "char_end": 1451,
+      "text": "Para afilar el hierro, la lima; para ser mejor persona, el amigo."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1451,
+      "char_end": 1537,
+      "text": "Si quieres buena fruta, cuida del árbol; si quieres buen trato, trata bien a tu jefe."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1537,
+      "char_end": 1602,
+      "text": "El espejo refleja el rostro; y los ojos revelan la personalidad."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1602,
+      "char_end": 1689,
+      "text": "Hay tres cosas que nunca están satisfechas: la tumba, la muerte, y la ambición humana."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1689,
+      "char_end": 1798,
+      "text": "Con el fuego se descubre qué clase de metal tenemos; con los elogios se descubre qué clase de persona somos."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1798,
+      "char_end": 1911,
+      "text": "Si al trigo lo machacas, puedes quitarle la cáscara, pero al necio, aunque lo remuelas, no se le quita lo necio."
+    },
+    {
+      "verse": 23,
+      "label": "23-25",
+      "char_start": 1911,
+      "char_end": 2049,
+      "text": "Las riquezas no son eternas ni el dinero dura para siempre. Las cosechas se acaban, y la hierba se seca. Por eso, cuida bien tus rebaños."
+    },
+    {
+      "verse": 26,
+      "label": "26-27",
+      "char_start": 2049,
+      "char_end": 2243,
+      "text": "Tus ovejas te darán su lana, tus cabras te darán mucha leche, y así podrán alimentarse tú y tu familia y hasta tus empleados. Además podrás vender tus cabras y con el dinero comprar un terreno."
+    }
+  ],
+  "words": [
+    {
+      "word": "No presumas hoy de lo que piensas hacer mañana; ¡nadie sabe lo que traerá el futuro!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5225,
+      "duration_ms": 5125
+    },
+    {
+      "word": "No presumas de ti mismo; deja que te alaben los demás.",
+      "verse": 2,
+      "start_ms": 5175,
+      "end_ms": 9287,
+      "duration_ms": 4112
+    },
+    {
+      "word": "Las piedras son pesadas, y la arena también, pero aún más pesado es el enojo del necio.",
+      "verse": 3,
+      "start_ms": 9287,
+      "end_ms": 15562,
+      "duration_ms": 6275
+    },
+    {
+      "word": "El enojo es cruel, la ira es destructiva, y la envidia es incontrolable.",
+      "verse": 4,
+      "start_ms": 15562,
+      "end_ms": 20699,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Quien de veras te ama te reprenderá abiertamente.",
+      "verse": 5,
+      "start_ms": 20700,
+      "end_ms": 24187,
+      "duration_ms": 3487
+    },
+    {
+      "word": "Más te quiere tu amigo cuando te hiere que tu enemigo cuando te besa.",
+      "verse": 6,
+      "start_ms": 24187,
+      "end_ms": 28299,
+      "duration_ms": 4112
+    },
+    {
+      "word": "Cuando no se tiene hambre, hasta la miel empalaga; cuando se tiene hambre, hasta lo amargo sabe dulce.",
+      "verse": 7,
+      "start_ms": 28300,
+      "end_ms": 34737,
+      "duration_ms": 6437
+    },
+    {
+      "word": "Estar lejos de la patria, es andar como pájaro sin nido.",
+      "verse": 8,
+      "start_ms": 34737,
+      "end_ms": 39062,
+      "duration_ms": 4325
+    },
+    {
+      "word": "Con un buen perfume se alegra el corazón; con la dulzura de la amistad se vuelve a la vida.",
+      "verse": 9,
+      "start_ms": 39062,
+      "end_ms": 44587,
+      "duration_ms": 5525
+    },
+    {
+      "word": "Nunca les falles a los amigos, sean tuyos o de tu padre.",
+      "verse": 10,
+      "start_ms": 44587,
+      "end_ms": 48799,
+      "duration_ms": 4212
+    },
+    {
+      "word": "Nunca lleves tus problemas a la casa de tu hermano.",
+      "verse": 10,
+      "start_ms": 48800,
+      "end_ms": 52300,
+      "duration_ms": 3500
+    },
+    {
+      "word": "Más vale amigo cercano que pariente lejano.",
+      "verse": 10,
+      "start_ms": 52300,
+      "end_ms": 55625,
+      "duration_ms": 3325
+    },
+    {
+      "word": "Querido jovencito, hazme feliz actuando con sabiduría, para taparles la boca a los que quieran humillarme.",
+      "verse": 11,
+      "start_ms": 55625,
+      "end_ms": 62662,
+      "duration_ms": 7037
+    },
+    {
+      "word": "Prever el peligro y evitarlo es actuar con inteligencia; hay que ser muy tonto para no preverlo ni evitarlo.",
+      "verse": 12,
+      "start_ms": 62662,
+      "end_ms": 69374,
+      "duration_ms": 6712
+    },
+    {
+      "word": "El que se comprometa a pagar las deudas de un desconocido y se enrede con una mujer infiel perderá todo lo que tenga.",
+      "verse": 13,
+      "start_ms": 69375,
+      "end_ms": 76187,
+      "duration_ms": 6812
+    },
+    {
+      "word": "Hasta el mejor saludo es un insulto grave, si se hace a gritos y en la madrugada.",
+      "verse": 14,
+      "start_ms": 76187,
+      "end_ms": 81462,
+      "duration_ms": 5275
+    },
+    {
+      "word": "Peor que gotera en día lluvioso, es la persona que por todo pelea.",
+      "verse": 15,
+      "start_ms": 81462,
+      "end_ms": 86112,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Querer controlarla es querer atajar el viento o retener aceite en la mano!",
+      "verse": 16,
+      "start_ms": 86112,
+      "end_ms": 90824,
+      "duration_ms": 4712
+    },
+    {
+      "word": "Para afilar el hierro, la lima; para ser mejor persona, el amigo.",
+      "verse": 17,
+      "start_ms": 90825,
+      "end_ms": 95950,
+      "duration_ms": 5125
+    },
+    {
+      "word": "Si quieres buena fruta, cuida del árbol; si quieres buen trato, trata bien a tu jefe.",
+      "verse": 18,
+      "start_ms": 95950,
+      "end_ms": 101712,
+      "duration_ms": 5762
+    },
+    {
+      "word": "El espejo refleja el rostro; y los ojos revelan la personalidad.",
+      "verse": 19,
+      "start_ms": 101712,
+      "end_ms": 106387,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Hay tres cosas que nunca están satisfechas: la tumba, la muerte, y la ambición humana.",
+      "verse": 20,
+      "start_ms": 106387,
+      "end_ms": 112449,
+      "duration_ms": 6062
+    },
+    {
+      "word": "Con el fuego se descubre qué clase de metal tenemos; con los elogios se descubre qué clase de persona somos.",
+      "verse": 21,
+      "start_ms": 112450,
+      "end_ms": 119325,
+      "duration_ms": 6875
+    },
+    {
+      "word": "Si al trigo lo machacas, puedes quitarle la cáscara, pero al necio, aunque lo remuelas, no se le quita lo necio.",
+      "verse": 22,
+      "start_ms": 119325,
+      "end_ms": 126900,
+      "duration_ms": 7575
+    },
+    {
+      "word": "Las riquezas no son eternas ni el dinero dura para siempre.",
+      "verse": 23,
+      "start_ms": 126900,
+      "end_ms": 130862,
+      "duration_ms": 3962
+    },
+    {
+      "word": "Las cosechas se acaban, y la hierba se seca.",
+      "verse": 23,
+      "start_ms": 130862,
+      "end_ms": 134324,
+      "duration_ms": 3462
+    },
+    {
+      "word": "Por eso, cuida bien tus rebaños.",
+      "verse": 23,
+      "start_ms": 134325,
+      "end_ms": 137450,
+      "duration_ms": 3125
+    },
+    {
+      "word": "Tus ovejas te darán su lana, tus cabras te darán mucha leche, y así podrán alimentarse tú y tu familia y hasta tus empleados.",
+      "verse": 26,
+      "start_ms": 137450,
+      "end_ms": 145525,
+      "duration_ms": 8075
+    },
+    {
+      "word": "Además podrás vender tus cabras y con el dinero comprar un terreno.",
+      "verse": 26,
+      "start_ms": 145525,
+      "end_ms": 149925,
+      "duration_ms": 4400
+    }
+  ]
+}

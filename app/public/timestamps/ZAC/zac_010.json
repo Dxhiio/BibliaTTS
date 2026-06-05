@@ -1,0 +1,236 @@
+{
+  "book": "ZAC",
+  "chapter": 10,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 12,
+  "word_count": 20,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 192,
+      "text": "Dios continuó diciendo: Yo soy el Dios de Israel. Pídanme lluvia en época de sequía y yo haré que llueva en abundancia. Yo soy quien forma las tormentas y quien hace que los campos produzcan."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 192,
+      "char_end": 389,
+      "text": "Pero los ídolos son engañosos; los adivinos sólo dicen mentiras. Engañan a la gente con sus sueños, y escucharlos no da ningún consuelo. ¡Por eso ustedes andan perdidos, como un rebaño sin pastor!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 389,
+      "char_end": 613,
+      "text": "Yo soy el Dios de Israel, y voy a castigar a esos pastores porque estoy muy enojado con ellos. Yo mismo cuidaré de mi pueblo. Judá es ahora un rebaño de ovejas, pero pronto voy a convertirlos en briosos caballos de batalla."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 613,
+      "char_end": 798,
+      "text": "De entre ellos saldrán grandes jefes que brindarán su apoyo a mi pueblo; serán como la estaca de una tienda, como un arco para lanzar flechas, ¡como la piedra principal de un edificio!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 798,
+      "char_end": 954,
+      "text": "Serán como los soldados valientes que luchan en medio del lodo; lucharán contra soldados de a caballo y les ganarán la batalla, porque yo estaré con ellos."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 954,
+      "char_end": 1182,
+      "text": "Yo soy el Dios de Israel, y escucho las oraciones de mi pueblo. Yo fortaleceré a la gente de Judá y salvaré a todos los israelitas; los haré volver a su tierra, y parecerá que nunca los rechacé porque les mostraré mi compasión."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 1182,
+      "char_end": 1358,
+      "text": "Los israelitas se alegrarán como se alegran los soldados cuando han tomado mucho vino; cuando sus hijos vean esto, también se llenarán de alegría por lo que yo haré con ellos."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1358,
+      "char_end": 1513,
+      "text": "Cuando les dé la señal, los llamaré y volveré a reunirlos; y cuando los haya salvado, volverán a ser un pueblo numeroso como lo fueron en tiempos pasados."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1513,
+      "char_end": 1634,
+      "text": "Yo los dispersé entre las naciones, pero aun allí se acordarán de mí, y regresarán a su tierra en compañía de sus hijos."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1634,
+      "char_end": 1792,
+      "text": "Los haré volver de Egipto y Asiria, y los haré vivir en Galaad y en la región del monte Líbano; pero serán muchos cuando vuelvan y no habrá lugar para todos."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1792,
+      "char_end": 1953,
+      "text": "Angustiados, cruzarán el mar, pero yo calmaré sus olas y secaré por completo el río Nilo; ¡yo acabaré con el poder de Egipto, y pondré fin al orgullo de Asiria!"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1953,
+      "char_end": 2068,
+      "text": "Yo fortaleceré a mi pueblo, y en mi nombre avanzarán sin miedo. Yo soy el Dios de Israel, y les juro que así será."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios continuó diciendo: Yo soy el Dios de Israel.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4100,
+      "duration_ms": 4000
+    },
+    {
+      "word": "Pídanme lluvia en época de sequía y yo haré que llueva en abundancia.",
+      "verse": 1,
+      "start_ms": 4050,
+      "end_ms": 8675,
+      "duration_ms": 4625
+    },
+    {
+      "word": "Yo soy quien forma las tormentas y quien hace que los campos produzcan.",
+      "verse": 1,
+      "start_ms": 8675,
+      "end_ms": 13050,
+      "duration_ms": 4375
+    },
+    {
+      "word": "Pero los ídolos son engañosos; los adivinos sólo dicen mentiras.",
+      "verse": 2,
+      "start_ms": 13050,
+      "end_ms": 17937,
+      "duration_ms": 4887
+    },
+    {
+      "word": "Engañan a la gente con sus sueños, y escucharlos no da ningún consuelo.",
+      "verse": 2,
+      "start_ms": 17937,
+      "end_ms": 22974,
+      "duration_ms": 5037
+    },
+    {
+      "word": "Por eso ustedes andan perdidos, como un rebaño sin pastor!",
+      "verse": 2,
+      "start_ms": 22975,
+      "end_ms": 27250,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Yo soy el Dios de Israel, y voy a castigar a esos pastores porque estoy muy enojado con ellos.",
+      "verse": 3,
+      "start_ms": 27250,
+      "end_ms": 33550,
+      "duration_ms": 6300
+    },
+    {
+      "word": "Yo mismo cuidaré de mi pueblo.",
+      "verse": 3,
+      "start_ms": 33550,
+      "end_ms": 36100,
+      "duration_ms": 2550
+    },
+    {
+      "word": "Judá es ahora un rebaño de ovejas, pero pronto voy a convertirlos en briosos caballos de batalla.",
+      "verse": 3,
+      "start_ms": 36100,
+      "end_ms": 42375,
+      "duration_ms": 6275
+    },
+    {
+      "word": "De entre ellos saldrán grandes jefes que brindarán su apoyo a mi pueblo; serán como la estaca de una tienda, como un arco para lanzar flechas, ¡como la piedra principal de un edificio!",
+      "verse": 4,
+      "start_ms": 42375,
+      "end_ms": 53337,
+      "duration_ms": 10962
+    },
+    {
+      "word": "Serán como los soldados valientes que luchan en medio del lodo; lucharán contra soldados de a caballo y les ganarán la batalla, porque yo estaré con ellos.",
+      "verse": 5,
+      "start_ms": 53337,
+      "end_ms": 62449,
+      "duration_ms": 9112
+    },
+    {
+      "word": "Yo soy el Dios de Israel, y escucho las oraciones de mi pueblo.",
+      "verse": 6,
+      "start_ms": 62450,
+      "end_ms": 66937,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Yo fortaleceré a la gente de Judá y salvaré a todos los israelitas; los haré volver a su tierra, y parecerá que nunca los rechacé porque les mostraré mi compasión.",
+      "verse": 6,
+      "start_ms": 66937,
+      "end_ms": 76912,
+      "duration_ms": 9975
+    },
+    {
+      "word": "Los israelitas se alegrarán como se alegran los soldados cuando han tomado mucho vino; cuando sus hijos vean esto, también se llenarán de alegría por lo que yo haré con ellos.",
+      "verse": 7,
+      "start_ms": 76912,
+      "end_ms": 86649,
+      "duration_ms": 9737
+    },
+    {
+      "word": "Cuando les dé la señal, los llamaré y volveré a reunirlos; y cuando los haya salvado, volverán a ser un pueblo numeroso como lo fueron en tiempos pasados.",
+      "verse": 8,
+      "start_ms": 86650,
+      "end_ms": 95975,
+      "duration_ms": 9325
+    },
+    {
+      "word": "Yo los dispersé entre las naciones, pero aun allí se acordarán de mí, y regresarán a su tierra en compañía de sus hijos.",
+      "verse": 9,
+      "start_ms": 95975,
+      "end_ms": 103462,
+      "duration_ms": 7487
+    },
+    {
+      "word": "Los haré volver de Egipto y Asiria, y los haré vivir en Galaad y en la región del monte Líbano; pero serán muchos cuando vuelvan y no habrá lugar para todos.",
+      "verse": 10,
+      "start_ms": 103462,
+      "end_ms": 112512,
+      "duration_ms": 9050
+    },
+    {
+      "word": "Angustiados, cruzarán el mar, pero yo calmaré sus olas y secaré por completo el río Nilo; ¡yo acabaré con el poder de Egipto, y pondré fin al orgullo de Asiria!",
+      "verse": 11,
+      "start_ms": 112512,
+      "end_ms": 123037,
+      "duration_ms": 10525
+    },
+    {
+      "word": "Yo fortaleceré a mi pueblo, y en mi nombre avanzarán sin miedo.",
+      "verse": 12,
+      "start_ms": 123037,
+      "end_ms": 127562,
+      "duration_ms": 4525
+    },
+    {
+      "word": "Yo soy el Dios de Israel, y les juro que así será.",
+      "verse": 12,
+      "start_ms": 127562,
+      "end_ms": 131462,
+      "duration_ms": 3900
+    }
+  ]
+}

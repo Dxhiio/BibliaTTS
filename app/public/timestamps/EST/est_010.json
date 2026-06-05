@@ -1,0 +1,61 @@
+{
+  "book": "EST",
+  "chapter": 10,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 3,
+  "word_count": 4,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 77,
+      "text": "El rey Asuero cobraba impuestos en todo su territorio, y hasta en las islas."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 77,
+      "char_end": 274,
+      "text": "El relato completo de todo lo que este rey hizo con su poder y su fuerza, y del alto puesto de honor que le dio a Mardoqueo, está escrito en el libro de la historia de los reyes de Media y Persia."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 274,
+      "char_end": 538,
+      "text": "Mardoqueo el judío era la autoridad más importante, después del rey Asuero. Todos los judíos lo reconocían como un gran hombre y lo apreciaban mucho, porque él procuraba el bienestar de todos ellos y se encargaba de que todos los de su pueblo vivieran tranquilos."
+    }
+  ],
+  "words": [
+    {
+      "word": "El rey Asuero cobraba impuestos en todo su territorio, y hasta en las islas.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5312,
+      "duration_ms": 5212
+    },
+    {
+      "word": "El relato completo de todo lo que este rey hizo con su poder y su fuerza, y del alto puesto de honor que le dio a Mardoqueo, está escrito en el libro de la historia de los reyes de Media y Persia.",
+      "verse": 2,
+      "start_ms": 5262,
+      "end_ms": 16037,
+      "duration_ms": 10775
+    },
+    {
+      "word": "Mardoqueo el judío era la autoridad más importante, después del rey Asuero.",
+      "verse": 3,
+      "start_ms": 16037,
+      "end_ms": 21262,
+      "duration_ms": 5225
+    },
+    {
+      "word": "Todos los judíos lo reconocían como un gran hombre y lo apreciaban mucho, porque él procuraba el bienestar de todos ellos y se encargaba de que todos los de su pueblo vivieran tranquilos.",
+      "verse": 3,
+      "start_ms": 21262,
+      "end_ms": 31212,
+      "duration_ms": 9950
+    }
+  ]
+}

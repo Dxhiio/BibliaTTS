@@ -1,0 +1,194 @@
+{
+  "book": "SAL",
+  "chapter": 5,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 10,
+  "word_count": 16,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-3",
+      "char_start": 0,
+      "char_end": 210,
+      "text": "Mi rey y mi Dios, escucha con atención mis palabras; toma en cuenta mis súplicas, escucha mi llanto, pues a ti dirijo mi oración. Tan pronto como amanece te presento mis ruegos, y quedo esperando tu respuesta."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 210,
+      "char_end": 296,
+      "text": "A ti, Dios mío, no te agrada la maldad. Por eso los malvados no pueden vivir contigo;"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 296,
+      "char_end": 352,
+      "text": "no soportas a los orgullosos ni amas a los malhechores."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 352,
+      "char_end": 423,
+      "text": "¡Tú destruyes a los mentirosos, y rechazas a los tramposos y asesinos!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 423,
+      "char_end": 521,
+      "text": "Pero a mí me quieres tanto que me dejas entrar en tu templo, y allí me dejas hacer mis oraciones."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 521,
+      "char_end": 638,
+      "text": "Dios mío, ¡enséñame a hacer el bien! ¡Llévame por el buen camino, pues no quiero que mis enemigos triunfen sobre mí!"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 638,
+      "char_end": 742,
+      "text": "Ellos son unos mentirosos y sólo piensan en destruirme. Nunca dicen la verdad, y sólo hablan de muerte."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 742,
+      "char_end": 874,
+      "text": "¡No los perdones, Dios mío! ¡Haz que fracasen sus planes malvados! Ya es mucho lo que han pecado; ¡recházalos por luchar contra ti!"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 874,
+      "char_end": 1018,
+      "text": "Pero que vivan alegres todos los que en ti confían; ¡que siempre canten de alegría bajo tu protección! ¡Que sean felices todos los que te aman!"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1018,
+      "char_end": 1085,
+      "text": "Tú, Dios mío, bendices al que es bueno, y con tu amor lo proteges."
+    }
+  ],
+  "words": [
+    {
+      "word": "Mi rey y mi Dios, escucha con atención mis palabras; toma en cuenta mis súplicas, escucha mi llanto, pues a ti dirijo mi oración.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 8825,
+      "duration_ms": 8725
+    },
+    {
+      "word": "Tan pronto como amanece te presento mis ruegos, y quedo esperando tu respuesta.",
+      "verse": 1,
+      "start_ms": 8775,
+      "end_ms": 13887,
+      "duration_ms": 5112
+    },
+    {
+      "word": "A ti, Dios mío, no te agrada la maldad.",
+      "verse": 4,
+      "start_ms": 13887,
+      "end_ms": 17612,
+      "duration_ms": 3725
+    },
+    {
+      "word": "Por eso los malvados no pueden vivir contigo; no soportas a los orgullosos ni amas a los malhechores.",
+      "verse": 4,
+      "start_ms": 17612,
+      "end_ms": 24162,
+      "duration_ms": 6550
+    },
+    {
+      "word": "Tú destruyes a los mentirosos, y rechazas a los tramposos y asesinos!",
+      "verse": 6,
+      "start_ms": 24162,
+      "end_ms": 29162,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Pero a mí me quieres tanto que me dejas entrar en tu templo, y allí me dejas hacer mis oraciones.",
+      "verse": 7,
+      "start_ms": 29162,
+      "end_ms": 35012,
+      "duration_ms": 5850
+    },
+    {
+      "word": "Dios mío, ¡enséñame a hacer el bien!",
+      "verse": 8,
+      "start_ms": 35012,
+      "end_ms": 38149,
+      "duration_ms": 3137
+    },
+    {
+      "word": "Llévame por el buen camino, pues no quiero que mis enemigos triunfen sobre mí!",
+      "verse": 8,
+      "start_ms": 38150,
+      "end_ms": 42950,
+      "duration_ms": 4800
+    },
+    {
+      "word": "Ellos son unos mentirosos y sólo piensan en destruirme.",
+      "verse": 9,
+      "start_ms": 42950,
+      "end_ms": 46887,
+      "duration_ms": 3937
+    },
+    {
+      "word": "Nunca dicen la verdad, y sólo hablan de muerte.",
+      "verse": 9,
+      "start_ms": 46887,
+      "end_ms": 50587,
+      "duration_ms": 3700
+    },
+    {
+      "word": "No los perdones, Dios mío!",
+      "verse": 10,
+      "start_ms": 50587,
+      "end_ms": 53312,
+      "duration_ms": 2725
+    },
+    {
+      "word": "Haz que fracasen sus planes malvados!",
+      "verse": 10,
+      "start_ms": 53312,
+      "end_ms": 56212,
+      "duration_ms": 2900
+    },
+    {
+      "word": "Ya es mucho lo que han pecado; ¡recházalos por luchar contra ti!",
+      "verse": 10,
+      "start_ms": 56212,
+      "end_ms": 60512,
+      "duration_ms": 4300
+    },
+    {
+      "word": "Pero que vivan alegres todos los que en ti confían; ¡que siempre canten de alegría bajo tu protección!",
+      "verse": 11,
+      "start_ms": 60512,
+      "end_ms": 66474,
+      "duration_ms": 5962
+    },
+    {
+      "word": "Que sean felices todos los que te aman!",
+      "verse": 11,
+      "start_ms": 66475,
+      "end_ms": 69437,
+      "duration_ms": 2962
+    },
+    {
+      "word": "Tú, Dios mío, bendices al que es bueno, y con tu amor lo proteges.",
+      "verse": 12,
+      "start_ms": 69437,
+      "end_ms": 74649,
+      "duration_ms": 5212
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "book": "SAL",
+  "chapter": 9,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 16,
+  "word_count": 28,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-2",
+      "char_start": 0,
+      "char_end": 143,
+      "text": "Dios mío, Dios altísimo, yo quiero alabarte de todo corazón. Quiero expresarte mi alegría; ¡quiero cantarte himnos y hablar de tus maravillas!"
+    },
+    {
+      "verse": 3,
+      "label": "3-4",
+      "char_start": 143,
+      "char_end": 264,
+      "text": "Tú eres un juez justo: juzgaste mi caso y me declaraste inocente. Por ti mis enemigos huyen, tropiezan y son destruidos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 264,
+      "char_end": 367,
+      "text": "Reprendiste a los pueblos que no te adoran; destruiste a esos malvados, ¡y nadie volvió a recordarlos!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 367,
+      "char_end": 487,
+      "text": "Para siempre cayó la desgracia sobre nuestros enemigos; dejaste sin gente sus ciudades, y ya nadie se acuerda de ellos."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 487,
+      "char_end": 577,
+      "text": "Dios mío, tú reinas para siempre, estás sentado en tu trono, y vas a dictar la sentencia."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 577,
+      "char_end": 643,
+      "text": "Juzgarás a los pueblos del mundo con justicia y sin preferencias."
+    },
+    {
+      "verse": 9,
+      "label": "9-10",
+      "char_start": 643,
+      "char_end": 798,
+      "text": "Tú, Dios mío, proteges a los que son maltratados y los libras de la angustia. Los que te conocen confían en ti, pues nunca los abandonas cuando te buscan."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 798,
+      "char_end": 904,
+      "text": "¡Canten himnos a Dios, que es el rey de Jerusalén! ¡Den a conocer entre los pueblos todo lo que ha hecho!"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 904,
+      "char_end": 1017,
+      "text": "Dios sabe que ustedes han sufrido, y les hará justicia; Dios siempre atiende a los pobres cuando le piden ayuda."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1017,
+      "char_end": 1123,
+      "text": "Dios mío, ¡compadécete de mí! ¡Fíjate en los que me odian! ¡Mira cómo me afligen! ¡No dejes que me maten!"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1123,
+      "char_end": 1243,
+      "text": "Tú me salvaste; por eso estoy feliz. Iré a donde todos me oigan, y les diré a los que pasen que también deben alabarte."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1243,
+      "char_end": 1357,
+      "text": "Los pueblos que no te conocen han caído en su propia trampa; han quedado atrapados en la red que ellos tendieron."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1357,
+      "char_end": 1460,
+      "text": "Tú te has dado a conocer como un juez siempre justo; en cambio, los malvados caen en su propia trampa."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1460,
+      "char_end": 1544,
+      "text": "¡Que se mueran los malvados, esas naciones que no te conocen ni te toman en cuenta!"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1544,
+      "char_end": 1626,
+      "text": "Pero tú, Dios mío, nunca te olvides de los pobres ni pongas fin a sus esperanzas."
+    },
+    {
+      "verse": 19,
+      "label": "19-20",
+      "char_start": 1626,
+      "char_end": 1783,
+      "text": "¡Vamos, mi Dios! ¡Llama a cuentas a las naciones! ¡Hazlos que sientan miedo! ¡No permitas que te desafíen! ¡Que sepan esos paganos que no son más que polvo!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios mío, Dios altísimo, yo quiero alabarte de todo corazón.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5100,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Quiero expresarte mi alegría; ¡quiero cantarte himnos y hablar de tus maravillas!",
+      "verse": 1,
+      "start_ms": 5050,
+      "end_ms": 10350,
+      "duration_ms": 5300
+    },
+    {
+      "word": "Tú eres un juez justo: juzgaste mi caso y me declaraste inocente.",
+      "verse": 3,
+      "start_ms": 10350,
+      "end_ms": 15275,
+      "duration_ms": 4925
+    },
+    {
+      "word": "Por ti mis enemigos huyen, tropiezan y son destruidos.",
+      "verse": 3,
+      "start_ms": 15275,
+      "end_ms": 19575,
+      "duration_ms": 4300
+    },
+    {
+      "word": "Reprendiste a los pueblos que no te adoran; destruiste a esos malvados, ¡y nadie volvió a recordarlos!",
+      "verse": 5,
+      "start_ms": 19575,
+      "end_ms": 26300,
+      "duration_ms": 6725
+    },
+    {
+      "word": "Para siempre cayó la desgracia sobre nuestros enemigos; dejaste sin gente sus ciudades, y ya nadie se acuerda de ellos.",
+      "verse": 6,
+      "start_ms": 26300,
+      "end_ms": 34237,
+      "duration_ms": 7937
+    },
+    {
+      "word": "Dios mío, tú reinas para siempre, estás sentado en tu trono, y vas a dictar la sentencia.",
+      "verse": 7,
+      "start_ms": 34237,
+      "end_ms": 40449,
+      "duration_ms": 6212
+    },
+    {
+      "word": "Juzgarás a los pueblos del mundo con justicia y sin preferencias.",
+      "verse": 8,
+      "start_ms": 40450,
+      "end_ms": 44862,
+      "duration_ms": 4412
+    },
+    {
+      "word": "Tú, Dios mío, proteges a los que son maltratados y los libras de la angustia.",
+      "verse": 9,
+      "start_ms": 44862,
+      "end_ms": 50249,
+      "duration_ms": 5387
+    },
+    {
+      "word": "Los que te conocen confían en ti, pues nunca los abandonas cuando te buscan.",
+      "verse": 9,
+      "start_ms": 50250,
+      "end_ms": 55350,
+      "duration_ms": 5100
+    },
+    {
+      "word": "Canten himnos a Dios, que es el rey de Jerusalén!",
+      "verse": 11,
+      "start_ms": 55350,
+      "end_ms": 59150,
+      "duration_ms": 3800
+    },
+    {
+      "word": "Den a conocer entre los pueblos todo lo que ha hecho!",
+      "verse": 11,
+      "start_ms": 59150,
+      "end_ms": 62450,
+      "duration_ms": 3300
+    },
+    {
+      "word": "Dios sabe que ustedes han sufrido, y les hará justicia; Dios siempre atiende a los pobres cuando le piden ayuda.",
+      "verse": 12,
+      "start_ms": 62450,
+      "end_ms": 69337,
+      "duration_ms": 6887
+    },
+    {
+      "word": "Dios mío, ¡compadécete de mí!",
+      "verse": 13,
+      "start_ms": 69337,
+      "end_ms": 72124,
+      "duration_ms": 2787
+    },
+    {
+      "word": "Fíjate en los que me odian!",
+      "verse": 13,
+      "start_ms": 72125,
+      "end_ms": 74400,
+      "duration_ms": 2275
+    },
+    {
+      "word": "Mira cómo me afligen!",
+      "verse": 13,
+      "start_ms": 74400,
+      "end_ms": 76525,
+      "duration_ms": 2125
+    },
+    {
+      "word": "No dejes que me maten!",
+      "verse": 13,
+      "start_ms": 76525,
+      "end_ms": 78625,
+      "duration_ms": 2100
+    },
+    {
+      "word": "Tú me salvaste; por eso estoy feliz.",
+      "verse": 14,
+      "start_ms": 78625,
+      "end_ms": 81800,
+      "duration_ms": 3175
+    },
+    {
+      "word": "Iré a donde todos me oigan, y les diré a los que pasen que también deben alabarte.",
+      "verse": 14,
+      "start_ms": 81800,
+      "end_ms": 87275,
+      "duration_ms": 5475
+    },
+    {
+      "word": "Los pueblos que no te conocen han caído en su propia trampa; han quedado atrapados en la red que ellos tendieron.",
+      "verse": 15,
+      "start_ms": 87275,
+      "end_ms": 93937,
+      "duration_ms": 6662
+    },
+    {
+      "word": "Tú te has dado a conocer como un juez siempre justo; en cambio, los malvados caen en su propia trampa.",
+      "verse": 16,
+      "start_ms": 93937,
+      "end_ms": 100824,
+      "duration_ms": 6887
+    },
+    {
+      "word": "Que se mueran los malvados, esas naciones que no te conocen ni te toman en cuenta!",
+      "verse": 17,
+      "start_ms": 100825,
+      "end_ms": 106037,
+      "duration_ms": 5212
+    },
+    {
+      "word": "Pero tú, Dios mío, nunca te olvides de los pobres ni pongas fin a sus esperanzas.",
+      "verse": 18,
+      "start_ms": 106037,
+      "end_ms": 111724,
+      "duration_ms": 5687
+    },
+    {
+      "word": "Vamos, mi Dios!",
+      "verse": 19,
+      "start_ms": 111725,
+      "end_ms": 113950,
+      "duration_ms": 2225
+    },
+    {
+      "word": "Llama a cuentas a las naciones!",
+      "verse": 19,
+      "start_ms": 113950,
+      "end_ms": 116650,
+      "duration_ms": 2700
+    },
+    {
+      "word": "Hazlos que sientan miedo!",
+      "verse": 19,
+      "start_ms": 116650,
+      "end_ms": 118812,
+      "duration_ms": 2162
+    },
+    {
+      "word": "No permitas que te desafíen!",
+      "verse": 19,
+      "start_ms": 118812,
+      "end_ms": 121262,
+      "duration_ms": 2450
+    },
+    {
+      "word": "Que sepan esos paganos que no son más que polvo!",
+      "verse": 19,
+      "start_ms": 121262,
+      "end_ms": 124599,
+      "duration_ms": 3337
+    }
+  ]
+}

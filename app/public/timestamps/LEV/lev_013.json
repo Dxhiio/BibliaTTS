@@ -1,0 +1,754 @@
+{
+  "book": "LEV",
+  "chapter": 13,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 52,
+  "word_count": 54,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 34,
+      "text": "Dios les dijo a Moisés y a Aarón:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 34,
+      "char_end": 144,
+      "text": "Cuando alguien tenga en la piel hinchazones, manchas o llagas, deberá presentarse ante uno de los sacerdotes."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 144,
+      "char_end": 344,
+      "text": "El sacerdote le revisará la piel, y si el pelo en la llaga se ha puesto blanco y la llaga se ve más hundida que la piel, lo más seguro es que se trate de lepra, y por tanto el enfermo quedará impuro."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 344,
+      "char_end": 486,
+      "text": "Si la mancha es blanca, pero no se ve más hundida que la piel, ni el pelo se ha puesto blanco, entonces el sacerdote pondrá aparte al enfermo"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 486,
+      "char_end": 619,
+      "text": "y a los siete días lo revisará otra vez. Si la llaga sigue igual y no se ha extendido, mantendrá apartado al enfermo siete días más."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 619,
+      "char_end": 863,
+      "text": "Pasados los siete días, lo volverá a revisar, y si la llaga no se extendió sino que desapareció, se trataba sólo de una irritación de la piel. Entonces el sacerdote declarará puro al enfermo, y el enfermo lavará sus ropas y quedará purificado."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 863,
+      "char_end": 1022,
+      "text": "Si después de que el enfermo ha sido revisado y declarado puro, la irritación se extiende por la piel, entonces deberá presentarse de nuevo ante el sacerdote."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1022,
+      "char_end": 1163,
+      "text": "Si después de revisar al enfermo, el sacerdote ve que la piel está toda irritada, entonces deberá declararlo impuro, pues se trata de lepra."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1163,
+      "char_end": 1233,
+      "text": "La persona que tenga llagas en la piel será llevada ante el sacerdote"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1233,
+      "char_end": 1361,
+      "text": "para que la revise. Si la hinchazón de la piel es blanca, y el pelo se ha puesto blanco, y en la hinchazón se ve la carne viva,"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1361,
+      "char_end": 1503,
+      "text": "entonces se trata de un caso grave de lepra. El sacerdote deberá declarar impura a esa persona, y ya no será necesario que la tenga apartada."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1503,
+      "char_end": 1585,
+      "text": "Puede suceder que una mancha se extienda rápidamente hasta cubrir todo el cuerpo."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1585,
+      "char_end": 1766,
+      "text": "El sacerdote revisará al enfermo, y si la mancha le ha cubierto todo el cuerpo, entonces deberá declararlo puro. Ha quedado puro, porque se trata sólo de una enfermedad de la piel."
+    },
+    {
+      "verse": 14,
+      "label": "14-15",
+      "char_start": 1766,
+      "char_end": 1911,
+      "text": "Pero si llega a aparecer la carne viva, el sacerdote la examinará y deberá declararlo impuro, porque la carne viva es impura. Se trata de lepra."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1911,
+      "char_end": 2011,
+      "text": "Si la carne viva vuelve a ponerse blanca, el enfermo deberá presentarse de nuevo ante el sacerdote."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2011,
+      "char_end": 2097,
+      "text": "Si el sacerdote ve que la llaga se ha puesto blanca, deberá declarar puro al enfermo."
+    },
+    {
+      "verse": 18,
+      "label": "18-19",
+      "char_start": 2097,
+      "char_end": 2237,
+      "text": "Si a alguien que tuvo la piel irritada, luego le aparece una hinchazón, o se le pone blanca o rojiza, deberá presentarse ante el sacerdote."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2237,
+      "char_end": 2387,
+      "text": "Si el sacerdote ve que se ha hundido la piel y que el pelo se ha puesto blanco, deberá declarar impura a esa persona, pues se ha contagiado de lepra."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2387,
+      "char_end": 2488,
+      "text": "Si el sacerdote no encuentra nada raro en la piel, mantendrá apartado al enfermo durante siete días."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2488,
+      "char_end": 2573,
+      "text": "Si la mancha en la piel se extiende cada vez más, deberá declarar impuro al enfermo;"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2573,
+      "char_end": 2640,
+      "text": "por el contrario, si la mancha desaparece, deberá declararlo puro."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2640,
+      "char_end": 2723,
+      "text": "Si alguien se quema con fuego, y sobre la quemadura se le forma una mancha rojiza,"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2723,
+      "char_end": 2932,
+      "text": "el sacerdote revisará la mancha. Si en la mancha el pelo se ha puesto blanco y la piel se ha hundido, es porque la quemadura se ha convertido en lepra. Entonces el sacerdote deberá declarar impuro al enfermo."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2932,
+      "char_end": 3033,
+      "text": "Si el sacerdote no encuentra nada raro en la piel, mantendrá apartado al enfermo durante siete días."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3033,
+      "char_end": 3140,
+      "text": "Al séptimo día lo revisará, y si la mancha se ha extendido por la piel, deberá declarar impuro al enfermo."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3140,
+      "char_end": 3284,
+      "text": "Por el contrario, si la mancha no se ha extendido y tiende a desaparecer, lo declarará puro, pues se trata sólo de la cicatriz de la quemadura."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3284,
+      "char_end": 3361,
+      "text": "Si a un hombre o a una mujer les sale una llaga en la cabeza o en el mentón,"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3361,
+      "char_end": 3556,
+      "text": "el sacerdote deberá revisar la llaga. Si la piel se ve hundida y el pelo se ha puesto amarillento y es escaso, el sacerdote deberá declarar impuro al enfermo pues se trata de una clase de lepra."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3556,
+      "char_end": 3686,
+      "text": "Si el sacerdote ve que la piel no se ha hundido, pero el pelo aún no ha sanado, mantendrá apartado al enfermo durante siete días."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3686,
+      "char_end": 3755,
+      "text": "Al séptimo día lo revisará, y si ve que la llaga no se ha extendido,"
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3755,
+      "char_end": 3873,
+      "text": "el enfermo se afeitará, pero dejará sin afeitar la parte afectada. El sacerdote lo mantendrá apartado siete días más,"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3873,
+      "char_end": 3979,
+      "text": "y al séptimo día volverá a revisarlo. Si la llaga no se ha extendido por la piel, deberá declararlo puro."
+    },
+    {
+      "verse": 35,
+      "label": "35-37",
+      "char_start": 3979,
+      "char_end": 4060,
+      "text": "Por el contrario, si ésta vuelve a extenderse, el sacerdote lo declarará impuro."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4060,
+      "char_end": 4130,
+      "text": "Si a un hombre o a una mujer les salen manchas de color blanco opaco,"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4130,
+      "char_end": 4210,
+      "text": "se trata de una simple enfermedad de la piel, y la persona será declarada pura."
+    },
+    {
+      "verse": 40,
+      "label": "40-41",
+      "char_start": 4210,
+      "char_end": 4321,
+      "text": "Si a un hombre se le cae el pelo, se queda calvo, o si pierde el pelo de la frente, no se le declarará impuro."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4321,
+      "char_end": 4441,
+      "text": "Pero si en la parte calva aparece una mancha rojiza y pálida, eso significa que la parte calva se ha cubierto de lepra."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4441,
+      "char_end": 4558,
+      "text": "En tal caso, el sacerdote lo revisará. Si ve que la mancha tiene el mismo aspecto que la lepra que brota en la piel,"
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 4558,
+      "char_end": 4625,
+      "text": "ese hombre está leproso y, por lo tanto, deberá declararlo impuro."
+    },
+    {
+      "verse": 45,
+      "label": "45-46",
+      "char_start": 4625,
+      "char_end": 4883,
+      "text": "Los enfermos de lepra deberán romperse la ropa y andar despeinados, y mientras dure su enfermedad serán considerados gente impura. Vivirán apartados, fuera del campamento. Además, se cubrirán la mitad del rostro e irán gritando: «¡Soy impuro! ¡Soy impuro!»."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 4883,
+      "char_end": 4938,
+      "text": "A veces aparecen manchas en la ropa de lana y de lino,"
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 4938,
+      "char_end": 4965,
+      "text": "y en los objetos de cuero."
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 4965,
+      "char_end": 5031,
+      "text": "Si la mancha es amarillenta o rojiza, se le mostrará al sacerdote"
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 5031,
+      "char_end": 5101,
+      "text": "para que la examine, y el objeto se pondrá aparte durante siete días."
+    },
+    {
+      "verse": 51,
+      "label": "51-52",
+      "char_start": 5101,
+      "char_end": 5268,
+      "text": "Al séptimo día, el sacerdote volverá a examinar la mancha, y si ésta se ha extendido, el objeto es impuro y deberá ser quemado, pues se trata de un hongo destructivo."
+    },
+    {
+      "verse": 53,
+      "label": "53",
+      "char_start": 5268,
+      "char_end": 5301,
+      "text": "Si la mancha no se ha extendido,"
+    },
+    {
+      "verse": 54,
+      "label": "54",
+      "char_start": 5301,
+      "char_end": 5414,
+      "text": "el sacerdote ordenará que se lave el lugar donde apareció la mancha y el objeto se pondrá aparte siete días más."
+    },
+    {
+      "verse": 55,
+      "label": "55",
+      "char_start": 5414,
+      "char_end": 5538,
+      "text": "Una vez lavada la mancha, el sacerdote volverá a examinarla, y si no ha desaparecido, se quemará el objeto, pues es impuro."
+    },
+    {
+      "verse": 56,
+      "label": "56",
+      "char_start": 5538,
+      "char_end": 5651,
+      "text": "Si al lavar la prenda, la mancha pierde su color, el sacerdote deberá cortar el pedazo de tela o cuero manchado."
+    },
+    {
+      "verse": 57,
+      "label": "57",
+      "char_start": 5651,
+      "char_end": 5731,
+      "text": "Si más tarde vuelve a aparecer la mancha en el objeto, éste deberá ser quemado."
+    },
+    {
+      "verse": 58,
+      "label": "58",
+      "char_start": 5731,
+      "char_end": 5823,
+      "text": "Pero si la mancha desaparece por completo, el objeto volverá a lavarse y se declarará puro."
+    },
+    {
+      "verse": 59,
+      "label": "59",
+      "char_start": 5823,
+      "char_end": 5936,
+      "text": "Éstas son las instrucciones en cuanto a los objetos manchados, para saber cuándo son impuros y cuándo no lo son."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios les dijo a Moisés y a Aarón: Cuando alguien tenga en la piel hinchazones, manchas o llagas, deberá presentarse ante uno de los sacerdotes.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 9062,
+      "duration_ms": 8962
+    },
+    {
+      "word": "El sacerdote le revisará la piel, y si el pelo en la llaga se ha puesto blanco y la llaga se ve más hundida que la piel, lo más seguro es que se trate de lepra, y por tanto el enfermo quedará impuro.",
+      "verse": 3,
+      "start_ms": 9012,
+      "end_ms": 20162,
+      "duration_ms": 11150
+    },
+    {
+      "word": "Si la mancha es blanca, pero no se ve más hundida que la piel, ni el pelo se ha puesto blanco, entonces el sacerdote pondrá aparte al enfermo y a los siete días lo revisará otra vez.",
+      "verse": 4,
+      "start_ms": 20162,
+      "end_ms": 31149,
+      "duration_ms": 10987
+    },
+    {
+      "word": "Si la llaga sigue igual y no se ha extendido, mantendrá apartado al enfermo siete días más.",
+      "verse": 5,
+      "start_ms": 31150,
+      "end_ms": 37262,
+      "duration_ms": 6112
+    },
+    {
+      "word": "Pasados los siete días, lo volverá a revisar, y si la llaga no se extendió sino que desapareció, se trataba sólo de una irritación de la piel.",
+      "verse": 6,
+      "start_ms": 37262,
+      "end_ms": 46349,
+      "duration_ms": 9087
+    },
+    {
+      "word": "Entonces el sacerdote declarará puro al enfermo, y el enfermo lavará sus ropas y quedará purificado.",
+      "verse": 6,
+      "start_ms": 46350,
+      "end_ms": 52950,
+      "duration_ms": 6600
+    },
+    {
+      "word": "Si después de que el enfermo ha sido revisado y declarado puro, la irritación se extiende por la piel, entonces deberá presentarse de nuevo ante el sacerdote.",
+      "verse": 7,
+      "start_ms": 52950,
+      "end_ms": 61937,
+      "duration_ms": 8987
+    },
+    {
+      "word": "Si después de revisar al enfermo, el sacerdote ve que la piel está toda irritada, entonces deberá declararlo impuro, pues se trata de lepra.",
+      "verse": 8,
+      "start_ms": 61937,
+      "end_ms": 70662,
+      "duration_ms": 8725
+    },
+    {
+      "word": "La persona que tenga llagas en la piel será llevada ante el sacerdote para que la revise.",
+      "verse": 9,
+      "start_ms": 70662,
+      "end_ms": 75987,
+      "duration_ms": 5325
+    },
+    {
+      "word": "Si la hinchazón de la piel es blanca, y el pelo se ha puesto blanco, y en la hinchazón se ve la carne viva, entonces se trata de un caso grave de lepra.",
+      "verse": 10,
+      "start_ms": 75987,
+      "end_ms": 85049,
+      "duration_ms": 9062
+    },
+    {
+      "word": "El sacerdote deberá declarar impura a esa persona, y ya no será necesario que la tenga apartada.",
+      "verse": 11,
+      "start_ms": 85050,
+      "end_ms": 91450,
+      "duration_ms": 6400
+    },
+    {
+      "word": "Puede suceder que una mancha se extienda rápidamente hasta cubrir todo el cuerpo.",
+      "verse": 12,
+      "start_ms": 91450,
+      "end_ms": 96550,
+      "duration_ms": 5100
+    },
+    {
+      "word": "El sacerdote revisará al enfermo, y si la mancha le ha cubierto todo el cuerpo, entonces deberá declararlo puro.",
+      "verse": 13,
+      "start_ms": 96550,
+      "end_ms": 103800,
+      "duration_ms": 7250
+    },
+    {
+      "word": "Ha quedado puro, porque se trata sólo de una enfermedad de la piel.",
+      "verse": 13,
+      "start_ms": 103800,
+      "end_ms": 108350,
+      "duration_ms": 4550
+    },
+    {
+      "word": "Pero si llega a aparecer la carne viva, el sacerdote la examinará y deberá declararlo impuro, porque la carne viva es impura.",
+      "verse": 14,
+      "start_ms": 108350,
+      "end_ms": 116237,
+      "duration_ms": 7887
+    },
+    {
+      "word": "Se trata de lepra.",
+      "verse": 14,
+      "start_ms": 116237,
+      "end_ms": 118312,
+      "duration_ms": 2075
+    },
+    {
+      "word": "Si la carne viva vuelve a ponerse blanca, el enfermo deberá presentarse de nuevo ante el sacerdote.",
+      "verse": 16,
+      "start_ms": 118312,
+      "end_ms": 124562,
+      "duration_ms": 6250
+    },
+    {
+      "word": "Si el sacerdote ve que la llaga se ha puesto blanca, deberá declarar puro al enfermo.",
+      "verse": 17,
+      "start_ms": 124562,
+      "end_ms": 130224,
+      "duration_ms": 5662
+    },
+    {
+      "word": "Si a alguien que tuvo la piel irritada, luego le aparece una hinchazón, o se le pone blanca o rojiza, deberá presentarse ante el sacerdote.",
+      "verse": 18,
+      "start_ms": 130225,
+      "end_ms": 138975,
+      "duration_ms": 8750
+    },
+    {
+      "word": "Si el sacerdote ve que se ha hundido la piel y que el pelo se ha puesto blanco, deberá declarar impura a esa persona, pues se ha contagiado de lepra.",
+      "verse": 20,
+      "start_ms": 138975,
+      "end_ms": 147700,
+      "duration_ms": 8725
+    },
+    {
+      "word": "Si el sacerdote no encuentra nada raro en la piel, mantendrá apartado al enfermo durante siete días.",
+      "verse": 21,
+      "start_ms": 147700,
+      "end_ms": 154237,
+      "duration_ms": 6537
+    },
+    {
+      "word": "Si la mancha en la piel se extiende cada vez más, deberá declarar impuro al enfermo; por el contrario, si la mancha desaparece, deberá declararlo puro.",
+      "verse": 22,
+      "start_ms": 154237,
+      "end_ms": 163999,
+      "duration_ms": 9762
+    },
+    {
+      "word": "Si alguien se quema con fuego, y sobre la quemadura se le forma una mancha rojiza, el sacerdote revisará la mancha.",
+      "verse": 24,
+      "start_ms": 164000,
+      "end_ms": 171462,
+      "duration_ms": 7462
+    },
+    {
+      "word": "Si en la mancha el pelo se ha puesto blanco y la piel se ha hundido, es porque la quemadura se ha convertido en lepra.",
+      "verse": 25,
+      "start_ms": 171462,
+      "end_ms": 178124,
+      "duration_ms": 6662
+    },
+    {
+      "word": "Entonces el sacerdote deberá declarar impuro al enfermo.",
+      "verse": 25,
+      "start_ms": 178125,
+      "end_ms": 182250,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Si el sacerdote no encuentra nada raro en la piel, mantendrá apartado al enfermo durante siete días.",
+      "verse": 26,
+      "start_ms": 182250,
+      "end_ms": 188787,
+      "duration_ms": 6537
+    },
+    {
+      "word": "Al séptimo día lo revisará, y si la mancha se ha extendido por la piel, deberá declarar impuro al enfermo.",
+      "verse": 27,
+      "start_ms": 188787,
+      "end_ms": 195812,
+      "duration_ms": 7025
+    },
+    {
+      "word": "Por el contrario, si la mancha no se ha extendido y tiende a desaparecer, lo declarará puro, pues se trata sólo de la cicatriz de la quemadura.",
+      "verse": 28,
+      "start_ms": 195812,
+      "end_ms": 204349,
+      "duration_ms": 8537
+    },
+    {
+      "word": "Si a un hombre o a una mujer les sale una llaga en la cabeza o en el mentón, el sacerdote deberá revisar la llaga.",
+      "verse": 29,
+      "start_ms": 204350,
+      "end_ms": 211412,
+      "duration_ms": 7062
+    },
+    {
+      "word": "Si la piel se ve hundida y el pelo se ha puesto amarillento y es escaso, el sacerdote deberá declarar impuro al enfermo pues se trata de una clase de lepra.",
+      "verse": 30,
+      "start_ms": 211412,
+      "end_ms": 220474,
+      "duration_ms": 9062
+    },
+    {
+      "word": "Si el sacerdote ve que la piel no se ha hundido, pero el pelo aún no ha sanado, mantendrá apartado al enfermo durante siete días.",
+      "verse": 31,
+      "start_ms": 220475,
+      "end_ms": 228537,
+      "duration_ms": 8062
+    },
+    {
+      "word": "Al séptimo día lo revisará, y si ve que la llaga no se ha extendido, el enfermo se afeitará, pero dejará sin afeitar la parte afectada.",
+      "verse": 32,
+      "start_ms": 228537,
+      "end_ms": 237212,
+      "duration_ms": 8675
+    },
+    {
+      "word": "El sacerdote lo mantendrá apartado siete días más, y al séptimo día volverá a revisarlo.",
+      "verse": 33,
+      "start_ms": 237212,
+      "end_ms": 243349,
+      "duration_ms": 6137
+    },
+    {
+      "word": "Si la llaga no se ha extendido por la piel, deberá declararlo puro.",
+      "verse": 34,
+      "start_ms": 243350,
+      "end_ms": 248000,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Por el contrario, si ésta vuelve a",
+      "verse": 35,
+      "start_ms": 248000,
+      "end_ms": 251150,
+      "duration_ms": 3150
+    },
+    {
+      "word": "extenderse, el sacerdote lo declarará impuro.",
+      "verse": 35,
+      "start_ms": 251308,
+      "end_ms": 255183,
+      "duration_ms": 3875
+    },
+    {
+      "word": "Si a un hombre o a una mujer les salen manchas de color blanco opaco, se trata de una simple enfermedad de la piel, y la persona será declarada pura.",
+      "verse": 38,
+      "start_ms": 255133,
+      "end_ms": 264058,
+      "duration_ms": 8925
+    },
+    {
+      "word": "Si a un hombre se le cae el pelo, se queda calvo, o si pierde el pelo de la frente, no se le declarará impuro.",
+      "verse": 40,
+      "start_ms": 264058,
+      "end_ms": 271108,
+      "duration_ms": 7050
+    },
+    {
+      "word": "Pero si en la parte calva aparece una mancha rojiza y pálida, eso significa que la parte calva se ha cubierto de lepra.",
+      "verse": 42,
+      "start_ms": 271108,
+      "end_ms": 278545,
+      "duration_ms": 7437
+    },
+    {
+      "word": "En tal caso, el sacerdote lo revisará.",
+      "verse": 43,
+      "start_ms": 278545,
+      "end_ms": 281982,
+      "duration_ms": 3437
+    },
+    {
+      "word": "Si ve que la mancha tiene el mismo aspecto que la lepra que brota en la piel, ese hombre está leproso y, por lo tanto, deberá declararlo impuro.",
+      "verse": 43,
+      "start_ms": 281983,
+      "end_ms": 290645,
+      "duration_ms": 8662
+    },
+    {
+      "word": "Los enfermos de lepra deberán romperse la ropa y andar despeinados, y mientras dure su enfermedad serán considerados gente impura.",
+      "verse": 45,
+      "start_ms": 290645,
+      "end_ms": 298682,
+      "duration_ms": 8037
+    },
+    {
+      "word": "Vivirán apartados, fuera del campamento.",
+      "verse": 45,
+      "start_ms": 298683,
+      "end_ms": 302158,
+      "duration_ms": 3475
+    },
+    {
+      "word": "Además, se cubrirán la mitad del rostro e irán gritando: «¡Soy impuro!",
+      "verse": 45,
+      "start_ms": 302158,
+      "end_ms": 307433,
+      "duration_ms": 5275
+    },
+    {
+      "word": "Soy impuro!",
+      "verse": 45,
+      "start_ms": 307433,
+      "end_ms": 309158,
+      "duration_ms": 1725
+    },
+    {
+      "word": "A veces aparecen manchas en la ropa de lana y de lino, y en los objetos de cuero.",
+      "verse": 47,
+      "start_ms": 309158,
+      "end_ms": 314395,
+      "duration_ms": 5237
+    },
+    {
+      "word": "Si la mancha es amarillenta o rojiza, se le mostrará al sacerdote para que la examine, y el objeto se pondrá aparte durante siete días.",
+      "verse": 49,
+      "start_ms": 314395,
+      "end_ms": 322957,
+      "duration_ms": 8562
+    },
+    {
+      "word": "Al séptimo día, el sacerdote volverá a examinar la mancha, y si ésta se ha extendido, el objeto es impuro y deberá ser quemado, pues se trata de un hongo destructivo.",
+      "verse": 51,
+      "start_ms": 322958,
+      "end_ms": 333520,
+      "duration_ms": 10562
+    },
+    {
+      "word": "Si la mancha no se ha extendido, el sacerdote ordenará que se lave el lugar donde apareció la mancha y el objeto se pondrá aparte siete días más.",
+      "verse": 53,
+      "start_ms": 333520,
+      "end_ms": 342207,
+      "duration_ms": 8687
+    },
+    {
+      "word": "Una vez lavada la mancha, el sacerdote volverá a examinarla, y si no ha desaparecido, se quemará el objeto, pues es impuro.",
+      "verse": 55,
+      "start_ms": 342208,
+      "end_ms": 350620,
+      "duration_ms": 8412
+    },
+    {
+      "word": "Si al lavar la prenda, la mancha pierde su color, el sacerdote deberá cortar el pedazo de tela o cuero manchado.",
+      "verse": 56,
+      "start_ms": 350620,
+      "end_ms": 357870,
+      "duration_ms": 7250
+    },
+    {
+      "word": "Si más tarde vuelve a aparecer la mancha en el objeto, éste deberá ser quemado.",
+      "verse": 57,
+      "start_ms": 357870,
+      "end_ms": 363057,
+      "duration_ms": 5187
+    },
+    {
+      "word": "Pero si la mancha desaparece por completo, el objeto volverá a lavarse y se declarará puro.",
+      "verse": 58,
+      "start_ms": 363058,
+      "end_ms": 368933,
+      "duration_ms": 5875
+    },
+    {
+      "word": "Éstas son las instrucciones en cuanto a los objetos manchados, para saber cuándo son impuros y cuándo no lo son.",
+      "verse": 59,
+      "start_ms": 368933,
+      "end_ms": 375570,
+      "duration_ms": 6637
+    }
+  ]
+}

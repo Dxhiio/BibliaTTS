@@ -1,0 +1,152 @@
+{
+  "book": "JER",
+  "chapter": 47,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 7,
+  "word_count": 13,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 118,
+      "text": "Dios me habló poco antes de que el rey de Egipto atacara la ciudad de Gaza, y me dio este mensaje para los filisteos:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 118,
+      "char_end": 360,
+      "text": "Yo soy el Dios de Israel, y quiero que sepan esto: Desde el norte vienen los babilonios; son un ejército que destruye ciudades enteras con sus habitantes. ¡Parecen un río desbordado! ¡Todos los habitantes de la tierra lloran y piden auxilio!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 360,
+      "char_end": 511,
+      "text": "Tan pronto como escuchan el galope de los caballos los padres pierden el ánimo; abandonan a sus hijos al escuchar el chirrido de los carros de guerra."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 511,
+      "char_end": 719,
+      "text": "¡Ha llegado el día en que acabaré con los filisteos! ¡Ha llegado el día en que acabaré con los que ayudan a las ciudades de Tiro y Sidón! ¡Destruiré a todos los filisteos que vinieron de las costas de Creta!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 719,
+      "char_end": 928,
+      "text": "Los que viven en la ciudad de Gaza se raparán avergonzados la cabeza; los que viven en la ciudad de Ascalón se quedarán mudos de miedo. Y ustedes que aún viven en las llanuras, no dejarán de herirse el cuerpo"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 928,
+      "char_end": 1062,
+      "text": "ni cesarán de gritar: «Ay, terrible espada de Dios, ¿hasta cuándo nos seguirás atacando? ¡Regresa ya a tu funda y deja de matarnos!»."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 1062,
+      "char_end": 1197,
+      "text": "Pero yo soy el Dios de Israel. Ya he decidido matar a todos los filisteos en Ascalón y en toda la costa. ¡No haré descansar mi espada!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios me habló poco antes de que el rey de Egipto atacara la ciudad de Gaza, y me dio este mensaje para los filisteos: Yo soy el Dios de Israel, y quiero que sepan esto: Desde el norte vienen los babilonios; son un ejército que destruye ciudades enteras con sus habitantes.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 16137,
+      "duration_ms": 16037
+    },
+    {
+      "word": "Parecen un río desbordado!",
+      "verse": 2,
+      "start_ms": 16137,
+      "end_ms": 18574,
+      "duration_ms": 2437
+    },
+    {
+      "word": "Todos los habitantes de la tierra lloran y piden auxilio!",
+      "verse": 2,
+      "start_ms": 18575,
+      "end_ms": 22375,
+      "duration_ms": 3800
+    },
+    {
+      "word": "Tan pronto como escuchan el galope de los caballos los padres pierden el ánimo; abandonan a sus hijos al escuchar el chirrido de los carros de guerra.",
+      "verse": 3,
+      "start_ms": 22375,
+      "end_ms": 30787,
+      "duration_ms": 8412
+    },
+    {
+      "word": "Ha llegado el día en que acabaré con los filisteos!",
+      "verse": 4,
+      "start_ms": 30787,
+      "end_ms": 34287,
+      "duration_ms": 3500
+    },
+    {
+      "word": "Ha llegado el día en que acabaré con los que ayudan a las ciudades de Tiro y Sidón!",
+      "verse": 4,
+      "start_ms": 34287,
+      "end_ms": 38974,
+      "duration_ms": 4687
+    },
+    {
+      "word": "Destruiré a todos los filisteos que vinieron de las costas de Creta!",
+      "verse": 4,
+      "start_ms": 38975,
+      "end_ms": 43400,
+      "duration_ms": 4425
+    },
+    {
+      "word": "Los que viven en la ciudad de Gaza se raparán avergonzados la cabeza; los que viven en la ciudad de Ascalón se quedarán mudos de miedo.",
+      "verse": 5,
+      "start_ms": 43400,
+      "end_ms": 50875,
+      "duration_ms": 7475
+    },
+    {
+      "word": "Y ustedes que aún viven en las llanuras, no dejarán de herirse el cuerpo ni cesarán de gritar: «Ay, terrible espada de Dios, ¿hasta cuándo nos seguirás atacando?",
+      "verse": 5,
+      "start_ms": 50875,
+      "end_ms": 60450,
+      "duration_ms": 9575
+    },
+    {
+      "word": "Regresa ya a tu funda y deja de matarnos!",
+      "verse": 6,
+      "start_ms": 60450,
+      "end_ms": 63712,
+      "duration_ms": 3262
+    },
+    {
+      "word": "Pero yo soy el Dios de Israel.",
+      "verse": 7,
+      "start_ms": 63712,
+      "end_ms": 66337,
+      "duration_ms": 2625
+    },
+    {
+      "word": "Ya he decidido matar a todos los filisteos en Ascalón y en toda la costa.",
+      "verse": 7,
+      "start_ms": 66337,
+      "end_ms": 71412,
+      "duration_ms": 5075
+    },
+    {
+      "word": "No haré descansar mi espada!",
+      "verse": 7,
+      "start_ms": 71412,
+      "end_ms": 73824,
+      "duration_ms": 2412
+    }
+  ]
+}

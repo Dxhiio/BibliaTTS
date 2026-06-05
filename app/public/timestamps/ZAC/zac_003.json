@@ -1,0 +1,180 @@
+{
+  "book": "ZAC",
+  "chapter": 3,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 6,
+  "word_count": 18,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-3",
+      "char_start": 0,
+      "char_end": 437,
+      "text": "En otro sueño vi a Josué, parado frente al ángel de Dios. Josué era el jefe de los sacerdotes, y había pecado; por eso en el sueño su ropa sacerdotal no estaba limpia. El ángel acusador estaba a la derecha de Josué, dispuesto a acusarlo ante Dios, pero el ángel de Dios le dijo: Ángel acusador, si Dios debe castigar a alguien, es a ti. Así como Dios ha elegido a la ciudad de Jerusalén, también a este hombre lo ha librado del castigo."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 437,
+      "char_end": 656,
+      "text": "Enseguida, el ángel de Dios habló con sus ayudantes y les ordenó que le quitaran a Josué las ropas sucias. A Josué le dijo: Toma en cuenta que ya he perdonado tus pecados. Por eso ahora te voy a vestir con ropa limpia."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 656,
+      "char_end": 821,
+      "text": "Mientras el ángel de Dios seguía allí de pie, él le ordenó a los ayudantes que también le pusieran a Josué un turbante limpio en la cabeza, y ellos lo hicieron así."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 821,
+      "char_end": 882,
+      "text": "Cuando terminaron de vestirlo, el ángel de Dios le advirtió:"
+    },
+    {
+      "verse": 7,
+      "label": "7-8",
+      "char_start": 882,
+      "char_end": 1269,
+      "text": "Así dice el Dios todopoderoso: «Yo te elegí como jefe de los sacerdotes. Si obedeces mis mandamientos y eres un buen sacerdote, te pondré a cargo de mi templo. Te daré además un puesto de honor entre mis más cercanos servidores. Y ustedes, el resto de los sacerdotes, también pongan atención, pues ustedes son una buena señal: Yo haré que vuelva a reinar en Israel mi servidor escogido."
+    },
+    {
+      "verse": 9,
+      "label": "9-10",
+      "char_start": 1269,
+      "char_end": 1636,
+      "text": "¡Fíjate bien, Josué! Delante de ti he puesto una piedra. Es una piedra de siete costados. Voy a grabar algo en esa piedra, y en un solo día borraré los pecados de toda la tierra. Cuando llegue ese día, se invitarán unos a otros a sentarse bajo los árboles, y podrán disfrutar tranquilos de sus uvas y de sus higos. Yo soy el Dios de Israel, y les juro que así será»."
+    }
+  ],
+  "words": [
+    {
+      "word": "En otro sueño vi a Josué, parado frente al ángel de Dios.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4500,
+      "duration_ms": 4400
+    },
+    {
+      "word": "Josué era el jefe de los sacerdotes, y había pecado; por eso en el sueño su ropa sacerdotal no estaba limpia.",
+      "verse": 1,
+      "start_ms": 4450,
+      "end_ms": 11875,
+      "duration_ms": 7425
+    },
+    {
+      "word": "El ángel acusador estaba a la derecha de Josué, dispuesto a acusarlo ante Dios, pero el ángel de Dios le dijo: Ángel acusador, si Dios debe castigar a alguien, es a ti.",
+      "verse": 1,
+      "start_ms": 11875,
+      "end_ms": 22962,
+      "duration_ms": 11087
+    },
+    {
+      "word": "Así como Dios ha elegido a la ciudad de Jerusalén, también a este hombre lo ha librado del castigo.",
+      "verse": 1,
+      "start_ms": 22962,
+      "end_ms": 29324,
+      "duration_ms": 6362
+    },
+    {
+      "word": "Enseguida, el ángel de Dios habló con sus ayudantes y les ordenó que le quitaran a Josué las ropas sucias.",
+      "verse": 4,
+      "start_ms": 29325,
+      "end_ms": 36000,
+      "duration_ms": 6675
+    },
+    {
+      "word": "A Josué le dijo: Toma en cuenta que ya he perdonado tus pecados.",
+      "verse": 4,
+      "start_ms": 36000,
+      "end_ms": 40787,
+      "duration_ms": 4787
+    },
+    {
+      "word": "Por eso ahora te voy a vestir con ropa limpia.",
+      "verse": 4,
+      "start_ms": 40787,
+      "end_ms": 44174,
+      "duration_ms": 3387
+    },
+    {
+      "word": "Mientras el ángel de Dios seguía allí de pie, él le ordenó a los ayudantes que también le pusieran a Josué un turbante limpio en la cabeza, y ellos lo hicieron así.",
+      "verse": 5,
+      "start_ms": 44175,
+      "end_ms": 53150,
+      "duration_ms": 8975
+    },
+    {
+      "word": "Cuando terminaron de vestirlo, el ángel de Dios le advirtió: Así dice el Dios todopoderoso: «Yo te elegí como jefe de los sacerdotes.",
+      "verse": 6,
+      "start_ms": 53150,
+      "end_ms": 62050,
+      "duration_ms": 8900
+    },
+    {
+      "word": "Si obedeces mis mandamientos y eres un buen sacerdote, te pondré a cargo de mi templo.",
+      "verse": 7,
+      "start_ms": 62050,
+      "end_ms": 67800,
+      "duration_ms": 5750
+    },
+    {
+      "word": "Te daré además un puesto de honor entre mis más cercanos servidores.",
+      "verse": 7,
+      "start_ms": 67800,
+      "end_ms": 72287,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Y ustedes, el resto de los sacerdotes, también pongan atención, pues ustedes son una buena señal: Yo haré que vuelva a reinar en Israel mi servidor escogido.",
+      "verse": 7,
+      "start_ms": 72287,
+      "end_ms": 82424,
+      "duration_ms": 10137
+    },
+    {
+      "word": "Fíjate bien, Josué!",
+      "verse": 9,
+      "start_ms": 82425,
+      "end_ms": 84775,
+      "duration_ms": 2350
+    },
+    {
+      "word": "Delante de ti he puesto una piedra.",
+      "verse": 9,
+      "start_ms": 84775,
+      "end_ms": 87687,
+      "duration_ms": 2912
+    },
+    {
+      "word": "Es una piedra de siete costados.",
+      "verse": 9,
+      "start_ms": 87687,
+      "end_ms": 90549,
+      "duration_ms": 2862
+    },
+    {
+      "word": "Voy a grabar algo en esa piedra, y en un solo día borraré los pecados de toda la tierra.",
+      "verse": 9,
+      "start_ms": 90550,
+      "end_ms": 96400,
+      "duration_ms": 5850
+    },
+    {
+      "word": "Cuando llegue ese día, se invitarán unos a otros a sentarse bajo los árboles, y podrán disfrutar tranquilos de sus uvas y de sus higos.",
+      "verse": 9,
+      "start_ms": 96400,
+      "end_ms": 104925,
+      "duration_ms": 8525
+    },
+    {
+      "word": "Yo soy el Dios de Israel, y les juro que así será».",
+      "verse": 9,
+      "start_ms": 104925,
+      "end_ms": 108825,
+      "duration_ms": 3900
+    }
+  ]
+}

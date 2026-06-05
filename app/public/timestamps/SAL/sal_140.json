@@ -1,0 +1,215 @@
+{
+  "book": "SAL",
+  "chapter": 140,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 13,
+  "word_count": 16,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 73,
+      "text": "Dios mío, ¡líbrame de la gente malvada! ¡Protégeme de la gente violenta,"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 73,
+      "char_end": 134,
+      "text": "que sólo piensa hacer lo malo y todo el tiempo busca pleito!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 134,
+      "char_end": 216,
+      "text": "Más que gente, parecen víboras; hablan, y sus palabras son venenosas e hirientes."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 216,
+      "char_end": 316,
+      "text": "Dios mío, protégeme de esos malvados; protégeme de esos violentos, que sólo quieren verme fracasar."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 316,
+      "char_end": 396,
+      "text": "Son gente muy orgullosa. A mi paso pusieron trampas para hacerme caer en ellas."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 396,
+      "char_end": 469,
+      "text": "Pero yo te reconozco como mi único Dios; ¡por favor, escucha mis ruegos!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 469,
+      "char_end": 559,
+      "text": "Tú eres mi Dios; eres mi poderoso Salvador; tú me salvas la vida en el día de la batalla."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 559,
+      "char_end": 658,
+      "text": "Dios mío, no permitas que los malvados se salgan con la suya; no permitas que triunfen sus planes."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 658,
+      "char_end": 714,
+      "text": "¡Haz caer sobre mis enemigos todo el mal que me desean!"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 714,
+      "char_end": 818,
+      "text": "¡Que caigan sobre ellos carbones encendidos! ¡Que caigan en pozos profundos y nunca más salgan de allí!"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 818,
+      "char_end": 926,
+      "text": "¡Que la gente mentirosa no vuelva a vivir en la tierra! ¡Que acabe la calamidad con toda la gente violenta!"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 926,
+      "char_end": 1021,
+      "text": "Dios mío, de una cosa estoy seguro: ¡tú defiendes y haces justicia a los pobres y necesitados!"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1021,
+      "char_end": 1071,
+      "text": "Por eso la gente honrada te alaba y vive contigo."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios mío, ¡líbrame de la gente malvada!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3412,
+      "duration_ms": 3312
+    },
+    {
+      "word": "Protégeme de la gente violenta, que sólo piensa hacer lo malo y todo el tiempo busca pleito!",
+      "verse": 1,
+      "start_ms": 3362,
+      "end_ms": 9187,
+      "duration_ms": 5825
+    },
+    {
+      "word": "Más que gente, parecen víboras; hablan, y sus palabras son venenosas e hirientes.",
+      "verse": 3,
+      "start_ms": 9187,
+      "end_ms": 15524,
+      "duration_ms": 6337
+    },
+    {
+      "word": "Dios mío, protégeme de esos malvados; protégeme de esos violentos, que sólo quieren verme fracasar.",
+      "verse": 4,
+      "start_ms": 15525,
+      "end_ms": 22950,
+      "duration_ms": 7425
+    },
+    {
+      "word": "Son gente muy orgullosa.",
+      "verse": 5,
+      "start_ms": 22950,
+      "end_ms": 25450,
+      "duration_ms": 2500
+    },
+    {
+      "word": "A mi paso pusieron trampas para hacerme caer en ellas.",
+      "verse": 5,
+      "start_ms": 25450,
+      "end_ms": 29225,
+      "duration_ms": 3775
+    },
+    {
+      "word": "Pero yo te reconozco como mi único Dios; ¡por favor, escucha mis ruegos!",
+      "verse": 6,
+      "start_ms": 29225,
+      "end_ms": 34437,
+      "duration_ms": 5212
+    },
+    {
+      "word": "Tú eres mi Dios; eres mi poderoso Salvador; tú me salvas la vida en el día de la batalla.",
+      "verse": 7,
+      "start_ms": 34437,
+      "end_ms": 40724,
+      "duration_ms": 6287
+    },
+    {
+      "word": "Dios mío, no permitas que los malvados se salgan con la suya; no permitas que triunfen sus planes.",
+      "verse": 8,
+      "start_ms": 40725,
+      "end_ms": 47237,
+      "duration_ms": 6512
+    },
+    {
+      "word": "Haz caer sobre mis enemigos todo el mal que me desean!",
+      "verse": 9,
+      "start_ms": 47237,
+      "end_ms": 50937,
+      "duration_ms": 3700
+    },
+    {
+      "word": "Que caigan sobre ellos carbones encendidos!",
+      "verse": 10,
+      "start_ms": 50937,
+      "end_ms": 54187,
+      "duration_ms": 3250
+    },
+    {
+      "word": "Que caigan en pozos profundos y nunca más salgan de allí!",
+      "verse": 10,
+      "start_ms": 54187,
+      "end_ms": 58112,
+      "duration_ms": 3925
+    },
+    {
+      "word": "Que la gente mentirosa no vuelva a vivir en la tierra!",
+      "verse": 11,
+      "start_ms": 58112,
+      "end_ms": 61574,
+      "duration_ms": 3462
+    },
+    {
+      "word": "Que acabe la calamidad con toda la gente violenta!",
+      "verse": 11,
+      "start_ms": 61575,
+      "end_ms": 65200,
+      "duration_ms": 3625
+    },
+    {
+      "word": "Dios mío, de una cosa estoy seguro: ¡tú defiendes y haces justicia a los pobres y necesitados!",
+      "verse": 12,
+      "start_ms": 65200,
+      "end_ms": 71712,
+      "duration_ms": 6512
+    },
+    {
+      "word": "Por eso la gente honrada te alaba y vive contigo.",
+      "verse": 13,
+      "start_ms": 71712,
+      "end_ms": 75249,
+      "duration_ms": 3537
+    }
+  ]
+}

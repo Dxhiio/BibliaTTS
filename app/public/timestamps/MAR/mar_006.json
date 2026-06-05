@@ -1,0 +1,964 @@
+{
+  "book": "MAR",
+  "chapter": 6,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 53,
+  "word_count": 83,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 91,
+      "text": "De allí Jesús se fue a Nazaret, que era su propio pueblo, y sus discípulos lo acompañaron."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 91,
+      "char_end": 358,
+      "text": "Cuando llegó el sábado, Jesús empezó a enseñar en la sinagoga. Los que estaban presentes lo escucharon y se preguntaron admirados: —¿Dónde aprendió éste tantas cosas? ¿De dónde ha sacado tantos conocimientos? ¿De dónde saca el poder para hacer los milagros que hace?"
+    },
+    {
+      "verse": 3,
+      "label": "3-4",
+      "char_start": 358,
+      "char_end": 708,
+      "text": "¿Acaso no es éste el carpintero, el hijo de María y hermano de Santiago, José, Judas y Simón? ¿Y no es verdad que sus hermanas viven en este mismo pueblo? Y se quedaron confundidos y contrariados. Por eso, Jesús les dijo: —Al profeta se le reconoce y se le acepta en todas partes, menos en su propio pueblo, en su propia familia y en su propia casa."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 708,
+      "char_end": 820,
+      "text": "Y poniendo las manos sobre los enfermos, Jesús sanó a algunos de ellos; pero no pudo hacer ningún otro milagro,"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 820,
+      "char_end": 884,
+      "text": "pues se sorprendió mucho de que aquella gente no creyera en él."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 884,
+      "char_end": 1002,
+      "text": "Reunió a los doce apóstoles y los envió de dos en dos. Les dio poder para expulsar de la gente a los espíritus malos,"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1002,
+      "char_end": 1099,
+      "text": "y también les ordenó: Lleven un bastón para el camino, pero no lleven comida ni bolsa ni dinero."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1099,
+      "char_end": 1147,
+      "text": "Pónganse sandalias, pero no lleven ropa de más."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1147,
+      "char_end": 1233,
+      "text": "Cuando entren en un pueblo, quédense en una sola casa hasta que salgan de ese pueblo."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1233,
+      "char_end": 1382,
+      "text": "Si en algún lugar no quieren recibirlos ni escucharlos, váyanse de allí y sacúdanse el polvo de los pies. Eso le servirá de advertencia a esa gente."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1382,
+      "char_end": 1491,
+      "text": "Los discípulos partieron de allí y comenzaron a decirle a la gente que dejara de pecar y se volviera a Dios."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1491,
+      "char_end": 1583,
+      "text": "También expulsaron muchos demonios y sanaron a muchos enfermos frotándoles aceite de oliva."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1583,
+      "char_end": 1754,
+      "text": "Jesús era tan conocido que hasta el rey Herodes Antipas oyó hablar de él. Algunos decían que Jesús era Juan el Bautista, que había vuelto a vivir y hacía muchos milagros."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1754,
+      "char_end": 1856,
+      "text": "Otros decían que era el profeta Elías, o alguno de los profetas que habían vivido hacía mucho tiempo."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1856,
+      "char_end": 2027,
+      "text": "Cuando el rey Herodes oyó hablar de Jesús, estaba seguro de que se trataba de Juan, y decía: Jesús es Juan. Yo mismo ordené que le cortaran la cabeza, pero ha resucitado."
+    },
+    {
+      "verse": 17,
+      "label": "17-19",
+      "char_start": 2027,
+      "char_end": 2365,
+      "text": "Resulta que Herodes Antipas se había casado con Herodías, la esposa de su hermano Filipo, y Juan lo había reprendido, diciéndole: No te está permitido tener a la esposa de tu hermano. Esto enfureció a Herodías, la cual decidió hacer todo lo posible para matar a Juan. Pero Herodes sólo mandó que lo arrestaran y lo metieran en la cárcel."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2365,
+      "char_end": 2547,
+      "text": "Herodes le tenía miedo a Juan y lo protegía, porque sabía que Juan era un hombre justo y santo. Y aunque Herodes no sabía qué hacer cuando lo oía hablar, lo escuchaba de buena gana."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2547,
+      "char_end": 2776,
+      "text": "El día de su cumpleaños, el rey Herodes Antipas organizó una gran fiesta. Invitó a los jefes, a los comandantes y a la gente más importante de la región de Galilea. Herodías vio que ésa era su gran oportunidad para matar a Juan."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2776,
+      "char_end": 3001,
+      "text": "Mientras cenaban, la hija de Herodías entró al salón y bailó delante de todos. Tanto le gustó el baile al rey Herodes y a todos los que estaban allí, que el rey le dijo a la muchacha: —Pídeme lo que quieras, y yo te lo daré."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3001,
+      "char_end": 3063,
+      "text": "Aun si me pides la mitad de mi reino, te juro que te lo daré."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3063,
+      "char_end": 3226,
+      "text": "La muchacha salió del salón, fue a donde estaba Herodías, su madre, y le preguntó: —¿Qué podría pedir? Herodías le respondió: —Pide la cabeza de Juan el Bautista."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3226,
+      "char_end": 3354,
+      "text": "La muchacha entró de prisa al salón y le dijo al rey: —Quiero que ahora mismo me des en un plato la cabeza de Juan el Bautista."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3354,
+      "char_end": 3483,
+      "text": "El rey se puso muy triste, pero no quiso negarle a la muchacha lo que pedía, porque se lo había jurado delante de sus invitados."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3483,
+      "char_end": 3601,
+      "text": "Enseguida ordenó a un soldado que le trajera la cabeza de Juan. El soldado fue a la cárcel, le cortó a Juan la cabeza"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3601,
+      "char_end": 3682,
+      "text": "y se la llevó en un plato a la muchacha. Después, ella se la entregó a su madre."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3682,
+      "char_end": 3779,
+      "text": "Cuando los discípulos de Juan supieron esto, fueron a recoger el cuerpo de Juan y lo enterraron."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3779,
+      "char_end": 3876,
+      "text": "Los apóstoles volvieron a reunirse con Jesús, y le contaron todo lo que habían hecho y enseñado."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3876,
+      "char_end": 4033,
+      "text": "Pero eran tantos los que iban y venían, que ni tiempo tenían para comer. Entonces Jesús les dijo: Vengan, vamos a un lugar tranquilo para descansar a solas."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4033,
+      "char_end": 4098,
+      "text": "Y él y los apóstoles se fueron en una barca a un lugar apartado."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4098,
+      "char_end": 4263,
+      "text": "Pero la gente que los vio partir adivinó hacia dónde iban. Así, la gente de todos los pueblos cercanos se fue a ese lugar, y llegó antes que Jesús y sus discípulos."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4263,
+      "char_end": 4445,
+      "text": "Cuando Jesús bajó de la barca, vio la gran cantidad de gente que se había reunido y les tuvo compasión, porque parecían ovejas sin pastor. Entonces empezó a enseñarles muchas cosas."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4445,
+      "char_end": 4570,
+      "text": "Por la tarde, los discípulos se acercaron a Jesús y le dijeron: —Este lugar está muy solitario, y ya se está haciendo tarde."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4570,
+      "char_end": 4659,
+      "text": "Despide a la gente, para que vaya a buscar comida por los campos y los pueblos cercanos."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4659,
+      "char_end": 4815,
+      "text": "Jesús les dijo: —Denles ustedes de comer. Ellos respondieron: —No podemos comprar pan para tanta gente. ¡Para eso nos hace falta el salario de todo un año!"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4815,
+      "char_end": 4956,
+      "text": "Jesús les dijo: —Vayan a ver cuántos panes tienen ustedes. Ellos fueron, y al rato regresaron diciendo: —Tenemos cinco panes y dos pescados."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4956,
+      "char_end": 5032,
+      "text": "Entonces Jesús ordenó que todos se sentaran en grupos sobre el pasto verde."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 5032,
+      "char_end": 5084,
+      "text": "La gente se sentó en grupos de cien y de cincuenta."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 5084,
+      "char_end": 5308,
+      "text": "Luego Jesús tomó los cinco panes y los dos pescados, miró al cielo y dio gracias a Dios. Después partió los panes, y los dio a los discípulos para que los repartieran entre toda la gente; lo mismo hizo con los dos pescados."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 5308,
+      "char_end": 5349,
+      "text": "Todos comieron hasta quedar satisfechos."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 5349,
+      "char_end": 5449,
+      "text": "Luego los discípulos llenaron doce canastas con los pedazos de pan y de pescado que habían sobrado."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 5449,
+      "char_end": 5531,
+      "text": "¡Y fueron más de cinco mil hombres los que comieron de aquellos panes y pescados!"
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 5531,
+      "char_end": 5709,
+      "text": "Después Jesús ordenó a sus discípulos que subieran a la barca y cruzaran el lago en dirección al pueblo de Betsaida, pero él se quedó en la orilla para despedir a toda la gente."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 5709,
+      "char_end": 5756,
+      "text": "Luego de despedirla, se fue a un cerro a orar."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 5756,
+      "char_end": 5854,
+      "text": "Cuando llegó la noche, la barca ya estaba en medio del lago, pero Jesús aún permanecía en tierra."
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 5854,
+      "char_end": 6084,
+      "text": "Desde allí pudo ver que los discípulos remaban con mucha dificultad, pues navegaban contra el viento. Poco antes del amanecer, Jesús fue hacia ellos caminando sobre el agua. Cuando ya estaba cerca, hizo como que pasaría de largo."
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 6084,
+      "char_end": 6184,
+      "text": "Al verlo caminar sobre el agua, los discípulos creyeron que era un fantasma y se pusieron a gritar."
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 6184,
+      "char_end": 6275,
+      "text": "Estaban muy asustados, pero enseguida Jesús les dijo: Tranquilos, no tengan miedo. Soy yo."
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 6275,
+      "char_end": 6372,
+      "text": "Entonces Jesús se subió a la barca, y el viento se calmó. Los discípulos estaban muy asombrados."
+    },
+    {
+      "verse": 52,
+      "label": "52",
+      "char_start": 6372,
+      "char_end": 6473,
+      "text": "Tenían la mente cerrada, pues no habían entendido el verdadero significado del milagro de los panes."
+    },
+    {
+      "verse": 53,
+      "label": "53",
+      "char_start": 6473,
+      "char_end": 6564,
+      "text": "Después de cruzar el lago, llegaron al pueblo de Genesaret y ataron la barca en la orilla."
+    },
+    {
+      "verse": 54,
+      "label": "54",
+      "char_start": 6564,
+      "char_end": 6614,
+      "text": "Tan pronto salieron, la gente reconoció a Jesús y"
+    },
+    {
+      "verse": 55,
+      "label": "55",
+      "char_start": 6614,
+      "char_end": 6769,
+      "text": "corrió por toda aquella región para llevarle enfermos. Cuando oían que Jesús estaba en un lugar, ponían a los enfermos en camillas y los llevaban ante él."
+    },
+    {
+      "verse": 56,
+      "label": "56",
+      "char_start": 6769,
+      "char_end": 7028,
+      "text": "A dondequiera que iba Jesús, ya fuera por aldeas, pueblos o campos, la gente ponía a los enfermos en las calles. Y cuando él pasaba, le rogaban que dejara que los enfermos tocaran, por lo menos, el borde de su ropa. Y todos los que lo tocaban quedaban sanos."
+    }
+  ],
+  "words": [
+    {
+      "word": "De allí Jesús se fue a Nazaret, que era su propio pueblo, y sus discípulos lo acompañaron.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6212,
+      "duration_ms": 6112
+    },
+    {
+      "word": "Cuando llegó el sábado, Jesús empezó a enseñar en la sinagoga.",
+      "verse": 2,
+      "start_ms": 6162,
+      "end_ms": 10649,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Los que estaban presentes lo escucharon y se preguntaron admirados: —¿Dónde aprendió éste tantas cosas?",
+      "verse": 2,
+      "start_ms": 10650,
+      "end_ms": 16925,
+      "duration_ms": 6275
+    },
+    {
+      "word": "De dónde ha sacado tantos conocimientos?",
+      "verse": 2,
+      "start_ms": 16925,
+      "end_ms": 20137,
+      "duration_ms": 3212
+    },
+    {
+      "word": "De dónde saca el poder para hacer los milagros que hace?",
+      "verse": 2,
+      "start_ms": 20137,
+      "end_ms": 23799,
+      "duration_ms": 3662
+    },
+    {
+      "word": "Acaso no es éste el carpintero, el hijo de María y hermano de Santiago, José, Judas y Simón?",
+      "verse": 3,
+      "start_ms": 23800,
+      "end_ms": 30650,
+      "duration_ms": 6850
+    },
+    {
+      "word": "Y no es verdad que sus hermanas viven en este mismo pueblo?",
+      "verse": 3,
+      "start_ms": 30650,
+      "end_ms": 34475,
+      "duration_ms": 3825
+    },
+    {
+      "word": "Y se quedaron confundidos y contrariados.",
+      "verse": 3,
+      "start_ms": 34475,
+      "end_ms": 37762,
+      "duration_ms": 3287
+    },
+    {
+      "word": "Por eso, Jesús les dijo: —Al profeta se le reconoce y se le acepta en todas partes, menos en su propio pueblo, en su propia familia y en su propia casa.",
+      "verse": 3,
+      "start_ms": 37762,
+      "end_ms": 47749,
+      "duration_ms": 9987
+    },
+    {
+      "word": "Y poniendo las manos sobre los enfermos, Jesús sanó a algunos de ellos; pero no pudo hacer ningún otro milagro, pues se sorprendió mucho de que aquella gente no creyera en él.",
+      "verse": 5,
+      "start_ms": 47750,
+      "end_ms": 58250,
+      "duration_ms": 10500
+    },
+    {
+      "word": "Reunió a los doce apóstoles y los envió de dos en dos.",
+      "verse": 7,
+      "start_ms": 58250,
+      "end_ms": 62300,
+      "duration_ms": 4050
+    },
+    {
+      "word": "Les dio poder para expulsar de la gente a los espíritus malos, y también les ordenó: Lleven un bastón para el camino, pero no lleven comida ni bolsa ni dinero.",
+      "verse": 7,
+      "start_ms": 62300,
+      "end_ms": 71987,
+      "duration_ms": 9687
+    },
+    {
+      "word": "Pónganse sandalias, pero no lleven ropa de más.",
+      "verse": 9,
+      "start_ms": 71987,
+      "end_ms": 75912,
+      "duration_ms": 3925
+    },
+    {
+      "word": "Cuando entren en un pueblo, quédense en una sola casa hasta que salgan de ese pueblo.",
+      "verse": 10,
+      "start_ms": 75912,
+      "end_ms": 81249,
+      "duration_ms": 5337
+    },
+    {
+      "word": "Si en algún lugar no quieren recibirlos ni escucharlos, váyanse de allí y sacúdanse el polvo de los pies.",
+      "verse": 11,
+      "start_ms": 81250,
+      "end_ms": 87912,
+      "duration_ms": 6662
+    },
+    {
+      "word": "Eso le servirá de advertencia a esa gente.",
+      "verse": 11,
+      "start_ms": 87912,
+      "end_ms": 91262,
+      "duration_ms": 3350
+    },
+    {
+      "word": "Los discípulos partieron de allí y comenzaron a decirle a la gente que dejara de pecar y se volviera a Dios.",
+      "verse": 12,
+      "start_ms": 91262,
+      "end_ms": 97499,
+      "duration_ms": 6237
+    },
+    {
+      "word": "También expulsaron muchos demonios y sanaron a muchos enfermos frotándoles aceite de oliva.",
+      "verse": 13,
+      "start_ms": 97500,
+      "end_ms": 103037,
+      "duration_ms": 5537
+    },
+    {
+      "word": "Jesús era tan conocido que hasta el rey Herodes Antipas oyó hablar de él.",
+      "verse": 14,
+      "start_ms": 103037,
+      "end_ms": 107724,
+      "duration_ms": 4687
+    },
+    {
+      "word": "Algunos decían que Jesús era Juan el Bautista, que había vuelto a vivir y hacía muchos milagros.",
+      "verse": 14,
+      "start_ms": 107725,
+      "end_ms": 113850,
+      "duration_ms": 6125
+    },
+    {
+      "word": "Otros decían que era el profeta Elías, o alguno de los profetas que habían vivido hacía mucho tiempo.",
+      "verse": 15,
+      "start_ms": 113850,
+      "end_ms": 120000,
+      "duration_ms": 6150
+    },
+    {
+      "word": "Cuando el rey Herodes oyó hablar de Jesús, estaba seguro de que se trataba de Juan, y decía: Jesús es Juan.",
+      "verse": 16,
+      "start_ms": 120000,
+      "end_ms": 127187,
+      "duration_ms": 7187
+    },
+    {
+      "word": "Yo mismo ordené que le cortaran la cabeza, pero ha resucitado.",
+      "verse": 16,
+      "start_ms": 127187,
+      "end_ms": 131474,
+      "duration_ms": 4287
+    },
+    {
+      "word": "Resulta que Herodes Antipas se había casado con Herodías, la esposa de su hermano Filipo, y Juan lo había reprendido, diciéndole: No te está permitido tener a la esposa de tu hermano.",
+      "verse": 17,
+      "start_ms": 131475,
+      "end_ms": 142325,
+      "duration_ms": 10850
+    },
+    {
+      "word": "Esto enfureció a Herodías, la cual decidió hacer todo lo posible para matar a Juan.",
+      "verse": 17,
+      "start_ms": 142325,
+      "end_ms": 147812,
+      "duration_ms": 5487
+    },
+    {
+      "word": "Pero Herodes sólo mandó que lo arrestaran y lo metieran en la cárcel.",
+      "verse": 17,
+      "start_ms": 147812,
+      "end_ms": 151862,
+      "duration_ms": 4050
+    },
+    {
+      "word": "Herodes le tenía miedo a Juan y lo protegía, porque sabía que Juan era un hombre justo y santo.",
+      "verse": 20,
+      "start_ms": 151862,
+      "end_ms": 158037,
+      "duration_ms": 6175
+    },
+    {
+      "word": "Y aunque Herodes no sabía qué hacer cuando lo oía hablar, lo escuchaba de buena gana.",
+      "verse": 20,
+      "start_ms": 158037,
+      "end_ms": 163212,
+      "duration_ms": 5175
+    },
+    {
+      "word": "El día de su cumpleaños, el rey Herodes Antipas organizó una gran fiesta.",
+      "verse": 21,
+      "start_ms": 163212,
+      "end_ms": 168462,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Invitó a los jefes, a los comandantes y a la gente más importante de la región de Galilea.",
+      "verse": 21,
+      "start_ms": 168462,
+      "end_ms": 174337,
+      "duration_ms": 5875
+    },
+    {
+      "word": "Herodías vio que ésa era su gran oportunidad para matar a Juan.",
+      "verse": 21,
+      "start_ms": 174337,
+      "end_ms": 178737,
+      "duration_ms": 4400
+    },
+    {
+      "word": "Mientras cenaban, la hija de Herodías entró al salón y bailó delante de todos.",
+      "verse": 22,
+      "start_ms": 178737,
+      "end_ms": 184137,
+      "duration_ms": 5400
+    },
+    {
+      "word": "Tanto le gustó el baile al rey Herodes y a todos los que estaban allí, que el rey le dijo a la muchacha: —Pídeme lo que quieras, y yo te lo daré.",
+      "verse": 22,
+      "start_ms": 184137,
+      "end_ms": 192612,
+      "duration_ms": 8475
+    },
+    {
+      "word": "Aun si me pides la mitad de mi reino, te juro que te lo daré.",
+      "verse": 23,
+      "start_ms": 192612,
+      "end_ms": 196849,
+      "duration_ms": 4237
+    },
+    {
+      "word": "La muchacha salió del salón, fue a donde estaba Herodías, su madre, y le preguntó: —¿Qué podría pedir?",
+      "verse": 24,
+      "start_ms": 196850,
+      "end_ms": 204237,
+      "duration_ms": 7387
+    },
+    {
+      "word": "Herodías le respondió: —Pide la cabeza de Juan el Bautista.",
+      "verse": 24,
+      "start_ms": 204237,
+      "end_ms": 208587,
+      "duration_ms": 4350
+    },
+    {
+      "word": "La muchacha entró de prisa al salón y le dijo al rey: —Quiero que ahora mismo me des en un plato la cabeza de Juan el Bautista.",
+      "verse": 25,
+      "start_ms": 208587,
+      "end_ms": 215849,
+      "duration_ms": 7262
+    },
+    {
+      "word": "El rey se puso muy triste, pero no quiso negarle a la muchacha lo que pedía, porque se lo había jurado delante de sus invitados.",
+      "verse": 26,
+      "start_ms": 215850,
+      "end_ms": 223662,
+      "duration_ms": 7812
+    },
+    {
+      "word": "Enseguida ordenó a un soldado que le trajera la cabeza de Juan.",
+      "verse": 27,
+      "start_ms": 223662,
+      "end_ms": 227937,
+      "duration_ms": 4275
+    },
+    {
+      "word": "El soldado fue a la cárcel, le cortó a Juan la cabeza y se la llevó en un plato a la muchacha.",
+      "verse": 27,
+      "start_ms": 227937,
+      "end_ms": 233937,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Después, ella se la entregó a su madre.",
+      "verse": 28,
+      "start_ms": 233937,
+      "end_ms": 237162,
+      "duration_ms": 3225
+    },
+    {
+      "word": "Cuando los discípulos de Juan supieron esto, fueron a recoger el cuerpo de Juan y lo enterraron.",
+      "verse": 29,
+      "start_ms": 237162,
+      "end_ms": 242712,
+      "duration_ms": 5550
+    },
+    {
+      "word": "Los apóstoles volvieron a reunirse con Jesús, y le contaron todo lo que habían hecho y enseñado.",
+      "verse": 30,
+      "start_ms": 242712,
+      "end_ms": 248774,
+      "duration_ms": 6062
+    },
+    {
+      "word": "Pero eran tantos los que iban y venían, que ni tiempo tenían para comer.",
+      "verse": 31,
+      "start_ms": 248775,
+      "end_ms": 253600,
+      "duration_ms": 4825
+    },
+    {
+      "word": "Entonces",
+      "verse": 31,
+      "start_ms": 253600,
+      "end_ms": 255337,
+      "duration_ms": 1737
+    },
+    {
+      "word": "Jesús les dijo: Vengan, vamos a un lugar tranquilo para descansar a solas.",
+      "verse": 31,
+      "start_ms": 255508,
+      "end_ms": 261058,
+      "duration_ms": 5550
+    },
+    {
+      "word": "Y él y los apóstoles se fueron en una barca a un lugar apartado.",
+      "verse": 32,
+      "start_ms": 261008,
+      "end_ms": 265308,
+      "duration_ms": 4300
+    },
+    {
+      "word": "Pero la gente que los vio partir adivinó hacia dónde iban.",
+      "verse": 33,
+      "start_ms": 265308,
+      "end_ms": 269133,
+      "duration_ms": 3825
+    },
+    {
+      "word": "Así, la gente de todos los pueblos cercanos se fue a ese lugar, y llegó antes que Jesús y sus discípulos.",
+      "verse": 33,
+      "start_ms": 269133,
+      "end_ms": 275945,
+      "duration_ms": 6812
+    },
+    {
+      "word": "Cuando Jesús bajó de la barca, vio la gran cantidad de gente que se había reunido y les tuvo compasión, porque parecían ovejas sin pastor.",
+      "verse": 34,
+      "start_ms": 275945,
+      "end_ms": 284107,
+      "duration_ms": 8162
+    },
+    {
+      "word": "Entonces empezó a enseñarles muchas cosas.",
+      "verse": 34,
+      "start_ms": 284108,
+      "end_ms": 287508,
+      "duration_ms": 3400
+    },
+    {
+      "word": "Por la tarde, los discípulos se acercaron a Jesús y le dijeron: —Este lugar está muy solitario, y ya se está haciendo tarde.",
+      "verse": 35,
+      "start_ms": 287508,
+      "end_ms": 295445,
+      "duration_ms": 7937
+    },
+    {
+      "word": "Despide a la gente, para que vaya a buscar comida por los campos y los pueblos cercanos.",
+      "verse": 36,
+      "start_ms": 295445,
+      "end_ms": 301095,
+      "duration_ms": 5650
+    },
+    {
+      "word": "Jesús les dijo: —Denles ustedes de comer.",
+      "verse": 37,
+      "start_ms": 301095,
+      "end_ms": 304607,
+      "duration_ms": 3512
+    },
+    {
+      "word": "Ellos respondieron: —No podemos comprar pan para tanta gente.",
+      "verse": 37,
+      "start_ms": 304608,
+      "end_ms": 308945,
+      "duration_ms": 4337
+    },
+    {
+      "word": "Para eso nos hace falta el salario de todo un año!",
+      "verse": 37,
+      "start_ms": 308945,
+      "end_ms": 312495,
+      "duration_ms": 3550
+    },
+    {
+      "word": "Jesús les dijo: —Vayan a ver cuántos panes tienen ustedes.",
+      "verse": 38,
+      "start_ms": 312495,
+      "end_ms": 317145,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Ellos fueron, y al rato regresaron diciendo: —Tenemos cinco panes y dos pescados.",
+      "verse": 38,
+      "start_ms": 317145,
+      "end_ms": 323057,
+      "duration_ms": 5912
+    },
+    {
+      "word": "Entonces Jesús ordenó que todos se sentaran en grupos sobre el pasto verde.",
+      "verse": 39,
+      "start_ms": 323058,
+      "end_ms": 327808,
+      "duration_ms": 4750
+    },
+    {
+      "word": "La gente se sentó en grupos de cien y de cincuenta.",
+      "verse": 40,
+      "start_ms": 327808,
+      "end_ms": 331333,
+      "duration_ms": 3525
+    },
+    {
+      "word": "Luego Jesús tomó los cinco panes y los dos pescados, miró al cielo y dio gracias a Dios.",
+      "verse": 41,
+      "start_ms": 331333,
+      "end_ms": 337595,
+      "duration_ms": 6262
+    },
+    {
+      "word": "Después partió los panes, y los dio a los discípulos para que los repartieran entre toda la gente; lo mismo hizo con los dos pescados.",
+      "verse": 41,
+      "start_ms": 337595,
+      "end_ms": 345795,
+      "duration_ms": 8200
+    },
+    {
+      "word": "Todos comieron hasta quedar satisfechos.",
+      "verse": 42,
+      "start_ms": 345795,
+      "end_ms": 348932,
+      "duration_ms": 3137
+    },
+    {
+      "word": "Luego los discípulos llenaron doce canastas con los pedazos de pan y de pescado que habían sobrado.",
+      "verse": 43,
+      "start_ms": 348933,
+      "end_ms": 354783,
+      "duration_ms": 5850
+    },
+    {
+      "word": "Y fueron más de cinco mil hombres los que comieron de aquellos panes y pescados!",
+      "verse": 44,
+      "start_ms": 354783,
+      "end_ms": 359483,
+      "duration_ms": 4700
+    },
+    {
+      "word": "Después Jesús ordenó a sus discípulos que subieran a la barca y cruzaran el lago en dirección al pueblo de Betsaida, pero él se quedó en la orilla para despedir a toda la gente.",
+      "verse": 45,
+      "start_ms": 359483,
+      "end_ms": 368983,
+      "duration_ms": 9500
+    },
+    {
+      "word": "Luego de despedirla, se fue a un cerro a orar.",
+      "verse": 46,
+      "start_ms": 368983,
+      "end_ms": 372895,
+      "duration_ms": 3912
+    },
+    {
+      "word": "Cuando llegó la noche, la barca ya estaba en medio del lago, pero Jesús aún permanecía en tierra.",
+      "verse": 47,
+      "start_ms": 372895,
+      "end_ms": 379157,
+      "duration_ms": 6262
+    },
+    {
+      "word": "Desde allí pudo ver que los discípulos remaban con mucha dificultad, pues navegaban contra el viento.",
+      "verse": 48,
+      "start_ms": 379158,
+      "end_ms": 385183,
+      "duration_ms": 6025
+    },
+    {
+      "word": "Poco antes del amanecer, Jesús fue hacia ellos caminando sobre el agua.",
+      "verse": 48,
+      "start_ms": 385183,
+      "end_ms": 390070,
+      "duration_ms": 4887
+    },
+    {
+      "word": "Cuando ya estaba cerca, hizo como que pasaría de largo.",
+      "verse": 48,
+      "start_ms": 390070,
+      "end_ms": 393995,
+      "duration_ms": 3925
+    },
+    {
+      "word": "Al verlo caminar sobre el agua, los discípulos creyeron que era un fantasma y se pusieron a gritar.",
+      "verse": 49,
+      "start_ms": 393995,
+      "end_ms": 399920,
+      "duration_ms": 5925
+    },
+    {
+      "word": "Estaban muy asustados, pero enseguida Jesús les dijo: Tranquilos, no tengan miedo.",
+      "verse": 50,
+      "start_ms": 399920,
+      "end_ms": 406232,
+      "duration_ms": 6312
+    },
+    {
+      "word": "Soy yo.",
+      "verse": 50,
+      "start_ms": 406233,
+      "end_ms": 407845,
+      "duration_ms": 1612
+    },
+    {
+      "word": "Entonces Jesús se subió a la barca, y el viento se calmó.",
+      "verse": 51,
+      "start_ms": 407845,
+      "end_ms": 411970,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Los discípulos estaban muy asombrados.",
+      "verse": 51,
+      "start_ms": 411970,
+      "end_ms": 415145,
+      "duration_ms": 3175
+    },
+    {
+      "word": "Tenían la mente cerrada, pues no habían entendido el verdadero significado del milagro de los panes.",
+      "verse": 52,
+      "start_ms": 415145,
+      "end_ms": 421582,
+      "duration_ms": 6437
+    },
+    {
+      "word": "Después de cruzar el lago, llegaron al pueblo de Genesaret y ataron la barca en la orilla.",
+      "verse": 53,
+      "start_ms": 421583,
+      "end_ms": 427045,
+      "duration_ms": 5462
+    },
+    {
+      "word": "Tan pronto salieron, la gente reconoció a Jesús y corrió por toda aquella región para llevarle enfermos.",
+      "verse": 54,
+      "start_ms": 427045,
+      "end_ms": 433657,
+      "duration_ms": 6612
+    },
+    {
+      "word": "Cuando oían que Jesús estaba en un lugar, ponían a los enfermos en camillas y los llevaban ante él.",
+      "verse": 55,
+      "start_ms": 433658,
+      "end_ms": 439783,
+      "duration_ms": 6125
+    },
+    {
+      "word": "A dondequiera que iba Jesús, ya fuera por aldeas, pueblos o campos, la gente ponía a los enfermos en las calles.",
+      "verse": 56,
+      "start_ms": 439783,
+      "end_ms": 447433,
+      "duration_ms": 7650
+    },
+    {
+      "word": "Y cuando él pasaba, le rogaban que dejara que los enfermos tocaran, por lo menos, el borde de su ropa.",
+      "verse": 56,
+      "start_ms": 447433,
+      "end_ms": 454083,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Y todos los que lo tocaban quedaban sanos.",
+      "verse": 56,
+      "start_ms": 454083,
+      "end_ms": 457270,
+      "duration_ms": 3187
+    }
+  ]
+}

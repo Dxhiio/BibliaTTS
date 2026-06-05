@@ -1,0 +1,152 @@
+{
+  "book": "SAL",
+  "chapter": 146,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 8,
+  "word_count": 12,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-2",
+      "char_start": 0,
+      "char_end": 89,
+      "text": "¡Alabemos a Dios! Yo quiero alabarlo, y mientras tenga vida le cantaré himnos a mi Dios."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 89,
+      "char_end": 163,
+      "text": "No confíen en nadie, que ni el hombre más poderoso es capaz de salvarlos."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 163,
+      "char_end": 256,
+      "text": "Cuando ese hombre muere, se vuelve polvo; y ese día mueren con él todos los planes que hizo."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 256,
+      "char_end": 308,
+      "text": "¡El Dios de Israel bendice a los que en él confían!"
+    },
+    {
+      "verse": 6,
+      "label": "6-7",
+      "char_start": 308,
+      "char_end": 529,
+      "text": "Dios hizo el cielo y la tierra, el mar y todo lo que hay en él. Dios siempre cumple sus promesas: hace justicia a los que son maltratados por los poderosos, da de comer a los hambrientos, y pone en libertad a los presos."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 529,
+      "char_end": 598,
+      "text": "Dios da vista a los ciegos, levanta a los caídos y ama a los justos."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 598,
+      "char_end": 719,
+      "text": "Dios cuida de la gente sin patria, y sostiene a huérfanos y a viudas. Dios hace que fracasen los planes de los malvados."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 719,
+      "char_end": 820,
+      "text": "Ciudad de Jerusalén, ¡que tu Dios reine por siempre, por todos los siglos! ¡Alabemos a nuestro Dios!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Alabemos a Dios!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 2112,
+      "duration_ms": 2012
+    },
+    {
+      "word": "Yo quiero alabarlo, y mientras tenga vida le cantaré himnos a mi Dios.",
+      "verse": 1,
+      "start_ms": 2062,
+      "end_ms": 6824,
+      "duration_ms": 4762
+    },
+    {
+      "word": "No confíen en nadie, que ni el hombre más poderoso es capaz de salvarlos.",
+      "verse": 3,
+      "start_ms": 6825,
+      "end_ms": 11962,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Cuando ese hombre muere, se vuelve polvo; y ese día mueren con él todos los planes que hizo.",
+      "verse": 4,
+      "start_ms": 11962,
+      "end_ms": 18012,
+      "duration_ms": 6050
+    },
+    {
+      "word": "El Dios de Israel bendice a los que en él confían!",
+      "verse": 5,
+      "start_ms": 18012,
+      "end_ms": 21412,
+      "duration_ms": 3400
+    },
+    {
+      "word": "Dios hizo el cielo y la tierra, el mar y todo lo que hay en él.",
+      "verse": 6,
+      "start_ms": 21412,
+      "end_ms": 25849,
+      "duration_ms": 4437
+    },
+    {
+      "word": "Dios siempre cumple sus promesas: hace justicia a los que son maltratados por los poderosos, da de comer a los hambrientos, y pone en libertad a los presos.",
+      "verse": 6,
+      "start_ms": 25850,
+      "end_ms": 35587,
+      "duration_ms": 9737
+    },
+    {
+      "word": "Dios da vista a los ciegos, levanta a los caídos y ama a los justos.",
+      "verse": 8,
+      "start_ms": 35587,
+      "end_ms": 40724,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Dios cuida de la gente sin patria, y sostiene a huérfanos y a viudas.",
+      "verse": 9,
+      "start_ms": 40725,
+      "end_ms": 45775,
+      "duration_ms": 5050
+    },
+    {
+      "word": "Dios hace que fracasen los planes de los malvados.",
+      "verse": 9,
+      "start_ms": 45775,
+      "end_ms": 49325,
+      "duration_ms": 3550
+    },
+    {
+      "word": "Ciudad de Jerusalén, ¡que tu Dios reine por siempre, por todos los siglos!",
+      "verse": 10,
+      "start_ms": 49325,
+      "end_ms": 54562,
+      "duration_ms": 5237
+    },
+    {
+      "word": "Alabemos a nuestro Dios!",
+      "verse": 10,
+      "start_ms": 54562,
+      "end_ms": 56937,
+      "duration_ms": 2375
+    }
+  ]
+}

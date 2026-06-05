@@ -1,0 +1,229 @@
+{
+  "book": "ZAC",
+  "chapter": 2,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 11,
+  "word_count": 20,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 93,
+      "text": "Volví a levantar la vista, y vi delante de mí a un hombre con una cinta de medir en la mano."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 93,
+      "char_end": 218,
+      "text": "Le pregunté a dónde iba, y me dijo: Voy a medir la ciudad de Jerusalén. Quiero saber cuánto mide de largo y cuánto de ancho."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 218,
+      "char_end": 301,
+      "text": "Ese hombre era un ángel, y ya estaba por irse; pero otro ángel vino a su encuentro"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 301,
+      "char_end": 422,
+      "text": "y le ordenó que me diera este mensaje: La ciudad de Jerusalén tendrá tanta gente y tanto ganado, que no tendrá murallas."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 422,
+      "char_end": 550,
+      "text": "Yo seré para mi ciudad como una muralla de fuego; ¡yo la llenaré de riquezas! Yo soy el Dios de Israel, y juro que así lo haré."
+    },
+    {
+      "verse": 6,
+      "label": "6-7",
+      "char_start": 550,
+      "char_end": 760,
+      "text": "Yo fui quien los dispersó por todas las naciones, pero ahora les ordeno que salgan ya de Babilonia y regresen a Jerusalén; ¡huyan de ese país del norte! Yo soy el Dios de Israel, y les ordeno que así lo hagan."
+    },
+    {
+      "verse": 8,
+      "label": "8-9",
+      "char_start": 760,
+      "char_end": 1170,
+      "text": "El Dios todopoderoso me envió a acusar a las naciones que le robaron todo a Jerusalén. Así dice nuestro Dios: Yo castigaré a todas las naciones que le han hecho daño a mi pueblo. Quien le hace daño a mi pueblo también me lo hace a mí. ¡Yo haré que sus propios esclavos les roben todas sus pertenencias! Cuando esto suceda, esas naciones sabrán que fue el Dios todopoderoso quien me envió a acusarlas. Él dijo:"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1170,
+      "char_end": 1301,
+      "text": "¡Griten de alegría, habitantes de Jerusalén, porque yo viviré entre ustedes! Yo soy el Dios de Israel, y les juro que así lo haré."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1301,
+      "char_end": 1526,
+      "text": "Cuando llegue ese día, muchas naciones me seguirán. Entonces yo viviré entre ellas, y llegarán a ser también mi pueblo. Cuando esto suceda, ustedes sabrán que fue el Dios todopoderoso quien me envió a anunciarles su mensaje."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1526,
+      "char_end": 1626,
+      "text": "Entonces Judá volverá a ser propiedad de nuestro Dios, y Jerusalén volverá a ser su ciudad elegida."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1626,
+      "char_end": 1707,
+      "text": "Nuestro Dios ha salido ya de su templo santo; ¡guarden silencio en su presencia!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Volví a levantar la vista, y vi delante de mí a un hombre con una cinta de medir en la mano.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5812,
+      "duration_ms": 5712
+    },
+    {
+      "word": "Le pregunté a dónde iba, y me dijo: Voy a medir la ciudad de Jerusalén.",
+      "verse": 2,
+      "start_ms": 5762,
+      "end_ms": 11074,
+      "duration_ms": 5312
+    },
+    {
+      "word": "Quiero saber cuánto mide de largo y cuánto de ancho.",
+      "verse": 2,
+      "start_ms": 11075,
+      "end_ms": 14675,
+      "duration_ms": 3600
+    },
+    {
+      "word": "Ese hombre era un ángel, y ya estaba por irse; pero otro ángel vino a su encuentro y le ordenó que me diera este mensaje: La ciudad de Jerusalén tendrá tanta gente y tanto ganado, que no tendrá murallas.",
+      "verse": 3,
+      "start_ms": 14675,
+      "end_ms": 26937,
+      "duration_ms": 12262
+    },
+    {
+      "word": "Yo seré para mi ciudad como una muralla de fuego; ¡yo la llenaré de riquezas!",
+      "verse": 5,
+      "start_ms": 26937,
+      "end_ms": 32287,
+      "duration_ms": 5350
+    },
+    {
+      "word": "Yo soy el Dios de Israel, y juro que así lo haré.",
+      "verse": 5,
+      "start_ms": 32287,
+      "end_ms": 36037,
+      "duration_ms": 3750
+    },
+    {
+      "word": "Yo fui quien los dispersó por todas las naciones, pero ahora les ordeno que salgan ya de Babilonia y regresen a Jerusalén; ¡huyan de ese país del norte!",
+      "verse": 6,
+      "start_ms": 36037,
+      "end_ms": 45424,
+      "duration_ms": 9387
+    },
+    {
+      "word": "Yo soy el Dios de Israel, y les ordeno que así lo hagan.",
+      "verse": 6,
+      "start_ms": 45425,
+      "end_ms": 49587,
+      "duration_ms": 4162
+    },
+    {
+      "word": "El Dios todopoderoso me envió a acusar a las naciones que le robaron todo a Jerusalén.",
+      "verse": 8,
+      "start_ms": 49587,
+      "end_ms": 54974,
+      "duration_ms": 5387
+    },
+    {
+      "word": "Así dice nuestro Dios: Yo castigaré a todas las naciones que le han hecho daño a mi pueblo.",
+      "verse": 8,
+      "start_ms": 54975,
+      "end_ms": 60800,
+      "duration_ms": 5825
+    },
+    {
+      "word": "Quien le hace daño a mi pueblo también me lo hace a mí.",
+      "verse": 8,
+      "start_ms": 60800,
+      "end_ms": 64250,
+      "duration_ms": 3450
+    },
+    {
+      "word": "Yo haré que sus propios esclavos les roben todas sus pertenencias!",
+      "verse": 8,
+      "start_ms": 64250,
+      "end_ms": 68600,
+      "duration_ms": 4350
+    },
+    {
+      "word": "Cuando esto suceda, esas naciones sabrán que fue el Dios todopoderoso quien me envió a acusarlas.",
+      "verse": 8,
+      "start_ms": 68600,
+      "end_ms": 74712,
+      "duration_ms": 6112
+    },
+    {
+      "word": "Él dijo: ¡Griten de alegría, habitantes de Jerusalén, porque yo viviré entre ustedes!",
+      "verse": 8,
+      "start_ms": 74712,
+      "end_ms": 81024,
+      "duration_ms": 6312
+    },
+    {
+      "word": "Yo soy el Dios de Israel, y les juro que así lo haré.",
+      "verse": 10,
+      "start_ms": 81025,
+      "end_ms": 84912,
+      "duration_ms": 3887
+    },
+    {
+      "word": "Cuando llegue ese día, muchas naciones me seguirán.",
+      "verse": 11,
+      "start_ms": 84912,
+      "end_ms": 88699,
+      "duration_ms": 3787
+    },
+    {
+      "word": "Entonces yo viviré entre ellas, y llegarán a ser también mi pueblo.",
+      "verse": 11,
+      "start_ms": 88700,
+      "end_ms": 93362,
+      "duration_ms": 4662
+    },
+    {
+      "word": "Cuando esto suceda, ustedes sabrán que fue el Dios todopoderoso quien me envió a anunciarles su mensaje.",
+      "verse": 11,
+      "start_ms": 93362,
+      "end_ms": 99662,
+      "duration_ms": 6300
+    },
+    {
+      "word": "Entonces Judá volverá a ser propiedad de nuestro Dios, y Jerusalén volverá a ser su ciudad elegida.",
+      "verse": 12,
+      "start_ms": 99662,
+      "end_ms": 106049,
+      "duration_ms": 6387
+    },
+    {
+      "word": "Nuestro Dios ha salido ya de su templo santo; ¡guarden silencio en su presencia!",
+      "verse": 13,
+      "start_ms": 106050,
+      "end_ms": 111462,
+      "duration_ms": 5412
+    }
+  ]
+}

@@ -1,0 +1,796 @@
+{
+  "book": "MAT",
+  "chapter": 25,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 46,
+  "word_count": 66,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 162,
+      "text": "En el reino de Dios pasará lo mismo que sucedió en una boda. Cuando ya era de noche, diez muchachas tomaron sus lámparas de aceite y salieron a recibir al novio."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 162,
+      "char_end": 228,
+      "text": "Cinco de ellas eran descuidadas, y las otras cinco, responsables."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 228,
+      "char_end": 281,
+      "text": "Las cinco descuidadas no llevaron aceite suficiente,"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 281,
+      "char_end": 360,
+      "text": "pero las cinco responsables llevaron aceite para llenar sus lámparas de nuevo."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 360,
+      "char_end": 448,
+      "text": "Como el novio tardó mucho en llegar, a las diez muchachas les dio sueño y se durmieron."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 448,
+      "char_end": 532,
+      "text": "Como a la media noche, se oyeron gritos: «¡Ya viene el novio, salgan a recibirlo!»."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 532,
+      "char_end": 598,
+      "text": "Las muchachas se levantaron y comenzaron a preparar sus lámparas."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 598,
+      "char_end": 765,
+      "text": "Entonces las cinco muchachas descuidadas dijeron a las responsables: «Compartan con nosotras el aceite que ustedes traen, porque nuestras lámparas se están apagando»."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 765,
+      "char_end": 893,
+      "text": "Las cinco responsables contestaron: «No tenemos bastante aceite para darles también a ustedes. Es mejor que vayan a comprarlo»."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 893,
+      "char_end": 1078,
+      "text": "Mientras las cinco muchachas descuidadas fueron a comprar aceite, llegó el novio. Entonces, las cinco muchachas responsables entraron con él a la fiesta de bodas, y la puerta se cerró."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1078,
+      "char_end": 1192,
+      "text": "Cuando las cinco descuidadas volvieron, encontraron todo cerrado y gritaron: «¡Señor, Señor, ábranos la puerta!»."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1192,
+      "char_end": 1265,
+      "text": "Pero el novio les contestó: «No sé quiénes son ustedes. No las conozco»."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1265,
+      "char_end": 1382,
+      "text": "Por eso ustedes, mis discípulos, deben estar siempre alerta, porque no saben ni el día ni la hora en que yo volveré."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1382,
+      "char_end": 1529,
+      "text": "En el reino de Dios pasará lo mismo que sucedió cierta vez, cuando un hombre decidió irse de viaje. Llamó a sus empleados y les encargó su dinero."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1529,
+      "char_end": 1690,
+      "text": "El hombre sabía muy bien lo que cada uno podía hacer. Por eso, a uno de ellos le entregó cinco mil monedas, a otro dos mil, y a otro mil. Luego se fue de viaje."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1690,
+      "char_end": 1795,
+      "text": "El empleado que había recibido cinco mil monedas hizo negocios con ellas, y logró ganar otras cinco mil."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1795,
+      "char_end": 1846,
+      "text": "El que recibió dos mil monedas ganó otras dos mil."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1846,
+      "char_end": 1910,
+      "text": "Pero el que recibió mil monedas fue y las escondió bajo tierra."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1910,
+      "char_end": 2021,
+      "text": "Mucho tiempo después, el hombre que se había ido de viaje regresó, y quiso arreglar cuentas con sus empleados."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2021,
+      "char_end": 2203,
+      "text": "Llegó el que había recibido cinco mil monedas, se las entregó junto con otras cinco mil y le dijo: «Señor, usted me dio cinco mil monedas, y aquí tiene otras cinco mil que yo gané»."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2203,
+      "char_end": 2392,
+      "text": "El hombre le dijo: «¡Excelente! Eres un empleado bueno, y se puede confiar en ti. Ya que cuidaste bien lo poco que te di, ahora voy a encargarte cosas más importantes. Vamos a celebrarlo»."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2392,
+      "char_end": 2544,
+      "text": "Después llegó el empleado que había recibido dos mil monedas, y le dijo: «Señor, usted me dio dos mil monedas, y aquí tiene otras dos mil que yo gané»."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2544,
+      "char_end": 2737,
+      "text": "El hombre le contestó: «¡Excelente! Eres un empleado bueno, y se puede confiar en ti. Ya que cuidaste bien lo poco que te di, ahora voy a encargarte cosas más importantes. Vamos a celebrarlo»."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2737,
+      "char_end": 2890,
+      "text": "Por último, llegó el empleado que había recibido mil monedas, y dijo: «Señor, yo sabía que usted es un hombre muy exigente, que pide hasta lo imposible."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2890,
+      "char_end": 2992,
+      "text": "Por eso me dio miedo, y escondí el dinero bajo tierra. Aquí le devuelvo exactamente sus mil monedas»."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2992,
+      "char_end": 3083,
+      "text": "El hombre le respondió: «Eres un empleado malo y perezoso. Si sabías que soy muy exigente,"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3083,
+      "char_end": 3194,
+      "text": "¿por qué no llevaste el dinero al banco? Así, al volver, yo recibiría el dinero que te di, más los intereses»."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3194,
+      "char_end": 3303,
+      "text": "Entonces el hombre dijo a sus ayudantes: «Quítenle a éste las mil monedas, y dénselas al que tiene diez mil."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3303,
+      "char_end": 3425,
+      "text": "Porque al que tiene mucho se le dará más, y le sobrará; pero al que no tiene nada, hasta lo poco que tiene se le quitará."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3425,
+      "char_end": 3559,
+      "text": "Y a este empleado inútil, échenlo afuera, a la oscuridad; allí tendrá tanto miedo que llorará y le rechinarán de terror los dientes»."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3559,
+      "char_end": 3678,
+      "text": "Cuando yo, el Hijo del hombre, regrese, vendré como un rey poderoso, rodeado de mis ángeles, y me sentaré en mi trono."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3678,
+      "char_end": 3823,
+      "text": "Gente de todos los países se presentará delante de mí, y apartaré a los malos de los buenos, como el pastor que aparta las cabras de las ovejas."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3823,
+      "char_end": 3891,
+      "text": "A los buenos los pondré a mi derecha, y a los malos a mi izquierda."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3891,
+      "char_end": 4053,
+      "text": "Entonces yo, el Rey, les diré a los buenos: «¡Mi Padre los ha bendecido! ¡Vengan, participen del reino que mi Padre preparó desde antes de la creación del mundo!"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4053,
+      "char_end": 4213,
+      "text": "Porque cuando tuve hambre, ustedes me dieron de comer; cuando tuve sed, me dieron de beber; cuando tuve que salir de mi país, ustedes me recibieron en su casa;"
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4213,
+      "char_end": 4346,
+      "text": "cuando no tuve ropa, ustedes me la dieron; cuando estuve enfermo, me visitaron; cuando estuve en la cárcel, ustedes fueron a verme»."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4346,
+      "char_end": 4473,
+      "text": "Y los buenos me preguntarán: «Señor, ¿cuándo te vimos con hambre y te dimos de comer? ¿Cuándo tuviste sed y te dimos de beber?"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4473,
+      "char_end": 4590,
+      "text": "¿Alguna vez tuviste que salir de tu país y te recibimos en nuestra casa, o te vimos sin ropa y te dimos qué ponerte?"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4590,
+      "char_end": 4674,
+      "text": "No recordamos que hayas estado enfermo, o en la cárcel, y que te hayamos visitado»."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4674,
+      "char_end": 4865,
+      "text": "Yo, el Rey, les diré: «Lo que ustedes hicieron para ayudar a una de las personas menos importantes de este mundo, a quienes yo considero como hermanos, es como si lo hubieran hecho para mí»."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4865,
+      "char_end": 5057,
+      "text": "Luego les diré a los malvados: «¡Aléjense de mí! Lo único que pueden esperar de Dios es castigo. Váyanse al fuego que nunca se apaga, al fuego que Dios preparó para el diablo y sus ayudantes."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 5057,
+      "char_end": 5155,
+      "text": "Porque cuando tuve hambre, ustedes no me dieron de comer; cuando tuve sed, no me dieron de beber;"
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 5155,
+      "char_end": 5346,
+      "text": "cuando tuve que salir de mi país, ustedes no me recibieron en sus casas; cuando no tuve ropa, ustedes tampoco me dieron qué ponerme; cuando estuve enfermo y en la cárcel, no fueron a verme»."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 5346,
+      "char_end": 5562,
+      "text": "Ellos me responderán: «Señor, nunca te vimos con hambre o con sed. Nunca supimos que tuviste que salir de tu país, ni te vimos sin ropa. Tampoco supimos que estuviste enfermo o en la cárcel. Por eso no te ayudamos»."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 5562,
+      "char_end": 5715,
+      "text": "Entonces les contestaré: «Como ustedes no ayudaron ni a una de las personas menos importantes de este mundo, yo considero que tampoco me ayudaron a mí»."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 5715,
+      "char_end": 5823,
+      "text": "Esta gente malvada recibirá un castigo interminable, pero los que obedecen a Dios recibirán la vida eterna."
+    }
+  ],
+  "words": [
+    {
+      "word": "En el reino de Dios pasará lo mismo que sucedió en una boda.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4225,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Cuando ya era de noche, diez muchachas tomaron sus lámparas de aceite y salieron a recibir al novio.",
+      "verse": 1,
+      "start_ms": 4175,
+      "end_ms": 10312,
+      "duration_ms": 6137
+    },
+    {
+      "word": "Cinco de ellas eran descuidadas, y las otras cinco, responsables.",
+      "verse": 2,
+      "start_ms": 10312,
+      "end_ms": 15412,
+      "duration_ms": 5100
+    },
+    {
+      "word": "Las cinco descuidadas no llevaron aceite suficiente, pero las cinco responsables llevaron aceite para llenar sus lámparas de nuevo.",
+      "verse": 3,
+      "start_ms": 15412,
+      "end_ms": 22799,
+      "duration_ms": 7387
+    },
+    {
+      "word": "Como el novio tardó mucho en llegar, a las diez muchachas les dio sueño y se durmieron.",
+      "verse": 5,
+      "start_ms": 22800,
+      "end_ms": 28225,
+      "duration_ms": 5425
+    },
+    {
+      "word": "Como a la media noche, se oyeron gritos: «¡Ya viene el novio, salgan a recibirlo!",
+      "verse": 6,
+      "start_ms": 28225,
+      "end_ms": 33975,
+      "duration_ms": 5750
+    },
+    {
+      "word": "Las muchachas se levantaron y comenzaron a preparar sus lámparas.",
+      "verse": 7,
+      "start_ms": 33975,
+      "end_ms": 38212,
+      "duration_ms": 4237
+    },
+    {
+      "word": "Entonces las cinco muchachas descuidadas dijeron a las responsables: «Compartan con nosotras el aceite que ustedes traen, porque nuestras lámparas se están apagando».",
+      "verse": 8,
+      "start_ms": 38212,
+      "end_ms": 47512,
+      "duration_ms": 9300
+    },
+    {
+      "word": "Las cinco responsables contestaron: «No tenemos bastante aceite para darles también a ustedes.",
+      "verse": 9,
+      "start_ms": 47512,
+      "end_ms": 53524,
+      "duration_ms": 6012
+    },
+    {
+      "word": "Es mejor que vayan a comprarlo».",
+      "verse": 9,
+      "start_ms": 53525,
+      "end_ms": 56062,
+      "duration_ms": 2537
+    },
+    {
+      "word": "Mientras las cinco muchachas descuidadas fueron a comprar aceite, llegó el novio.",
+      "verse": 10,
+      "start_ms": 56062,
+      "end_ms": 61199,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Entonces, las cinco muchachas responsables entraron con él a la fiesta de bodas, y la puerta se cerró.",
+      "verse": 10,
+      "start_ms": 61200,
+      "end_ms": 67750,
+      "duration_ms": 6550
+    },
+    {
+      "word": "Cuando las cinco descuidadas volvieron, encontraron todo cerrado y gritaron: «¡Señor, Señor, ábranos la puerta!",
+      "verse": 11,
+      "start_ms": 67750,
+      "end_ms": 75337,
+      "duration_ms": 7587
+    },
+    {
+      "word": "Pero el novio les contestó: «No sé quiénes son ustedes.",
+      "verse": 12,
+      "start_ms": 75337,
+      "end_ms": 79412,
+      "duration_ms": 4075
+    },
+    {
+      "word": "No las conozco».",
+      "verse": 12,
+      "start_ms": 79412,
+      "end_ms": 81362,
+      "duration_ms": 1950
+    },
+    {
+      "word": "Por eso ustedes, mis discípulos, deben estar siempre alerta, porque no saben ni el día ni la hora en que yo volveré.",
+      "verse": 13,
+      "start_ms": 81362,
+      "end_ms": 89124,
+      "duration_ms": 7762
+    },
+    {
+      "word": "En el reino de Dios pasará lo mismo que sucedió cierta vez, cuando un hombre decidió irse de viaje.",
+      "verse": 14,
+      "start_ms": 89125,
+      "end_ms": 95537,
+      "duration_ms": 6412
+    },
+    {
+      "word": "Llamó a sus empleados y les encargó su dinero.",
+      "verse": 14,
+      "start_ms": 95537,
+      "end_ms": 99074,
+      "duration_ms": 3537
+    },
+    {
+      "word": "El hombre sabía muy bien lo que cada uno podía hacer.",
+      "verse": 15,
+      "start_ms": 99075,
+      "end_ms": 102862,
+      "duration_ms": 3787
+    },
+    {
+      "word": "Por eso, a uno de ellos le entregó cinco mil monedas, a otro dos mil, y a otro mil.",
+      "verse": 15,
+      "start_ms": 102862,
+      "end_ms": 108999,
+      "duration_ms": 6137
+    },
+    {
+      "word": "Luego se fue de viaje.",
+      "verse": 15,
+      "start_ms": 109000,
+      "end_ms": 111250,
+      "duration_ms": 2250
+    },
+    {
+      "word": "El empleado que había recibido cinco mil monedas hizo negocios con ellas, y logró ganar otras cinco mil.",
+      "verse": 16,
+      "start_ms": 111250,
+      "end_ms": 117712,
+      "duration_ms": 6462
+    },
+    {
+      "word": "El que recibió dos mil monedas ganó otras dos mil.",
+      "verse": 17,
+      "start_ms": 117712,
+      "end_ms": 121299,
+      "duration_ms": 3587
+    },
+    {
+      "word": "Pero el que recibió mil monedas fue y las escondió bajo tierra.",
+      "verse": 18,
+      "start_ms": 121300,
+      "end_ms": 125425,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Mucho tiempo después, el hombre que se había ido de viaje regresó, y quiso arreglar cuentas con sus empleados.",
+      "verse": 19,
+      "start_ms": 125425,
+      "end_ms": 132525,
+      "duration_ms": 7100
+    },
+    {
+      "word": "Llegó el que había recibido cinco mil monedas, se las entregó junto con otras cinco mil y le dijo: «Señor, usted me dio cinco mil monedas, y aquí tiene otras cinco mil que yo gané».",
+      "verse": 20,
+      "start_ms": 132525,
+      "end_ms": 143850,
+      "duration_ms": 11325
+    },
+    {
+      "word": "El hombre le dijo: «¡Excelente!",
+      "verse": 21,
+      "start_ms": 143850,
+      "end_ms": 146600,
+      "duration_ms": 2750
+    },
+    {
+      "word": "Eres un empleado bueno, y se puede confiar en ti.",
+      "verse": 21,
+      "start_ms": 146600,
+      "end_ms": 150262,
+      "duration_ms": 3662
+    },
+    {
+      "word": "Ya que cuidaste bien lo poco que te di, ahora voy a encargarte cosas más importantes.",
+      "verse": 21,
+      "start_ms": 150262,
+      "end_ms": 155874,
+      "duration_ms": 5612
+    },
+    {
+      "word": "Vamos a celebrarlo».",
+      "verse": 21,
+      "start_ms": 155875,
+      "end_ms": 157887,
+      "duration_ms": 2012
+    },
+    {
+      "word": "Después llegó el empleado que había recibido dos mil monedas, y le dijo: «Señor, usted me dio dos mil monedas, y aquí tiene otras dos mil que yo gané».",
+      "verse": 22,
+      "start_ms": 157887,
+      "end_ms": 167562,
+      "duration_ms": 9675
+    },
+    {
+      "word": "El hombre le contestó: «¡Excelente!",
+      "verse": 23,
+      "start_ms": 167562,
+      "end_ms": 170499,
+      "duration_ms": 2937
+    },
+    {
+      "word": "Eres un empleado bueno, y se puede confiar en ti.",
+      "verse": 23,
+      "start_ms": 170500,
+      "end_ms": 174162,
+      "duration_ms": 3662
+    },
+    {
+      "word": "Ya que cuidaste bien lo poco que te di, ahora voy a encargarte cosas más importantes.",
+      "verse": 23,
+      "start_ms": 174162,
+      "end_ms": 179774,
+      "duration_ms": 5612
+    },
+    {
+      "word": "Vamos a celebrarlo».",
+      "verse": 23,
+      "start_ms": 179775,
+      "end_ms": 181787,
+      "duration_ms": 2012
+    },
+    {
+      "word": "Por último, llegó el empleado que había recibido mil monedas, y dijo: «Señor, yo sabía que usted es un hombre muy exigente, que pide hasta lo imposible.",
+      "verse": 24,
+      "start_ms": 181787,
+      "end_ms": 191849,
+      "duration_ms": 10062
+    },
+    {
+      "word": "Por eso me dio miedo, y escondí el dinero bajo tierra.",
+      "verse": 25,
+      "start_ms": 191850,
+      "end_ms": 195862,
+      "duration_ms": 4012
+    },
+    {
+      "word": "Aquí le devuelvo exactamente sus mil monedas».",
+      "verse": 25,
+      "start_ms": 195862,
+      "end_ms": 199487,
+      "duration_ms": 3625
+    },
+    {
+      "word": "El hombre le respondió: «Eres un empleado malo y perezoso.",
+      "verse": 26,
+      "start_ms": 199487,
+      "end_ms": 203724,
+      "duration_ms": 4237
+    },
+    {
+      "word": "Si sabías que soy muy exigente, ¿por qué no llevaste el dinero al banco?",
+      "verse": 26,
+      "start_ms": 203725,
+      "end_ms": 208625,
+      "duration_ms": 4900
+    },
+    {
+      "word": "Así, al volver, yo recibiría el dinero que te di, más los intereses».",
+      "verse": 27,
+      "start_ms": 208625,
+      "end_ms": 213925,
+      "duration_ms": 5300
+    },
+    {
+      "word": "Entonces el hombre dijo a sus ayudantes: «Quítenle a éste las mil monedas, y dénselas al que tiene diez mil.",
+      "verse": 28,
+      "start_ms": 213925,
+      "end_ms": 220900,
+      "duration_ms": 6975
+    },
+    {
+      "word": "Porque al que tiene mucho se le dará más, y le sobrará; pero al que no tiene nada, hasta lo poco que tiene se le quitará.",
+      "verse": 29,
+      "start_ms": 220900,
+      "end_ms": 228237,
+      "duration_ms": 7337
+    },
+    {
+      "word": "Y a este empleado inútil, échenlo afuera, a la oscuridad; allí tendrá tanto miedo que llorará y le rechinarán de terror los dientes».",
+      "verse": 30,
+      "start_ms": 228237,
+      "end_ms": 236537,
+      "duration_ms": 8300
+    },
+    {
+      "word": "Cuando yo, el Hijo del hombre, regrese, vendré como un rey poderoso, rodeado de mis ángeles, y me sentaré en mi trono.",
+      "verse": 31,
+      "start_ms": 236537,
+      "end_ms": 244737,
+      "duration_ms": 8200
+    },
+    {
+      "word": "Gente de todos los países se presentará delante de mí, y apartaré a los malos de los buenos, como el pastor que aparta las cabras de las ovejas.",
+      "verse": 32,
+      "start_ms": 244737,
+      "end_ms": 253387,
+      "duration_ms": 8650
+    },
+    {
+      "word": "A los buenos los pondré a mi derecha, y a los malos a mi izquierda.",
+      "verse": 33,
+      "start_ms": 253387,
+      "end_ms": 257799,
+      "duration_ms": 4412
+    },
+    {
+      "word": "Entonces yo, el Rey, les diré a los buenos: «¡Mi Padre los ha bendecido!",
+      "verse": 34,
+      "start_ms": 257800,
+      "end_ms": 263287,
+      "duration_ms": 5487
+    },
+    {
+      "word": "Vengan,",
+      "verse": 34,
+      "start_ms": 263287,
+      "end_ms": 264762,
+      "duration_ms": 1475
+    },
+    {
+      "word": "participen del reino que mi Padre preparó desde antes de la creación del mundo!",
+      "verse": 34,
+      "start_ms": 264916,
+      "end_ms": 269728,
+      "duration_ms": 4812
+    },
+    {
+      "word": "Porque cuando tuve hambre, ustedes me dieron de comer; cuando tuve sed, me dieron de beber; cuando tuve que salir de mi país, ustedes me recibieron en su casa; cuando no tuve ropa, ustedes me la dieron; cuando estuve enfermo, me visitaron; cuando estuve en la cárcel, ustedes fueron a verme».",
+      "verse": 35,
+      "start_ms": 269678,
+      "end_ms": 286953,
+      "duration_ms": 17275
+    },
+    {
+      "word": "Y los buenos me preguntarán: «Señor, ¿cuándo te vimos con hambre y te dimos de comer?",
+      "verse": 37,
+      "start_ms": 286953,
+      "end_ms": 292465,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Cuándo tuviste sed y te dimos de beber?",
+      "verse": 37,
+      "start_ms": 292466,
+      "end_ms": 295453,
+      "duration_ms": 2987
+    },
+    {
+      "word": "Alguna vez tuviste que salir de tu país y te recibimos en nuestra casa, o te vimos sin ropa y te dimos qué ponerte?",
+      "verse": 38,
+      "start_ms": 295453,
+      "end_ms": 302378,
+      "duration_ms": 6925
+    },
+    {
+      "word": "No recordamos que hayas estado enfermo, o en la cárcel, y que te hayamos visitado».",
+      "verse": 39,
+      "start_ms": 302378,
+      "end_ms": 307628,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Yo, el Rey, les diré: «Lo que ustedes hicieron para ayudar a una de las personas menos importantes de este mundo, a quienes yo considero como hermanos, es como si lo hubieran hecho para mí».",
+      "verse": 40,
+      "start_ms": 307628,
+      "end_ms": 318815,
+      "duration_ms": 11187
+    },
+    {
+      "word": "Luego les diré a los malvados: «¡Aléjense de mí!",
+      "verse": 41,
+      "start_ms": 318816,
+      "end_ms": 322591,
+      "duration_ms": 3775
+    },
+    {
+      "word": "Lo único que pueden esperar de Dios es castigo.",
+      "verse": 41,
+      "start_ms": 322591,
+      "end_ms": 326041,
+      "duration_ms": 3450
+    },
+    {
+      "word": "Váyanse al fuego que nunca se apaga, al fuego que Dios preparó para el diablo y sus ayudantes.",
+      "verse": 41,
+      "start_ms": 326041,
+      "end_ms": 332016,
+      "duration_ms": 5975
+    },
+    {
+      "word": "Porque cuando tuve hambre, ustedes no me dieron de comer; cuando tuve sed, no me dieron de beber; cuando tuve que salir de mi país, ustedes no me recibieron en sus casas; cuando no tuve ropa, ustedes tampoco me dieron qué ponerme; cuando estuve enfermo y en la cárcel, no fueron a verme».",
+      "verse": 42,
+      "start_ms": 332016,
+      "end_ms": 349041,
+      "duration_ms": 17025
+    },
+    {
+      "word": "Ellos me responderán: «Señor, nunca te vimos con hambre o con sed.",
+      "verse": 44,
+      "start_ms": 349041,
+      "end_ms": 353878,
+      "duration_ms": 4837
+    },
+    {
+      "word": "Nunca supimos que tuviste que salir de tu país, ni te vimos sin ropa.",
+      "verse": 44,
+      "start_ms": 353878,
+      "end_ms": 358728,
+      "duration_ms": 4850
+    },
+    {
+      "word": "Tampoco supimos que estuviste enfermo o en la cárcel.",
+      "verse": 44,
+      "start_ms": 358728,
+      "end_ms": 362453,
+      "duration_ms": 3725
+    },
+    {
+      "word": "Por eso no te ayudamos».",
+      "verse": 44,
+      "start_ms": 362453,
+      "end_ms": 364790,
+      "duration_ms": 2337
+    },
+    {
+      "word": "Entonces les contestaré: «Como ustedes no ayudaron ni a una de las personas menos importantes de este mundo, yo considero que tampoco me ayudaron a mí».",
+      "verse": 45,
+      "start_ms": 364791,
+      "end_ms": 373728,
+      "duration_ms": 8937
+    },
+    {
+      "word": "Esta gente malvada recibirá un castigo interminable, pero los que obedecen a Dios recibirán la vida eterna.",
+      "verse": 46,
+      "start_ms": 373728,
+      "end_ms": 380328,
+      "duration_ms": 6600
+    }
+  ]
+}

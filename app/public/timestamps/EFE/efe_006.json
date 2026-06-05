@@ -1,0 +1,411 @@
+{
+  "book": "EFE",
+  "chapter": 6,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 22,
+  "word_count": 35,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 93,
+      "text": "Hijos, obedezcan a sus padres. Ustedes son de Cristo, y eso es lo que les corresponde hacer."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 93,
+      "char_end": 209,
+      "text": "El primer mandamiento que va acompañado de una promesa es el siguiente: Obedezcan y cuiden a su padre y a su madre."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 209,
+      "char_end": 268,
+      "text": "Así les irá bien, y podrán vivir muchos años en la tierra."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 268,
+      "char_end": 368,
+      "text": "Y ustedes, padres, no hagan enojar a sus hijos. Más bien edúquenlos y denles enseñanzas cristianas."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 368,
+      "char_end": 541,
+      "text": "Esclavos y esclavas, obedezcan a los que aquí en la tierra son sus amos. Obedézcanlos con respeto, sinceridad, y de buena gana, como si estuvieran sirviendo a Cristo mismo."
+    },
+    {
+      "verse": 6,
+      "label": "6-7",
+      "char_start": 541,
+      "char_end": 787,
+      "text": "Esto deben hacerlo en todo momento, y no sólo cuando sus amos los estén viendo. Ustedes son esclavos de Cristo, así que deben hacer con alegría y entusiasmo lo que Dios quiere que hagan, como si lo hicieran para el Señor y no sólo para sus amos."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 787,
+      "char_end": 918,
+      "text": "Pueden estar seguros de que el Señor premiará a todos por lo bueno que hayan hecho, sin importar que hayan sido esclavos o libres."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 918,
+      "char_end": 1136,
+      "text": "También ustedes, amos, deben tratar a sus esclavos con igual respeto, y sin amenazas. Recuerden que tanto ustedes como ellos pertenecen al mismo dueño. Ese dueño es Dios, que está en el cielo, y él no tiene favoritos."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1136,
+      "char_end": 1213,
+      "text": "Finalmente, dejen que el gran poder de Cristo les dé las fuerzas necesarias."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1213,
+      "char_end": 1308,
+      "text": "Protéjanse con la armadura que Dios les ha dado, y así podrán resistir los ataques del diablo."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1308,
+      "char_end": 1468,
+      "text": "Porque no luchamos contra gente como nosotros, sino contra espíritus malvados que actúan en el cielo. Ellos imponen su autoridad y su poder en el mundo actual."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1468,
+      "char_end": 1629,
+      "text": "Por lo tanto, ¡protéjanse con la armadura completa! Así, cuando llegue el día malo, podrán resistir los ataques del enemigo y se mantendrán firmes hasta el fin."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1629,
+      "char_end": 1727,
+      "text": "¡Manténganse alerta! Que la verdad y la justicia de Dios los vistan y protejan como una armadura."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1727,
+      "char_end": 1801,
+      "text": "Compartan la buena noticia de la paz; ¡estén siempre listos a anunciarla!"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1801,
+      "char_end": 1908,
+      "text": "Que su confianza en Dios los proteja como un escudo, y apague las flechas encendidas que arroja el diablo."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1908,
+      "char_end": 2028,
+      "text": "Que la salvación los proteja como un casco, y que los defienda la palabra de Dios, que es la espada del Espíritu Santo."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2028,
+      "char_end": 2260,
+      "text": "No se olviden de orar. Y siempre que oren a Dios, dejen que los dirija el Espíritu Santo. Manténganse en estado de alerta, y no se den por vencidos. En sus oraciones, pidan siempre por todos los que forman parte del pueblo de Dios."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2260,
+      "char_end": 2372,
+      "text": "Oren también por mí, y pídanle a Dios que me dé el valor de anunciar el plan que él había mantenido en secreto."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2372,
+      "char_end": 2515,
+      "text": "El Señor me envió a anunciar ese plan, y por eso estoy preso. Pídanle a Dios que me dé el valor de anunciar sin ningún temor la buena noticia."
+    },
+    {
+      "verse": 21,
+      "label": "21-22",
+      "char_start": 2515,
+      "char_end": 2644,
+      "text": "Les envío a Tíquico, nuestro querido compañero y fiel servidor de Cristo, para que los anime y les cuente cómo estoy y qué hago."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2644,
+      "char_end": 2758,
+      "text": "Deseo que Dios el Padre, y el Señor Jesucristo, les den paz, amor y confianza a todos los miembros de la iglesia."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2758,
+      "char_end": 2852,
+      "text": "Y espero que Dios sea bueno con todos los que nunca dejan de amar a nuestro Señor Jesucristo."
+    }
+  ],
+  "words": [
+    {
+      "word": "Hijos, obedezcan a sus padres.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3162,
+      "duration_ms": 3062
+    },
+    {
+      "word": "Ustedes son de Cristo, y eso es lo que les corresponde hacer.",
+      "verse": 1,
+      "start_ms": 3112,
+      "end_ms": 7374,
+      "duration_ms": 4262
+    },
+    {
+      "word": "El primer mandamiento que va acompañado de una promesa es el siguiente: Obedezcan y cuiden a su padre y a su madre.",
+      "verse": 2,
+      "start_ms": 7375,
+      "end_ms": 14600,
+      "duration_ms": 7225
+    },
+    {
+      "word": "Así les irá bien, y podrán vivir muchos años en la tierra.",
+      "verse": 3,
+      "start_ms": 14600,
+      "end_ms": 18975,
+      "duration_ms": 4375
+    },
+    {
+      "word": "Y ustedes, padres, no hagan enojar a sus hijos.",
+      "verse": 4,
+      "start_ms": 18975,
+      "end_ms": 23237,
+      "duration_ms": 4262
+    },
+    {
+      "word": "Más bien edúquenlos y denles enseñanzas cristianas.",
+      "verse": 4,
+      "start_ms": 23237,
+      "end_ms": 27212,
+      "duration_ms": 3975
+    },
+    {
+      "word": "Esclavos y esclavas, obedezcan a los que aquí en la tierra son sus amos.",
+      "verse": 5,
+      "start_ms": 27212,
+      "end_ms": 32224,
+      "duration_ms": 5012
+    },
+    {
+      "word": "Obedézcanlos con respeto, sinceridad, y de buena gana, como si estuvieran sirviendo a Cristo mismo.",
+      "verse": 5,
+      "start_ms": 32225,
+      "end_ms": 39087,
+      "duration_ms": 6862
+    },
+    {
+      "word": "Esto deben hacerlo en todo momento, y no sólo cuando sus amos los estén viendo.",
+      "verse": 6,
+      "start_ms": 39087,
+      "end_ms": 44337,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Ustedes son esclavos de Cristo, así que deben hacer con alegría y entusiasmo lo que Dios quiere que hagan, como si lo hicieran para el Señor y no sólo para sus amos.",
+      "verse": 6,
+      "start_ms": 44337,
+      "end_ms": 53637,
+      "duration_ms": 9300
+    },
+    {
+      "word": "Pueden estar seguros de que el Señor premiará a todos por lo bueno que hayan hecho, sin importar que hayan sido esclavos o libres.",
+      "verse": 8,
+      "start_ms": 53637,
+      "end_ms": 60987,
+      "duration_ms": 7350
+    },
+    {
+      "word": "También ustedes, amos, deben tratar a sus esclavos con igual respeto, y sin amenazas.",
+      "verse": 9,
+      "start_ms": 60987,
+      "end_ms": 67299,
+      "duration_ms": 6312
+    },
+    {
+      "word": "Recuerden que tanto ustedes como ellos pertenecen al mismo dueño.",
+      "verse": 9,
+      "start_ms": 67300,
+      "end_ms": 71550,
+      "duration_ms": 4250
+    },
+    {
+      "word": "Ese dueño es Dios, que está en el cielo, y él no tiene favoritos.",
+      "verse": 9,
+      "start_ms": 71550,
+      "end_ms": 76562,
+      "duration_ms": 5012
+    },
+    {
+      "word": "Finalmente, dejen que el gran poder de Cristo les dé las fuerzas necesarias.",
+      "verse": 10,
+      "start_ms": 76562,
+      "end_ms": 81624,
+      "duration_ms": 5062
+    },
+    {
+      "word": "Protéjanse con la armadura que Dios les ha dado, y así podrán resistir los ataques del diablo.",
+      "verse": 11,
+      "start_ms": 81625,
+      "end_ms": 87550,
+      "duration_ms": 5925
+    },
+    {
+      "word": "Porque no luchamos contra gente como nosotros, sino contra espíritus malvados que actúan en el cielo.",
+      "verse": 12,
+      "start_ms": 87550,
+      "end_ms": 93750,
+      "duration_ms": 6200
+    },
+    {
+      "word": "Ellos imponen su autoridad y su poder en el mundo actual.",
+      "verse": 12,
+      "start_ms": 93750,
+      "end_ms": 97537,
+      "duration_ms": 3787
+    },
+    {
+      "word": "Por lo tanto, ¡protéjanse con la armadura completa!",
+      "verse": 13,
+      "start_ms": 97537,
+      "end_ms": 101387,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Así, cuando llegue el día malo, podrán resistir los ataques del enemigo y se mantendrán firmes hasta el fin.",
+      "verse": 13,
+      "start_ms": 101387,
+      "end_ms": 108399,
+      "duration_ms": 7012
+    },
+    {
+      "word": "Manténganse alerta!",
+      "verse": 14,
+      "start_ms": 108400,
+      "end_ms": 110575,
+      "duration_ms": 2175
+    },
+    {
+      "word": "Que la verdad y la justicia de Dios los vistan y protejan como una armadura.",
+      "verse": 14,
+      "start_ms": 110575,
+      "end_ms": 115425,
+      "duration_ms": 4850
+    },
+    {
+      "word": "Compartan la buena noticia de la paz; ¡estén siempre listos a anunciarla!",
+      "verse": 15,
+      "start_ms": 115425,
+      "end_ms": 120550,
+      "duration_ms": 5125
+    },
+    {
+      "word": "Que su confianza en Dios los proteja como un escudo, y apague las flechas encendidas que arroja el diablo.",
+      "verse": 16,
+      "start_ms": 120550,
+      "end_ms": 126887,
+      "duration_ms": 6337
+    },
+    {
+      "word": "Que la salvación los proteja como un casco, y que los defienda la palabra de Dios, que es la espada del Espíritu Santo.",
+      "verse": 17,
+      "start_ms": 126887,
+      "end_ms": 134224,
+      "duration_ms": 7337
+    },
+    {
+      "word": "No se olviden de orar.",
+      "verse": 18,
+      "start_ms": 134225,
+      "end_ms": 136350,
+      "duration_ms": 2125
+    },
+    {
+      "word": "Y siempre que oren a Dios, dejen que los dirija el Espíritu Santo.",
+      "verse": 18,
+      "start_ms": 136350,
+      "end_ms": 140912,
+      "duration_ms": 4562
+    },
+    {
+      "word": "Manténganse en estado de alerta, y no se den por vencidos.",
+      "verse": 18,
+      "start_ms": 140912,
+      "end_ms": 145387,
+      "duration_ms": 4475
+    },
+    {
+      "word": "En sus oraciones, pidan siempre por todos los que forman parte del pueblo de Dios.",
+      "verse": 18,
+      "start_ms": 145387,
+      "end_ms": 150837,
+      "duration_ms": 5450
+    },
+    {
+      "word": "Oren también por mí, y pídanle a Dios que me dé el valor de anunciar el plan que él había mantenido en secreto.",
+      "verse": 19,
+      "start_ms": 150837,
+      "end_ms": 157587,
+      "duration_ms": 6750
+    },
+    {
+      "word": "El Señor me envió a anunciar ese plan, y por eso estoy preso.",
+      "verse": 20,
+      "start_ms": 157587,
+      "end_ms": 161924,
+      "duration_ms": 4337
+    },
+    {
+      "word": "Pídanle a Dios que me dé el valor de anunciar sin ningún temor la buena noticia.",
+      "verse": 20,
+      "start_ms": 161925,
+      "end_ms": 166875,
+      "duration_ms": 4950
+    },
+    {
+      "word": "Les envío a Tíquico, nuestro querido compañero y fiel servidor de Cristo, para que los anime y les cuente cómo estoy y qué hago.",
+      "verse": 21,
+      "start_ms": 166875,
+      "end_ms": 174750,
+      "duration_ms": 7875
+    },
+    {
+      "word": "Deseo que Dios el Padre, y el Señor Jesucristo, les den paz, amor y confianza a todos los miembros de la iglesia.",
+      "verse": 23,
+      "start_ms": 174750,
+      "end_ms": 182300,
+      "duration_ms": 7550
+    },
+    {
+      "word": "Y espero que Dios sea bueno con todos los que nunca dejan de amar a nuestro Señor Jesucristo.",
+      "verse": 24,
+      "start_ms": 182300,
+      "end_ms": 187762,
+      "duration_ms": 5462
+    }
+  ]
+}

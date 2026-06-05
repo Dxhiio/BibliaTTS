@@ -1,0 +1,159 @@
+{
+  "book": "SAL",
+  "chapter": 6,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 7,
+  "word_count": 14,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-2",
+      "char_start": 0,
+      "char_end": 186,
+      "text": "Dios mío, ¡tenme compasión! No me reprendas cuando estés enojado ni me castigues cuando estés furioso, pues ya no me quedan fuerzas. Devuélveme la salud, pues todo el cuerpo me tiembla."
+    },
+    {
+      "verse": 3,
+      "label": "3-4",
+      "char_start": 186,
+      "char_end": 322,
+      "text": "Dios mío, estoy muy tembloroso; ¿cuándo vendrás en mi ayuda? ¡Vuélvete a mirarme, y sálvame! ¡Por tu gran amor, te ruego que me salves!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 322,
+      "char_end": 418,
+      "text": "En el mundo de los muertos nadie se acuerda de ti. Si dejas que me muera, ya no podré alabarte."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 418,
+      "char_end": 512,
+      "text": "¡Ya estoy cansado de llorar! Por las noches lloro tanto que mis lágrimas empapan mi almohada."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 512,
+      "char_end": 617,
+      "text": "Es tanto lo que sufro que los ojos se me nublan; ¡por culpa de mis enemigos ya estoy perdiendo la vista!"
+    },
+    {
+      "verse": 8,
+      "label": "8-9",
+      "char_start": 617,
+      "char_end": 712,
+      "text": "¡Gente malvada, apártense de mí, porque Dios ha escuchado mis ruegos y ha aceptado mi oración!"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 712,
+      "char_end": 816,
+      "text": "Ustedes, mis enemigos, quedarán confundidos y avergonzados. ¡En un instante huirán llenos de vergüenza!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios mío, ¡tenme compasión!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 2750,
+      "duration_ms": 2650
+    },
+    {
+      "word": "No me reprendas cuando estés enojado ni me castigues cuando estés furioso, pues ya no me quedan fuerzas.",
+      "verse": 1,
+      "start_ms": 2700,
+      "end_ms": 8987,
+      "duration_ms": 6287
+    },
+    {
+      "word": "Devuélveme la salud, pues todo el cuerpo me tiembla.",
+      "verse": 1,
+      "start_ms": 8987,
+      "end_ms": 12874,
+      "duration_ms": 3887
+    },
+    {
+      "word": "Dios mío, estoy muy tembloroso; ¿cuándo vendrás en mi ayuda?",
+      "verse": 3,
+      "start_ms": 12875,
+      "end_ms": 17587,
+      "duration_ms": 4712
+    },
+    {
+      "word": "Vuélvete a mirarme, y sálvame!",
+      "verse": 3,
+      "start_ms": 17587,
+      "end_ms": 20362,
+      "duration_ms": 2775
+    },
+    {
+      "word": "Por tu gran amor, te ruego que me salves!",
+      "verse": 3,
+      "start_ms": 20362,
+      "end_ms": 23699,
+      "duration_ms": 3337
+    },
+    {
+      "word": "En el mundo de los muertos nadie se acuerda de ti.",
+      "verse": 5,
+      "start_ms": 23700,
+      "end_ms": 27237,
+      "duration_ms": 3537
+    },
+    {
+      "word": "Si dejas que me muera, ya no podré alabarte.",
+      "verse": 5,
+      "start_ms": 27237,
+      "end_ms": 30837,
+      "duration_ms": 3600
+    },
+    {
+      "word": "Ya estoy cansado de llorar!",
+      "verse": 6,
+      "start_ms": 30837,
+      "end_ms": 33187,
+      "duration_ms": 2350
+    },
+    {
+      "word": "Por las noches lloro tanto que mis lágrimas empapan mi almohada.",
+      "verse": 6,
+      "start_ms": 33187,
+      "end_ms": 37324,
+      "duration_ms": 4137
+    },
+    {
+      "word": "Es tanto lo que sufro que los ojos se me nublan; ¡por culpa de mis enemigos ya estoy perdiendo la vista!",
+      "verse": 7,
+      "start_ms": 37325,
+      "end_ms": 43462,
+      "duration_ms": 6137
+    },
+    {
+      "word": "Gente malvada, apártense de mí, porque Dios ha escuchado mis ruegos y ha aceptado mi oración!",
+      "verse": 8,
+      "start_ms": 43462,
+      "end_ms": 49724,
+      "duration_ms": 6262
+    },
+    {
+      "word": "Ustedes, mis enemigos, quedarán confundidos y avergonzados.",
+      "verse": 10,
+      "start_ms": 49725,
+      "end_ms": 54650,
+      "duration_ms": 4925
+    },
+    {
+      "word": "En un instante huirán llenos de vergüenza!",
+      "verse": 10,
+      "start_ms": 54650,
+      "end_ms": 57775,
+      "duration_ms": 3125
+    }
+  ]
+}

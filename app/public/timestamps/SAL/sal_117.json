@@ -1,0 +1,47 @@
+{
+  "book": "SAL",
+  "chapter": 117,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 2,
+  "word_count": 3,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 47,
+      "text": "Naciones todas, pueblos todos, ¡alaben a Dios!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 47,
+      "char_end": 134,
+      "text": "¡Porque él es un Dios fiel, y nunca deja de amarnos! ¡Alabemos siempre a nuestro Dios!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Naciones todas, pueblos todos, ¡alaben a Dios!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4350,
+      "duration_ms": 4250
+    },
+    {
+      "word": "Porque él es un Dios fiel, y nunca deja de amarnos!",
+      "verse": 2,
+      "start_ms": 4300,
+      "end_ms": 8137,
+      "duration_ms": 3837
+    },
+    {
+      "word": "Alabemos siempre a nuestro Dios!",
+      "verse": 2,
+      "start_ms": 8137,
+      "end_ms": 10749,
+      "duration_ms": 2612
+    }
+  ]
+}

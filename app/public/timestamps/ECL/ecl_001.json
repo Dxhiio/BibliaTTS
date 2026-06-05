@@ -1,0 +1,306 @@
+{
+  "book": "ECL",
+  "chapter": 1,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 17,
+  "word_count": 25,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1-2",
+      "char_start": 0,
+      "char_end": 136,
+      "text": "Éstas son las palabras del Predicador, hijo de David, que fue rey en Jerusalén: ¡En esta vida nada tiene sentido! ¡Todo es una ilusión!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 136,
+      "char_end": 193,
+      "text": "Realmente, en esta vida nada ganamos con tanto trabajar."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 193,
+      "char_end": 253,
+      "text": "Unos nacemos, y otros morimos, pero la tierra jamás cambia."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 253,
+      "char_end": 365,
+      "text": "El sol sale por la mañana, y por la tarde se oculta, y vuelve corriendo a su lugar para salir al día siguiente."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 365,
+      "char_end": 468,
+      "text": "El viento gira y gira, y no deja de girar; a veces sopla hacia el norte, y a veces sopla hacia el sur."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 468,
+      "char_end": 590,
+      "text": "Los ríos corren hacia el mar, y luego vuelven a sus fuentes para volver a vaciarse en el mar, pero el mar jamás se llena."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 590,
+      "char_end": 701,
+      "text": "¡Qué difícil me resulta explicar lo aburrido que es todo esto! ¡Nadie se cansa de ver! ¡Nadie se cansa de oír!"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 701,
+      "char_end": 814,
+      "text": "Lo que antes sucedió, vuelve a suceder; lo que antes se hizo, vuelve a hacerse. ¡En esta vida no hay nada nuevo!"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 814,
+      "char_end": 921,
+      "text": "Cuando alguien llega a decir: ¡Aquí tengo algo nuevo!, resulta que eso ya existía antes de que naciéramos."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 921,
+      "char_end": 1081,
+      "text": "Nosotros no nos acordamos de lo que otros hicieron, ni los que vengan después se acordarán de lo que hicimos. ¡Los que vengan después creerán empezar de nuevo!"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1081,
+      "char_end": 1154,
+      "text": "Yo, el Predicador, fui rey de Israel, y reiné en la ciudad de Jerusalén."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1154,
+      "char_end": 1298,
+      "text": "Toda mi sabiduría la dediqué a tratar de entender lo que se hace en este mundo. ¡Ésta es la tarea que Dios nos dejó, y es una tarea muy pesada!"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1298,
+      "char_end": 1418,
+      "text": "Pude darme cuenta de que no tiene sentido nada de lo que se hace en este mundo; ¡todo es como querer atrapar el viento!"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1418,
+      "char_end": 1499,
+      "text": "Como dice el dicho: Nadie puede enderezar lo torcido, ni contar lo que no tiene."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1499,
+      "char_end": 1671,
+      "text": "Entonces me puse a pensar: Vaya, vaya, aquí me tienen, hecho todo un gran personaje. Nunca hubo en Jerusalén nadie más sabio que yo; nunca nadie tuvo tantos conocimientos."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1671,
+      "char_end": 1849,
+      "text": "Aquí me tienen, dedicado por completo a tratar de comprender lo que es la sabiduría; ¡conozco hasta las más grandes tonterías! Pero también eso es como querer atrapar el viento."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1849,
+      "char_end": 1973,
+      "text": "Lo cierto es que mientras más se sabe, más se sufre; mientras más se llena uno de conocimientos, más se llena de problemas."
+    }
+  ],
+  "words": [
+    {
+      "word": "Éstas son las palabras del Predicador, hijo de David, que fue rey en Jerusalén: ¡En esta vida nada tiene sentido!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7837,
+      "duration_ms": 7737
+    },
+    {
+      "word": "Todo es una ilusión!",
+      "verse": 1,
+      "start_ms": 7787,
+      "end_ms": 9762,
+      "duration_ms": 1975
+    },
+    {
+      "word": "Realmente, en esta vida nada ganamos con tanto trabajar.",
+      "verse": 3,
+      "start_ms": 9762,
+      "end_ms": 14237,
+      "duration_ms": 4475
+    },
+    {
+      "word": "Unos nacemos, y otros morimos, pero la tierra jamás cambia.",
+      "verse": 4,
+      "start_ms": 14237,
+      "end_ms": 19024,
+      "duration_ms": 4787
+    },
+    {
+      "word": "El sol sale por la mañana, y por la tarde se oculta, y vuelve corriendo a su lugar para salir al día siguiente.",
+      "verse": 5,
+      "start_ms": 19025,
+      "end_ms": 25925,
+      "duration_ms": 6900
+    },
+    {
+      "word": "El viento gira y gira, y no deja de girar; a veces sopla hacia el norte, y a veces sopla hacia el sur.",
+      "verse": 6,
+      "start_ms": 25925,
+      "end_ms": 33225,
+      "duration_ms": 7300
+    },
+    {
+      "word": "Los ríos corren hacia el mar, y luego vuelven a sus fuentes para volver a vaciarse en el mar, pero el mar jamás se llena.",
+      "verse": 7,
+      "start_ms": 33225,
+      "end_ms": 40350,
+      "duration_ms": 7125
+    },
+    {
+      "word": "Qué difícil me resulta explicar lo aburrido que es todo esto!",
+      "verse": 8,
+      "start_ms": 40350,
+      "end_ms": 44287,
+      "duration_ms": 3937
+    },
+    {
+      "word": "Nadie se cansa de ver!",
+      "verse": 8,
+      "start_ms": 44287,
+      "end_ms": 46562,
+      "duration_ms": 2275
+    },
+    {
+      "word": "Nadie se cansa de oír!",
+      "verse": 8,
+      "start_ms": 46562,
+      "end_ms": 48874,
+      "duration_ms": 2312
+    },
+    {
+      "word": "Lo que antes sucedió, vuelve a suceder; lo que antes se hizo, vuelve a hacerse.",
+      "verse": 9,
+      "start_ms": 48875,
+      "end_ms": 54475,
+      "duration_ms": 5600
+    },
+    {
+      "word": "En esta vida no hay nada nuevo!",
+      "verse": 9,
+      "start_ms": 54475,
+      "end_ms": 56912,
+      "duration_ms": 2437
+    },
+    {
+      "word": "Cuando alguien llega a decir: ¡Aquí tengo algo nuevo!, resulta que eso ya existía antes de que naciéramos.",
+      "verse": 10,
+      "start_ms": 56912,
+      "end_ms": 63924,
+      "duration_ms": 7012
+    },
+    {
+      "word": "Nosotros no nos acordamos de lo que otros hicieron, ni los que vengan después se acordarán de lo que hicimos.",
+      "verse": 11,
+      "start_ms": 63925,
+      "end_ms": 70125,
+      "duration_ms": 6200
+    },
+    {
+      "word": "Los que vengan después creerán empezar de nuevo!",
+      "verse": 11,
+      "start_ms": 70125,
+      "end_ms": 73337,
+      "duration_ms": 3212
+    },
+    {
+      "word": "Yo, el Predicador, fui rey de Israel, y reiné en la ciudad de Jerusalén.",
+      "verse": 12,
+      "start_ms": 73337,
+      "end_ms": 79049,
+      "duration_ms": 5712
+    },
+    {
+      "word": "Toda mi sabiduría la dediqué a tratar de entender lo que se hace en este mundo.",
+      "verse": 13,
+      "start_ms": 79050,
+      "end_ms": 83875,
+      "duration_ms": 4825
+    },
+    {
+      "word": "Ésta es la tarea que Dios nos dejó, y es una tarea muy pesada!",
+      "verse": 13,
+      "start_ms": 83875,
+      "end_ms": 88400,
+      "duration_ms": 4525
+    },
+    {
+      "word": "Pude darme cuenta de que no tiene sentido nada de lo que se hace en este mundo; ¡todo es como querer atrapar el viento!",
+      "verse": 14,
+      "start_ms": 88400,
+      "end_ms": 95137,
+      "duration_ms": 6737
+    },
+    {
+      "word": "Como dice el dicho: Nadie puede enderezar lo torcido, ni contar lo que no tiene.",
+      "verse": 15,
+      "start_ms": 95137,
+      "end_ms": 100624,
+      "duration_ms": 5487
+    },
+    {
+      "word": "Entonces me puse a pensar: Vaya, vaya, aquí me tienen, hecho todo un gran personaje.",
+      "verse": 16,
+      "start_ms": 100625,
+      "end_ms": 107025,
+      "duration_ms": 6400
+    },
+    {
+      "word": "Nunca hubo en Jerusalén nadie más sabio que yo; nunca nadie tuvo tantos conocimientos.",
+      "verse": 16,
+      "start_ms": 107025,
+      "end_ms": 113250,
+      "duration_ms": 6225
+    },
+    {
+      "word": "Aquí me tienen, dedicado por completo a tratar de comprender lo que es la sabiduría; ¡conozco hasta las más grandes tonterías!",
+      "verse": 17,
+      "start_ms": 113250,
+      "end_ms": 121062,
+      "duration_ms": 7812
+    },
+    {
+      "word": "Pero también eso es como querer atrapar el viento.",
+      "verse": 17,
+      "start_ms": 121062,
+      "end_ms": 124399,
+      "duration_ms": 3337
+    },
+    {
+      "word": "Lo cierto es que mientras más se sabe, más se sufre; mientras más se llena uno de conocimientos, más se llena de problemas.",
+      "verse": 18,
+      "start_ms": 124400,
+      "end_ms": 132150,
+      "duration_ms": 7750
+    }
+  ]
+}

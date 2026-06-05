@@ -1,0 +1,215 @@
+{
+  "book": "EST",
+  "chapter": 7,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 9,
+  "word_count": 20,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 72,
+      "text": "El rey Asuero y Amán fueron al banquete que les ofrecía la reina Ester."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 72,
+      "char_end": 220,
+      "text": "Mientras bebían vino, el rey le volvió a preguntar a Ester: —¿Dime qué deseas, reina Ester? Hasta la mitad de mi reino te daría, si me lo pidieras."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 220,
+      "char_end": 340,
+      "text": "Ester le respondió: —Si Su Majestad en verdad me ama, y si le parece bien, le pido que salve mi vida y la de mi pueblo."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 340,
+      "char_end": 528,
+      "text": "Se ha puesto precio a nuestra vida, y se nos quiere destruir. Si hubiéramos sido vendidos como esclavos y esclavas, yo me callaría, y no molestaría a Su Majestad por algo sin importancia."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 528,
+      "char_end": 603,
+      "text": "El rey Asuero le preguntó: —¿Y quién se atrevió a hacer esto? ¿Dónde está?"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 603,
+      "char_end": 725,
+      "text": "Ester, señalando a Amán, le respondió: —¡Nuestro enemigo es este malvado! Al oír esto, Amán se quedó paralizado de miedo."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 725,
+      "char_end": 934,
+      "text": "El rey Asuero se levantó de la mesa muy enojado, y salió al jardín para calmarse. Cuando Amán se dio cuenta de que el rey estaba decidido a matarlo, se quedó en la sala para rogarle a la reina que lo salvara."
+    },
+    {
+      "verse": 8,
+      "label": "8-9",
+      "char_start": 934,
+      "char_end": 1423,
+      "text": "Cuando el rey regresó del jardín y entró a la sala, vio que Amán estaba demasiado cerca de Ester. Entonces el rey exclamó: —¡Sólo eso me faltaba! ¡Que le faltes al respeto a mi esposa ante mis ojos, y en mi propia casa! Cuando los guardias oyeron los gritos del rey, entraron y le cubrieron la cara a Amán. Uno de los guardias, llamado Harboná, dijo: —En la casa de Amán hay una horca de veintidós metros de alto. Él la preparó para Mardoqueo, el judío que le salvó la vida a Su Majestad."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1423,
+      "char_end": 1575,
+      "text": "Entonces el rey ordenó: —¡Cuélguenlo allí! Los guardias colgaron a Amán en la horca que él había preparado para Mardoqueo, y así el rey se tranquilizó."
+    }
+  ],
+  "words": [
+    {
+      "word": "El rey Asuero y Amán fueron al banquete que les ofrecía la reina Ester.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4712,
+      "duration_ms": 4612
+    },
+    {
+      "word": "Mientras bebían vino, el rey le volvió a preguntar a Ester: —¿Dime qué deseas, reina Ester?",
+      "verse": 2,
+      "start_ms": 4662,
+      "end_ms": 11062,
+      "duration_ms": 6400
+    },
+    {
+      "word": "Hasta la mitad de mi reino te daría, si me lo pidieras.",
+      "verse": 2,
+      "start_ms": 11062,
+      "end_ms": 15199,
+      "duration_ms": 4137
+    },
+    {
+      "word": "Ester le respondió: —Si Su Majestad en verdad me ama, y si le parece bien, le pido que salve mi vida y la de mi pueblo.",
+      "verse": 3,
+      "start_ms": 15200,
+      "end_ms": 22887,
+      "duration_ms": 7687
+    },
+    {
+      "word": "Se ha puesto precio a nuestra vida, y se nos quiere destruir.",
+      "verse": 4,
+      "start_ms": 22887,
+      "end_ms": 27074,
+      "duration_ms": 4187
+    },
+    {
+      "word": "Si hubiéramos sido vendidos como esclavos y esclavas, yo me callaría, y no molestaría a Su Majestad por algo sin importancia.",
+      "verse": 4,
+      "start_ms": 27075,
+      "end_ms": 34787,
+      "duration_ms": 7712
+    },
+    {
+      "word": "El rey Asuero le preguntó: —¿Y quién se atrevió a hacer esto?",
+      "verse": 5,
+      "start_ms": 34787,
+      "end_ms": 38987,
+      "duration_ms": 4200
+    },
+    {
+      "word": "Dónde está?",
+      "verse": 5,
+      "start_ms": 38987,
+      "end_ms": 40674,
+      "duration_ms": 1687
+    },
+    {
+      "word": "Ester, señalando a Amán, le respondió: —¡Nuestro enemigo es este malvado!",
+      "verse": 6,
+      "start_ms": 40675,
+      "end_ms": 46050,
+      "duration_ms": 5375
+    },
+    {
+      "word": "Al oír esto, Amán se quedó paralizado de miedo.",
+      "verse": 6,
+      "start_ms": 46050,
+      "end_ms": 49925,
+      "duration_ms": 3875
+    },
+    {
+      "word": "El rey Asuero se levantó de la mesa muy enojado, y salió al jardín para calmarse.",
+      "verse": 7,
+      "start_ms": 49925,
+      "end_ms": 55375,
+      "duration_ms": 5450
+    },
+    {
+      "word": "Cuando Amán se dio cuenta de que el rey estaba decidido a matarlo, se quedó en la sala para rogarle a la reina que lo salvara.",
+      "verse": 7,
+      "start_ms": 55375,
+      "end_ms": 62425,
+      "duration_ms": 7050
+    },
+    {
+      "word": "Cuando el rey regresó del jardín y entró a la sala, vio que Amán estaba demasiado cerca de Ester.",
+      "verse": 8,
+      "start_ms": 62425,
+      "end_ms": 68325,
+      "duration_ms": 5900
+    },
+    {
+      "word": "Entonces el rey exclamó: —¡Sólo eso me faltaba!",
+      "verse": 8,
+      "start_ms": 68325,
+      "end_ms": 72300,
+      "duration_ms": 3975
+    },
+    {
+      "word": "Que le faltes al respeto a mi esposa ante mis ojos, y en mi propia casa!",
+      "verse": 8,
+      "start_ms": 72300,
+      "end_ms": 77262,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Cuando los guardias oyeron los gritos del rey, entraron y le cubrieron la cara a Amán.",
+      "verse": 8,
+      "start_ms": 77262,
+      "end_ms": 82549,
+      "duration_ms": 5287
+    },
+    {
+      "word": "Uno de los guardias, llamado Harboná, dijo: —En la casa de Amán hay una horca de veintidós metros de alto.",
+      "verse": 8,
+      "start_ms": 82550,
+      "end_ms": 89437,
+      "duration_ms": 6887
+    },
+    {
+      "word": "Él la preparó para Mardoqueo, el judío que le salvó la vida a Su Majestad.",
+      "verse": 8,
+      "start_ms": 89437,
+      "end_ms": 94524,
+      "duration_ms": 5087
+    },
+    {
+      "word": "Entonces el rey ordenó: —¡Cuélguenlo allí!",
+      "verse": 10,
+      "start_ms": 94525,
+      "end_ms": 97800,
+      "duration_ms": 3275
+    },
+    {
+      "word": "Los guardias colgaron a Amán en la horca que él había preparado para Mardoqueo, y así el rey se tranquilizó.",
+      "verse": 10,
+      "start_ms": 97800,
+      "end_ms": 104550,
+      "duration_ms": 6750
+    }
+  ]
+}

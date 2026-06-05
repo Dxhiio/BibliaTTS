@@ -1,0 +1,670 @@
+{
+  "book": "LEV",
+  "chapter": 26,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 36,
+  "word_count": 58,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 74,
+      "text": "No se fabriquen ninguna clase de ídolos, ni los adoren, pues yo soy Dios."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 74,
+      "char_end": 162,
+      "text": "Muestren respeto por mi santuario, y descansen en día sábado. Yo soy el Dios de Israel."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 162,
+      "char_end": 193,
+      "text": "Obedezcan fielmente mis leyes,"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 193,
+      "char_end": 283,
+      "text": "y yo les enviaré lluvia a tiempo para que tengan buenas cosechas de cereales y de frutas."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 283,
+      "char_end": 401,
+      "text": "Será tan grande su cosecha, que no sabrán qué hacer con ella. Comerán hasta quedar satisfechos, y vivirán tranquilos."
+    },
+    {
+      "verse": 6,
+      "label": "6-8",
+      "char_start": 401,
+      "char_end": 635,
+      "text": "Yo les daré paz y seguridad. No tendrán por qué tener miedo de los animales salvajes, ni tampoco de sus enemigos, pues ustedes fácilmente los derrotarán: bastarán cinco de ustedes para hacer huir a cien, y cien harán huir a diez mil."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 635,
+      "char_end": 730,
+      "text": "Yo cumpliré las promesas que les hice. Los trataré con tanto amor que su nación será poderosa."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 730,
+      "char_end": 841,
+      "text": "Tan abundantes serán sus cosechas que tendrán que sacar de sus graneros el cereal viejo para guardar el nuevo."
+    },
+    {
+      "verse": 11,
+      "label": "11-12",
+      "char_start": 841,
+      "char_end": 1014,
+      "text": "Yo los acompañaré a dondequiera que vayan, y habitaré en el santuario que me han construido; nunca más los miraré con desagrado. Ustedes serán mi pueblo, y yo seré su Dios."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1014,
+      "char_end": 1157,
+      "text": "Yo soy el Dios de Israel. Yo los saqué de Egipto y les di libertad. Deben sentirse orgullosos de esto, pues nunca más volverán a ser esclavos."
+    },
+    {
+      "verse": 14,
+      "label": "14-15",
+      "char_start": 1157,
+      "char_end": 1242,
+      "text": "Pero si ustedes no cumplen mis leyes, sino que me desobedecen y no cumplen mi pacto,"
+    },
+    {
+      "verse": 16,
+      "label": "16-17",
+      "char_start": 1242,
+      "char_end": 1583,
+      "text": "yo los castigaré duramente, y ésa será su ruina. Les enviaré enfermedades de las que no podrán sanar, y una fiebre que los dejará ciegos y sin fuerzas. Yo me apartaré de ustedes para que sus enemigos los destruyan, y ellos se comerán lo que ustedes planten. Bastará con que ustedes oigan hablar de un ataque enemigo para que salgan huyendo."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1583,
+      "char_end": 1685,
+      "text": "Si a pesar de eso se niegan a obedecerme, yo los castigaré muy duramente por cada uno de sus pecados,"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1685,
+      "char_end": 1816,
+      "text": "hasta humillarlos por completo. Haré que deje de llover. El alto cielo parecerá de hierro, y el suelo que pisan parecerá de cobre."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1816,
+      "char_end": 1886,
+      "text": "De nada les servirá trabajar la tierra, porque no les producirá nada."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1886,
+      "char_end": 1982,
+      "text": "Y si aún siguen rebelándose contra mí, los castigaré todavía más de lo que merecen sus pecados."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1982,
+      "char_end": 2150,
+      "text": "Dejaré que los animales salvajes los ataquen, y que se coman a sus hijos y a su ganado. Los que aún queden con vida serán tan pocos que los caminos se verán desiertos."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2150,
+      "char_end": 2190,
+      "text": "Y si aún así continúan siendo rebeldes,"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2190,
+      "char_end": 2250,
+      "text": "yo los castigaré todavía más de lo que merecen sus pecados."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2250,
+      "char_end": 2454,
+      "text": "Haré que mueran en la guerra, como castigo por no cumplir con mi pacto. Ustedes correrán a refugiarse en sus ciudades, pero yo les enviaré terribles enfermedades y los haré caer en manos de sus enemigos."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2454,
+      "char_end": 2611,
+      "text": "Además, los dejaré sin alimentos. La comida será tan escasa, que en un pequeño horno cocerán pan diez mujeres. ¡Ningún pan bastará para calmarles el hambre!"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2611,
+      "char_end": 2664,
+      "text": "Si a pesar de todo esto siguen siendo desobedientes,"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2664,
+      "char_end": 2750,
+      "text": "yo me enfrentaré a ustedes y los castigaré todavía más de lo que merecen sus pecados."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2750,
+      "char_end": 2805,
+      "text": "¡Hasta llegarán a comerse a sus propios hijos e hijas!"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2805,
+      "char_end": 2956,
+      "text": "Yo les mostraré mi desprecio destruyendo sus pequeños templos de las colinas, derribando sus altares y amontonando sus cadáveres encima de sus ídolos."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2956,
+      "char_end": 3069,
+      "text": "Yo convertiré sus ciudades en un montón de ruinas. Destruiré su santuario, y rechazaré el aroma de sus ofrendas."
+    },
+    {
+      "verse": 32,
+      "label": "32-33",
+      "char_start": 3069,
+      "char_end": 3254,
+      "text": "Su país quedará hecho un desierto, y sus ciudades quedarán en ruinas, pues los perseguiré espada en mano, y huirán a las naciones vecinas. ¡Hasta sus enemigos se sorprenderán al verlo!"
+    },
+    {
+      "verse": 34,
+      "label": "34-35",
+      "char_start": 3254,
+      "char_end": 3485,
+      "text": "Mientras la tierra esté abandonada, descansará, como debió hacerlo cada siete años mientras ustedes vivieron en ella. Sólo así podrá gozar de sus merecidos descansos. Y mientras tanto, ustedes andarán dispersos en un país enemigo."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3485,
+      "char_end": 3669,
+      "text": "A los que aún queden vivos, los llenaré de terror en la tierra de sus enemigos. Oirán caer una hoja, y saldrán huyendo como quien huye de la espada; ¡caerán sin que nadie los persiga!"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3669,
+      "char_end": 3742,
+      "text": "Se atropellarán unos con otros, y no podrán hacer frente a sus enemigos."
+    },
+    {
+      "verse": 38,
+      "label": "38-40",
+      "char_start": 3742,
+      "char_end": 3967,
+      "text": "Sobre ustedes recaerá la culpa por los pecados que cometieron sus padres, y también la culpa por sus propios pecados. ¡Morirán en otras tierras, bajo el poder de sus enemigos! Entonces reconocerán que se rebelaron contra mí."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 3967,
+      "char_end": 4104,
+      "text": "Ahora son rebeldes y se comportan como las naciones que no creen en mí, pero entonces se humillarán y aceptarán el castigo de su maldad."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4104,
+      "char_end": 4203,
+      "text": "Yo cumpliré la promesa que les hice a Abraham, a Isaac y a Jacob, y bendeciré la tierra prometida;"
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4203,
+      "char_end": 4373,
+      "text": "tierra que ustedes dejarán abandonada y que al fin gozará de su merecido descanso. ¡Pero ustedes serán castigados por su maldad y por no haber cumplido mis mandamientos!"
+    },
+    {
+      "verse": 44,
+      "label": "44-45",
+      "char_start": 4373,
+      "char_end": 4628,
+      "text": "Y aunque estarán en un país enemigo, yo no los destruiré por completo. Mi enojo no llega a tanto. Yo soy el Dios de Israel, y renovaré el pacto que hice con sus antepasados, cuando los saqué de Egipto para ser su Dios. ¡Esto lo vieron todas las naciones!"
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 4628,
+      "char_end": 4719,
+      "text": "Éstas son las leyes que Dios nos dio por medio de Moisés, cuando estaba en el monte Sinaí."
+    }
+  ],
+  "words": [
+    {
+      "word": "No se fabriquen ninguna clase de ídolos, ni los adoren, pues yo soy Dios.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5500,
+      "duration_ms": 5400
+    },
+    {
+      "word": "Muestren respeto por mi santuario, y descansen en día sábado.",
+      "verse": 2,
+      "start_ms": 5450,
+      "end_ms": 9937,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Yo soy el Dios de Israel.",
+      "verse": 2,
+      "start_ms": 9937,
+      "end_ms": 12437,
+      "duration_ms": 2500
+    },
+    {
+      "word": "Obedezcan fielmente mis leyes, y yo les enviaré lluvia a tiempo para que tengan buenas cosechas de cereales y de frutas.",
+      "verse": 3,
+      "start_ms": 12437,
+      "end_ms": 19824,
+      "duration_ms": 7387
+    },
+    {
+      "word": "Será tan grande su cosecha, que no sabrán qué hacer con ella.",
+      "verse": 5,
+      "start_ms": 19825,
+      "end_ms": 23987,
+      "duration_ms": 4162
+    },
+    {
+      "word": "Comerán hasta quedar satisfechos, y vivirán tranquilos.",
+      "verse": 5,
+      "start_ms": 23987,
+      "end_ms": 28124,
+      "duration_ms": 4137
+    },
+    {
+      "word": "Yo les daré paz y seguridad.",
+      "verse": 6,
+      "start_ms": 28125,
+      "end_ms": 30712,
+      "duration_ms": 2587
+    },
+    {
+      "word": "No tendrán por qué tener miedo de los animales salvajes, ni tampoco de sus enemigos, pues ustedes fácilmente los derrotarán: bastarán cinco de ustedes para hacer huir a cien, y cien harán huir a diez mil.",
+      "verse": 6,
+      "start_ms": 30712,
+      "end_ms": 42799,
+      "duration_ms": 12087
+    },
+    {
+      "word": "Yo cumpliré las promesas que les hice.",
+      "verse": 9,
+      "start_ms": 42800,
+      "end_ms": 45637,
+      "duration_ms": 2837
+    },
+    {
+      "word": "Los trataré con tanto amor que su nación será poderosa.",
+      "verse": 9,
+      "start_ms": 45637,
+      "end_ms": 49499,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Tan abundantes serán sus cosechas que tendrán que sacar de sus graneros el cereal viejo para guardar el nuevo.",
+      "verse": 10,
+      "start_ms": 49500,
+      "end_ms": 55537,
+      "duration_ms": 6037
+    },
+    {
+      "word": "Yo los acompañaré a dondequiera que vayan, y habitaré en el santuario que me han construido; nunca más los miraré con desagrado.",
+      "verse": 11,
+      "start_ms": 55537,
+      "end_ms": 63549,
+      "duration_ms": 8012
+    },
+    {
+      "word": "Ustedes serán mi pueblo, y yo seré su Dios.",
+      "verse": 11,
+      "start_ms": 63550,
+      "end_ms": 67150,
+      "duration_ms": 3600
+    },
+    {
+      "word": "Yo soy el Dios de Israel.",
+      "verse": 13,
+      "start_ms": 67150,
+      "end_ms": 69650,
+      "duration_ms": 2500
+    },
+    {
+      "word": "Yo los saqué de Egipto y les di libertad.",
+      "verse": 13,
+      "start_ms": 69650,
+      "end_ms": 72825,
+      "duration_ms": 3175
+    },
+    {
+      "word": "Deben sentirse orgullosos de esto, pues nunca más volverán a ser esclavos.",
+      "verse": 13,
+      "start_ms": 72825,
+      "end_ms": 78100,
+      "duration_ms": 5275
+    },
+    {
+      "word": "Pero si ustedes no cumplen mis leyes, sino que me desobedecen y no cumplen mi pacto, yo los castigaré duramente, y ésa será su ruina.",
+      "verse": 14,
+      "start_ms": 78100,
+      "end_ms": 86737,
+      "duration_ms": 8637
+    },
+    {
+      "word": "Les enviaré enfermedades de las que no podrán sanar, y una fiebre que los dejará ciegos y sin fuerzas.",
+      "verse": 16,
+      "start_ms": 86737,
+      "end_ms": 93149,
+      "duration_ms": 6412
+    },
+    {
+      "word": "Yo me apartaré de ustedes para que sus enemigos los destruyan, y ellos se comerán lo que ustedes planten.",
+      "verse": 16,
+      "start_ms": 93150,
+      "end_ms": 99387,
+      "duration_ms": 6237
+    },
+    {
+      "word": "Bastará con que ustedes oigan hablar de un ataque enemigo para que salgan huyendo.",
+      "verse": 16,
+      "start_ms": 99387,
+      "end_ms": 104549,
+      "duration_ms": 5162
+    },
+    {
+      "word": "Si a pesar de eso se niegan a obedecerme, yo los castigaré muy duramente por cada uno de sus pecados, hasta humillarlos por completo.",
+      "verse": 18,
+      "start_ms": 104550,
+      "end_ms": 112925,
+      "duration_ms": 8375
+    },
+    {
+      "word": "Haré que deje de llover.",
+      "verse": 19,
+      "start_ms": 112925,
+      "end_ms": 115225,
+      "duration_ms": 2300
+    },
+    {
+      "word": "El alto cielo parecerá de hierro, y el suelo que pisan parecerá de cobre.",
+      "verse": 19,
+      "start_ms": 115225,
+      "end_ms": 120325,
+      "duration_ms": 5100
+    },
+    {
+      "word": "De nada les servirá trabajar la tierra, porque no les producirá nada.",
+      "verse": 20,
+      "start_ms": 120325,
+      "end_ms": 125087,
+      "duration_ms": 4762
+    },
+    {
+      "word": "Y si aún siguen rebelándose contra mí, los castigaré todavía más de lo que merecen sus pecados.",
+      "verse": 21,
+      "start_ms": 125087,
+      "end_ms": 131387,
+      "duration_ms": 6300
+    },
+    {
+      "word": "Dejaré que los animales salvajes los ataquen, y que se coman a sus hijos y a su ganado.",
+      "verse": 22,
+      "start_ms": 131387,
+      "end_ms": 136924,
+      "duration_ms": 5537
+    },
+    {
+      "word": "Los que aún queden con vida serán tan pocos que los caminos se verán desiertos.",
+      "verse": 22,
+      "start_ms": 136925,
+      "end_ms": 141825,
+      "duration_ms": 4900
+    },
+    {
+      "word": "Y si aún así continúan siendo rebeldes, yo los castigaré todavía más de lo que merecen sus pecados.",
+      "verse": 23,
+      "start_ms": 141825,
+      "end_ms": 148475,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Haré que mueran en la guerra, como castigo por no cumplir con mi pacto.",
+      "verse": 25,
+      "start_ms": 148475,
+      "end_ms": 153150,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Ustedes correrán a refugiarse en sus ciudades, pero yo les enviaré terribles enfermedades y los haré caer en manos de sus enemigos.",
+      "verse": 25,
+      "start_ms": 153150,
+      "end_ms": 161100,
+      "duration_ms": 7950
+    },
+    {
+      "word": "Además, los dejaré sin alimentos.",
+      "verse": 26,
+      "start_ms": 161100,
+      "end_ms": 164325,
+      "duration_ms": 3225
+    },
+    {
+      "word": "La comida será tan escasa, que en un pequeño horno cocerán pan diez mujeres.",
+      "verse": 26,
+      "start_ms": 164325,
+      "end_ms": 169837,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Ningún pan bastará para calmarles el hambre!",
+      "verse": 26,
+      "start_ms": 169837,
+      "end_ms": 173049,
+      "duration_ms": 3212
+    },
+    {
+      "word": "Si a pesar de todo esto siguen siendo desobedientes, yo me enfrentaré a ustedes y los castigaré todavía más de lo que merecen sus pecados.",
+      "verse": 27,
+      "start_ms": 173050,
+      "end_ms": 181487,
+      "duration_ms": 8437
+    },
+    {
+      "word": "Hasta llegarán a comerse a sus propios hijos e hijas!",
+      "verse": 29,
+      "start_ms": 181487,
+      "end_ms": 185074,
+      "duration_ms": 3587
+    },
+    {
+      "word": "Yo les mostraré mi desprecio destruyendo sus pequeños templos de las colinas, derribando sus altares y amontonando sus cadáveres encima de sus ídolos.",
+      "verse": 30,
+      "start_ms": 185075,
+      "end_ms": 193987,
+      "duration_ms": 8912
+    },
+    {
+      "word": "Yo convertiré sus ciudades en un montón de ruinas.",
+      "verse": 31,
+      "start_ms": 193987,
+      "end_ms": 197737,
+      "duration_ms": 3750
+    },
+    {
+      "word": "Destruiré su santuario, y rechazaré el aroma de sus ofrendas.",
+      "verse": 31,
+      "start_ms": 197737,
+      "end_ms": 202274,
+      "duration_ms": 4537
+    },
+    {
+      "word": "Su país quedará hecho un desierto, y sus ciudades quedarán en ruinas, pues los perseguiré espada en mano, y huirán a las naciones vecinas.",
+      "verse": 32,
+      "start_ms": 202275,
+      "end_ms": 210925,
+      "duration_ms": 8650
+    },
+    {
+      "word": "Hasta sus enemigos se sorprenderán al verlo!",
+      "verse": 32,
+      "start_ms": 210925,
+      "end_ms": 214025,
+      "duration_ms": 3100
+    },
+    {
+      "word": "Mientras la tierra esté abandonada, descansará, como debió hacerlo cada siete años mientras ustedes vivieron en ella.",
+      "verse": 34,
+      "start_ms": 214025,
+      "end_ms": 221375,
+      "duration_ms": 7350
+    },
+    {
+      "word": "Sólo así podrá gozar de sus merecidos descansos.",
+      "verse": 34,
+      "start_ms": 221375,
+      "end_ms": 225200,
+      "duration_ms": 3825
+    },
+    {
+      "word": "Y mientras tanto, ustedes andarán dispersos en un país enemigo.",
+      "verse": 34,
+      "start_ms": 225200,
+      "end_ms": 229775,
+      "duration_ms": 4575
+    },
+    {
+      "word": "A los que aún queden vivos, los llenaré de terror en la tierra de sus enemigos.",
+      "verse": 36,
+      "start_ms": 229775,
+      "end_ms": 234862,
+      "duration_ms": 5087
+    },
+    {
+      "word": "Oirán caer una hoja, y saldrán huyendo como quien huye de la espada; ¡caerán sin que nadie los persiga!",
+      "verse": 36,
+      "start_ms": 234862,
+      "end_ms": 241574,
+      "duration_ms": 6712
+    },
+    {
+      "word": "Se atropellarán unos con otros, y no podrán hacer frente a sus enemigos.",
+      "verse": 37,
+      "start_ms": 241575,
+      "end_ms": 246537,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Sobre ustedes recaerá la culpa por los pecados que cometieron sus padres, y también la culpa por sus propios pecados.",
+      "verse": 38,
+      "start_ms": 246537,
+      "end_ms": 253724,
+      "duration_ms": 7187
+    },
+    {
+      "word": "Morirán en otras tierras, bajo el poder de sus enemigos!",
+      "verse": 38,
+      "start_ms": 253725,
+      "end_ms": 258075,
+      "duration_ms": 4350
+    },
+    {
+      "word": "Entonces reconocerán que se rebelaron contra mí.",
+      "verse": 38,
+      "start_ms": 258075,
+      "end_ms": 261437,
+      "duration_ms": 3362
+    },
+    {
+      "word": "Ahora son",
+      "verse": 41,
+      "start_ms": 261437,
+      "end_ms": 263212,
+      "duration_ms": 1775
+    },
+    {
+      "word": "rebeldes y se comportan como las naciones que no creen en mí, pero entonces se humillarán y aceptarán el castigo de su maldad.",
+      "verse": 41,
+      "start_ms": 263380,
+      "end_ms": 270642,
+      "duration_ms": 7262
+    },
+    {
+      "word": "Yo cumpliré la promesa que les hice a Abraham, a Isaac y a Jacob, y bendeciré la tierra prometida; tierra que ustedes dejarán abandonada y que al fin gozará de su merecido descanso.",
+      "verse": 42,
+      "start_ms": 270592,
+      "end_ms": 281392,
+      "duration_ms": 10800
+    },
+    {
+      "word": "Pero ustedes serán castigados por su maldad y por no haber cumplido mis mandamientos!",
+      "verse": 43,
+      "start_ms": 281392,
+      "end_ms": 286529,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Y aunque estarán en un país enemigo, yo no los destruiré por completo.",
+      "verse": 44,
+      "start_ms": 286530,
+      "end_ms": 291242,
+      "duration_ms": 4712
+    },
+    {
+      "word": "Mi enojo no llega a tanto.",
+      "verse": 44,
+      "start_ms": 291242,
+      "end_ms": 293829,
+      "duration_ms": 2587
+    },
+    {
+      "word": "Yo soy el Dios de Israel, y renovaré el pacto que hice con sus antepasados, cuando los saqué de Egipto para ser su Dios.",
+      "verse": 44,
+      "start_ms": 293830,
+      "end_ms": 301617,
+      "duration_ms": 7787
+    },
+    {
+      "word": "Esto lo vieron todas las naciones!",
+      "verse": 44,
+      "start_ms": 301617,
+      "end_ms": 304442,
+      "duration_ms": 2825
+    },
+    {
+      "word": "Éstas son las leyes que Dios nos dio por medio de Moisés, cuando estaba en el monte Sinaí.",
+      "verse": 46,
+      "start_ms": 304442,
+      "end_ms": 310129,
+      "duration_ms": 5687
+    }
+  ]
+}

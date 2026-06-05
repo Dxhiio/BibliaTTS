@@ -1,0 +1,586 @@
+{
+  "book": "NUM",
+  "chapter": 23,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 30,
+  "word_count": 52,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 131,
+      "text": "Entonces Balaam le dijo a Balac: Levanta aquí siete altares para que yo presente siete toros y siete carneros como ofrenda a Dios."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 131,
+      "char_end": 266,
+      "text": "Balac hizo lo que Balaam le pidió. Luego los dos mataron a los toros y a los carneros, y colocaron un toro y un carnero en cada altar."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 266,
+      "char_end": 418,
+      "text": "Entonces Balaam le dijo a Balac: Quédate aquí. Yo debo esperar a que Dios venga y me diga lo que debo hacer. Balaam se fue a un lugar alto y solitario."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 418,
+      "char_end": 598,
+      "text": "Mientras él estaba allí, Dios se le apareció. Entonces Balaam le dijo: —He presentado como ofrenda en tu honor siete toros y siete carneros en siete altares que mandé a construir."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 598,
+      "char_end": 708,
+      "text": "Dios, entonces, le dio a Balaam este mensaje: —Regresa a donde está Balac y repite el mensaje que te he dado."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 708,
+      "char_end": 802,
+      "text": "Balaam regresó a donde estaban los altares y se encontró con Balac y todos los jefes de Moab."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 802,
+      "char_end": 937,
+      "text": "Allí Balaam se puso a cantar: Balac, rey de Moab, me trajo de los cerros de Arabia, para maldecir a los israelitas y para condenarlos."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 937,
+      "char_end": 1025,
+      "text": "Pero no puedo oponerme a lo que Dios me dijo: «No maldigas a mi pueblo ni lo condenes»."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1025,
+      "char_end": 1148,
+      "text": "Desde lo más alto de las montañas contemplo a ese pueblo especial. Sí, desde las alturas contemplo a ese pueblo obediente."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1148,
+      "char_end": 1277,
+      "text": "¡Los israelitas son gente buena! No hay quien pueda contarlos. ¡Los israelitas son gente de paz! ¡Ojalá llegue a ser como ellos!"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1277,
+      "char_end": 1429,
+      "text": "Al oír esto, Balac se quejó con Balaam: —¿Qué te pasa? ¡Te traje para que maldigas a mis enemigos, y has hecho todo lo contrario! Pero Balaam contestó:"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1429,
+      "char_end": 1472,
+      "text": "—Yo sólo puedo decir lo que Dios me manda."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1472,
+      "char_end": 1607,
+      "text": "Entonces Balac le dijo: —Ven conmigo, te llevaré a otro lugar. Quizá te animes a maldecir a ese pueblo si sólo ves a un grupo pequeño."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1607,
+      "char_end": 1763,
+      "text": "Balac lo llevó al campo de Sofim, a la parte más alta del monte Pisgá. Allí construyó siete altares, y en cada uno de ellos sacrificó un toro y un carnero."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1763,
+      "char_end": 1869,
+      "text": "Luego Balaam le dijo a Balac: Espérame aquí, junto a los altares, mientras yo voy a encontrarme con Dios."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1869,
+      "char_end": 1986,
+      "text": "Dios se le apareció a Balaam, y le dio este mensaje: Regresa a donde está Balac, y repite el mensaje que te he dado."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1986,
+      "char_end": 2111,
+      "text": "Balaam regresó y encontró a Balac y a los jefes de Moab junto a los altares. Entonces Balac le preguntó: —¿Qué te dijo Dios?"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2111,
+      "char_end": 2184,
+      "text": "Y Balaam se puso a cantar: Balac hijo de Sipor, ¡levántate y óyeme bien!"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2184,
+      "char_end": 2284,
+      "text": "¡Dios no es como nosotros! No dice mentira alguna ni cambia de parecer. Dios cumple lo que promete."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2284,
+      "char_end": 2359,
+      "text": "Dios me ordenó bendecir a su pueblo. Él así lo mandó, y no puedo evitarlo."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2359,
+      "char_end": 2467,
+      "text": "Dios es el rey de Israel. Él vive en medio de su pueblo. Dios no les desea el mal ni quiere causarles daño."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2467,
+      "char_end": 2542,
+      "text": "Con una fuerza mayor que la del búfalo, Dios liberó de Egipto a su pueblo."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2542,
+      "char_end": 2644,
+      "text": "No hay brujería que funcione contra el pueblo de Dios. ¡Miren todo lo bueno que Dios ha hecho por él!"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2644,
+      "char_end": 2757,
+      "text": "Es como una manada de leones, lista para atacar a su presa. Israel no descansará hasta ver vencido a su enemigo."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2757,
+      "char_end": 2873,
+      "text": "Entonces Balac le dijo a Balaam: —¡Si no puedes maldecir a este pueblo, por lo menos no le desees que le vaya bien!"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2873,
+      "char_end": 2945,
+      "text": "Pero Balaam le respondió: —¡Ya te dije que no puedo desobedecer a Dios!"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2945,
+      "char_end": 3070,
+      "text": "Balac le volvió a decir: —Ven. Te voy a llevar a otro lado. A lo mejor desde allí Dios te permite maldecir a los israelitas."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3070,
+      "char_end": 3171,
+      "text": "Y Balac llevó a Balaam a la parte más alta del monte Peor. Desde allí se puede ver todo el desierto."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3171,
+      "char_end": 3272,
+      "text": "Balaam le dijo a Balac: —Construye siete altares para ofrecerle a Dios siete toros y siete carneros."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3272,
+      "char_end": 3384,
+      "text": "Cuando Balac terminó de construir los altares, Balaam presentó como ofrenda un toro y un carnero en cada altar."
+    }
+  ],
+  "words": [
+    {
+      "word": "Entonces Balaam le dijo a Balac: Levanta aquí siete altares para que yo presente siete toros y siete carneros como ofrenda a Dios.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 8262,
+      "duration_ms": 8162
+    },
+    {
+      "word": "Balac hizo lo que Balaam le pidió.",
+      "verse": 2,
+      "start_ms": 8212,
+      "end_ms": 10974,
+      "duration_ms": 2762
+    },
+    {
+      "word": "Luego los dos mataron a los toros y a los carneros, y colocaron un toro y un carnero en cada altar.",
+      "verse": 2,
+      "start_ms": 10975,
+      "end_ms": 17525,
+      "duration_ms": 6550
+    },
+    {
+      "word": "Entonces Balaam le dijo a Balac: Quédate aquí.",
+      "verse": 3,
+      "start_ms": 17525,
+      "end_ms": 21262,
+      "duration_ms": 3737
+    },
+    {
+      "word": "Yo debo esperar a que Dios venga y me diga lo que debo hacer.",
+      "verse": 3,
+      "start_ms": 21262,
+      "end_ms": 25199,
+      "duration_ms": 3937
+    },
+    {
+      "word": "Balaam se fue a un lugar alto y solitario.",
+      "verse": 3,
+      "start_ms": 25200,
+      "end_ms": 28575,
+      "duration_ms": 3375
+    },
+    {
+      "word": "Mientras él estaba allí, Dios se le apareció.",
+      "verse": 4,
+      "start_ms": 28575,
+      "end_ms": 31975,
+      "duration_ms": 3400
+    },
+    {
+      "word": "Entonces Balaam le dijo: —He presentado como ofrenda en tu honor siete toros y siete carneros en siete altares que mandé a construir.",
+      "verse": 4,
+      "start_ms": 31975,
+      "end_ms": 40250,
+      "duration_ms": 8275
+    },
+    {
+      "word": "Dios, entonces, le dio a Balaam este mensaje: —Regresa a donde está Balac y repite el mensaje que te he dado.",
+      "verse": 5,
+      "start_ms": 40250,
+      "end_ms": 47962,
+      "duration_ms": 7712
+    },
+    {
+      "word": "Balaam regresó a donde estaban los altares y se encontró con Balac y todos los jefes de Moab.",
+      "verse": 6,
+      "start_ms": 47962,
+      "end_ms": 53512,
+      "duration_ms": 5550
+    },
+    {
+      "word": "Allí Balaam se puso a cantar: Balac, rey de Moab, me trajo de los cerros de Arabia, para maldecir a los israelitas y para condenarlos.",
+      "verse": 7,
+      "start_ms": 53512,
+      "end_ms": 62262,
+      "duration_ms": 8750
+    },
+    {
+      "word": "Pero no puedo oponerme a lo que Dios me dijo: «No maldigas a mi pueblo ni lo condenes».",
+      "verse": 8,
+      "start_ms": 62262,
+      "end_ms": 67774,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Desde lo más alto de las montañas contemplo a ese pueblo especial.",
+      "verse": 9,
+      "start_ms": 67775,
+      "end_ms": 72125,
+      "duration_ms": 4350
+    },
+    {
+      "word": "Sí, desde las alturas contemplo a ese pueblo obediente.",
+      "verse": 9,
+      "start_ms": 72125,
+      "end_ms": 76350,
+      "duration_ms": 4225
+    },
+    {
+      "word": "Los israelitas son gente buena!",
+      "verse": 10,
+      "start_ms": 76350,
+      "end_ms": 79087,
+      "duration_ms": 2737
+    },
+    {
+      "word": "No hay quien pueda contarlos.",
+      "verse": 10,
+      "start_ms": 79087,
+      "end_ms": 81649,
+      "duration_ms": 2562
+    },
+    {
+      "word": "Los israelitas son gente de paz!",
+      "verse": 10,
+      "start_ms": 81650,
+      "end_ms": 84587,
+      "duration_ms": 2937
+    },
+    {
+      "word": "Ojalá llegue a ser como ellos!",
+      "verse": 10,
+      "start_ms": 84587,
+      "end_ms": 87199,
+      "duration_ms": 2612
+    },
+    {
+      "word": "Al oír esto, Balac se quejó con Balaam: —¿Qué te pasa?",
+      "verse": 11,
+      "start_ms": 87200,
+      "end_ms": 91525,
+      "duration_ms": 4325
+    },
+    {
+      "word": "Te traje para que maldigas a mis enemigos, y has hecho todo lo contrario!",
+      "verse": 11,
+      "start_ms": 91525,
+      "end_ms": 96412,
+      "duration_ms": 4887
+    },
+    {
+      "word": "Pero Balaam contestó: —Yo sólo puedo decir lo que Dios me manda.",
+      "verse": 11,
+      "start_ms": 96412,
+      "end_ms": 100974,
+      "duration_ms": 4562
+    },
+    {
+      "word": "Entonces Balac le dijo: —Ven conmigo, te llevaré a otro lugar.",
+      "verse": 13,
+      "start_ms": 100975,
+      "end_ms": 106150,
+      "duration_ms": 5175
+    },
+    {
+      "word": "Quizá te animes a maldecir a ese pueblo si sólo ves a un grupo pequeño.",
+      "verse": 13,
+      "start_ms": 106150,
+      "end_ms": 110750,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Balac lo llevó al campo de Sofim, a la parte más alta del monte Pisgá.",
+      "verse": 14,
+      "start_ms": 110750,
+      "end_ms": 115875,
+      "duration_ms": 5125
+    },
+    {
+      "word": "Allí construyó siete altares, y en cada uno de ellos sacrificó un toro y un carnero.",
+      "verse": 14,
+      "start_ms": 115875,
+      "end_ms": 121875,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Luego Balaam le dijo a Balac: Espérame aquí, junto a los altares, mientras yo voy a encontrarme con Dios.",
+      "verse": 15,
+      "start_ms": 121875,
+      "end_ms": 128962,
+      "duration_ms": 7087
+    },
+    {
+      "word": "Dios se le apareció a Balaam, y le dio este mensaje: Regresa a donde está Balac, y repite el mensaje que te he dado.",
+      "verse": 16,
+      "start_ms": 128962,
+      "end_ms": 136837,
+      "duration_ms": 7875
+    },
+    {
+      "word": "Balaam regresó y encontró a Balac y a los jefes de Moab junto a los altares.",
+      "verse": 17,
+      "start_ms": 136837,
+      "end_ms": 141737,
+      "duration_ms": 4900
+    },
+    {
+      "word": "Entonces Balac le preguntó: —¿Qué te dijo Dios?",
+      "verse": 17,
+      "start_ms": 141737,
+      "end_ms": 145524,
+      "duration_ms": 3787
+    },
+    {
+      "word": "Y Balaam se puso a cantar: Balac hijo de Sipor, ¡levántate y óyeme bien!",
+      "verse": 18,
+      "start_ms": 145525,
+      "end_ms": 150900,
+      "duration_ms": 5375
+    },
+    {
+      "word": "Dios no es como nosotros!",
+      "verse": 19,
+      "start_ms": 150900,
+      "end_ms": 153350,
+      "duration_ms": 2450
+    },
+    {
+      "word": "No dice mentira alguna ni cambia de parecer.",
+      "verse": 19,
+      "start_ms": 153350,
+      "end_ms": 156737,
+      "duration_ms": 3387
+    },
+    {
+      "word": "Dios cumple lo que promete.",
+      "verse": 19,
+      "start_ms": 156737,
+      "end_ms": 159162,
+      "duration_ms": 2425
+    },
+    {
+      "word": "Dios me ordenó bendecir a su pueblo.",
+      "verse": 20,
+      "start_ms": 159162,
+      "end_ms": 161949,
+      "duration_ms": 2787
+    },
+    {
+      "word": "Él así lo mandó, y no puedo evitarlo.",
+      "verse": 20,
+      "start_ms": 161950,
+      "end_ms": 165200,
+      "duration_ms": 3250
+    },
+    {
+      "word": "Dios es el rey de Israel.",
+      "verse": 21,
+      "start_ms": 165200,
+      "end_ms": 167662,
+      "duration_ms": 2462
+    },
+    {
+      "word": "Él vive en medio de su pueblo.",
+      "verse": 21,
+      "start_ms": 167662,
+      "end_ms": 170237,
+      "duration_ms": 2575
+    },
+    {
+      "word": "Dios no les desea el mal ni quiere causarles daño.",
+      "verse": 21,
+      "start_ms": 170237,
+      "end_ms": 173799,
+      "duration_ms": 3562
+    },
+    {
+      "word": "Con una fuerza mayor que la del búfalo, Dios liberó de Egipto a su pueblo.",
+      "verse": 22,
+      "start_ms": 173800,
+      "end_ms": 178700,
+      "duration_ms": 4900
+    },
+    {
+      "word": "No hay brujería que funcione contra el pueblo de Dios.",
+      "verse": 23,
+      "start_ms": 178700,
+      "end_ms": 182312,
+      "duration_ms": 3612
+    },
+    {
+      "word": "Miren todo lo bueno que Dios ha hecho por él!",
+      "verse": 23,
+      "start_ms": 182312,
+      "end_ms": 185362,
+      "duration_ms": 3050
+    },
+    {
+      "word": "Es como una manada de leones, lista para atacar a su presa.",
+      "verse": 24,
+      "start_ms": 185362,
+      "end_ms": 189837,
+      "duration_ms": 4475
+    },
+    {
+      "word": "Israel no descansará hasta ver vencido a su enemigo.",
+      "verse": 24,
+      "start_ms": 189837,
+      "end_ms": 193599,
+      "duration_ms": 3762
+    },
+    {
+      "word": "Entonces Balac le dijo a Balaam: —¡Si no puedes maldecir a este pueblo, por lo menos no le desees que le vaya bien!",
+      "verse": 25,
+      "start_ms": 193600,
+      "end_ms": 200500,
+      "duration_ms": 6900
+    },
+    {
+      "word": "Pero Balaam le respondió: —¡Ya te dije que no puedo desobedecer a Dios!",
+      "verse": 26,
+      "start_ms": 200500,
+      "end_ms": 205250,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Balac le volvió a decir: —Ven.",
+      "verse": 27,
+      "start_ms": 205250,
+      "end_ms": 208212,
+      "duration_ms": 2962
+    },
+    {
+      "word": "Te voy a llevar a otro lado.",
+      "verse": 27,
+      "start_ms": 208212,
+      "end_ms": 210637,
+      "duration_ms": 2425
+    },
+    {
+      "word": "A lo mejor desde allí Dios te permite maldecir a los israelitas.",
+      "verse": 27,
+      "start_ms": 210637,
+      "end_ms": 214999,
+      "duration_ms": 4362
+    },
+    {
+      "word": "Y Balac llevó a Balaam a la parte más alta del monte Peor.",
+      "verse": 28,
+      "start_ms": 215000,
+      "end_ms": 219262,
+      "duration_ms": 4262
+    },
+    {
+      "word": "Desde allí se puede ver todo el desierto.",
+      "verse": 28,
+      "start_ms": 219262,
+      "end_ms": 222299,
+      "duration_ms": 3037
+    },
+    {
+      "word": "Balaam le dijo a Balac: —Construye siete altares para ofrecerle a Dios siete toros y siete carneros.",
+      "verse": 29,
+      "start_ms": 222300,
+      "end_ms": 229025,
+      "duration_ms": 6725
+    },
+    {
+      "word": "Cuando Balac terminó de construir los altares, Balaam presentó como ofrenda un toro y un carnero en cada altar.",
+      "verse": 30,
+      "start_ms": 229025,
+      "end_ms": 236287,
+      "duration_ms": 7262
+    }
+  ]
+}

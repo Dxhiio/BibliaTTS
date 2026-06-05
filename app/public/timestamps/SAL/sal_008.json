@@ -1,0 +1,131 @@
+{
+  "book": "SAL",
+  "chapter": 8,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 9,
+  "word_count": 8,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 118,
+      "text": "Nuestro Dios y nuestro rey, ¡qué grande eres en toda la tierra! ¡Tu grandeza está por encima de los cielos más altos!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 118,
+      "char_end": 323,
+      "text": "Con las primeras palabras de los niños más pequeños, y con los cantos de los niños mayores has construido una fortaleza por causa de tus enemigos. ¡Así has hecho callar a tus enemigos que buscan venganza!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 323,
+      "char_end": 398,
+      "text": "Cuando contemplo el cielo, y la luna y las estrellas que tú mismo hiciste,"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 398,
+      "char_end": 501,
+      "text": "no puedo menos que pensar: ¿Qué somos los mortales para que pienses en nosotros y nos tomes en cuenta?"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 501,
+      "char_end": 558,
+      "text": "¡Nos creaste casi igual a ti! Nos trataste como a reyes;"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 558,
+      "char_end": 653,
+      "text": "nos diste plena autoridad sobre todo lo que hiciste; nos diste dominio sobre toda tu creación:"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 653,
+      "char_end": 700,
+      "text": "sobre ovejas y vacas, sobre animales salvajes,"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 700,
+      "char_end": 772,
+      "text": "sobre aves y peces, ¡sobre todo lo que se mueve en lo profundo del mar!"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 772,
+      "char_end": 836,
+      "text": "Nuestro Dios y nuestro rey, ¡qué grande eres en toda la tierra!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Nuestro Dios y nuestro rey, ¡qué grande eres en toda la tierra!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4500,
+      "duration_ms": 4400
+    },
+    {
+      "word": "Tu grandeza está por encima de los cielos más altos!",
+      "verse": 1,
+      "start_ms": 4450,
+      "end_ms": 8075,
+      "duration_ms": 3625
+    },
+    {
+      "word": "Con las primeras palabras de los niños más pequeños, y con los cantos de los niños mayores has construido una fortaleza por causa de tus enemigos.",
+      "verse": 2,
+      "start_ms": 8075,
+      "end_ms": 16612,
+      "duration_ms": 8537
+    },
+    {
+      "word": "Así has hecho callar a tus enemigos que buscan venganza!",
+      "verse": 2,
+      "start_ms": 16612,
+      "end_ms": 20237,
+      "duration_ms": 3625
+    },
+    {
+      "word": "Cuando contemplo el cielo, y la luna y las estrellas que tú mismo hiciste, no puedo menos que pensar: ¿Qué somos los mortales para que pienses en nosotros y nos tomes en cuenta?",
+      "verse": 3,
+      "start_ms": 20237,
+      "end_ms": 30424,
+      "duration_ms": 10187
+    },
+    {
+      "word": "Nos creaste casi igual a ti!",
+      "verse": 5,
+      "start_ms": 30425,
+      "end_ms": 32987,
+      "duration_ms": 2562
+    },
+    {
+      "word": "Nos trataste como a reyes; nos diste plena autoridad sobre todo lo que hiciste; nos diste dominio sobre toda tu creación: sobre ovejas y vacas, sobre animales salvajes, sobre aves y peces, ¡sobre todo lo que se mueve en lo profundo del mar!",
+      "verse": 5,
+      "start_ms": 32987,
+      "end_ms": 47987,
+      "duration_ms": 15000
+    },
+    {
+      "word": "Nuestro Dios y nuestro rey, ¡qué grande eres en toda la tierra!",
+      "verse": 9,
+      "start_ms": 47987,
+      "end_ms": 52387,
+      "duration_ms": 4400
+    }
+  ]
+}

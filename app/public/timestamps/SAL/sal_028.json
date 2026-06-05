@@ -1,0 +1,166 @@
+{
+  "book": "SAL",
+  "chapter": 28,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 7,
+  "word_count": 15,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 116,
+      "text": "Dios mío, yo te llamo, no cierres tus oídos, porque tú eres quien me protege. Si no me respondes, de seguro moriré."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 116,
+      "char_end": 183,
+      "text": "Atiende mis ruegos cuando te tienda los brazos para pedirte ayuda."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 183,
+      "char_end": 320,
+      "text": "No me castigues junto con los malhechores, porque hablan con los demás y les desean lo mejor, pero en su pensamiento quisieran matarlos."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 320,
+      "char_end": 425,
+      "text": "¡Págales con la misma moneda! ¡Dales su merecido! Sus acciones han sido malas; ¡devuélveles mal por mal,"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 425,
+      "char_end": 537,
+      "text": "pues no toman en cuenta todo lo que has hecho! Por eso, ¡destrúyelos por completo, que no vuelvan a levantarse!"
+    },
+    {
+      "verse": 6,
+      "label": "6-7",
+      "char_start": 537,
+      "char_end": 752,
+      "text": "¡Bendito seas, Dios mío, por atender a mis ruegos! Tú eres mi fuerza; me proteges como un escudo. En ti confío de corazón, pues de ti recibo ayuda. El corazón se me llena de alegría, por eso te alabo en mis cantos."
+    },
+    {
+      "verse": 8,
+      "label": "8-9",
+      "char_start": 752,
+      "char_end": 922,
+      "text": "Tú, Dios mío, eres la fuerza de tu pueblo; danos la victoria, pues somos tu pueblo elegido. ¡Sálvanos y bendícenos! ¡Llévanos en tus brazos, pues tú eres nuestro pastor!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios mío, yo te llamo, no cierres tus oídos, porque tú eres quien me protege.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6125,
+      "duration_ms": 6025
+    },
+    {
+      "word": "Si no me respondes, de seguro moriré.",
+      "verse": 1,
+      "start_ms": 6075,
+      "end_ms": 9337,
+      "duration_ms": 3262
+    },
+    {
+      "word": "Atiende mis ruegos cuando te tienda los brazos para pedirte ayuda.",
+      "verse": 2,
+      "start_ms": 9337,
+      "end_ms": 13537,
+      "duration_ms": 4200
+    },
+    {
+      "word": "No me castigues junto con los malhechores, porque hablan con los demás y les desean lo mejor, pero en su pensamiento quisieran matarlos.",
+      "verse": 3,
+      "start_ms": 13537,
+      "end_ms": 21424,
+      "duration_ms": 7887
+    },
+    {
+      "word": "Págales con la misma moneda!",
+      "verse": 4,
+      "start_ms": 21425,
+      "end_ms": 23887,
+      "duration_ms": 2462
+    },
+    {
+      "word": "Dales su merecido!",
+      "verse": 4,
+      "start_ms": 23887,
+      "end_ms": 25824,
+      "duration_ms": 1937
+    },
+    {
+      "word": "Sus acciones han sido malas; ¡devuélveles mal por mal, pues no toman en cuenta todo lo que has hecho!",
+      "verse": 4,
+      "start_ms": 25825,
+      "end_ms": 32075,
+      "duration_ms": 6250
+    },
+    {
+      "word": "Por eso, ¡destrúyelos por completo, que no vuelvan a levantarse!",
+      "verse": 5,
+      "start_ms": 32075,
+      "end_ms": 36687,
+      "duration_ms": 4612
+    },
+    {
+      "word": "Bendito seas, Dios mío, por atender a mis ruegos!",
+      "verse": 6,
+      "start_ms": 36687,
+      "end_ms": 40987,
+      "duration_ms": 4300
+    },
+    {
+      "word": "Tú eres mi fuerza; me proteges como un escudo.",
+      "verse": 6,
+      "start_ms": 40987,
+      "end_ms": 44687,
+      "duration_ms": 3700
+    },
+    {
+      "word": "En ti confío de corazón, pues de ti recibo ayuda.",
+      "verse": 6,
+      "start_ms": 44687,
+      "end_ms": 48562,
+      "duration_ms": 3875
+    },
+    {
+      "word": "El corazón se me llena de alegría, por eso te alabo en mis cantos.",
+      "verse": 6,
+      "start_ms": 48562,
+      "end_ms": 53249,
+      "duration_ms": 4687
+    },
+    {
+      "word": "Tú, Dios mío, eres la fuerza de tu pueblo; danos la victoria, pues somos tu pueblo elegido.",
+      "verse": 8,
+      "start_ms": 53250,
+      "end_ms": 60087,
+      "duration_ms": 6837
+    },
+    {
+      "word": "Sálvanos y bendícenos!",
+      "verse": 8,
+      "start_ms": 60087,
+      "end_ms": 62524,
+      "duration_ms": 2437
+    },
+    {
+      "word": "Llévanos en tus brazos, pues tú eres nuestro pastor!",
+      "verse": 8,
+      "start_ms": 62525,
+      "end_ms": 66462,
+      "duration_ms": 3937
+    }
+  ]
+}

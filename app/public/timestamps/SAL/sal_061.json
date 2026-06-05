@@ -1,0 +1,145 @@
+{
+  "book": "SAL",
+  "chapter": 61,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 8,
+  "word_count": 11,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 46,
+      "text": "Dios mío, oye mis gritos, escucha mi oración."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 46,
+      "char_end": 179,
+      "text": "¡Ya no aguanto más! Por eso te llamo desde el último rincón del mundo. Ponme sobre una gran piedra, donde quede a salvo del peligro."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 179,
+      "char_end": 232,
+      "text": "¡Tú eres mi protector! ¡Tú me defiendes del enemigo!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 232,
+      "char_end": 304,
+      "text": "Quiero pasar toda mi vida viviendo en tu santuario, bajo tu protección."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 304,
+      "char_end": 416,
+      "text": "Tú, Dios mío, conoces mis promesas; tú me entregaste mi parte en la tierra que le diste al pueblo que te adora."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 416,
+      "char_end": 506,
+      "text": "Concédeme reinar mucho tiempo, y vivir una larga vida; que dure mi reinado una eternidad."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 506,
+      "char_end": 571,
+      "text": "Déjame reinar para siempre; ¡protégeme con tu amor toda la vida!"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 571,
+      "char_end": 667,
+      "text": "Yo te prometo que siempre te alabaré con himnos, y que todos los días te cumpliré mis promesas."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios mío, oye mis gritos, escucha mi oración.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4300,
+      "duration_ms": 4200
+    },
+    {
+      "word": "Ya no aguanto más!",
+      "verse": 2,
+      "start_ms": 4250,
+      "end_ms": 6162,
+      "duration_ms": 1912
+    },
+    {
+      "word": "Por eso te llamo desde el último rincón del mundo.",
+      "verse": 2,
+      "start_ms": 6162,
+      "end_ms": 9562,
+      "duration_ms": 3400
+    },
+    {
+      "word": "Ponme sobre una gran piedra, donde quede a salvo del peligro.",
+      "verse": 2,
+      "start_ms": 9562,
+      "end_ms": 13999,
+      "duration_ms": 4437
+    },
+    {
+      "word": "Tú eres mi protector!",
+      "verse": 3,
+      "start_ms": 14000,
+      "end_ms": 16062,
+      "duration_ms": 2062
+    },
+    {
+      "word": "Tú me defiendes del enemigo!",
+      "verse": 3,
+      "start_ms": 16062,
+      "end_ms": 18424,
+      "duration_ms": 2362
+    },
+    {
+      "word": "Quiero pasar toda mi vida viviendo en tu santuario, bajo tu protección.",
+      "verse": 4,
+      "start_ms": 18425,
+      "end_ms": 23087,
+      "duration_ms": 4662
+    },
+    {
+      "word": "Tú, Dios mío, conoces mis promesas; tú me entregaste mi parte en la tierra que le diste al pueblo que te adora.",
+      "verse": 5,
+      "start_ms": 23087,
+      "end_ms": 30187,
+      "duration_ms": 7100
+    },
+    {
+      "word": "Concédeme reinar mucho tiempo, y vivir una larga vida; que dure mi reinado una eternidad.",
+      "verse": 6,
+      "start_ms": 30187,
+      "end_ms": 36574,
+      "duration_ms": 6387
+    },
+    {
+      "word": "Déjame reinar para siempre; ¡protégeme con tu amor toda la vida!",
+      "verse": 7,
+      "start_ms": 36575,
+      "end_ms": 41212,
+      "duration_ms": 4637
+    },
+    {
+      "word": "Yo te prometo que siempre te alabaré con himnos, y que todos los días te cumpliré mis promesas.",
+      "verse": 8,
+      "start_ms": 41212,
+      "end_ms": 47324,
+      "duration_ms": 6112
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "book": "HEC",
+  "chapter": 22,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 30,
+  "word_count": 60,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 74,
+      "text": "Escúchenme, amigos israelitas y líderes del país; ¡dejen que me defienda!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 74,
+      "char_end": 176,
+      "text": "Cuando la gente oyó que Pablo les hablaba en arameo, guardaron más silencio. Pablo entonces les dijo:"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 176,
+      "char_end": 444,
+      "text": "Yo soy judío. Nací en la ciudad de Tarso, en la provincia de Cilicia, pero crecí aquí en Jerusalén. Cuando estudié, mi maestro fue Gamaliel, y me enseñó a obedecer la ley de nuestros antepasados. Siempre he tratado de obedecer a Dios con la misma lealtad que ustedes."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 444,
+      "char_end": 598,
+      "text": "Antes buscaba por todas partes a los seguidores del Señor Jesús, para matarlos. A muchos de ellos, hombres y mujeres, los atrapé y los metí en la cárcel."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 598,
+      "char_end": 882,
+      "text": "El jefe de los sacerdotes y todos los líderes del país saben bien que esto es cierto. Ellos mismos me dieron cartas para mis amigos judíos de la ciudad de Damasco, para que ellos me ayudaran a atrapar más seguidores de Jesús. Yo fui a Damasco para traerlos a Jerusalén y castigarlos."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 882,
+      "char_end": 1047,
+      "text": "Todavía estábamos en el camino, ya muy cerca de Damasco, cuando de repente, como a las doce del día, vino del cielo una fuerte luz y todo a mi alrededor se iluminó."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 1047,
+      "char_end": 1135,
+      "text": "Caí al suelo, y escuché una voz que me decía: «¡Saulo! ¡Saulo! ¿Por qué me persigues?»."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1135,
+      "char_end": 1250,
+      "text": "Yo pregunté: «¿Quién eres, Señor?». La voz me dijo: «Yo soy Jesús de Nazaret. Es a mí a quien estás persiguiendo»."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1250,
+      "char_end": 1318,
+      "text": "Los amigos que me acompañaban vieron la luz, pero no oyeron la voz."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1318,
+      "char_end": 1469,
+      "text": "Entonces pregunté: «Señor Jesús, ¿qué debo hacer?». El Señor me dijo: «Levántate y entra en la ciudad de Damasco. Allí se te dirá lo que debes hacer»."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1469,
+      "char_end": 1551,
+      "text": "Mis amigos me llevaron de la mano a Damasco, porque la luz me había dejado ciego."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1551,
+      "char_end": 1693,
+      "text": "Allí en Damasco había un hombre llamado Ananías, que amaba a Dios y obedecía la ley de Moisés. La gente de esa ciudad hablaba muy bien de él."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1693,
+      "char_end": 1829,
+      "text": "Ananías fue a verme y me dijo: «Saulo, amigo, ya has recobrado la vista». En ese mismo instante recobré la vista, y pude ver a Ananías."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1829,
+      "char_end": 1991,
+      "text": "Entonces él me dijo: «El Dios de nuestros antepasados te ha elegido para que conozcas sus planes. Él quiere que veas a Jesús, quien es justo, y que oigas su voz."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1991,
+      "char_end": 2067,
+      "text": "Porque tú le anunciarás a todo el mundo lo que has visto y lo que has oído."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2067,
+      "char_end": 2157,
+      "text": "Así que, no esperes más; levántate, bautízate y pídele al Señor que perdone tus pecados»."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2157,
+      "char_end": 2231,
+      "text": "Cuando regresé a Jerusalén, fui al templo a orar, y allí tuve una visión."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2231,
+      "char_end": 2343,
+      "text": "Vi al Señor, que me decía: «Vete enseguida de Jerusalén, porque la gente de aquí no creerá lo que digas de mí»."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2343,
+      "char_end": 2499,
+      "text": "Yo contesté: «Señor, esta gente sabe que yo iba a todas las sinagogas para atrapar a los que creían en ti. Los llevaba a la cárcel, y los maltrataba mucho."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2499,
+      "char_end": 2655,
+      "text": "Cuando mataron a Esteban, yo estaba allí, y estuve de acuerdo en que lo mataran, porque hablaba acerca de ti. ¡Hasta cuidé la ropa de los que lo mataron!»."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2655,
+      "char_end": 2737,
+      "text": "Pero el Señor Jesús me dijo: «Vete ya, pues voy a enviarte a países muy lejanos»."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2737,
+      "char_end": 2875,
+      "text": "La gente ya no quiso escuchar más y comenzó a gritar: ¡Ese hombre no merece vivir! ¡Que muera! ¡No queremos volver a verlo en este mundo!"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2875,
+      "char_end": 2982,
+      "text": "La gente siguió gritando y sacudiéndose el polvo de la ropa en señal de rechazo, y lanzaba tierra al aire."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2982,
+      "char_end": 3123,
+      "text": "El jefe de los soldados ordenó que metieran a Pablo en el cuartel, y que lo golpearan. Quería saber por qué la gente gritaba en contra suya."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3123,
+      "char_end": 3325,
+      "text": "Pero cuando los soldados lo ataron para pegarle, Pablo le preguntó al capitán de los soldados: —¿Tienen ustedes permiso para golpear a un ciudadano romano, sin saber siquiera si es culpable o inocente?"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3325,
+      "char_end": 3448,
+      "text": "El capitán fue y le contó esto al jefe de los soldados. Le dijo: —¿Qué va a hacer usted? ¡Este hombre es ciudadano romano!"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3448,
+      "char_end": 3549,
+      "text": "El jefe fue a ver a Pablo, y le preguntó: —¿De veras eres ciudadano romano? —Así es —contestó Pablo."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3549,
+      "char_end": 3743,
+      "text": "El jefe le dijo: —Yo compré el derecho de ser ciudadano romano, y me costó mucho dinero. —¡Pero yo no lo compré! —le contestó Pablo—. Yo nací en una ciudad romana. Por eso soy ciudadano romano."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3743,
+      "char_end": 3925,
+      "text": "Los que iban a golpear a Pablo para que hablara, se apartaron de él. El jefe de los soldados también tuvo mucho miedo, pues había ordenado sujetar con cadenas a un ciudadano romano."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3925,
+      "char_end": 4222,
+      "text": "Al día siguiente, el jefe de los soldados romanos mandó a reunir a los sacerdotes principales y a los judíos de la Junta Suprema, pues quería saber exactamente de qué acusaban a Pablo. Luego ordenó que le quitaran las cadenas, que lo sacaran de la cárcel y que lo pusieran delante de todos ellos."
+    }
+  ],
+  "words": [
+    {
+      "word": "Escúchenme, amigos israelitas y líderes del país; ¡dejen que me defienda!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5587,
+      "duration_ms": 5487
+    },
+    {
+      "word": "Cuando la gente oyó que Pablo les hablaba en arameo, guardaron más silencio.",
+      "verse": 2,
+      "start_ms": 5537,
+      "end_ms": 10399,
+      "duration_ms": 4862
+    },
+    {
+      "word": "Pablo entonces les dijo: Yo soy judío.",
+      "verse": 2,
+      "start_ms": 10400,
+      "end_ms": 13762,
+      "duration_ms": 3362
+    },
+    {
+      "word": "Nací en la ciudad de Tarso, en la provincia de Cilicia, pero crecí aquí en Jerusalén.",
+      "verse": 3,
+      "start_ms": 13762,
+      "end_ms": 19712,
+      "duration_ms": 5950
+    },
+    {
+      "word": "Cuando estudié, mi maestro fue Gamaliel, y me enseñó a obedecer la ley de nuestros antepasados.",
+      "verse": 3,
+      "start_ms": 19712,
+      "end_ms": 26074,
+      "duration_ms": 6362
+    },
+    {
+      "word": "Siempre he tratado de obedecer a Dios con la misma lealtad que ustedes.",
+      "verse": 3,
+      "start_ms": 26075,
+      "end_ms": 30812,
+      "duration_ms": 4737
+    },
+    {
+      "word": "Antes buscaba por todas partes a los seguidores del Señor Jesús, para matarlos.",
+      "verse": 4,
+      "start_ms": 30812,
+      "end_ms": 36274,
+      "duration_ms": 5462
+    },
+    {
+      "word": "A muchos de ellos, hombres y mujeres, los atrapé y los metí en la cárcel.",
+      "verse": 4,
+      "start_ms": 36275,
+      "end_ms": 41437,
+      "duration_ms": 5162
+    },
+    {
+      "word": "El jefe de los sacerdotes y todos los líderes del país saben bien que esto es cierto.",
+      "verse": 5,
+      "start_ms": 41437,
+      "end_ms": 46787,
+      "duration_ms": 5350
+    },
+    {
+      "word": "Ellos mismos me dieron cartas para mis amigos judíos de la ciudad de Damasco, para que ellos me ayudaran a atrapar más seguidores de Jesús.",
+      "verse": 5,
+      "start_ms": 46787,
+      "end_ms": 54774,
+      "duration_ms": 7987
+    },
+    {
+      "word": "Yo fui a Damasco para traerlos a Jerusalén y castigarlos.",
+      "verse": 5,
+      "start_ms": 54775,
+      "end_ms": 59025,
+      "duration_ms": 4250
+    },
+    {
+      "word": "Todavía estábamos en el camino, ya muy cerca de Damasco, cuando de repente, como a las doce del día, vino del cielo una fuerte luz y todo a mi alrededor se iluminó.",
+      "verse": 6,
+      "start_ms": 59025,
+      "end_ms": 69450,
+      "duration_ms": 10425
+    },
+    {
+      "word": "Caí al suelo, y escuché una voz que me decía: «¡Saulo!",
+      "verse": 7,
+      "start_ms": 69450,
+      "end_ms": 73575,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Saulo!",
+      "verse": 7,
+      "start_ms": 73575,
+      "end_ms": 75012,
+      "duration_ms": 1437
+    },
+    {
+      "word": "Por qué me persigues?",
+      "verse": 7,
+      "start_ms": 75012,
+      "end_ms": 77074,
+      "duration_ms": 2062
+    },
+    {
+      "word": "Yo pregunté: «¿Quién eres, Señor?",
+      "verse": 8,
+      "start_ms": 77075,
+      "end_ms": 80400,
+      "duration_ms": 3325
+    },
+    {
+      "word": "La voz me dijo: «Yo soy Jesús de Nazaret.",
+      "verse": 8,
+      "start_ms": 80400,
+      "end_ms": 84000,
+      "duration_ms": 3600
+    },
+    {
+      "word": "Es a mí a quien estás persiguiendo».",
+      "verse": 8,
+      "start_ms": 84000,
+      "end_ms": 86662,
+      "duration_ms": 2662
+    },
+    {
+      "word": "Los amigos que me acompañaban vieron la luz, pero no oyeron la voz.",
+      "verse": 9,
+      "start_ms": 86662,
+      "end_ms": 91437,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Entonces pregunté: «Señor Jesús, ¿qué debo hacer?",
+      "verse": 10,
+      "start_ms": 91437,
+      "end_ms": 95662,
+      "duration_ms": 4225
+    },
+    {
+      "word": "El Señor me dijo: «Levántate y entra en la ciudad de Damasco.",
+      "verse": 10,
+      "start_ms": 95662,
+      "end_ms": 100074,
+      "duration_ms": 4412
+    },
+    {
+      "word": "Allí se te dirá lo que debes hacer».",
+      "verse": 10,
+      "start_ms": 100075,
+      "end_ms": 102925,
+      "duration_ms": 2850
+    },
+    {
+      "word": "Mis amigos me llevaron de la mano a Damasco, porque la luz me había dejado ciego.",
+      "verse": 11,
+      "start_ms": 102925,
+      "end_ms": 108187,
+      "duration_ms": 5262
+    },
+    {
+      "word": "Allí en Damasco había un hombre llamado Ananías, que amaba a Dios y obedecía la ley de Moisés.",
+      "verse": 12,
+      "start_ms": 108187,
+      "end_ms": 114437,
+      "duration_ms": 6250
+    },
+    {
+      "word": "La gente de esa ciudad hablaba muy bien de él.",
+      "verse": 12,
+      "start_ms": 114437,
+      "end_ms": 117912,
+      "duration_ms": 3475
+    },
+    {
+      "word": "Ananías fue a verme y me dijo: «Saulo, amigo, ya has recobrado la vista».",
+      "verse": 13,
+      "start_ms": 117912,
+      "end_ms": 123749,
+      "duration_ms": 5837
+    },
+    {
+      "word": "En ese mismo instante recobré la vista, y pude ver a Ananías.",
+      "verse": 13,
+      "start_ms": 123750,
+      "end_ms": 128362,
+      "duration_ms": 4612
+    },
+    {
+      "word": "Entonces él me dijo: «El Dios de nuestros antepasados te ha elegido para que conozcas sus planes.",
+      "verse": 14,
+      "start_ms": 128362,
+      "end_ms": 134599,
+      "duration_ms": 6237
+    },
+    {
+      "word": "Él quiere que veas a Jesús, quien es justo, y que oigas su voz.",
+      "verse": 14,
+      "start_ms": 134600,
+      "end_ms": 139337,
+      "duration_ms": 4737
+    },
+    {
+      "word": "Porque tú le anunciarás a todo el mundo lo que has visto y lo que has oído.",
+      "verse": 15,
+      "start_ms": 139337,
+      "end_ms": 143762,
+      "duration_ms": 4425
+    },
+    {
+      "word": "Así que, no esperes más; levántate, bautízate y pídele al Señor que perdone tus pecados».",
+      "verse": 16,
+      "start_ms": 143762,
+      "end_ms": 150524,
+      "duration_ms": 6762
+    },
+    {
+      "word": "Cuando regresé a Jerusalén, fui al templo a orar, y allí tuve una visión.",
+      "verse": 17,
+      "start_ms": 150525,
+      "end_ms": 155825,
+      "duration_ms": 5300
+    },
+    {
+      "word": "Vi al Señor, que me decía: «Vete enseguida de Jerusalén, porque la gente de aquí no creerá lo que digas de mí».",
+      "verse": 18,
+      "start_ms": 155825,
+      "end_ms": 162950,
+      "duration_ms": 7125
+    },
+    {
+      "word": "Yo contesté: «Señor, esta gente sabe que yo iba a todas las sinagogas para atrapar a los que creían en ti.",
+      "verse": 19,
+      "start_ms": 162950,
+      "end_ms": 170025,
+      "duration_ms": 7075
+    },
+    {
+      "word": "Los llevaba a la cárcel, y los maltrataba mucho.",
+      "verse": 19,
+      "start_ms": 170025,
+      "end_ms": 173550,
+      "duration_ms": 3525
+    },
+    {
+      "word": "Cuando mataron a Esteban, yo estaba allí, y estuve de acuerdo en que lo mataran, porque hablaba acerca de ti.",
+      "verse": 20,
+      "start_ms": 173550,
+      "end_ms": 180437,
+      "duration_ms": 6887
+    },
+    {
+      "word": "Hasta cuidé la ropa de los que lo mataron!",
+      "verse": 20,
+      "start_ms": 180437,
+      "end_ms": 183287,
+      "duration_ms": 2850
+    },
+    {
+      "word": "Pero el Señor Jesús me dijo: «Vete ya, pues voy a enviarte a países muy lejanos».",
+      "verse": 21,
+      "start_ms": 183287,
+      "end_ms": 189299,
+      "duration_ms": 6012
+    },
+    {
+      "word": "La gente ya no quiso escuchar más y comenzó a gritar: ¡Ese hombre no merece vivir!",
+      "verse": 22,
+      "start_ms": 189300,
+      "end_ms": 194637,
+      "duration_ms": 5337
+    },
+    {
+      "word": "Que muera!",
+      "verse": 22,
+      "start_ms": 194637,
+      "end_ms": 196112,
+      "duration_ms": 1475
+    },
+    {
+      "word": "No queremos volver a verlo en este mundo!",
+      "verse": 22,
+      "start_ms": 196112,
+      "end_ms": 199012,
+      "duration_ms": 2900
+    },
+    {
+      "word": "La gente siguió gritando y sacudiéndose el polvo de la ropa en señal de rechazo, y lanzaba tierra al aire.",
+      "verse": 23,
+      "start_ms": 199012,
+      "end_ms": 205699,
+      "duration_ms": 6687
+    },
+    {
+      "word": "El jefe de los soldados ordenó que metieran a Pablo en el cuartel, y que lo golpearan.",
+      "verse": 24,
+      "start_ms": 205700,
+      "end_ms": 210837,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Quería saber por qué la gente gritaba en contra suya.",
+      "verse": 24,
+      "start_ms": 210837,
+      "end_ms": 214574,
+      "duration_ms": 3737
+    },
+    {
+      "word": "Pero cuando los soldados lo ataron para pegarle, Pablo le preguntó al capitán de los soldados: —¿Tienen ustedes permiso para golpear a un ciudadano romano, sin saber siquiera si es culpable o inocente?",
+      "verse": 25,
+      "start_ms": 214575,
+      "end_ms": 226075,
+      "duration_ms": 11500
+    },
+    {
+      "word": "El capitán fue y le contó esto al jefe de los soldados.",
+      "verse": 26,
+      "start_ms": 226075,
+      "end_ms": 229975,
+      "duration_ms": 3900
+    },
+    {
+      "word": "Le dijo: —¿Qué va a hacer usted?",
+      "verse": 26,
+      "start_ms": 229975,
+      "end_ms": 232862,
+      "duration_ms": 2887
+    },
+    {
+      "word": "Este hombre es ciudadano romano!",
+      "verse": 26,
+      "start_ms": 232862,
+      "end_ms": 235624,
+      "duration_ms": 2762
+    },
+    {
+      "word": "El jefe fue a ver a Pablo, y le preguntó: —¿De veras eres ciudadano romano?",
+      "verse": 27,
+      "start_ms": 235625,
+      "end_ms": 241025,
+      "duration_ms": 5400
+    },
+    {
+      "word": "Así es —contestó Pablo.",
+      "verse": 27,
+      "start_ms": 241025,
+      "end_ms": 243762,
+      "duration_ms": 2737
+    },
+    {
+      "word": "El jefe le dijo: —Yo compré el derecho de ser ciudadano romano, y me costó mucho dinero.",
+      "verse": 28,
+      "start_ms": 243762,
+      "end_ms": 249899,
+      "duration_ms": 6137
+    },
+    {
+      "word": "Pero yo no lo compré!",
+      "verse": 28,
+      "start_ms": 249900,
+      "end_ms": 251862,
+      "duration_ms": 1962
+    },
+    {
+      "word": "le contestó Pablo—.",
+      "verse": 28,
+      "start_ms": 251862,
+      "end_ms": 253862,
+      "duration_ms": 2000
+    },
+    {
+      "word": "Yo nací en una ciudad romana.",
+      "verse": 28,
+      "start_ms": 253862,
+      "end_ms": 256537,
+      "duration_ms": 2675
+    },
+    {
+      "word": "Por eso soy ciudadano romano.",
+      "verse": 28,
+      "start_ms": 256537,
+      "end_ms": 259162,
+      "duration_ms": 2625
+    },
+    {
+      "word": "Los que iban a golpear a Pablo para que hablara, se apartaron de él.",
+      "verse": 29,
+      "start_ms": 259162,
+      "end_ms": 263624,
+      "duration_ms": 4462
+    },
+    {
+      "word": "El jefe de los soldados también tuvo mucho miedo, pues había ordenado sujetar con cadenas a un ciudadano romano.",
+      "verse": 29,
+      "start_ms": 263625,
+      "end_ms": 270475,
+      "duration_ms": 6850
+    },
+    {
+      "word": "Al",
+      "verse": 30,
+      "start_ms": 270475,
+      "end_ms": 271775,
+      "duration_ms": 1300
+    },
+    {
+      "word": "día siguiente, el jefe de los soldados romanos mandó a reunir a los sacerdotes principales y a los judíos de la Junta Suprema, pues quería saber exactamente de qué acusaban a Pablo.",
+      "verse": 30,
+      "start_ms": 271924,
+      "end_ms": 282161,
+      "duration_ms": 10237
+    },
+    {
+      "word": "Luego ordenó que le quitaran las cadenas, que lo sacaran de la cárcel y que lo pusieran delante de todos ellos.",
+      "verse": 30,
+      "start_ms": 282111,
+      "end_ms": 288786,
+      "duration_ms": 6675
+    }
+  ]
+}

@@ -1,0 +1,831 @@
+{
+  "book": "JER",
+  "chapter": 48,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 43,
+  "word_count": 74,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 220,
+      "text": "El Dios todopoderoso me dio este mensaje para los habitantes de las ciudades de Moab: ¡Pobrecita de la ciudad de Nebo! ¡Estoy a punto de destruirla! ¡Humillaré a la ciudad de Quiriataim, y dejaré en ruinas su fortaleza!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 220,
+      "char_end": 419,
+      "text": "Moab ha perdido su importancia, y en Hesbón están pensando destruirla. Babilonia invita a otras naciones a venir y borrar del mapa a Moab. También a la ciudad de Madmén la perseguiré espada en mano."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 419,
+      "char_end": 489,
+      "text": "Los de Horonaim lloran a gritos; toda la ciudad ha quedado destruida."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 489,
+      "char_end": 561,
+      "text": "Moab se volverá un montón de ruinas, y los niños gritarán desesperados."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 561,
+      "char_end": 713,
+      "text": "Por la cuesta de Luhit, los que suben no dejan de llorar. Por la pendiente de Horonaim, los que bajan no dejan de gritar: «¡Qué desastre hemos sufrido!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 713,
+      "char_end": 768,
+      "text": "¡Sálvese quien pueda! ¡Huyamos como burros salvajes!»."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 768,
+      "char_end": 913,
+      "text": "A los de Moab los tomarán presos, junto con su dios Quemós, sus sacerdotes y sus oficiales, por confiar en su ejército y en sus muchas riquezas."
+    },
+    {
+      "verse": 8,
+      "label": "8-9",
+      "char_start": 913,
+      "char_end": 1148,
+      "text": "Valles y llanos serán destruidos. La destrucción llegará a toda ciudad, y ninguna de ellas se salvará. ¡Prepárenle a Moab su tumba, porque ha dejado de existir! ¡Sus ciudades están vacías y ya nadie vive en ellas! Les juro que así es."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1148,
+      "char_end": 1265,
+      "text": "¡Maldito sea el que no quiera tomar la espada para matar! ¡Maldito sea el que de mala gana haga lo que yo le ordene!"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1265,
+      "char_end": 1512,
+      "text": "Desde un principio, Moab siempre ha disfrutado de paz; ni uno solo de sus habitantes ha sido llevado prisionero. Moab se parece al buen vino: siempre ha estado en reposo y en el mismo lugar. Por eso le ha ido bien y no ha perdido sus tradiciones."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1512,
+      "char_end": 1617,
+      "text": "Pero ya se acerca el día en que lo atacará el enemigo y se lo llevará prisionero. Les juro que así será."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1617,
+      "char_end": 1759,
+      "text": "Los moabitas se avergonzarán de su dios Quemós, como antes los israelitas se avergonzaron del dios Baal, en quien pusieron toda su confianza."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1759,
+      "char_end": 1821,
+      "text": "Pobrecitos soldados moabitas, ustedes se creen muy valientes,"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1821,
+      "char_end": 2028,
+      "text": "pero su país será destruido y el enemigo conquistará sus ciudades. ¡Hasta sus mejores soldados morirán en el campo de batalla! Yo soy el Dios de Israel; yo soy el Dios todopoderoso, y les juró que así será."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2028,
+      "char_end": 2086,
+      "text": "Ya no falta mucho tiempo; muy pronto Moab será destruida."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2086,
+      "char_end": 2241,
+      "text": "Todos sus vecinos y conocidos llorarán por esta famosa nación, y dirán: «¡Pobrecita de Moab! ¡Miren cómo se vino abajo una nación tan grande y poderosa!»."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2241,
+      "char_end": 2401,
+      "text": "Ustedes, los que viven en Dibón, ¡bajen ya de su alto trono y siéntense en el duro suelo! ¡El enemigo ha comenzado a destruir!, ¡y caerán las murallas de Moab!"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2401,
+      "char_end": 2532,
+      "text": "Y ustedes, los que viven en Aroer, deténganse a la orilla del camino y fíjense cómo huye la gente. ¡Pregunten qué fue lo que pasó!"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2532,
+      "char_end": 2675,
+      "text": "Seguramente les dirán que Moab ha sido derrotada; les dirán también que lloren, y que anuncien por el río Arnón que Moab ha quedado en ruinas."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2675,
+      "char_end": 2768,
+      "text": "Y es que voy a castigar a las ciudades de la llanura; castigaré a Holón, a Jahas y a Mefáat;"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2768,
+      "char_end": 2803,
+      "text": "a Dibón, a Nebo y a Bet-diblataim;"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2803,
+      "char_end": 2844,
+      "text": "a Quiriataim, a Bet-gamul y a Bet-megón,"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2844,
+      "char_end": 2917,
+      "text": "a Queriot y a Bosrá, y a todas las ciudades de Moab, cercanas y lejanas."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2917,
+      "char_end": 2996,
+      "text": "Moab ha perdido su poder; ¡se le han acabado las fuerzas! Les juro que así es."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2996,
+      "char_end": 3092,
+      "text": "Tú, Moab, me ofendiste; ¡ahora dejaré que tus enemigos te dejen en vergüenza y se burlen de ti!"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3092,
+      "char_end": 3199,
+      "text": "Tú, Moab, te burlabas de mi pueblo; siempre hablabas de ellos con desprecio, como si fueran unos ladrones."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3199,
+      "char_end": 3369,
+      "text": "Pero ahora les toca a ustedes dejar abandonadas sus ciudades y quedarse a vivir entre las rocas; les toca vivir como las palomas, que anidan al borde de los precipicios."
+    },
+    {
+      "verse": 29,
+      "label": "29-30",
+      "char_start": 3369,
+      "char_end": 3522,
+      "text": "Mi pueblo y yo te conocemos. Bien sabemos que tú, Moab, eres un pueblo muy orgulloso que se cree superior a todos. ¡Pero de nada te servirá ese orgullo!"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3522,
+      "char_end": 3588,
+      "text": "Por eso lloro y me angustio por la gente de Moab y de Quir-heres."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3588,
+      "char_end": 3789,
+      "text": "Lloro también por ustedes, los que viven en Sibmá, pues se extendieron como un viñedo; sus ramas llegaban hasta Jazer y se extendían más allá del mar. Pero llegó la destrucción y acabó con tu cosecha."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3789,
+      "char_end": 3929,
+      "text": "Ya no hay fiesta ni alegría en los fértiles campos de Moab; ya no hay quien exprima uvas ni quien prepare vino; ¡yo puse fin a esa alegría!"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3929,
+      "char_end": 4030,
+      "text": "¡Los pozos de Nimrim se han secado! El llanto de la gente de Hesbón se oye por todo el país de Moab."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4030,
+      "char_end": 4171,
+      "text": "Yo acabaré con los moabitas que adoran a otros dioses en los pequeños santuarios que han construido en los cerros. Les juro que así lo haré."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4171,
+      "char_end": 4333,
+      "text": "Mi corazón parece una flauta triste: llora por la gente de Moab y por los que viven en Quir-heres, porque amontonaron grandes riquezas y todo eso lo han perdido."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4333,
+      "char_end": 4511,
+      "text": "No hay un solo hombre en Moab que no se haya rapado la cabeza ni se haya afeitado la barba en señal de dolor y tristeza. Todos se visten de luto y se hacen heridas en las manos."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4511,
+      "char_end": 4669,
+      "text": "En todas las casas de Moab se oyen gritos de dolor; por todas sus calles se oye llorar a la gente, porque hice pedazos a Moab como si fuera un frasco inútil."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4669,
+      "char_end": 4807,
+      "text": "¡Todos en Moab lloran a gritos porque su nación ha quedado destrozada! Sus ruinas producen espanto; ¡causan risa entre todos sus vecinos!"
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4807,
+      "char_end": 4914,
+      "text": "¡Miren a los soldados de Babilonia! ¡Ya vienen los enemigos de Moab! ¡Parecen águilas dispuestas a atacar!"
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4914,
+      "char_end": 5072,
+      "text": "Cuando llegue el momento, se apoderarán de sus ciudades, y entonces sus guerreros, asustados, temblarán como tiemblan las mujeres cuando van a tener un hijo."
+    },
+    {
+      "verse": 42,
+      "label": "42-44",
+      "char_start": 5072,
+      "char_end": 5360,
+      "text": "Ustedes, los que viven en Moab, tratarán de escapar, pero sin éxito, pues caerán de trampa en trampa; y aun si lograran escapar, acabarán por caer en la tumba. Ya está muy cerca el día en que castigaré a Moab; y dejará de ser una nación porque se rebeló contra mí. Les juro que así será."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 5360,
+      "char_end": 5501,
+      "text": "Los que alcancen a escapar llegarán a Hesbón casi muertos; pero aun a esa orgullosa ciudad, donde gobernaba el rey Sihón, le prenderé fuego."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 5501,
+      "char_end": 5654,
+      "text": "¡Pobres de ustedes, los moabitas, que adoran al dios Quemós! Van a ser destruidos, y a sus hijos y a sus hijas los llevarán como esclavos a otra nación."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 5654,
+      "char_end": 5775,
+      "text": "Pero cuando todo haya terminado, haré que vuelvan de ese país. Les juro que así lo haré. Éste es mi castigo contra Moab."
+    }
+  ],
+  "words": [
+    {
+      "word": "El Dios todopoderoso me dio este mensaje para los habitantes de las ciudades de Moab: ¡Pobrecita de la ciudad de Nebo!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7187,
+      "duration_ms": 7087
+    },
+    {
+      "word": "Estoy a punto de destruirla!",
+      "verse": 1,
+      "start_ms": 7137,
+      "end_ms": 9687,
+      "duration_ms": 2550
+    },
+    {
+      "word": "Humillaré a la ciudad de Quiriataim, y dejaré en ruinas su fortaleza!",
+      "verse": 1,
+      "start_ms": 9687,
+      "end_ms": 14387,
+      "duration_ms": 4700
+    },
+    {
+      "word": "Moab ha perdido su importancia, y en Hesbón están pensando destruirla.",
+      "verse": 2,
+      "start_ms": 14387,
+      "end_ms": 19262,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Babilonia invita a otras naciones a venir y borrar del mapa a Moab.",
+      "verse": 2,
+      "start_ms": 19262,
+      "end_ms": 23874,
+      "duration_ms": 4612
+    },
+    {
+      "word": "También a la ciudad de Madmén la perseguiré espada en mano.",
+      "verse": 2,
+      "start_ms": 23875,
+      "end_ms": 27737,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Los de Horonaim lloran a gritos; toda la ciudad ha quedado destruida.",
+      "verse": 3,
+      "start_ms": 27737,
+      "end_ms": 32624,
+      "duration_ms": 4887
+    },
+    {
+      "word": "Moab se volverá un montón de ruinas, y los niños gritarán desesperados.",
+      "verse": 4,
+      "start_ms": 32625,
+      "end_ms": 37737,
+      "duration_ms": 5112
+    },
+    {
+      "word": "Por la cuesta de Luhit, los que suben no dejan de llorar.",
+      "verse": 5,
+      "start_ms": 37737,
+      "end_ms": 41762,
+      "duration_ms": 4025
+    },
+    {
+      "word": "Por la pendiente de Horonaim, los que bajan no dejan de gritar: «¡Qué desastre hemos sufrido!",
+      "verse": 5,
+      "start_ms": 41762,
+      "end_ms": 47537,
+      "duration_ms": 5775
+    },
+    {
+      "word": "Sálvese quien pueda!",
+      "verse": 6,
+      "start_ms": 47537,
+      "end_ms": 49649,
+      "duration_ms": 2112
+    },
+    {
+      "word": "Huyamos como burros salvajes!",
+      "verse": 6,
+      "start_ms": 49650,
+      "end_ms": 52262,
+      "duration_ms": 2612
+    },
+    {
+      "word": "A los de Moab los tomarán presos, junto con su dios Quemós, sus sacerdotes y sus oficiales, por confiar en su ejército y en sus muchas riquezas.",
+      "verse": 7,
+      "start_ms": 52262,
+      "end_ms": 61449,
+      "duration_ms": 9187
+    },
+    {
+      "word": "Valles y llanos serán destruidos.",
+      "verse": 8,
+      "start_ms": 61450,
+      "end_ms": 64437,
+      "duration_ms": 2987
+    },
+    {
+      "word": "La destrucción llegará a toda ciudad, y ninguna de ellas se salvará.",
+      "verse": 8,
+      "start_ms": 64437,
+      "end_ms": 69137,
+      "duration_ms": 4700
+    },
+    {
+      "word": "Prepárenle a Moab su tumba, porque ha dejado de existir!",
+      "verse": 8,
+      "start_ms": 69137,
+      "end_ms": 73262,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Sus ciudades están vacías y ya nadie vive en ellas!",
+      "verse": 8,
+      "start_ms": 73262,
+      "end_ms": 77099,
+      "duration_ms": 3837
+    },
+    {
+      "word": "Les juro que así es.",
+      "verse": 8,
+      "start_ms": 77100,
+      "end_ms": 79350,
+      "duration_ms": 2250
+    },
+    {
+      "word": "Maldito sea el que no quiera tomar la espada para matar!",
+      "verse": 10,
+      "start_ms": 79350,
+      "end_ms": 82937,
+      "duration_ms": 3587
+    },
+    {
+      "word": "Maldito sea el que de mala gana haga lo que yo le ordene!",
+      "verse": 10,
+      "start_ms": 82937,
+      "end_ms": 86699,
+      "duration_ms": 3762
+    },
+    {
+      "word": "Desde un principio, Moab siempre ha disfrutado de paz; ni uno solo de sus habitantes ha sido llevado prisionero.",
+      "verse": 11,
+      "start_ms": 86700,
+      "end_ms": 93875,
+      "duration_ms": 7175
+    },
+    {
+      "word": "Moab se parece al buen vino: siempre ha estado en reposo y en el mismo lugar.",
+      "verse": 11,
+      "start_ms": 93875,
+      "end_ms": 99137,
+      "duration_ms": 5262
+    },
+    {
+      "word": "Por eso le ha ido bien y no ha perdido sus tradiciones.",
+      "verse": 11,
+      "start_ms": 99137,
+      "end_ms": 102999,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Pero ya se acerca el día en que lo atacará el enemigo y se lo llevará prisionero.",
+      "verse": 12,
+      "start_ms": 103000,
+      "end_ms": 107900,
+      "duration_ms": 4900
+    },
+    {
+      "word": "Les juro que así será.",
+      "verse": 12,
+      "start_ms": 107900,
+      "end_ms": 110137,
+      "duration_ms": 2237
+    },
+    {
+      "word": "Los moabitas se avergonzarán de su dios Quemós, como antes los israelitas se avergonzaron del dios Baal, en quien pusieron toda su confianza.",
+      "verse": 13,
+      "start_ms": 110137,
+      "end_ms": 118487,
+      "duration_ms": 8350
+    },
+    {
+      "word": "Pobrecitos soldados moabitas, ustedes se creen muy valientes, pero su país será destruido y el enemigo conquistará sus ciudades.",
+      "verse": 14,
+      "start_ms": 118487,
+      "end_ms": 126874,
+      "duration_ms": 8387
+    },
+    {
+      "word": "Hasta sus mejores soldados morirán en el campo de batalla!",
+      "verse": 15,
+      "start_ms": 126875,
+      "end_ms": 130887,
+      "duration_ms": 4012
+    },
+    {
+      "word": "Yo soy el Dios de Israel; yo soy el Dios todopoderoso, y les juró que así será.",
+      "verse": 15,
+      "start_ms": 130887,
+      "end_ms": 136837,
+      "duration_ms": 5950
+    },
+    {
+      "word": "Ya no falta mucho tiempo; muy pronto Moab será destruida.",
+      "verse": 16,
+      "start_ms": 136837,
+      "end_ms": 141187,
+      "duration_ms": 4350
+    },
+    {
+      "word": "Todos sus vecinos y conocidos llorarán por esta famosa nación, y dirán: «¡Pobrecita de Moab!",
+      "verse": 17,
+      "start_ms": 141187,
+      "end_ms": 147374,
+      "duration_ms": 6187
+    },
+    {
+      "word": "Miren cómo se vino abajo una nación tan grande y poderosa!",
+      "verse": 17,
+      "start_ms": 147375,
+      "end_ms": 151387,
+      "duration_ms": 4012
+    },
+    {
+      "word": "Ustedes, los que viven en Dibón, ¡bajen ya de su alto trono y siéntense en el duro suelo!",
+      "verse": 18,
+      "start_ms": 151387,
+      "end_ms": 157337,
+      "duration_ms": 5950
+    },
+    {
+      "word": "El enemigo ha comenzado a destruir!, ¡y caerán las murallas de Moab!",
+      "verse": 18,
+      "start_ms": 157337,
+      "end_ms": 161912,
+      "duration_ms": 4575
+    },
+    {
+      "word": "Y ustedes, los que viven en Aroer, deténganse a la orilla del camino y fíjense cómo huye la gente.",
+      "verse": 19,
+      "start_ms": 161912,
+      "end_ms": 168599,
+      "duration_ms": 6687
+    },
+    {
+      "word": "Pregunten qué fue lo que pasó!",
+      "verse": 19,
+      "start_ms": 168600,
+      "end_ms": 170887,
+      "duration_ms": 2287
+    },
+    {
+      "word": "Seguramente les dirán que Moab ha sido derrotada; les dirán también que lloren, y que anuncien por el río Arnón que Moab ha quedado en ruinas.",
+      "verse": 20,
+      "start_ms": 170887,
+      "end_ms": 179187,
+      "duration_ms": 8300
+    },
+    {
+      "word": "Y es que voy a castigar a las ciudades de la llanura; castigaré a Holón, a Jahas y a Mefáat; a Dibón, a Nebo y a Bet-diblataim; a Quiriataim, a Bet-gamul y a Bet-megón, a Queriot y a Bosrá, y a todas las ciudades de Moab, cercanas y lejanas.",
+      "verse": 21,
+      "start_ms": 179187,
+      "end_ms": 195199,
+      "duration_ms": 16012
+    },
+    {
+      "word": "Moab ha perdido su poder; ¡se le han acabado las fuerzas!",
+      "verse": 25,
+      "start_ms": 195200,
+      "end_ms": 199462,
+      "duration_ms": 4262
+    },
+    {
+      "word": "Les juro que así es.",
+      "verse": 25,
+      "start_ms": 199462,
+      "end_ms": 201712,
+      "duration_ms": 2250
+    },
+    {
+      "word": "Tú, Moab, me ofendiste; ¡ahora dejaré que tus enemigos te dejen en vergüenza y se burlen de ti!",
+      "verse": 26,
+      "start_ms": 201712,
+      "end_ms": 208162,
+      "duration_ms": 6450
+    },
+    {
+      "word": "Tú, Moab, te burlabas de mi pueblo; siempre hablabas de ellos con desprecio, como si fueran unos ladrones.",
+      "verse": 27,
+      "start_ms": 208162,
+      "end_ms": 215412,
+      "duration_ms": 7250
+    },
+    {
+      "word": "Pero ahora les toca a ustedes dejar abandonadas sus ciudades y quedarse a vivir entre las rocas; les toca vivir como las palomas, que anidan al borde de los precipicios.",
+      "verse": 28,
+      "start_ms": 215412,
+      "end_ms": 225337,
+      "duration_ms": 9925
+    },
+    {
+      "word": "Mi pueblo y yo te conocemos.",
+      "verse": 29,
+      "start_ms": 225337,
+      "end_ms": 228087,
+      "duration_ms": 2750
+    },
+    {
+      "word": "Bien sabemos que tú, Moab, eres un pueblo muy orgulloso que se cree superior a todos.",
+      "verse": 29,
+      "start_ms": 228087,
+      "end_ms": 234062,
+      "duration_ms": 5975
+    },
+    {
+      "word": "Pero de nada te servirá ese orgullo!",
+      "verse": 29,
+      "start_ms": 234062,
+      "end_ms": 236949,
+      "duration_ms": 2887
+    },
+    {
+      "word": "Por eso lloro y me angustio por la gente de Moab y de Quir-heres.",
+      "verse": 31,
+      "start_ms": 236950,
+      "end_ms": 241087,
+      "duration_ms": 4137
+    },
+    {
+      "word": "Lloro también por ustedes, los que viven en Sibmá, pues se extendieron como un viñedo; sus ramas llegaban hasta Jazer y se extendían más allá del mar.",
+      "verse": 32,
+      "start_ms": 241087,
+      "end_ms": 250049,
+      "duration_ms": 8962
+    },
+    {
+      "word": "Pero llegó la destrucción y acabó con tu cosecha.",
+      "verse": 32,
+      "start_ms": 250050,
+      "end_ms": 253400,
+      "duration_ms": 3350
+    },
+    {
+      "word": "Ya no hay fiesta ni alegría en los fértiles campos de Moab; ya no hay quien exprima uvas ni quien prepare vino; ¡yo puse fin a esa alegría!",
+      "verse": 33,
+      "start_ms": 253400,
+      "end_ms": 261737,
+      "duration_ms": 8337
+    },
+    {
+      "word": "Los pozos de Nimrim se han secado!",
+      "verse": 34,
+      "start_ms": 261737,
+      "end_ms": 264549,
+      "duration_ms": 2812
+    },
+    {
+      "word": "El llanto de la gente",
+      "verse": 34,
+      "start_ms": 264550,
+      "end_ms": 266762,
+      "duration_ms": 2212
+    },
+    {
+      "word": "de Hesbón se oye por todo el país de Moab.",
+      "verse": 34,
+      "start_ms": 266932,
+      "end_ms": 270132,
+      "duration_ms": 3200
+    },
+    {
+      "word": "Yo acabaré con los moabitas que adoran a otros dioses en los pequeños santuarios que han construido en los cerros.",
+      "verse": 35,
+      "start_ms": 270082,
+      "end_ms": 276444,
+      "duration_ms": 6362
+    },
+    {
+      "word": "Les juro que así lo haré.",
+      "verse": 35,
+      "start_ms": 276444,
+      "end_ms": 278656,
+      "duration_ms": 2212
+    },
+    {
+      "word": "Mi corazón parece una flauta triste: llora por la gente de Moab y por los que viven en Quir-heres, porque amontonaron grandes riquezas y todo eso lo han perdido.",
+      "verse": 36,
+      "start_ms": 278657,
+      "end_ms": 287982,
+      "duration_ms": 9325
+    },
+    {
+      "word": "No hay un solo hombre en Moab que no se haya rapado la cabeza ni se haya afeitado la barba en señal de dolor y tristeza.",
+      "verse": 37,
+      "start_ms": 287982,
+      "end_ms": 294857,
+      "duration_ms": 6875
+    },
+    {
+      "word": "Todos se visten de luto y se hacen heridas en las manos.",
+      "verse": 37,
+      "start_ms": 294857,
+      "end_ms": 298682,
+      "duration_ms": 3825
+    },
+    {
+      "word": "En todas las casas de Moab se oyen gritos de dolor; por todas sus calles se oye llorar a la gente, porque hice pedazos a Moab como si fuera un frasco inútil.",
+      "verse": 38,
+      "start_ms": 298682,
+      "end_ms": 307807,
+      "duration_ms": 9125
+    },
+    {
+      "word": "Todos en Moab lloran a gritos porque su nación ha quedado destrozada!",
+      "verse": 39,
+      "start_ms": 307807,
+      "end_ms": 312182,
+      "duration_ms": 4375
+    },
+    {
+      "word": "Sus ruinas producen espanto; ¡causan risa entre todos sus vecinos!",
+      "verse": 39,
+      "start_ms": 312182,
+      "end_ms": 317194,
+      "duration_ms": 5012
+    },
+    {
+      "word": "Miren a los soldados de Babilonia!",
+      "verse": 40,
+      "start_ms": 317194,
+      "end_ms": 319894,
+      "duration_ms": 2700
+    },
+    {
+      "word": "Ya vienen los enemigos de Moab!",
+      "verse": 40,
+      "start_ms": 319894,
+      "end_ms": 322444,
+      "duration_ms": 2550
+    },
+    {
+      "word": "Parecen águilas dispuestas a atacar!",
+      "verse": 40,
+      "start_ms": 322444,
+      "end_ms": 325406,
+      "duration_ms": 2962
+    },
+    {
+      "word": "Cuando llegue el momento, se apoderarán de sus ciudades, y entonces sus guerreros, asustados, temblarán como tiemblan las mujeres cuando van a tener un hijo.",
+      "verse": 41,
+      "start_ms": 325407,
+      "end_ms": 334957,
+      "duration_ms": 9550
+    },
+    {
+      "word": "Ustedes, los que viven en Moab, tratarán de escapar, pero sin éxito, pues caerán de trampa en trampa; y aun si lograran escapar, acabarán por caer en la tumba.",
+      "verse": 42,
+      "start_ms": 334957,
+      "end_ms": 345394,
+      "duration_ms": 10437
+    },
+    {
+      "word": "Ya está muy cerca el día en que castigaré a Moab; y dejará de ser una nación porque se rebeló contra mí.",
+      "verse": 42,
+      "start_ms": 345394,
+      "end_ms": 351769,
+      "duration_ms": 6375
+    },
+    {
+      "word": "Les juro que así será.",
+      "verse": 42,
+      "start_ms": 351769,
+      "end_ms": 354006,
+      "duration_ms": 2237
+    },
+    {
+      "word": "Los que alcancen a escapar llegarán a Hesbón casi muertos; pero aun a esa orgullosa ciudad, donde gobernaba el rey Sihón, le prenderé fuego.",
+      "verse": 45,
+      "start_ms": 354007,
+      "end_ms": 362782,
+      "duration_ms": 8775
+    },
+    {
+      "word": "Pobres de ustedes, los moabitas, que adoran al dios Quemós!",
+      "verse": 46,
+      "start_ms": 362782,
+      "end_ms": 367382,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Van a ser destruidos, y a sus hijos y a sus hijas los llevarán como esclavos a otra nación.",
+      "verse": 46,
+      "start_ms": 367382,
+      "end_ms": 373219,
+      "duration_ms": 5837
+    },
+    {
+      "word": "Pero cuando todo haya terminado, haré que vuelvan de ese país.",
+      "verse": 47,
+      "start_ms": 373219,
+      "end_ms": 377706,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Les juro que así lo haré.",
+      "verse": 47,
+      "start_ms": 377707,
+      "end_ms": 379919,
+      "duration_ms": 2212
+    },
+    {
+      "word": "Éste es mi castigo contra Moab.",
+      "verse": 47,
+      "start_ms": 379919,
+      "end_ms": 382631,
+      "duration_ms": 2712
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "book": "ECL",
+  "chapter": 10,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 20,
+  "word_count": 28,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 102,
+      "text": "La mejor sopa se echa a perder si le cae una mosca. La menor tontería echa a perder tu fama de sabio."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 102,
+      "char_end": 184,
+      "text": "El sabio siempre piensa en hacer lo bueno; el tonto sólo piensa en hacer lo malo."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 184,
+      "char_end": 259,
+      "text": "Tiene el tonto tan poco cerebro que sin abrir la boca anuncia su tontería."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 259,
+      "char_end": 376,
+      "text": "Si el gobernante se enoja contigo, no renuncies a tu cargo. Para los grandes errores, un gran remedio: la paciencia."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 376,
+      "char_end": 461,
+      "text": "En esta vida he visto algo muy grave, parecido al error que cometen los gobernantes:"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 461,
+      "char_end": 590,
+      "text": "que a la gente incapaz se le dan puestos de gran responsabilidad, mientras que a la gente capaz se le dan los puestos más bajos."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 590,
+      "char_end": 678,
+      "text": "¡Y resulta que los esclavos andan a caballo, mientras que la gente que vale anda a pie!"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 678,
+      "char_end": 774,
+      "text": "Si haces hoyos, puedes caerte en ellos. Si partes en dos un muro, puede morderte una serpiente."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 774,
+      "char_end": 854,
+      "text": "Si partes piedras, puedes salir herido. Si partes leña, puedes salir lastimado."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 854,
+      "char_end": 1002,
+      "text": "El hacha sin filo no corta. Si no se le saca filo, hay que golpear con más fuerza. Si quieres prosperar, tienes que saber qué hacer y hacerlo bien."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1002,
+      "char_end": 1104,
+      "text": "¿De qué te sirve tener un encantador de serpientes, si la serpiente te muerde antes de ser encantada?"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1104,
+      "char_end": 1204,
+      "text": "Cuando el sabio habla, a todos les cae bien; cuando el tonto abre la boca, provoca su propia ruina."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1204,
+      "char_end": 1263,
+      "text": "Comienza diciendo tonterías, y acaba diciendo estupideces,"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1263,
+      "char_end": 1363,
+      "text": "¡pero palabras no le faltan! ¿Qué va a pasar mañana? ¿Qué va a pasar después? ¡Nadie puede saberlo!"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1363,
+      "char_end": 1444,
+      "text": "No tiene ningún sentido que tanto trabaje el tonto, si no sabe ni en dónde está."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1444,
+      "char_end": 1542,
+      "text": "¡Qué lástima da el país que tiene un rey incapaz y malos gobernantes que siempre están de fiesta!"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1542,
+      "char_end": 1664,
+      "text": "¡Pero qué dichoso es el país que tiene un rey bien preparado, con gobernantes que comen para vivir y no viven para comer!"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1664,
+      "char_end": 1762,
+      "text": "En la casa del perezoso pasan muchas desgracias: primero se cae el techo, y después toda la casa."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1762,
+      "char_end": 1872,
+      "text": "Para estar feliz hace falta pan, para estar contento hace falta vino, y para gozar de todo hace falta dinero."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1872,
+      "char_end": 2020,
+      "text": "Nunca hables mal del rey ni de la gente poderosa, aunque creas que nadie te oye. Las palabras vuelan; son como los pájaros, y todo llega a saberse."
+    }
+  ],
+  "words": [
+    {
+      "word": "La mejor sopa se echa a perder si le cae una mosca.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3937,
+      "duration_ms": 3837
+    },
+    {
+      "word": "La menor tontería echa a perder tu fama de sabio.",
+      "verse": 1,
+      "start_ms": 3887,
+      "end_ms": 7562,
+      "duration_ms": 3675
+    },
+    {
+      "word": "El sabio siempre piensa en hacer lo bueno; el tonto sólo piensa en hacer lo malo.",
+      "verse": 2,
+      "start_ms": 7562,
+      "end_ms": 12837,
+      "duration_ms": 5275
+    },
+    {
+      "word": "Tiene el tonto tan poco cerebro que sin abrir la boca anuncia su tontería.",
+      "verse": 3,
+      "start_ms": 12837,
+      "end_ms": 17574,
+      "duration_ms": 4737
+    },
+    {
+      "word": "Si el gobernante se enoja contigo, no renuncies a tu cargo.",
+      "verse": 4,
+      "start_ms": 17575,
+      "end_ms": 22025,
+      "duration_ms": 4450
+    },
+    {
+      "word": "Para los grandes errores, un gran remedio: la paciencia.",
+      "verse": 4,
+      "start_ms": 22025,
+      "end_ms": 26375,
+      "duration_ms": 4350
+    },
+    {
+      "word": "En esta vida he visto algo muy grave, parecido al error que cometen los gobernantes: que a la gente incapaz se le dan puestos de gran responsabilidad, mientras que a la gente capaz se le dan los puestos más bajos.",
+      "verse": 5,
+      "start_ms": 26375,
+      "end_ms": 38512,
+      "duration_ms": 12137
+    },
+    {
+      "word": "Y resulta que los esclavos andan a caballo, mientras que la gente que vale anda a pie!",
+      "verse": 7,
+      "start_ms": 38512,
+      "end_ms": 43949,
+      "duration_ms": 5437
+    },
+    {
+      "word": "Si haces hoyos, puedes caerte en ellos.",
+      "verse": 8,
+      "start_ms": 43950,
+      "end_ms": 47562,
+      "duration_ms": 3612
+    },
+    {
+      "word": "Si partes en dos un muro, puede morderte una serpiente.",
+      "verse": 8,
+      "start_ms": 47562,
+      "end_ms": 51812,
+      "duration_ms": 4250
+    },
+    {
+      "word": "Si partes piedras, puedes salir herido.",
+      "verse": 9,
+      "start_ms": 51812,
+      "end_ms": 55174,
+      "duration_ms": 3362
+    },
+    {
+      "word": "Si partes leña, puedes salir lastimado.",
+      "verse": 9,
+      "start_ms": 55175,
+      "end_ms": 58612,
+      "duration_ms": 3437
+    },
+    {
+      "word": "El hacha sin filo no corta.",
+      "verse": 10,
+      "start_ms": 58612,
+      "end_ms": 61174,
+      "duration_ms": 2562
+    },
+    {
+      "word": "Si no se le saca filo, hay que golpear con más fuerza.",
+      "verse": 10,
+      "start_ms": 61175,
+      "end_ms": 65150,
+      "duration_ms": 3975
+    },
+    {
+      "word": "Si quieres prosperar, tienes que saber qué hacer y hacerlo bien.",
+      "verse": 10,
+      "start_ms": 65150,
+      "end_ms": 69250,
+      "duration_ms": 4100
+    },
+    {
+      "word": "De qué te sirve tener un encantador de serpientes, si la serpiente te muerde antes de ser encantada?",
+      "verse": 11,
+      "start_ms": 69250,
+      "end_ms": 75437,
+      "duration_ms": 6187
+    },
+    {
+      "word": "Cuando el sabio habla, a todos les cae bien; cuando el tonto abre la boca, provoca su propia ruina.",
+      "verse": 12,
+      "start_ms": 75437,
+      "end_ms": 82049,
+      "duration_ms": 6612
+    },
+    {
+      "word": "Comienza diciendo tonterías, y acaba diciendo estupideces, ¡pero palabras no le faltan!",
+      "verse": 13,
+      "start_ms": 82050,
+      "end_ms": 88225,
+      "duration_ms": 6175
+    },
+    {
+      "word": "Qué va a pasar mañana?",
+      "verse": 14,
+      "start_ms": 88225,
+      "end_ms": 90400,
+      "duration_ms": 2175
+    },
+    {
+      "word": "Qué va a pasar después?",
+      "verse": 14,
+      "start_ms": 90400,
+      "end_ms": 92600,
+      "duration_ms": 2200
+    },
+    {
+      "word": "Nadie puede saberlo!",
+      "verse": 14,
+      "start_ms": 92600,
+      "end_ms": 94737,
+      "duration_ms": 2137
+    },
+    {
+      "word": "No tiene ningún sentido que tanto trabaje el tonto, si no sabe ni en dónde está.",
+      "verse": 15,
+      "start_ms": 94737,
+      "end_ms": 100074,
+      "duration_ms": 5337
+    },
+    {
+      "word": "Qué lástima da el país que tiene un rey incapaz y malos gobernantes que siempre están de fiesta!",
+      "verse": 16,
+      "start_ms": 100075,
+      "end_ms": 105700,
+      "duration_ms": 5625
+    },
+    {
+      "word": "Pero qué dichoso es el país que tiene un rey bien preparado, con gobernantes que comen para vivir y no viven para comer!",
+      "verse": 17,
+      "start_ms": 105700,
+      "end_ms": 112512,
+      "duration_ms": 6812
+    },
+    {
+      "word": "En la casa del perezoso pasan muchas desgracias: primero se cae el techo, y después toda la casa.",
+      "verse": 18,
+      "start_ms": 112512,
+      "end_ms": 119312,
+      "duration_ms": 6800
+    },
+    {
+      "word": "Para estar feliz hace falta pan, para estar contento hace falta vino, y para gozar de todo hace falta dinero.",
+      "verse": 19,
+      "start_ms": 119312,
+      "end_ms": 126562,
+      "duration_ms": 7250
+    },
+    {
+      "word": "Nunca hables mal del rey ni de la gente poderosa, aunque creas que nadie te oye.",
+      "verse": 20,
+      "start_ms": 126562,
+      "end_ms": 132074,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Las palabras vuelan; son como los pájaros, y todo llega a saberse.",
+      "verse": 20,
+      "start_ms": 132075,
+      "end_ms": 137287,
+      "duration_ms": 5212
+    }
+  ]
+}

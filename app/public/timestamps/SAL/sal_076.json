@@ -1,0 +1,159 @@
+{
+  "book": "SAL",
+  "chapter": 76,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 9,
+  "word_count": 12,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 57,
+      "text": "En Judá se conoce a Dios; en Israel se reconoce su fama."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 57,
+      "char_end": 121,
+      "text": "En Jerusalén se halla su templo; allí estableció su residencia."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 121,
+      "char_end": 171,
+      "text": "Allí Dios hace pedazos todas las armas de guerra."
+    },
+    {
+      "verse": 4,
+      "label": "4-6",
+      "char_start": 171,
+      "char_end": 454,
+      "text": "Dios de Israel, tú eres un Dios maravilloso; eres más grande que las montañas eternas. Todos los hombres de guerra se quedaron sin sus armas; cayeron en el campo de batalla. Ninguno de esos valientes pudo siquiera defenderse. Cuando tú los reprendiste, su poder militar se derrumbó."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 454,
+      "char_end": 540,
+      "text": "Sólo tú inspiras temor. Cuando tu furia se desata, no hay quién pueda hacerte frente."
+    },
+    {
+      "verse": 8,
+      "label": "8-9",
+      "char_start": 540,
+      "char_end": 710,
+      "text": "Cuando tú, Dios mío, decidiste hacerles justicia a todos los pobres de la tierra, dictaste tu sentencia desde el cielo, y la tierra, temerosa, prefirió guardar silencio."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 710,
+      "char_end": 786,
+      "text": "Cuando te enojas, hasta el hombre más furioso; se rinde ante ti y te alaba."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 786,
+      "char_end": 905,
+      "text": "Cumplámosle a nuestro Dios todas nuestras promesas; y ustedes, naciones vecinas, tráiganle ofrendas al Dios admirable;"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 905,
+      "char_end": 993,
+      "text": "él humilla a los gobernantes y hace que tiemblen de miedo todos los reyes de la tierra."
+    }
+  ],
+  "words": [
+    {
+      "word": "En Judá se conoce a Dios; en Israel se reconoce su fama.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4537,
+      "duration_ms": 4437
+    },
+    {
+      "word": "En Jerusalén se halla su templo; allí estableció su residencia.",
+      "verse": 2,
+      "start_ms": 4487,
+      "end_ms": 8999,
+      "duration_ms": 4512
+    },
+    {
+      "word": "Allí Dios hace pedazos todas las armas de guerra.",
+      "verse": 3,
+      "start_ms": 9000,
+      "end_ms": 12662,
+      "duration_ms": 3662
+    },
+    {
+      "word": "Dios de Israel, tú eres un Dios maravilloso; eres más grande que las montañas eternas.",
+      "verse": 4,
+      "start_ms": 12662,
+      "end_ms": 18924,
+      "duration_ms": 6262
+    },
+    {
+      "word": "Todos los hombres de guerra se quedaron sin sus armas; cayeron en el campo de batalla.",
+      "verse": 4,
+      "start_ms": 18925,
+      "end_ms": 24375,
+      "duration_ms": 5450
+    },
+    {
+      "word": "Ninguno de esos valientes pudo siquiera defenderse.",
+      "verse": 4,
+      "start_ms": 24375,
+      "end_ms": 28200,
+      "duration_ms": 3825
+    },
+    {
+      "word": "Cuando tú los reprendiste, su poder militar se derrumbó.",
+      "verse": 4,
+      "start_ms": 28200,
+      "end_ms": 32312,
+      "duration_ms": 4112
+    },
+    {
+      "word": "Sólo tú inspiras temor.",
+      "verse": 7,
+      "start_ms": 32312,
+      "end_ms": 34674,
+      "duration_ms": 2362
+    },
+    {
+      "word": "Cuando tu furia se desata, no hay quién pueda hacerte frente.",
+      "verse": 7,
+      "start_ms": 34675,
+      "end_ms": 38850,
+      "duration_ms": 4175
+    },
+    {
+      "word": "Cuando tú, Dios mío, decidiste hacerles justicia a todos los pobres de la tierra, dictaste tu sentencia desde el cielo, y la tierra, temerosa, prefirió guardar silencio.",
+      "verse": 8,
+      "start_ms": 38850,
+      "end_ms": 50025,
+      "duration_ms": 11175
+    },
+    {
+      "word": "Cuando te enojas, hasta el hombre más furioso; se rinde ante ti y te alaba.",
+      "verse": 10,
+      "start_ms": 50025,
+      "end_ms": 55350,
+      "duration_ms": 5325
+    },
+    {
+      "word": "Cumplámosle a nuestro Dios todas nuestras promesas; y ustedes, naciones vecinas, tráiganle ofrendas al Dios admirable; él humilla a los gobernantes y hace que tiemblen de miedo todos los reyes de la tierra.",
+      "verse": 11,
+      "start_ms": 55350,
+      "end_ms": 67975,
+      "duration_ms": 12625
+    }
+  ]
+}

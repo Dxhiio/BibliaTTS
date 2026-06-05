@@ -1,0 +1,166 @@
+{
+  "book": "SAL",
+  "chapter": 47,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 10,
+  "word_count": 12,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 66,
+      "text": "¡Aplaudan felices, pueblos del mundo! ¡Alaben a Dios con alegría!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 66,
+      "char_end": 133,
+      "text": "¡El Dios altísimo es el rey de toda la tierra y merece toda honra!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 133,
+      "char_end": 191,
+      "text": "El gran rey nos dio la victoria sobre pueblos y naciones."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 191,
+      "char_end": 296,
+      "text": "Dios nos ama, pues somos su pueblo. Por eso nos dio la tierra prometida; ¡esa tierra es nuestro orgullo!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 296,
+      "char_end": 373,
+      "text": "Dios se ha sentado en su trono entre gritos de alegría y toques de trompeta."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 373,
+      "char_end": 439,
+      "text": "¡Vamos a cantarle himnos a Dios! ¡Vamos a cantarle a nuestro rey!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 439,
+      "char_end": 502,
+      "text": "¡Cantémosle un himno hermoso, pues él reina en toda la tierra!"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 502,
+      "char_end": 555,
+      "text": "Dios reina desde su templo sobre todas las naciones."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 555,
+      "char_end": 639,
+      "text": "Los jefes de las naciones y el pueblo del Dios de Abraham, se juntan para adorarlo,"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 639,
+      "char_end": 694,
+      "text": "pues a Dios le pertenecen todos los pueblos del mundo."
+    }
+  ],
+  "words": [
+    {
+      "word": "Aplaudan felices, pueblos del mundo!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3300,
+      "duration_ms": 3200
+    },
+    {
+      "word": "Alaben a Dios con alegría!",
+      "verse": 1,
+      "start_ms": 3250,
+      "end_ms": 5687,
+      "duration_ms": 2437
+    },
+    {
+      "word": "El Dios altísimo es el rey de toda la tierra y merece toda honra!",
+      "verse": 2,
+      "start_ms": 5687,
+      "end_ms": 10187,
+      "duration_ms": 4500
+    },
+    {
+      "word": "El gran rey nos dio la victoria sobre pueblos y naciones.",
+      "verse": 3,
+      "start_ms": 10187,
+      "end_ms": 14249,
+      "duration_ms": 4062
+    },
+    {
+      "word": "Dios nos ama, pues somos su pueblo.",
+      "verse": 4,
+      "start_ms": 14250,
+      "end_ms": 17325,
+      "duration_ms": 3075
+    },
+    {
+      "word": "Por eso nos dio la tierra prometida; ¡esa tierra es nuestro orgullo!",
+      "verse": 4,
+      "start_ms": 17325,
+      "end_ms": 21837,
+      "duration_ms": 4512
+    },
+    {
+      "word": "Dios se ha sentado en su trono entre gritos de alegría y toques de trompeta.",
+      "verse": 5,
+      "start_ms": 21837,
+      "end_ms": 26524,
+      "duration_ms": 4687
+    },
+    {
+      "word": "Vamos a cantarle himnos a Dios!",
+      "verse": 6,
+      "start_ms": 26525,
+      "end_ms": 29162,
+      "duration_ms": 2637
+    },
+    {
+      "word": "Vamos a cantarle a nuestro rey!",
+      "verse": 6,
+      "start_ms": 29162,
+      "end_ms": 31612,
+      "duration_ms": 2450
+    },
+    {
+      "word": "Cantémosle un himno hermoso, pues él reina en toda la tierra!",
+      "verse": 7,
+      "start_ms": 31612,
+      "end_ms": 36199,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Dios reina desde su templo sobre todas las naciones.",
+      "verse": 8,
+      "start_ms": 36200,
+      "end_ms": 40062,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Los jefes de las naciones y el pueblo del Dios de Abraham, se juntan para adorarlo, pues a Dios le pertenecen todos los pueblos del mundo.",
+      "verse": 9,
+      "start_ms": 40062,
+      "end_ms": 47999,
+      "duration_ms": 7937
+    }
+  ]
+}

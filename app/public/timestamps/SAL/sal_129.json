@@ -1,0 +1,117 @@
+{
+  "book": "SAL",
+  "chapter": 129,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 8,
+  "word_count": 7,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 86,
+      "text": "Dejemos que nuestra gente nos hable de las angustias que ha pasado desde su juventud:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 86,
+      "char_end": 170,
+      "text": "Hemos pasado muchas angustias desde nuestra juventud, pero no han podido vencernos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 170,
+      "char_end": 269,
+      "text": "El enemigo nos hirió la espalda; ¡nos hizo profundas heridas, como quien abre surcos con un arado!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 269,
+      "char_end": 317,
+      "text": "Pero Dios es justo y nos libró de los malvados."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 317,
+      "char_end": 394,
+      "text": "¡Que sean derrotados y puestos en vergüenza todos los que odian a Jerusalén!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 394,
+      "char_end": 461,
+      "text": "¡Que se marchiten como la hierba que crece en el techo de la casa!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 461,
+      "char_end": 557,
+      "text": "Esa gente es como la hierba, de la que no se ocupan ni los que la cortan ni los que la recogen."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 557,
+      "char_end": 623,
+      "text": "Cuando pasan, nadie los saluda; y si saludan, nadie les contesta."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dejemos que nuestra gente nos hable de las angustias que ha pasado desde su juventud: Hemos pasado muchas angustias desde nuestra juventud, pero no han podido vencernos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 9937,
+      "duration_ms": 9837
+    },
+    {
+      "word": "El enemigo nos hirió la espalda; ¡nos hizo profundas heridas, como quien abre surcos con un arado!",
+      "verse": 3,
+      "start_ms": 9887,
+      "end_ms": 16249,
+      "duration_ms": 6362
+    },
+    {
+      "word": "Pero Dios es justo y nos libró de los malvados.",
+      "verse": 4,
+      "start_ms": 16250,
+      "end_ms": 19837,
+      "duration_ms": 3587
+    },
+    {
+      "word": "Que sean derrotados y puestos en vergüenza todos los que odian a Jerusalén!",
+      "verse": 5,
+      "start_ms": 19837,
+      "end_ms": 24587,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Que se marchiten como la hierba que crece en el techo de la casa!",
+      "verse": 6,
+      "start_ms": 24587,
+      "end_ms": 28574,
+      "duration_ms": 3987
+    },
+    {
+      "word": "Esa gente es como la hierba, de la que no se ocupan ni los que la cortan ni los que la recogen.",
+      "verse": 7,
+      "start_ms": 28575,
+      "end_ms": 34475,
+      "duration_ms": 5900
+    },
+    {
+      "word": "Cuando pasan, nadie los saluda; y si saludan, nadie les contesta.",
+      "verse": 8,
+      "start_ms": 34475,
+      "end_ms": 39637,
+      "duration_ms": 5162
+    }
+  ]
+}

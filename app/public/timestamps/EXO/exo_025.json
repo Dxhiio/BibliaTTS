@@ -1,0 +1,509 @@
+{
+  "book": "EXO",
+  "chapter": 25,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 33,
+  "word_count": 38,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 23,
+      "text": "Dios le dijo a Moisés:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 23,
+      "char_end": 173,
+      "text": "Habla con los israelitas y diles que me traigan una ofrenda. Pero no los obligues a dar nada. Quiero que su ofrenda sea voluntaria y de todo corazón."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 173,
+      "char_end": 240,
+      "text": "Y esto es lo que espero que me den: objetos de oro, plata y cobre;"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 240,
+      "char_end": 310,
+      "text": "tela morada, tela azul, tela roja y tela de lino fino; pelo de cabra,"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 310,
+      "char_end": 378,
+      "text": "pieles de carnero teñidas de rojo y pieles finas, madera de acacia,"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 378,
+      "char_end": 471,
+      "text": "aceite para las lámparas, perfumes para el aceite de consagrar y para el incienso perfumado,"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 471,
+      "char_end": 577,
+      "text": "piedras finas, como el ónice multicolor, para ponerlas en la túnica y el chaleco del sacerdote principal."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 577,
+      "char_end": 655,
+      "text": "Además, quiero que me construyan un santuario para que yo viva entre ustedes."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 655,
+      "char_end": 756,
+      "text": "El santuario y todos sus muebles tienen que hacerlos exactamente iguales a los que te voy a mostrar."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 756,
+      "char_end": 937,
+      "text": "Quiero también que hagas un cofre de madera de acacia. Debe medir un metro y diez centímetros de largo, sesenta y cinco centímetros de ancho, y sesenta y cinco centímetros de alto."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 937,
+      "char_end": 1025,
+      "text": "Lo debes recubrir de oro por dentro y por fuera, y ponerle alrededor una franja de oro."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1025,
+      "char_end": 1133,
+      "text": "En cada una de las cuatro patas le pondrás una argolla de oro, de modo que en cada lado tenga dos argollas."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1133,
+      "char_end": 1195,
+      "text": "Haz luego dos varas de madera de acacia, y recúbrelas de oro."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1195,
+      "char_end": 1269,
+      "text": "Pasa luego esas varas a través de las argollas para transportar el cofre."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1269,
+      "char_end": 1320,
+      "text": "Nunca las quites de allí; déjalas en las argollas."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1320,
+      "char_end": 1408,
+      "text": "Cuando te haya entregado los diez mandamientos, quiero que los pongas dentro del cofre."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1408,
+      "char_end": 1564,
+      "text": "Después de eso quiero que le hagas al cofre una tapa de oro puro. Debe medir un metro y diez centímetros de largo por sesenta y cinco centímetros de ancho."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1564,
+      "char_end": 1643,
+      "text": "En cada extremo de la tapa pondrás dos querubines de oro moldeados a martillo."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1643,
+      "char_end": 1701,
+      "text": "La tapa y los dos querubines deben ser de una sola pieza."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1701,
+      "char_end": 1814,
+      "text": "Los dos querubines deben quedar uno frente al otro, mirando hacia la tapa y cubriéndola con sus alas extendidas."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1814,
+      "char_end": 1907,
+      "text": "Una vez que hayas puesto la tapa sobre el cofre, pondrás allí adentro los diez mandamientos."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1907,
+      "char_end": 2014,
+      "text": "Entre los dos querubines, yo me encontraré contigo y te diré lo que los israelitas deben o no deben hacer."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2014,
+      "char_end": 2188,
+      "text": "También quiero que hagas una mesa de madera de acacia. Debe medir noventa centímetros de largo, cuarenta y cinco centímetros de ancho, y sesenta y cinco centímetros de alto."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2188,
+      "char_end": 2252,
+      "text": "Debes recubrirla de oro, y ponerle alrededor una franja de oro."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2252,
+      "char_end": 2333,
+      "text": "También le pondrás un borde de siete centímetros de ancho con una franja de oro."
+    },
+    {
+      "verse": 26,
+      "label": "26-28",
+      "char_start": 2333,
+      "char_end": 2526,
+      "text": "En cada una de las cuatro patas pondrás una argolla de oro, por las que pasarán las varas para transportar la mesa. Las varas deben ser también de madera de acacia, y estar recubiertas de oro."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2526,
+      "char_end": 2639,
+      "text": "Los platos de la mesa, y los cucharones, jarras y copas para las ofrendas de vino deben ser también de oro puro."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2639,
+      "char_end": 2720,
+      "text": "La mesa es para que se ponga en ella el pan que ustedes deben ofrecerme siempre."
+    },
+    {
+      "verse": 31,
+      "label": "31-36",
+      "char_start": 2720,
+      "char_end": 3228,
+      "text": "También quiero que hagas un candelabro moldeado a martillo y de una sola pieza. Todo debe ser de oro puro, incluyendo las flores que lo adornan. El tronco tendrá cuatro flores de almendro, y de las tres flores inferiores saldrán seis brazos; tres a un lado, y tres al otro. De la flor superior saldrá el brazo central. Cada brazo estará adornado con tres flores de almendro, y llevará una lámpara, así que el candelabro tendrá siete lámparas en total. Las lámparas también tendrán forma de flor de almendro,"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3228,
+      "char_end": 3264,
+      "text": "y deberán alumbrar hacia el frente."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 3264,
+      "char_end": 3319,
+      "text": "Sus tenazas y ceniceros deben ser también de oro puro."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 3319,
+      "char_end": 3418,
+      "text": "Para hacer el candelabro y todos sus utensilios tendrás que usar treinta y tres kilos de oro puro."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 3418,
+      "char_end": 3520,
+      "text": "Pon mucho cuidado, porque todo esto debes hacerlo exactamente igual a lo que te mostré en la montaña."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios le dijo a Moisés: Habla con los israelitas y diles que me traigan una ofrenda.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5687,
+      "duration_ms": 5587
+    },
+    {
+      "word": "Pero no los obligues a dar nada.",
+      "verse": 2,
+      "start_ms": 5637,
+      "end_ms": 8224,
+      "duration_ms": 2587
+    },
+    {
+      "word": "Quiero que su ofrenda sea voluntaria y de todo corazón.",
+      "verse": 2,
+      "start_ms": 8225,
+      "end_ms": 12050,
+      "duration_ms": 3825
+    },
+    {
+      "word": "Y esto es lo que espero que me den: objetos de oro, plata y cobre; tela morada, tela azul, tela roja y tela de lino fino; pelo de cabra, pieles de carnero teñidas de rojo y pieles finas, madera de acacia, aceite para las lámparas, perfumes para el aceite de consagrar y para el incienso perfumado, piedras finas, como el ónice multicolor, para ponerlas en la túnica y el chaleco del sacerdote principal.",
+      "verse": 3,
+      "start_ms": 12050,
+      "end_ms": 37600,
+      "duration_ms": 25550
+    },
+    {
+      "word": "Además, quiero que me construyan un santuario para que yo viva entre ustedes.",
+      "verse": 8,
+      "start_ms": 37600,
+      "end_ms": 42787,
+      "duration_ms": 5187
+    },
+    {
+      "word": "El santuario y todos sus muebles tienen que hacerlos exactamente iguales a los que te voy a mostrar.",
+      "verse": 9,
+      "start_ms": 42787,
+      "end_ms": 48637,
+      "duration_ms": 5850
+    },
+    {
+      "word": "Quiero también que hagas un cofre de madera de acacia.",
+      "verse": 10,
+      "start_ms": 48637,
+      "end_ms": 52162,
+      "duration_ms": 3525
+    },
+    {
+      "word": "Debe medir un metro y diez centímetros de largo, sesenta y cinco centímetros de ancho, y sesenta y cinco centímetros de alto.",
+      "verse": 10,
+      "start_ms": 52162,
+      "end_ms": 59737,
+      "duration_ms": 7575
+    },
+    {
+      "word": "Lo debes recubrir de oro por dentro y por fuera, y ponerle alrededor una franja de oro.",
+      "verse": 11,
+      "start_ms": 59737,
+      "end_ms": 65499,
+      "duration_ms": 5762
+    },
+    {
+      "word": "En cada una de las cuatro patas le pondrás una argolla de oro, de modo que en cada lado tenga dos argollas.",
+      "verse": 12,
+      "start_ms": 65500,
+      "end_ms": 72300,
+      "duration_ms": 6800
+    },
+    {
+      "word": "Haz luego dos varas de madera de acacia, y recúbrelas de oro.",
+      "verse": 13,
+      "start_ms": 72300,
+      "end_ms": 76687,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Pasa luego esas varas a través de las argollas para transportar el cofre.",
+      "verse": 14,
+      "start_ms": 76687,
+      "end_ms": 81212,
+      "duration_ms": 4525
+    },
+    {
+      "word": "Nunca las quites de allí; déjalas en las argollas.",
+      "verse": 15,
+      "start_ms": 81212,
+      "end_ms": 85174,
+      "duration_ms": 3962
+    },
+    {
+      "word": "Cuando te haya entregado los diez mandamientos, quiero que los pongas dentro del cofre.",
+      "verse": 16,
+      "start_ms": 85175,
+      "end_ms": 90325,
+      "duration_ms": 5150
+    },
+    {
+      "word": "Después de eso quiero que le hagas al cofre una tapa de oro puro.",
+      "verse": 17,
+      "start_ms": 90325,
+      "end_ms": 94487,
+      "duration_ms": 4162
+    },
+    {
+      "word": "Debe medir un metro y diez centímetros de largo por sesenta y cinco centímetros de ancho.",
+      "verse": 17,
+      "start_ms": 94487,
+      "end_ms": 99837,
+      "duration_ms": 5350
+    },
+    {
+      "word": "En cada extremo de la tapa pondrás dos querubines de oro moldeados a martillo.",
+      "verse": 18,
+      "start_ms": 99837,
+      "end_ms": 104937,
+      "duration_ms": 5100
+    },
+    {
+      "word": "La tapa y los dos querubines deben ser de una sola pieza.",
+      "verse": 19,
+      "start_ms": 104937,
+      "end_ms": 108974,
+      "duration_ms": 4037
+    },
+    {
+      "word": "Los dos querubines deben quedar uno frente al otro, mirando hacia la tapa y cubriéndola con sus alas extendidas.",
+      "verse": 20,
+      "start_ms": 108975,
+      "end_ms": 115787,
+      "duration_ms": 6812
+    },
+    {
+      "word": "Una vez que hayas puesto la tapa sobre el cofre, pondrás allí adentro los diez mandamientos.",
+      "verse": 21,
+      "start_ms": 115787,
+      "end_ms": 121549,
+      "duration_ms": 5762
+    },
+    {
+      "word": "Entre los dos querubines, yo me encontraré contigo y te diré lo que los israelitas deben o no deben hacer.",
+      "verse": 22,
+      "start_ms": 121550,
+      "end_ms": 128012,
+      "duration_ms": 6462
+    },
+    {
+      "word": "También quiero que hagas una mesa de madera de acacia.",
+      "verse": 23,
+      "start_ms": 128012,
+      "end_ms": 131537,
+      "duration_ms": 3525
+    },
+    {
+      "word": "Debe medir noventa centímetros de largo, cuarenta y cinco centímetros de ancho, y sesenta y cinco centímetros de alto.",
+      "verse": 23,
+      "start_ms": 131537,
+      "end_ms": 139024,
+      "duration_ms": 7487
+    },
+    {
+      "word": "Debes recubrirla de oro, y ponerle alrededor una franja de oro.",
+      "verse": 24,
+      "start_ms": 139025,
+      "end_ms": 143750,
+      "duration_ms": 4725
+    },
+    {
+      "word": "También le pondrás un borde de siete centímetros de ancho con una franja de oro.",
+      "verse": 25,
+      "start_ms": 143750,
+      "end_ms": 148750,
+      "duration_ms": 5000
+    },
+    {
+      "word": "En cada una de las cuatro patas pondrás una argolla de oro, por las que pasarán las varas para transportar la mesa.",
+      "verse": 26,
+      "start_ms": 148750,
+      "end_ms": 155587,
+      "duration_ms": 6837
+    },
+    {
+      "word": "Las varas deben ser también de madera de acacia, y estar recubiertas de oro.",
+      "verse": 26,
+      "start_ms": 155587,
+      "end_ms": 160599,
+      "duration_ms": 5012
+    },
+    {
+      "word": "Los platos de la mesa, y los cucharones, jarras y copas para las ofrendas de vino deben ser también de oro puro.",
+      "verse": 29,
+      "start_ms": 160600,
+      "end_ms": 167600,
+      "duration_ms": 7000
+    },
+    {
+      "word": "La mesa es para que se ponga en ella el pan que ustedes deben ofrecerme siempre.",
+      "verse": 30,
+      "start_ms": 167600,
+      "end_ms": 172375,
+      "duration_ms": 4775
+    },
+    {
+      "word": "También quiero que hagas un candelabro moldeado a martillo y de una sola pieza.",
+      "verse": 31,
+      "start_ms": 172375,
+      "end_ms": 177300,
+      "duration_ms": 4925
+    },
+    {
+      "word": "Todo debe ser de oro puro, incluyendo las flores que lo adornan.",
+      "verse": 31,
+      "start_ms": 177300,
+      "end_ms": 181762,
+      "duration_ms": 4462
+    },
+    {
+      "word": "El tronco tendrá cuatro flores de almendro, y de las tres flores inferiores saldrán seis brazos; tres a un lado, y tres al otro.",
+      "verse": 31,
+      "start_ms": 181762,
+      "end_ms": 190012,
+      "duration_ms": 8250
+    },
+    {
+      "word": "De la flor superior saldrá el brazo central.",
+      "verse": 31,
+      "start_ms": 190012,
+      "end_ms": 193362,
+      "duration_ms": 3350
+    },
+    {
+      "word": "Cada brazo estará adornado con tres flores de almendro, y llevará una lámpara, así que el candelabro tendrá siete lámparas en total.",
+      "verse": 31,
+      "start_ms": 193362,
+      "end_ms": 201387,
+      "duration_ms": 8025
+    },
+    {
+      "word": "Las lámparas también tendrán forma de flor de almendro, y deberán alumbrar hacia el frente.",
+      "verse": 31,
+      "start_ms": 201387,
+      "end_ms": 206862,
+      "duration_ms": 5475
+    },
+    {
+      "word": "Sus tenazas y ceniceros deben ser también de oro puro.",
+      "verse": 38,
+      "start_ms": 206862,
+      "end_ms": 210774,
+      "duration_ms": 3912
+    },
+    {
+      "word": "Para hacer el candelabro y todos sus utensilios tendrás que usar treinta y tres kilos de oro puro.",
+      "verse": 39,
+      "start_ms": 210775,
+      "end_ms": 216562,
+      "duration_ms": 5787
+    },
+    {
+      "word": "Pon mucho cuidado, porque todo esto debes hacerlo exactamente igual a lo que te mostré en la montaña.",
+      "verse": 40,
+      "start_ms": 216562,
+      "end_ms": 222724,
+      "duration_ms": 6162
+    }
+  ]
+}

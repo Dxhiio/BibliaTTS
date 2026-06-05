@@ -1,0 +1,208 @@
+{
+  "book": "SAL",
+  "chapter": 36,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 12,
+  "word_count": 16,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 88,
+      "text": "El pecador sólo piensa en cómo hacer lo malo. No ve ninguna razón para respetar a Dios."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 88,
+      "char_end": 140,
+      "text": "Se cree digno de alabanza, y no reconoce su maldad."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 140,
+      "char_end": 202,
+      "text": "Cuando habla, miente y ofende; jamás piensa en hacer el bien."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 202,
+      "char_end": 307,
+      "text": "Aun cuando está acostado, sólo piensa en hacer lo malo; no deja su mal camino ni se aparta de la maldad."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 307,
+      "char_end": 416,
+      "text": "Dios mío, tu amor es tan grande que llega hasta el cielo; tan grande es tu bondad que llega hasta las nubes."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 416,
+      "char_end": 540,
+      "text": "Tus decisiones son justas, son firmes como las montañas y profundas como el mar. ¡Hombres y animales están bajo tu cuidado!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 540,
+      "char_end": 626,
+      "text": "Dios mío, ¡tu amor es incomparable! Bajo tu sombra protectora todos hallamos refugio."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 626,
+      "char_end": 723,
+      "text": "Con la abundancia de tu casa nos dejas satisfechos; en tu río de bendiciones apagas nuestra sed."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 723,
+      "char_end": 812,
+      "text": "Sólo en ti se encuentra la fuente de la vida, y sólo en tu presencia podemos ver la luz."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 812,
+      "char_end": 905,
+      "text": "¡Bendice con tu amor a todos los que te aman! ¡Salva con tu justicia a los que son sinceros!"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 905,
+      "char_end": 1019,
+      "text": "¡No dejes que los orgullosos me pongan el pie encima! ¡No permitas que los malvados hagan conmigo lo que quieran!"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1019,
+      "char_end": 1100,
+      "text": "Fíjense en los malvados: ¡han rodado por los suelos, y no volverán a levantarse!"
+    }
+  ],
+  "words": [
+    {
+      "word": "El pecador sólo piensa en cómo hacer lo malo.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3412,
+      "duration_ms": 3312
+    },
+    {
+      "word": "No ve ninguna razón para respetar a Dios.",
+      "verse": 1,
+      "start_ms": 3362,
+      "end_ms": 6637,
+      "duration_ms": 3275
+    },
+    {
+      "word": "Se cree digno de alabanza, y no reconoce su maldad.",
+      "verse": 2,
+      "start_ms": 6637,
+      "end_ms": 10662,
+      "duration_ms": 4025
+    },
+    {
+      "word": "Cuando habla, miente y ofende; jamás piensa en hacer el bien.",
+      "verse": 3,
+      "start_ms": 10662,
+      "end_ms": 15249,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Aun cuando está acostado, sólo piensa en hacer lo malo; no deja su mal camino ni se aparta de la maldad.",
+      "verse": 4,
+      "start_ms": 15250,
+      "end_ms": 21950,
+      "duration_ms": 6700
+    },
+    {
+      "word": "Dios mío, tu amor es tan grande que llega hasta el cielo; tan grande es tu bondad que llega hasta las nubes.",
+      "verse": 5,
+      "start_ms": 21950,
+      "end_ms": 28812,
+      "duration_ms": 6862
+    },
+    {
+      "word": "Tus decisiones son justas, son firmes como las montañas y profundas como el mar. ¡Hombres y animales están bajo tu cuidado!",
+      "verse": 6,
+      "start_ms": 28812,
+      "end_ms": 36224,
+      "duration_ms": 7412
+    },
+    {
+      "word": "Dios mío, ¡tu amor es incomparable!",
+      "verse": 7,
+      "start_ms": 36225,
+      "end_ms": 39375,
+      "duration_ms": 3150
+    },
+    {
+      "word": "Bajo tu sombra protectora todos hallamos refugio.",
+      "verse": 7,
+      "start_ms": 39375,
+      "end_ms": 42937,
+      "duration_ms": 3562
+    },
+    {
+      "word": "Con la abundancia de tu casa nos dejas satisfechos; en tu río de bendiciones apagas nuestra sed.",
+      "verse": 8,
+      "start_ms": 42937,
+      "end_ms": 49137,
+      "duration_ms": 6200
+    },
+    {
+      "word": "Sólo en ti se encuentra la fuente de la vida, y sólo en tu presencia podemos ver la luz.",
+      "verse": 9,
+      "start_ms": 49137,
+      "end_ms": 54612,
+      "duration_ms": 5475
+    },
+    {
+      "word": "Bendice con tu amor a todos los que te aman!",
+      "verse": 10,
+      "start_ms": 54612,
+      "end_ms": 57712,
+      "duration_ms": 3100
+    },
+    {
+      "word": "Salva con tu justicia a los que son sinceros!",
+      "verse": 10,
+      "start_ms": 57712,
+      "end_ms": 61212,
+      "duration_ms": 3500
+    },
+    {
+      "word": "No dejes que los orgullosos me pongan el pie encima!",
+      "verse": 11,
+      "start_ms": 61212,
+      "end_ms": 64774,
+      "duration_ms": 3562
+    },
+    {
+      "word": "No permitas que los malvados hagan conmigo lo que quieran!",
+      "verse": 11,
+      "start_ms": 64775,
+      "end_ms": 68375,
+      "duration_ms": 3600
+    },
+    {
+      "word": "Fíjense en los malvados: ¡han rodado por los suelos, y no volverán a levantarse!",
+      "verse": 12,
+      "start_ms": 68375,
+      "end_ms": 73937,
+      "duration_ms": 5562
+    }
+  ]
+}

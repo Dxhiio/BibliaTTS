@@ -1,0 +1,922 @@
+{
+  "book": "NUM",
+  "chapter": 26,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 61,
+  "word_count": 69,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 89,
+      "text": "Dios habló con Moisés y con Eleazar, hijo del sacerdote Aarón, y les mandó lo siguiente:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 89,
+      "char_end": 311,
+      "text": "Vean cuántos varones israelitas hay, que tengan más de veinte años de edad. Quiero que anoten en una lista los nombres de los que puedan ir a la guerra. Esa lista debe hacerse de acuerdo a la familia a la que pertenezcan."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 311,
+      "char_end": 452,
+      "text": "Cuando estaban en el territorio de Moab, junto al río Jordán y frente a la ciudad de Jericó, Moisés y Eleazar les ordenaron a los israelitas"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 452,
+      "char_end": 565,
+      "text": "que hicieran todo tal y como Dios les mandó. Éstos son los que salieron de Egipto y fueron anotados en la lista:"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 565,
+      "char_end": 627,
+      "text": "Los hijos de Rubén, hijo mayor de Jacob, fueron: Henoc, Falú,"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 627,
+      "char_end": 642,
+      "text": "Hesrón yCarmí."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 642,
+      "char_end": 734,
+      "text": "De todas las familias de Rubén se contaron cuarenta y tres mil setecientos treinta hombres."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 734,
+      "char_end": 760,
+      "text": "Falú tuvo un hijo: Eliab."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 760,
+      "char_end": 902,
+      "text": "Eliab tuvo tres hijos: Nemuel, Datán yAbiram. Datán y Abiram eran parte del grupo de Coré, que se rebeló contra Dios y contra Moisés y Aarón."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 902,
+      "char_end": 1094,
+      "text": "Por esa razón, la tierra se abrió y se los tragó. Era un grupo de doscientas cincuenta personas. Todas ellas murieron quemadas, y así el pueblo vio cómo Dios castiga a los que no lo obedecen."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1094,
+      "char_end": 1138,
+      "text": "Sólo los hijos de Coré permanecieron vivos."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1138,
+      "char_end": 1216,
+      "text": "Los grupos familiares que descendían de Simeón fueron: Nemuel, Jamín, Jaquín,"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1216,
+      "char_end": 1229,
+      "text": "Zérah ySaúl."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1229,
+      "char_end": 1291,
+      "text": "De sus familias se contaron veintidós mil doscientos hombres."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1291,
+      "char_end": 1363,
+      "text": "Los grupos familiares que descendían de Gad fueron: Sefón, Haguí, Suní,"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1363,
+      "char_end": 1374,
+      "text": "Ozní, Erí,"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1374,
+      "char_end": 1387,
+      "text": "Arod yArelí."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1387,
+      "char_end": 1448,
+      "text": "De sus familias se contaron cuarenta mil quinientos hombres."
+    },
+    {
+      "verse": 19,
+      "label": "19-20",
+      "char_start": 1448,
+      "char_end": 1608,
+      "text": "Los grupos familiares que descendían de Judá fueron: Er, Onán, Selá, Fares yZérah. Er y Onán murieron en el territorio de Canaán, y por eso no fueron contados."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1608,
+      "char_end": 1645,
+      "text": "Fares tuvo dos hijos: Hesrón yHamul."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1645,
+      "char_end": 1726,
+      "text": "De todas las familias de Judá se contaron setenta y seis mil quinientos hombres."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1726,
+      "char_end": 1793,
+      "text": "Los grupos familiares que descendían de Isacar fueron: Tolá, Puvá,"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1793,
+      "char_end": 1808,
+      "text": "Jasub ySimrón."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1808,
+      "char_end": 1884,
+      "text": "De todas sus familias se contaron sesenta y cuatro mil trescientos hombres."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 1884,
+      "char_end": 1962,
+      "text": "Los grupos familiares que descendían de Zabulón fueron: Séred, Elón yJahleel."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 1962,
+      "char_end": 2028,
+      "text": "De todas sus familias se contaron sesenta mil quinientos hombres."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2028,
+      "char_end": 2098,
+      "text": "Los grupos familiares que descendían de José fueron: Manasés yEfraín."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2098,
+      "char_end": 2157,
+      "text": "Manasés tuvo un hijo: Maquir. Maquir tuvo un hijo: Galaad."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2157,
+      "char_end": 2216,
+      "text": "Los grupos familiares de Galaad fueron seis: Iéser, Hélec,"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2216,
+      "char_end": 2232,
+      "text": "Asriel, Siquem,"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2232,
+      "char_end": 2247,
+      "text": "Semidá yHéfer."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 2247,
+      "char_end": 2346,
+      "text": "Héfer tuvo un hijo: Selofhad. Selofhad no tuvo hijos, sino hijas: Mahlá, Noá, Hoglá, Milcá yTirsá."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 2346,
+      "char_end": 2432,
+      "text": "De todas las familias de Manasés se contaron cincuenta y dos mil setecientos hombres."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 2432,
+      "char_end": 2511,
+      "text": "Los grupos familiares que descendían de Efraín fueron: Sutélah, Béquer yTahán."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 2511,
+      "char_end": 2576,
+      "text": "Los descendientes de Sutélah formaron el grupo familiar de Erán."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 2576,
+      "char_end": 2727,
+      "text": "De todas las familias de Efraín se contaron treinta y dos mil quinientos hombres. Éstos y los de la tribu de Manasés fueron los descendientes de José."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 2727,
+      "char_end": 2805,
+      "text": "Los grupos familiares que descendían de Benjamín fueron: Bela, Asbel, Ahiram,"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 2805,
+      "char_end": 2819,
+      "text": "Sufam yHufam."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 2819,
+      "char_end": 2853,
+      "text": "Bela tuvo dos hijos: Ard yNaamán."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 2853,
+      "char_end": 2941,
+      "text": "De todas las familias de Benjamín se contaron cuarenta y cinco mil seiscientos hombres."
+    },
+    {
+      "verse": 42,
+      "label": "42-43",
+      "char_start": 2941,
+      "char_end": 3096,
+      "text": "Dan tuvo un hijo, y de sus descendientes se formó un grupo familiar: Suham. De este grupo familiar se contaron sesenta y cuatro mil cuatrocientos hombres."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 3096,
+      "char_end": 3168,
+      "text": "Los grupos familiares que descendían de Aser fueron: Imná, Isví yBeriá."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 3168,
+      "char_end": 3207,
+      "text": "Beriá tuvo dos hijos: Heber yMalquiel."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 3207,
+      "char_end": 3249,
+      "text": "Aser también tuvo una hija llamada Sérah."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 3249,
+      "char_end": 3335,
+      "text": "De todas las familias de Aser se contaron cincuenta y tres mil cuatrocientos hombres."
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 3335,
+      "char_end": 3406,
+      "text": "Los grupos familiares que descendían de Neftalí fueron: Jahseel, Guní,"
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 3406,
+      "char_end": 3420,
+      "text": "Jezer ySilem."
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 3420,
+      "char_end": 3498,
+      "text": "De todas sus familias se contaron cuarenta y cinco mil cuatrocientos hombres."
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 3498,
+      "char_end": 3601,
+      "text": "Todos los israelitas que se contaron y anotaron fueron seiscientos un mil setecientos treinta hombres."
+    },
+    {
+      "verse": 52,
+      "label": "52",
+      "char_start": 3601,
+      "char_end": 3646,
+      "text": "Dios volvió a hablar con Moisés, y le mandó:"
+    },
+    {
+      "verse": 53,
+      "label": "53",
+      "char_start": 3646,
+      "char_end": 3719,
+      "text": "Ahora repartirán el territorio entre toda la gente que acaban de contar."
+    },
+    {
+      "verse": 54,
+      "label": "54",
+      "char_start": 3719,
+      "char_end": 3887,
+      "text": "A las familias más grandes les darán más terrenos. A las familias más pequeñas les darán menos terrenos. Se le debe dar una parcela a cada familia anotada en la lista."
+    },
+    {
+      "verse": 55,
+      "label": "55-56",
+      "char_start": 3887,
+      "char_end": 4065,
+      "text": "Repartirán el territorio mediante un sorteo entre las familias grandes y entre las pequeñas. Todo se repartirá por orden, de acuerdo a la tribu y a la familia a que pertenezcan."
+    },
+    {
+      "verse": 57,
+      "label": "57-58",
+      "char_start": 4065,
+      "char_end": 4332,
+      "text": "También contaron a todas las familias que descendían de Leví, quien tuvo tres hijos: Guersón, Quehat yMerarí. Así se formaron tres grupos familiares; y de éstos, surgieron otros cinco grupos familiares: Libní, Hebrón, Quehat, Mahlí yMusí. Quehat tuvo un hijo: Amram."
+    },
+    {
+      "verse": 59,
+      "label": "59",
+      "char_start": 4332,
+      "char_end": 4509,
+      "text": "Amram se casó con una hija de Leví que se llamaba Jocabed. Ella nació cuando Leví todavía estaba en Egipto. Amram y Jocabed tuvieron dos hijos y una hija: Aarón, Moisés yMaría."
+    },
+    {
+      "verse": 60,
+      "label": "60",
+      "char_start": 4509,
+      "char_end": 4565,
+      "text": "Aarón tuvo cuatro hijos: Nadab, Abihú, Itamar yEleazar."
+    },
+    {
+      "verse": 61,
+      "label": "61",
+      "char_start": 4565,
+      "char_end": 4696,
+      "text": "Pero Nadab y Abihú murieron por haber prendido el incienso del santuario sin seguir las instrucciones exactas que Dios había dado."
+    },
+    {
+      "verse": 62,
+      "label": "62",
+      "char_start": 4696,
+      "char_end": 4880,
+      "text": "El número total de varones descendientes de Leví, mayores de un mes, fue de veintitrés mil. A ellos no se les contó junto con los demás israelitas porque no se les dio ningún terreno."
+    },
+    {
+      "verse": 63,
+      "label": "63",
+      "char_start": 4880,
+      "char_end": 5056,
+      "text": "Ésta es la lista de todos los israelitas que contaron Moisés y el sacerdote Eleazar cuando estaban en las llanuras de Moab, junto al río Jordán y frente a la ciudad de Jericó."
+    },
+    {
+      "verse": 64,
+      "label": "64",
+      "char_start": 5056,
+      "char_end": 5172,
+      "text": "En esta lista no aparece ninguno de los hombres que Moisés y Aarón contaron la primera vez en el desierto de Sinaí."
+    },
+    {
+      "verse": 65,
+      "label": "65",
+      "char_start": 5172,
+      "char_end": 5286,
+      "text": "Todos ellos murieron en el desierto, como castigo de Dios. Los únicos que quedaron con vida fueron Caleb y Josué."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios habló con Moisés y con Eleazar, hijo del sacerdote Aarón, y les mandó lo siguiente: Vean cuántos varones israelitas hay, que tengan más de veinte años de edad.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 10350,
+      "duration_ms": 10250
+    },
+    {
+      "word": "Quiero que anoten en una lista los nombres de los que puedan ir a la guerra.",
+      "verse": 2,
+      "start_ms": 10300,
+      "end_ms": 14537,
+      "duration_ms": 4237
+    },
+    {
+      "word": "Esa lista debe hacerse de acuerdo a la familia a la que pertenezcan.",
+      "verse": 2,
+      "start_ms": 14537,
+      "end_ms": 18774,
+      "duration_ms": 4237
+    },
+    {
+      "word": "Cuando estaban en el territorio de Moab, junto al río Jordán y frente a la ciudad de Jericó, Moisés y Eleazar les ordenaron a los israelitas que hicieran todo tal y como Dios les mandó.",
+      "verse": 3,
+      "start_ms": 18775,
+      "end_ms": 29150,
+      "duration_ms": 10375
+    },
+    {
+      "word": "Éstos son los que salieron de Egipto y fueron anotados en la lista: Los hijos de Rubén, hijo mayor de Jacob, fueron: Henoc, Falú, Hesrón yCarmí.",
+      "verse": 4,
+      "start_ms": 29150,
+      "end_ms": 39212,
+      "duration_ms": 10062
+    },
+    {
+      "word": "De todas las familias de Rubén se contaron cuarenta y tres mil setecientos treinta hombres.",
+      "verse": 7,
+      "start_ms": 39212,
+      "end_ms": 44624,
+      "duration_ms": 5412
+    },
+    {
+      "word": "Falú tuvo un hijo: Eliab.",
+      "verse": 8,
+      "start_ms": 44625,
+      "end_ms": 47312,
+      "duration_ms": 2687
+    },
+    {
+      "word": "Eliab tuvo tres hijos: Nemuel, Datán yAbiram.",
+      "verse": 9,
+      "start_ms": 47312,
+      "end_ms": 51924,
+      "duration_ms": 4612
+    },
+    {
+      "word": "Datán y Abiram eran parte del grupo de Coré, que se rebeló contra Dios y contra Moisés y Aarón.",
+      "verse": 9,
+      "start_ms": 51925,
+      "end_ms": 58175,
+      "duration_ms": 6250
+    },
+    {
+      "word": "Por esa razón, la tierra se abrió y se los tragó.",
+      "verse": 10,
+      "start_ms": 58175,
+      "end_ms": 61887,
+      "duration_ms": 3712
+    },
+    {
+      "word": "Era un grupo de doscientas cincuenta personas.",
+      "verse": 10,
+      "start_ms": 61887,
+      "end_ms": 65324,
+      "duration_ms": 3437
+    },
+    {
+      "word": "Todas ellas murieron quemadas, y así el pueblo vio cómo Dios castiga a los que no lo obedecen.",
+      "verse": 10,
+      "start_ms": 65325,
+      "end_ms": 71550,
+      "duration_ms": 6225
+    },
+    {
+      "word": "Sólo los hijos de Coré permanecieron vivos.",
+      "verse": 11,
+      "start_ms": 71550,
+      "end_ms": 74925,
+      "duration_ms": 3375
+    },
+    {
+      "word": "Los grupos familiares que descendían de Simeón fueron: Nemuel, Jamín, Jaquín, Zérah ySaúl.",
+      "verse": 12,
+      "start_ms": 74925,
+      "end_ms": 82037,
+      "duration_ms": 7112
+    },
+    {
+      "word": "De sus familias se contaron veintidós mil doscientos hombres.",
+      "verse": 14,
+      "start_ms": 82037,
+      "end_ms": 86024,
+      "duration_ms": 3987
+    },
+    {
+      "word": "Los grupos familiares que descendían de Gad fueron: Sefón, Haguí, Suní, Ozní, Erí, Arod yArelí.",
+      "verse": 15,
+      "start_ms": 86025,
+      "end_ms": 94012,
+      "duration_ms": 7987
+    },
+    {
+      "word": "De sus familias se contaron cuarenta mil quinientos hombres.",
+      "verse": 18,
+      "start_ms": 94012,
+      "end_ms": 97899,
+      "duration_ms": 3887
+    },
+    {
+      "word": "Los grupos familiares que descendían de Judá fueron: Er, Onán, Selá, Fares yZérah.",
+      "verse": 19,
+      "start_ms": 97900,
+      "end_ms": 104637,
+      "duration_ms": 6737
+    },
+    {
+      "word": "Er y Onán murieron en el territorio de Canaán, y por eso no fueron contados.",
+      "verse": 19,
+      "start_ms": 104637,
+      "end_ms": 109924,
+      "duration_ms": 5287
+    },
+    {
+      "word": "Fares tuvo dos hijos: Hesrón yHamul.",
+      "verse": 21,
+      "start_ms": 109925,
+      "end_ms": 113762,
+      "duration_ms": 3837
+    },
+    {
+      "word": "De todas las familias de Judá se contaron setenta y seis mil quinientos hombres.",
+      "verse": 22,
+      "start_ms": 113762,
+      "end_ms": 118749,
+      "duration_ms": 4987
+    },
+    {
+      "word": "Los grupos familiares que descendían de Isacar fueron: Tolá, Puvá, Jasub ySimrón.",
+      "verse": 23,
+      "start_ms": 118750,
+      "end_ms": 125100,
+      "duration_ms": 6350
+    },
+    {
+      "word": "De todas sus familias se contaron sesenta y cuatro mil trescientos hombres.",
+      "verse": 25,
+      "start_ms": 125100,
+      "end_ms": 129675,
+      "duration_ms": 4575
+    },
+    {
+      "word": "Los grupos familiares que descendían de Zabulón fueron: Séred, Elón yJahleel.",
+      "verse": 26,
+      "start_ms": 129675,
+      "end_ms": 135662,
+      "duration_ms": 5987
+    },
+    {
+      "word": "De todas sus familias se contaron sesenta mil quinientos hombres.",
+      "verse": 27,
+      "start_ms": 135662,
+      "end_ms": 139899,
+      "duration_ms": 4237
+    },
+    {
+      "word": "Los grupos familiares que descendían de José fueron: Manasés yEfraín.",
+      "verse": 28,
+      "start_ms": 139900,
+      "end_ms": 145275,
+      "duration_ms": 5375
+    },
+    {
+      "word": "Manasés tuvo un hijo: Maquir.",
+      "verse": 29,
+      "start_ms": 145275,
+      "end_ms": 148150,
+      "duration_ms": 2875
+    },
+    {
+      "word": "Maquir tuvo un hijo: Galaad.",
+      "verse": 29,
+      "start_ms": 148150,
+      "end_ms": 151050,
+      "duration_ms": 2900
+    },
+    {
+      "word": "Los grupos familiares de Galaad fueron seis: Iéser, Hélec, Asriel, Siquem, Semidá yHéfer.",
+      "verse": 30,
+      "start_ms": 151050,
+      "end_ms": 158750,
+      "duration_ms": 7700
+    },
+    {
+      "word": "Héfer tuvo un hijo: Selofhad.",
+      "verse": 33,
+      "start_ms": 158750,
+      "end_ms": 161625,
+      "duration_ms": 2875
+    },
+    {
+      "word": "Selofhad no tuvo hijos, sino hijas: Mahlá, Noá, Hoglá, Milcá yTirsá.",
+      "verse": 33,
+      "start_ms": 161625,
+      "end_ms": 168450,
+      "duration_ms": 6825
+    },
+    {
+      "word": "De todas las familias de Manasés se contaron cincuenta y dos mil setecientos hombres.",
+      "verse": 34,
+      "start_ms": 168450,
+      "end_ms": 173650,
+      "duration_ms": 5200
+    },
+    {
+      "word": "Los grupos familiares que descendían de Efraín fueron: Sutélah, Béquer yTahán.",
+      "verse": 35,
+      "start_ms": 173650,
+      "end_ms": 179550,
+      "duration_ms": 5900
+    },
+    {
+      "word": "Los descendientes de Sutélah formaron el grupo familiar de Erán.",
+      "verse": 36,
+      "start_ms": 179550,
+      "end_ms": 183750,
+      "duration_ms": 4200
+    },
+    {
+      "word": "De todas las familias de Efraín se contaron treinta y dos mil quinientos hombres.",
+      "verse": 37,
+      "start_ms": 183750,
+      "end_ms": 188687,
+      "duration_ms": 4937
+    },
+    {
+      "word": "Éstos y los de la tribu de Manasés fueron los descendientes de José.",
+      "verse": 37,
+      "start_ms": 188687,
+      "end_ms": 192824,
+      "duration_ms": 4137
+    },
+    {
+      "word": "Los grupos familiares que descendían de Benjamín fueron: Bela, Asbel, Ahiram, Sufam yHufam.",
+      "verse": 38,
+      "start_ms": 192825,
+      "end_ms": 200200,
+      "duration_ms": 7375
+    },
+    {
+      "word": "Bela tuvo dos hijos: Ard yNaamán.",
+      "verse": 40,
+      "start_ms": 200200,
+      "end_ms": 203912,
+      "duration_ms": 3712
+    },
+    {
+      "word": "De todas las familias de Benjamín se contaron cuarenta y cinco mil seiscientos hombres.",
+      "verse": 41,
+      "start_ms": 203912,
+      "end_ms": 209149,
+      "duration_ms": 5237
+    },
+    {
+      "word": "Dan tuvo un hijo, y de sus descendientes se formó un grupo familiar: Suham.",
+      "verse": 42,
+      "start_ms": 209150,
+      "end_ms": 214550,
+      "duration_ms": 5400
+    },
+    {
+      "word": "De este grupo familiar se contaron sesenta y cuatro mil cuatrocientos hombres.",
+      "verse": 42,
+      "start_ms": 214550,
+      "end_ms": 219450,
+      "duration_ms": 4900
+    },
+    {
+      "word": "Los grupos familiares que descendían de Aser fueron: Imná, Isví yBeriá.",
+      "verse": 44,
+      "start_ms": 219450,
+      "end_ms": 225062,
+      "duration_ms": 5612
+    },
+    {
+      "word": "Beriá tuvo dos hijos: Heber yMalquiel.",
+      "verse": 45,
+      "start_ms": 225062,
+      "end_ms": 228899,
+      "duration_ms": 3837
+    },
+    {
+      "word": "Aser también tuvo una hija llamada Sérah.",
+      "verse": 46,
+      "start_ms": 228900,
+      "end_ms": 232100,
+      "duration_ms": 3200
+    },
+    {
+      "word": "De todas las familias de Aser se contaron cincuenta y tres mil cuatrocientos hombres.",
+      "verse": 47,
+      "start_ms": 232100,
+      "end_ms": 237175,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Los grupos familiares que descendían de Neftalí fueron: Jahseel, Guní, Jezer ySilem.",
+      "verse": 48,
+      "start_ms": 237175,
+      "end_ms": 243800,
+      "duration_ms": 6625
+    },
+    {
+      "word": "De todas sus familias se contaron cuarenta y cinco mil cuatrocientos hombres.",
+      "verse": 50,
+      "start_ms": 243800,
+      "end_ms": 248512,
+      "duration_ms": 4712
+    },
+    {
+      "word": "Todos los israelitas que se contaron y anotaron fueron seiscientos un mil setecientos treinta hombres.",
+      "verse": 51,
+      "start_ms": 248512,
+      "end_ms": 254587,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Dios volvió a hablar con Moisés, y le mandó: Ahora repartirán el territorio entre toda la gente que acaban de contar.",
+      "verse": 52,
+      "start_ms": 254587,
+      "end_ms": 262037,
+      "duration_ms": 7450
+    },
+    {
+      "word": "A las familias más grandes les darán más terrenos.",
+      "verse": 54,
+      "start_ms": 262037,
+      "end_ms": 265712,
+      "duration_ms": 3675
+    },
+    {
+      "word": "A las familias más pequeñas les darán menos terrenos.",
+      "verse": 54,
+      "start_ms": 265712,
+      "end_ms": 269512,
+      "duration_ms": 3800
+    },
+    {
+      "word": "Se le debe dar una parcela a cada familia anotada en la lista.",
+      "verse": 54,
+      "start_ms": 269512,
+      "end_ms": 273862,
+      "duration_ms": 4350
+    },
+    {
+      "word": "Repartirán el territorio mediante un sorteo entre las familias grandes y entre las",
+      "verse": 55,
+      "start_ms": 273862,
+      "end_ms": 279174,
+      "duration_ms": 5312
+    },
+    {
+      "word": "pequeñas.",
+      "verse": 55,
+      "start_ms": 279340,
+      "end_ms": 280990,
+      "duration_ms": 1650
+    },
+    {
+      "word": "Todo se repartirá por orden, de acuerdo a la tribu y a la familia a que pertenezcan.",
+      "verse": 55,
+      "start_ms": 280940,
+      "end_ms": 286290,
+      "duration_ms": 5350
+    },
+    {
+      "word": "También contaron a todas las familias que descendían de Leví, quien tuvo tres hijos: Guersón, Quehat yMerarí.",
+      "verse": 57,
+      "start_ms": 286290,
+      "end_ms": 293902,
+      "duration_ms": 7612
+    },
+    {
+      "word": "Así se formaron tres grupos familiares; y de éstos, surgieron otros cinco grupos familiares: Libní, Hebrón, Quehat, Mahlí yMusí.",
+      "verse": 57,
+      "start_ms": 293902,
+      "end_ms": 303727,
+      "duration_ms": 9825
+    },
+    {
+      "word": "Quehat tuvo un hijo: Amram.",
+      "verse": 57,
+      "start_ms": 303727,
+      "end_ms": 306364,
+      "duration_ms": 2637
+    },
+    {
+      "word": "Amram se casó con una hija de Leví que se llamaba Jocabed.",
+      "verse": 59,
+      "start_ms": 306365,
+      "end_ms": 310465,
+      "duration_ms": 4100
+    },
+    {
+      "word": "Ella nació cuando Leví todavía estaba en Egipto.",
+      "verse": 59,
+      "start_ms": 310465,
+      "end_ms": 314152,
+      "duration_ms": 3687
+    },
+    {
+      "word": "Amram y Jocabed tuvieron dos hijos y una hija: Aarón, Moisés yMaría.",
+      "verse": 59,
+      "start_ms": 314152,
+      "end_ms": 319802,
+      "duration_ms": 5650
+    },
+    {
+      "word": "Aarón tuvo cuatro hijos: Nadab, Abihú, Itamar yEleazar.",
+      "verse": 60,
+      "start_ms": 319802,
+      "end_ms": 325264,
+      "duration_ms": 5462
+    },
+    {
+      "word": "Pero Nadab y Abihú murieron por haber prendido el incienso del santuario sin seguir las instrucciones exactas que Dios había dado.",
+      "verse": 61,
+      "start_ms": 325265,
+      "end_ms": 332690,
+      "duration_ms": 7425
+    },
+    {
+      "word": "El número total de varones descendientes de Leví, mayores de un mes, fue de veintitrés mil.",
+      "verse": 62,
+      "start_ms": 332690,
+      "end_ms": 338602,
+      "duration_ms": 5912
+    },
+    {
+      "word": "A ellos no se les contó junto con los demás israelitas porque no se les dio ningún terreno.",
+      "verse": 62,
+      "start_ms": 338602,
+      "end_ms": 344002,
+      "duration_ms": 5400
+    },
+    {
+      "word": "Ésta es la lista de todos los israelitas que contaron Moisés y el sacerdote Eleazar cuando estaban en las llanuras de Moab, junto al río Jordán y frente a la ciudad de Jericó.",
+      "verse": 63,
+      "start_ms": 344002,
+      "end_ms": 353514,
+      "duration_ms": 9512
+    },
+    {
+      "word": "En esta lista no aparece ninguno de los hombres que Moisés y Aarón contaron la primera vez en el desierto de Sinaí.",
+      "verse": 64,
+      "start_ms": 353515,
+      "end_ms": 360077,
+      "duration_ms": 6562
+    },
+    {
+      "word": "Todos ellos murieron en el desierto, como castigo de Dios.",
+      "verse": 65,
+      "start_ms": 360077,
+      "end_ms": 364489,
+      "duration_ms": 4412
+    },
+    {
+      "word": "Los únicos que quedaron con vida fueron Caleb y Josué.",
+      "verse": 65,
+      "start_ms": 364490,
+      "end_ms": 368215,
+      "duration_ms": 3725
+    }
+  ]
+}

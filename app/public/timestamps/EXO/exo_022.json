@@ -1,0 +1,502 @@
+{
+  "book": "EXO",
+  "chapter": 22,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 29,
+  "word_count": 41,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 158,
+      "text": "Si alguien roba un buey o una oveja, y mata o vende el animal, deberá devolver al dueño cinco bueyes por el buey robado, y cuatro ovejas por la oveja robada."
+    },
+    {
+      "verse": 2,
+      "label": "2-4",
+      "char_start": 158,
+      "char_end": 569,
+      "text": "Si el animal robado todavía está vivo y en poder del ladrón, éste deberá devolver al dueño dos animales. Todo ladrón deberá pagar el precio de lo que haya robado. Si no puede pagar, será vendido como esclavo para pagar lo robado. Si el dueño de una propiedad sorprende a un ladrón robando de noche, y lo mata, no será culpable de su muerte. Si lo sorprende robando de día, y lo mata, entonces sí será culpable."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 569,
+      "char_end": 749,
+      "text": "Si alguien suelta sus animales en su propiedad, y éstos van y comen en el terreno de otra persona, tendrá que pagar con lo mejor de sus cosechas los daños que causen sus animales."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 749,
+      "char_end": 918,
+      "text": "Si alguien enciende un fuego en propiedad ajena, y el fuego destruye todo el trigo y el campo, el que prendió el fuego deberá pagarle al dueño todos los daños causados."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 918,
+      "char_end": 1103,
+      "text": "Si alguien le da a otra persona dinero o cosas de valor para que se las guarde, y algún ladrón se roba todo eso, el ladrón tendrá que pagar el doble de lo robado, si es que lo atrapan."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1103,
+      "char_end": 1232,
+      "text": "Si el ladrón huye, la persona que guardaba lo que fue robado, deberá presentarse en el templo y jurar ante Dios que es inocente."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1232,
+      "char_end": 1439,
+      "text": "Si dos personas afirman ser dueños del mismo buey, burro, oveja o algún otro objeto, deberán ir al templo para que su caso se resuelva ante Dios. Quien haya mentido deberá pagar el doble al verdadero dueño."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1439,
+      "char_end": 1617,
+      "text": "Si alguien sale de viaje y deja un animal al cuidado de otra persona, esa persona no será responsable si el animal muere, o sufre algún daño, o alguien se lo roba sin ser visto."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1617,
+      "char_end": 1731,
+      "text": "Pero tendrá que jurar ante Dios que es inocente. El dueño deberá creerle, y esa persona no tendrá que pagar nada."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1731,
+      "char_end": 1821,
+      "text": "Sin embargo, si esa persona vio cuando el animal fue robado, tendrá que pagarle al dueño."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1821,
+      "char_end": 1988,
+      "text": "Si el animal fue despedazado por una fiera salvaje, y el que lo cuidaba puede presentar como prueba los restos del animal muerto, no tendrá que pagarle nada al dueño."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1988,
+      "char_end": 2152,
+      "text": "Si alguien pide prestado un animal, y el animal resulta lastimado, o llega a morir, sin que el dueño esté presente, el que pidió prestado el animal deberá pagarlo."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2152,
+      "char_end": 2302,
+      "text": "Si el dueño del animal estaba presente, el que lo pidió prestado no deberá pagar nada. Si el animal era alquilado, sólo tendrá que pagar el alquiler."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2302,
+      "char_end": 2504,
+      "text": "Si un hombre engaña a una mujer soltera y sin compromiso, y tiene relaciones sexuales con ella, tendrá que casarse con ella y pagarle a su familia la cantidad que los novios acostumbran dar al casarse."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2504,
+      "char_end": 2660,
+      "text": "Pero si el padre de esa joven no quiere que ella se case, ese hombre deberá pagar de todos modos la cantidad que se acostumbra dar por la novia al casarse."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2660,
+      "char_end": 2719,
+      "text": "Todo el que practique la brujería será condenado a muerte."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2719,
+      "char_end": 2804,
+      "text": "Toda persona que tenga relaciones sexuales con algún animal será condenada a muerte."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2804,
+      "char_end": 2877,
+      "text": "Quien haga sacrificios en honor a otros dioses, será condenado a muerte."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2877,
+      "char_end": 3002,
+      "text": "No maltraten a los refugiados en el país, ni los hagan esclavos. Recuerden que también ustedes fueron extranjeros en Egipto."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3002,
+      "char_end": 3048,
+      "text": "No maltraten a las viudas ni a los huérfanos."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3048,
+      "char_end": 3102,
+      "text": "Si lo hacen, y ellos me piden ayuda, yo los escucharé"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3102,
+      "char_end": 3213,
+      "text": "y con furia les quitaré la vida a ustedes. Y entonces sus esposas serán las viudas y sus hijos, los huérfanos."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3213,
+      "char_end": 3332,
+      "text": "Si alguien le presta dinero a un israelita pobre, no debe cobrarle intereses ni portarse con él como los prestamistas."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3332,
+      "char_end": 3439,
+      "text": "Y si ese israelita da su abrigo en garantía de que pagará el préstamo, se le deberá devolver al atardecer,"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3439,
+      "char_end": 3588,
+      "text": "pues es lo único que tiene para protegerse del frío de la noche. Yo les digo que si ese hombre me pide ayuda, lo ayudaré, porque sé tener compasión."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3588,
+      "char_end": 3648,
+      "text": "No hablen mal de los jueces, ni maldigan a sus gobernantes."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3648,
+      "char_end": 3746,
+      "text": "No dejen de traerme sus ofrendas de trigo y de vino. No se olviden de entregarme a su primer hijo"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3746,
+      "char_end": 3875,
+      "text": "y las primeras crías de sus ganados. Podrán dejarlos con su madre los primeros siete días, pero al octavo día me los entregarán."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3875,
+      "char_end": 4030,
+      "text": "Ustedes deben obedecerme siempre. No coman la carne de animales que hayan sido despedazados por las fieras salvajes. Esa carne se la echarán a los perros."
+    }
+  ],
+  "words": [
+    {
+      "word": "Si alguien roba un buey o una oveja, y mata o vende el animal, deberá devolver al dueño cinco bueyes por el buey robado, y cuatro ovejas por la oveja robada.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 9862,
+      "duration_ms": 9762
+    },
+    {
+      "word": "Si el animal robado todavía está vivo y en poder del ladrón, éste deberá devolver al dueño dos animales.",
+      "verse": 2,
+      "start_ms": 9812,
+      "end_ms": 16699,
+      "duration_ms": 6887
+    },
+    {
+      "word": "Todo ladrón deberá pagar el precio de lo que haya robado.",
+      "verse": 2,
+      "start_ms": 16700,
+      "end_ms": 20362,
+      "duration_ms": 3662
+    },
+    {
+      "word": "Si no puede pagar, será vendido como esclavo para pagar lo robado.",
+      "verse": 2,
+      "start_ms": 20362,
+      "end_ms": 25024,
+      "duration_ms": 4662
+    },
+    {
+      "word": "Si el dueño de una propiedad sorprende a un ladrón robando de noche, y lo mata, no será culpable de su muerte.",
+      "verse": 2,
+      "start_ms": 25025,
+      "end_ms": 32000,
+      "duration_ms": 6975
+    },
+    {
+      "word": "Si lo sorprende robando de día, y lo mata, entonces sí será culpable.",
+      "verse": 2,
+      "start_ms": 32000,
+      "end_ms": 37225,
+      "duration_ms": 5225
+    },
+    {
+      "word": "Si alguien suelta sus animales en su propiedad, y éstos van y comen en el terreno de otra persona, tendrá que pagar con lo mejor de sus cosechas los daños que causen sus animales.",
+      "verse": 5,
+      "start_ms": 37225,
+      "end_ms": 47712,
+      "duration_ms": 10487
+    },
+    {
+      "word": "Si alguien enciende un fuego en propiedad ajena, y el fuego destruye todo el trigo y el campo, el que prendió el fuego deberá pagarle al dueño todos los daños causados.",
+      "verse": 6,
+      "start_ms": 47712,
+      "end_ms": 57687,
+      "duration_ms": 9975
+    },
+    {
+      "word": "Si alguien le da a otra persona dinero o cosas de valor para que se las guarde, y algún ladrón se roba todo eso, el ladrón tendrá que pagar el doble de lo robado, si es que lo atrapan.",
+      "verse": 7,
+      "start_ms": 57687,
+      "end_ms": 68374,
+      "duration_ms": 10687
+    },
+    {
+      "word": "Si el ladrón huye, la persona que guardaba lo que fue robado, deberá presentarse en el templo y jurar ante Dios que es inocente.",
+      "verse": 8,
+      "start_ms": 68375,
+      "end_ms": 76225,
+      "duration_ms": 7850
+    },
+    {
+      "word": "Si dos personas afirman ser dueños del mismo buey, burro, oveja o algún otro objeto, deberán ir al templo para que su caso se resuelva ante Dios.",
+      "verse": 9,
+      "start_ms": 76225,
+      "end_ms": 85487,
+      "duration_ms": 9262
+    },
+    {
+      "word": "Quien haya mentido deberá pagar el doble al verdadero dueño.",
+      "verse": 9,
+      "start_ms": 85487,
+      "end_ms": 89449,
+      "duration_ms": 3962
+    },
+    {
+      "word": "Si alguien sale de viaje y deja un animal al cuidado de otra persona, esa persona no será responsable si el animal muere, o sufre algún daño, o alguien se lo roba sin ser visto.",
+      "verse": 10,
+      "start_ms": 89450,
+      "end_ms": 100075,
+      "duration_ms": 10625
+    },
+    {
+      "word": "Pero tendrá que jurar ante Dios que es inocente.",
+      "verse": 11,
+      "start_ms": 100075,
+      "end_ms": 103587,
+      "duration_ms": 3512
+    },
+    {
+      "word": "El dueño deberá creerle, y esa persona no tendrá que pagar nada.",
+      "verse": 11,
+      "start_ms": 103587,
+      "end_ms": 108274,
+      "duration_ms": 4687
+    },
+    {
+      "word": "Sin embargo, si esa persona vio cuando el animal fue robado, tendrá que pagarle al dueño.",
+      "verse": 12,
+      "start_ms": 108275,
+      "end_ms": 114125,
+      "duration_ms": 5850
+    },
+    {
+      "word": "Si el animal fue despedazado por una fiera salvaje, y el que lo cuidaba puede presentar como prueba los restos del animal muerto, no tendrá que pagarle nada al dueño.",
+      "verse": 13,
+      "start_ms": 114125,
+      "end_ms": 123662,
+      "duration_ms": 9537
+    },
+    {
+      "word": "Si alguien pide prestado un animal, y el animal resulta lastimado, o llega a morir, sin que el dueño esté presente, el que pidió prestado el animal deberá pagarlo.",
+      "verse": 14,
+      "start_ms": 123662,
+      "end_ms": 133762,
+      "duration_ms": 10100
+    },
+    {
+      "word": "Si el dueño del animal estaba presente, el que lo pidió prestado no deberá pagar nada.",
+      "verse": 15,
+      "start_ms": 133762,
+      "end_ms": 139437,
+      "duration_ms": 5675
+    },
+    {
+      "word": "Si el animal era alquilado, sólo tendrá que pagar el alquiler.",
+      "verse": 15,
+      "start_ms": 139437,
+      "end_ms": 143824,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Si un hombre engaña a una mujer soltera y sin compromiso, y tiene relaciones sexuales con ella, tendrá que casarse con ella y pagarle a su familia la cantidad que los novios acostumbran dar al casarse.",
+      "verse": 16,
+      "start_ms": 143825,
+      "end_ms": 155162,
+      "duration_ms": 11337
+    },
+    {
+      "word": "Pero si el padre de esa joven no quiere que ella se case, ese hombre deberá pagar de todos modos la cantidad que se acostumbra dar por la novia al casarse.",
+      "verse": 17,
+      "start_ms": 155162,
+      "end_ms": 163962,
+      "duration_ms": 8800
+    },
+    {
+      "word": "Todo el que practique la brujería será condenado a muerte.",
+      "verse": 18,
+      "start_ms": 163962,
+      "end_ms": 167787,
+      "duration_ms": 3825
+    },
+    {
+      "word": "Toda persona que tenga relaciones sexuales con algún animal será condenada a muerte.",
+      "verse": 19,
+      "start_ms": 167787,
+      "end_ms": 173049,
+      "duration_ms": 5262
+    },
+    {
+      "word": "Quien haga sacrificios en honor a otros dioses, será condenado a muerte.",
+      "verse": 20,
+      "start_ms": 173050,
+      "end_ms": 177800,
+      "duration_ms": 4750
+    },
+    {
+      "word": "No maltraten a los refugiados en el país, ni los hagan esclavos.",
+      "verse": 21,
+      "start_ms": 177800,
+      "end_ms": 182437,
+      "duration_ms": 4637
+    },
+    {
+      "word": "Recuerden que también ustedes fueron extranjeros en Egipto.",
+      "verse": 21,
+      "start_ms": 182437,
+      "end_ms": 186374,
+      "duration_ms": 3937
+    },
+    {
+      "word": "No maltraten a las viudas ni a los huérfanos.",
+      "verse": 22,
+      "start_ms": 186375,
+      "end_ms": 189687,
+      "duration_ms": 3312
+    },
+    {
+      "word": "Si lo hacen, y ellos me piden ayuda, yo los escucharé y con furia les quitaré la vida a ustedes.",
+      "verse": 23,
+      "start_ms": 189687,
+      "end_ms": 196424,
+      "duration_ms": 6737
+    },
+    {
+      "word": "Y entonces sus esposas serán las viudas y sus hijos, los huérfanos.",
+      "verse": 24,
+      "start_ms": 196425,
+      "end_ms": 201200,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Si alguien le presta dinero a un israelita pobre, no debe cobrarle intereses ni portarse con él como los prestamistas.",
+      "verse": 25,
+      "start_ms": 201200,
+      "end_ms": 208425,
+      "duration_ms": 7225
+    },
+    {
+      "word": "Y si ese israelita da su abrigo en garantía de que pagará el préstamo, se le deberá devolver al atardecer, pues es lo único que tiene para protegerse del frío de la noche.",
+      "verse": 26,
+      "start_ms": 208425,
+      "end_ms": 218125,
+      "duration_ms": 9700
+    },
+    {
+      "word": "Yo les digo que si ese hombre me pide ayuda, lo ayudaré, porque sé tener compasión.",
+      "verse": 27,
+      "start_ms": 218125,
+      "end_ms": 223700,
+      "duration_ms": 5575
+    },
+    {
+      "word": "No hablen mal de los jueces, ni maldigan a sus gobernantes.",
+      "verse": 28,
+      "start_ms": 223700,
+      "end_ms": 228012,
+      "duration_ms": 4312
+    },
+    {
+      "word": "No dejen de traerme sus ofrendas de trigo y de vino.",
+      "verse": 29,
+      "start_ms": 228012,
+      "end_ms": 231612,
+      "duration_ms": 3600
+    },
+    {
+      "word": "No se olviden de entregarme a su primer hijo y las primeras crías de sus ganados.",
+      "verse": 29,
+      "start_ms": 231612,
+      "end_ms": 236499,
+      "duration_ms": 4887
+    },
+    {
+      "word": "Podrán dejarlos con su madre los primeros siete días, pero al octavo día me los entregarán.",
+      "verse": 30,
+      "start_ms": 236500,
+      "end_ms": 242350,
+      "duration_ms": 5850
+    },
+    {
+      "word": "Ustedes deben obedecerme siempre.",
+      "verse": 31,
+      "start_ms": 242350,
+      "end_ms": 245150,
+      "duration_ms": 2800
+    },
+    {
+      "word": "No coman la carne de animales que hayan sido despedazados por las fieras salvajes.",
+      "verse": 31,
+      "start_ms": 245150,
+      "end_ms": 250262,
+      "duration_ms": 5112
+    },
+    {
+      "word": "Esa carne se la",
+      "verse": 31,
+      "start_ms": 250262,
+      "end_ms": 252199,
+      "duration_ms": 1937
+    },
+    {
+      "word": "echarán a los perros.",
+      "verse": 31,
+      "start_ms": 252364,
+      "end_ms": 254614,
+      "duration_ms": 2250
+    }
+  ]
+}

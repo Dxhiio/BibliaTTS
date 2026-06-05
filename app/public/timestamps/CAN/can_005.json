@@ -1,0 +1,313 @@
+{
+  "book": "CAN",
+  "chapter": 5,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 16,
+  "word_count": 27,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 130,
+      "text": "Ya estoy dentro de mi jardín, amada mía; y encuentro en él bálsamo y mirra. Allí pruebo la miel de mi panal, y bebo vino y leche."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 130,
+      "char_end": 246,
+      "text": "En medio de mis sueños mi corazón despertó y alcancé a oír una voz. Era la voz de mi amado, que estaba a la puerta:"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 246,
+      "char_end": 354,
+      "text": "Pero ya me quité la ropa, ¡tendría que volver a vestirme! Ya me lavé los pies; ¡me los ensuciaría de nuevo!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 354,
+      "char_end": 431,
+      "text": "Mi amado metió la mano por un hoyo de la puerta; ¡todo mi ser se estremeció!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 431,
+      "char_end": 554,
+      "text": "Salté de la cama para abrirle a mi amado; ¡por las manos y los dedos me corrían gotas de perfume, y caían sobre la aldaba!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 554,
+      "char_end": 746,
+      "text": "Al oír la voz de mi amado, sentí que me moría. Le abrí la puerta, pero él se había marchado; ¡ya no estaba allí! Me dispuse a seguirlo: lo busqué y no lo encontré; lo llamé y no me respondió."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 746,
+      "char_end": 861,
+      "text": "Me topé con los guardias, con los que vigilan la ciudad; y ellos me hirieron, me golpearon, ¡y me dejaron desnuda!"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 861,
+      "char_end": 983,
+      "text": "Mujeres de Jerusalén, quiero que me prometan que, si encuentran a mi amado, le digan que… ¡Que me estoy muriendo de amor!"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 983,
+      "char_end": 1132,
+      "text": "¿Qué tiene de especial tu amado, mujer bella entre las bellas? ¿En qué es diferente tu amado del resto de los hombres, que nos pides tales promesas?"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1132,
+      "char_end": 1232,
+      "text": "Tan elegante es mi amado, y tan rosada es su piel, que entre diez mil hombres es fácil reconocerlo."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1232,
+      "char_end": 1305,
+      "text": "Su cabeza es oro puro; sus cabellos son rizados y negros como un cuervo."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1305,
+      "char_end": 1379,
+      "text": "Sus ojos son dos palomas bañadas en leche y sentadas junto a los arroyos."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1379,
+      "char_end": 1479,
+      "text": "Sus mejillas son un huerto de hierbas aromáticas. Sus labios parecen rosas, y por ellos corre miel."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1479,
+      "char_end": 1623,
+      "text": "Por brazos tiene un par de barras de oro adornadas con topacios. Su cuerpo es tan terso como el pulido marfil, y lo adorna un cielo de zafiros."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1623,
+      "char_end": 1761,
+      "text": "Son sus poderosas piernas, dos pilares de mármol apoyados sobre bases de oro puro. Su presencia es majestuosa como los cedros del Líbano."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1761,
+      "char_end": 1872,
+      "text": "Hay dulzura en sus labios; ¡es un hombre encantador! ¡Así es mi amado, mujeres de Jerusalén! ¡Así es mi amado!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Ya estoy dentro de mi jardín, amada mía; y encuentro en él bálsamo y mirra.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5475,
+      "duration_ms": 5375
+    },
+    {
+      "word": "Allí pruebo la miel de mi panal, y bebo vino y leche.",
+      "verse": 1,
+      "start_ms": 5425,
+      "end_ms": 9425,
+      "duration_ms": 4000
+    },
+    {
+      "word": "En medio de mis sueños mi corazón despertó y alcancé a oír una voz.",
+      "verse": 2,
+      "start_ms": 9425,
+      "end_ms": 14087,
+      "duration_ms": 4662
+    },
+    {
+      "word": "Era la voz de mi amado, que estaba a la puerta: Pero ya me quité la ropa, ¡tendría que volver a vestirme!",
+      "verse": 2,
+      "start_ms": 14087,
+      "end_ms": 20799,
+      "duration_ms": 6712
+    },
+    {
+      "word": "Ya me lavé los pies; ¡me los ensuciaría de nuevo!",
+      "verse": 3,
+      "start_ms": 20800,
+      "end_ms": 24437,
+      "duration_ms": 3637
+    },
+    {
+      "word": "Mi amado metió la mano por un hoyo de la puerta; ¡todo mi ser se estremeció!",
+      "verse": 4,
+      "start_ms": 24437,
+      "end_ms": 29262,
+      "duration_ms": 4825
+    },
+    {
+      "word": "Salté de la cama para abrirle a mi amado; ¡por las manos y los dedos me corrían gotas de perfume, y caían sobre la aldaba!",
+      "verse": 5,
+      "start_ms": 29262,
+      "end_ms": 36887,
+      "duration_ms": 7625
+    },
+    {
+      "word": "Al oír la voz de mi amado, sentí que me moría.",
+      "verse": 6,
+      "start_ms": 36887,
+      "end_ms": 40537,
+      "duration_ms": 3650
+    },
+    {
+      "word": "Le abrí la puerta, pero él se había marchado; ¡ya no estaba allí!",
+      "verse": 6,
+      "start_ms": 40537,
+      "end_ms": 44987,
+      "duration_ms": 4450
+    },
+    {
+      "word": "Me dispuse a seguirlo: lo busqué y no lo encontré; lo llamé y no me respondió.",
+      "verse": 6,
+      "start_ms": 44987,
+      "end_ms": 50599,
+      "duration_ms": 5612
+    },
+    {
+      "word": "Me topé con los guardias, con los que vigilan la ciudad; y ellos me hirieron, me golpearon, ¡y me dejaron desnuda!",
+      "verse": 7,
+      "start_ms": 50600,
+      "end_ms": 58037,
+      "duration_ms": 7437
+    },
+    {
+      "word": "Mujeres de Jerusalén, quiero que me prometan que, si encuentran a mi amado, le digan que…",
+      "verse": 8,
+      "start_ms": 58037,
+      "end_ms": 64062,
+      "duration_ms": 6025
+    },
+    {
+      "word": "Que me estoy muriendo de amor!",
+      "verse": 8,
+      "start_ms": 64062,
+      "end_ms": 66324,
+      "duration_ms": 2262
+    },
+    {
+      "word": "Qué tiene de especial tu amado, mujer bella entre las bellas?",
+      "verse": 9,
+      "start_ms": 66325,
+      "end_ms": 70550,
+      "duration_ms": 4225
+    },
+    {
+      "word": "En qué es diferente tu amado del resto de los hombres, que nos pides tales promesas?",
+      "verse": 9,
+      "start_ms": 70550,
+      "end_ms": 76075,
+      "duration_ms": 5525
+    },
+    {
+      "word": "Tan elegante es mi amado, y tan rosada es su piel, que entre diez mil hombres es fácil reconocerlo.",
+      "verse": 10,
+      "start_ms": 76075,
+      "end_ms": 82550,
+      "duration_ms": 6475
+    },
+    {
+      "word": "Su cabeza es oro puro; sus cabellos son rizados y negros como un cuervo.",
+      "verse": 11,
+      "start_ms": 82550,
+      "end_ms": 87812,
+      "duration_ms": 5262
+    },
+    {
+      "word": "Sus ojos son dos palomas bañadas en leche y sentadas junto a los arroyos.",
+      "verse": 12,
+      "start_ms": 87812,
+      "end_ms": 92662,
+      "duration_ms": 4850
+    },
+    {
+      "word": "Sus mejillas son un huerto de hierbas aromáticas.",
+      "verse": 13,
+      "start_ms": 92662,
+      "end_ms": 96337,
+      "duration_ms": 3675
+    },
+    {
+      "word": "Sus labios parecen rosas, y por ellos corre miel.",
+      "verse": 13,
+      "start_ms": 96337,
+      "end_ms": 100187,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Por brazos tiene un par de barras de oro adornadas con topacios.",
+      "verse": 14,
+      "start_ms": 100187,
+      "end_ms": 104524,
+      "duration_ms": 4337
+    },
+    {
+      "word": "Su cuerpo es tan terso como el pulido marfil, y lo adorna un cielo de zafiros.",
+      "verse": 14,
+      "start_ms": 104525,
+      "end_ms": 109937,
+      "duration_ms": 5412
+    },
+    {
+      "word": "Son sus poderosas piernas, dos pilares de mármol apoyados sobre bases de oro puro.",
+      "verse": 15,
+      "start_ms": 109937,
+      "end_ms": 115637,
+      "duration_ms": 5700
+    },
+    {
+      "word": "Su presencia es majestuosa como los cedros del Líbano.",
+      "verse": 15,
+      "start_ms": 115637,
+      "end_ms": 119362,
+      "duration_ms": 3725
+    },
+    {
+      "word": "Hay dulzura en sus labios; ¡es un hombre encantador!",
+      "verse": 16,
+      "start_ms": 119362,
+      "end_ms": 123124,
+      "duration_ms": 3762
+    },
+    {
+      "word": "Así es mi amado, mujeres de Jerusalén!",
+      "verse": 16,
+      "start_ms": 123125,
+      "end_ms": 126300,
+      "duration_ms": 3175
+    },
+    {
+      "word": "Así es mi amado!",
+      "verse": 16,
+      "start_ms": 126300,
+      "end_ms": 128062,
+      "duration_ms": 1762
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "book": "LEV",
+  "chapter": 18,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 24,
+  "word_count": 32,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 21,
+      "text": "Dios ordenó a Moisés"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 21,
+      "char_end": 108,
+      "text": "que les diera a los israelitas las siguientes instrucciones: Yo soy el Dios de Israel."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 108,
+      "char_end": 251,
+      "text": "Ustedes los israelitas vivieron antes en Egipto, y ahora los llevo a Canaán. No deberán comportarse ni como los egipcios ni como los cananeos."
+    },
+    {
+      "verse": 4,
+      "label": "4-5",
+      "char_start": 251,
+      "char_end": 324,
+      "text": "Cumplan todos mis mandamientos, y así vivirán. Yo soy el Dios de Israel."
+    },
+    {
+      "verse": 6,
+      "label": "6-7",
+      "char_start": 324,
+      "char_end": 533,
+      "text": "Entre ustedes, nadie debe tener relaciones sexuales con una mujer de su propia familia, y mucho menos con su propia madre, pues sería una terrible falta de respeto a su propio padre. Yo soy el Dios de Israel."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 533,
+      "char_end": 596,
+      "text": "Nadie debe tener relaciones sexuales con la mujer de su padre,"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 596,
+      "char_end": 728,
+      "text": "ni con su propia hermana, aun cuando sólo sea su hermana por parte de padre o de madre, y aun cuando haya crecido con otra familia."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 728,
+      "char_end": 821,
+      "text": "Nadie debe tener relaciones sexuales con su nieta, ya sea por parte de su hijo o de su hija."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 821,
+      "char_end": 980,
+      "text": "Nadie debe tener relaciones sexuales con la hija de una mujer que llegue a ser esposa de su padre. Sería como tener relaciones sexuales con su propia hermana."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 980,
+      "char_end": 1045,
+      "text": "Nadie debe tener relaciones sexuales con la hermana de su padre,"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1045,
+      "char_end": 1076,
+      "text": "ni con la hermana de su madre,"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1076,
+      "char_end": 1128,
+      "text": "ni con la esposa de su tío, pues también es su tía."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1128,
+      "char_end": 1179,
+      "text": "Nadie debe tener relaciones sexuales con su nuera,"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1179,
+      "char_end": 1197,
+      "text": "ni con su cuñada."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1197,
+      "char_end": 1404,
+      "text": "Nadie debe tener relaciones sexuales con la hija o la nieta de una mujer con la que haya tenido relaciones antes, pues todas ellas son de una misma familia. Tener relaciones con ellas es un pecado terrible."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1404,
+      "char_end": 1553,
+      "text": "Nadie debe tomar por mujer a la hermana de su esposa, ni tener relaciones sexuales con ella mientras su esposa viva. No hagas de ellas dos enemigas."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1553,
+      "char_end": 1629,
+      "text": "Nadie debe tener relaciones sexuales con una mujer durante su menstruación."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1629,
+      "char_end": 1732,
+      "text": "Nadie debe tener relaciones sexuales con la mujer de otro hombre. Si lo hace, será considerado impuro."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1732,
+      "char_end": 1853,
+      "text": "Nadie debe entregar a sus hijos como ofrenda al dios Moloc. No me insulten de esa manera, pues yo soy el Dios de Israel."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1853,
+      "char_end": 1935,
+      "text": "Nadie debe tener relaciones sexuales con otro hombre. Eso es algo que me repugna."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1935,
+      "char_end": 2006,
+      "text": "Todo el que tenga relaciones sexuales con un animal se volverá impuro."
+    },
+    {
+      "verse": 24,
+      "label": "24-26",
+      "char_start": 2006,
+      "char_end": 2316,
+      "text": "No hagan nada de esto, o de lo contrario, se volverán impuros. Los pueblos que ahora voy a expulsar del territorio que les voy a dar, han cometido todas estas maldades, y tanto ellos como el territorio se han vuelto impuros. Pero ni ustedes ni los extranjeros que vivan en su país deberán comportarse tan mal."
+    },
+    {
+      "verse": 27,
+      "label": "27-28",
+      "char_start": 2316,
+      "char_end": 2427,
+      "text": "Si lo hacen, tanto ustedes como el territorio se volverán impuros, y tendré que expulsarlos también a ustedes."
+    },
+    {
+      "verse": 29,
+      "label": "29-30",
+      "char_start": 2427,
+      "char_end": 2616,
+      "text": "Cumplan, pues, mis mandamientos y no se vuelvan impuros siguiendo el mal ejemplo de esos pueblos. El que cometa acciones tan repugnantes, será expulsado del país. Yo soy el Dios de Israel."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios ordenó a Moisés que les diera a los israelitas las siguientes instrucciones: Yo soy el Dios de Israel.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6787,
+      "duration_ms": 6687
+    },
+    {
+      "word": "Ustedes los israelitas vivieron antes en Egipto, y ahora los llevo a Canaán.",
+      "verse": 3,
+      "start_ms": 6737,
+      "end_ms": 11974,
+      "duration_ms": 5237
+    },
+    {
+      "word": "No deberán comportarse ni como los egipcios ni como los cananeos.",
+      "verse": 3,
+      "start_ms": 11975,
+      "end_ms": 16425,
+      "duration_ms": 4450
+    },
+    {
+      "word": "Cumplan todos mis mandamientos, y así vivirán.",
+      "verse": 4,
+      "start_ms": 16425,
+      "end_ms": 20225,
+      "duration_ms": 3800
+    },
+    {
+      "word": "Yo soy el Dios de Israel.",
+      "verse": 4,
+      "start_ms": 20225,
+      "end_ms": 22725,
+      "duration_ms": 2500
+    },
+    {
+      "word": "Entre ustedes, nadie debe tener relaciones sexuales con una mujer de su propia familia, y mucho menos con su propia madre, pues sería una terrible falta de respeto a su propio padre.",
+      "verse": 6,
+      "start_ms": 22725,
+      "end_ms": 33762,
+      "duration_ms": 11037
+    },
+    {
+      "word": "Yo soy el Dios de Israel.",
+      "verse": 6,
+      "start_ms": 33762,
+      "end_ms": 36262,
+      "duration_ms": 2500
+    },
+    {
+      "word": "Nadie debe tener relaciones sexuales con la mujer de su padre, ni con su propia hermana, aun cuando sólo sea su hermana por parte de padre o de madre, y aun cuando haya crecido con otra familia.",
+      "verse": 8,
+      "start_ms": 36262,
+      "end_ms": 47374,
+      "duration_ms": 11112
+    },
+    {
+      "word": "Nadie debe tener relaciones sexuales con su nieta, ya sea por parte de su hijo o de su hija.",
+      "verse": 10,
+      "start_ms": 47375,
+      "end_ms": 53475,
+      "duration_ms": 6100
+    },
+    {
+      "word": "Nadie debe tener relaciones sexuales con la hija de una mujer que llegue a ser esposa de su padre.",
+      "verse": 11,
+      "start_ms": 53475,
+      "end_ms": 59262,
+      "duration_ms": 5787
+    },
+    {
+      "word": "Sería como tener relaciones sexuales con su propia hermana.",
+      "verse": 11,
+      "start_ms": 59262,
+      "end_ms": 63312,
+      "duration_ms": 4050
+    },
+    {
+      "word": "Nadie debe tener relaciones sexuales con la hermana de su padre, ni con la hermana de su madre, ni con la esposa de su tío, pues también es su tía.",
+      "verse": 12,
+      "start_ms": 63312,
+      "end_ms": 71737,
+      "duration_ms": 8425
+    },
+    {
+      "word": "Nadie debe tener relaciones sexuales con su nuera, ni con su cuñada.",
+      "verse": 15,
+      "start_ms": 71737,
+      "end_ms": 76349,
+      "duration_ms": 4612
+    },
+    {
+      "word": "Nadie debe tener relaciones sexuales con la hija o la nieta de una mujer con la que haya tenido relaciones antes, pues todas ellas son de una misma familia.",
+      "verse": 17,
+      "start_ms": 76350,
+      "end_ms": 85512,
+      "duration_ms": 9162
+    },
+    {
+      "word": "Tener relaciones con ellas es un pecado terrible.",
+      "verse": 17,
+      "start_ms": 85512,
+      "end_ms": 88924,
+      "duration_ms": 3412
+    },
+    {
+      "word": "Nadie debe tomar por mujer a la hermana de su esposa, ni tener relaciones sexuales con ella mientras su esposa viva.",
+      "verse": 18,
+      "start_ms": 88925,
+      "end_ms": 95737,
+      "duration_ms": 6812
+    },
+    {
+      "word": "No hagas de ellas dos enemigas.",
+      "verse": 18,
+      "start_ms": 95737,
+      "end_ms": 98737,
+      "duration_ms": 3000
+    },
+    {
+      "word": "Nadie debe tener relaciones sexuales con una mujer durante su menstruación.",
+      "verse": 19,
+      "start_ms": 98737,
+      "end_ms": 103599,
+      "duration_ms": 4862
+    },
+    {
+      "word": "Nadie debe tener relaciones sexuales con la mujer de otro hombre.",
+      "verse": 20,
+      "start_ms": 103600,
+      "end_ms": 107825,
+      "duration_ms": 4225
+    },
+    {
+      "word": "Si lo hace, será considerado impuro.",
+      "verse": 20,
+      "start_ms": 107825,
+      "end_ms": 111125,
+      "duration_ms": 3300
+    },
+    {
+      "word": "Nadie debe entregar a sus hijos como ofrenda al dios Moloc.",
+      "verse": 21,
+      "start_ms": 111125,
+      "end_ms": 115200,
+      "duration_ms": 4075
+    },
+    {
+      "word": "No me insulten de esa manera, pues yo soy el Dios de Israel.",
+      "verse": 21,
+      "start_ms": 115200,
+      "end_ms": 119587,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Nadie debe tener relaciones sexuales con otro hombre.",
+      "verse": 22,
+      "start_ms": 119587,
+      "end_ms": 123262,
+      "duration_ms": 3675
+    },
+    {
+      "word": "Eso es algo que me repugna.",
+      "verse": 22,
+      "start_ms": 123262,
+      "end_ms": 125637,
+      "duration_ms": 2375
+    },
+    {
+      "word": "Todo el que tenga relaciones sexuales con un animal se volverá impuro.",
+      "verse": 23,
+      "start_ms": 125637,
+      "end_ms": 130049,
+      "duration_ms": 4412
+    },
+    {
+      "word": "No hagan nada de esto, o de lo contrario, se volverán impuros.",
+      "verse": 24,
+      "start_ms": 130050,
+      "end_ms": 134925,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Los pueblos que ahora voy a expulsar del territorio que les voy a dar, han cometido todas estas maldades, y tanto ellos como el territorio se han vuelto impuros.",
+      "verse": 24,
+      "start_ms": 134925,
+      "end_ms": 144350,
+      "duration_ms": 9425
+    },
+    {
+      "word": "Pero ni ustedes ni los extranjeros que vivan en su país deberán comportarse tan mal.",
+      "verse": 24,
+      "start_ms": 144350,
+      "end_ms": 149650,
+      "duration_ms": 5300
+    },
+    {
+      "word": "Si lo hacen, tanto ustedes como el territorio se volverán impuros, y tendré que expulsarlos también a ustedes.",
+      "verse": 27,
+      "start_ms": 149650,
+      "end_ms": 156937,
+      "duration_ms": 7287
+    },
+    {
+      "word": "Cumplan, pues, mis mandamientos y no se vuelvan impuros siguiendo el mal ejemplo de esos pueblos.",
+      "verse": 29,
+      "start_ms": 156937,
+      "end_ms": 163337,
+      "duration_ms": 6400
+    },
+    {
+      "word": "El que cometa acciones tan repugnantes, será expulsado del país.",
+      "verse": 29,
+      "start_ms": 163337,
+      "end_ms": 168099,
+      "duration_ms": 4762
+    },
+    {
+      "word": "Yo soy el Dios de Israel.",
+      "verse": 29,
+      "start_ms": 168100,
+      "end_ms": 170600,
+      "duration_ms": 2500
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "book": "SAL",
+  "chapter": 1,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 6,
+  "word_count": 7,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 120,
+      "text": "Dios bendice a quienes no siguen malos consejos ni andan en malas compañías ni se juntan con los que se burlan de Dios."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 120,
+      "char_end": 194,
+      "text": "Dios bendice a quienes aman su palabra y alegres la estudian día y noche."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 194,
+      "char_end": 341,
+      "text": "Son como árboles sembrados junto a los arroyos: llegado el momento, dan mucho fruto y no se marchitan sus hojas. ¡Todo lo que hacen les sale bien!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 341,
+      "char_end": 419,
+      "text": "Con los malvados no pasa lo mismo; ¡son como el polvo que se lleva el viento!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 419,
+      "char_end": 521,
+      "text": "Cuando sean juzgados, nada los salvará; ¡esos pecadores no tendrán parte en la reunión de los buenos!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 521,
+      "char_end": 600,
+      "text": "En verdad, Dios cuida a los buenos, pero los malvados se encaminan al fracaso."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios bendice a quienes no siguen malos consejos ni andan en malas compañías ni se juntan con los que se burlan de Dios.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7025,
+      "duration_ms": 6925
+    },
+    {
+      "word": "Dios bendice a quienes aman su palabra y alegres la estudian día y noche.",
+      "verse": 2,
+      "start_ms": 6975,
+      "end_ms": 11850,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Son como árboles sembrados junto a los arroyos: llegado el momento, dan mucho fruto y no se marchitan sus hojas.",
+      "verse": 3,
+      "start_ms": 11850,
+      "end_ms": 19275,
+      "duration_ms": 7425
+    },
+    {
+      "word": "Todo lo que hacen les sale bien!",
+      "verse": 3,
+      "start_ms": 19275,
+      "end_ms": 21812,
+      "duration_ms": 2537
+    },
+    {
+      "word": "Con los malvados no pasa lo mismo; ¡son como el polvo que se lleva el viento!",
+      "verse": 4,
+      "start_ms": 21812,
+      "end_ms": 26574,
+      "duration_ms": 4762
+    },
+    {
+      "word": "Cuando sean juzgados, nada los salvará; ¡esos pecadores no tendrán parte en la reunión de los buenos!",
+      "verse": 5,
+      "start_ms": 26575,
+      "end_ms": 33012,
+      "duration_ms": 6437
+    },
+    {
+      "word": "En verdad, Dios cuida a los buenos, pero los malvados se encaminan al fracaso.",
+      "verse": 6,
+      "start_ms": 33012,
+      "end_ms": 38462,
+      "duration_ms": 5450
+    }
+  ]
+}

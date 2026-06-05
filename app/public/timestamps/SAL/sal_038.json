@@ -1,0 +1,306 @@
+{
+  "book": "SAL",
+  "chapter": 38,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 20,
+  "word_count": 22,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 80,
+      "text": "Dios mío, si estás enojado, no me reprendas; si estás furioso, no me castigues."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 80,
+      "char_end": 141,
+      "text": "Me has herido con tu enojo, has descargado tu mano sobre mí."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 141,
+      "char_end": 267,
+      "text": "Tan grande ha sido tu disgusto que nada sano tengo en el cuerpo; tan grande ha sido mi pecado que no tengo paz en los huesos."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 267,
+      "char_end": 322,
+      "text": "Ya no aguanto mi maldad; ¡no soporto carga tan pesada!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 322,
+      "char_end": 393,
+      "text": "Tan necio he sido, que hasta mis llagas apestan; ¡están llenas de pus!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 393,
+      "char_end": 465,
+      "text": "Me siento cansado, y totalmente deprimido; todo el día ando muy triste."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 465,
+      "char_end": 520,
+      "text": "Estoy ardiendo en fiebre; nada en mi cuerpo está sano."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 520,
+      "char_end": 593,
+      "text": "Estoy muy débil y adolorido; tengo la mente aturdida. ¡Por eso me quejo!"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 593,
+      "char_end": 668,
+      "text": "Dios mío, pongo ante ti mis más grandes deseos; ¡no te los puedo esconder!"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 668,
+      "char_end": 744,
+      "text": "Mi corazón late con ansias, las fuerzas me abandonan, la vista se me nubla."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 744,
+      "char_end": 863,
+      "text": "Mis amigos más queridos se quedan lejos de mí por causa de mis males; mis parientes cercanos se mantienen a distancia."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 863,
+      "char_end": 1010,
+      "text": "Los que quieren matarme me ponen trampas; los que buscan mi mal amenazan con destruirme, ¡no hay un solo momento en que no hagan planes contra mí!"
+    },
+    {
+      "verse": 13,
+      "label": "13-14",
+      "char_start": 1010,
+      "char_end": 1096,
+      "text": "Pero yo cierro los oídos y hago como que no los oigo; me hago el mudo y no digo nada."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1096,
+      "char_end": 1159,
+      "text": "Mi Señor y Dios, yo en ti confío; tú serás quien les responda."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1159,
+      "char_end": 1249,
+      "text": "Sólo una cosa te pido: si acaso llego a caer, no les concedas el gusto de burlarse de mí."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1249,
+      "char_end": 1304,
+      "text": "Casi me doy por vencido; este dolor no me deja en paz."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1304,
+      "char_end": 1365,
+      "text": "Debo reconocer mi maldad; me llena de angustia haber pecado."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1365,
+      "char_end": 1426,
+      "text": "Mis enemigos son poderosos, son muchos y me odian sin razón."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1426,
+      "char_end": 1521,
+      "text": "Yo los traté bien, y ahora ellos me tratan mal; procuré su bienestar, y ahora ellos me atacan."
+    },
+    {
+      "verse": 21,
+      "label": "21-22",
+      "char_start": 1521,
+      "char_end": 1622,
+      "text": "Mi Señor y Dios, ¡tú eres mi salvador! No me abandones; no te alejes de mí, ¡ven pronto en mi ayuda!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios mío, si estás enojado, no me reprendas; si estás furioso, no me castigues.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6500,
+      "duration_ms": 6400
+    },
+    {
+      "word": "Me has herido con tu enojo, has descargado tu mano sobre mí.",
+      "verse": 2,
+      "start_ms": 6450,
+      "end_ms": 10787,
+      "duration_ms": 4337
+    },
+    {
+      "word": "Tan grande ha sido tu disgusto que nada sano tengo en el cuerpo; tan grande ha sido mi pecado que no tengo paz en los huesos.",
+      "verse": 3,
+      "start_ms": 10787,
+      "end_ms": 18174,
+      "duration_ms": 7387
+    },
+    {
+      "word": "Ya no aguanto mi maldad; ¡no soporto carga tan pesada!",
+      "verse": 4,
+      "start_ms": 18175,
+      "end_ms": 22112,
+      "duration_ms": 3937
+    },
+    {
+      "word": "Tan necio he sido, que hasta mis llagas apestan; ¡están llenas de pus!",
+      "verse": 5,
+      "start_ms": 22112,
+      "end_ms": 27049,
+      "duration_ms": 4937
+    },
+    {
+      "word": "Me siento cansado, y totalmente deprimido; todo el día ando muy triste.",
+      "verse": 6,
+      "start_ms": 27050,
+      "end_ms": 32500,
+      "duration_ms": 5450
+    },
+    {
+      "word": "Estoy ardiendo en fiebre; nada en mi cuerpo está sano.",
+      "verse": 7,
+      "start_ms": 32500,
+      "end_ms": 36450,
+      "duration_ms": 3950
+    },
+    {
+      "word": "Estoy muy débil y adolorido; tengo la mente aturdida.",
+      "verse": 8,
+      "start_ms": 36450,
+      "end_ms": 40475,
+      "duration_ms": 4025
+    },
+    {
+      "word": "Por eso me quejo!",
+      "verse": 8,
+      "start_ms": 40475,
+      "end_ms": 42312,
+      "duration_ms": 1837
+    },
+    {
+      "word": "Dios mío, pongo ante ti mis más grandes deseos; ¡no te los puedo esconder!",
+      "verse": 9,
+      "start_ms": 42312,
+      "end_ms": 47512,
+      "duration_ms": 5200
+    },
+    {
+      "word": "Mi corazón late con ansias, las fuerzas me abandonan, la vista se me nubla.",
+      "verse": 10,
+      "start_ms": 47512,
+      "end_ms": 52799,
+      "duration_ms": 5287
+    },
+    {
+      "word": "Mis amigos más queridos se quedan lejos de mí por causa de mis males; mis parientes cercanos se mantienen a distancia.",
+      "verse": 11,
+      "start_ms": 52800,
+      "end_ms": 59937,
+      "duration_ms": 7137
+    },
+    {
+      "word": "Los que quieren matarme me ponen trampas; los que buscan mi mal amenazan con destruirme, ¡no hay un solo momento en que no hagan planes contra mí!",
+      "verse": 12,
+      "start_ms": 59937,
+      "end_ms": 68362,
+      "duration_ms": 8425
+    },
+    {
+      "word": "Pero yo cierro los oídos y hago como que no los oigo; me hago el mudo y no digo nada.",
+      "verse": 13,
+      "start_ms": 68362,
+      "end_ms": 74162,
+      "duration_ms": 5800
+    },
+    {
+      "word": "Mi Señor y Dios, yo en ti confío; tú serás quien les responda.",
+      "verse": 15,
+      "start_ms": 74162,
+      "end_ms": 78937,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Sólo una cosa te pido: si acaso llego a caer, no les concedas el gusto de burlarse de mí.",
+      "verse": 16,
+      "start_ms": 78937,
+      "end_ms": 85312,
+      "duration_ms": 6375
+    },
+    {
+      "word": "Casi me doy por vencido; este dolor no me deja en paz.",
+      "verse": 17,
+      "start_ms": 85312,
+      "end_ms": 89499,
+      "duration_ms": 4187
+    },
+    {
+      "word": "Debo reconocer mi maldad; me llena de angustia haber pecado.",
+      "verse": 18,
+      "start_ms": 89500,
+      "end_ms": 93850,
+      "duration_ms": 4350
+    },
+    {
+      "word": "Mis enemigos son poderosos, son muchos y me odian sin razón.",
+      "verse": 19,
+      "start_ms": 93850,
+      "end_ms": 98475,
+      "duration_ms": 4625
+    },
+    {
+      "word": "Yo los traté bien, y ahora ellos me tratan mal; procuré su bienestar, y ahora ellos me atacan.",
+      "verse": 20,
+      "start_ms": 98475,
+      "end_ms": 105187,
+      "duration_ms": 6712
+    },
+    {
+      "word": "Mi Señor y Dios, ¡tú eres mi salvador!",
+      "verse": 21,
+      "start_ms": 105187,
+      "end_ms": 108474,
+      "duration_ms": 3287
+    },
+    {
+      "word": "No me abandones; no te alejes de mí, ¡ven pronto en mi ayuda!",
+      "verse": 21,
+      "start_ms": 108475,
+      "end_ms": 112950,
+      "duration_ms": 4475
+    }
+  ]
+}

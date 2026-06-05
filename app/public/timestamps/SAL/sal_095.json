@@ -1,0 +1,194 @@
+{
+  "book": "SAL",
+  "chapter": 95,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 11,
+  "word_count": 15,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 85,
+      "text": "¡Vamos, cantemos con alegría! ¡Alabemos a nuestro Dios! ¡Él nos salva y nos protege!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 85,
+      "char_end": 143,
+      "text": "¡Vayamos a darle gracias! ¡Cantémosle himnos de alabanza!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 143,
+      "char_end": 201,
+      "text": "Nuestro Dios es poderoso, ¡es el rey de todos los dioses!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 201,
+      "char_end": 297,
+      "text": "Nuestro Dios tiene en sus manos lo más profundo de la tierra; suyas son las montañas más altas."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 297,
+      "char_end": 351,
+      "text": "Suyos son el mar y la tierra, pues él mismo los creó."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 351,
+      "char_end": 406,
+      "text": "¡Vamos, adoremos de rodillas a nuestro Dios y creador!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 406,
+      "char_end": 555,
+      "text": "Pertenecemos a Dios; nosotros somos su pueblo. Él es nuestro pastor, y nosotros somos su rebaño; ¡estamos bajo su cuidado! Si hoy escuchamos su voz,"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 555,
+      "char_end": 630,
+      "text": "no seamos tercos, como cuando nos rebelamos en el desierto, cerca de Masá."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 630,
+      "char_end": 734,
+      "text": "Dios dice: En aquella ocasión, sus antepasados me pusieron a prueba, a pesar de que vieron lo que hice."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 734,
+      "char_end": 871,
+      "text": "Durante cuarenta años estuve muy enojado contra ellos, y al fin les hice ver que vivían en el error, pues no obedecían mis mandamientos."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 871,
+      "char_end": 987,
+      "text": "Por eso, ya enojado decidí: «No voy a permitirles entrar en la tierra prometida, donde los habría hecho descansar»."
+    }
+  ],
+  "words": [
+    {
+      "word": "Vamos, cantemos con alegría!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3000,
+      "duration_ms": 2900
+    },
+    {
+      "word": "Alabemos a nuestro Dios!",
+      "verse": 1,
+      "start_ms": 2950,
+      "end_ms": 5312,
+      "duration_ms": 2362
+    },
+    {
+      "word": "Él nos salva y nos protege!",
+      "verse": 1,
+      "start_ms": 5312,
+      "end_ms": 7762,
+      "duration_ms": 2450
+    },
+    {
+      "word": "Vayamos a darle gracias!",
+      "verse": 2,
+      "start_ms": 7762,
+      "end_ms": 10187,
+      "duration_ms": 2425
+    },
+    {
+      "word": "Cantémosle himnos de alabanza!",
+      "verse": 2,
+      "start_ms": 10187,
+      "end_ms": 12862,
+      "duration_ms": 2675
+    },
+    {
+      "word": "Nuestro Dios es poderoso, ¡es el rey de todos los dioses!",
+      "verse": 3,
+      "start_ms": 12862,
+      "end_ms": 17237,
+      "duration_ms": 4375
+    },
+    {
+      "word": "Nuestro Dios tiene en sus manos lo más profundo de la tierra; suyas son las montañas más altas.",
+      "verse": 4,
+      "start_ms": 17237,
+      "end_ms": 23387,
+      "duration_ms": 6150
+    },
+    {
+      "word": "Suyos son el mar y la tierra, pues él mismo los creó.",
+      "verse": 5,
+      "start_ms": 23387,
+      "end_ms": 27387,
+      "duration_ms": 4000
+    },
+    {
+      "word": "Vamos, adoremos de rodillas a nuestro Dios y creador!",
+      "verse": 6,
+      "start_ms": 27387,
+      "end_ms": 31449,
+      "duration_ms": 4062
+    },
+    {
+      "word": "Pertenecemos a Dios; nosotros somos su pueblo.",
+      "verse": 7,
+      "start_ms": 31450,
+      "end_ms": 35187,
+      "duration_ms": 3737
+    },
+    {
+      "word": "Él es nuestro pastor, y nosotros somos su rebaño; ¡estamos bajo su cuidado!",
+      "verse": 7,
+      "start_ms": 35187,
+      "end_ms": 40474,
+      "duration_ms": 5287
+    },
+    {
+      "word": "Si hoy escuchamos su voz, no seamos tercos, como cuando nos rebelamos en el desierto, cerca de Masá.",
+      "verse": 7,
+      "start_ms": 40475,
+      "end_ms": 47425,
+      "duration_ms": 6950
+    },
+    {
+      "word": "Dios dice: En aquella ocasión, sus antepasados me pusieron a prueba, a pesar de que vieron lo que hice.",
+      "verse": 9,
+      "start_ms": 47425,
+      "end_ms": 54312,
+      "duration_ms": 6887
+    },
+    {
+      "word": "Durante cuarenta años estuve muy enojado contra ellos, y al fin les hice ver que vivían en el error, pues no obedecían mis mandamientos.",
+      "verse": 10,
+      "start_ms": 54312,
+      "end_ms": 63112,
+      "duration_ms": 8800
+    },
+    {
+      "word": "Por eso, ya enojado decidí: «No voy a permitirles entrar en la tierra prometida, donde los habría hecho descansar».",
+      "verse": 11,
+      "start_ms": 63112,
+      "end_ms": 70687,
+      "duration_ms": 7575
+    }
+  ]
+}

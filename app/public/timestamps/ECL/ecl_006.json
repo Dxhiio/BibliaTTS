@@ -1,0 +1,201 @@
+{
+  "book": "ECL",
+  "chapter": 6,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 11,
+  "word_count": 16,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 53,
+      "text": "En esta vida he visto un mal que a todos nos afecta:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 53,
+      "char_end": 247,
+      "text": "a veces Dios nos da mucho dinero y honores, y cumple todos nuestros deseos, pero al fin de cuentas son otros los que acaban disfrutando de todo eso. ¡A mí me parece algo terrible y sin sentido!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 247,
+      "char_end": 468,
+      "text": "Podemos vivir cien años, y llegar a tener cien hijos, pero si no disfrutamos de las cosas buenas de la vida, ni tampoco nos entierran como se debe, yo digo que un niño que nace muerto ha tenido mejor suerte que nosotros."
+    },
+    {
+      "verse": 4,
+      "label": "4-5",
+      "char_start": 468,
+      "char_end": 612,
+      "text": "Porque ese niño nunca llegó a ver la luz ni supo nada; tampoco nadie supo nada de él, ni siquiera su nombre; sin embargo, tuvo más tranquilidad"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 612,
+      "char_end": 739,
+      "text": "que quien pudiera vivir dos mil años y no disfrutar de la vida. Pero al fin de cuentas, ¡todos terminaremos en el mismo lugar!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 739,
+      "char_end": 834,
+      "text": "Todo el tiempo trabajamos para calmar el hambre, pero nuestro estómago nunca queda satisfecho."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 834,
+      "char_end": 939,
+      "text": "Al fin de cuentas, el sabio no es mejor que el tonto. Lo que el pobre necesita es superar sus problemas."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 939,
+      "char_end": 1066,
+      "text": "Por eso, vale más pájaro en mano que cien volando. Aunque tampoco esto tiene sentido, porque es como querer atrapar el viento."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1066,
+      "char_end": 1230,
+      "text": "Nosotros existimos porque Dios quiso que existiéramos, y hasta nos puso el nombre que tenemos; pero no podemos luchar contra él, porque es más fuerte que nosotros."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1230,
+      "char_end": 1306,
+      "text": "Pero nada ganamos con hablar. Mientras más hablamos, más tonterías decimos."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1306,
+      "char_end": 1520,
+      "text": "En realidad, no sabemos qué es lo mejor para nosotros. No tiene ningún sentido vivir tan poco tiempo y desaparecer como las sombras. Además, nadie puede decirnos qué pasará en este mundo después de nuestra muerte."
+    }
+  ],
+  "words": [
+    {
+      "word": "En esta vida he visto un mal que a todos nos afecta: a veces Dios nos da mucho dinero y honores, y cumple todos nuestros deseos, pero al fin de cuentas son otros los que acaban disfrutando de todo eso.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 11925,
+      "duration_ms": 11825
+    },
+    {
+      "word": "A mí me parece algo terrible y sin sentido!",
+      "verse": 2,
+      "start_ms": 11875,
+      "end_ms": 15137,
+      "duration_ms": 3262
+    },
+    {
+      "word": "Podemos vivir cien años, y llegar a tener cien hijos, pero si no disfrutamos de las cosas buenas de la vida, ni tampoco nos entierran como se debe, yo digo que un niño que nace muerto ha tenido mejor suerte que nosotros.",
+      "verse": 3,
+      "start_ms": 15137,
+      "end_ms": 28037,
+      "duration_ms": 12900
+    },
+    {
+      "word": "Porque ese niño nunca llegó a ver la luz ni supo nada; tampoco nadie supo nada de él, ni siquiera su nombre; sin embargo, tuvo más tranquilidad que quien pudiera vivir dos mil años y no disfrutar de la vida.",
+      "verse": 4,
+      "start_ms": 28037,
+      "end_ms": 40462,
+      "duration_ms": 12425
+    },
+    {
+      "word": "Pero al fin de cuentas, ¡todos terminaremos en el mismo lugar!",
+      "verse": 6,
+      "start_ms": 40462,
+      "end_ms": 44799,
+      "duration_ms": 4337
+    },
+    {
+      "word": "Todo el tiempo trabajamos para calmar el hambre, pero nuestro estómago nunca queda satisfecho.",
+      "verse": 7,
+      "start_ms": 44800,
+      "end_ms": 50562,
+      "duration_ms": 5762
+    },
+    {
+      "word": "Al fin de cuentas, el sabio no es mejor que el tonto.",
+      "verse": 8,
+      "start_ms": 50562,
+      "end_ms": 54424,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Lo que el pobre necesita es superar sus problemas.",
+      "verse": 8,
+      "start_ms": 54425,
+      "end_ms": 58062,
+      "duration_ms": 3637
+    },
+    {
+      "word": "Por eso, vale más pájaro en mano que cien volando.",
+      "verse": 9,
+      "start_ms": 58062,
+      "end_ms": 62012,
+      "duration_ms": 3950
+    },
+    {
+      "word": "Aunque tampoco esto tiene sentido, porque es como querer atrapar el viento.",
+      "verse": 9,
+      "start_ms": 62012,
+      "end_ms": 66912,
+      "duration_ms": 4900
+    },
+    {
+      "word": "Nosotros existimos porque Dios quiso que existiéramos, y hasta nos puso el nombre que tenemos; pero no podemos luchar contra él, porque es más fuerte que nosotros.",
+      "verse": 10,
+      "start_ms": 66912,
+      "end_ms": 76849,
+      "duration_ms": 9937
+    },
+    {
+      "word": "Pero nada ganamos con hablar.",
+      "verse": 11,
+      "start_ms": 76850,
+      "end_ms": 79300,
+      "duration_ms": 2450
+    },
+    {
+      "word": "Mientras más hablamos, más tonterías decimos.",
+      "verse": 11,
+      "start_ms": 79300,
+      "end_ms": 82987,
+      "duration_ms": 3687
+    },
+    {
+      "word": "En realidad, no sabemos qué es lo mejor para nosotros.",
+      "verse": 12,
+      "start_ms": 82987,
+      "end_ms": 87049,
+      "duration_ms": 4062
+    },
+    {
+      "word": "No tiene ningún sentido vivir tan poco tiempo y desaparecer como las sombras.",
+      "verse": 12,
+      "start_ms": 87050,
+      "end_ms": 91987,
+      "duration_ms": 4937
+    },
+    {
+      "word": "Además, nadie puede decirnos qué pasará en este mundo después de nuestra muerte.",
+      "verse": 12,
+      "start_ms": 91987,
+      "end_ms": 97374,
+      "duration_ms": 5387
+    }
+  ]
+}

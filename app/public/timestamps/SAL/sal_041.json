@@ -1,0 +1,201 @@
+{
+  "book": "SAL",
+  "chapter": 41,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 13,
+  "word_count": 14,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 98,
+      "text": "Dios bendice a los que cuidan de los pobres, y los pondrá a salvo cuando vengan las dificultades."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 98,
+      "char_end": 225,
+      "text": "Los cuidará y les dará vida, los hará vivir felices en la tierra prometida y no dejará que sus enemigos les hagan ningún daño."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 225,
+      "char_end": 293,
+      "text": "Cuando se enfermen, Dios les dará fuerzas y les devolverá la salud."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 293,
+      "char_end": 381,
+      "text": "Yo le he pedido a Dios: Tenme compasión; devuélveme la salud, pues he pecado contra ti."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 381,
+      "char_end": 481,
+      "text": "Mis enemigos desean mi mal, y hasta dicen: ¡Ya quisiéramos verlo muerto, para que todos lo olviden!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 481,
+      "char_end": 568,
+      "text": "Cuando vienen a visitarme sólo me traen chismes; y cuando se van salen hablando de mí."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 568,
+      "char_end": 665,
+      "text": "Mis enemigos se juntan con la idea de perjudicarme; con las peores intenciones hablan mal de mí:"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 665,
+      "char_end": 733,
+      "text": "Está en cama, y no volverá a levantarse. ¡Un demonio lo ha atacado!"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 733,
+      "char_end": 839,
+      "text": "Hasta mi mejor amigo, en quien yo más confiaba, y con quien compartía mi pan, se ha puesto en contra mía."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 839,
+      "char_end": 923,
+      "text": "Pero tú, Dios mío, compadécete de mí; ¡devuélveme la salud, y les daré su merecido!"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 923,
+      "char_end": 1022,
+      "text": "Yo estaré seguro de haberte complacido cuando mis enemigos se den cuenta que he salido victorioso."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1022,
+      "char_end": 1101,
+      "text": "Tú siempre me sostendrás y me mantendrás en tu presencia, porque soy inocente."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1101,
+      "char_end": 1164,
+      "text": "¡Bendito sea el Dios de Israel, ayer, hoy y siempre! ¡Así sea!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios bendice a los que cuidan de los pobres, y los pondrá a salvo cuando vengan las dificultades.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6262,
+      "duration_ms": 6162
+    },
+    {
+      "word": "Los cuidará y les dará vida, los hará vivir felices en la tierra prometida y no dejará que sus enemigos les hagan ningún daño.",
+      "verse": 2,
+      "start_ms": 6212,
+      "end_ms": 13762,
+      "duration_ms": 7550
+    },
+    {
+      "word": "Cuando se enfermen, Dios les dará fuerzas y les devolverá la salud.",
+      "verse": 3,
+      "start_ms": 13762,
+      "end_ms": 18262,
+      "duration_ms": 4500
+    },
+    {
+      "word": "Yo le he pedido a Dios: Tenme compasión; devuélveme la salud, pues he pecado contra ti.",
+      "verse": 4,
+      "start_ms": 18262,
+      "end_ms": 24737,
+      "duration_ms": 6475
+    },
+    {
+      "word": "Mis enemigos desean mi mal, y hasta dicen: ¡Ya quisiéramos verlo muerto, para que todos lo olviden!",
+      "verse": 5,
+      "start_ms": 24737,
+      "end_ms": 31362,
+      "duration_ms": 6625
+    },
+    {
+      "word": "Cuando vienen a visitarme sólo me traen chismes; y cuando se van salen hablando de mí.",
+      "verse": 6,
+      "start_ms": 31362,
+      "end_ms": 36812,
+      "duration_ms": 5450
+    },
+    {
+      "word": "Mis enemigos se juntan con la idea de perjudicarme; con las peores intenciones hablan mal de mí: Está en cama, y no volverá a levantarse.",
+      "verse": 7,
+      "start_ms": 36812,
+      "end_ms": 45349,
+      "duration_ms": 8537
+    },
+    {
+      "word": "Un demonio lo ha atacado!",
+      "verse": 8,
+      "start_ms": 45350,
+      "end_ms": 47737,
+      "duration_ms": 2387
+    },
+    {
+      "word": "Hasta mi mejor amigo, en quien yo más confiaba, y con quien compartía mi pan, se ha puesto en contra mía.",
+      "verse": 9,
+      "start_ms": 47737,
+      "end_ms": 54612,
+      "duration_ms": 6875
+    },
+    {
+      "word": "Pero tú, Dios mío, compadécete de mí; ¡devuélveme la salud, y les daré su merecido!",
+      "verse": 10,
+      "start_ms": 54612,
+      "end_ms": 60962,
+      "duration_ms": 6350
+    },
+    {
+      "word": "Yo estaré seguro de haberte complacido cuando mis enemigos se den cuenta que he salido victorioso.",
+      "verse": 11,
+      "start_ms": 60962,
+      "end_ms": 66962,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Tú siempre me sostendrás y me mantendrás en tu presencia, porque soy inocente.",
+      "verse": 12,
+      "start_ms": 66962,
+      "end_ms": 72024,
+      "duration_ms": 5062
+    },
+    {
+      "word": "Bendito sea el Dios de Israel, ayer, hoy y siempre!",
+      "verse": 13,
+      "start_ms": 72025,
+      "end_ms": 76337,
+      "duration_ms": 4312
+    },
+    {
+      "word": "Así sea!",
+      "verse": 13,
+      "start_ms": 76337,
+      "end_ms": 77987,
+      "duration_ms": 1650
+    }
+  ]
+}

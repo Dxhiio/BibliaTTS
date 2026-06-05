@@ -1,0 +1,299 @@
+{
+  "book": "SAL",
+  "chapter": 86,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 17,
+  "word_count": 24,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 82,
+      "text": "Dios mío, yo soy muy pobre y humilde, pero te ruego que me atiendas. ¡Respóndeme!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 82,
+      "char_end": 193,
+      "text": "Sálvame la vida, pues te he sido fiel. Tú eres mi Dios; sálvame, pues tuyo soy y en ti he puesto mi confianza."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 193,
+      "char_end": 253,
+      "text": "Dios mío, ten compasión de mí, pues a todas horas te llamo."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 253,
+      "char_end": 324,
+      "text": "Yo estoy a tu servicio; alégrame la vida, pues a ti dirijo mis ruegos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 324,
+      "char_end": 412,
+      "text": "Dios mío, tú eres bueno y sabes perdonar; ¡qué grande es tu amor por los que te buscan!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 412,
+      "char_end": 473,
+      "text": "Dios mío, ¡atiende mi oración, presta atención a mis ruegos!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 473,
+      "char_end": 526,
+      "text": "Cuando estoy angustiado, te llamo y tú me respondes."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 526,
+      "char_end": 609,
+      "text": "Dios mío, no hay entre todos los dioses un Dios como tú, que haga lo que tú haces."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 609,
+      "char_end": 674,
+      "text": "Todas las naciones que tú hiciste vendrán a adorarte y alabarte."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 674,
+      "char_end": 734,
+      "text": "¡Sólo tú eres imponente! ¡Sólo tú haces grandes maravillas!"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 734,
+      "char_end": 857,
+      "text": "Dios mío, yo quiero hacer siempre lo que tú ordenes; ¡enséñame a hacerlo! Pon en mí este único deseo: ¡adorarte sólo a ti!"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 857,
+      "char_end": 922,
+      "text": "Mi Señor y Dios, yo quiero alabarte siempre con todo el corazón."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 922,
+      "char_end": 959,
+      "text": "Tanto me amas que no me dejas morir."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 959,
+      "char_end": 1068,
+      "text": "Dios mío, una banda de asesinos que presume de su maldad me ataca y quiere matarme. No quieren nada contigo."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1068,
+      "char_end": 1170,
+      "text": "Pero tú, mi Dios, eres bondadoso y compasivo; no te enojas fácilmente, y tu amor es siempre el mismo."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1170,
+      "char_end": 1279,
+      "text": "Dirige a mí tu mirada y tenme compasión. Soy tu servidor más humilde, ¡concédeme tu fuerza y ven a salvarme!"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1279,
+      "char_end": 1403,
+      "text": "Haz que mi vida refleje lo bueno que eres tú. Quedarán en ridículo mis enemigos cuando vean que tú me das ayuda y consuelo."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios mío, yo soy muy pobre y humilde, pero te ruego que me atiendas.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5437,
+      "duration_ms": 5337
+    },
+    {
+      "word": "Respóndeme!",
+      "verse": 1,
+      "start_ms": 5387,
+      "end_ms": 7049,
+      "duration_ms": 1662
+    },
+    {
+      "word": "Sálvame la vida, pues te he sido fiel.",
+      "verse": 2,
+      "start_ms": 7050,
+      "end_ms": 10425,
+      "duration_ms": 3375
+    },
+    {
+      "word": "Tú eres mi Dios; sálvame, pues tuyo soy y en ti he puesto mi confianza.",
+      "verse": 2,
+      "start_ms": 10425,
+      "end_ms": 15787,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Dios mío, ten compasión de mí, pues a todas horas te llamo.",
+      "verse": 3,
+      "start_ms": 15787,
+      "end_ms": 20324,
+      "duration_ms": 4537
+    },
+    {
+      "word": "Yo estoy a tu servicio; alégrame la vida, pues a ti dirijo mis ruegos.",
+      "verse": 4,
+      "start_ms": 20325,
+      "end_ms": 25850,
+      "duration_ms": 5525
+    },
+    {
+      "word": "Dios mío, tú eres bueno y sabes perdonar; ¡qué grande es tu amor por los que te buscan!",
+      "verse": 5,
+      "start_ms": 25850,
+      "end_ms": 31575,
+      "duration_ms": 5725
+    },
+    {
+      "word": "Dios mío, ¡atiende mi oración, presta atención a mis ruegos!",
+      "verse": 6,
+      "start_ms": 31575,
+      "end_ms": 36375,
+      "duration_ms": 4800
+    },
+    {
+      "word": "Cuando estoy angustiado, te llamo y tú me respondes.",
+      "verse": 7,
+      "start_ms": 36375,
+      "end_ms": 40350,
+      "duration_ms": 3975
+    },
+    {
+      "word": "Dios mío, no hay entre todos los dioses un Dios como tú, que haga lo que tú haces.",
+      "verse": 8,
+      "start_ms": 40350,
+      "end_ms": 46062,
+      "duration_ms": 5712
+    },
+    {
+      "word": "Todas las naciones que tú hiciste vendrán a adorarte y alabarte.",
+      "verse": 9,
+      "start_ms": 46062,
+      "end_ms": 50249,
+      "duration_ms": 4187
+    },
+    {
+      "word": "Sólo tú eres imponente!",
+      "verse": 10,
+      "start_ms": 50250,
+      "end_ms": 52650,
+      "duration_ms": 2400
+    },
+    {
+      "word": "Sólo tú haces grandes maravillas!",
+      "verse": 10,
+      "start_ms": 52650,
+      "end_ms": 55525,
+      "duration_ms": 2875
+    },
+    {
+      "word": "Dios mío, yo quiero hacer siempre lo que tú ordenes; ¡enséñame a hacerlo!",
+      "verse": 11,
+      "start_ms": 55525,
+      "end_ms": 60537,
+      "duration_ms": 5012
+    },
+    {
+      "word": "Pon en mí este único deseo: ¡adorarte sólo a ti!",
+      "verse": 11,
+      "start_ms": 60537,
+      "end_ms": 64349,
+      "duration_ms": 3812
+    },
+    {
+      "word": "Mi Señor y Dios, yo quiero alabarte siempre con todo el corazón.",
+      "verse": 12,
+      "start_ms": 64350,
+      "end_ms": 68912,
+      "duration_ms": 4562
+    },
+    {
+      "word": "Tanto me amas que no me dejas morir.",
+      "verse": 13,
+      "start_ms": 68912,
+      "end_ms": 71662,
+      "duration_ms": 2750
+    },
+    {
+      "word": "Dios mío, una banda de asesinos que presume de su maldad me ataca y quiere matarme.",
+      "verse": 14,
+      "start_ms": 71662,
+      "end_ms": 77124,
+      "duration_ms": 5462
+    },
+    {
+      "word": "No quieren nada contigo.",
+      "verse": 14,
+      "start_ms": 77125,
+      "end_ms": 79400,
+      "duration_ms": 2275
+    },
+    {
+      "word": "Pero tú, mi Dios, eres bondadoso y compasivo; no te enojas fácilmente, y tu amor es siempre el mismo.",
+      "verse": 15,
+      "start_ms": 79400,
+      "end_ms": 86862,
+      "duration_ms": 7462
+    },
+    {
+      "word": "Dirige a mí tu mirada y tenme compasión.",
+      "verse": 16,
+      "start_ms": 86862,
+      "end_ms": 89999,
+      "duration_ms": 3137
+    },
+    {
+      "word": "Soy tu servidor más humilde, ¡concédeme tu fuerza y ven a salvarme!",
+      "verse": 16,
+      "start_ms": 90000,
+      "end_ms": 94825,
+      "duration_ms": 4825
+    },
+    {
+      "word": "Haz que mi vida refleje lo bueno que eres tú.",
+      "verse": 17,
+      "start_ms": 94825,
+      "end_ms": 97975,
+      "duration_ms": 3150
+    },
+    {
+      "word": "Quedarán en ridículo mis enemigos cuando vean que tú me das ayuda y consuelo.",
+      "verse": 17,
+      "start_ms": 97975,
+      "end_ms": 102825,
+      "duration_ms": 4850
+    }
+  ]
+}

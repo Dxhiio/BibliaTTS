@@ -1,0 +1,775 @@
+{
+  "book": "SAL",
+  "chapter": 18,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 46,
+  "word_count": 63,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 47,
+      "text": "¡Dios mío, yo te amo porque tú me das fuerzas!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 47,
+      "char_end": 203,
+      "text": "Tú eres para mí la roca que me da refugio; ¡tú me cuidas y me libras! Me proteges como un escudo, y me salvas con tu poder. ¡Tú eres mi más alto escondite!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 203,
+      "char_end": 279,
+      "text": "Tú mereces que te alabe porque, cuando te llamo, me libras de mis enemigos."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 279,
+      "char_end": 397,
+      "text": "Hubo una vez en que la muerte quiso atraparme entre sus lazos, fui arrastrado por una corriente que todo lo destruía."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 397,
+      "char_end": 455,
+      "text": "Me vi atrapado por la muerte, me vi al borde de la tumba."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 455,
+      "char_end": 558,
+      "text": "Lleno de angustia llamé a mi Dios, y él me escuchó desde su templo, ¡mi oración llegó hasta sus oídos!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 558,
+      "char_end": 695,
+      "text": "Hubo un temblor de tierra, y la tierra se estremeció. También los cerros temblaron desde sus cimientos; ¡temblaron por el enojo de Dios!"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 695,
+      "char_end": 780,
+      "text": "Echaba humo por la nariz, arrojaba fuego por la boca, y lanzaba carbones encendidos."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 780,
+      "char_end": 838,
+      "text": "Dios partió el cielo en dos y bajó sobre una espesa nube."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 838,
+      "char_end": 916,
+      "text": "Cruzó los cielos sobre un querubín; se fue volando sobre las alas del viento."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 916,
+      "char_end": 1007,
+      "text": "Se escondió en la oscuridad, entre las nubes cargadas de agua que lo cubrían por completo."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1007,
+      "char_end": 1076,
+      "text": "¡De su grandioso trono salían nubes, granizos y carbones encendidos!"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1076,
+      "char_end": 1214,
+      "text": "De pronto, en el cielo se oyó una voz de trueno: ¡era la voz del Dios altísimo que se dejó escuchar entre granizos y carbones encendidos!"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1214,
+      "char_end": 1317,
+      "text": "Arrojó sus relámpagos como si disparara flechas; ¡dispersó a sus enemigos, y los hizo salir corriendo!"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1317,
+      "char_end": 1487,
+      "text": "Dios mío, tú reprendiste al mar, y por causa de tu enojo el fondo del mar quedó a la vista. En tu enojo resoplaste, y los cimientos de la tierra quedaron al descubierto."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1487,
+      "char_end": 1561,
+      "text": "Desde los altos cielos me tendiste la mano y me sacaste del mar profundo."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1561,
+      "char_end": 1654,
+      "text": "Mis enemigos me odiaban; eran más fuertes y poderosos que yo, ¡pero tú me libraste de ellos!"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1654,
+      "char_end": 1715,
+      "text": "Se enfrentaron a mí en el peor momento, pero tú me apoyaste."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1715,
+      "char_end": 1763,
+      "text": "Me diste libertad, ¡me libraste porque me amas!"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1763,
+      "char_end": 1866,
+      "text": "Me diste mi recompensa porque hago lo que quieres. Me trataste con bondad porque hago lo que es justo."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1866,
+      "char_end": 1915,
+      "text": "Yo obedezco tus enseñanzas y no me aparto de ti."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1915,
+      "char_end": 1967,
+      "text": "Cumplo todas tus leyes, y jamás me aparto de ellas."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1967,
+      "char_end": 2016,
+      "text": "He sido honesto contigo y no he hecho nada malo."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2016,
+      "char_end": 2112,
+      "text": "Me diste mi recompensa porque hago lo que quieres, porque tú sabes que yo hago lo que es justo."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2112,
+      "char_end": 2195,
+      "text": "Tú eres fiel con los que te son fieles, y tratas bien a quienes bien se comportan."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2195,
+      "char_end": 2284,
+      "text": "Eres sincero con los que son sinceros, pero con los tramposos demuestras ser más astuto."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2284,
+      "char_end": 2378,
+      "text": "A la gente humilde le concedes la victoria, pero a los orgullosos los haces salir derrotados."
+    },
+    {
+      "verse": 28,
+      "label": "28-30",
+      "char_start": 2378,
+      "char_end": 2619,
+      "text": "Dios mío, tú alumbras mi vida, tú iluminas mi oscuridad. Con tu ayuda venceré al enemigo y podré conquistar sus ciudades. Tus enseñanzas son perfectas, tu palabra no tiene defectos. Tú proteges como un escudo a los que buscan refugio en ti."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2619,
+      "char_end": 2683,
+      "text": "Dios de Israel, sólo tú eres Dios, ¡sólo tú puedes protegernos!"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2683,
+      "char_end": 2742,
+      "text": "¡Sólo tú me llenas de valor y me guías por el buen camino!"
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 2742,
+      "char_end": 2861,
+      "text": "¡Tú me das fuerzas para correr con la velocidad de un venado! Cuando ando por las altas montañas, tú no me dejas caer."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 2861,
+      "char_end": 2937,
+      "text": "Tú me enseñas a enfrentarme a mis enemigos; tú me das valor para vencerlos."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 2937,
+      "char_end": 3017,
+      "text": "Tú me das tu protección; me salvas con tu gran poder y me concedes la victoria."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3017,
+      "char_end": 3071,
+      "text": "Me despejas el camino para que no tenga yo tropiezos."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3071,
+      "char_end": 3147,
+      "text": "Perseguí a mis enemigos y los alcancé, y no volví hasta haberlos destruido."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 3147,
+      "char_end": 3230,
+      "text": "Los derroté por completo; ¡los aplasté bajo mis pies, y no volvieron a levantarse!"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 3230,
+      "char_end": 3337,
+      "text": "Tú me llenaste de valor para entrar en combate; tú hiciste que los rebeldes cayeran derrotados a mis pies."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 3337,
+      "char_end": 3403,
+      "text": "Me hiciste vencer a mis enemigos, y acabé con los que me odiaban."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 3403,
+      "char_end": 3510,
+      "text": "A gritos pedían ayuda, pero nadie fue a salvarlos. Hasta de ti pedían ayuda, pero tampoco tú los salvaste."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 3510,
+      "char_end": 3637,
+      "text": "Los deshice por completo: ¡quedaron como el polvo que se lleva el viento! ¡Me di gusto aplastándolos como al lodo de la calle!"
+    },
+    {
+      "verse": 43,
+      "label": "43-45",
+      "char_start": 3637,
+      "char_end": 3917,
+      "text": "Dios mío, tú me libras de la gente que anda buscando pelea; me hiciste jefe de naciones, y gente extraña que yo no conocía ahora está dispuesta a servirme. Tan pronto esos extranjeros me oyen, se desaniman por completo y temblando salen de sus escondites dispuestos a obedecerme."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 3917,
+      "char_end": 4004,
+      "text": "¡Bendito seas, mi Dios, tú que vives y me proteges! ¡Alabado seas, mi Dios y Salvador!"
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 4004,
+      "char_end": 4091,
+      "text": "¡Tú me permitiste vengarme de mis enemigos! ¡Tú pusiste a los pueblos bajo mi dominio!"
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 4091,
+      "char_end": 4217,
+      "text": "Tú me pusiste a salvo de la furia de mis enemigos. Me pusiste por encima de mis adversarios, y me libraste de gente violenta."
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 4217,
+      "char_end": 4292,
+      "text": "Por eso, Dios mío, yo te alabo y te canto himnos en medio de las naciones."
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 4292,
+      "char_end": 4414,
+      "text": "Tú siempre le das la victoria al rey que pusiste sobre Israel. Tú siempre les muestras tu amor a David y a sus herederos."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios mío, yo te amo porque tú me das fuerzas!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3912,
+      "duration_ms": 3812
+    },
+    {
+      "word": "Tú eres para mí la roca que me da refugio; ¡tú me cuidas y me libras!",
+      "verse": 2,
+      "start_ms": 3862,
+      "end_ms": 8587,
+      "duration_ms": 4725
+    },
+    {
+      "word": "Me proteges como un escudo, y me salvas con tu poder.",
+      "verse": 2,
+      "start_ms": 8587,
+      "end_ms": 12674,
+      "duration_ms": 4087
+    },
+    {
+      "word": "Tú eres mi más alto escondite!",
+      "verse": 2,
+      "start_ms": 12675,
+      "end_ms": 15212,
+      "duration_ms": 2537
+    },
+    {
+      "word": "Tú mereces que te alabe porque, cuando te llamo, me libras de mis enemigos.",
+      "verse": 3,
+      "start_ms": 15212,
+      "end_ms": 20312,
+      "duration_ms": 5100
+    },
+    {
+      "word": "Hubo una vez en que la muerte quiso atraparme entre sus lazos, fui arrastrado por una corriente que todo lo destruía.",
+      "verse": 4,
+      "start_ms": 20312,
+      "end_ms": 27287,
+      "duration_ms": 6975
+    },
+    {
+      "word": "Me vi atrapado por la muerte, me vi al borde de la tumba.",
+      "verse": 5,
+      "start_ms": 27287,
+      "end_ms": 31462,
+      "duration_ms": 4175
+    },
+    {
+      "word": "Lleno de angustia llamé a mi Dios, y él me escuchó desde su templo, ¡mi oración llegó hasta sus oídos!",
+      "verse": 6,
+      "start_ms": 31462,
+      "end_ms": 37887,
+      "duration_ms": 6425
+    },
+    {
+      "word": "Hubo un temblor de tierra, y la tierra se estremeció.",
+      "verse": 7,
+      "start_ms": 37887,
+      "end_ms": 41512,
+      "duration_ms": 3625
+    },
+    {
+      "word": "También los cerros temblaron desde sus cimientos; ¡temblaron por el enojo de Dios!",
+      "verse": 7,
+      "start_ms": 41512,
+      "end_ms": 46724,
+      "duration_ms": 5212
+    },
+    {
+      "word": "Echaba humo por la nariz, arrojaba fuego por la boca, y lanzaba carbones encendidos.",
+      "verse": 8,
+      "start_ms": 46725,
+      "end_ms": 53087,
+      "duration_ms": 6362
+    },
+    {
+      "word": "Dios partió el cielo en dos y bajó sobre una espesa nube.",
+      "verse": 9,
+      "start_ms": 53087,
+      "end_ms": 57074,
+      "duration_ms": 3987
+    },
+    {
+      "word": "Cruzó los cielos sobre un querubín; se fue volando sobre las alas del viento.",
+      "verse": 10,
+      "start_ms": 57075,
+      "end_ms": 62075,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Se escondió en la oscuridad, entre las nubes cargadas de agua que lo cubrían por completo.",
+      "verse": 11,
+      "start_ms": 62075,
+      "end_ms": 67575,
+      "duration_ms": 5500
+    },
+    {
+      "word": "De su grandioso trono salían nubes, granizos y carbones encendidos!",
+      "verse": 12,
+      "start_ms": 67575,
+      "end_ms": 72800,
+      "duration_ms": 5225
+    },
+    {
+      "word": "De pronto, en el cielo se oyó una voz de trueno: ¡era la voz del Dios altísimo que se dejó escuchar entre granizos y carbones encendidos!",
+      "verse": 13,
+      "start_ms": 72800,
+      "end_ms": 81125,
+      "duration_ms": 8325
+    },
+    {
+      "word": "Arrojó sus relámpagos como si disparara flechas; ¡dispersó a sus enemigos, y los hizo salir corriendo!",
+      "verse": 14,
+      "start_ms": 81125,
+      "end_ms": 87912,
+      "duration_ms": 6787
+    },
+    {
+      "word": "Dios mío, tú reprendiste al mar, y por causa de tu enojo el fondo del mar quedó a la vista.",
+      "verse": 15,
+      "start_ms": 87912,
+      "end_ms": 94037,
+      "duration_ms": 6125
+    },
+    {
+      "word": "En tu enojo resoplaste, y los cimientos de la tierra quedaron al descubierto.",
+      "verse": 15,
+      "start_ms": 94037,
+      "end_ms": 98987,
+      "duration_ms": 4950
+    },
+    {
+      "word": "Desde los altos cielos me tendiste la mano y me sacaste del mar profundo.",
+      "verse": 16,
+      "start_ms": 98987,
+      "end_ms": 103587,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Mis enemigos me odiaban; eran más fuertes y poderosos que yo, ¡pero tú me libraste de ellos!",
+      "verse": 17,
+      "start_ms": 103587,
+      "end_ms": 109799,
+      "duration_ms": 6212
+    },
+    {
+      "word": "Se enfrentaron a mí en el peor momento, pero tú me apoyaste.",
+      "verse": 18,
+      "start_ms": 109800,
+      "end_ms": 114062,
+      "duration_ms": 4262
+    },
+    {
+      "word": "Me diste libertad, ¡me libraste porque me amas!",
+      "verse": 19,
+      "start_ms": 114062,
+      "end_ms": 117662,
+      "duration_ms": 3600
+    },
+    {
+      "word": "Me diste mi recompensa porque hago lo que quieres.",
+      "verse": 20,
+      "start_ms": 117662,
+      "end_ms": 121124,
+      "duration_ms": 3462
+    },
+    {
+      "word": "Me trataste con bondad porque hago lo que es justo.",
+      "verse": 20,
+      "start_ms": 121125,
+      "end_ms": 124662,
+      "duration_ms": 3537
+    },
+    {
+      "word": "Yo obedezco tus enseñanzas y no me aparto de ti.",
+      "verse": 21,
+      "start_ms": 124662,
+      "end_ms": 128374,
+      "duration_ms": 3712
+    },
+    {
+      "word": "Cumplo todas tus leyes, y jamás me aparto de ellas.",
+      "verse": 22,
+      "start_ms": 128375,
+      "end_ms": 132587,
+      "duration_ms": 4212
+    },
+    {
+      "word": "He sido honesto contigo y no he hecho nada malo.",
+      "verse": 23,
+      "start_ms": 132587,
+      "end_ms": 136362,
+      "duration_ms": 3775
+    },
+    {
+      "word": "Me diste mi recompensa porque hago lo que quieres, porque tú sabes que yo hago lo que es justo.",
+      "verse": 24,
+      "start_ms": 136362,
+      "end_ms": 142187,
+      "duration_ms": 5825
+    },
+    {
+      "word": "Tú eres fiel con los que te son fieles, y tratas bien a quienes bien se comportan.",
+      "verse": 25,
+      "start_ms": 142187,
+      "end_ms": 147337,
+      "duration_ms": 5150
+    },
+    {
+      "word": "Eres sincero con los que son sinceros, pero con los tramposos demuestras ser más astuto.",
+      "verse": 26,
+      "start_ms": 147337,
+      "end_ms": 152974,
+      "duration_ms": 5637
+    },
+    {
+      "word": "A la gente humilde le concedes la victoria, pero a los orgullosos los haces salir derrotados.",
+      "verse": 27,
+      "start_ms": 152975,
+      "end_ms": 158937,
+      "duration_ms": 5962
+    },
+    {
+      "word": "Dios mío, tú alumbras mi vida, tú iluminas mi oscuridad.",
+      "verse": 28,
+      "start_ms": 158937,
+      "end_ms": 163362,
+      "duration_ms": 4425
+    },
+    {
+      "word": "Con tu ayuda venceré al enemigo y podré conquistar sus ciudades.",
+      "verse": 28,
+      "start_ms": 163362,
+      "end_ms": 167787,
+      "duration_ms": 4425
+    },
+    {
+      "word": "Tus enseñanzas son perfectas, tu palabra no tiene defectos.",
+      "verse": 28,
+      "start_ms": 167787,
+      "end_ms": 172349,
+      "duration_ms": 4562
+    },
+    {
+      "word": "Tú proteges como un escudo a los que buscan refugio en ti.",
+      "verse": 28,
+      "start_ms": 172350,
+      "end_ms": 176262,
+      "duration_ms": 3912
+    },
+    {
+      "word": "Dios de Israel, sólo tú eres Dios, ¡sólo tú puedes protegernos!",
+      "verse": 31,
+      "start_ms": 176262,
+      "end_ms": 181212,
+      "duration_ms": 4950
+    },
+    {
+      "word": "Sólo tú me llenas de valor y me guías por el buen camino!",
+      "verse": 32,
+      "start_ms": 181212,
+      "end_ms": 184874,
+      "duration_ms": 3662
+    },
+    {
+      "word": "Tú me das fuerzas para correr con la velocidad de un venado!",
+      "verse": 33,
+      "start_ms": 184875,
+      "end_ms": 188637,
+      "duration_ms": 3762
+    },
+    {
+      "word": "Cuando ando por las altas montañas, tú no me dejas caer.",
+      "verse": 33,
+      "start_ms": 188637,
+      "end_ms": 192787,
+      "duration_ms": 4150
+    },
+    {
+      "word": "Tú me enseñas a enfrentarme a mis enemigos; tú me das valor para vencerlos.",
+      "verse": 34,
+      "start_ms": 192787,
+      "end_ms": 197799,
+      "duration_ms": 5012
+    },
+    {
+      "word": "Tú me das tu protección; me salvas con tu gran poder y me concedes la victoria.",
+      "verse": 35,
+      "start_ms": 197800,
+      "end_ms": 202925,
+      "duration_ms": 5125
+    },
+    {
+      "word": "Me despejas el camino para que no tenga yo tropiezos.",
+      "verse": 36,
+      "start_ms": 202925,
+      "end_ms": 206750,
+      "duration_ms": 3825
+    },
+    {
+      "word": "Perseguí a mis enemigos y los alcancé, y no volví hasta haberlos destruido.",
+      "verse": 37,
+      "start_ms": 206750,
+      "end_ms": 211962,
+      "duration_ms": 5212
+    },
+    {
+      "word": "Los derroté por completo; ¡los aplasté bajo mis pies, y no volvieron a levantarse!",
+      "verse": 38,
+      "start_ms": 211962,
+      "end_ms": 217662,
+      "duration_ms": 5700
+    },
+    {
+      "word": "Tú me llenaste de valor para entrar en combate; tú hiciste que los rebeldes cayeran derrotados a mis pies.",
+      "verse": 39,
+      "start_ms": 217662,
+      "end_ms": 224087,
+      "duration_ms": 6425
+    },
+    {
+      "word": "Me hiciste vencer a mis enemigos, y acabé con los que me odiaban.",
+      "verse": 40,
+      "start_ms": 224087,
+      "end_ms": 228524,
+      "duration_ms": 4437
+    },
+    {
+      "word": "A gritos pedían ayuda, pero nadie fue a salvarlos.",
+      "verse": 41,
+      "start_ms": 228525,
+      "end_ms": 232675,
+      "duration_ms": 4150
+    },
+    {
+      "word": "Hasta de ti pedían ayuda, pero tampoco tú los salvaste.",
+      "verse": 41,
+      "start_ms": 232675,
+      "end_ms": 236837,
+      "duration_ms": 4162
+    },
+    {
+      "word": "Los deshice por completo: ¡quedaron como el polvo que se lleva el viento!",
+      "verse": 42,
+      "start_ms": 236837,
+      "end_ms": 241324,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Me di gusto aplastándolos como al lodo de la calle!",
+      "verse": 42,
+      "start_ms": 241325,
+      "end_ms": 244875,
+      "duration_ms": 3550
+    },
+    {
+      "word": "Dios mío, tú me libras de la gente que anda buscando pelea; me hiciste jefe de naciones, y gente extraña que yo no conocía ahora está dispuesta a servirme.",
+      "verse": 43,
+      "start_ms": 244875,
+      "end_ms": 254500,
+      "duration_ms": 9625
+    },
+    {
+      "word": "Tan pronto esos extranjeros me oyen, se desaniman por completo y temblando salen de sus escondites dispuestos a obedecerme.",
+      "verse": 43,
+      "start_ms": 254500,
+      "end_ms": 261887,
+      "duration_ms": 7387
+    },
+    {
+      "word": "Bendito seas, mi Dios, tú que vives y me proteges!",
+      "verse": 46,
+      "start_ms": 261887,
+      "end_ms": 266324,
+      "duration_ms": 4437
+    },
+    {
+      "word": "Alabado seas, mi Dios y",
+      "verse": 46,
+      "start_ms": 266325,
+      "end_ms": 269175,
+      "duration_ms": 2850
+    },
+    {
+      "word": "Salvador!",
+      "verse": 46,
+      "start_ms": 269332,
+      "end_ms": 270994,
+      "duration_ms": 1662
+    },
+    {
+      "word": "Tú me permitiste vengarme de mis enemigos!",
+      "verse": 47,
+      "start_ms": 270944,
+      "end_ms": 274094,
+      "duration_ms": 3150
+    },
+    {
+      "word": "Tú pusiste a los pueblos bajo mi dominio!",
+      "verse": 47,
+      "start_ms": 274094,
+      "end_ms": 277044,
+      "duration_ms": 2950
+    },
+    {
+      "word": "Tú me pusiste a salvo de la furia de mis enemigos.",
+      "verse": 48,
+      "start_ms": 277044,
+      "end_ms": 280694,
+      "duration_ms": 3650
+    },
+    {
+      "word": "Me pusiste por encima de mis adversarios, y me libraste de gente violenta.",
+      "verse": 48,
+      "start_ms": 280694,
+      "end_ms": 285794,
+      "duration_ms": 5100
+    },
+    {
+      "word": "Por eso, Dios mío, yo te alabo y te canto himnos en medio de las naciones.",
+      "verse": 49,
+      "start_ms": 285794,
+      "end_ms": 291381,
+      "duration_ms": 5587
+    },
+    {
+      "word": "Tú siempre le das la victoria al rey que pusiste sobre Israel.",
+      "verse": 50,
+      "start_ms": 291382,
+      "end_ms": 295544,
+      "duration_ms": 4162
+    },
+    {
+      "word": "Tú siempre les muestras tu amor a David y a sus herederos.",
+      "verse": 50,
+      "start_ms": 295544,
+      "end_ms": 299369,
+      "duration_ms": 3825
+    }
+  ]
+}

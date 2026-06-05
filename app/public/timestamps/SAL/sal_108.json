@@ -1,0 +1,229 @@
+{
+  "book": "SAL",
+  "chapter": 108,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 13,
+  "word_count": 18,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 55,
+      "text": "Dios mío, mi corazón está dispuesto a cantarte himnos."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 55,
+      "char_end": 134,
+      "text": "¡Voy a despertarme! ¡Despertaré al arpa y a la lira! ¡Despertaré al nuevo día!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 134,
+      "char_end": 215,
+      "text": "Dios mío, yo te alabaré entre los pueblos; te cantaré himnos entre las naciones."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 215,
+      "char_end": 277,
+      "text": "Tan grande y constante es tu amor que llega hasta los cielos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 277,
+      "char_end": 357,
+      "text": "Tú, mi Dios, sobrepasas los cielos; ¡eres tan grande que cubres toda la tierra!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 357,
+      "char_end": 463,
+      "text": "Nosotros te somos fieles: ¡respóndenos! ¡Sálvanos con tu poder! Así este pueblo que amas quedará a salvo."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 463,
+      "char_end": 587,
+      "text": "Desde tu templo has declarado: Cuando yo triunfe, repartiré entre mi pueblo las tierras de Siquem y las del valle de Sucot."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 587,
+      "char_end": 708,
+      "text": "Las tierras de Galaad son mías; al norte están las tribus de José para proteger a mi pueblo, y en Judá he puesto al rey."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 708,
+      "char_end": 811,
+      "text": "Los de Moab son mis esclavos, Edom es mi propiedad, y en territorio filisteo lanzo gritos de victoria."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 811,
+      "char_end": 913,
+      "text": "¿Quién quiere llevarme hasta la ciudad con muros? ¿Quién quiere enseñarme el camino que lleva a Edom?"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 913,
+      "char_end": 1011,
+      "text": "¡Tú, Dios mío, te has alejado de nosotros y ya no sales a pelear al frente de nuestros ejércitos!"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1011,
+      "char_end": 1074,
+      "text": "La ayuda humana resulta inútil; ¡ayúdanos a vencer al enemigo!"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1074,
+      "char_end": 1142,
+      "text": "Dios nuestro, tú los vencerás; ¡con tu ayuda saldremos victoriosos!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios mío, mi corazón está dispuesto a cantarte himnos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4437,
+      "duration_ms": 4337
+    },
+    {
+      "word": "Voy a despertarme!",
+      "verse": 2,
+      "start_ms": 4387,
+      "end_ms": 6387,
+      "duration_ms": 2000
+    },
+    {
+      "word": "Despertaré al arpa y a la lira!",
+      "verse": 2,
+      "start_ms": 6387,
+      "end_ms": 8949,
+      "duration_ms": 2562
+    },
+    {
+      "word": "Despertaré al nuevo día!",
+      "verse": 2,
+      "start_ms": 8950,
+      "end_ms": 11275,
+      "duration_ms": 2325
+    },
+    {
+      "word": "Dios mío, yo te alabaré entre los pueblos; te cantaré himnos entre las naciones.",
+      "verse": 3,
+      "start_ms": 11275,
+      "end_ms": 17212,
+      "duration_ms": 5937
+    },
+    {
+      "word": "Tan grande y constante es tu amor que llega hasta los cielos.",
+      "verse": 4,
+      "start_ms": 17212,
+      "end_ms": 21337,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Tú, mi Dios, sobrepasas los cielos; ¡eres tan grande que cubres toda la tierra!",
+      "verse": 5,
+      "start_ms": 21337,
+      "end_ms": 27237,
+      "duration_ms": 5900
+    },
+    {
+      "word": "Nosotros te somos fieles: ¡respóndenos!",
+      "verse": 6,
+      "start_ms": 27237,
+      "end_ms": 30812,
+      "duration_ms": 3575
+    },
+    {
+      "word": "Sálvanos con tu poder!",
+      "verse": 6,
+      "start_ms": 30812,
+      "end_ms": 33062,
+      "duration_ms": 2250
+    },
+    {
+      "word": "Así este pueblo que amas quedará a salvo.",
+      "verse": 6,
+      "start_ms": 33062,
+      "end_ms": 36187,
+      "duration_ms": 3125
+    },
+    {
+      "word": "Desde tu templo has declarado: Cuando yo triunfe, repartiré entre mi pueblo las tierras de Siquem y las del valle de Sucot.",
+      "verse": 7,
+      "start_ms": 36187,
+      "end_ms": 43637,
+      "duration_ms": 7450
+    },
+    {
+      "word": "Las tierras de Galaad son mías; al norte están las tribus de José para proteger a mi pueblo, y en Judá he puesto al rey.",
+      "verse": 8,
+      "start_ms": 43637,
+      "end_ms": 50937,
+      "duration_ms": 7300
+    },
+    {
+      "word": "Los de Moab son mis esclavos, Edom es mi propiedad, y en territorio filisteo lanzo gritos de victoria.",
+      "verse": 9,
+      "start_ms": 50937,
+      "end_ms": 57912,
+      "duration_ms": 6975
+    },
+    {
+      "word": "Quién quiere llevarme hasta la ciudad con muros?",
+      "verse": 10,
+      "start_ms": 57912,
+      "end_ms": 61137,
+      "duration_ms": 3225
+    },
+    {
+      "word": "Quién quiere enseñarme el camino que lleva a Edom?",
+      "verse": 10,
+      "start_ms": 61137,
+      "end_ms": 64299,
+      "duration_ms": 3162
+    },
+    {
+      "word": "Tú, Dios mío, te has alejado de nosotros y ya no sales a pelear al frente de nuestros ejércitos!",
+      "verse": 11,
+      "start_ms": 64300,
+      "end_ms": 70925,
+      "duration_ms": 6625
+    },
+    {
+      "word": "La ayuda humana resulta inútil; ¡ayúdanos a vencer al enemigo!",
+      "verse": 12,
+      "start_ms": 70925,
+      "end_ms": 75575,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Dios nuestro, tú los vencerás; ¡con tu ayuda saldremos victoriosos!",
+      "verse": 13,
+      "start_ms": 75575,
+      "end_ms": 80687,
+      "duration_ms": 5112
+    }
+  ]
+}

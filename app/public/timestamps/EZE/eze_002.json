@@ -1,0 +1,152 @@
+{
+  "book": "EZE",
+  "chapter": 2,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 6,
+  "word_count": 14,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 102,
+      "text": "Era la voz de Dios, y oí que me decía: Ezequiel, hombre mortal, levántate, que quiero hablar contigo."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 102,
+      "char_end": 208,
+      "text": "En ese momento sentí que algo dentro de mí me hacía levantarme, y pude oír que Dios me daba este encargo:"
+    },
+    {
+      "verse": 3,
+      "label": "3-4",
+      "char_start": 208,
+      "char_end": 539,
+      "text": "Tú, Ezequiel, llevarás de mi parte un mensaje a los israelitas. Son un pueblo muy desobediente, se parecen a las naciones que no confían en mí. Tanto sus antepasados como ellos y sus hijos son muy rebeldes, necios e incorregibles. Hasta el día de hoy son así. Voy a enviarte a ellos, para que les digas lo que yo quiero que hagan."
+    },
+    {
+      "verse": 5,
+      "label": "5-8",
+      "char_start": 539,
+      "char_end": 1036,
+      "text": "Es muy posible que no te hagan caso, pues son muy rebeldes; pero no te preocupes. Lo importante es que se den cuenta de que no les ha faltado quien les hable de mi parte. Y aunque te parezca que estás rodeado de espinas o en medio de alacranes, tú no les tengas miedo ni te espantes por lo que te digan, ni por la cara que te pongan. Ellos son muy rebeldes, pero tú no seas como ellos. Al contrario, obedece siempre todo lo que yo te ordene. Para empezar, abre la boca y come lo que te voy a dar."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1036,
+      "char_end": 1123,
+      "text": "Entonces vi una mano que tenía un librito; esa mano se extendió hacia donde yo estaba,"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1123,
+      "char_end": 1249,
+      "text": "y comenzó a abrir ese librito delante de mis ojos. Y pude ver que el libro contenía mensajes de luto, de dolor y de tristeza."
+    }
+  ],
+  "words": [
+    {
+      "word": "Era la voz de Dios, y oí que me decía: Ezequiel, hombre mortal, levántate, que quiero hablar contigo.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7362,
+      "duration_ms": 7262
+    },
+    {
+      "word": "En ese momento sentí que algo dentro de mí me hacía levantarme, y pude oír que Dios me daba este encargo: Tú, Ezequiel, llevarás de mi parte un mensaje a los israelitas.",
+      "verse": 2,
+      "start_ms": 7312,
+      "end_ms": 17812,
+      "duration_ms": 10500
+    },
+    {
+      "word": "Son un pueblo muy desobediente, se parecen a las naciones que no confían en mí.",
+      "verse": 3,
+      "start_ms": 17812,
+      "end_ms": 23099,
+      "duration_ms": 5287
+    },
+    {
+      "word": "Tanto sus antepasados como ellos y sus hijos son muy rebeldes, necios e incorregibles.",
+      "verse": 3,
+      "start_ms": 23100,
+      "end_ms": 29075,
+      "duration_ms": 5975
+    },
+    {
+      "word": "Hasta el día de hoy son así.",
+      "verse": 3,
+      "start_ms": 29075,
+      "end_ms": 31500,
+      "duration_ms": 2425
+    },
+    {
+      "word": "Voy a enviarte a ellos, para que les digas lo que yo quiero que hagan.",
+      "verse": 3,
+      "start_ms": 31500,
+      "end_ms": 36000,
+      "duration_ms": 4500
+    },
+    {
+      "word": "Es muy posible que no te hagan caso, pues son muy rebeldes; pero no te preocupes.",
+      "verse": 5,
+      "start_ms": 36000,
+      "end_ms": 41787,
+      "duration_ms": 5787
+    },
+    {
+      "word": "Lo importante es que se den cuenta de que no les ha faltado quien les hable de mi parte.",
+      "verse": 5,
+      "start_ms": 41787,
+      "end_ms": 46774,
+      "duration_ms": 4987
+    },
+    {
+      "word": "Y aunque te parezca que estás rodeado de espinas o en medio de alacranes, tú no les tengas miedo ni te espantes por lo que te digan, ni por la cara que te pongan.",
+      "verse": 5,
+      "start_ms": 46775,
+      "end_ms": 55687,
+      "duration_ms": 8912
+    },
+    {
+      "word": "Ellos son muy rebeldes, pero tú no seas como ellos.",
+      "verse": 5,
+      "start_ms": 55687,
+      "end_ms": 59862,
+      "duration_ms": 4175
+    },
+    {
+      "word": "Al contrario, obedece siempre todo lo que yo te ordene.",
+      "verse": 5,
+      "start_ms": 59862,
+      "end_ms": 64024,
+      "duration_ms": 4162
+    },
+    {
+      "word": "Para empezar, abre la boca y come lo que te voy a dar.",
+      "verse": 5,
+      "start_ms": 64025,
+      "end_ms": 67887,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Entonces vi una mano que tenía un librito; esa mano se extendió hacia donde yo estaba, y comenzó a abrir ese librito delante de mis ojos.",
+      "verse": 9,
+      "start_ms": 67887,
+      "end_ms": 76474,
+      "duration_ms": 8587
+    },
+    {
+      "word": "Y pude ver que el libro contenía mensajes de luto, de dolor y de tristeza.",
+      "verse": 10,
+      "start_ms": 76475,
+      "end_ms": 81537,
+      "duration_ms": 5062
+    }
+  ]
+}

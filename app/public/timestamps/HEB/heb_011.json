@@ -1,0 +1,782 @@
+{
+  "book": "HEB",
+  "chapter": 11,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 40,
+  "word_count": 70,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 150,
+      "text": "Confiar en Dios es estar totalmente seguro de que uno va a recibir lo que espera. Es estar convencido de que algo existe, aun cuando no se pueda ver."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 150,
+      "char_end": 215,
+      "text": "Dios aceptó a nuestros antepasados porque ellos confiaron en él."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 215,
+      "char_end": 344,
+      "text": "Y nosotros creemos que Dios creó el universo con una sola orden suya. Lo que ahora vemos fue hecho de cosas que no podían verse."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 344,
+      "char_end": 586,
+      "text": "Abel confió en Dios, y por eso le ofreció un sacrificio mejor que el de Caín. Por eso Dios consideró que Abel era justo, y aceptó sus ofrendas. Y aunque Abel ya está muerto, todavía podemos aprender mucho de la confianza que él tuvo en Dios."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 586,
+      "char_end": 790,
+      "text": "Henoc confió en Dios y, por eso, en vez de morir, Dios se lo llevó de este mundo y nadie volvió a encontrarlo. La Biblia dice que, antes de que Henoc fuera llevado, fue obediente, y eso le agradó a Dios."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 790,
+      "char_end": 941,
+      "text": "Porque a Dios no le gusta que no confiemos en él. Para ser amigos de Dios, hay que creer que él existe y que sabe premiar a los que buscan su amistad."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 941,
+      "char_end": 1290,
+      "text": "Noé confió en Dios y, por eso, cuando Dios le avisó que sucederían cosas que todavía no podían verse, obedeció y construyó una casa flotante para salvar a su familia. Por su confianza en Dios, Noé recibió las bendiciones que Dios da a todos los que lo obedecen. También por su confianza en Dios, Noé hizo que la gente de este mundo fuera condenada."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1290,
+      "char_end": 1447,
+      "text": "Abraham confió en Dios, y por eso obedeció cuando Dios le ordenó que saliera de su tierra para ir al país que le daría, aun cuando no sabía hacia dónde iba."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1447,
+      "char_end": 1652,
+      "text": "Abraham confió tanto en Dios que vivió como un extranjero en el país que Dios le había prometido. Vivió en tiendas de campaña, igual que Isaac y Jacob, a quienes Dios también les había prometido ese país."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1652,
+      "char_end": 1759,
+      "text": "Abraham confiaba en que algún día vería la ciudad que Dios había planeado y construido sobre bases firmes."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1759,
+      "char_end": 1958,
+      "text": "Abraham confió en Dios y, por eso, aunque su esposa Sara no podía tener hijos y él era ya muy viejo, Dios le dio fuerzas para tener un hijo. Y es que Abraham confió en que Dios cumpliría su promesa."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1958,
+      "char_end": 2132,
+      "text": "Por eso Abraham, aun cuando ya iba a morir, pudo tener tantos descendientes como las estrellas del cielo y como la arena que hay a la orilla del mar. ¡Nadie puede contarlos!"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 2132,
+      "char_end": 2382,
+      "text": "Todas las personas que hemos mencionado murieron sin recibir las cosas que Dios les había prometido. Pero como ellos confiaban en Dios, las vieron desde lejos y se alegraron, pues sabían que en este mundo ellos estaban de paso, como los extranjeros."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 2382,
+      "char_end": 2463,
+      "text": "Queda claro, entonces, que quienes reconocen esto todavía buscan un país propio,"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2463,
+      "char_end": 2569,
+      "text": "y que no están pensando en volver al país de donde salieron, pues de otra manera hubieran regresado allá."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2569,
+      "char_end": 2708,
+      "text": "Lo que desean es tener un país mejor en el cielo. Por eso Dios les ha preparado una ciudad, y no tiene vergüenza de que le llamen su Dios."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2708,
+      "char_end": 2890,
+      "text": "Abraham confió en Dios cuando Dios quiso probar si él lo obedecería o no. Por eso Abraham tomó a su hijo Isaac para ofrecerlo como sacrificio. No le importó que fuera su único hijo,"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2890,
+      "char_end": 2976,
+      "text": "ni que Dios le hubiera prometido que por medio de Isaac tendría muchos descendientes."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2976,
+      "char_end": 3162,
+      "text": "Abraham sabía que Dios tiene poder para hacer que los muertos vuelvan a vivir. Esa confianza hizo que Abraham no tuviera que matar a su hijo; y fue como si Isaac hubiera vuelto a vivir."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 3162,
+      "char_end": 3261,
+      "text": "Isaac confió en Dios, y por eso les prometió a sus hijos Jacob y Esaú que Dios los iba a bendecir."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 3261,
+      "char_end": 3441,
+      "text": "Jacob confió en Dios y, por eso, cuando ya estaba por morir, les prometió a los hijos de José que Dios los iba a bendecir. Luego, se apoyó en la punta de su bastón y adoró a Dios."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3441,
+      "char_end": 3613,
+      "text": "José confió en Dios y, por eso, poco antes de morir, anunció que los israelitas saldrían libres de Egipto, y dejó instrucciones para que supieran qué hacer con sus huesos."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3613,
+      "char_end": 3892,
+      "text": "Los padres de Moisés confiaron en Dios y, por eso, cuando Moisés nació, lo escondieron durante tres meses. El rey de Egipto había ordenado que se matara a todos los niños israelitas, pero ellos vieron que Moisés era un niño hermoso y no tuvieron miedo, porque confiaban en Dios."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3892,
+      "char_end": 4005,
+      "text": "Moisés confió en Dios y, por eso, cuando ya fue hombre, no quiso seguir siendo hijo adoptivo de la hija del rey."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 4005,
+      "char_end": 4165,
+      "text": "No quiso disfrutar de lo que podía hacer y tener como egipcio, pues era pecado. Prefirió que los egipcios lo maltrataran, como lo hacían con el pueblo de Dios."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 4165,
+      "char_end": 4326,
+      "text": "En vez de disfrutar de las riquezas de Egipto, Moisés decidió que era mejor sufrir, como también iba a sufrir el Mesías, pues sabía que Dios le daría su premio."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 4326,
+      "char_end": 4479,
+      "text": "Moisés confió en Dios y, por eso no le tuvo miedo al rey ni se rindió nunca. Salio de Egipto, y actuó como si estuviera viendo a Dios, que es invisible."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 4479,
+      "char_end": 4694,
+      "text": "Moisés confió en Dios, y por eso celebró la Pascua. También mandó rociar con sangre las puertas de las casas israelitas. Así, el ángel enviado a matar no le hizo daño a ningún hijo mayor de las familias israelitas."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 4694,
+      "char_end": 4872,
+      "text": "Los israelitas confiaron en Dios, y por eso cruzaron el Mar de los Juncos como si caminaran sobre tierra seca. Pero cuando los egipcios quisieron pasar, todos ellos se ahogaron."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4872,
+      "char_end": 5029,
+      "text": "Los israelitas confiaron en Dios y, por eso, cuando marcharon alrededor de la ciudad de Jericó durante siete días, los muros de la ciudad se vinieron abajo."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 5029,
+      "char_end": 5176,
+      "text": "Rahab, la prostituta, confió en Dios y trató bien a los espías de Israel. Por eso no murió junto con los que habían desobedecido a Dios en Jericó."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 5176,
+      "char_end": 5349,
+      "text": "¿Qué más les puedo decir? No me alcanzaría el tiempo para hablarles de la confianza en Dios de Gedeón, de Barac, de Sansón, de Jefté, de David, de Samuel y de los profetas."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 5349,
+      "char_end": 5508,
+      "text": "Ellos confiaron en Dios, y por eso conquistaron países; y como actuaron con justicia, recibieron lo que Dios les había prometido. Cerraron la boca de leones y"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 5508,
+      "char_end": 5700,
+      "text": "apagaron grandes incendios. Escaparon de que los mataran con espada, recibieron fuerzas cuando más débiles estaban, y en la guerra fueron tan poderosos que vencieron a los ejércitos enemigos."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 5700,
+      "char_end": 5982,
+      "text": "Algunas mujeres confiaron en Dios, y por eso Dios hizo que sus familiares muertos volvieran a vivir. Algunos confiaron tanto en Dios que no quisieron que los dejaran en libertad. Al contrario, dejaron que los mataran, porque sabían que volverían a vivir y así estarían mucho mejor."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 5982,
+      "char_end": 6060,
+      "text": "Mucha gente se burló de ellos y los maltrató, y hasta los metió en la cárcel."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 6060,
+      "char_end": 6296,
+      "text": "A otros los mataron a pedradas, los partieron en dos con una sierra, o los mataron con espada. Algunos anduvieron de un lugar a otro con ropas hechas de piel de oveja o de cabra. Eran pobres, estaban tristes, y habían sido maltratados."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 6296,
+      "char_end": 6460,
+      "text": "La gente de este mundo no merecía personas tan buenas, que anduvieron sin rumbo fijo por el desierto, por las montañas, por las cuevas y las cavernas de la tierra."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 6460,
+      "char_end": 6588,
+      "text": "Dios estaba contento con todas estas personas, pues confiaron en él. Pero ninguna de ellas recibió lo que Dios había prometido."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 6588,
+      "char_end": 6767,
+      "text": "Y es que Dios tenía un plan mucho mejor, para que nosotros también recibiéramos lo prometido. Dios sólo hará perfectas a esas personas cuando nos haya hecho perfectos a nosotros."
+    }
+  ],
+  "words": [
+    {
+      "word": "Confiar en Dios es estar totalmente seguro de que uno va a recibir lo que espera.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5187,
+      "duration_ms": 5087
+    },
+    {
+      "word": "Es estar convencido de que algo existe, aun cuando no se pueda ver.",
+      "verse": 1,
+      "start_ms": 5137,
+      "end_ms": 9812,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Dios aceptó a nuestros antepasados porque ellos confiaron en él.",
+      "verse": 2,
+      "start_ms": 9812,
+      "end_ms": 14162,
+      "duration_ms": 4350
+    },
+    {
+      "word": "Y nosotros creemos que Dios creó el universo con una sola orden suya.",
+      "verse": 3,
+      "start_ms": 14162,
+      "end_ms": 19024,
+      "duration_ms": 4862
+    },
+    {
+      "word": "Lo que ahora vemos fue hecho de cosas que no podían verse.",
+      "verse": 3,
+      "start_ms": 19025,
+      "end_ms": 22900,
+      "duration_ms": 3875
+    },
+    {
+      "word": "Abel confió en Dios, y por eso le ofreció un sacrificio mejor que el de Caín.",
+      "verse": 4,
+      "start_ms": 22900,
+      "end_ms": 28050,
+      "duration_ms": 5150
+    },
+    {
+      "word": "Por eso Dios consideró que Abel era justo, y aceptó sus ofrendas.",
+      "verse": 4,
+      "start_ms": 28050,
+      "end_ms": 32875,
+      "duration_ms": 4825
+    },
+    {
+      "word": "Y aunque Abel ya está muerto, todavía podemos aprender mucho de la confianza que él tuvo en Dios.",
+      "verse": 4,
+      "start_ms": 32875,
+      "end_ms": 38975,
+      "duration_ms": 6100
+    },
+    {
+      "word": "Henoc confió en Dios y, por eso, en vez de morir, Dios se lo llevó de este mundo y nadie volvió a encontrarlo.",
+      "verse": 5,
+      "start_ms": 38975,
+      "end_ms": 46325,
+      "duration_ms": 7350
+    },
+    {
+      "word": "La Biblia dice que, antes de que Henoc fuera llevado, fue obediente, y eso le agradó a Dios.",
+      "verse": 5,
+      "start_ms": 46325,
+      "end_ms": 52850,
+      "duration_ms": 6525
+    },
+    {
+      "word": "Porque a Dios no le gusta que no confiemos en él.",
+      "verse": 6,
+      "start_ms": 52850,
+      "end_ms": 56125,
+      "duration_ms": 3275
+    },
+    {
+      "word": "Para ser amigos de Dios, hay que creer que él existe y que sabe premiar a los que buscan su amistad.",
+      "verse": 6,
+      "start_ms": 56125,
+      "end_ms": 62337,
+      "duration_ms": 6212
+    },
+    {
+      "word": "Noé confió en Dios y, por eso, cuando Dios le avisó que sucederían cosas que todavía no podían verse, obedeció y construyó una casa flotante para salvar a su familia.",
+      "verse": 7,
+      "start_ms": 62337,
+      "end_ms": 72787,
+      "duration_ms": 10450
+    },
+    {
+      "word": "Por su confianza en Dios, Noé recibió las bendiciones que Dios da a todos los que lo obedecen.",
+      "verse": 7,
+      "start_ms": 72787,
+      "end_ms": 78812,
+      "duration_ms": 6025
+    },
+    {
+      "word": "También por su confianza en Dios, Noé hizo que la gente de este mundo fuera condenada.",
+      "verse": 7,
+      "start_ms": 78812,
+      "end_ms": 84512,
+      "duration_ms": 5700
+    },
+    {
+      "word": "Abraham confió en Dios, y por eso obedeció cuando Dios le ordenó que saliera de su tierra para ir al país que le daría, aun cuando no sabía hacia dónde iba.",
+      "verse": 8,
+      "start_ms": 84512,
+      "end_ms": 93687,
+      "duration_ms": 9175
+    },
+    {
+      "word": "Abraham confió tanto en Dios que vivió como un extranjero en el país que Dios le había prometido.",
+      "verse": 9,
+      "start_ms": 93687,
+      "end_ms": 99587,
+      "duration_ms": 5900
+    },
+    {
+      "word": "Vivió en tiendas de campaña, igual que Isaac y Jacob, a quienes Dios también les había prometido ese país.",
+      "verse": 9,
+      "start_ms": 99587,
+      "end_ms": 106699,
+      "duration_ms": 7112
+    },
+    {
+      "word": "Abraham confiaba en que algún día vería la ciudad que Dios había planeado y construido sobre bases firmes.",
+      "verse": 10,
+      "start_ms": 106700,
+      "end_ms": 113225,
+      "duration_ms": 6525
+    },
+    {
+      "word": "Abraham confió en Dios y, por eso, aunque su esposa Sara no podía tener hijos y él era ya muy viejo, Dios le dio fuerzas para tener un hijo.",
+      "verse": 11,
+      "start_ms": 113225,
+      "end_ms": 122212,
+      "duration_ms": 8987
+    },
+    {
+      "word": "Y es que Abraham confió en que Dios cumpliría su promesa.",
+      "verse": 11,
+      "start_ms": 122212,
+      "end_ms": 126087,
+      "duration_ms": 3875
+    },
+    {
+      "word": "Por eso Abraham, aun cuando ya iba a morir, pudo tener tantos descendientes como las estrellas del cielo y como la arena que hay a la orilla del mar. ¡Nadie puede contarlos!",
+      "verse": 12,
+      "start_ms": 126087,
+      "end_ms": 135987,
+      "duration_ms": 9900
+    },
+    {
+      "word": "Todas las personas que hemos mencionado murieron sin recibir las cosas que Dios les había prometido.",
+      "verse": 13,
+      "start_ms": 135987,
+      "end_ms": 141849,
+      "duration_ms": 5862
+    },
+    {
+      "word": "Pero como ellos confiaban en Dios, las vieron desde lejos y se alegraron, pues sabían que en este mundo ellos estaban de paso, como los extranjeros.",
+      "verse": 13,
+      "start_ms": 141850,
+      "end_ms": 150937,
+      "duration_ms": 9087
+    },
+    {
+      "word": "Queda claro, entonces, que quienes reconocen esto todavía buscan un país propio, y que no están pensando en volver al país de donde salieron, pues de otra manera hubieran regresado allá.",
+      "verse": 14,
+      "start_ms": 150937,
+      "end_ms": 161824,
+      "duration_ms": 10887
+    },
+    {
+      "word": "Lo que desean es tener un país mejor en el cielo.",
+      "verse": 16,
+      "start_ms": 161825,
+      "end_ms": 165287,
+      "duration_ms": 3462
+    },
+    {
+      "word": "Por eso Dios les ha preparado una ciudad, y no tiene vergüenza de que le llamen su Dios.",
+      "verse": 16,
+      "start_ms": 165287,
+      "end_ms": 170762,
+      "duration_ms": 5475
+    },
+    {
+      "word": "Abraham confió en Dios cuando Dios quiso probar si él lo obedecería o no.",
+      "verse": 17,
+      "start_ms": 170762,
+      "end_ms": 175562,
+      "duration_ms": 4800
+    },
+    {
+      "word": "Por eso Abraham tomó a su hijo Isaac para ofrecerlo como sacrificio.",
+      "verse": 17,
+      "start_ms": 175562,
+      "end_ms": 179974,
+      "duration_ms": 4412
+    },
+    {
+      "word": "No le importó que fuera su único hijo, ni que Dios le hubiera prometido que por medio de Isaac tendría muchos descendientes.",
+      "verse": 17,
+      "start_ms": 179975,
+      "end_ms": 187300,
+      "duration_ms": 7325
+    },
+    {
+      "word": "Abraham sabía que Dios tiene poder para hacer que los muertos vuelvan a vivir.",
+      "verse": 19,
+      "start_ms": 187300,
+      "end_ms": 192075,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Esa confianza hizo que Abraham no tuviera que matar a su hijo; y fue como si Isaac hubiera vuelto a vivir.",
+      "verse": 19,
+      "start_ms": 192075,
+      "end_ms": 198475,
+      "duration_ms": 6400
+    },
+    {
+      "word": "Isaac confió en Dios, y por eso les prometió a sus hijos Jacob y Esaú que Dios los iba a bendecir.",
+      "verse": 20,
+      "start_ms": 198475,
+      "end_ms": 205062,
+      "duration_ms": 6587
+    },
+    {
+      "word": "Jacob confió en Dios y, por eso, cuando ya estaba por morir, les prometió a los hijos de José que Dios los iba a bendecir.",
+      "verse": 21,
+      "start_ms": 205062,
+      "end_ms": 212987,
+      "duration_ms": 7925
+    },
+    {
+      "word": "Luego, se apoyó en la punta de su bastón y adoró a Dios.",
+      "verse": 21,
+      "start_ms": 212987,
+      "end_ms": 217174,
+      "duration_ms": 4187
+    },
+    {
+      "word": "José confió en Dios y, por eso, poco antes de morir, anunció que los israelitas saldrían libres de Egipto, y dejó instrucciones para que supieran qué hacer con sus huesos.",
+      "verse": 22,
+      "start_ms": 217175,
+      "end_ms": 227650,
+      "duration_ms": 10475
+    },
+    {
+      "word": "Los padres de Moisés confiaron en Dios y, por eso, cuando Moisés nació, lo escondieron durante tres meses.",
+      "verse": 23,
+      "start_ms": 227650,
+      "end_ms": 234862,
+      "duration_ms": 7212
+    },
+    {
+      "word": "El rey de Egipto había ordenado que se matara a todos los niños israelitas, pero ellos vieron que Moisés era un niño hermoso y no tuvieron miedo, porque confiaban en Dios.",
+      "verse": 23,
+      "start_ms": 234862,
+      "end_ms": 244749,
+      "duration_ms": 9887
+    },
+    {
+      "word": "Moisés confió en Dios y, por eso, cuando ya fue hombre, no quiso seguir siendo hijo adoptivo de la hija",
+      "verse": 24,
+      "start_ms": 244750,
+      "end_ms": 251912,
+      "duration_ms": 7162
+    },
+    {
+      "word": "del rey.",
+      "verse": 24,
+      "start_ms": 252076,
+      "end_ms": 253613,
+      "duration_ms": 1537
+    },
+    {
+      "word": "No quiso disfrutar de lo que podía hacer y tener como egipcio, pues era pecado.",
+      "verse": 25,
+      "start_ms": 253563,
+      "end_ms": 258750,
+      "duration_ms": 5187
+    },
+    {
+      "word": "Prefirió que los egipcios lo maltrataran, como lo hacían con el pueblo de Dios.",
+      "verse": 25,
+      "start_ms": 258751,
+      "end_ms": 263838,
+      "duration_ms": 5087
+    },
+    {
+      "word": "En vez de disfrutar de las riquezas de Egipto, Moisés decidió que era mejor sufrir, como también iba a sufrir el Mesías, pues sabía que Dios le daría su premio.",
+      "verse": 26,
+      "start_ms": 263838,
+      "end_ms": 273500,
+      "duration_ms": 9662
+    },
+    {
+      "word": "Moisés confió en Dios y, por eso no le tuvo miedo al rey ni se rindió nunca.",
+      "verse": 27,
+      "start_ms": 273501,
+      "end_ms": 278751,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Salio de Egipto, y actuó como si estuviera viendo a Dios, que es invisible.",
+      "verse": 27,
+      "start_ms": 278751,
+      "end_ms": 284051,
+      "duration_ms": 5300
+    },
+    {
+      "word": "Moisés confió en Dios, y por eso celebró la Pascua.",
+      "verse": 28,
+      "start_ms": 284051,
+      "end_ms": 287976,
+      "duration_ms": 3925
+    },
+    {
+      "word": "También mandó rociar con sangre las puertas de las casas israelitas.",
+      "verse": 28,
+      "start_ms": 287976,
+      "end_ms": 292601,
+      "duration_ms": 4625
+    },
+    {
+      "word": "Así, el ángel enviado a matar no le hizo daño a ningún hijo mayor de las familias israelitas.",
+      "verse": 28,
+      "start_ms": 292601,
+      "end_ms": 298951,
+      "duration_ms": 6350
+    },
+    {
+      "word": "Los israelitas confiaron en Dios, y por eso cruzaron el Mar de los Juncos como si caminaran sobre tierra seca.",
+      "verse": 29,
+      "start_ms": 298951,
+      "end_ms": 305826,
+      "duration_ms": 6875
+    },
+    {
+      "word": "Pero cuando los egipcios quisieron pasar, todos ellos se ahogaron.",
+      "verse": 29,
+      "start_ms": 305826,
+      "end_ms": 310138,
+      "duration_ms": 4312
+    },
+    {
+      "word": "Los israelitas confiaron en Dios y, por eso, cuando marcharon alrededor de la ciudad de Jericó durante siete días, los muros de la ciudad se vinieron abajo.",
+      "verse": 30,
+      "start_ms": 310138,
+      "end_ms": 319725,
+      "duration_ms": 9587
+    },
+    {
+      "word": "Rahab, la prostituta, confió en Dios y trató bien a los espías de Israel.",
+      "verse": 31,
+      "start_ms": 319726,
+      "end_ms": 325101,
+      "duration_ms": 5375
+    },
+    {
+      "word": "Por eso no murió junto con los que habían desobedecido a Dios en Jericó.",
+      "verse": 31,
+      "start_ms": 325101,
+      "end_ms": 329526,
+      "duration_ms": 4425
+    },
+    {
+      "word": "Qué más les puedo decir?",
+      "verse": 32,
+      "start_ms": 329526,
+      "end_ms": 331801,
+      "duration_ms": 2275
+    },
+    {
+      "word": "No me alcanzaría el tiempo para hablarles de la confianza en Dios de Gedeón, de Barac, de Sansón, de Jefté, de David, de Samuel y de los profetas.",
+      "verse": 32,
+      "start_ms": 331801,
+      "end_ms": 341376,
+      "duration_ms": 9575
+    },
+    {
+      "word": "Ellos confiaron en Dios, y por eso conquistaron países; y como actuaron con justicia, recibieron lo que Dios les había prometido.",
+      "verse": 33,
+      "start_ms": 341376,
+      "end_ms": 349688,
+      "duration_ms": 8312
+    },
+    {
+      "word": "Cerraron la boca de leones y apagaron grandes incendios.",
+      "verse": 33,
+      "start_ms": 349688,
+      "end_ms": 353775,
+      "duration_ms": 4087
+    },
+    {
+      "word": "Escaparon de que los mataran con espada, recibieron fuerzas cuando más débiles estaban, y en la guerra fueron tan poderosos que vencieron a los ejércitos enemigos.",
+      "verse": 34,
+      "start_ms": 353776,
+      "end_ms": 362938,
+      "duration_ms": 9162
+    },
+    {
+      "word": "Algunas mujeres confiaron en Dios, y por eso Dios hizo que sus familiares muertos volvieran a vivir.",
+      "verse": 35,
+      "start_ms": 362938,
+      "end_ms": 369250,
+      "duration_ms": 6312
+    },
+    {
+      "word": "Algunos confiaron tanto en Dios que no quisieron que los dejaran en libertad.",
+      "verse": 35,
+      "start_ms": 369251,
+      "end_ms": 373676,
+      "duration_ms": 4425
+    },
+    {
+      "word": "Al contrario, dejaron que los mataran, porque sabían que volverían a vivir y así estarían mucho mejor.",
+      "verse": 35,
+      "start_ms": 373676,
+      "end_ms": 380451,
+      "duration_ms": 6775
+    },
+    {
+      "word": "Mucha gente se burló de ellos y los maltrató, y hasta los metió en la cárcel.",
+      "verse": 36,
+      "start_ms": 380451,
+      "end_ms": 385438,
+      "duration_ms": 4987
+    },
+    {
+      "word": "A otros los mataron a pedradas, los partieron en dos con una sierra, o los mataron con espada.",
+      "verse": 37,
+      "start_ms": 385438,
+      "end_ms": 391488,
+      "duration_ms": 6050
+    },
+    {
+      "word": "Algunos anduvieron de un lugar a otro con ropas hechas de piel de oveja o de cabra.",
+      "verse": 37,
+      "start_ms": 391488,
+      "end_ms": 396425,
+      "duration_ms": 4937
+    },
+    {
+      "word": "Eran pobres, estaban tristes, y habían sido maltratados.",
+      "verse": 37,
+      "start_ms": 396426,
+      "end_ms": 401251,
+      "duration_ms": 4825
+    },
+    {
+      "word": "La gente de este mundo no merecía personas tan buenas, que anduvieron sin rumbo fijo por el desierto, por las montañas, por las cuevas y las cavernas de la tierra.",
+      "verse": 38,
+      "start_ms": 401251,
+      "end_ms": 410613,
+      "duration_ms": 9362
+    },
+    {
+      "word": "Dios estaba contento con todas estas personas, pues confiaron en él.",
+      "verse": 39,
+      "start_ms": 410613,
+      "end_ms": 415538,
+      "duration_ms": 4925
+    },
+    {
+      "word": "Pero ninguna de ellas recibió lo que Dios había prometido.",
+      "verse": 39,
+      "start_ms": 415538,
+      "end_ms": 419513,
+      "duration_ms": 3975
+    },
+    {
+      "word": "Y es que Dios tenía un plan mucho mejor, para que nosotros también recibiéramos lo prometido.",
+      "verse": 40,
+      "start_ms": 419513,
+      "end_ms": 425475,
+      "duration_ms": 5962
+    },
+    {
+      "word": "Dios sólo hará perfectas a esas personas cuando nos haya hecho perfectos a nosotros.",
+      "verse": 40,
+      "start_ms": 425476,
+      "end_ms": 430763,
+      "duration_ms": 5287
+    }
+  ]
+}

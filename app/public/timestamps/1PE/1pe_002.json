@@ -1,0 +1,509 @@
+{
+  "book": "1PE",
+  "chapter": 2,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 24,
+  "word_count": 47,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 113,
+      "text": "Por lo tanto, dejen de hacer lo malo. No se digan mentiras, no sean hipócritas, no sean envidiosos ni chismosos."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 113,
+      "char_end": 314,
+      "text": "Más bien, busquen todo lo que sea bueno y que ayude a su espíritu, así como los niños recién nacidos buscan ansiosos la leche de su madre. Si lo hacen así, serán mejores cristianos y Dios los salvará,"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 314,
+      "char_end": 365,
+      "text": "pues ustedes han comprobado que el Señor es bueno."
+    },
+    {
+      "verse": 4,
+      "label": "4-5",
+      "char_start": 365,
+      "char_end": 713,
+      "text": "Ustedes son piedras vivas que Dios está usando para construir un templo espiritual. Por lo tanto, acérquense a Jesucristo, pues él es la piedra viva que la gente despreció, pero que Dios eligió como la piedra más valiosa. Además, ustedes son sacerdotes especiales, y por medio de Jesucristo le ofrecerán a Dios los sacrificios que a él le agradan."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 713,
+      "char_end": 894,
+      "text": "Pues Dios dice en la Biblia: Yo seré para Jerusalén una piedra valiosa y escogida. Seré la piedra principal, y serviré de base al edificio. El que confíe en mí jamás será engañado."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 894,
+      "char_end": 1112,
+      "text": "Ustedes creen en Dios, y por eso consideran que esa piedra es muy valiosa. Pero a los que no creen, les sucede lo que dice la Biblia: La piedra que rechazaron los constructores del templo es ahora la piedra principal."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1112,
+      "char_end": 1279,
+      "text": "Y también: Ésta es la piedra por la que muchos caerán; muchos tropezarán en esta roca. ¡Eso es lo que se merecen! ¡Tropezarán por no aceptar el mensaje de Jesucristo!"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1279,
+      "char_end": 1522,
+      "text": "Pero ustedes son miembros de la familia de Dios, son sacerdotes al servicio del Rey, y son su pueblo. Dios mismo los sacó de la oscuridad del pecado, y los hizo entrar en su luz maravillosa. Por eso, anuncien las maravillas que Dios ha hecho."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1522,
+      "char_end": 1647,
+      "text": "Antes, ustedes no eran nada, pero ahora son el pueblo de Dios. Antes, Dios no les tenía compasión, pero ahora los ama mucho."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1647,
+      "char_end": 1849,
+      "text": "Amados hermanos en Cristo, les hablo como si ustedes fueran extranjeros y estuvieran de paso por este mundo. No hagan nada que obedezca a sus malos deseos, pues esos deseos los llevarán a la perdición."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1849,
+      "char_end": 2085,
+      "text": "Pórtense bien cuando estén con gente que no cree en Dios. Así, aunque ahora esa gente hable mal de ustedes, como si fueran unos malvados, luego verá el bien que ustedes hacen, y alabará a Dios el día en que él les pida cuentas a todos."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 2085,
+      "char_end": 2267,
+      "text": "Para que nadie hable mal de nuestro Señor Jesucristo, obedezcan a todas las autoridades del gobierno. Obedezcan al emperador romano, pues él tiene la máxima autoridad en el imperio."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 2267,
+      "char_end": 2411,
+      "text": "Obedezcan también a los gobernantes. El emperador los ha puesto para castigar a los que hacen lo malo, y para premiar a los que hacen lo bueno."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2411,
+      "char_end": 2532,
+      "text": "Dios quiere que ustedes hagan el bien, para que la gente ignorante y tonta no tenga nada que decir en contra de ustedes."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2532,
+      "char_end": 2637,
+      "text": "Ustedes son libres porque son servidores de Dios. Pero no crean que por ser libres pueden hacer lo malo."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2637,
+      "char_end": 2757,
+      "text": "Respeten a todos, y amen de manera especial a los miembros de la iglesia. Honren a Dios y respeten al emperador romano."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2757,
+      "char_end": 2928,
+      "text": "A los esclavos y a las esclavas les mando que obedezcan a sus amos y que los respeten. Pero no sólo a los que son buenos y comprensivos, sino también a los que son malos."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2928,
+      "char_end": 3020,
+      "text": "Dios bendice a los que, por ser fieles a él, sufren injustamente y soportan el sufrimiento."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 3020,
+      "char_end": 3228,
+      "text": "Si alguno es castigado por hacer algo malo, y soporta con paciencia el castigo, no está haciendo nada extraordinario. Pero si uno sufre y soporta el sufrimiento por haber hecho algo bueno, Dios lo bendecirá."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 3228,
+      "char_end": 3408,
+      "text": "Si acaso sufren injustamente, recuerden que Dios les ha ordenado sufrir con paciencia. Y en eso Cristo les ha dado el ejemplo, para que hagan lo mismo, pues él sufrió por ustedes."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3408,
+      "char_end": 3454,
+      "text": "Cristo no pecó nunca, y jamás engañó a nadie."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3454,
+      "char_end": 3650,
+      "text": "Cuando lo insultaban, jamás contestaba con insultos, y jamás amenazó a quienes lo hicieron sufrir. Más bien, dejó que Dios lo cuidara y se encargara de todo, pues Dios juzga a todos con justicia."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3650,
+      "char_end": 3857,
+      "text": "Cristo hizo suyos nuestros pecados, y por eso murió en la cruz. Lo hizo para que nosotros dejemos por completo de hacer el mal, y vivamos haciendo el bien. Cristo fue herido para que ustedes fueran sanados."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3857,
+      "char_end": 3988,
+      "text": "Antes, ustedes andaban como ovejas perdidas, pero ahora han regresado a Cristo, que es como un pastor que los cuida y los protege."
+    }
+  ],
+  "words": [
+    {
+      "word": "Por lo tanto, dejen de hacer lo malo.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3025,
+      "duration_ms": 2925
+    },
+    {
+      "word": "No se digan mentiras, no sean hipócritas, no sean envidiosos ni chismosos.",
+      "verse": 1,
+      "start_ms": 2975,
+      "end_ms": 8687,
+      "duration_ms": 5712
+    },
+    {
+      "word": "Más bien, busquen todo lo que sea bueno y que ayude a su espíritu, así como los niños recién nacidos buscan ansiosos la leche de su madre.",
+      "verse": 2,
+      "start_ms": 8687,
+      "end_ms": 17074,
+      "duration_ms": 8387
+    },
+    {
+      "word": "Si lo hacen así, serán mejores cristianos y Dios los salvará, pues ustedes han comprobado que el Señor es bueno.",
+      "verse": 2,
+      "start_ms": 17075,
+      "end_ms": 24212,
+      "duration_ms": 7137
+    },
+    {
+      "word": "Ustedes son piedras vivas que Dios está usando para construir un templo espiritual.",
+      "verse": 4,
+      "start_ms": 24212,
+      "end_ms": 29287,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Por lo tanto, acérquense a Jesucristo, pues él es la piedra viva que la gente despreció, pero que Dios eligió como la piedra más valiosa.",
+      "verse": 4,
+      "start_ms": 29287,
+      "end_ms": 37812,
+      "duration_ms": 8525
+    },
+    {
+      "word": "Además, ustedes son sacerdotes especiales, y por medio de Jesucristo le ofrecerán a Dios los sacrificios que a él le agradan.",
+      "verse": 4,
+      "start_ms": 37812,
+      "end_ms": 45537,
+      "duration_ms": 7725
+    },
+    {
+      "word": "Pues Dios dice en la Biblia: Yo seré para Jerusalén una piedra valiosa y escogida.",
+      "verse": 6,
+      "start_ms": 45537,
+      "end_ms": 51162,
+      "duration_ms": 5625
+    },
+    {
+      "word": "Seré la piedra principal, y serviré de base al edificio.",
+      "verse": 6,
+      "start_ms": 51162,
+      "end_ms": 55362,
+      "duration_ms": 4200
+    },
+    {
+      "word": "El que confíe en mí jamás será engañado.",
+      "verse": 6,
+      "start_ms": 55362,
+      "end_ms": 58537,
+      "duration_ms": 3175
+    },
+    {
+      "word": "Ustedes creen en Dios, y por eso consideran que esa piedra es muy valiosa.",
+      "verse": 7,
+      "start_ms": 58537,
+      "end_ms": 63762,
+      "duration_ms": 5225
+    },
+    {
+      "word": "Pero a los que no creen, les sucede lo que dice la Biblia: La piedra que rechazaron los constructores del templo es ahora la piedra principal.",
+      "verse": 7,
+      "start_ms": 63762,
+      "end_ms": 71712,
+      "duration_ms": 7950
+    },
+    {
+      "word": "Y también: Ésta es la piedra por la que muchos caerán; muchos tropezarán en esta roca.",
+      "verse": 8,
+      "start_ms": 71712,
+      "end_ms": 77524,
+      "duration_ms": 5812
+    },
+    {
+      "word": "Eso es lo que se merecen!",
+      "verse": 8,
+      "start_ms": 77525,
+      "end_ms": 79750,
+      "duration_ms": 2225
+    },
+    {
+      "word": "Tropezarán por no aceptar el mensaje de Jesucristo!",
+      "verse": 8,
+      "start_ms": 79750,
+      "end_ms": 83325,
+      "duration_ms": 3575
+    },
+    {
+      "word": "Pero ustedes son miembros de la familia de Dios, son sacerdotes al servicio del Rey, y son su pueblo.",
+      "verse": 9,
+      "start_ms": 83325,
+      "end_ms": 89612,
+      "duration_ms": 6287
+    },
+    {
+      "word": "Dios mismo los sacó de la oscuridad del pecado, y los hizo entrar en su luz maravillosa.",
+      "verse": 9,
+      "start_ms": 89612,
+      "end_ms": 95199,
+      "duration_ms": 5587
+    },
+    {
+      "word": "Por eso, anuncien las maravillas que Dios ha hecho.",
+      "verse": 9,
+      "start_ms": 95200,
+      "end_ms": 98975,
+      "duration_ms": 3775
+    },
+    {
+      "word": "Antes, ustedes no eran nada, pero ahora son el pueblo de Dios.",
+      "verse": 10,
+      "start_ms": 98975,
+      "end_ms": 103887,
+      "duration_ms": 4912
+    },
+    {
+      "word": "Antes, Dios no les tenía compasión, pero ahora los ama mucho.",
+      "verse": 10,
+      "start_ms": 103887,
+      "end_ms": 108712,
+      "duration_ms": 4825
+    },
+    {
+      "word": "Amados hermanos en Cristo, les hablo como si ustedes fueran extranjeros y estuvieran de paso por este mundo.",
+      "verse": 11,
+      "start_ms": 108712,
+      "end_ms": 115349,
+      "duration_ms": 6637
+    },
+    {
+      "word": "No hagan nada que obedezca a sus malos deseos, pues esos deseos los llevarán a la perdición.",
+      "verse": 11,
+      "start_ms": 115350,
+      "end_ms": 121362,
+      "duration_ms": 6012
+    },
+    {
+      "word": "Pórtense bien cuando estén con gente que no cree en Dios.",
+      "verse": 12,
+      "start_ms": 121362,
+      "end_ms": 125099,
+      "duration_ms": 3737
+    },
+    {
+      "word": "Así, aunque ahora esa gente hable mal de ustedes, como si fueran unos malvados, luego verá el bien que ustedes hacen, y alabará a Dios el día en que él les pida cuentas a todos.",
+      "verse": 12,
+      "start_ms": 125100,
+      "end_ms": 136137,
+      "duration_ms": 11037
+    },
+    {
+      "word": "Para que nadie hable mal de nuestro Señor Jesucristo, obedezcan a todas las autoridades del gobierno.",
+      "verse": 13,
+      "start_ms": 136137,
+      "end_ms": 142412,
+      "duration_ms": 6275
+    },
+    {
+      "word": "Obedezcan al emperador romano, pues él tiene la máxima autoridad en el imperio.",
+      "verse": 13,
+      "start_ms": 142412,
+      "end_ms": 147774,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Obedezcan también a los gobernantes.",
+      "verse": 14,
+      "start_ms": 147775,
+      "end_ms": 150800,
+      "duration_ms": 3025
+    },
+    {
+      "word": "El emperador los ha puesto para castigar a los que hacen lo malo, y para premiar a los que hacen lo bueno.",
+      "verse": 14,
+      "start_ms": 150800,
+      "end_ms": 156737,
+      "duration_ms": 5937
+    },
+    {
+      "word": "Dios quiere que ustedes hagan el bien, para que la gente ignorante y tonta no tenga nada que decir en contra de ustedes.",
+      "verse": 15,
+      "start_ms": 156737,
+      "end_ms": 163874,
+      "duration_ms": 7137
+    },
+    {
+      "word": "Ustedes son libres porque son servidores de Dios.",
+      "verse": 16,
+      "start_ms": 163875,
+      "end_ms": 167350,
+      "duration_ms": 3475
+    },
+    {
+      "word": "Pero no crean que por ser libres pueden hacer lo malo.",
+      "verse": 16,
+      "start_ms": 167350,
+      "end_ms": 170750,
+      "duration_ms": 3400
+    },
+    {
+      "word": "Respeten a todos, y amen de manera especial a los miembros de la iglesia.",
+      "verse": 17,
+      "start_ms": 170750,
+      "end_ms": 175562,
+      "duration_ms": 4812
+    },
+    {
+      "word": "Honren a Dios y respeten al emperador romano.",
+      "verse": 17,
+      "start_ms": 175562,
+      "end_ms": 179012,
+      "duration_ms": 3450
+    },
+    {
+      "word": "A los esclavos y a las esclavas les mando que obedezcan a sus amos y que los respeten.",
+      "verse": 18,
+      "start_ms": 179012,
+      "end_ms": 184199,
+      "duration_ms": 5187
+    },
+    {
+      "word": "Pero no sólo a los que son buenos y comprensivos, sino también a los que son malos.",
+      "verse": 18,
+      "start_ms": 184200,
+      "end_ms": 189537,
+      "duration_ms": 5337
+    },
+    {
+      "word": "Dios bendice a los que, por ser fieles a él, sufren injustamente y soportan el sufrimiento.",
+      "verse": 19,
+      "start_ms": 189537,
+      "end_ms": 195949,
+      "duration_ms": 6412
+    },
+    {
+      "word": "Si alguno es castigado por hacer algo malo, y soporta con paciencia el castigo, no está haciendo nada extraordinario.",
+      "verse": 20,
+      "start_ms": 195950,
+      "end_ms": 203512,
+      "duration_ms": 7562
+    },
+    {
+      "word": "Pero si uno sufre y soporta el sufrimiento por haber hecho algo bueno, Dios lo bendecirá.",
+      "verse": 20,
+      "start_ms": 203512,
+      "end_ms": 209124,
+      "duration_ms": 5612
+    },
+    {
+      "word": "Si acaso sufren injustamente, recuerden que Dios les ha ordenado sufrir con paciencia.",
+      "verse": 21,
+      "start_ms": 209125,
+      "end_ms": 214950,
+      "duration_ms": 5825
+    },
+    {
+      "word": "Y en eso Cristo les ha dado el ejemplo, para que hagan lo mismo, pues él sufrió por ustedes.",
+      "verse": 21,
+      "start_ms": 214950,
+      "end_ms": 221000,
+      "duration_ms": 6050
+    },
+    {
+      "word": "Cristo no pecó nunca, y jamás engañó a nadie.",
+      "verse": 22,
+      "start_ms": 221000,
+      "end_ms": 224662,
+      "duration_ms": 3662
+    },
+    {
+      "word": "Cuando lo insultaban, jamás contestaba con insultos, y jamás amenazó a quienes lo hicieron sufrir.",
+      "verse": 23,
+      "start_ms": 224662,
+      "end_ms": 231112,
+      "duration_ms": 6450
+    },
+    {
+      "word": "Más bien, dejó que Dios lo cuidara y se encargara de todo, pues Dios juzga a todos con justicia.",
+      "verse": 23,
+      "start_ms": 231112,
+      "end_ms": 237562,
+      "duration_ms": 6450
+    },
+    {
+      "word": "Cristo hizo suyos nuestros pecados, y por eso murió en la cruz.",
+      "verse": 24,
+      "start_ms": 237562,
+      "end_ms": 242287,
+      "duration_ms": 4725
+    },
+    {
+      "word": "Lo hizo para que nosotros dejemos por completo de hacer el mal, y vivamos haciendo el bien.",
+      "verse": 24,
+      "start_ms": 242287,
+      "end_ms": 247799,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Cristo fue herido para que ustedes fueran sanados.",
+      "verse": 24,
+      "start_ms": 247800,
+      "end_ms": 251337,
+      "duration_ms": 3537
+    },
+    {
+      "word": "Antes, ustedes andaban como ovejas perdidas, pero ahora han regresado a Cristo, que es como un pastor que los cuida y los protege.",
+      "verse": 25,
+      "start_ms": 251337,
+      "end_ms": 259712,
+      "duration_ms": 8375
+    }
+  ]
+}

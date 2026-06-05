@@ -1,0 +1,180 @@
+{
+  "book": "ECL",
+  "chapter": 11,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 10,
+  "word_count": 14,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 58,
+      "text": "Dale de comer al hambriento, y un día serás recompensado."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 58,
+      "char_end": 165,
+      "text": "Comparte lo que tienes con siete y hasta ocho amigos, pues no sabes si mañana el país estará en problemas."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 165,
+      "char_end": 222,
+      "text": "Cuando las nubes se ponen negras, de seguro va a llover."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 222,
+      "char_end": 403,
+      "text": "Cuando el árbol cae, no importa de qué lado caiga; donde cae, allí se queda. Si quieres sembrar, no te quedes mirando al viento; si quieres cosechar, no te quedes mirando al cielo."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 403,
+      "char_end": 527,
+      "text": "Nadie sabe qué rumbo toma el viento, ni cómo se forma el niño en el vientre de la madre, ni cómo hizo Dios todas las cosas."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 527,
+      "char_end": 671,
+      "text": "Hay que sembrar en la mañana, y volver a sembrar en la tarde. Nunca se sabe cuál de las dos siembras será mejor, o si las dos serán abundantes."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 671,
+      "char_end": 714,
+      "text": "¡Qué bueno es disfrutar de la luz del sol!"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 714,
+      "char_end": 882,
+      "text": "Pero aunque vivamos muchos años, y todo ese tiempo lo vivamos felices, no debemos olvidar que nos esperan muchos días de oscuridad, y que del mañana no esperamos nada."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 882,
+      "char_end": 1058,
+      "text": "Alégrate ahora que eres joven. Déjate llevar por lo que tus ojos ven y por lo que tu corazón desea, pero no olvides que un día Dios te llamará a cuentas por todo lo que hagas."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1058,
+      "char_end": 1182,
+      "text": "Deja de preocuparte, pero apártate de la maldad. Ten presente que ni los mejores días de tu juventud tienen sentido alguno."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dale de comer al hambriento, y un día serás recompensado.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4350,
+      "duration_ms": 4250
+    },
+    {
+      "word": "Comparte lo que tienes con siete y hasta ocho amigos, pues no sabes si mañana el país estará en problemas.",
+      "verse": 2,
+      "start_ms": 4300,
+      "end_ms": 10912,
+      "duration_ms": 6612
+    },
+    {
+      "word": "Cuando las nubes se ponen negras, de seguro va a llover.",
+      "verse": 3,
+      "start_ms": 10912,
+      "end_ms": 15099,
+      "duration_ms": 4187
+    },
+    {
+      "word": "Cuando el árbol cae, no importa de qué lado caiga; donde cae, allí se queda.",
+      "verse": 4,
+      "start_ms": 15100,
+      "end_ms": 20862,
+      "duration_ms": 5762
+    },
+    {
+      "word": "Si quieres sembrar, no te quedes mirando al viento; si quieres cosechar, no te quedes mirando al cielo.",
+      "verse": 4,
+      "start_ms": 20862,
+      "end_ms": 27412,
+      "duration_ms": 6550
+    },
+    {
+      "word": "Nadie sabe qué rumbo toma el viento, ni cómo se forma el niño en el vientre de la madre, ni cómo hizo Dios todas las cosas.",
+      "verse": 5,
+      "start_ms": 27412,
+      "end_ms": 35287,
+      "duration_ms": 7875
+    },
+    {
+      "word": "Hay que sembrar en la mañana, y volver a sembrar en la tarde.",
+      "verse": 6,
+      "start_ms": 35287,
+      "end_ms": 39149,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Nunca se sabe cuál de las dos siembras será mejor, o si las dos serán abundantes.",
+      "verse": 6,
+      "start_ms": 39150,
+      "end_ms": 44587,
+      "duration_ms": 5437
+    },
+    {
+      "word": "Qué bueno es disfrutar de la luz del sol!",
+      "verse": 7,
+      "start_ms": 44587,
+      "end_ms": 47562,
+      "duration_ms": 2975
+    },
+    {
+      "word": "Pero aunque vivamos muchos años, y todo ese tiempo lo vivamos felices, no debemos olvidar que nos esperan muchos días de oscuridad, y que del mañana no esperamos nada.",
+      "verse": 8,
+      "start_ms": 47562,
+      "end_ms": 57612,
+      "duration_ms": 10050
+    },
+    {
+      "word": "Alégrate ahora que eres joven.",
+      "verse": 9,
+      "start_ms": 57612,
+      "end_ms": 60412,
+      "duration_ms": 2800
+    },
+    {
+      "word": "Déjate llevar por lo que tus ojos ven y por lo que tu corazón desea, pero no olvides que un día Dios te llamará a cuentas por todo lo que hagas.",
+      "verse": 9,
+      "start_ms": 60412,
+      "end_ms": 68562,
+      "duration_ms": 8150
+    },
+    {
+      "word": "Deja de preocuparte, pero apártate de la maldad.",
+      "verse": 10,
+      "start_ms": 68562,
+      "end_ms": 72349,
+      "duration_ms": 3787
+    },
+    {
+      "word": "Ten presente que ni los mejores días de tu juventud tienen sentido alguno.",
+      "verse": 10,
+      "start_ms": 72350,
+      "end_ms": 76862,
+      "duration_ms": 4512
+    }
+  ]
+}

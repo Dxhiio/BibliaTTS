@@ -1,0 +1,236 @@
+{
+  "book": "1CO",
+  "chapter": 8,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 12,
+  "word_count": 20,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 268,
+      "text": "Ahora quiero responder a lo que me preguntaron acerca de los alimentos ofrecidos a los ídolos. Todos nosotros sabemos algo acerca de esto. Sin embargo, debemos reconocer que el conocimiento nos vuelve orgullosos, mientras que el amor fortalece nuestra vida cristiana."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 268,
+      "char_end": 332,
+      "text": "Sin duda, el que cree que sabe mucho, en realidad no sabe nada."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 332,
+      "char_end": 376,
+      "text": "Pero Dios reconoce a todo aquel que lo ama."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 376,
+      "char_end": 509,
+      "text": "En cuanto a esto de comer alimentos ofrecidos a los ídolos, bien sabemos que los ídolos no tienen vida, y que solamente hay un Dios."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 509,
+      "char_end": 592,
+      "text": "Algunos llaman dioses o señores a muchas cosas que hay en el cielo y en la tierra."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 592,
+      "char_end": 824,
+      "text": "Sin embargo, para nosotros sólo hay un Dios, que es el Padre. Él creó todas las cosas, y nosotros vivimos para él. También hay sólo un Señor, que es Jesucristo. Dios creó todo por medio de él, y gracias a él nosotros vivimos ahora."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 824,
+      "char_end": 1077,
+      "text": "No todos saben estas cosas. Antes de creer en Cristo, algunos de ustedes adoraban ídolos, y todavía creen que esos ídolos tienen vida. Por eso, cuando comen alimentos que fueron ofrecidos a los ídolos, les remuerde la conciencia y se sienten culpables."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1077,
+      "char_end": 1173,
+      "text": "Pero nuestra relación con Dios no va a ser mejor o peor por causa de los alimentos que comamos."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1173,
+      "char_end": 1349,
+      "text": "Sin embargo, aunque tengamos derecho a comer de todo, debemos tener cuidado de no causarles problemas a los miembros de la iglesia que todavía no están debidamente instruidos."
+    },
+    {
+      "verse": 10,
+      "label": "10-11",
+      "char_start": 1349,
+      "char_end": 1694,
+      "text": "Supongamos que uno de ustedes va a comer a un lugar donde se adora a los ídolos, y que lo ve algún miembro de la iglesia que todavía cree que los ídolos tienen vida. Entonces, aunque bien sabemos que los ídolos no tienen vida, aquel miembro de la iglesia va a pensar que está bien adorar ídolos, y dejará de creer en Cristo, quien murió por él."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1694,
+      "char_end": 1830,
+      "text": "Cuando le hacemos daño a los miembros de la iglesia que no saben distinguir entre lo bueno y lo malo, también le hacemos daño a Cristo."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1830,
+      "char_end": 1921,
+      "text": "Por eso yo jamás voy a comer algo, si por comerlo hago que un miembro de la iglesia peque."
+    }
+  ],
+  "words": [
+    {
+      "word": "Ahora quiero responder a lo que me preguntaron acerca de los alimentos ofrecidos a los ídolos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5800,
+      "duration_ms": 5700
+    },
+    {
+      "word": "Todos nosotros sabemos algo acerca de esto.",
+      "verse": 1,
+      "start_ms": 5750,
+      "end_ms": 9200,
+      "duration_ms": 3450
+    },
+    {
+      "word": "Sin embargo, debemos reconocer que el conocimiento nos vuelve orgullosos, mientras que el amor fortalece nuestra vida cristiana.",
+      "verse": 1,
+      "start_ms": 9200,
+      "end_ms": 17075,
+      "duration_ms": 7875
+    },
+    {
+      "word": "Sin duda, el que cree que sabe mucho, en realidad no sabe nada.",
+      "verse": 2,
+      "start_ms": 17075,
+      "end_ms": 21937,
+      "duration_ms": 4862
+    },
+    {
+      "word": "Pero Dios reconoce a todo aquel que lo ama.",
+      "verse": 3,
+      "start_ms": 21937,
+      "end_ms": 25112,
+      "duration_ms": 3175
+    },
+    {
+      "word": "En cuanto a esto de comer alimentos ofrecidos a los ídolos, bien sabemos que los ídolos no tienen vida, y que solamente hay un Dios.",
+      "verse": 4,
+      "start_ms": 25112,
+      "end_ms": 33137,
+      "duration_ms": 8025
+    },
+    {
+      "word": "Algunos llaman dioses o señores a muchas cosas que hay en el cielo y en la tierra.",
+      "verse": 5,
+      "start_ms": 33137,
+      "end_ms": 37987,
+      "duration_ms": 4850
+    },
+    {
+      "word": "Sin embargo, para nosotros sólo hay un Dios, que es el Padre.",
+      "verse": 6,
+      "start_ms": 37987,
+      "end_ms": 42587,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Él creó todas las cosas, y nosotros vivimos para él.",
+      "verse": 6,
+      "start_ms": 42587,
+      "end_ms": 46787,
+      "duration_ms": 4200
+    },
+    {
+      "word": "También hay sólo un Señor, que es Jesucristo.",
+      "verse": 6,
+      "start_ms": 46787,
+      "end_ms": 50324,
+      "duration_ms": 3537
+    },
+    {
+      "word": "Dios creó todo por medio de él, y gracias a él nosotros vivimos ahora.",
+      "verse": 6,
+      "start_ms": 50325,
+      "end_ms": 55512,
+      "duration_ms": 5187
+    },
+    {
+      "word": "No todos saben estas cosas.",
+      "verse": 7,
+      "start_ms": 55512,
+      "end_ms": 58124,
+      "duration_ms": 2612
+    },
+    {
+      "word": "Antes de creer en Cristo, algunos de ustedes adoraban ídolos, y todavía creen que esos ídolos tienen vida.",
+      "verse": 7,
+      "start_ms": 58125,
+      "end_ms": 65162,
+      "duration_ms": 7037
+    },
+    {
+      "word": "Por eso, cuando comen alimentos que fueron ofrecidos a los ídolos, les remuerde la conciencia y se sienten culpables.",
+      "verse": 7,
+      "start_ms": 65162,
+      "end_ms": 72499,
+      "duration_ms": 7337
+    },
+    {
+      "word": "Pero nuestra relación con Dios no va a ser mejor o peor por causa de los alimentos que comamos.",
+      "verse": 8,
+      "start_ms": 72500,
+      "end_ms": 78250,
+      "duration_ms": 5750
+    },
+    {
+      "word": "Sin embargo, aunque tengamos derecho a comer de todo, debemos tener cuidado de no causarles problemas a los miembros de la iglesia que todavía no están debidamente instruidos.",
+      "verse": 9,
+      "start_ms": 78250,
+      "end_ms": 88437,
+      "duration_ms": 10187
+    },
+    {
+      "word": "Supongamos que uno de ustedes va a comer a un lugar donde se adora a los ídolos, y que lo ve algún miembro de la iglesia que todavía cree que los ídolos tienen vida.",
+      "verse": 10,
+      "start_ms": 88437,
+      "end_ms": 97537,
+      "duration_ms": 9100
+    },
+    {
+      "word": "Entonces, aunque bien sabemos que los ídolos no tienen vida, aquel miembro de la iglesia va a pensar que está bien adorar ídolos, y dejará de creer en Cristo, quien murió por él.",
+      "verse": 10,
+      "start_ms": 97537,
+      "end_ms": 108299,
+      "duration_ms": 10762
+    },
+    {
+      "word": "Cuando le hacemos daño a los miembros de la iglesia que no saben distinguir entre lo bueno y lo malo, también le hacemos daño a Cristo.",
+      "verse": 12,
+      "start_ms": 108300,
+      "end_ms": 115375,
+      "duration_ms": 7075
+    },
+    {
+      "word": "Por eso yo jamás voy a comer algo, si por comerlo hago que un miembro de la iglesia peque.",
+      "verse": 13,
+      "start_ms": 115375,
+      "end_ms": 121037,
+      "duration_ms": 5662
+    }
+  ]
+}

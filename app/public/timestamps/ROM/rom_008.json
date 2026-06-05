@@ -1,0 +1,726 @@
+{
+  "book": "ROM",
+  "chapter": 8,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 39,
+  "word_count": 63,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 73,
+      "text": "Por lo tanto, los que vivimos unidos a Jesucristo no seremos castigados."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 73,
+      "char_end": 193,
+      "text": "Ahora, por estar unidos a él, el Espíritu Santo nos controla y nos da vida, y nos ha librado del pecado y de la muerte."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 193,
+      "char_end": 510,
+      "text": "Dios ha hecho lo que la ley de Moisés no era capaz de hacer, ni podría haber hecho, porque nadie puede controlar sus deseos de hacer lo malo. Dios envió a su propio Hijo, y lo envió tan débil como nosotros, los pecadores. Lo envió para que muriera por nuestros pecados. Así, por medio de él, Dios destruyó al pecado."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 510,
+      "char_end": 669,
+      "text": "Lo hizo para que ya no vivamos de acuerdo con nuestros malos deseos, sino conforme a todos los justos mandamientos de la ley, con la ayuda del Espíritu Santo."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 669,
+      "char_end": 843,
+      "text": "Los que viven sin controlar sus malos deseos, sólo piensan en hacer lo malo. Pero los que viven obedeciendo al Espíritu Santo sólo piensan en hacer lo que desea el Espíritu."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 843,
+      "char_end": 1042,
+      "text": "Si vivimos pensando en todo lo malo que nuestros cuerpos desean, entonces quedaremos separados de Dios. Pero si pensamos sólo en lo que desea el Espíritu Santo, entonces tendremos vida eterna y paz."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 1042,
+      "char_end": 1186,
+      "text": "Los que no controlan sus malos deseos sólo piensan en hacer lo malo. Son enemigos de Dios, porque no quieren ni pueden obedecer la ley de Dios."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1186,
+      "char_end": 1259,
+      "text": "Por eso, los que viven obedeciendo sus malos deseos no pueden agradarlo."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1259,
+      "char_end": 1438,
+      "text": "Pero, si el Espíritu de Dios vive en ustedes, ya no tienen que seguir sus malos deseos, sino obedecer al Espíritu de Dios. El que no tiene al Espíritu de Cristo, no es de Cristo."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1438,
+      "char_end": 1604,
+      "text": "Por culpa del pecado, sus cuerpos tienen que morir. Pero si Cristo vive en ustedes, también el espíritu de ustedes vivirá, porque Dios los habrá declarado inocentes."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1604,
+      "char_end": 1809,
+      "text": "Dios resucitó a Jesús, y él también hará que los cuerpos muertos de ustedes vuelvan a vivir, si es que el Espíritu de Dios vive en ustedes. Esto Dios lo hará por medio de su Espíritu, que vive en ustedes."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1809,
+      "char_end": 1900,
+      "text": "Por eso, hermanos, ya no estamos obligados a vivir de acuerdo con nuestros propios deseos."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1900,
+      "char_end": 2054,
+      "text": "Si ustedes viven de acuerdo a esos deseos, morirán para siempre; pero si por medio del Espíritu Santo ponen fin a esos malos deseos, tendrán vida eterna."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 2054,
+      "char_end": 2128,
+      "text": "Todos los que viven en obediencia al Espíritu de Dios, son hijos de Dios."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2128,
+      "char_end": 2307,
+      "text": "Porque el Espíritu que Dios les ha dado no los esclaviza ni les hace tener miedo. Por el contrario, el Espíritu nos convierte en hijos de Dios y nos permite llamar a Dios: ¡Papá!"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2307,
+      "char_end": 2393,
+      "text": "El Espíritu de Dios se une a nuestro espíritu, y nos asegura que somos hijos de Dios."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2393,
+      "char_end": 2633,
+      "text": "Y como somos sus hijos, tenemos derecho a todo lo bueno que él ha preparado para nosotros. Todo eso lo compartiremos con Cristo. Y si de alguna manera sufrimos como él sufrió, seguramente también compartiremos con él la honra que recibirá."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2633,
+      "char_end": 2778,
+      "text": "Estoy seguro de que los sufrimientos por los que ahora pasamos no son nada, si los comparamos con la gloriosa vida que Dios nos dará junto a él."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2778,
+      "char_end": 2867,
+      "text": "El mundo entero espera impaciente que Dios muestre a todos que nosotros somos sus hijos."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2867,
+      "char_end": 2999,
+      "text": "Pues todo el mundo está confundido, y no por su culpa, sino porque Dios así lo decidió. Pero al mundo le queda todavía la esperanza"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2999,
+      "char_end": 3112,
+      "text": "de ser liberado de su destrucción. Tiene la esperanza de compartir la maravillosa libertad de los hijos de Dios."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3112,
+      "char_end": 3231,
+      "text": "Nosotros sabemos que este mundo se queja y sufre de dolor, como cuando una mujer embarazada está a punto de dar a luz."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3231,
+      "char_end": 3501,
+      "text": "Y no sólo sufre el mundo, sino que también sufrimos nosotros, los que tenemos al Espíritu Santo, que es el anticipo de todo lo que Dios nos dará después. Mientras esperamos que Dios nos adopte definitivamente como sus hijos, y nos libere del todo, sufrimos en silencio."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3501,
+      "char_end": 3667,
+      "text": "Dios nos salvó porque tenemos la confianza de que así sucederá. Pero esperar lo que ya se está viendo no es esperanza, pues ¿quién sigue esperando algo que ya tiene?"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3667,
+      "char_end": 3765,
+      "text": "Sin embargo, si esperamos recibir algo que todavía no vemos, tenemos que esperarlo con paciencia."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3765,
+      "char_end": 4014,
+      "text": "Del mismo modo, y puesto que nuestra confianza en Dios es débil, el Espíritu Santo nos ayuda. Porque no sabemos cómo debemos orar a Dios, pero el Espíritu mismo ruega por nosotros, y lo hace de modo tan especial que no hay palabras para expresarlo."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 4014,
+      "char_end": 4214,
+      "text": "Y Dios, que conoce todos nuestros pensamientos, sabe lo que el Espíritu Santo quiere decir. Porque el Espíritu ruega a Dios por su pueblo especial, y sus ruegos van de acuerdo con lo que Dios quiere."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 4214,
+      "char_end": 4342,
+      "text": "Sabemos que Dios va preparando todo para el bien de los que lo aman, es decir, de los que él ha llamado de acuerdo con su plan."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 4342,
+      "char_end": 4486,
+      "text": "Desde el principio, Dios ya sabía a quiénes iba a elegir, y ya había decidido que fueran semejantes a su Hijo, para que éste sea el Hijo mayor."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4486,
+      "char_end": 4612,
+      "text": "A los que él ya había elegido, los llamó; y a los que llamó también los aceptó; y a los que aceptó les dio un lugar de honor."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4612,
+      "char_end": 4710,
+      "text": "Sólo nos queda decir que, si Dios está de nuestra parte, nadie podrá estar en contra de nosotros."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4710,
+      "char_end": 4846,
+      "text": "Dios no nos negó ni siquiera a su propio Hijo, sino que lo entregó por nosotros, así que también nos dará junto con él todas las cosas."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4846,
+      "char_end": 4949,
+      "text": "¿Quién puede acusar de algo malo a los que Dios ha elegido? ¡Si Dios mismo los ha declarado inocentes!"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4949,
+      "char_end": 5116,
+      "text": "¿Puede alguien castigarlos? ¡De ninguna manera, pues Jesucristo murió por ellos! Es más, Jesucristo resucitó, y ahora está a la derecha de Dios, rogando por nosotros."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 5116,
+      "char_end": 5314,
+      "text": "¿Quién podrá separarnos del amor de Jesucristo? Nada ni nadie. Ni los problemas, ni los sufrimientos, ni las dificultades. Tampoco podrán hacerlo el hambre ni el frío, ni los peligros ni la muerte."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 5314,
+      "char_end": 5420,
+      "text": "Como dice la Biblia: Por causa tuya nos matan; ¡por ti nos tratan siempre como a ovejas para el matadero!"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 5420,
+      "char_end": 5536,
+      "text": "En medio de todos nuestros problemas, estamos seguros de que Jesucristo, quien nos amó, nos dará la victoria total."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 5536,
+      "char_end": 5686,
+      "text": "Yo estoy seguro de que nada podrá separarnos del amor de Dios: ni la vida ni la muerte, ni los ángeles ni los espíritus, ni lo presente ni lo futuro,"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 5686,
+      "char_end": 5880,
+      "text": "ni los poderes del cielo ni los del infierno, ni nada de lo creado por Dios. ¡Nada, absolutamente nada, podrá separarnos del amor que Dios nos ha mostrado por medio de nuestro Señor Jesucristo!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Por lo tanto, los que vivimos unidos a Jesucristo no seremos castigados.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5250,
+      "duration_ms": 5150
+    },
+    {
+      "word": "Ahora, por estar unidos a él, el Espíritu Santo nos controla y nos da vida, y nos ha librado del pecado y de la muerte.",
+      "verse": 2,
+      "start_ms": 5200,
+      "end_ms": 13287,
+      "duration_ms": 8087
+    },
+    {
+      "word": "Dios ha hecho lo que la ley de Moisés no era capaz de hacer, ni podría haber hecho, porque nadie puede controlar sus deseos de hacer lo malo.",
+      "verse": 3,
+      "start_ms": 13287,
+      "end_ms": 21374,
+      "duration_ms": 8087
+    },
+    {
+      "word": "Dios envió a su propio Hijo, y lo envió tan débil como nosotros, los pecadores.",
+      "verse": 3,
+      "start_ms": 21375,
+      "end_ms": 27175,
+      "duration_ms": 5800
+    },
+    {
+      "word": "Lo envió para que muriera por nuestros pecados.",
+      "verse": 3,
+      "start_ms": 27175,
+      "end_ms": 30550,
+      "duration_ms": 3375
+    },
+    {
+      "word": "Así, por medio de él, Dios destruyó al pecado.",
+      "verse": 3,
+      "start_ms": 30550,
+      "end_ms": 34637,
+      "duration_ms": 4087
+    },
+    {
+      "word": "Lo hizo para que ya no vivamos de acuerdo con nuestros malos deseos, sino conforme a todos los justos mandamientos de la ley, con la ayuda del Espíritu Santo.",
+      "verse": 4,
+      "start_ms": 34637,
+      "end_ms": 43774,
+      "duration_ms": 9137
+    },
+    {
+      "word": "Los que viven sin controlar sus malos deseos, sólo piensan en hacer lo malo.",
+      "verse": 5,
+      "start_ms": 43775,
+      "end_ms": 48837,
+      "duration_ms": 5062
+    },
+    {
+      "word": "Pero los que viven obedeciendo al Espíritu Santo sólo piensan en hacer lo que desea el Espíritu.",
+      "verse": 5,
+      "start_ms": 48837,
+      "end_ms": 54437,
+      "duration_ms": 5600
+    },
+    {
+      "word": "Si vivimos pensando en todo lo malo que nuestros cuerpos desean, entonces quedaremos separados de Dios.",
+      "verse": 6,
+      "start_ms": 54437,
+      "end_ms": 60887,
+      "duration_ms": 6450
+    },
+    {
+      "word": "Pero si pensamos sólo en lo que desea el Espíritu Santo, entonces tendremos vida eterna y paz.",
+      "verse": 6,
+      "start_ms": 60887,
+      "end_ms": 66949,
+      "duration_ms": 6062
+    },
+    {
+      "word": "Los que no controlan sus malos deseos sólo piensan en hacer lo malo.",
+      "verse": 7,
+      "start_ms": 66950,
+      "end_ms": 71300,
+      "duration_ms": 4350
+    },
+    {
+      "word": "Son enemigos de Dios, porque no quieren ni pueden obedecer la ley de Dios.",
+      "verse": 7,
+      "start_ms": 71300,
+      "end_ms": 76325,
+      "duration_ms": 5025
+    },
+    {
+      "word": "Por eso, los que viven obedeciendo sus malos deseos no pueden agradarlo.",
+      "verse": 8,
+      "start_ms": 76325,
+      "end_ms": 81200,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Pero, si el Espíritu de Dios vive en ustedes, ya no tienen que seguir sus malos deseos, sino obedecer al Espíritu de Dios.",
+      "verse": 9,
+      "start_ms": 81200,
+      "end_ms": 89100,
+      "duration_ms": 7900
+    },
+    {
+      "word": "El que no tiene al Espíritu de Cristo, no es de Cristo.",
+      "verse": 9,
+      "start_ms": 89100,
+      "end_ms": 93050,
+      "duration_ms": 3950
+    },
+    {
+      "word": "Por culpa del pecado, sus cuerpos tienen que morir.",
+      "verse": 10,
+      "start_ms": 93050,
+      "end_ms": 96875,
+      "duration_ms": 3825
+    },
+    {
+      "word": "Pero si Cristo vive en ustedes, también el espíritu de ustedes vivirá, porque Dios los habrá declarado inocentes.",
+      "verse": 10,
+      "start_ms": 96875,
+      "end_ms": 104275,
+      "duration_ms": 7400
+    },
+    {
+      "word": "Dios resucitó a Jesús, y él también hará que los cuerpos muertos de ustedes vuelvan a vivir, si es que el Espíritu de Dios vive en ustedes.",
+      "verse": 11,
+      "start_ms": 104275,
+      "end_ms": 112912,
+      "duration_ms": 8637
+    },
+    {
+      "word": "Esto Dios lo hará por medio de su Espíritu, que vive en ustedes.",
+      "verse": 11,
+      "start_ms": 112912,
+      "end_ms": 117474,
+      "duration_ms": 4562
+    },
+    {
+      "word": "Por eso, hermanos, ya no estamos obligados a vivir de acuerdo con nuestros propios deseos.",
+      "verse": 12,
+      "start_ms": 117475,
+      "end_ms": 123500,
+      "duration_ms": 6025
+    },
+    {
+      "word": "Si ustedes viven de acuerdo a esos deseos, morirán para siempre; pero si por medio del Espíritu Santo ponen fin a esos malos deseos, tendrán vida eterna.",
+      "verse": 13,
+      "start_ms": 123500,
+      "end_ms": 133287,
+      "duration_ms": 9787
+    },
+    {
+      "word": "Todos los que viven en obediencia al Espíritu de Dios, son hijos de Dios.",
+      "verse": 14,
+      "start_ms": 133287,
+      "end_ms": 138312,
+      "duration_ms": 5025
+    },
+    {
+      "word": "Porque el Espíritu que Dios les ha dado no los esclaviza ni les hace tener miedo.",
+      "verse": 15,
+      "start_ms": 138312,
+      "end_ms": 143249,
+      "duration_ms": 4937
+    },
+    {
+      "word": "Por el contrario, el Espíritu nos convierte en hijos de Dios y nos permite llamar a Dios: ¡Papá!",
+      "verse": 15,
+      "start_ms": 143250,
+      "end_ms": 149500,
+      "duration_ms": 6250
+    },
+    {
+      "word": "El Espíritu de Dios se une a nuestro espíritu, y nos asegura que somos hijos de Dios.",
+      "verse": 16,
+      "start_ms": 149500,
+      "end_ms": 155225,
+      "duration_ms": 5725
+    },
+    {
+      "word": "Y como somos sus hijos, tenemos derecho a todo lo bueno que él ha preparado para nosotros.",
+      "verse": 17,
+      "start_ms": 155225,
+      "end_ms": 161037,
+      "duration_ms": 5812
+    },
+    {
+      "word": "Todo eso lo compartiremos con Cristo.",
+      "verse": 17,
+      "start_ms": 161037,
+      "end_ms": 163924,
+      "duration_ms": 2887
+    },
+    {
+      "word": "Y si de alguna manera sufrimos como él sufrió, seguramente también compartiremos con él la honra que recibirá.",
+      "verse": 17,
+      "start_ms": 163925,
+      "end_ms": 170500,
+      "duration_ms": 6575
+    },
+    {
+      "word": "Estoy seguro de que los sufrimientos por los que ahora pasamos no son nada, si los comparamos con la gloriosa vida que Dios nos dará junto a él.",
+      "verse": 18,
+      "start_ms": 170500,
+      "end_ms": 178475,
+      "duration_ms": 7975
+    },
+    {
+      "word": "El mundo entero espera impaciente que Dios muestre a todos que nosotros somos sus hijos.",
+      "verse": 19,
+      "start_ms": 178475,
+      "end_ms": 183787,
+      "duration_ms": 5312
+    },
+    {
+      "word": "Pues todo el mundo está confundido, y no por su culpa, sino porque Dios así lo decidió.",
+      "verse": 20,
+      "start_ms": 183787,
+      "end_ms": 189737,
+      "duration_ms": 5950
+    },
+    {
+      "word": "Pero al mundo le queda todavía la esperanza de ser liberado de su destrucción.",
+      "verse": 20,
+      "start_ms": 189737,
+      "end_ms": 194487,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Tiene la esperanza de compartir la maravillosa libertad de los hijos de Dios.",
+      "verse": 21,
+      "start_ms": 194487,
+      "end_ms": 199362,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Nosotros sabemos que este mundo se queja y sufre de dolor, como cuando una mujer embarazada está a punto de dar a luz.",
+      "verse": 22,
+      "start_ms": 199362,
+      "end_ms": 206774,
+      "duration_ms": 7412
+    },
+    {
+      "word": "Y no sólo sufre el mundo, sino que también sufrimos nosotros, los que tenemos al Espíritu Santo, que es el anticipo de todo lo que Dios nos dará después.",
+      "verse": 23,
+      "start_ms": 206775,
+      "end_ms": 216225,
+      "duration_ms": 9450
+    },
+    {
+      "word": "Mientras esperamos que Dios nos adopte definitivamente como sus hijos, y nos libere del todo, sufrimos en silencio.",
+      "verse": 23,
+      "start_ms": 216225,
+      "end_ms": 223675,
+      "duration_ms": 7450
+    },
+    {
+      "word": "Dios nos salvó porque tenemos la confianza de que así sucederá.",
+      "verse": 24,
+      "start_ms": 223675,
+      "end_ms": 227862,
+      "duration_ms": 4187
+    },
+    {
+      "word": "Pero esperar lo que ya se está viendo no es esperanza, pues ¿quién sigue esperando algo que ya tiene?",
+      "verse": 24,
+      "start_ms": 227862,
+      "end_ms": 233749,
+      "duration_ms": 5887
+    },
+    {
+      "word": "Sin embargo, si esperamos recibir algo que todavía no vemos, tenemos que esperarlo con paciencia.",
+      "verse": 25,
+      "start_ms": 233750,
+      "end_ms": 240150,
+      "duration_ms": 6400
+    },
+    {
+      "word": "Del mismo modo, y puesto que nuestra confianza en Dios es débil, el Espíritu Santo nos ayuda.",
+      "verse": 26,
+      "start_ms": 240150,
+      "end_ms": 246300,
+      "duration_ms": 6150
+    },
+    {
+      "word": "Porque no sabemos cómo debemos orar a Dios, pero el Espíritu mismo ruega por nosotros, y lo hace de modo tan especial que no hay palabras para expresarlo.",
+      "verse": 26,
+      "start_ms": 246300,
+      "end_ms": 255412,
+      "duration_ms": 9112
+    },
+    {
+      "word": "Y Dios,",
+      "verse": 27,
+      "start_ms": 255412,
+      "end_ms": 257012,
+      "duration_ms": 1600
+    },
+    {
+      "word": "que conoce todos nuestros pensamientos, sabe lo que el Espíritu Santo quiere decir.",
+      "verse": 27,
+      "start_ms": 257164,
+      "end_ms": 262676,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Porque el Espíritu ruega a Dios por su pueblo especial, y sus ruegos van de acuerdo con lo que Dios quiere.",
+      "verse": 27,
+      "start_ms": 262626,
+      "end_ms": 268863,
+      "duration_ms": 6237
+    },
+    {
+      "word": "Sabemos que Dios va preparando todo para el bien de los que lo aman, es decir, de los que él ha llamado de acuerdo con su plan.",
+      "verse": 28,
+      "start_ms": 268864,
+      "end_ms": 276164,
+      "duration_ms": 7300
+    },
+    {
+      "word": "Desde el principio, Dios ya sabía a quiénes iba a elegir, y ya había decidido que fueran semejantes a su Hijo, para que éste sea el Hijo mayor.",
+      "verse": 29,
+      "start_ms": 276164,
+      "end_ms": 285201,
+      "duration_ms": 9037
+    },
+    {
+      "word": "A los que él ya había elegido, los llamó; y a los que llamó también los aceptó; y a los que aceptó les dio un lugar de honor.",
+      "verse": 30,
+      "start_ms": 285201,
+      "end_ms": 292838,
+      "duration_ms": 7637
+    },
+    {
+      "word": "Sólo nos queda decir que, si Dios está de nuestra parte, nadie podrá estar en contra de nosotros.",
+      "verse": 31,
+      "start_ms": 292839,
+      "end_ms": 299476,
+      "duration_ms": 6637
+    },
+    {
+      "word": "Dios no nos negó ni siquiera a su propio Hijo, sino que lo entregó por nosotros, así que también nos dará junto con él todas las cosas.",
+      "verse": 32,
+      "start_ms": 299476,
+      "end_ms": 307563,
+      "duration_ms": 8087
+    },
+    {
+      "word": "Quién puede acusar de algo malo a los que Dios ha elegido?",
+      "verse": 33,
+      "start_ms": 307564,
+      "end_ms": 311401,
+      "duration_ms": 3837
+    },
+    {
+      "word": "Si Dios mismo los ha declarado inocentes!",
+      "verse": 33,
+      "start_ms": 311401,
+      "end_ms": 314826,
+      "duration_ms": 3425
+    },
+    {
+      "word": "Puede alguien castigarlos?",
+      "verse": 34,
+      "start_ms": 314826,
+      "end_ms": 317301,
+      "duration_ms": 2475
+    },
+    {
+      "word": "De ninguna manera, pues Jesucristo murió por ellos!",
+      "verse": 34,
+      "start_ms": 317301,
+      "end_ms": 321351,
+      "duration_ms": 4050
+    },
+    {
+      "word": "Es más, Jesucristo resucitó, y ahora está a la derecha de Dios, rogando por nosotros.",
+      "verse": 34,
+      "start_ms": 321351,
+      "end_ms": 327938,
+      "duration_ms": 6587
+    },
+    {
+      "word": "Quién podrá separarnos del amor de Jesucristo?",
+      "verse": 35,
+      "start_ms": 327939,
+      "end_ms": 331276,
+      "duration_ms": 3337
+    },
+    {
+      "word": "Nada ni nadie.",
+      "verse": 35,
+      "start_ms": 331276,
+      "end_ms": 333201,
+      "duration_ms": 1925
+    },
+    {
+      "word": "Ni los problemas, ni los sufrimientos, ni las dificultades.",
+      "verse": 35,
+      "start_ms": 333201,
+      "end_ms": 337801,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Tampoco podrán hacerlo el hambre ni el frío, ni los peligros ni la muerte.",
+      "verse": 35,
+      "start_ms": 337801,
+      "end_ms": 342763,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Como dice la Biblia: Por causa tuya nos matan; ¡por ti nos tratan siempre como a ovejas para el matadero!",
+      "verse": 36,
+      "start_ms": 342764,
+      "end_ms": 349464,
+      "duration_ms": 6700
+    },
+    {
+      "word": "En medio de todos nuestros problemas, estamos seguros de que Jesucristo, quien nos amó, nos dará la victoria total.",
+      "verse": 37,
+      "start_ms": 349464,
+      "end_ms": 356926,
+      "duration_ms": 7462
+    },
+    {
+      "word": "Yo estoy seguro de que nada podrá separarnos del amor de Dios: ni la vida ni la muerte, ni los ángeles ni los espíritus, ni lo presente ni lo futuro, ni los poderes del cielo ni los del infierno, ni nada de lo creado por Dios.",
+      "verse": 38,
+      "start_ms": 356926,
+      "end_ms": 370801,
+      "duration_ms": 13875
+    },
+    {
+      "word": "Nada, absolutamente nada, podrá separarnos del amor que Dios nos ha mostrado por medio de nuestro Señor Jesucristo!",
+      "verse": 39,
+      "start_ms": 370801,
+      "end_ms": 378138,
+      "duration_ms": 7337
+    }
+  ]
+}

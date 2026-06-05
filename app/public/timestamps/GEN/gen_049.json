@@ -1,0 +1,544 @@
+{
+  "book": "GEN",
+  "chapter": 49,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 30,
+  "word_count": 46,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 107,
+      "text": "Jacob ordenó a sus hijos que se reunieran, pues quería decirles lo que les pasaría en el futuro. Les dijo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 107,
+      "char_end": 167,
+      "text": "Hijos míos, vengan conmigo; escuchen lo que voy a decirles."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 167,
+      "char_end": 310,
+      "text": "Rubén, tú eres mi hijo mayor; eres mi primer hijo, la primera prueba de mi fuerza; tienes el primer lugar de honor y el primer lugar en poder."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 310,
+      "char_end": 464,
+      "text": "Pero me ofendiste gravemente, pues te acostaste con una de mis mujeres. Por eso ya no serás el primero, pues eres como el mar, que no se puede controlar."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 464,
+      "char_end": 528,
+      "text": "Simeón y Leví son como fieras que atacan siempre con violencia."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 528,
+      "char_end": 647,
+      "text": "No quiero estar con ellos, ni andar en su compañía, porque en un arranque de enojo mataron gente y despedazaron toros."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 647,
+      "char_end": 755,
+      "text": "¡Maldita sea su furia! ¡Maldita sea su crueldad! Yo haré que se dispersen por todo el territorio de Israel."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 755,
+      "char_end": 849,
+      "text": "Tú, Judá, dominarás a tus enemigos; tus hermanos te alabarán y se inclinarán en tu presencia."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 849,
+      "char_end": 968,
+      "text": "Eres como un león feroz que al regresar con su presa se agacha y se echa en el suelo, ¿y quién se atreve a molestarlo?"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 968,
+      "char_end": 1094,
+      "text": "Siempre tendrás en tus manos el cetro que te hace gobernante, hasta que venga el verdadero rey que gobernará a todo el mundo."
+    },
+    {
+      "verse": 11,
+      "label": "11-12",
+      "char_start": 1094,
+      "char_end": 1270,
+      "text": "Sus ojos son más oscuros que el vino; sus dientes son más blancos que la leche. Atará su burro, a la mejor rama del viñedo, y sin quitarse la ropa se empapará en ríos de vino."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1270,
+      "char_end": 1381,
+      "text": "Tú, Zabulón, vivirás a la orilla del mar; tus costas servirán de puertos y tus fronteras llegarán hasta Sidón."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1381,
+      "char_end": 1448,
+      "text": "Tú, Isacar, eres fuerte como un burro acostado entre dos corrales."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1448,
+      "char_end": 1564,
+      "text": "Cuando veas que tu tierra es buena y agradable para descansar, con mucho gusto aceptarás hacer trabajo de esclavos."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1564,
+      "char_end": 1641,
+      "text": "Y tú, Dan, le harás justicia a tu pueblo, pues eres de las tribus de Israel."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1641,
+      "char_end": 1762,
+      "text": "Eres como una serpiente que espera junto al camino: cuando muerde las pezuñas del caballo, el jinete se cae de espaldas."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1762,
+      "char_end": 1798,
+      "text": "¡Dios mío, sigo esperando tu ayuda!"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1798,
+      "char_end": 1892,
+      "text": "A ti, Gad, te atacará una banda de ladrones, pero tú los atacarás por donde menos lo esperen."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1892,
+      "char_end": 1992,
+      "text": "Y tú, Aser, tendrás la mejor comida y cocinarás los mejores platillos, dignos de la mesa de un rey."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1992,
+      "char_end": 2081,
+      "text": "Tú, Neftalí, amas la libertad. Eres como una venada suelta, madre de hermosos venaditos."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2081,
+      "char_end": 2169,
+      "text": "Tú, José, pareces un caballo criado junto a un manantial. ¡Saltas y trepas por el muro!"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2169,
+      "char_end": 2220,
+      "text": "Gente malvada y cruel te ataca y te lanza flechas,"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2220,
+      "char_end": 2339,
+      "text": "pero tú mantienes firme tu arco y no doblas tus fuertes brazos. ¡Gracias al Dios poderoso que guía y protege a Israel!"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2339,
+      "char_end": 2586,
+      "text": "¡Gracias al Dios de tu padre, que te brinda su ayuda! ¡Gracias al Dios que todo lo puede y que siempre te bendice! ¡Con bendiciones del alto cielo! ¡Con bendiciones del mar profundo! ¡Con bendiciones a las madres que tienen hijos y los alimentan!"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2586,
+      "char_end": 2808,
+      "text": "Son más grandes las bendiciones que vienen de tu padre, que las abundantes bendiciones de los cerros y montañas eternas. Todas estas bendiciones te pertenecen a ti, José, pues entre tus hermanos tú eres el más importante."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2808,
+      "char_end": 2909,
+      "text": "Tú, Benjamín, eres un lobo feroz; por la mañana devoras tu presa y por la tarde repartes los restos."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2909,
+      "char_end": 3020,
+      "text": "Así bendijo Jacob a sus doce hijos. A cada una de las doce tribus de Israel le dio la bendición más apropiada."
+    },
+    {
+      "verse": 29,
+      "label": "29-31",
+      "char_start": 3020,
+      "char_end": 3440,
+      "text": "Después de bendecirlos, Jacob les dio las siguientes instrucciones: Ya me falta poco para morir. Por favor, entiérrenme en la tumba de mis antepasados. Me refiero a la cueva y al campo que Abraham le compró a Efrón el hitita para enterrar a su esposa Sara. Allí están enterrados Abraham e Isaac, y su esposa Rebeca, y allí también enterré a Lía. Esa cueva está en Canaán, en el campo de Macpelá, cerca del bosque Mamré."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3440,
+      "char_end": 3501,
+      "text": "Tanto la cueva como el campo se los compramos a los hititas."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3501,
+      "char_end": 3575,
+      "text": "Luego de darles estas instrucciones, Jacob se encogió en la cama y murió."
+    }
+  ],
+  "words": [
+    {
+      "word": "Jacob ordenó a sus hijos que se reunieran, pues quería decirles lo que les pasaría en el futuro.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6062,
+      "duration_ms": 5962
+    },
+    {
+      "word": "Les dijo: Hijos míos, vengan conmigo; escuchen lo que voy a decirles.",
+      "verse": 1,
+      "start_ms": 6012,
+      "end_ms": 11662,
+      "duration_ms": 5650
+    },
+    {
+      "word": "Rubén, tú eres mi hijo mayor; eres mi primer hijo, la primera prueba de mi fuerza; tienes el primer lugar de honor y el primer lugar en poder.",
+      "verse": 3,
+      "start_ms": 11662,
+      "end_ms": 20587,
+      "duration_ms": 8925
+    },
+    {
+      "word": "Pero me ofendiste gravemente, pues te acostaste con una de mis mujeres.",
+      "verse": 4,
+      "start_ms": 20587,
+      "end_ms": 25587,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Por eso ya no serás el primero, pues eres como el mar, que no se puede controlar.",
+      "verse": 4,
+      "start_ms": 25587,
+      "end_ms": 31087,
+      "duration_ms": 5500
+    },
+    {
+      "word": "Simeón y Leví son como fieras que atacan siempre con violencia.",
+      "verse": 5,
+      "start_ms": 31087,
+      "end_ms": 35349,
+      "duration_ms": 4262
+    },
+    {
+      "word": "No quiero estar con ellos, ni andar en su compañía, porque en un arranque de enojo mataron gente y despedazaron toros.",
+      "verse": 6,
+      "start_ms": 35350,
+      "end_ms": 42812,
+      "duration_ms": 7462
+    },
+    {
+      "word": "Maldita sea su furia!",
+      "verse": 7,
+      "start_ms": 42812,
+      "end_ms": 45037,
+      "duration_ms": 2225
+    },
+    {
+      "word": "Maldita sea su crueldad!",
+      "verse": 7,
+      "start_ms": 45037,
+      "end_ms": 47387,
+      "duration_ms": 2350
+    },
+    {
+      "word": "Yo haré que se dispersen por todo el territorio de Israel.",
+      "verse": 7,
+      "start_ms": 47387,
+      "end_ms": 51387,
+      "duration_ms": 4000
+    },
+    {
+      "word": "Tú, Judá, dominarás a tus enemigos; tus hermanos te alabarán y se inclinarán en tu presencia.",
+      "verse": 8,
+      "start_ms": 51387,
+      "end_ms": 57974,
+      "duration_ms": 6587
+    },
+    {
+      "word": "Eres como un león feroz que al regresar con su presa se agacha y se echa en el suelo, ¿y quién se atreve a molestarlo?",
+      "verse": 9,
+      "start_ms": 57975,
+      "end_ms": 64800,
+      "duration_ms": 6825
+    },
+    {
+      "word": "Siempre tendrás en tus manos el cetro que te hace gobernante, hasta que venga el verdadero rey que gobernará a todo el mundo.",
+      "verse": 10,
+      "start_ms": 64800,
+      "end_ms": 71800,
+      "duration_ms": 7000
+    },
+    {
+      "word": "Sus ojos son más oscuros que el vino; sus dientes son más blancos que la leche.",
+      "verse": 11,
+      "start_ms": 71800,
+      "end_ms": 76987,
+      "duration_ms": 5187
+    },
+    {
+      "word": "Atará su burro, a la mejor rama del viñedo, y sin quitarse la ropa se empapará en ríos de vino.",
+      "verse": 11,
+      "start_ms": 76987,
+      "end_ms": 83399,
+      "duration_ms": 6412
+    },
+    {
+      "word": "Tú, Zabulón, vivirás a la orilla del mar; tus costas servirán de puertos y tus fronteras llegarán hasta Sidón.",
+      "verse": 13,
+      "start_ms": 83400,
+      "end_ms": 90512,
+      "duration_ms": 7112
+    },
+    {
+      "word": "Tú, Isacar, eres fuerte como un burro acostado entre dos corrales.",
+      "verse": 14,
+      "start_ms": 90512,
+      "end_ms": 95724,
+      "duration_ms": 5212
+    },
+    {
+      "word": "Cuando veas que tu tierra es buena y agradable para descansar, con mucho gusto aceptarás hacer trabajo de esclavos.",
+      "verse": 15,
+      "start_ms": 95725,
+      "end_ms": 102625,
+      "duration_ms": 6900
+    },
+    {
+      "word": "Y tú, Dan, le harás justicia a tu pueblo, pues eres de las tribus de Israel.",
+      "verse": 16,
+      "start_ms": 102625,
+      "end_ms": 108200,
+      "duration_ms": 5575
+    },
+    {
+      "word": "Eres como una serpiente que espera junto al camino: cuando muerde las pezuñas del caballo, el jinete se cae de espaldas.",
+      "verse": 17,
+      "start_ms": 108200,
+      "end_ms": 115725,
+      "duration_ms": 7525
+    },
+    {
+      "word": "Dios mío, sigo esperando tu ayuda!",
+      "verse": 18,
+      "start_ms": 115725,
+      "end_ms": 118812,
+      "duration_ms": 3087
+    },
+    {
+      "word": "A ti, Gad, te atacará una banda de ladrones, pero tú los atacarás por donde menos lo esperen.",
+      "verse": 19,
+      "start_ms": 118812,
+      "end_ms": 125537,
+      "duration_ms": 6725
+    },
+    {
+      "word": "Y tú, Aser, tendrás la mejor comida y cocinarás los mejores platillos, dignos de la mesa de un rey.",
+      "verse": 20,
+      "start_ms": 125537,
+      "end_ms": 132699,
+      "duration_ms": 7162
+    },
+    {
+      "word": "Tú, Neftalí, amas la libertad.",
+      "verse": 21,
+      "start_ms": 132700,
+      "end_ms": 135900,
+      "duration_ms": 3200
+    },
+    {
+      "word": "Eres como una venada suelta, madre de hermosos venaditos.",
+      "verse": 21,
+      "start_ms": 135900,
+      "end_ms": 140400,
+      "duration_ms": 4500
+    },
+    {
+      "word": "Tú, José, pareces un caballo criado junto a un manantial.",
+      "verse": 22,
+      "start_ms": 140400,
+      "end_ms": 145037,
+      "duration_ms": 4637
+    },
+    {
+      "word": "Saltas y trepas por el muro!",
+      "verse": 22,
+      "start_ms": 145037,
+      "end_ms": 147562,
+      "duration_ms": 2525
+    },
+    {
+      "word": "Gente malvada y cruel te ataca y te lanza flechas, pero tú mantienes firme tu arco y no doblas tus fuertes brazos.",
+      "verse": 23,
+      "start_ms": 147562,
+      "end_ms": 155049,
+      "duration_ms": 7487
+    },
+    {
+      "word": "Gracias al Dios poderoso que guía y protege a Israel!",
+      "verse": 24,
+      "start_ms": 155050,
+      "end_ms": 158850,
+      "duration_ms": 3800
+    },
+    {
+      "word": "Gracias al Dios de tu padre, que te brinda su ayuda!",
+      "verse": 25,
+      "start_ms": 158850,
+      "end_ms": 162612,
+      "duration_ms": 3762
+    },
+    {
+      "word": "Gracias al Dios que todo lo puede y que siempre te bendice!",
+      "verse": 25,
+      "start_ms": 162612,
+      "end_ms": 166474,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Con bendiciones del alto cielo!",
+      "verse": 25,
+      "start_ms": 166475,
+      "end_ms": 169025,
+      "duration_ms": 2550
+    },
+    {
+      "word": "Con bendiciones del mar profundo!",
+      "verse": 25,
+      "start_ms": 169025,
+      "end_ms": 171625,
+      "duration_ms": 2600
+    },
+    {
+      "word": "Con bendiciones a las madres que tienen hijos y los alimentan!",
+      "verse": 25,
+      "start_ms": 171625,
+      "end_ms": 175625,
+      "duration_ms": 4000
+    },
+    {
+      "word": "Son más grandes las bendiciones que vienen de tu padre, que las abundantes bendiciones de los cerros y montañas eternas.",
+      "verse": 26,
+      "start_ms": 175625,
+      "end_ms": 182600,
+      "duration_ms": 6975
+    },
+    {
+      "word": "Todas estas bendiciones te pertenecen a ti, José, pues entre tus hermanos tú eres el más importante.",
+      "verse": 26,
+      "start_ms": 182600,
+      "end_ms": 189262,
+      "duration_ms": 6662
+    },
+    {
+      "word": "Tú, Benjamín, eres un lobo feroz; por la mañana devoras tu presa y por la tarde repartes los restos.",
+      "verse": 27,
+      "start_ms": 189262,
+      "end_ms": 196499,
+      "duration_ms": 7237
+    },
+    {
+      "word": "Así bendijo Jacob a sus doce hijos.",
+      "verse": 28,
+      "start_ms": 196500,
+      "end_ms": 199712,
+      "duration_ms": 3212
+    },
+    {
+      "word": "A cada una de las doce tribus de Israel le dio la bendición más apropiada.",
+      "verse": 28,
+      "start_ms": 199712,
+      "end_ms": 204624,
+      "duration_ms": 4912
+    },
+    {
+      "word": "Después de bendecirlos, Jacob les dio las siguientes instrucciones: Ya me falta poco para morir.",
+      "verse": 29,
+      "start_ms": 204625,
+      "end_ms": 211050,
+      "duration_ms": 6425
+    },
+    {
+      "word": "Por favor, entiérrenme en la tumba de mis antepasados.",
+      "verse": 29,
+      "start_ms": 211050,
+      "end_ms": 215175,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Me refiero a la cueva y al campo que Abraham le compró a Efrón el hitita para enterrar a su esposa Sara.",
+      "verse": 29,
+      "start_ms": 215175,
+      "end_ms": 221012,
+      "duration_ms": 5837
+    },
+    {
+      "word": "Allí están enterrados Abraham e Isaac, y su esposa Rebeca, y allí también enterré a Lía.",
+      "verse": 29,
+      "start_ms": 221012,
+      "end_ms": 227362,
+      "duration_ms": 6350
+    },
+    {
+      "word": "Esa cueva está en Canaán, en el campo de Macpelá, cerca del bosque Mamré.",
+      "verse": 29,
+      "start_ms": 227362,
+      "end_ms": 232549,
+      "duration_ms": 5187
+    },
+    {
+      "word": "Tanto la cueva como el campo se los compramos a los hititas.",
+      "verse": 32,
+      "start_ms": 232550,
+      "end_ms": 236475,
+      "duration_ms": 3925
+    },
+    {
+      "word": "Luego de darles estas instrucciones, Jacob se encogió en la cama y murió.",
+      "verse": 33,
+      "start_ms": 236475,
+      "end_ms": 241462,
+      "duration_ms": 4987
+    }
+  ]
+}

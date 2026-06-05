@@ -1,0 +1,166 @@
+{
+  "book": "SAL",
+  "chapter": 112,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 10,
+  "word_count": 12,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 97,
+      "text": "¡Alabemos a nuestro Dios! ¡Dios bendice a quienes lo adoran y gozan cumpliendo sus mandamientos!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 97,
+      "char_end": 173,
+      "text": "Los hijos de la gente honrada dominarán el país y serán siempre bendecidos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 173,
+      "char_end": 239,
+      "text": "Tendrán en su casa muchas riquezas, y siempre triunfarán en todo."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 239,
+      "char_end": 338,
+      "text": "Como son bondadosos, justos y compasivos, guiarán a la gente honrada como una luz en la oscuridad."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 338,
+      "char_end": 421,
+      "text": "La gente buena es generosa: presta a quienes le piden, y maneja bien sus negocios."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 421,
+      "char_end": 486,
+      "text": "La gente buena jamás fracasa; siempre se le recuerda con cariño."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 486,
+      "char_end": 575,
+      "text": "Nunca le asalta el temor de recibir malas noticias, pues confía en Dios de todo corazón."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 575,
+      "char_end": 683,
+      "text": "No tiene por qué preocuparse, ni por qué sentir miedo; hasta mira con aire de triunfo a todos sus enemigos."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 683,
+      "char_end": 798,
+      "text": "Siempre que ayuda a los pobres, lo hace con generosidad; en todo sale triunfante, y levanta la cabeza con orgullo."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 798,
+      "char_end": 933,
+      "text": "Cuando los malvados ven esto se enojan y rechinan los dientes, pero acaban por perderse. ¡Los planes de los malvados siempre fracasan!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Alabemos a nuestro Dios!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 2475,
+      "duration_ms": 2375
+    },
+    {
+      "word": "Dios bendice a quienes lo adoran y gozan cumpliendo sus mandamientos!",
+      "verse": 1,
+      "start_ms": 2425,
+      "end_ms": 6862,
+      "duration_ms": 4437
+    },
+    {
+      "word": "Los hijos de la gente honrada dominarán el país y serán siempre bendecidos.",
+      "verse": 2,
+      "start_ms": 6862,
+      "end_ms": 11874,
+      "duration_ms": 5012
+    },
+    {
+      "word": "Tendrán en su casa muchas riquezas, y siempre triunfarán en todo.",
+      "verse": 3,
+      "start_ms": 11875,
+      "end_ms": 16450,
+      "duration_ms": 4575
+    },
+    {
+      "word": "Como son bondadosos, justos y compasivos, guiarán a la gente honrada como una luz en la oscuridad.",
+      "verse": 4,
+      "start_ms": 16450,
+      "end_ms": 23012,
+      "duration_ms": 6562
+    },
+    {
+      "word": "La gente buena es generosa: presta a quienes le piden, y maneja bien sus negocios.",
+      "verse": 5,
+      "start_ms": 23012,
+      "end_ms": 29024,
+      "duration_ms": 6012
+    },
+    {
+      "word": "La gente buena jamás fracasa; siempre se le recuerda con cariño.",
+      "verse": 6,
+      "start_ms": 29025,
+      "end_ms": 33600,
+      "duration_ms": 4575
+    },
+    {
+      "word": "Nunca le asalta el temor de recibir malas noticias, pues confía en Dios de todo corazón.",
+      "verse": 7,
+      "start_ms": 33600,
+      "end_ms": 39525,
+      "duration_ms": 5925
+    },
+    {
+      "word": "No tiene por qué preocuparse, ni por qué sentir miedo; hasta mira con aire de triunfo a todos sus enemigos.",
+      "verse": 8,
+      "start_ms": 39525,
+      "end_ms": 46362,
+      "duration_ms": 6837
+    },
+    {
+      "word": "Siempre que ayuda a los pobres, lo hace con generosidad; en todo sale triunfante, y levanta la cabeza con orgullo.",
+      "verse": 9,
+      "start_ms": 46362,
+      "end_ms": 53937,
+      "duration_ms": 7575
+    },
+    {
+      "word": "Cuando los malvados ven esto se enojan y rechinan los dientes, pero acaban por perderse.",
+      "verse": 10,
+      "start_ms": 53937,
+      "end_ms": 59499,
+      "duration_ms": 5562
+    },
+    {
+      "word": "Los planes de los malvados siempre fracasan!",
+      "verse": 10,
+      "start_ms": 59500,
+      "end_ms": 62612,
+      "duration_ms": 3112
+    }
+  ]
+}

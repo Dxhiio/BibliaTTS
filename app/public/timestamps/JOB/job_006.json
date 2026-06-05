@@ -1,0 +1,390 @@
+{
+  "book": "JOB",
+  "chapter": 6,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 25,
+  "word_count": 29,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 50,
+      "text": "Job le respondió a Elifaz de la siguiente manera:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 50,
+      "char_end": 121,
+      "text": "¡Me gustaría que todas mis desgracias pudieran pesarse en una balanza!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 121,
+      "char_end": 222,
+      "text": "¡Son tantas, que pesarían más que toda la arena del mar! ¡No debiera sorprenderles oírme hablar así!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 222,
+      "char_end": 340,
+      "text": "El Dios todopoderoso me ha herido, y eso me llena de miedo; ¡ya siento correr por mi cuerpo el veneno de sus flechas!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 340,
+      "char_end": 409,
+      "text": "Con pasto en el pesebre, no hay burro que rebuzne ni buey que brame."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 409,
+      "char_end": 477,
+      "text": "Con sal, toda comida es buena; ¡hasta la clara de huevo es sabrosa!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 477,
+      "char_end": 537,
+      "text": "Pero lo que estoy sufriendo, ¡sabe peor que comida sin sal!"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 537,
+      "char_end": 586,
+      "text": "¡Cómo quisiera que Dios me diera lo que le pido:"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 586,
+      "char_end": 636,
+      "text": "que de una vez me aplaste, y me deje hecho polvo!"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 636,
+      "char_end": 722,
+      "text": "¡Jamás he desobedecido a Dios! Éste es el consuelo que me queda en medio de mi dolor."
+    },
+    {
+      "verse": 11,
+      "label": "11-12",
+      "char_start": 722,
+      "char_end": 852,
+      "text": "Yo no estoy hecho de piedra, ni estoy hecho de bronce. Ya no me quedan fuerzas para seguir viviendo, ni espero nada de esta vida."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 852,
+      "char_end": 914,
+      "text": "No tengo a nadie que me ayude, ni puedo valerme por mí mismo."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 914,
+      "char_end": 998,
+      "text": "Si en verdad fueran mis amigos, no me abandonarían, aunque yo no obedeciera a Dios."
+    },
+    {
+      "verse": 15,
+      "label": "15-16",
+      "char_start": 998,
+      "char_end": 1161,
+      "text": "Pero ustedes, mis amigos, cambian tanto como los ríos: unas veces están secos, y otras veces se desbordan. Cuando la nieve se derrite, corren turbios y revueltos,"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1161,
+      "char_end": 1231,
+      "text": "pero en tiempos de calor y sequías se quedan secos y dejan de correr."
+    },
+    {
+      "verse": 18,
+      "label": "18-21",
+      "char_start": 1231,
+      "char_end": 1585,
+      "text": "Ustedes se han portado conmigo como lo hacen los comerciantes de las ciudades de Temá y Sabá. Salen con sus caravanas, y al cruzar el desierto, se apartan del camino esperando encontrar los ríos. Al no hallarlos, se quedan confundidos y frustrados; pierden entonces la confianza y mueren. Lo mismo hicieron ustedes: vieron algo espantoso y se asustaron."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1585,
+      "char_end": 1641,
+      "text": "Yo no les pedí que vinieran, ni tampoco les pedí dinero"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1641,
+      "char_end": 1688,
+      "text": "para que me salvaran de mis malvados enemigos."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1688,
+      "char_end": 1742,
+      "text": "Demuéstrenme en qué he fallado, y me callaré la boca."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1742,
+      "char_end": 1823,
+      "text": "Si tuvieran razón, no me ofendería; ¡pero ustedes me acusan y no tienen pruebas!"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 1823,
+      "char_end": 1928,
+      "text": "No me juzguen por mis palabras, hablo así pues estoy desesperado, y las palabras se las lleva el viento."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 1928,
+      "char_end": 2012,
+      "text": "¡Ustedes son capaces de todo, hasta de vender a un huérfano y abandonar a un amigo!"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2012,
+      "char_end": 2063,
+      "text": "Mírenme a los ojos, y díganme si soy un mentiroso."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2063,
+      "char_end": 2138,
+      "text": "No sean injustos conmigo y dejen de juzgarme; reconozcan que soy inocente."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2138,
+      "char_end": 2221,
+      "text": "No les he mentido. ¿Acaso creen que no sé distinguir entre la verdad y la mentira?"
+    }
+  ],
+  "words": [
+    {
+      "word": "Job le respondió a Elifaz de la siguiente manera: ¡Me gustaría que todas mis desgracias pudieran pesarse en una balanza!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7237,
+      "duration_ms": 7137
+    },
+    {
+      "word": "Son tantas, que pesarían más que toda la arena del mar!",
+      "verse": 3,
+      "start_ms": 7187,
+      "end_ms": 11374,
+      "duration_ms": 4187
+    },
+    {
+      "word": "No debiera sorprenderles oírme hablar así!",
+      "verse": 3,
+      "start_ms": 11375,
+      "end_ms": 14487,
+      "duration_ms": 3112
+    },
+    {
+      "word": "El Dios todopoderoso me ha herido, y eso me llena de miedo; ¡ya siento correr por mi cuerpo el veneno de sus flechas!",
+      "verse": 4,
+      "start_ms": 14487,
+      "end_ms": 21874,
+      "duration_ms": 7387
+    },
+    {
+      "word": "Con pasto en el pesebre, no hay burro que rebuzne ni buey que brame.",
+      "verse": 5,
+      "start_ms": 21875,
+      "end_ms": 26375,
+      "duration_ms": 4500
+    },
+    {
+      "word": "Con sal, toda comida es buena; ¡hasta la clara de huevo es sabrosa!",
+      "verse": 6,
+      "start_ms": 26375,
+      "end_ms": 31125,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Pero lo que estoy sufriendo, ¡sabe peor que comida sin sal!",
+      "verse": 7,
+      "start_ms": 31125,
+      "end_ms": 35200,
+      "duration_ms": 4075
+    },
+    {
+      "word": "Cómo quisiera que Dios me diera lo que le pido: que de una vez me aplaste, y me deje hecho polvo!",
+      "verse": 8,
+      "start_ms": 35200,
+      "end_ms": 41200,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Jamás he desobedecido a Dios!",
+      "verse": 10,
+      "start_ms": 41200,
+      "end_ms": 43850,
+      "duration_ms": 2650
+    },
+    {
+      "word": "Éste es el consuelo que me queda en medio de mi dolor.",
+      "verse": 10,
+      "start_ms": 43850,
+      "end_ms": 47512,
+      "duration_ms": 3662
+    },
+    {
+      "word": "Yo no estoy hecho de piedra, ni estoy hecho de bronce.",
+      "verse": 11,
+      "start_ms": 47512,
+      "end_ms": 51274,
+      "duration_ms": 3762
+    },
+    {
+      "word": "Ya no me quedan fuerzas para seguir viviendo, ni espero nada de esta vida.",
+      "verse": 11,
+      "start_ms": 51275,
+      "end_ms": 56200,
+      "duration_ms": 4925
+    },
+    {
+      "word": "No tengo a nadie que me ayude, ni puedo valerme por mí mismo.",
+      "verse": 13,
+      "start_ms": 56200,
+      "end_ms": 60537,
+      "duration_ms": 4337
+    },
+    {
+      "word": "Si en verdad fueran mis amigos, no me abandonarían, aunque yo no obedeciera a Dios.",
+      "verse": 14,
+      "start_ms": 60537,
+      "end_ms": 66187,
+      "duration_ms": 5650
+    },
+    {
+      "word": "Pero ustedes, mis amigos, cambian tanto como los ríos: unas veces están secos, y otras veces se desbordan.",
+      "verse": 15,
+      "start_ms": 66187,
+      "end_ms": 73899,
+      "duration_ms": 7712
+    },
+    {
+      "word": "Cuando la nieve se derrite, corren turbios y revueltos, pero en tiempos de calor y sequías se quedan secos y dejan de correr.",
+      "verse": 15,
+      "start_ms": 73900,
+      "end_ms": 81550,
+      "duration_ms": 7650
+    },
+    {
+      "word": "Ustedes se han portado conmigo como lo hacen los comerciantes de las ciudades de Temá y Sabá.",
+      "verse": 18,
+      "start_ms": 81550,
+      "end_ms": 86912,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Salen con sus caravanas, y al cruzar el desierto, se apartan del camino esperando encontrar los ríos.",
+      "verse": 18,
+      "start_ms": 86912,
+      "end_ms": 93562,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Al no hallarlos, se quedan confundidos y frustrados; pierden entonces la confianza y mueren.",
+      "verse": 18,
+      "start_ms": 93562,
+      "end_ms": 99962,
+      "duration_ms": 6400
+    },
+    {
+      "word": "Lo mismo hicieron ustedes: vieron algo espantoso y se asustaron.",
+      "verse": 18,
+      "start_ms": 99962,
+      "end_ms": 104799,
+      "duration_ms": 4837
+    },
+    {
+      "word": "Yo no les pedí que vinieran, ni tampoco les pedí dinero para que me salvaran de mis malvados enemigos.",
+      "verse": 22,
+      "start_ms": 104800,
+      "end_ms": 111137,
+      "duration_ms": 6337
+    },
+    {
+      "word": "Demuéstrenme en qué he fallado, y me callaré la boca.",
+      "verse": 24,
+      "start_ms": 111137,
+      "end_ms": 115112,
+      "duration_ms": 3975
+    },
+    {
+      "word": "Si tuvieran razón, no me ofendería; ¡pero ustedes me acusan y no tienen pruebas!",
+      "verse": 25,
+      "start_ms": 115112,
+      "end_ms": 120599,
+      "duration_ms": 5487
+    },
+    {
+      "word": "No me juzguen por mis palabras, hablo así pues estoy desesperado, y las palabras se las lleva el viento.",
+      "verse": 26,
+      "start_ms": 120600,
+      "end_ms": 127112,
+      "duration_ms": 6512
+    },
+    {
+      "word": "Ustedes son capaces de todo, hasta de vender a un huérfano y abandonar a un amigo!",
+      "verse": 27,
+      "start_ms": 127112,
+      "end_ms": 132512,
+      "duration_ms": 5400
+    },
+    {
+      "word": "Mírenme a los ojos, y díganme si soy un mentiroso.",
+      "verse": 28,
+      "start_ms": 132512,
+      "end_ms": 136587,
+      "duration_ms": 4075
+    },
+    {
+      "word": "No sean injustos conmigo y dejen de juzgarme; reconozcan que soy inocente.",
+      "verse": 29,
+      "start_ms": 136587,
+      "end_ms": 141912,
+      "duration_ms": 5325
+    },
+    {
+      "word": "No les he mentido.",
+      "verse": 30,
+      "start_ms": 141912,
+      "end_ms": 143887,
+      "duration_ms": 1975
+    },
+    {
+      "word": "Acaso creen que no sé distinguir entre la verdad y la mentira?",
+      "verse": 30,
+      "start_ms": 143887,
+      "end_ms": 147824,
+      "duration_ms": 3937
+    }
+  ]
+}

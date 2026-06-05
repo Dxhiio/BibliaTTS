@@ -1,0 +1,824 @@
+{
+  "book": "MAR",
+  "chapter": 1,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 41,
+  "word_count": 75,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 124,
+      "text": "Ésta es la historia de cómo empezaron a anunciarse las buenas noticias acerca de Jesús, que es el Hijo de Dios y el Mesías."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 124,
+      "char_end": 276,
+      "text": "Todo comenzó como Dios lo había anunciado por medio del profeta Isaías: Yo envío a mi mensajero delante de ti, y él va a preparar todo para tu llegada."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 276,
+      "char_end": 390,
+      "text": "Alguien grita en el desierto: «¡Prepárenle el camino a nuestro Dios! ¡Ábranle paso! ¡Que no encuentre estorbos!»."
+    },
+    {
+      "verse": 4,
+      "label": "4-8",
+      "char_start": 390,
+      "char_end": 1021,
+      "text": "Por esos días, Juan el Bautista apareció en el desierto. Se vestía con ropa hecha de pelo de camello y usaba un taparrabos de cuero. Comía saltamontes y miel silvestre. Juan le decía a la gente: ¡Bautícense y demuestren que ya no quieren hacer lo malo! Sólo así Dios los perdonará. También decía: Después de mí viene alguien más poderoso que yo. ¡Ni siquiera merezco ser su esclavo! Yo los he bautizado a ustedes con agua, pero él los bautizará con el Espíritu Santo. Todos los que vivían en la región de Judea, y en Jerusalén, iban al desierto para oír a Juan. Muchos confesaban sus pecados y Juan los bautizaba en el río Jordán."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1021,
+      "char_end": 1164,
+      "text": "En esos días, Jesús estaba en la región de Galilea, en un pueblo llamado Nazaret. Desde allí viajó hasta el río Jordán, donde Juan lo bautizó."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1164,
+      "char_end": 1282,
+      "text": "Cuando Jesús salió del agua, vio que se abría el cielo, y que el Espíritu de Dios bajaba sobre él en forma de paloma."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1282,
+      "char_end": 1402,
+      "text": "En ese momento, una voz que venía del cielo le dijo: Tú eres mi Hijo, a quien quiero mucho. Estoy muy contento contigo."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1402,
+      "char_end": 1463,
+      "text": "De inmediato, el Espíritu de Dios llevó a Jesús al desierto."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1463,
+      "char_end": 1627,
+      "text": "Y Jesús estuvo allí cuarenta días, viviendo entre los animales salvajes. Satanás trataba de hacerlo caer en sus trampas, pero los ángeles de Dios cuidaban a Jesús."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1627,
+      "char_end": 1757,
+      "text": "Después de que metieron a Juan en la cárcel, Jesús fue a la región de Galilea. Allí anunciaba las buenas noticias acerca de Dios:"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1757,
+      "char_end": 1857,
+      "text": "¡Ya está cerca el día en que Dios comenzará a reinar! Vuélvanse a Dios y crean en la buena noticia."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1857,
+      "char_end": 2008,
+      "text": "Jesús pasaba por la orilla del Lago de Galilea, cuando vio a Simón y a Andrés, dos pescadores que eran hermanos, y que estaban pescando con sus redes."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2008,
+      "char_end": 2105,
+      "text": "Jesús les dijo: Síganme. En lugar de pescar peces, les voy a enseñar a ganar seguidores para mí."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2105,
+      "char_end": 2182,
+      "text": "En ese mismo instante, Simón y Andrés dejaron sus redes y siguieron a Jesús."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2182,
+      "char_end": 2329,
+      "text": "Un poco más adelante, Jesús vio a Santiago y a Juan, hijos de Zebedeo. Ellos también eran pescadores, y estaban en una barca arreglando las redes."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2329,
+      "char_end": 2419,
+      "text": "Jesús los llamó, y ellos lo siguieron, dejando a su padre en la barca, con los empleados."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2419,
+      "char_end": 2529,
+      "text": "Jesús y sus discípulos fueron al pueblo de Cafarnaúm. El sábado, Jesús fue a la sinagoga y comenzó a enseñar."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2529,
+      "char_end": 2655,
+      "text": "Todos estaban admirados de sus enseñanzas, pues cuando les hablaba, lo hacía con autoridad, y no como los maestros de la Ley."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2655,
+      "char_end": 2715,
+      "text": "En la sinagoga, había un hombre que tenía un espíritu malo."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2715,
+      "char_end": 2864,
+      "text": "El espíritu le gritó a Jesús: —¡Jesús de Nazaret! ¿Qué tienes contra nosotros? ¿Acaso vienes a destruirnos? Yo te conozco. ¡Tú eres el Hijo de Dios!"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2864,
+      "char_end": 2940,
+      "text": "Jesús reprendió al espíritu malo y le dijo: —¡Cállate! ¡Sal de este hombre!"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2940,
+      "char_end": 3030,
+      "text": "El espíritu malo salió gritando y haciendo que el hombre se pusiera a temblar muy fuerte."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3030,
+      "char_end": 3240,
+      "text": "La gente se quedó muy asombrada, y se preguntaba: ¿Qué es esto? ¿Una nueva enseñanza? ¿Qué clase de poder tiene este hombre? Con autoridad y poder ordena a los espíritus malos que salgan, ¡y ellos lo obedecen!"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3240,
+      "char_end": 3293,
+      "text": "Y Jesús se hizo famoso en toda la región de Galilea."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3293,
+      "char_end": 3384,
+      "text": "Luego Jesús salió de la sinagoga y se fue con Santiago y Juan a la casa de Simón y Andrés."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3384,
+      "char_end": 3472,
+      "text": "Cuando entró en la casa, le dijeron que la suegra de Simón estaba enferma y con fiebre."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3472,
+      "char_end": 3609,
+      "text": "Jesús fue a verla, la tomó de la mano y la levantó. En ese mismo instante la fiebre se le fue, y la suegra de Simón les sirvió de comer."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3609,
+      "char_end": 3701,
+      "text": "Al anochecer, la gente le llevó a Jesús todos los enfermos y todos los que tenían demonios."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3701,
+      "char_end": 3760,
+      "text": "Todo el pueblo se reunió a la entrada de la casa de Simón."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3760,
+      "char_end": 3927,
+      "text": "Allí Jesús sanó a mucha gente que tenía diferentes enfermedades, y también expulsó a muchos demonios. Pero no dejaba hablar a esos demonios, porque ellos lo conocían."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3927,
+      "char_end": 3999,
+      "text": "En la madrugada, Jesús se levantó y fue a un lugar solitario para orar."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3999,
+      "char_end": 4054,
+      "text": "Más tarde, Simón y sus compañeros salieron a buscarlo."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4054,
+      "char_end": 4115,
+      "text": "Cuando lo encontraron, le dijeron: —Todos te andan buscando."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4115,
+      "char_end": 4248,
+      "text": "Pero Jesús les dijo: —Vamos a otros pueblos cercanos. También allí debo anunciar estas buenas noticias, pues para eso vine al mundo."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4248,
+      "char_end": 4382,
+      "text": "Jesús recorrió toda la región de Galilea anunciando las buenas noticias en las sinagogas de cada pueblo, y expulsando a los demonios."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4382,
+      "char_end": 4524,
+      "text": "Un hombre que tenía la piel enferma se acercó a Jesús, se arrodilló ante él y le dijo: —Señor, yo sé que tú puedes sanarme. ¿Quieres hacerlo?"
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4524,
+      "char_end": 4629,
+      "text": "Jesús tuvo compasión del enfermo, extendió la mano, lo tocó y le dijo: —¡Quiero hacerlo! ¡Ya estás sano!"
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4629,
+      "char_end": 4682,
+      "text": "De inmediato, aquel hombre quedó completamente sano;"
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4682,
+      "char_end": 4732,
+      "text": "pero Jesús lo despidió con una seria advertencia:"
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 4732,
+      "char_end": 4914,
+      "text": "—No le digas a nadie lo que te sucedió. Sólo ve con el sacerdote para que te examine, y lleva la ofrenda que Moisés ordenó. Así los sacerdotes verán que ya no tienes esa enfermedad."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 4914,
+      "char_end": 5141,
+      "text": "Pero el hombre empezó a contarles a todos cómo había sido sanado. Por eso Jesús no podía entrar libremente en los pueblos, sino que tenía que quedarse en las afueras, donde no había gente. De todos modos, la gente iba a verlo."
+    }
+  ],
+  "words": [
+    {
+      "word": "Ésta es la historia de cómo empezaron a anunciarse las buenas noticias acerca de Jesús, que es el Hijo de Dios y el Mesías.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7525,
+      "duration_ms": 7425
+    },
+    {
+      "word": "Todo comenzó como Dios lo había anunciado por medio del profeta Isaías: Yo envío a mi mensajero delante de ti, y él va a preparar todo para tu llegada.",
+      "verse": 2,
+      "start_ms": 7475,
+      "end_ms": 17037,
+      "duration_ms": 9562
+    },
+    {
+      "word": "Alguien grita en el desierto: «¡Prepárenle el camino a nuestro Dios!",
+      "verse": 3,
+      "start_ms": 17037,
+      "end_ms": 21574,
+      "duration_ms": 4537
+    },
+    {
+      "word": "Ábranle paso!",
+      "verse": 3,
+      "start_ms": 21575,
+      "end_ms": 23412,
+      "duration_ms": 1837
+    },
+    {
+      "word": "Que no encuentre estorbos!",
+      "verse": 3,
+      "start_ms": 23412,
+      "end_ms": 25712,
+      "duration_ms": 2300
+    },
+    {
+      "word": "Por esos días, Juan el Bautista apareció en el desierto.",
+      "verse": 4,
+      "start_ms": 25712,
+      "end_ms": 29799,
+      "duration_ms": 4087
+    },
+    {
+      "word": "Se vestía con ropa hecha de pelo de camello y usaba un taparrabos de cuero.",
+      "verse": 4,
+      "start_ms": 29800,
+      "end_ms": 34700,
+      "duration_ms": 4900
+    },
+    {
+      "word": "Comía saltamontes y miel silvestre.",
+      "verse": 4,
+      "start_ms": 34700,
+      "end_ms": 37737,
+      "duration_ms": 3037
+    },
+    {
+      "word": "Juan le decía a la gente: ¡Bautícense y demuestren que ya no quieren hacer lo malo!",
+      "verse": 4,
+      "start_ms": 37737,
+      "end_ms": 42862,
+      "duration_ms": 5125
+    },
+    {
+      "word": "Sólo así Dios los perdonará.",
+      "verse": 4,
+      "start_ms": 42862,
+      "end_ms": 45437,
+      "duration_ms": 2575
+    },
+    {
+      "word": "También decía: Después de mí viene alguien más poderoso que yo.",
+      "verse": 4,
+      "start_ms": 45437,
+      "end_ms": 49799,
+      "duration_ms": 4362
+    },
+    {
+      "word": "Ni siquiera merezco ser su esclavo!",
+      "verse": 4,
+      "start_ms": 49800,
+      "end_ms": 52450,
+      "duration_ms": 2650
+    },
+    {
+      "word": "Yo los he bautizado a ustedes con agua, pero él los bautizará con el Espíritu Santo.",
+      "verse": 4,
+      "start_ms": 52450,
+      "end_ms": 57887,
+      "duration_ms": 5437
+    },
+    {
+      "word": "Todos los que vivían en la región de Judea, y en Jerusalén, iban al desierto para oír a Juan.",
+      "verse": 4,
+      "start_ms": 57887,
+      "end_ms": 64074,
+      "duration_ms": 6187
+    },
+    {
+      "word": "Muchos confesaban sus pecados y Juan los bautizaba en el río Jordán.",
+      "verse": 4,
+      "start_ms": 64075,
+      "end_ms": 68700,
+      "duration_ms": 4625
+    },
+    {
+      "word": "En esos días, Jesús estaba en la región de Galilea, en un pueblo llamado Nazaret.",
+      "verse": 9,
+      "start_ms": 68700,
+      "end_ms": 74487,
+      "duration_ms": 5787
+    },
+    {
+      "word": "Desde allí viajó hasta el río Jordán, donde Juan lo bautizó.",
+      "verse": 9,
+      "start_ms": 74487,
+      "end_ms": 78824,
+      "duration_ms": 4337
+    },
+    {
+      "word": "Cuando Jesús salió del agua, vio que se abría el cielo, y que el Espíritu de Dios bajaba sobre él en forma de paloma.",
+      "verse": 10,
+      "start_ms": 78825,
+      "end_ms": 86062,
+      "duration_ms": 7237
+    },
+    {
+      "word": "En ese momento, una voz que venía del cielo le dijo: Tú eres mi Hijo, a quien quiero mucho.",
+      "verse": 11,
+      "start_ms": 86062,
+      "end_ms": 92562,
+      "duration_ms": 6500
+    },
+    {
+      "word": "Estoy muy contento contigo.",
+      "verse": 11,
+      "start_ms": 92562,
+      "end_ms": 95099,
+      "duration_ms": 2537
+    },
+    {
+      "word": "De inmediato, el Espíritu de Dios llevó a Jesús al desierto.",
+      "verse": 12,
+      "start_ms": 95100,
+      "end_ms": 99650,
+      "duration_ms": 4550
+    },
+    {
+      "word": "Y Jesús estuvo allí cuarenta días, viviendo entre los animales salvajes.",
+      "verse": 13,
+      "start_ms": 99650,
+      "end_ms": 104912,
+      "duration_ms": 5262
+    },
+    {
+      "word": "Satanás trataba de hacerlo caer en sus trampas, pero los ángeles de Dios cuidaban a Jesús.",
+      "verse": 13,
+      "start_ms": 104912,
+      "end_ms": 110899,
+      "duration_ms": 5987
+    },
+    {
+      "word": "Después de que metieron a Juan en la cárcel, Jesús fue a la región de Galilea.",
+      "verse": 14,
+      "start_ms": 110900,
+      "end_ms": 116000,
+      "duration_ms": 5100
+    },
+    {
+      "word": "Allí anunciaba las buenas noticias acerca de Dios: ¡Ya está cerca el día en que Dios comenzará a reinar!",
+      "verse": 14,
+      "start_ms": 116000,
+      "end_ms": 122700,
+      "duration_ms": 6700
+    },
+    {
+      "word": "Vuélvanse a Dios y crean en la buena noticia.",
+      "verse": 15,
+      "start_ms": 122700,
+      "end_ms": 126075,
+      "duration_ms": 3375
+    },
+    {
+      "word": "Jesús pasaba por la orilla del Lago de Galilea, cuando vio a Simón y a Andrés, dos pescadores que eran hermanos, y que estaban pescando con sus redes.",
+      "verse": 16,
+      "start_ms": 126075,
+      "end_ms": 135562,
+      "duration_ms": 9487
+    },
+    {
+      "word": "Jesús les dijo: Síganme.",
+      "verse": 17,
+      "start_ms": 135562,
+      "end_ms": 138424,
+      "duration_ms": 2862
+    },
+    {
+      "word": "En lugar de pescar peces, les voy a enseñar a ganar seguidores para mí.",
+      "verse": 17,
+      "start_ms": 138425,
+      "end_ms": 143212,
+      "duration_ms": 4787
+    },
+    {
+      "word": "En ese mismo instante, Simón y Andrés dejaron sus redes y siguieron a Jesús.",
+      "verse": 18,
+      "start_ms": 143212,
+      "end_ms": 148412,
+      "duration_ms": 5200
+    },
+    {
+      "word": "Un poco más adelante, Jesús vio a Santiago y a Juan, hijos de Zebedeo.",
+      "verse": 19,
+      "start_ms": 148412,
+      "end_ms": 153662,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Ellos también eran pescadores, y estaban en una barca arreglando las redes.",
+      "verse": 19,
+      "start_ms": 153662,
+      "end_ms": 158837,
+      "duration_ms": 5175
+    },
+    {
+      "word": "Jesús los llamó, y ellos lo siguieron, dejando a su padre en la barca, con los empleados.",
+      "verse": 20,
+      "start_ms": 158837,
+      "end_ms": 164899,
+      "duration_ms": 6062
+    },
+    {
+      "word": "Jesús y sus discípulos fueron al pueblo de Cafarnaúm.",
+      "verse": 21,
+      "start_ms": 164900,
+      "end_ms": 168512,
+      "duration_ms": 3612
+    },
+    {
+      "word": "El sábado, Jesús fue a la sinagoga y comenzó a enseñar.",
+      "verse": 21,
+      "start_ms": 168512,
+      "end_ms": 172862,
+      "duration_ms": 4350
+    },
+    {
+      "word": "Todos estaban admirados de sus enseñanzas, pues cuando les hablaba, lo hacía con autoridad, y no como los maestros de la Ley.",
+      "verse": 22,
+      "start_ms": 172862,
+      "end_ms": 180799,
+      "duration_ms": 7937
+    },
+    {
+      "word": "En la sinagoga, había un hombre que tenía un espíritu malo.",
+      "verse": 23,
+      "start_ms": 180800,
+      "end_ms": 185175,
+      "duration_ms": 4375
+    },
+    {
+      "word": "El espíritu le gritó a Jesús: —¡Jesús de Nazaret!",
+      "verse": 24,
+      "start_ms": 185175,
+      "end_ms": 189012,
+      "duration_ms": 3837
+    },
+    {
+      "word": "Qué tienes contra nosotros?",
+      "verse": 24,
+      "start_ms": 189012,
+      "end_ms": 191512,
+      "duration_ms": 2500
+    },
+    {
+      "word": "Acaso vienes a destruirnos?",
+      "verse": 24,
+      "start_ms": 191512,
+      "end_ms": 194124,
+      "duration_ms": 2612
+    },
+    {
+      "word": "Yo te conozco.",
+      "verse": 24,
+      "start_ms": 194125,
+      "end_ms": 196062,
+      "duration_ms": 1937
+    },
+    {
+      "word": "Tú eres el Hijo de Dios!",
+      "verse": 24,
+      "start_ms": 196062,
+      "end_ms": 198374,
+      "duration_ms": 2312
+    },
+    {
+      "word": "Jesús reprendió al espíritu malo y le dijo: —¡Cállate!",
+      "verse": 25,
+      "start_ms": 198375,
+      "end_ms": 202587,
+      "duration_ms": 4212
+    },
+    {
+      "word": "Sal de este hombre!",
+      "verse": 25,
+      "start_ms": 202587,
+      "end_ms": 204624,
+      "duration_ms": 2037
+    },
+    {
+      "word": "El espíritu malo salió gritando y haciendo que el hombre se pusiera a temblar muy fuerte.",
+      "verse": 26,
+      "start_ms": 204625,
+      "end_ms": 210062,
+      "duration_ms": 5437
+    },
+    {
+      "word": "La gente se quedó muy asombrada, y se preguntaba: ¿Qué es esto?",
+      "verse": 27,
+      "start_ms": 210062,
+      "end_ms": 214862,
+      "duration_ms": 4800
+    },
+    {
+      "word": "Una nueva enseñanza?",
+      "verse": 27,
+      "start_ms": 214862,
+      "end_ms": 216999,
+      "duration_ms": 2137
+    },
+    {
+      "word": "Qué clase de poder tiene este hombre?",
+      "verse": 27,
+      "start_ms": 217000,
+      "end_ms": 219950,
+      "duration_ms": 2950
+    },
+    {
+      "word": "Con autoridad y poder ordena a los espíritus malos que salgan, ¡y ellos lo obedecen!",
+      "verse": 27,
+      "start_ms": 219950,
+      "end_ms": 225587,
+      "duration_ms": 5637
+    },
+    {
+      "word": "Y Jesús se hizo famoso en toda la región de Galilea.",
+      "verse": 28,
+      "start_ms": 225587,
+      "end_ms": 229549,
+      "duration_ms": 3962
+    },
+    {
+      "word": "Luego Jesús salió de la sinagoga y se fue con Santiago y Juan a la casa de Simón y Andrés.",
+      "verse": 29,
+      "start_ms": 229550,
+      "end_ms": 235162,
+      "duration_ms": 5612
+    },
+    {
+      "word": "Cuando entró en la casa, le dijeron que la suegra de Simón estaba enferma y con fiebre.",
+      "verse": 30,
+      "start_ms": 235162,
+      "end_ms": 240287,
+      "duration_ms": 5125
+    },
+    {
+      "word": "Jesús fue a verla, la tomó de la mano y la levantó.",
+      "verse": 31,
+      "start_ms": 240287,
+      "end_ms": 244174,
+      "duration_ms": 3887
+    },
+    {
+      "word": "En ese mismo instante la fiebre se le fue, y la suegra de Simón les sirvió de comer.",
+      "verse": 31,
+      "start_ms": 244175,
+      "end_ms": 249487,
+      "duration_ms": 5312
+    },
+    {
+      "word": "Al anochecer, la gente le llevó a Jesús todos los enfermos y todos los que tenían demonios.",
+      "verse": 32,
+      "start_ms": 249487,
+      "end_ms": 255649,
+      "duration_ms": 6162
+    },
+    {
+      "word": "Todo el pueblo se reunió a la entrada de la casa de Simón.",
+      "verse": 33,
+      "start_ms": 255650,
+      "end_ms": 259462,
+      "duration_ms": 3812
+    },
+    {
+      "word": "Allí Jesús sanó a mucha gente que tenía diferentes enfermedades, y también expulsó a muchos demonios.",
+      "verse": 34,
+      "start_ms": 259462,
+      "end_ms": 266212,
+      "duration_ms": 6750
+    },
+    {
+      "word": "Pero no dejaba hablar a esos demonios, porque ellos lo conocían.",
+      "verse": 34,
+      "start_ms": 266212,
+      "end_ms": 270662,
+      "duration_ms": 4450
+    },
+    {
+      "word": "En la",
+      "verse": 35,
+      "start_ms": 270662,
+      "end_ms": 272074,
+      "duration_ms": 1412
+    },
+    {
+      "word": "madrugada, Jesús se levantó y fue a un lugar solitario para orar.",
+      "verse": 35,
+      "start_ms": 272236,
+      "end_ms": 277098,
+      "duration_ms": 4862
+    },
+    {
+      "word": "Más tarde, Simón y sus compañeros salieron a buscarlo.",
+      "verse": 36,
+      "start_ms": 277048,
+      "end_ms": 281223,
+      "duration_ms": 4175
+    },
+    {
+      "word": "Cuando lo encontraron, le dijeron: —Todos te andan buscando.",
+      "verse": 37,
+      "start_ms": 281223,
+      "end_ms": 285635,
+      "duration_ms": 4412
+    },
+    {
+      "word": "Pero Jesús les dijo: —Vamos a otros pueblos cercanos.",
+      "verse": 38,
+      "start_ms": 285636,
+      "end_ms": 289811,
+      "duration_ms": 4175
+    },
+    {
+      "word": "También allí debo anunciar estas buenas noticias, pues para eso vine al mundo.",
+      "verse": 38,
+      "start_ms": 289811,
+      "end_ms": 294911,
+      "duration_ms": 5100
+    },
+    {
+      "word": "Jesús recorrió toda la región de Galilea anunciando las buenas noticias en las sinagogas de cada pueblo, y expulsando a los demonios.",
+      "verse": 39,
+      "start_ms": 294911,
+      "end_ms": 302773,
+      "duration_ms": 7862
+    },
+    {
+      "word": "Un hombre que tenía la piel enferma se acercó a Jesús, se arrodilló ante él y le dijo: —Señor, yo sé que tú puedes sanarme.",
+      "verse": 40,
+      "start_ms": 302773,
+      "end_ms": 310710,
+      "duration_ms": 7937
+    },
+    {
+      "word": "Quieres hacerlo?",
+      "verse": 40,
+      "start_ms": 310711,
+      "end_ms": 312448,
+      "duration_ms": 1737
+    },
+    {
+      "word": "Jesús tuvo compasión del enfermo, extendió la mano, lo tocó y le dijo: —¡Quiero hacerlo!",
+      "verse": 41,
+      "start_ms": 312448,
+      "end_ms": 318673,
+      "duration_ms": 6225
+    },
+    {
+      "word": "Ya estás sano!",
+      "verse": 41,
+      "start_ms": 318673,
+      "end_ms": 320435,
+      "duration_ms": 1762
+    },
+    {
+      "word": "De inmediato, aquel hombre quedó completamente sano; pero Jesús lo despidió con una seria advertencia: —No le digas a nadie lo que te sucedió.",
+      "verse": 42,
+      "start_ms": 320436,
+      "end_ms": 329386,
+      "duration_ms": 8950
+    },
+    {
+      "word": "Sólo ve con el sacerdote para que te examine, y lleva la ofrenda que Moisés ordenó.",
+      "verse": 44,
+      "start_ms": 329386,
+      "end_ms": 334711,
+      "duration_ms": 5325
+    },
+    {
+      "word": "Así los sacerdotes verán que ya no tienes esa enfermedad.",
+      "verse": 44,
+      "start_ms": 334711,
+      "end_ms": 338586,
+      "duration_ms": 3875
+    },
+    {
+      "word": "Pero el hombre empezó a contarles a todos cómo había sido sanado.",
+      "verse": 45,
+      "start_ms": 338586,
+      "end_ms": 342673,
+      "duration_ms": 4087
+    },
+    {
+      "word": "Por eso Jesús no podía entrar libremente en los pueblos, sino que tenía que quedarse en las afueras, donde no había gente.",
+      "verse": 45,
+      "start_ms": 342673,
+      "end_ms": 350010,
+      "duration_ms": 7337
+    },
+    {
+      "word": "De todos modos, la gente iba a verlo.",
+      "verse": 45,
+      "start_ms": 350011,
+      "end_ms": 353523,
+      "duration_ms": 3512
+    }
+  ]
+}

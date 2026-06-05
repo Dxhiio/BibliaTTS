@@ -1,0 +1,278 @@
+{
+  "book": "EZE",
+  "chapter": 42,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 15,
+  "word_count": 23,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 161,
+      "text": "Después aquel hombre me llevó al patio, y me hizo entrar en el edificio de cuartos que estaba hacia el norte, en la parte posterior del templo, frente al patio."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 161,
+      "char_end": 255,
+      "text": "Por el lado norte, el edificio medía cincuenta metros de largo y veinticinco metros de ancho."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 255,
+      "char_end": 398,
+      "text": "Tenía tres pisos. Por un lado daba al espacio abierto que medía diez metros de ancho, y por el otro daba al piso empedrado del patio exterior."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 398,
+      "char_end": 526,
+      "text": "Frente a los cuartos había un pasillo de cinco metros de ancho y cincuenta de largo. Las puertas de los cuartos daban al norte."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 526,
+      "char_end": 651,
+      "text": "Los cuartos del piso superior eran más pequeños que los del piso intermedio, y éstos eran menores que los de la planta baja,"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 651,
+      "char_end": 756,
+      "text": "porque el piso de arriba no tenía columnas como el piso de abajo. Por eso se iban haciendo más angostos."
+    },
+    {
+      "verse": 7,
+      "label": "7-8",
+      "char_start": 756,
+      "char_end": 967,
+      "text": "Los cuartos que daban al patio medían, todos juntos, veinticinco metros de largo, lo mismo que el muro que tenían enfrente. Los cuartos que daban hacia el templo medían, todos juntos, cincuenta metros de largo."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 967,
+      "char_end": 1049,
+      "text": "A la planta baja de esos cuartos se podía entrar sólo por el lado este del patio."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1049,
+      "char_end": 1178,
+      "text": "Por el lado sur había otro edificio de cuartos. Esos cuartos estaban detrás del templo, y también a lo largo del muro del patio."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1178,
+      "char_end": 1221,
+      "text": "En todo eran iguales a los del lado norte."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1221,
+      "char_end": 1336,
+      "text": "A estos cuartos del lado sur se podía entrar sólo por el lado este, por donde comenzaba el pasillo frente al muro."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1336,
+      "char_end": 1659,
+      "text": "Aquel hombre me explicó lo siguiente: Los cuartos del lado norte están destinados a un uso especial, lo mismo que los del lado sur, que están frente al patio. Los sacerdotes comen allí las ofrendas que se presentan a Dios. Como son lugares muy especiales, allí también se llevan todas las ofrendas que se presentan a Dios."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1659,
+      "char_end": 1921,
+      "text": "Cuando los sacerdotes salen de esos cuartos, después de haber cumplido con sus servicios, deben dejar allí sus vestiduras especiales de sacerdotes. No se les permite salir con esas vestiduras al patio donde está el pueblo, sino que tienen que cambiarse de ropa."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1921,
+      "char_end": 2036,
+      "text": "En cuanto el hombre terminó de medir el templo, me sacó por la puerta que da al este, y empezó a medir la muralla."
+    },
+    {
+      "verse": 16,
+      "label": "16-20",
+      "char_start": 2036,
+      "char_end": 2203,
+      "text": "Luego midió los cuatro lados de la muralla, y cada lado medía doscientos cincuenta metros de largo. Esta muralla servía para separar el templo del resto de la ciudad."
+    }
+  ],
+  "words": [
+    {
+      "word": "Después aquel hombre me llevó al patio, y me hizo entrar en el edificio de cuartos que estaba hacia el norte, en la parte posterior del templo, frente al patio.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 9100,
+      "duration_ms": 9000
+    },
+    {
+      "word": "Por el lado norte, el edificio medía cincuenta metros de largo y veinticinco metros de ancho.",
+      "verse": 2,
+      "start_ms": 9050,
+      "end_ms": 15100,
+      "duration_ms": 6050
+    },
+    {
+      "word": "Tenía tres pisos.",
+      "verse": 3,
+      "start_ms": 15100,
+      "end_ms": 17325,
+      "duration_ms": 2225
+    },
+    {
+      "word": "Por un lado daba al espacio abierto que medía diez metros de ancho, y por el otro daba al piso empedrado del patio exterior.",
+      "verse": 3,
+      "start_ms": 17325,
+      "end_ms": 24675,
+      "duration_ms": 7350
+    },
+    {
+      "word": "Frente a los cuartos había un pasillo de cinco metros de ancho y cincuenta de largo.",
+      "verse": 4,
+      "start_ms": 24675,
+      "end_ms": 29737,
+      "duration_ms": 5062
+    },
+    {
+      "word": "Las puertas de los cuartos daban al norte.",
+      "verse": 4,
+      "start_ms": 29737,
+      "end_ms": 32749,
+      "duration_ms": 3012
+    },
+    {
+      "word": "Los cuartos del piso superior eran más pequeños que los del piso intermedio, y éstos eran menores que los de la planta baja, porque el piso de arriba no tenía columnas como el piso de abajo.",
+      "verse": 5,
+      "start_ms": 32750,
+      "end_ms": 43150,
+      "duration_ms": 10400
+    },
+    {
+      "word": "Por eso se iban haciendo más angostos.",
+      "verse": 6,
+      "start_ms": 43150,
+      "end_ms": 46287,
+      "duration_ms": 3137
+    },
+    {
+      "word": "Los cuartos que daban al patio medían, todos juntos, veinticinco metros de largo, lo mismo que el muro que tenían enfrente.",
+      "verse": 7,
+      "start_ms": 46287,
+      "end_ms": 54099,
+      "duration_ms": 7812
+    },
+    {
+      "word": "Los cuartos que daban hacia el templo medían, todos juntos, cincuenta metros de largo.",
+      "verse": 7,
+      "start_ms": 54100,
+      "end_ms": 59887,
+      "duration_ms": 5787
+    },
+    {
+      "word": "A la planta baja de esos cuartos se podía entrar sólo por el lado este del patio.",
+      "verse": 9,
+      "start_ms": 59887,
+      "end_ms": 64887,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Por el lado sur había otro edificio de cuartos.",
+      "verse": 10,
+      "start_ms": 64887,
+      "end_ms": 68387,
+      "duration_ms": 3500
+    },
+    {
+      "word": "Esos cuartos estaban detrás del templo, y también a lo largo del muro del patio.",
+      "verse": 10,
+      "start_ms": 68387,
+      "end_ms": 73637,
+      "duration_ms": 5250
+    },
+    {
+      "word": "En todo eran iguales a los del lado norte.",
+      "verse": 11,
+      "start_ms": 73637,
+      "end_ms": 76874,
+      "duration_ms": 3237
+    },
+    {
+      "word": "A estos cuartos del lado sur se podía entrar sólo por el lado este, por donde comenzaba el pasillo frente al muro.",
+      "verse": 12,
+      "start_ms": 76875,
+      "end_ms": 83675,
+      "duration_ms": 6800
+    },
+    {
+      "word": "Aquel hombre me explicó lo siguiente: Los cuartos del lado norte están destinados a un uso especial, lo mismo que los del lado sur, que están frente al patio.",
+      "verse": 13,
+      "start_ms": 83675,
+      "end_ms": 92862,
+      "duration_ms": 9187
+    },
+    {
+      "word": "Los sacerdotes comen allí las ofrendas que se presentan a Dios.",
+      "verse": 13,
+      "start_ms": 92862,
+      "end_ms": 97012,
+      "duration_ms": 4150
+    },
+    {
+      "word": "Como son lugares muy especiales, allí también se llevan todas las ofrendas que se presentan a Dios.",
+      "verse": 13,
+      "start_ms": 97012,
+      "end_ms": 103324,
+      "duration_ms": 6312
+    },
+    {
+      "word": "Cuando los sacerdotes salen de esos cuartos, después de haber cumplido con sus servicios, deben dejar allí sus vestiduras especiales de sacerdotes.",
+      "verse": 14,
+      "start_ms": 103325,
+      "end_ms": 112012,
+      "duration_ms": 8687
+    },
+    {
+      "word": "No se les permite salir con esas vestiduras al patio donde está el pueblo, sino que tienen que cambiarse de ropa.",
+      "verse": 14,
+      "start_ms": 112012,
+      "end_ms": 118562,
+      "duration_ms": 6550
+    },
+    {
+      "word": "En cuanto el hombre terminó de medir el templo, me sacó por la puerta que da al este, y empezó a medir la muralla.",
+      "verse": 15,
+      "start_ms": 118562,
+      "end_ms": 125349,
+      "duration_ms": 6787
+    },
+    {
+      "word": "Luego midió los cuatro lados de la muralla, y cada lado medía doscientos cincuenta metros de largo.",
+      "verse": 16,
+      "start_ms": 125350,
+      "end_ms": 131437,
+      "duration_ms": 6087
+    },
+    {
+      "word": "Esta muralla servía para separar el templo del resto de la ciudad.",
+      "verse": 16,
+      "start_ms": 131437,
+      "end_ms": 135737,
+      "duration_ms": 4300
+    }
+  ]
+}

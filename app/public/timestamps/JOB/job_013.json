@@ -1,0 +1,390 @@
+{
+  "book": "JOB",
+  "chapter": 13,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 27,
+  "word_count": 27,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 52,
+      "text": "Todo lo que han dicho, yo mismo lo he visto y oído."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 52,
+      "char_end": 116,
+      "text": "Creo saber tanto como ustedes; no creo que sean mejores que yo."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 116,
+      "char_end": 178,
+      "text": "Pero yo preferiría discutir mi caso con el Dios todopoderoso,"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 178,
+      "char_end": 247,
+      "text": "porque ustedes son unos mentirosos; ¡sus consejos no ayudan en nada!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 247,
+      "char_end": 302,
+      "text": "¡Si se callaran la boca, mostrarían algo de sabiduría!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 302,
+      "char_end": 357,
+      "text": "Por favor, escúchenme; pongan atención a mis palabras:"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 357,
+      "char_end": 428,
+      "text": "¿Van a mentir en nombre de Dios, y a tratar de defenderlo con engaños?"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 428,
+      "char_end": 502,
+      "text": "¿Acaso creen que le hacen un favor actuando como sus abogados defensores?"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 502,
+      "char_end": 581,
+      "text": "Si Dios los examinara a ustedes, no podrían engañarlo como engañan a la gente."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 581,
+      "char_end": 650,
+      "text": "Más bien, Dios los reprendería si quisieran defenderlo con mentiras;"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 650,
+      "char_end": 706,
+      "text": "¡es tan grande su poder que los haría temblar de miedo!"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 706,
+      "char_end": 782,
+      "text": "Las explicaciones de ustedes han perdido su sentido, y no sirven para nada."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 782,
+      "char_end": 843,
+      "text": "Mejor cállense, y déjenme hablar, no importa lo que me pase."
+    },
+    {
+      "verse": 14,
+      "label": "14-15",
+      "char_start": 843,
+      "char_end": 951,
+      "text": "Voy a defenderme ante Dios, aunque él quiera matarme; voy a jugarme la vida, pues no tengo nada que perder."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 951,
+      "char_end": 1031,
+      "text": "Ningún malvado se atrevería a presentarse ante él, así que él mismo me salvará."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1031,
+      "char_end": 1052,
+      "text": "¡Préstenme atención!"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1052,
+      "char_end": 1119,
+      "text": "Ya he preparado mi defensa, y sé que Dios reconocerá mi inocencia."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1119,
+      "char_end": 1191,
+      "text": "Si alguien puede acusarme de algo, yo callaré y jamás volveré a hablar."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1191,
+      "char_end": 1277,
+      "text": "Dios mío, sólo te pido dos cosas; si me las concedes, no tendré que esconderme de ti."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1277,
+      "char_end": 1330,
+      "text": "¡Ya no me castigues, ni me hagas sentir tanto miedo!"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1330,
+      "char_end": 1440,
+      "text": "Pídeme que presente mi defensa, y yo te responderé; si lo prefieres, yo hablaré primero, y tú me responderás."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1440,
+      "char_end": 1502,
+      "text": "¡Dime en qué te he faltado! ¡Muéstrame en qué te he ofendido!"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1502,
+      "char_end": 1556,
+      "text": "¿Por qué te escondes? ¿Por qué me tienes por enemigo?"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1556,
+      "char_end": 1630,
+      "text": "¿Por qué me persigues tanto, si soy como una hoja que se lleva el viento?"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 1630,
+      "char_end": 1728,
+      "text": "Me estás condenando a un amargo sufrimiento; ¡me estás castigando por los pecados de mi juventud!"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 1728,
+      "char_end": 1809,
+      "text": "A toda hora me vigilas; me tienes encadenado. ¡Doy un paso y sigues mis huellas!"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 1809,
+      "char_end": 1890,
+      "text": "Todos nosotros, nos gastamos como zapatos, como vestidos que se come la polilla."
+    }
+  ],
+  "words": [
+    {
+      "word": "Todo lo que han dicho, yo mismo lo he visto y oído.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4112,
+      "duration_ms": 4012
+    },
+    {
+      "word": "Creo saber tanto como ustedes; no creo que sean mejores que yo.",
+      "verse": 2,
+      "start_ms": 4062,
+      "end_ms": 8812,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Pero yo preferiría discutir mi caso con el Dios todopoderoso, porque ustedes son unos mentirosos; ¡sus consejos no ayudan en nada!",
+      "verse": 3,
+      "start_ms": 8812,
+      "end_ms": 17174,
+      "duration_ms": 8362
+    },
+    {
+      "word": "Si se callaran la boca, mostrarían algo de sabiduría!",
+      "verse": 5,
+      "start_ms": 17175,
+      "end_ms": 21200,
+      "duration_ms": 4025
+    },
+    {
+      "word": "Por favor, escúchenme; pongan atención a mis palabras: ¿Van a mentir en nombre de Dios, y a tratar de defenderlo con engaños?",
+      "verse": 6,
+      "start_ms": 21200,
+      "end_ms": 29537,
+      "duration_ms": 8337
+    },
+    {
+      "word": "Acaso creen que le hacen un favor actuando como sus abogados defensores?",
+      "verse": 8,
+      "start_ms": 29537,
+      "end_ms": 34287,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Si Dios los examinara a ustedes, no podrían engañarlo como engañan a la gente.",
+      "verse": 9,
+      "start_ms": 34287,
+      "end_ms": 39624,
+      "duration_ms": 5337
+    },
+    {
+      "word": "Más bien, Dios los reprendería si quisieran defenderlo con mentiras; ¡es tan grande su poder que los haría temblar de miedo!",
+      "verse": 10,
+      "start_ms": 39625,
+      "end_ms": 47012,
+      "duration_ms": 7387
+    },
+    {
+      "word": "Las explicaciones de ustedes han perdido su sentido, y no sirven para nada.",
+      "verse": 12,
+      "start_ms": 47012,
+      "end_ms": 52074,
+      "duration_ms": 5062
+    },
+    {
+      "word": "Mejor cállense, y déjenme hablar, no importa lo que me pase.",
+      "verse": 13,
+      "start_ms": 52075,
+      "end_ms": 56737,
+      "duration_ms": 4662
+    },
+    {
+      "word": "Voy a defenderme ante Dios, aunque él quiera matarme; voy a jugarme la vida, pues no tengo nada que perder.",
+      "verse": 14,
+      "start_ms": 56737,
+      "end_ms": 63824,
+      "duration_ms": 7087
+    },
+    {
+      "word": "Ningún malvado se atrevería a presentarse ante él, así que él mismo me salvará.",
+      "verse": 16,
+      "start_ms": 63825,
+      "end_ms": 69287,
+      "duration_ms": 5462
+    },
+    {
+      "word": "Préstenme atención!",
+      "verse": 17,
+      "start_ms": 69287,
+      "end_ms": 71324,
+      "duration_ms": 2037
+    },
+    {
+      "word": "Ya he preparado mi defensa, y sé que Dios reconocerá mi inocencia.",
+      "verse": 18,
+      "start_ms": 71325,
+      "end_ms": 76137,
+      "duration_ms": 4812
+    },
+    {
+      "word": "Si alguien puede acusarme de algo, yo callaré y jamás volveré a hablar.",
+      "verse": 19,
+      "start_ms": 76137,
+      "end_ms": 81112,
+      "duration_ms": 4975
+    },
+    {
+      "word": "Dios mío, sólo te pido dos cosas; si me las concedes, no tendré que esconderme de ti.",
+      "verse": 20,
+      "start_ms": 81112,
+      "end_ms": 87599,
+      "duration_ms": 6487
+    },
+    {
+      "word": "Ya no me castigues, ni me hagas sentir tanto miedo!",
+      "verse": 21,
+      "start_ms": 87600,
+      "end_ms": 91300,
+      "duration_ms": 3700
+    },
+    {
+      "word": "Pídeme que presente mi defensa, y yo te responderé; si lo prefieres, yo hablaré primero, y tú me responderás.",
+      "verse": 22,
+      "start_ms": 91300,
+      "end_ms": 99012,
+      "duration_ms": 7712
+    },
+    {
+      "word": "Dime en qué te he faltado!",
+      "verse": 23,
+      "start_ms": 99012,
+      "end_ms": 101149,
+      "duration_ms": 2137
+    },
+    {
+      "word": "Muéstrame en qué te he ofendido!",
+      "verse": 23,
+      "start_ms": 101150,
+      "end_ms": 103787,
+      "duration_ms": 2637
+    },
+    {
+      "word": "Por qué te escondes?",
+      "verse": 24,
+      "start_ms": 103787,
+      "end_ms": 105799,
+      "duration_ms": 2012
+    },
+    {
+      "word": "Por qué me tienes por enemigo?",
+      "verse": 24,
+      "start_ms": 105800,
+      "end_ms": 108225,
+      "duration_ms": 2425
+    },
+    {
+      "word": "Por qué me persigues tanto, si soy como una hoja que se lleva el viento?",
+      "verse": 25,
+      "start_ms": 108225,
+      "end_ms": 112975,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Me estás condenando a un amargo sufrimiento; ¡me estás castigando por los pecados de mi juventud!",
+      "verse": 26,
+      "start_ms": 112975,
+      "end_ms": 118850,
+      "duration_ms": 5875
+    },
+    {
+      "word": "A toda hora me vigilas; me tienes encadenado.",
+      "verse": 27,
+      "start_ms": 118850,
+      "end_ms": 122700,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Doy un paso y sigues mis huellas!",
+      "verse": 27,
+      "start_ms": 122700,
+      "end_ms": 125450,
+      "duration_ms": 2750
+    },
+    {
+      "word": "Todos nosotros, nos gastamos como zapatos, como vestidos que se come la polilla.",
+      "verse": 28,
+      "start_ms": 125450,
+      "end_ms": 131225,
+      "duration_ms": 5775
+    }
+  ]
+}

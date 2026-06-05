@@ -1,0 +1,215 @@
+{
+  "book": "SAL",
+  "chapter": 63,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 11,
+  "word_count": 18,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 123,
+      "text": "Dios mío, tú eres mi Dios. Con ansias te busco desde que amanece, como quien busca una fuente en el más ardiente desierto."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 123,
+      "char_end": 191,
+      "text": "¡Quiero verte en tu santuario, y contemplar tu poder y tu grandeza!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 191,
+      "char_end": 255,
+      "text": "Más que vivir, prefiero que me ames. Te alabaré con mis labios."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 255,
+      "char_end": 315,
+      "text": "¡Mientras viva te alabaré! ¡Alzaré mis manos para alabarte!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 315,
+      "char_end": 427,
+      "text": "¡Con mis labios te alabaré y daré gritos de alegría! ¡Eso me dejará más satisfecho que la comida más deliciosa!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 427,
+      "char_end": 505,
+      "text": "Me acuesto y me acuerdo de ti; durante toda la noche estás en mi pensamiento."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 505,
+      "char_end": 561,
+      "text": "¡Tú eres quien me ayuda! ¡Soy feliz bajo tu protección!"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 561,
+      "char_end": 626,
+      "text": "¡A ti me entrego por completo, porque tu gran poder es mi apoyo!"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 626,
+      "char_end": 697,
+      "text": "¡Destruye a los que quieren matarme! ¡Échalos en el hoyo más profundo!"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 697,
+      "char_end": 765,
+      "text": "¡Que los maten en la guerra! ¡Que se los coman los perros salvajes!"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 765,
+      "char_end": 876,
+      "text": "Concédele al rey y al pueblo que te adora alabarte y alegrarse en ti, pero a los mentirosos, ¡tápales la boca!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios mío, tú eres mi Dios.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 2962,
+      "duration_ms": 2862
+    },
+    {
+      "word": "Con ansias te busco desde que amanece, como quien busca una fuente en el más ardiente desierto.",
+      "verse": 1,
+      "start_ms": 2912,
+      "end_ms": 8937,
+      "duration_ms": 6025
+    },
+    {
+      "word": "Quiero verte en tu santuario, y contemplar tu poder y tu grandeza!",
+      "verse": 2,
+      "start_ms": 8937,
+      "end_ms": 13524,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Más que vivir, prefiero que me ames.",
+      "verse": 3,
+      "start_ms": 13525,
+      "end_ms": 16750,
+      "duration_ms": 3225
+    },
+    {
+      "word": "Te alabaré con mis labios.",
+      "verse": 3,
+      "start_ms": 16750,
+      "end_ms": 19187,
+      "duration_ms": 2437
+    },
+    {
+      "word": "Mientras viva te alabaré!",
+      "verse": 4,
+      "start_ms": 19187,
+      "end_ms": 21412,
+      "duration_ms": 2225
+    },
+    {
+      "word": "Alzaré mis manos para alabarte!",
+      "verse": 4,
+      "start_ms": 21412,
+      "end_ms": 24124,
+      "duration_ms": 2712
+    },
+    {
+      "word": "Con mis labios te alabaré y daré gritos de alegría!",
+      "verse": 5,
+      "start_ms": 24125,
+      "end_ms": 27787,
+      "duration_ms": 3662
+    },
+    {
+      "word": "Eso me dejará más satisfecho que la comida más deliciosa!",
+      "verse": 5,
+      "start_ms": 27787,
+      "end_ms": 31687,
+      "duration_ms": 3900
+    },
+    {
+      "word": "Me acuesto y me acuerdo de ti; durante toda la noche estás en mi pensamiento.",
+      "verse": 6,
+      "start_ms": 31687,
+      "end_ms": 36874,
+      "duration_ms": 5187
+    },
+    {
+      "word": "Tú eres quien me ayuda!",
+      "verse": 7,
+      "start_ms": 36875,
+      "end_ms": 38950,
+      "duration_ms": 2075
+    },
+    {
+      "word": "Soy feliz bajo tu protección!",
+      "verse": 7,
+      "start_ms": 38950,
+      "end_ms": 41550,
+      "duration_ms": 2600
+    },
+    {
+      "word": "A ti me entrego por completo, porque tu gran poder es mi apoyo!",
+      "verse": 8,
+      "start_ms": 41550,
+      "end_ms": 45775,
+      "duration_ms": 4225
+    },
+    {
+      "word": "Destruye a los que quieren matarme!",
+      "verse": 9,
+      "start_ms": 45775,
+      "end_ms": 48437,
+      "duration_ms": 2662
+    },
+    {
+      "word": "Échalos en el hoyo más profundo!",
+      "verse": 9,
+      "start_ms": 48437,
+      "end_ms": 50974,
+      "duration_ms": 2537
+    },
+    {
+      "word": "Que los maten en la guerra!",
+      "verse": 10,
+      "start_ms": 50975,
+      "end_ms": 53225,
+      "duration_ms": 2250
+    },
+    {
+      "word": "Que se los coman los perros salvajes!",
+      "verse": 10,
+      "start_ms": 53225,
+      "end_ms": 56025,
+      "duration_ms": 2800
+    },
+    {
+      "word": "Concédele al rey y al pueblo que te adora alabarte y alegrarse en ti, pero a los mentirosos, ¡tápales la boca!",
+      "verse": 11,
+      "start_ms": 56025,
+      "end_ms": 62900,
+      "duration_ms": 6875
+    }
+  ]
+}

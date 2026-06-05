@@ -1,0 +1,558 @@
+{
+  "book": "EZE",
+  "chapter": 27,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 33,
+  "word_count": 45,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 22,
+      "text": "Dios también me dijo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 22,
+      "char_end": 129,
+      "text": "Dedica este lamento a la ciudad de Tiro por su destrucción. Dale este mensaje de parte del Dios de Israel:"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 129,
+      "char_end": 250,
+      "text": "«Tú, ciudad de Tiro, te creías bella y perfecta; te aprovechaste de estar junto al mar para comerciar con muchos países."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 250,
+      "char_end": 331,
+      "text": "Ciertamente, dominabas los mares. Tenías la belleza de un barco bien construido."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 331,
+      "char_end": 432,
+      "text": "Tu casco lo hicieron con pinos del monte Senir; tu palo mayor fue labrado en cedro del monte Líbano."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 432,
+      "char_end": 608,
+      "text": "Tus remos eran de roble, fina madera del monte de Basán. Las tablas de tu cubierta eran de ciprés traído de Chipre. Todas ellas estaban adornadas con incrustaciones de marfil."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 608,
+      "char_end": 745,
+      "text": "Tus velas te servían de bandera, y eran de fino bordado egipcio. Tus toldos, de tela roja y morada, los trajeron de las costas de Elisá."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 745,
+      "char_end": 853,
+      "text": "Contabas con una tripulación experta. Tenías los mejores capitanes y marinos: gente de Tiro, Arvad y Sidón."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 853,
+      "char_end": 967,
+      "text": "Tus daños los reparaban expertos carpinteros de Guebal. Marineros de todas partes hacían negocios en tus puertos."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 967,
+      "char_end": 1099,
+      "text": "Tu ejército estaba formado por gente de Persia, Lidia y Libia; cuando te adornaban con sus armas, hacían que te vieras muy hermosa."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1099,
+      "char_end": 1309,
+      "text": "Soldados de Arvad y de Gamad defendían tus murallas con la ayuda de tu ejército. Todo el tiempo vigilaban tus torres, y cuando colgaban sus escudos a lo largo de tus murallas, hacían que te vieras más hermosa."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1309,
+      "char_end": 1460,
+      "text": "Tú, ciudad de Tiro, eras tan rica que la gente de Tarsis venía para hacer negocios contigo. Tu mercancía la pagaban con plata, plomo, hierro y estaño."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1460,
+      "char_end": 1590,
+      "text": "También los comerciantes de Grecia, Tubal y Mésec compraban tus mercancías, y te pagaban con esclavos y con utensilios de bronce."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1590,
+      "char_end": 1696,
+      "text": "La gente de Bet-togarmá te pagaba con finos caballos para montar, y con caballos y mulas para el trabajo."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1696,
+      "char_end": 1834,
+      "text": "También hacías negocios con los comerciantes de Dedán y de otros puertos lejanos, los cuales te pagaban con marfil y con madera de ébano."
+    },
+    {
+      "verse": 16,
+      "label": "16-18",
+      "char_start": 1834,
+      "char_end": 2188,
+      "text": "Tus mercancías eran tan variadas, y tu riqueza tan grande, que hasta los sirios comerciaban contigo, y te pagaban con piedras preciosas y telas muy finas. También Israel y Judá te compraban mercancías, y te pagaban con su mejor trigo, y con pasteles, miel, aceite de oliva y especias aromáticas. Damasco te pagaba con vino de Helbón y con lana de Sahar."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2188,
+      "char_end": 2282,
+      "text": "Los comerciantes de Dan y los griegos te traían de Uzal hierro forjado y especias aromáticas."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2282,
+      "char_end": 2332,
+      "text": "La gente de Dedán te pagaba con sillas de montar."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2332,
+      "char_end": 2422,
+      "text": "Los de Arabia y todos los príncipes de Quedar te pagaban con corderos, chivos y carneros."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2422,
+      "char_end": 2513,
+      "text": "Tus clientes de Sabá y Raamá te pagaban con finos perfumes, y con oro y piedras preciosas."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2513,
+      "char_end": 2609,
+      "text": "Entre tus clientes estaban también los comerciantes de Harán, Cané, Edén, Sabá, Asiria y Media;"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2609,
+      "char_end": 2728,
+      "text": "ellos te vendían telas finas, mantos bordados de color púrpura, tapices de muchos colores y fuertes cuerdas trenzadas."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2728,
+      "char_end": 2862,
+      "text": "¡Las naves de Tarsis transportaban tus mercancías!». Tú, ciudad de Tiro, parecías un barco en alta mar cuando va cargado de riquezas."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2862,
+      "char_end": 2970,
+      "text": "Pero tus marinos te llevaron por los mares más profundos, y allí te hizo pedazos el fuerte viento del este."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2970,
+      "char_end": 3198,
+      "text": "¡Al fondo del mar se fueron tus mercancías y tus productos! El día que te hundiste, se fueron al fondo del mar todas tus riquezas, tus marineros y tus capitanes, tus carpinteros y tus comerciantes, tus soldados y tus pasajeros."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3198,
+      "char_end": 3261,
+      "text": "Tus capitanes pedían ayuda, y temblaba la gente de las costas;"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3261,
+      "char_end": 3340,
+      "text": "los marineros se lanzaron al agua, y bajaron a tierra junto con los capitanes."
+    },
+    {
+      "verse": 30,
+      "label": "30-31",
+      "char_start": 3340,
+      "char_end": 3471,
+      "text": "Sus gritos eran desesperados; amargamente lloraban por ti, se pusieron ropa de luto, y de muchas otras maneras mostraron su dolor."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3471,
+      "char_end": 3593,
+      "text": "Entonaron por ti un lamento, y exclamaron con gran tristeza: ‘¡Ay, ciudad incomparable, ahora estás en el fondo del mar!’"
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3593,
+      "char_end": 3761,
+      "text": "Cuando bajaban de los barcos las mercancías que vendías, las naciones quedaban satisfechas; con tus riquezas y abundantes productos se enriquecían los reyes del mundo."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3761,
+      "char_end": 3890,
+      "text": "Pero te hundiste en el océano; ya descansas en el fondo del mar. ¡Y contigo se hundieron también tus mercancías y tus pasajeros!"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3890,
+      "char_end": 4035,
+      "text": "Esto que te ha sucedido hace que tiemble de miedo la gente que vive en las costas. Sus reyes están espantados; en la cara se les nota el terror."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4035,
+      "char_end": 4155,
+      "text": "Los comerciantes de otras naciones te lanzan silbidos de burla. ¡Eres motivo de espanto porque has dejado de existir!»."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios también me dijo: Dedica este lamento a la ciudad de Tiro por su destrucción.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5500,
+      "duration_ms": 5400
+    },
+    {
+      "word": "Dale este mensaje de parte del Dios de Israel: «Tú, ciudad de Tiro, te creías bella y perfecta; te aprovechaste de estar junto al mar para comerciar con muchos países.",
+      "verse": 2,
+      "start_ms": 5450,
+      "end_ms": 16062,
+      "duration_ms": 10612
+    },
+    {
+      "word": "Ciertamente, dominabas los mares.",
+      "verse": 4,
+      "start_ms": 16062,
+      "end_ms": 19312,
+      "duration_ms": 3250
+    },
+    {
+      "word": "Tenías la belleza de un barco bien construido.",
+      "verse": 4,
+      "start_ms": 19312,
+      "end_ms": 22962,
+      "duration_ms": 3650
+    },
+    {
+      "word": "Tu casco lo hicieron con pinos del monte Senir; tu palo mayor fue labrado en cedro del monte Líbano.",
+      "verse": 5,
+      "start_ms": 22962,
+      "end_ms": 29162,
+      "duration_ms": 6200
+    },
+    {
+      "word": "Tus remos eran de roble, fina madera del monte de Basán.",
+      "verse": 6,
+      "start_ms": 29162,
+      "end_ms": 33374,
+      "duration_ms": 4212
+    },
+    {
+      "word": "Las tablas de tu cubierta eran de ciprés traído de Chipre.",
+      "verse": 6,
+      "start_ms": 33375,
+      "end_ms": 37425,
+      "duration_ms": 4050
+    },
+    {
+      "word": "Todas ellas estaban adornadas con incrustaciones de marfil.",
+      "verse": 6,
+      "start_ms": 37425,
+      "end_ms": 41412,
+      "duration_ms": 3987
+    },
+    {
+      "word": "Tus velas te servían de bandera, y eran de fino bordado egipcio.",
+      "verse": 7,
+      "start_ms": 41412,
+      "end_ms": 46037,
+      "duration_ms": 4625
+    },
+    {
+      "word": "Tus toldos, de tela roja y morada, los trajeron de las costas de Elisá.",
+      "verse": 7,
+      "start_ms": 46037,
+      "end_ms": 51262,
+      "duration_ms": 5225
+    },
+    {
+      "word": "Contabas con una tripulación experta.",
+      "verse": 8,
+      "start_ms": 51262,
+      "end_ms": 54299,
+      "duration_ms": 3037
+    },
+    {
+      "word": "Tenías los mejores capitanes y marinos: gente de Tiro, Arvad y Sidón.",
+      "verse": 8,
+      "start_ms": 54300,
+      "end_ms": 59562,
+      "duration_ms": 5262
+    },
+    {
+      "word": "Tus daños los reparaban expertos carpinteros de Guebal.",
+      "verse": 9,
+      "start_ms": 59562,
+      "end_ms": 63324,
+      "duration_ms": 3762
+    },
+    {
+      "word": "Marineros de todas partes hacían negocios en tus puertos.",
+      "verse": 9,
+      "start_ms": 63325,
+      "end_ms": 67350,
+      "duration_ms": 4025
+    },
+    {
+      "word": "Tu ejército estaba formado por gente de Persia, Lidia y Libia; cuando te adornaban con sus armas, hacían que te vieras muy hermosa.",
+      "verse": 10,
+      "start_ms": 67350,
+      "end_ms": 75650,
+      "duration_ms": 8300
+    },
+    {
+      "word": "Soldados de Arvad y de Gamad defendían tus murallas con la ayuda de tu ejército.",
+      "verse": 11,
+      "start_ms": 75650,
+      "end_ms": 80725,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Todo el tiempo vigilaban tus torres, y cuando colgaban sus escudos a lo largo de tus murallas, hacían que te vieras más hermosa.",
+      "verse": 11,
+      "start_ms": 80725,
+      "end_ms": 88462,
+      "duration_ms": 7737
+    },
+    {
+      "word": "Tú, ciudad de Tiro, eras tan rica que la gente de Tarsis venía para hacer negocios contigo.",
+      "verse": 12,
+      "start_ms": 88462,
+      "end_ms": 94749,
+      "duration_ms": 6287
+    },
+    {
+      "word": "Tu mercancía la pagaban con plata, plomo, hierro y estaño.",
+      "verse": 12,
+      "start_ms": 94750,
+      "end_ms": 99275,
+      "duration_ms": 4525
+    },
+    {
+      "word": "También los comerciantes de Grecia, Tubal y Mésec compraban tus mercancías, y te pagaban con esclavos y con utensilios de bronce.",
+      "verse": 13,
+      "start_ms": 99275,
+      "end_ms": 107262,
+      "duration_ms": 7987
+    },
+    {
+      "word": "La gente de Bet-togarmá te pagaba con finos caballos para montar, y con caballos y mulas para el trabajo.",
+      "verse": 14,
+      "start_ms": 107262,
+      "end_ms": 113637,
+      "duration_ms": 6375
+    },
+    {
+      "word": "También hacías negocios con los comerciantes de Dedán y de otros puertos lejanos, los cuales te pagaban con marfil y con madera de ébano.",
+      "verse": 15,
+      "start_ms": 113637,
+      "end_ms": 121537,
+      "duration_ms": 7900
+    },
+    {
+      "word": "Tus mercancías eran tan variadas, y tu riqueza tan grande, que hasta los sirios comerciaban contigo, y te pagaban con piedras preciosas y telas muy finas.",
+      "verse": 16,
+      "start_ms": 121537,
+      "end_ms": 131187,
+      "duration_ms": 9650
+    },
+    {
+      "word": "También Israel y Judá te compraban mercancías, y te pagaban con su mejor trigo, y con pasteles, miel, aceite de oliva y especias aromáticas.",
+      "verse": 16,
+      "start_ms": 131187,
+      "end_ms": 140912,
+      "duration_ms": 9725
+    },
+    {
+      "word": "Damasco te pagaba con vino de Helbón y con lana de Sahar.",
+      "verse": 16,
+      "start_ms": 140912,
+      "end_ms": 144862,
+      "duration_ms": 3950
+    },
+    {
+      "word": "Los comerciantes de Dan y los griegos te traían de Uzal hierro forjado y especias aromáticas.",
+      "verse": 19,
+      "start_ms": 144862,
+      "end_ms": 150687,
+      "duration_ms": 5825
+    },
+    {
+      "word": "La gente de Dedán te pagaba con sillas de montar.",
+      "verse": 20,
+      "start_ms": 150687,
+      "end_ms": 154187,
+      "duration_ms": 3500
+    },
+    {
+      "word": "Los de Arabia y todos los príncipes de Quedar te pagaban con corderos, chivos y carneros.",
+      "verse": 21,
+      "start_ms": 154187,
+      "end_ms": 160062,
+      "duration_ms": 5875
+    },
+    {
+      "word": "Tus clientes de Sabá y Raamá te pagaban con finos perfumes, y con oro y piedras preciosas.",
+      "verse": 22,
+      "start_ms": 160062,
+      "end_ms": 166299,
+      "duration_ms": 6237
+    },
+    {
+      "word": "Entre tus clientes estaban también los comerciantes de Harán, Cané, Edén, Sabá, Asiria y Media; ellos te vendían telas finas, mantos bordados de color púrpura, tapices de muchos colores y fuertes cuerdas trenzadas.",
+      "verse": 23,
+      "start_ms": 166300,
+      "end_ms": 180325,
+      "duration_ms": 14025
+    },
+    {
+      "word": "Las naves de Tarsis transportaban tus mercancías!",
+      "verse": 25,
+      "start_ms": 180325,
+      "end_ms": 184050,
+      "duration_ms": 3725
+    },
+    {
+      "word": "Tú, ciudad de Tiro, parecías un barco en alta mar cuando va cargado de riquezas.",
+      "verse": 25,
+      "start_ms": 184050,
+      "end_ms": 189825,
+      "duration_ms": 5775
+    },
+    {
+      "word": "Pero tus marinos te llevaron por los mares más profundos, y allí te hizo pedazos el fuerte viento del este.",
+      "verse": 26,
+      "start_ms": 189825,
+      "end_ms": 196362,
+      "duration_ms": 6537
+    },
+    {
+      "word": "Al fondo del mar se fueron tus mercancías y tus productos!",
+      "verse": 27,
+      "start_ms": 196362,
+      "end_ms": 200362,
+      "duration_ms": 4000
+    },
+    {
+      "word": "El día que te hundiste, se fueron al fondo del mar todas tus riquezas, tus marineros y tus capitanes, tus carpinteros y tus comerciantes, tus soldados y tus pasajeros.",
+      "verse": 27,
+      "start_ms": 200362,
+      "end_ms": 211374,
+      "duration_ms": 11012
+    },
+    {
+      "word": "Tus capitanes pedían ayuda, y temblaba la gente de las costas; los marineros se lanzaron al agua, y bajaron a tierra junto con los capitanes.",
+      "verse": 28,
+      "start_ms": 211375,
+      "end_ms": 220362,
+      "duration_ms": 8987
+    },
+    {
+      "word": "Sus gritos eran desesperados; amargamente lloraban por ti, se pusieron ropa de luto, y de muchas otras maneras mostraron su dolor.",
+      "verse": 30,
+      "start_ms": 220362,
+      "end_ms": 229062,
+      "duration_ms": 8700
+    },
+    {
+      "word": "Entonaron por ti un lamento, y exclamaron con gran tristeza: ‘¡Ay, ciudad incomparable, ahora estás en el fondo del mar!",
+      "verse": 32,
+      "start_ms": 229062,
+      "end_ms": 237049,
+      "duration_ms": 7987
+    },
+    {
+      "word": "Cuando bajaban de los barcos las mercancías que vendías, las naciones quedaban satisfechas; con tus riquezas y abundantes productos se enriquecían los reyes del mundo.",
+      "verse": 33,
+      "start_ms": 237050,
+      "end_ms": 246575,
+      "duration_ms": 9525
+    },
+    {
+      "word": "Pero te hundiste en el océano; ya descansas en el fondo del mar. ¡Y contigo se hundieron también tus mercancías y tus pasajeros!",
+      "verse": 34,
+      "start_ms": 246575,
+      "end_ms": 254400,
+      "duration_ms": 7825
+    },
+    {
+      "word": "Esto que te ha sucedido hace que tiemble de miedo la gente que vive en las costas.",
+      "verse": 35,
+      "start_ms": 254400,
+      "end_ms": 259462,
+      "duration_ms": 5062
+    },
+    {
+      "word": "Sus reyes están espantados; en la cara se",
+      "verse": 35,
+      "start_ms": 259462,
+      "end_ms": 263149,
+      "duration_ms": 3687
+    },
+    {
+      "word": "les nota el terror.",
+      "verse": 35,
+      "start_ms": 263308,
+      "end_ms": 265470,
+      "duration_ms": 2162
+    },
+    {
+      "word": "Los comerciantes de otras naciones te lanzan silbidos de burla.",
+      "verse": 36,
+      "start_ms": 265420,
+      "end_ms": 269470,
+      "duration_ms": 4050
+    },
+    {
+      "word": "Eres motivo de espanto porque has dejado de existir!",
+      "verse": 36,
+      "start_ms": 269470,
+      "end_ms": 273045,
+      "duration_ms": 3575
+    }
+  ]
+}

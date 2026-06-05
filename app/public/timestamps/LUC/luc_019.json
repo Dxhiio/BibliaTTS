@@ -1,0 +1,782 @@
+{
+  "book": "LUC",
+  "chapter": 19,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 47,
+  "word_count": 63,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 23,
+      "text": "Jesús entró en Jericó."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 23,
+      "char_end": 106,
+      "text": "Allí vivía Zaqueo, un hombre muy rico que era jefe de los cobradores de impuestos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 106,
+      "char_end": 228,
+      "text": "Zaqueo salió a la calle para conocer a Jesús, pero no podía verlo, pues era muy bajito y había mucha gente delante de él."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 228,
+      "char_end": 338,
+      "text": "Entonces corrió a un lugar por donde Jesús tenía que pasar y, para poder verlo, se subió a un árbol de higos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 338,
+      "char_end": 460,
+      "text": "Cuando Jesús pasó por allí, miró hacia arriba y le dijo: Zaqueo, bájate ahora mismo, porque quiero hospedarme en tu casa."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 460,
+      "char_end": 531,
+      "text": "Zaqueo bajó enseguida, y con mucha alegría recibió en su casa a Jesús."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 531,
+      "char_end": 665,
+      "text": "Cuando la gente vio lo que había pasado, empezó a criticar a Jesús y a decir: ¿Cómo se le ocurre ir a la casa de ese hombre tan malo?"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 665,
+      "char_end": 844,
+      "text": "Después de la comida, Zaqueo se levantó y le dijo a Jesús: —Señor, voy a dar a los pobres la mitad de todo lo que tengo. Y si he robado algo, devolveré cuatro veces esa cantidad."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 844,
+      "char_end": 952,
+      "text": "Jesús le respondió: —Desde hoy, tú y tu familia son salvos, pues eres un verdadero descendiente de Abraham."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 952,
+      "char_end": 1041,
+      "text": "Yo, el Hijo del hombre, he venido para buscar y salvar a los que viven alejados de Dios."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1041,
+      "char_end": 1171,
+      "text": "Jesús estaba muy cerca de la ciudad de Jerusalén, y la gente que lo escuchaba creía que el reino de Dios comenzaría de inmediato."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1171,
+      "char_end": 1363,
+      "text": "Entonces Jesús les puso este ejemplo: Un príncipe fue nombrado rey de su país, y tuvo que hacer un largo viaje para que el emperador lo coronara. Después de la coronación, volvería a su país."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1363,
+      "char_end": 1511,
+      "text": "Por eso llamó a diez de sus empleados. A cada uno le dio cierta cantidad de dinero, y le dijo: «Haz negocios con este dinero, hasta que yo vuelva»."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1511,
+      "char_end": 1686,
+      "text": "Pero la gente de aquel país no quería a este príncipe, así que envió a un grupo de personas con este mensaje para el emperador: «No queremos que este hombre sea nuestro rey»."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1686,
+      "char_end": 1843,
+      "text": "Sin embargo, el príncipe fue coronado rey y, cuando regresó a su país, mandó llamar a los diez empleados encargados del dinero, para ver cómo les había ido."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1843,
+      "char_end": 1962,
+      "text": "Llegó el primero de ellos, y dijo: «Señor, hice negocios con el dinero, y gané diez veces más de lo que usted me dio»."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1962,
+      "char_end": 2100,
+      "text": "El rey le dijo: «¡Excelente!, eres un empleado bueno. Ya que cuidaste muy bien lo poco que te di, te nombro gobernador de diez ciudades»."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2100,
+      "char_end": 2219,
+      "text": "Llegó el segundo empleado y dijo: «Señor, hice negocios con el dinero, y gané cinco veces más de lo que usted me dio»."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2219,
+      "char_end": 2276,
+      "text": "El rey le dijo: «Tú serás gobernador de cinco ciudades»."
+    },
+    {
+      "verse": 20,
+      "label": "20-21",
+      "char_start": 2276,
+      "char_end": 2494,
+      "text": "Después llegó otro empleado y dijo: «Señor, yo sé que usted es un hombre muy exigente, que pide hasta lo imposible. Por eso me dio miedo, así que envolví el dinero en un pañuelo y lo guardé. Aquí se lo devuelvo todo»."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2494,
+      "char_end": 2654,
+      "text": "El rey le respondió: «Eres un empleado malo. Tú mismo te has condenado con tus propias palabras. Si sabías que soy muy exigente, y que pido hasta lo imposible,"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2654,
+      "char_end": 2771,
+      "text": "¿por qué no llevaste el dinero al banco? Así, cuando yo volviera, recibiría el dinero que te di, más los intereses»."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2771,
+      "char_end": 2909,
+      "text": "El rey les ordenó a unos empleados que estaban allí: «Quítenle a éste el dinero, y dénselo al que ganó diez veces más de lo que recibió»."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2909,
+      "char_end": 2989,
+      "text": "Pero ellos le contestaron: «Señor, ¿por qué a él, si ya tiene diez veces más?»."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2989,
+      "char_end": 3129,
+      "text": "El rey les respondió: «Les aseguro que, al que tiene mucho, se le dará más; pero al que no tiene, hasta lo poquito que tiene se le quitará."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3129,
+      "char_end": 3238,
+      "text": "En cuanto a mis enemigos, tráiganlos y mátenlos delante de mí, porque ellos no querían que yo fuera su rey»."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3238,
+      "char_end": 3298,
+      "text": "Jesús terminó de hablar y siguió su camino hacia Jerusalén."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3298,
+      "char_end": 3433,
+      "text": "Cuando llegó cerca de los pueblos de Betfagé y Betania, se detuvo junto al Monte de los Olivos. Allí les dijo a dos de sus discípulos:"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3433,
+      "char_end": 3572,
+      "text": "Vayan al pueblo que está allá. Tan pronto entren, van a encontrar un burro atado. Nadie ha montado antes ese burro. Desátenlo y tráiganlo."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3572,
+      "char_end": 3651,
+      "text": "Si alguien les pregunta por qué lo desatan, respondan: «El Señor lo necesita»."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3651,
+      "char_end": 3743,
+      "text": "Los dos discípulos fueron al pueblo y encontraron el burro, tal como Jesús les había dicho."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3743,
+      "char_end": 3823,
+      "text": "Cuando estaban desatándolo, los dueños preguntaron: —¿Por qué desatan el burro?"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3823,
+      "char_end": 3865,
+      "text": "Ellos contestaron: —El Señor lo necesita."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3865,
+      "char_end": 3963,
+      "text": "Luego se llevaron el burro, pusieron sus mantos sobre él, y ayudaron a Jesús para que se montara."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3963,
+      "char_end": 4082,
+      "text": "Jesús se dirigió a Jerusalén, y muchas personas empezaron a extender sus mantos en el camino por donde él iba a pasar."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4082,
+      "char_end": 4310,
+      "text": "Cuando llegaron cerca del Monte de los Olivos y empezaron a bajar a Jerusalén, todos los seguidores de Jesús se alegraron mucho. Todos gritaban y alababan a Dios por los milagros que Jesús había hecho, y que ellos habían visto."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4310,
+      "char_end": 4433,
+      "text": "Decían: ¡Bendito el rey que viene en el nombre de Dios! ¡Que haya paz en el cielo! ¡Que todos reconozcan el poder de Dios!"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4433,
+      "char_end": 4537,
+      "text": "Entre la gente había también unos fariseos, y le dijeron a Jesús: —¡Maestro, reprende a tus discípulos!"
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4537,
+      "char_end": 4616,
+      "text": "Jesús les contestó: —Les aseguro que si ellos se callan, las piedras gritarán."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4616,
+      "char_end": 4678,
+      "text": "Cuando Jesús estuvo cerca de Jerusalén y vio la ciudad, lloró"
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4678,
+      "char_end": 4843,
+      "text": "y dijo: ¡Habitantes de Jerusalén! ¡Cómo me gustaría que hoy ustedes pudieran entender lo que significa vivir en paz! Pero no, ustedes son incapaces de comprenderlo."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4843,
+      "char_end": 4960,
+      "text": "Llegará el momento en que sus enemigos vendrán, y harán rampas alrededor de la ciudad para atacarla por todos lados."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 4960,
+      "char_end": 5130,
+      "text": "La destruirán por completo, y no dejarán en pie una sola pared. Todos ustedes morirán, y sufrirán todo esto, porque no quisieron reconocer que Dios me envió a salvarlos."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 5130,
+      "char_end": 5249,
+      "text": "Cuando Jesús entró en la ciudad de Jerusalén, fue al templo y comenzó a sacar a todos los vendedores que allí estaban,"
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 5249,
+      "char_end": 5375,
+      "text": "y les dijo: Dios dice en la Biblia: «Mi casa será una casa de oración»; ¡pero ustedes la han convertido en cueva de ladrones!"
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 5375,
+      "char_end": 5524,
+      "text": "Jesús iba al templo todos los días para enseñar. Los sacerdotes principales, los maestros de la Ley y los líderes del pueblo planeaban cómo matarlo;"
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 5524,
+      "char_end": 5607,
+      "text": "pero no podían hacer nada contra él, pues la gente quería escuchar sus enseñanzas."
+    }
+  ],
+  "words": [
+    {
+      "word": "Jesús entró en Jericó.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 2387,
+      "duration_ms": 2287
+    },
+    {
+      "word": "Allí vivía Zaqueo, un hombre muy rico que era jefe de los cobradores de impuestos.",
+      "verse": 2,
+      "start_ms": 2337,
+      "end_ms": 7937,
+      "duration_ms": 5600
+    },
+    {
+      "word": "Zaqueo salió a la calle para conocer a Jesús, pero no podía verlo, pues era muy bajito y había mucha gente delante de él.",
+      "verse": 3,
+      "start_ms": 7937,
+      "end_ms": 15762,
+      "duration_ms": 7825
+    },
+    {
+      "word": "Entonces corrió a un lugar por donde Jesús tenía que pasar y, para poder verlo, se subió a un árbol de higos.",
+      "verse": 4,
+      "start_ms": 15762,
+      "end_ms": 22924,
+      "duration_ms": 7162
+    },
+    {
+      "word": "Cuando Jesús pasó por allí, miró hacia arriba y le dijo: Zaqueo, bájate ahora mismo, porque quiero hospedarme en tu casa.",
+      "verse": 5,
+      "start_ms": 22925,
+      "end_ms": 31087,
+      "duration_ms": 8162
+    },
+    {
+      "word": "Zaqueo bajó enseguida, y con mucha alegría recibió en su casa a Jesús.",
+      "verse": 6,
+      "start_ms": 31087,
+      "end_ms": 36374,
+      "duration_ms": 5287
+    },
+    {
+      "word": "Cuando la gente vio lo que había pasado, empezó a criticar a Jesús y a decir: ¿Cómo se le ocurre ir a la casa de ese hombre tan malo?",
+      "verse": 7,
+      "start_ms": 36375,
+      "end_ms": 44437,
+      "duration_ms": 8062
+    },
+    {
+      "word": "Después de la comida, Zaqueo se levantó y le dijo a Jesús: —Señor, voy a dar a los pobres la mitad de todo lo que tengo.",
+      "verse": 8,
+      "start_ms": 44437,
+      "end_ms": 52249,
+      "duration_ms": 7812
+    },
+    {
+      "word": "Y si he robado algo, devolveré cuatro veces esa cantidad.",
+      "verse": 8,
+      "start_ms": 52250,
+      "end_ms": 56650,
+      "duration_ms": 4400
+    },
+    {
+      "word": "Jesús le respondió: —Desde hoy, tú y tu familia son salvos, pues eres un verdadero descendiente de Abraham.",
+      "verse": 9,
+      "start_ms": 56650,
+      "end_ms": 63950,
+      "duration_ms": 7300
+    },
+    {
+      "word": "Yo, el Hijo del hombre, he venido para buscar y salvar a los que viven alejados de Dios.",
+      "verse": 10,
+      "start_ms": 63950,
+      "end_ms": 69962,
+      "duration_ms": 6012
+    },
+    {
+      "word": "Jesús estaba muy cerca de la ciudad de Jerusalén, y la gente que lo escuchaba creía que el reino de Dios comenzaría de inmediato.",
+      "verse": 11,
+      "start_ms": 69962,
+      "end_ms": 77862,
+      "duration_ms": 7900
+    },
+    {
+      "word": "Entonces Jesús les puso este ejemplo: Un príncipe fue nombrado rey de su país, y tuvo que hacer un largo viaje para que el emperador lo coronara.",
+      "verse": 12,
+      "start_ms": 77862,
+      "end_ms": 86537,
+      "duration_ms": 8675
+    },
+    {
+      "word": "Después de la coronación, volvería a su país.",
+      "verse": 12,
+      "start_ms": 86537,
+      "end_ms": 90262,
+      "duration_ms": 3725
+    },
+    {
+      "word": "Por eso llamó a diez de sus empleados.",
+      "verse": 13,
+      "start_ms": 90262,
+      "end_ms": 93262,
+      "duration_ms": 3000
+    },
+    {
+      "word": "A cada uno le dio cierta cantidad de dinero, y le dijo: «Haz negocios con este dinero, hasta que yo vuelva».",
+      "verse": 13,
+      "start_ms": 93262,
+      "end_ms": 100549,
+      "duration_ms": 7287
+    },
+    {
+      "word": "Pero la gente de aquel país no quería a este príncipe, así que envió a un grupo de personas con este mensaje para el emperador: «No queremos que este hombre sea nuestro rey».",
+      "verse": 14,
+      "start_ms": 100550,
+      "end_ms": 110212,
+      "duration_ms": 9662
+    },
+    {
+      "word": "Sin embargo, el príncipe fue coronado rey y, cuando regresó a su país, mandó llamar a los diez empleados encargados del dinero, para ver cómo les había ido.",
+      "verse": 15,
+      "start_ms": 110212,
+      "end_ms": 120062,
+      "duration_ms": 9850
+    },
+    {
+      "word": "Llegó el primero de ellos, y dijo: «Señor, hice negocios con el dinero, y gané diez veces más de lo que usted me dio».",
+      "verse": 16,
+      "start_ms": 120062,
+      "end_ms": 128099,
+      "duration_ms": 8037
+    },
+    {
+      "word": "El rey le dijo: «¡Excelente!, eres un empleado bueno.",
+      "verse": 17,
+      "start_ms": 128100,
+      "end_ms": 132337,
+      "duration_ms": 4237
+    },
+    {
+      "word": "Ya que cuidaste muy bien lo poco que te di, te nombro gobernador de diez ciudades».",
+      "verse": 17,
+      "start_ms": 132337,
+      "end_ms": 137787,
+      "duration_ms": 5450
+    },
+    {
+      "word": "Llegó el segundo empleado y dijo: «Señor, hice negocios con el dinero, y gané cinco veces más de lo que usted me dio».",
+      "verse": 18,
+      "start_ms": 137787,
+      "end_ms": 145562,
+      "duration_ms": 7775
+    },
+    {
+      "word": "El rey le dijo: «Tú serás gobernador de cinco ciudades».",
+      "verse": 19,
+      "start_ms": 145562,
+      "end_ms": 150024,
+      "duration_ms": 4462
+    },
+    {
+      "word": "Después llegó otro empleado y dijo: «Señor, yo sé que usted es un hombre muy exigente, que pide hasta lo imposible.",
+      "verse": 20,
+      "start_ms": 150025,
+      "end_ms": 157650,
+      "duration_ms": 7625
+    },
+    {
+      "word": "Por eso me dio miedo, así que envolví el dinero en un pañuelo y lo guardé.",
+      "verse": 20,
+      "start_ms": 157650,
+      "end_ms": 162362,
+      "duration_ms": 4712
+    },
+    {
+      "word": "Aquí se lo devuelvo todo».",
+      "verse": 20,
+      "start_ms": 162362,
+      "end_ms": 164674,
+      "duration_ms": 2312
+    },
+    {
+      "word": "El rey le respondió: «Eres un empleado malo.",
+      "verse": 22,
+      "start_ms": 164675,
+      "end_ms": 168187,
+      "duration_ms": 3512
+    },
+    {
+      "word": "Tú mismo te has condenado con tus propias palabras.",
+      "verse": 22,
+      "start_ms": 168187,
+      "end_ms": 171724,
+      "duration_ms": 3537
+    },
+    {
+      "word": "Si sabías que soy muy exigente, y que pido hasta lo imposible, ¿por qué no llevaste el dinero al banco?",
+      "verse": 22,
+      "start_ms": 171725,
+      "end_ms": 178487,
+      "duration_ms": 6762
+    },
+    {
+      "word": "Así, cuando yo volviera, recibiría el dinero que te di, más los intereses».",
+      "verse": 23,
+      "start_ms": 178487,
+      "end_ms": 184099,
+      "duration_ms": 5612
+    },
+    {
+      "word": "El rey les ordenó a unos empleados que estaban allí: «Quítenle a éste el dinero, y dénselo al que ganó diez veces más de lo que recibió».",
+      "verse": 24,
+      "start_ms": 184100,
+      "end_ms": 192237,
+      "duration_ms": 8137
+    },
+    {
+      "word": "Pero ellos le contestaron: «Señor, ¿por qué a él, si ya tiene diez veces más?",
+      "verse": 25,
+      "start_ms": 192237,
+      "end_ms": 198087,
+      "duration_ms": 5850
+    },
+    {
+      "word": "El rey les respondió: «Les aseguro que, al que tiene mucho, se le dará más; pero al que no tiene, hasta lo poquito que tiene se le quitará.",
+      "verse": 26,
+      "start_ms": 198087,
+      "end_ms": 206849,
+      "duration_ms": 8762
+    },
+    {
+      "word": "En cuanto a mis enemigos, tráiganlos y mátenlos delante de mí, porque ellos no querían que yo fuera su rey».",
+      "verse": 27,
+      "start_ms": 206850,
+      "end_ms": 213462,
+      "duration_ms": 6612
+    },
+    {
+      "word": "Jesús terminó de hablar y siguió su camino hacia Jerusalén.",
+      "verse": 28,
+      "start_ms": 213462,
+      "end_ms": 217474,
+      "duration_ms": 4012
+    },
+    {
+      "word": "Cuando llegó cerca de los pueblos de Betfagé y Betania, se detuvo junto al Monte de los Olivos.",
+      "verse": 29,
+      "start_ms": 217475,
+      "end_ms": 223512,
+      "duration_ms": 6037
+    },
+    {
+      "word": "Allí les dijo a dos de sus discípulos: Vayan al pueblo que está allá.",
+      "verse": 29,
+      "start_ms": 223512,
+      "end_ms": 228237,
+      "duration_ms": 4725
+    },
+    {
+      "word": "Tan pronto entren, van a encontrar un burro atado.",
+      "verse": 30,
+      "start_ms": 228237,
+      "end_ms": 231862,
+      "duration_ms": 3625
+    },
+    {
+      "word": "Nadie ha montado antes ese burro.",
+      "verse": 30,
+      "start_ms": 231862,
+      "end_ms": 234599,
+      "duration_ms": 2737
+    },
+    {
+      "word": "Desátenlo y tráiganlo.",
+      "verse": 30,
+      "start_ms": 234600,
+      "end_ms": 237062,
+      "duration_ms": 2462
+    },
+    {
+      "word": "Si alguien les pregunta por qué lo desatan, respondan: «El Señor lo necesita».",
+      "verse": 31,
+      "start_ms": 237062,
+      "end_ms": 242437,
+      "duration_ms": 5375
+    },
+    {
+      "word": "Los dos discípulos fueron al pueblo y encontraron el burro, tal como Jesús les había dicho.",
+      "verse": 32,
+      "start_ms": 242437,
+      "end_ms": 248212,
+      "duration_ms": 5775
+    },
+    {
+      "word": "Cuando estaban desatándolo, los dueños preguntaron: —¿Por qué desatan el burro?",
+      "verse": 33,
+      "start_ms": 248212,
+      "end_ms": 253574,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Ellos contestaron: —El Señor lo necesita.",
+      "verse": 34,
+      "start_ms": 253575,
+      "end_ms": 257125,
+      "duration_ms": 3550
+    },
+    {
+      "word": "Luego se llevaron el burro, pusieron sus mantos sobre él, y",
+      "verse": 35,
+      "start_ms": 257125,
+      "end_ms": 261587,
+      "duration_ms": 4462
+    },
+    {
+      "word": "ayudaron a Jesús para que se montara.",
+      "verse": 35,
+      "start_ms": 261748,
+      "end_ms": 264635,
+      "duration_ms": 2887
+    },
+    {
+      "word": "Jesús se dirigió a Jerusalén, y muchas personas empezaron a extender sus mantos en el camino por donde él iba a pasar.",
+      "verse": 36,
+      "start_ms": 264585,
+      "end_ms": 271910,
+      "duration_ms": 7325
+    },
+    {
+      "word": "Cuando llegaron cerca del Monte de los Olivos y empezaron a bajar a Jerusalén, todos los seguidores de Jesús se alegraron mucho.",
+      "verse": 37,
+      "start_ms": 271910,
+      "end_ms": 279160,
+      "duration_ms": 7250
+    },
+    {
+      "word": "Todos gritaban y alababan a Dios por los milagros que Jesús había hecho, y que ellos habían visto.",
+      "verse": 37,
+      "start_ms": 279160,
+      "end_ms": 285422,
+      "duration_ms": 6262
+    },
+    {
+      "word": "Decían: ¡Bendito el rey que viene en el nombre de Dios!",
+      "verse": 38,
+      "start_ms": 285423,
+      "end_ms": 289435,
+      "duration_ms": 4012
+    },
+    {
+      "word": "Que haya paz en el cielo!",
+      "verse": 38,
+      "start_ms": 289435,
+      "end_ms": 291560,
+      "duration_ms": 2125
+    },
+    {
+      "word": "Que todos reconozcan el poder de Dios!",
+      "verse": 38,
+      "start_ms": 291560,
+      "end_ms": 294560,
+      "duration_ms": 3000
+    },
+    {
+      "word": "Entre la gente había también unos fariseos, y le dijeron a Jesús: —¡Maestro, reprende a tus discípulos!",
+      "verse": 39,
+      "start_ms": 294560,
+      "end_ms": 301635,
+      "duration_ms": 7075
+    },
+    {
+      "word": "Jesús les contestó: —Les aseguro que si ellos se callan, las piedras gritarán.",
+      "verse": 40,
+      "start_ms": 301635,
+      "end_ms": 307147,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Cuando Jesús estuvo cerca de Jerusalén y vio la ciudad, lloró y dijo: ¡Habitantes de Jerusalén!",
+      "verse": 41,
+      "start_ms": 307148,
+      "end_ms": 313560,
+      "duration_ms": 6412
+    },
+    {
+      "word": "Cómo me gustaría que hoy ustedes pudieran entender lo que significa vivir en paz!",
+      "verse": 42,
+      "start_ms": 313560,
+      "end_ms": 318497,
+      "duration_ms": 4937
+    },
+    {
+      "word": "Pero no, ustedes son incapaces de comprenderlo.",
+      "verse": 42,
+      "start_ms": 318498,
+      "end_ms": 322210,
+      "duration_ms": 3712
+    },
+    {
+      "word": "Llegará el momento en que sus enemigos vendrán, y harán rampas alrededor de la ciudad para atacarla por todos lados.",
+      "verse": 43,
+      "start_ms": 322210,
+      "end_ms": 329435,
+      "duration_ms": 7225
+    },
+    {
+      "word": "La destruirán por completo, y no dejarán en pie una sola pared.",
+      "verse": 44,
+      "start_ms": 329435,
+      "end_ms": 334110,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Todos ustedes morirán, y sufrirán todo esto, porque no quisieron reconocer que Dios me envió a salvarlos.",
+      "verse": 44,
+      "start_ms": 334110,
+      "end_ms": 341135,
+      "duration_ms": 7025
+    },
+    {
+      "word": "Cuando Jesús entró en la ciudad de Jerusalén, fue al templo y comenzó a sacar a todos los vendedores que allí estaban, y les dijo: Dios dice en la Biblia: «Mi casa será una casa de oración»; ¡pero ustedes la han convertido en cueva de ladrones!",
+      "verse": 45,
+      "start_ms": 341135,
+      "end_ms": 355097,
+      "duration_ms": 13962
+    },
+    {
+      "word": "Jesús iba al templo todos los días para enseñar.",
+      "verse": 47,
+      "start_ms": 355098,
+      "end_ms": 358585,
+      "duration_ms": 3487
+    },
+    {
+      "word": "Los sacerdotes principales, los maestros de la Ley y los líderes del pueblo planeaban cómo matarlo; pero no podían hacer nada contra él, pues la gente quería escuchar sus enseñanzas.",
+      "verse": 47,
+      "start_ms": 358585,
+      "end_ms": 369372,
+      "duration_ms": 10787
+    }
+  ]
+}

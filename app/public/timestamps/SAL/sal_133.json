@@ -1,0 +1,61 @@
+{
+  "book": "SAL",
+  "chapter": 133,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 3,
+  "word_count": 4,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 90,
+      "text": "¡No hay nada más bello ni más agradable que ver a los hermanos vivir juntos y en armonía!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 90,
+      "char_end": 204,
+      "text": "Es tan agradable ver esto como oler el buen perfume de los sacerdotes, perfume que corre de la cabeza a los pies."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 204,
+      "char_end": 363,
+      "text": "Es tan agradable como la lluvia del norte que cae en el monte Hermón y corre a Jerusalén, en el sur. A quienes viven así, Dios los bendice con una larga vida."
+    }
+  ],
+  "words": [
+    {
+      "word": "No hay nada más bello ni más agradable que ver a los hermanos vivir juntos y en armonía!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5275,
+      "duration_ms": 5175
+    },
+    {
+      "word": "Es tan agradable ver esto como oler el buen perfume de los sacerdotes, perfume que corre de la cabeza a los pies.",
+      "verse": 2,
+      "start_ms": 5225,
+      "end_ms": 12287,
+      "duration_ms": 7062
+    },
+    {
+      "word": "Es tan agradable como la lluvia del norte que cae en el monte Hermón y corre a Jerusalén, en el sur.",
+      "verse": 3,
+      "start_ms": 12287,
+      "end_ms": 18649,
+      "duration_ms": 6362
+    },
+    {
+      "word": "A quienes viven así, Dios los bendice con una larga vida.",
+      "verse": 3,
+      "start_ms": 18650,
+      "end_ms": 22925,
+      "duration_ms": 4275
+    }
+  ]
+}
