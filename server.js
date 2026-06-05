@@ -128,12 +128,16 @@ app.get('/api/chapter/:abbr/:num', (req, res) => {
     }
 
     let audioHQPath = null;
-    if (process.env.HQ_CDN_URL) {
-      // Si hay un CDN/VPS configurado, asumimos que el archivo existe en formato opus
-      // Ejemplo: HQ_CDN_URL="https://mi-vps.com" -> https://mi-vps.com/public/audio_hq/GEN/gen_001.opus
-      audioHQPath = `${process.env.HQ_CDN_URL.replace(/\/$/, '')}/public/audio_hq/${book.abbr}/${audioFile}.opus`;
+    
+    // Aquí defines la URL pública de tu VPS (IP o Dominio)
+    // Quien clone tu repositorio usará esta URL automáticamente para los audios HQ
+    const DEFAULT_VPS_URL = process.env.HQ_CDN_URL || 'https://tu-dominio-o-ip-vps.com';
+
+    // Si el servidor actual TIENE la carpeta física (tu VPS o tu PC), lo sirve localmente.
+    // Si NO la tiene (alguien que clonó de GitHub), le manda la ruta de tu VPS.
+    if (!fs.existsSync(path.join(PUBLIC_DIR, 'audio_hq'))) {
+      audioHQPath = `${DEFAULT_VPS_URL.replace(/\/$/, '')}/public/audio_hq/${book.abbr}/${audioFile}.opus`;
     } else {
-      // Búsqueda local de HQ
       for (const ext of ['opus', 'mp3']) {
         if (fs.existsSync(path.join(PUBLIC_DIR, 'audio_hq', book.abbr, `${audioFile}.${ext}`))) {
           audioHQPath = `/public/audio_hq/${book.abbr}/${audioFile}.${ext}`;
