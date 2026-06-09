@@ -1,7 +1,5 @@
 {
   "version": 2,
-  "buildCommand": "echo 'No build required'",
-  "outputDirectory": ".",
   "cleanUrls": true,
   "rewrites": [
     { "source": "/data/(.*)", "destination": "/data/$1" },
