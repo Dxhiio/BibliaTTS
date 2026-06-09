@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "buildCommand": "echo 'No build required'",
+  "outputDirectory": ".",
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/data/(.*)", "destination": "/data/$1" },
+    { "source": "/public/(.*)", "destination": "/app/public/$1" },
+    { "source": "/css/(.*)", "destination": "/app/css/$1" },
+    { "source": "/js/(.*)", "destination": "/app/js/$1" },
+    { "source": "/assets/(.*)", "destination": "/app/assets/$1" },
+    { "source": "/(.*)", "destination": "/app/index.html" }
+  ]
+}

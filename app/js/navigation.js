@@ -9,6 +9,7 @@
   // ── Estado ─────────────────────────────────────────────
   const state = {
     books: [],           // todos los libros (metadatos)
+    fullData: null,      // datos completos (bible.json)
     currentBook: null,   // objeto libro actual
     currentChapter: null,// número de capítulo actual
     currentData: null,   // datos completos del capítulo
@@ -49,17 +50,25 @@
     chapterModalBackdrop: () => document.getElementById('chapter-modal-backdrop'),
   };
 
-  // ── Cargar libros desde la API ──────────────────────────
+  // ── Cargar libros desde JSON estático ──────────────────
   async function loadBooks() {
     try {
-      const res = await fetch('/api/books');
+      const res = await fetch('/data/bible.json');
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json();
-      state.books = data.books;
+      state.fullData = data;
+      // Extraer metadatos de libros
+      state.books = data.books.map(b => ({
+        abbr: b.abbr,
+        name: b.name,
+        testament: b.testament,
+        group: b.group,
+        chapterCount: b.chapters.length
+      }));
       renderBookLists();
       restoreFromHash();
     } catch (err) {
-      showError('No se pudo cargar la Biblia. ¿Está el servidor corriendo? (' + err.message + ')');
+      showError('No se pudo cargar la Biblia. Verifica que /data/bible.json exista. (' + err.message + ')');
     }
   }
 
@@ -129,9 +138,31 @@
     showLoading();
 
     try {
-      const res = await fetch(`/api/chapter/${abbr}/${chapNum}`);
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const data = await res.json();
+      if (!state.fullData) throw new Error("Datos no cargados");
+
+      const book = state.fullData.books.find(b => b.abbr === abbr);
+      if (!book) throw new Error("Libro no encontrado");
+
+      const chapter = book.chapters.find(c => c.number === chapNum);
+      if (!chapter) throw new Error("Capítulo no encontrado");
+
+      // Construir las rutas estáticas predecibles de audio
+      const audioFile = `${book.abbr.toLowerCase()}_${String(chapNum).padStart(3, '0')}`;
+      
+      const data = {
+        book: {
+          abbr: book.abbr,
+          name: book.name,
+          chapterCount: book.chapters.length,
+          testament: book.testament
+        },
+        chapter: chapNum,
+        verses: chapter.verses,
+        sections: chapter.sections || [],
+        audio: `/public/audio/${book.abbr}/${audioFile}.opus`, // Estándar offline
+        audioHQ: `https://vps-bibliatts.com/public/audio_hq/${book.abbr}/${audioFile}.opus`, // Temporal, player lo reescribirá o usará fallback
+        timestamps: `/public/timestamps/${book.abbr}/${audioFile}.json`
+      };
 
       state.currentBook = data.book;
       state.currentChapter = chapNum;
