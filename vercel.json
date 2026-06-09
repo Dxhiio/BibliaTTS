@@ -1,12 +1,16 @@
 {
   "version": 2,
-  "cleanUrls": true,
-  "rewrites": [
-    { "source": "/data/(.*)", "destination": "/data/$1" },
-    { "source": "/public/(.*)", "destination": "/app/public/$1" },
-    { "source": "/css/(.*)", "destination": "/app/css/$1" },
-    { "source": "/js/(.*)", "destination": "/app/js/$1" },
-    { "source": "/assets/(.*)", "destination": "/app/assets/$1" },
-    { "source": "/(.*)", "destination": "/app/index.html" }
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "dist"
+      }
+    }
+  ],
+  "routes": [
+    { "handle": "filesystem" },
+    { "src": "/(.*)", "dest": "/index.html" }
   ]
 }
