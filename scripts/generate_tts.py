@@ -40,7 +40,7 @@ except ImportError:
 VOICE = "es-MX-DaliaNeural"   # Alternativa: es-MX-JorgeNeural (masculino)
 RATE = "+0%"                    # Velocidad normal
 PITCH = "+0Hz"
-AUDIO_BITRATE = "96k"           # Bitrate opus
+AUDIO_BITRATE = "16k"           # Bitrate opus (máxima compresión voz mono)
 
 SCRIPT_DIR = Path(__file__).parent
 ROOT_DIR = SCRIPT_DIR.parent
@@ -188,7 +188,7 @@ async def generate_chapter_audio(book_abbr: str, chapter_num: int, verses: list)
 
         result = subprocess.run(
             ["ffmpeg", "-y", "-i", str(mp3_path),
-             "-c:a", "libopus", "-b:a", AUDIO_BITRATE,
+             "-ac", "1", "-c:a", "libopus", "-b:a", AUDIO_BITRATE,
              "-application", "voip",
              str(opus_path)],
             capture_output=True, text=True
