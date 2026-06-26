@@ -86,6 +86,18 @@
     const audioEl = el.audio();
     const playerEl = el.player();
 
+    // Si la biblia es Custom, usar narrador nativo TTS offline
+    if (data.isCustom) {
+      if (window.speechSynthesis) window.speechSynthesis.cancel();
+      playerEl.hidden = false;
+      el.playerBook().textContent = data.book.name;
+      el.playerChap().textContent = `Capítulo ${data.chapter}`;
+      audioEl.src = '';
+      state.isPlaying = false;
+      updatePlayIcon();
+      return;
+    }
+
     // Si no hay audio, ocultar player
     if (!data.audio) {
       playerEl.hidden = true;
@@ -142,8 +154,56 @@
     }
   }
 
+  // ── Reproducción Custom TTS ──────────────────────────────
+  let ttsUtterance = null;
+  function startCustomTTS() {
+    if (!window.speechSynthesis) return;
+    window.speechSynthesis.cancel();
+    const verses = state.currentChapterData?.verses || [];
+    let idx = 0;
+
+    function speakNext() {
+      if (!state.isPlaying || idx >= verses.length) {
+        state.isPlaying = false;
+        updatePlayIcon();
+        return;
+      }
+      const v = verses[idx];
+      ttsUtterance = new SpeechSynthesisUtterance(v.text);
+      ttsUtterance.rate = state.speed || 1.0;
+      ttsUtterance.lang = 'es-ES';
+      ttsUtterance.onstart = () => {
+        if (window.Navigation?.highlightVerse) {
+          window.Navigation.highlightVerse(v.number);
+        }
+      };
+      ttsUtterance.onend = () => {
+        idx++;
+        if (state.isPlaying) speakNext();
+      };
+      ttsUtterance.onerror = () => {
+        idx++;
+        if (state.isPlaying) speakNext();
+      };
+      window.speechSynthesis.speak(ttsUtterance);
+    }
+
+    speakNext();
+  }
+
   // ── Reproducción ─────────────────────────────────────────
   function play() {
+    if (state.currentChapterData?.isCustom) {
+      if (window.speechSynthesis?.paused) {
+        window.speechSynthesis.resume();
+      } else {
+        startCustomTTS();
+      }
+      state.isPlaying = true;
+      updatePlayIcon();
+      return;
+    }
+
     const audioEl = el.audio();
     if (!audioEl.src || audioEl.src === window.location.href) return;
 
@@ -156,6 +216,13 @@
   }
 
   function pause() {
+    if (state.currentChapterData?.isCustom) {
+      if (window.speechSynthesis) window.speechSynthesis.pause();
+      state.isPlaying = false;
+      updatePlayIcon();
+      return;
+    }
+
     el.audio().pause();
     state.isPlaying = false;
     updatePlayIcon();

@@ -10,6 +10,8 @@
   const state = {
     books: [],           // todos los libros (metadatos)
     fullData: null,      // datos completos (bible.json)
+    officialData: null,  // respaldo TLA oficial
+    activeTranslation: 'TLA',
     currentBook: null,   // objeto libro actual
     currentChapter: null,// número de capítulo actual
     currentData: null,   // datos completos del capítulo
@@ -56,8 +58,8 @@
       const res = await fetch('/data/bible.json');
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json();
+      state.officialData = data;
       state.fullData = data;
-      // Extraer metadatos de libros
       state.books = data.books.map(b => ({
         abbr: b.abbr,
         name: b.name,
@@ -67,10 +69,128 @@
       }));
       renderBookLists();
       restoreFromHash();
+      initTranslations();
     } catch (err) {
       showError('No se pudo cargar la Biblia. Verifica que /data/bible.json exista. (' + err.message + ')');
     }
   }
+
+  // ── Gestor de Traducciones Custom ──────────────────────
+  async function initTranslations() {
+    const select = document.getElementById('translation-select');
+    if (!select || !window.CustomStorage) return;
+
+    async function refreshSelect() {
+      select.innerHTML = '<option value="TLA">TLA (Oficial con Audio)</option>';
+      try {
+        const customs = await window.CustomStorage.getAllBiblesMetadata();
+        for (const c of customs) {
+          const opt = document.createElement('option');
+          opt.value = c.id;
+          opt.textContent = `${c.abbr} — ${c.name} (Custom)`;
+          select.appendChild(opt);
+        }
+      } catch (e) { console.error(e); }
+    }
+
+    await refreshSelect();
+
+    select.addEventListener('change', async (e) => {
+      const val = e.target.value;
+      state.activeTranslation = val;
+      showLoading();
+      if (val === 'TLA') {
+        state.fullData = state.officialData;
+      } else {
+        const custData = await window.CustomStorage.getBible(val);
+        if (custData) state.fullData = custData;
+      }
+      state.books = state.fullData.books.map(b => ({
+        abbr: b.abbr,
+        name: b.name,
+        testament: b.testament,
+        group: b.group,
+        chapterCount: b.chapters.length
+      }));
+      renderBookLists();
+      navigateToChapter('GEN', 1);
+    });
+
+    // Modal Importación
+    const modal = document.getElementById('custom-bible-modal');
+    const btnOpen = document.getElementById('btn-add-bible');
+    const btnClose = document.getElementById('btn-close-custom-modal');
+    const dropZone = document.getElementById('drop-zone');
+    const fileInput = document.getElementById('custom-file-input');
+    const btnStart = document.getElementById('btn-start-import');
+    const nameInput = document.getElementById('custom-bible-name');
+    const abbrInput = document.getElementById('custom-bible-abbr');
+    const progWrap = document.getElementById('parse-progress-wrap');
+    const statusText = document.getElementById('parse-status-text');
+    const percentText = document.getElementById('parse-percent-text');
+    const progBar = document.getElementById('parse-progress-bar');
+
+    let selectedFile = null;
+
+    if (btnOpen) btnOpen.addEventListener('click', () => { modal.style.display = 'flex'; });
+    if (btnClose) btnClose.addEventListener('click', () => { modal.style.display = 'none'; });
+
+    if (dropZone && fileInput) {
+      dropZone.addEventListener('click', () => fileInput.click());
+      dropZone.addEventListener('dragover', (ev) => { ev.preventDefault(); dropZone.style.borderColor = '#d4af37'; });
+      dropZone.addEventListener('dragleave', () => { dropZone.style.borderColor = '#3f3f46'; });
+      dropZone.addEventListener('drop', (ev) => {
+        ev.preventDefault();
+        dropZone.style.borderColor = '#3f3f46';
+        if (ev.dataTransfer.files.length > 0) {
+          selectedFile = ev.dataTransfer.files[0];
+          dropZone.querySelector('p:nth-child(2)').textContent = 'Archivo: ' + selectedFile.name;
+        }
+      });
+      fileInput.addEventListener('change', (ev) => {
+        if (ev.target.files.length > 0) {
+          selectedFile = ev.target.files[0];
+          dropZone.querySelector('p:nth-child(2)').textContent = 'Archivo: ' + selectedFile.name;
+        }
+      });
+    }
+
+    if (btnStart) btnStart.addEventListener('click', async () => {
+      if (!selectedFile) { alert('Selecciona un archivo .epub o .txt primero'); return; }
+      btnStart.disabled = true;
+      progWrap.style.display = 'block';
+
+      try {
+        const parsed = await window.ClientParser.parseFile(
+          selectedFile,
+          nameInput.value,
+          abbrInput.value,
+          (pct, msg) => {
+            statusText.textContent = msg;
+            percentText.textContent = pct + '%';
+            progBar.style.width = pct + '%';
+          }
+        );
+        
+        statusText.textContent = 'Guardando en base de datos local...';
+        await window.CustomStorage.saveBible(parsed);
+        progBar.style.width = '100%';
+        percentText.textContent = '100%';
+        
+        alert('¡Biblia importada con éxito!');
+        modal.style.display = 'none';
+        await refreshSelect();
+        select.value = parsed.id;
+        select.dispatchEvent(new Event('change'));
+      } catch (err) {
+        alert('Error importando: ' + err.message);
+      } finally {
+        btnStart.disabled = false;
+        progWrap.style.display = 'none';
+      }
+    });
+  }
+
 
   // ── Renderizar listas de libros ─────────────────────────
   function renderBookLists() {
@@ -147,6 +267,7 @@
       if (!chapter) throw new Error("Capítulo no encontrado");
 
       // Construir las rutas estáticas predecibles de audio
+      const isCustom = state.activeTranslation !== 'TLA';
       const audioFile = `${book.abbr.toLowerCase()}_${String(chapNum).padStart(3, '0')}`;
       
       const data = {
@@ -159,9 +280,10 @@
         chapter: chapNum,
         verses: chapter.verses,
         sections: chapter.sections || [],
-        audio: `/public/audio/${book.abbr}/${audioFile}.opus`, // Estándar offline
-        audioHQ: `https://vps-bibliatts.com/public/audio_hq/${book.abbr}/${audioFile}.opus`, // Temporal, player lo reescribirá o usará fallback
-        timestamps: `/public/timestamps/${book.abbr}/${audioFile}.json`
+        isCustom: isCustom,
+        audio: isCustom ? null : `/public/audio/${book.abbr}/${audioFile}.opus`,
+        audioHQ: isCustom ? null : `https://vps-bibliatts.com/public/audio_hq/${book.abbr}/${audioFile}.opus`,
+        timestamps: isCustom ? null : `/public/timestamps/${book.abbr}/${audioFile}.json`
       };
 
       state.currentBook = data.book;

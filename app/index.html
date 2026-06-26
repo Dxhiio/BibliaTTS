@@ -36,6 +36,14 @@
       </button>
     </div>
 
+    <!-- Selector de Traducción y Botón Agregar -->
+    <div class="sidebar__translation-bar" style="padding: 0 16px 12px; display: flex; gap: 8px; align-items: center;">
+      <select id="translation-select" class="translation-select" aria-label="Seleccionar Traducción" style="flex: 1; background: var(--bg-surface-2, #1e1e24); color: var(--text-main, #fff); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 8px;">
+        <option value="TLA">TLA (Oficial con Audio)</option>
+      </select>
+      <button id="btn-add-bible" class="btn-add-bible" title="Importar Biblia (.epub o .txt)" style="background: var(--accent, #d4af37); color: #000; border: none; border-radius: 8px; padding: 8px 12px; font-weight: bold; cursor: pointer;">+</button>
+    </div>
+
     <!-- Búsqueda rápida -->
     <div class="sidebar__search">
       <svg class="sidebar__search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -252,9 +260,49 @@
 
   </footer>
 
+  <!-- Modal para Importar Biblias Custom -->
+  <div id="custom-bible-modal" class="modal-backdrop" aria-hidden="true" style="display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.8); z-index: 9999; align-items: center; justify-content: center; padding: 16px;">
+    <div class="modal-card" style="background: #18181b; border: 1px solid rgba(255,255,255,0.15); border-radius: 16px; padding: 24px; max-width: 450px; width: 100%; color: #fff; box-shadow: 0 20px 50px rgba(0,0,0,0.5);">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
+        <h2 style="font-size: 1.25rem; margin: 0; font-weight: bold;">📥 Importar Nueva Biblia</h2>
+        <button id="btn-close-custom-modal" style="background: none; border: none; color: #aaa; font-size: 1.5rem; cursor: pointer;">&times;</button>
+      </div>
+      <p style="color: #a1a1aa; font-size: 0.875rem; margin-bottom: 16px;">Sube un archivo <strong style="color: #fff;">.epub</strong> o <strong style="color: #fff;">.txt</strong> estructurado. Toda la conversión e indexación ocurrirá de forma local y privada en tu dispositivo.</p>
+      
+      <div style="margin-bottom: 12px;">
+        <label style="display: block; font-size: 0.8rem; color: #bbb; margin-bottom: 4px;">Nombre de la Traducción (ej. Reina Valera 1960)</label>
+        <input id="custom-bible-name" type="text" placeholder="Traducción Importada" style="width: 100%; background: #27272a; border: 1px solid #3f3f46; border-radius: 8px; padding: 10px; color: #fff; box-sizing: border-box;" />
+      </div>
+      <div style="margin-bottom: 16px;">
+        <label style="display: block; font-size: 0.8rem; color: #bbb; margin-bottom: 4px;">Abreviatura (ej. RVR60)</label>
+        <input id="custom-bible-abbr" type="text" placeholder="CUST" maxlength="6" style="width: 100%; background: #27272a; border: 1px solid #3f3f46; border-radius: 8px; padding: 10px; color: #fff; text-transform: uppercase; box-sizing: border-box;" />
+      </div>
+
+      <div id="drop-zone" style="border: 2px dashed #3f3f46; border-radius: 12px; padding: 32px 16px; text-align: center; cursor: pointer; transition: border-color 0.2s; background: rgba(255,255,255,0.02); margin-bottom: 16px;">
+        <p style="margin: 0 0 8px; font-size: 2rem;">📂</p>
+        <p style="margin: 0; font-size: 0.9rem; color: #e4e4e7;">Haz clic o arrastra tu archivo <strong style="color: #d4af37;">.epub / .txt</strong> aquí</p>
+        <input id="custom-file-input" type="file" accept=".epub,.txt" style="display: none;" />
+      </div>
+
+      <div id="parse-progress-wrap" style="display: none; margin-bottom: 16px;">
+        <div style="display: flex; justify-content: space-between; font-size: 0.8rem; margin-bottom: 4px;">
+          <span id="parse-status-text" style="color: #d4af37;">Analizando archivo...</span>
+          <span id="parse-percent-text">0%</span>
+        </div>
+        <div style="width: 100%; height: 8px; background: #27272a; border-radius: 4px; overflow: hidden;">
+          <div id="parse-progress-bar" style="width: 0%; height: 100%; background: #d4af37; transition: width 0.2s;"></div>
+        </div>
+      </div>
+
+      <button id="btn-start-import" style="width: 100%; background: #d4af37; color: #000; font-weight: bold; border: none; border-radius: 10px; padding: 12px; cursor: pointer; font-size: 1rem;">Comenzar Importación</button>
+    </div>
+  </div>
+
   <!-- ═══════════════════════════════════════════ -->
   <!--  SCRIPTS                                    -->
   <!-- ═══════════════════════════════════════════ -->
+  <script src="/js/storage.js"></script>
+  <script src="/js/custom_parser.js"></script>
   <script src="/js/navigation.js"></script>
   <script src="/js/player.js"></script>
   <script src="/js/app.js"></script>
