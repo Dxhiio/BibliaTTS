@@ -2,22 +2,12 @@
   "name": "biblia-app",
   "version": "1.0.0",
   "description": "Biblia TLA — Leer y Escuchar. App web completa con audio sincronizado.",
-  "main": "vps.js",
   "scripts": {
-    "start": "node vps.js",
-    "dev": "node vps.js",
     "build": "mkdir -p dist && cp -r app/* dist/ && cp -r data dist/",
     "parse": "node scripts/parse_bible.js",
     "tts-genesis": "python scripts/generate_tts.py --book GEN",
     "tts-all": "python scripts/generate_tts.py --all",
-    "setup": "npm install && node scripts/parse_bible.js",
     "list-voices": "python -c \"import asyncio; import edge_tts; asyncio.run(edge_tts.list_voices()).__iter__()\" 2>/dev/null || python scripts/list_voices.py"
-  },
-  "dependencies": {
-    "express": "^4.18.2"
-  },
-  "engines": {
-    "node": ">=14.0.0"
   },
   "keywords": ["biblia", "bible", "tts", "audio", "español"],
   "license": "MIT"
