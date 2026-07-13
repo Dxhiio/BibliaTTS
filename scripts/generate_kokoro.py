@@ -1,155 +1,116 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 generate_kokoro.py
 ==================
-Genera audio humanizado con Kokoro TTS para los primeros N capítulos
-de una Biblia desde su EPUB (formato SBU/Sociedades Bíblicas Unidas).
+Genera audio humanizado con Kokoro-ONNX para los primeros N capitulos
+de la Biblia usando el archivo data/bible.json ya existente.
 
-Requisitos previos:
-  1. Instalar espeak-ng en Windows:
-     https://github.com/espeak-ng/espeak-ng/releases  (bajar el .msi, instalar)
-  2. pip install kokoro soundfile numpy
+Requisitos:
+  pip install kokoro-onnx soundfile numpy
 
 Uso:
-  python scripts/generate_kokoro.py --epub "C:/ruta/SantaBibliaRV60.epub" --book GEN --chapters 5
+  python scripts/generate_kokoro.py --book GEN --chapters 5
+  python scripts/generate_kokoro.py --book MAT --chapters 3 --voice if_sara
 """
 
 import argparse
-import re
+import json
 import subprocess
 import sys
-import zipfile
+import os
 from pathlib import Path
 
-import numpy as np
+# Forzar UTF-8 en consola de Windows
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 
-# ─────────────────────────────────────────────────────────────────────────────
-# Mapeo canónico: abreviatura → (id_numérico, nombre)
-# ─────────────────────────────────────────────────────────────────────────────
-BOOKS = {
-    'GEN': (1, 'Génesis'),    'EXO': (2, 'Éxodo'),        'LEV': (3, 'Levítico'),
-    'NUM': (4, 'Números'),    'DEU': (5, 'Deuteronomio'),  'JOS': (6, 'Josué'),
-    'JUE': (7, 'Jueces'),     'RUT': (8, 'Rut'),           '1SA': (9, '1 Samuel'),
-    '2SA': (10, '2 Samuel'),  '1RE': (11, '1 Reyes'),      '2RE': (12, '2 Reyes'),
-    '1CR': (13, '1 Crónicas'),'2CR': (14, '2 Crónicas'),  'ESD': (15, 'Esdras'),
-    'NEH': (16, 'Nehemías'),  'EST': (17, 'Ester'),        'JOB': (18, 'Job'),
-    'SAL': (19, 'Salmos'),    'PRO': (20, 'Proverbios'),   'ECL': (21, 'Eclesiastés'),
-    'CAN': (22, 'Cantares'),  'ISA': (23, 'Isaías'),       'JER': (24, 'Jeremías'),
-    'LAM': (25, 'Lamentaciones'),'EZE': (26, 'Ezequiel'), 'DAN': (27, 'Daniel'),
-    'OSE': (28, 'Oseas'),     'JOE': (29, 'Joel'),         'AMO': (30, 'Amós'),
-    'ABD': (31, 'Abdías'),    'JON': (32, 'Jonás'),        'MIQ': (33, 'Miqueas'),
-    'NAH': (34, 'Nahum'),     'HAB': (35, 'Habacuc'),      'SOF': (36, 'Sofonías'),
-    'HAG': (37, 'Hageo'),     'ZAC': (38, 'Zacarías'),     'MAL': (39, 'Malaquías'),
-    'MAT': (40, 'Mateo'),     'MAR': (41, 'Marcos'),       'LUC': (42, 'Lucas'),
-    'JUA': (43, 'Juan'),      'HEC': (44, 'Hechos'),       'ROM': (45, 'Romanos'),
-    '1CO': (46, '1 Corintios'),'2CO': (47, '2 Corintios'),'GAL': (48, 'Gálatas'),
-    'EFE': (49, 'Efesios'),   'FIL': (50, 'Filipenses'),   'COL': (51, 'Colosenses'),
-    '1TE': (52, '1 Tesalonicenses'),'2TE': (53, '2 Tesalonicenses'),
-    '1TI': (54, '1 Timoteo'), '2TI': (55, '2 Timoteo'),   'TIT': (56, 'Tito'),
-    'FLM': (57, 'Filemón'),   'HEB': (58, 'Hebreos'),      'SAN': (59, 'Santiago'),
-    '1PE': (60, '1 Pedro'),   '2PE': (61, '2 Pedro'),      '1JN': (62, '1 Juan'),
-    '2JN': (63, '2 Juan'),    '3JN': (64, '3 Juan'),       'JUD': (65, 'Judas'),
-    'APO': (66, 'Apocalipsis'),
-}
+# ── Rutas del proyecto ────────────────────────────────────────────────────────
+SCRIPT_DIR = Path(__file__).parent
+PROJECT_ROOT = SCRIPT_DIR.parent
+BIBLE_JSON = PROJECT_ROOT / 'data' / 'bible.json'
+AUDIO_DIR = PROJECT_ROOT / 'public' / 'audio'
 
 
-# ─────────────────────────────────────────────────────────────────────────────
-# Parseo del EPUB (estructura SBU: id="...htmlv{BB}{CCC}{VVV}")
-# ─────────────────────────────────────────────────────────────────────────────
-def strip_html(html: str) -> str:
-    text = re.sub(r'<[^>]+>', '', html)
-    text = re.sub(r'&amp;', '&', text)
-    text = re.sub(r'&nbsp;', ' ', text)
-    text = re.sub(r'&#(\d+);', lambda m: chr(int(m.group(1))), text)
-    text = re.sub(r'&\w+;', '', text)
-    text = re.sub(r'\s+', ' ', text).strip()
-    return text
+def load_bible():
+    print(f'Cargando {BIBLE_JSON.name}...')
+    with open(BIBLE_JSON, 'r', encoding='utf-8') as f:
+        return json.load(f)
 
 
-def parse_epub_chapter(epub_path: str, book_num: int, chapter_num: int) -> list[tuple[int, str]]:
-    """
-    Extrae los versículos de un capítulo usando los IDs estructurados del EPUB.
-    Retorna lista de (numero_versiculo, texto).
-    """
-    verses = []
-    bb = f'{book_num:02d}'
-    ccc = f'{chapter_num:03d}'
-    anchor_pattern = re.compile(rf'id="[^"]*htmlv{bb}{ccc}(\d{{3}})"')
-    p_pattern = re.compile(r'<p[^>]*>(.*?)</p>', re.DOTALL)
+def find_book(bible, abbr):
+    abbr = abbr.upper()
+    for book in bible['books']:
+        if book['abbr'].upper() == abbr:
+            return book
+    return None
 
-    with zipfile.ZipFile(epub_path, 'r') as zf:
-        html_files = sorted(
-            [n for n in zf.namelist() if n.endswith(('.xhtml', '.html', '.htm'))],
-            key=lambda s: [int(c) if c.isdigit() else c for c in re.split(r'(\d+)', s)]
-        )
-        for filename in html_files:
+
+def chapter_to_text(chapter):
+    """Convierte un capitulo del JSON a texto plano para TTS."""
+    parts = []
+    for verse in chapter['verses']:
+        # Agregar el numero de versiculo con pausa natural (coma)
+        parts.append(f"{verse['number']}, {verse['text']}")
+    return ' '.join(parts)
+
+
+# Instancia global del modelo (se carga una sola vez en memoria)
+_kokoro_instance = None
+
+def get_kokoro(device='cuda'):
+    """Carga el modelo una sola vez y lo reutiliza en todos los capitulos."""
+    global _kokoro_instance
+    if _kokoro_instance is None:
+        from kokoro_onnx import Kokoro
+        if device == 'cuda':
             try:
-                html = zf.read(filename).decode('utf-8', errors='ignore')
-            except Exception:
-                continue
-
-            # Verificar si este archivo contiene versículos de este capítulo
-            if not anchor_pattern.search(html):
-                continue
-
-            # Extraer párrafos que contienen un anchor de versículo real
-            for p_match in p_pattern.finditer(html):
-                p_content = p_match.group(1)
-                anchor = anchor_pattern.search(p_content)
-                if not anchor:
-                    continue
-                verse_num = int(anchor.group(1))
-                if verse_num == 0:
-                    continue  # Es encabezado de capítulo, no versículo
-                text = strip_html(p_content)
-                # Filtrar si es solo números (índice de navegación)
-                if len(text) < 5 or re.match(r'^[\d\s,;.]+$', text):
-                    continue
-                verses.append((verse_num, text))
-
-    return sorted(set(verses), key=lambda x: x[0])
+                import onnxruntime as ort
+                available = ort.get_available_providers()
+                if 'CUDAExecutionProvider' in available:
+                    print('Cargando modelo Kokoro en GPU (CUDA)...')
+                    _kokoro_instance = Kokoro(
+                        'kokoro-v1.0.onnx', 'voices-v1.0.bin',
+                        providers=['CUDAExecutionProvider', 'CPUExecutionProvider']
+                    )
+                else:
+                    print('CUDA no disponible en onnxruntime, usando CPU...')
+                    _kokoro_instance = Kokoro('kokoro-v1.0.onnx', 'voices-v1.0.bin')
+            except Exception as e:
+                print(f'Fallback a CPU: {e}')
+                _kokoro_instance = Kokoro('kokoro-v1.0.onnx', 'voices-v1.0.bin')
+        else:
+            print('Cargando modelo Kokoro en CPU...')
+            _kokoro_instance = Kokoro('kokoro-v1.0.onnx', 'voices-v1.0.bin')
+        print('Modelo listo.')
+    return _kokoro_instance
 
 
-# ─────────────────────────────────────────────────────────────────────────────
-# Generación de audio con Kokoro TTS
-# ─────────────────────────────────────────────────────────────────────────────
-def generate_audio_kokoro(text: str, output_wav: Path, voice: str = 'em_alex', speed: float = 0.92) -> bool:
-    """
-    Genera un archivo WAV usando Kokoro TTS con voz en español.
-    voice opciones: 'em_alex' (masculina), 'ef_dora' (femenina)
-    speed < 1.0 = más lento y pausado (recomendado para lectura bíblica)
-    """
+
+def generate_audio(text, output_wav, voice, speed, device='cuda'):
+    """Genera WAV con Kokoro-ONNX usando GPU si esta disponible."""
     try:
         import soundfile as sf
-        from kokoro import KPipeline
 
-        print(f'  🎙 Kokoro procesando {len(text)} caracteres con voz {voice}...')
-        pipeline = KPipeline(lang_code='e')  # 'e' = Español
-        chunks = []
+        kokoro = get_kokoro(device)
+        samples, sample_rate = kokoro.create(text, voice=voice, speed=speed, lang='es')
 
-        for _, _, audio in pipeline(text, voice=voice, speed=speed):
-            chunks.append(audio)
-
-        if not chunks:
-            print('  ⚠ Kokoro no generó audio.')
-            return False
-
-        combined = np.concatenate(chunks)
-        sf.write(str(output_wav), combined, 24000)
-        print(f'  ✓ WAV guardado: {output_wav} ({combined.shape[0] / 24000:.1f}s)')
+        sf.write(str(output_wav), samples, sample_rate)
+        duration = len(samples) / sample_rate
+        print(f'  OK  WAV: {output_wav.name} ({duration:.1f}s)')
         return True
 
     except ImportError as e:
-        print(f'\n❌ Dependencia faltante: {e}')
-        print('Ejecuta: pip install kokoro soundfile numpy')
-        return False
+        print(f'ERROR: {e}')
+        print('Ejecuta: pip install kokoro-onnx soundfile numpy')
+        sys.exit(1)
     except Exception as e:
-        print(f'\n❌ Error generando audio: {e}')
+        print(f'ERROR generando audio: {e}')
         return False
 
 
-def wav_to_opus(wav_path: Path, opus_path: Path, bitrate: str = '24k') -> bool:
-    """Convierte WAV a OPUS usando ffmpeg."""
+def wav_to_opus(wav_path, opus_path, bitrate='24k'):
+    """Convierte WAV a OPUS con ffmpeg."""
     opus_path.parent.mkdir(parents=True, exist_ok=True)
     result = subprocess.run(
         ['ffmpeg', '-y', '-i', str(wav_path),
@@ -160,97 +121,94 @@ def wav_to_opus(wav_path: Path, opus_path: Path, bitrate: str = '24k') -> bool:
     wav_path.unlink(missing_ok=True)
     if result.returncode == 0:
         size_kb = opus_path.stat().st_size / 1024
-        print(f'  ✓ OPUS guardado: {opus_path} ({size_kb:.0f} KB)')
+        print(f'  OK  OPUS: {opus_path.name} ({size_kb:.0f} KB)')
         return True
     else:
-        print(f'  ❌ ffmpeg error: {result.stderr[-300:]}')
+        print(f'ERROR ffmpeg: {result.stderr[-200:]}')
         return False
 
 
-# ─────────────────────────────────────────────────────────────────────────────
-# Main
-# ─────────────────────────────────────────────────────────────────────────────
 def main():
-    parser = argparse.ArgumentParser(description='Genera audio Kokoro TTS para capítulos de una Biblia EPUB')
-    parser.add_argument('--epub', required=True, help='Ruta al archivo .epub (ej: "C:/ruta/SantaBibliaRV60.epub")')
-    parser.add_argument('--book', default='GEN', help='Abreviatura del libro (ej: GEN, MAT, JUA). Default: GEN')
-    parser.add_argument('--chapters', type=int, default=5, help='Cuántos capítulos generar desde el primero. Default: 5')
-    parser.add_argument('--voice', default='em_alex', choices=['em_alex', 'ef_dora'],
-                        help='Voz Kokoro: em_alex (masculina), ef_dora (femenina). Default: em_alex')
-    parser.add_argument('--speed', type=float, default=0.92,
-                        help='Velocidad de lectura (0.8=lenta, 1.0=normal). Default: 0.92')
-    parser.add_argument('--bitrate', default='24k', help='Bitrate OPUS. Default: 24k')
+    parser = argparse.ArgumentParser(description='Genera audio Kokoro TTS desde bible.json')
+    parser.add_argument('--book', default='GEN',
+                        help='Abreviatura del libro (GEN, MAT, JUA, etc.). Default: GEN')
+    parser.add_argument('--chapters', type=int, default=5,
+                        help='Numero de capitulos a generar desde el primero. Default: 5')
+    parser.add_argument('--voice', default='im_nicola',
+                        choices=['im_nicola', 'if_sara'],
+                        help='Voz: im_nicola (masculina) o if_sara (femenina). Default: im_nicola')
+    parser.add_argument('--speed', type=float, default=0.90,
+                        help='Velocidad de lectura (0.8=lenta, 1.0=normal). Default: 0.90')
+    parser.add_argument('--bitrate', default='24k',
+                        help='Bitrate del archivo OPUS. Default: 24k')
+    parser.add_argument('--device', default='cuda', choices=['cuda', 'cpu'],
+                        help='Dispositivo de inferencia: cuda (GPU) o cpu. Default: cuda')
     args = parser.parse_args()
 
-    book_abbr = args.book.upper()
-    if book_abbr not in BOOKS:
-        print(f'❌ Libro desconocido: {book_abbr}')
-        print(f'Libros válidos: {", ".join(BOOKS.keys())}')
+    # Verificar que existe bible.json
+    if not BIBLE_JSON.exists():
+        print(f'ERROR: No se encontro {BIBLE_JSON}')
+        print('Asegurate de ejecutar este script desde la raiz del proyecto.')
         sys.exit(1)
 
-    book_num, book_name = BOOKS[book_abbr]
-    epub_path = Path(args.epub)
-    if not epub_path.exists():
-        print(f'❌ Archivo no encontrado: {epub_path}')
+    bible = load_bible()
+    book = find_book(bible, args.book)
+
+    if not book:
+        available = [b['abbr'] for b in bible['books']]
+        print(f'ERROR: Libro "{args.book}" no encontrado.')
+        print(f'Libros disponibles: {", ".join(available)}')
         sys.exit(1)
 
-    # Directorio de salida compatible con la estructura de la app
-    script_dir = Path(__file__).parent
-    project_root = script_dir.parent
-    out_dir = project_root / 'public' / 'audio' / book_abbr
+    book_abbr = book['abbr']
+    book_name = book['name']
+    chapters = book['chapters'][:args.chapters]
+    out_dir = AUDIO_DIR / book_abbr
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    print(f'\n📖 Biblia: {epub_path.name}')
-    print(f'📚 Libro:  {book_name} (ID: {book_num:02d})')
-    print(f'🎙 Voz:    {args.voice} | Velocidad: {args.speed}x | Bitrate: {args.bitrate}')
-    print(f'📂 Salida: {out_dir}\n')
+    print()
+    print(f'Libro:    {book_name} ({book_abbr})')
+    print(f'Capitulos a generar: {len(chapters)}')
+    print(f'Voz:      {args.voice} | Velocidad: {args.speed}x | Bitrate: {args.bitrate}')
+    print(f'Salida:   {out_dir}')
+    print()
 
-    generated = 0
-    failed = 0
+    ok_count = 0
+    fail_count = 0
 
-    for chapter_num in range(1, args.chapters + 1):
-        print(f'─── Capítulo {chapter_num} ───')
-        verses = parse_epub_chapter(str(epub_path), book_num, chapter_num)
+    for chapter in chapters:
+        num = chapter['number']
+        print(f'--- Capitulo {num} ({len(chapter["verses"])} versiculos) ---')
 
-        if not verses:
-            print(f'  ⚠ No se encontraron versículos para {book_abbr} capítulo {chapter_num}. Saltando.')
-            failed += 1
-            continue
-
-        print(f'  📜 {len(verses)} versículos encontrados')
-
-        # Construir el texto completo del capítulo
-        # Agregar pequeñas pausas con comas después del número de versículo
-        chapter_text = ' '.join(f'{v_num}, {v_text}' for v_num, v_text in verses)
-
-        # Nombres de archivo compatibles con la app (ej: gen_001.opus)
-        file_stem = f'{book_abbr.lower()}_{chapter_num:03d}'
-        wav_path = out_dir / f'{file_stem}.wav'
+        file_stem = f'{book_abbr.lower()}_{num:03d}'
         opus_path = out_dir / f'{file_stem}.opus'
 
         if opus_path.exists():
-            print(f'  ⏭ Ya existe: {opus_path.name} — saltando')
-            generated += 1
+            print(f'  SKIP {opus_path.name} (ya existe)')
+            ok_count += 1
             continue
 
-        ok = generate_audio_kokoro(chapter_text, wav_path, voice=args.voice, speed=args.speed)
-        if not ok:
-            failed += 1
-            continue
+        text = chapter_to_text(chapter)
+        wav_path = out_dir / f'{file_stem}.wav'
 
-        ok = wav_to_opus(wav_path, opus_path, bitrate=args.bitrate)
-        if ok:
-            generated += 1
+        if generate_audio(text, wav_path, args.voice, args.speed, args.device):
+            if wav_to_opus(wav_path, opus_path, args.bitrate):
+                ok_count += 1
+            else:
+                fail_count += 1
         else:
-            failed += 1
+            fail_count += 1
 
-    print(f'\n{"="*50}')
-    print(f'✅ Generados exitosamente: {generated} capítulos')
-    if failed:
-        print(f'❌ Fallidos:              {failed} capítulos')
-    print(f'\nArchivos en: {out_dir}')
-    print('\nPara que la app los sirva correctamente, agrega RVR60 como traducción')
-    print('integrada en data/bible_rvr60.json (ejecuta: node scripts/parse_bible.js --epub tu_archivo.epub)')
+    print()
+    print('=' * 45)
+    print(f'Generados: {ok_count} | Fallidos: {fail_count}')
+    if ok_count > 0:
+        print(f'Archivos en: {out_dir}')
+        print()
+        print('Siguiente paso: sube estos archivos a GitHub con:')
+        print('  git add public/audio/')
+        print(f'  git commit -m "audio: Kokoro TTS {book_abbr} cap 1-{len(chapters)}"')
+        print('  git push origin main')
 
 
 if __name__ == '__main__':
