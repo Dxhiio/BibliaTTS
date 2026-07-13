@@ -7,6 +7,7 @@
     "parse": "node scripts/parse_bible.js",
     "tts-genesis": "python scripts/generate_tts.py --book GEN",
     "tts-all": "python scripts/generate_tts.py --all",
+    "kokoro-test": "python scripts/generate_kokoro.py --epub SantaBibliaRV60.epub --book GEN --chapters 5",
     "list-voices": "python -c \"import asyncio; import edge_tts; asyncio.run(edge_tts.list_voices()).__iter__()\" 2>/dev/null || python scripts/list_voices.py"
   },
   "keywords": ["biblia", "bible", "tts", "audio", "español"],
