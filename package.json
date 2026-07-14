@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "description": "Biblia TLA — Leer y Escuchar. App web completa con audio sincronizado.",
   "scripts": {
-    "build": "mkdir -p dist && cp -r app/* dist/ && cp -r data dist/ && cp -r public/* dist/",
+    "build": "powershell -Command \"New-Item -ItemType Directory -Force -Path dist; Copy-Item -Recurse -Force app/* dist/; Copy-Item -Recurse -Force data dist/; Copy-Item -Recurse -Force public/* dist/\"",
     "parse": "node scripts/parse_bible.js",
     "tts-genesis": "python scripts/generate_tts.py --book GEN",
     "tts-all": "python scripts/generate_tts.py --all",
     "kokoro-test": "python scripts/generate_kokoro.py --epub SantaBibliaRV60.epub --book GEN --chapters 5",
+    "clone-voice": "python scripts/clone_voice.py",
     "list-voices": "python -c \"import asyncio; import edge_tts; asyncio.run(edge_tts.list_voices()).__iter__()\" 2>/dev/null || python scripts/list_voices.py"
   },
   "keywords": ["biblia", "bible", "tts", "audio", "español"],

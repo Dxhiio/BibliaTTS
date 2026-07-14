@@ -9,3 +9,8 @@ __pycache__/
 Thumbs.db
 *.zip
 audio_hq.zip
+dist/
+*.onnx
+*.bin
+.venv/
+data/reference_voice.wav
