@@ -135,6 +135,25 @@ def wav_to_opus(wav_path, opus_path, bitrate='24k'):
     wav_path.unlink(missing_ok=True)
     return result.returncode == 0
 
+def numero_a_letras(num):
+    unidades = [
+        "", "uno", "dos", "tres", "cuatro", "cinco", "seis", "siete", "ocho", "nueve", "diez",
+        "once", "doce", "trece", "catorce", "quince", "dieciséis", "diecisiete", "dieciocho", "diecinueve",
+        "veinte", "veintiuno", "veintidós", "veintitrés", "veinticuatro", "veinticinco", "veintiséis",
+        "veintisiete", "veintiocho", "veintinueve"
+    ]
+    decenas = ["", "diez", "veinte", "treinta", "cuarenta", "cincuenta", "sesenta", "setenta", "ochenta", "noventa"]
+    if num < 30:
+        return unidades[num].capitalize()
+    elif num < 100:
+        dec, uni = divmod(num, 10)
+        return decenas[dec].capitalize() if uni == 0 else f"{decenas[dec]} y {unidades[uni]}".capitalize()
+    elif num == 100:
+        return "Cien"
+    elif num < 200:
+        return f"Ciento {numero_a_letras(num - 100).lower()}".capitalize()
+    return str(num)
+
 # ─────────────────────────────────────────────────────────────────────────────
 # Main Flow
 # ─────────────────────────────────────────────────────────────────────────────
@@ -169,17 +188,27 @@ def main():
     gen_book = next(b for b in bible['books'] if b['abbr'] == 'GEN')
     chapters = gen_book['chapters'][:5] # Los primeros 5 capítulos
 
-    # 3. Cargar el modelo en GPU UNA VEZ
-    model = load_qwen_model(args.model)
+    # 3. Cargar el modelo en GPU UNA VEZ y activar Tensor Cores
+    import torch
     import numpy as np
     import soundfile as sf
+    
+    if torch.cuda.is_available():
+        torch.backends.cuda.matmul.allow_tf32 = True
+        torch.backends.cudnn.allow_tf32 = True
+        torch.backends.cudnn.benchmark = True
 
-    print(f'\nIniciando clonación rápida por bloques para los primeros 5 capítulos de Génesis...')
+    model = load_qwen_model(args.model)
+
+    print('⚡ Pre-calculando embedding y prompt de voz en VRAM (Artur Mas)...', flush=True)
+    prompt_items = model.create_voice_clone_prompt(ref_audio=str(ref_wav), ref_text=ref_text)
+
+    print(f'\nIniciando clonación ULTRA-RÁPIDA PARALELA en GPU para los primeros 5 capítulos de Génesis...', flush=True)
     
     for chapter in chapters:
         num = chapter['number']
         verses = chapter['verses']
-        print(f'\n--- Generando Capítulo {num} ({len(verses)} versículos en lotes rápidos) ---')
+        print(f'\n--- Generando Capítulo {num} ({len(verses)} versículos en lotes paralelos de GPU) ---', flush=True)
         
         file_stem = f'gen_{num:03d}'
         temp_wav = AUDIO_DIR / f'{file_stem}.wav'
@@ -191,36 +220,48 @@ def main():
         audio_chunks = []
         sample_rate = 24000
         
-        # Agrupar de 4 en 4 versículos para que la GPU procese cada bloque en ~2 segundos
-        batch_size = 4
-        for i in range(0, len(verses), batch_size):
-            batch = verses[i:i + batch_size]
-            batch_text = ' '.join([f"{v['number']}, {v['text']}" for v in batch])
-            print(f'  [Lote {i//batch_size + 1}/{(len(verses) + batch_size - 1)//batch_size}] Versículos {batch[0]["number"]}-{batch[-1]["number"]}...')
+        # Agrupar versículos en secuencias de 2, y procesar de 6 en 6 secuencias en paralelo en la GPU (12 versículos simultáneos por batch)
+        verses_per_seq = 2
+        gpu_batch_size = 6
+        
+        sequences = []
+        for i in range(0, len(verses), verses_per_seq):
+            sub = verses[i:i + verses_per_seq]
+            seq_text = ' '.join([f"{numero_a_letras(v['number'])}. {v['text']}" for v in sub])
+            sequences.append(seq_text)
+            
+        for i in range(0, len(sequences), gpu_batch_size):
+            batch_list = sequences[i:i + gpu_batch_size]
+            print(f'  🚀 Sintetizando lote paralelo de {len(batch_list)} secuencias simultáneas en GPU...', flush=True)
             try:
-                wavs, sr = model.generate_voice_clone(
-                    text=batch_text,
-                    language="Spanish",
-                    ref_audio=str(ref_wav),
-                    ref_text=ref_text
-                )
-                audio_chunks.append(wavs[0])
+                with torch.inference_mode():
+                    wavs, sr = model.generate_voice_clone(
+                        text=batch_list,
+                        language="Spanish",
+                        voice_clone_prompt=prompt_items
+                    )
+                audio_chunks.extend(wavs)
                 sample_rate = sr
             except Exception as e:
-                print(f'    ⚠️ Error en lote: {e}')
+                print(f'    ⚠️ Error en lote paralelo GPU: {e}', flush=True)
+                # Fallback individual de seguridad si un batch paralelo excede límite de memoria
+                for text_single in batch_list:
+                    with torch.inference_mode():
+                        w, sr = model.generate_voice_clone(text=text_single, language="Spanish", voice_clone_prompt=prompt_items)
+                        audio_chunks.extend(w)
                 
         if audio_chunks:
             full_audio = np.concatenate(audio_chunks)
             sf.write(str(temp_wav), full_audio, sample_rate)
-            print('  Comprimiendo a OPUS...')
+            print('  Comprimiendo a OPUS...', flush=True)
             if wav_to_opus(temp_wav, opus_path):
-                print(f'  ✓ Capítulo {num} generado y reemplazado con éxito.')
+                print(f'  ✓ Capítulo {num} generado y reemplazado con éxito.', flush=True)
             else:
-                print(f'  ❌ Falló compresión de capítulo {num}')
+                print(f'  ❌ Falló compresión de capítulo {num}', flush=True)
         else:
-            print(f'  ❌ No se pudo generar audio para el capítulo {num}.')
+            print(f'  ❌ No se pudo generar audio para el capítulo {num}.', flush=True)
             
-    print('\n¡Proceso finalizado! Todos los archivos OPUS están listos en public/audio/GEN/.')
+    print('\n¡Proceso finalizado! Todos los archivos OPUS están listos en public/audio/GEN/.', flush=True)
 
 
 if __name__ == '__main__':
