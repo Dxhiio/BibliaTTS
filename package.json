@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Biblia TLA — Leer y Escuchar. App web completa con audio sincronizado.",
   "scripts": {
-    "build": "powershell -Command \"New-Item -ItemType Directory -Force -Path dist; Copy-Item -Recurse -Force app/* dist/; Copy-Item -Recurse -Force data dist/; Copy-Item -Recurse -Force public/* dist/\"",
+    "build": "node scripts/build.js",
     "parse": "node scripts/parse_bible.js",
     "tts-genesis": "python scripts/generate_tts.py --book GEN",
     "tts-all": "python scripts/generate_tts.py --all",
