@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Biblia TLA — Leer y Escuchar. App web completa con audio sincronizado.",
   "scripts": {
-    "build": "mkdir -p dist && cp -r app/* dist/ && cp -r data dist/",
+    "build": "mkdir -p dist && cp -r app/* dist/ && cp -r data dist/ && cp -r public/* dist/",
     "parse": "node scripts/parse_bible.js",
     "tts-genesis": "python scripts/generate_tts.py --book GEN",
     "tts-all": "python scripts/generate_tts.py --all",

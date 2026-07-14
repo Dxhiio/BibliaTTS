@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Test — Kokoro TTS | Biblia TLA</title>
+  <style>
+    :root {
+      --bg: #0f0f14;
+      --surface: #1a1a24;
+      --surface2: #22222f;
+      --border: #2e2e42;
+      --gold: #c9a84c;
+      --gold-dim: #8a6d2a;
+      --text: #e8e8f0;
+      --text-dim: #888899;
+      --green: #4caf76;
+      --radius: 12px;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      min-height: 100vh;
+      padding: 2rem 1rem;
+    }
+
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+    }
+
+    header {
+      margin-bottom: 2.5rem;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 1.5rem;
+    }
+
+    header .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: #2d1f00;
+      border: 1px solid var(--gold-dim);
+      color: var(--gold);
+      font-size: 0.72rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 4px 12px;
+      border-radius: 20px;
+      margin-bottom: 1rem;
+    }
+
+    header h1 {
+      font-size: 1.8rem;
+      font-weight: 700;
+      margin-bottom: 0.4rem;
+      color: var(--text);
+    }
+
+    header p {
+      color: var(--text-dim);
+      font-size: 0.9rem;
+      line-height: 1.5;
+    }
+
+    .info-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1rem;
+      margin-bottom: 2rem;
+    }
+
+    .info-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1rem;
+      text-align: center;
+    }
+
+    .info-card .label {
+      font-size: 0.72rem;
+      color: var(--text-dim);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      margin-bottom: 4px;
+    }
+
+    .info-card .value {
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--gold);
+    }
+
+    /* ── Capítulo card ── */
+    .chapter-list {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+
+    .chapter-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+      transition: border-color 0.2s;
+    }
+
+    .chapter-card.active {
+      border-color: var(--gold);
+    }
+
+    .chapter-header {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      padding: 1rem 1.25rem;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .chapter-header:hover { background: var(--surface2); }
+
+    .chapter-num {
+      width: 40px;
+      height: 40px;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+      font-size: 1rem;
+      flex-shrink: 0;
+      color: var(--gold);
+    }
+
+    .chapter-info { flex: 1; }
+
+    .chapter-info .title {
+      font-weight: 600;
+      font-size: 0.95rem;
+      margin-bottom: 2px;
+    }
+
+    .chapter-info .meta {
+      font-size: 0.78rem;
+      color: var(--text-dim);
+    }
+
+    .play-btn {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: var(--gold);
+      border: none;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      transition: background 0.15s, transform 0.1s;
+    }
+
+    .play-btn:hover { background: #e0b85a; transform: scale(1.05); }
+    .play-btn:active { transform: scale(0.97); }
+    .play-btn.playing { background: #4caf76; }
+
+    .play-btn svg { width: 16px; height: 16px; fill: #000; }
+
+    /* ── Audio controls ── */
+    .audio-controls {
+      padding: 0 1.25rem 1.25rem;
+      display: none;
+    }
+
+    .chapter-card.active .audio-controls { display: block; }
+
+    .progress-wrap {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      margin-bottom: 0.6rem;
+    }
+
+    .time {
+      font-size: 0.78rem;
+      color: var(--text-dim);
+      min-width: 38px;
+      font-variant-numeric: tabular-nums;
+    }
+
+    input[type="range"] {
+      flex: 1;
+      -webkit-appearance: none;
+      appearance: none;
+      height: 4px;
+      border-radius: 2px;
+      background: var(--border);
+      outline: none;
+      cursor: pointer;
+    }
+
+    input[type="range"]::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      background: var(--gold);
+      cursor: pointer;
+    }
+
+    .vol-row {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      font-size: 0.78rem;
+      color: var(--text-dim);
+    }
+
+    .vol-row input { width: 90px; }
+
+    .status-bar {
+      margin-top: 2rem;
+      padding: 1rem 1.25rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      font-size: 0.82rem;
+      color: var(--text-dim);
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .status-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--text-dim);
+      flex-shrink: 0;
+    }
+    .status-dot.ok { background: var(--green); }
+    .status-dot.playing { background: var(--gold); animation: pulse 1s infinite; }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      color: var(--text-dim);
+      font-size: 0.82rem;
+      text-decoration: none;
+      margin-bottom: 2rem;
+      transition: color 0.15s;
+    }
+    .back-link:hover { color: var(--text); }
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <a href="/" class="back-link">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M19 12H5M12 5l-7 7 7 7"/></svg>
+      Volver a la app
+    </a>
+
+    <header>
+      <div class="badge">
+        <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="12" r="10"/></svg>
+        Prueba de audio
+      </div>
+      <h1>Kokoro TTS — Génesis</h1>
+      <p>Primeros 5 capítulos generados con <strong>Kokoro-ONNX</strong> (voz <code>im_nicola</code>, velocidad 0.9x).
+         Compara la naturalidad con el audio TLA actual antes de integrarlo.</p>
+    </header>
+
+    <div class="info-grid">
+      <div class="info-card">
+        <div class="label">Motor</div>
+        <div class="value">Kokoro-ONNX</div>
+      </div>
+      <div class="info-card">
+        <div class="label">Voz</div>
+        <div class="value">im_nicola</div>
+      </div>
+      <div class="info-card">
+        <div class="label">Velocidad</div>
+        <div class="value">0.9×</div>
+      </div>
+    </div>
+
+    <div class="chapter-list" id="chapterList"></div>
+
+    <div class="status-bar">
+      <div class="status-dot" id="statusDot"></div>
+      <span id="statusText">Listo para reproducir.</span>
+    </div>
+
+  </div>
+
+  <script>
+    const CHAPTERS = [
+      { num: 1, file: '/audio/GEN/gen_001.opus', verses: 31 },
+      { num: 2, file: '/audio/GEN/gen_002.opus', verses: 22 },
+      { num: 3, file: '/audio/GEN/gen_003.opus', verses: 24 },
+      { num: 4, file: '/audio/GEN/gen_004.opus', verses: 25 },
+      { num: 5, file: '/audio/GEN/gen_005.opus', verses: 28 },
+    ];
+
+    let currentAudio = null;
+    let currentCard = null;
+    let currentBtn  = null;
+
+    function fmt(s) {
+      s = Math.floor(s || 0);
+      const m = Math.floor(s / 60);
+      const ss = String(s % 60).padStart(2, '0');
+      return `${m}:${ss}`;
+    }
+
+    function setStatus(text, state) {
+      document.getElementById('statusText').textContent = text;
+      const dot = document.getElementById('statusDot');
+      dot.className = 'status-dot' + (state ? ' ' + state : '');
+    }
+
+    function buildCards() {
+      const list = document.getElementById('chapterList');
+      CHAPTERS.forEach(ch => {
+        const card = document.createElement('div');
+        card.className = 'chapter-card';
+        card.id = `card-${ch.num}`;
+
+        card.innerHTML = `
+          <div class="chapter-header" data-num="${ch.num}">
+            <div class="chapter-num">${ch.num}</div>
+            <div class="chapter-info">
+              <div class="title">Génesis — Capítulo ${ch.num}</div>
+              <div class="meta">${ch.verses} versículos · ${ch.file.split('/').pop()}</div>
+            </div>
+            <button class="play-btn" id="btn-${ch.num}" title="Reproducir">
+              <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+            </button>
+          </div>
+          <div class="audio-controls">
+            <div class="progress-wrap">
+              <span class="time" id="cur-${ch.num}">0:00</span>
+              <input type="range" id="seek-${ch.num}" min="0" value="0" step="0.1">
+              <span class="time" id="dur-${ch.num}">-:--</span>
+            </div>
+            <div class="vol-row">
+              🔊 <input type="range" id="vol-${ch.num}" min="0" max="1" step="0.05" value="1">
+            </div>
+          </div>`;
+
+        list.appendChild(card);
+
+        const btn  = card.querySelector(`#btn-${ch.num}`);
+        const seek = card.querySelector(`#seek-${ch.num}`);
+        const vol  = card.querySelector(`#vol-${ch.num}`);
+        const cur  = card.querySelector(`#cur-${ch.num}`);
+        const dur  = card.querySelector(`#dur-${ch.num}`);
+
+        btn.addEventListener('click', () => togglePlay(ch, card, btn, seek, cur, dur));
+        seek.addEventListener('input', () => {
+          if (currentAudio && currentCard === card) currentAudio.currentTime = seek.value;
+        });
+        vol.addEventListener('input', () => {
+          if (currentAudio && currentCard === card) currentAudio.volume = vol.value;
+        });
+      });
+    }
+
+    function stopCurrent() {
+      if (currentAudio) {
+        currentAudio.pause();
+        currentAudio = null;
+      }
+      if (currentBtn) {
+        currentBtn.classList.remove('playing');
+        currentBtn.innerHTML = '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>';
+      }
+      if (currentCard) currentCard.classList.remove('active');
+    }
+
+    function togglePlay(ch, card, btn, seek, cur, dur) {
+      // Si ya estaba reproduciendo este mismo capítulo → pausar
+      if (currentAudio && currentCard === card && !currentAudio.paused) {
+        currentAudio.pause();
+        btn.classList.remove('playing');
+        btn.innerHTML = '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>';
+        setStatus(`Pausado — Génesis ${ch.num}`, '');
+        return;
+      }
+
+      // Si hay otro audio reproduciendo → detener
+      stopCurrent();
+
+      setStatus(`Cargando Génesis ${ch.num}...`, '');
+
+      const audio = new Audio(ch.file);
+      audio.preload = 'auto';
+
+      audio.addEventListener('loadedmetadata', () => {
+        seek.max = audio.duration;
+        dur.textContent = fmt(audio.duration);
+      });
+
+      audio.addEventListener('timeupdate', () => {
+        seek.value = audio.currentTime;
+        cur.textContent = fmt(audio.currentTime);
+        const pct = (audio.currentTime / audio.duration) * 100;
+        seek.style.setProperty('--pct', pct + '%');
+      });
+
+      audio.addEventListener('ended', () => {
+        btn.classList.remove('playing');
+        btn.innerHTML = '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>';
+        card.classList.remove('active');
+        setStatus(`Génesis ${ch.num} completado.`, 'ok');
+      });
+
+      audio.addEventListener('error', () => {
+        setStatus(`Error: no se pudo cargar ${ch.file}`, '');
+        card.classList.remove('active');
+      });
+
+      audio.play().then(() => {
+        setStatus(`Reproduciendo — Génesis ${ch.num}`, 'playing');
+      }).catch(e => {
+        setStatus(`Error al reproducir: ${e.message}`, '');
+      });
+
+      btn.classList.add('playing');
+      btn.innerHTML = '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 19h4V5H6zm8-14v14h4V5z"/></svg>';
+      card.classList.add('active');
+
+      currentAudio = audio;
+      currentCard  = card;
+      currentBtn   = btn;
+    }
+
+    buildCards();
+    setStatus('Listo — haz clic en ▶ para escuchar.', 'ok');
+  </script>
+</body>
+</html>
