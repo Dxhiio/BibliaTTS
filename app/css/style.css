@@ -692,6 +692,10 @@ input {
   font-size: 0.9rem;
 }
 
+.loading-screen[hidden] {
+  display: none !important;
+}
+
 /* ─── Contenido del capítulo ─────────────────────────── */
 .chapter-content {
   width: 100%;
@@ -1102,8 +1106,10 @@ input {
   .topbar__menu-btn { display: flex; }
 
   .audio-player {
-    left: 0;
-    padding: 8px 16px 12px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 96vw;
+    padding: 8px 12px 12px;
   }
 
   .chapter-content {

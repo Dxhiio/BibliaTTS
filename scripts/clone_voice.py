@@ -26,7 +26,7 @@ SCRIPT_DIR = Path(__file__).parent
 PROJECT_ROOT = SCRIPT_DIR.parent
 DATA_DIR = PROJECT_ROOT / 'data'
 BIBLE_JSON = DATA_DIR / 'bible.json'
-AUDIO_DIR = PROJECT_ROOT / 'public' / 'audio' / 'GEN'
+AUDIO_DIR = PROJECT_ROOT / 'public' / 'audio'
 
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 AUDIO_DIR.mkdir(parents=True, exist_ok=True)
@@ -155,6 +155,27 @@ def numero_a_letras(num):
     return str(num)
 
 # ─────────────────────────────────────────────────────────────────────────────
+# Worker de compresión asíncrona en CPU (no bloquea el bucle de la GPU)
+# ─────────────────────────────────────────────────────────────────────────────
+import concurrent.futures
+import os
+
+executor = concurrent.futures.ThreadPoolExecutor(max_workers=max(2, os.cpu_count() // 2))
+
+def compress_async_worker(temp_wav, opus_path, audio_chunks, sample_rate, book_abbr, chapter_num):
+    try:
+        import numpy as np
+        import soundfile as sf
+        full_audio = np.concatenate(audio_chunks)
+        sf.write(str(temp_wav), full_audio, sample_rate)
+        if wav_to_opus(temp_wav, opus_path):
+            print(f'  ✓ [{book_abbr} {chapter_num}] Guardado y comprimido a OPUS en segundo plano.', flush=True)
+        else:
+            print(f'  ❌ Falló compresión de [{book_abbr} {chapter_num}]', flush=True)
+    except Exception as e:
+        print(f'  ❌ Error en worker asíncrono de [{book_abbr} {chapter_num}]: {e}', flush=True)
+
+# ─────────────────────────────────────────────────────────────────────────────
 # Main Flow
 # ─────────────────────────────────────────────────────────────────────────────
 def main():
@@ -185,8 +206,8 @@ def main():
     with open(BIBLE_JSON, 'r', encoding='utf-8') as f:
         bible = json.load(f)
         
-    gen_book = next(b for b in bible['books'] if b['abbr'] == 'GEN')
-    chapters = gen_book['chapters'][:5] # Los primeros 5 capítulos
+    books = bible['books']
+    total_chapters = sum(len(b['chapters']) for b in books)
 
     # 3. Cargar el modelo en GPU UNA VEZ y activar Tensor Cores
     import torch
@@ -203,65 +224,88 @@ def main():
     print('⚡ Pre-calculando embedding y prompt de voz en VRAM (Artur Mas)...', flush=True)
     prompt_items = model.create_voice_clone_prompt(ref_audio=str(ref_wav), ref_text=ref_text)
 
-    print(f'\nIniciando clonación ULTRA-RÁPIDA PARALELA en GPU para los primeros 5 capítulos de Génesis...', flush=True)
+    print(f'\n🚀 Iniciando síntesis masiva asíncrona para TODA LA BIBLIA ({len(books)} libros, {total_chapters} capítulos)...', flush=True)
     
-    for chapter in chapters:
-        num = chapter['number']
-        verses = chapter['verses']
-        print(f'\n--- Generando Capítulo {num} ({len(verses)} versículos en lotes paralelos de GPU) ---', flush=True)
+    chapters_done = 0
+    for book in books:
+        abbr = book['abbr']
+        book_dir = AUDIO_DIR / abbr
+        book_dir.mkdir(parents=True, exist_ok=True)
         
-        file_stem = f'gen_{num:03d}'
-        temp_wav = AUDIO_DIR / f'{file_stem}.wav'
-        opus_path = AUDIO_DIR / f'{file_stem}.opus'
-        
-        if opus_path.exists():
-            opus_path.unlink()
+        for chapter in book['chapters']:
+            num = chapter['number']
+            chapters_done += 1
             
-        audio_chunks = []
-        sample_rate = 24000
-        
-        # Agrupar versículos en secuencias de 2, y procesar de 6 en 6 secuencias en paralelo en la GPU (12 versículos simultáneos por batch)
-        verses_per_seq = 2
-        gpu_batch_size = 6
-        
-        sequences = []
-        for i in range(0, len(verses), verses_per_seq):
-            sub = verses[i:i + verses_per_seq]
-            seq_text = ' '.join([f"{numero_a_letras(v['number'])}. {v['text']}" for v in sub])
-            sequences.append(seq_text)
+            file_stem = f'{abbr.lower()}_{num:03d}'
+            temp_wav = book_dir / f'{file_stem}.wav'
+            opus_path = book_dir / f'{file_stem}.opus'
             
-        for i in range(0, len(sequences), gpu_batch_size):
-            batch_list = sequences[i:i + gpu_batch_size]
-            print(f'  🚀 Sintetizando lote paralelo de {len(batch_list)} secuencias simultáneas en GPU...', flush=True)
-            try:
-                with torch.inference_mode():
-                    wavs, sr = model.generate_voice_clone(
-                        text=batch_list,
-                        language="Spanish",
-                        voice_clone_prompt=prompt_items
-                    )
-                audio_chunks.extend(wavs)
-                sample_rate = sr
-            except Exception as e:
-                print(f'    ⚠️ Error en lote paralelo GPU: {e}', flush=True)
-                # Fallback individual de seguridad si un batch paralelo excede límite de memoria
-                for text_single in batch_list:
-                    with torch.inference_mode():
-                        w, sr = model.generate_voice_clone(text=text_single, language="Spanish", voice_clone_prompt=prompt_items)
-                        audio_chunks.extend(w)
+            # Salto instantáneo si ya existe (>10 KB) para permitir reanudación sin perder tiempo
+            if opus_path.exists() and opus_path.stat().st_size > 10000:
+                print(f'[{chapters_done}/{total_chapters}] ⏩ Saltando {abbr} {num:03d} (Ya existe en disco)', flush=True)
+                continue
                 
-        if audio_chunks:
-            full_audio = np.concatenate(audio_chunks)
-            sf.write(str(temp_wav), full_audio, sample_rate)
-            print('  Comprimiendo a OPUS...', flush=True)
-            if wav_to_opus(temp_wav, opus_path):
-                print(f'  ✓ Capítulo {num} generado y reemplazado con éxito.', flush=True)
-            else:
-                print(f'  ❌ Falló compresión de capítulo {num}', flush=True)
-        else:
-            print(f'  ❌ No se pudo generar audio para el capítulo {num}.', flush=True)
+            verses = chapter['verses']
+            print(f'\n[{chapters_done}/{total_chapters}] --- Generando {abbr} Capítulo {num} ({len(verses)} versículos) ---', flush=True)
             
-    print('\n¡Proceso finalizado! Todos los archivos OPUS están listos en public/audio/GEN/.', flush=True)
+            audio_chunks = []
+            sample_rate = 24000
+            
+            verses_per_seq = 2
+            gpu_batch_size = 4
+            
+            sequences = []
+            for i in range(0, len(verses), verses_per_seq):
+                sub = verses[i:i + verses_per_seq]
+                seq_text = ' '.join([f"{numero_a_letras(v['number'])}. {v['text']}" for v in sub])
+                sequences.append(seq_text)
+                
+            for i in range(0, len(sequences), gpu_batch_size):
+                batch_list = sequences[i:i + gpu_batch_size]
+                try:
+                    with torch.inference_mode():
+                        wavs, sr = model.generate_voice_clone(
+                            text=batch_list,
+                            language="Spanish",
+                            voice_clone_prompt=prompt_items
+                        )
+                    audio_chunks.extend(wavs)
+                    sample_rate = sr
+                except Exception as e:
+                    print(f'    ⚠️ Error en lote GPU ({abbr} {num}): {e}', flush=True)
+                    try:
+                        import gc
+                        gc.collect()
+                        torch.cuda.empty_cache()
+                    except: pass
+                    for text_single in batch_list:
+                        try:
+                            with torch.inference_mode():
+                                w, sr = model.generate_voice_clone(text=text_single, language="Spanish", voice_clone_prompt=prompt_items)
+                                audio_chunks.extend(w)
+                        except Exception as e_single:
+                            print(f'    ❌ Fallo en versículo individual ({abbr} {num}): {e_single}', flush=True)
+                            try:
+                                gc.collect()
+                                torch.cuda.empty_cache()
+                            except: pass
+                
+                # Limpieza proactiva de VRAM después de cada lote para evitar fragmentación y OOM en ejecuciones largas
+                try:
+                    import gc
+                    gc.collect()
+                    torch.cuda.empty_cache()
+                except: pass
+                    
+            if audio_chunks:
+                # Enviar codificación de audio al pool de hilos del CPU para no frenar a la GPU
+                executor.submit(compress_async_worker, temp_wav, opus_path, audio_chunks, sample_rate, abbr, num)
+            else:
+                print(f'  ❌ No se pudo generar audio para {abbr} {num}.', flush=True)
+                
+    print('\nEsperando a que terminen las últimas codificaciones de audio en segundo plano...', flush=True)
+    executor.shutdown(wait=True)
+    print('\n¡PROCESO FINALIZADO! Toda la Biblia ha sido sintetizada a máxima potencia y comprimida a OPUS.', flush=True)
 
 
 if __name__ == '__main__':
