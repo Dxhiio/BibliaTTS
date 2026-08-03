@@ -21,6 +21,8 @@
     isDragging:  false,
     currentChapterData: null,
     isHQ:        localStorage.getItem('audio_hq') === 'true',
+    autoplayEnabled: false,
+    playbackEndBoundary: null,
   };
 
   // ── Cache DOM ────────────────────────────────────────────
@@ -46,6 +48,14 @@
     totalTime:   () => document.getElementById('player-total-time'),
     playerBook:  () => document.getElementById('player-book-name'),
     playerChap:  () => document.getElementById('player-chapter-name'),
+    btnAutoplayConfig: () => document.getElementById('btn-autoplay-config'),
+    playbackConfigModal: () => document.getElementById('playback-config-modal'),
+    playbackModalBackdrop: () => document.getElementById('playback-modal-backdrop'),
+    toggleAutoplay: () => document.getElementById('toggle-autoplay'),
+    playbackRangeSection: () => document.getElementById('playback-range-section'),
+    selectEndBook: () => document.getElementById('select-end-book'),
+    selectEndChapter: () => document.getElementById('select-end-chapter'),
+    btnSavePlayback: () => document.getElementById('btn-save-playback'),
   };
 
   // ── Formatear tiempo ─────────────────────────────────────
@@ -366,18 +376,28 @@
     audioEl.addEventListener('ended', () => {
       state.isPlaying = false;
       updatePlayIcon();
-      // Auto-avanzar al siguiente capítulo
+      
       const nav = window.Navigation;
-      if (nav) {
-        const curData = nav.getCurrentData();
+      if (nav && state.autoplayEnabled) {
         const curBook = nav.getCurrentBook();
         const curChap = nav.getCurrentChapter();
-        if (curData && curBook) {
-          // Buscar cuántos capítulos tiene el libro
-          // (el player no tiene la lista de libros, usamos currentData)
-          // Al terminar el último capítulo, simplemente nos detenemos
-          nav.navigateToChapter(curBook.abbr, curChap + 1)
-            .catch(() => {}); // Silenciar error si no hay capítulo siguiente
+        
+        if (state.playbackEndBoundary) {
+          if (curBook.abbr === state.playbackEndBoundary.book && curChap === state.playbackEndBoundary.chapter) {
+            state.autoplayEnabled = false;
+            el.toggleAutoplay().checked = false;
+            el.btnAutoplayConfig().classList.remove('btn-player--active');
+            el.playbackRangeSection().style.opacity = '0.5';
+            el.playbackRangeSection().style.pointerEvents = 'none';
+            return;
+          }
+        }
+        
+        const next = nav.getNextChapterGlobal(curBook.abbr, curChap);
+        if (next) {
+          nav.navigateToChapter(next.abbr, next.chapter).then(() => {
+            setTimeout(() => { play(); }, 500);
+          }).catch(() => {});
         }
       }
     });
@@ -472,6 +492,83 @@
     });
   }
 
+  // ── Modal de Configuración de Reproducción ────────────────
+  function openPlaybackConfig() {
+    el.playbackConfigModal().hidden = false;
+    const books = window.Navigation ? window.Navigation.getBooks() : [];
+    if (books && books.length > 0 && el.selectEndBook().options.length === 0) {
+      el.selectEndBook().innerHTML = '';
+      books.forEach(b => {
+        const opt = document.createElement('option');
+        opt.value = b.abbr;
+        opt.textContent = b.name;
+        el.selectEndBook().appendChild(opt);
+      });
+      el.selectEndBook().addEventListener('change', updateChapterSelect);
+      updateChapterSelect();
+      
+      // Auto-seleccionar libro actual si no hay valor
+      const curBook = window.Navigation.getCurrentBook();
+      if (curBook) {
+        el.selectEndBook().value = curBook.abbr;
+        updateChapterSelect();
+        el.selectEndChapter().value = window.Navigation.getCurrentChapter();
+      }
+    }
+  }
+
+  function updateChapterSelect() {
+    const books = window.Navigation ? window.Navigation.getBooks() : [];
+    const abbr = el.selectEndBook().value;
+    const book = books.find(b => b.abbr === abbr);
+    if (!book) return;
+    el.selectEndChapter().innerHTML = '';
+    for(let i=1; i<=book.chapterCount; i++) {
+      const opt = document.createElement('option');
+      opt.value = i;
+      opt.textContent = i;
+      el.selectEndChapter().appendChild(opt);
+    }
+  }
+
+  function bindPlaybackConfig() {
+    if (el.btnAutoplayConfig()) {
+      el.btnAutoplayConfig().addEventListener('click', openPlaybackConfig);
+    }
+    if (el.playbackModalBackdrop()) {
+      el.playbackModalBackdrop().addEventListener('click', () => el.playbackConfigModal().hidden = true);
+    }
+    
+    el.toggleAutoplay().addEventListener('change', (e) => {
+      const isChecked = e.target.checked;
+      el.playbackRangeSection().style.opacity = isChecked ? '1' : '0.5';
+      el.playbackRangeSection().style.pointerEvents = isChecked ? 'auto' : 'none';
+      if (!isChecked) {
+         state.playbackEndBoundary = null;
+      }
+    });
+
+    el.btnSavePlayback().addEventListener('click', () => {
+      state.autoplayEnabled = el.toggleAutoplay().checked;
+      if (state.autoplayEnabled) {
+        state.playbackEndBoundary = {
+          book: el.selectEndBook().value,
+          chapter: parseInt(el.selectEndChapter().value, 10)
+        };
+        el.btnAutoplayConfig().classList.add('btn-player--active');
+        
+        // Si no está reproduciendo, lo iniciamos inmediatamente
+        if (!state.isPlaying) {
+          play();
+        }
+      } else {
+        state.playbackEndBoundary = null;
+        el.btnAutoplayConfig().classList.remove('btn-player--active');
+      }
+      el.playbackConfigModal().hidden = true;
+    });
+  }
+
   // ── Inicialización ────────────────────────────────────────
   function init() {
     const audioEl = el.audio();
@@ -501,6 +598,7 @@
     bindAudioEvents();
     bindProgressEvents();
     bindKeyboardShortcuts();
+    bindPlaybackConfig();
   }
 
   // ── API pública ───────────────────────────────────────────

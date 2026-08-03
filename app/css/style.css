@@ -1155,6 +1155,113 @@ input {
   from { opacity: 0; transform: translateY(4px); }
   to   { opacity: 1; transform: translateY(0); }
 }
+
+/* ──────────────────────────────────────────────────────
+   Playback Config Modal
+────────────────────────────────────────────────────── */
+.modal__box--playback {
+  max-width: 400px;
+}
+
+.playback-config {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.toggle-switch {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.toggle-switch input {
+  display: none;
+}
+
+.toggle-slider {
+  width: 48px;
+  height: 24px;
+  background-color: hsl(220, 15%, 25%);
+  border-radius: 24px;
+  position: relative;
+  transition: background-color 0.3s;
+}
+
+.toggle-slider::after {
+  content: "";
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  width: 18px;
+  height: 18px;
+  background-color: white;
+  border-radius: 50%;
+  transition: transform 0.3s;
+}
+
+.toggle-switch input:checked + .toggle-slider {
+  background-color: var(--primary);
+}
+
+.toggle-switch input:checked + .toggle-slider::after {
+  transform: translateX(24px);
+}
+
+.toggle-label {
+  font-size: 1rem;
+  color: var(--text);
+}
+
+.playback-range {
+  background: hsl(220, 20%, 15%, 0.5);
+  padding: 16px;
+  border-radius: 12px;
+  border: 1px solid hsl(220, 15%, 25%);
+  transition: opacity 0.3s;
+}
+
+.playback-range__hint {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin-bottom: 16px;
+}
+
+.range-group {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.range-group label {
+  font-size: 0.9rem;
+  color: var(--text);
+  font-weight: 500;
+}
+
+.range-controls {
+  display: flex;
+  gap: 12px;
+}
+
+.range-select {
+  flex: 1;
+  background: hsl(220, 18%, 12%);
+  color: var(--text);
+  border: 1px solid hsl(220, 15%, 30%);
+  padding: 8px 12px;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.range-select:focus {
+  border-color: var(--primary);
+}
+
 .verse {
   animation: verse-in 0.3s ease both;
 }

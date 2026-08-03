@@ -743,6 +743,23 @@
     window.addEventListener('popstate', () => restoreFromHash());
   }
 
+  function getNextChapterGlobal(abbr, chapter) {
+    if (!state.books || state.books.length === 0) return null;
+    const bookIndex = state.books.findIndex(b => b.abbr === abbr);
+    if (bookIndex === -1) return null;
+
+    const book = state.books[bookIndex];
+    if (chapter < book.chapterCount) {
+      return { abbr: book.abbr, chapter: chapter + 1 };
+    } else {
+      if (bookIndex + 1 < state.books.length) {
+        return { abbr: state.books[bookIndex + 1].abbr, chapter: 1 };
+      } else {
+        return null; // Fin
+      }
+    }
+  }
+
   // ── API pública ─────────────────────────────────────────
   window.Navigation = {
     highlightVerse,
@@ -750,8 +767,9 @@
     getCurrentData: () => state.currentData,
     getCurrentBook: () => state.currentBook,
     getCurrentChapter: () => state.currentChapter,
+    getBooks: () => state.books,
+    getNextChapterGlobal
   };
-
   // Iniciar cuando el DOM esté listo
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', init);

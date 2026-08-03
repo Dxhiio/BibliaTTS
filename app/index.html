@@ -133,6 +133,36 @@
       </div>
     </div>
 
+    <!-- Modal Configuración de Reproducción -->
+    <div id="playback-config-modal" class="modal" role="dialog" aria-modal="true" aria-label="Configuración de Lectura Continua" hidden>
+      <div class="modal__backdrop" id="playback-modal-backdrop"></div>
+      <div class="modal__box modal__box--playback">
+        <h2 class="modal__title">Lectura Continua</h2>
+        
+        <div class="playback-config">
+          <label class="toggle-switch">
+            <input type="checkbox" id="toggle-autoplay">
+            <span class="toggle-slider"></span>
+            <span class="toggle-label">Avanzar al siguiente capítulo automáticamente</span>
+          </label>
+          
+          <div id="playback-range-section" class="playback-range" style="opacity: 0.5; pointer-events: none;">
+            <p class="playback-range__hint">Define un límite para detener la reproducción automáticamente.</p>
+            
+            <div class="range-group">
+              <label>Detener al finalizar:</label>
+              <div class="range-controls">
+                <select id="select-end-book" class="range-select"></select>
+                <select id="select-end-chapter" class="range-select"></select>
+              </div>
+            </div>
+          </div>
+          
+          <button id="btn-save-playback" class="btn-primary">Guardar Configuración</button>
+        </div>
+      </div>
+    </div>
+
     <!-- Área de lectura -->
     <section class="reading-area" id="reading-area" aria-live="polite" aria-atomic="false">
 
@@ -201,6 +231,12 @@
 
       <!-- Botones de control -->
       <div class="player__buttons">
+        <button id="btn-autoplay-config" class="btn-player btn-player--autoplay" aria-label="Configurar Lectura Continua" title="Autoplay / Rango">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/>
+          </svg>
+        </button>
+
         <button id="btn-speed" class="btn-player btn-player--speed" aria-label="Velocidad de reproducción" title="Cambiar velocidad">
           <span id="speed-label">1×</span>
         </button>
