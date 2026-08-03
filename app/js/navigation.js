@@ -302,6 +302,14 @@
       updateTopbar(data.book.name, chapNum);
       initSectionObserver();
 
+      if (typeof gtag === 'function') {
+        gtag('event', 'chapter_view', {
+          book_abbr: data.book.abbr,
+          book_name: data.book.name,
+          chapter_number: data.chapter
+        });
+      }
+
       // Notificar al player sobre el nuevo capítulo
       if (window.Player) {
         window.Player.loadChapter(data);

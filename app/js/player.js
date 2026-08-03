@@ -220,6 +220,13 @@
     audioEl.play().then(() => {
       state.isPlaying = true;
       updatePlayIcon();
+      
+      if (typeof gtag === 'function' && state.currentChapterData) {
+        gtag('event', 'audio_play', {
+          book_abbr: state.currentChapterData.book.abbr,
+          chapter_number: state.currentChapterData.chapter
+        });
+      }
     }).catch(err => {
       console.warn('Error al reproducir:', err);
     });
@@ -262,6 +269,10 @@
     el.audio().playbackRate = state.speed;
     const label = state.speed === 1 ? '1×' : `${state.speed}×`;
     el.speedLabel().textContent = label;
+    
+    if (typeof gtag === 'function') {
+      gtag('event', 'feature_used', { feature: 'speed_change', value: state.speed });
+    }
   }
 
   // ── Volumen ──────────────────────────────────────────────
@@ -301,6 +312,10 @@
     state.isHQ = !state.isHQ;
     localStorage.setItem('audio_hq', state.isHQ ? 'true' : 'false');
     updateHQButton();
+
+    if (typeof gtag === 'function') {
+      gtag('event', 'feature_used', { feature: 'hq_audio', enabled: state.isHQ });
+    }
 
     if (state.currentChapterData) {
       const newSrc = getBestAudioPath(state.currentChapterData);
@@ -376,6 +391,13 @@
     audioEl.addEventListener('ended', () => {
       state.isPlaying = false;
       updatePlayIcon();
+      
+      if (typeof gtag === 'function' && state.currentChapterData) {
+        gtag('event', 'audio_complete', {
+          book_abbr: state.currentChapterData.book.abbr,
+          chapter_number: state.currentChapterData.chapter
+        });
+      }
       
       const nav = window.Navigation;
       if (nav && state.autoplayEnabled) {
@@ -556,6 +578,10 @@
           chapter: parseInt(el.selectEndChapter().value, 10)
         };
         el.btnAutoplayConfig().classList.add('btn-player--active');
+        
+        if (typeof gtag === 'function') {
+          gtag('event', 'feature_used', { feature: 'autoplay', enabled: true, range: state.playbackEndBoundary });
+        }
         
         // Si no está reproduciendo, lo iniciamos inmediatamente
         if (!state.isPlaying) {
