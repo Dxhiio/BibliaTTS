@@ -2,6 +2,7 @@ import zipfile
 import json
 import re
 import os
+import html
 
 EPUB_PATH = r"I:\Calibre\Teologia\Evangelio\De Reina, Casiodoro\Santa Biblia_ Reina-Valera 1960 (2)\Santa Biblia_ Reina-Valera 1960 - De Reina, Casiodoro.epub"
 OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "rvr60.json")
@@ -76,55 +77,59 @@ BOOKS = [
     ("Apocalipsis", "APO", "NT", "Profecía NT", 22)
 ]
 
+def clean_text(html_str):
+    """Strip tags and unescape HTML entities"""
+    text = re.sub(r'<[^>]+>', '', html_str)
+    return html.unescape(text).strip()
+
 def parse_verses(html_content):
-    text_blocks = re.findall(r'<p[^>]*>(.*?)</p>', html_content, re.IGNORECASE | re.DOTALL)
-    
-    clean_blocks = []
-    for block in text_blocks:
-        clean = re.sub(r'<[^>]+>', ' ', block)
-        clean = re.sub(r'\s+', ' ', clean).strip()
-        if clean:
-            clean_blocks.append(clean)
-            
-    full_text = " ".join(clean_blocks)
+    # Find all <p> tags
+    p_tags = re.findall(r'<p[^>]*>(.*?)</p>', html_content, re.IGNORECASE | re.DOTALL)
     
     verses = []
-    pattern = r'(?<!\w)(\d{1,3})(?!\w)'
-    matches = list(re.finditer(pattern, full_text))
+    current_verse_num = None
+    current_verse_text = []
     
-    expected_verse = 1
-    verse_starts = []
-    
-    # RVR60 HTML structure check
-    # Many chapters in RVR60 have verses clearly numbered
-    for m in matches:
-        v_num = int(m.group(1))
-        # Account for possible subtitles or verse combinations
-        if v_num == expected_verse:
-            verse_starts.append(m)
-            expected_verse += 1
-        elif v_num == expected_verse + 1:
-            verse_starts.append(m)
-            expected_verse = v_num + 1
+    for p_content in p_tags:
+        # Check if this paragraph contains a verse number: <span class="vnum">NUMBER</span>
+        match = re.search(r'<span[^>]*class=["\']?vnum["\']?[^>]*>(\d+)</span>', p_content, re.IGNORECASE)
+        
+        if match:
+            # We found a new verse!
+            v_num = int(match.group(1))
             
-    if not verse_starts:
-        return []
-        
-    for i in range(len(verse_starts)):
-        start_idx = verse_starts[i].end()
-        v_num = int(verse_starts[i].group(1))
-        
-        if i < len(verse_starts) - 1:
-            end_idx = verse_starts[i+1].start()
+            # If we were tracking a previous verse, save it
+            if current_verse_num is not None:
+                combined_text = " ".join(current_verse_text)
+                combined_text = re.sub(r'\s+', ' ', combined_text).strip()
+                verses.append({
+                    "number": current_verse_num,
+                    "text": combined_text
+                })
+            
+            # Remove the <span class="vnum">...</span> part so we don't include the number in the text
+            # Wait, we can just strip all tags, but we want to exclude the verse number itself from the text.
+            # Easiest way: remove the match and everything before it if it's just links.
+            # Actually, `clean_text` will leave the number. Let's remove the span entirely.
+            p_no_num = re.sub(r'<a[^>]*><span[^>]*class=["\']?vnum["\']?[^>]*>\d+</span></a>', '', p_content, flags=re.IGNORECASE)
+            p_no_num = re.sub(r'<span[^>]*class=["\']?vnum["\']?[^>]*>\d+</span>', '', p_no_num, flags=re.IGNORECASE)
+            
+            current_verse_num = v_num
+            current_verse_text = [clean_text(p_no_num)]
         else:
-            end_idx = len(full_text)
-            
-        verse_text = full_text[start_idx:end_idx].strip()
-        verse_text = re.sub(r'\s+', ' ', verse_text).strip()
-        
+            # No verse number, could be continuation of previous verse or chapter title/index.
+            # We only append to current_verse_text if we have already started tracking a verse.
+            # This automatically skips the index pages and titles before verse 1!
+            if current_verse_num is not None:
+                current_verse_text.append(clean_text(p_content))
+                
+    # Don't forget to save the last verse
+    if current_verse_num is not None:
+        combined_text = " ".join(current_verse_text)
+        combined_text = re.sub(r'\s+', ' ', combined_text).strip()
         verses.append({
-            "number": v_num,
-            "text": verse_text
+            "number": current_verse_num,
+            "text": combined_text
         })
         
     return verses
