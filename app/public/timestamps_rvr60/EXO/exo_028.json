@@ -1,0 +1,579 @@
+{
+  "book": "EXO",
+  "chapter": 28,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 43,
+  "word_count": 38,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 188,
+      "text": "Harás llegar delante de ti a Aarón tu hermano, y a sus hijos consigo, de entre los hijos de Israel, para que sean mis sacerdotes; a Aarón y a Nadab, Abiú, Eleazar e Itamar hijos de Aarón."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 188,
+      "char_end": 260,
+      "text": "Y harás vestiduras sagradas a Aarón tu hermano, para honra y hermosura."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 260,
+      "char_end": 439,
+      "text": "Y tú hablarás a todos los sabios de corazón, a quienes yo he llenado de espíritu de sabiduría, para que hagan las vestiduras de Aarón, para consagrarle para que sea mi sacerdote."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 439,
+      "char_end": 658,
+      "text": "Las vestiduras que harán son éstas: el pectoral, el efod, el manto, la túnica bordada, la mitra y el cinturón. Hagan, pues, las vestiduras sagradas para Aarón tu hermano, y para sus hijos, para que sean mis sacerdotes."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 658,
+      "char_end": 710,
+      "text": "Tomarán oro, azul, púrpura, carmesí y lino torcido,"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 710,
+      "char_end": 792,
+      "text": "y harán el efod de oro, azul, púrpura, carmesí y lino torcido, de obra primorosa."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 792,
+      "char_end": 865,
+      "text": "Tendrá dos hombreras que se junten a sus dos extremos, y así se juntará."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 865,
+      "char_end": 1002,
+      "text": "Y su cinto de obra primorosa que estará sobre él, será de la misma obra, parte del mismo; de oro, azul, púrpura, carmesí y lino torcido."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1002,
+      "char_end": 1090,
+      "text": "Y tomarás dos piedras de ónice, y grabarás en ellas los nombres de los hijos de Israel;"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1090,
+      "char_end": 1211,
+      "text": "seis de sus nombres en una piedra, y los otros seis nombres en la otra piedra, conforme al orden de nacimiento de ellos."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1211,
+      "char_end": 1374,
+      "text": "De obra de grabador en piedra, como grabaduras de sello, harás grabar las dos piedras con los nombres de los hijos de Israel; les harás alrededor engastes de oro."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1374,
+      "char_end": 1568,
+      "text": "Y pondrás las dos piedras sobre las hombreras del efod, para piedras memoriales a los hijos de Israel; y Aarón llevará los nombres de ellos delante de Jehová sobre sus dos hombros por memorial."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1568,
+      "char_end": 1602,
+      "text": "Harás, pues, los engastes de oro,"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1602,
+      "char_end": 1726,
+      "text": "y dos cordones de oro fino, los cuales harás en forma de trenza; y fijarás los cordones de forma de trenza en los engastes."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1726,
+      "char_end": 1868,
+      "text": "Harás asimismo el pectoral del juicio de obra primorosa, lo harás conforme a la obra del efod, de oro, azul, púrpura, carmesí y lino torcido."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1868,
+      "char_end": 1933,
+      "text": "Será cuadrado y doble, de un palmo de largo y un palmo de ancho;"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1933,
+      "char_end": 2050,
+      "text": "y lo llenarás de pedrería en cuatro hileras de piedras; una hilera de una piedra sárdica, un topacio y un carbunclo;"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2050,
+      "char_end": 2109,
+      "text": "la segunda hilera, una esmeralda, un zafiro y un diamante;"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2109,
+      "char_end": 2166,
+      "text": "la tercera hilera, un jacinto, una ágata y una amatista;"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2166,
+      "char_end": 2259,
+      "text": "la cuarta hilera, un berilo, un ónice y un jaspe. Todas estarán montadas en engastes de oro."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2259,
+      "char_end": 2423,
+      "text": "Y las piedras serán según los nombres de los hijos de Israel, doce según sus nombres; como grabaduras de sello cada una con su nombre, serán según las doce tribus."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2423,
+      "char_end": 2496,
+      "text": "Harás también en el pectoral cordones de hechura de trenzas de oro fino."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2496,
+      "char_end": 2591,
+      "text": "Y harás en el pectoral dos anillos de oro, los cuales pondrás a los dos extremos del pectoral."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2591,
+      "char_end": 2677,
+      "text": "Y fijarás los dos cordones de oro en los dos anillos a los dos extremos del pectoral;"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2677,
+      "char_end": 2810,
+      "text": "y pondrás los dos extremos de los dos cordones sobre los dos engastes, y los fijarás a las hombreras del efod en su parte delantera."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2810,
+      "char_end": 2950,
+      "text": "Harás también dos anillos de oro, los cuales pondrás a los dos extremos del pectoral, en su orilla que está al lado del efod hacia adentro."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2950,
+      "char_end": 3121,
+      "text": "Harás asimismo los dos anillos de oro, los cuales fijarás en la parte delantera de las dos hombreras del efod, hacia abajo, delante de su juntura sobre el cinto del efod."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3121,
+      "char_end": 3286,
+      "text": "Y juntarán el pectoral por sus anillos a los dos anillos del efod con un cordón de azul, para que esté sobre el cinto del efod, y no se separe el pectoral del efod."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3286,
+      "char_end": 3457,
+      "text": "Y llevará Aarón los nombres de los hijos de Israel en el pectoral del juicio sobre su corazón, cuando entre en el santuario, por memorial delante de Jehová continuamente."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3457,
+      "char_end": 3673,
+      "text": "Y pondrás en el pectoral del juicio Urim y Tumim, para que estén sobre el corazón de Aarón cuando entre delante de Jehová; y llevará siempre Aarón el juicio de los hijos de Israel sobre su corazón delante de Jehová."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3673,
+      "char_end": 3711,
+      "text": "Harás el manto del efod todo de azul;"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3711,
+      "char_end": 3862,
+      "text": "y en medio de él por arriba habrá una abertura, la cual tendrá un borde alrededor de obra tejida, como el cuello de un coselete, para que no se rompa."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3862,
+      "char_end": 3974,
+      "text": "Y en sus orlas harás granadas de azul, púrpura y carmesí alrededor, y entre ellas campanillas de oro alrededor."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3974,
+      "char_end": 4087,
+      "text": "Una campanilla de oro y una granada, otra campanilla de oro y otra granada, en toda la orla del manto alrededor."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4087,
+      "char_end": 4230,
+      "text": "Y estará sobre Aarón cuando ministre; y se oirá su sonido cuando él entre en el santuario delante de Jehová y cuando salga, para que no muera."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4230,
+      "char_end": 4330,
+      "text": "Harás además una lámina de oro fino, y grabarás en ella como grabadura de sello, SANTIDAD A JEHOVÁ."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4330,
+      "char_end": 4434,
+      "text": "Y la pondrás con un cordón de azul, y estará sobre la mitra; por la parte delantera de la mitra estará."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4434,
+      "char_end": 4691,
+      "text": "Y estará sobre la frente de Aarón, y llevará Aarón las faltas cometidas en todas las cosas santas, que los hijos de Israel hubieren consagrado en todas sus santas ofrendas; y sobre su frente estará continuamente, para que obtengan gracia delante de Jehová."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4691,
+      "char_end": 4794,
+      "text": "Y bordarás una túnica de lino, y harás una mitra de lino; harás también un cinto de obra de recamador."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4794,
+      "char_end": 4904,
+      "text": "Y para los hijos de Aarón harás túnicas; también les harás cintos, y les harás tiaras para honra y hermosura."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4904,
+      "char_end": 5046,
+      "text": "Y con ellos vestirás a Aarón tu hermano, y a sus hijos con él; y los ungirás, y los consagrarás y santificarás, para que sean mis sacerdotes."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 5046,
+      "char_end": 5144,
+      "text": "Y les harás calzoncillos de lino para cubrir su desnudez; serán desde los lomos hasta los muslos."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 5144,
+      "char_end": 5391,
+      "text": "Y estarán sobre Aarón y sobre sus hijos cuando entren en el tabernáculo de reunión, o cuando se acerquen al altar para servir en el santuario, para que no lleven pecado y mueran. Es estatuto perpetuo para él, y para su descendencia después de él."
+    }
+  ],
+  "words": [
+    {
+      "word": "Harás llegar delante de ti a Aarón tu hermano, y a sus hijos consigo, de entre los hijos de Israel, para que sean mis sacerdotes; a Aarón y a Nadab, Abiú, Eleazar e Itamar hijos de Aarón.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 11887,
+      "duration_ms": 11787
+    },
+    {
+      "word": "Y harás vestiduras sagradas a Aarón tu hermano, para honra y hermosura.",
+      "verse": 2,
+      "start_ms": 11837,
+      "end_ms": 16562,
+      "duration_ms": 4725
+    },
+    {
+      "word": "Y tú hablarás a todos los sabios de corazón, a quienes yo he llenado de espíritu de sabiduría, para que hagan las vestiduras de Aarón, para consagrarle para que sea mi sacerdote.",
+      "verse": 3,
+      "start_ms": 16562,
+      "end_ms": 26887,
+      "duration_ms": 10325
+    },
+    {
+      "word": "Las vestiduras que harán son éstas: el pectoral, el efod, el manto, la túnica bordada, la mitra y el cinturón.",
+      "verse": 4,
+      "start_ms": 26887,
+      "end_ms": 34787,
+      "duration_ms": 7900
+    },
+    {
+      "word": "Hagan, pues, las vestiduras sagradas para Aarón tu hermano, y para sus hijos, para que sean mis sacerdotes.",
+      "verse": 4,
+      "start_ms": 34787,
+      "end_ms": 42137,
+      "duration_ms": 7350
+    },
+    {
+      "word": "Tomarán oro, azul, púrpura, carmesí y lino torcido, y harán el efod de oro, azul, púrpura, carmesí y lino torcido, de obra primorosa.",
+      "verse": 5,
+      "start_ms": 42137,
+      "end_ms": 53112,
+      "duration_ms": 10975
+    },
+    {
+      "word": "Tendrá dos hombreras que se junten a sus dos extremos, y así se juntará.",
+      "verse": 7,
+      "start_ms": 53112,
+      "end_ms": 58099,
+      "duration_ms": 4987
+    },
+    {
+      "word": "Y su cinto de obra primorosa que estará sobre él, será de la misma obra, parte del mismo; de oro, azul, púrpura, carmesí y lino torcido.",
+      "verse": 8,
+      "start_ms": 58100,
+      "end_ms": 68162,
+      "duration_ms": 10062
+    },
+    {
+      "word": "Y tomarás dos piedras de ónice, y grabarás en ellas los nombres de los hijos de Israel; seis de sus nombres en una piedra, y los otros seis nombres en la otra piedra, conforme al orden de nacimiento de ellos.",
+      "verse": 9,
+      "start_ms": 68162,
+      "end_ms": 80424,
+      "duration_ms": 12262
+    },
+    {
+      "word": "De obra de grabador en piedra, como grabaduras de sello, harás grabar las dos piedras con los nombres de los hijos de Israel; les harás alrededor engastes de oro.",
+      "verse": 11,
+      "start_ms": 80425,
+      "end_ms": 90037,
+      "duration_ms": 9612
+    },
+    {
+      "word": "Y pondrás las dos piedras sobre las hombreras del efod, para piedras memoriales a los hijos de Israel; y Aarón llevará los nombres de ellos delante de Jehová sobre sus dos hombros por memorial.",
+      "verse": 12,
+      "start_ms": 90037,
+      "end_ms": 100974,
+      "duration_ms": 10937
+    },
+    {
+      "word": "Harás, pues, los engastes de oro, y dos cordones de oro fino, los cuales harás en forma de trenza; y fijarás los cordones de forma de trenza en los engastes.",
+      "verse": 13,
+      "start_ms": 100975,
+      "end_ms": 111412,
+      "duration_ms": 10437
+    },
+    {
+      "word": "Harás asimismo el pectoral del juicio de obra primorosa, lo harás conforme a la obra del efod, de oro, azul, púrpura, carmesí y lino torcido.",
+      "verse": 15,
+      "start_ms": 111412,
+      "end_ms": 121274,
+      "duration_ms": 9862
+    },
+    {
+      "word": "Será cuadrado y doble, de un palmo de largo y un palmo de ancho; y lo llenarás de pedrería en cuatro hileras de piedras; una hilera de una piedra sárdica, un topacio y un carbunclo; la segunda hilera, una esmeralda, un zafiro y un diamante; la tercera hilera, un jacinto, una ágata y una amatista; la cuarta hilera, un berilo, un ónice y un jaspe.",
+      "verse": 16,
+      "start_ms": 121275,
+      "end_ms": 144187,
+      "duration_ms": 22912
+    },
+    {
+      "word": "Todas estarán montadas en engastes de oro.",
+      "verse": 20,
+      "start_ms": 144187,
+      "end_ms": 147399,
+      "duration_ms": 3212
+    },
+    {
+      "word": "Y las piedras serán según los nombres de los hijos de Israel, doce según sus nombres; como grabaduras de sello cada una con su nombre, serán según las doce tribus.",
+      "verse": 21,
+      "start_ms": 147400,
+      "end_ms": 157487,
+      "duration_ms": 10087
+    },
+    {
+      "word": "Harás también en el pectoral cordones de hechura de trenzas de oro fino.",
+      "verse": 22,
+      "start_ms": 157487,
+      "end_ms": 162112,
+      "duration_ms": 4625
+    },
+    {
+      "word": "Y harás en el pectoral dos anillos de oro, los cuales pondrás a los dos extremos del pectoral.",
+      "verse": 23,
+      "start_ms": 162112,
+      "end_ms": 168049,
+      "duration_ms": 5937
+    },
+    {
+      "word": "Y fijarás los dos cordones de oro en los dos anillos a los dos extremos del pectoral; y pondrás los dos extremos de los dos cordones sobre los dos engastes, y los fijarás a las hombreras del efod en su parte delantera.",
+      "verse": 24,
+      "start_ms": 168050,
+      "end_ms": 180350,
+      "duration_ms": 12300
+    },
+    {
+      "word": "Harás también dos anillos de oro, los cuales pondrás a los dos extremos del pectoral, en su orilla que está al lado del efod hacia adentro.",
+      "verse": 26,
+      "start_ms": 180350,
+      "end_ms": 188537,
+      "duration_ms": 8187
+    },
+    {
+      "word": "Harás asimismo los dos anillos de oro, los cuales fijarás en la parte delantera de las dos hombreras del efod, hacia abajo, delante de su juntura sobre el cinto del efod.",
+      "verse": 27,
+      "start_ms": 188537,
+      "end_ms": 198824,
+      "duration_ms": 10287
+    },
+    {
+      "word": "Y juntarán el pectoral por sus anillos a los dos anillos del efod con un cordón de azul, para que esté sobre el cinto del efod, y no se separe el pectoral del efod.",
+      "verse": 28,
+      "start_ms": 198825,
+      "end_ms": 208362,
+      "duration_ms": 9537
+    },
+    {
+      "word": "Y llevará Aarón los nombres de los hijos de Israel en el pectoral del juicio sobre su corazón, cuando entre en el santuario, por memorial delante de Jehová continuamente.",
+      "verse": 29,
+      "start_ms": 208362,
+      "end_ms": 218012,
+      "duration_ms": 9650
+    },
+    {
+      "word": "Y pondrás en el pectoral del juicio Urim y Tumim, para que estén sobre el corazón de Aarón cuando entre delante de Jehová; y llevará siempre Aarón el juicio de los hijos de Israel sobre su corazón delante de Jehová.",
+      "verse": 30,
+      "start_ms": 218012,
+      "end_ms": 229612,
+      "duration_ms": 11600
+    },
+    {
+      "word": "Harás el manto del efod todo de azul; y en medio de él por arriba habrá una abertura, la cual tendrá un borde alrededor de obra tejida, como el cuello de un coselete, para que no se rompa.",
+      "verse": 31,
+      "start_ms": 229612,
+      "end_ms": 241262,
+      "duration_ms": 11650
+    },
+    {
+      "word": "Y en sus orlas harás granadas de azul, púrpura y carmesí alrededor, y entre ellas campanillas de oro alrededor.",
+      "verse": 33,
+      "start_ms": 241262,
+      "end_ms": 248774,
+      "duration_ms": 7512
+    },
+    {
+      "word": "Una campanilla de oro y",
+      "verse": 34,
+      "start_ms": 248775,
+      "end_ms": 251225,
+      "duration_ms": 2450
+    },
+    {
+      "word": "una granada, otra campanilla de oro y otra granada, en toda la orla del manto alrededor.",
+      "verse": 34,
+      "start_ms": 251380,
+      "end_ms": 257680,
+      "duration_ms": 6300
+    },
+    {
+      "word": "Y estará sobre Aarón cuando ministre; y se oirá su sonido cuando él entre en el santuario delante de Jehová y cuando salga, para que no muera.",
+      "verse": 35,
+      "start_ms": 257630,
+      "end_ms": 265667,
+      "duration_ms": 8037
+    },
+    {
+      "word": "Harás además una lámina de oro fino, y grabarás en ella como grabadura de sello, SANTIDAD A JEHOVÁ.",
+      "verse": 36,
+      "start_ms": 265667,
+      "end_ms": 272417,
+      "duration_ms": 6750
+    },
+    {
+      "word": "Y la pondrás con un cordón de azul, y estará sobre la mitra; por la parte delantera de la mitra estará.",
+      "verse": 37,
+      "start_ms": 272417,
+      "end_ms": 278817,
+      "duration_ms": 6400
+    },
+    {
+      "word": "Y estará sobre la frente de Aarón, y llevará Aarón las faltas cometidas en todas las cosas santas, que los hijos de Israel hubieren consagrado en todas sus santas ofrendas; y sobre su frente estará continuamente, para que obtengan gracia delante de Jehová.",
+      "verse": 38,
+      "start_ms": 278817,
+      "end_ms": 293492,
+      "duration_ms": 14675
+    },
+    {
+      "word": "Y bordarás una túnica de lino, y harás una mitra de lino; harás también un cinto de obra de recamador.",
+      "verse": 39,
+      "start_ms": 293492,
+      "end_ms": 300329,
+      "duration_ms": 6837
+    },
+    {
+      "word": "Y para los hijos de Aarón harás túnicas; también les harás cintos, y les harás tiaras para honra y hermosura.",
+      "verse": 40,
+      "start_ms": 300330,
+      "end_ms": 307355,
+      "duration_ms": 7025
+    },
+    {
+      "word": "Y con ellos vestirás a Aarón tu hermano, y a sus hijos con él; y los ungirás, y los consagrarás y santificarás, para que sean mis sacerdotes.",
+      "verse": 41,
+      "start_ms": 307355,
+      "end_ms": 316692,
+      "duration_ms": 9337
+    },
+    {
+      "word": "Y les harás calzoncillos de lino para cubrir su desnudez; serán desde los lomos hasta los muslos.",
+      "verse": 42,
+      "start_ms": 316692,
+      "end_ms": 322854,
+      "duration_ms": 6162
+    },
+    {
+      "word": "Y estarán sobre Aarón y sobre sus hijos cuando entren en el tabernáculo de reunión, o cuando se acerquen al altar para servir en el santuario, para que no lleven pecado y mueran.",
+      "verse": 43,
+      "start_ms": 322855,
+      "end_ms": 332605,
+      "duration_ms": 9750
+    },
+    {
+      "word": "Es estatuto perpetuo para él, y para su descendencia después de él.",
+      "verse": 43,
+      "start_ms": 332605,
+      "end_ms": 337380,
+      "duration_ms": 4775
+    }
+  ]
+}

@@ -1,0 +1,656 @@
+{
+  "book": "EXO",
+  "chapter": 29,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 46,
+  "word_count": 46,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 132,
+      "text": "Esto es lo que les harás para consagrarlos, para que sean mis sacerdotes: Toma un becerro de la vacada, y dos carneros sin defecto;"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 132,
+      "char_end": 280,
+      "text": "y panes sin levadura, y tortas sin levadura amasadas con aceite, y hojaldres sin levadura untadas con aceite; las harás de flor de harina de trigo."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 280,
+      "char_end": 381,
+      "text": "Y las pondrás en un canastillo, y en el canastillo las ofrecerás, con el becerro y los dos carneros."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 381,
+      "char_end": 478,
+      "text": "Y llevarás a Aarón y a sus hijos a la puerta del tabernáculo de reunión, y los lavarás con agua."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 478,
+      "char_end": 612,
+      "text": "Y tomarás las vestiduras, y vestirás a Aarón la túnica, el manto del efod, el efod y el pectoral, y le ceñirás con el cinto del efod;"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 612,
+      "char_end": 691,
+      "text": "y pondrás la mitra sobre su cabeza, y sobre la mitra pondrás la diadema santa."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 691,
+      "char_end": 776,
+      "text": "Luego tomarás el aceite de la unción, y lo derramarás sobre su cabeza, y le ungirás."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 776,
+      "char_end": 839,
+      "text": "Y harás que se acerquen sus hijos, y les vestirás las túnicas."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 839,
+      "char_end": 993,
+      "text": "Les ceñirás el cinto a Aarón y a sus hijos, y les atarás las tiaras, y tendrán el sacerdocio por derecho perpetuo. Así consagrarás a Aarón y a sus hijos."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 993,
+      "char_end": 1124,
+      "text": "Después llevarás el becerro delante del tabernáculo de reunión, y Aarón y sus hijos pondrán sus manos sobre la cabeza del becerro."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1124,
+      "char_end": 1204,
+      "text": "Y matarás el becerro delante de Jehová, a la puerta del tabernáculo de reunión."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1204,
+      "char_end": 1342,
+      "text": "Y de la sangre del becerro tomarás y pondrás sobre los cuernos del altar con tu dedo, y derramarás toda la demás sangre al pie del altar."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1342,
+      "char_end": 1513,
+      "text": "Tomarás también toda la grosura que cubre los intestinos, la grosura de sobre el hígado, los dos riñones, y la grosura que está sobre ellos, y lo quemarás sobre el altar."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1513,
+      "char_end": 1635,
+      "text": "Pero la carne del becerro, y su piel y su estiércol, los quemarás a fuego fuera del campamento; es ofrenda por el pecado."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1635,
+      "char_end": 1740,
+      "text": "Asimismo tomarás uno de los carneros, y Aarón y sus hijos pondrán sus manos sobre la cabeza del carnero."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1740,
+      "char_end": 1813,
+      "text": "Y matarás el carnero, y con su sangre rociarás sobre el altar alrededor."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1813,
+      "char_end": 1935,
+      "text": "Cortarás el carnero en pedazos, y lavarás sus intestinos y sus piernas, y las pondrás sobre sus trozos y sobre su cabeza."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1935,
+      "char_end": 2048,
+      "text": "Y quemarás todo el carnero sobre el altar; es holocausto de olor grato para Jehová, es ofrenda quemada a Jehová."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2048,
+      "char_end": 2146,
+      "text": "Tomarás luego el otro carnero, y Aarón y sus hijos pondrán sus manos sobre la cabeza del carnero."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2146,
+      "char_end": 2446,
+      "text": "Y matarás el carnero, y tomarás de su sangre y la pondrás sobre el lóbulo de la oreja derecha de Aarón, sobre el lóbulo de la oreja de sus hijos, sobre el dedo pulgar de las manos derechas de ellos, y sobre el dedo pulgar de los pies derechos de ellos, y rociarás la sangre sobre el altar alrededor."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2446,
+      "char_end": 2701,
+      "text": "Y con la sangre que estará sobre el altar, y el aceite de la unción, rociarás sobre Aarón, sobre sus vestiduras, sobre sus hijos, y sobre las vestiduras de éstos; y él será santificado, y sus vestiduras, y sus hijos, y las vestiduras de sus hijos con él."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2701,
+      "char_end": 2928,
+      "text": "Luego tomarás del carnero la grosura, y la cola, y la grosura que cubre los intestinos, y la grosura del hígado, y los dos riñones, y la grosura que está sobre ellos, y la espaldilla derecha; porque es carnero de consagración."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2928,
+      "char_end": 3068,
+      "text": "También una torta grande de pan, y una torta de pan de aceite, y una hojaldre del canastillo de los panes sin levadura presentado a Jehová,"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3068,
+      "char_end": 3190,
+      "text": "y lo pondrás todo en las manos de Aarón, y en las manos de sus hijos; y lo mecerás como ofrenda mecida delante de Jehová."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3190,
+      "char_end": 3338,
+      "text": "Después lo tomarás de sus manos y lo harás arder en el altar, sobre el holocausto, por olor grato delante de Jehová. Es ofrenda encendida a Jehová."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3338,
+      "char_end": 3481,
+      "text": "Y tomarás el pecho del carnero de las consagraciones, que es de Aarón, y lo mecerás por ofrenda mecida delante de Jehová; y será porción tuya."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3481,
+      "char_end": 3661,
+      "text": "Y apartarás el pecho de la ofrenda mecida, y la espaldilla de la ofrenda elevada, lo que fue mecido y lo que fue elevado del carnero de las consagraciones de Aarón y de sus hijos,"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3661,
+      "char_end": 3896,
+      "text": "y será para Aarón y para sus hijos como estatuto perpetuo para los hijos de Israel, porque es ofrenda elevada; y será una ofrenda elevada de los hijos de Israel, de sus sacrificios de paz, porción de ellos elevada en ofrenda a Jehová."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3896,
+      "char_end": 4033,
+      "text": "Y las vestiduras santas, que son de Aarón, serán de sus hijos después de él, para ser ungidos en ellas, y para ser en ellas consagrados."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4033,
+      "char_end": 4178,
+      "text": "Por siete días las vestirá el que de sus hijos tome su lugar como sacerdote, cuando venga al tabernáculo de reunión para servir en el santuario."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4178,
+      "char_end": 4257,
+      "text": "Y tomarás el carnero de las consagraciones, y cocerás su carne en lugar santo."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4257,
+      "char_end": 4385,
+      "text": "Y Aarón y sus hijos comerán la carne del carnero, y el pan que estará en el canastillo, a la puerta del tabernáculo de reunión."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4385,
+      "char_end": 4534,
+      "text": "Y comerán aquellas cosas con las cuales se hizo expiación, para llenar sus manos para consagrarlos; mas el extraño no las comerá, porque son santas."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4534,
+      "char_end": 4691,
+      "text": "Y si sobrare hasta la mañana algo de la carne de las consagraciones y del pan, quemarás al fuego lo que hubiere sobrado; no se comerá, porque es cosa santa."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4691,
+      "char_end": 4804,
+      "text": "Así, pues, harás a Aarón y a sus hijos, conforme a todo lo que yo te he mandado; por siete días los consagrarás."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4804,
+      "char_end": 4972,
+      "text": "Cada día ofrecerás el becerro del sacrificio por el pecado, para las expiaciones; y purificarás el altar cuando hagas expiación por él, y lo ungirás para santificarlo."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4972,
+      "char_end": 5151,
+      "text": "Por siete días harás expiación por el altar, y lo santificarás, y será un altar santísimo: cualquiera cosa que tocare el altar, será santificada. Las ofrendas diarias (Nm 28.1–8)"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 5151,
+      "char_end": 5240,
+      "text": "Esto es lo que ofrecerás sobre el altar: dos corderos de un año cada día, continuamente."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 5240,
+      "char_end": 5337,
+      "text": "Ofrecerás uno de los corderos por la mañana, y el otro cordero ofrecerás a la caída de la tarde."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 5337,
+      "char_end": 5532,
+      "text": "Además, con cada cordero una décima parte de un efa de flor de harina amasada con la cuarta parte de un hin de aceite de olivas machacadas; y para la libación, la cuarta parte de un hin de vino."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 5532,
+      "char_end": 5698,
+      "text": "Y ofrecerás el otro cordero a la caída de la tarde, haciendo conforme a la ofrenda de la mañana, y conforme a su libación, en olor grato; ofrenda encendida a Jehová."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 5698,
+      "char_end": 5873,
+      "text": "Esto será el holocausto continuo por vuestras generaciones, a la puerta del tabernáculo de reunión, delante de Jehová, en el cual me reuniré con vosotros, para hablaros allí."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 5873,
+      "char_end": 5957,
+      "text": "Allí me reuniré con los hijos de Israel; y el lugar será santificado con mi gloria."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 5957,
+      "char_end": 6083,
+      "text": "Y santificaré el tabernáculo de reunión y el altar; santificaré asimismo a Aarón y a sus hijos, para que sean mis sacerdotes."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 6083,
+      "char_end": 6137,
+      "text": "Y habitaré entre los hijos de Israel, y seré su Dios."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 6137,
+      "char_end": 6265,
+      "text": "Y conocerán que yo soy Jehová su Dios, que los saqué de la tierra de Egipto, para habitar en medio de ellos. Yo Jehová su Dios."
+    }
+  ],
+  "words": [
+    {
+      "word": "Esto es lo que les harás para consagrarlos, para que sean mis sacerdotes: Toma un becerro de la vacada, y dos carneros sin defecto; y panes sin levadura, y tortas sin levadura amasadas con aceite, y hojaldres sin levadura untadas con aceite; las harás de flor de harina de trigo.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 16862,
+      "duration_ms": 16762
+    },
+    {
+      "word": "Y las pondrás en un canastillo, y en el canastillo las ofrecerás, con el becerro y los dos carneros.",
+      "verse": 3,
+      "start_ms": 16862,
+      "end_ms": 23749,
+      "duration_ms": 6887
+    },
+    {
+      "word": "Y llevarás a Aarón y a sus hijos a la puerta del tabernáculo de reunión, y los lavarás con agua.",
+      "verse": 4,
+      "start_ms": 23750,
+      "end_ms": 29650,
+      "duration_ms": 5900
+    },
+    {
+      "word": "Y tomarás las vestiduras, y vestirás a Aarón la túnica, el manto del efod, el efod y el pectoral, y le ceñirás con el cinto del efod; y pondrás la mitra sobre su cabeza, y sobre la mitra pondrás la diadema santa.",
+      "verse": 5,
+      "start_ms": 29650,
+      "end_ms": 43187,
+      "duration_ms": 13537
+    },
+    {
+      "word": "Luego tomarás el aceite de la unción, y lo derramarás sobre su cabeza, y le ungirás.",
+      "verse": 7,
+      "start_ms": 43187,
+      "end_ms": 48849,
+      "duration_ms": 5662
+    },
+    {
+      "word": "Y harás que se acerquen sus hijos, y les vestirás las túnicas.",
+      "verse": 8,
+      "start_ms": 48850,
+      "end_ms": 53362,
+      "duration_ms": 4512
+    },
+    {
+      "word": "Les ceñirás el cinto a Aarón y a sus hijos, y les atarás las tiaras, y tendrán el sacerdocio por derecho perpetuo.",
+      "verse": 9,
+      "start_ms": 53362,
+      "end_ms": 60724,
+      "duration_ms": 7362
+    },
+    {
+      "word": "Así consagrarás a Aarón y a sus hijos.",
+      "verse": 9,
+      "start_ms": 60725,
+      "end_ms": 63887,
+      "duration_ms": 3162
+    },
+    {
+      "word": "Después llevarás el becerro delante del tabernáculo de reunión, y Aarón y sus hijos pondrán sus manos sobre la cabeza del becerro.",
+      "verse": 10,
+      "start_ms": 63887,
+      "end_ms": 71474,
+      "duration_ms": 7587
+    },
+    {
+      "word": "Y matarás el becerro delante de Jehová, a la puerta del tabernáculo de reunión.",
+      "verse": 11,
+      "start_ms": 71475,
+      "end_ms": 76737,
+      "duration_ms": 5262
+    },
+    {
+      "word": "Y de la sangre del becerro tomarás y pondrás sobre los cuernos del altar con tu dedo, y derramarás toda la demás sangre al pie del altar.",
+      "verse": 12,
+      "start_ms": 76737,
+      "end_ms": 84724,
+      "duration_ms": 7987
+    },
+    {
+      "word": "Tomarás también toda la grosura que cubre los intestinos, la grosura de sobre el hígado, los dos riñones, y la grosura que está sobre ellos, y lo quemarás sobre el altar.",
+      "verse": 13,
+      "start_ms": 84725,
+      "end_ms": 95287,
+      "duration_ms": 10562
+    },
+    {
+      "word": "Pero la carne del becerro, y su piel y su estiércol, los quemarás a fuego fuera del campamento; es ofrenda por el pecado.",
+      "verse": 14,
+      "start_ms": 95287,
+      "end_ms": 102899,
+      "duration_ms": 7612
+    },
+    {
+      "word": "Asimismo tomarás uno de los carneros, y Aarón y sus hijos pondrán sus manos sobre la cabeza del carnero.",
+      "verse": 15,
+      "start_ms": 102900,
+      "end_ms": 109637,
+      "duration_ms": 6737
+    },
+    {
+      "word": "Y matarás el carnero, y con su sangre rociarás sobre el altar alrededor.",
+      "verse": 16,
+      "start_ms": 109637,
+      "end_ms": 114874,
+      "duration_ms": 5237
+    },
+    {
+      "word": "Cortarás el carnero en pedazos, y lavarás sus intestinos y sus piernas, y las pondrás sobre sus trozos y sobre su cabeza.",
+      "verse": 17,
+      "start_ms": 114875,
+      "end_ms": 122562,
+      "duration_ms": 7687
+    },
+    {
+      "word": "Y quemarás todo el carnero sobre el altar; es holocausto de olor grato para Jehová, es ofrenda quemada a Jehová.",
+      "verse": 18,
+      "start_ms": 122562,
+      "end_ms": 129837,
+      "duration_ms": 7275
+    },
+    {
+      "word": "Tomarás luego el otro carnero, y Aarón y sus hijos pondrán sus manos sobre la cabeza del carnero.",
+      "verse": 19,
+      "start_ms": 129837,
+      "end_ms": 136087,
+      "duration_ms": 6250
+    },
+    {
+      "word": "Y matarás el carnero, y tomarás de su sangre y la pondrás sobre el lóbulo de la oreja derecha de Aarón, sobre el lóbulo de la oreja de sus hijos, sobre el dedo pulgar de las manos derechas de ellos, y sobre el dedo pulgar de los pies derechos de ellos, y rociarás la sangre sobre el altar alrededor.",
+      "verse": 20,
+      "start_ms": 136087,
+      "end_ms": 153074,
+      "duration_ms": 16987
+    },
+    {
+      "word": "Y con la sangre que estará sobre el altar, y el aceite de la unción, rociarás sobre Aarón, sobre sus vestiduras, sobre sus hijos, y sobre las vestiduras de éstos; y él será santificado, y sus vestiduras, y sus hijos, y las vestiduras de sus hijos con él.",
+      "verse": 21,
+      "start_ms": 153075,
+      "end_ms": 169250,
+      "duration_ms": 16175
+    },
+    {
+      "word": "Luego tomarás del carnero la grosura, y la cola, y la grosura que cubre los intestinos, y la grosura del hígado, y los dos riñones, y la grosura que está sobre ellos, y la espaldilla derecha; porque es carnero de consagración.",
+      "verse": 22,
+      "start_ms": 169250,
+      "end_ms": 183575,
+      "duration_ms": 14325
+    },
+    {
+      "word": "También una torta grande de pan, y una torta de pan de aceite, y una hojaldre del canastillo de los panes sin levadura presentado a Jehová, y lo pondrás todo en las manos de Aarón, y en las manos de sus hijos; y lo mecerás como ofrenda mecida delante de Jehová.",
+      "verse": 23,
+      "start_ms": 183575,
+      "end_ms": 198575,
+      "duration_ms": 15000
+    },
+    {
+      "word": "Después lo tomarás de sus manos y lo harás arder en el altar, sobre el holocausto, por olor grato delante de Jehová.",
+      "verse": 25,
+      "start_ms": 198575,
+      "end_ms": 205825,
+      "duration_ms": 7250
+    },
+    {
+      "word": "Es ofrenda encendida a Jehová.",
+      "verse": 25,
+      "start_ms": 205825,
+      "end_ms": 208425,
+      "duration_ms": 2600
+    },
+    {
+      "word": "Y tomarás el pecho del carnero de las consagraciones, que es de Aarón, y lo mecerás por ofrenda mecida delante de Jehová; y será porción tuya.",
+      "verse": 26,
+      "start_ms": 208425,
+      "end_ms": 217337,
+      "duration_ms": 8912
+    },
+    {
+      "word": "Y apartarás el pecho de la ofrenda mecida, y la espaldilla de la ofrenda elevada, lo que fue mecido y lo que fue elevado del carnero de las consagraciones de Aarón y de sus hijos, y será para Aarón y para sus hijos como estatuto perpetuo para los hijos de Israel, porque es ofrenda elevada; y será una ofrenda elevada de los hijos de Israel, de sus sacrificios de paz, porción de ellos elevada en ofrenda a Jehová.",
+      "verse": 27,
+      "start_ms": 217337,
+      "end_ms": 240249,
+      "duration_ms": 22912
+    },
+    {
+      "word": "Y las vestiduras santas, que son de Aarón, serán de sus hijos después de él, para",
+      "verse": 29,
+      "start_ms": 240250,
+      "end_ms": 245937,
+      "duration_ms": 5687
+    },
+    {
+      "word": "ser ungidos en ellas, y para ser en ellas consagrados.",
+      "verse": 29,
+      "start_ms": 246100,
+      "end_ms": 250250,
+      "duration_ms": 4150
+    },
+    {
+      "word": "Por siete días las vestirá el que de sus hijos tome su lugar como sacerdote, cuando venga al tabernáculo de reunión para servir en el santuario.",
+      "verse": 30,
+      "start_ms": 250200,
+      "end_ms": 258287,
+      "duration_ms": 8087
+    },
+    {
+      "word": "Y tomarás el carnero de las consagraciones, y cocerás su carne en lugar santo.",
+      "verse": 31,
+      "start_ms": 258287,
+      "end_ms": 263724,
+      "duration_ms": 5437
+    },
+    {
+      "word": "Y Aarón y sus hijos comerán la carne del carnero, y el pan que estará en el canastillo, a la puerta del tabernáculo de reunión.",
+      "verse": 32,
+      "start_ms": 263725,
+      "end_ms": 271637,
+      "duration_ms": 7912
+    },
+    {
+      "word": "Y comerán aquellas cosas con las cuales se hizo expiación, para llenar sus manos para consagrarlos; mas el extraño no las comerá, porque son santas.",
+      "verse": 33,
+      "start_ms": 271637,
+      "end_ms": 280812,
+      "duration_ms": 9175
+    },
+    {
+      "word": "Y si sobrare hasta la mañana algo de la carne de las consagraciones y del pan, quemarás al fuego lo que hubiere sobrado; no se comerá, porque es cosa santa.",
+      "verse": 34,
+      "start_ms": 280812,
+      "end_ms": 290187,
+      "duration_ms": 9375
+    },
+    {
+      "word": "Así, pues, harás a Aarón y a sus hijos, conforme a todo lo que yo te he mandado; por siete días los consagrarás.",
+      "verse": 35,
+      "start_ms": 290187,
+      "end_ms": 298187,
+      "duration_ms": 8000
+    },
+    {
+      "word": "Cada día ofrecerás el becerro del sacrificio por el pecado, para las expiaciones; y purificarás el altar cuando hagas expiación por él, y lo ungirás para santificarlo.",
+      "verse": 36,
+      "start_ms": 298187,
+      "end_ms": 308087,
+      "duration_ms": 9900
+    },
+    {
+      "word": "Por siete días harás expiación por el altar, y lo santificarás, y será un altar santísimo: cualquiera cosa que tocare el altar, será santificada.",
+      "verse": 37,
+      "start_ms": 308087,
+      "end_ms": 317637,
+      "duration_ms": 9550
+    },
+    {
+      "word": "Las ofrendas diarias (Nm 28.1–8) Esto es lo que ofrecerás sobre el altar: dos corderos de un año cada día, continuamente.",
+      "verse": 37,
+      "start_ms": 317637,
+      "end_ms": 327349,
+      "duration_ms": 9712
+    },
+    {
+      "word": "Ofrecerás uno de los corderos por la mañana, y el otro cordero ofrecerás a la caída de la tarde.",
+      "verse": 39,
+      "start_ms": 327350,
+      "end_ms": 333387,
+      "duration_ms": 6037
+    },
+    {
+      "word": "Además, con cada cordero una décima parte de un efa de flor de harina amasada con la cuarta parte de un hin de aceite de olivas machacadas; y para la libación, la cuarta parte de un hin de vino.",
+      "verse": 40,
+      "start_ms": 333387,
+      "end_ms": 345074,
+      "duration_ms": 11687
+    },
+    {
+      "word": "Y ofrecerás el otro cordero a la caída de la tarde, haciendo conforme a la ofrenda de la mañana, y conforme a su libación, en olor grato; ofrenda encendida a Jehová.",
+      "verse": 41,
+      "start_ms": 345075,
+      "end_ms": 355187,
+      "duration_ms": 10112
+    },
+    {
+      "word": "Esto será el holocausto continuo por vuestras generaciones, a la puerta del tabernáculo de reunión, delante de Jehová, en el cual me reuniré con vosotros, para hablaros allí.",
+      "verse": 42,
+      "start_ms": 355187,
+      "end_ms": 365937,
+      "duration_ms": 10750
+    },
+    {
+      "word": "Allí me reuniré con los hijos de Israel; y el lugar será santificado con mi gloria.",
+      "verse": 43,
+      "start_ms": 365937,
+      "end_ms": 371524,
+      "duration_ms": 5587
+    },
+    {
+      "word": "Y santificaré el tabernáculo de reunión y el altar; santificaré asimismo a Aarón y a sus hijos, para que sean mis sacerdotes.",
+      "verse": 44,
+      "start_ms": 371525,
+      "end_ms": 379600,
+      "duration_ms": 8075
+    },
+    {
+      "word": "Y habitaré entre los hijos de Israel, y seré su Dios.",
+      "verse": 45,
+      "start_ms": 379600,
+      "end_ms": 383725,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Y conocerán que yo soy Jehová su Dios, que los saqué de la tierra de Egipto, para habitar en medio de ellos.",
+      "verse": 46,
+      "start_ms": 383725,
+      "end_ms": 390650,
+      "duration_ms": 6925
+    },
+    {
+      "word": "Yo Jehová su Dios.",
+      "verse": 46,
+      "start_ms": 390650,
+      "end_ms": 392775,
+      "duration_ms": 2125
+    }
+  ]
+}

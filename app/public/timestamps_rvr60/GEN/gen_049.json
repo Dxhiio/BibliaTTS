@@ -1,0 +1,474 @@
+{
+  "book": "GEN",
+  "chapter": 49,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 33,
+  "word_count": 33,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 108,
+      "text": "Y llamó Jacob a sus hijos, y dijo: Juntaos, y os declararé lo que os ha de acontecer en los días venideros."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 108,
+      "char_end": 174,
+      "text": "Juntaos y oíd, hijos de Jacob, Y escuchad a vuestro padre Israel."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 174,
+      "char_end": 290,
+      "text": "Rubén, tú eres mi primogénito, mi fortaleza, y el principio de mi vigor; Principal en dignidad, principal en poder."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 290,
+      "char_end": 428,
+      "text": "Impetuoso como las aguas, no serás el principal, Por cuanto subiste al lecho de tu padre; Entonces te envileciste, subiendo a mi estrado."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 428,
+      "char_end": 486,
+      "text": "Simeón y Leví son hermanos; Armas de iniquidad sus armas."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 486,
+      "char_end": 633,
+      "text": "En su consejo no entre mi alma, Ni mi espíritu se junte en su compañía. Porque en su furor mataron hombres, Y en su temeridad desjarretaron toros."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 633,
+      "char_end": 743,
+      "text": "Maldito su furor, que fue fiero; Y su ira, que fue dura. Yo los apartaré en Jacob, Y los esparciré en Israel."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 743,
+      "char_end": 855,
+      "text": "Judá, te alabarán tus hermanos; Tu mano en la cerviz de tus enemigos; Los hijos de tu padre se inclinarán a ti."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 855,
+      "char_end": 984,
+      "text": "Cachorro de león, Judá; De la presa subiste, hijo mío. Se encorvó, se echó como león, Así como león viejo: ¿quién lo despertará?"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 984,
+      "char_end": 1112,
+      "text": "No será quitado el cetro de Judá, Ni el legislador de entre sus pies, Hasta que venga Siloh; Y a él se congregarán los pueblos."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1112,
+      "char_end": 1233,
+      "text": "Atando a la vid su pollino, Y a la cepa el hijo de su asna, Lavó en el vino su vestido, Y en la sangre de uvas su manto."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1233,
+      "char_end": 1294,
+      "text": "Sus ojos, rojos del vino, Y sus dientes blancos de la leche."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1294,
+      "char_end": 1382,
+      "text": "Zabulón en puertos de mar habitará; Será para puerto de naves, Y su límite hasta Sidón."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1382,
+      "char_end": 1438,
+      "text": "Isacar, asno fuerte Que se recuesta entre los apriscos;"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1438,
+      "char_end": 1553,
+      "text": "Y vio que el descanso era bueno, y que la tierra era deleitosa; Y bajó su hombro para llevar, Y sirvió en tributo."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1553,
+      "char_end": 1612,
+      "text": "Dan juzgará a su pueblo, Como una de las tribus de Israel."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1612,
+      "char_end": 1744,
+      "text": "Será Dan serpiente junto al camino, Víbora junto a la senda, Que muerde los talones del caballo, Y hace caer hacia atrás al jinete."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1744,
+      "char_end": 1776,
+      "text": "Tu salvación esperé, oh Jehová."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1776,
+      "char_end": 1829,
+      "text": "Gad, ejército lo acometerá; Mas él acometerá al fin."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1829,
+      "char_end": 1890,
+      "text": "El pan de Aser será substancioso, Y él dará deleites al rey."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1890,
+      "char_end": 1947,
+      "text": "Neftalí, cierva suelta, Que pronunciará dichos hermosos."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1947,
+      "char_end": 2051,
+      "text": "Rama fructífera es José, Rama fructífera junto a una fuente, Cuyos vástagos se extienden sobre el muro."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2051,
+      "char_end": 2120,
+      "text": "Le causaron amargura, Le asaetearon, Y le aborrecieron los arqueros;"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2120,
+      "char_end": 2277,
+      "text": "Mas su arco se mantuvo poderoso, Y los brazos de sus manos se fortalecieron Por las manos del Fuerte de Jacob (Por el nombre del Pastor, la Roca de Israel),"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2277,
+      "char_end": 2497,
+      "text": "Por el Dios de tu padre, el cual te ayudará, Por el Dios Omnipotente, el cual te bendecirá Con bendiciones de los cielos de arriba, Con bendiciones del abismo que está abajo, Con bendiciones de los pechos y del vientre."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2497,
+      "char_end": 2715,
+      "text": "Las bendiciones de tu padre Fueron mayores que las bendiciones de mis progenitores; Hasta el término de los collados eternos Serán sobre la cabeza de José, Y sobre la frente del que fue apartado de entre sus hermanos."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2715,
+      "char_end": 2837,
+      "text": "Benjamín es lobo arrebatador; A la mañana comerá la presa, Y a la tarde repartirá los despojos. Muerte y sepelio de Jacob"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2837,
+      "char_end": 2977,
+      "text": "Todos estos fueron las doce tribus de Israel, y esto fue lo que su padre les dijo, al bendecirlos; a cada uno por su bendición los bendijo."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2977,
+      "char_end": 3120,
+      "text": "Les mandó luego, y les dijo: Yo voy a ser reunido con mi pueblo. Sepultadme con mis padres en la cueva que está en el campo de Efrón el heteo,"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3120,
+      "char_end": 3297,
+      "text": "en la cueva que está en el campo de Macpela, al oriente de Mamre en la tierra de Canaán, la cual compró Abraham con el mismo campo de Efrón el heteo, para heredad de sepultura."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3297,
+      "char_end": 3418,
+      "text": "Allí sepultaron a Abraham y a Sara su mujer; allí sepultaron a Isaac y a Rebeca su mujer; allí también sepulté yo a Lea."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3418,
+      "char_end": 3493,
+      "text": "La compra del campo y de la cueva que está en él, fue de los hijos de Het."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3493,
+      "char_end": 3616,
+      "text": "Y cuando acabó Jacob de dar mandamientos a sus hijos, encogió sus pies en la cama, y expiró, y fue reunido con sus padres."
+    }
+  ],
+  "words": [
+    {
+      "word": "Y llamó Jacob a sus hijos, y dijo: Juntaos, y os declararé lo que os ha de acontecer en los días venideros.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7700,
+      "duration_ms": 7600
+    },
+    {
+      "word": "Juntaos y oíd, hijos de Jacob, Y escuchad a vuestro padre Israel.",
+      "verse": 2,
+      "start_ms": 7650,
+      "end_ms": 12825,
+      "duration_ms": 5175
+    },
+    {
+      "word": "Rubén, tú eres mi primogénito, mi fortaleza, y el principio de mi vigor; Principal en dignidad, principal en poder.",
+      "verse": 3,
+      "start_ms": 12825,
+      "end_ms": 21237,
+      "duration_ms": 8412
+    },
+    {
+      "word": "Impetuoso como las aguas, no serás el principal, Por cuanto subiste al lecho de tu padre; Entonces te envileciste, subiendo a mi estrado.",
+      "verse": 4,
+      "start_ms": 21237,
+      "end_ms": 30312,
+      "duration_ms": 9075
+    },
+    {
+      "word": "Simeón y Leví son hermanos; Armas de iniquidad sus armas.",
+      "verse": 5,
+      "start_ms": 30312,
+      "end_ms": 34912,
+      "duration_ms": 4600
+    },
+    {
+      "word": "En su consejo no entre mi alma, Ni mi espíritu se junte en su compañía.",
+      "verse": 6,
+      "start_ms": 34912,
+      "end_ms": 39962,
+      "duration_ms": 5050
+    },
+    {
+      "word": "Porque en su furor mataron hombres, Y en su temeridad desjarretaron toros.",
+      "verse": 6,
+      "start_ms": 39962,
+      "end_ms": 44949,
+      "duration_ms": 4987
+    },
+    {
+      "word": "Maldito su furor, que fue fiero; Y su ira, que fue dura.",
+      "verse": 7,
+      "start_ms": 44950,
+      "end_ms": 49637,
+      "duration_ms": 4687
+    },
+    {
+      "word": "Yo los apartaré en Jacob, Y los esparciré en Israel.",
+      "verse": 7,
+      "start_ms": 49637,
+      "end_ms": 53724,
+      "duration_ms": 4087
+    },
+    {
+      "word": "Judá, te alabarán tus hermanos; Tu mano en la cerviz de tus enemigos; Los hijos de tu padre se inclinarán a ti.",
+      "verse": 8,
+      "start_ms": 53725,
+      "end_ms": 61175,
+      "duration_ms": 7450
+    },
+    {
+      "word": "Cachorro de león, Judá; De la presa subiste, hijo mío.",
+      "verse": 9,
+      "start_ms": 61175,
+      "end_ms": 66025,
+      "duration_ms": 4850
+    },
+    {
+      "word": "Se encorvó, se echó como león, Así como león viejo: ¿quién lo despertará?",
+      "verse": 9,
+      "start_ms": 66025,
+      "end_ms": 71550,
+      "duration_ms": 5525
+    },
+    {
+      "word": "No será quitado el cetro de Judá, Ni el legislador de entre sus pies, Hasta que venga Siloh; Y a él se congregarán los pueblos.",
+      "verse": 10,
+      "start_ms": 71550,
+      "end_ms": 79600,
+      "duration_ms": 8050
+    },
+    {
+      "word": "Atando a la vid su pollino, Y a la cepa el hijo de su asna, Lavó en el vino su vestido, Y en la sangre de uvas su manto.",
+      "verse": 11,
+      "start_ms": 79600,
+      "end_ms": 87725,
+      "duration_ms": 8125
+    },
+    {
+      "word": "Sus ojos, rojos del vino, Y sus dientes blancos de la leche.",
+      "verse": 12,
+      "start_ms": 87725,
+      "end_ms": 92450,
+      "duration_ms": 4725
+    },
+    {
+      "word": "Zabulón en puertos de mar habitará; Será para puerto de naves, Y su límite hasta Sidón.",
+      "verse": 13,
+      "start_ms": 92450,
+      "end_ms": 98450,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Isacar, asno fuerte Que se recuesta entre los apriscos; Y vio que el descanso era bueno, y que la tierra era deleitosa; Y bajó su hombro para llevar, Y sirvió en tributo.",
+      "verse": 14,
+      "start_ms": 98450,
+      "end_ms": 109312,
+      "duration_ms": 10862
+    },
+    {
+      "word": "Dan juzgará a su pueblo, Como una de las tribus de Israel.",
+      "verse": 16,
+      "start_ms": 109312,
+      "end_ms": 113674,
+      "duration_ms": 4362
+    },
+    {
+      "word": "Será Dan serpiente junto al camino, Víbora junto a la senda, Que muerde los talones del caballo, Y hace caer hacia atrás al jinete.",
+      "verse": 17,
+      "start_ms": 113675,
+      "end_ms": 121862,
+      "duration_ms": 8187
+    },
+    {
+      "word": "Tu salvación esperé, oh Jehová.",
+      "verse": 18,
+      "start_ms": 121862,
+      "end_ms": 124749,
+      "duration_ms": 2887
+    },
+    {
+      "word": "Gad, ejército lo acometerá; Mas él acometerá al fin.",
+      "verse": 19,
+      "start_ms": 124750,
+      "end_ms": 129050,
+      "duration_ms": 4300
+    },
+    {
+      "word": "El pan de Aser será substancioso, Y él dará deleites al rey.",
+      "verse": 20,
+      "start_ms": 129050,
+      "end_ms": 133475,
+      "duration_ms": 4425
+    },
+    {
+      "word": "Neftalí, cierva suelta, Que pronunciará dichos hermosos.",
+      "verse": 21,
+      "start_ms": 133475,
+      "end_ms": 138137,
+      "duration_ms": 4662
+    },
+    {
+      "word": "Rama fructífera es José, Rama fructífera junto a una fuente, Cuyos vástagos se extienden sobre el muro.",
+      "verse": 22,
+      "start_ms": 138137,
+      "end_ms": 144999,
+      "duration_ms": 6862
+    },
+    {
+      "word": "Le causaron amargura, Le asaetearon, Y le aborrecieron los arqueros; Mas su arco se mantuvo poderoso, Y los brazos de sus manos se fortalecieron Por las manos del Fuerte de Jacob (Por el nombre del Pastor, la Roca de Israel), Por el Dios de tu padre, el cual te ayudará, Por el Dios Omnipotente, el cual te bendecirá Con bendiciones de los cielos de arriba, Con bendiciones del abismo que está abajo, Con bendiciones de los pechos y del vientre.",
+      "verse": 23,
+      "start_ms": 145000,
+      "end_ms": 170412,
+      "duration_ms": 25412
+    },
+    {
+      "word": "Las bendiciones de tu padre Fueron mayores que las bendiciones de mis progenitores; Hasta el término de los collados eternos Serán sobre la cabeza de José, Y sobre la frente del que fue apartado de entre sus hermanos.",
+      "verse": 26,
+      "start_ms": 170412,
+      "end_ms": 182274,
+      "duration_ms": 11862
+    },
+    {
+      "word": "Benjamín es lobo arrebatador; A la mañana comerá la presa, Y a la tarde repartirá los despojos.",
+      "verse": 27,
+      "start_ms": 182275,
+      "end_ms": 189312,
+      "duration_ms": 7037
+    },
+    {
+      "word": "Muerte y sepelio de Jacob Todos estos fueron las doce tribus de Israel, y esto fue lo que su padre les dijo, al bendecirlos; a cada uno por su bendición los bendijo.",
+      "verse": 27,
+      "start_ms": 189312,
+      "end_ms": 199624,
+      "duration_ms": 10312
+    },
+    {
+      "word": "Les mandó luego, y les dijo: Yo voy a ser reunido con mi pueblo.",
+      "verse": 29,
+      "start_ms": 199625,
+      "end_ms": 204475,
+      "duration_ms": 4850
+    },
+    {
+      "word": "Sepultadme con mis padres en la cueva que está en el campo de Efrón el heteo, en la cueva que está en el campo de Macpela, al oriente de Mamre en la tierra de Canaán, la cual compró Abraham con el mismo campo de Efrón el heteo, para heredad de sepultura.",
+      "verse": 29,
+      "start_ms": 204475,
+      "end_ms": 218612,
+      "duration_ms": 14137
+    },
+    {
+      "word": "Allí sepultaron a Abraham y a Sara su mujer; allí sepultaron a Isaac y a Rebeca su mujer; allí también sepulté yo a Lea.",
+      "verse": 31,
+      "start_ms": 218612,
+      "end_ms": 226749,
+      "duration_ms": 8137
+    },
+    {
+      "word": "La compra del campo y de la cueva que está en él, fue de los hijos de Het.",
+      "verse": 32,
+      "start_ms": 226750,
+      "end_ms": 231412,
+      "duration_ms": 4662
+    },
+    {
+      "word": "Y cuando acabó Jacob de dar mandamientos a sus hijos, encogió sus pies en la cama, y expiró, y fue reunido con sus padres.",
+      "verse": 33,
+      "start_ms": 231412,
+      "end_ms": 239524,
+      "duration_ms": 8112
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "book": "EXO",
+  "chapter": 22,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 31,
+  "word_count": 35,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 134,
+      "text": "Cuando alguno hurtare buey u oveja, y lo degollare o vendiere, por aquel buey pagará cinco bueyes, y por aquella oveja cuatro ovejas."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 134,
+      "char_end": 252,
+      "text": "Si el ladrón fuere hallado forzando una casa, y fuere herido y muriere, el que lo hirió no será culpado de su muerte."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 252,
+      "char_end": 406,
+      "text": "Pero si fuere de día, el autor de la muerte será reo de homicidio. El ladrón hará completa restitución; si no tuviere con qué, será vendido por su hurto."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 406,
+      "char_end": 496,
+      "text": "Si fuere hallado con el hurto en la mano, vivo, sea buey o asno u oveja, pagará el doble."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 496,
+      "char_end": 633,
+      "text": "Si alguno hiciere pastar en campo o viña, y metiere su bestia en campo de otro, de lo mejor de su campo y de lo mejor de su viña pagará."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 633,
+      "char_end": 770,
+      "text": "Cuando se prendiere fuego, y al quemar espinos quemare mieses amontonadas o en pie, o campo, el que encendió el fuego pagará lo quemado."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 770,
+      "char_end": 919,
+      "text": "Cuando alguno diere a su prójimo plata o alhajas a guardar, y fuere hurtado de la casa de aquel hombre, si el ladrón fuere hallado, pagará el doble."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 919,
+      "char_end": 1075,
+      "text": "Si el ladrón no fuere hallado, entonces el dueño de la casa será presentado a los jueces, para que se vea si ha metido su mano en los bienes de su prójimo."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1075,
+      "char_end": 1322,
+      "text": "En toda clase de fraude, sobre buey, sobre asno, sobre oveja, sobre vestido, sobre toda cosa perdida, cuando alguno dijere: Esto es mío, la causa de ambos vendrá delante de los jueces; y el que los jueces condenaren, pagará el doble a su prójimo."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1322,
+      "char_end": 1484,
+      "text": "Si alguno hubiere dado a su prójimo asno, o buey, u oveja, o cualquier otro animal a guardar, y éste muriere o fuere estropeado, o fuere llevado sin verlo nadie;"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1484,
+      "char_end": 1620,
+      "text": "juramento de Jehová habrá entre ambos, de que no metió su mano a los bienes de su prójimo; y su dueño lo aceptará, y el otro no pagará."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1620,
+      "char_end": 1674,
+      "text": "Mas si le hubiere sido hurtado, resarcirá a su dueño."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1674,
+      "char_end": 1766,
+      "text": "Y si le hubiere sido arrebatado por fiera, le traerá testimonio, y no pagará lo arrebatado."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1766,
+      "char_end": 1898,
+      "text": "Pero si alguno hubiere tomado prestada bestia de su prójimo, y fuere estropeada o muerta, estando ausente su dueño, deberá pagarla."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1898,
+      "char_end": 2006,
+      "text": "Si el dueño estaba presente no la pagará. Si era alquilada, reciba el dueño el alquiler. Leyes humanitarias"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2006,
+      "char_end": 2121,
+      "text": "Si alguno engañare a una doncella que no fuere desposada, y durmiere con ella, deberá dotarla y tomarla por mujer."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2121,
+      "char_end": 2209,
+      "text": "Si su padre no quisiere dársela, él le pesará plata conforme a la dote de las vírgenes."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2209,
+      "char_end": 2245,
+      "text": "A la hechicera no dejarás que viva."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2245,
+      "char_end": 2291,
+      "text": "Cualquiera que cohabitare con bestia, morirá."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2291,
+      "char_end": 2369,
+      "text": "El que ofreciere sacrificio a dioses excepto solamente a Jehová, será muerto."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2369,
+      "char_end": 2475,
+      "text": "Y al extranjero no engañarás ni angustiarás, porque extranjeros fuisteis vosotros en la tierra de Egipto."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2475,
+      "char_end": 2515,
+      "text": "A ninguna viuda ni huérfano afligiréis."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2515,
+      "char_end": 2603,
+      "text": "Porque si tú llegas a afligirles, y ellos clamaren a mí, ciertamente oiré yo su clamor;"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2603,
+      "char_end": 2711,
+      "text": "y mi furor se encenderá, y os mataré a espada, y vuestras mujeres serán viudas, y huérfanos vuestros hijos."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2711,
+      "char_end": 2841,
+      "text": "Cuando prestares dinero a uno de mi pueblo, al pobre que está contigo, no te portarás con él como logrero, ni le impondrás usura."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2841,
+      "char_end": 2926,
+      "text": "Si tomares en prenda el vestido de tu prójimo, a la puesta del sol se lo devolverás."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2926,
+      "char_end": 3077,
+      "text": "Porque sólo eso es su cubierta, es su vestido para cubrir su cuerpo. ¿En qué dormirá? Y cuando él clamare a mí, yo le oiré, porque soy misericordioso."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3077,
+      "char_end": 3145,
+      "text": "No injuriarás a los jueces, ni maldecirás al príncipe de tu pueblo."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3145,
+      "char_end": 3238,
+      "text": "No demorarás la primicia de tu cosecha ni de tu lagar. Me darás el primogénito de tus hijos."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3238,
+      "char_end": 3347,
+      "text": "Lo mismo harás con el de tu buey y de tu oveja; siete días estará con su madre, y al octavo día me lo darás."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3347,
+      "char_end": 3458,
+      "text": "Y me seréis varones santos. No comeréis carne destrozada por las fieras en el campo; a los perros la echaréis."
+    }
+  ],
+  "words": [
+    {
+      "word": "Cuando alguno hurtare buey u oveja, y lo degollare o vendiere, por aquel buey pagará cinco bueyes, y por aquella oveja cuatro ovejas.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 8637,
+      "duration_ms": 8537
+    },
+    {
+      "word": "Si el ladrón fuere hallado forzando una casa, y fuere herido y muriere, el que lo hirió no será culpado de su muerte.",
+      "verse": 2,
+      "start_ms": 8587,
+      "end_ms": 15962,
+      "duration_ms": 7375
+    },
+    {
+      "word": "Pero si fuere de día, el autor de la muerte será reo de homicidio.",
+      "verse": 3,
+      "start_ms": 15962,
+      "end_ms": 20674,
+      "duration_ms": 4712
+    },
+    {
+      "word": "El ladrón hará completa restitución; si no tuviere con qué, será vendido por su hurto.",
+      "verse": 3,
+      "start_ms": 20675,
+      "end_ms": 26650,
+      "duration_ms": 5975
+    },
+    {
+      "word": "Si fuere hallado con el hurto en la mano, vivo, sea buey o asno u oveja, pagará el doble.",
+      "verse": 4,
+      "start_ms": 26650,
+      "end_ms": 32987,
+      "duration_ms": 6337
+    },
+    {
+      "word": "Si alguno hiciere pastar en campo o viña, y metiere su bestia en campo de otro, de lo mejor de su campo y de lo mejor de su viña pagará.",
+      "verse": 5,
+      "start_ms": 32987,
+      "end_ms": 41174,
+      "duration_ms": 8187
+    },
+    {
+      "word": "Cuando se prendiere fuego, y al quemar espinos quemare mieses amontonadas o en pie, o campo, el que encendió el fuego pagará lo quemado.",
+      "verse": 6,
+      "start_ms": 41175,
+      "end_ms": 49300,
+      "duration_ms": 8125
+    },
+    {
+      "word": "Cuando alguno diere a su prójimo plata o alhajas a guardar, y fuere hurtado de la casa de aquel hombre, si el ladrón fuere hallado, pagará el doble.",
+      "verse": 7,
+      "start_ms": 49300,
+      "end_ms": 57875,
+      "duration_ms": 8575
+    },
+    {
+      "word": "Si el ladrón no fuere hallado, entonces el dueño de la casa será presentado a los jueces, para que se vea si ha metido su mano en los bienes de su prójimo.",
+      "verse": 8,
+      "start_ms": 57875,
+      "end_ms": 66800,
+      "duration_ms": 8925
+    },
+    {
+      "word": "En toda clase de fraude, sobre buey, sobre asno, sobre oveja, sobre vestido, sobre toda cosa perdida, cuando alguno dijere: Esto es mío, la causa de ambos vendrá delante de los jueces; y el que los jueces condenaren, pagará el doble a su prójimo.",
+      "verse": 9,
+      "start_ms": 66800,
+      "end_ms": 83062,
+      "duration_ms": 16262
+    },
+    {
+      "word": "Si alguno hubiere dado a su prójimo asno, o buey, u oveja, o cualquier otro animal a guardar, y éste muriere o fuere estropeado, o fuere llevado sin verlo nadie; juramento de Jehová habrá entre ambos, de que no metió su mano a los bienes de su prójimo; y su dueño lo aceptará, y el otro no pagará.",
+      "verse": 10,
+      "start_ms": 83062,
+      "end_ms": 101087,
+      "duration_ms": 18025
+    },
+    {
+      "word": "Mas si le hubiere sido hurtado, resarcirá a su dueño.",
+      "verse": 12,
+      "start_ms": 101087,
+      "end_ms": 105037,
+      "duration_ms": 3950
+    },
+    {
+      "word": "Y si le hubiere sido arrebatado por fiera, le traerá testimonio, y no pagará lo arrebatado.",
+      "verse": 13,
+      "start_ms": 105037,
+      "end_ms": 111037,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Pero si alguno hubiere tomado prestada bestia de su prójimo, y fuere estropeada o muerta, estando ausente su dueño, deberá pagarla.",
+      "verse": 14,
+      "start_ms": 111037,
+      "end_ms": 119287,
+      "duration_ms": 8250
+    },
+    {
+      "word": "Si el dueño estaba presente no la pagará.",
+      "verse": 15,
+      "start_ms": 119287,
+      "end_ms": 122437,
+      "duration_ms": 3150
+    },
+    {
+      "word": "Si era alquilada, reciba el dueño el alquiler.",
+      "verse": 15,
+      "start_ms": 122437,
+      "end_ms": 126149,
+      "duration_ms": 3712
+    },
+    {
+      "word": "Leyes humanitarias Si alguno engañare a una doncella que no fuere desposada, y durmiere con ella, deberá dotarla y tomarla por mujer.",
+      "verse": 15,
+      "start_ms": 126150,
+      "end_ms": 134387,
+      "duration_ms": 8237
+    },
+    {
+      "word": "Si su padre no quisiere dársela, él le pesará plata conforme a la dote de las vírgenes.",
+      "verse": 17,
+      "start_ms": 134387,
+      "end_ms": 140262,
+      "duration_ms": 5875
+    },
+    {
+      "word": "A la hechicera no dejarás que viva.",
+      "verse": 18,
+      "start_ms": 140262,
+      "end_ms": 143024,
+      "duration_ms": 2762
+    },
+    {
+      "word": "Cualquiera que cohabitare con bestia, morirá.",
+      "verse": 19,
+      "start_ms": 143025,
+      "end_ms": 146387,
+      "duration_ms": 3362
+    },
+    {
+      "word": "El que ofreciere sacrificio a dioses excepto solamente a Jehová, será muerto.",
+      "verse": 20,
+      "start_ms": 146387,
+      "end_ms": 151549,
+      "duration_ms": 5162
+    },
+    {
+      "word": "Y al extranjero no engañarás ni angustiarás, porque extranjeros fuisteis vosotros en la tierra de Egipto.",
+      "verse": 21,
+      "start_ms": 151550,
+      "end_ms": 158200,
+      "duration_ms": 6650
+    },
+    {
+      "word": "A ninguna viuda ni huérfano afligiréis.",
+      "verse": 22,
+      "start_ms": 158200,
+      "end_ms": 161412,
+      "duration_ms": 3212
+    },
+    {
+      "word": "Porque si tú llegas a afligirles, y ellos clamaren a mí, ciertamente oiré yo su clamor; y mi furor se encenderá, y os mataré a espada, y vuestras mujeres serán viudas, y huérfanos vuestros hijos.",
+      "verse": 23,
+      "start_ms": 161412,
+      "end_ms": 173949,
+      "duration_ms": 12537
+    },
+    {
+      "word": "Cuando prestares dinero a uno de mi pueblo, al pobre que está contigo, no te portarás con él como logrero, ni le impondrás usura.",
+      "verse": 25,
+      "start_ms": 173950,
+      "end_ms": 181825,
+      "duration_ms": 7875
+    },
+    {
+      "word": "Si tomares en prenda el vestido de tu prójimo, a la puesta del sol se lo devolverás.",
+      "verse": 26,
+      "start_ms": 181825,
+      "end_ms": 187312,
+      "duration_ms": 5487
+    },
+    {
+      "word": "Porque sólo eso es su cubierta, es su vestido para cubrir su cuerpo.",
+      "verse": 27,
+      "start_ms": 187312,
+      "end_ms": 191874,
+      "duration_ms": 4562
+    },
+    {
+      "word": "En qué dormirá?",
+      "verse": 27,
+      "start_ms": 191875,
+      "end_ms": 193675,
+      "duration_ms": 1800
+    },
+    {
+      "word": "Y cuando él clamare a mí, yo le oiré, porque soy misericordioso.",
+      "verse": 27,
+      "start_ms": 193675,
+      "end_ms": 198387,
+      "duration_ms": 4712
+    },
+    {
+      "word": "No injuriarás a los jueces, ni maldecirás al príncipe de tu pueblo.",
+      "verse": 28,
+      "start_ms": 198387,
+      "end_ms": 202974,
+      "duration_ms": 4587
+    },
+    {
+      "word": "No demorarás la primicia de tu cosecha ni de tu lagar.",
+      "verse": 29,
+      "start_ms": 202975,
+      "end_ms": 206737,
+      "duration_ms": 3762
+    },
+    {
+      "word": "Me darás el primogénito de tus hijos.",
+      "verse": 29,
+      "start_ms": 206737,
+      "end_ms": 209812,
+      "duration_ms": 3075
+    },
+    {
+      "word": "Lo mismo harás con el de tu buey y de tu oveja; siete días estará con su madre, y al octavo día me lo darás.",
+      "verse": 30,
+      "start_ms": 209812,
+      "end_ms": 216924,
+      "duration_ms": 7112
+    },
+    {
+      "word": "Y me seréis varones santos.",
+      "verse": 31,
+      "start_ms": 216925,
+      "end_ms": 219450,
+      "duration_ms": 2525
+    },
+    {
+      "word": "No comeréis carne destrozada por las fieras en el campo; a los perros la echaréis.",
+      "verse": 31,
+      "start_ms": 219450,
+      "end_ms": 224912,
+      "duration_ms": 5462
+    }
+  ]
+}

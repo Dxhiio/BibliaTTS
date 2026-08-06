@@ -1,0 +1,355 @@
+{
+  "book": "EXO",
+  "chapter": 20,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 26,
+  "word_count": 23,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 45,
+      "text": "Y habló Dios todas estas palabras, diciendo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 45,
+      "char_end": 129,
+      "text": "Yo soy Jehová tu Dios, que te saqué de la tierra de Egipto, de casa de servidumbre."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 129,
+      "char_end": 169,
+      "text": "No tendrás dioses ajenos delante de mí."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 169,
+      "char_end": 305,
+      "text": "No te harás imagen, ni ninguna semejanza de lo que esté arriba en el cielo, ni abajo en la tierra, ni en las aguas debajo de la tierra."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 305,
+      "char_end": 507,
+      "text": "No te inclinarás a ellas, ni las honrarás; porque yo soy Jehová tu Dios, fuerte, celoso, que visito la maldad de los padres sobre los hijos hasta la tercera y cuarta generación de los que me aborrecen,"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 507,
+      "char_end": 585,
+      "text": "y hago misericordia a millares, a los que me aman y guardan mis mandamientos."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 585,
+      "char_end": 701,
+      "text": "No tomarás el nombre de Jehová tu Dios en vano; porque no dará por inocente Jehová al que tomare su nombre en vano."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 701,
+      "char_end": 748,
+      "text": "Acuérdate del día de reposo para santificarlo."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 748,
+      "char_end": 792,
+      "text": "Seis días trabajarás, y harás toda tu obra;"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 792,
+      "char_end": 989,
+      "text": "mas el séptimo día es reposo para Jehová tu Dios; no hagas en él obra alguna, tú, ni tu hijo, ni tu hija, ni tu siervo, ni tu criada, ni tu bestia, ni tu extranjero que está dentro de tus puertas."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 989,
+      "char_end": 1176,
+      "text": "Porque en seis días hizo Jehová los cielos y la tierra, el mar, y todas las cosas que en ellos hay, y reposó en el séptimo día; por tanto, Jehová bendijo el día de reposo y lo santificó."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1176,
+      "char_end": 1276,
+      "text": "Honra a tu padre y a tu madre, para que tus días se alarguen en la tierra que Jehová tu Dios te da."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1276,
+      "char_end": 1288,
+      "text": "No matarás."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1288,
+      "char_end": 1312,
+      "text": "No cometerás adulterio."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1312,
+      "char_end": 1325,
+      "text": "No hurtarás."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1325,
+      "char_end": 1373,
+      "text": "No hablarás contra tu prójimo falso testimonio."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1373,
+      "char_end": 1564,
+      "text": "No codiciarás la casa de tu prójimo, no codiciarás la mujer de tu prójimo, ni su siervo, ni su criada, ni su buey, ni su asno, ni cosa alguna de tu prójimo. El terror del pueblo (Dt 5.22–33)"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1564,
+      "char_end": 1727,
+      "text": "Todo el pueblo observaba el estruendo y los relámpagos, y el sonido de la bocina, y el monte que humeaba; y viéndolo el pueblo, temblaron, y se pusieron de lejos."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1727,
+      "char_end": 1844,
+      "text": "Y dijeron a Moisés: Habla tú con nosotros, y nosotros oiremos; pero no hable Dios con nosotros, para que no muramos."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1844,
+      "char_end": 1984,
+      "text": "Y Moisés respondió al pueblo: No temáis; porque para probaros vino Dios, y para que su temor esté delante de vosotros, para que no pequéis."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1984,
+      "char_end": 2080,
+      "text": "Entonces el pueblo estuvo a lo lejos, y Moisés se acercó a la oscuridad en la cual estaba Dios."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2080,
+      "char_end": 2203,
+      "text": "Y Jehová dijo a Moisés: Así dirás a los hijos de Israel: Vosotros habéis visto que he hablado desde el cielo con vosotros."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2203,
+      "char_end": 2266,
+      "text": "No hagáis conmigo dioses de plata, ni dioses de oro os haréis."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2266,
+      "char_end": 2477,
+      "text": "Altar de tierra harás para mí, y sacrificarás sobre él tus holocaustos y tus ofrendas de paz, tus ovejas y tus vacas; en todo lugar donde yo hiciere que esté la memoria de mi nombre, vendré a ti y te bendeciré."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2477,
+      "char_end": 2594,
+      "text": "Y si me hicieres altar de piedras, no las labres de cantería; porque si alzares herramienta sobre él, lo profanarás."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2594,
+      "char_end": 2676,
+      "text": "No subirás por gradas a mi altar, para que tu desnudez no se descubra junto a él."
+    }
+  ],
+  "words": [
+    {
+      "word": "Y habló Dios todas estas palabras, diciendo: Yo soy Jehová tu Dios, que te saqué de la tierra de Egipto, de casa de servidumbre.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 8800,
+      "duration_ms": 8700
+    },
+    {
+      "word": "No tendrás dioses ajenos delante de mí.",
+      "verse": 3,
+      "start_ms": 8750,
+      "end_ms": 11737,
+      "duration_ms": 2987
+    },
+    {
+      "word": "No te harás imagen, ni ninguna semejanza de lo que esté arriba en el cielo, ni abajo en la tierra, ni en las aguas debajo de la tierra.",
+      "verse": 4,
+      "start_ms": 11737,
+      "end_ms": 19712,
+      "duration_ms": 7975
+    },
+    {
+      "word": "No te inclinarás a ellas, ni las honrarás; porque yo soy Jehová tu Dios, fuerte, celoso, que visito la maldad de los padres sobre los hijos hasta la tercera y cuarta generación de los que me aborrecen, y hago misericordia a millares, a los que me aman y guardan mis mandamientos.",
+      "verse": 5,
+      "start_ms": 19712,
+      "end_ms": 36499,
+      "duration_ms": 16787
+    },
+    {
+      "word": "No tomarás el nombre de Jehová tu Dios en vano; porque no dará por inocente Jehová al que tomare su nombre en vano.",
+      "verse": 7,
+      "start_ms": 36500,
+      "end_ms": 43350,
+      "duration_ms": 6850
+    },
+    {
+      "word": "Acuérdate del día de reposo para santificarlo.",
+      "verse": 8,
+      "start_ms": 43350,
+      "end_ms": 46850,
+      "duration_ms": 3500
+    },
+    {
+      "word": "Seis días trabajarás, y harás toda tu obra; mas el séptimo día es reposo para Jehová tu Dios; no hagas en él obra alguna, tú, ni tu hijo, ni tu hija, ni tu siervo, ni tu criada, ni tu bestia, ni tu extranjero que está dentro de tus puertas.",
+      "verse": 9,
+      "start_ms": 46850,
+      "end_ms": 63400,
+      "duration_ms": 16550
+    },
+    {
+      "word": "Porque en seis días hizo Jehová los cielos y la tierra, el mar, y todas las cosas que en ellos hay, y reposó en el séptimo día; por tanto, Jehová bendijo el día de reposo y lo santificó.",
+      "verse": 11,
+      "start_ms": 63400,
+      "end_ms": 75112,
+      "duration_ms": 11712
+    },
+    {
+      "word": "Honra a tu padre y a tu madre, para que tus días se alarguen en la tierra que Jehová tu Dios te da.",
+      "verse": 12,
+      "start_ms": 75112,
+      "end_ms": 80987,
+      "duration_ms": 5875
+    },
+    {
+      "word": "No matarás.",
+      "verse": 13,
+      "start_ms": 80987,
+      "end_ms": 82749,
+      "duration_ms": 1762
+    },
+    {
+      "word": "No cometerás adulterio.",
+      "verse": 14,
+      "start_ms": 82750,
+      "end_ms": 85062,
+      "duration_ms": 2312
+    },
+    {
+      "word": "No hurtarás.",
+      "verse": 15,
+      "start_ms": 85062,
+      "end_ms": 86924,
+      "duration_ms": 1862
+    },
+    {
+      "word": "No hablarás contra tu prójimo falso testimonio.",
+      "verse": 16,
+      "start_ms": 86925,
+      "end_ms": 90562,
+      "duration_ms": 3637
+    },
+    {
+      "word": "No codiciarás la casa de tu prójimo, no codiciarás la mujer de tu prójimo, ni su siervo, ni su criada, ni su buey, ni su asno, ni cosa alguna de tu prójimo.",
+      "verse": 17,
+      "start_ms": 90562,
+      "end_ms": 101099,
+      "duration_ms": 10537
+    },
+    {
+      "word": "El terror del pueblo (Dt 5.22–33) Todo el pueblo observaba el estruendo y los relámpagos, y el sonido de la bocina, y el monte que humeaba; y viéndolo el pueblo, temblaron, y se pusieron de lejos.",
+      "verse": 17,
+      "start_ms": 101100,
+      "end_ms": 115325,
+      "duration_ms": 14225
+    },
+    {
+      "word": "Y dijeron a Moisés: Habla tú con nosotros, y nosotros oiremos; pero no hable Dios con nosotros, para que no muramos.",
+      "verse": 19,
+      "start_ms": 115325,
+      "end_ms": 123712,
+      "duration_ms": 8387
+    },
+    {
+      "word": "Y Moisés respondió al pueblo: No temáis; porque para probaros vino Dios, y para que su temor esté delante de vosotros, para que no pequéis.",
+      "verse": 20,
+      "start_ms": 123712,
+      "end_ms": 132874,
+      "duration_ms": 9162
+    },
+    {
+      "word": "Entonces el pueblo estuvo a lo lejos, y Moisés se acercó a la oscuridad en la cual estaba Dios.",
+      "verse": 21,
+      "start_ms": 132875,
+      "end_ms": 138812,
+      "duration_ms": 5937
+    },
+    {
+      "word": "Y Jehová dijo a Moisés: Así dirás a los hijos de Israel: Vosotros habéis visto que he hablado desde el cielo con vosotros.",
+      "verse": 22,
+      "start_ms": 138812,
+      "end_ms": 146862,
+      "duration_ms": 8050
+    },
+    {
+      "word": "No hagáis conmigo dioses de plata, ni dioses de oro os haréis.",
+      "verse": 23,
+      "start_ms": 146862,
+      "end_ms": 151474,
+      "duration_ms": 4612
+    },
+    {
+      "word": "Altar de tierra harás para mí, y sacrificarás sobre él tus holocaustos y tus ofrendas de paz, tus ovejas y tus vacas; en todo lugar donde yo hiciere que esté la memoria de mi nombre, vendré a ti y te bendeciré.",
+      "verse": 24,
+      "start_ms": 151475,
+      "end_ms": 164225,
+      "duration_ms": 12750
+    },
+    {
+      "word": "Y si me hicieres altar de piedras, no las labres de cantería; porque si alzares herramienta sobre él, lo profanarás.",
+      "verse": 25,
+      "start_ms": 164225,
+      "end_ms": 171712,
+      "duration_ms": 7487
+    },
+    {
+      "word": "No subirás por gradas a mi altar, para que tu desnudez no se descubra junto a él.",
+      "verse": 26,
+      "start_ms": 171712,
+      "end_ms": 177062,
+      "duration_ms": 5350
+    }
+  ]
+}

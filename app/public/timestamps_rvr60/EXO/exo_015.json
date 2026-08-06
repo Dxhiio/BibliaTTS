@@ -1,0 +1,411 @@
+{
+  "book": "EXO",
+  "chapter": 15,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 27,
+  "word_count": 30,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 181,
+      "text": "Entonces cantó Moisés y los hijos de Israel este cántico a Jehová, y dijeron: Cantaré yo a Jehová, porque se ha magnificado grandemente; Ha echado en el mar al caballo y al jinete."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 181,
+      "char_end": 308,
+      "text": "Jehová es mi fortaleza y mi cántico, Y ha sido mi salvación. éste es mi Dios, y lo alabaré; Dios de mi padre, y lo enalteceré."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 308,
+      "char_end": 356,
+      "text": "Jehová es varón de guerra; Jehová es su nombre."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 356,
+      "char_end": 465,
+      "text": "Echó en el mar los carros de Faraón y su ejército; Y sus capitanes escogidos fueron hundidos en el Mar Rojo."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 465,
+      "char_end": 538,
+      "text": "Los abismos los cubrieron; Descendieron a las profundidades como piedra."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 538,
+      "char_end": 641,
+      "text": "Tu diestra, oh Jehová, ha sido magnificada en poder; Tu diestra, oh Jehová, ha quebrantado al enemigo."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 641,
+      "char_end": 768,
+      "text": "Y con la grandeza de tu poder has derribado a los que se levantaron contra ti. Enviaste tu ira; los consumió como a hojarasca."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 768,
+      "char_end": 905,
+      "text": "Al soplo de tu aliento se amontonaron las aguas; Se juntaron las corrientes como en un montón; Los abismos se cuajaron en medio del mar."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 905,
+      "char_end": 1034,
+      "text": "El enemigo dijo: Perseguiré, apresaré, repartiré despojos; Mi alma se saciará de ellos; Sacaré mi espada, los destruirá mi mano."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1034,
+      "char_end": 1126,
+      "text": "Soplaste con tu viento; los cubrió el mar; Se hundieron como plomo en las impetuosas aguas."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1126,
+      "char_end": 1266,
+      "text": "¿Quién como tú, oh Jehová, entre los dioses? ¿Quién como tú, magnífico en santidad, Terrible en maravillosas hazañas, hacedor de prodigios?"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1266,
+      "char_end": 1310,
+      "text": "Extendiste tu diestra; La tierra los tragó."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1310,
+      "char_end": 1413,
+      "text": "Condujiste en tu misericordia a este pueblo que redimiste; Lo llevaste con tu poder a tu santa morada."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1413,
+      "char_end": 1498,
+      "text": "Lo oirán los pueblos, y temblarán; Se apoderará dolor de la tierra de los filisteos."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1498,
+      "char_end": 1637,
+      "text": "Entonces los caudillos de Edom se turbarán; A los valientes de Moab les sobrecogerá temblor; Se acobardarán todos los moradores de Canaán."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1637,
+      "char_end": 1825,
+      "text": "Caiga sobre ellos temblor y espanto; A la grandeza de tu brazo enmudezcan como una piedra; Hasta que haya pasado tu pueblo, oh Jehová, Hasta que haya pasado este pueblo que tú rescataste."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1825,
+      "char_end": 2003,
+      "text": "Tú los introducirás y los plantarás en el monte de tu heredad, En el lugar de tu morada, que tú has preparado, oh Jehová, En el santuario que tus manos, oh Jehová, han afirmado."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2003,
+      "char_end": 2046,
+      "text": "Jehová reinará eternamente y para siempre."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2046,
+      "char_end": 2241,
+      "text": "Porque Faraón entró cabalgando con sus carros y su gente de a caballo en el mar, y Jehová hizo volver las aguas del mar sobre ellos; mas los hijos de Israel pasaron en seco por en medio del mar."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2241,
+      "char_end": 2376,
+      "text": "Y María la profetisa, hermana de Aarón, tomó un pandero en su mano, y todas las mujeres salieron en pos de ella con panderos y danzas."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2376,
+      "char_end": 2521,
+      "text": "Y María les respondía: Cantad a Jehová, porque en extremo se ha engrandecido; Ha echado en el mar al caballo y al jinete. El agua amarga de Mara"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2521,
+      "char_end": 2657,
+      "text": "E hizo Moisés que partiese Israel del Mar Rojo, y salieron al desierto de Shur; y anduvieron tres días por el desierto sin hallar agua."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2657,
+      "char_end": 2775,
+      "text": "Y llegaron a Mara, y no pudieron beber las aguas de Mara, porque eran amargas; por eso le pusieron el nombre de Mara."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2775,
+      "char_end": 2846,
+      "text": "Entonces el pueblo murmuró contra Moisés, y dijo: ¿Qué hemos de beber?"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2846,
+      "char_end": 3006,
+      "text": "Y Moisés clamó a Jehová, y Jehová le mostró un árbol; y lo echó en las aguas, y las aguas se endulzaron. Allí les dio estatutos y ordenanzas, y allí los probó;"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3006,
+      "char_end": 3271,
+      "text": "y dijo: Si oyeres atentamente la voz de Jehová tu Dios, e hicieres lo recto delante de sus ojos, y dieres oído a sus mandamientos, y guardares todos sus estatutos, ninguna enfermedad de las que envié a los egipcios te enviaré a ti; porque yo soy Jehová tu sanador."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3271,
+      "char_end": 3381,
+      "text": "Y llegaron a Elim, donde había doce fuentes de aguas, y setenta palmeras; y acamparon allí junto a las aguas."
+    }
+  ],
+  "words": [
+    {
+      "word": "Entonces cantó Moisés y los hijos de Israel este cántico a Jehová, y dijeron: Cantaré yo a Jehová, porque se ha magnificado grandemente; Ha echado en el mar al caballo y al jinete.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 11462,
+      "duration_ms": 11362
+    },
+    {
+      "word": "Jehová es mi fortaleza y mi cántico, Y ha sido mi salvación.",
+      "verse": 2,
+      "start_ms": 11412,
+      "end_ms": 15912,
+      "duration_ms": 4500
+    },
+    {
+      "word": "éste es mi Dios, y lo alabaré; Dios de mi padre, y lo enalteceré.",
+      "verse": 2,
+      "start_ms": 15912,
+      "end_ms": 21112,
+      "duration_ms": 5200
+    },
+    {
+      "word": "Jehová es varón de guerra; Jehová es su nombre.",
+      "verse": 3,
+      "start_ms": 21112,
+      "end_ms": 24462,
+      "duration_ms": 3350
+    },
+    {
+      "word": "Echó en el mar los carros de Faraón y su ejército; Y sus capitanes escogidos fueron hundidos en el Mar Rojo.",
+      "verse": 4,
+      "start_ms": 24462,
+      "end_ms": 31362,
+      "duration_ms": 6900
+    },
+    {
+      "word": "Los abismos los cubrieron; Descendieron a las profundidades como piedra.",
+      "verse": 5,
+      "start_ms": 31362,
+      "end_ms": 36149,
+      "duration_ms": 4787
+    },
+    {
+      "word": "Tu diestra, oh Jehová, ha sido magnificada en poder; Tu diestra, oh Jehová, ha quebrantado al enemigo.",
+      "verse": 6,
+      "start_ms": 36150,
+      "end_ms": 43837,
+      "duration_ms": 7687
+    },
+    {
+      "word": "Y con la grandeza de tu poder has derribado a los que se levantaron contra ti.",
+      "verse": 7,
+      "start_ms": 43837,
+      "end_ms": 48337,
+      "duration_ms": 4500
+    },
+    {
+      "word": "Enviaste tu ira; los consumió como a hojarasca.",
+      "verse": 7,
+      "start_ms": 48337,
+      "end_ms": 52199,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Al soplo de tu aliento se amontonaron las aguas; Se juntaron las corrientes como en un montón; Los abismos se cuajaron en medio del mar.",
+      "verse": 8,
+      "start_ms": 52200,
+      "end_ms": 60350,
+      "duration_ms": 8150
+    },
+    {
+      "word": "El enemigo dijo: Perseguiré, apresaré, repartiré despojos; Mi alma se saciará de ellos; Sacaré mi espada, los destruirá mi mano.",
+      "verse": 9,
+      "start_ms": 60350,
+      "end_ms": 70237,
+      "duration_ms": 9887
+    },
+    {
+      "word": "Soplaste con tu viento; los cubrió el mar; Se hundieron como plomo en las impetuosas aguas.",
+      "verse": 10,
+      "start_ms": 70237,
+      "end_ms": 76499,
+      "duration_ms": 6262
+    },
+    {
+      "word": "Quién como tú, oh Jehová, entre los dioses?",
+      "verse": 11,
+      "start_ms": 76500,
+      "end_ms": 80125,
+      "duration_ms": 3625
+    },
+    {
+      "word": "Quién como tú, magnífico en santidad, Terrible en maravillosas hazañas, hacedor de prodigios?",
+      "verse": 11,
+      "start_ms": 80125,
+      "end_ms": 86950,
+      "duration_ms": 6825
+    },
+    {
+      "word": "Extendiste tu diestra; La tierra los tragó.",
+      "verse": 12,
+      "start_ms": 86950,
+      "end_ms": 90462,
+      "duration_ms": 3512
+    },
+    {
+      "word": "Condujiste en tu misericordia a este pueblo que redimiste; Lo llevaste con tu poder a tu santa morada.",
+      "verse": 13,
+      "start_ms": 90462,
+      "end_ms": 96824,
+      "duration_ms": 6362
+    },
+    {
+      "word": "Lo oirán los pueblos, y temblarán; Se apoderará dolor de la tierra de los filisteos.",
+      "verse": 14,
+      "start_ms": 96825,
+      "end_ms": 102862,
+      "duration_ms": 6037
+    },
+    {
+      "word": "Entonces los caudillos de Edom se turbarán; A los valientes de Moab les sobrecogerá temblor; Se acobardarán todos los moradores de Canaán.",
+      "verse": 15,
+      "start_ms": 102862,
+      "end_ms": 111337,
+      "duration_ms": 8475
+    },
+    {
+      "word": "Caiga sobre ellos temblor y espanto; A la grandeza de tu brazo enmudezcan como una piedra; Hasta que haya pasado tu pueblo, oh Jehová, Hasta que haya pasado este pueblo que tú rescataste.",
+      "verse": 16,
+      "start_ms": 111337,
+      "end_ms": 122524,
+      "duration_ms": 11187
+    },
+    {
+      "word": "Tú los introducirás y los plantarás en el monte de tu heredad, En el lugar de tu morada, que tú has preparado, oh Jehová, En el santuario que tus manos, oh Jehová, han afirmado.",
+      "verse": 17,
+      "start_ms": 122525,
+      "end_ms": 133412,
+      "duration_ms": 10887
+    },
+    {
+      "word": "Jehová reinará eternamente y para siempre.",
+      "verse": 18,
+      "start_ms": 133412,
+      "end_ms": 136662,
+      "duration_ms": 3250
+    },
+    {
+      "word": "Porque Faraón entró cabalgando con sus carros y su gente de a caballo en el mar, y Jehová hizo volver las aguas del mar sobre ellos; mas los hijos de Israel pasaron en seco por en medio del mar.",
+      "verse": 19,
+      "start_ms": 136662,
+      "end_ms": 147699,
+      "duration_ms": 11037
+    },
+    {
+      "word": "Y María la profetisa, hermana de Aarón, tomó un pandero en su mano, y todas las mujeres salieron en pos de ella con panderos y danzas.",
+      "verse": 20,
+      "start_ms": 147700,
+      "end_ms": 156162,
+      "duration_ms": 8462
+    },
+    {
+      "word": "Y María les respondía: Cantad a Jehová, porque en extremo se ha engrandecido; Ha echado en el mar al caballo y al jinete.",
+      "verse": 21,
+      "start_ms": 156162,
+      "end_ms": 164049,
+      "duration_ms": 7887
+    },
+    {
+      "word": "El agua amarga de Mara E hizo Moisés que partiese Israel del Mar Rojo, y salieron al desierto de Shur; y anduvieron tres días por el desierto sin hallar agua.",
+      "verse": 21,
+      "start_ms": 164050,
+      "end_ms": 173475,
+      "duration_ms": 9425
+    },
+    {
+      "word": "Y llegaron a Mara, y no pudieron beber las aguas de Mara, porque eran amargas; por eso le pusieron el nombre de Mara.",
+      "verse": 23,
+      "start_ms": 173475,
+      "end_ms": 180837,
+      "duration_ms": 7362
+    },
+    {
+      "word": "Entonces el pueblo murmuró contra Moisés, y dijo: ¿Qué hemos de beber?",
+      "verse": 24,
+      "start_ms": 180837,
+      "end_ms": 186149,
+      "duration_ms": 5312
+    },
+    {
+      "word": "Y Moisés clamó a Jehová, y Jehová le mostró un árbol; y lo echó en las aguas, y las aguas se endulzaron.",
+      "verse": 25,
+      "start_ms": 186150,
+      "end_ms": 193100,
+      "duration_ms": 6950
+    },
+    {
+      "word": "Allí les dio estatutos y ordenanzas, y allí los probó; y dijo: Si oyeres atentamente la voz de Jehová tu Dios, e hicieres lo recto delante de sus ojos, y dieres oído a sus mandamientos, y guardares todos sus estatutos, ninguna enfermedad de las que envié a los egipcios te enviaré a ti; porque yo soy Jehová tu sanador.",
+      "verse": 25,
+      "start_ms": 193100,
+      "end_ms": 212700,
+      "duration_ms": 19600
+    },
+    {
+      "word": "Y llegaron a Elim, donde había doce fuentes de aguas, y setenta palmeras; y acamparon allí junto a las aguas.",
+      "verse": 27,
+      "start_ms": 212700,
+      "end_ms": 220212,
+      "duration_ms": 7512
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "book": "GEN",
+  "chapter": 10,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 32,
+  "word_count": 25,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 112,
+      "text": "Éstas son las generaciones de los hijos de Noé: Sem, Cam y Jafet, a quienes nacieron hijos después del diluvio."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 112,
+      "char_end": 182,
+      "text": "Los hijos de Jafet: Gomer, Magog, Madai, Javán, Tubal, Mesec y Tiras."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 182,
+      "char_end": 228,
+      "text": "Los hijos de Gomer: Askenaz, Rifat y Togarma."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 228,
+      "char_end": 281,
+      "text": "Los hijos de Javán: Elisa, Tarsis, Quitim y Dodanim."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 281,
+      "char_end": 382,
+      "text": "De éstos se poblaron las costas, cada cual según su lengua, conforme a sus familias en sus naciones."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 382,
+      "char_end": 428,
+      "text": "Los hijos de Cam: Cus, Mizraim, Fut y Canaán."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 428,
+      "char_end": 522,
+      "text": "Y los hijos de Cus: Seba, Havila, Sabta, Raama y Sabteca. Y los hijos de Raama: Seba y Dedán."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 522,
+      "char_end": 598,
+      "text": "Y Cus engendró a Nimrod, quien llegó a ser el primer poderoso en la tierra."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 598,
+      "char_end": 717,
+      "text": "Éste fue vigoroso cazador delante de Jehová; por lo cual se dice: Así como Nimrod, vigoroso cazador delante de Jehová."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 717,
+      "char_end": 797,
+      "text": "Y fue el comienzo de su reino Babel, Erec, Acad y Calne, en la tierra de Sinar."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 797,
+      "char_end": 864,
+      "text": "De esta tierra salió para Asiria, y edificó Nínive, Rehobot, Cala,"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 864,
+      "char_end": 919,
+      "text": "y Resén entre Nínive y Cala, la cual es ciudad grande."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 919,
+      "char_end": 978,
+      "text": "Mizraim engendró a Ludim, a Anamim, a Lehabim, a Naftuhim,"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 978,
+      "char_end": 1049,
+      "text": "a Patrusim, a Casluhim, de donde salieron los filisteos, y a Caftorim."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1049,
+      "char_end": 1098,
+      "text": "Y Canaán engendró a Sidón su primogénito, a Het,"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1098,
+      "char_end": 1135,
+      "text": "al jebuseo, al amorreo, al gergeseo,"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1135,
+      "char_end": 1166,
+      "text": "al heveo, al araceo, al sineo,"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1166,
+      "char_end": 1258,
+      "text": "al arvadeo, al zemareo y al hamateo; y después se dispersaron las familias de los cananeos."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1258,
+      "char_end": 1403,
+      "text": "Y fue el territorio de los cananeos desde Sidón, en dirección a Gerar, hasta Gaza; y en dirección de Sodoma, Gomorra, Adma y Zeboim, hasta Lasa."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1403,
+      "char_end": 1498,
+      "text": "Éstos son los hijos de Cam por sus familias, por sus lenguas, en sus tierras, en sus naciones."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1498,
+      "char_end": 1592,
+      "text": "También le nacieron hijos a Sem, padre de todos los hijos de Heber, y hermano mayor de Jafet."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1592,
+      "char_end": 1649,
+      "text": "Los hijos de Sem fueron Elam, Asur, Arfaxad, Lud y Aram."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1649,
+      "char_end": 1692,
+      "text": "Y los hijos de Aram: Uz, Hul, Geter y Mas."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1692,
+      "char_end": 1742,
+      "text": "Arfaxad engendró a Sala, y Sala engendró a Heber."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1742,
+      "char_end": 1880,
+      "text": "Y a Heber nacieron dos hijos: el nombre del uno fue Peleg, porque en sus días fue repartida la tierra; y el nombre de su hermano, Joctán."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 1880,
+      "char_end": 1935,
+      "text": "Y Joctán engendró a Almodad, Selef, Hazar-mavet, Jera,"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 1935,
+      "char_end": 1956,
+      "text": "Adoram, Uzal, Dicla,"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 1956,
+      "char_end": 1977,
+      "text": "Obal, Abimael, Seba,"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 1977,
+      "char_end": 2035,
+      "text": "Ofir, Havila y Jobab; todos estos fueron hijos de Joctán."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2035,
+      "char_end": 2141,
+      "text": "Y la tierra en que habitaron fue desde Mesa en dirección de Sefar, hasta la región montañosa del oriente."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2141,
+      "char_end": 2239,
+      "text": "Éstos fueron los hijos de Sem por sus familias, por sus lenguas, en sus tierras, en sus naciones."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2239,
+      "char_end": 2395,
+      "text": "Éstas son las familias de los hijos de Noé por sus descendencias, en sus naciones; y de éstos se esparcieron las naciones en la tierra después del diluvio."
+    }
+  ],
+  "words": [
+    {
+      "word": "Éstas son las generaciones de los hijos de Noé: Sem, Cam y Jafet, a quienes nacieron hijos después del diluvio.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7487,
+      "duration_ms": 7387
+    },
+    {
+      "word": "Los hijos de Jafet: Gomer, Magog, Madai, Javán, Tubal, Mesec y Tiras.",
+      "verse": 2,
+      "start_ms": 7437,
+      "end_ms": 14287,
+      "duration_ms": 6850
+    },
+    {
+      "word": "Los hijos de Gomer: Askenaz, Rifat y Togarma.",
+      "verse": 3,
+      "start_ms": 14287,
+      "end_ms": 18374,
+      "duration_ms": 4087
+    },
+    {
+      "word": "Los hijos de Javán: Elisa, Tarsis, Quitim y Dodanim.",
+      "verse": 4,
+      "start_ms": 18375,
+      "end_ms": 23087,
+      "duration_ms": 4712
+    },
+    {
+      "word": "De éstos se poblaron las costas, cada cual según su lengua, conforme a sus familias en sus naciones.",
+      "verse": 5,
+      "start_ms": 23087,
+      "end_ms": 29724,
+      "duration_ms": 6637
+    },
+    {
+      "word": "Los hijos de Cam: Cus, Mizraim, Fut y Canaán.",
+      "verse": 6,
+      "start_ms": 29725,
+      "end_ms": 34112,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Y los hijos de Cus: Seba, Havila, Sabta, Raama y Sabteca.",
+      "verse": 7,
+      "start_ms": 34112,
+      "end_ms": 39612,
+      "duration_ms": 5500
+    },
+    {
+      "word": "Y los hijos de Raama: Seba y Dedán.",
+      "verse": 7,
+      "start_ms": 39612,
+      "end_ms": 42837,
+      "duration_ms": 3225
+    },
+    {
+      "word": "Y Cus engendró a Nimrod, quien llegó a ser el primer poderoso en la tierra.",
+      "verse": 8,
+      "start_ms": 42837,
+      "end_ms": 47724,
+      "duration_ms": 4887
+    },
+    {
+      "word": "Éste fue vigoroso cazador delante de Jehová; por lo cual se dice: Así como Nimrod, vigoroso cazador delante de Jehová.",
+      "verse": 9,
+      "start_ms": 47725,
+      "end_ms": 55575,
+      "duration_ms": 7850
+    },
+    {
+      "word": "Y fue el comienzo de su reino Babel, Erec, Acad y Calne, en la tierra de Sinar.",
+      "verse": 10,
+      "start_ms": 55575,
+      "end_ms": 61287,
+      "duration_ms": 5712
+    },
+    {
+      "word": "De esta tierra salió para Asiria, y edificó Nínive, Rehobot, Cala, y Resén entre Nínive y Cala, la cual es ciudad grande.",
+      "verse": 11,
+      "start_ms": 61287,
+      "end_ms": 70262,
+      "duration_ms": 8975
+    },
+    {
+      "word": "Mizraim engendró a Ludim, a Anamim, a Lehabim, a Naftuhim, a Patrusim, a Casluhim, de donde salieron los filisteos, y a Caftorim.",
+      "verse": 13,
+      "start_ms": 70262,
+      "end_ms": 80149,
+      "duration_ms": 9887
+    },
+    {
+      "word": "Y Canaán engendró a Sidón su primogénito, a Het, al jebuseo, al amorreo, al gergeseo, al heveo, al araceo, al sineo, al arvadeo, al zemareo y al hamateo; y después se dispersaron las familias de los cananeos.",
+      "verse": 15,
+      "start_ms": 80150,
+      "end_ms": 95337,
+      "duration_ms": 15187
+    },
+    {
+      "word": "Y fue el territorio de los cananeos desde Sidón, en dirección a Gerar, hasta Gaza; y en dirección de Sodoma, Gomorra, Adma y Zeboim, hasta Lasa.",
+      "verse": 19,
+      "start_ms": 95337,
+      "end_ms": 105212,
+      "duration_ms": 9875
+    },
+    {
+      "word": "Éstos son los hijos de Cam por sus familias, por sus lenguas, en sus tierras, en sus naciones.",
+      "verse": 20,
+      "start_ms": 105212,
+      "end_ms": 111649,
+      "duration_ms": 6437
+    },
+    {
+      "word": "También le nacieron hijos a Sem, padre de todos los hijos de Heber, y hermano mayor de Jafet.",
+      "verse": 21,
+      "start_ms": 111650,
+      "end_ms": 117887,
+      "duration_ms": 6237
+    },
+    {
+      "word": "Los hijos de Sem fueron Elam, Asur, Arfaxad, Lud y Aram.",
+      "verse": 22,
+      "start_ms": 117887,
+      "end_ms": 122674,
+      "duration_ms": 4787
+    },
+    {
+      "word": "Y los hijos de Aram: Uz, Hul, Geter y Mas.",
+      "verse": 23,
+      "start_ms": 122675,
+      "end_ms": 127300,
+      "duration_ms": 4625
+    },
+    {
+      "word": "Arfaxad engendró a Sala, y Sala engendró a Heber.",
+      "verse": 24,
+      "start_ms": 127300,
+      "end_ms": 131525,
+      "duration_ms": 4225
+    },
+    {
+      "word": "Y a Heber nacieron dos hijos: el nombre del uno fue Peleg, porque en sus días fue repartida la tierra; y el nombre de su hermano, Joctán.",
+      "verse": 25,
+      "start_ms": 131525,
+      "end_ms": 140475,
+      "duration_ms": 8950
+    },
+    {
+      "word": "Y Joctán engendró a Almodad, Selef, Hazar-mavet, Jera, Adoram, Uzal, Dicla, Obal, Abimael, Seba, Ofir, Havila y Jobab; todos estos fueron hijos de Joctán.",
+      "verse": 26,
+      "start_ms": 140475,
+      "end_ms": 153487,
+      "duration_ms": 13012
+    },
+    {
+      "word": "Y la tierra en que habitaron fue desde Mesa en dirección de Sefar, hasta la región montañosa del oriente.",
+      "verse": 30,
+      "start_ms": 153487,
+      "end_ms": 159762,
+      "duration_ms": 6275
+    },
+    {
+      "word": "Éstos fueron los hijos de Sem por sus familias, por sus lenguas, en sus tierras, en sus naciones.",
+      "verse": 31,
+      "start_ms": 159762,
+      "end_ms": 166312,
+      "duration_ms": 6550
+    },
+    {
+      "word": "Éstas son las familias de los hijos de Noé por sus descendencias, en sus naciones; y de éstos se esparcieron las naciones en la tierra después del diluvio.",
+      "verse": 32,
+      "start_ms": 166312,
+      "end_ms": 175124,
+      "duration_ms": 8812
+    }
+  ]
+}

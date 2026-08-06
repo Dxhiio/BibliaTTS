@@ -1,0 +1,579 @@
+{
+  "book": "GEN",
+  "chapter": 36,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 43,
+  "word_count": 38,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 53,
+      "text": "Éstas son las generaciones de Esaú, el cual es Edom:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 53,
+      "char_end": 174,
+      "text": "Esaú tomó sus mujeres de las hijas de Canaán: a Ada, hija de Elón heteo, a Aholibama, hija de Aná, hijo de Zibeón heveo,"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 174,
+      "char_end": 222,
+      "text": "y a Basemat hija de Ismael, hermana de Nebaiot."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 222,
+      "char_end": 282,
+      "text": "Ada dio a luz a Esaú a Elifaz; y Basemat dio a luz a Reuel."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 282,
+      "char_end": 400,
+      "text": "Y Aholibama dio a luz a Jeús, a Jaalam y a Coré; éstos son los hijos de Esaú, que le nacieron en la tierra de Canaán."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 400,
+      "char_end": 628,
+      "text": "Y Esaú tomó sus mujeres, sus hijos y sus hijas, y todas las personas de su casa, y sus ganados, y todas sus bestias, y todo cuanto había adquirido en la tierra de Canaán, y se fue a otra tierra, separándose de Jacob su hermano."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 628,
+      "char_end": 769,
+      "text": "Porque los bienes de ellos eran muchos; y no podían habitar juntos, ni la tierra en donde moraban los podía sostener a causa de sus ganados."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 769,
+      "char_end": 818,
+      "text": "Y Esaú habitó en el monte de Seir; Esaú es Edom."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 818,
+      "char_end": 885,
+      "text": "Éstos son los linajes de Esaú, padre de Edom, en el monte de Seir."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 885,
+      "char_end": 1002,
+      "text": "Éstos son los nombres de los hijos de Esaú: Elifaz, hijo de Ada mujer de Esaú; Reuel, hijo de Basemat mujer de Esaú."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1002,
+      "char_end": 1065,
+      "text": "Y los hijos de Elifaz fueron Temán, Omar, Zefo, Gatam y Cenaz."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1065,
+      "char_end": 1184,
+      "text": "Y Timna fue concubina de Elifaz hijo de Esaú, y ella le dio a luz a Amalec; éstos son los hijos de Ada, mujer de Esaú."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1184,
+      "char_end": 1282,
+      "text": "Los hijos de Reuel fueron Nahat, Zera, Sama y Miza; éstos son los hijos de Basemat mujer de Esaú."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1282,
+      "char_end": 1423,
+      "text": "Éstos fueron los hijos de Aholibama mujer de Esaú, hija de Aná, que fue hijo de Zibeón: ella dio a luz a Jeús, Jaalam y Coré, hijos de Esaú."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1423,
+      "char_end": 1545,
+      "text": "Éstos son los jefes de entre los hijos de Esaú: hijos de Elifaz, primogénito de Esaú: los jefes Temán, Omar, Zefo, Cenaz,"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1545,
+      "char_end": 1650,
+      "text": "Coré, Gatam y Amalec; éstos son los jefes de Elifaz en la tierra de Edom; éstos fueron los hijos de Ada."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1650,
+      "char_end": 1840,
+      "text": "Y éstos son los hijos de Reuel, hijo de Esaú: los jefes Nahat, Zera, Sama y Miza; éstos son los jefes de la línea de Reuel en la tierra de Edom; estos hijos vienen de Basemat mujer de Esaú."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1840,
+      "char_end": 1998,
+      "text": "Y éstos son los hijos de Aholibama mujer de Esaú: los jefes Jeús, Jaalam y Coré; éstos fueron los jefes que salieron de Aholibama mujer de Esaú, hija de Aná."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1998,
+      "char_end": 2059,
+      "text": "Éstos, pues, son los hijos de Esaú, y sus jefes; él es Edom."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2059,
+      "char_end": 2150,
+      "text": "Éstos son los hijos de Seir horeo, moradores de aquella tierra: Lotán, Sobal, Zibeón, Aná,"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2150,
+      "char_end": 2243,
+      "text": "Disón, Ezer y Disán; éstos son los jefes de los horeos, hijos de Seir, en la tierra de Edom."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2243,
+      "char_end": 2313,
+      "text": "Los hijos de Lotán fueron Hori y Hemam; y Timna fue hermana de Lotán."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2313,
+      "char_end": 2374,
+      "text": "Los hijos de Sobal fueron Alván, Manahat, Ebal, Sefo y Onam."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2374,
+      "char_end": 2519,
+      "text": "Y los hijos de Zibeón fueron Aja y Aná. Este Aná es el que descubrió manantiales en el desierto, cuando apacentaba los asnos de Zibeón su padre."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2519,
+      "char_end": 2575,
+      "text": "Los hijos de Aná fueron Disón, y Aholibama hija de Aná."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2575,
+      "char_end": 2639,
+      "text": "Éstos fueron los hijos de Disón: Hemdán, Esbán, Itrán y Querán."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2639,
+      "char_end": 2696,
+      "text": "Y éstos fueron los hijos de Ezer: Bilhán, Zaaván y Acán."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2696,
+      "char_end": 2740,
+      "text": "Éstos fueron los hijos de Disán: Uz y Arán."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2740,
+      "char_end": 2817,
+      "text": "Y éstos fueron los jefes de los horeos: los jefes Lotán, Sobal, Zibeón, Aná,"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2817,
+      "char_end": 2913,
+      "text": "Disón, Ezer y Disán; éstos fueron los jefes de los horeos, por sus mandos en la tierra de Seir."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2913,
+      "char_end": 3023,
+      "text": "Y los reyes que reinaron en la tierra de Edom, antes que reinase rey sobre los hijos de Israel, fueron éstos:"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3023,
+      "char_end": 3093,
+      "text": "Bela hijo de Beor reinó en Edom; y el nombre de su ciudad fue Dinaba."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3093,
+      "char_end": 3155,
+      "text": "Murió Bela, y reinó en su lugar Jobab hijo de Zera, de Bosra."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3155,
+      "char_end": 3215,
+      "text": "Murió Jobab, y en su lugar reinó Husam, de tierra de Temán."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3215,
+      "char_end": 3349,
+      "text": "Murió Husam, y reinó en su lugar Hadad hijo de Bedad, el que derrotó a Madián en el campo de Moab; y el nombre de su ciudad fue Avit."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3349,
+      "char_end": 3400,
+      "text": "Murió Hadad, y en su lugar reinó Samla de Masreca."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3400,
+      "char_end": 3468,
+      "text": "Murió Samla, y reinó en su lugar Saúl de Rehobot junto al éufrates."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 3468,
+      "char_end": 3528,
+      "text": "Murió Saúl, y en lugar suyo reinó Baal-hanán hijo de Acbor."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 3528,
+      "char_end": 3692,
+      "text": "Y murió Baal-hanán hijo de Acbor, y reinó Hadar en lugar suyo; y el nombre de su ciudad fue Pau; y el nombre de su mujer, Mehetabel hija de Matred, hija de Mezaab."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 3692,
+      "char_end": 3811,
+      "text": "Éstos, pues, son los nombres de los jefes de Esaú por sus linajes, por sus lugares, y sus nombres: Timna, Alva, Jetet,"
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 3811,
+      "char_end": 3834,
+      "text": "Aholibama, Ela, Pinón,"
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 3834,
+      "char_end": 3856,
+      "text": "Cenaz, Temán, Mibzar,"
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 3856,
+      "char_end": 3996,
+      "text": "Magdiel e Iram. éstos fueron los jefes de Edom según sus moradas en la tierra de su posesión. Edom es el mismo Esaú, padre de los edomitas."
+    }
+  ],
+  "words": [
+    {
+      "word": "Éstas son las generaciones de Esaú, el cual es Edom: Esaú tomó sus mujeres de las hijas de Canaán: a Ada, hija de Elón heteo, a Aholibama, hija de Aná, hijo de Zibeón heveo, y a Basemat hija de Ismael, hermana de Nebaiot.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 14575,
+      "duration_ms": 14475
+    },
+    {
+      "word": "Ada dio a luz a Esaú a Elifaz; y Basemat dio a luz a Reuel.",
+      "verse": 4,
+      "start_ms": 14575,
+      "end_ms": 19300,
+      "duration_ms": 4725
+    },
+    {
+      "word": "Y Aholibama dio a luz a Jeús, a Jaalam y a Coré; éstos son los hijos de Esaú, que le nacieron en la tierra de Canaán.",
+      "verse": 5,
+      "start_ms": 19300,
+      "end_ms": 27012,
+      "duration_ms": 7712
+    },
+    {
+      "word": "Y Esaú tomó sus mujeres, sus hijos y sus hijas, y todas las personas de su casa, y sus ganados, y todas sus bestias, y todo cuanto había adquirido en la tierra de Canaán, y se fue a otra tierra, separándose de Jacob su hermano.",
+      "verse": 6,
+      "start_ms": 27012,
+      "end_ms": 41699,
+      "duration_ms": 14687
+    },
+    {
+      "word": "Porque los bienes de ellos eran muchos; y no podían habitar juntos, ni la tierra en donde moraban los podía sostener a causa de sus ganados.",
+      "verse": 7,
+      "start_ms": 41700,
+      "end_ms": 50425,
+      "duration_ms": 8725
+    },
+    {
+      "word": "Y Esaú habitó en el monte de Seir; Esaú es Edom.",
+      "verse": 8,
+      "start_ms": 50425,
+      "end_ms": 54500,
+      "duration_ms": 4075
+    },
+    {
+      "word": "Éstos son los linajes de Esaú, padre de Edom, en el monte de Seir.",
+      "verse": 9,
+      "start_ms": 54500,
+      "end_ms": 59000,
+      "duration_ms": 4500
+    },
+    {
+      "word": "Éstos son los nombres de los hijos de Esaú: Elifaz, hijo de Ada mujer de Esaú; Reuel, hijo de Basemat mujer de Esaú.",
+      "verse": 10,
+      "start_ms": 59000,
+      "end_ms": 67175,
+      "duration_ms": 8175
+    },
+    {
+      "word": "Y los hijos de Elifaz fueron Temán, Omar, Zefo, Gatam y Cenaz.",
+      "verse": 11,
+      "start_ms": 67175,
+      "end_ms": 72475,
+      "duration_ms": 5300
+    },
+    {
+      "word": "Y Timna fue concubina de Elifaz hijo de Esaú, y ella le dio a luz a Amalec; éstos son los hijos de Ada, mujer de Esaú.",
+      "verse": 12,
+      "start_ms": 72475,
+      "end_ms": 80362,
+      "duration_ms": 7887
+    },
+    {
+      "word": "Los hijos de Reuel fueron Nahat, Zera, Sama y Miza; éstos son los hijos de Basemat mujer de Esaú.",
+      "verse": 13,
+      "start_ms": 80362,
+      "end_ms": 87237,
+      "duration_ms": 6875
+    },
+    {
+      "word": "Éstos fueron los hijos de Aholibama mujer de Esaú, hija de Aná, que fue hijo de Zibeón: ella dio a luz a Jeús, Jaalam y Coré, hijos de Esaú.",
+      "verse": 14,
+      "start_ms": 87237,
+      "end_ms": 96674,
+      "duration_ms": 9437
+    },
+    {
+      "word": "Éstos son los jefes de entre los hijos de Esaú: hijos de Elifaz, primogénito de Esaú: los jefes Temán, Omar, Zefo, Cenaz, Coré, Gatam y Amalec; éstos son los jefes de Elifaz en la tierra de Edom; éstos fueron los hijos de Ada.",
+      "verse": 15,
+      "start_ms": 96675,
+      "end_ms": 111987,
+      "duration_ms": 15312
+    },
+    {
+      "word": "Y éstos son los hijos de Reuel, hijo de Esaú: los jefes Nahat, Zera, Sama y Miza; éstos son los jefes de la línea de Reuel en la tierra de Edom; estos hijos vienen de Basemat mujer de Esaú.",
+      "verse": 17,
+      "start_ms": 111987,
+      "end_ms": 124099,
+      "duration_ms": 12112
+    },
+    {
+      "word": "Y éstos son los hijos de Aholibama mujer de Esaú: los jefes Jeús, Jaalam y Coré; éstos fueron los jefes que salieron de Aholibama mujer de Esaú, hija de Aná.",
+      "verse": 18,
+      "start_ms": 124100,
+      "end_ms": 133912,
+      "duration_ms": 9812
+    },
+    {
+      "word": "Éstos, pues, son los hijos de Esaú, y sus jefes; él es Edom.",
+      "verse": 19,
+      "start_ms": 133912,
+      "end_ms": 139199,
+      "duration_ms": 5287
+    },
+    {
+      "word": "Éstos son los hijos de Seir horeo, moradores de aquella tierra: Lotán, Sobal, Zibeón, Aná, Disón, Ezer y Disán; éstos son los jefes de los horeos, hijos de Seir, en la tierra de Edom.",
+      "verse": 20,
+      "start_ms": 139200,
+      "end_ms": 152037,
+      "duration_ms": 12837
+    },
+    {
+      "word": "Los hijos de Lotán fueron Hori y Hemam; y Timna fue hermana de Lotán.",
+      "verse": 22,
+      "start_ms": 152037,
+      "end_ms": 156862,
+      "duration_ms": 4825
+    },
+    {
+      "word": "Los hijos de Sobal fueron Alván, Manahat, Ebal, Sefo y Onam.",
+      "verse": 23,
+      "start_ms": 156862,
+      "end_ms": 161874,
+      "duration_ms": 5012
+    },
+    {
+      "word": "Y los hijos de Zibeón fueron Aja y Aná.",
+      "verse": 24,
+      "start_ms": 161875,
+      "end_ms": 164837,
+      "duration_ms": 2962
+    },
+    {
+      "word": "Este Aná es el que descubrió manantiales en el desierto, cuando apacentaba los asnos de Zibeón su padre.",
+      "verse": 24,
+      "start_ms": 164837,
+      "end_ms": 171212,
+      "duration_ms": 6375
+    },
+    {
+      "word": "Los hijos de Aná fueron Disón, y Aholibama hija de Aná.",
+      "verse": 25,
+      "start_ms": 171212,
+      "end_ms": 175224,
+      "duration_ms": 4012
+    },
+    {
+      "word": "Éstos fueron los hijos de Disón: Hemdán, Esbán, Itrán y Querán.",
+      "verse": 26,
+      "start_ms": 175225,
+      "end_ms": 180325,
+      "duration_ms": 5100
+    },
+    {
+      "word": "Y éstos fueron los hijos de Ezer: Bilhán, Zaaván y Acán.",
+      "verse": 27,
+      "start_ms": 180325,
+      "end_ms": 184775,
+      "duration_ms": 4450
+    },
+    {
+      "word": "Éstos fueron los hijos de Disán: Uz y Arán.",
+      "verse": 28,
+      "start_ms": 184775,
+      "end_ms": 188100,
+      "duration_ms": 3325
+    },
+    {
+      "word": "Y éstos fueron los jefes de los horeos: los jefes Lotán, Sobal, Zibeón, Aná, Disón, Ezer y Disán; éstos fueron los jefes de los horeos, por sus mandos en la tierra de Seir.",
+      "verse": 29,
+      "start_ms": 188100,
+      "end_ms": 200125,
+      "duration_ms": 12025
+    },
+    {
+      "word": "Y los reyes que reinaron en la tierra de Edom, antes que reinase rey sobre los hijos de Israel, fueron éstos: Bela hijo de Beor reinó en Edom; y el nombre de su ciudad fue Dinaba.",
+      "verse": 31,
+      "start_ms": 200125,
+      "end_ms": 211112,
+      "duration_ms": 10987
+    },
+    {
+      "word": "Murió Bela, y reinó en su lugar Jobab hijo de Zera, de Bosra.",
+      "verse": 33,
+      "start_ms": 211112,
+      "end_ms": 216012,
+      "duration_ms": 4900
+    },
+    {
+      "word": "Murió Jobab, y en su lugar reinó Husam, de tierra de Temán.",
+      "verse": 34,
+      "start_ms": 216012,
+      "end_ms": 220787,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Murió Husam, y reinó en su lugar Hadad hijo de Bedad, el que derrotó a Madián en el campo de Moab; y el nombre de su ciudad fue Avit.",
+      "verse": 35,
+      "start_ms": 220787,
+      "end_ms": 229462,
+      "duration_ms": 8675
+    },
+    {
+      "word": "Murió Hadad, y en su lugar reinó Samla de Masreca.",
+      "verse": 36,
+      "start_ms": 229462,
+      "end_ms": 233574,
+      "duration_ms": 4112
+    },
+    {
+      "word": "Murió Samla, y reinó en su lugar Saúl de Rehobot junto al éufrates.",
+      "verse": 37,
+      "start_ms": 233575,
+      "end_ms": 238650,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Murió Saúl, y en lugar suyo reinó Baal-hanán hijo de Acbor.",
+      "verse": 38,
+      "start_ms": 238650,
+      "end_ms": 243262,
+      "duration_ms": 4612
+    },
+    {
+      "word": "Y murió Baal-hanán hijo de Acbor, y reinó Hadar en lugar suyo; y el nombre de su ciudad fue Pau; y el nombre de su mujer, Mehetabel hija de Matred, hija de Mezaab.",
+      "verse": 39,
+      "start_ms": 243262,
+      "end_ms": 253812,
+      "duration_ms": 10550
+    },
+    {
+      "word": "Éstos, pues, son los nombres de los jefes de Esaú por sus linajes, por sus lugares, y sus nombres: Timna, Alva, Jetet, Aholibama, Ela, Pinón, Cenaz, Temán, Mibzar, Magdiel e Iram.",
+      "verse": 40,
+      "start_ms": 253812,
+      "end_ms": 268374,
+      "duration_ms": 14562
+    },
+    {
+      "word": "éstos fueron los jefes de Edom según sus moradas en la tierra de su posesión.",
+      "verse": 43,
+      "start_ms": 268375,
+      "end_ms": 273125,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Edom es el",
+      "verse": 43,
+      "start_ms": 273125,
+      "end_ms": 274750,
+      "duration_ms": 1625
+    },
+    {
+      "word": "mismo Esaú, padre de los edomitas.",
+      "verse": 43,
+      "start_ms": 274900,
+      "end_ms": 278150,
+      "duration_ms": 3250
+    }
+  ]
+}

@@ -1,0 +1,551 @@
+{
+  "book": "GEN",
+  "chapter": 37,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 36,
+  "word_count": 41,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 79,
+      "text": "Habitó Jacob en la tierra donde había morado su padre, en la tierra de Canaán."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 79,
+      "char_end": 343,
+      "text": "Ésta es la historia de la familia de Jacob: José, siendo de edad de diecisiete años, apacentaba las ovejas con sus hermanos; y el joven estaba con los hijos de Bilha y con los hijos de Zilpa, mujeres de su padre; e informaba José a su padre la mala fama de ellos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 343,
+      "char_end": 470,
+      "text": "Y amaba Israel a José más que a todos sus hijos, porque lo había tenido en su vejez; y le hizo una túnica de diversos colores."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 470,
+      "char_end": 595,
+      "text": "Y viendo sus hermanos que su padre lo amaba más que a todos sus hermanos, le aborrecían, y no podían hablarle pacíficamente."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 595,
+      "char_end": 688,
+      "text": "Y soñó José un sueño, y lo contó a sus hermanos; y ellos llegaron a aborrecerle más todavía."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 688,
+      "char_end": 739,
+      "text": "Y él les dijo: Oíd ahora este sueño que he soñado:"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 739,
+      "char_end": 908,
+      "text": "He aquí que atábamos manojos en medio del campo, y he aquí que mi manojo se levantaba y estaba derecho, y que vuestros manojos estaban alrededor y se inclinaban al mío."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 908,
+      "char_end": 1060,
+      "text": "Le respondieron sus hermanos: ¿Reinarás tú sobre nosotros, o señorearás sobre nosotros? Y le aborrecieron aún más a causa de sus sueños y sus palabras."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1060,
+      "char_end": 1220,
+      "text": "Soñó aún otro sueño, y lo contó a sus hermanos, diciendo: He aquí que he soñado otro sueño, y he aquí que el sol y la luna y once estrellas se inclinaban a mí."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1220,
+      "char_end": 1406,
+      "text": "Y lo contó a su padre y a sus hermanos; y su padre le reprendió, y le dijo: ¿Qué sueño es este que soñaste? ¿Acaso vendremos yo y tu madre y tus hermanos a postrarnos en tierra ante ti?"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1406,
+      "char_end": 1471,
+      "text": "Y sus hermanos le tenían envidia, mas su padre meditaba en esto."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1471,
+      "char_end": 1545,
+      "text": "Después fueron sus hermanos a apacentar las ovejas de su padre en Siquem."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1545,
+      "char_end": 1667,
+      "text": "Y dijo Israel a José: Tus hermanos apacientan las ovejas en Siquem: ven, y te enviaré a ellos. Y él respondió: Heme aquí."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1667,
+      "char_end": 1822,
+      "text": "E Israel le dijo: Ve ahora, mira cómo están tus hermanos y cómo están las ovejas, y tráeme la respuesta. Y lo envió del valle de Hebrón, y llegó a Siquem."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1822,
+      "char_end": 1928,
+      "text": "Y lo halló un hombre, andando él errante por el campo, y le preguntó aquel hombre, diciendo: ¿Qué buscas?"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1928,
+      "char_end": 2016,
+      "text": "José respondió: Busco a mis hermanos; te ruego que me muestres dónde están apacentando."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2016,
+      "char_end": 2159,
+      "text": "Aquel hombre respondió: Ya se han ido de aquí; y yo les oí decir: Vamos a Dotán. Entonces José fue tras de sus hermanos, y los halló en Dotán."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2159,
+      "char_end": 2262,
+      "text": "Cuando ellos lo vieron de lejos, antes que llegara cerca de ellos, conspiraron contra él para matarle."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2262,
+      "char_end": 2314,
+      "text": "Y dijeron el uno al otro: He aquí viene el soñador."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2314,
+      "char_end": 2449,
+      "text": "Ahora pues, venid, y matémosle y echémosle en una cisterna, y diremos: Alguna mala bestia lo devoró; y veremos qué será de sus sueños."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2449,
+      "char_end": 2518,
+      "text": "Cuando Rubén oyó esto, lo libró de sus manos, y dijo: No lo matemos."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2518,
+      "char_end": 2695,
+      "text": "Y les dijo Rubén: No derraméis sangre; echadlo en esta cisterna que está en el desierto, y no pongáis mano en él; por librarlo así de sus manos, para hacerlo volver a su padre."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2695,
+      "char_end": 2822,
+      "text": "Sucedió, pues, que cuando llegó José a sus hermanos, ellos quitaron a José su túnica, la túnica de colores que tenía sobre sí;"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2822,
+      "char_end": 2918,
+      "text": "y le tomaron y le echaron en la cisterna; pero la cisterna estaba vacía, no había en ella agua."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2918,
+      "char_end": 3106,
+      "text": "Y se sentaron a comer pan; y alzando los ojos miraron, y he aquí una compañía de ismaelitas que venía de Galaad, y sus camellos traían aromas, bálsamo y mirra, e iban a llevarlo a Egipto."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3106,
+      "char_end": 3216,
+      "text": "Entonces Judá dijo a sus hermanos: ¿Qué provecho hay en que matemos a nuestro hermano y encubramos su muerte?"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3216,
+      "char_end": 3373,
+      "text": "Venid, y vendámosle a los ismaelitas, y no sea nuestra mano sobre él; porque él es nuestro hermano, nuestra propia carne. Y sus hermanos convinieron con él."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3373,
+      "char_end": 3564,
+      "text": "Y cuando pasaban los madianitas mercaderes, sacaron ellos a José de la cisterna, y le trajeron arriba, y le vendieron a los ismaelitas por veinte piezas de plata. Y llevaron a José a Egipto."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3564,
+      "char_end": 3652,
+      "text": "Después Rubén volvió a la cisterna, y no halló a José adentro, y se rasgó los vestidos."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3652,
+      "char_end": 3726,
+      "text": "Y volvió a sus hermanos, y dijo: El joven no aparece; y yo, ¿a dónde iré?"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3726,
+      "char_end": 3842,
+      "text": "Entonces tomaron ellos la túnica de José, y degollaron un cabrito de las cabras, y tiñeron la túnica con la sangre;"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3842,
+      "char_end": 3980,
+      "text": "y enviaron la túnica de colores y la trajeron a su padre, y dijeron: Esto hemos hallado; reconoce ahora si es la túnica de tu hijo, o no."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3980,
+      "char_end": 4088,
+      "text": "Y él la reconoció, y dijo: La túnica de mi hijo es; alguna mala bestia lo devoró; José ha sido despedazado."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4088,
+      "char_end": 4194,
+      "text": "Entonces Jacob rasgó sus vestidos, y puso cilicio sobre sus lomos, y guardó luto por su hijo muchos días."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4194,
+      "char_end": 4369,
+      "text": "Y se levantaron todos sus hijos y todas sus hijas para consolarlo; mas él no quiso recibir consuelo, y dijo: Descenderé enlutado a mi hijo hasta el Seol. Y lo lloró su padre."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4369,
+      "char_end": 4462,
+      "text": "Y los madianitas lo vendieron en Egipto a Potifar, oficial de Faraón, capitán de la guardia."
+    }
+  ],
+  "words": [
+    {
+      "word": "Habitó Jacob en la tierra donde había morado su padre, en la tierra de Canaán.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5250,
+      "duration_ms": 5150
+    },
+    {
+      "word": "Ésta es la historia de la familia de Jacob: José, siendo de edad de diecisiete años, apacentaba las ovejas con sus hermanos; y el joven estaba con los hijos de Bilha y con los hijos de Zilpa, mujeres de su padre; e informaba José a su padre la mala fama de ellos.",
+      "verse": 2,
+      "start_ms": 5200,
+      "end_ms": 21125,
+      "duration_ms": 15925
+    },
+    {
+      "word": "Y amaba Israel a José más que a todos sus hijos, porque lo había tenido en su vejez; y le hizo una túnica de diversos colores.",
+      "verse": 3,
+      "start_ms": 21125,
+      "end_ms": 29350,
+      "duration_ms": 8225
+    },
+    {
+      "word": "Y viendo sus hermanos que su padre lo amaba más que a todos sus hermanos, le aborrecían, y no podían hablarle pacíficamente.",
+      "verse": 4,
+      "start_ms": 29350,
+      "end_ms": 37112,
+      "duration_ms": 7762
+    },
+    {
+      "word": "Y soñó José un sueño, y lo contó a sus hermanos; y ellos llegaron a aborrecerle más todavía.",
+      "verse": 5,
+      "start_ms": 37112,
+      "end_ms": 43574,
+      "duration_ms": 6462
+    },
+    {
+      "word": "Y él les dijo: Oíd ahora este sueño que he soñado: He aquí que atábamos manojos en medio del campo, y he aquí que mi manojo se levantaba y estaba derecho, y que vuestros manojos estaban alrededor y se inclinaban al mío.",
+      "verse": 6,
+      "start_ms": 43575,
+      "end_ms": 56787,
+      "duration_ms": 13212
+    },
+    {
+      "word": "Le respondieron sus hermanos: ¿Reinarás tú sobre nosotros, o señorearás sobre nosotros?",
+      "verse": 8,
+      "start_ms": 56787,
+      "end_ms": 62899,
+      "duration_ms": 6112
+    },
+    {
+      "word": "Y le aborrecieron aún más a causa de sus sueños y sus palabras.",
+      "verse": 8,
+      "start_ms": 62900,
+      "end_ms": 67175,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Soñó aún otro sueño, y lo contó a sus hermanos, diciendo: He aquí que he soñado otro sueño, y he aquí que el sol y la luna y once estrellas se inclinaban a mí.",
+      "verse": 9,
+      "start_ms": 67175,
+      "end_ms": 77462,
+      "duration_ms": 10287
+    },
+    {
+      "word": "Y lo contó a su padre y a sus hermanos; y su padre le reprendió, y le dijo: ¿Qué sueño es este que soñaste?",
+      "verse": 10,
+      "start_ms": 77462,
+      "end_ms": 84799,
+      "duration_ms": 7337
+    },
+    {
+      "word": "Acaso vendremos yo y tu madre y tus hermanos a postrarnos en tierra ante ti?",
+      "verse": 10,
+      "start_ms": 84800,
+      "end_ms": 89762,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Y sus hermanos le tenían envidia, mas su padre meditaba en esto.",
+      "verse": 11,
+      "start_ms": 89762,
+      "end_ms": 94487,
+      "duration_ms": 4725
+    },
+    {
+      "word": "Después fueron sus hermanos a apacentar las ovejas de su padre en Siquem.",
+      "verse": 12,
+      "start_ms": 94487,
+      "end_ms": 99062,
+      "duration_ms": 4575
+    },
+    {
+      "word": "Y dijo Israel a José: Tus hermanos apacientan las ovejas en Siquem: ven, y te enviaré a ellos.",
+      "verse": 13,
+      "start_ms": 99062,
+      "end_ms": 106012,
+      "duration_ms": 6950
+    },
+    {
+      "word": "Y él respondió: Heme aquí.",
+      "verse": 13,
+      "start_ms": 106012,
+      "end_ms": 108624,
+      "duration_ms": 2612
+    },
+    {
+      "word": "E Israel le dijo: Ve ahora, mira cómo están tus hermanos y cómo están las ovejas, y tráeme la respuesta.",
+      "verse": 14,
+      "start_ms": 108625,
+      "end_ms": 116100,
+      "duration_ms": 7475
+    },
+    {
+      "word": "Y lo envió del valle de Hebrón, y llegó a Siquem.",
+      "verse": 14,
+      "start_ms": 116100,
+      "end_ms": 119575,
+      "duration_ms": 3475
+    },
+    {
+      "word": "Y lo halló un hombre, andando él errante por el campo, y le preguntó aquel hombre, diciendo: ¿Qué buscas?",
+      "verse": 15,
+      "start_ms": 119575,
+      "end_ms": 126375,
+      "duration_ms": 6800
+    },
+    {
+      "word": "José respondió: Busco a mis hermanos; te ruego que me muestres dónde están apacentando.",
+      "verse": 16,
+      "start_ms": 126375,
+      "end_ms": 132475,
+      "duration_ms": 6100
+    },
+    {
+      "word": "Aquel hombre respondió: Ya se han ido de aquí; y yo les oí decir: Vamos a Dotán.",
+      "verse": 17,
+      "start_ms": 132475,
+      "end_ms": 138650,
+      "duration_ms": 6175
+    },
+    {
+      "word": "Entonces José fue tras de sus hermanos, y los halló en Dotán.",
+      "verse": 17,
+      "start_ms": 138650,
+      "end_ms": 143025,
+      "duration_ms": 4375
+    },
+    {
+      "word": "Cuando ellos lo vieron de lejos, antes que llegara cerca de ellos, conspiraron contra él para matarle.",
+      "verse": 18,
+      "start_ms": 143025,
+      "end_ms": 149350,
+      "duration_ms": 6325
+    },
+    {
+      "word": "Y dijeron el uno al otro: He aquí viene el soñador.",
+      "verse": 19,
+      "start_ms": 149350,
+      "end_ms": 153387,
+      "duration_ms": 4037
+    },
+    {
+      "word": "Ahora pues, venid, y matémosle y echémosle en una cisterna, y diremos: Alguna mala bestia lo devoró; y veremos qué será de sus sueños.",
+      "verse": 20,
+      "start_ms": 153387,
+      "end_ms": 163224,
+      "duration_ms": 9837
+    },
+    {
+      "word": "Cuando Rubén oyó esto, lo libró de sus manos, y dijo: No lo matemos.",
+      "verse": 21,
+      "start_ms": 163225,
+      "end_ms": 168712,
+      "duration_ms": 5487
+    },
+    {
+      "word": "Y les dijo Rubén: No derraméis sangre; echadlo en esta cisterna que está en el desierto, y no pongáis mano en él; por librarlo así de sus manos, para hacerlo volver a su padre.",
+      "verse": 22,
+      "start_ms": 168712,
+      "end_ms": 179949,
+      "duration_ms": 11237
+    },
+    {
+      "word": "Sucedió, pues, que cuando llegó José a sus hermanos, ellos quitaron a José su túnica, la túnica de colores que tenía sobre sí; y le tomaron y le echaron en la cisterna; pero la cisterna estaba vacía, no había en ella agua.",
+      "verse": 23,
+      "start_ms": 179950,
+      "end_ms": 193912,
+      "duration_ms": 13962
+    },
+    {
+      "word": "Y se sentaron a comer pan; y alzando los ojos miraron, y he aquí una compañía de ismaelitas que venía de Galaad, y sus camellos traían aromas, bálsamo y mirra, e iban a llevarlo a Egipto.",
+      "verse": 25,
+      "start_ms": 193912,
+      "end_ms": 206037,
+      "duration_ms": 12125
+    },
+    {
+      "word": "Entonces Judá dijo a sus hermanos: ¿Qué provecho hay en que matemos a nuestro hermano y encubramos su muerte?",
+      "verse": 26,
+      "start_ms": 206037,
+      "end_ms": 212712,
+      "duration_ms": 6675
+    },
+    {
+      "word": "Venid, y vendámosle a los ismaelitas, y no sea nuestra mano sobre él; porque él es nuestro hermano, nuestra propia carne.",
+      "verse": 27,
+      "start_ms": 212712,
+      "end_ms": 221062,
+      "duration_ms": 8350
+    },
+    {
+      "word": "Y sus hermanos convinieron con él.",
+      "verse": 27,
+      "start_ms": 221062,
+      "end_ms": 223699,
+      "duration_ms": 2637
+    },
+    {
+      "word": "Y cuando pasaban los madianitas mercaderes, sacaron ellos a José de la cisterna, y le trajeron arriba, y le vendieron a los ismaelitas por veinte piezas de plata.",
+      "verse": 28,
+      "start_ms": 223700,
+      "end_ms": 233262,
+      "duration_ms": 9562
+    },
+    {
+      "word": "Y llevaron a José a Egipto.",
+      "verse": 28,
+      "start_ms": 233262,
+      "end_ms": 235887,
+      "duration_ms": 2625
+    },
+    {
+      "word": "Después Rubén volvió a la cisterna, y no halló a José adentro, y se rasgó los vestidos.",
+      "verse": 29,
+      "start_ms": 235887,
+      "end_ms": 242112,
+      "duration_ms": 6225
+    },
+    {
+      "word": "Y volvió a sus hermanos, y dijo: El joven no aparece; y yo, ¿a dónde iré?",
+      "verse": 30,
+      "start_ms": 242112,
+      "end_ms": 248274,
+      "duration_ms": 6162
+    },
+    {
+      "word": "Entonces tomaron ellos la túnica de José, y degollaron un cabrito de las cabras, y tiñeron la túnica con la sangre; y enviaron la túnica de colores y la trajeron a su padre, y dijeron: Esto hemos hallado; reconoce ahora si es",
+      "verse": 31,
+      "start_ms": 248275,
+      "end_ms": 262525,
+      "duration_ms": 14250
+    },
+    {
+      "word": "la túnica de tu hijo, o no. Y él la reconoció, y dijo: La túnica de mi hijo es; alguna mala bestia lo devoró; José ha sido despedazado.",
+      "verse": 32,
+      "start_ms": 262684,
+      "end_ms": 272571,
+      "duration_ms": 9887
+    },
+    {
+      "word": "Entonces Jacob rasgó sus vestidos, y puso cilicio sobre sus lomos, y guardó luto por su hijo muchos días.",
+      "verse": 34,
+      "start_ms": 272521,
+      "end_ms": 279958,
+      "duration_ms": 7437
+    },
+    {
+      "word": "Y se levantaron todos sus hijos y todas sus hijas para consolarlo; mas él no quiso recibir consuelo, y dijo: Descenderé enlutado a mi hijo hasta el Seol.",
+      "verse": 35,
+      "start_ms": 279959,
+      "end_ms": 289421,
+      "duration_ms": 9462
+    },
+    {
+      "word": "Y lo lloró su padre.",
+      "verse": 35,
+      "start_ms": 289421,
+      "end_ms": 291408,
+      "duration_ms": 1987
+    },
+    {
+      "word": "Y los madianitas lo vendieron en Egipto a Potifar, oficial de Faraón, capitán de la guardia.",
+      "verse": 36,
+      "start_ms": 291409,
+      "end_ms": 297459,
+      "duration_ms": 6050
+    }
+  ]
+}
