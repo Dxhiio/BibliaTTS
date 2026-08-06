@@ -82,6 +82,7 @@
 
     async function refreshSelect() {
       select.innerHTML = '<option value="TLA">TLA (Oficial con Audio)</option>';
+      select.innerHTML += '<option value="RVR60">Reina-Valera 1960 (Oficial con Audio)</option>';
       try {
         const customs = await window.CustomStorage.getAllBiblesMetadata();
         for (const c of customs) {
@@ -101,6 +102,14 @@
       showLoading();
       if (val === 'TLA') {
         state.fullData = state.officialData;
+      } else if (val === 'RVR60') {
+        if (!state.rvr60Data) {
+          try {
+            const res = await fetch('/data/rvr60.json');
+            if (res.ok) state.rvr60Data = await res.json();
+          } catch(e) { console.error('Error fetching RVR60:', e); }
+        }
+        state.fullData = state.rvr60Data || state.officialData;
       } else {
         const custData = await window.CustomStorage.getBible(val);
         if (custData) state.fullData = custData;
@@ -267,9 +276,14 @@
       if (!chapter) throw new Error("Capítulo no encontrado");
 
       // Construir las rutas estáticas predecibles de audio
-      const isCustom = state.activeTranslation !== 'TLA';
+      const isCustom = state.activeTranslation !== 'TLA' && state.activeTranslation !== 'RVR60';
+      const isRVR = state.activeTranslation === 'RVR60';
       const audioFile = `${book.abbr.toLowerCase()}_${String(chapNum).padStart(3, '0')}`;
       
+      const audioPath = isRVR ? `/public/audio_rvr60/${book.abbr}/${audioFile}.opus` : `/public/audio/${book.abbr}/${audioFile}.opus`;
+      const timestampsPath = isRVR ? `/public/timestamps_rvr60/${book.abbr}/${audioFile}.json` : `/public/timestamps/${book.abbr}/${audioFile}.json`;
+      const audioHQPath = isRVR ? `https://vps-bibliatts.com/public/audio_hq_rvr60/${book.abbr}/${audioFile}.opus` : `https://vps-bibliatts.com/public/audio_hq/${book.abbr}/${audioFile}.opus`;
+
       const data = {
         book: {
           abbr: book.abbr,
@@ -281,9 +295,9 @@
         verses: chapter.verses,
         sections: chapter.sections || [],
         isCustom: isCustom,
-        audio: isCustom ? null : `/public/audio/${book.abbr}/${audioFile}.opus`,
-        audioHQ: isCustom ? null : `https://vps-bibliatts.com/public/audio_hq/${book.abbr}/${audioFile}.opus`,
-        timestamps: isCustom ? null : `/public/timestamps/${book.abbr}/${audioFile}.json`
+        audio: isCustom ? null : audioPath,
+        audioHQ: isCustom ? null : audioHQPath,
+        timestamps: isCustom ? null : timestampsPath
       };
 
       state.currentBook = data.book;
