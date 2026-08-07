@@ -1,0 +1,593 @@
+{
+  "book": "SAL",
+  "chapter": 105,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 45,
+  "word_count": 38,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 76,
+      "text": "Alabad a Jehová, invocad su nombre; Dad a conocer sus obras en los pueblos."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 76,
+      "char_end": 135,
+      "text": "Cantadle, cantadle salmos; Hablad de todas sus maravillas."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 135,
+      "char_end": 212,
+      "text": "Gloriaos en su santo nombre; Alégrese el corazón de los que buscan a Jehová."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 212,
+      "char_end": 266,
+      "text": "Buscad a Jehová y su poder; Buscad siempre su rostro."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 266,
+      "char_end": 356,
+      "text": "Acordaos de las maravillas que él ha hecho, De sus prodigios y de los juicios de su boca,"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 356,
+      "char_end": 435,
+      "text": "Oh vosotros, descendencia de Abraham su siervo, Hijos de Jacob, sus escogidos."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 435,
+      "char_end": 499,
+      "text": "Él es Jehová nuestro Dios; En toda la tierra están sus juicios."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 499,
+      "char_end": 582,
+      "text": "Se acordó para siempre de su pacto; De la palabra que mandó para mil generaciones,"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 582,
+      "char_end": 639,
+      "text": "La cual concertó con Abraham, Y de su juramento a Isaac."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 639,
+      "char_end": 705,
+      "text": "La estableció a Jacob por decreto, A Israel por pacto sempiterno,"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 705,
+      "char_end": 781,
+      "text": "Diciendo: A ti te daré la tierra de Canaán Como porción de vuestra heredad."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 781,
+      "char_end": 838,
+      "text": "Cuando ellos eran pocos en número, Y forasteros en ella,"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 838,
+      "char_end": 896,
+      "text": "Y andaban de nación en nación, De un reino a otro pueblo,"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 896,
+      "char_end": 976,
+      "text": "No consintió que nadie los agraviase, Y por causa de ellos castigó a los reyes."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 976,
+      "char_end": 1039,
+      "text": "No toquéis, dijo, a mis ungidos, Ni hagáis mal a mis profetas."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1039,
+      "char_end": 1103,
+      "text": "Trajo hambre sobre la tierra, Y quebrantó todo sustento de pan."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1103,
+      "char_end": 1172,
+      "text": "Envió un varón delante de ellos; A José, que fue vendido por siervo."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1172,
+      "char_end": 1238,
+      "text": "Afligieron sus pies con grillos; En cárcel fue puesta su persona."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1238,
+      "char_end": 1308,
+      "text": "Hasta la hora que se cumplió su palabra, El dicho de Jehová le probó."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1308,
+      "char_end": 1379,
+      "text": "Envió el rey, y le soltó; El señor de los pueblos, y le dejó ir libre."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1379,
+      "char_end": 1451,
+      "text": "Lo puso por señor de su casa, Y por gobernador de todas sus posesiones,"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1451,
+      "char_end": 1540,
+      "text": "Para que reprimiera a sus grandes como él quisiese, Y a sus ancianos enseñara sabiduría."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1540,
+      "char_end": 1606,
+      "text": "Después entró Israel en Egipto, Y Jacob moró en la tierra de Cam."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1606,
+      "char_end": 1684,
+      "text": "Y multiplicó su pueblo en gran manera, Y lo hizo más fuerte que sus enemigos."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1684,
+      "char_end": 1788,
+      "text": "Cambió el corazón de ellos para que aborreciesen a su pueblo, Para que contra sus siervos pensasen mal."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 1788,
+      "char_end": 1842,
+      "text": "Envió a su siervo Moisés, Y a Aarón, al cual escogió."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 1842,
+      "char_end": 1922,
+      "text": "Puso en ellos las palabras de sus señales, Y sus prodigios en la tierra de Cam."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 1922,
+      "char_end": 1997,
+      "text": "Envió tinieblas que lo oscurecieron todo; No fueron rebeldes a su palabra."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 1997,
+      "char_end": 2043,
+      "text": "Volvió sus aguas en sangre, Y mató sus peces."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2043,
+      "char_end": 2102,
+      "text": "Su tierra produjo ranas Hasta en las cámaras de sus reyes."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2102,
+      "char_end": 2173,
+      "text": "Habló, y vinieron enjambres de moscas, Y piojos en todos sus términos."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2173,
+      "char_end": 2233,
+      "text": "Les dio granizo por lluvia, Y llamas de fuego en su tierra."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 2233,
+      "char_end": 2307,
+      "text": "Destrozó sus viñas y sus higueras, Y quebró los árboles de su territorio."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 2307,
+      "char_end": 2357,
+      "text": "Habló, y vinieron langostas, Y pulgón sin número;"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 2357,
+      "char_end": 2430,
+      "text": "Y comieron toda la hierba de su país, Y devoraron el fruto de su tierra."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 2430,
+      "char_end": 2518,
+      "text": "Hirió de muerte a todos los primogénitos en su tierra, Las primicias de toda su fuerza."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 2518,
+      "char_end": 2577,
+      "text": "Los sacó con plata y oro; Y no hubo en sus tribus enfermo."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 2577,
+      "char_end": 2653,
+      "text": "Egipto se alegró de que salieran, Porque su terror había caído sobre ellos."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 2653,
+      "char_end": 2717,
+      "text": "Extendió una nube por cubierta, Y fuego para alumbrar la noche."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 2717,
+      "char_end": 2782,
+      "text": "Pidieron, e hizo venir codornices; Y los sació de pan del cielo."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 2782,
+      "char_end": 2857,
+      "text": "Abrió la peña, y fluyeron aguas; Corrieron por los sequedales como un río."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 2857,
+      "char_end": 2920,
+      "text": "Porque se acordó de su santa palabra Dada a Abraham su siervo."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 2920,
+      "char_end": 2975,
+      "text": "Sacó a su pueblo con gozo; Con júbilo a sus escogidos."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 2975,
+      "char_end": 3052,
+      "text": "Les dio las tierras de las naciones, Y las labores de los pueblos heredaron;"
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 3052,
+      "char_end": 3119,
+      "text": "Para que guardasen sus estatutos, Y cumpliesen sus leyes. Aleluya."
+    }
+  ],
+  "words": [
+    {
+      "word": "Alabad a Jehová, invocad su nombre; Dad a conocer sus obras en los pueblos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5425,
+      "duration_ms": 5325
+    },
+    {
+      "word": "Cantadle, cantadle salmos; Hablad de todas sus maravillas.",
+      "verse": 2,
+      "start_ms": 5375,
+      "end_ms": 10262,
+      "duration_ms": 4887
+    },
+    {
+      "word": "Gloriaos en su santo nombre; Alégrese el corazón de los que buscan a Jehová.",
+      "verse": 3,
+      "start_ms": 10262,
+      "end_ms": 15324,
+      "duration_ms": 5062
+    },
+    {
+      "word": "Buscad a Jehová y su poder; Buscad siempre su rostro.",
+      "verse": 4,
+      "start_ms": 15325,
+      "end_ms": 19500,
+      "duration_ms": 4175
+    },
+    {
+      "word": "Acordaos de las maravillas que él ha hecho, De sus prodigios y de los juicios de su boca, Oh vosotros, descendencia de Abraham su siervo, Hijos de Jacob, sus escogidos.",
+      "verse": 5,
+      "start_ms": 19500,
+      "end_ms": 30250,
+      "duration_ms": 10750
+    },
+    {
+      "word": "Él es Jehová nuestro Dios; En toda la tierra están sus juicios.",
+      "verse": 7,
+      "start_ms": 30250,
+      "end_ms": 34800,
+      "duration_ms": 4550
+    },
+    {
+      "word": "Se acordó para siempre de su pacto; De la palabra que mandó para mil generaciones, La cual concertó con Abraham, Y de su juramento a Isaac.",
+      "verse": 8,
+      "start_ms": 34800,
+      "end_ms": 43512,
+      "duration_ms": 8712
+    },
+    {
+      "word": "La estableció a Jacob por decreto, A Israel por pacto sempiterno, Diciendo: A ti te daré la tierra de Canaán Como porción de vuestra heredad.",
+      "verse": 10,
+      "start_ms": 43512,
+      "end_ms": 52462,
+      "duration_ms": 8950
+    },
+    {
+      "word": "Cuando ellos eran pocos en número, Y forasteros en ella, Y andaban de nación en nación, De un reino a otro pueblo, No consintió que nadie los agraviase, Y por causa de ellos castigó a los reyes.",
+      "verse": 12,
+      "start_ms": 52462,
+      "end_ms": 64512,
+      "duration_ms": 12050
+    },
+    {
+      "word": "No toquéis, dijo, a mis ungidos, Ni hagáis mal a mis profetas.",
+      "verse": 15,
+      "start_ms": 64512,
+      "end_ms": 69949,
+      "duration_ms": 5437
+    },
+    {
+      "word": "Trajo hambre sobre la tierra, Y quebrantó todo sustento de pan.",
+      "verse": 16,
+      "start_ms": 69950,
+      "end_ms": 74437,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Envió un varón delante de ellos; A José, que fue vendido por siervo.",
+      "verse": 17,
+      "start_ms": 74437,
+      "end_ms": 79649,
+      "duration_ms": 5212
+    },
+    {
+      "word": "Afligieron sus pies con grillos; En cárcel fue puesta su persona.",
+      "verse": 18,
+      "start_ms": 79650,
+      "end_ms": 84212,
+      "duration_ms": 4562
+    },
+    {
+      "word": "Hasta la hora que se cumplió su palabra, El dicho de Jehová le probó.",
+      "verse": 19,
+      "start_ms": 84212,
+      "end_ms": 88774,
+      "duration_ms": 4562
+    },
+    {
+      "word": "Envió el rey, y le soltó; El señor de los pueblos, y le dejó ir libre.",
+      "verse": 20,
+      "start_ms": 88775,
+      "end_ms": 94187,
+      "duration_ms": 5412
+    },
+    {
+      "word": "Lo puso por señor de su casa, Y por gobernador de todas sus posesiones, Para que reprimiera a sus grandes como él quisiese, Y a sus ancianos enseñara sabiduría.",
+      "verse": 21,
+      "start_ms": 94187,
+      "end_ms": 104312,
+      "duration_ms": 10125
+    },
+    {
+      "word": "Después entró Israel en Egipto, Y Jacob moró en la tierra de Cam.",
+      "verse": 23,
+      "start_ms": 104312,
+      "end_ms": 109174,
+      "duration_ms": 4862
+    },
+    {
+      "word": "Y multiplicó su pueblo en gran manera, Y lo hizo más fuerte que sus enemigos.",
+      "verse": 24,
+      "start_ms": 109175,
+      "end_ms": 114537,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Cambió el corazón de ellos para que aborreciesen a su pueblo, Para que contra sus siervos pensasen mal.",
+      "verse": 25,
+      "start_ms": 114537,
+      "end_ms": 120599,
+      "duration_ms": 6062
+    },
+    {
+      "word": "Envió a su siervo Moisés, Y a Aarón, al cual escogió.",
+      "verse": 26,
+      "start_ms": 120600,
+      "end_ms": 125375,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Puso en ellos las palabras de sus señales, Y sus prodigios en la tierra de Cam.",
+      "verse": 27,
+      "start_ms": 125375,
+      "end_ms": 130600,
+      "duration_ms": 5225
+    },
+    {
+      "word": "Envió tinieblas que lo oscurecieron todo; No fueron rebeldes a su palabra.",
+      "verse": 28,
+      "start_ms": 130600,
+      "end_ms": 135500,
+      "duration_ms": 4900
+    },
+    {
+      "word": "Volvió sus aguas en sangre, Y mató sus peces.",
+      "verse": 29,
+      "start_ms": 135500,
+      "end_ms": 139375,
+      "duration_ms": 3875
+    },
+    {
+      "word": "Su tierra produjo ranas Hasta en las cámaras de sus reyes.",
+      "verse": 30,
+      "start_ms": 139375,
+      "end_ms": 143325,
+      "duration_ms": 3950
+    },
+    {
+      "word": "Habló, y vinieron enjambres de moscas, Y piojos en todos sus términos.",
+      "verse": 31,
+      "start_ms": 143325,
+      "end_ms": 148725,
+      "duration_ms": 5400
+    },
+    {
+      "word": "Les dio granizo por lluvia, Y llamas de fuego en su tierra.",
+      "verse": 32,
+      "start_ms": 148725,
+      "end_ms": 152862,
+      "duration_ms": 4137
+    },
+    {
+      "word": "Destrozó sus viñas y sus higueras, Y quebró los árboles de su territorio.",
+      "verse": 33,
+      "start_ms": 152862,
+      "end_ms": 157737,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Habló, y vinieron langostas, Y pulgón sin número; Y comieron toda la hierba de su país, Y devoraron el fruto de su tierra.",
+      "verse": 34,
+      "start_ms": 157737,
+      "end_ms": 166074,
+      "duration_ms": 8337
+    },
+    {
+      "word": "Hirió de muerte a todos los primogénitos en su tierra, Las primicias de toda su fuerza.",
+      "verse": 36,
+      "start_ms": 166075,
+      "end_ms": 171662,
+      "duration_ms": 5587
+    },
+    {
+      "word": "Los sacó con plata y oro; Y no hubo en sus tribus enfermo.",
+      "verse": 37,
+      "start_ms": 171662,
+      "end_ms": 176149,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Egipto se alegró de que salieran, Porque su terror había caído sobre ellos.",
+      "verse": 38,
+      "start_ms": 176150,
+      "end_ms": 181450,
+      "duration_ms": 5300
+    },
+    {
+      "word": "Extendió una nube por cubierta, Y fuego para alumbrar la noche.",
+      "verse": 39,
+      "start_ms": 181450,
+      "end_ms": 186087,
+      "duration_ms": 4637
+    },
+    {
+      "word": "Pidieron, e hizo venir codornices; Y los sació de pan del cielo.",
+      "verse": 40,
+      "start_ms": 186087,
+      "end_ms": 191024,
+      "duration_ms": 4937
+    },
+    {
+      "word": "Abrió la peña, y fluyeron aguas; Corrieron por los sequedales como un río.",
+      "verse": 41,
+      "start_ms": 191025,
+      "end_ms": 196337,
+      "duration_ms": 5312
+    },
+    {
+      "word": "Porque se acordó de su santa palabra Dada a Abraham su siervo.",
+      "verse": 42,
+      "start_ms": 196337,
+      "end_ms": 200499,
+      "duration_ms": 4162
+    },
+    {
+      "word": "Sacó a su pueblo con gozo; Con júbilo a sus escogidos.",
+      "verse": 43,
+      "start_ms": 200500,
+      "end_ms": 204962,
+      "duration_ms": 4462
+    },
+    {
+      "word": "Les dio las tierras de las naciones, Y las labores de los pueblos heredaron; Para que guardasen sus estatutos, Y cumpliesen sus leyes.",
+      "verse": 44,
+      "start_ms": 204962,
+      "end_ms": 213374,
+      "duration_ms": 8412
+    },
+    {
+      "word": "Aleluya.",
+      "verse": 45,
+      "start_ms": 213375,
+      "end_ms": 215075,
+      "duration_ms": 1700
+    }
+  ]
+}

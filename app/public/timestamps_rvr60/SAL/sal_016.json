@@ -1,0 +1,166 @@
+{
+  "book": "SAL",
+  "chapter": 16,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 11,
+  "word_count": 11,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 45,
+      "text": "Guárdame, oh Dios, porque en ti he confiado."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 45,
+      "char_end": 127,
+      "text": "Oh alma mía, dijiste a Jehová: Tú eres mi Señor; No hay para mí bien fuera de ti."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 127,
+      "char_end": 213,
+      "text": "Para los santos que están en la tierra, Y para los íntegros, es toda mi complacencia."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 213,
+      "char_end": 367,
+      "text": "Se multiplicarán los dolores de aquellos que sirven diligentes a otro dios. No ofreceré yo sus libaciones de sangre, Ni en mis labios tomaré sus nombres."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 367,
+      "char_end": 441,
+      "text": "Jehová es la porción de mi herencia y de mi copa; Tú sustentas mi suerte."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 441,
+      "char_end": 529,
+      "text": "Las cuerdas me cayeron en lugares deleitosos, Y es hermosa la heredad que me ha tocado."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 529,
+      "char_end": 608,
+      "text": "Bendeciré a Jehová que me aconseja; Aun en las noches me enseña mi conciencia."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 608,
+      "char_end": 695,
+      "text": "A Jehová he puesto siempre delante de mí; Porque está a mi diestra, no seré conmovido."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 695,
+      "char_end": 787,
+      "text": "Se alegró por tanto mi corazón, y se gozó mi alma; Mi carne también reposará confiadamente;"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 787,
+      "char_end": 868,
+      "text": "Porque no dejarás mi alma en el Seol, Ni permitirás que tu santo vea corrupción."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 868,
+      "char_end": 976,
+      "text": "Me mostrarás la senda de la vida; En tu presencia hay plenitud de gozo; Delicias a tu diestra para siempre."
+    }
+  ],
+  "words": [
+    {
+      "word": "Guárdame, oh Dios, porque en ti he confiado.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3787,
+      "duration_ms": 3687
+    },
+    {
+      "word": "Oh alma mía, dijiste a Jehová: Tú eres mi Señor; No hay para mí bien fuera de ti.",
+      "verse": 2,
+      "start_ms": 3737,
+      "end_ms": 9674,
+      "duration_ms": 5937
+    },
+    {
+      "word": "Para los santos que están en la tierra, Y para los íntegros, es toda mi complacencia.",
+      "verse": 3,
+      "start_ms": 9675,
+      "end_ms": 15275,
+      "duration_ms": 5600
+    },
+    {
+      "word": "Se multiplicarán los dolores de aquellos que sirven diligentes a otro dios.",
+      "verse": 4,
+      "start_ms": 15275,
+      "end_ms": 20100,
+      "duration_ms": 4825
+    },
+    {
+      "word": "No ofreceré yo sus libaciones de sangre, Ni en mis labios tomaré sus nombres.",
+      "verse": 4,
+      "start_ms": 20100,
+      "end_ms": 25362,
+      "duration_ms": 5262
+    },
+    {
+      "word": "Jehová es la porción de mi herencia y de mi copa; Tú sustentas mi suerte.",
+      "verse": 5,
+      "start_ms": 25362,
+      "end_ms": 30237,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Las cuerdas me cayeron en lugares deleitosos, Y es hermosa la heredad que me ha tocado.",
+      "verse": 6,
+      "start_ms": 30237,
+      "end_ms": 35799,
+      "duration_ms": 5562
+    },
+    {
+      "word": "Bendeciré a Jehová que me aconseja; Aun en las noches me enseña mi conciencia.",
+      "verse": 7,
+      "start_ms": 35800,
+      "end_ms": 40962,
+      "duration_ms": 5162
+    },
+    {
+      "word": "A Jehová he puesto siempre delante de mí; Porque está a mi diestra, no seré conmovido.",
+      "verse": 8,
+      "start_ms": 40962,
+      "end_ms": 46824,
+      "duration_ms": 5862
+    },
+    {
+      "word": "Se alegró por tanto mi corazón, y se gozó mi alma; Mi carne también reposará confiadamente; Porque no dejarás mi alma en el Seol, Ni permitirás que tu santo vea corrupción.",
+      "verse": 9,
+      "start_ms": 46825,
+      "end_ms": 57825,
+      "duration_ms": 11000
+    },
+    {
+      "word": "Me mostrarás la senda de la vida; En tu presencia hay plenitud de gozo; Delicias a tu diestra para siempre.",
+      "verse": 11,
+      "start_ms": 57825,
+      "end_ms": 64700,
+      "duration_ms": 6875
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "book": "JER",
+  "chapter": 45,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 5,
+  "word_count": 4,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 191,
+      "text": "Palabra que habló el profeta Jeremías a Baruc hijo de Nerías, cuando escribía en el libro estas palabras de boca de Jeremías, en el año cuarto de Joacim hijo de Josías rey de Judá, diciendo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 191,
+      "char_end": 242,
+      "text": "Así ha dicho Jehová Dios de Israel a ti, oh Baruc:"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 242,
+      "char_end": 368,
+      "text": "Tú dijiste: ¡Ay de mí ahora! porque ha añadido Jehová tristeza a mi dolor; fatigado estoy de gemir, y no he hallado descanso."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 368,
+      "char_end": 493,
+      "text": "Así le dirás: Ha dicho Jehová: He aquí que yo destruyo a los que edifiqué, y arranco a los que planté, y a toda esta tierra."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 493,
+      "char_end": 681,
+      "text": "¿Y tú buscas para ti grandezas? No las busques; porque he aquí que yo traigo mal sobre toda carne, ha dicho Jehová; pero a ti te daré tu vida por botín en todos los lugares adonde fueres."
+    }
+  ],
+  "words": [
+    {
+      "word": "Palabra que habló el profeta Jeremías a Baruc hijo de Nerías, cuando escribía en el libro estas palabras de boca de Jeremías, en el año cuarto de Joacim hijo de Josías rey de Judá, diciendo: Así ha dicho Jehová Dios de Israel a ti, oh Baruc: Tú dijiste: ¡Ay de mí ahora! porque ha añadido Jehová tristeza a mi dolor; fatigado estoy de gemir, y no he hallado descanso.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 22200,
+      "duration_ms": 22100
+    },
+    {
+      "word": "Así le dirás: Ha dicho Jehová: He aquí que yo destruyo a los que edifiqué, y arranco a los que planté, y a toda esta tierra.",
+      "verse": 4,
+      "start_ms": 22200,
+      "end_ms": 30600,
+      "duration_ms": 8400
+    },
+    {
+      "word": "Y tú buscas para ti grandezas?",
+      "verse": 5,
+      "start_ms": 30600,
+      "end_ms": 33275,
+      "duration_ms": 2675
+    },
+    {
+      "word": "No las busques; porque he aquí que yo traigo mal sobre toda carne, ha dicho Jehová; pero a ti te daré tu vida por botín en todos los lugares adonde fueres.",
+      "verse": 5,
+      "start_ms": 33275,
+      "end_ms": 43000,
+      "duration_ms": 9725
+    }
+  ]
+}

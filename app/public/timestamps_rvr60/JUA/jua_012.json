@@ -1,0 +1,838 @@
+{
+  "book": "JUA",
+  "chapter": 12,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 57,
+  "word_count": 61,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 97,
+      "text": "Estaba entonces enfermo uno llamado Lázaro, de Betania, la aldea de María y de Marta su hermana."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 97,
+      "char_end": 220,
+      "text": "(María, cuyo hermano Lázaro estaba enfermo, fue la que ungió al Señor con perfume, y le enjugó los pies con sus cabellos.)"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 220,
+      "char_end": 310,
+      "text": "Enviaron, pues, las hermanas para decir a Jesús: Señor, he aquí el que amas está enfermo."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 310,
+      "char_end": 447,
+      "text": "Oyéndolo Jesús, dijo: Esta enfermedad no es para muerte, sino para la gloria de Dios, para que el Hijo de Dios sea glorificado por ella."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 447,
+      "char_end": 495,
+      "text": "Y amaba Jesús a Marta, a su hermana y a Lázaro."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 495,
+      "char_end": 581,
+      "text": "Cuando oyó, pues, que estaba enfermo, se quedó dos días más en el lugar donde estaba."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 581,
+      "char_end": 652,
+      "text": "Luego, después de esto, dijo a los discípulos: Vamos a Judea otra vez."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 652,
+      "char_end": 747,
+      "text": "Le dijeron los discípulos: Rabí, ahora procuraban los judíos apedrearte, ¿y otra vez vas allá?"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 747,
+      "char_end": 858,
+      "text": "Respondió Jesús: ¿No tiene el día doce horas? El que anda de día, no tropieza, porque ve la luz de este mundo;"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 858,
+      "char_end": 920,
+      "text": "pero el que anda de noche, tropieza, porque no hay luz en él."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 920,
+      "char_end": 1005,
+      "text": "Dicho esto, les dijo después: Nuestro amigo Lázaro duerme; mas voy para despertarle."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1005,
+      "char_end": 1064,
+      "text": "Dijeron entonces sus discípulos: Señor, si duerme, sanará."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1064,
+      "char_end": 1162,
+      "text": "Pero Jesús decía esto de la muerte de Lázaro; y ellos pensaron que hablaba del reposar del sueño."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1162,
+      "char_end": 1216,
+      "text": "Entonces Jesús les dijo claramente: Lázaro ha muerto;"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1216,
+      "char_end": 1300,
+      "text": "y me alegro por vosotros, de no haber estado allí, para que creáis; mas vamos a él."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1300,
+      "char_end": 1440,
+      "text": "Dijo entonces Tomás, llamado Dídimo, a sus condiscípulos: Vamos también nosotros, para que muramos con él. Jesús, la resurrección y la vida"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1440,
+      "char_end": 1526,
+      "text": "Vino, pues, Jesús, y halló que hacía ya cuatro días que Lázaro estaba en el sepulcro."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1526,
+      "char_end": 1585,
+      "text": "Betania estaba cerca de Jerusalén, como a quince estadios;"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1585,
+      "char_end": 1674,
+      "text": "y muchos de los judíos habían venido a Marta y a María, para consolarlas por su hermano."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1674,
+      "char_end": 1768,
+      "text": "Entonces Marta, cuando oyó que Jesús venía, salió a encontrarle; pero María se quedó en casa."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1768,
+      "char_end": 1851,
+      "text": "Y Marta dijo a Jesús: Señor, si hubieses estado aquí, mi hermano no habría muerto."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1851,
+      "char_end": 1919,
+      "text": "Mas también sé ahora que todo lo que pidas a Dios, Dios te lo dará."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1919,
+      "char_end": 1957,
+      "text": "Jesús le dijo: Tu hermano resucitará."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1957,
+      "char_end": 2033,
+      "text": "Marta le dijo: Yo sé que resucitará en la resurrección, en el día postrero."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2033,
+      "char_end": 2129,
+      "text": "Le dijo Jesús: Yo soy la resurrección y la vida; el que cree en mí, aunque esté muerto, vivirá."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2129,
+      "char_end": 2201,
+      "text": "Y todo aquel que vive y cree en mí, no morirá eternamente. ¿Crees esto?"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2201,
+      "char_end": 2335,
+      "text": "Le dijo: Sí, Señor; yo he creído que tú eres el Cristo, el Hijo de Dios, que has venido al mundo. Jesús llora ante la tumba de Lázaro"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2335,
+      "char_end": 2444,
+      "text": "Habiendo dicho esto, fue y llamó a María su hermana, diciéndole en secreto: El Maestro está aquí y te llama."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2444,
+      "char_end": 2498,
+      "text": "Ella, cuando lo oyó, se levantó de prisa y vino a él."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2498,
+      "char_end": 2603,
+      "text": "Jesús todavía no había entrado en la aldea, sino que estaba en el lugar donde Marta le había encontrado."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2603,
+      "char_end": 2791,
+      "text": "Entonces los judíos que estaban en casa con ella y la consolaban, cuando vieron que María se había levantado de prisa y había salido, la siguieron, diciendo: Va al sepulcro a llorar allí."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2791,
+      "char_end": 2938,
+      "text": "María, cuando llegó a donde estaba Jesús, al verle, se postró a sus pies, diciéndole: Señor, si hubieses estado aquí, no habría muerto mi hermano."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 2938,
+      "char_end": 3067,
+      "text": "Jesús entonces, al verla llorando, y a los judíos que la acompañaban, también llorando, se estremeció en espíritu y se conmovió,"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3067,
+      "char_end": 3125,
+      "text": "y dijo: ¿Dónde le pusisteis? Le dijeron: Señor, ven y ve."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3125,
+      "char_end": 3138,
+      "text": "Jesús lloró."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3138,
+      "char_end": 3188,
+      "text": "Dijeron entonces los judíos: Mirad cómo le amaba."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3188,
+      "char_end": 3327,
+      "text": "Y algunos de ellos dijeron: ¿No podía éste, que abrió los ojos al ciego, haber hecho también que Lázaro no muriera? Resurrección de Lázaro"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 3327,
+      "char_end": 3435,
+      "text": "Jesús, profundamente conmovido otra vez, vino al sepulcro. Era una cueva, y tenía una piedra puesta encima."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 3435,
+      "char_end": 3557,
+      "text": "Dijo Jesús: Quitad la piedra. Marta, la hermana del que había muerto, le dijo: Señor, hiede ya, porque es de cuatro días."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 3557,
+      "char_end": 3627,
+      "text": "Jesús le dijo: ¿No te he dicho que si crees, verás la gloria de Dios?"
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 3627,
+      "char_end": 3776,
+      "text": "Entonces quitaron la piedra de donde había sido puesto el muerto. Y Jesús, alzando los ojos a lo alto, dijo: Padre, gracias te doy por haberme oído."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 3776,
+      "char_end": 3902,
+      "text": "Yo sabía que siempre me oyes; pero lo dije por causa de la multitud que está alrededor, para que crean que tú me has enviado."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 3902,
+      "char_end": 3963,
+      "text": "Y habiendo dicho esto, clamó a gran voz: ¡Lázaro, ven fuera!"
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 3963,
+      "char_end": 4173,
+      "text": "Y el que había muerto salió, atadas las manos y los pies con vendas, y el rostro envuelto en un sudario. Jesús les dijo: Desatadle, y dejadle ir. El complot para matar a Jesús (Mt 26.1–5; Mc 14.1–2; Lc 22.1–2)"
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 4173,
+      "char_end": 4289,
+      "text": "Entonces muchos de los judíos que habían venido para acompañar a María, y vieron lo que hizo Jesús, creyeron en él."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 4289,
+      "char_end": 4373,
+      "text": "Pero algunos de ellos fueron a los fariseos y les dijeron lo que Jesús había hecho."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 4373,
+      "char_end": 4512,
+      "text": "Entonces los principales sacerdotes y los fariseos reunieron el concilio, y dijeron: ¿Qué haremos? Porque este hombre hace muchas señales."
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 4512,
+      "char_end": 4626,
+      "text": "Si le dejamos así, todos creerán en él; y vendrán los romanos, y destruirán nuestro lugar santo y nuestra nación."
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 4626,
+      "char_end": 4718,
+      "text": "Entonces Caifás, uno de ellos, sumo sacerdote aquel año, les dijo: Vosotros no sabéis nada;"
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 4718,
+      "char_end": 4814,
+      "text": "ni pensáis que nos conviene que un hombre muera por el pueblo, y no que toda la nación perezca."
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 4814,
+      "char_end": 4941,
+      "text": "Esto no lo dijo por sí mismo, sino que como era el sumo sacerdote aquel año, profetizó que Jesús había de morir por la nación;"
+    },
+    {
+      "verse": 52,
+      "label": "52",
+      "char_start": 4941,
+      "char_end": 5049,
+      "text": "y no solamente por la nación, sino también para congregar en uno a los hijos de Dios que estaban dispersos."
+    },
+    {
+      "verse": 53,
+      "label": "53",
+      "char_start": 5049,
+      "char_end": 5093,
+      "text": "Así que, desde aquel día acordaron matarle."
+    },
+    {
+      "verse": 54,
+      "label": "54",
+      "char_start": 5093,
+      "char_end": 5279,
+      "text": "Por tanto, Jesús ya no andaba abiertamente entre los judíos, sino que se alejó de allí a la región contigua al desierto, a una ciudad llamada Efraín; y se quedó allí con sus discípulos."
+    },
+    {
+      "verse": 55,
+      "label": "55",
+      "char_start": 5279,
+      "char_end": 5405,
+      "text": "Y estaba cerca la pascua de los judíos; y muchos subieron de aquella región a Jerusalén antes de la pascua, para purificarse."
+    },
+    {
+      "verse": 56,
+      "label": "56",
+      "char_start": 5405,
+      "char_end": 5524,
+      "text": "Y buscaban a Jesús, y estando ellos en el templo, se preguntaban unos a otros: ¿Qué os parece? ¿No vendrá a la fiesta?"
+    },
+    {
+      "verse": 57,
+      "label": "57",
+      "char_start": 5524,
+      "char_end": 5665,
+      "text": "Y los principales sacerdotes y los fariseos habían dado orden de que si alguno supiese dónde estaba, lo manifestase, para que le prendiesen."
+    }
+  ],
+  "words": [
+    {
+      "word": "Estaba entonces enfermo uno llamado Lázaro, de Betania, la aldea de María y de Marta su hermana.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6800,
+      "duration_ms": 6700
+    },
+    {
+      "word": "María, cuyo hermano Lázaro estaba enfermo, fue la que ungió al Señor con perfume, y le enjugó los pies con sus cabellos.",
+      "verse": 2,
+      "start_ms": 6750,
+      "end_ms": 14575,
+      "duration_ms": 7825
+    },
+    {
+      "word": "Enviaron, pues, las hermanas para decir a Jesús: Señor, he aquí el que amas está enfermo.",
+      "verse": 3,
+      "start_ms": 14575,
+      "end_ms": 21275,
+      "duration_ms": 6700
+    },
+    {
+      "word": "Oyéndolo Jesús, dijo: Esta enfermedad no es para muerte, sino para la gloria de Dios, para que el Hijo de Dios sea glorificado por ella.",
+      "verse": 4,
+      "start_ms": 21275,
+      "end_ms": 30450,
+      "duration_ms": 9175
+    },
+    {
+      "word": "Y amaba Jesús a Marta, a su hermana y a Lázaro.",
+      "verse": 5,
+      "start_ms": 30450,
+      "end_ms": 34212,
+      "duration_ms": 3762
+    },
+    {
+      "word": "Cuando oyó, pues, que estaba enfermo, se quedó dos días más en el lugar donde estaba.",
+      "verse": 6,
+      "start_ms": 34212,
+      "end_ms": 40074,
+      "duration_ms": 5862
+    },
+    {
+      "word": "Luego, después de esto, dijo a los discípulos: Vamos a Judea otra vez.",
+      "verse": 7,
+      "start_ms": 40075,
+      "end_ms": 45600,
+      "duration_ms": 5525
+    },
+    {
+      "word": "Le dijeron los discípulos: Rabí, ahora procuraban los judíos apedrearte, ¿y otra vez vas allá?",
+      "verse": 8,
+      "start_ms": 45600,
+      "end_ms": 52350,
+      "duration_ms": 6750
+    },
+    {
+      "word": "Respondió Jesús: ¿No tiene el día doce horas?",
+      "verse": 9,
+      "start_ms": 52350,
+      "end_ms": 56212,
+      "duration_ms": 3862
+    },
+    {
+      "word": "El que anda de día, no tropieza, porque ve la luz de este mundo; pero el que anda de noche, tropieza, porque no hay luz en él.",
+      "verse": 9,
+      "start_ms": 56212,
+      "end_ms": 64574,
+      "duration_ms": 8362
+    },
+    {
+      "word": "Dicho esto, les dijo después: Nuestro amigo Lázaro duerme; mas voy para despertarle.",
+      "verse": 11,
+      "start_ms": 64575,
+      "end_ms": 70812,
+      "duration_ms": 6237
+    },
+    {
+      "word": "Dijeron entonces sus discípulos: Señor, si duerme, sanará.",
+      "verse": 12,
+      "start_ms": 70812,
+      "end_ms": 75762,
+      "duration_ms": 4950
+    },
+    {
+      "word": "Pero Jesús decía esto de la muerte de Lázaro; y ellos pensaron que hablaba del reposar del sueño.",
+      "verse": 13,
+      "start_ms": 75762,
+      "end_ms": 81724,
+      "duration_ms": 5962
+    },
+    {
+      "word": "Entonces Jesús les dijo claramente: Lázaro ha muerto; y me alegro por vosotros, de no haber estado allí, para que creáis; mas vamos a él.",
+      "verse": 14,
+      "start_ms": 81725,
+      "end_ms": 91225,
+      "duration_ms": 9500
+    },
+    {
+      "word": "Dijo entonces Tomás, llamado Dídimo, a sus condiscípulos: Vamos también nosotros, para que muramos con él.",
+      "verse": 16,
+      "start_ms": 91225,
+      "end_ms": 98862,
+      "duration_ms": 7637
+    },
+    {
+      "word": "Jesús, la resurrección y la vida Vino, pues, Jesús, y halló que hacía ya cuatro días que Lázaro estaba en el sepulcro.",
+      "verse": 16,
+      "start_ms": 98862,
+      "end_ms": 106937,
+      "duration_ms": 8075
+    },
+    {
+      "word": "Betania estaba cerca de Jerusalén, como a quince estadios; y muchos de los judíos habían venido a Marta y a María, para consolarlas por su hermano.",
+      "verse": 18,
+      "start_ms": 106937,
+      "end_ms": 116212,
+      "duration_ms": 9275
+    },
+    {
+      "word": "Entonces Marta, cuando oyó que Jesús venía, salió a encontrarle; pero María se quedó en casa.",
+      "verse": 20,
+      "start_ms": 116212,
+      "end_ms": 122849,
+      "duration_ms": 6637
+    },
+    {
+      "word": "Y Marta dijo a Jesús: Señor, si hubieses estado aquí, mi hermano no habría muerto.",
+      "verse": 21,
+      "start_ms": 122850,
+      "end_ms": 129075,
+      "duration_ms": 6225
+    },
+    {
+      "word": "Mas también sé ahora que todo lo que pidas a Dios, Dios te lo dará.",
+      "verse": 22,
+      "start_ms": 129075,
+      "end_ms": 133662,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Jesús le dijo: Tu hermano resucitará.",
+      "verse": 23,
+      "start_ms": 133662,
+      "end_ms": 137062,
+      "duration_ms": 3400
+    },
+    {
+      "word": "Marta le dijo: Yo sé que resucitará en la resurrección, en el día postrero.",
+      "verse": 24,
+      "start_ms": 137062,
+      "end_ms": 142512,
+      "duration_ms": 5450
+    },
+    {
+      "word": "Le dijo Jesús: Yo soy la resurrección y la vida; el que cree en mí, aunque esté muerto, vivirá.",
+      "verse": 25,
+      "start_ms": 142512,
+      "end_ms": 149362,
+      "duration_ms": 6850
+    },
+    {
+      "word": "Y todo aquel que vive y cree en mí, no morirá eternamente.",
+      "verse": 26,
+      "start_ms": 149362,
+      "end_ms": 153924,
+      "duration_ms": 4562
+    },
+    {
+      "word": "Crees esto?",
+      "verse": 26,
+      "start_ms": 153925,
+      "end_ms": 155575,
+      "duration_ms": 1650
+    },
+    {
+      "word": "Le dijo: Sí, Señor; yo he creído que tú eres el Cristo, el Hijo de Dios, que has venido al mundo.",
+      "verse": 27,
+      "start_ms": 155575,
+      "end_ms": 163075,
+      "duration_ms": 7500
+    },
+    {
+      "word": "Jesús llora ante la tumba de Lázaro Habiendo dicho esto, fue y llamó a María su hermana, diciéndole en secreto: El Maestro está aquí y te llama.",
+      "verse": 27,
+      "start_ms": 163075,
+      "end_ms": 172012,
+      "duration_ms": 8937
+    },
+    {
+      "word": "Ella, cuando lo oyó, se levantó de prisa y vino a él.",
+      "verse": 29,
+      "start_ms": 172012,
+      "end_ms": 176374,
+      "duration_ms": 4362
+    },
+    {
+      "word": "Jesús todavía no había entrado en la aldea, sino que estaba en el lugar donde Marta le había encontrado.",
+      "verse": 30,
+      "start_ms": 176375,
+      "end_ms": 182587,
+      "duration_ms": 6212
+    },
+    {
+      "word": "Entonces los judíos que estaban en casa con ella y la consolaban, cuando vieron que María se había levantado de prisa y había salido, la siguieron, diciendo: Va al sepulcro a llorar allí.",
+      "verse": 31,
+      "start_ms": 182587,
+      "end_ms": 193612,
+      "duration_ms": 11025
+    },
+    {
+      "word": "María, cuando llegó a donde estaba Jesús, al verle, se postró a sus pies, diciéndole: Señor, si hubieses estado aquí, no habría muerto mi hermano.",
+      "verse": 32,
+      "start_ms": 193612,
+      "end_ms": 203937,
+      "duration_ms": 10325
+    },
+    {
+      "word": "Jesús entonces, al verla llorando, y a los judíos que la acompañaban, también llorando, se estremeció en espíritu y se conmovió, y dijo: ¿Dónde le pusisteis?",
+      "verse": 33,
+      "start_ms": 203937,
+      "end_ms": 214387,
+      "duration_ms": 10450
+    },
+    {
+      "word": "Le dijeron: Señor, ven y ve.",
+      "verse": 34,
+      "start_ms": 214387,
+      "end_ms": 217574,
+      "duration_ms": 3187
+    },
+    {
+      "word": "Jesús lloró.",
+      "verse": 35,
+      "start_ms": 217575,
+      "end_ms": 219275,
+      "duration_ms": 1700
+    },
+    {
+      "word": "Dijeron entonces los judíos: Mirad cómo le amaba.",
+      "verse": 36,
+      "start_ms": 219275,
+      "end_ms": 223325,
+      "duration_ms": 4050
+    },
+    {
+      "word": "Y algunos de ellos dijeron: ¿No podía éste, que abrió los ojos al ciego, haber hecho también que Lázaro no muriera?",
+      "verse": 37,
+      "start_ms": 223325,
+      "end_ms": 230887,
+      "duration_ms": 7562
+    },
+    {
+      "word": "Resurrección de Lázaro Jesús, profundamente conmovido otra vez, vino al sepulcro.",
+      "verse": 37,
+      "start_ms": 230887,
+      "end_ms": 236937,
+      "duration_ms": 6050
+    },
+    {
+      "word": "Era una cueva, y tenía una piedra puesta encima.",
+      "verse": 38,
+      "start_ms": 236937,
+      "end_ms": 240787,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Dijo Jesús: Quitad la piedra.",
+      "verse": 39,
+      "start_ms": 240787,
+      "end_ms": 243774,
+      "duration_ms": 2987
+    },
+    {
+      "word": "Marta, la hermana del que había muerto, le dijo: Señor, hiede ya, porque es de cuatro días.",
+      "verse": 39,
+      "start_ms": 243775,
+      "end_ms": 250987,
+      "duration_ms": 7212
+    },
+    {
+      "word": "Jesús le dijo: ¿No te he dicho que si crees, verás la gloria de Dios?",
+      "verse": 40,
+      "start_ms": 250987,
+      "end_ms": 256124,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Entonces quitaron la piedra de donde había sido puesto el muerto.",
+      "verse": 41,
+      "start_ms": 256125,
+      "end_ms": 260312,
+      "duration_ms": 4187
+    },
+    {
+      "word": "Y Jesús, alzando los ojos a lo alto, dijo: Padre, gracias te doy por haberme oído.",
+      "verse": 41,
+      "start_ms": 260312,
+      "end_ms": 266899,
+      "duration_ms": 6587
+    },
+    {
+      "word": "Yo sabía que siempre me oyes; pero lo dije por causa de la multitud que está alrededor, para que crean que tú me has enviado.",
+      "verse": 42,
+      "start_ms": 266900,
+      "end_ms": 274500,
+      "duration_ms": 7600
+    },
+    {
+      "word": "Y habiendo dicho esto, clamó a gran",
+      "verse": 43,
+      "start_ms": 274500,
+      "end_ms": 277687,
+      "duration_ms": 3187
+    },
+    {
+      "word": "voz: ¡Lázaro, ven fuera!",
+      "verse": 43,
+      "start_ms": 277852,
+      "end_ms": 280702,
+      "duration_ms": 2850
+    },
+    {
+      "word": "Y el que había muerto salió, atadas las manos y los pies con vendas, y el rostro envuelto en un sudario.",
+      "verse": 44,
+      "start_ms": 280652,
+      "end_ms": 287439,
+      "duration_ms": 6787
+    },
+    {
+      "word": "Jesús les dijo: Desatadle, y dejadle ir.",
+      "verse": 44,
+      "start_ms": 287439,
+      "end_ms": 291401,
+      "duration_ms": 3962
+    },
+    {
+      "word": "El complot para matar a Jesús (Mt 26.1–5; Mc 14.1–2; Lc 22.1–2) Entonces muchos de los judíos que habían venido para acompañar a María, y vieron lo que hizo Jesús, creyeron en él.",
+      "verse": 44,
+      "start_ms": 291402,
+      "end_ms": 306989,
+      "duration_ms": 15587
+    },
+    {
+      "word": "Pero algunos de ellos fueron a los fariseos y les dijeron lo que Jesús había hecho.",
+      "verse": 46,
+      "start_ms": 306989,
+      "end_ms": 311914,
+      "duration_ms": 4925
+    },
+    {
+      "word": "Entonces los principales sacerdotes y los fariseos reunieron el concilio, y dijeron: ¿Qué haremos?",
+      "verse": 47,
+      "start_ms": 311914,
+      "end_ms": 318639,
+      "duration_ms": 6725
+    },
+    {
+      "word": "Porque este hombre hace muchas señales.",
+      "verse": 47,
+      "start_ms": 318639,
+      "end_ms": 321701,
+      "duration_ms": 3062
+    },
+    {
+      "word": "Si le dejamos así, todos creerán en él; y vendrán los romanos, y destruirán nuestro lugar santo y nuestra nación.",
+      "verse": 48,
+      "start_ms": 321702,
+      "end_ms": 329364,
+      "duration_ms": 7662
+    },
+    {
+      "word": "Entonces Caifás, uno de ellos, sumo sacerdote aquel año, les dijo: Vosotros no sabéis nada; ni pensáis que nos conviene que un hombre muera por el pueblo, y no que toda la nación perezca.",
+      "verse": 49,
+      "start_ms": 329364,
+      "end_ms": 341689,
+      "duration_ms": 12325
+    },
+    {
+      "word": "Esto no lo dijo por sí mismo, sino que como era el sumo sacerdote aquel año, profetizó que Jesús había de morir por la nación; y no solamente por la nación, sino también para congregar en uno a los hijos de Dios que estaban dispersos.",
+      "verse": 51,
+      "start_ms": 341689,
+      "end_ms": 355726,
+      "duration_ms": 14037
+    },
+    {
+      "word": "Así que, desde aquel día acordaron matarle.",
+      "verse": 53,
+      "start_ms": 355727,
+      "end_ms": 359352,
+      "duration_ms": 3625
+    },
+    {
+      "word": "Por tanto, Jesús ya no andaba abiertamente entre los judíos, sino que se alejó de allí a la región contigua al desierto, a una ciudad llamada Efraín; y se quedó allí con sus discípulos.",
+      "verse": 54,
+      "start_ms": 359352,
+      "end_ms": 370564,
+      "duration_ms": 11212
+    },
+    {
+      "word": "Y estaba cerca la pascua de los judíos; y muchos subieron de aquella región a Jerusalén antes de la pascua, para purificarse.",
+      "verse": 55,
+      "start_ms": 370564,
+      "end_ms": 378139,
+      "duration_ms": 7575
+    },
+    {
+      "word": "Y buscaban a Jesús, y estando ellos en el templo, se preguntaban unos a otros: ¿Qué os parece?",
+      "verse": 56,
+      "start_ms": 378139,
+      "end_ms": 385014,
+      "duration_ms": 6875
+    },
+    {
+      "word": "No vendrá a la fiesta?",
+      "verse": 56,
+      "start_ms": 385014,
+      "end_ms": 387239,
+      "duration_ms": 2225
+    },
+    {
+      "word": "Y los principales sacerdotes y los fariseos habían dado orden de que si alguno supiese dónde estaba, lo manifestase, para que le prendiesen.",
+      "verse": 57,
+      "start_ms": 387239,
+      "end_ms": 395601,
+      "duration_ms": 8362
+    }
+  ]
+}

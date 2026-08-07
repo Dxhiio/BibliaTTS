@@ -1,0 +1,411 @@
+{
+  "book": "SAL",
+  "chapter": 73,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 28,
+  "word_count": 29,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 76,
+      "text": "Ciertamente es bueno Dios para con Israel, Para con los limpios de corazón."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 76,
+      "char_end": 152,
+      "text": "En cuanto a mí, casi se deslizaron mis pies; Por poco resbalaron mis pasos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 152,
+      "char_end": 228,
+      "text": "Porque tuve envidia de los arrogantes, Viendo la prosperidad de los impíos."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 228,
+      "char_end": 296,
+      "text": "Porque no tienen congojas por su muerte, Pues su vigor está entero."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 296,
+      "char_end": 379,
+      "text": "No pasan trabajos como los otros mortales, Ni son azotados como los demás hombres."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 379,
+      "char_end": 449,
+      "text": "Por tanto, la soberbia los corona; Se cubren de vestido de violencia."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 449,
+      "char_end": 527,
+      "text": "Los ojos se les saltan de gordura; Logran con creces los antojos del corazón."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 527,
+      "char_end": 598,
+      "text": "Se mofan y hablan con maldad de hacer violencia; Hablan con altanería."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 598,
+      "char_end": 658,
+      "text": "Ponen su boca contra el cielo, Y su lengua pasea la tierra."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 658,
+      "char_end": 751,
+      "text": "Por eso Dios hará volver a su pueblo aquí, Y aguas en abundancia serán extraídas para ellos."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 751,
+      "char_end": 813,
+      "text": "Y dicen: ¿Cómo sabe Dios? ¿Y hay conocimiento en el Altísimo?"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 813,
+      "char_end": 884,
+      "text": "He aquí estos impíos, Sin ser turbados del mundo, alcanzaron riquezas."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 884,
+      "char_end": 964,
+      "text": "Verdaderamente en vano he limpiado mi corazón, Y lavado mis manos en inocencia;"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 964,
+      "char_end": 1029,
+      "text": "Pues he sido azotado todo el día, Y castigado todas las mañanas."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1029,
+      "char_end": 1112,
+      "text": "Si dijera yo: Hablaré como ellos, He aquí, a la generación de tus hijos engañaría."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1112,
+      "char_end": 1168,
+      "text": "Cuando pensé para saber esto, Fue duro trabajo para mí,"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1168,
+      "char_end": 1239,
+      "text": "Hasta que entrando en el santuario de Dios, Comprendí el fin de ellos."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1239,
+      "char_end": 1315,
+      "text": "Ciertamente los has puesto en deslizaderos; En asolamientos los harás caer."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1315,
+      "char_end": 1391,
+      "text": "¡Cómo han sido asolados de repente! Perecieron, se consumieron de terrores."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1391,
+      "char_end": 1483,
+      "text": "Como sueño del que despierta, Así, Señor, cuando despertares, menospreciarás su apariencia."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1483,
+      "char_end": 1546,
+      "text": "Se llenó de amargura mi alma, Y en mi corazón sentía punzadas."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1546,
+      "char_end": 1616,
+      "text": "Tan torpe era yo, que no entendía; Era como una bestia delante de ti."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1616,
+      "char_end": 1684,
+      "text": "Con todo, yo siempre estuve contigo; Me tomaste de la mano derecha."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1684,
+      "char_end": 1750,
+      "text": "Me has guiado según tu consejo, Y después me recibirás en gloria."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1750,
+      "char_end": 1832,
+      "text": "¿A quién tengo yo en los cielos sino a ti? Y fuera de ti nada deseo en la tierra."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 1832,
+      "char_end": 1928,
+      "text": "Mi carne y mi corazón desfallecen; Mas la roca de mi corazón y mi porción es Dios para siempre."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 1928,
+      "char_end": 2027,
+      "text": "Porque he aquí, los que se alejan de ti perecerán; Tú destruirás a todo aquel que de ti se aparta."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2027,
+      "char_end": 2152,
+      "text": "Pero en cuanto a mí, el acercarme a Dios es el bien; He puesto en Jehová el Señor mi esperanza, Para contar todas tus obras."
+    }
+  ],
+  "words": [
+    {
+      "word": "Ciertamente es bueno Dios para con Israel, Para con los limpios de corazón.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5200,
+      "duration_ms": 5100
+    },
+    {
+      "word": "En cuanto a mí, casi se deslizaron mis pies; Por poco resbalaron mis pasos.",
+      "verse": 2,
+      "start_ms": 5150,
+      "end_ms": 10550,
+      "duration_ms": 5400
+    },
+    {
+      "word": "Porque tuve envidia de los arrogantes, Viendo la prosperidad de los impíos.",
+      "verse": 3,
+      "start_ms": 10550,
+      "end_ms": 15525,
+      "duration_ms": 4975
+    },
+    {
+      "word": "Porque no tienen congojas por su muerte, Pues su vigor está entero.",
+      "verse": 4,
+      "start_ms": 15525,
+      "end_ms": 19850,
+      "duration_ms": 4325
+    },
+    {
+      "word": "No pasan trabajos como los otros mortales, Ni son azotados como los demás hombres.",
+      "verse": 5,
+      "start_ms": 19850,
+      "end_ms": 25375,
+      "duration_ms": 5525
+    },
+    {
+      "word": "Por tanto, la soberbia los corona; Se cubren de vestido de violencia.",
+      "verse": 6,
+      "start_ms": 25375,
+      "end_ms": 30350,
+      "duration_ms": 4975
+    },
+    {
+      "word": "Los ojos se les saltan de gordura; Logran con creces los antojos del corazón.",
+      "verse": 7,
+      "start_ms": 30350,
+      "end_ms": 35525,
+      "duration_ms": 5175
+    },
+    {
+      "word": "Se mofan y hablan con maldad de hacer violencia; Hablan con altanería.",
+      "verse": 8,
+      "start_ms": 35525,
+      "end_ms": 40412,
+      "duration_ms": 4887
+    },
+    {
+      "word": "Ponen su boca contra el cielo, Y su lengua pasea la tierra.",
+      "verse": 9,
+      "start_ms": 40412,
+      "end_ms": 44549,
+      "duration_ms": 4137
+    },
+    {
+      "word": "Por eso Dios hará volver a su pueblo aquí, Y aguas en abundancia serán extraídas para ellos.",
+      "verse": 10,
+      "start_ms": 44550,
+      "end_ms": 50625,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Y dicen: ¿Cómo sabe Dios?",
+      "verse": 11,
+      "start_ms": 50625,
+      "end_ms": 53437,
+      "duration_ms": 2812
+    },
+    {
+      "word": "Y hay conocimiento en el Altísimo?",
+      "verse": 11,
+      "start_ms": 53437,
+      "end_ms": 56162,
+      "duration_ms": 2725
+    },
+    {
+      "word": "He aquí estos impíos, Sin ser turbados del mundo, alcanzaron riquezas.",
+      "verse": 12,
+      "start_ms": 56162,
+      "end_ms": 61649,
+      "duration_ms": 5487
+    },
+    {
+      "word": "Verdaderamente en vano he limpiado mi corazón, Y lavado mis manos en inocencia; Pues he sido azotado todo el día, Y castigado todas las mañanas.",
+      "verse": 13,
+      "start_ms": 61650,
+      "end_ms": 71387,
+      "duration_ms": 9737
+    },
+    {
+      "word": "Si dijera yo: Hablaré como ellos, He aquí, a la generación de tus hijos engañaría.",
+      "verse": 15,
+      "start_ms": 71387,
+      "end_ms": 77674,
+      "duration_ms": 6287
+    },
+    {
+      "word": "Cuando pensé para saber esto, Fue duro trabajo para mí, Hasta que entrando en el santuario de Dios, Comprendí el fin de ellos.",
+      "verse": 16,
+      "start_ms": 77675,
+      "end_ms": 85612,
+      "duration_ms": 7937
+    },
+    {
+      "word": "Ciertamente los has puesto en deslizaderos; En asolamientos los harás caer.",
+      "verse": 18,
+      "start_ms": 85612,
+      "end_ms": 90887,
+      "duration_ms": 5275
+    },
+    {
+      "word": "Cómo han sido asolados de repente!",
+      "verse": 19,
+      "start_ms": 90887,
+      "end_ms": 93599,
+      "duration_ms": 2712
+    },
+    {
+      "word": "Perecieron, se consumieron de terrores.",
+      "verse": 19,
+      "start_ms": 93600,
+      "end_ms": 96900,
+      "duration_ms": 3300
+    },
+    {
+      "word": "Como sueño del que despierta, Así, Señor, cuando despertares, menospreciarás su apariencia.",
+      "verse": 20,
+      "start_ms": 96900,
+      "end_ms": 103512,
+      "duration_ms": 6612
+    },
+    {
+      "word": "Se llenó de amargura mi alma, Y en mi corazón sentía punzadas.",
+      "verse": 21,
+      "start_ms": 103512,
+      "end_ms": 108212,
+      "duration_ms": 4700
+    },
+    {
+      "word": "Tan torpe era yo, que no entendía; Era como una bestia delante de ti.",
+      "verse": 22,
+      "start_ms": 108212,
+      "end_ms": 113524,
+      "duration_ms": 5312
+    },
+    {
+      "word": "Con todo, yo siempre estuve contigo; Me tomaste de la mano derecha.",
+      "verse": 23,
+      "start_ms": 113525,
+      "end_ms": 118437,
+      "duration_ms": 4912
+    },
+    {
+      "word": "Me has guiado según tu consejo, Y después me recibirás en gloria.",
+      "verse": 24,
+      "start_ms": 118437,
+      "end_ms": 123162,
+      "duration_ms": 4725
+    },
+    {
+      "word": "A quién tengo yo en los cielos sino a ti?",
+      "verse": 25,
+      "start_ms": 123162,
+      "end_ms": 126099,
+      "duration_ms": 2937
+    },
+    {
+      "word": "Y fuera de ti nada deseo en la tierra.",
+      "verse": 25,
+      "start_ms": 126100,
+      "end_ms": 129087,
+      "duration_ms": 2987
+    },
+    {
+      "word": "Mi carne y mi corazón desfallecen; Mas la roca de mi corazón y mi porción es Dios para siempre.",
+      "verse": 26,
+      "start_ms": 129087,
+      "end_ms": 135149,
+      "duration_ms": 6062
+    },
+    {
+      "word": "Porque he aquí, los que se alejan de ti perecerán; Tú destruirás a todo aquel que de ti se aparta.",
+      "verse": 27,
+      "start_ms": 135150,
+      "end_ms": 141687,
+      "duration_ms": 6537
+    },
+    {
+      "word": "Pero en cuanto a mí, el acercarme a Dios es el bien; He puesto en Jehová el Señor mi esperanza, Para contar todas tus obras.",
+      "verse": 28,
+      "start_ms": 141687,
+      "end_ms": 149362,
+      "duration_ms": 7675
+    }
+  ]
+}

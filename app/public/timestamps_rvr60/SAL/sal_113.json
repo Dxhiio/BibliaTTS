@@ -1,0 +1,131 @@
+{
+  "book": "SAL",
+  "chapter": 113,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 9,
+  "word_count": 8,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 55,
+      "text": "Alabad, siervos de Jehová, Alabad el nombre de Jehová."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 55,
+      "char_end": 115,
+      "text": "Sea el nombre de Jehová bendito Desde ahora y para siempre."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 115,
+      "char_end": 197,
+      "text": "Desde el nacimiento del sol hasta donde se pone, Sea alabado el nombre de Jehová."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 197,
+      "char_end": 269,
+      "text": "Excelso sobre todas las naciones es Jehová, Sobre los cielos su gloria."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 269,
+      "char_end": 332,
+      "text": "¿Quién como Jehová nuestro Dios, Que se sienta en las alturas,"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 332,
+      "char_end": 383,
+      "text": "Que se humilla a mirar En el cielo y en la tierra?"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 383,
+      "char_end": 449,
+      "text": "Él levanta del polvo al pobre, Y al menesteroso alza del muladar,"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 449,
+      "char_end": 521,
+      "text": "Para hacerlos sentar con los príncipes, Con los príncipes de su pueblo."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 521,
+      "char_end": 606,
+      "text": "Él hace habitar en familia a la estéril, Que se goza en ser madre de hijos. Aleluya."
+    }
+  ],
+  "words": [
+    {
+      "word": "Alabad, siervos de Jehová, Alabad el nombre de Jehová.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4387,
+      "duration_ms": 4287
+    },
+    {
+      "word": "Sea el nombre de Jehová bendito Desde ahora y para siempre.",
+      "verse": 2,
+      "start_ms": 4337,
+      "end_ms": 8399,
+      "duration_ms": 4062
+    },
+    {
+      "word": "Desde el nacimiento del sol hasta donde se pone, Sea alabado el nombre de Jehová.",
+      "verse": 3,
+      "start_ms": 8400,
+      "end_ms": 13587,
+      "duration_ms": 5187
+    },
+    {
+      "word": "Excelso sobre todas las naciones es Jehová, Sobre los cielos su gloria.",
+      "verse": 4,
+      "start_ms": 13587,
+      "end_ms": 18449,
+      "duration_ms": 4862
+    },
+    {
+      "word": "Quién como Jehová nuestro Dios, Que se sienta en las alturas, Que se humilla a mirar En el cielo y en la tierra?",
+      "verse": 5,
+      "start_ms": 18450,
+      "end_ms": 25312,
+      "duration_ms": 6862
+    },
+    {
+      "word": "Él levanta del polvo al pobre, Y al menesteroso alza del muladar, Para hacerlos sentar con los príncipes, Con los príncipes de su pueblo.",
+      "verse": 7,
+      "start_ms": 25312,
+      "end_ms": 33437,
+      "duration_ms": 8125
+    },
+    {
+      "word": "Él hace habitar en familia a la estéril, Que se goza en ser madre de hijos.",
+      "verse": 9,
+      "start_ms": 33437,
+      "end_ms": 38449,
+      "duration_ms": 5012
+    },
+    {
+      "word": "Aleluya.",
+      "verse": 9,
+      "start_ms": 38450,
+      "end_ms": 40150,
+      "duration_ms": 1700
+    }
+  ]
+}

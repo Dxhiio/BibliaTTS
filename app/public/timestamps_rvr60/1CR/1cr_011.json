@@ -1,0 +1,572 @@
+{
+  "book": "1CR",
+  "chapter": 11,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 47,
+  "word_count": 33,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 103,
+      "text": "Entonces todo Israel se juntó a David en Hebrón, diciendo: He aquí nosotros somos tu hueso y tu carne."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 103,
+      "char_end": 329,
+      "text": "También antes de ahora, mientras Saúl reinaba, tú eras quien sacaba a la guerra a Israel, y lo volvía a traer. También Jehová tu Dios te ha dicho: Tú apacentarás a mi pueblo Israel, y tú serás príncipe sobre Israel mi pueblo."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 329,
+      "char_end": 575,
+      "text": "Y vinieron todos los ancianos de Israel al rey en Hebrón, y David hizo con ellos pacto delante de Jehová; y ungieron a David por rey sobre Israel, conforme a la palabra de Jehová por medio de Samuel. David toma la fortaleza de Sion (2 Sa 5.6–10)"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 575,
+      "char_end": 688,
+      "text": "Entonces se fue David con todo Israel a Jerusalén, la cual es Jebús; y los jebuseos habitaban en aquella tierra."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 688,
+      "char_end": 811,
+      "text": "Y los moradores de Jebús dijeron a David: No entrarás acá. Mas David tomó la fortaleza de Sion, que es la ciudad de David."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 811,
+      "char_end": 955,
+      "text": "Y David había dicho: El que primero derrote a los jebuseos será cabeza y jefe. Entonces Joab hijo de Sarvia subió el primero, y fue hecho jefe."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 955,
+      "char_end": 1030,
+      "text": "Y David habitó en la fortaleza, y por esto la llamaron la Ciudad de David."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1030,
+      "char_end": 1124,
+      "text": "Y edificó la ciudad alrededor, desde Milo hasta el muro; y Joab reparó el resto de la ciudad."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1124,
+      "char_end": 1240,
+      "text": "Y David iba adelantando y creciendo, y Jehová de los ejércitos estaba con él. Los valientes de David (2 Sa 23.8–39)"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1240,
+      "char_end": 1415,
+      "text": "Éstos son los principales de los valientes que David tuvo, y los que le ayudaron en su reino, con todo Israel, para hacerle rey sobre Israel, conforme a la palabra de Jehová."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1415,
+      "char_end": 1591,
+      "text": "Y éste es el número de los valientes que David tuvo: Jasobeam hijo de Hacmoni, caudillo de los treinta, el cual blandió su lanza una vez contra trescientos, a los cuales mató."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1591,
+      "char_end": 1677,
+      "text": "Tras de éste estaba Eleazar hijo de Dodo, ahohíta, el cual era de los tres valientes."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1677,
+      "char_end": 1856,
+      "text": "Éste estuvo con David en Pasdamim, estando allí juntos en batalla los filisteos; y había allí una parcela de tierra llena de cebada, y huyendo el pueblo delante de los filisteos,"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1856,
+      "char_end": 1995,
+      "text": "se pusieron ellos en medio de la parcela y la defendieron, y vencieron a los filisteos, porque Jehová los favoreció con una gran victoria."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1995,
+      "char_end": 2145,
+      "text": "Y tres de los treinta principales descendieron a la peña a David, a la cueva de Adulam, estando el campamento de los filisteos en el valle de Refaim."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2145,
+      "char_end": 2239,
+      "text": "David estaba entonces en la fortaleza, y había entonces guarnición de los filisteos en Belén."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2239,
+      "char_end": 2348,
+      "text": "David deseó entonces, y dijo: ¡Quién me diera de beber de las aguas del pozo de Belén, que está a la puerta!"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2348,
+      "char_end": 2569,
+      "text": "Y aquellos tres rompieron por el campamento de los filisteos, y sacaron agua del pozo de Belén, que está a la puerta, y la tomaron y la trajeron a David; mas él no la quiso beber, sino que la derramó para Jehová, y dijo:"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2569,
+      "char_end": 2762,
+      "text": "Guárdeme mi Dios de hacer esto. ¿Había yo de beber la sangre y la vida de estos varones, que con peligro de sus vidas la han traído? Y no la quiso beber. Esto hicieron aquellos tres valientes."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2762,
+      "char_end": 2900,
+      "text": "Y Abisai, hermano de Joab, era jefe de los treinta, el cual blandió su lanza contra trescientos y los mató, y ganó renombre con los tres."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2900,
+      "char_end": 2995,
+      "text": "Fue el más ilustre de los treinta, y fue el jefe de ellos, pero no igualó a los tres primeros."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2995,
+      "char_end": 3187,
+      "text": "Benaía hijo de Joiada, hijo de un varón valiente de Cabseel, de grandes hechos; él venció a los dos leones de Moab; también descendió y mató a un león en medio de un foso, en tiempo de nieve."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3187,
+      "char_end": 3414,
+      "text": "Él mismo venció a un egipcio, hombre de cinco codos de estatura; y el egipcio traía una lanza como un rodillo de tejedor, mas él descendió con un báculo, y arrebató al egipcio la lanza de la mano, y lo mató con su misma lanza."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3414,
+      "char_end": 3486,
+      "text": "Esto hizo Benaía hijo de Joiada, y fue nombrado con los tres valientes."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3486,
+      "char_end": 3605,
+      "text": "Y fue el más distinguido de los treinta, pero no igualó a los tres primeros. A éste puso David en su guardia personal."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3605,
+      "char_end": 3693,
+      "text": "Y los valientes de los ejércitos: Asael hermano de Joab, Elhanan hijo de Dodo de Belén,"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3693,
+      "char_end": 3725,
+      "text": "Samot harodita, Heles pelonita;"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3725,
+      "char_end": 3771,
+      "text": "Ira hijo de Iques tecoíta, Abiezer anatotita,"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3771,
+      "char_end": 3803,
+      "text": "Sibecai husatita, Ilai ahohíta,"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3803,
+      "char_end": 3855,
+      "text": "Maharai netofatita, Heled hijo de Baana netofatita,"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3855,
+      "char_end": 3929,
+      "text": "Itai hijo de Ribai, de Gabaa de los hijos de Benjamín, Benaía piratonita,"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3929,
+      "char_end": 3965,
+      "text": "Hurai del río Gaas, Abiel arbatita,"
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3965,
+      "char_end": 4003,
+      "text": "Azmavet barhumita, Eliaba saalbonita,"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4003,
+      "char_end": 4062,
+      "text": "los hijos de Hasem gizonita, Jonatán hijo de Sage ararita,"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4062,
+      "char_end": 4110,
+      "text": "Ahíam hijo de Sacar ararita, Elifal hijo de Ur,"
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4110,
+      "char_end": 4145,
+      "text": "Hefer mequeratita, Ahías pelonita,"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4145,
+      "char_end": 4184,
+      "text": "Hezro carmelita, Naarai hijo de Ezbai,"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4184,
+      "char_end": 4230,
+      "text": "Joel hermano de Natán, Mibhar hijo de Hagrai,"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4230,
+      "char_end": 4297,
+      "text": "Selec amonita, Naharai beerotita, escudero de Joab hijo de Sarvia,"
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4297,
+      "char_end": 4323,
+      "text": "Ira itrita, Gareb itrita,"
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4323,
+      "char_end": 4357,
+      "text": "Urías heteo, Zabad hijo de Ahlai,"
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4357,
+      "char_end": 4431,
+      "text": "Adina hijo de Siza rubenita, príncipe de los rubenitas, y con él treinta,"
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4431,
+      "char_end": 4469,
+      "text": "Hanán hijo de Maaca, Josafat mitnita,"
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 4469,
+      "char_end": 4526,
+      "text": "Uzías astarotita, Sama y Jehiel hijos de Hotam aroerita;"
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 4526,
+      "char_end": 4576,
+      "text": "Jediael hijo de Simri, y Joha su hermano, tizita,"
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 4576,
+      "char_end": 4641,
+      "text": "Eliel mahavita, Jerebai y Josavía hijos de Elnaam, Itma moabita,"
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 4641,
+      "char_end": 4675,
+      "text": "Eliel, Obed, y Jaasiel mesobaíta."
+    }
+  ],
+  "words": [
+    {
+      "word": "Entonces todo Israel se juntó a David en Hebrón, diciendo: He aquí nosotros somos tu hueso y tu carne.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7137,
+      "duration_ms": 7037
+    },
+    {
+      "word": "También antes de ahora, mientras Saúl reinaba, tú eras quien sacaba a la guerra a Israel, y lo volvía a traer.",
+      "verse": 2,
+      "start_ms": 7087,
+      "end_ms": 14437,
+      "duration_ms": 7350
+    },
+    {
+      "word": "También Jehová tu Dios te ha dicho: Tú apacentarás a mi pueblo Israel, y tú serás príncipe sobre Israel mi pueblo.",
+      "verse": 2,
+      "start_ms": 14437,
+      "end_ms": 21724,
+      "duration_ms": 7287
+    },
+    {
+      "word": "Y vinieron todos los ancianos de Israel al rey en Hebrón, y David hizo con ellos pacto delante de Jehová; y ungieron a David por rey sobre Israel, conforme a la palabra de Jehová por medio de Samuel.",
+      "verse": 3,
+      "start_ms": 21725,
+      "end_ms": 33237,
+      "duration_ms": 11512
+    },
+    {
+      "word": "David toma la fortaleza de Sion (2 Sa 5.6–10) Entonces se fue David con todo Israel a Jerusalén, la cual es Jebús; y los jebuseos habitaban en aquella tierra.",
+      "verse": 3,
+      "start_ms": 33237,
+      "end_ms": 44649,
+      "duration_ms": 11412
+    },
+    {
+      "word": "Y los moradores de Jebús dijeron a David: No entrarás acá.",
+      "verse": 5,
+      "start_ms": 44650,
+      "end_ms": 48912,
+      "duration_ms": 4262
+    },
+    {
+      "word": "Mas David tomó la fortaleza de Sion, que es la ciudad de David.",
+      "verse": 5,
+      "start_ms": 48912,
+      "end_ms": 53449,
+      "duration_ms": 4537
+    },
+    {
+      "word": "Y David había dicho: El que primero derrote a los jebuseos será cabeza y jefe.",
+      "verse": 6,
+      "start_ms": 53450,
+      "end_ms": 58875,
+      "duration_ms": 5425
+    },
+    {
+      "word": "Entonces Joab hijo de Sarvia subió el primero, y fue hecho jefe.",
+      "verse": 6,
+      "start_ms": 58875,
+      "end_ms": 63550,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Y David habitó en la fortaleza, y por esto la llamaron la Ciudad de David.",
+      "verse": 7,
+      "start_ms": 63550,
+      "end_ms": 68425,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Y edificó la ciudad alrededor, desde Milo hasta el muro; y Joab reparó el resto de la ciudad.",
+      "verse": 8,
+      "start_ms": 68425,
+      "end_ms": 74900,
+      "duration_ms": 6475
+    },
+    {
+      "word": "Y David iba adelantando y creciendo, y Jehová de los ejércitos estaba con él.",
+      "verse": 9,
+      "start_ms": 74900,
+      "end_ms": 80037,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Los valientes de David (2 Sa 23.8–39) Éstos son los principales de los valientes que David tuvo, y los que le ayudaron en su reino, con todo Israel, para hacerle rey sobre Israel, conforme a la palabra de Jehová.",
+      "verse": 9,
+      "start_ms": 80037,
+      "end_ms": 94162,
+      "duration_ms": 14125
+    },
+    {
+      "word": "Y éste es el número de los valientes que David tuvo: Jasobeam hijo de Hacmoni, caudillo de los treinta, el cual blandió su lanza una vez contra trescientos, a los cuales mató.",
+      "verse": 11,
+      "start_ms": 94162,
+      "end_ms": 104812,
+      "duration_ms": 10650
+    },
+    {
+      "word": "Tras de éste estaba Eleazar hijo de Dodo, ahohíta, el cual era de los tres valientes.",
+      "verse": 12,
+      "start_ms": 104812,
+      "end_ms": 110724,
+      "duration_ms": 5912
+    },
+    {
+      "word": "Éste estuvo con David en Pasdamim, estando allí juntos en batalla los filisteos; y había allí una parcela de tierra llena de cebada, y huyendo el pueblo delante de los filisteos, se pusieron ellos en medio de la parcela y la defendieron, y vencieron a los filisteos, porque Jehová los favoreció con una gran victoria.",
+      "verse": 13,
+      "start_ms": 110725,
+      "end_ms": 129125,
+      "duration_ms": 18400
+    },
+    {
+      "word": "Y tres de los treinta principales descendieron a la peña a David, a la cueva de Adulam, estando el campamento de los filisteos en el valle de Refaim.",
+      "verse": 15,
+      "start_ms": 129125,
+      "end_ms": 137750,
+      "duration_ms": 8625
+    },
+    {
+      "word": "David estaba entonces en la fortaleza, y había entonces guarnición de los filisteos en Belén.",
+      "verse": 16,
+      "start_ms": 137750,
+      "end_ms": 143750,
+      "duration_ms": 6000
+    },
+    {
+      "word": "David deseó entonces, y dijo: ¡Quién me diera de beber de las aguas del pozo de Belén, que está a la puerta!",
+      "verse": 17,
+      "start_ms": 143750,
+      "end_ms": 150987,
+      "duration_ms": 7237
+    },
+    {
+      "word": "Y aquellos tres rompieron por el campamento de los filisteos, y sacaron agua del pozo de Belén, que está a la puerta, y la tomaron y la trajeron a David; mas él no la quiso beber, sino que la derramó para Jehová, y dijo: Guárdeme mi Dios de hacer esto.",
+      "verse": 18,
+      "start_ms": 150987,
+      "end_ms": 165949,
+      "duration_ms": 14962
+    },
+    {
+      "word": "Había yo de beber la sangre y la vida de estos varones, que con peligro de sus vidas la han traído?",
+      "verse": 19,
+      "start_ms": 165950,
+      "end_ms": 172537,
+      "duration_ms": 6587
+    },
+    {
+      "word": "Y no la quiso beber.",
+      "verse": 19,
+      "start_ms": 172537,
+      "end_ms": 174674,
+      "duration_ms": 2137
+    },
+    {
+      "word": "Esto hicieron aquellos tres valientes.",
+      "verse": 19,
+      "start_ms": 174675,
+      "end_ms": 177712,
+      "duration_ms": 3037
+    },
+    {
+      "word": "Y Abisai, hermano de Joab, era jefe de los treinta, el cual blandió su lanza contra trescientos y los mató, y ganó renombre con los tres.",
+      "verse": 20,
+      "start_ms": 177712,
+      "end_ms": 186774,
+      "duration_ms": 9062
+    },
+    {
+      "word": "Fue el más ilustre de los treinta, y fue el jefe de ellos, pero no igualó a los tres primeros.",
+      "verse": 21,
+      "start_ms": 186775,
+      "end_ms": 193225,
+      "duration_ms": 6450
+    },
+    {
+      "word": "Benaía hijo de Joiada, hijo de un varón valiente de Cabseel, de grandes hechos; él venció a los dos leones de Moab; también descendió y mató a un león en medio de un foso, en tiempo de nieve.",
+      "verse": 22,
+      "start_ms": 193225,
+      "end_ms": 205575,
+      "duration_ms": 12350
+    },
+    {
+      "word": "Él mismo venció a un egipcio, hombre de cinco codos de estatura; y el egipcio traía una lanza como un rodillo de tejedor, mas él descendió con un báculo, y arrebató al egipcio la lanza de la mano, y lo mató con su misma lanza.",
+      "verse": 23,
+      "start_ms": 205575,
+      "end_ms": 219512,
+      "duration_ms": 13937
+    },
+    {
+      "word": "Esto hizo Benaía hijo de Joiada, y fue nombrado con los tres valientes.",
+      "verse": 24,
+      "start_ms": 219512,
+      "end_ms": 224699,
+      "duration_ms": 5187
+    },
+    {
+      "word": "Y fue el más distinguido de los treinta, pero no igualó a los tres primeros.",
+      "verse": 25,
+      "start_ms": 224700,
+      "end_ms": 229825,
+      "duration_ms": 5125
+    },
+    {
+      "word": "A éste puso David en su guardia personal.",
+      "verse": 25,
+      "start_ms": 229825,
+      "end_ms": 233037,
+      "duration_ms": 3212
+    },
+    {
+      "word": "Y los valientes de los ejércitos: Asael hermano de Joab, Elhanan hijo de Dodo de Belén, Samot harodita, Heles pelonita; Ira hijo de Iques tecoíta, Abiezer anatotita, Sibecai husatita, Ilai ahohíta, Maharai netofatita, Heled hijo de Baana netofatita, Itai hijo de Ribai, de Gabaa de los hijos de Benjamín, Benaía piratonita, Hurai del río Gaas, Abiel arbatita, Azmavet barhumita, Eliaba",
+      "verse": 26,
+      "start_ms": 233037,
+      "end_ms": 259712,
+      "duration_ms": 26675
+    },
+    {
+      "word": "saalbonita, los hijos de Hasem gizonita, Jonatán hijo de Sage ararita, Ahíam hijo de Sacar ararita, Elifal hijo de Ur, Hefer mequeratita, Ahías pelonita, Hezro carmelita, Naarai hijo de Ezbai, Joel hermano de Natán, Mibhar hijo de Hagrai, Selec amonita, Naharai beerotita, escudero de Joab hijo de Sarvia, Ira itrita, Gareb itrita, Urías heteo, Zabad hijo de Ahlai, Adina hijo de Siza rubenita, príncipe de los rubenitas, y con él treinta, Hanán hijo de Maaca, Josafat mitnita, Uzías astarotita,",
+      "verse": 33,
+      "start_ms": 259876,
+      "end_ms": 293988,
+      "duration_ms": 34112
+    },
+    {
+      "word": "Sama y Jehiel hijos de Hotam aroerita; Jediael hijo de Simri, y Joha su hermano, tizita, Eliel mahavita, Jerebai y Josavía hijos de Elnaam, Itma moabita, Eliel, Obed, y Jaasiel mesobaíta.",
+      "verse": 44,
+      "start_ms": 293988,
+      "end_ms": 307725,
+      "duration_ms": 13737
+    }
+  ]
+}

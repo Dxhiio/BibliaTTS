@@ -1,0 +1,502 @@
+{
+  "book": "2SA",
+  "chapter": 23,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 39,
+  "word_count": 31,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 168,
+      "text": "Éstas son las palabras postreras de David. Dijo David hijo de Isaí, Dijo aquel varón que fue levantado en alto, El ungido del Dios de Jacob, El dulce cantor de Israel:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 168,
+      "char_end": 246,
+      "text": "El Espíritu de Jehová ha hablado por mí, Y su palabra ha estado en mi lengua."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 246,
+      "char_end": 383,
+      "text": "El Dios de Israel ha dicho, Me habló la Roca de Israel: Habrá un justo que gobierne entre los hombres, Que gobierne en el temor de Dios."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 383,
+      "char_end": 521,
+      "text": "Será como la luz de la mañana, Como el resplandor del sol en una mañana sin nubes, Como la lluvia que hace brotar la hierba de la tierra."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 521,
+      "char_end": 714,
+      "text": "No es así mi casa para con Dios; Sin embargo, él ha hecho conmigo pacto perpetuo, Ordenado en todas las cosas, y será guardado, Aunque todavía no haga él florecer Toda mi salvación y mi deseo."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 714,
+      "char_end": 807,
+      "text": "Mas los impíos serán todos ellos como espinos arrancados, Los cuales nadie toma con la mano;"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 807,
+      "char_end": 953,
+      "text": "Sino que el que quiere tocarlos Se arma de hierro y de asta de lanza, Y son del todo quemados en su lugar. Los valientes de David (1 Ch 11.10–47)"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 953,
+      "char_end": 1137,
+      "text": "Éstos son los nombres de los valientes que tuvo David: Joseb-basebet el tacmonita, principal de los capitanes; éste era Adino el eznita, que mató a ochocientos hombres en una ocasión."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1137,
+      "char_end": 1354,
+      "text": "Después de éste, Eleazar hijo de Dodo, ahohíta, uno de los tres valientes que estaban con David cuando desafiaron a los filisteos que se habían reunido allí para la batalla, y se habían alejado los hombres de Israel."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1354,
+      "char_end": 1565,
+      "text": "Éste se levantó e hirió a los filisteos hasta que su mano se cansó, y quedó pegada su mano a la espada. Aquel día Jehová dio una gran victoria, y se volvió el pueblo en pos de él tan sólo para recoger el botín."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1565,
+      "char_end": 1753,
+      "text": "Después de éste fue Sama hijo de Age, ararita. Los filisteos se habían reunido en Lehi, donde había un pequeño terreno lleno de lentejas, y el pueblo había huido delante de los filisteos."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1753,
+      "char_end": 1870,
+      "text": "Él entonces se paró en medio de aquel terreno y lo defendió, y mató a los filisteos; y Jehová dio una gran victoria."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1870,
+      "char_end": 2038,
+      "text": "Y tres de los treinta jefes descendieron y vinieron en tiempo de la siega a David en la cueva de Adulam; y el campamento de los filisteos estaba en el valle de Refaim."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 2038,
+      "char_end": 2130,
+      "text": "David entonces estaba en el lugar fuerte, y había en Belén una guarnición de los filisteos."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2130,
+      "char_end": 2238,
+      "text": "Y David dijo con vehemencia: ¡Quién me diera a beber del agua del pozo de Belén que está junto a la puerta!"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2238,
+      "char_end": 2480,
+      "text": "Entonces los tres valientes irrumpieron por el campamento de los filisteos, y sacaron agua del pozo de Belén que estaba junto a la puerta; y tomaron, y la trajeron a David; mas él no la quiso beber, sino que la derramó para Jehová, diciendo:"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2480,
+      "char_end": 2656,
+      "text": "Lejos sea de mí, oh Jehová, que yo haga esto. ¿He de beber yo la sangre de los varones que fueron con peligro de su vida? Y no quiso beberla. Los tres valientes hicieron esto."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2656,
+      "char_end": 2816,
+      "text": "Y Abisai hermano de Joab, hijo de Sarvia, fue el principal de los treinta. éste alzó su lanza contra trescientos, a quienes mató, y ganó renombre con los tres."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2816,
+      "char_end": 2915,
+      "text": "Él era el más renombrado de los treinta, y llegó a ser su jefe; mas no igualó a los tres primeros."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2915,
+      "char_end": 3119,
+      "text": "Después, Benaía hijo de Joiada, hijo de un varón esforzado, grande en proezas, de Cabseel. éste mató a dos leones de Moab; y él mismo descendió y mató a un león en medio de un foso cuando estaba nevando."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 3119,
+      "char_end": 3327,
+      "text": "También mató él a un egipcio, hombre de gran estatura; y tenía el egipcio una lanza en su mano, pero descendió contra él con un palo, y arrebató al egipcio la lanza de la mano, y lo mató con su propia lanza."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3327,
+      "char_end": 3400,
+      "text": "Esto hizo Benaía hijo de Joiada, y ganó renombre con los tres valientes."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3400,
+      "char_end": 3520,
+      "text": "Fue renombrado entre los treinta, pero no igualó a los tres primeros. Y lo puso David como jefe de su guardia personal."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3520,
+      "char_end": 3593,
+      "text": "Asael hermano de Joab fue de los treinta; Elhanán hijo de Dodo de Belén,"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3593,
+      "char_end": 3624,
+      "text": "Sama harodita, Elica harodita,"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3624,
+      "char_end": 3667,
+      "text": "Heles paltita, Ira hijo de Iques, tecoíta,"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3667,
+      "char_end": 3704,
+      "text": "Abiezer anatotita, Mebunai husatita,"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3704,
+      "char_end": 3740,
+      "text": "Salmón ahohíta, Maharai netofatita,"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3740,
+      "char_end": 3828,
+      "text": "Heleb hijo de Baana, netofatita, Itai hijo de Ribai, de Gabaa de los hijos de Benjamín,"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3828,
+      "char_end": 3873,
+      "text": "Benaía piratonita, Hidai del arroyo de Gaas,"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3873,
+      "char_end": 3912,
+      "text": "Abi-albón arbatita, Azmavet barhumita,"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3912,
+      "char_end": 3962,
+      "text": "Eliaba saalbonita, Jonatán de los hijos de Jasén,"
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3962,
+      "char_end": 4006,
+      "text": "Sama ararita, Ahíam hijo de Sarar, ararita,"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4006,
+      "char_end": 4081,
+      "text": "Elifelet hijo de Ahasbai, hijo de Maaca, Eliam hijo de Ahitofel, gilonita,"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4081,
+      "char_end": 4114,
+      "text": "Hezrai carmelita, Paarai arbita,"
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4114,
+      "char_end": 4156,
+      "text": "Igal hijo de Natán, de Soba, Bani gadita,"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4156,
+      "char_end": 4223,
+      "text": "Selec amonita, Naharai beerotita, escudero de Joab hijo de Sarvia,"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4223,
+      "char_end": 4249,
+      "text": "Ira itrita, Gareb itrita,"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4249,
+      "char_end": 4289,
+      "text": "Urías heteo; treinta y siete por todos."
+    }
+  ],
+  "words": [
+    {
+      "word": "Éstas son las palabras postreras de David.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3150,
+      "duration_ms": 3050
+    },
+    {
+      "word": "Dijo David hijo de Isaí, Dijo aquel varón que fue levantado en alto, El ungido del Dios de Jacob, El dulce cantor de Israel: El Espíritu de Jehová ha hablado por mí, Y su palabra ha estado en mi lengua.",
+      "verse": 1,
+      "start_ms": 3100,
+      "end_ms": 15587,
+      "duration_ms": 12487
+    },
+    {
+      "word": "El Dios de Israel ha dicho, Me habló la Roca de Israel: Habrá un justo que gobierne entre los hombres, Que gobierne en el temor de Dios.",
+      "verse": 3,
+      "start_ms": 15587,
+      "end_ms": 24249,
+      "duration_ms": 8662
+    },
+    {
+      "word": "Será como la luz de la mañana, Como el resplandor del sol en una mañana sin nubes, Como la lluvia que hace brotar la hierba de la tierra.",
+      "verse": 4,
+      "start_ms": 24250,
+      "end_ms": 32337,
+      "duration_ms": 8087
+    },
+    {
+      "word": "No es así mi casa para con Dios; Sin embargo, él ha hecho conmigo pacto perpetuo, Ordenado en todas las cosas, y será guardado, Aunque todavía no haga él florecer Toda mi salvación y mi deseo.",
+      "verse": 5,
+      "start_ms": 32337,
+      "end_ms": 44662,
+      "duration_ms": 12325
+    },
+    {
+      "word": "Mas los impíos serán todos ellos como espinos arrancados, Los cuales nadie toma con la mano; Sino que el que quiere tocarlos Se arma de hierro y de asta de lanza, Y son del todo quemados en su lugar.",
+      "verse": 6,
+      "start_ms": 44662,
+      "end_ms": 56212,
+      "duration_ms": 11550
+    },
+    {
+      "word": "Los valientes de David (1 Ch 11.10–47) Éstos son los nombres de los valientes que tuvo David: Joseb-basebet el tacmonita, principal de los capitanes; éste era Adino el eznita, que mató a ochocientos hombres en una ocasión.",
+      "verse": 7,
+      "start_ms": 56212,
+      "end_ms": 71337,
+      "duration_ms": 15125
+    },
+    {
+      "word": "Después de éste, Eleazar hijo de Dodo, ahohíta, uno de los tres valientes que estaban con David cuando desafiaron a los filisteos que se habían reunido allí para la batalla, y se habían alejado los hombres de Israel.",
+      "verse": 9,
+      "start_ms": 71337,
+      "end_ms": 83737,
+      "duration_ms": 12400
+    },
+    {
+      "word": "Éste se levantó e hirió a los filisteos hasta que su mano se cansó, y quedó pegada su mano a la espada.",
+      "verse": 10,
+      "start_ms": 83737,
+      "end_ms": 90299,
+      "duration_ms": 6562
+    },
+    {
+      "word": "Aquel día Jehová dio una gran victoria, y se volvió el pueblo en pos de él tan sólo para recoger el botín.",
+      "verse": 10,
+      "start_ms": 90300,
+      "end_ms": 96887,
+      "duration_ms": 6587
+    },
+    {
+      "word": "Después de éste fue Sama hijo de Age, ararita.",
+      "verse": 11,
+      "start_ms": 96887,
+      "end_ms": 100637,
+      "duration_ms": 3750
+    },
+    {
+      "word": "Los filisteos se habían reunido en Lehi, donde había un pequeño terreno lleno de lentejas, y el pueblo había huido delante de los filisteos.",
+      "verse": 11,
+      "start_ms": 100637,
+      "end_ms": 109387,
+      "duration_ms": 8750
+    },
+    {
+      "word": "Él entonces se paró en medio de aquel terreno y lo defendió, y mató a los filisteos; y Jehová dio una gran victoria.",
+      "verse": 12,
+      "start_ms": 109387,
+      "end_ms": 116849,
+      "duration_ms": 7462
+    },
+    {
+      "word": "Y tres de los treinta jefes descendieron y vinieron en tiempo de la siega a David en la cueva de Adulam; y el campamento de los filisteos estaba en el valle de Refaim.",
+      "verse": 13,
+      "start_ms": 116850,
+      "end_ms": 126062,
+      "duration_ms": 9212
+    },
+    {
+      "word": "David entonces estaba en el lugar fuerte, y había en Belén una guarnición de los filisteos.",
+      "verse": 14,
+      "start_ms": 126062,
+      "end_ms": 132024,
+      "duration_ms": 5962
+    },
+    {
+      "word": "Y David dijo con vehemencia: ¡Quién me diera a beber del agua del pozo de Belén que está junto a la puerta!",
+      "verse": 15,
+      "start_ms": 132025,
+      "end_ms": 138225,
+      "duration_ms": 6200
+    },
+    {
+      "word": "Entonces los tres valientes irrumpieron por el campamento de los filisteos, y sacaron agua del pozo de Belén que estaba junto a la puerta; y tomaron, y la trajeron a David; mas él no la quiso beber, sino que la derramó para Jehová, diciendo: Lejos sea de mí, oh Jehová, que yo haga esto.",
+      "verse": 16,
+      "start_ms": 138225,
+      "end_ms": 155587,
+      "duration_ms": 17362
+    },
+    {
+      "word": "He de beber yo la sangre de los varones que fueron con peligro de su vida?",
+      "verse": 17,
+      "start_ms": 155587,
+      "end_ms": 159999,
+      "duration_ms": 4412
+    },
+    {
+      "word": "Y no quiso beberla.",
+      "verse": 17,
+      "start_ms": 160000,
+      "end_ms": 162050,
+      "duration_ms": 2050
+    },
+    {
+      "word": "Los tres valientes hicieron esto.",
+      "verse": 17,
+      "start_ms": 162050,
+      "end_ms": 164775,
+      "duration_ms": 2725
+    },
+    {
+      "word": "Y Abisai hermano de Joab, hijo de Sarvia, fue el principal de los treinta.",
+      "verse": 18,
+      "start_ms": 164775,
+      "end_ms": 169937,
+      "duration_ms": 5162
+    },
+    {
+      "word": "éste alzó su lanza contra trescientos, a quienes mató, y ganó renombre con los tres.",
+      "verse": 18,
+      "start_ms": 169937,
+      "end_ms": 175812,
+      "duration_ms": 5875
+    },
+    {
+      "word": "Él era el más renombrado de los treinta, y llegó a ser su jefe; mas no igualó a los tres primeros.",
+      "verse": 19,
+      "start_ms": 175812,
+      "end_ms": 182499,
+      "duration_ms": 6687
+    },
+    {
+      "word": "Después, Benaía hijo de Joiada, hijo de un varón esforzado, grande en proezas, de Cabseel.",
+      "verse": 20,
+      "start_ms": 182500,
+      "end_ms": 189525,
+      "duration_ms": 7025
+    },
+    {
+      "word": "éste mató a dos leones de Moab; y él mismo descendió y mató a un león en medio de un foso cuando estaba nevando.",
+      "verse": 20,
+      "start_ms": 189525,
+      "end_ms": 196587,
+      "duration_ms": 7062
+    },
+    {
+      "word": "También mató él a un egipcio, hombre de gran estatura; y tenía el egipcio una lanza en su mano, pero descendió contra él con un palo, y arrebató al egipcio la lanza de la mano, y lo mató con su propia lanza.",
+      "verse": 21,
+      "start_ms": 196587,
+      "end_ms": 209199,
+      "duration_ms": 12612
+    },
+    {
+      "word": "Esto hizo Benaía hijo de Joiada, y ganó renombre con los tres valientes.",
+      "verse": 22,
+      "start_ms": 209200,
+      "end_ms": 214537,
+      "duration_ms": 5337
+    },
+    {
+      "word": "Fue renombrado entre los treinta, pero no igualó a los tres primeros.",
+      "verse": 23,
+      "start_ms": 214537,
+      "end_ms": 219299,
+      "duration_ms": 4762
+    },
+    {
+      "word": "Y lo puso David como jefe de su guardia personal.",
+      "verse": 23,
+      "start_ms": 219300,
+      "end_ms": 223012,
+      "duration_ms": 3712
+    },
+    {
+      "word": "Asael hermano de Joab fue de los treinta; Elhanán hijo de Dodo de Belén, Sama harodita, Elica harodita, Heles paltita, Ira hijo de Iques, tecoíta, Abiezer anatotita, Mebunai husatita, Salmón ahohíta, Maharai netofatita, Heleb hijo de Baana, netofatita, Itai hijo de Ribai, de Gabaa de los hijos de Benjamín, Benaía piratonita, Hidai del arroyo de Gaas, Abi-albón arbatita, Azmavet barhumita, Eliaba saalbonita, Jonatán de los hijos de Jasén, Sama ararita, Ahíam hijo de",
+      "verse": 24,
+      "start_ms": 223012,
+      "end_ms": 255649,
+      "duration_ms": 32637
+    },
+    {
+      "word": "Sarar, ararita, Elifelet hijo de Ahasbai, hijo de Maaca, Eliam hijo de Ahitofel, gilonita, Hezrai carmelita, Paarai arbita, Igal hijo de Natán, de Soba, Bani gadita, Selec amonita, Naharai beerotita, escudero de Joab hijo de Sarvia, Ira itrita, Gareb itrita, Urías heteo; treinta y siete por todos.",
+      "verse": 33,
+      "start_ms": 255820,
+      "end_ms": 277957,
+      "duration_ms": 22137
+    }
+  ]
+}

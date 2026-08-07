@@ -1,0 +1,138 @@
+{
+  "book": "SAL",
+  "chapter": 137,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 9,
+  "word_count": 9,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 92,
+      "text": "Junto a los ríos de Babilonia, Allí nos sentábamos, y aun llorábamos, Acordándonos de Sion."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 92,
+      "char_end": 151,
+      "text": "Sobre los sauces en medio de ella Colgamos nuestras arpas."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 151,
+      "char_end": 319,
+      "text": "Y los que nos habían llevado cautivos nos pedían que cantásemos, Y los que nos habían desolado nos pedían alegría, diciendo: Cantadnos algunos de los cánticos de Sion."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 319,
+      "char_end": 377,
+      "text": "¿Cómo cantaremos cántico de Jehová En tierra de extraños?"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 377,
+      "char_end": 444,
+      "text": "Si me olvidare de ti, oh Jerusalén, Pierda mi diestra su destreza."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 444,
+      "char_end": 570,
+      "text": "Mi lengua se pegue a mi paladar, Si de ti no me acordare; Si no enalteciere a Jerusalén Como preferente asunto de mi alegría."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 570,
+      "char_end": 693,
+      "text": "Oh Jehová, recuerda contra los hijos de Edom el día de Jerusalén, Cuando decían: Arrasadla, arrasadla Hasta los cimientos."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 693,
+      "char_end": 789,
+      "text": "Hija de Babilonia la desolada, Bienaventurado el que te diere el pago De lo que tú nos hiciste."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 789,
+      "char_end": 850,
+      "text": "Dichoso el que tomare y estrellare tus niños Contra la peña."
+    }
+  ],
+  "words": [
+    {
+      "word": "Junto a los ríos de Babilonia, Allí nos sentábamos, y aun llorábamos, Acordándonos de Sion.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6550,
+      "duration_ms": 6450
+    },
+    {
+      "word": "Sobre los sauces en medio de ella Colgamos nuestras arpas.",
+      "verse": 2,
+      "start_ms": 6500,
+      "end_ms": 10575,
+      "duration_ms": 4075
+    },
+    {
+      "word": "Y los que nos habían llevado cautivos nos pedían que cantásemos, Y los que nos habían desolado nos pedían alegría, diciendo: Cantadnos algunos de los cánticos de Sion.",
+      "verse": 3,
+      "start_ms": 10575,
+      "end_ms": 20587,
+      "duration_ms": 10012
+    },
+    {
+      "word": "Cómo cantaremos cántico de Jehová En tierra de extraños?",
+      "verse": 4,
+      "start_ms": 20587,
+      "end_ms": 24587,
+      "duration_ms": 4000
+    },
+    {
+      "word": "Si me olvidare de ti, oh Jerusalén, Pierda mi diestra su destreza.",
+      "verse": 5,
+      "start_ms": 24587,
+      "end_ms": 29537,
+      "duration_ms": 4950
+    },
+    {
+      "word": "Mi lengua se pegue a mi paladar, Si de ti no me acordare; Si no enalteciere a Jerusalén Como preferente asunto de mi alegría.",
+      "verse": 6,
+      "start_ms": 29537,
+      "end_ms": 37262,
+      "duration_ms": 7725
+    },
+    {
+      "word": "Oh Jehová, recuerda contra los hijos de Edom el día de Jerusalén, Cuando decían: Arrasadla, arrasadla Hasta los cimientos.",
+      "verse": 7,
+      "start_ms": 37262,
+      "end_ms": 45712,
+      "duration_ms": 8450
+    },
+    {
+      "word": "Hija de Babilonia la desolada, Bienaventurado el que te diere el pago De lo que tú nos hiciste.",
+      "verse": 8,
+      "start_ms": 45712,
+      "end_ms": 51612,
+      "duration_ms": 5900
+    },
+    {
+      "word": "Dichoso el que tomare y estrellare tus niños Contra la peña.",
+      "verse": 9,
+      "start_ms": 51612,
+      "end_ms": 55724,
+      "duration_ms": 4112
+    }
+  ]
+}

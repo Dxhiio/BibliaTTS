@@ -1,0 +1,117 @@
+{
+  "book": "SAL",
+  "chapter": 12,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 8,
+  "word_count": 7,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 121,
+      "text": "Salva, oh Jehová, porque se acabaron los piadosos; Porque han desaparecido los fieles de entre los hijos de los hombres."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 121,
+      "char_end": 215,
+      "text": "Habla mentira cada uno con su prójimo; Hablan con labios lisonjeros, y con doblez de corazón."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 215,
+      "char_end": 301,
+      "text": "Jehová destruirá todos los labios lisonjeros, Y la lengua que habla jactanciosamente;"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 301,
+      "char_end": 416,
+      "text": "A los que han dicho: Por nuestra lengua prevaleceremos; Nuestros labios son nuestros; ¿quién es señor de nosotros?"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 416,
+      "char_end": 556,
+      "text": "Por la opresión de los pobres, por el gemido de los menesterosos, Ahora me levantaré, dice Jehová; Pondré en salvo al que por ello suspira."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 556,
+      "char_end": 665,
+      "text": "Las palabras de Jehová son palabras limpias, Como plata refinada en horno de tierra, Purificada siete veces."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 665,
+      "char_end": 741,
+      "text": "Tú, Jehová, los guardarás; De esta generación los preservarás para siempre."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 741,
+      "char_end": 828,
+      "text": "Cercando andan los malos, Cuando la vileza es exaltada entre los hijos de los hombres."
+    }
+  ],
+  "words": [
+    {
+      "word": "Salva, oh Jehová, porque se acabaron los piadosos; Porque han desaparecido los fieles de entre los hijos de los hombres.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7575,
+      "duration_ms": 7475
+    },
+    {
+      "word": "Habla mentira cada uno con su prójimo; Hablan con labios lisonjeros, y con doblez de corazón.",
+      "verse": 2,
+      "start_ms": 7525,
+      "end_ms": 14087,
+      "duration_ms": 6562
+    },
+    {
+      "word": "Jehová destruirá todos los labios lisonjeros, Y la lengua que habla jactanciosamente; A los que han dicho: Por nuestra lengua prevaleceremos; Nuestros labios son nuestros; ¿quién es señor de nosotros?",
+      "verse": 3,
+      "start_ms": 14087,
+      "end_ms": 26399,
+      "duration_ms": 12312
+    },
+    {
+      "word": "Por la opresión de los pobres, por el gemido de los menesterosos, Ahora me levantaré, dice Jehová; Pondré en salvo al que por ello suspira.",
+      "verse": 5,
+      "start_ms": 26400,
+      "end_ms": 35175,
+      "duration_ms": 8775
+    },
+    {
+      "word": "Las palabras de Jehová son palabras limpias, Como plata refinada en horno de tierra, Purificada siete veces.",
+      "verse": 6,
+      "start_ms": 35175,
+      "end_ms": 42400,
+      "duration_ms": 7225
+    },
+    {
+      "word": "Tú, Jehová, los guardarás; De esta generación los preservarás para siempre.",
+      "verse": 7,
+      "start_ms": 42400,
+      "end_ms": 47950,
+      "duration_ms": 5550
+    },
+    {
+      "word": "Cercando andan los malos, Cuando la vileza es exaltada entre los hijos de los hombres.",
+      "verse": 8,
+      "start_ms": 47950,
+      "end_ms": 53487,
+      "duration_ms": 5537
+    }
+  ]
+}

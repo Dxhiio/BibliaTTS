@@ -1,0 +1,551 @@
+{
+  "book": "ISA",
+  "chapter": 37,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 38,
+  "word_count": 39,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 122,
+      "text": "Aconteció, pues, que cuando el rey Ezequías oyó esto, rasgó sus vestidos, y cubierto de cilicio vino a la casa de Jehová."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 122,
+      "char_end": 258,
+      "text": "Y envió a Eliaquim mayordomo, a Sebna escriba y a los ancianos de los sacerdotes, cubiertos de cilicio, al profeta Isaías hijo de Amoz."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 258,
+      "char_end": 453,
+      "text": "Los cuales le dijeron: Así ha dicho Ezequías: Día de angustia, de reprensión y de blasfemia es este día; porque los hijos han llegado hasta el punto de nacer, y la que da a luz no tiene fuerzas."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 453,
+      "char_end": 694,
+      "text": "Quizá oirá Jehová tu Dios las palabras del Rabsaces, al cual el rey de Asiria su señor envió para blasfemar al Dios vivo, y para vituperar con las palabras que oyó Jehová tu Dios; eleva, pues, oración tú por el remanente que aún ha quedado."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 694,
+      "char_end": 744,
+      "text": "Vinieron, pues, los siervos de Ezequías a Isaías."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 744,
+      "char_end": 916,
+      "text": "Y les dijo Isaías: Diréis así a vuestro señor: Así ha dicho Jehová: No temas por las palabras que has oído, con las cuales me han blasfemado los siervos del rey de Asiria."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 916,
+      "char_end": 1039,
+      "text": "He aquí que yo pondré en él un espíritu, y oirá un rumor, y volverá a su tierra; y haré que en su tierra perezca a espada."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1039,
+      "char_end": 1170,
+      "text": "Vuelto, pues, el Rabsaces, halló al rey de Asiria que combatía contra Libna; porque ya había oído que se había apartado de Laquis."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1170,
+      "char_end": 1307,
+      "text": "Mas oyendo decir de Tirhaca rey de Etiopía: He aquí que ha salido para hacerte guerra; al oírlo, envió embajadores a Ezequías, diciendo:"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1307,
+      "char_end": 1449,
+      "text": "Así diréis a Ezequías rey de Judá: No te engañe tu Dios en quien tú confías, diciendo: Jerusalén no será entregada en mano del rey de Asiria."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1449,
+      "char_end": 1566,
+      "text": "He aquí que tú oíste lo que han hecho los reyes de Asiria a todas las tierras, que las destruyeron; ¿y escaparás tú?"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1566,
+      "char_end": 1709,
+      "text": "¿Acaso libraron sus dioses a las naciones que destruyeron mis antepasados, a Gozán, Harán, Resef y a los hijos de Edén que moraban en Telasar?"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1709,
+      "char_end": 1809,
+      "text": "¿Dónde está el rey de Hamat, el rey de Arfad, y el rey de la ciudad de Sefarvaim, de Hena y de Iva?"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1809,
+      "char_end": 1939,
+      "text": "Y tomó Ezequías las cartas de mano de los embajadores, y las leyó; y subió a la casa de Jehová, y las extendió delante de Jehová."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1939,
+      "char_end": 1981,
+      "text": "Entonces Ezequías oró a Jehová, diciendo:"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1981,
+      "char_end": 2141,
+      "text": "Jehová de los ejércitos, Dios de Israel, que moras entre los querubines, sólo tú eres Dios de todos los reinos de la tierra; tú hiciste los cielos y la tierra."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2141,
+      "char_end": 2297,
+      "text": "Inclina, oh Jehová, tu oído, y oye; abre, oh Jehová, tus ojos, y mira; y oye todas las palabras de Senaquerib, que ha enviado a blasfemar al Dios viviente."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2297,
+      "char_end": 2387,
+      "text": "Ciertamente, oh Jehová, los reyes de Asiria destruyeron todas las tierras y sus comarcas,"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2387,
+      "char_end": 2525,
+      "text": "y entregaron los dioses de ellos al fuego; porque no eran dioses, sino obra de manos de hombre, madera y piedra; por eso los destruyeron."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2525,
+      "char_end": 2652,
+      "text": "Ahora pues, Jehová Dios nuestro, líbranos de su mano, para que todos los reinos de la tierra conozcan que sólo tú eres Jehová."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2652,
+      "char_end": 2803,
+      "text": "Entonces Isaías hijo de Amoz envió a decir a Ezequías: Así ha dicho Jehová Dios de Israel: Acerca de lo que me rogaste sobre Senaquerib rey de Asiria,"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2803,
+      "char_end": 2958,
+      "text": "Éstas son las palabras que Jehová habló contra él: La virgen hija de Sion te menosprecia, te escarnece; detrás de ti mueve su cabeza la hija de Jerusalén."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2958,
+      "char_end": 3093,
+      "text": "¿A quién vituperaste, y a quién blasfemaste? ¿Contra quién has alzado tu voz, y levantado tus ojos en alto? Contra el Santo de Israel."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3093,
+      "char_end": 3368,
+      "text": "Por mano de tus siervos has vituperado al Señor, y dijiste: Con la multitud de mis carros subiré a las alturas de los montes, a las laderas del Líbano; cortaré sus altos cedros, sus cipreses escogidos; llegaré hasta sus más elevadas cumbres, al bosque de sus feraces campos."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3368,
+      "char_end": 3458,
+      "text": "Yo cavé, y bebí las aguas, y con las pisadas de mis pies secaré todos los ríos de Egipto."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3458,
+      "char_end": 3671,
+      "text": "¿No has oído decir que desde tiempos antiguos yo lo hice, que desde los días de la antigüedad lo tengo ideado? Y ahora lo he hecho venir, y tú serás para reducir las ciudades fortificadas a montones de escombros."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3671,
+      "char_end": 3842,
+      "text": "Sus moradores fueron de corto poder; fueron acobardados y confusos, fueron como hierba del campo y hortaliza verde, como heno de los terrados, que antes de sazón se seca."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3842,
+      "char_end": 3914,
+      "text": "He conocido tu condición, tu salida y tu entrada, y tu furor contra mí."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3914,
+      "char_end": 4095,
+      "text": "Porque contra mí te airaste, y tu arrogancia ha subido a mis oídos; pondré, pues, mi garfio en tu nariz, y mi freno en tus labios, y te haré volver por el camino por donde viniste."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4095,
+      "char_end": 4279,
+      "text": "Y esto te será por señal: Comeréis este año lo que nace de suyo, y el año segundo lo que nace de suyo; y el año tercero sembraréis y segaréis, y plantaréis viñas, y comeréis su fruto."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4279,
+      "char_end": 4399,
+      "text": "Y lo que hubiere quedado de la casa de Judá y lo que hubiere escapado, volverá a echar raíz abajo, y dará fruto arriba."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4399,
+      "char_end": 4525,
+      "text": "Porque de Jerusalén saldrá un remanente, y del monte de Sion los que se salven. El celo de Jehová de los ejércitos hará esto."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4525,
+      "char_end": 4705,
+      "text": "Por tanto, así dice Jehová acerca del rey de Asiria: No entrará en esta ciudad, ni arrojará saeta en ella; no vendrá delante de ella con escudo, ni levantará contra ella baluarte."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4705,
+      "char_end": 4780,
+      "text": "Por el camino que vino, volverá, y no entrará en esta ciudad, dice Jehová."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4780,
+      "char_end": 4881,
+      "text": "Porque yo ampararé a esta ciudad para salvarla, por amor de mí mismo, y por amor de David mi siervo."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4881,
+      "char_end": 5056,
+      "text": "Y salió el ángel de Jehová y mató a ciento ochenta y cinco mil en el campamento de los asirios; y cuando se levantaron por la mañana, he aquí que todo era cuerpos de muertos."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 5056,
+      "char_end": 5126,
+      "text": "Entonces Senaquerib rey de Asiria se fue, e hizo su morada en Nínive."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 5126,
+      "char_end": 5315,
+      "text": "Y aconteció que mientras adoraba en el templo de Nisroc su dios, sus hijos Adramelec y Sarezer le mataron a espada, y huyeron a la tierra de Ararat; y reinó en su lugar Esar-hadón su hijo."
+    }
+  ],
+  "words": [
+    {
+      "word": "Aconteció, pues, que cuando el rey Ezequías oyó esto, rasgó sus vestidos, y cubierto de cilicio vino a la casa de Jehová.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 8512,
+      "duration_ms": 8412
+    },
+    {
+      "word": "Y envió a Eliaquim mayordomo, a Sebna escriba y a los ancianos de los sacerdotes, cubiertos de cilicio, al profeta Isaías hijo de Amoz.",
+      "verse": 2,
+      "start_ms": 8462,
+      "end_ms": 17449,
+      "duration_ms": 8987
+    },
+    {
+      "word": "Los cuales le dijeron: Así ha dicho Ezequías: Día de angustia, de reprensión y de blasfemia es este día; porque los hijos han llegado hasta el punto de nacer, y la que da a luz no tiene fuerzas.",
+      "verse": 3,
+      "start_ms": 17450,
+      "end_ms": 29612,
+      "duration_ms": 12162
+    },
+    {
+      "word": "Quizá oirá Jehová tu Dios las palabras del Rabsaces, al cual el rey de Asiria su señor envió para blasfemar al Dios vivo, y para vituperar con las palabras que oyó Jehová tu Dios; eleva, pues, oración tú por el remanente que aún ha quedado.",
+      "verse": 4,
+      "start_ms": 29612,
+      "end_ms": 43749,
+      "duration_ms": 14137
+    },
+    {
+      "word": "Vinieron, pues, los siervos de Ezequías a Isaías.",
+      "verse": 5,
+      "start_ms": 43750,
+      "end_ms": 48050,
+      "duration_ms": 4300
+    },
+    {
+      "word": "Y les dijo Isaías: Diréis así a vuestro señor: Así ha dicho Jehová: No temas por las palabras que has oído, con las cuales me han blasfemado los siervos del rey de Asiria.",
+      "verse": 6,
+      "start_ms": 48050,
+      "end_ms": 58687,
+      "duration_ms": 10637
+    },
+    {
+      "word": "He aquí que yo pondré en él un espíritu, y oirá un rumor, y volverá a su tierra; y haré que en su tierra perezca a espada.",
+      "verse": 7,
+      "start_ms": 58687,
+      "end_ms": 66824,
+      "duration_ms": 8137
+    },
+    {
+      "word": "Vuelto, pues, el Rabsaces, halló al rey de Asiria que combatía contra Libna; porque ya había oído que se había apartado de Laquis.",
+      "verse": 8,
+      "start_ms": 66825,
+      "end_ms": 75700,
+      "duration_ms": 8875
+    },
+    {
+      "word": "Mas oyendo decir de Tirhaca rey de Etiopía: He aquí que ha salido para hacerte guerra; al oírlo, envió embajadores a Ezequías, diciendo: Así diréis a Ezequías rey de Judá: No te engañe tu Dios en quien tú confías, diciendo: Jerusalén no será entregada en mano del rey de Asiria.",
+      "verse": 9,
+      "start_ms": 75700,
+      "end_ms": 93300,
+      "duration_ms": 17600
+    },
+    {
+      "word": "He aquí que tú oíste lo que han hecho los reyes de Asiria a todas las tierras, que las destruyeron; ¿y escaparás tú?",
+      "verse": 11,
+      "start_ms": 93300,
+      "end_ms": 100625,
+      "duration_ms": 7325
+    },
+    {
+      "word": "Acaso libraron sus dioses a las naciones que destruyeron mis antepasados, a Gozán, Harán, Resef y a los hijos de Edén que moraban en Telasar?",
+      "verse": 12,
+      "start_ms": 100625,
+      "end_ms": 109575,
+      "duration_ms": 8950
+    },
+    {
+      "word": "Dónde está el rey de Hamat, el rey de Arfad, y el rey de la ciudad de Sefarvaim, de Hena y de Iva?",
+      "verse": 13,
+      "start_ms": 109575,
+      "end_ms": 116062,
+      "duration_ms": 6487
+    },
+    {
+      "word": "Y tomó Ezequías las cartas de mano de los embajadores, y las leyó; y subió a la casa de Jehová, y las extendió delante de Jehová.",
+      "verse": 14,
+      "start_ms": 116062,
+      "end_ms": 124499,
+      "duration_ms": 8437
+    },
+    {
+      "word": "Entonces Ezequías oró a Jehová, diciendo: Jehová de los ejércitos, Dios de Israel, que moras entre los querubines, sólo tú eres Dios de todos los reinos de la tierra; tú hiciste los cielos y la tierra.",
+      "verse": 15,
+      "start_ms": 124500,
+      "end_ms": 137200,
+      "duration_ms": 12700
+    },
+    {
+      "word": "Inclina, oh Jehová, tu oído, y oye; abre, oh Jehová, tus ojos, y mira; y oye todas las palabras de Senaquerib, que ha enviado a blasfemar al Dios viviente.",
+      "verse": 17,
+      "start_ms": 137200,
+      "end_ms": 148925,
+      "duration_ms": 11725
+    },
+    {
+      "word": "Ciertamente, oh Jehová, los reyes de Asiria destruyeron todas las tierras y sus comarcas, y entregaron los dioses de ellos al fuego; porque no eran dioses, sino obra de manos de hombre, madera y piedra; por eso los destruyeron.",
+      "verse": 18,
+      "start_ms": 148925,
+      "end_ms": 163025,
+      "duration_ms": 14100
+    },
+    {
+      "word": "Ahora pues, Jehová Dios nuestro, líbranos de su mano, para que todos los reinos de la tierra conozcan que sólo tú eres Jehová.",
+      "verse": 20,
+      "start_ms": 163025,
+      "end_ms": 170862,
+      "duration_ms": 7837
+    },
+    {
+      "word": "Entonces Isaías hijo de Amoz envió a decir a Ezequías: Así ha dicho Jehová Dios de Israel: Acerca de lo que me rogaste sobre Senaquerib rey de Asiria, Éstas son las palabras que Jehová habló contra él: La virgen hija de Sion te menosprecia, te escarnece; detrás de ti mueve su cabeza la hija de Jerusalén.",
+      "verse": 21,
+      "start_ms": 170862,
+      "end_ms": 188974,
+      "duration_ms": 18112
+    },
+    {
+      "word": "A quién vituperaste, y a quién blasfemaste?",
+      "verse": 23,
+      "start_ms": 188975,
+      "end_ms": 192575,
+      "duration_ms": 3600
+    },
+    {
+      "word": "Contra quién has alzado tu voz, y levantado tus ojos en alto?",
+      "verse": 23,
+      "start_ms": 192575,
+      "end_ms": 197062,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Contra el Santo de Israel.",
+      "verse": 23,
+      "start_ms": 197062,
+      "end_ms": 199449,
+      "duration_ms": 2387
+    },
+    {
+      "word": "Por mano de tus siervos has vituperado al Señor, y dijiste: Con la multitud de mis carros subiré a las alturas de los montes, a las laderas del Líbano; cortaré sus altos cedros, sus cipreses escogidos; llegaré hasta sus más elevadas cumbres, al bosque de sus feraces campos.",
+      "verse": 24,
+      "start_ms": 199450,
+      "end_ms": 216300,
+      "duration_ms": 16850
+    },
+    {
+      "word": "Yo cavé, y bebí las aguas, y con las pisadas de mis pies secaré todos los ríos de Egipto.",
+      "verse": 25,
+      "start_ms": 216300,
+      "end_ms": 222575,
+      "duration_ms": 6275
+    },
+    {
+      "word": "No has oído decir que desde tiempos antiguos yo lo hice, que desde los días de la antigüedad lo tengo ideado?",
+      "verse": 26,
+      "start_ms": 222575,
+      "end_ms": 229362,
+      "duration_ms": 6787
+    },
+    {
+      "word": "Y ahora lo he hecho venir, y tú serás para reducir las ciudades fortificadas a montones de escombros.",
+      "verse": 26,
+      "start_ms": 229362,
+      "end_ms": 235937,
+      "duration_ms": 6575
+    },
+    {
+      "word": "Sus moradores fueron de corto poder; fueron acobardados y confusos, fueron como hierba del campo y hortaliza verde, como heno de los terrados, que antes de sazón se seca.",
+      "verse": 27,
+      "start_ms": 235937,
+      "end_ms": 246712,
+      "duration_ms": 10775
+    },
+    {
+      "word": "He conocido tu condición, tu salida y tu entrada, y tu furor contra mí.",
+      "verse": 28,
+      "start_ms": 246712,
+      "end_ms": 252024,
+      "duration_ms": 5312
+    },
+    {
+      "word": "Porque contra mí te airaste, y tu arrogancia ha",
+      "verse": 29,
+      "start_ms": 252025,
+      "end_ms": 255712,
+      "duration_ms": 3687
+    },
+    {
+      "word": "subido a mis oídos; pondré, pues, mi garfio en tu nariz, y mi freno en tus labios, y te haré volver por el camino por donde viniste.",
+      "verse": 29,
+      "start_ms": 255868,
+      "end_ms": 264930,
+      "duration_ms": 9062
+    },
+    {
+      "word": "Y esto te será por señal: Comeréis este año lo que nace de suyo, y el año segundo lo que nace de suyo; y el año tercero sembraréis y segaréis, y plantaréis viñas, y comeréis su fruto.",
+      "verse": 30,
+      "start_ms": 264880,
+      "end_ms": 276717,
+      "duration_ms": 11837
+    },
+    {
+      "word": "Y lo que hubiere quedado de la casa de Judá y lo que hubiere escapado, volverá a echar raíz abajo, y dará fruto arriba.",
+      "verse": 31,
+      "start_ms": 276718,
+      "end_ms": 283968,
+      "duration_ms": 7250
+    },
+    {
+      "word": "Porque de Jerusalén saldrá un remanente, y del monte de Sion los que se salven.",
+      "verse": 32,
+      "start_ms": 283968,
+      "end_ms": 289105,
+      "duration_ms": 5137
+    },
+    {
+      "word": "El celo de Jehová de los ejércitos hará esto.",
+      "verse": 32,
+      "start_ms": 289105,
+      "end_ms": 292467,
+      "duration_ms": 3362
+    },
+    {
+      "word": "Por tanto, así dice Jehová acerca del rey de Asiria: No entrará en esta ciudad, ni arrojará saeta en ella; no vendrá delante de ella con escudo, ni levantará contra ella baluarte.",
+      "verse": 33,
+      "start_ms": 292468,
+      "end_ms": 304168,
+      "duration_ms": 11700
+    },
+    {
+      "word": "Por el camino que vino, volverá, y no entrará en esta ciudad, dice Jehová.",
+      "verse": 34,
+      "start_ms": 304168,
+      "end_ms": 309780,
+      "duration_ms": 5612
+    },
+    {
+      "word": "Porque yo ampararé a esta ciudad para salvarla, por amor de mí mismo, y por amor de David mi siervo.",
+      "verse": 35,
+      "start_ms": 309780,
+      "end_ms": 316430,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Y salió el ángel de Jehová y mató a ciento ochenta y cinco mil en el campamento de los asirios; y cuando se levantaron por la mañana, he aquí que todo era cuerpos de muertos.",
+      "verse": 36,
+      "start_ms": 316430,
+      "end_ms": 326417,
+      "duration_ms": 9987
+    },
+    {
+      "word": "Entonces Senaquerib rey de Asiria se fue, e hizo su morada en Nínive.",
+      "verse": 37,
+      "start_ms": 326418,
+      "end_ms": 331405,
+      "duration_ms": 4987
+    },
+    {
+      "word": "Y aconteció que mientras adoraba en el templo de Nisroc su dios, sus hijos Adramelec y Sarezer le mataron a espada, y huyeron a la tierra de Ararat; y reinó en su lugar Esar-hadón su hijo.",
+      "verse": 38,
+      "start_ms": 331405,
+      "end_ms": 342592,
+      "duration_ms": 11187
+    }
+  ]
+}

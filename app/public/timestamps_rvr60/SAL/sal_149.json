@@ -1,0 +1,124 @@
+{
+  "book": "SAL",
+  "chapter": 149,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 9,
+  "word_count": 7,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 81,
+      "text": "Cantad a Jehová cántico nuevo; Su alabanza sea en la congregación de los santos."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 81,
+      "char_end": 150,
+      "text": "Alégrese Israel en su Hacedor; Los hijos de Sion se gocen en su Rey."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 150,
+      "char_end": 210,
+      "text": "Alaben su nombre con danza; Con pandero y arpa a él canten."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 210,
+      "char_end": 303,
+      "text": "Porque Jehová tiene contentamiento en su pueblo; Hermoseará a los humildes con la salvación."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 303,
+      "char_end": 371,
+      "text": "Regocíjense los santos por su gloria, Y canten aun sobre sus camas."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 371,
+      "char_end": 442,
+      "text": "Exalten a Dios con sus gargantas, Y espadas de dos filos en sus manos,"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 442,
+      "char_end": 514,
+      "text": "Para ejecutar venganza entre las naciones, Y castigo entre los pueblos;"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 514,
+      "char_end": 593,
+      "text": "Para aprisionar a sus reyes con grillos, Y a sus nobles con cadenas de hierro;"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 593,
+      "char_end": 686,
+      "text": "Para ejecutar en ellos el juicio decretado; Gloria será esto para todos sus santos. Aleluya."
+    }
+  ],
+  "words": [
+    {
+      "word": "Cantad a Jehová cántico nuevo; Su alabanza sea en la congregación de los santos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5625,
+      "duration_ms": 5525
+    },
+    {
+      "word": "Alégrese Israel en su Hacedor; Los hijos de Sion se gocen en su Rey.",
+      "verse": 2,
+      "start_ms": 5575,
+      "end_ms": 10325,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Alaben su nombre con danza; Con pandero y arpa a él canten.",
+      "verse": 3,
+      "start_ms": 10325,
+      "end_ms": 14850,
+      "duration_ms": 4525
+    },
+    {
+      "word": "Porque Jehová tiene contentamiento en su pueblo; Hermoseará a los humildes con la salvación.",
+      "verse": 4,
+      "start_ms": 14850,
+      "end_ms": 20475,
+      "duration_ms": 5625
+    },
+    {
+      "word": "Regocíjense los santos por su gloria, Y canten aun sobre sus camas.",
+      "verse": 5,
+      "start_ms": 20475,
+      "end_ms": 25437,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Exalten a Dios con sus gargantas, Y espadas de dos filos en sus manos, Para ejecutar venganza entre las naciones, Y castigo entre los pueblos; Para aprisionar a sus reyes con grillos, Y a sus nobles con cadenas de hierro; Para ejecutar en ellos el juicio decretado; Gloria será esto para todos sus santos.",
+      "verse": 6,
+      "start_ms": 25437,
+      "end_ms": 44037,
+      "duration_ms": 18600
+    },
+    {
+      "word": "Aleluya.",
+      "verse": 9,
+      "start_ms": 44037,
+      "end_ms": 45737,
+      "duration_ms": 1700
+    }
+  ]
+}

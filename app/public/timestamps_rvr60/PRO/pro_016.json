@@ -1,0 +1,474 @@
+{
+  "book": "PRO",
+  "chapter": 16,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 33,
+  "word_count": 33,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 90,
+      "text": "Del hombre son las disposiciones del corazón; Mas de Jehová es la respuesta de la lengua."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 90,
+      "char_end": 185,
+      "text": "Todos los caminos del hombre son limpios en su propia opinión; Pero Jehová pesa los espíritus."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 185,
+      "char_end": 252,
+      "text": "Encomienda a Jehová tus obras, Y tus pensamientos serán afirmados."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 252,
+      "char_end": 332,
+      "text": "Todas las cosas ha hecho Jehová para sí mismo, Y aun al impío para el día malo."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 332,
+      "char_end": 411,
+      "text": "Abominación es a Jehová todo altivo de corazón; Ciertamente no quedará impune."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 411,
+      "char_end": 516,
+      "text": "Con misericordia y verdad se corrige el pecado, Y con el temor de Jehová los hombres se apartan del mal."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 516,
+      "char_end": 616,
+      "text": "Cuando los caminos del hombre son agradables a Jehová, Aun a sus enemigos hace estar en paz con él."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 616,
+      "char_end": 688,
+      "text": "Mejor es lo poco con justicia Que la muchedumbre de frutos sin derecho."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 688,
+      "char_end": 759,
+      "text": "El corazón del hombre piensa su camino; Mas Jehová endereza sus pasos."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 759,
+      "char_end": 828,
+      "text": "Oráculo hay en los labios del rey; En juicio no prevaricará su boca."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 828,
+      "char_end": 909,
+      "text": "Peso y balanzas justas son de Jehová; Obra suya son todas las pesas de la bolsa."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 909,
+      "char_end": 996,
+      "text": "Abominación es a los reyes hacer impiedad, Porque con justicia será afirmado el trono."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 996,
+      "char_end": 1086,
+      "text": "Los labios justos son el contentamiento de los reyes, Y éstos aman al que habla lo recto."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1086,
+      "char_end": 1157,
+      "text": "La ira del rey es mensajero de muerte; Mas el hombre sabio la evitará."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1157,
+      "char_end": 1253,
+      "text": "En la alegría del rostro del rey está la vida, Y su benevolencia es como nube de lluvia tardía."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1253,
+      "char_end": 1346,
+      "text": "Mejor es adquirir sabiduría que oro preciado; Y adquirir inteligencia vale más que la plata."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1346,
+      "char_end": 1429,
+      "text": "El camino de los rectos se aparta del mal; Su vida guarda el que guarda su camino."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1429,
+      "char_end": 1515,
+      "text": "Antes del quebrantamiento es la soberbia, Y antes de la caída la altivez de espíritu."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1515,
+      "char_end": 1603,
+      "text": "Mejor es humillar el espíritu con los humildes Que repartir despojos con los soberbios."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1603,
+      "char_end": 1692,
+      "text": "El entendido en la palabra hallará el bien, Y el que confía en Jehová es bienaventurado."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1692,
+      "char_end": 1774,
+      "text": "El sabio de corazón es llamado prudente, Y la dulzura de labios aumenta el saber."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1774,
+      "char_end": 1872,
+      "text": "Manantial de vida es el entendimiento al que lo posee; Mas la erudición de los necios es necedad."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1872,
+      "char_end": 1945,
+      "text": "El corazón del sabio hace prudente su boca, Y añade gracia a sus labios."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1945,
+      "char_end": 2027,
+      "text": "Panal de miel son los dichos suaves; Suavidad al alma y medicina para los huesos."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2027,
+      "char_end": 2101,
+      "text": "Hay camino que parece derecho al hombre, Pero su fin es camino de muerte."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2101,
+      "char_end": 2171,
+      "text": "El alma del que trabaja, trabaja para sí, Porque su boca le estimula."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2171,
+      "char_end": 2254,
+      "text": "El hombre perverso cava en busca del mal, Y en sus labios hay como llama de fuego."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2254,
+      "char_end": 2335,
+      "text": "El hombre perverso levanta contienda, Y el chismoso aparta a los mejores amigos."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2335,
+      "char_end": 2410,
+      "text": "El hombre malo lisonjea a su prójimo, Y le hace andar por camino no bueno."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2410,
+      "char_end": 2487,
+      "text": "Cierra sus ojos para pensar perversidades; Mueve sus labios, efectúa el mal."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2487,
+      "char_end": 2554,
+      "text": "Corona de honra es la vejez Que se halla en el camino de justicia."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2554,
+      "char_end": 2668,
+      "text": "Mejor es el que tarda en airarse que el fuerte; Y el que se enseñorea de su espíritu, que el que toma una ciudad."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 2668,
+      "char_end": 2738,
+      "text": "La suerte se echa en el regazo; Mas de Jehová es la decisión de ella."
+    }
+  ],
+  "words": [
+    {
+      "word": "Del hombre son las disposiciones del corazón; Mas de Jehová es la respuesta de la lengua.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5500,
+      "duration_ms": 5400
+    },
+    {
+      "word": "Todos los caminos del hombre son limpios en su propia opinión; Pero Jehová pesa los espíritus.",
+      "verse": 2,
+      "start_ms": 5450,
+      "end_ms": 11375,
+      "duration_ms": 5925
+    },
+    {
+      "word": "Encomienda a Jehová tus obras, Y tus pensamientos serán afirmados.",
+      "verse": 3,
+      "start_ms": 11375,
+      "end_ms": 16437,
+      "duration_ms": 5062
+    },
+    {
+      "word": "Todas las cosas ha hecho Jehová para sí mismo, Y aun al impío para el día malo.",
+      "verse": 4,
+      "start_ms": 16437,
+      "end_ms": 21687,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Abominación es a Jehová todo altivo de corazón; Ciertamente no quedará impune.",
+      "verse": 5,
+      "start_ms": 21687,
+      "end_ms": 27337,
+      "duration_ms": 5650
+    },
+    {
+      "word": "Con misericordia y verdad se corrige el pecado, Y con el temor de Jehová los hombres se apartan del mal.",
+      "verse": 6,
+      "start_ms": 27337,
+      "end_ms": 33462,
+      "duration_ms": 6125
+    },
+    {
+      "word": "Cuando los caminos del hombre son agradables a Jehová, Aun a sus enemigos hace estar en paz con él.",
+      "verse": 7,
+      "start_ms": 33462,
+      "end_ms": 39262,
+      "duration_ms": 5800
+    },
+    {
+      "word": "Mejor es lo poco con justicia Que la muchedumbre de frutos sin derecho.",
+      "verse": 8,
+      "start_ms": 39262,
+      "end_ms": 43712,
+      "duration_ms": 4450
+    },
+    {
+      "word": "El corazón del hombre piensa su camino; Mas Jehová endereza sus pasos.",
+      "verse": 9,
+      "start_ms": 43712,
+      "end_ms": 48687,
+      "duration_ms": 4975
+    },
+    {
+      "word": "Oráculo hay en los labios del rey; En juicio no prevaricará su boca.",
+      "verse": 10,
+      "start_ms": 48687,
+      "end_ms": 53537,
+      "duration_ms": 4850
+    },
+    {
+      "word": "Peso y balanzas justas son de Jehová; Obra suya son todas las pesas de la bolsa.",
+      "verse": 11,
+      "start_ms": 53537,
+      "end_ms": 59012,
+      "duration_ms": 5475
+    },
+    {
+      "word": "Abominación es a los reyes hacer impiedad, Porque con justicia será afirmado el trono.",
+      "verse": 12,
+      "start_ms": 59012,
+      "end_ms": 64799,
+      "duration_ms": 5787
+    },
+    {
+      "word": "Los labios justos son el contentamiento de los reyes, Y éstos aman al que habla lo recto.",
+      "verse": 13,
+      "start_ms": 64800,
+      "end_ms": 70600,
+      "duration_ms": 5800
+    },
+    {
+      "word": "La ira del rey es mensajero de muerte; Mas el hombre sabio la evitará.",
+      "verse": 14,
+      "start_ms": 70600,
+      "end_ms": 75400,
+      "duration_ms": 4800
+    },
+    {
+      "word": "En la alegría del rostro del rey está la vida, Y su benevolencia es como nube de lluvia tardía.",
+      "verse": 15,
+      "start_ms": 75400,
+      "end_ms": 81500,
+      "duration_ms": 6100
+    },
+    {
+      "word": "Mejor es adquirir sabiduría que oro preciado; Y adquirir inteligencia vale más que la plata.",
+      "verse": 16,
+      "start_ms": 81500,
+      "end_ms": 87600,
+      "duration_ms": 6100
+    },
+    {
+      "word": "El camino de los rectos se aparta del mal; Su vida guarda el que guarda su camino.",
+      "verse": 17,
+      "start_ms": 87600,
+      "end_ms": 92987,
+      "duration_ms": 5387
+    },
+    {
+      "word": "Antes del quebrantamiento es la soberbia, Y antes de la caída la altivez de espíritu.",
+      "verse": 18,
+      "start_ms": 92987,
+      "end_ms": 98349,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Mejor es humillar el espíritu con los humildes Que repartir despojos con los soberbios.",
+      "verse": 19,
+      "start_ms": 98350,
+      "end_ms": 103512,
+      "duration_ms": 5162
+    },
+    {
+      "word": "El entendido en la palabra hallará el bien, Y el que confía en Jehová es bienaventurado.",
+      "verse": 20,
+      "start_ms": 103512,
+      "end_ms": 108949,
+      "duration_ms": 5437
+    },
+    {
+      "word": "El sabio de corazón es llamado prudente, Y la dulzura de labios aumenta el saber.",
+      "verse": 21,
+      "start_ms": 108950,
+      "end_ms": 114362,
+      "duration_ms": 5412
+    },
+    {
+      "word": "Manantial de vida es el entendimiento al que lo posee; Mas la erudición de los necios es necedad.",
+      "verse": 22,
+      "start_ms": 114362,
+      "end_ms": 120449,
+      "duration_ms": 6087
+    },
+    {
+      "word": "El corazón del sabio hace prudente su boca, Y añade gracia a sus labios.",
+      "verse": 23,
+      "start_ms": 120450,
+      "end_ms": 125562,
+      "duration_ms": 5112
+    },
+    {
+      "word": "Panal de miel son los dichos suaves; Suavidad al alma y medicina para los huesos.",
+      "verse": 24,
+      "start_ms": 125562,
+      "end_ms": 131212,
+      "duration_ms": 5650
+    },
+    {
+      "word": "Hay camino que parece derecho al hombre, Pero su fin es camino de muerte.",
+      "verse": 25,
+      "start_ms": 131212,
+      "end_ms": 135862,
+      "duration_ms": 4650
+    },
+    {
+      "word": "El alma del que trabaja, trabaja para sí, Porque su boca le estimula.",
+      "verse": 26,
+      "start_ms": 135862,
+      "end_ms": 140799,
+      "duration_ms": 4937
+    },
+    {
+      "word": "El hombre perverso cava en busca del mal, Y en sus labios hay como llama de fuego.",
+      "verse": 27,
+      "start_ms": 140800,
+      "end_ms": 146075,
+      "duration_ms": 5275
+    },
+    {
+      "word": "El hombre perverso levanta contienda, Y el chismoso aparta a los mejores amigos.",
+      "verse": 28,
+      "start_ms": 146075,
+      "end_ms": 151762,
+      "duration_ms": 5687
+    },
+    {
+      "word": "El hombre malo lisonjea a su prójimo, Y le hace andar por camino no bueno.",
+      "verse": 29,
+      "start_ms": 151762,
+      "end_ms": 156887,
+      "duration_ms": 5125
+    },
+    {
+      "word": "Cierra sus ojos para pensar perversidades; Mueve sus labios, efectúa el mal.",
+      "verse": 30,
+      "start_ms": 156887,
+      "end_ms": 162637,
+      "duration_ms": 5750
+    },
+    {
+      "word": "Corona de honra es la vejez Que se halla en el camino de justicia.",
+      "verse": 31,
+      "start_ms": 162637,
+      "end_ms": 166962,
+      "duration_ms": 4325
+    },
+    {
+      "word": "Mejor es el que tarda en airarse que el fuerte; Y el que se enseñorea de su espíritu, que el que toma una ciudad.",
+      "verse": 32,
+      "start_ms": 166962,
+      "end_ms": 173862,
+      "duration_ms": 6900
+    },
+    {
+      "word": "La suerte se echa en el regazo; Mas de Jehová es la decisión de ella.",
+      "verse": 33,
+      "start_ms": 173862,
+      "end_ms": 178662,
+      "duration_ms": 4800
+    }
+  ]
+}

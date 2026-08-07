@@ -1,0 +1,110 @@
+{
+  "book": "SAL",
+  "chapter": 54,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 7,
+  "word_count": 7,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 59,
+      "text": "Oh Dios, sálvame por tu nombre, Y con tu poder defiéndeme."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 59,
+      "char_end": 116,
+      "text": "Oh Dios, oye mi oración; Escucha las razones de mi boca."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 116,
+      "char_end": 238,
+      "text": "Porque extraños se han levantado contra mí, Y hombres violentos buscan mi vida; No han puesto a Dios delante de sí. Selah"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 238,
+      "char_end": 317,
+      "text": "He aquí, Dios es el que me ayuda; El Señor está con los que sostienen mi vida."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 317,
+      "char_end": 377,
+      "text": "Él devolverá el mal a mis enemigos; Córtalos por tu verdad."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 377,
+      "char_end": 458,
+      "text": "Voluntariamente sacrificaré a ti; Alabaré tu nombre, oh Jehová, porque es bueno."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 458,
+      "char_end": 547,
+      "text": "Porque él me ha librado de toda angustia, Y mis ojos han visto la ruina de mis enemigos."
+    }
+  ],
+  "words": [
+    {
+      "word": "Oh Dios, sálvame por tu nombre, Y con tu poder defiéndeme.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4600,
+      "duration_ms": 4500
+    },
+    {
+      "word": "Oh Dios, oye mi oración; Escucha las razones de mi boca.",
+      "verse": 2,
+      "start_ms": 4550,
+      "end_ms": 9025,
+      "duration_ms": 4475
+    },
+    {
+      "word": "Porque extraños se han levantado contra mí, Y hombres violentos buscan mi vida; No han puesto a Dios delante de sí.",
+      "verse": 3,
+      "start_ms": 9025,
+      "end_ms": 15962,
+      "duration_ms": 6937
+    },
+    {
+      "word": "Selah He aquí, Dios es el que me ayuda; El Señor está con los que sostienen mi vida.",
+      "verse": 3,
+      "start_ms": 15962,
+      "end_ms": 21574,
+      "duration_ms": 5612
+    },
+    {
+      "word": "Él devolverá el mal a mis enemigos; Córtalos por tu verdad.",
+      "verse": 5,
+      "start_ms": 21575,
+      "end_ms": 26025,
+      "duration_ms": 4450
+    },
+    {
+      "word": "Voluntariamente sacrificaré a ti; Alabaré tu nombre, oh Jehová, porque es bueno.",
+      "verse": 6,
+      "start_ms": 26025,
+      "end_ms": 32087,
+      "duration_ms": 6062
+    },
+    {
+      "word": "Porque él me ha librado de toda angustia, Y mis ojos han visto la ruina de mis enemigos.",
+      "verse": 7,
+      "start_ms": 32087,
+      "end_ms": 37887,
+      "duration_ms": 5800
+    }
+  ]
+}

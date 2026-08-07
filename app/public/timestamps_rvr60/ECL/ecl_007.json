@@ -1,0 +1,439 @@
+{
+  "book": "ECL",
+  "chapter": 7,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 29,
+  "word_count": 32,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 100,
+      "text": "Mejor es la buena fama que el buen ungüento; y mejor el día de la muerte que el día del nacimiento."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 100,
+      "char_end": 245,
+      "text": "Mejor es ir a la casa del luto que a la casa del banquete; porque aquello es el fin de todos los hombres, y el que vive lo pondrá en su corazón."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 245,
+      "char_end": 335,
+      "text": "Mejor es el pesar que la risa; porque con la tristeza del rostro se enmendará el corazón."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 335,
+      "char_end": 451,
+      "text": "El corazón de los sabios está en la casa del luto; mas el corazón de los insensatos, en la casa en que hay alegría."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 451,
+      "char_end": 518,
+      "text": "Mejor es oír la reprensión del sabio que la canción de los necios."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 518,
+      "char_end": 625,
+      "text": "Porque la risa del necio es como el estrépito de los espinos debajo de la olla. Y también esto es vanidad."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 625,
+      "char_end": 711,
+      "text": "Ciertamente la opresión hace entontecer al sabio, y las dádivas corrompen el corazón."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 711,
+      "char_end": 816,
+      "text": "Mejor es el fin del negocio que su principio; mejor es el sufrido de espíritu que el altivo de espíritu."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 816,
+      "char_end": 908,
+      "text": "No te apresures en tu espíritu a enojarte; porque el enojo reposa en el seno de los necios."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 908,
+      "char_end": 1040,
+      "text": "Nunca digas: ¿Cuál es la causa de que los tiempos pasados fueron mejores que éstos? Porque nunca de esto preguntarás con sabiduría."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1040,
+      "char_end": 1112,
+      "text": "Buena es la ciencia con herencia, y provechosa para los que ven el sol."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1112,
+      "char_end": 1222,
+      "text": "Porque escudo es la ciencia, y escudo es el dinero; mas la sabiduría excede, en que da vida a sus poseedores."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1222,
+      "char_end": 1292,
+      "text": "Mira la obra de Dios; porque ¿quién podrá enderezar lo que él torció?"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1292,
+      "char_end": 1452,
+      "text": "En el día del bien goza del bien; y en el día de la adversidad considera. Dios hizo tanto lo uno como lo otro, a fin de que el hombre nada halle después de él."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1452,
+      "char_end": 1583,
+      "text": "Todo esto he visto en los días de mi vanidad. Justo hay que perece por su justicia, y hay impío que por su maldad alarga sus días."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1583,
+      "char_end": 1665,
+      "text": "No seas demasiado justo, ni seas sabio con exceso; ¿por qué habrás de destruirte?"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1665,
+      "char_end": 1749,
+      "text": "No hagas mucho mal, ni seas insensato; ¿por qué habrás de morir antes de tu tiempo?"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1749,
+      "char_end": 1866,
+      "text": "Bueno es que tomes esto, y también de aquello no apartes tu mano; porque aquel que a Dios teme, saldrá bien en todo."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1866,
+      "char_end": 1945,
+      "text": "La sabiduría fortalece al sabio más que diez poderosos que haya en una ciudad."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1945,
+      "char_end": 2023,
+      "text": "Ciertamente no hay hombre justo en la tierra, que haga el bien y nunca peque."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2023,
+      "char_end": 2137,
+      "text": "Tampoco apliques tu corazón a todas las cosas que se hablan, para que no oigas a tu siervo cuando dice mal de ti;"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2137,
+      "char_end": 2210,
+      "text": "porque tu corazón sabe que tú también dijiste mal de otros muchas veces."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2210,
+      "char_end": 2305,
+      "text": "Todas estas cosas probé con sabiduría, diciendo: Seré sabio; pero la sabiduría se alejó de mí."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2305,
+      "char_end": 2366,
+      "text": "Lejos está lo que fue; y lo muy profundo, ¿quién lo hallará?"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2366,
+      "char_end": 2518,
+      "text": "Me volví y fijé mi corazón para saber y examinar e inquirir la sabiduría y la razón, y para conocer la maldad de la insensatez y el desvarío del error."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2518,
+      "char_end": 2698,
+      "text": "Y he hallado más amarga que la muerte a la mujer cuyo corazón es lazos y redes, y sus manos ligaduras. El que agrada a Dios escapará de ella; mas el pecador quedará en ella preso."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2698,
+      "char_end": 2799,
+      "text": "He aquí que esto he hallado, dice el Predicador, pesando las cosas una por una para hallar la razón;"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2799,
+      "char_end": 2918,
+      "text": "lo que aún busca mi alma, y no lo encuentra: un hombre entre mil he hallado, pero mujer entre todas éstas nunca hallé."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2918,
+      "char_end": 3026,
+      "text": "He aquí, solamente esto he hallado: que Dios hizo al hombre recto, pero ellos buscaron muchas perversiones."
+    }
+  ],
+  "words": [
+    {
+      "word": "Mejor es la buena fama que el buen ungüento; y mejor el día de la muerte que el día del nacimiento.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6112,
+      "duration_ms": 6012
+    },
+    {
+      "word": "Mejor es ir a la casa del luto que a la casa del banquete; porque aquello es el fin de todos los hombres, y el que vive lo pondrá en su corazón.",
+      "verse": 2,
+      "start_ms": 6062,
+      "end_ms": 14349,
+      "duration_ms": 8287
+    },
+    {
+      "word": "Mejor es el pesar que la risa; porque con la tristeza del rostro se enmendará el corazón.",
+      "verse": 3,
+      "start_ms": 14350,
+      "end_ms": 19925,
+      "duration_ms": 5575
+    },
+    {
+      "word": "El corazón de los sabios está en la casa del luto; mas el corazón de los insensatos, en la casa en que hay alegría.",
+      "verse": 4,
+      "start_ms": 19925,
+      "end_ms": 27075,
+      "duration_ms": 7150
+    },
+    {
+      "word": "Mejor es oír la reprensión del sabio que la canción de los necios.",
+      "verse": 5,
+      "start_ms": 27075,
+      "end_ms": 31400,
+      "duration_ms": 4325
+    },
+    {
+      "word": "Porque la risa del necio es como el estrépito de los espinos debajo de la olla.",
+      "verse": 6,
+      "start_ms": 31400,
+      "end_ms": 36237,
+      "duration_ms": 4837
+    },
+    {
+      "word": "Y también esto es vanidad.",
+      "verse": 6,
+      "start_ms": 36237,
+      "end_ms": 38624,
+      "duration_ms": 2387
+    },
+    {
+      "word": "Ciertamente la opresión hace entontecer al sabio, y las dádivas corrompen el corazón.",
+      "verse": 7,
+      "start_ms": 38625,
+      "end_ms": 44212,
+      "duration_ms": 5587
+    },
+    {
+      "word": "Mejor es el fin del negocio que su principio; mejor es el sufrido de espíritu que el altivo de espíritu.",
+      "verse": 8,
+      "start_ms": 44212,
+      "end_ms": 50699,
+      "duration_ms": 6487
+    },
+    {
+      "word": "No te apresures en tu espíritu a enojarte; porque el enojo reposa en el seno de los necios.",
+      "verse": 9,
+      "start_ms": 50700,
+      "end_ms": 56700,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Nunca digas: ¿Cuál es la causa de que los tiempos pasados fueron mejores que éstos?",
+      "verse": 10,
+      "start_ms": 56700,
+      "end_ms": 62300,
+      "duration_ms": 5600
+    },
+    {
+      "word": "Porque nunca de esto preguntarás con sabiduría.",
+      "verse": 10,
+      "start_ms": 62300,
+      "end_ms": 65700,
+      "duration_ms": 3400
+    },
+    {
+      "word": "Buena es la ciencia con herencia, y provechosa para los que ven el sol.",
+      "verse": 11,
+      "start_ms": 65700,
+      "end_ms": 70300,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Porque escudo es la ciencia, y escudo es el dinero; mas la sabiduría excede, en que da vida a sus poseedores.",
+      "verse": 12,
+      "start_ms": 70300,
+      "end_ms": 77762,
+      "duration_ms": 7462
+    },
+    {
+      "word": "Mira la obra de Dios; porque ¿quién podrá enderezar lo que él torció?",
+      "verse": 13,
+      "start_ms": 77762,
+      "end_ms": 82399,
+      "duration_ms": 4637
+    },
+    {
+      "word": "En el día del bien goza del bien; y en el día de la adversidad considera.",
+      "verse": 14,
+      "start_ms": 82400,
+      "end_ms": 87325,
+      "duration_ms": 4925
+    },
+    {
+      "word": "Dios hizo tanto lo uno como lo otro, a fin de que el hombre nada halle después de él.",
+      "verse": 14,
+      "start_ms": 87325,
+      "end_ms": 93000,
+      "duration_ms": 5675
+    },
+    {
+      "word": "Todo esto he visto en los días de mi vanidad.",
+      "verse": 15,
+      "start_ms": 93000,
+      "end_ms": 96187,
+      "duration_ms": 3187
+    },
+    {
+      "word": "Justo hay que perece por su justicia, y hay impío que por su maldad alarga sus días.",
+      "verse": 15,
+      "start_ms": 96187,
+      "end_ms": 101912,
+      "duration_ms": 5725
+    },
+    {
+      "word": "No seas demasiado justo, ni seas sabio con exceso; ¿por qué habrás de destruirte?",
+      "verse": 16,
+      "start_ms": 101912,
+      "end_ms": 107662,
+      "duration_ms": 5750
+    },
+    {
+      "word": "No hagas mucho mal, ni seas insensato; ¿por qué habrás de morir antes de tu tiempo?",
+      "verse": 17,
+      "start_ms": 107662,
+      "end_ms": 113299,
+      "duration_ms": 5637
+    },
+    {
+      "word": "Bueno es que tomes esto, y también de aquello no apartes tu mano; porque aquel que a Dios teme, saldrá bien en todo.",
+      "verse": 18,
+      "start_ms": 113300,
+      "end_ms": 120825,
+      "duration_ms": 7525
+    },
+    {
+      "word": "La sabiduría fortalece al sabio más que diez poderosos que haya en una ciudad.",
+      "verse": 19,
+      "start_ms": 120825,
+      "end_ms": 125900,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Ciertamente no hay hombre justo en la tierra, que haga el bien y nunca peque.",
+      "verse": 20,
+      "start_ms": 125900,
+      "end_ms": 130737,
+      "duration_ms": 4837
+    },
+    {
+      "word": "Tampoco apliques tu corazón a todas las cosas que se hablan, para que no oigas a tu siervo cuando dice mal de ti; porque tu corazón sabe que tú también dijiste mal de otros muchas veces.",
+      "verse": 21,
+      "start_ms": 130737,
+      "end_ms": 141312,
+      "duration_ms": 10575
+    },
+    {
+      "word": "Todas estas cosas probé con sabiduría, diciendo: Seré sabio; pero la sabiduría se alejó de mí.",
+      "verse": 23,
+      "start_ms": 141312,
+      "end_ms": 148362,
+      "duration_ms": 7050
+    },
+    {
+      "word": "Lejos está lo que fue; y lo muy profundo, ¿quién lo hallará?",
+      "verse": 24,
+      "start_ms": 148362,
+      "end_ms": 152637,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Me volví y fijé mi corazón para saber y examinar e inquirir la sabiduría y la razón, y para conocer la maldad de la insensatez y el desvarío del error.",
+      "verse": 25,
+      "start_ms": 152637,
+      "end_ms": 161687,
+      "duration_ms": 9050
+    },
+    {
+      "word": "Y he hallado más amarga que la muerte a la mujer cuyo corazón es lazos y redes, y sus manos ligaduras.",
+      "verse": 26,
+      "start_ms": 161687,
+      "end_ms": 168337,
+      "duration_ms": 6650
+    },
+    {
+      "word": "El que agrada a Dios escapará de ella; mas el pecador quedará en ella preso.",
+      "verse": 26,
+      "start_ms": 168337,
+      "end_ms": 173562,
+      "duration_ms": 5225
+    },
+    {
+      "word": "He aquí que esto he hallado, dice el Predicador, pesando las cosas una por una para hallar la razón; lo que aún busca mi alma, y no lo encuentra: un hombre entre mil he hallado, pero mujer entre todas éstas nunca hallé.",
+      "verse": 27,
+      "start_ms": 173562,
+      "end_ms": 186599,
+      "duration_ms": 13037
+    },
+    {
+      "word": "He aquí, solamente esto he hallado: que Dios hizo al hombre recto, pero ellos buscaron muchas perversiones.",
+      "verse": 29,
+      "start_ms": 186600,
+      "end_ms": 194000,
+      "duration_ms": 7400
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "book": "SAL",
+  "chapter": 110,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 7,
+  "word_count": 8,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 103,
+      "text": "Jehová dijo a mi Señor: Siéntate a mi diestra, Hasta que ponga a tus enemigos por estrado de tus pies."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 103,
+      "char_end": 183,
+      "text": "Jehová enviará desde Sion la vara de tu poder; Domina en medio de tus enemigos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 183,
+      "char_end": 341,
+      "text": "Tu pueblo se te ofrecerá voluntariamente en el día de tu poder, En la hermosura de la santidad. Desde el seno de la aurora Tienes tú el rocío de tu juventud."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 341,
+      "char_end": 437,
+      "text": "Juró Jehová, y no se arrepentirá: Tú eres sacerdote para siempre Según el orden de Melquisedec."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 437,
+      "char_end": 510,
+      "text": "El Señor está a tu diestra; Quebrantará a los reyes en el día de su ira."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 510,
+      "char_end": 607,
+      "text": "Juzgará entre las naciones, Las llenará de cadáveres; Quebrantará las cabezas en muchas tierras."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 607,
+      "char_end": 672,
+      "text": "Del arroyo beberá en el camino, Por lo cual levantará la cabeza."
+    }
+  ],
+  "words": [
+    {
+      "word": "Jehová dijo a mi Señor: Siéntate a mi diestra, Hasta que ponga a tus enemigos por estrado de tus pies.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6725,
+      "duration_ms": 6625
+    },
+    {
+      "word": "Jehová enviará desde Sion la vara de tu poder; Domina en medio de tus enemigos.",
+      "verse": 2,
+      "start_ms": 6675,
+      "end_ms": 12225,
+      "duration_ms": 5550
+    },
+    {
+      "word": "Tu pueblo se te ofrecerá voluntariamente en el día de tu poder, En la hermosura de la santidad.",
+      "verse": 3,
+      "start_ms": 12225,
+      "end_ms": 18062,
+      "duration_ms": 5837
+    },
+    {
+      "word": "Desde el seno de la aurora Tienes tú el rocío de tu juventud.",
+      "verse": 3,
+      "start_ms": 18062,
+      "end_ms": 22062,
+      "duration_ms": 4000
+    },
+    {
+      "word": "Juró Jehová, y no se arrepentirá: Tú eres sacerdote para siempre Según el orden de Melquisedec.",
+      "verse": 4,
+      "start_ms": 22062,
+      "end_ms": 28424,
+      "duration_ms": 6362
+    },
+    {
+      "word": "El Señor está a tu diestra; Quebrantará a los reyes en el día de su ira.",
+      "verse": 5,
+      "start_ms": 28425,
+      "end_ms": 33387,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Juzgará entre las naciones, Las llenará de cadáveres; Quebrantará las cabezas en muchas tierras.",
+      "verse": 6,
+      "start_ms": 33387,
+      "end_ms": 39937,
+      "duration_ms": 6550
+    },
+    {
+      "word": "Del arroyo beberá en el camino, Por lo cual levantará la cabeza.",
+      "verse": 7,
+      "start_ms": 39937,
+      "end_ms": 44437,
+      "duration_ms": 4500
+    }
+  ]
+}

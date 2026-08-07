@@ -1,0 +1,852 @@
+{
+  "book": "MAR",
+  "chapter": 7,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 56,
+  "word_count": 64,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 69,
+      "text": "Salió Jesús de allí y vino a su tierra, y le seguían sus discípulos."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 69,
+      "char_end": 297,
+      "text": "Y llegado el día de reposo, comenzó a enseñar en la sinagoga; y muchos, oyéndole, se admiraban, y decían: ¿De dónde tiene éste estas cosas? ¿Y qué sabiduría es esta que le es dada, y estos milagros que por sus manos son hechos?"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 297,
+      "char_end": 465,
+      "text": "¿No es éste el carpintero, hijo de María, hermano de Jacobo, de José, de Judas y de Simón? ¿No están también aquí con nosotros sus hermanas? Y se escandalizaban de él."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 465,
+      "char_end": 574,
+      "text": "Mas Jesús les decía: No hay profeta sin honra sino en su propia tierra, y entre sus parientes, y en su casa."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 574,
+      "char_end": 681,
+      "text": "Y no pudo hacer allí ningún milagro, salvo que sanó a unos pocos enfermos, poniendo sobre ellos las manos."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 681,
+      "char_end": 829,
+      "text": "Y estaba asombrado de la incredulidad de ellos. Y recorría las aldeas de alrededor, enseñando. Misión de los doce discípulos (Mt 10.5–15; Lc 9.1–6)"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 829,
+      "char_end": 942,
+      "text": "Después llamó a los doce, y comenzó a enviarlos de dos en dos; y les dio autoridad sobre los espíritus inmundos."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 942,
+      "char_end": 1057,
+      "text": "Y les mandó que no llevasen nada para el camino, sino solamente bordón; ni alforja, ni pan, ni dinero en el cinto,"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1057,
+      "char_end": 1114,
+      "text": "sino que calzasen sandalias, y no vistiesen dos túnicas."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1114,
+      "char_end": 1211,
+      "text": "Y les dijo: Dondequiera que entréis en una casa, posad en ella hasta que salgáis de aquel lugar."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1211,
+      "char_end": 1484,
+      "text": "Y si en algún lugar no os recibieren ni os oyeren, salid de allí, y sacudid el polvo que está debajo de vuestros pies, para testimonio a ellos. De cierto os digo que en el día del juicio, será más tolerable el castigo para los de Sodoma y Gomorra, que para aquella ciudad."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1484,
+      "char_end": 1541,
+      "text": "Y saliendo, predicaban que los hombres se arrepintiesen."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1541,
+      "char_end": 1678,
+      "text": "Y echaban fuera muchos demonios, y ungían con aceite a muchos enfermos, y los sanaban. Muerte de Juan el Bautista (Mt 14.1–12; Lc 9.7–9)"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1678,
+      "char_end": 1849,
+      "text": "Oyó el rey Herodes la fama de Jesús, porque su nombre se había hecho notorio; y dijo: Juan el Bautista ha resucitado de los muertos, y por eso actúan en él estos poderes."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1849,
+      "char_end": 1930,
+      "text": "Otros decían: Es Elías. Y otros decían: Es un profeta, o alguno de los profetas."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1930,
+      "char_end": 2025,
+      "text": "Al oír esto Herodes, dijo: éste es Juan, el que yo decapité, que ha resucitado de los muertos."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2025,
+      "char_end": 2200,
+      "text": "Porque el mismo Herodes había enviado y prendido a Juan, y le había encadenado en la cárcel por causa de Herodías, mujer de Felipe su hermano; pues la había tomado por mujer."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2200,
+      "char_end": 2275,
+      "text": "Porque Juan decía a Herodes: No te es lícito tener la mujer de tu hermano."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2275,
+      "char_end": 2333,
+      "text": "Pero Herodías le acechaba, y deseaba matarle, y no podía;"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2333,
+      "char_end": 2493,
+      "text": "porque Herodes temía a Juan, sabiendo que era varón justo y santo, y le guardaba a salvo; y oyéndole, se quedaba muy perplejo, pero le escuchaba de buena gana."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2493,
+      "char_end": 2642,
+      "text": "Pero venido un día oportuno, en que Herodes, en la fiesta de su cumpleaños, daba una cena a sus príncipes y tribunos y a los principales de Galilea,"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2642,
+      "char_end": 2805,
+      "text": "entrando la hija de Herodías, danzó, y agradó a Herodes y a los que estaban con él a la mesa; y el rey dijo a la muchacha: Pídeme lo que quieras, y yo te lo daré."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2805,
+      "char_end": 2874,
+      "text": "Y le juró: Todo lo que me pidas te daré, hasta la mitad de mi reino."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2874,
+      "char_end": 2966,
+      "text": "Saliendo ella, dijo a su madre: ¿Qué pediré? Y ella le dijo: La cabeza de Juan el Bautista."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2966,
+      "char_end": 3097,
+      "text": "Entonces ella entró prontamente al rey, y pidió diciendo: Quiero que ahora mismo me des en un plato la cabeza de Juan el Bautista."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3097,
+      "char_end": 3216,
+      "text": "Y el rey se entristeció mucho; pero a causa del juramento, y de los que estaban con él a la mesa, no quiso desecharla."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3216,
+      "char_end": 3309,
+      "text": "Y en seguida el rey, enviando a uno de la guardia, mandó que fuese traída la cabeza de Juan."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3309,
+      "char_end": 3437,
+      "text": "El guarda fue, le decapitó en la cárcel, y trajo su cabeza en un plato y la dio a la muchacha, y la muchacha la dio a su madre."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3437,
+      "char_end": 3599,
+      "text": "Cuando oyeron esto sus discípulos, vinieron y tomaron su cuerpo, y lo pusieron en un sepulcro. Alimentación de los cinco mil (Mt 14.13–21; Lc 9.10–17; Jn 6.1–14)"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3599,
+      "char_end": 3711,
+      "text": "Entonces los apóstoles se juntaron con Jesús, y le contaron todo lo que habían hecho, y lo que habían enseñado."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3711,
+      "char_end": 3877,
+      "text": "Él les dijo: Venid vosotros aparte a un lugar desierto, y descansad un poco. Porque eran muchos los que iban y venían, de manera que ni aun tenían tiempo para comer."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3877,
+      "char_end": 3929,
+      "text": "Y se fueron solos en una barca a un lugar desierto."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3929,
+      "char_end": 4070,
+      "text": "Pero muchos los vieron ir, y le reconocieron; y muchos fueron allá a pie desde las ciudades, y llegaron antes que ellos, y se juntaron a él."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4070,
+      "char_end": 4219,
+      "text": "Y salió Jesús y vio una gran multitud, y tuvo compasión de ellos, porque eran como ovejas que no tenían pastor; y comenzó a enseñarles muchas cosas."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4219,
+      "char_end": 4348,
+      "text": "Cuando ya era muy avanzada la hora, sus discípulos se acercaron a él, diciendo: El lugar es desierto, y la hora ya muy avanzada."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4348,
+      "char_end": 4451,
+      "text": "Despídelos para que vayan a los campos y aldeas de alrededor, y compren pan, pues no tienen qué comer."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4451,
+      "char_end": 4598,
+      "text": "Respondiendo él, les dijo: Dadles vosotros de comer. Ellos le dijeron: ¿Que vayamos y compremos pan por doscientos denarios, y les demos de comer?"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4598,
+      "char_end": 4689,
+      "text": "Él les dijo: ¿Cuántos panes tenéis? Id y vedlo. Y al saberlo, dijeron: Cinco, y dos peces."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4689,
+      "char_end": 4765,
+      "text": "Y les mandó que hiciesen recostar a todos por grupos sobre la hierba verde."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4765,
+      "char_end": 4843,
+      "text": "Y se recostaron por grupos, de ciento en ciento, y de cincuenta en cincuenta."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4843,
+      "char_end": 5043,
+      "text": "Entonces tomó los cinco panes y los dos peces, y levantando los ojos al cielo, bendijo, y partió los panes, y dio a sus discípulos para que los pusiesen delante; y repartió los dos peces entre todos."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 5043,
+      "char_end": 5076,
+      "text": "Y comieron todos, y se saciaron."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 5076,
+      "char_end": 5156,
+      "text": "Y recogieron de los pedazos doce cestas llenas, y de lo que sobró de los peces."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 5156,
+      "char_end": 5249,
+      "text": "Y los que comieron eran cinco mil hombres. Jesús anda sobre el mar (Mt 14.22–27; Jn 6.15–21)"
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 5249,
+      "char_end": 5394,
+      "text": "En seguida hizo a sus discípulos entrar en la barca e ir delante de él a Betsaida, en la otra ribera, entre tanto que él despedía a la multitud."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 5394,
+      "char_end": 5452,
+      "text": "Y después que los hubo despedido, se fue al monte a orar;"
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 5452,
+      "char_end": 5528,
+      "text": "y al venir la noche, la barca estaba en medio del mar, y él solo en tierra."
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 5528,
+      "char_end": 5698,
+      "text": "Y viéndoles remar con gran fatiga, porque el viento les era contrario, cerca de la cuarta vigilia de la noche vino a ellos andando sobre el mar, y quería adelantárseles."
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 5698,
+      "char_end": 5775,
+      "text": "Viéndole ellos andar sobre el mar, pensaron que era un fantasma, y gritaron;"
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 5775,
+      "char_end": 5891,
+      "text": "porque todos le veían, y se turbaron. Pero en seguida habló con ellos, y les dijo: ¡Tened ánimo; yo soy, no temáis!"
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 5891,
+      "char_end": 5999,
+      "text": "Y subió a ellos en la barca, y se calmó el viento; y ellos se asombraron en gran manera, y se maravillaban."
+    },
+    {
+      "verse": 52,
+      "label": "52",
+      "char_start": 5999,
+      "char_end": 6146,
+      "text": "Porque aún no habían entendido lo de los panes, por cuanto estaban endurecidos sus corazones. Jesús sana a los enfermos en Genesaret (Mt 14.34–36)"
+    },
+    {
+      "verse": 53,
+      "label": "53",
+      "char_start": 6146,
+      "char_end": 6226,
+      "text": "Terminada la travesía, vinieron a tierra de Genesaret, y arribaron a la orilla."
+    },
+    {
+      "verse": 54,
+      "label": "54",
+      "char_start": 6226,
+      "char_end": 6288,
+      "text": "Y saliendo ellos de la barca, en seguida la gente le conoció."
+    },
+    {
+      "verse": 55,
+      "label": "55",
+      "char_start": 6288,
+      "char_end": 6411,
+      "text": "Y recorriendo toda la tierra de alrededor, comenzaron a traer de todas partes enfermos en lechos, a donde oían que estaba."
+    },
+    {
+      "verse": 56,
+      "label": "56",
+      "char_start": 6411,
+      "char_end": 6625,
+      "text": "Y dondequiera que entraba, en aldeas, ciudades o campos, ponían en las calles a los que estaban enfermos, y le rogaban que les dejase tocar siquiera el borde de su manto; y todos los que le tocaban quedaban sanos."
+    }
+  ],
+  "words": [
+    {
+      "word": "Salió Jesús de allí y vino a su tierra, y le seguían sus discípulos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4875,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Y llegado el día de reposo, comenzó a enseñar en la sinagoga; y muchos, oyéndole, se admiraban, y decían: ¿De dónde tiene éste estas cosas?",
+      "verse": 2,
+      "start_ms": 4825,
+      "end_ms": 14537,
+      "duration_ms": 9712
+    },
+    {
+      "word": "Y qué sabiduría es esta que le es dada, y estos milagros que por sus manos son hechos?",
+      "verse": 2,
+      "start_ms": 14537,
+      "end_ms": 20212,
+      "duration_ms": 5675
+    },
+    {
+      "word": "No es éste el carpintero, hijo de María, hermano de Jacobo, de José, de Judas y de Simón?",
+      "verse": 3,
+      "start_ms": 20212,
+      "end_ms": 27187,
+      "duration_ms": 6975
+    },
+    {
+      "word": "No están también aquí con nosotros sus hermanas?",
+      "verse": 3,
+      "start_ms": 27187,
+      "end_ms": 30524,
+      "duration_ms": 3337
+    },
+    {
+      "word": "Y se escandalizaban de él.",
+      "verse": 3,
+      "start_ms": 30525,
+      "end_ms": 32925,
+      "duration_ms": 2400
+    },
+    {
+      "word": "Mas Jesús les decía: No hay profeta sin honra sino en su propia tierra, y entre sus parientes, y en su casa.",
+      "verse": 4,
+      "start_ms": 32925,
+      "end_ms": 40187,
+      "duration_ms": 7262
+    },
+    {
+      "word": "Y no pudo hacer allí ningún milagro, salvo que sanó a unos pocos enfermos, poniendo sobre ellos las manos.",
+      "verse": 5,
+      "start_ms": 40187,
+      "end_ms": 47362,
+      "duration_ms": 7175
+    },
+    {
+      "word": "Y estaba asombrado de la incredulidad de ellos.",
+      "verse": 6,
+      "start_ms": 47362,
+      "end_ms": 50962,
+      "duration_ms": 3600
+    },
+    {
+      "word": "Y recorría las aldeas de alrededor, enseñando.",
+      "verse": 6,
+      "start_ms": 50962,
+      "end_ms": 54724,
+      "duration_ms": 3762
+    },
+    {
+      "word": "Misión de los doce discípulos (Mt 10.5–15; Lc 9.1–6) Después llamó a los doce, y comenzó a enviarlos de dos en dos; y les dio autoridad sobre los espíritus inmundos.",
+      "verse": 6,
+      "start_ms": 54725,
+      "end_ms": 68075,
+      "duration_ms": 13350
+    },
+    {
+      "word": "Y les mandó que no llevasen nada para el camino, sino solamente bordón; ni alforja, ni pan, ni dinero en el cinto, sino que calzasen sandalias, y no vistiesen dos túnicas.",
+      "verse": 8,
+      "start_ms": 68075,
+      "end_ms": 79550,
+      "duration_ms": 11475
+    },
+    {
+      "word": "Y les dijo: Dondequiera que entréis en una casa, posad en ella hasta que salgáis de aquel lugar.",
+      "verse": 10,
+      "start_ms": 79550,
+      "end_ms": 85675,
+      "duration_ms": 6125
+    },
+    {
+      "word": "Y si en algún lugar no os recibieren ni os oyeren, salid de allí, y sacudid el polvo que está debajo de vuestros pies, para testimonio a ellos.",
+      "verse": 11,
+      "start_ms": 85675,
+      "end_ms": 94487,
+      "duration_ms": 8812
+    },
+    {
+      "word": "De cierto os digo que en el día del juicio, será más tolerable el castigo para los de Sodoma y Gomorra, que para aquella ciudad.",
+      "verse": 11,
+      "start_ms": 94487,
+      "end_ms": 102349,
+      "duration_ms": 7862
+    },
+    {
+      "word": "Y saliendo, predicaban que los hombres se arrepintiesen.",
+      "verse": 12,
+      "start_ms": 102350,
+      "end_ms": 106212,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Y echaban fuera muchos demonios, y ungían con aceite a muchos enfermos, y los sanaban.",
+      "verse": 13,
+      "start_ms": 106212,
+      "end_ms": 112112,
+      "duration_ms": 5900
+    },
+    {
+      "word": "Muerte de Juan el Bautista (Mt 14.1–12; Lc 9.7–9) Oyó el rey Herodes la fama de Jesús, porque su nombre se había hecho notorio; y dijo: Juan el Bautista ha resucitado de los muertos, y por eso actúan en él estos poderes.",
+      "verse": 13,
+      "start_ms": 112112,
+      "end_ms": 129074,
+      "duration_ms": 16962
+    },
+    {
+      "word": "Otros decían: Es Elías.",
+      "verse": 15,
+      "start_ms": 129075,
+      "end_ms": 131887,
+      "duration_ms": 2812
+    },
+    {
+      "word": "Y otros decían: Es un profeta, o alguno de los profetas.",
+      "verse": 15,
+      "start_ms": 131887,
+      "end_ms": 136562,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Al oír esto Herodes, dijo: éste es Juan, el que yo decapité, que ha resucitado de los muertos.",
+      "verse": 16,
+      "start_ms": 136562,
+      "end_ms": 143712,
+      "duration_ms": 7150
+    },
+    {
+      "word": "Porque el mismo Herodes había enviado y prendido a Juan, y le había encadenado en la cárcel por causa de Herodías, mujer de Felipe su hermano; pues la había tomado por mujer.",
+      "verse": 17,
+      "start_ms": 143712,
+      "end_ms": 153762,
+      "duration_ms": 10050
+    },
+    {
+      "word": "Porque Juan decía a Herodes: No te es lícito tener la mujer de tu hermano.",
+      "verse": 18,
+      "start_ms": 153762,
+      "end_ms": 158962,
+      "duration_ms": 5200
+    },
+    {
+      "word": "Pero Herodías le acechaba, y deseaba matarle, y no podía; porque Herodes temía a Juan, sabiendo que era varón justo y santo, y le guardaba a salvo; y oyéndole, se quedaba muy perplejo, pero le escuchaba de buena gana.",
+      "verse": 19,
+      "start_ms": 158962,
+      "end_ms": 173037,
+      "duration_ms": 14075
+    },
+    {
+      "word": "Pero venido un día oportuno, en que Herodes, en la fiesta de su cumpleaños, daba una cena a sus príncipes y tribunos y a los principales de Galilea, entrando la hija de Herodías, danzó, y agradó a Herodes y a los que estaban con él a la mesa; y el rey dijo a la muchacha: Pídeme lo que quieras, y yo te lo daré.",
+      "verse": 21,
+      "start_ms": 173037,
+      "end_ms": 191812,
+      "duration_ms": 18775
+    },
+    {
+      "word": "Y le juró: Todo lo que me pidas te daré, hasta la mitad de mi reino.",
+      "verse": 23,
+      "start_ms": 191812,
+      "end_ms": 196662,
+      "duration_ms": 4850
+    },
+    {
+      "word": "Saliendo ella, dijo a su madre: ¿Qué pediré?",
+      "verse": 24,
+      "start_ms": 196662,
+      "end_ms": 200487,
+      "duration_ms": 3825
+    },
+    {
+      "word": "Y ella le dijo: La cabeza de Juan el Bautista.",
+      "verse": 24,
+      "start_ms": 200487,
+      "end_ms": 204299,
+      "duration_ms": 3812
+    },
+    {
+      "word": "Entonces ella entró prontamente al rey, y pidió diciendo: Quiero que ahora mismo me des en un plato la cabeza de Juan el Bautista.",
+      "verse": 25,
+      "start_ms": 204300,
+      "end_ms": 212150,
+      "duration_ms": 7850
+    },
+    {
+      "word": "Y el rey se entristeció mucho; pero a causa del juramento, y de los que estaban con él a la mesa, no quiso desecharla.",
+      "verse": 26,
+      "start_ms": 212150,
+      "end_ms": 219612,
+      "duration_ms": 7462
+    },
+    {
+      "word": "Y en seguida el rey, enviando a uno de la guardia, mandó que fuese traída la cabeza de Juan.",
+      "verse": 27,
+      "start_ms": 219612,
+      "end_ms": 225762,
+      "duration_ms": 6150
+    },
+    {
+      "word": "El guarda fue, le decapitó en la cárcel, y trajo su cabeza en un plato y la dio a la muchacha, y la muchacha la dio a su madre.",
+      "verse": 28,
+      "start_ms": 225762,
+      "end_ms": 233724,
+      "duration_ms": 7962
+    },
+    {
+      "word": "Cuando oyeron esto sus discípulos, vinieron y tomaron su cuerpo, y lo pusieron en un sepulcro.",
+      "verse": 29,
+      "start_ms": 233725,
+      "end_ms": 239725,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Alimentación de los cinco mil (Mt 14.13–21; Lc 9.10–17; Jn 6.1–14) Entonces los apóstoles se juntaron con Jesús, y le contaron todo lo que habían hecho, y lo que habían enseñado.",
+      "verse": 29,
+      "start_ms": 239725,
+      "end_ms": 255337,
+      "duration_ms": 15612
+    },
+    {
+      "word": "Él les dijo: Venid vosotros aparte a un lugar desierto, y descansad un poco.",
+      "verse": 31,
+      "start_ms": 255337,
+      "end_ms": 261162,
+      "duration_ms": 5825
+    },
+    {
+      "word": "Porque eran muchos los que iban y venían, de manera que ni aun tenían tiempo para comer.",
+      "verse": 31,
+      "start_ms": 261162,
+      "end_ms": 266849,
+      "duration_ms": 5687
+    },
+    {
+      "word": "Y se fueron solos en una barca a un lugar desierto.",
+      "verse": 32,
+      "start_ms": 266850,
+      "end_ms": 270475,
+      "duration_ms": 3625
+    },
+    {
+      "word": "Pero muchos los vieron ir, y le reconocieron;",
+      "verse": 33,
+      "start_ms": 270475,
+      "end_ms": 273862,
+      "duration_ms": 3387
+    },
+    {
+      "word": "y muchos fueron allá a pie desde las ciudades, y llegaron antes que ellos, y se juntaron a él.",
+      "verse": 33,
+      "start_ms": 274012,
+      "end_ms": 280174,
+      "duration_ms": 6162
+    },
+    {
+      "word": "Y salió Jesús y vio una gran multitud, y tuvo compasión de ellos, porque eran como ovejas que no tenían pastor; y comenzó a enseñarles muchas cosas.",
+      "verse": 34,
+      "start_ms": 280124,
+      "end_ms": 289761,
+      "duration_ms": 9637
+    },
+    {
+      "word": "Cuando ya era muy avanzada la hora, sus discípulos se acercaron a él, diciendo: El lugar es desierto, y la hora ya muy avanzada.",
+      "verse": 35,
+      "start_ms": 289762,
+      "end_ms": 298424,
+      "duration_ms": 8662
+    },
+    {
+      "word": "Despídelos para que vayan a los campos y aldeas de alrededor, y compren pan, pues no tienen qué comer.",
+      "verse": 36,
+      "start_ms": 298424,
+      "end_ms": 304886,
+      "duration_ms": 6462
+    },
+    {
+      "word": "Respondiendo él, les dijo: Dadles vosotros de comer.",
+      "verse": 37,
+      "start_ms": 304887,
+      "end_ms": 309249,
+      "duration_ms": 4362
+    },
+    {
+      "word": "Ellos le dijeron: ¿Que vayamos y compremos pan por doscientos denarios, y les demos de comer?",
+      "verse": 37,
+      "start_ms": 309249,
+      "end_ms": 315511,
+      "duration_ms": 6262
+    },
+    {
+      "word": "Él les dijo: ¿Cuántos panes tenéis?",
+      "verse": 38,
+      "start_ms": 315512,
+      "end_ms": 318699,
+      "duration_ms": 3187
+    },
+    {
+      "word": "Id y vedlo.",
+      "verse": 38,
+      "start_ms": 318699,
+      "end_ms": 320611,
+      "duration_ms": 1912
+    },
+    {
+      "word": "Y al saberlo, dijeron: Cinco, y dos peces.",
+      "verse": 38,
+      "start_ms": 320612,
+      "end_ms": 325087,
+      "duration_ms": 4475
+    },
+    {
+      "word": "Y les mandó que hiciesen recostar a todos por grupos sobre la hierba verde.",
+      "verse": 39,
+      "start_ms": 325087,
+      "end_ms": 329737,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Y se recostaron por grupos, de ciento en ciento, y de cincuenta en cincuenta.",
+      "verse": 40,
+      "start_ms": 329737,
+      "end_ms": 335049,
+      "duration_ms": 5312
+    },
+    {
+      "word": "Entonces tomó los cinco panes y los dos peces, y levantando los ojos al cielo, bendijo, y partió los panes, y dio a sus discípulos para que los pusiesen delante; y repartió los dos peces entre todos.",
+      "verse": 41,
+      "start_ms": 335049,
+      "end_ms": 347736,
+      "duration_ms": 12687
+    },
+    {
+      "word": "Y comieron todos, y se saciaron.",
+      "verse": 42,
+      "start_ms": 347737,
+      "end_ms": 350762,
+      "duration_ms": 3025
+    },
+    {
+      "word": "Y recogieron de los pedazos doce cestas llenas, y de lo que sobró de los peces.",
+      "verse": 43,
+      "start_ms": 350762,
+      "end_ms": 356112,
+      "duration_ms": 5350
+    },
+    {
+      "word": "Y los que comieron eran cinco mil hombres.",
+      "verse": 44,
+      "start_ms": 356112,
+      "end_ms": 359099,
+      "duration_ms": 2987
+    },
+    {
+      "word": "Jesús anda sobre el mar (Mt 14.22–27; Jn 6.15–21) En seguida hizo a sus discípulos entrar en la barca e ir delante de él a Betsaida, en la otra ribera, entre tanto que él despedía a la multitud.",
+      "verse": 44,
+      "start_ms": 359099,
+      "end_ms": 374224,
+      "duration_ms": 15125
+    },
+    {
+      "word": "Y después que los hubo despedido, se fue al monte a orar; y al venir la noche, la barca estaba en medio del mar, y él solo en tierra.",
+      "verse": 46,
+      "start_ms": 374224,
+      "end_ms": 382699,
+      "duration_ms": 8475
+    },
+    {
+      "word": "Y viéndoles remar con gran fatiga, porque el viento les era contrario, cerca de la cuarta vigilia de la noche vino a ellos andando sobre el mar, y quería adelantárseles.",
+      "verse": 48,
+      "start_ms": 382699,
+      "end_ms": 392974,
+      "duration_ms": 10275
+    },
+    {
+      "word": "Viéndole ellos andar sobre el mar, pensaron que era un fantasma, y gritaron; porque todos le veían, y se turbaron.",
+      "verse": 49,
+      "start_ms": 392974,
+      "end_ms": 400711,
+      "duration_ms": 7737
+    },
+    {
+      "word": "Pero en seguida habló con ellos, y les dijo: ¡Tened ánimo; yo soy, no temáis!",
+      "verse": 50,
+      "start_ms": 400712,
+      "end_ms": 406512,
+      "duration_ms": 5800
+    },
+    {
+      "word": "Y subió a ellos en la barca, y se calmó el viento; y ellos se asombraron en gran manera, y se maravillaban.",
+      "verse": 51,
+      "start_ms": 406512,
+      "end_ms": 413637,
+      "duration_ms": 7125
+    },
+    {
+      "word": "Porque aún no habían entendido lo de los panes, por cuanto estaban endurecidos sus corazones.",
+      "verse": 52,
+      "start_ms": 413637,
+      "end_ms": 419437,
+      "duration_ms": 5800
+    },
+    {
+      "word": "Jesús sana a los enfermos en Genesaret (Mt 14.34–36) Terminada la travesía, vinieron a tierra de Genesaret, y arribaron a la orilla.",
+      "verse": 52,
+      "start_ms": 419437,
+      "end_ms": 430287,
+      "duration_ms": 10850
+    },
+    {
+      "word": "Y saliendo ellos de la barca, en seguida la gente le conoció.",
+      "verse": 54,
+      "start_ms": 430287,
+      "end_ms": 434587,
+      "duration_ms": 4300
+    },
+    {
+      "word": "Y recorriendo toda la tierra de alrededor, comenzaron a traer de todas partes enfermos en lechos, a donde oían que estaba.",
+      "verse": 55,
+      "start_ms": 434587,
+      "end_ms": 442412,
+      "duration_ms": 7825
+    },
+    {
+      "word": "Y dondequiera que entraba, en aldeas, ciudades o campos, ponían en las calles a los que estaban enfermos, y le rogaban que les dejase tocar siquiera el borde de su manto; y todos los que le tocaban quedaban sanos.",
+      "verse": 56,
+      "start_ms": 442412,
+      "end_ms": 454912,
+      "duration_ms": 12500
+    }
+  ]
+}

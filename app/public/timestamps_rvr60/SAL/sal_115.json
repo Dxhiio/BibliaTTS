@@ -1,0 +1,250 @@
+{
+  "book": "SAL",
+  "chapter": 115,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 18,
+  "word_count": 16,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 105,
+      "text": "No a nosotros, oh Jehová, no a nosotros, Sino a tu nombre da gloria, Por tu misericordia, por tu verdad."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 105,
+      "char_end": 166,
+      "text": "¿Por qué han de decir las gentes: ¿Dónde está ahora su Dios?"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 166,
+      "char_end": 227,
+      "text": "Nuestro Dios está en los cielos; Todo lo que quiso ha hecho."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 227,
+      "char_end": 290,
+      "text": "Los ídolos de ellos son plata y oro, Obra de manos de hombres."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 290,
+      "char_end": 343,
+      "text": "Tienen boca, mas no hablan; Tienen ojos, mas no ven;"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 343,
+      "char_end": 402,
+      "text": "Orejas tienen, mas no oyen; Tienen narices, mas no huelen;"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 402,
+      "char_end": 485,
+      "text": "Manos tienen, mas no palpan; Tienen pies, mas no andan; No hablan con su garganta."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 485,
+      "char_end": 561,
+      "text": "Semejantes a ellos son los que los hacen, Y cualquiera que confía en ellos."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 561,
+      "char_end": 618,
+      "text": "Oh Israel, confía en Jehová; él es tu ayuda y tu escudo."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 618,
+      "char_end": 690,
+      "text": "Casa de Aarón, confiad en Jehová; él es vuestra ayuda y vuestro escudo."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 690,
+      "char_end": 772,
+      "text": "Los que teméis a Jehová, confiad en Jehová; él es vuestra ayuda y vuestro escudo."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 772,
+      "char_end": 878,
+      "text": "Jehová se acordó de nosotros; nos bendecirá; Bendecirá a la casa de Israel; Bendecirá a la casa de Aarón."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 878,
+      "char_end": 938,
+      "text": "Bendecirá a los que temen a Jehová, A pequeños y a grandes."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 938,
+      "char_end": 1020,
+      "text": "Aumentará Jehová bendición sobre vosotros; Sobre vosotros y sobre vuestros hijos."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1020,
+      "char_end": 1082,
+      "text": "Benditos vosotros de Jehová, Que hizo los cielos y la tierra."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1082,
+      "char_end": 1167,
+      "text": "Los cielos son los cielos de Jehová; Y ha dado la tierra a los hijos de los hombres."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1167,
+      "char_end": 1233,
+      "text": "No alabarán los muertos a JAH, Ni cuantos descienden al silencio;"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1233,
+      "char_end": 1303,
+      "text": "Pero nosotros bendeciremos a JAH Desde ahora y para siempre. Aleluya."
+    }
+  ],
+  "words": [
+    {
+      "word": "No a nosotros, oh Jehová, no a nosotros, Sino a tu nombre da gloria, Por tu misericordia, por tu verdad.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7875,
+      "duration_ms": 7775
+    },
+    {
+      "word": "Por qué han de decir las gentes: ¿Dónde está ahora su Dios?",
+      "verse": 2,
+      "start_ms": 7825,
+      "end_ms": 12125,
+      "duration_ms": 4300
+    },
+    {
+      "word": "Nuestro Dios está en los cielos; Todo lo que quiso ha hecho.",
+      "verse": 3,
+      "start_ms": 12125,
+      "end_ms": 16262,
+      "duration_ms": 4137
+    },
+    {
+      "word": "Los ídolos de ellos son plata y oro, Obra de manos de hombres.",
+      "verse": 4,
+      "start_ms": 16262,
+      "end_ms": 20749,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Tienen boca, mas no hablan; Tienen ojos, mas no ven; Orejas tienen, mas no oyen; Tienen narices, mas no huelen; Manos tienen, mas no palpan; Tienen pies, mas no andan; No hablan con su garganta.",
+      "verse": 5,
+      "start_ms": 20750,
+      "end_ms": 35737,
+      "duration_ms": 14987
+    },
+    {
+      "word": "Semejantes a ellos son los que los hacen, Y cualquiera que confía en ellos.",
+      "verse": 8,
+      "start_ms": 35737,
+      "end_ms": 40774,
+      "duration_ms": 5037
+    },
+    {
+      "word": "Oh Israel, confía en Jehová; él es tu ayuda y tu escudo.",
+      "verse": 9,
+      "start_ms": 40775,
+      "end_ms": 45350,
+      "duration_ms": 4575
+    },
+    {
+      "word": "Casa de Aarón, confiad en Jehová; él es vuestra ayuda y vuestro escudo.",
+      "verse": 10,
+      "start_ms": 45350,
+      "end_ms": 50400,
+      "duration_ms": 5050
+    },
+    {
+      "word": "Los que teméis a Jehová, confiad en Jehová; él es vuestra ayuda y vuestro escudo.",
+      "verse": 11,
+      "start_ms": 50400,
+      "end_ms": 55875,
+      "duration_ms": 5475
+    },
+    {
+      "word": "Jehová se acordó de nosotros; nos bendecirá; Bendecirá a la casa de Israel; Bendecirá a la casa de Aarón.",
+      "verse": 12,
+      "start_ms": 55875,
+      "end_ms": 63375,
+      "duration_ms": 7500
+    },
+    {
+      "word": "Bendecirá a los que temen a Jehová, A pequeños y a grandes.",
+      "verse": 13,
+      "start_ms": 63375,
+      "end_ms": 67775,
+      "duration_ms": 4400
+    },
+    {
+      "word": "Aumentará Jehová bendición sobre vosotros; Sobre vosotros y sobre vuestros hijos.",
+      "verse": 14,
+      "start_ms": 67775,
+      "end_ms": 73412,
+      "duration_ms": 5637
+    },
+    {
+      "word": "Benditos vosotros de Jehová, Que hizo los cielos y la tierra.",
+      "verse": 15,
+      "start_ms": 73412,
+      "end_ms": 77799,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Los cielos son los cielos de Jehová; Y ha dado la tierra a los hijos de los hombres.",
+      "verse": 16,
+      "start_ms": 77800,
+      "end_ms": 83025,
+      "duration_ms": 5225
+    },
+    {
+      "word": "No alabarán los muertos a JAH, Ni cuantos descienden al silencio; Pero nosotros bendeciremos a JAH Desde ahora y para siempre.",
+      "verse": 17,
+      "start_ms": 83025,
+      "end_ms": 91675,
+      "duration_ms": 8650
+    },
+    {
+      "word": "Aleluya.",
+      "verse": 18,
+      "start_ms": 91675,
+      "end_ms": 93375,
+      "duration_ms": 1700
+    }
+  ]
+}

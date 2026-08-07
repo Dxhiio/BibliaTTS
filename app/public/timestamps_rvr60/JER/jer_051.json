@@ -1,0 +1,929 @@
+{
+  "book": "JER",
+  "chapter": 51,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 64,
+  "word_count": 67,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 133,
+      "text": "Así ha dicho Jehová: He aquí que yo levanto un viento destruidor contra Babilonia, y contra sus moradores que se levantan contra mí."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 133,
+      "char_end": 271,
+      "text": "Y enviaré a Babilonia aventadores que la avienten, y vaciarán su tierra; porque se pondrán contra ella de todas partes en el día del mal."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 271,
+      "char_end": 401,
+      "text": "Diré al flechero que entesa su arco, y al que se enorgullece de su coraza: No perdonéis a sus jóvenes, destruid todo su ejército."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 401,
+      "char_end": 475,
+      "text": "Y caerán muertos en la tierra de los caldeos, y alanceados en sus calles."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 475,
+      "char_end": 614,
+      "text": "Porque Israel y Judá no han enviudado de su Dios, Jehová de los ejércitos, aunque su tierra fue llena de pecado contra el Santo de Israel."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 614,
+      "char_end": 776,
+      "text": "Huid de en medio de Babilonia, y librad cada uno su vida, para que no perezcáis a causa de su maldad; porque el tiempo es de venganza de Jehová; le dará su pago."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 776,
+      "char_end": 928,
+      "text": "Copa de oro fue Babilonia en la mano de Jehová, que embriagó a toda la tierra; de su vino bebieron los pueblos; se aturdieron, por tanto, las naciones."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 928,
+      "char_end": 1033,
+      "text": "En un momento cayó Babilonia, y se despedazó; gemid sobre ella; tomad bálsamo para su dolor, quizá sane."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1033,
+      "char_end": 1187,
+      "text": "Curamos a Babilonia, y no ha sanado; dejadla, y vámonos cada uno a su tierra; porque ha llegado hasta el cielo su juicio, y se ha alzado hasta las nubes."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1187,
+      "char_end": 1283,
+      "text": "Jehová sacó a luz nuestras justicias; venid, y contemos en Sion la obra de Jehová nuestro Dios."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1283,
+      "char_end": 1495,
+      "text": "Limpiad las saetas, embrazad los escudos; ha despertado Jehová el espíritu de los reyes de Media; porque contra Babilonia es su pensamiento para destruirla; porque venganza es de Jehová, y venganza de su templo."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1495,
+      "char_end": 1697,
+      "text": "Levantad bandera sobre los muros de Babilonia, reforzad la guardia, poned centinelas, disponed celadas; porque deliberó Jehová, y aun pondrá en efecto lo que ha dicho contra los moradores de Babilonia."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1697,
+      "char_end": 1794,
+      "text": "Tú, la que moras entre muchas aguas, rica en tesoros, ha venido tu fin, la medida de tu codicia."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1794,
+      "char_end": 1924,
+      "text": "Jehová de los ejércitos juró por sí mismo, diciendo: Yo te llenaré de hombres como de langostas, y levantarán contra ti gritería."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1924,
+      "char_end": 2050,
+      "text": "Él es el que hizo la tierra con su poder, el que afirmó el mundo con su sabiduría, y extendió los cielos con su inteligencia."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2050,
+      "char_end": 2223,
+      "text": "A su voz se producen tumultos de aguas en los cielos, y hace subir las nubes de lo último de la tierra; él hace relámpagos con la lluvia, y saca el viento de sus depósitos."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2223,
+      "char_end": 2364,
+      "text": "Todo hombre se ha infatuado, y no tiene ciencia; se avergüenza todo artífice de su escultura, porque mentira es su ídolo, no tiene espíritu."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2364,
+      "char_end": 2434,
+      "text": "Vanidad son, obra digna de burla; en el tiempo del castigo perecerán."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2434,
+      "char_end": 2581,
+      "text": "No es como ellos la porción de Jacob; porque él es el Formador de todo, e Israel es el cetro de su herencia; Jehová de los ejércitos es su nombre."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2581,
+      "char_end": 2694,
+      "text": "Martillo me sois, y armas de guerra; y por medio de ti quebrantaré naciones, y por medio de ti destruiré reinos."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2694,
+      "char_end": 2810,
+      "text": "Por tu medio quebrantaré caballos y a sus jinetes, y por medio de ti quebrantaré carros y a los que en ellos suben."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2810,
+      "char_end": 2958,
+      "text": "Asimismo por tu medio quebrantaré hombres y mujeres, y por medio de ti quebrantaré viejos y jóvenes, y por tu medio quebrantaré jóvenes y vírgenes."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2958,
+      "char_end": 3124,
+      "text": "También quebrantaré por medio de ti al pastor y a su rebaño; quebrantaré por tu medio a labradores y a sus yuntas; a jefes y a príncipes quebrantaré por medio de ti."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3124,
+      "char_end": 3258,
+      "text": "Y pagaré a Babilonia y a todos los moradores de Caldea, todo el mal que ellos hicieron en Sion delante de vuestros ojos, dice Jehová."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3258,
+      "char_end": 3443,
+      "text": "He aquí yo estoy contra ti, oh monte destruidor, dice Jehová, que destruiste toda la tierra; y extenderé mi mano contra ti, y te haré rodar de las peñas, y te reduciré a monte quemado."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3443,
+      "char_end": 3562,
+      "text": "Y nadie tomará de ti piedra para esquina, ni piedra para cimiento; porque perpetuo asolamiento serás, ha dicho Jehová."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3562,
+      "char_end": 3790,
+      "text": "Alzad bandera en la tierra, tocad trompeta en las naciones, preparad pueblos contra ella; juntad contra ella los reinos de Ararat, de Mini y de Askenaz; señalad contra ella capitán, haced subir caballos como langostas erizadas."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3790,
+      "char_end": 3911,
+      "text": "Preparad contra ella naciones; los reyes de Media, sus capitanes y todos sus príncipes, y todo territorio de su dominio."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3911,
+      "char_end": 4095,
+      "text": "Temblará la tierra, y se afligirá; porque es confirmado contra Babilonia todo el pensamiento de Jehová, para poner la tierra de Babilonia en soledad, para que no haya morador en ella."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4095,
+      "char_end": 4276,
+      "text": "Los valientes de Babilonia dejaron de pelear, se encerraron en sus fortalezas; les faltaron las fuerzas, se volvieron como mujeres; incendiadas están sus casas, rotos sus cerrojos."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4276,
+      "char_end": 4424,
+      "text": "Correo se encontrará con correo, mensajero se encontrará con mensajero, para anunciar al rey de Babilonia que su ciudad es tomada por todas partes."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4424,
+      "char_end": 4525,
+      "text": "Los vados fueron tomados, y los baluartes quemados a fuego, y se consternaron los hombres de guerra."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4525,
+      "char_end": 4695,
+      "text": "Porque así ha dicho Jehová de los ejércitos, Dios de Israel: La hija de Babilonia es como una era cuando está de trillar; de aquí a poco le vendrá el tiempo de la siega."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4695,
+      "char_end": 4854,
+      "text": "Me devoró, me desmenuzó Nabucodonosor rey de Babilonia, y me dejó como vaso vacío; me tragó como dragón, llenó su vientre de mis delicadezas, y me echó fuera."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4854,
+      "char_end": 5005,
+      "text": "Sobre Babilonia caiga la violencia hecha a mí y a mi carne, dirá la moradora de Sion; y mi sangre caiga sobre los moradores de Caldea, dirá Jerusalén."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 5005,
+      "char_end": 5140,
+      "text": "Por tanto, así ha dicho Jehová: He aquí que yo juzgo tu causa y haré tu venganza; y secaré su mar, y haré que su corriente quede seca."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 5140,
+      "char_end": 5227,
+      "text": "Y será Babilonia montones de ruinas, morada de chacales, espanto y burla, sin morador."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 5227,
+      "char_end": 5295,
+      "text": "Todos a una rugirán como leones; como cachorros de leones gruñirán."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 5295,
+      "char_end": 5438,
+      "text": "En medio de su calor les pondré banquetes, y haré que se embriaguen, para que se alegren, y duerman eterno sueño y no despierten, dice Jehová."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 5438,
+      "char_end": 5512,
+      "text": "Los haré traer como corderos al matadero, como carneros y machos cabríos."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 5512,
+      "char_end": 5659,
+      "text": "¡Cómo fue apresada Babilonia, y fue tomada la que era alabada por toda la tierra! ¡Cómo vino a ser Babilonia objeto de espanto entre las naciones!"
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 5659,
+      "char_end": 5730,
+      "text": "Subió el mar sobre Babilonia; de la multitud de sus olas fue cubierta."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 5730,
+      "char_end": 5853,
+      "text": "Sus ciudades fueron asoladas, la tierra seca y desierta, tierra en que no morará nadie, ni pasará por ella hijo de hombre."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 5853,
+      "char_end": 5987,
+      "text": "Y juzgaré a Bel en Babilonia, y sacaré de su boca lo que se ha tragado; y no vendrán más naciones a él, y el muro de Babilonia caerá."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 5987,
+      "char_end": 6083,
+      "text": "Salid de en medio de ella, pueblo mío, y salvad cada uno su vida del ardor de la ira de Jehová."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 6083,
+      "char_end": 6284,
+      "text": "Y no desmaye vuestro corazón, ni temáis a causa del rumor que se oirá por la tierra; en un año vendrá el rumor, y después en otro año rumor, y habrá violencia en la tierra, dominador contra dominador."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 6284,
+      "char_end": 6440,
+      "text": "Por tanto, he aquí vienen días en que yo destruiré los ídolos de Babilonia, y toda su tierra será avergonzada, y todos sus muertos caerán en medio de ella."
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 6440,
+      "char_end": 6589,
+      "text": "Los cielos y la tierra y todo lo que está en ellos cantarán de gozo sobre Babilonia; porque del norte vendrán contra ella destruidores, dice Jehová."
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 6589,
+      "char_end": 6690,
+      "text": "Por los muertos de Israel caerá Babilonia, como por Babilonia cayeron los muertos de toda la tierra."
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 6690,
+      "char_end": 6809,
+      "text": "Los que escapasteis de la espada, andad, no os detengáis; acordaos por muchos días de Jehová, y acordaos de Jerusalén."
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 6809,
+      "char_end": 6966,
+      "text": "Estamos avergonzados, porque oímos la afrenta; la confusión cubrió nuestros rostros, porque vinieron extranjeros contra los santuarios de la casa de Jehová."
+    },
+    {
+      "verse": 52,
+      "label": "52",
+      "char_start": 6966,
+      "char_end": 7076,
+      "text": "Por tanto, vienen días, dice Jehová, en que yo destruiré sus ídolos, y en toda su tierra gemirán los heridos."
+    },
+    {
+      "verse": 53,
+      "label": "53",
+      "char_start": 7076,
+      "char_end": 7194,
+      "text": "Aunque suba Babilonia hasta el cielo, y se fortifique en las alturas, de mí vendrán a ella destruidores, dice Jehová."
+    },
+    {
+      "verse": 54,
+      "label": "54",
+      "char_start": 7194,
+      "char_end": 7280,
+      "text": "¡Oyese el clamor de Babilonia, y el gran quebrantamiento de la tierra de los caldeos!"
+    },
+    {
+      "verse": 55,
+      "label": "55",
+      "char_start": 7280,
+      "char_end": 7428,
+      "text": "Porque Jehová destruirá a Babilonia, y quitará de ella la mucha jactancia; y bramarán sus olas, y como sonido de muchas aguas será la voz de ellos."
+    },
+    {
+      "verse": 56,
+      "label": "56",
+      "char_start": 7428,
+      "char_end": 7599,
+      "text": "Porque vino destruidor contra ella, contra Babilonia, y sus valientes fueron apresados; el arco de ellos fue quebrado; porque Jehová, Dios de retribuciones, dará la paga."
+    },
+    {
+      "verse": 57,
+      "label": "57",
+      "char_start": 7599,
+      "char_end": 7786,
+      "text": "Y embriagaré a sus príncipes y a sus sabios, a sus capitanes, a sus nobles y a sus fuertes; y dormirán sueño eterno y no despertarán, dice el Rey, cuyo nombre es Jehová de los ejércitos."
+    },
+    {
+      "verse": 58,
+      "label": "58",
+      "char_start": 7786,
+      "char_end": 8002,
+      "text": "Así ha dicho Jehová de los ejércitos: El muro ancho de Babilonia será derribado enteramente, y sus altas puertas serán quemadas a fuego; en vano trabajaron los pueblos, y las naciones se cansaron sólo para el fuego."
+    },
+    {
+      "verse": 59,
+      "label": "59",
+      "char_start": 8002,
+      "char_end": 8202,
+      "text": "Palabra que envió el profeta Jeremías a Seraías hijo de Nerías, hijo de Maasías, cuando iba con Sedequías rey de Judá a Babilonia, en el cuarto año de su reinado. Y era Seraías el principal camarero."
+    },
+    {
+      "verse": 60,
+      "label": "60",
+      "char_start": 8202,
+      "char_end": 8343,
+      "text": "Escribió, pues, Jeremías en un libro todo el mal que había de venir sobre Babilonia, todas las palabras que están escritas contra Babilonia."
+    },
+    {
+      "verse": 61,
+      "label": "61",
+      "char_start": 8343,
+      "char_end": 8431,
+      "text": "Y dijo Jeremías a Seraías: Cuando llegues a Babilonia, y veas y leas todas estas cosas,"
+    },
+    {
+      "verse": 62,
+      "label": "62",
+      "char_start": 8431,
+      "char_end": 8600,
+      "text": "dirás: Oh Jehová, tú has dicho contra este lugar que lo habías de destruir, hasta no quedar en él morador, ni hombre ni animal, sino que para siempre ha de ser asolado."
+    },
+    {
+      "verse": 63,
+      "label": "63",
+      "char_start": 8600,
+      "char_end": 8694,
+      "text": "Y cuando acabes de leer este libro, le atarás una piedra, y lo echarás en medio del éufrates,"
+    },
+    {
+      "verse": 64,
+      "label": "64",
+      "char_start": 8694,
+      "char_end": 8840,
+      "text": "y dirás: Así se hundirá Babilonia, y no se levantará del mal que yo traigo sobre ella; y serán rendidos. Hasta aquí son las palabras de Jeremías."
+    }
+  ],
+  "words": [
+    {
+      "word": "Así ha dicho Jehová: He aquí que yo levanto un viento destruidor contra Babilonia, y contra sus moradores que se levantan contra mí.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 8200,
+      "duration_ms": 8100
+    },
+    {
+      "word": "Y enviaré a Babilonia aventadores que la avienten, y vaciarán su tierra; porque se pondrán contra ella de todas partes en el día del mal.",
+      "verse": 2,
+      "start_ms": 8150,
+      "end_ms": 16237,
+      "duration_ms": 8087
+    },
+    {
+      "word": "Diré al flechero que entesa su arco, y al que se enorgullece de su coraza: No perdonéis a sus jóvenes, destruid todo su ejército.",
+      "verse": 3,
+      "start_ms": 16237,
+      "end_ms": 24674,
+      "duration_ms": 8437
+    },
+    {
+      "word": "Y caerán muertos en la tierra de los caldeos, y alanceados en sus calles.",
+      "verse": 4,
+      "start_ms": 24675,
+      "end_ms": 29825,
+      "duration_ms": 5150
+    },
+    {
+      "word": "Porque Israel y Judá no han enviudado de su Dios, Jehová de los ejércitos, aunque su tierra fue llena de pecado contra el Santo de Israel.",
+      "verse": 5,
+      "start_ms": 29825,
+      "end_ms": 38100,
+      "duration_ms": 8275
+    },
+    {
+      "word": "Huid de en medio de Babilonia, y librad cada uno su vida, para que no perezcáis a causa de su maldad; porque el tiempo es de venganza de Jehová; le dará su pago.",
+      "verse": 6,
+      "start_ms": 38100,
+      "end_ms": 48250,
+      "duration_ms": 10150
+    },
+    {
+      "word": "Copa de oro fue Babilonia en la mano de Jehová, que embriagó a toda la tierra; de su vino bebieron los pueblos; se aturdieron, por tanto, las naciones.",
+      "verse": 7,
+      "start_ms": 48250,
+      "end_ms": 58087,
+      "duration_ms": 9837
+    },
+    {
+      "word": "En un momento cayó Babilonia, y se despedazó; gemid sobre ella; tomad bálsamo para su dolor, quizá sane.",
+      "verse": 8,
+      "start_ms": 58087,
+      "end_ms": 65874,
+      "duration_ms": 7787
+    },
+    {
+      "word": "Curamos a Babilonia, y no ha sanado; dejadla, y vámonos cada uno a su tierra; porque ha llegado hasta el cielo su juicio, y se ha alzado hasta las nubes.",
+      "verse": 9,
+      "start_ms": 65875,
+      "end_ms": 75950,
+      "duration_ms": 10075
+    },
+    {
+      "word": "Jehová sacó a luz nuestras justicias; venid, y contemos en Sion la obra de Jehová nuestro Dios.",
+      "verse": 10,
+      "start_ms": 75950,
+      "end_ms": 82462,
+      "duration_ms": 6512
+    },
+    {
+      "word": "Limpiad las saetas, embrazad los escudos; ha despertado Jehová el espíritu de los reyes de Media; porque contra Babilonia es su pensamiento para destruirla; porque venganza es de Jehová, y venganza de su templo.",
+      "verse": 11,
+      "start_ms": 82462,
+      "end_ms": 95524,
+      "duration_ms": 13062
+    },
+    {
+      "word": "Levantad bandera sobre los muros de Babilonia, reforzad la guardia, poned centinelas, disponed celadas; porque deliberó Jehová, y aun pondrá en efecto lo que ha dicho contra los moradores de Babilonia.",
+      "verse": 12,
+      "start_ms": 95525,
+      "end_ms": 108050,
+      "duration_ms": 12525
+    },
+    {
+      "word": "Tú, la que moras entre muchas aguas, rica en tesoros, ha venido tu fin, la medida de tu codicia.",
+      "verse": 13,
+      "start_ms": 108050,
+      "end_ms": 115112,
+      "duration_ms": 7062
+    },
+    {
+      "word": "Jehová de los ejércitos juró por sí mismo, diciendo: Yo te llenaré de hombres como de langostas, y levantarán contra ti gritería.",
+      "verse": 14,
+      "start_ms": 115112,
+      "end_ms": 123562,
+      "duration_ms": 8450
+    },
+    {
+      "word": "Él es el que hizo la tierra con su poder, el que afirmó el mundo con su sabiduría, y extendió los cielos con su inteligencia.",
+      "verse": 15,
+      "start_ms": 123562,
+      "end_ms": 131224,
+      "duration_ms": 7662
+    },
+    {
+      "word": "A su voz se producen tumultos de aguas en los cielos, y hace subir las nubes de lo último de la tierra; él hace relámpagos con la lluvia, y saca el viento de sus depósitos.",
+      "verse": 16,
+      "start_ms": 131225,
+      "end_ms": 141362,
+      "duration_ms": 10137
+    },
+    {
+      "word": "Todo hombre se ha infatuado, y no tiene ciencia; se avergüenza todo artífice de su escultura, porque mentira es su ídolo, no tiene espíritu.",
+      "verse": 17,
+      "start_ms": 141362,
+      "end_ms": 150374,
+      "duration_ms": 9012
+    },
+    {
+      "word": "Vanidad son, obra digna de burla; en el tiempo del castigo perecerán.",
+      "verse": 18,
+      "start_ms": 150375,
+      "end_ms": 155675,
+      "duration_ms": 5300
+    },
+    {
+      "word": "No es como ellos la porción de Jacob; porque él es el Formador de todo, e Israel es el cetro de su herencia; Jehová de los ejércitos es su nombre.",
+      "verse": 19,
+      "start_ms": 155675,
+      "end_ms": 164712,
+      "duration_ms": 9037
+    },
+    {
+      "word": "Martillo me sois, y armas de guerra; y por medio de ti quebrantaré naciones, y por medio de ti destruiré reinos.",
+      "verse": 20,
+      "start_ms": 164712,
+      "end_ms": 172512,
+      "duration_ms": 7800
+    },
+    {
+      "word": "Por tu medio quebrantaré caballos y a sus jinetes, y por medio de ti quebrantaré carros y a los que en ellos suben.",
+      "verse": 21,
+      "start_ms": 172512,
+      "end_ms": 179399,
+      "duration_ms": 6887
+    },
+    {
+      "word": "Asimismo por tu medio quebrantaré hombres y mujeres, y por medio de ti quebrantaré viejos y jóvenes, y por tu medio quebrantaré jóvenes y vírgenes.",
+      "verse": 22,
+      "start_ms": 179400,
+      "end_ms": 188575,
+      "duration_ms": 9175
+    },
+    {
+      "word": "También quebrantaré por medio de ti al pastor y a su rebaño; quebrantaré por tu medio a labradores y a sus yuntas; a jefes y a príncipes quebrantaré por medio de ti.",
+      "verse": 23,
+      "start_ms": 188575,
+      "end_ms": 198037,
+      "duration_ms": 9462
+    },
+    {
+      "word": "Y pagaré a Babilonia y a todos los moradores de Caldea, todo el mal que ellos hicieron en Sion delante de vuestros ojos, dice Jehová.",
+      "verse": 24,
+      "start_ms": 198037,
+      "end_ms": 206349,
+      "duration_ms": 8312
+    },
+    {
+      "word": "He aquí yo estoy contra ti, oh monte destruidor, dice Jehová, que destruiste toda la tierra; y extenderé mi mano contra ti, y te haré rodar de las peñas, y te reduciré a monte quemado.",
+      "verse": 25,
+      "start_ms": 206350,
+      "end_ms": 218362,
+      "duration_ms": 12012
+    },
+    {
+      "word": "Y nadie tomará de ti piedra para esquina, ni piedra para cimiento; porque perpetuo asolamiento serás, ha dicho Jehová.",
+      "verse": 26,
+      "start_ms": 218362,
+      "end_ms": 226062,
+      "duration_ms": 7700
+    },
+    {
+      "word": "Alzad bandera en la tierra, tocad trompeta en las naciones, preparad pueblos contra ella; juntad contra ella los reinos de Ararat, de Mini y de Askenaz; señalad contra ella capitán, haced subir caballos como langostas erizadas.",
+      "verse": 27,
+      "start_ms": 226062,
+      "end_ms": 240824,
+      "duration_ms": 14762
+    },
+    {
+      "word": "Preparad contra ella naciones; los reyes de Media, sus capitanes y todos sus príncipes, y todo territorio de su dominio.",
+      "verse": 28,
+      "start_ms": 240825,
+      "end_ms": 249187,
+      "duration_ms": 8362
+    },
+    {
+      "word": "Temblará la tierra, y se afligirá; porque es confirmado contra Babilonia todo el pensamiento",
+      "verse": 29,
+      "start_ms": 249187,
+      "end_ms": 255324,
+      "duration_ms": 6137
+    },
+    {
+      "word": "de Jehová, para poner la tierra de Babilonia en soledad, para que no haya morador en ella.",
+      "verse": 29,
+      "start_ms": 255484,
+      "end_ms": 261534,
+      "duration_ms": 6050
+    },
+    {
+      "word": "Los valientes de Babilonia dejaron de pelear, se encerraron en sus fortalezas; les faltaron las fuerzas, se volvieron como mujeres; incendiadas están sus casas, rotos sus cerrojos.",
+      "verse": 30,
+      "start_ms": 261484,
+      "end_ms": 272996,
+      "duration_ms": 11512
+    },
+    {
+      "word": "Correo se encontrará con correo, mensajero se encontrará con mensajero, para anunciar al rey de Babilonia que su ciudad es tomada por todas partes.",
+      "verse": 31,
+      "start_ms": 272996,
+      "end_ms": 281871,
+      "duration_ms": 8875
+    },
+    {
+      "word": "Los vados fueron tomados, y los baluartes quemados a fuego, y se consternaron los hombres de guerra.",
+      "verse": 32,
+      "start_ms": 281871,
+      "end_ms": 288283,
+      "duration_ms": 6412
+    },
+    {
+      "word": "Porque así ha dicho Jehová de los ejércitos, Dios de Israel: La hija de Babilonia es como una era cuando está de trillar; de aquí a poco le vendrá el tiempo de la siega.",
+      "verse": 33,
+      "start_ms": 288284,
+      "end_ms": 298321,
+      "duration_ms": 10037
+    },
+    {
+      "word": "Me devoró, me desmenuzó Nabucodonosor rey de Babilonia, y me dejó como vaso vacío; me tragó como dragón, llenó su vientre de mis delicadezas, y me echó fuera.",
+      "verse": 34,
+      "start_ms": 298321,
+      "end_ms": 309008,
+      "duration_ms": 10687
+    },
+    {
+      "word": "Sobre Babilonia caiga la violencia hecha a mí y a mi carne, dirá la moradora de Sion; y mi sangre caiga sobre los moradores de Caldea, dirá Jerusalén.",
+      "verse": 35,
+      "start_ms": 309009,
+      "end_ms": 318559,
+      "duration_ms": 9550
+    },
+    {
+      "word": "Por tanto, así ha dicho Jehová: He aquí que yo juzgo tu causa y haré tu venganza; y secaré su mar, y haré que su corriente quede seca.",
+      "verse": 36,
+      "start_ms": 318559,
+      "end_ms": 327496,
+      "duration_ms": 8937
+    },
+    {
+      "word": "Y será Babilonia montones de ruinas, morada de chacales, espanto y burla, sin morador.",
+      "verse": 37,
+      "start_ms": 327496,
+      "end_ms": 334046,
+      "duration_ms": 6550
+    },
+    {
+      "word": "Todos a una rugirán como leones; como cachorros de leones gruñirán.",
+      "verse": 38,
+      "start_ms": 334046,
+      "end_ms": 338983,
+      "duration_ms": 4937
+    },
+    {
+      "word": "En medio de su calor les pondré banquetes, y haré que se embriaguen, para que se alegren, y duerman eterno sueño y no despierten, dice Jehová.",
+      "verse": 39,
+      "start_ms": 338984,
+      "end_ms": 347896,
+      "duration_ms": 8912
+    },
+    {
+      "word": "Los haré traer como corderos al matadero, como carneros y machos cabríos.",
+      "verse": 40,
+      "start_ms": 347896,
+      "end_ms": 353246,
+      "duration_ms": 5350
+    },
+    {
+      "word": "Cómo fue apresada Babilonia, y fue tomada la que era alabada por toda la tierra!",
+      "verse": 41,
+      "start_ms": 353246,
+      "end_ms": 358621,
+      "duration_ms": 5375
+    },
+    {
+      "word": "Cómo vino a ser Babilonia objeto de espanto entre las naciones!",
+      "verse": 41,
+      "start_ms": 358621,
+      "end_ms": 362746,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Subió el mar sobre Babilonia; de la multitud de sus olas fue cubierta.",
+      "verse": 42,
+      "start_ms": 362746,
+      "end_ms": 367733,
+      "duration_ms": 4987
+    },
+    {
+      "word": "Sus ciudades fueron asoladas, la tierra seca y desierta, tierra en que no morará nadie, ni pasará por ella hijo de hombre.",
+      "verse": 43,
+      "start_ms": 367734,
+      "end_ms": 375809,
+      "duration_ms": 8075
+    },
+    {
+      "word": "Y juzgaré a Bel en Babilonia, y sacaré de su boca lo que se ha tragado; y no vendrán más naciones a él, y el muro de Babilonia caerá.",
+      "verse": 44,
+      "start_ms": 375809,
+      "end_ms": 384321,
+      "duration_ms": 8512
+    },
+    {
+      "word": "Salid de en medio de ella, pueblo mío, y salvad cada uno su vida del ardor de la ira de Jehová.",
+      "verse": 45,
+      "start_ms": 384321,
+      "end_ms": 390971,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Y no desmaye vuestro corazón, ni temáis a causa del rumor que se oirá por la tierra; en un año vendrá el rumor, y después en otro año rumor, y habrá violencia en la tierra, dominador contra dominador.",
+      "verse": 46,
+      "start_ms": 390971,
+      "end_ms": 403333,
+      "duration_ms": 12362
+    },
+    {
+      "word": "Por tanto, he aquí vienen días en que yo destruiré los ídolos de Babilonia, y toda su tierra será avergonzada, y todos sus muertos caerán en medio de ella.",
+      "verse": 47,
+      "start_ms": 403334,
+      "end_ms": 413059,
+      "duration_ms": 9725
+    },
+    {
+      "word": "Los cielos y la tierra y todo lo que está en ellos cantarán de gozo sobre Babilonia; porque del norte vendrán contra ella destruidores, dice Jehová.",
+      "verse": 48,
+      "start_ms": 413059,
+      "end_ms": 421996,
+      "duration_ms": 8937
+    },
+    {
+      "word": "Por los muertos de Israel caerá Babilonia, como por Babilonia cayeron los muertos de toda la tierra.",
+      "verse": 49,
+      "start_ms": 421996,
+      "end_ms": 428333,
+      "duration_ms": 6337
+    },
+    {
+      "word": "Los que escapasteis de la espada, andad, no os detengáis; acordaos por muchos días de Jehová, y acordaos de Jerusalén.",
+      "verse": 50,
+      "start_ms": 428334,
+      "end_ms": 436471,
+      "duration_ms": 8137
+    },
+    {
+      "word": "Estamos avergonzados, porque oímos la afrenta; la confusión cubrió nuestros rostros, porque vinieron extranjeros contra los santuarios de la casa de Jehová.",
+      "verse": 51,
+      "start_ms": 436471,
+      "end_ms": 445858,
+      "duration_ms": 9387
+    },
+    {
+      "word": "Por tanto, vienen días, dice Jehová, en que yo destruiré sus ídolos, y en toda su tierra gemirán los heridos.",
+      "verse": 52,
+      "start_ms": 445859,
+      "end_ms": 453671,
+      "duration_ms": 7812
+    },
+    {
+      "word": "Aunque suba Babilonia hasta el cielo, y se fortifique en las alturas, de mí vendrán a ella destruidores, dice Jehová.",
+      "verse": 53,
+      "start_ms": 453671,
+      "end_ms": 461358,
+      "duration_ms": 7687
+    },
+    {
+      "word": "Oyese el clamor de Babilonia, y el gran quebrantamiento de la tierra de los caldeos!",
+      "verse": 54,
+      "start_ms": 461359,
+      "end_ms": 466959,
+      "duration_ms": 5600
+    },
+    {
+      "word": "Porque Jehová destruirá a Babilonia, y quitará de ella la mucha jactancia; y bramarán sus olas, y como sonido de muchas aguas será la voz de ellos.",
+      "verse": 55,
+      "start_ms": 466959,
+      "end_ms": 476409,
+      "duration_ms": 9450
+    },
+    {
+      "word": "Porque vino destruidor contra ella, contra Babilonia, y sus valientes fueron apresados; el arco de ellos fue quebrado; porque Jehová, Dios de retribuciones, dará la paga.",
+      "verse": 56,
+      "start_ms": 476409,
+      "end_ms": 487646,
+      "duration_ms": 11237
+    },
+    {
+      "word": "Y embriagaré a sus príncipes y a sus sabios, a sus capitanes, a sus nobles y a sus fuertes; y dormirán sueño eterno y no despertarán, dice el Rey, cuyo nombre es Jehová de los ejércitos.",
+      "verse": 57,
+      "start_ms": 487646,
+      "end_ms": 499783,
+      "duration_ms": 12137
+    },
+    {
+      "word": "Así ha dicho Jehová de los ejércitos: El muro ancho de Babilonia será derribado enteramente, y sus altas puertas serán quemadas a fuego; en vano trabajaron los pueblos, y las naciones se cansaron sólo",
+      "verse": 58,
+      "start_ms": 499784,
+      "end_ms": 511834,
+      "duration_ms": 12050
+    },
+    {
+      "word": "para el fuego.",
+      "verse": 58,
+      "start_ms": 511996,
+      "end_ms": 513658,
+      "duration_ms": 1662
+    },
+    {
+      "word": "Palabra que envió el profeta Jeremías a Seraías hijo de Nerías, hijo de Maasías, cuando iba con Sedequías rey de Judá a Babilonia, en el cuarto año de su reinado.",
+      "verse": 59,
+      "start_ms": 513608,
+      "end_ms": 523808,
+      "duration_ms": 10200
+    },
+    {
+      "word": "Y era Seraías el principal camarero.",
+      "verse": 59,
+      "start_ms": 523808,
+      "end_ms": 526883,
+      "duration_ms": 3075
+    },
+    {
+      "word": "Escribió, pues, Jeremías en un libro todo el mal que había de venir sobre Babilonia, todas las palabras que están escritas contra Babilonia.",
+      "verse": 60,
+      "start_ms": 526883,
+      "end_ms": 535483,
+      "duration_ms": 8600
+    },
+    {
+      "word": "Y dijo Jeremías a Seraías: Cuando llegues a Babilonia, y veas y leas todas estas cosas, dirás: Oh Jehová, tú has dicho contra este lugar que lo habías de destruir, hasta no quedar en él morador, ni hombre ni animal, sino que para siempre ha de ser asolado.",
+      "verse": 61,
+      "start_ms": 535483,
+      "end_ms": 551408,
+      "duration_ms": 15925
+    },
+    {
+      "word": "Y cuando acabes de leer este libro, le atarás una piedra, y lo echarás en medio del éufrates, y dirás: Así se hundirá Babilonia, y no se levantará del mal que yo traigo sobre ella; y serán rendidos.",
+      "verse": 63,
+      "start_ms": 551408,
+      "end_ms": 563908,
+      "duration_ms": 12500
+    },
+    {
+      "word": "Hasta aquí son las palabras de Jeremías.",
+      "verse": 64,
+      "start_ms": 563908,
+      "end_ms": 566933,
+      "duration_ms": 3025
+    }
+  ]
+}

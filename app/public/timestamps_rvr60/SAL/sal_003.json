@@ -1,0 +1,138 @@
+{
+  "book": "SAL",
+  "chapter": 3,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 8,
+  "word_count": 10,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 98,
+      "text": "¡Oh Jehová, cuánto se han multiplicado mis adversarios! Muchos son los que se levantan contra mí."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 98,
+      "char_end": 170,
+      "text": "Muchos son los que dicen de mí: No hay para él salvación en Dios. Selah"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 170,
+      "char_end": 254,
+      "text": "Mas tú, Jehová, eres escudo alrededor de mí; Mi gloria, y el que levanta mi cabeza."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 254,
+      "char_end": 327,
+      "text": "Con mi voz clamé a Jehová, Y él me respondió desde su monte santo. Selah"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 327,
+      "char_end": 390,
+      "text": "Yo me acosté y dormí, Y desperté, porque Jehová me sustentaba."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 390,
+      "char_end": 456,
+      "text": "No temeré a diez millares de gente, Que pusieren sitio contra mí."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 456,
+      "char_end": 591,
+      "text": "Levántate, Jehová; sálvame, Dios mío; Porque tú heriste a todos mis enemigos en la mejilla; Los dientes de los perversos quebrantaste."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 591,
+      "char_end": 658,
+      "text": "La salvación es de Jehová; Sobre tu pueblo sea tu bendición. Selah"
+    }
+  ],
+  "words": [
+    {
+      "word": "Oh Jehová, cuánto se han multiplicado mis adversarios!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4137,
+      "duration_ms": 4037
+    },
+    {
+      "word": "Muchos son los que se levantan contra mí.",
+      "verse": 1,
+      "start_ms": 4087,
+      "end_ms": 6962,
+      "duration_ms": 2875
+    },
+    {
+      "word": "Muchos son los que dicen de mí: No hay para él salvación en Dios.",
+      "verse": 2,
+      "start_ms": 6962,
+      "end_ms": 11324,
+      "duration_ms": 4362
+    },
+    {
+      "word": "Selah Mas tú, Jehová, eres escudo alrededor de mí; Mi gloria, y el que levanta mi cabeza.",
+      "verse": 2,
+      "start_ms": 11325,
+      "end_ms": 18025,
+      "duration_ms": 6700
+    },
+    {
+      "word": "Con mi voz clamé a Jehová, Y él me respondió desde su monte santo.",
+      "verse": 4,
+      "start_ms": 18025,
+      "end_ms": 22625,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Selah Yo me acosté y dormí, Y desperté, porque Jehová me sustentaba.",
+      "verse": 4,
+      "start_ms": 22625,
+      "end_ms": 27675,
+      "duration_ms": 5050
+    },
+    {
+      "word": "No temeré a diez millares de gente, Que pusieren sitio contra mí.",
+      "verse": 6,
+      "start_ms": 27675,
+      "end_ms": 32175,
+      "duration_ms": 4500
+    },
+    {
+      "word": "Levántate, Jehová; sálvame, Dios mío; Porque tú heriste a todos mis enemigos en la mejilla; Los dientes de los perversos quebrantaste.",
+      "verse": 7,
+      "start_ms": 32175,
+      "end_ms": 41212,
+      "duration_ms": 9037
+    },
+    {
+      "word": "La salvación es de Jehová; Sobre tu pueblo sea tu bendición.",
+      "verse": 8,
+      "start_ms": 41212,
+      "end_ms": 45549,
+      "duration_ms": 4337
+    },
+    {
+      "word": "Selah",
+      "verse": 8,
+      "start_ms": 45550,
+      "end_ms": 46950,
+      "duration_ms": 1400
+    }
+  ]
+}

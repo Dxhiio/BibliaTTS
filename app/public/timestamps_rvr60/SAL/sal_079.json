@@ -1,0 +1,208 @@
+{
+  "book": "SAL",
+  "chapter": 79,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 13,
+  "word_count": 15,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 111,
+      "text": "Oh Dios, vinieron las naciones a tu heredad; Han profanado tu santo templo; Redujeron a Jerusalén a escombros."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 111,
+      "char_end": 233,
+      "text": "Dieron los cuerpos de tus siervos por comida a las aves de los cielos, La carne de tus santos a las bestias de la tierra."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 233,
+      "char_end": 328,
+      "text": "Derramaron su sangre como agua en los alrededores de Jerusalén, Y no hubo quien los enterrase."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 328,
+      "char_end": 432,
+      "text": "Somos afrentados de nuestros vecinos, Escarnecidos y burlados de los que están en nuestros alrededores."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 432,
+      "char_end": 516,
+      "text": "¿Hasta cuándo, oh Jehová? ¿Estarás airado para siempre? ¿Arderá como fuego tu celo?"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 516,
+      "char_end": 614,
+      "text": "Derrama tu ira sobre las naciones que no te conocen, Y sobre los reinos que no invocan tu nombre."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 614,
+      "char_end": 669,
+      "text": "Porque han consumido a Jacob, Y su morada han asolado."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 669,
+      "char_end": 816,
+      "text": "No recuerdes contra nosotros las iniquidades de nuestros antepasados; Vengan pronto tus misericordias a encontrarnos, Porque estamos muy abatidos."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 816,
+      "char_end": 946,
+      "text": "Ayúdanos, oh Dios de nuestra salvación, por la gloria de tu nombre; Y líbranos, y perdona nuestros pecados por amor de tu nombre."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 946,
+      "char_end": 1104,
+      "text": "Porque dirán las gentes: ¿Dónde está su Dios? Sea notoria en las gentes, delante de nuestros ojos, La venganza de la sangre de tus siervos que fue derramada."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1104,
+      "char_end": 1223,
+      "text": "Llegue delante de ti el gemido de los presos; Conforme a la grandeza de tu brazo preserva a los sentenciados a muerte,"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1223,
+      "char_end": 1330,
+      "text": "Y devuelve a nuestros vecinos en su seno siete tantos De su infamia, con que te han deshonrado, oh Jehová."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1330,
+      "char_end": 1459,
+      "text": "Y nosotros, pueblo tuyo, y ovejas de tu prado, Te alabaremos para siempre; De generación en generación cantaremos tus alabanzas."
+    }
+  ],
+  "words": [
+    {
+      "word": "Oh Dios, vinieron las naciones a tu heredad; Han profanado tu santo templo; Redujeron a Jerusalén a escombros.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7375,
+      "duration_ms": 7275
+    },
+    {
+      "word": "Dieron los cuerpos de tus siervos por comida a las aves de los cielos, La carne de tus santos a las bestias de la tierra.",
+      "verse": 2,
+      "start_ms": 7325,
+      "end_ms": 14237,
+      "duration_ms": 6912
+    },
+    {
+      "word": "Derramaron su sangre como agua en los alrededores de Jerusalén, Y no hubo quien los enterrase.",
+      "verse": 3,
+      "start_ms": 14237,
+      "end_ms": 20287,
+      "duration_ms": 6050
+    },
+    {
+      "word": "Somos afrentados de nuestros vecinos, Escarnecidos y burlados de los que están en nuestros alrededores.",
+      "verse": 4,
+      "start_ms": 20287,
+      "end_ms": 26899,
+      "duration_ms": 6612
+    },
+    {
+      "word": "Hasta cuándo, oh Jehová?",
+      "verse": 5,
+      "start_ms": 26900,
+      "end_ms": 29225,
+      "duration_ms": 2325
+    },
+    {
+      "word": "Estarás airado para siempre?",
+      "verse": 5,
+      "start_ms": 29225,
+      "end_ms": 31762,
+      "duration_ms": 2537
+    },
+    {
+      "word": "Arderá como fuego tu celo?",
+      "verse": 5,
+      "start_ms": 31762,
+      "end_ms": 34187,
+      "duration_ms": 2425
+    },
+    {
+      "word": "Derrama tu ira sobre las naciones que no te conocen, Y sobre los reinos que no invocan tu nombre.",
+      "verse": 6,
+      "start_ms": 34187,
+      "end_ms": 40174,
+      "duration_ms": 5987
+    },
+    {
+      "word": "Porque han consumido a Jacob, Y su morada han asolado.",
+      "verse": 7,
+      "start_ms": 40175,
+      "end_ms": 44200,
+      "duration_ms": 4025
+    },
+    {
+      "word": "No recuerdes contra nosotros las iniquidades de nuestros antepasados; Vengan pronto tus misericordias a encontrarnos, Porque estamos muy abatidos.",
+      "verse": 8,
+      "start_ms": 44200,
+      "end_ms": 53187,
+      "duration_ms": 8987
+    },
+    {
+      "word": "Ayúdanos, oh Dios de nuestra salvación, por la gloria de tu nombre; Y líbranos, y perdona nuestros pecados por amor de tu nombre.",
+      "verse": 9,
+      "start_ms": 53187,
+      "end_ms": 61462,
+      "duration_ms": 8275
+    },
+    {
+      "word": "Porque dirán las gentes: ¿Dónde está su Dios?",
+      "verse": 10,
+      "start_ms": 61462,
+      "end_ms": 65137,
+      "duration_ms": 3675
+    },
+    {
+      "word": "Sea notoria en las gentes, delante de nuestros ojos, La venganza de la sangre de tus siervos que fue derramada.",
+      "verse": 10,
+      "start_ms": 65137,
+      "end_ms": 72437,
+      "duration_ms": 7300
+    },
+    {
+      "word": "Llegue delante de ti el gemido de los presos; Conforme a la grandeza de tu brazo preserva a los sentenciados a muerte, Y devuelve a nuestros vecinos en su seno siete tantos De su infamia, con que te han deshonrado, oh Jehová.",
+      "verse": 11,
+      "start_ms": 72437,
+      "end_ms": 85087,
+      "duration_ms": 12650
+    },
+    {
+      "word": "Y nosotros, pueblo tuyo, y ovejas de tu prado, Te alabaremos para siempre; De generación en generación cantaremos tus alabanzas.",
+      "verse": 13,
+      "start_ms": 85087,
+      "end_ms": 93774,
+      "duration_ms": 8687
+    }
+  ]
+}

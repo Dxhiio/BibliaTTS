@@ -1,0 +1,551 @@
+{
+  "book": "1CR",
+  "chapter": 16,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 43,
+  "word_count": 34,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 166,
+      "text": "Así trajeron el arca de Dios, y la pusieron en medio de la tienda que David había levantado para ella; y ofrecieron holocaustos y sacrificios de paz delante de Dios."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 166,
+      "char_end": 280,
+      "text": "Y cuando David acabó de ofrecer el holocausto y los sacrificios de paz, bendijo al pueblo en el nombre de Jehová."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 280,
+      "char_end": 407,
+      "text": "Y repartió a todo Israel, así a hombres como a mujeres, a cada uno una torta de pan, una pieza de carne, y una torta de pasas."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 407,
+      "char_end": 534,
+      "text": "Y puso delante del arca de Jehová ministros de los levitas, para que recordasen y confesasen y loasen a Jehová Dios de Israel:"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 534,
+      "char_end": 731,
+      "text": "Asaf el primero; el segundo después de él, Zacarías; Jeiel, Semiramot, Jehiel, Matatías, Eliab, Benaía, Obed-edom y Jeiel, con sus instrumentos de salterios y arpas; pero Asaf sonaba los címbalos."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 731,
+      "char_end": 915,
+      "text": "También los sacerdotes Benaía y Jahaziel sonaban continuamente las trompetas delante del arca del pacto de Dios. Salmo de acción de gracias de David (Sal 105.1–15; 96.1–13; 106.47–48)"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 915,
+      "char_end": 1008,
+      "text": "Entonces, en aquel día, David comenzó a aclamar a Jehová por mano de Asaf y de sus hermanos:"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1008,
+      "char_end": 1084,
+      "text": "Alabad a Jehová, invocad su nombre, Dad a conocer en los pueblos sus obras."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1084,
+      "char_end": 1146,
+      "text": "Cantad a él, cantadle salmos; Hablad de todas sus maravillas."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1146,
+      "char_end": 1223,
+      "text": "Gloriaos en su santo nombre; Alégrese el corazón de los que buscan a Jehová."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1223,
+      "char_end": 1283,
+      "text": "Buscad a Jehová y su poder; Buscad su rostro continuamente."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1283,
+      "char_end": 1376,
+      "text": "Haced memoria de las maravillas que ha hecho, De sus prodigios, y de los juicios de su boca,"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1376,
+      "char_end": 1447,
+      "text": "Oh vosotros, hijos de Israel su siervo, Hijos de Jacob, sus escogidos."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1447,
+      "char_end": 1512,
+      "text": "Jehová, él es nuestro Dios; Sus juicios están en toda la tierra."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1512,
+      "char_end": 1607,
+      "text": "Él hace memoria de su pacto perpetuamente, Y de la palabra que él mandó para mil generaciones;"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1607,
+      "char_end": 1670,
+      "text": "Del pacto que concertó con Abraham, Y de su juramento a Isaac;"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1670,
+      "char_end": 1742,
+      "text": "El cual confirmó a Jacob por estatuto, Y a Israel por pacto sempiterno,"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1742,
+      "char_end": 1806,
+      "text": "Diciendo: A ti daré la tierra de Canaán, Porción de tu heredad."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1806,
+      "char_end": 1869,
+      "text": "Cuando ellos eran pocos en número, Pocos y forasteros en ella,"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1869,
+      "char_end": 1929,
+      "text": "Y andaban de nación en nación, Y de un reino a otro pueblo,"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1929,
+      "char_end": 2011,
+      "text": "No permitió que nadie los oprimiese; Antes por amor de ellos castigó a los reyes."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2011,
+      "char_end": 2074,
+      "text": "No toquéis, dijo, a mis ungidos, Ni hagáis mal a mis profetas."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2074,
+      "char_end": 2144,
+      "text": "Cantad a Jehová toda la tierra, Proclamad de día en día su salvación."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2144,
+      "char_end": 2218,
+      "text": "Cantad entre las gentes su gloria, Y en todos los pueblos sus maravillas."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2218,
+      "char_end": 2312,
+      "text": "Porque grande es Jehová, y digno de suprema alabanza, Y de ser temido sobre todos los dioses."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2312,
+      "char_end": 2391,
+      "text": "Porque todos los dioses de los pueblos son ídolos; Mas Jehová hizo los cielos."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2391,
+      "char_end": 2461,
+      "text": "Alabanza y magnificencia delante de él; Poder y alegría en su morada."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2461,
+      "char_end": 2537,
+      "text": "Tributad a Jehová, oh familias de los pueblos, Dad a Jehová gloria y poder."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2537,
+      "char_end": 2676,
+      "text": "Dad a Jehová la honra debida a su nombre; Traed ofrenda, y venid delante de él; Postraos delante de Jehová en la hermosura de la santidad."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2676,
+      "char_end": 2771,
+      "text": "Temed en su presencia, toda la tierra; El mundo será aún establecido, para que no se conmueva."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2771,
+      "char_end": 2852,
+      "text": "Alégrense los cielos, y gócese la tierra, Y digan en las naciones: Jehová reina."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2852,
+      "char_end": 2926,
+      "text": "Resuene el mar, y su plenitud; Alégrese el campo, y todo lo que contiene."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 2926,
+      "char_end": 3023,
+      "text": "Entonces cantarán los árboles de los bosques delante de Jehová, Porque viene a juzgar la tierra."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3023,
+      "char_end": 3095,
+      "text": "Aclamad a Jehová, porque él es bueno; Porque su misericordia es eterna."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3095,
+      "char_end": 3252,
+      "text": "Y decid: Sálvanos, oh Dios, salvación nuestra; Recógenos, y líbranos de las naciones, Para que confesemos tu santo nombre, Y nos gloriemos en tus alabanzas."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3252,
+      "char_end": 3392,
+      "text": "Bendito sea Jehová Dios de Israel, De eternidad a eternidad. Y dijo todo el pueblo, Amén, y alabó a Jehová. Los levitas encargados del arca"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3392,
+      "char_end": 3540,
+      "text": "Y dejó allí, delante del arca del pacto de Jehová, a Asaf y a sus hermanos, para que ministrasen de continuo delante del arca, cada cosa en su día;"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 3540,
+      "char_end": 3641,
+      "text": "y a Obed-edom y a sus sesenta y ocho hermanos; y a Obed-edom hijo de Jedutún y a Hosa como porteros."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 3641,
+      "char_end": 3776,
+      "text": "Asimismo al sacerdote Sadoc, y a los sacerdotes sus hermanos, delante del tabernáculo de Jehová en el lugar alto que estaba en Gabaón,"
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 3776,
+      "char_end": 3965,
+      "text": "para que sacrificasen continuamente, a mañana y tarde, holocaustos a Jehová en el altar del holocausto, conforme a todo lo que está escrito en la ley de Jehová, que él prescribió a Israel;"
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 3965,
+      "char_end": 4108,
+      "text": "y con ellos a Hemán, a Jedutún y a los otros escogidos declarados por sus nombres, para glorificar a Jehová, porque es eterna su misericordia."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4108,
+      "char_end": 4269,
+      "text": "Con ellos a Hemán y a Jedutún con trompetas y címbalos para los que tocaban, y con otros instrumentos de música de Dios; y a los hijos de Jedutún para porteros."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4269,
+      "char_end": 4354,
+      "text": "Y todo el pueblo se fue cada uno a su casa; y David se volvió para bendecir su casa."
+    }
+  ],
+  "words": [
+    {
+      "word": "Así trajeron el arca de Dios, y la pusieron en medio de la tienda que David había levantado para ella; y ofrecieron holocaustos y sacrificios de paz delante de Dios.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 9862,
+      "duration_ms": 9762
+    },
+    {
+      "word": "Y cuando David acabó de ofrecer el holocausto y los sacrificios de paz, bendijo al pueblo en el nombre de Jehová.",
+      "verse": 2,
+      "start_ms": 9812,
+      "end_ms": 16549,
+      "duration_ms": 6737
+    },
+    {
+      "word": "Y repartió a todo Israel, así a hombres como a mujeres, a cada uno una torta de pan, una pieza de carne, y una torta de pasas.",
+      "verse": 3,
+      "start_ms": 16550,
+      "end_ms": 25575,
+      "duration_ms": 9025
+    },
+    {
+      "word": "Y puso delante del arca de Jehová ministros de los levitas, para que recordasen y confesasen y loasen a Jehová Dios de Israel: Asaf el primero; el segundo después de él, Zacarías; Jeiel, Semiramot, Jehiel, Matatías, Eliab, Benaía, Obed-edom y Jeiel, con sus instrumentos de salterios y arpas; pero Asaf sonaba los címbalos.",
+      "verse": 4,
+      "start_ms": 25575,
+      "end_ms": 47475,
+      "duration_ms": 21900
+    },
+    {
+      "word": "También los sacerdotes Benaía y Jahaziel sonaban continuamente las trompetas delante del arca del pacto de Dios.",
+      "verse": 6,
+      "start_ms": 47475,
+      "end_ms": 54362,
+      "duration_ms": 6887
+    },
+    {
+      "word": "Salmo de acción de gracias de David (Sal 105.1–15; 96.1–13; 106.47–48) Entonces, en aquel día, David comenzó a aclamar a Jehová por mano de Asaf y de sus hermanos: Alabad a Jehová, invocad su nombre, Dad a conocer en los pueblos sus obras.",
+      "verse": 6,
+      "start_ms": 54362,
+      "end_ms": 73974,
+      "duration_ms": 19612
+    },
+    {
+      "word": "Cantad a él, cantadle salmos; Hablad de todas sus maravillas.",
+      "verse": 9,
+      "start_ms": 73975,
+      "end_ms": 79062,
+      "duration_ms": 5087
+    },
+    {
+      "word": "Gloriaos en su santo nombre; Alégrese el corazón de los que buscan a Jehová.",
+      "verse": 10,
+      "start_ms": 79062,
+      "end_ms": 84124,
+      "duration_ms": 5062
+    },
+    {
+      "word": "Buscad a Jehová y su poder; Buscad su rostro continuamente.",
+      "verse": 11,
+      "start_ms": 84125,
+      "end_ms": 88675,
+      "duration_ms": 4550
+    },
+    {
+      "word": "Haced memoria de las maravillas que ha hecho, De sus prodigios, y de los juicios de su boca, Oh vosotros, hijos de Israel su siervo, Hijos de Jacob, sus escogidos.",
+      "verse": 12,
+      "start_ms": 88675,
+      "end_ms": 99512,
+      "duration_ms": 10837
+    },
+    {
+      "word": "Jehová, él es nuestro Dios; Sus juicios están en toda la tierra.",
+      "verse": 14,
+      "start_ms": 99512,
+      "end_ms": 104299,
+      "duration_ms": 4787
+    },
+    {
+      "word": "Él hace memoria de su pacto perpetuamente, Y de la palabra que él mandó para mil generaciones; Del pacto que concertó con Abraham, Y de su juramento a Isaac; El cual confirmó a Jacob por estatuto, Y a Israel por pacto sempiterno, Diciendo: A ti daré la tierra de Canaán, Porción de tu heredad.",
+      "verse": 15,
+      "start_ms": 104300,
+      "end_ms": 122912,
+      "duration_ms": 18612
+    },
+    {
+      "word": "Cuando ellos eran pocos en número, Pocos y forasteros en ella, Y andaban de nación en nación, Y de un reino a otro pueblo, No permitió que nadie los oprimiese; Antes por amor de ellos castigó a los reyes.",
+      "verse": 19,
+      "start_ms": 122912,
+      "end_ms": 135287,
+      "duration_ms": 12375
+    },
+    {
+      "word": "No toquéis, dijo, a mis ungidos, Ni hagáis mal a mis profetas.",
+      "verse": 22,
+      "start_ms": 135287,
+      "end_ms": 140724,
+      "duration_ms": 5437
+    },
+    {
+      "word": "Cantad a Jehová toda la tierra, Proclamad de día en día su salvación.",
+      "verse": 23,
+      "start_ms": 140725,
+      "end_ms": 145700,
+      "duration_ms": 4975
+    },
+    {
+      "word": "Cantad entre las gentes su gloria, Y en todos los pueblos sus maravillas.",
+      "verse": 24,
+      "start_ms": 145700,
+      "end_ms": 150675,
+      "duration_ms": 4975
+    },
+    {
+      "word": "Porque grande es Jehová, y digno de suprema alabanza, Y de ser temido sobre todos los dioses.",
+      "verse": 25,
+      "start_ms": 150675,
+      "end_ms": 157225,
+      "duration_ms": 6550
+    },
+    {
+      "word": "Porque todos los dioses de los pueblos son ídolos; Mas Jehová hizo los cielos.",
+      "verse": 26,
+      "start_ms": 157225,
+      "end_ms": 162525,
+      "duration_ms": 5300
+    },
+    {
+      "word": "Alabanza y magnificencia delante de él; Poder y alegría en su morada.",
+      "verse": 27,
+      "start_ms": 162525,
+      "end_ms": 167600,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Tributad a Jehová, oh familias de los pueblos, Dad a Jehová gloria y poder.",
+      "verse": 28,
+      "start_ms": 167600,
+      "end_ms": 172700,
+      "duration_ms": 5100
+    },
+    {
+      "word": "Dad a Jehová la honra debida a su nombre; Traed ofrenda, y venid delante de él; Postraos delante de Jehová en la hermosura de la santidad.",
+      "verse": 29,
+      "start_ms": 172700,
+      "end_ms": 181487,
+      "duration_ms": 8787
+    },
+    {
+      "word": "Temed en su presencia, toda la tierra; El mundo será aún establecido, para que no se conmueva.",
+      "verse": 30,
+      "start_ms": 181487,
+      "end_ms": 188087,
+      "duration_ms": 6600
+    },
+    {
+      "word": "Alégrense los cielos, y gócese la tierra, Y digan en las naciones: Jehová reina.",
+      "verse": 31,
+      "start_ms": 188087,
+      "end_ms": 194099,
+      "duration_ms": 6012
+    },
+    {
+      "word": "Resuene el mar, y su plenitud; Alégrese el campo, y todo lo que contiene.",
+      "verse": 32,
+      "start_ms": 194100,
+      "end_ms": 199612,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Entonces cantarán los árboles de los bosques delante de Jehová, Porque viene a juzgar la tierra.",
+      "verse": 33,
+      "start_ms": 199612,
+      "end_ms": 205487,
+      "duration_ms": 5875
+    },
+    {
+      "word": "Aclamad a Jehová, porque él es bueno; Porque su misericordia es eterna.",
+      "verse": 34,
+      "start_ms": 205487,
+      "end_ms": 210749,
+      "duration_ms": 5262
+    },
+    {
+      "word": "Y decid: Sálvanos, oh Dios, salvación nuestra; Recógenos, y líbranos de las naciones, Para que confesemos tu santo nombre, Y nos gloriemos en tus alabanzas.",
+      "verse": 35,
+      "start_ms": 210750,
+      "end_ms": 221537,
+      "duration_ms": 10787
+    },
+    {
+      "word": "Bendito sea Jehová Dios de Israel, De eternidad a eternidad.",
+      "verse": 36,
+      "start_ms": 221537,
+      "end_ms": 226212,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Y dijo todo el pueblo, Amén, y alabó a Jehová.",
+      "verse": 36,
+      "start_ms": 226212,
+      "end_ms": 230174,
+      "duration_ms": 3962
+    },
+    {
+      "word": "Los levitas encargados del arca Y dejó allí, delante del arca del pacto de Jehová, a Asaf y a sus hermanos, para que ministrasen de continuo delante del arca, cada cosa en su día; y a Obed-edom y a sus sesenta y ocho hermanos; y a Obed-edom hijo de Jedutún y a Hosa como porteros.",
+      "verse": 36,
+      "start_ms": 230175,
+      "end_ms": 247125,
+      "duration_ms": 16950
+    },
+    {
+      "word": "Asimismo al sacerdote Sadoc, y a los sacerdotes sus hermanos, delante del tabernáculo de Jehová en el lugar alto que estaba en Gabaón, para que sacrificasen continuamente, a mañana y tarde, holocaustos a Jehová en el altar del holocausto, conforme a todo lo que está escrito en la ley de Jehová, que él prescribió a Israel; y con ellos a Hemán, a Jedutún",
+      "verse": 39,
+      "start_ms": 247125,
+      "end_ms": 267700,
+      "duration_ms": 20575
+    },
+    {
+      "word": "y a los otros escogidos declarados por sus nombres, para glorificar a Jehová, porque es eterna su misericordia.",
+      "verse": 41,
+      "start_ms": 267868,
+      "end_ms": 275180,
+      "duration_ms": 7312
+    },
+    {
+      "word": "Con ellos a Hemán y a Jedutún con trompetas y címbalos para los que tocaban, y con otros instrumentos de música de Dios; y a los hijos de Jedutún para porteros.",
+      "verse": 42,
+      "start_ms": 275130,
+      "end_ms": 284430,
+      "duration_ms": 9300
+    },
+    {
+      "word": "Y todo el pueblo se fue cada uno a su casa; y David se volvió para bendecir su casa.",
+      "verse": 43,
+      "start_ms": 284430,
+      "end_ms": 289967,
+      "duration_ms": 5537
+    }
+  ]
+}

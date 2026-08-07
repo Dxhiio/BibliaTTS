@@ -1,0 +1,152 @@
+{
+  "book": "OSE",
+  "chapter": 14,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 9,
+  "word_count": 11,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 69,
+      "text": "Vuelve, oh Israel, a Jehová tu Dios; porque por tu pecado has caído."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 69,
+      "char_end": 228,
+      "text": "Llevad con vosotros palabras de súplica, y volved a Jehová, y decidle: Quita toda iniquidad, y acepta el bien, y te ofreceremos la ofrenda de nuestros labios."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 228,
+      "char_end": 397,
+      "text": "No nos librará el asirio; no montaremos en caballos, ni nunca más diremos a la obra de nuestras manos: Dioses nuestros; porque en ti el huérfano alcanzará misericordia."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 397,
+      "char_end": 480,
+      "text": "Yo sanaré su rebelión, los amaré de pura gracia; porque mi ira se apartó de ellos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 480,
+      "char_end": 573,
+      "text": "Yo seré a Israel como rocío; él florecerá como lirio, y extenderá sus raíces como el Líbano."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 573,
+      "char_end": 662,
+      "text": "Se extenderán sus ramas, y será su gloria como la del olivo, y perfumará como el Líbano."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 662,
+      "char_end": 795,
+      "text": "Volverán y se sentarán bajo su sombra; serán vivificados como trigo, y florecerán como la vid; su olor será como de vino del Líbano."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 795,
+      "char_end": 927,
+      "text": "Efraín dirá: ¿Qué más tendré ya con los ídolos? Yo lo oiré, y miraré; yo seré a él como la haya verde; de mí será hallado tu fruto."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 927,
+      "char_end": 1103,
+      "text": "¿Quién es sabio para que entienda esto, y prudente para que lo sepa? Porque los caminos de Jehová son rectos, y los justos andarán por ellos; mas los rebeldes caerán en ellos."
+    }
+  ],
+  "words": [
+    {
+      "word": "Vuelve, oh Israel, a Jehová tu Dios; porque por tu pecado has caído.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5575,
+      "duration_ms": 5475
+    },
+    {
+      "word": "Llevad con vosotros palabras de súplica, y volved a Jehová, y decidle: Quita toda iniquidad, y acepta el bien, y te ofreceremos la ofrenda de nuestros labios.",
+      "verse": 2,
+      "start_ms": 5525,
+      "end_ms": 15712,
+      "duration_ms": 10187
+    },
+    {
+      "word": "No nos librará el asirio; no montaremos en caballos, ni nunca más diremos a la obra de nuestras manos: Dioses nuestros; porque en ti el huérfano alcanzará misericordia.",
+      "verse": 3,
+      "start_ms": 15712,
+      "end_ms": 26337,
+      "duration_ms": 10625
+    },
+    {
+      "word": "Yo sanaré su rebelión, los amaré de pura gracia; porque mi ira se apartó de ellos.",
+      "verse": 4,
+      "start_ms": 26337,
+      "end_ms": 32412,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Yo seré a Israel como rocío; él florecerá como lirio, y extenderá sus raíces como el Líbano.",
+      "verse": 5,
+      "start_ms": 32412,
+      "end_ms": 39062,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Se extenderán sus ramas, y será su gloria como la del olivo, y perfumará como el Líbano.",
+      "verse": 6,
+      "start_ms": 39062,
+      "end_ms": 44999,
+      "duration_ms": 5937
+    },
+    {
+      "word": "Volverán y se sentarán bajo su sombra; serán vivificados como trigo, y florecerán como la vid; su olor será como de vino del Líbano.",
+      "verse": 7,
+      "start_ms": 45000,
+      "end_ms": 53587,
+      "duration_ms": 8587
+    },
+    {
+      "word": "Efraín dirá: ¿Qué más tendré ya con los ídolos?",
+      "verse": 8,
+      "start_ms": 53587,
+      "end_ms": 57274,
+      "duration_ms": 3687
+    },
+    {
+      "word": "Yo lo oiré, y miraré; yo seré a él como la haya verde; de mí será hallado tu fruto.",
+      "verse": 8,
+      "start_ms": 57275,
+      "end_ms": 63587,
+      "duration_ms": 6312
+    },
+    {
+      "word": "Quién es sabio para que entienda esto, y prudente para que lo sepa?",
+      "verse": 9,
+      "start_ms": 63587,
+      "end_ms": 68062,
+      "duration_ms": 4475
+    },
+    {
+      "word": "Porque los caminos de Jehová son rectos, y los justos andarán por ellos; mas los rebeldes caerán en ellos.",
+      "verse": 9,
+      "start_ms": 68062,
+      "end_ms": 74912,
+      "duration_ms": 6850
+    }
+  ]
+}

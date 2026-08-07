@@ -1,0 +1,383 @@
+{
+  "book": "AMO",
+  "chapter": 5,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 27,
+  "word_count": 26,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 81,
+      "text": "Oíd esta palabra que yo levanto para lamentación sobre vosotros, casa de Israel."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 81,
+      "char_end": 190,
+      "text": "Cayó la virgen de Israel, y no podrá levantarse ya más; fue dejada sobre su tierra, no hay quien la levante."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 190,
+      "char_end": 342,
+      "text": "Porque así ha dicho Jehová el Señor: La ciudad que salga con mil, volverá con ciento, y la que salga con ciento volverá con diez, en la casa de Israel."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 342,
+      "char_end": 406,
+      "text": "Pero así dice Jehová a la casa de Israel: Buscadme, y viviréis;"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 406,
+      "char_end": 540,
+      "text": "y no busquéis a Bet-el, ni entréis en Gilgal, ni paséis a Beerseba; porque Gilgal será llevada en cautiverio, y Bet-el será deshecha."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 540,
+      "char_end": 665,
+      "text": "Buscad a Jehová, y vivid; no sea que acometa como fuego a la casa de José y la consuma, sin haber en Bet-el quien lo apague."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 665,
+      "char_end": 740,
+      "text": "Los que convertís en ajenjo el juicio, y la justicia la echáis por tierra,"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 740,
+      "char_end": 950,
+      "text": "buscad al que hace las Pléyades y el Orión, y vuelve las tinieblas en mañana, y hace oscurecer el día como noche; el que llama a las aguas del mar, y las derrama sobre la faz de la tierra; Jehová es su nombre;"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 950,
+      "char_end": 1048,
+      "text": "que da esfuerzo al despojador sobre el fuerte, y hace que el despojador venga sobre la fortaleza."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1048,
+      "char_end": 1145,
+      "text": "Ellos aborrecieron al reprensor en la puerta de la ciudad, y al que hablaba lo recto abominaron."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1145,
+      "char_end": 1338,
+      "text": "Por tanto, puesto que vejáis al pobre y recibís de él carga de trigo, edificasteis casas de piedra labrada, mas no las habitaréis; plantasteis hermosas viñas, mas no beberéis el vino de ellas."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1338,
+      "char_end": 1514,
+      "text": "Porque yo sé de vuestras muchas rebeliones, y de vuestros grandes pecados; sé que afligís al justo, y recibís cohecho, y en los tribunales hacéis perder su causa a los pobres."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1514,
+      "char_end": 1584,
+      "text": "Por tanto, el prudente en tal tiempo calla, porque el tiempo es malo."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1584,
+      "char_end": 1705,
+      "text": "Buscad lo bueno, y no lo malo, para que viváis; porque así Jehová Dios de los ejércitos estará con vosotros, como decís."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1705,
+      "char_end": 1847,
+      "text": "Aborreced el mal, y amad el bien, y estableced la justicia en juicio; quizá Jehová Dios de los ejércitos tendrá piedad del remanente de José."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1847,
+      "char_end": 2046,
+      "text": "Por tanto, así ha dicho Jehová, Dios de los ejércitos: En todas las plazas habrá llanto, y en todas las calles dirán: ¡Ay! ¡Ay!, y al labrador llamarán a lloro, y a endecha a los que sepan endechar."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2046,
+      "char_end": 2124,
+      "text": "Y en todas las viñas habrá llanto; porque pasaré en medio de ti, dice Jehová."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2124,
+      "char_end": 2234,
+      "text": "¡Ay de los que desean el día de Jehová! ¿Para qué queréis este día de Jehová? Será de tinieblas, y no de luz;"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2234,
+      "char_end": 2381,
+      "text": "como el que huye de delante del león, y se encuentra con el oso; o como si entrare en casa y apoyare su mano en la pared, y le muerde una culebra."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2381,
+      "char_end": 2464,
+      "text": "¿No será el día de Jehová tinieblas, y no luz; oscuridad, que no tiene resplandor?"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2464,
+      "char_end": 2547,
+      "text": "Aborrecí, abominé vuestras solemnidades, y no me complaceré en vuestras asambleas."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2547,
+      "char_end": 2691,
+      "text": "Y si me ofreciereis vuestros holocaustos y vuestras ofrendas, no los recibiré, ni miraré a las ofrendas de paz de vuestros animales engordados."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2691,
+      "char_end": 2785,
+      "text": "Quita de mí la multitud de tus cantares, pues no escucharé las salmodias de tus instrumentos."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2785,
+      "char_end": 2859,
+      "text": "Pero corra el juicio como las aguas, y la justicia como impetuoso arroyo."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2859,
+      "char_end": 2950,
+      "text": "¿Me ofrecisteis sacrificios y ofrendas en el desierto en cuarenta años, oh casa de Israel?"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2950,
+      "char_end": 3079,
+      "text": "Antes bien, llevabais el tabernáculo de vuestro Moloc y Quiún, ídolos vuestros, la estrella de vuestros dioses que os hicisteis."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3079,
+      "char_end": 3182,
+      "text": "Os haré, pues, transportar más allá de Damasco, ha dicho Jehová, cuyo nombre es Dios de los ejércitos."
+    }
+  ],
+  "words": [
+    {
+      "word": "Oíd esta palabra que yo levanto para lamentación sobre vosotros, casa de Israel.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5612,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Cayó la virgen de Israel, y no podrá levantarse ya más; fue dejada sobre su tierra, no hay quien la levante.",
+      "verse": 2,
+      "start_ms": 5562,
+      "end_ms": 12849,
+      "duration_ms": 7287
+    },
+    {
+      "word": "Porque así ha dicho Jehová el Señor: La ciudad que salga con mil, volverá con ciento, y la que salga con ciento volverá con diez, en la casa de Israel.",
+      "verse": 3,
+      "start_ms": 12850,
+      "end_ms": 22150,
+      "duration_ms": 9300
+    },
+    {
+      "word": "Pero así dice Jehová a la casa de Israel: Buscadme, y viviréis; y no busquéis a Bet-el, ni entréis en Gilgal, ni paséis a Beerseba; porque Gilgal será llevada en cautiverio, y Bet-el será deshecha.",
+      "verse": 4,
+      "start_ms": 22150,
+      "end_ms": 35212,
+      "duration_ms": 13062
+    },
+    {
+      "word": "Buscad a Jehová, y vivid; no sea que acometa como fuego a la casa de José y la consuma, sin haber en Bet-el quien lo apague.",
+      "verse": 6,
+      "start_ms": 35212,
+      "end_ms": 43062,
+      "duration_ms": 7850
+    },
+    {
+      "word": "Los que convertís en ajenjo el juicio, y la justicia la echáis por tierra, buscad al que hace las Pléyades y el Orión, y vuelve las tinieblas en mañana, y hace oscurecer el día como noche; el que llama a las aguas del mar, y las derrama sobre la faz de la tierra; Jehová es su nombre; que da esfuerzo al despojador sobre el fuerte, y hace que el despojador venga sobre la fortaleza.",
+      "verse": 7,
+      "start_ms": 43062,
+      "end_ms": 64562,
+      "duration_ms": 21500
+    },
+    {
+      "word": "Ellos aborrecieron al reprensor en la puerta de la ciudad, y al que hablaba lo recto abominaron.",
+      "verse": 10,
+      "start_ms": 64562,
+      "end_ms": 70262,
+      "duration_ms": 5700
+    },
+    {
+      "word": "Por tanto, puesto que vejáis al pobre y recibís de él carga de trigo, edificasteis casas de piedra labrada, mas no las habitaréis; plantasteis hermosas viñas, mas no beberéis el vino de ellas.",
+      "verse": 11,
+      "start_ms": 70262,
+      "end_ms": 82562,
+      "duration_ms": 12300
+    },
+    {
+      "word": "Porque yo sé de vuestras muchas rebeliones, y de vuestros grandes pecados; sé que afligís al justo, y recibís cohecho, y en los tribunales hacéis perder su causa a los pobres.",
+      "verse": 12,
+      "start_ms": 82562,
+      "end_ms": 93462,
+      "duration_ms": 10900
+    },
+    {
+      "word": "Por tanto, el prudente en tal tiempo calla, porque el tiempo es malo.",
+      "verse": 13,
+      "start_ms": 93462,
+      "end_ms": 98274,
+      "duration_ms": 4812
+    },
+    {
+      "word": "Buscad lo bueno, y no lo malo, para que viváis; porque así Jehová Dios de los ejércitos estará con vosotros, como decís.",
+      "verse": 14,
+      "start_ms": 98275,
+      "end_ms": 106437,
+      "duration_ms": 8162
+    },
+    {
+      "word": "Aborreced el mal, y amad el bien, y estableced la justicia en juicio; quizá Jehová Dios de los ejércitos tendrá piedad del remanente de José.",
+      "verse": 15,
+      "start_ms": 106437,
+      "end_ms": 115224,
+      "duration_ms": 8787
+    },
+    {
+      "word": "Por tanto, así ha dicho Jehová, Dios de los ejércitos: En todas las plazas habrá llanto, y en todas las calles dirán: ¡Ay!",
+      "verse": 16,
+      "start_ms": 115225,
+      "end_ms": 123662,
+      "duration_ms": 8437
+    },
+    {
+      "word": "Ay!, y al labrador llamarán a lloro, y a endecha a los que sepan endechar.",
+      "verse": 16,
+      "start_ms": 123662,
+      "end_ms": 128824,
+      "duration_ms": 5162
+    },
+    {
+      "word": "Y en todas las viñas habrá llanto; porque pasaré en medio de ti, dice Jehová.",
+      "verse": 17,
+      "start_ms": 128825,
+      "end_ms": 134450,
+      "duration_ms": 5625
+    },
+    {
+      "word": "Ay de los que desean el día de Jehová!",
+      "verse": 18,
+      "start_ms": 134450,
+      "end_ms": 137237,
+      "duration_ms": 2787
+    },
+    {
+      "word": "Para qué queréis este día de Jehová?",
+      "verse": 18,
+      "start_ms": 137237,
+      "end_ms": 140062,
+      "duration_ms": 2825
+    },
+    {
+      "word": "Será de tinieblas, y no de luz; como el que huye de delante del león, y se encuentra con el oso; o como si entrare en casa y apoyare su mano en la pared, y le muerde una culebra.",
+      "verse": 18,
+      "start_ms": 140062,
+      "end_ms": 151037,
+      "duration_ms": 10975
+    },
+    {
+      "word": "No será el día de Jehová tinieblas, y no luz; oscuridad, que no tiene resplandor?",
+      "verse": 20,
+      "start_ms": 151037,
+      "end_ms": 157162,
+      "duration_ms": 6125
+    },
+    {
+      "word": "Aborrecí, abominé vuestras solemnidades, y no me complaceré en vuestras asambleas.",
+      "verse": 21,
+      "start_ms": 157162,
+      "end_ms": 163199,
+      "duration_ms": 6037
+    },
+    {
+      "word": "Y si me ofreciereis vuestros holocaustos y vuestras ofrendas, no los recibiré, ni miraré a las ofrendas de paz de vuestros animales engordados.",
+      "verse": 22,
+      "start_ms": 163200,
+      "end_ms": 171787,
+      "duration_ms": 8587
+    },
+    {
+      "word": "Quita de mí la multitud de tus cantares, pues no escucharé las salmodias de tus instrumentos.",
+      "verse": 23,
+      "start_ms": 171787,
+      "end_ms": 177724,
+      "duration_ms": 5937
+    },
+    {
+      "word": "Pero corra el juicio como las aguas, y la justicia como impetuoso arroyo.",
+      "verse": 24,
+      "start_ms": 177725,
+      "end_ms": 182775,
+      "duration_ms": 5050
+    },
+    {
+      "word": "Me ofrecisteis sacrificios y ofrendas en el desierto en cuarenta años, oh casa de Israel?",
+      "verse": 25,
+      "start_ms": 182775,
+      "end_ms": 188375,
+      "duration_ms": 5600
+    },
+    {
+      "word": "Antes bien, llevabais el tabernáculo de vuestro Moloc y Quiún, ídolos vuestros, la estrella de vuestros dioses que os hicisteis.",
+      "verse": 26,
+      "start_ms": 188375,
+      "end_ms": 196512,
+      "duration_ms": 8137
+    },
+    {
+      "word": "Os haré, pues, transportar más allá de Damasco, ha dicho Jehová, cuyo nombre es Dios de los ejércitos.",
+      "verse": 27,
+      "start_ms": 196512,
+      "end_ms": 203837,
+      "duration_ms": 7325
+    }
+  ]
+}

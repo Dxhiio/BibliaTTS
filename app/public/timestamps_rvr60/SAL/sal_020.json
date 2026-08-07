@@ -1,0 +1,138 @@
+{
+  "book": "SAL",
+  "chapter": 20,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 9,
+  "word_count": 9,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 80,
+      "text": "Jehová te oiga en el día de conflicto; El nombre del Dios de Jacob te defienda."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 80,
+      "char_end": 141,
+      "text": "Te envíe ayuda desde el santuario, Y desde Sion te sostenga."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 141,
+      "char_end": 207,
+      "text": "Haga memoria de todas tus ofrendas, Y acepte tu holocausto. Selah"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 207,
+      "char_end": 272,
+      "text": "Te dé conforme al deseo de tu corazón, Y cumpla todo tu consejo."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 272,
+      "char_end": 400,
+      "text": "Nosotros nos alegraremos en tu salvación, Y alzaremos pendón en el nombre de nuestro Dios; Conceda Jehová todas tus peticiones."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 400,
+      "char_end": 517,
+      "text": "Ahora conozco que Jehová salva a su ungido; Lo oirá desde sus santos cielos Con la potencia salvadora de su diestra."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 517,
+      "char_end": 632,
+      "text": "Éstos confían en carros, y aquéllos en caballos; Mas nosotros del nombre de Jehová nuestro Dios tendremos memoria."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 632,
+      "char_end": 702,
+      "text": "Ellos flaquean y caen, Mas nosotros nos levantamos, y estamos en pie."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 702,
+      "char_end": 766,
+      "text": "Salva, Jehová; Que el Rey nos oiga en el día que lo invoquemos."
+    }
+  ],
+  "words": [
+    {
+      "word": "Jehová te oiga en el día de conflicto; El nombre del Dios de Jacob te defienda.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5487,
+      "duration_ms": 5387
+    },
+    {
+      "word": "Te envíe ayuda desde el santuario, Y desde Sion te sostenga.",
+      "verse": 2,
+      "start_ms": 5437,
+      "end_ms": 9712,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Haga memoria de todas tus ofrendas, Y acepte tu holocausto.",
+      "verse": 3,
+      "start_ms": 9712,
+      "end_ms": 14199,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Selah Te dé conforme al deseo de tu corazón, Y cumpla todo tu consejo.",
+      "verse": 3,
+      "start_ms": 14200,
+      "end_ms": 19275,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Nosotros nos alegraremos en tu salvación, Y alzaremos pendón en el nombre de nuestro Dios; Conceda Jehová todas tus peticiones.",
+      "verse": 5,
+      "start_ms": 19275,
+      "end_ms": 27450,
+      "duration_ms": 8175
+    },
+    {
+      "word": "Ahora conozco que Jehová salva a su ungido; Lo oirá desde sus santos cielos Con la potencia salvadora de su diestra.",
+      "verse": 6,
+      "start_ms": 27450,
+      "end_ms": 34775,
+      "duration_ms": 7325
+    },
+    {
+      "word": "Éstos confían en carros, y aquéllos en caballos; Mas nosotros del nombre de Jehová nuestro Dios tendremos memoria.",
+      "verse": 7,
+      "start_ms": 34775,
+      "end_ms": 42087,
+      "duration_ms": 7312
+    },
+    {
+      "word": "Ellos flaquean y caen, Mas nosotros nos levantamos, y estamos en pie.",
+      "verse": 8,
+      "start_ms": 42087,
+      "end_ms": 47287,
+      "duration_ms": 5200
+    },
+    {
+      "word": "Salva, Jehová; Que el Rey nos oiga en el día que lo invoquemos.",
+      "verse": 9,
+      "start_ms": 47287,
+      "end_ms": 52174,
+      "duration_ms": 4887
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "book": "PRO",
+  "chapter": 21,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 31,
+  "word_count": 31,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 121,
+      "text": "Como los repartimientos de las aguas, Así está el corazón del rey en la mano de Jehová; A todo lo que quiere lo inclina."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 121,
+      "char_end": 207,
+      "text": "Todo camino del hombre es recto en su propia opinión; Pero Jehová pesa los corazones."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 207,
+      "char_end": 273,
+      "text": "Hacer justicia y juicio es a Jehová Más agradable que sacrificio."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 273,
+      "char_end": 349,
+      "text": "Altivez de ojos, y orgullo de corazón, Y pensamiento de impíos, son pecado."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 349,
+      "char_end": 486,
+      "text": "Los pensamientos del diligente ciertamente tienden a la abundancia; Mas todo el que se apresura alocadamente, de cierto va a la pobreza."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 486,
+      "char_end": 576,
+      "text": "Amontonar tesoros con lengua mentirosa Es aliento fugaz de aquellos que buscan la muerte."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 576,
+      "char_end": 653,
+      "text": "La rapiña de los impíos los destruirá, Por cuanto no quisieron hacer juicio."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 653,
+      "char_end": 743,
+      "text": "El camino del hombre perverso es torcido y extraño; Mas los hechos del limpio son rectos."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 743,
+      "char_end": 827,
+      "text": "Mejor es vivir en un rincón del terrado Que con mujer rencillosa en casa espaciosa."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 827,
+      "char_end": 898,
+      "text": "El alma del impío desea el mal; Su prójimo no halla favor en sus ojos."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 898,
+      "char_end": 1011,
+      "text": "Cuando el escarnecedor es castigado, el simple se hace sabio; Y cuando se le amonesta al sabio, aprende ciencia."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1011,
+      "char_end": 1094,
+      "text": "Considera el justo la casa del impío, Cómo los impíos son trastornados por el mal."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1094,
+      "char_end": 1173,
+      "text": "El que cierra su oído al clamor del pobre, También él clamará, y no será oído."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1173,
+      "char_end": 1246,
+      "text": "La dádiva en secreto calma el furor, Y el don en el seno, la fuerte ira."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1246,
+      "char_end": 1331,
+      "text": "Alegría es para el justo el hacer juicio; Mas destrucción a los que hacen iniquidad."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1331,
+      "char_end": 1428,
+      "text": "El hombre que se aparta del camino de la sabiduría Vendrá a parar en la compañía de los muertos."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1428,
+      "char_end": 1530,
+      "text": "Hombre necesitado será el que ama el deleite, Y el que ama el vino y los ungüentos no se enriquecerá."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1530,
+      "char_end": 1596,
+      "text": "Rescate del justo es el impío, Y por los rectos, el prevaricador."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1596,
+      "char_end": 1670,
+      "text": "Mejor es morar en tierra desierta Que con la mujer rencillosa e iracunda."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1670,
+      "char_end": 1761,
+      "text": "Tesoro precioso y aceite hay en la casa del sabio; Mas el hombre insensato todo lo disipa."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1761,
+      "char_end": 1845,
+      "text": "El que sigue la justicia y la misericordia Hallará la vida, la justicia y la honra."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1845,
+      "char_end": 1927,
+      "text": "Tomó el sabio la ciudad de los fuertes, Y derribó la fuerza en que ella confiaba."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1927,
+      "char_end": 1991,
+      "text": "El que guarda su boca y su lengua, Su alma guarda de angustias."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1991,
+      "char_end": 2088,
+      "text": "Escarnecedor es el nombre del soberbio y presuntuoso Que obra en la insolencia de su presunción."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2088,
+      "char_end": 2157,
+      "text": "El deseo del perezoso le mata, Porque sus manos no quieren trabajar."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2157,
+      "char_end": 2228,
+      "text": "Hay quien todo el día codicia; Pero el justo da, y no detiene su mano."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2228,
+      "char_end": 2309,
+      "text": "El sacrificio de los impíos es abominación; ¡Cuánto más ofreciéndolo con maldad!"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2309,
+      "char_end": 2388,
+      "text": "El testigo mentiroso perecerá; Mas el hombre que oye, permanecerá en su dicho."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2388,
+      "char_end": 2457,
+      "text": "El hombre impío endurece su rostro; Mas el recto ordena sus caminos."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2457,
+      "char_end": 2519,
+      "text": "No hay sabiduría, ni inteligencia, Ni consejo, contra Jehová."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2519,
+      "char_end": 2604,
+      "text": "El caballo se alista para el día de la batalla; Mas Jehová es el que da la victoria."
+    }
+  ],
+  "words": [
+    {
+      "word": "Como los repartimientos de las aguas, Así está el corazón del rey en la mano de Jehová; A todo lo que quiere lo inclina.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7175,
+      "duration_ms": 7075
+    },
+    {
+      "word": "Todo camino del hombre es recto en su propia opinión; Pero Jehová pesa los corazones.",
+      "verse": 2,
+      "start_ms": 7125,
+      "end_ms": 12800,
+      "duration_ms": 5675
+    },
+    {
+      "word": "Hacer justicia y juicio es a Jehová Más agradable que sacrificio.",
+      "verse": 3,
+      "start_ms": 12800,
+      "end_ms": 17187,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Altivez de ojos, y orgullo de corazón, Y pensamiento de impíos, son pecado.",
+      "verse": 4,
+      "start_ms": 17187,
+      "end_ms": 23087,
+      "duration_ms": 5900
+    },
+    {
+      "word": "Los pensamientos del diligente ciertamente tienden a la abundancia; Mas todo el que se apresura alocadamente, de cierto va a la pobreza.",
+      "verse": 5,
+      "start_ms": 23087,
+      "end_ms": 31312,
+      "duration_ms": 8225
+    },
+    {
+      "word": "Amontonar tesoros con lengua mentirosa Es aliento fugaz de aquellos que buscan la muerte.",
+      "verse": 6,
+      "start_ms": 31312,
+      "end_ms": 36687,
+      "duration_ms": 5375
+    },
+    {
+      "word": "La rapiña de los impíos los destruirá, Por cuanto no quisieron hacer juicio.",
+      "verse": 7,
+      "start_ms": 36687,
+      "end_ms": 41712,
+      "duration_ms": 5025
+    },
+    {
+      "word": "El camino del hombre perverso es torcido y extraño; Mas los hechos del limpio son rectos.",
+      "verse": 8,
+      "start_ms": 41712,
+      "end_ms": 47512,
+      "duration_ms": 5800
+    },
+    {
+      "word": "Mejor es vivir en un rincón del terrado Que con mujer rencillosa en casa espaciosa.",
+      "verse": 9,
+      "start_ms": 47512,
+      "end_ms": 52799,
+      "duration_ms": 5287
+    },
+    {
+      "word": "El alma del impío desea el mal; Su prójimo no halla favor en sus ojos.",
+      "verse": 10,
+      "start_ms": 52800,
+      "end_ms": 57962,
+      "duration_ms": 5162
+    },
+    {
+      "word": "Cuando el escarnecedor es castigado, el simple se hace sabio; Y cuando se le amonesta al sabio, aprende ciencia.",
+      "verse": 11,
+      "start_ms": 57962,
+      "end_ms": 65262,
+      "duration_ms": 7300
+    },
+    {
+      "word": "Considera el justo la casa del impío, Cómo los impíos son trastornados por el mal.",
+      "verse": 12,
+      "start_ms": 65262,
+      "end_ms": 70762,
+      "duration_ms": 5500
+    },
+    {
+      "word": "El que cierra su oído al clamor del pobre, También él clamará, y no será oído.",
+      "verse": 13,
+      "start_ms": 70762,
+      "end_ms": 76499,
+      "duration_ms": 5737
+    },
+    {
+      "word": "La dádiva en secreto calma el furor, Y el don en el seno, la fuerte ira.",
+      "verse": 14,
+      "start_ms": 76500,
+      "end_ms": 81850,
+      "duration_ms": 5350
+    },
+    {
+      "word": "Alegría es para el justo el hacer juicio; Mas destrucción a los que hacen iniquidad.",
+      "verse": 15,
+      "start_ms": 81850,
+      "end_ms": 87225,
+      "duration_ms": 5375
+    },
+    {
+      "word": "El hombre que se aparta del camino de la sabiduría Vendrá a parar en la compañía de los muertos.",
+      "verse": 16,
+      "start_ms": 87225,
+      "end_ms": 92875,
+      "duration_ms": 5650
+    },
+    {
+      "word": "Hombre necesitado será el que ama el deleite, Y el que ama el vino y los ungüentos no se enriquecerá.",
+      "verse": 17,
+      "start_ms": 92875,
+      "end_ms": 99125,
+      "duration_ms": 6250
+    },
+    {
+      "word": "Rescate del justo es el impío, Y por los rectos, el prevaricador.",
+      "verse": 18,
+      "start_ms": 99125,
+      "end_ms": 104125,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Mejor es morar en tierra desierta Que con la mujer rencillosa e iracunda.",
+      "verse": 19,
+      "start_ms": 104125,
+      "end_ms": 108862,
+      "duration_ms": 4737
+    },
+    {
+      "word": "Tesoro precioso y aceite hay en la casa del sabio; Mas el hombre insensato todo lo disipa.",
+      "verse": 20,
+      "start_ms": 108862,
+      "end_ms": 114799,
+      "duration_ms": 5937
+    },
+    {
+      "word": "El que sigue la justicia y la misericordia Hallará la vida, la justicia y la honra.",
+      "verse": 21,
+      "start_ms": 114800,
+      "end_ms": 120312,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Tomó el sabio la ciudad de los fuertes, Y derribó la fuerza en que ella confiaba.",
+      "verse": 22,
+      "start_ms": 120312,
+      "end_ms": 125674,
+      "duration_ms": 5362
+    },
+    {
+      "word": "El que guarda su boca y su lengua, Su alma guarda de angustias.",
+      "verse": 23,
+      "start_ms": 125675,
+      "end_ms": 130262,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Escarnecedor es el nombre del soberbio y presuntuoso Que obra en la insolencia de su presunción.",
+      "verse": 24,
+      "start_ms": 130262,
+      "end_ms": 135974,
+      "duration_ms": 5712
+    },
+    {
+      "word": "El deseo del perezoso le mata, Porque sus manos no quieren trabajar.",
+      "verse": 25,
+      "start_ms": 135975,
+      "end_ms": 140712,
+      "duration_ms": 4737
+    },
+    {
+      "word": "Hay quien todo el día codicia; Pero el justo da, y no detiene su mano.",
+      "verse": 26,
+      "start_ms": 140712,
+      "end_ms": 145699,
+      "duration_ms": 4987
+    },
+    {
+      "word": "El sacrificio de los impíos es abominación; ¡Cuánto más ofreciéndolo con maldad!",
+      "verse": 27,
+      "start_ms": 145700,
+      "end_ms": 150912,
+      "duration_ms": 5212
+    },
+    {
+      "word": "El testigo mentiroso perecerá; Mas el hombre que oye, permanecerá en su dicho.",
+      "verse": 28,
+      "start_ms": 150912,
+      "end_ms": 156512,
+      "duration_ms": 5600
+    },
+    {
+      "word": "El hombre impío endurece su rostro; Mas el recto ordena sus caminos.",
+      "verse": 29,
+      "start_ms": 156512,
+      "end_ms": 161412,
+      "duration_ms": 4900
+    },
+    {
+      "word": "No hay sabiduría, ni inteligencia, Ni consejo, contra Jehová.",
+      "verse": 30,
+      "start_ms": 161412,
+      "end_ms": 166537,
+      "duration_ms": 5125
+    },
+    {
+      "word": "El caballo se alista para el día de la batalla; Mas Jehová es el que da la victoria.",
+      "verse": 31,
+      "start_ms": 166537,
+      "end_ms": 171874,
+      "duration_ms": 5337
+    }
+  ]
+}

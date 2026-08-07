@@ -1,0 +1,180 @@
+{
+  "book": "1CO",
+  "chapter": 14,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 13,
+  "word_count": 11,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 118,
+      "text": "Si yo hablase lenguas humanas y angélicas, y no tengo amor, vengo a ser como metal que resuena, o címbalo que retiñe."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 118,
+      "char_end": 283,
+      "text": "Y si tuviese profecía, y entendiese todos los misterios y toda ciencia, y si tuviese toda la fe, de tal manera que trasladase los montes, y no tengo amor, nada soy."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 283,
+      "char_end": 426,
+      "text": "Y si repartiese todos mis bienes para dar de comer a los pobres, y si entregase mi cuerpo para ser quemado, y no tengo amor, de nada me sirve."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 426,
+      "char_end": 527,
+      "text": "El amor es sufrido, es benigno; el amor no tiene envidia, el amor no es jactancioso, no se envanece;"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 527,
+      "char_end": 600,
+      "text": "no hace nada indebido, no busca lo suyo, no se irrita, no guarda rencor;"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 600,
+      "char_end": 655,
+      "text": "no se goza de la injusticia, mas se goza de la verdad."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 655,
+      "char_end": 717,
+      "text": "Todo lo sufre, todo lo cree, todo lo espera, todo lo soporta."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 717,
+      "char_end": 821,
+      "text": "El amor nunca deja de ser; pero las profecías se acabarán, y cesarán las lenguas, y la ciencia acabará."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 821,
+      "char_end": 873,
+      "text": "Porque en parte conocemos, y en parte profetizamos;"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 873,
+      "char_end": 943,
+      "text": "mas cuando venga lo perfecto, entonces lo que es en parte se acabará."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 943,
+      "char_end": 1071,
+      "text": "Cuando yo era niño, hablaba como niño, pensaba como niño, juzgaba como niño; mas cuando ya fui hombre, dejé lo que era de niño."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1071,
+      "char_end": 1208,
+      "text": "Ahora vemos por espejo, oscuramente; mas entonces veremos cara a cara. Ahora conozco en parte; pero entonces conoceré como fui conocido."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1208,
+      "char_end": 1305,
+      "text": "Y ahora permanecen la fe, la esperanza y el amor, estos tres; pero el mayor de ellos es el amor."
+    }
+  ],
+  "words": [
+    {
+      "word": "Si yo hablase lenguas humanas y angélicas, y no tengo amor, vengo a ser como metal que resuena, o címbalo que retiñe.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7825,
+      "duration_ms": 7725
+    },
+    {
+      "word": "Y si tuviese profecía, y entendiese todos los misterios y toda ciencia, y si tuviese toda la fe, de tal manera que trasladase los montes, y no tengo amor, nada soy.",
+      "verse": 2,
+      "start_ms": 7775,
+      "end_ms": 18812,
+      "duration_ms": 11037
+    },
+    {
+      "word": "Y si repartiese todos mis bienes para dar de comer a los pobres, y si entregase mi cuerpo para ser quemado, y no tengo amor, de nada me sirve.",
+      "verse": 3,
+      "start_ms": 18812,
+      "end_ms": 27562,
+      "duration_ms": 8750
+    },
+    {
+      "word": "El amor es sufrido, es benigno; el amor no tiene envidia, el amor no es jactancioso, no se envanece; no hace nada indebido, no busca lo suyo, no se irrita, no guarda rencor; no se goza de la injusticia, mas se goza de la verdad.",
+      "verse": 4,
+      "start_ms": 27562,
+      "end_ms": 43412,
+      "duration_ms": 15850
+    },
+    {
+      "word": "Todo lo sufre, todo lo cree, todo lo espera, todo lo soporta.",
+      "verse": 7,
+      "start_ms": 43412,
+      "end_ms": 48349,
+      "duration_ms": 4937
+    },
+    {
+      "word": "El amor nunca deja de ser; pero las profecías se acabarán, y cesarán las lenguas, y la ciencia acabará.",
+      "verse": 8,
+      "start_ms": 48350,
+      "end_ms": 55450,
+      "duration_ms": 7100
+    },
+    {
+      "word": "Porque en parte conocemos, y en parte profetizamos; mas cuando venga lo perfecto, entonces lo que es en parte se acabará.",
+      "verse": 9,
+      "start_ms": 55450,
+      "end_ms": 63512,
+      "duration_ms": 8062
+    },
+    {
+      "word": "Cuando yo era niño, hablaba como niño, pensaba como niño, juzgaba como niño; mas cuando ya fui hombre, dejé lo que era de niño.",
+      "verse": 11,
+      "start_ms": 63512,
+      "end_ms": 72387,
+      "duration_ms": 8875
+    },
+    {
+      "word": "Ahora vemos por espejo, oscuramente; mas entonces veremos cara a cara.",
+      "verse": 12,
+      "start_ms": 72387,
+      "end_ms": 77749,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Ahora conozco en parte; pero entonces conoceré como fui conocido.",
+      "verse": 12,
+      "start_ms": 77750,
+      "end_ms": 82575,
+      "duration_ms": 4825
+    },
+    {
+      "word": "Y ahora permanecen la fe, la esperanza y el amor, estos tres; pero el mayor de ellos es el amor.",
+      "verse": 13,
+      "start_ms": 82575,
+      "end_ms": 89487,
+      "duration_ms": 6912
+    }
+  ]
+}

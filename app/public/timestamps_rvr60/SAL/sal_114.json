@@ -1,0 +1,117 @@
+{
+  "book": "SAL",
+  "chapter": 114,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 8,
+  "word_count": 7,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 71,
+      "text": "Cuando salió Israel de Egipto, La casa de Jacob del pueblo extranjero,"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 71,
+      "char_end": 122,
+      "text": "Judá vino a ser su santuario, E Israel su señorío."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 122,
+      "char_end": 172,
+      "text": "El mar lo vio, y huyó; El Jordán se volvió atrás."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 172,
+      "char_end": 237,
+      "text": "Los montes saltaron como carneros, Los collados como corderitos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 237,
+      "char_end": 312,
+      "text": "¿Qué tuviste, oh mar, que huiste? ¿Y tú, oh Jordán, que te volviste atrás?"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 312,
+      "char_end": 397,
+      "text": "Oh montes, ¿por qué saltasteis como carneros, Y vosotros, collados, como corderitos?"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 397,
+      "char_end": 475,
+      "text": "A la presencia de Jehová tiembla la tierra, A la presencia del Dios de Jacob,"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 475,
+      "char_end": 550,
+      "text": "El cual cambió la peña en estanque de aguas, Y en fuente de aguas la roca."
+    }
+  ],
+  "words": [
+    {
+      "word": "Cuando salió Israel de Egipto, La casa de Jacob del pueblo extranjero, Judá vino a ser su santuario, E Israel su señorío.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 8162,
+      "duration_ms": 8062
+    },
+    {
+      "word": "El mar lo vio, y huyó; El Jordán se volvió atrás.",
+      "verse": 3,
+      "start_ms": 8112,
+      "end_ms": 12374,
+      "duration_ms": 4262
+    },
+    {
+      "word": "Los montes saltaron como carneros, Los collados como corderitos.",
+      "verse": 4,
+      "start_ms": 12375,
+      "end_ms": 17125,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Qué tuviste, oh mar, que huiste?",
+      "verse": 5,
+      "start_ms": 17125,
+      "end_ms": 20375,
+      "duration_ms": 3250
+    },
+    {
+      "word": "Y tú, oh Jordán, que te volviste atrás?",
+      "verse": 5,
+      "start_ms": 20375,
+      "end_ms": 24062,
+      "duration_ms": 3687
+    },
+    {
+      "word": "Oh montes, ¿por qué saltasteis como carneros, Y vosotros, collados, como corderitos?",
+      "verse": 6,
+      "start_ms": 24062,
+      "end_ms": 31024,
+      "duration_ms": 6962
+    },
+    {
+      "word": "A la presencia de Jehová tiembla la tierra, A la presencia del Dios de Jacob, El cual cambió la peña en estanque de aguas, Y en fuente de aguas la roca.",
+      "verse": 7,
+      "start_ms": 31025,
+      "end_ms": 40075,
+      "duration_ms": 9050
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "book": "ECL",
+  "chapter": 11,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 10,
+  "word_count": 10,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 72,
+      "text": "Echa tu pan sobre las aguas; porque después de muchos días lo hallarás."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 72,
+      "char_end": 154,
+      "text": "Reparte a siete, y aun a ocho; porque no sabes el mal que vendrá sobre la tierra."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 154,
+      "char_end": 309,
+      "text": "Si las nubes fueren llenas de agua, sobre la tierra la derramarán; y si el árbol cayere al sur, o al norte, en el lugar que el árbol cayere, allí quedará."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 309,
+      "char_end": 386,
+      "text": "El que al viento observa, no sembrará; y el que mira a las nubes, no segará."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 386,
+      "char_end": 552,
+      "text": "Como tú no sabes cuál es el camino del viento, o cómo crecen los huesos en el vientre de la mujer encinta, así ignoras la obra de Dios, el cual hace todas las cosas."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 552,
+      "char_end": 721,
+      "text": "Por la mañana siembra tu semilla, y a la tarde no dejes reposar tu mano; porque no sabes cuál es lo mejor, si esto o aquello, o si lo uno y lo otro es igualmente bueno."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 721,
+      "char_end": 785,
+      "text": "Suave ciertamente es la luz, y agradable a los ojos ver el sol;"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 785,
+      "char_end": 976,
+      "text": "pero aunque un hombre viva muchos años, y en todos ellos tenga gozo, acuérdese sin embargo que los días de las tinieblas serán muchos. Todo cuanto viene es vanidad. Consejos para la juventud"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 976,
+      "char_end": 1185,
+      "text": "Alégrate, joven, en tu juventud, y tome placer tu corazón en los días de tu adolescencia; y anda en los caminos de tu corazón y en la vista de tus ojos; pero sabe, que sobre todas estas cosas te juzgará Dios."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1185,
+      "char_end": 1301,
+      "text": "Quita, pues, de tu corazón el enojo, y aparta de tu carne el mal; porque la adolescencia y la juventud son vanidad."
+    }
+  ],
+  "words": [
+    {
+      "word": "Echa tu pan sobre las aguas; porque después de muchos días lo hallarás.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5025,
+      "duration_ms": 4925
+    },
+    {
+      "word": "Reparte a siete, y aun a ocho; porque no sabes el mal que vendrá sobre la tierra.",
+      "verse": 2,
+      "start_ms": 4975,
+      "end_ms": 10725,
+      "duration_ms": 5750
+    },
+    {
+      "word": "Si las nubes fueren llenas de agua, sobre la tierra la derramarán; y si el árbol cayere al sur, o al norte, en el lugar que el árbol cayere, allí quedará.",
+      "verse": 3,
+      "start_ms": 10725,
+      "end_ms": 20400,
+      "duration_ms": 9675
+    },
+    {
+      "word": "El que al viento observa, no sembrará; y el que mira a las nubes, no segará.",
+      "verse": 4,
+      "start_ms": 20400,
+      "end_ms": 25850,
+      "duration_ms": 5450
+    },
+    {
+      "word": "Como tú no sabes cuál es el camino del viento, o cómo crecen los huesos en el vientre de la mujer encinta, así ignoras la obra de Dios, el cual hace todas las cosas.",
+      "verse": 5,
+      "start_ms": 25850,
+      "end_ms": 35875,
+      "duration_ms": 10025
+    },
+    {
+      "word": "Por la mañana siembra tu semilla, y a la tarde no dejes reposar tu mano; porque no sabes cuál es lo mejor, si esto o aquello, o si lo uno y lo otro es igualmente bueno.",
+      "verse": 6,
+      "start_ms": 35875,
+      "end_ms": 46462,
+      "duration_ms": 10587
+    },
+    {
+      "word": "Suave ciertamente es la luz, y agradable a los ojos ver el sol; pero aunque un hombre viva muchos años, y en todos ellos tenga gozo, acuérdese sin embargo que los días de las tinieblas serán muchos.",
+      "verse": 7,
+      "start_ms": 46462,
+      "end_ms": 58687,
+      "duration_ms": 12225
+    },
+    {
+      "word": "Todo cuanto viene es vanidad.",
+      "verse": 8,
+      "start_ms": 58687,
+      "end_ms": 61249,
+      "duration_ms": 2562
+    },
+    {
+      "word": "Consejos para la juventud Alégrate, joven, en tu juventud, y tome placer tu corazón en los días de tu adolescencia; y anda en los caminos de tu corazón y en la vista de tus ojos; pero sabe, que sobre todas estas cosas te juzgará Dios.",
+      "verse": 8,
+      "start_ms": 61250,
+      "end_ms": 75675,
+      "duration_ms": 14425
+    },
+    {
+      "word": "Quita, pues, de tu corazón el enojo, y aparta de tu carne el mal; porque la adolescencia y la juventud son vanidad.",
+      "verse": 10,
+      "start_ms": 75675,
+      "end_ms": 83712,
+      "duration_ms": 8037
+    }
+  ]
+}

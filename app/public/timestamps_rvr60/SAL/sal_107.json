@@ -1,0 +1,565 @@
+{
+  "book": "SAL",
+  "chapter": 107,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 43,
+  "word_count": 36,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 77,
+      "text": "Alabad a Jehová, porque él es bueno; Porque para siempre es su misericordia."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 77,
+      "char_end": 153,
+      "text": "Díganlo los redimidos de Jehová, Los que ha redimido del poder del enemigo,"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 153,
+      "char_end": 239,
+      "text": "Y los ha congregado de las tierras, Del oriente y del occidente, Del norte y del sur."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 239,
+      "char_end": 337,
+      "text": "Anduvieron perdidos por el desierto, por la soledad sin camino, Sin hallar ciudad en donde vivir."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 337,
+      "char_end": 392,
+      "text": "Hambrientos y sedientos, Su alma desfallecía en ellos."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 392,
+      "char_end": 467,
+      "text": "Entonces clamaron a Jehová en su angustia, Y los libró de sus aflicciones."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 467,
+      "char_end": 537,
+      "text": "Los dirigió por camino derecho, Para que viniesen a ciudad habitable."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 537,
+      "char_end": 623,
+      "text": "Alaben la misericordia de Jehová, Y sus maravillas para con los hijos de los hombres."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 623,
+      "char_end": 693,
+      "text": "Porque sacia al alma menesterosa, Y llena de bien al alma hambrienta."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 693,
+      "char_end": 782,
+      "text": "Algunos moraban en tinieblas y sombra de muerte, Aprisionados en aflicción y en hierros,"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 782,
+      "char_end": 875,
+      "text": "Por cuanto fueron rebeldes a las palabras de Jehová, Y aborrecieron el consejo del Altísimo."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 875,
+      "char_end": 961,
+      "text": "Por eso quebrantó con el trabajo sus corazones; Cayeron, y no hubo quien los ayudase."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 961,
+      "char_end": 1035,
+      "text": "Luego que clamaron a Jehová en su angustia, Los libró de sus aflicciones;"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1035,
+      "char_end": 1111,
+      "text": "Los sacó de las tinieblas y de la sombra de muerte, Y rompió sus prisiones."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1111,
+      "char_end": 1197,
+      "text": "Alaben la misericordia de Jehová, Y sus maravillas para con los hijos de los hombres."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1197,
+      "char_end": 1273,
+      "text": "Porque quebrantó las puertas de bronce, Y desmenuzó los cerrojos de hierro."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1273,
+      "char_end": 1367,
+      "text": "Fueron afligidos los insensatos, a causa del camino de su rebelión Y a causa de sus maldades;"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1367,
+      "char_end": 1441,
+      "text": "Su alma abominó todo alimento, Y llegaron hasta las puertas de la muerte."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1441,
+      "char_end": 1512,
+      "text": "Pero clamaron a Jehová en su angustia, Y los libró de sus aflicciones."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1512,
+      "char_end": 1567,
+      "text": "Envió su palabra, y los sanó, Y los libró de su ruina."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1567,
+      "char_end": 1653,
+      "text": "Alaben la misericordia de Jehová, Y sus maravillas para con los hijos de los hombres;"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1653,
+      "char_end": 1721,
+      "text": "Ofrezcan sacrificios de alabanza, Y publiquen sus obras con júbilo."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1721,
+      "char_end": 1794,
+      "text": "Los que descienden al mar en naves, Y hacen negocio en las muchas aguas,"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1794,
+      "char_end": 1870,
+      "text": "Ellos han visto las obras de Jehová, Y sus maravillas en las profundidades."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1870,
+      "char_end": 1947,
+      "text": "Porque habló, e hizo levantar un viento tempestuoso, Que encrespa sus ondas."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 1947,
+      "char_end": 2027,
+      "text": "Suben a los cielos, descienden a los abismos; Sus almas se derriten con el mal."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2027,
+      "char_end": 2089,
+      "text": "Tiemblan y titubean como ebrios, Y toda su ciencia es inútil."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2089,
+      "char_end": 2162,
+      "text": "Entonces claman a Jehová en su angustia, Y los libra de sus aflicciones."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2162,
+      "char_end": 2220,
+      "text": "Cambia la tempestad en sosiego, Y se apaciguan sus ondas."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2220,
+      "char_end": 2300,
+      "text": "Luego se alegran, porque se apaciguaron; Y así los guía al puerto que deseaban."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2300,
+      "char_end": 2386,
+      "text": "Alaben la misericordia de Jehová, Y sus maravillas para con los hijos de los hombres."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2386,
+      "char_end": 2466,
+      "text": "Exáltenlo en la congregación del pueblo, Y en la reunión de ancianos lo alaben."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 2466,
+      "char_end": 2547,
+      "text": "Él convierte los ríos en desierto, Y los manantiales de las aguas en sequedales;"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 2547,
+      "char_end": 2617,
+      "text": "La tierra fructífera en estéril, Por la maldad de los que la habitan."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 2617,
+      "char_end": 2692,
+      "text": "Vuelve el desierto en estanques de aguas, Y la tierra seca en manantiales."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 2692,
+      "char_end": 2758,
+      "text": "Allí establece a los hambrientos, Y fundan ciudad en donde vivir."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 2758,
+      "char_end": 2818,
+      "text": "Siembran campos, y plantan viñas, Y rinden abundante fruto."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 2818,
+      "char_end": 2890,
+      "text": "Los bendice, y se multiplican en gran manera; Y no disminuye su ganado."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 2890,
+      "char_end": 2965,
+      "text": "Luego son menoscabados y abatidos A causa de tiranía, de males y congojas."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 2965,
+      "char_end": 3061,
+      "text": "Él esparce menosprecio sobre los príncipes, Y les hace andar perdidos, vagabundos y sin camino."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 3061,
+      "char_end": 3149,
+      "text": "Levanta de la miseria al pobre, Y hace multiplicar las familias como rebaños de ovejas."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 3149,
+      "char_end": 3216,
+      "text": "Véanlo los rectos, y alégrense, Y todos los malos cierren su boca."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 3216,
+      "char_end": 3297,
+      "text": "¿Quién es sabio y guardará estas cosas, Y entenderá las misericordias de Jehová?"
+    }
+  ],
+  "words": [
+    {
+      "word": "Alabad a Jehová, porque él es bueno; Porque para siempre es su misericordia.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5587,
+      "duration_ms": 5487
+    },
+    {
+      "word": "Díganlo los redimidos de Jehová, Los que ha redimido del poder del enemigo, Y los ha congregado de las tierras, Del oriente y del occidente, Del norte y del sur.",
+      "verse": 2,
+      "start_ms": 5537,
+      "end_ms": 15499,
+      "duration_ms": 9962
+    },
+    {
+      "word": "Anduvieron perdidos por el desierto, por la soledad sin camino, Sin hallar ciudad en donde vivir.",
+      "verse": 4,
+      "start_ms": 15500,
+      "end_ms": 21687,
+      "duration_ms": 6187
+    },
+    {
+      "word": "Hambrientos y sedientos, Su alma desfallecía en ellos.",
+      "verse": 5,
+      "start_ms": 21687,
+      "end_ms": 25987,
+      "duration_ms": 4300
+    },
+    {
+      "word": "Entonces clamaron a Jehová en su angustia, Y los libró de sus aflicciones.",
+      "verse": 6,
+      "start_ms": 25987,
+      "end_ms": 30987,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Los dirigió por camino derecho, Para que viniesen a ciudad habitable.",
+      "verse": 7,
+      "start_ms": 30987,
+      "end_ms": 35587,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Alaben la misericordia de Jehová, Y sus maravillas para con los hijos de los hombres.",
+      "verse": 8,
+      "start_ms": 35587,
+      "end_ms": 40912,
+      "duration_ms": 5325
+    },
+    {
+      "word": "Porque sacia al alma menesterosa, Y llena de bien al alma hambrienta.",
+      "verse": 9,
+      "start_ms": 40912,
+      "end_ms": 45637,
+      "duration_ms": 4725
+    },
+    {
+      "word": "Algunos moraban en tinieblas y sombra de muerte, Aprisionados en aflicción y en hierros, Por cuanto fueron rebeldes a las palabras de Jehová, Y aborrecieron el consejo del Altísimo.",
+      "verse": 10,
+      "start_ms": 45637,
+      "end_ms": 56074,
+      "duration_ms": 10437
+    },
+    {
+      "word": "Por eso quebrantó con el trabajo sus corazones; Cayeron, y no hubo quien los ayudase.",
+      "verse": 12,
+      "start_ms": 56075,
+      "end_ms": 61975,
+      "duration_ms": 5900
+    },
+    {
+      "word": "Luego que clamaron a Jehová en su angustia, Los libró de sus aflicciones; Los sacó de las tinieblas y de la sombra de muerte, Y rompió sus prisiones.",
+      "verse": 13,
+      "start_ms": 61975,
+      "end_ms": 71062,
+      "duration_ms": 9087
+    },
+    {
+      "word": "Alaben la misericordia de Jehová, Y sus maravillas para con los hijos de los hombres.",
+      "verse": 15,
+      "start_ms": 71062,
+      "end_ms": 76387,
+      "duration_ms": 5325
+    },
+    {
+      "word": "Porque quebrantó las puertas de bronce, Y desmenuzó los cerrojos de hierro.",
+      "verse": 16,
+      "start_ms": 76387,
+      "end_ms": 81224,
+      "duration_ms": 4837
+    },
+    {
+      "word": "Fueron afligidos los insensatos, a causa del camino de su rebelión Y a causa de sus maldades; Su alma abominó todo alimento, Y llegaron hasta las puertas de la muerte.",
+      "verse": 17,
+      "start_ms": 81225,
+      "end_ms": 91800,
+      "duration_ms": 10575
+    },
+    {
+      "word": "Pero clamaron a Jehová en su angustia, Y los libró de sus aflicciones.",
+      "verse": 19,
+      "start_ms": 91800,
+      "end_ms": 96487,
+      "duration_ms": 4687
+    },
+    {
+      "word": "Envió su palabra, y los sanó, Y los libró de su ruina.",
+      "verse": 20,
+      "start_ms": 96487,
+      "end_ms": 100649,
+      "duration_ms": 4162
+    },
+    {
+      "word": "Alaben la misericordia de Jehová, Y sus maravillas para con los hijos de los hombres; Ofrezcan sacrificios de alabanza, Y publiquen sus obras con júbilo.",
+      "verse": 21,
+      "start_ms": 100650,
+      "end_ms": 109762,
+      "duration_ms": 9112
+    },
+    {
+      "word": "Los que descienden al mar en naves, Y hacen negocio en las muchas aguas, Ellos han visto las obras de Jehová, Y sus maravillas en las profundidades.",
+      "verse": 23,
+      "start_ms": 109762,
+      "end_ms": 118487,
+      "duration_ms": 8725
+    },
+    {
+      "word": "Porque habló, e hizo levantar un viento tempestuoso, Que encrespa sus ondas.",
+      "verse": 25,
+      "start_ms": 118487,
+      "end_ms": 123862,
+      "duration_ms": 5375
+    },
+    {
+      "word": "Suben a los cielos, descienden a los abismos; Sus almas se derriten con el mal.",
+      "verse": 26,
+      "start_ms": 123862,
+      "end_ms": 129299,
+      "duration_ms": 5437
+    },
+    {
+      "word": "Tiemblan y titubean como ebrios, Y toda su ciencia es inútil.",
+      "verse": 27,
+      "start_ms": 129300,
+      "end_ms": 133887,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Entonces claman a Jehová en su angustia, Y los libra de sus aflicciones.",
+      "verse": 28,
+      "start_ms": 133887,
+      "end_ms": 138837,
+      "duration_ms": 4950
+    },
+    {
+      "word": "Cambia la tempestad en sosiego, Y se apaciguan sus ondas.",
+      "verse": 29,
+      "start_ms": 138837,
+      "end_ms": 143112,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Luego se alegran, porque se apaciguaron; Y así los guía al puerto que deseaban.",
+      "verse": 30,
+      "start_ms": 143112,
+      "end_ms": 148649,
+      "duration_ms": 5537
+    },
+    {
+      "word": "Alaben la misericordia de Jehová, Y sus maravillas para con los hijos de los hombres.",
+      "verse": 31,
+      "start_ms": 148650,
+      "end_ms": 153975,
+      "duration_ms": 5325
+    },
+    {
+      "word": "Exáltenlo en la congregación del pueblo, Y en la reunión de ancianos lo alaben.",
+      "verse": 32,
+      "start_ms": 153975,
+      "end_ms": 158875,
+      "duration_ms": 4900
+    },
+    {
+      "word": "Él convierte los ríos en desierto, Y los manantiales de las aguas en sequedales; La tierra fructífera en estéril, Por la maldad de los que la habitan.",
+      "verse": 33,
+      "start_ms": 158875,
+      "end_ms": 167725,
+      "duration_ms": 8850
+    },
+    {
+      "word": "Vuelve el desierto en estanques de aguas, Y la tierra seca en manantiales.",
+      "verse": 35,
+      "start_ms": 167725,
+      "end_ms": 172687,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Allí establece a los hambrientos, Y fundan ciudad en donde vivir.",
+      "verse": 36,
+      "start_ms": 172687,
+      "end_ms": 177112,
+      "duration_ms": 4425
+    },
+    {
+      "word": "Siembran campos, y plantan viñas, Y rinden abundante fruto.",
+      "verse": 37,
+      "start_ms": 177112,
+      "end_ms": 181837,
+      "duration_ms": 4725
+    },
+    {
+      "word": "Los bendice, y se multiplican en gran manera; Y no disminuye su ganado.",
+      "verse": 38,
+      "start_ms": 181837,
+      "end_ms": 187187,
+      "duration_ms": 5350
+    },
+    {
+      "word": "Luego son menoscabados y abatidos A causa de tiranía, de males y congojas.",
+      "verse": 39,
+      "start_ms": 187187,
+      "end_ms": 192637,
+      "duration_ms": 5450
+    },
+    {
+      "word": "Él esparce menosprecio sobre los príncipes, Y les hace andar perdidos, vagabundos y sin camino.",
+      "verse": 40,
+      "start_ms": 192637,
+      "end_ms": 198987,
+      "duration_ms": 6350
+    },
+    {
+      "word": "Levanta de la miseria al pobre, Y hace multiplicar las familias como rebaños de ovejas.",
+      "verse": 41,
+      "start_ms": 198987,
+      "end_ms": 204637,
+      "duration_ms": 5650
+    },
+    {
+      "word": "Véanlo los rectos, y alégrense, Y todos los malos cierren su boca.",
+      "verse": 42,
+      "start_ms": 204637,
+      "end_ms": 209899,
+      "duration_ms": 5262
+    },
+    {
+      "word": "Quién es sabio y guardará estas cosas, Y entenderá las misericordias de Jehová?",
+      "verse": 43,
+      "start_ms": 209900,
+      "end_ms": 215387,
+      "duration_ms": 5487
+    }
+  ]
+}

@@ -1,0 +1,698 @@
+{
+  "book": "JUA",
+  "chapter": 20,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 42,
+  "word_count": 56,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 51,
+      "text": "Así que, entonces tomó Pilato a Jesús, y le azotó."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 51,
+      "char_end": 174,
+      "text": "Y los soldados entretejieron una corona de espinas, y la pusieron sobre su cabeza, y le vistieron con un manto de púrpura;"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 174,
+      "char_end": 239,
+      "text": "y le decían: ¡Salve, Rey de los judíos! y le daban de bofetadas."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 239,
+      "char_end": 360,
+      "text": "Entonces Pilato salió otra vez, y les dijo: Mirad, os lo traigo fuera, para que entendáis que ningún delito hallo en él."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 360,
+      "char_end": 467,
+      "text": "Y salió Jesús, llevando la corona de espinas y el manto de púrpura. Y Pilato les dijo: ¡He aquí el hombre!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 467,
+      "char_end": 665,
+      "text": "Cuando le vieron los principales sacerdotes y los alguaciles, dieron voces, diciendo: ¡Crucifícale! ¡Crucifícale! Pilato les dijo: Tomadle vosotros, y crucificadle; porque yo no hallo delito en él."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 665,
+      "char_end": 791,
+      "text": "Los judíos le respondieron: Nosotros tenemos una ley, y según nuestra ley debe morir, porque se hizo a sí mismo Hijo de Dios."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 791,
+      "char_end": 837,
+      "text": "Cuando Pilato oyó decir esto, tuvo más miedo."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 837,
+      "char_end": 936,
+      "text": "Y entró otra vez en el pretorio, y dijo a Jesús: ¿De dónde eres tú? Mas Jesús no le dio respuesta."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 936,
+      "char_end": 1067,
+      "text": "Entonces le dijo Pilato: ¿A mí no me hablas? ¿No sabes que tengo autoridad para crucificarte, y que tengo autoridad para soltarte?"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1067,
+      "char_end": 1213,
+      "text": "Respondió Jesús: Ninguna autoridad tendrías contra mí, si no te fuese dada de arriba; por tanto, el que a ti me ha entregado, mayor pecado tiene."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1213,
+      "char_end": 1380,
+      "text": "Desde entonces procuraba Pilato soltarle; pero los judíos daban voces, diciendo: Si a éste sueltas, no eres amigo de César; todo el que se hace rey, a César se opone."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1380,
+      "char_end": 1510,
+      "text": "Entonces Pilato, oyendo esto, llevó fuera a Jesús, y se sentó en el tribunal en el lugar llamado el Enlosado, y en hebreo Gabata."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1510,
+      "char_end": 1615,
+      "text": "Era la preparación de la pascua, y como la hora sexta. Entonces dijo a los judíos: ¡He aquí vuestro Rey!"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1615,
+      "char_end": 1785,
+      "text": "Pero ellos gritaron: ¡Fuera, fuera, crucifícale! Pilato les dijo: ¿A vuestro Rey he de crucificar? Respondieron los principales sacerdotes: No tenemos más rey que César."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1785,
+      "char_end": 1958,
+      "text": "Así que entonces lo entregó a ellos para que fuese crucificado. Tomaron, pues, a Jesús, y le llevaron. Crucifixión y muerte de Jesús (Mt 27.32–50; Mc 15.21–37; Lc 23.26–49)"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1958,
+      "char_end": 2043,
+      "text": "Y él, cargando su cruz, salió al lugar llamado de la Calavera, y en hebreo, Gólgota;"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2043,
+      "char_end": 2124,
+      "text": "y allí le crucificaron, y con él a otros dos, uno a cada lado, y Jesús en medio."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2124,
+      "char_end": 2233,
+      "text": "Escribió también Pilato un título, que puso sobre la cruz, el cual decía: JESÚS NAZARENO, REY DE LOS JUDÍOS."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2233,
+      "char_end": 2408,
+      "text": "Y muchos de los judíos leyeron este título; porque el lugar donde Jesús fue crucificado estaba cerca de la ciudad, y el título estaba escrito en hebreo, en griego y en latín."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2408,
+      "char_end": 2541,
+      "text": "Dijeron a Pilato los principales sacerdotes de los judíos: No escribas: Rey de los judíos; sino, que él dijo: Soy Rey de los judíos."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2541,
+      "char_end": 2590,
+      "text": "Respondió Pilato: Lo que he escrito, he escrito."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2590,
+      "char_end": 2798,
+      "text": "Cuando los soldados hubieron crucificado a Jesús, tomaron sus vestidos, e hicieron cuatro partes, una para cada soldado. Tomaron también su túnica, la cual era sin costura, de un solo tejido de arriba abajo."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2798,
+      "char_end": 3050,
+      "text": "Entonces dijeron entre sí: No la partamos, sino echemos suertes sobre ella, a ver de quién será. Esto fue para que se cumpliese la Escritura, que dice: Repartieron entre sí mis vestidos, Y sobre mi ropa echaron suertes. Y así lo hicieron los soldados."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3050,
+      "char_end": 3162,
+      "text": "Estaban junto a la cruz de Jesús su madre, y la hermana de su madre, María mujer de Cleofas, y María Magdalena."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3162,
+      "char_end": 3285,
+      "text": "Cuando vio Jesús a su madre, y al discípulo a quien él amaba, que estaba presente, dijo a su madre: Mujer, he ahí tu hijo."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3285,
+      "char_end": 3386,
+      "text": "Después dijo al discípulo: He ahí tu madre. Y desde aquella hora el discípulo la recibió en su casa."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3386,
+      "char_end": 3501,
+      "text": "Después de esto, sabiendo Jesús que ya todo estaba consumado, dijo, para que la Escritura se cumpliese: Tengo sed."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3501,
+      "char_end": 3647,
+      "text": "Y estaba allí una vasija llena de vinagre; entonces ellos empaparon en vinagre una esponja, y poniéndola en un hisopo, se la acercaron a la boca."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3647,
+      "char_end": 3788,
+      "text": "Cuando Jesús hubo tomado el vinagre, dijo: Consumado es. Y habiendo inclinado la cabeza, entregó el espíritu. El costado de Jesús traspasado"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3788,
+      "char_end": 4050,
+      "text": "Entonces los judíos, por cuanto era la preparación de la pascua, a fin de que los cuerpos no quedasen en la cruz en el día de reposo (pues aquel día de reposo era de gran solemnidad), rogaron a Pilato que se les quebrasen las piernas, y fuesen quitados de allí."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4050,
+      "char_end": 4170,
+      "text": "Vinieron, pues, los soldados, y quebraron las piernas al primero, y asimismo al otro que había sido crucificado con él."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4170,
+      "char_end": 4254,
+      "text": "Mas cuando llegaron a Jesús, como le vieron ya muerto, no le quebraron las piernas."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4254,
+      "char_end": 4349,
+      "text": "Pero uno de los soldados le abrió el costado con una lanza, y al instante salió sangre y agua."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4349,
+      "char_end": 4471,
+      "text": "Y el que lo vio da testimonio, y su testimonio es verdadero; y él sabe que dice verdad, para que vosotros también creáis."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4471,
+      "char_end": 4566,
+      "text": "Porque estas cosas sucedieron para que se cumpliese la Escritura: No será quebrado hueso suyo."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4566,
+      "char_end": 4684,
+      "text": "Y también otra Escritura dice: Mirarán al que traspasaron. Jesús es sepultado (Mt 27.57–61; Mc 15.42–47; Lc 23.50–56)"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4684,
+      "char_end": 4927,
+      "text": "Después de todo esto, José de Arimatea, que era discípulo de Jesús, pero secretamente por miedo de los judíos, rogó a Pilato que le permitiese llevarse el cuerpo de Jesús; y Pilato se lo concedió. Entonces vino, y se llevó el cuerpo de Jesús."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4927,
+      "char_end": 5057,
+      "text": "También Nicodemo, el que antes había visitado a Jesús de noche, vino trayendo un compuesto de mirra y de áloes, como cien libras."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 5057,
+      "char_end": 5191,
+      "text": "Tomaron, pues, el cuerpo de Jesús, y lo envolvieron en lienzos con especias aromáticas, según es costumbre sepultar entre los judíos."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 5191,
+      "char_end": 5331,
+      "text": "Y en el lugar donde había sido crucificado, había un huerto, y en el huerto un sepulcro nuevo, en el cual aún no había sido puesto ninguno."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 5331,
+      "char_end": 5455,
+      "text": "Allí, pues, por causa de la preparación de la pascua de los judíos, y porque aquel sepulcro estaba cerca, pusieron a Jesús."
+    }
+  ],
+  "words": [
+    {
+      "word": "Así que, entonces tomó Pilato a Jesús, y le azotó.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4462,
+      "duration_ms": 4362
+    },
+    {
+      "word": "Y los soldados entretejieron una corona de espinas, y la pusieron sobre su cabeza, y le vistieron con un manto de púrpura; y le decían: ¡Salve, Rey de los judíos! y le daban de bofetadas.",
+      "verse": 2,
+      "start_ms": 4412,
+      "end_ms": 16237,
+      "duration_ms": 11825
+    },
+    {
+      "word": "Entonces Pilato salió otra vez, y les dijo: Mirad, os lo traigo fuera, para que entendáis que ningún delito hallo en él.",
+      "verse": 4,
+      "start_ms": 16237,
+      "end_ms": 24187,
+      "duration_ms": 7950
+    },
+    {
+      "word": "Y salió Jesús, llevando la corona de espinas y el manto de púrpura.",
+      "verse": 5,
+      "start_ms": 24187,
+      "end_ms": 28874,
+      "duration_ms": 4687
+    },
+    {
+      "word": "Y Pilato les dijo: ¡He aquí el hombre!",
+      "verse": 5,
+      "start_ms": 28875,
+      "end_ms": 32075,
+      "duration_ms": 3200
+    },
+    {
+      "word": "Cuando le vieron los principales sacerdotes y los alguaciles, dieron voces, diciendo: ¡Crucifícale!",
+      "verse": 6,
+      "start_ms": 32075,
+      "end_ms": 38725,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Crucifícale!",
+      "verse": 6,
+      "start_ms": 38725,
+      "end_ms": 40450,
+      "duration_ms": 1725
+    },
+    {
+      "word": "Pilato les dijo: Tomadle vosotros, y crucificadle; porque yo no hallo delito en él.",
+      "verse": 6,
+      "start_ms": 40450,
+      "end_ms": 46837,
+      "duration_ms": 6387
+    },
+    {
+      "word": "Los judíos le respondieron: Nosotros tenemos una ley, y según nuestra ley debe morir, porque se hizo a sí mismo Hijo de Dios.",
+      "verse": 7,
+      "start_ms": 46837,
+      "end_ms": 55299,
+      "duration_ms": 8462
+    },
+    {
+      "word": "Cuando Pilato oyó decir esto, tuvo más miedo.",
+      "verse": 8,
+      "start_ms": 55300,
+      "end_ms": 58912,
+      "duration_ms": 3612
+    },
+    {
+      "word": "Y entró otra vez en el pretorio, y dijo a Jesús: ¿De dónde eres tú?",
+      "verse": 9,
+      "start_ms": 58912,
+      "end_ms": 63912,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Mas Jesús no le dio respuesta.",
+      "verse": 9,
+      "start_ms": 63912,
+      "end_ms": 66599,
+      "duration_ms": 2687
+    },
+    {
+      "word": "Entonces le dijo Pilato: ¿A mí no me hablas?",
+      "verse": 10,
+      "start_ms": 66600,
+      "end_ms": 70225,
+      "duration_ms": 3625
+    },
+    {
+      "word": "No sabes que tengo autoridad para crucificarte, y que tengo autoridad para soltarte?",
+      "verse": 10,
+      "start_ms": 70225,
+      "end_ms": 75837,
+      "duration_ms": 5612
+    },
+    {
+      "word": "Respondió Jesús: Ninguna autoridad tendrías contra mí, si no te fuese dada de arriba; por tanto, el que a ti me ha entregado, mayor pecado tiene.",
+      "verse": 11,
+      "start_ms": 75837,
+      "end_ms": 85487,
+      "duration_ms": 9650
+    },
+    {
+      "word": "Desde entonces procuraba Pilato soltarle; pero los judíos daban voces, diciendo: Si a éste sueltas, no eres amigo de César; todo el que se hace rey, a César se opone.",
+      "verse": 12,
+      "start_ms": 85487,
+      "end_ms": 96737,
+      "duration_ms": 11250
+    },
+    {
+      "word": "Entonces Pilato, oyendo esto, llevó fuera a Jesús, y se sentó en el tribunal en el lugar llamado el Enlosado, y en hebreo Gabata.",
+      "verse": 13,
+      "start_ms": 96737,
+      "end_ms": 105299,
+      "duration_ms": 8562
+    },
+    {
+      "word": "Era la preparación de la pascua, y como la hora sexta.",
+      "verse": 14,
+      "start_ms": 105300,
+      "end_ms": 109225,
+      "duration_ms": 3925
+    },
+    {
+      "word": "Entonces dijo a los judíos: ¡He aquí vuestro Rey!",
+      "verse": 14,
+      "start_ms": 109225,
+      "end_ms": 112987,
+      "duration_ms": 3762
+    },
+    {
+      "word": "Pero ellos gritaron: ¡Fuera, fuera, crucifícale!",
+      "verse": 15,
+      "start_ms": 112987,
+      "end_ms": 117074,
+      "duration_ms": 4087
+    },
+    {
+      "word": "Pilato les dijo: ¿A vuestro Rey he de crucificar?",
+      "verse": 15,
+      "start_ms": 117075,
+      "end_ms": 121050,
+      "duration_ms": 3975
+    },
+    {
+      "word": "Respondieron los principales sacerdotes: No tenemos más rey que César.",
+      "verse": 15,
+      "start_ms": 121050,
+      "end_ms": 125925,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Así que entonces lo entregó a ellos para que fuese crucificado.",
+      "verse": 16,
+      "start_ms": 125925,
+      "end_ms": 129925,
+      "duration_ms": 4000
+    },
+    {
+      "word": "Tomaron, pues, a Jesús, y le llevaron.",
+      "verse": 16,
+      "start_ms": 129925,
+      "end_ms": 133737,
+      "duration_ms": 3812
+    },
+    {
+      "word": "Crucifixión y muerte de Jesús (Mt 27.32–50; Mc 15.21–37; Lc 23.26–49) Y él, cargando su cruz, salió al lugar llamado de la Calavera, y en hebreo, Gólgota; y allí le crucificaron, y con él a otros dos, uno a cada lado, y Jesús en medio.",
+      "verse": 16,
+      "start_ms": 133737,
+      "end_ms": 155824,
+      "duration_ms": 22087
+    },
+    {
+      "word": "Escribió también Pilato un título, que puso sobre la cruz, el cual decía: JESÚS NAZARENO, REY DE LOS JUDÍOS.",
+      "verse": 19,
+      "start_ms": 155825,
+      "end_ms": 163637,
+      "duration_ms": 7812
+    },
+    {
+      "word": "Y muchos de los judíos leyeron este título; porque el lugar donde Jesús fue crucificado estaba cerca de la ciudad, y el título estaba escrito en hebreo, en griego y en latín.",
+      "verse": 20,
+      "start_ms": 163637,
+      "end_ms": 173712,
+      "duration_ms": 10075
+    },
+    {
+      "word": "Dijeron a Pilato los principales sacerdotes de los judíos: No escribas: Rey de los judíos; sino, que él dijo: Soy Rey de los judíos.",
+      "verse": 21,
+      "start_ms": 173712,
+      "end_ms": 183199,
+      "duration_ms": 9487
+    },
+    {
+      "word": "Respondió Pilato: Lo que he escrito, he escrito.",
+      "verse": 22,
+      "start_ms": 183200,
+      "end_ms": 187162,
+      "duration_ms": 3962
+    },
+    {
+      "word": "Cuando los soldados hubieron crucificado a Jesús, tomaron sus vestidos, e hicieron cuatro partes, una para cada soldado.",
+      "verse": 23,
+      "start_ms": 187162,
+      "end_ms": 194987,
+      "duration_ms": 7825
+    },
+    {
+      "word": "Tomaron también su túnica, la cual era sin costura, de un solo tejido de arriba abajo.",
+      "verse": 23,
+      "start_ms": 194987,
+      "end_ms": 201074,
+      "duration_ms": 6087
+    },
+    {
+      "word": "Entonces dijeron entre sí: No la partamos, sino echemos suertes sobre ella, a ver de quién será.",
+      "verse": 24,
+      "start_ms": 201075,
+      "end_ms": 207775,
+      "duration_ms": 6700
+    },
+    {
+      "word": "Esto fue para que se cumpliese la Escritura, que dice: Repartieron entre sí mis vestidos, Y sobre mi ropa echaron suertes.",
+      "verse": 24,
+      "start_ms": 207775,
+      "end_ms": 215687,
+      "duration_ms": 7912
+    },
+    {
+      "word": "Y así lo hicieron los soldados.",
+      "verse": 24,
+      "start_ms": 215687,
+      "end_ms": 218349,
+      "duration_ms": 2662
+    },
+    {
+      "word": "Estaban junto a la cruz de Jesús su madre, y la hermana de su madre, María mujer de Cleofas, y María Magdalena.",
+      "verse": 25,
+      "start_ms": 218350,
+      "end_ms": 225737,
+      "duration_ms": 7387
+    },
+    {
+      "word": "Cuando vio Jesús a su madre, y al discípulo a quien él amaba, que estaba presente, dijo a su madre: Mujer, he ahí tu hijo.",
+      "verse": 26,
+      "start_ms": 225737,
+      "end_ms": 234062,
+      "duration_ms": 8325
+    },
+    {
+      "word": "Después dijo al discípulo: He ahí tu madre.",
+      "verse": 27,
+      "start_ms": 234062,
+      "end_ms": 237562,
+      "duration_ms": 3500
+    },
+    {
+      "word": "Y desde aquella hora el discípulo la recibió en su casa.",
+      "verse": 27,
+      "start_ms": 237562,
+      "end_ms": 241174,
+      "duration_ms": 3612
+    },
+    {
+      "word": "Después de esto, sabiendo Jesús que ya todo estaba consumado, dijo, para que la Escritura se cumpliese: Tengo sed.",
+      "verse": 28,
+      "start_ms": 241175,
+      "end_ms": 248962,
+      "duration_ms": 7787
+    },
+    {
+      "word": "Y estaba allí una vasija llena de vinagre; entonces ellos empaparon en vinagre una esponja, y poniéndola en un hisopo, se la acercaron a la boca.",
+      "verse": 29,
+      "start_ms": 248962,
+      "end_ms": 258237,
+      "duration_ms": 9275
+    },
+    {
+      "word": "Cuando Jesús hubo tomado el vinagre, dijo: Consumado es.",
+      "verse": 30,
+      "start_ms": 258237,
+      "end_ms": 262924,
+      "duration_ms": 4687
+    },
+    {
+      "word": "Y habiendo inclinado la cabeza, entregó el espíritu.",
+      "verse": 30,
+      "start_ms": 262925,
+      "end_ms": 266812,
+      "duration_ms": 3887
+    },
+    {
+      "word": "El costado de Jesús traspasado Entonces los judíos, por cuanto era la preparación de la pascua, a fin de que los cuerpos no quedasen en la cruz en el día de reposo (pues aquel día de reposo era de gran solemnidad),",
+      "verse": 30,
+      "start_ms": 266812,
+      "end_ms": 279162,
+      "duration_ms": 12350
+    },
+    {
+      "word": "rogaron a Pilato que se les quebrasen las piernas, y fuesen quitados de allí.",
+      "verse": 31,
+      "start_ms": 279316,
+      "end_ms": 284366,
+      "duration_ms": 5050
+    },
+    {
+      "word": "Vinieron, pues, los soldados, y quebraron las piernas al primero, y asimismo al otro que había sido crucificado con él.",
+      "verse": 32,
+      "start_ms": 284316,
+      "end_ms": 292453,
+      "duration_ms": 8137
+    },
+    {
+      "word": "Mas cuando llegaron a Jesús, como le vieron ya muerto, no le quebraron las piernas.",
+      "verse": 33,
+      "start_ms": 292453,
+      "end_ms": 298103,
+      "duration_ms": 5650
+    },
+    {
+      "word": "Pero uno de los soldados le abrió el costado con una lanza, y al instante salió sangre y agua.",
+      "verse": 34,
+      "start_ms": 298103,
+      "end_ms": 304065,
+      "duration_ms": 5962
+    },
+    {
+      "word": "Y el que lo vio da testimonio, y su testimonio es verdadero; y él sabe que dice verdad, para que vosotros también creáis.",
+      "verse": 35,
+      "start_ms": 304066,
+      "end_ms": 312253,
+      "duration_ms": 8187
+    },
+    {
+      "word": "Porque estas cosas sucedieron para que se cumpliese la Escritura: No será quebrado hueso suyo.",
+      "verse": 36,
+      "start_ms": 312253,
+      "end_ms": 318015,
+      "duration_ms": 5762
+    },
+    {
+      "word": "Y también otra Escritura dice: Mirarán al que traspasaron.",
+      "verse": 37,
+      "start_ms": 318016,
+      "end_ms": 322303,
+      "duration_ms": 4287
+    },
+    {
+      "word": "Jesús es sepultado (Mt 27.57–61; Mc 15.42–47; Lc 23.50–56) Después de todo esto, José de Arimatea, que era discípulo de Jesús, pero secretamente por miedo de los judíos, rogó a Pilato que le permitiese llevarse el cuerpo de Jesús; y Pilato se lo concedió.",
+      "verse": 37,
+      "start_ms": 322303,
+      "end_ms": 344953,
+      "duration_ms": 22650
+    },
+    {
+      "word": "Entonces vino, y se llevó el cuerpo de Jesús.",
+      "verse": 38,
+      "start_ms": 344953,
+      "end_ms": 348765,
+      "duration_ms": 3812
+    },
+    {
+      "word": "También Nicodemo, el que antes había visitado a Jesús de noche, vino trayendo un compuesto de mirra y de áloes, como cien libras.",
+      "verse": 39,
+      "start_ms": 348766,
+      "end_ms": 357153,
+      "duration_ms": 8387
+    },
+    {
+      "word": "Tomaron, pues, el cuerpo de Jesús, y lo envolvieron en lienzos con especias aromáticas, según es costumbre sepultar entre los judíos.",
+      "verse": 40,
+      "start_ms": 357153,
+      "end_ms": 365815,
+      "duration_ms": 8662
+    },
+    {
+      "word": "Y en el lugar donde había sido crucificado, había un huerto, y en el huerto un sepulcro nuevo, en el cual aún no había sido puesto ninguno.",
+      "verse": 41,
+      "start_ms": 365816,
+      "end_ms": 374491,
+      "duration_ms": 8675
+    },
+    {
+      "word": "Allí, pues, por causa de la preparación de la pascua de los judíos, y porque aquel sepulcro estaba cerca, pusieron a Jesús.",
+      "verse": 42,
+      "start_ms": 374491,
+      "end_ms": 382678,
+      "duration_ms": 8187
+    }
+  ]
+}

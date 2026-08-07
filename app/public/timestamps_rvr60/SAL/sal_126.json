@@ -1,0 +1,96 @@
+{
+  "book": "SAL",
+  "chapter": 126,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 6,
+  "word_count": 6,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 81,
+      "text": "Cuando Jehová hiciere volver la cautividad de Sion, Seremos como los que sueñan."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 81,
+      "char_end": 229,
+      "text": "Entonces nuestra boca se llenará de risa, Y nuestra lengua de alabanza; Entonces dirán entre las naciones: Grandes cosas ha hecho Jehová con éstos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 229,
+      "char_end": 292,
+      "text": "Grandes cosas ha hecho Jehová con nosotros; Estaremos alegres."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 292,
+      "char_end": 363,
+      "text": "Haz volver nuestra cautividad, oh Jehová, Como los arroyos del Neguev."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 363,
+      "char_end": 417,
+      "text": "Los que sembraron con lágrimas, con regocijo segarán."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 417,
+      "char_end": 531,
+      "text": "Irá andando y llorando el que lleva la preciosa semilla; Mas volverá a venir con regocijo, trayendo sus gavillas."
+    }
+  ],
+  "words": [
+    {
+      "word": "Cuando Jehová hiciere volver la cautividad de Sion, Seremos como los que sueñan.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5087,
+      "duration_ms": 4987
+    },
+    {
+      "word": "Entonces nuestra boca se llenará de risa, Y nuestra lengua de alabanza; Entonces dirán entre las naciones: Grandes cosas ha hecho Jehová con éstos.",
+      "verse": 2,
+      "start_ms": 5037,
+      "end_ms": 14237,
+      "duration_ms": 9200
+    },
+    {
+      "word": "Grandes cosas ha hecho Jehová con nosotros; Estaremos alegres.",
+      "verse": 3,
+      "start_ms": 14237,
+      "end_ms": 18987,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Haz volver nuestra cautividad, oh Jehová, Como los arroyos del Neguev.",
+      "verse": 4,
+      "start_ms": 18987,
+      "end_ms": 23824,
+      "duration_ms": 4837
+    },
+    {
+      "word": "Los que sembraron con lágrimas, con regocijo segarán.",
+      "verse": 5,
+      "start_ms": 23825,
+      "end_ms": 27750,
+      "duration_ms": 3925
+    },
+    {
+      "word": "Irá andando y llorando el que lleva la preciosa semilla; Mas volverá a venir con regocijo, trayendo sus gavillas.",
+      "verse": 6,
+      "start_ms": 27750,
+      "end_ms": 35225,
+      "duration_ms": 7475
+    }
+  ]
+}

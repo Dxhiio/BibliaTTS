@@ -1,0 +1,180 @@
+{
+  "book": "OSE",
+  "chapter": 6,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 11,
+  "word_count": 13,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 83,
+      "text": "Venid y volvamos a Jehová; porque él arrebató, y nos curará; hirió, y nos vendará."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 83,
+      "char_end": 178,
+      "text": "Nos dará vida después de dos días; en el tercer día nos resucitará, y viviremos delante de él."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 178,
+      "char_end": 351,
+      "text": "Y conoceremos, y proseguiremos en conocer a Jehová; como el alba está dispuesta su salida, y vendrá a nosotros como la lluvia, como la lluvia tardía y temprana a la tierra."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 351,
+      "char_end": 496,
+      "text": "¿Qué haré a ti, Efraín? ¿Qué haré a ti, oh Judá? La piedad vuestra es como nube de la mañana, y como el rocío de la madrugada, que se desvanece."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 496,
+      "char_end": 625,
+      "text": "Por esta causa los corté por medio de los profetas, con las palabras de mi boca los maté; y tus juicios serán como luz que sale."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 625,
+      "char_end": 714,
+      "text": "Porque misericordia quiero, y no sacrificio, y conocimiento de Dios más que holocaustos."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 714,
+      "char_end": 787,
+      "text": "Mas ellos, cual Adán, traspasaron el pacto; allí prevaricaron contra mí."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 787,
+      "char_end": 849,
+      "text": "Galaad, ciudad de hacedores de iniquidad, manchada de sangre."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 849,
+      "char_end": 984,
+      "text": "Y como ladrones que esperan a algún hombre, así una compañía de sacerdotes mata en el camino hacia Siquem; así cometieron abominación."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 984,
+      "char_end": 1070,
+      "text": "En la casa de Israel he visto inmundicia; allí fornicó Efraín, y se contaminó Israel."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1070,
+      "char_end": 1172,
+      "text": "Para ti también, oh Judá, está preparada una siega, cuando yo haga volver el cautiverio de mi pueblo."
+    }
+  ],
+  "words": [
+    {
+      "word": "Venid y volvamos a Jehová; porque él arrebató, y nos curará; hirió, y nos vendará.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6312,
+      "duration_ms": 6212
+    },
+    {
+      "word": "Nos dará vida después de dos días; en el tercer día nos resucitará, y viviremos delante de él.",
+      "verse": 2,
+      "start_ms": 6262,
+      "end_ms": 12774,
+      "duration_ms": 6512
+    },
+    {
+      "word": "Y conoceremos, y proseguiremos en conocer a Jehová; como el alba está dispuesta su salida, y vendrá a nosotros como la lluvia, como la lluvia tardía y temprana a la tierra.",
+      "verse": 3,
+      "start_ms": 12775,
+      "end_ms": 23725,
+      "duration_ms": 10950
+    },
+    {
+      "word": "Qué haré a ti, Efraín?",
+      "verse": 4,
+      "start_ms": 23725,
+      "end_ms": 26375,
+      "duration_ms": 2650
+    },
+    {
+      "word": "Qué haré a ti, oh Judá?",
+      "verse": 4,
+      "start_ms": 26375,
+      "end_ms": 28812,
+      "duration_ms": 2437
+    },
+    {
+      "word": "La piedad vuestra es como nube de la mañana, y como el rocío de la madrugada, que se desvanece.",
+      "verse": 4,
+      "start_ms": 28812,
+      "end_ms": 34999,
+      "duration_ms": 6187
+    },
+    {
+      "word": "Por esta causa los corté por medio de los profetas, con las palabras de mi boca los maté; y tus juicios serán como luz que sale.",
+      "verse": 5,
+      "start_ms": 35000,
+      "end_ms": 42775,
+      "duration_ms": 7775
+    },
+    {
+      "word": "Porque misericordia quiero, y no sacrificio, y conocimiento de Dios más que holocaustos.",
+      "verse": 6,
+      "start_ms": 42775,
+      "end_ms": 48900,
+      "duration_ms": 6125
+    },
+    {
+      "word": "Mas ellos, cual Adán, traspasaron el pacto; allí prevaricaron contra mí.",
+      "verse": 7,
+      "start_ms": 48900,
+      "end_ms": 54562,
+      "duration_ms": 5662
+    },
+    {
+      "word": "Galaad, ciudad de hacedores de iniquidad, manchada de sangre.",
+      "verse": 8,
+      "start_ms": 54562,
+      "end_ms": 59274,
+      "duration_ms": 4712
+    },
+    {
+      "word": "Y como ladrones que esperan a algún hombre, así una compañía de sacerdotes mata en el camino hacia Siquem; así cometieron abominación.",
+      "verse": 9,
+      "start_ms": 59275,
+      "end_ms": 67537,
+      "duration_ms": 8262
+    },
+    {
+      "word": "En la casa de Israel he visto inmundicia; allí fornicó Efraín, y se contaminó Israel.",
+      "verse": 10,
+      "start_ms": 67537,
+      "end_ms": 73762,
+      "duration_ms": 6225
+    },
+    {
+      "word": "Para ti también, oh Judá, está preparada una siega, cuando yo haga volver el cautiverio de mi pueblo.",
+      "verse": 11,
+      "start_ms": 73762,
+      "end_ms": 80449,
+      "duration_ms": 6687
+    }
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "book": "HEC",
+  "chapter": 23,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 30,
+  "word_count": 31,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 63,
+      "text": "Varones hermanos y padres, oíd ahora mi defensa ante vosotros."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 63,
+      "char_end": 145,
+      "text": "Y al oír que les hablaba en lengua hebrea, guardaron más silencio. Y él les dijo:"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 145,
+      "char_end": 360,
+      "text": "Yo de cierto soy judío, nacido en Tarso de Cilicia, pero criado en esta ciudad, instruido a los pies de Gamaliel, estrictamente conforme a la ley de nuestros padres, celoso de Dios, como hoy lo sois todos vosotros."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 360,
+      "char_end": 459,
+      "text": "Perseguía yo este Camino hasta la muerte, prendiendo y entregando en cárceles a hombres y mujeres;"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 459,
+      "char_end": 741,
+      "text": "como el sumo sacerdote también me es testigo, y todos los ancianos, de quienes también recibí cartas para los hermanos, y fui a Damasco para traer presos a Jerusalén también a los que estuviesen allí, para que fuesen castigados. Pablo relata su conversión (Hechos 9.1–19; 26.12–18)"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 741,
+      "char_end": 856,
+      "text": "Pero aconteció que yendo yo, al llegar cerca de Damasco, como a mediodía, de repente me rodeó mucha luz del cielo;"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 856,
+      "char_end": 936,
+      "text": "y caí al suelo, y oí una voz que me decía: Saulo, Saulo, ¿por qué me persigues?"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 936,
+      "char_end": 1036,
+      "text": "Yo entonces respondí: ¿Quién eres, Señor? Y me dijo: Yo soy Jesús de Nazaret, a quien tú persigues."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1036,
+      "char_end": 1158,
+      "text": "Y los que estaban conmigo vieron a la verdad la luz, y se espantaron; pero no entendieron la voz del que hablaba conmigo."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1158,
+      "char_end": 1286,
+      "text": "Y dije: ¿Qué haré, Señor? Y el Señor me dijo: Levántate, y ve a Damasco, y allí se te dirá todo lo que está ordenado que hagas."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1286,
+      "char_end": 1402,
+      "text": "Y como yo no veía a causa de la gloria de la luz, llevado de la mano por los que estaban conmigo, llegué a Damasco."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1402,
+      "char_end": 1524,
+      "text": "Entonces uno llamado Ananías, varón piadoso según la ley, que tenía buen testimonio de todos los judíos que allí moraban,"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1524,
+      "char_end": 1646,
+      "text": "vino a mí, y acercándose, me dijo: Hermano Saulo, recibe la vista. Y yo en aquella misma hora recobré la vista y lo miré."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1646,
+      "char_end": 1774,
+      "text": "Y él dijo: El Dios de nuestros padres te ha escogido para que conozcas su voluntad, y veas al Justo, y oigas la voz de su boca."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1774,
+      "char_end": 1849,
+      "text": "Porque serás testigo suyo a todos los hombres, de lo que has visto y oído."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1849,
+      "char_end": 1980,
+      "text": "Ahora, pues, ¿por qué te detienes? Levántate y bautízate, y lava tus pecados, invocando su nombre. Pablo es enviado a los gentiles"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1980,
+      "char_end": 2065,
+      "text": "Y me aconteció, vuelto a Jerusalén, que orando en el templo me sobrevino un éxtasis."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2065,
+      "char_end": 2179,
+      "text": "Y le vi que me decía: Date prisa, y sal prontamente de Jerusalén; porque no recibirán tu testimonio acerca de mí."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2179,
+      "char_end": 2283,
+      "text": "Yo dije: Señor, ellos saben que yo encarcelaba y azotaba en todas las sinagogas a los que creían en ti;"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2283,
+      "char_end": 2442,
+      "text": "y cuando se derramaba la sangre de Esteban tu testigo, yo mismo también estaba presente, y consentía en su muerte, y guardaba las ropas de los que le mataban."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2442,
+      "char_end": 2530,
+      "text": "Pero me dijo: Ve, porque yo te enviaré lejos a los gentiles. Pablo en manos del tribuno"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2530,
+      "char_end": 2659,
+      "text": "Y le oyeron hasta esta palabra; entonces alzaron la voz, diciendo: Quita de la tierra a tal hombre, porque no conviene que viva."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2659,
+      "char_end": 2729,
+      "text": "Y como ellos gritaban y arrojaban sus ropas y lanzaban polvo al aire,"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2729,
+      "char_end": 2869,
+      "text": "mandó el tribuno que le metiesen en la fortaleza, y ordenó que fuese examinado con azotes, para saber por qué causa clamaban así contra él."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2869,
+      "char_end": 3018,
+      "text": "Pero cuando le ataron con correas, Pablo dijo al centurión que estaba presente: ¿Os es lícito azotar a un ciudadano romano sin haber sido condenado?"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3018,
+      "char_end": 3144,
+      "text": "Cuando el centurión oyó esto, fue y dio aviso al tribuno, diciendo: ¿Qué vas a hacer? Porque este hombre es ciudadano romano."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3144,
+      "char_end": 3217,
+      "text": "Vino el tribuno y le dijo: Dime, ¿eres tú ciudadano romano? él dijo: Sí."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3217,
+      "char_end": 3336,
+      "text": "Respondió el tribuno: Yo con una gran suma adquirí esta ciudadanía. Entonces Pablo dijo: Pero yo lo soy de nacimiento."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3336,
+      "char_end": 3516,
+      "text": "Así que, luego se apartaron de él los que le iban a dar tormento; y aun el tribuno, al saber que era ciudadano romano, también tuvo temor por haberle atado. Pablo ante el concilio"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3516,
+      "char_end": 3738,
+      "text": "Al día siguiente, queriendo saber de cierto la causa por la cual le acusaban los judíos, le soltó de las cadenas, y mandó venir a los principales sacerdotes y a todo el concilio, y sacando a Pablo, le presentó ante ellos."
+    }
+  ],
+  "words": [
+    {
+      "word": "Varones hermanos y padres, oíd ahora mi defensa ante vosotros.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4962,
+      "duration_ms": 4862
+    },
+    {
+      "word": "Y al oír que les hablaba en lengua hebrea, guardaron más silencio.",
+      "verse": 2,
+      "start_ms": 4912,
+      "end_ms": 9412,
+      "duration_ms": 4500
+    },
+    {
+      "word": "Y él les dijo: Yo de cierto soy judío, nacido en Tarso de Cilicia, pero criado en esta ciudad, instruido a los pies de Gamaliel, estrictamente conforme a la ley de nuestros padres, celoso de Dios, como hoy lo sois todos vosotros.",
+      "verse": 2,
+      "start_ms": 9412,
+      "end_ms": 24437,
+      "duration_ms": 15025
+    },
+    {
+      "word": "Perseguía yo este Camino hasta la muerte, prendiendo y entregando en cárceles a hombres y mujeres; como el sumo sacerdote también me es testigo, y todos los ancianos, de quienes también recibí cartas para los hermanos, y fui a Damasco para traer presos a Jerusalén también a los que estuviesen allí, para que fuesen castigados.",
+      "verse": 4,
+      "start_ms": 24437,
+      "end_ms": 43224,
+      "duration_ms": 18787
+    },
+    {
+      "word": "Pablo relata su conversión (Hechos 9.1–19; 26.12–18) Pero aconteció que yendo yo, al llegar cerca de Damasco, como a mediodía, de repente me rodeó mucha luz del cielo; y caí al suelo, y oí una voz que me decía: Saulo, Saulo, ¿por qué me persigues?",
+      "verse": 5,
+      "start_ms": 43225,
+      "end_ms": 62312,
+      "duration_ms": 19087
+    },
+    {
+      "word": "Yo entonces respondí: ¿Quién eres, Señor?",
+      "verse": 8,
+      "start_ms": 62312,
+      "end_ms": 66112,
+      "duration_ms": 3800
+    },
+    {
+      "word": "Y me dijo: Yo soy Jesús de Nazaret, a quien tú persigues.",
+      "verse": 8,
+      "start_ms": 66112,
+      "end_ms": 70787,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Y los que estaban conmigo vieron a la verdad la luz, y se espantaron; pero no entendieron la voz del que hablaba conmigo.",
+      "verse": 9,
+      "start_ms": 70787,
+      "end_ms": 77849,
+      "duration_ms": 7062
+    },
+    {
+      "word": "Y dije: ¿Qué haré, Señor?",
+      "verse": 10,
+      "start_ms": 77850,
+      "end_ms": 80800,
+      "duration_ms": 2950
+    },
+    {
+      "word": "Y el Señor me dijo: Levántate, y ve a Damasco, y allí se te dirá todo lo que está ordenado que hagas.",
+      "verse": 10,
+      "start_ms": 80800,
+      "end_ms": 87937,
+      "duration_ms": 7137
+    },
+    {
+      "word": "Y como yo no veía a causa de la gloria de la luz, llevado de la mano por los que estaban conmigo, llegué a Damasco.",
+      "verse": 11,
+      "start_ms": 87937,
+      "end_ms": 95187,
+      "duration_ms": 7250
+    },
+    {
+      "word": "Entonces uno llamado Ananías, varón piadoso según la ley, que tenía buen testimonio de todos los judíos que allí moraban, vino a mí, y acercándose, me dijo: Hermano Saulo, recibe la vista.",
+      "verse": 12,
+      "start_ms": 95187,
+      "end_ms": 107837,
+      "duration_ms": 12650
+    },
+    {
+      "word": "Y yo en aquella misma hora recobré la vista y lo miré.",
+      "verse": 13,
+      "start_ms": 107837,
+      "end_ms": 111662,
+      "duration_ms": 3825
+    },
+    {
+      "word": "Y él dijo: El Dios de nuestros padres te ha escogido para que conozcas su voluntad, y veas al Justo, y oigas la voz de su boca.",
+      "verse": 14,
+      "start_ms": 111662,
+      "end_ms": 119812,
+      "duration_ms": 8150
+    },
+    {
+      "word": "Porque serás testigo suyo a todos los hombres, de lo que has visto y oído.",
+      "verse": 15,
+      "start_ms": 119812,
+      "end_ms": 124874,
+      "duration_ms": 5062
+    },
+    {
+      "word": "Ahora, pues, ¿por qué te detienes?",
+      "verse": 16,
+      "start_ms": 124875,
+      "end_ms": 128250,
+      "duration_ms": 3375
+    },
+    {
+      "word": "Levántate y bautízate, y lava tus pecados, invocando su nombre.",
+      "verse": 16,
+      "start_ms": 128250,
+      "end_ms": 133287,
+      "duration_ms": 5037
+    },
+    {
+      "word": "Pablo es enviado a los gentiles Y me aconteció, vuelto a Jerusalén, que orando en el templo me sobrevino un éxtasis.",
+      "verse": 16,
+      "start_ms": 133287,
+      "end_ms": 140774,
+      "duration_ms": 7487
+    },
+    {
+      "word": "Y le vi que me decía: Date prisa, y sal prontamente de Jerusalén; porque no recibirán tu testimonio acerca de mí.",
+      "verse": 18,
+      "start_ms": 140775,
+      "end_ms": 148400,
+      "duration_ms": 7625
+    },
+    {
+      "word": "Yo dije: Señor, ellos saben que yo encarcelaba y azotaba en todas las sinagogas a los que creían en ti; y cuando se derramaba la sangre de Esteban tu testigo, yo mismo también estaba presente, y consentía en su muerte, y guardaba las ropas de los que le mataban.",
+      "verse": 19,
+      "start_ms": 148400,
+      "end_ms": 164062,
+      "duration_ms": 15662
+    },
+    {
+      "word": "Pero me dijo: Ve, porque yo te enviaré lejos a los gentiles.",
+      "verse": 21,
+      "start_ms": 164062,
+      "end_ms": 168849,
+      "duration_ms": 4787
+    },
+    {
+      "word": "Pablo en manos del tribuno Y le oyeron hasta esta palabra; entonces alzaron la voz, diciendo: Quita de la tierra a tal hombre, porque no conviene que viva.",
+      "verse": 21,
+      "start_ms": 168850,
+      "end_ms": 178425,
+      "duration_ms": 9575
+    },
+    {
+      "word": "Y como ellos gritaban y arrojaban sus ropas y lanzaban polvo al aire, mandó el tribuno que le metiesen en la fortaleza, y ordenó que fuese examinado con azotes, para saber por qué causa clamaban así contra él.",
+      "verse": 23,
+      "start_ms": 178425,
+      "end_ms": 190712,
+      "duration_ms": 12287
+    },
+    {
+      "word": "Pero cuando le ataron con correas, Pablo dijo al centurión que estaba presente: ¿Os es lícito azotar a un ciudadano romano sin haber sido condenado?",
+      "verse": 25,
+      "start_ms": 190712,
+      "end_ms": 199737,
+      "duration_ms": 9025
+    },
+    {
+      "word": "Cuando el centurión oyó esto, fue y dio aviso al tribuno, diciendo: ¿Qué vas a hacer?",
+      "verse": 26,
+      "start_ms": 199737,
+      "end_ms": 205637,
+      "duration_ms": 5900
+    },
+    {
+      "word": "Porque este hombre es ciudadano romano.",
+      "verse": 26,
+      "start_ms": 205637,
+      "end_ms": 208637,
+      "duration_ms": 3000
+    },
+    {
+      "word": "Vino el tribuno y le dijo: Dime, ¿eres tú ciudadano romano? él dijo: Sí.",
+      "verse": 27,
+      "start_ms": 208637,
+      "end_ms": 214599,
+      "duration_ms": 5962
+    },
+    {
+      "word": "Respondió el tribuno: Yo con una gran suma adquirí esta ciudadanía.",
+      "verse": 28,
+      "start_ms": 214600,
+      "end_ms": 219562,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Entonces Pablo dijo: Pero yo lo soy de nacimiento.",
+      "verse": 28,
+      "start_ms": 219562,
+      "end_ms": 223612,
+      "duration_ms": 4050
+    },
+    {
+      "word": "Así que, luego se apartaron de él los que le iban a dar tormento; y aun el tribuno, al saber que era ciudadano romano, también tuvo temor por haberle atado.",
+      "verse": 29,
+      "start_ms": 223612,
+      "end_ms": 233399,
+      "duration_ms": 9787
+    },
+    {
+      "word": "Pablo ante el concilio Al día siguiente, queriendo saber de cierto la causa por la cual le acusaban los judíos, le soltó de las cadenas, y mandó venir a los principales sacerdotes y a todo el concilio, y sacando a Pablo, le presentó ante ellos.",
+      "verse": 29,
+      "start_ms": 233400,
+      "end_ms": 247637,
+      "duration_ms": 14237
+    }
+  ]
+}

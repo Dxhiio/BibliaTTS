@@ -1,0 +1,145 @@
+{
+  "book": "SAL",
+  "chapter": 75,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 10,
+  "word_count": 9,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 110,
+      "text": "Gracias te damos, oh Dios, gracias te damos, Pues cercano está tu nombre; Los hombres cuentan tus maravillas."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 110,
+      "char_end": 156,
+      "text": "Al tiempo que señalaré Yo juzgaré rectamente."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 156,
+      "char_end": 229,
+      "text": "Se arruinaban la tierra y sus moradores; Yo sostengo sus columnas. Selah"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 229,
+      "char_end": 307,
+      "text": "Dije a los insensatos: No os infatuéis; Y a los impíos: No os enorgullezcáis;"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 307,
+      "char_end": 373,
+      "text": "No hagáis alarde de vuestro poder; No habléis con cerviz erguida."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 373,
+      "char_end": 452,
+      "text": "Porque ni de oriente ni de occidente, Ni del desierto viene el enaltecimiento."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 452,
+      "char_end": 509,
+      "text": "Mas Dios es el juez; A éste humilla, y a aquél enaltece."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 509,
+      "char_end": 693,
+      "text": "Porque el cáliz está en la mano de Jehová, y el vino está fermentado, Lleno de mistura; y él derrama del mismo; Hasta el fondo lo apurarán, y lo beberán todos los impíos de la tierra."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 693,
+      "char_end": 757,
+      "text": "Pero yo siempre anunciaré Y cantaré alabanzas al Dios de Jacob."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 757,
+      "char_end": 842,
+      "text": "Quebrantaré todo el poderío de los pecadores, Pero el poder del justo será exaltado."
+    }
+  ],
+  "words": [
+    {
+      "word": "Gracias te damos, oh Dios, gracias te damos, Pues cercano está tu nombre; Los hombres cuentan tus maravillas.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7550,
+      "duration_ms": 7450
+    },
+    {
+      "word": "Al tiempo que señalaré Yo juzgaré rectamente.",
+      "verse": 2,
+      "start_ms": 7500,
+      "end_ms": 11075,
+      "duration_ms": 3575
+    },
+    {
+      "word": "Se arruinaban la tierra y sus moradores; Yo sostengo sus columnas.",
+      "verse": 3,
+      "start_ms": 11075,
+      "end_ms": 16062,
+      "duration_ms": 4987
+    },
+    {
+      "word": "Selah Dije a los insensatos: No os infatuéis; Y a los impíos: No os enorgullezcáis; No hagáis alarde de vuestro poder; No habléis con cerviz erguida.",
+      "verse": 3,
+      "start_ms": 16062,
+      "end_ms": 26799,
+      "duration_ms": 10737
+    },
+    {
+      "word": "Porque ni de oriente ni de occidente, Ni del desierto viene el enaltecimiento.",
+      "verse": 6,
+      "start_ms": 26800,
+      "end_ms": 32112,
+      "duration_ms": 5312
+    },
+    {
+      "word": "Mas Dios es el juez; A éste humilla, y a aquél enaltece.",
+      "verse": 7,
+      "start_ms": 32112,
+      "end_ms": 36687,
+      "duration_ms": 4575
+    },
+    {
+      "word": "Porque el cáliz está en la mano de Jehová, y el vino está fermentado, Lleno de mistura; y él derrama del mismo; Hasta el fondo lo apurarán, y lo beberán todos los impíos de la tierra.",
+      "verse": 8,
+      "start_ms": 36687,
+      "end_ms": 47687,
+      "duration_ms": 11000
+    },
+    {
+      "word": "Pero yo siempre anunciaré Y cantaré alabanzas al Dios de Jacob.",
+      "verse": 9,
+      "start_ms": 47687,
+      "end_ms": 51962,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Quebrantaré todo el poderío de los pecadores, Pero el poder del justo será exaltado.",
+      "verse": 10,
+      "start_ms": 51962,
+      "end_ms": 57612,
+      "duration_ms": 5650
+    }
+  ]
+}

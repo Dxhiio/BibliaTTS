@@ -1,0 +1,110 @@
+{
+  "book": "SAL",
+  "chapter": 120,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 7,
+  "word_count": 7,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 55,
+      "text": "A Jehová clamé estando en angustia, Y él me respondió."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 55,
+      "char_end": 130,
+      "text": "Libra mi alma, oh Jehová, del labio mentiroso, Y de la lengua fraudulenta."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 130,
+      "char_end": 186,
+      "text": "¿Qué te dará, o qué te aprovechará, Oh lengua engañosa?"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 186,
+      "char_end": 235,
+      "text": "Agudas saetas de valiente, Con brasas de enebro."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 235,
+      "char_end": 302,
+      "text": "¡Ay de mí, que moro en Mesec, Y habito entre las tiendas de Cedar!"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 302,
+      "char_end": 363,
+      "text": "Mucho tiempo ha morado mi alma Con los que aborrecen la paz."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 363,
+      "char_end": 423,
+      "text": "Yo soy pacífico; Mas ellos, así que hablo, me hacen guerra."
+    }
+  ],
+  "words": [
+    {
+      "word": "A Jehová clamé estando en angustia, Y él me respondió.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4025,
+      "duration_ms": 3925
+    },
+    {
+      "word": "Libra mi alma, oh Jehová, del labio mentiroso, Y de la lengua fraudulenta.",
+      "verse": 2,
+      "start_ms": 3975,
+      "end_ms": 9600,
+      "duration_ms": 5625
+    },
+    {
+      "word": "Qué te dará, o qué te aprovechará, Oh lengua engañosa?",
+      "verse": 3,
+      "start_ms": 9600,
+      "end_ms": 13737,
+      "duration_ms": 4137
+    },
+    {
+      "word": "Agudas saetas de valiente, Con brasas de enebro.",
+      "verse": 4,
+      "start_ms": 13737,
+      "end_ms": 17562,
+      "duration_ms": 3825
+    },
+    {
+      "word": "Ay de mí, que moro en Mesec, Y habito entre las tiendas de Cedar!",
+      "verse": 5,
+      "start_ms": 17562,
+      "end_ms": 22212,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Mucho tiempo ha morado mi alma Con los que aborrecen la paz.",
+      "verse": 6,
+      "start_ms": 22212,
+      "end_ms": 26112,
+      "duration_ms": 3900
+    },
+    {
+      "word": "Yo soy pacífico; Mas ellos, así que hablo, me hacen guerra.",
+      "verse": 7,
+      "start_ms": 26112,
+      "end_ms": 30999,
+      "duration_ms": 4887
+    }
+  ]
+}

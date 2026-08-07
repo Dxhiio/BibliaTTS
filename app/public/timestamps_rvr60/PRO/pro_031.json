@@ -1,0 +1,453 @@
+{
+  "book": "PRO",
+  "chapter": 31,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 31,
+  "word_count": 32,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 65,
+      "text": "Palabras del rey Lemuel; la profecía con que le enseñó su madre."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 65,
+      "char_end": 137,
+      "text": "¿Qué, hijo mío? ¿y qué, hijo de mi vientre? ¿Y qué, hijo de mis deseos?"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 137,
+      "char_end": 215,
+      "text": "No des a las mujeres tu fuerza, Ni tus caminos a lo que destruye a los reyes."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 215,
+      "char_end": 307,
+      "text": "No es de los reyes, oh Lemuel, no es de los reyes beber vino, Ni de los príncipes la sidra;"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 307,
+      "char_end": 391,
+      "text": "No sea que bebiendo olviden la ley, Y perviertan el derecho de todos los afligidos."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 391,
+      "char_end": 456,
+      "text": "Dad la sidra al desfallecido, Y el vino a los de amargado ánimo."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 456,
+      "char_end": 528,
+      "text": "Beban, y olvídense de su necesidad, Y de su miseria no se acuerden más."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 528,
+      "char_end": 591,
+      "text": "Abre tu boca por el mudo En el juicio de todos los desvalidos."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 591,
+      "char_end": 702,
+      "text": "Abre tu boca, juzga con justicia, Y defiende la causa del pobre y del menesteroso. Elogio de la mujer virtuosa"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 702,
+      "char_end": 806,
+      "text": "Mujer virtuosa, ¿quién la hallará? Porque su estima sobrepasa largamente a la de las piedras preciosas."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 806,
+      "char_end": 881,
+      "text": "El corazón de su marido está en ella confiado, Y no carecerá de ganancias."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 881,
+      "char_end": 933,
+      "text": "Le da ella bien y no mal Todos los días de su vida."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 933,
+      "char_end": 990,
+      "text": "Busca lana y lino, Y con voluntad trabaja con sus manos."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 990,
+      "char_end": 1038,
+      "text": "Es como nave de mercader; Trae su pan de lejos."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1038,
+      "char_end": 1111,
+      "text": "Se levanta aun de noche Y da comida a su familia Y ración a sus criadas."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1111,
+      "char_end": 1184,
+      "text": "Considera la heredad, y la compra, Y planta viña del fruto de sus manos."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1184,
+      "char_end": 1233,
+      "text": "Ciñe de fuerza sus lomos, Y esfuerza sus brazos."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1233,
+      "char_end": 1296,
+      "text": "Ve que van bien sus negocios; Su lámpara no se apaga de noche."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1296,
+      "char_end": 1344,
+      "text": "Aplica su mano al huso, Y sus manos a la rueca."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1344,
+      "char_end": 1406,
+      "text": "Alarga su mano al pobre, Y extiende sus manos al menesteroso."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1406,
+      "char_end": 1502,
+      "text": "No tiene temor de la nieve por su familia, Porque toda su familia está vestida de ropas dobles."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1502,
+      "char_end": 1562,
+      "text": "Ella se hace tapices; De lino fino y púrpura es su vestido."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1562,
+      "char_end": 1648,
+      "text": "Su marido es conocido en las puertas, Cuando se sienta con los ancianos de la tierra."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1648,
+      "char_end": 1694,
+      "text": "Hace telas, y vende, Y da cintas al mercader."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1694,
+      "char_end": 1753,
+      "text": "Fuerza y honor son su vestidura; Y se ríe de lo por venir."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 1753,
+      "char_end": 1822,
+      "text": "Abre su boca con sabiduría, Y la ley de clemencia está en su lengua."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 1822,
+      "char_end": 1883,
+      "text": "Considera los caminos de su casa, Y no come el pan de balde."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 1883,
+      "char_end": 1963,
+      "text": "Se levantan sus hijos y la llaman bienaventurada; Y su marido también la alaba:"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 1963,
+      "char_end": 2023,
+      "text": "Muchas mujeres hicieron el bien; Mas tú sobrepasas a todas."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2023,
+      "char_end": 2113,
+      "text": "Engañosa es la gracia, y vana la hermosura; La mujer que teme a Jehová, ésa será alabada."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2113,
+      "char_end": 2181,
+      "text": "Dadle del fruto de sus manos, Y alábenla en las puertas sus hechos."
+    }
+  ],
+  "words": [
+    {
+      "word": "Palabras del rey Lemuel; la profecía con que le enseñó su madre.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4475,
+      "duration_ms": 4375
+    },
+    {
+      "word": "Qué, hijo mío?",
+      "verse": 2,
+      "start_ms": 4425,
+      "end_ms": 6475,
+      "duration_ms": 2050
+    },
+    {
+      "word": "y qué, hijo de mi vientre?",
+      "verse": 2,
+      "start_ms": 6475,
+      "end_ms": 9075,
+      "duration_ms": 2600
+    },
+    {
+      "word": "Y qué, hijo de mis deseos?",
+      "verse": 2,
+      "start_ms": 9075,
+      "end_ms": 11875,
+      "duration_ms": 2800
+    },
+    {
+      "word": "No des a las mujeres tu fuerza, Ni tus caminos a lo que destruye a los reyes.",
+      "verse": 3,
+      "start_ms": 11875,
+      "end_ms": 17187,
+      "duration_ms": 5312
+    },
+    {
+      "word": "No es de los reyes, oh Lemuel, no es de los reyes beber vino, Ni de los príncipes la sidra; No sea que bebiendo olviden la ley, Y perviertan el derecho de todos los afligidos.",
+      "verse": 4,
+      "start_ms": 17187,
+      "end_ms": 28062,
+      "duration_ms": 10875
+    },
+    {
+      "word": "Dad la sidra al desfallecido, Y el vino a los de amargado ánimo.",
+      "verse": 6,
+      "start_ms": 28062,
+      "end_ms": 32812,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Beban, y olvídense de su necesidad, Y de su miseria no se acuerden más.",
+      "verse": 7,
+      "start_ms": 32812,
+      "end_ms": 38162,
+      "duration_ms": 5350
+    },
+    {
+      "word": "Abre tu boca por el mudo En el juicio de todos los desvalidos.",
+      "verse": 8,
+      "start_ms": 38162,
+      "end_ms": 42412,
+      "duration_ms": 4250
+    },
+    {
+      "word": "Abre tu boca, juzga con justicia, Y defiende la causa del pobre y del menesteroso.",
+      "verse": 9,
+      "start_ms": 42412,
+      "end_ms": 48299,
+      "duration_ms": 5887
+    },
+    {
+      "word": "Elogio de la mujer virtuosa Mujer virtuosa, ¿quién la hallará?",
+      "verse": 9,
+      "start_ms": 48300,
+      "end_ms": 52637,
+      "duration_ms": 4337
+    },
+    {
+      "word": "Porque su estima sobrepasa largamente a la de las piedras preciosas.",
+      "verse": 10,
+      "start_ms": 52637,
+      "end_ms": 57174,
+      "duration_ms": 4537
+    },
+    {
+      "word": "El corazón de su marido está en ella confiado, Y no carecerá de ganancias.",
+      "verse": 11,
+      "start_ms": 57175,
+      "end_ms": 62250,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Le da ella bien y no mal Todos los días de su vida.",
+      "verse": 12,
+      "start_ms": 62250,
+      "end_ms": 65875,
+      "duration_ms": 3625
+    },
+    {
+      "word": "Busca lana y lino, Y con voluntad trabaja con sus manos.",
+      "verse": 13,
+      "start_ms": 65875,
+      "end_ms": 70325,
+      "duration_ms": 4450
+    },
+    {
+      "word": "Es como nave de mercader; Trae su pan de lejos.",
+      "verse": 14,
+      "start_ms": 70325,
+      "end_ms": 74287,
+      "duration_ms": 3962
+    },
+    {
+      "word": "Se levanta aun de noche Y da comida a su familia Y ración a sus criadas.",
+      "verse": 15,
+      "start_ms": 74287,
+      "end_ms": 79162,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Considera la heredad, y la compra, Y planta viña del fruto de sus manos.",
+      "verse": 16,
+      "start_ms": 79162,
+      "end_ms": 84412,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Ciñe de fuerza sus lomos, Y esfuerza sus brazos.",
+      "verse": 17,
+      "start_ms": 84412,
+      "end_ms": 88499,
+      "duration_ms": 4087
+    },
+    {
+      "word": "Ve que van bien sus negocios; Su lámpara no se apaga de noche.",
+      "verse": 18,
+      "start_ms": 88500,
+      "end_ms": 93037,
+      "duration_ms": 4537
+    },
+    {
+      "word": "Aplica su mano al huso, Y sus manos a la rueca.",
+      "verse": 19,
+      "start_ms": 93037,
+      "end_ms": 96749,
+      "duration_ms": 3712
+    },
+    {
+      "word": "Alarga su mano al pobre, Y extiende sus manos al menesteroso.",
+      "verse": 20,
+      "start_ms": 96750,
+      "end_ms": 101362,
+      "duration_ms": 4612
+    },
+    {
+      "word": "No tiene temor de la nieve por su familia, Porque toda su familia está vestida de ropas dobles.",
+      "verse": 21,
+      "start_ms": 101362,
+      "end_ms": 107449,
+      "duration_ms": 6087
+    },
+    {
+      "word": "Ella se hace tapices; De lino fino y púrpura es su vestido.",
+      "verse": 22,
+      "start_ms": 107450,
+      "end_ms": 112175,
+      "duration_ms": 4725
+    },
+    {
+      "word": "Su marido es conocido en las puertas, Cuando se sienta con los ancianos de la tierra.",
+      "verse": 23,
+      "start_ms": 112175,
+      "end_ms": 117425,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Hace telas, y vende, Y da cintas al mercader.",
+      "verse": 24,
+      "start_ms": 117425,
+      "end_ms": 121637,
+      "duration_ms": 4212
+    },
+    {
+      "word": "Fuerza y honor son su vestidura; Y se ríe de lo por venir.",
+      "verse": 25,
+      "start_ms": 121637,
+      "end_ms": 125999,
+      "duration_ms": 4362
+    },
+    {
+      "word": "Abre su boca con sabiduría, Y la ley de clemencia está en su lengua.",
+      "verse": 26,
+      "start_ms": 126000,
+      "end_ms": 130762,
+      "duration_ms": 4762
+    },
+    {
+      "word": "Considera los caminos de su casa, Y no come el pan de balde.",
+      "verse": 27,
+      "start_ms": 130762,
+      "end_ms": 135037,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Se levantan sus hijos y la llaman bienaventurada; Y su marido también la alaba: Muchas mujeres hicieron el bien; Mas tú sobrepasas a todas.",
+      "verse": 28,
+      "start_ms": 135037,
+      "end_ms": 144212,
+      "duration_ms": 9175
+    },
+    {
+      "word": "Engañosa es la gracia, y vana la hermosura; La mujer que teme a Jehová, ésa será alabada.",
+      "verse": 30,
+      "start_ms": 144212,
+      "end_ms": 150587,
+      "duration_ms": 6375
+    },
+    {
+      "word": "Dadle del fruto de sus manos, Y alábenla en las puertas sus hechos.",
+      "verse": 31,
+      "start_ms": 150587,
+      "end_ms": 155362,
+      "duration_ms": 4775
+    }
+  ]
+}

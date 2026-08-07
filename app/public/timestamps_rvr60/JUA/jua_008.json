@@ -1,0 +1,803 @@
+{
+  "book": "JUA",
+  "chapter": 8,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 53,
+  "word_count": 60,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 118,
+      "text": "Después de estas cosas, andaba Jesús en Galilea; pues no quería andar en Judea, porque los judíos procuraban matarle."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 118,
+      "char_end": 180,
+      "text": "Estaba cerca la fiesta de los judíos, la de los tabernáculos;"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 180,
+      "char_end": 294,
+      "text": "y le dijeron sus hermanos: Sal de aquí, y vete a Judea, para que también tus discípulos vean las obras que haces."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 294,
+      "char_end": 404,
+      "text": "Porque ninguno que procura darse a conocer hace algo en secreto. Si estas cosas haces, manifiéstate al mundo."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 404,
+      "char_end": 445,
+      "text": "Porque ni aun sus hermanos creían en él."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 445,
+      "char_end": 539,
+      "text": "Entonces Jesús les dijo: Mi tiempo aún no ha llegado, mas vuestro tiempo siempre está presto."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 539,
+      "char_end": 655,
+      "text": "No puede el mundo aborreceros a vosotros; mas a mí me aborrece, porque yo testifico de él, que sus obras son malas."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 655,
+      "char_end": 756,
+      "text": "Subid vosotros a la fiesta; yo no subo todavía a esa fiesta, porque mi tiempo aún no se ha cumplido."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 756,
+      "char_end": 842,
+      "text": "Y habiéndoles dicho esto, se quedó en Galilea. Jesús en la fiesta de los tabernáculos"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 842,
+      "char_end": 965,
+      "text": "Pero después que sus hermanos habían subido, entonces él también subió a la fiesta, no abiertamente, sino como en secreto."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 965,
+      "char_end": 1033,
+      "text": "Y le buscaban los judíos en la fiesta, y decían: ¿Dónde está aquél?"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1033,
+      "char_end": 1165,
+      "text": "Y había gran murmullo acerca de él entre la multitud, pues unos decían: Es bueno; pero otros decían: No, sino que engaña al pueblo."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1165,
+      "char_end": 1230,
+      "text": "Pero ninguno hablaba abiertamente de él, por miedo a los judíos."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1230,
+      "char_end": 1293,
+      "text": "Mas a la mitad de la fiesta subió Jesús al templo, y enseñaba."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1293,
+      "char_end": 1378,
+      "text": "Y se maravillaban los judíos, diciendo: ¿Cómo sabe éste letras, sin haber estudiado?"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1378,
+      "char_end": 1457,
+      "text": "Jesús les respondió y dijo: Mi doctrina no es mía, sino de aquel que me envió."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1457,
+      "char_end": 1570,
+      "text": "El que quiera hacer la voluntad de Dios, conocerá si la doctrina es de Dios, o si yo hablo por mi propia cuenta."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1570,
+      "char_end": 1721,
+      "text": "El que habla por su propia cuenta, su propia gloria busca; pero el que busca la gloria del que le envió, éste es verdadero, y no hay en él injusticia."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1721,
+      "char_end": 1812,
+      "text": "¿No os dio Moisés la ley, y ninguno de vosotros cumple la ley? ¿Por qué procuráis matarme?"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1812,
+      "char_end": 1882,
+      "text": "Respondió la multitud y dijo: Demonio tienes; ¿quién procura matarte?"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1882,
+      "char_end": 1949,
+      "text": "Jesús respondió y les dijo: Una obra hice, y todos os maravilláis."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1949,
+      "char_end": 2084,
+      "text": "Por cierto, Moisés os dio la circuncisión (no porque sea de Moisés, sino de los padres); y en el día de reposo circuncidáis al hombre."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2084,
+      "char_end": 2266,
+      "text": "Si recibe el hombre la circuncisión en el día de reposo, para que la ley de Moisés no sea quebrantada, ¿os enojáis conmigo porque en el día de reposo sané completamente a un hombre?"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2266,
+      "char_end": 2351,
+      "text": "No juzguéis según las apariencias, sino juzgad con justo juicio. ¿Es éste el Cristo?"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2351,
+      "char_end": 2427,
+      "text": "Decían entonces unos de Jerusalén: ¿No es éste a quien buscan para matarle?"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2427,
+      "char_end": 2547,
+      "text": "Pues mirad, habla públicamente, y no le dicen nada. ¿Habrán reconocido en verdad los gobernantes que éste es el Cristo?"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2547,
+      "char_end": 2633,
+      "text": "Pero éste, sabemos de dónde es; mas cuando venga el Cristo, nadie sabrá de dónde sea."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2633,
+      "char_end": 2827,
+      "text": "Jesús entonces, enseñando en el templo, alzó la voz y dijo: A mí me conocéis, y sabéis de dónde soy; y no he venido de mí mismo, pero el que me envió es verdadero, a quien vosotros no conocéis."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2827,
+      "char_end": 2884,
+      "text": "Pero yo le conozco, porque de él procedo, y él me envió."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2884,
+      "char_end": 2979,
+      "text": "Entonces procuraban prenderle; pero ninguno le echó mano, porque aún no había llegado su hora."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2979,
+      "char_end": 3147,
+      "text": "Y muchos de la multitud creyeron en él, y decían: El Cristo, cuando venga, ¿hará más señales que las que éste hace? Los fariseos envían alguaciles para prender a Jesús"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3147,
+      "char_end": 3299,
+      "text": "Los fariseos oyeron a la gente que murmuraba de él estas cosas; y los principales sacerdotes y los fariseos enviaron alguaciles para que le prendiesen."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3299,
+      "char_end": 3390,
+      "text": "Entonces Jesús dijo: Todavía un poco de tiempo estaré con vosotros, e iré al que me envió."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3390,
+      "char_end": 3471,
+      "text": "Me buscaréis, y no me hallaréis; y a donde yo estaré, vosotros no podréis venir."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3471,
+      "char_end": 3619,
+      "text": "Entonces los judíos dijeron entre sí: ¿Adónde se irá éste, que no le hallemos? ¿Se irá a los dispersos entre los griegos, y enseñará a los griegos?"
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3619,
+      "char_end": 3748,
+      "text": "¿Qué significa esto que dijo: Me buscaréis, y no me hallaréis; y a donde yo estaré, vosotros no podréis venir? Ríos de agua viva"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3748,
+      "char_end": 3872,
+      "text": "En el último y gran día de la fiesta, Jesús se puso en pie y alzó la voz, diciendo: Si alguno tiene sed, venga a mí y beba."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 3872,
+      "char_end": 3958,
+      "text": "El que cree en mí, como dice la Escritura, de su interior correrán ríos de agua viva."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 3958,
+      "char_end": 4139,
+      "text": "Esto dijo del Espíritu que habían de recibir los que creyesen en él; pues aún no había venido el Espíritu Santo, porque Jesús no había sido aún glorificado. División entre la gente"
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4139,
+      "char_end": 4238,
+      "text": "Entonces algunos de la multitud, oyendo estas palabras, decían: Verdaderamente éste es el profeta."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4238,
+      "char_end": 4327,
+      "text": "Otros decían: éste es el Cristo. Pero algunos decían: ¿De Galilea ha de venir el Cristo?"
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4327,
+      "char_end": 4441,
+      "text": "¿No dice la Escritura que del linaje de David, y de la aldea de Belén, de donde era David, ha de venir el Cristo?"
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4441,
+      "char_end": 4495,
+      "text": "Hubo entonces disensión entre la gente a causa de él."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 4495,
+      "char_end": 4590,
+      "text": "Y algunos de ellos querían prenderle; pero ninguno le echó mano. ¡Nunca ha hablado hombre así!"
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 4590,
+      "char_end": 4712,
+      "text": "Los alguaciles vinieron a los principales sacerdotes y a los fariseos; y éstos les dijeron: ¿Por qué no le habéis traído?"
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 4712,
+      "char_end": 4791,
+      "text": "Los alguaciles respondieron: ¡Jamás hombre alguno ha hablado como este hombre!"
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 4791,
+      "char_end": 4872,
+      "text": "Entonces los fariseos les respondieron: ¿También vosotros habéis sido engañados?"
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 4872,
+      "char_end": 4941,
+      "text": "¿Acaso ha creído en él alguno de los gobernantes, o de los fariseos?"
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 4941,
+      "char_end": 4988,
+      "text": "Mas esta gente que no sabe la ley, maldita es."
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 4988,
+      "char_end": 5060,
+      "text": "Les dijo Nicodemo, el que vino a él de noche, el cual era uno de ellos:"
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 5060,
+      "char_end": 5143,
+      "text": "¿Juzga acaso nuestra ley a un hombre si primero no le oye, y sabe lo que ha hecho?"
+    },
+    {
+      "verse": 52,
+      "label": "52",
+      "char_start": 5143,
+      "char_end": 5275,
+      "text": "Respondieron y le dijeron: ¿Eres tú también galileo? Escudriña y ve que de Galilea nunca se ha levantado profeta. La mujer adúltera"
+    },
+    {
+      "verse": 53,
+      "label": "53",
+      "char_start": 5275,
+      "char_end": 5302,
+      "text": "Cada uno se fue a su casa;"
+    }
+  ],
+  "words": [
+    {
+      "word": "Después de estas cosas, andaba Jesús en Galilea; pues no quería andar en Judea, porque los judíos procuraban matarle.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7775,
+      "duration_ms": 7675
+    },
+    {
+      "word": "Estaba cerca la fiesta de los judíos, la de los tabernáculos; y le dijeron sus hermanos: Sal de aquí, y vete a Judea, para que también tus discípulos vean las obras que haces.",
+      "verse": 2,
+      "start_ms": 7725,
+      "end_ms": 18775,
+      "duration_ms": 11050
+    },
+    {
+      "word": "Porque ninguno que procura darse a conocer hace algo en secreto.",
+      "verse": 4,
+      "start_ms": 18775,
+      "end_ms": 22962,
+      "duration_ms": 4187
+    },
+    {
+      "word": "Si estas cosas haces, manifiéstate al mundo.",
+      "verse": 4,
+      "start_ms": 22962,
+      "end_ms": 26699,
+      "duration_ms": 3737
+    },
+    {
+      "word": "Porque ni aun sus hermanos creían en él.",
+      "verse": 5,
+      "start_ms": 26700,
+      "end_ms": 29837,
+      "duration_ms": 3137
+    },
+    {
+      "word": "Entonces Jesús les dijo: Mi tiempo aún no ha llegado, mas vuestro tiempo siempre está presto.",
+      "verse": 6,
+      "start_ms": 29837,
+      "end_ms": 36124,
+      "duration_ms": 6287
+    },
+    {
+      "word": "No puede el mundo aborreceros a vosotros; mas a mí me aborrece, porque yo testifico de él, que sus obras son malas.",
+      "verse": 7,
+      "start_ms": 36125,
+      "end_ms": 43800,
+      "duration_ms": 7675
+    },
+    {
+      "word": "Subid vosotros a la fiesta; yo no subo todavía a esa fiesta, porque mi tiempo aún no se ha cumplido.",
+      "verse": 8,
+      "start_ms": 43800,
+      "end_ms": 50825,
+      "duration_ms": 7025
+    },
+    {
+      "word": "Y habiéndoles dicho esto, se quedó en Galilea.",
+      "verse": 9,
+      "start_ms": 50825,
+      "end_ms": 54525,
+      "duration_ms": 3700
+    },
+    {
+      "word": "Jesús en la fiesta de los tabernáculos Pero después que sus hermanos habían subido, entonces él también subió a la fiesta, no abiertamente, sino como en secreto.",
+      "verse": 9,
+      "start_ms": 54525,
+      "end_ms": 64100,
+      "duration_ms": 9575
+    },
+    {
+      "word": "Y le buscaban los judíos en la fiesta, y decían: ¿Dónde está aquél?",
+      "verse": 11,
+      "start_ms": 64100,
+      "end_ms": 68925,
+      "duration_ms": 4825
+    },
+    {
+      "word": "Y había gran murmullo acerca de él entre la multitud, pues unos decían: Es bueno; pero otros decían: No, sino que engaña al pueblo.",
+      "verse": 12,
+      "start_ms": 68925,
+      "end_ms": 78200,
+      "duration_ms": 9275
+    },
+    {
+      "word": "Pero ninguno hablaba abiertamente de él, por miedo a los judíos.",
+      "verse": 13,
+      "start_ms": 78200,
+      "end_ms": 82912,
+      "duration_ms": 4712
+    },
+    {
+      "word": "Mas a la mitad de la fiesta subió Jesús al templo, y enseñaba.",
+      "verse": 14,
+      "start_ms": 82912,
+      "end_ms": 87362,
+      "duration_ms": 4450
+    },
+    {
+      "word": "Y se maravillaban los judíos, diciendo: ¿Cómo sabe éste letras, sin haber estudiado?",
+      "verse": 15,
+      "start_ms": 87362,
+      "end_ms": 93587,
+      "duration_ms": 6225
+    },
+    {
+      "word": "Jesús les respondió y dijo: Mi doctrina no es mía, sino de aquel que me envió.",
+      "verse": 16,
+      "start_ms": 93587,
+      "end_ms": 99062,
+      "duration_ms": 5475
+    },
+    {
+      "word": "El que quiera hacer la voluntad de Dios, conocerá si la doctrina es de Dios, o si yo hablo por mi propia cuenta.",
+      "verse": 17,
+      "start_ms": 99062,
+      "end_ms": 105862,
+      "duration_ms": 6800
+    },
+    {
+      "word": "El que habla por su propia cuenta, su propia gloria busca; pero el que busca la gloria del que le envió, éste es verdadero, y no hay en él injusticia.",
+      "verse": 18,
+      "start_ms": 105862,
+      "end_ms": 115512,
+      "duration_ms": 9650
+    },
+    {
+      "word": "No os dio Moisés la ley, y ninguno de vosotros cumple la ley?",
+      "verse": 19,
+      "start_ms": 115512,
+      "end_ms": 119949,
+      "duration_ms": 4437
+    },
+    {
+      "word": "Por qué procuráis matarme?",
+      "verse": 19,
+      "start_ms": 119950,
+      "end_ms": 122275,
+      "duration_ms": 2325
+    },
+    {
+      "word": "Respondió la multitud y dijo: Demonio tienes; ¿quién procura matarte?",
+      "verse": 20,
+      "start_ms": 122275,
+      "end_ms": 127525,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Jesús respondió y les dijo: Una obra hice, y todos os maravilláis.",
+      "verse": 21,
+      "start_ms": 127525,
+      "end_ms": 132875,
+      "duration_ms": 5350
+    },
+    {
+      "word": "Por cierto, Moisés os dio la circuncisión (no porque sea de Moisés, sino de los padres); y en el día de reposo circuncidáis al hombre.",
+      "verse": 22,
+      "start_ms": 132875,
+      "end_ms": 141550,
+      "duration_ms": 8675
+    },
+    {
+      "word": "Si recibe el hombre la circuncisión en el día de reposo, para que la ley de Moisés no sea quebrantada, ¿os enojáis conmigo porque en el día de reposo sané completamente a un hombre?",
+      "verse": 23,
+      "start_ms": 141550,
+      "end_ms": 152000,
+      "duration_ms": 10450
+    },
+    {
+      "word": "No juzguéis según las apariencias, sino juzgad con justo juicio.",
+      "verse": 24,
+      "start_ms": 152000,
+      "end_ms": 156687,
+      "duration_ms": 4687
+    },
+    {
+      "word": "Es éste el Cristo?",
+      "verse": 24,
+      "start_ms": 156687,
+      "end_ms": 158712,
+      "duration_ms": 2025
+    },
+    {
+      "word": "Decían entonces unos de Jerusalén: ¿No es éste a quien buscan para matarle?",
+      "verse": 25,
+      "start_ms": 158712,
+      "end_ms": 163912,
+      "duration_ms": 5200
+    },
+    {
+      "word": "Pues mirad, habla públicamente, y no le dicen nada.",
+      "verse": 26,
+      "start_ms": 163912,
+      "end_ms": 168162,
+      "duration_ms": 4250
+    },
+    {
+      "word": "Habrán reconocido en verdad los gobernantes que éste es el Cristo?",
+      "verse": 26,
+      "start_ms": 168162,
+      "end_ms": 172524,
+      "duration_ms": 4362
+    },
+    {
+      "word": "Pero éste, sabemos de dónde es; mas cuando venga el Cristo, nadie sabrá de dónde sea.",
+      "verse": 27,
+      "start_ms": 172525,
+      "end_ms": 178850,
+      "duration_ms": 6325
+    },
+    {
+      "word": "Jesús entonces, enseñando en el templo, alzó la voz y dijo: A mí me conocéis, y sabéis de dónde soy; y no he venido de mí mismo, pero el que me envió es verdadero, a quien vosotros no conocéis.",
+      "verse": 28,
+      "start_ms": 178850,
+      "end_ms": 191875,
+      "duration_ms": 13025
+    },
+    {
+      "word": "Pero yo le conozco, porque de él procedo, y él me envió.",
+      "verse": 29,
+      "start_ms": 191875,
+      "end_ms": 196187,
+      "duration_ms": 4312
+    },
+    {
+      "word": "Entonces procuraban prenderle; pero ninguno le echó mano, porque aún no había llegado su hora.",
+      "verse": 30,
+      "start_ms": 196187,
+      "end_ms": 202499,
+      "duration_ms": 6312
+    },
+    {
+      "word": "Y muchos de la multitud creyeron en él, y decían: El Cristo, cuando venga, ¿hará más señales que las que éste hace?",
+      "verse": 31,
+      "start_ms": 202500,
+      "end_ms": 210437,
+      "duration_ms": 7937
+    },
+    {
+      "word": "Los fariseos envían alguaciles para prender a Jesús Los fariseos oyeron a la gente que murmuraba de él estas cosas; y los principales sacerdotes y los fariseos enviaron alguaciles para que le prendiesen.",
+      "verse": 31,
+      "start_ms": 210437,
+      "end_ms": 221949,
+      "duration_ms": 11512
+    },
+    {
+      "word": "Entonces Jesús dijo: Todavía un poco de tiempo estaré con vosotros, e iré al que me envió.",
+      "verse": 33,
+      "start_ms": 221950,
+      "end_ms": 228312,
+      "duration_ms": 6362
+    },
+    {
+      "word": "Me buscaréis, y no me hallaréis; y a donde yo estaré, vosotros no podréis venir.",
+      "verse": 34,
+      "start_ms": 228312,
+      "end_ms": 234387,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Entonces los judíos dijeron entre sí: ¿Adónde se irá éste, que no le hallemos?",
+      "verse": 35,
+      "start_ms": 234387,
+      "end_ms": 239987,
+      "duration_ms": 5600
+    },
+    {
+      "word": "Se irá a los dispersos entre los griegos, y enseñará a los griegos?",
+      "verse": 35,
+      "start_ms": 239987,
+      "end_ms": 244862,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Qué significa esto que dijo: Me buscaréis, y no me hallaréis; y a donde yo estaré, vosotros no podréis venir?",
+      "verse": 36,
+      "start_ms": 244862,
+      "end_ms": 252762,
+      "duration_ms": 7900
+    },
+    {
+      "word": "Ríos de agua viva En el último y gran día de la fiesta, Jesús se puso en pie y alzó la voz, diciendo: Si alguno tiene sed, venga a mí y beba.",
+      "verse": 36,
+      "start_ms": 252762,
+      "end_ms": 262449,
+      "duration_ms": 9687
+    },
+    {
+      "word": "El que cree en mí, como dice la Escritura, de su interior correrán",
+      "verse": 38,
+      "start_ms": 262450,
+      "end_ms": 267212,
+      "duration_ms": 4762
+    },
+    {
+      "word": "ríos de agua viva.",
+      "verse": 38,
+      "start_ms": 267364,
+      "end_ms": 269514,
+      "duration_ms": 2150
+    },
+    {
+      "word": "Esto dijo del Espíritu que habían de recibir los que creyesen en él; pues aún no había venido el Espíritu Santo, porque Jesús no había sido aún glorificado.",
+      "verse": 39,
+      "start_ms": 269464,
+      "end_ms": 278651,
+      "duration_ms": 9187
+    },
+    {
+      "word": "División entre la gente Entonces algunos de la multitud, oyendo estas palabras, decían: Verdaderamente éste es el profeta.",
+      "verse": 39,
+      "start_ms": 278651,
+      "end_ms": 286863,
+      "duration_ms": 8212
+    },
+    {
+      "word": "Otros decían: éste es el Cristo.",
+      "verse": 41,
+      "start_ms": 286864,
+      "end_ms": 290064,
+      "duration_ms": 3200
+    },
+    {
+      "word": "Pero algunos decían: ¿De Galilea ha de venir el Cristo?",
+      "verse": 41,
+      "start_ms": 290064,
+      "end_ms": 294151,
+      "duration_ms": 4087
+    },
+    {
+      "word": "No dice la Escritura que del linaje de David, y de la aldea de Belén, de donde era David, ha de venir el Cristo?",
+      "verse": 42,
+      "start_ms": 294151,
+      "end_ms": 301501,
+      "duration_ms": 7350
+    },
+    {
+      "word": "Hubo entonces disensión entre la gente a causa de él.",
+      "verse": 43,
+      "start_ms": 301501,
+      "end_ms": 305176,
+      "duration_ms": 3675
+    },
+    {
+      "word": "Y algunos de ellos querían prenderle; pero ninguno le echó mano.",
+      "verse": 44,
+      "start_ms": 305176,
+      "end_ms": 309651,
+      "duration_ms": 4475
+    },
+    {
+      "word": "Nunca ha hablado hombre así!",
+      "verse": 44,
+      "start_ms": 309651,
+      "end_ms": 312138,
+      "duration_ms": 2487
+    },
+    {
+      "word": "Los alguaciles vinieron a los principales sacerdotes y a los fariseos; y éstos les dijeron: ¿Por qué no le habéis traído?",
+      "verse": 45,
+      "start_ms": 312139,
+      "end_ms": 320014,
+      "duration_ms": 7875
+    },
+    {
+      "word": "Los alguaciles respondieron: ¡Jamás hombre alguno ha hablado como este hombre!",
+      "verse": 46,
+      "start_ms": 320014,
+      "end_ms": 325139,
+      "duration_ms": 5125
+    },
+    {
+      "word": "Entonces los fariseos les respondieron: ¿También vosotros habéis sido engañados?",
+      "verse": 47,
+      "start_ms": 325139,
+      "end_ms": 330626,
+      "duration_ms": 5487
+    },
+    {
+      "word": "Acaso ha creído en él alguno de los gobernantes, o de los fariseos?",
+      "verse": 48,
+      "start_ms": 330626,
+      "end_ms": 335401,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Mas esta gente que no sabe la ley, maldita es.",
+      "verse": 49,
+      "start_ms": 335401,
+      "end_ms": 339263,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Les dijo Nicodemo, el que vino a él de noche, el cual era uno de ellos: ¿Juzga acaso nuestra ley a un hombre si primero no le oye, y sabe lo que ha hecho?",
+      "verse": 50,
+      "start_ms": 339264,
+      "end_ms": 349264,
+      "duration_ms": 10000
+    },
+    {
+      "word": "Respondieron y le dijeron: ¿Eres tú también galileo?",
+      "verse": 52,
+      "start_ms": 349264,
+      "end_ms": 353214,
+      "duration_ms": 3950
+    },
+    {
+      "word": "Escudriña y ve que de Galilea nunca se ha levantado profeta.",
+      "verse": 52,
+      "start_ms": 353214,
+      "end_ms": 357639,
+      "duration_ms": 4425
+    },
+    {
+      "word": "La mujer adúltera Cada uno se fue a su casa;",
+      "verse": 52,
+      "start_ms": 357639,
+      "end_ms": 361064,
+      "duration_ms": 3425
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "book": "SAL",
+  "chapter": 28,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 9,
+  "word_count": 10,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 139,
+      "text": "A ti clamaré, oh Jehová. Roca mía, no te desentiendas de mí, Para que no sea yo, dejándome tú, Semejante a los que descienden al sepulcro."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 139,
+      "char_end": 228,
+      "text": "Oye la voz de mis ruegos cuando clamo a ti, Cuando alzo mis manos hacia tu santo templo."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 228,
+      "char_end": 376,
+      "text": "No me arrebates juntamente con los malos, Y con los que hacen iniquidad, Los cuales hablan paz con sus prójimos, Pero la maldad está en su corazón."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 376,
+      "char_end": 493,
+      "text": "Dales conforme a su obra, y conforme a la perversidad de sus Hch; Dales su merecido conforme a la obra de sus manos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 493,
+      "char_end": 607,
+      "text": "Por cuanto no atendieron a los hechos de Jehová, Ni a la obra de sus manos, él los derribará, y no los edificará."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 607,
+      "char_end": 657,
+      "text": "Bendito sea Jehová, Que oyó la voz de mis ruegos."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 657,
+      "char_end": 793,
+      "text": "Jehová es mi fortaleza y mi escudo; En él confió mi corazón, y fui ayudado, Por lo que se gozó mi corazón, Y con mi cántico le alabaré."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 793,
+      "char_end": 866,
+      "text": "Jehová es la fortaleza de su pueblo, Y el refugio salvador de su ungido."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 866,
+      "char_end": 951,
+      "text": "Salva a tu pueblo, y bendice a tu heredad; Y pastoréales y susténtales para siempre."
+    }
+  ],
+  "words": [
+    {
+      "word": "A ti clamaré, oh Jehová.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 2712,
+      "duration_ms": 2612
+    },
+    {
+      "word": "Roca mía, no te desentiendas de mí, Para que no sea yo, dejándome tú, Semejante a los que descienden al sepulcro.",
+      "verse": 1,
+      "start_ms": 2662,
+      "end_ms": 10474,
+      "duration_ms": 7812
+    },
+    {
+      "word": "Oye la voz de mis ruegos cuando clamo a ti, Cuando alzo mis manos hacia tu santo templo.",
+      "verse": 2,
+      "start_ms": 10475,
+      "end_ms": 16037,
+      "duration_ms": 5562
+    },
+    {
+      "word": "No me arrebates juntamente con los malos, Y con los que hacen iniquidad, Los cuales hablan paz con sus prójimos, Pero la maldad está en su corazón.",
+      "verse": 3,
+      "start_ms": 16037,
+      "end_ms": 24887,
+      "duration_ms": 8850
+    },
+    {
+      "word": "Dales conforme a su obra, y conforme a la perversidad de sus Hch; Dales su merecido conforme a la obra de sus manos.",
+      "verse": 4,
+      "start_ms": 24887,
+      "end_ms": 32849,
+      "duration_ms": 7962
+    },
+    {
+      "word": "Por cuanto no atendieron a los hechos de Jehová, Ni a la obra de sus manos, él los derribará, y no los edificará.",
+      "verse": 5,
+      "start_ms": 32850,
+      "end_ms": 40037,
+      "duration_ms": 7187
+    },
+    {
+      "word": "Bendito sea Jehová, Que oyó la voz de mis ruegos.",
+      "verse": 6,
+      "start_ms": 40037,
+      "end_ms": 44012,
+      "duration_ms": 3975
+    },
+    {
+      "word": "Jehová es mi fortaleza y mi escudo; En él confió mi corazón, y fui ayudado, Por lo que se gozó mi corazón, Y con mi cántico le alabaré.",
+      "verse": 7,
+      "start_ms": 44012,
+      "end_ms": 52999,
+      "duration_ms": 8987
+    },
+    {
+      "word": "Jehová es la fortaleza de su pueblo, Y el refugio salvador de su ungido.",
+      "verse": 8,
+      "start_ms": 53000,
+      "end_ms": 58000,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Salva a tu pueblo, y bendice a tu heredad; Y pastoréales y susténtales para siempre.",
+      "verse": 9,
+      "start_ms": 58000,
+      "end_ms": 63862,
+      "duration_ms": 5862
+    }
+  ]
+}

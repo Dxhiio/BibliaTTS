@@ -1,0 +1,943 @@
+{
+  "book": "1SA",
+  "chapter": 17,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 58,
+  "word_count": 75,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 142,
+      "text": "Los filisteos juntaron sus ejércitos para la guerra, y se congregaron en Soco, que es de Judá, y acamparon entre Soco y Azeca, en Efes-damim."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 142,
+      "char_end": 280,
+      "text": "También Saúl y los hombres de Israel se juntaron, y acamparon en el valle de Ela, y se pusieron en orden de batalla contra los filisteos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 280,
+      "char_end": 401,
+      "text": "Y los filisteos estaban sobre un monte a un lado, e Israel estaba sobre otro monte al otro lado, y el valle entre ellos."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 401,
+      "char_end": 536,
+      "text": "Salió entonces del campamento de los filisteos un paladín, el cual se llamaba Goliat, de Gat, y tenía de altura seis codos y un palmo."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 536,
+      "char_end": 659,
+      "text": "Y traía un casco de bronce en su cabeza, y llevaba una cota de malla; y era el peso de la cota cinco mil siclos de bronce."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 659,
+      "char_end": 741,
+      "text": "Sobre sus piernas traía grebas de bronce, y jabalina de bronce entre sus hombros."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 741,
+      "char_end": 884,
+      "text": "El asta de su lanza era como un rodillo de telar, y tenía el hierro de su lanza seiscientos siclos de hierro; e iba su escudero delante de él."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 884,
+      "char_end": 1109,
+      "text": "Y se paró y dio voces a los escuadrones de Israel, diciéndoles: ¿Para qué os habéis puesto en orden de batalla? ¿No soy yo el filisteo, y vosotros los siervos de Saúl? Escoged de entre vosotros un hombre que venga contra mí."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1109,
+      "char_end": 1282,
+      "text": "Si él pudiere pelear conmigo, y me venciere, nosotros seremos vuestros siervos; y si yo pudiere más que él, y lo venciere, vosotros seréis nuestros siervos y nos serviréis."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1282,
+      "char_end": 1384,
+      "text": "Y añadió el filisteo: Hoy yo he desafiado al campamento de Israel; dadme un hombre que pelee conmigo."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1384,
+      "char_end": 1474,
+      "text": "Oyendo Saúl y todo Israel estas palabras del filisteo, se turbaron y tuvieron gran miedo."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1474,
+      "char_end": 1660,
+      "text": "Y David era hijo de aquel hombre efrateo de Belén de Judá, cuyo nombre era Isaí, el cual tenía ocho hijos; y en el tiempo de Saúl este hombre era viejo y de gran edad entre los hombres."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1660,
+      "char_end": 1863,
+      "text": "Y los tres hijos mayores de Isaí habían ido para seguir a Saúl a la guerra. Y los nombres de sus tres hijos que habían ido a la guerra eran: Eliab el primogénito, el segundo Abinadab, y el tercero Sama;"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1863,
+      "char_end": 1927,
+      "text": "y David era el menor. Siguieron, pues, los tres mayores a Saúl."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1927,
+      "char_end": 2022,
+      "text": "Pero David había ido y vuelto, dejando a Saúl, para apacentar las ovejas de su padre en Belén."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2022,
+      "char_end": 2117,
+      "text": "Venía, pues, aquel filisteo por la mañana y por la tarde, y así lo hizo durante cuarenta días."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2117,
+      "char_end": 2272,
+      "text": "Y dijo Isaí a David su hijo: Toma ahora para tus hermanos un efa de este grano tostado, y estos diez panes, y llévalo pronto al campamento a tus hermanos."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2272,
+      "char_end": 2396,
+      "text": "Y estos diez quesos de leche los llevarás al jefe de los mil; y mira si tus hermanos están buenos, y toma prendas de ellos."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2396,
+      "char_end": 2492,
+      "text": "Y Saúl y ellos y todos los de Israel estaban en el valle de Ela, peleando contra los filisteos."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2492,
+      "char_end": 2717,
+      "text": "Se levantó, pues, David de mañana, y dejando las ovejas al cuidado de un guarda, se fue con su carga como Isaí le había mandado; y llegó al campamento cuando el ejército salía en orden de batalla, y daba el grito de combate."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2717,
+      "char_end": 2803,
+      "text": "Y se pusieron en orden de batalla Israel y los filisteos, ejército frente a ejército."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2803,
+      "char_end": 2950,
+      "text": "Entonces David dejó su carga en mano del que guardaba el bagaje, y corrió al ejército; y cuando llegó, preguntó por sus hermanos, si estaban bien."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2950,
+      "char_end": 3184,
+      "text": "Mientras él hablaba con ellos, he aquí que aquel paladín que se ponía en medio de los dos campamentos, que se llamaba Goliat, el filisteo de Gat, salió de entre las filas de los filisteos y habló las mismas palabras, y las oyó David."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3184,
+      "char_end": 3281,
+      "text": "Y todos los varones de Israel que veían aquel hombre huían de su presencia, y tenían gran temor."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3281,
+      "char_end": 3538,
+      "text": "Y cada uno de los de Israel decía: ¿No habéis visto aquel hombre que ha salido? él se adelanta para provocar a Israel. Al que le venciere, el rey le enriquecerá con grandes riquezas, y le dará su hija, y eximirá de tributos a la casa de su padre en Israel."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3538,
+      "char_end": 3782,
+      "text": "Entonces habló David a los que estaban junto a él, diciendo: ¿Qué harán al hombre que venciere a este filisteo, y quitare el oprobio de Israel? Porque ¿quién es este filisteo incircunciso, para que provoque a los escuadrones del Dios viviente?"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3782,
+      "char_end": 3877,
+      "text": "Y el pueblo le respondió las mismas palabras, diciendo: Así se hará al hombre que le venciere."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3877,
+      "char_end": 4157,
+      "text": "Y oyéndole hablar Eliab su hermano mayor con aquellos hombres, se encendió en ira contra David y dijo: ¿Para qué has descendido acá? ¿y a quién has dejado aquellas pocas ovejas en el desierto? Yo conozco tu soberbia y la malicia de tu corazón, que para ver la batalla has venido."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 4157,
+      "char_end": 4223,
+      "text": "David respondió: ¿Qué he hecho yo ahora? ¿No es esto mero hablar?"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4223,
+      "char_end": 4330,
+      "text": "Y apartándose de él hacia otros, preguntó de igual manera; y le dio el pueblo la misma respuesta de antes."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4330,
+      "char_end": 4433,
+      "text": "Fueron oídas las palabras que David había dicho, y las refirieron delante de Saúl; y él lo hizo venir."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4433,
+      "char_end": 4548,
+      "text": "Y dijo David a Saúl: No desmaye el corazón de ninguno a causa de él; tu siervo irá y peleará contra este filisteo."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4548,
+      "char_end": 4695,
+      "text": "Dijo Saúl a David: No podrás tú ir contra aquel filisteo, para pelear con él; porque tú eres muchacho, y él un hombre de guerra desde su juventud."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4695,
+      "char_end": 4838,
+      "text": "David respondió a Saúl: Tu siervo era pastor de las ovejas de su padre; y cuando venía un león, o un oso, y tomaba algún cordero de la manada,"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4838,
+      "char_end": 4979,
+      "text": "salía yo tras él, y lo hería, y lo libraba de su boca; y si se levantaba contra mí, yo le echaba mano de la quijada, y lo hería y lo mataba."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4979,
+      "char_end": 5127,
+      "text": "Fuese león, fuese oso, tu siervo lo mataba; y este filisteo incircunciso será como uno de ellos, porque ha provocado al ejército del Dios viviente."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 5127,
+      "char_end": 5314,
+      "text": "Añadió David: Jehová, que me ha librado de las garras del león y de las garras del oso, él también me librará de la mano de este filisteo. Y dijo Saúl a David: Ve, y Jehová esté contigo."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 5314,
+      "char_end": 5415,
+      "text": "Y Saúl vistió a David con sus ropas, y puso sobre su cabeza un casco de bronce, y le armó de coraza."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 5415,
+      "char_end": 5622,
+      "text": "Y ciñó David su espada sobre sus vestidos, y probó a andar, porque nunca había hecho la prueba. Y dijo David a Saúl: Yo no puedo andar con esto, porque nunca lo practiqué. Y David echó de sí aquellas cosas."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 5622,
+      "char_end": 5805,
+      "text": "Y tomó su cayado en su mano, y escogió cinco piedras lisas del arroyo, y las puso en el saco pastoril, en el zurrón que traía, y tomó su honda en su mano, y se fue hacia el filisteo."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 5805,
+      "char_end": 5885,
+      "text": "Y el filisteo venía andando y acercándose a David, y su escudero delante de él."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 5885,
+      "char_end": 5995,
+      "text": "Y cuando el filisteo miró y vio a David, le tuvo en poco; porque era muchacho, y rubio, y de hermoso parecer."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 5995,
+      "char_end": 6104,
+      "text": "Y dijo el filisteo a David: ¿Soy yo perro, para que vengas a mí con palos? Y maldijo a David por sus dioses."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 6104,
+      "char_end": 6210,
+      "text": "Dijo luego el filisteo a David: Ven a mí, y daré tu carne a las aves del cielo y a las bestias del campo."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 6210,
+      "char_end": 6412,
+      "text": "Entonces dijo David al filisteo: Tú vienes a mí con espada y lanza y jabalina; mas yo vengo a ti en el nombre de Jehová de los ejércitos, el Dios de los escuadrones de Israel, a quien tú has provocado."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 6412,
+      "char_end": 6627,
+      "text": "Jehová te entregará hoy en mi mano, y yo te venceré, y te cortaré la cabeza, y daré hoy los cuerpos de los filisteos a las aves del cielo y a las bestias de la tierra; y toda la tierra sabrá que hay Dios en Israel."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 6627,
+      "char_end": 6771,
+      "text": "Y sabrá toda esta congregación que Jehová no salva con espada y con lanza; porque de Jehová es la batalla, y él os entregará en nuestras manos."
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 6771,
+      "char_end": 6934,
+      "text": "Y aconteció que cuando el filisteo se levantó y echó a andar para ir al encuentro de David, David se dio prisa, y corrió a la línea de batalla contra el filisteo."
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 6934,
+      "char_end": 7129,
+      "text": "Y metiendo David su mano en la bolsa, tomó de allí una piedra, y la tiró con la honda, e hirió al filisteo en la frente; y la piedra quedó clavada en la frente, y cayó sobre su rostro en tierra."
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 7129,
+      "char_end": 7244,
+      "text": "Así venció David al filisteo con honda y piedra; e hirió al filisteo y lo mató, sin tener David espada en su mano."
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 7244,
+      "char_end": 7456,
+      "text": "Entonces corrió David y se puso sobre el filisteo; y tomando la espada de él y sacándola de su vaina, lo acabó de matar, y le cortó con ella la cabeza. Y cuando los filisteos vieron a su paladín muerto, huyeron."
+    },
+    {
+      "verse": 52,
+      "label": "52",
+      "char_start": 7456,
+      "char_end": 7678,
+      "text": "Levantándose luego los de Israel y los de Judá, gritaron, y siguieron a los filisteos hasta llegar al valle, y hasta las puertas de Ecrón. Y cayeron los heridos de los filisteos por el camino de Saaraim hasta Gat y Ecrón."
+    },
+    {
+      "verse": 53,
+      "label": "53",
+      "char_start": 7678,
+      "char_end": 7767,
+      "text": "Y volvieron los hijos de Israel de seguir tras los filisteos, y saquearon su campamento."
+    },
+    {
+      "verse": 54,
+      "label": "54",
+      "char_start": 7767,
+      "char_end": 7871,
+      "text": "Y David tomó la cabeza del filisteo y la trajo a Jerusalén, pero las armas de él las puso en su tienda."
+    },
+    {
+      "verse": 55,
+      "label": "55",
+      "char_start": 7871,
+      "char_end": 8028,
+      "text": "Y cuando Saúl vio a David que salía a encontrarse con el filisteo, dijo a Abner general del ejército: Abner, ¿de quién es hijo ese joven? Y Abner respondió:"
+    },
+    {
+      "verse": 56,
+      "label": "56",
+      "char_start": 8028,
+      "char_end": 8116,
+      "text": "Vive tu alma, oh rey, que no lo sé. Y el rey dijo: Pregunta de quién es hijo ese joven."
+    },
+    {
+      "verse": 57,
+      "label": "57",
+      "char_start": 8116,
+      "char_end": 8252,
+      "text": "Y cuando David volvía de matar al filisteo, Abner lo tomó y lo llevó delante de Saúl, teniendo David la cabeza del filisteo en su mano."
+    },
+    {
+      "verse": 58,
+      "label": "58",
+      "char_start": 8252,
+      "char_end": 8358,
+      "text": "Y le dijo Saúl: Muchacho, ¿de quién eres hijo? Y David respondió: Yo soy hijo de tu siervo Isaí de Belén."
+    }
+  ],
+  "words": [
+    {
+      "word": "Los filisteos juntaron sus ejércitos para la guerra, y se congregaron en Soco, que es de Judá, y acamparon entre Soco y Azeca, en Efes-damim.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 9337,
+      "duration_ms": 9237
+    },
+    {
+      "word": "También Saúl y los hombres de Israel se juntaron, y acamparon en el valle de Ela, y se pusieron en orden de batalla contra los filisteos.",
+      "verse": 2,
+      "start_ms": 9287,
+      "end_ms": 17624,
+      "duration_ms": 8337
+    },
+    {
+      "word": "Y los filisteos estaban sobre un monte a un lado, e Israel estaba sobre otro monte al otro lado, y el valle entre ellos.",
+      "verse": 3,
+      "start_ms": 17625,
+      "end_ms": 25587,
+      "duration_ms": 7962
+    },
+    {
+      "word": "Salió entonces del campamento de los filisteos un paladín, el cual se llamaba Goliat, de Gat, y tenía de altura seis codos y un palmo.",
+      "verse": 4,
+      "start_ms": 25587,
+      "end_ms": 34149,
+      "duration_ms": 8562
+    },
+    {
+      "word": "Y traía un casco de bronce en su cabeza, y llevaba una cota de malla; y era el peso de la cota cinco mil siclos de bronce.",
+      "verse": 5,
+      "start_ms": 34150,
+      "end_ms": 41887,
+      "duration_ms": 7737
+    },
+    {
+      "word": "Sobre sus piernas traía grebas de bronce, y jabalina de bronce entre sus hombros.",
+      "verse": 6,
+      "start_ms": 41887,
+      "end_ms": 47412,
+      "duration_ms": 5525
+    },
+    {
+      "word": "El asta de su lanza era como un rodillo de telar, y tenía el hierro de su lanza seiscientos siclos de hierro; e iba su escudero delante de él.",
+      "verse": 7,
+      "start_ms": 47412,
+      "end_ms": 56212,
+      "duration_ms": 8800
+    },
+    {
+      "word": "Y se paró y dio voces a los escuadrones de Israel, diciéndoles: ¿Para qué os habéis puesto en orden de batalla?",
+      "verse": 8,
+      "start_ms": 56212,
+      "end_ms": 63474,
+      "duration_ms": 7262
+    },
+    {
+      "word": "No soy yo el filisteo, y vosotros los siervos de Saúl?",
+      "verse": 8,
+      "start_ms": 63475,
+      "end_ms": 67675,
+      "duration_ms": 4200
+    },
+    {
+      "word": "Escoged de entre vosotros un hombre que venga contra mí.",
+      "verse": 8,
+      "start_ms": 67675,
+      "end_ms": 71412,
+      "duration_ms": 3737
+    },
+    {
+      "word": "Si él pudiere pelear conmigo, y me venciere, nosotros seremos vuestros siervos; y si yo pudiere más que él, y lo venciere, vosotros seréis nuestros siervos y nos serviréis.",
+      "verse": 9,
+      "start_ms": 71412,
+      "end_ms": 82174,
+      "duration_ms": 10762
+    },
+    {
+      "word": "Y añadió el filisteo: Hoy yo he desafiado al campamento de Israel; dadme un hombre que pelee conmigo.",
+      "verse": 10,
+      "start_ms": 82175,
+      "end_ms": 89200,
+      "duration_ms": 7025
+    },
+    {
+      "word": "Oyendo Saúl y todo Israel estas palabras del filisteo, se turbaron y tuvieron gran miedo.",
+      "verse": 11,
+      "start_ms": 89200,
+      "end_ms": 95175,
+      "duration_ms": 5975
+    },
+    {
+      "word": "Y David era hijo de aquel hombre efrateo de Belén de Judá, cuyo nombre era Isaí, el cual tenía ocho hijos; y en el tiempo de Saúl este hombre era viejo y de gran edad entre los hombres.",
+      "verse": 12,
+      "start_ms": 95175,
+      "end_ms": 106412,
+      "duration_ms": 11237
+    },
+    {
+      "word": "Y los tres hijos mayores de Isaí habían ido para seguir a Saúl a la guerra.",
+      "verse": 13,
+      "start_ms": 106412,
+      "end_ms": 111149,
+      "duration_ms": 4737
+    },
+    {
+      "word": "Y los nombres de sus tres hijos que habían ido a la guerra eran: Eliab el primogénito, el segundo Abinadab, y el tercero Sama; y David era el menor.",
+      "verse": 13,
+      "start_ms": 111150,
+      "end_ms": 120512,
+      "duration_ms": 9362
+    },
+    {
+      "word": "Siguieron, pues, los tres mayores a Saúl.",
+      "verse": 14,
+      "start_ms": 120512,
+      "end_ms": 124237,
+      "duration_ms": 3725
+    },
+    {
+      "word": "Pero David había ido y vuelto, dejando a Saúl, para apacentar las ovejas de su padre en Belén.",
+      "verse": 15,
+      "start_ms": 124237,
+      "end_ms": 130599,
+      "duration_ms": 6362
+    },
+    {
+      "word": "Venía, pues, aquel filisteo por la mañana y por la tarde, y así lo hizo durante cuarenta días.",
+      "verse": 16,
+      "start_ms": 130600,
+      "end_ms": 137712,
+      "duration_ms": 7112
+    },
+    {
+      "word": "Y dijo Isaí a David su hijo: Toma ahora para tus hermanos un efa de este grano tostado, y estos diez panes, y llévalo pronto al campamento a tus hermanos.",
+      "verse": 17,
+      "start_ms": 137712,
+      "end_ms": 147674,
+      "duration_ms": 9962
+    },
+    {
+      "word": "Y estos diez quesos de leche los llevarás al jefe de los mil; y mira si tus hermanos están buenos, y toma prendas de ellos.",
+      "verse": 18,
+      "start_ms": 147675,
+      "end_ms": 155412,
+      "duration_ms": 7737
+    },
+    {
+      "word": "Y Saúl y ellos y todos los de Israel estaban en el valle de Ela, peleando contra los filisteos.",
+      "verse": 19,
+      "start_ms": 155412,
+      "end_ms": 161849,
+      "duration_ms": 6437
+    },
+    {
+      "word": "Se levantó, pues, David de mañana, y dejando las ovejas al cuidado de un guarda, se fue con su carga como Isaí le había mandado; y llegó al campamento cuando el ejército salía en orden de batalla, y daba el grito de combate.",
+      "verse": 20,
+      "start_ms": 161850,
+      "end_ms": 175600,
+      "duration_ms": 13750
+    },
+    {
+      "word": "Y se pusieron en orden de batalla Israel y los filisteos, ejército frente a ejército.",
+      "verse": 21,
+      "start_ms": 175600,
+      "end_ms": 181350,
+      "duration_ms": 5750
+    },
+    {
+      "word": "Entonces David dejó su carga en mano del que guardaba el bagaje, y corrió al ejército; y cuando llegó, preguntó por sus hermanos, si estaban bien.",
+      "verse": 22,
+      "start_ms": 181350,
+      "end_ms": 190537,
+      "duration_ms": 9187
+    },
+    {
+      "word": "Mientras él hablaba con ellos, he aquí que aquel paladín que se ponía en medio de los dos campamentos, que se llamaba Goliat, el filisteo de Gat, salió de entre las filas de los filisteos y habló las mismas palabras, y las oyó David.",
+      "verse": 23,
+      "start_ms": 190537,
+      "end_ms": 204574,
+      "duration_ms": 14037
+    },
+    {
+      "word": "Y todos los varones de Israel que veían aquel hombre huían de su presencia, y tenían gran temor.",
+      "verse": 24,
+      "start_ms": 204575,
+      "end_ms": 210925,
+      "duration_ms": 6350
+    },
+    {
+      "word": "Y cada uno de los de Israel decía: ¿No habéis visto aquel hombre que ha salido? él se adelanta para provocar a Israel.",
+      "verse": 25,
+      "start_ms": 210925,
+      "end_ms": 218487,
+      "duration_ms": 7562
+    },
+    {
+      "word": "Al que le venciere, el rey le enriquecerá con grandes riquezas, y le dará su hija, y eximirá de tributos a la casa de su padre en Israel.",
+      "verse": 25,
+      "start_ms": 218487,
+      "end_ms": 227099,
+      "duration_ms": 8612
+    },
+    {
+      "word": "Entonces habló David a los que estaban junto a él, diciendo: ¿Qué harán al hombre que venciere a este filisteo, y quitare el oprobio de Israel?",
+      "verse": 26,
+      "start_ms": 227100,
+      "end_ms": 235825,
+      "duration_ms": 8725
+    },
+    {
+      "word": "Porque ¿quién es este filisteo incircunciso, para que provoque a los escuadrones del Dios viviente?",
+      "verse": 26,
+      "start_ms": 235825,
+      "end_ms": 241900,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Y el pueblo le respondió las mismas palabras, diciendo: Así se hará al hombre que le venciere.",
+      "verse": 27,
+      "start_ms": 241900,
+      "end_ms": 248100,
+      "duration_ms": 6200
+    },
+    {
+      "word": "Y oyéndole hablar Eliab su hermano mayor con aquellos hombres, se encendió en ira contra David y dijo: ¿Para qué has",
+      "verse": 28,
+      "start_ms": 248100,
+      "end_ms": 255087,
+      "duration_ms": 6987
+    },
+    {
+      "word": "descendido acá?",
+      "verse": 28,
+      "start_ms": 255244,
+      "end_ms": 257119,
+      "duration_ms": 1875
+    },
+    {
+      "word": "y a quién has dejado aquellas pocas ovejas en el desierto?",
+      "verse": 28,
+      "start_ms": 257069,
+      "end_ms": 261031,
+      "duration_ms": 3962
+    },
+    {
+      "word": "Yo conozco tu soberbia y la malicia de tu corazón, que para ver la batalla has venido.",
+      "verse": 28,
+      "start_ms": 261031,
+      "end_ms": 266656,
+      "duration_ms": 5625
+    },
+    {
+      "word": "David respondió: ¿Qué he hecho yo ahora?",
+      "verse": 29,
+      "start_ms": 266656,
+      "end_ms": 270306,
+      "duration_ms": 3650
+    },
+    {
+      "word": "No es esto mero hablar?",
+      "verse": 29,
+      "start_ms": 270306,
+      "end_ms": 272493,
+      "duration_ms": 2187
+    },
+    {
+      "word": "Y apartándose de él hacia otros, preguntó de igual manera; y le dio el pueblo la misma respuesta de antes.",
+      "verse": 30,
+      "start_ms": 272494,
+      "end_ms": 279756,
+      "duration_ms": 7262
+    },
+    {
+      "word": "Fueron oídas las palabras que David había dicho, y las refirieron delante de Saúl; y él lo hizo venir.",
+      "verse": 31,
+      "start_ms": 279756,
+      "end_ms": 286368,
+      "duration_ms": 6612
+    },
+    {
+      "word": "Y dijo David a Saúl: No desmaye el corazón de ninguno a causa de él; tu siervo irá y peleará contra este filisteo.",
+      "verse": 32,
+      "start_ms": 286369,
+      "end_ms": 294244,
+      "duration_ms": 7875
+    },
+    {
+      "word": "Dijo Saúl a David: No podrás tú ir contra aquel filisteo, para pelear con él; porque tú eres muchacho, y él un hombre de guerra desde su juventud.",
+      "verse": 33,
+      "start_ms": 294244,
+      "end_ms": 303844,
+      "duration_ms": 9600
+    },
+    {
+      "word": "David respondió a Saúl: Tu siervo era pastor de las ovejas de su padre; y cuando venía un león, o un oso, y tomaba algún cordero de la manada, salía yo tras él, y lo hería, y lo libraba de su boca; y si se levantaba contra mí, yo le echaba mano de la quijada, y lo hería y lo mataba.",
+      "verse": 34,
+      "start_ms": 303844,
+      "end_ms": 321681,
+      "duration_ms": 17837
+    },
+    {
+      "word": "Fuese león, fuese oso, tu siervo lo mataba; y este filisteo incircunciso será como uno de ellos, porque ha provocado al ejército del Dios viviente.",
+      "verse": 36,
+      "start_ms": 321681,
+      "end_ms": 331643,
+      "duration_ms": 9962
+    },
+    {
+      "word": "Añadió David: Jehová, que me ha librado de las garras del león y de las garras del oso, él también me librará de la mano de este filisteo.",
+      "verse": 37,
+      "start_ms": 331644,
+      "end_ms": 340169,
+      "duration_ms": 8525
+    },
+    {
+      "word": "Y dijo Saúl a David: Ve, y Jehová esté contigo.",
+      "verse": 37,
+      "start_ms": 340169,
+      "end_ms": 344294,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Y Saúl vistió a David con sus ropas, y puso sobre su cabeza un casco de bronce, y le armó de coraza.",
+      "verse": 38,
+      "start_ms": 344294,
+      "end_ms": 351044,
+      "duration_ms": 6750
+    },
+    {
+      "word": "Y ciñó David su espada sobre sus vestidos, y probó a andar, porque nunca había hecho la prueba.",
+      "verse": 39,
+      "start_ms": 351044,
+      "end_ms": 357431,
+      "duration_ms": 6387
+    },
+    {
+      "word": "Y dijo David a Saúl: Yo no puedo andar con esto, porque nunca lo practiqué.",
+      "verse": 39,
+      "start_ms": 357431,
+      "end_ms": 362868,
+      "duration_ms": 5437
+    },
+    {
+      "word": "Y David echó de sí aquellas cosas.",
+      "verse": 39,
+      "start_ms": 362869,
+      "end_ms": 365844,
+      "duration_ms": 2975
+    },
+    {
+      "word": "Y tomó su cayado en su mano, y escogió cinco piedras lisas del arroyo, y las puso en el saco pastoril, en el zurrón que traía, y tomó su honda en su mano, y se fue hacia el filisteo.",
+      "verse": 40,
+      "start_ms": 365844,
+      "end_ms": 377519,
+      "duration_ms": 11675
+    },
+    {
+      "word": "Y el filisteo venía andando y acercándose a David, y su escudero delante de él.",
+      "verse": 41,
+      "start_ms": 377519,
+      "end_ms": 383094,
+      "duration_ms": 5575
+    },
+    {
+      "word": "Y cuando el filisteo miró y vio a David, le tuvo en poco; porque era muchacho, y rubio, y de hermoso parecer.",
+      "verse": 42,
+      "start_ms": 383094,
+      "end_ms": 390881,
+      "duration_ms": 7787
+    },
+    {
+      "word": "Y dijo el filisteo a David: ¿Soy yo perro, para que vengas a mí con palos?",
+      "verse": 43,
+      "start_ms": 390881,
+      "end_ms": 396143,
+      "duration_ms": 5262
+    },
+    {
+      "word": "Y maldijo a David por sus dioses.",
+      "verse": 43,
+      "start_ms": 396144,
+      "end_ms": 399031,
+      "duration_ms": 2887
+    },
+    {
+      "word": "Dijo luego el filisteo a David: Ven a mí, y daré tu carne a las aves del cielo y a las bestias del campo.",
+      "verse": 44,
+      "start_ms": 399031,
+      "end_ms": 405881,
+      "duration_ms": 6850
+    },
+    {
+      "word": "Entonces dijo David al filisteo: Tú vienes a mí con espada y lanza y jabalina; mas yo vengo a ti en el nombre de Jehová de los ejércitos, el Dios de los escuadrones de Israel, a quien tú has provocado.",
+      "verse": 45,
+      "start_ms": 405881,
+      "end_ms": 418006,
+      "duration_ms": 12125
+    },
+    {
+      "word": "Jehová te entregará hoy en mi mano, y yo te venceré, y te cortaré la cabeza, y daré hoy los cuerpos de los filisteos a las aves del cielo y a las bestias de la tierra; y toda la tierra sabrá que hay Dios en Israel.",
+      "verse": 46,
+      "start_ms": 418006,
+      "end_ms": 430393,
+      "duration_ms": 12387
+    },
+    {
+      "word": "Y sabrá toda esta congregación que Jehová no salva con espada y con lanza; porque de Jehová es la batalla, y él os entregará en nuestras manos.",
+      "verse": 47,
+      "start_ms": 430394,
+      "end_ms": 438806,
+      "duration_ms": 8412
+    },
+    {
+      "word": "Y aconteció que cuando el filisteo se levantó y echó a andar para ir al encuentro de David, David se dio prisa, y corrió a la línea de batalla contra el filisteo.",
+      "verse": 48,
+      "start_ms": 438806,
+      "end_ms": 448231,
+      "duration_ms": 9425
+    },
+    {
+      "word": "Y metiendo David su mano en la bolsa, tomó de allí una piedra, y la tiró con la honda, e hirió al filisteo en la frente; y la piedra quedó clavada en la frente, y cayó sobre su rostro en tierra.",
+      "verse": 49,
+      "start_ms": 448231,
+      "end_ms": 459943,
+      "duration_ms": 11712
+    },
+    {
+      "word": "Así venció David al filisteo con honda y piedra; e hirió al filisteo y lo mató, sin tener David espada en su mano.",
+      "verse": 50,
+      "start_ms": 459944,
+      "end_ms": 467619,
+      "duration_ms": 7675
+    },
+    {
+      "word": "Entonces corrió David y se puso sobre el filisteo; y tomando la espada de él y sacándola de su vaina, lo acabó de matar, y le cortó con ella la cabeza.",
+      "verse": 51,
+      "start_ms": 467619,
+      "end_ms": 477006,
+      "duration_ms": 9387
+    },
+    {
+      "word": "Y cuando los filisteos vieron a su paladín muerto, huyeron.",
+      "verse": 51,
+      "start_ms": 477006,
+      "end_ms": 481268,
+      "duration_ms": 4262
+    },
+    {
+      "word": "Levantándose luego los de Israel y los de Judá, gritaron, y siguieron a los filisteos hasta llegar al valle, y hasta las puertas de Ecrón.",
+      "verse": 52,
+      "start_ms": 481269,
+      "end_ms": 489731,
+      "duration_ms": 8462
+    },
+    {
+      "word": "Y cayeron los heridos de los filisteos por el camino de Saaraim hasta Gat y Ecrón.",
+      "verse": 52,
+      "start_ms": 489731,
+      "end_ms": 494818,
+      "duration_ms": 5087
+    },
+    {
+      "word": "Y volvieron los hijos de Israel de seguir tras los filisteos, y saquearon su campamento.",
+      "verse": 53,
+      "start_ms": 494819,
+      "end_ms": 500444,
+      "duration_ms": 5625
+    },
+    {
+      "word": "Y David tomó la cabeza del filisteo y la trajo a Jerusalén, pero las armas de él las puso en su tienda.",
+      "verse": 54,
+      "start_ms": 500444,
+      "end_ms": 507081,
+      "duration_ms": 6637
+    },
+    {
+      "word": "Y cuando Saúl vio a David que salía a encontrarse con el filisteo, dijo a Abner general del",
+      "verse": 55,
+      "start_ms": 507081,
+      "end_ms": 513231,
+      "duration_ms": 6150
+    },
+    {
+      "word": "ejército: Abner, ¿de quién es hijo ese joven?",
+      "verse": 55,
+      "start_ms": 513388,
+      "end_ms": 517475,
+      "duration_ms": 4087
+    },
+    {
+      "word": "Y Abner respondió: Vive tu alma, oh rey, que no lo sé.",
+      "verse": 55,
+      "start_ms": 517425,
+      "end_ms": 522025,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Y el rey dijo: Pregunta de quién es hijo ese joven.",
+      "verse": 56,
+      "start_ms": 522025,
+      "end_ms": 526187,
+      "duration_ms": 4162
+    },
+    {
+      "word": "Y cuando David volvía de matar al filisteo, Abner lo tomó y lo llevó delante de Saúl, teniendo David la cabeza del filisteo en su mano.",
+      "verse": 57,
+      "start_ms": 526188,
+      "end_ms": 534688,
+      "duration_ms": 8500
+    },
+    {
+      "word": "Y le dijo Saúl: Muchacho, ¿de quién eres hijo?",
+      "verse": 58,
+      "start_ms": 534688,
+      "end_ms": 538600,
+      "duration_ms": 3912
+    },
+    {
+      "word": "Y David respondió: Yo soy hijo de tu siervo Isaí de Belén.",
+      "verse": 58,
+      "start_ms": 538600,
+      "end_ms": 543187,
+      "duration_ms": 4587
+    }
+  ]
+}

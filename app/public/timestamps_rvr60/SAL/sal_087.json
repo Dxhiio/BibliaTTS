@@ -1,0 +1,110 @@
+{
+  "book": "SAL",
+  "chapter": 87,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 7,
+  "word_count": 7,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 36,
+      "text": "Su cimiento está en el monte santo."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 36,
+      "char_end": 103,
+      "text": "Ama Jehová las puertas de Sion Más que todas las moradas de Jacob."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 103,
+      "char_end": 161,
+      "text": "Cosas gloriosas se han dicho de ti, Ciudad de Dios. Selah"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 161,
+      "char_end": 281,
+      "text": "Yo me acordaré de Rahab y de Babilonia entre los que me conocen; He aquí Filistea y Tiro, con Etiopía; éste nació allá."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 281,
+      "char_end": 369,
+      "text": "Y de Sion se dirá: éste y aquél han nacido en ella, Y el Altísimo mismo la establecerá."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 369,
+      "char_end": 435,
+      "text": "Jehová contará al inscribir a los pueblos: éste nació allí. Selah"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 435,
+      "char_end": 504,
+      "text": "Y cantores y tañedores en ella dirán: Todas mis fuentes están en ti."
+    }
+  ],
+  "words": [
+    {
+      "word": "Su cimiento está en el monte santo.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 2925,
+      "duration_ms": 2825
+    },
+    {
+      "word": "Ama Jehová las puertas de Sion Más que todas las moradas de Jacob.",
+      "verse": 2,
+      "start_ms": 2875,
+      "end_ms": 7075,
+      "duration_ms": 4200
+    },
+    {
+      "word": "Cosas gloriosas se han dicho de ti, Ciudad de Dios.",
+      "verse": 3,
+      "start_ms": 7075,
+      "end_ms": 11062,
+      "duration_ms": 3987
+    },
+    {
+      "word": "Selah Yo me acordaré de Rahab y de Babilonia entre los que me conocen; He aquí Filistea y Tiro, con Etiopía; éste nació allá.",
+      "verse": 3,
+      "start_ms": 11062,
+      "end_ms": 19399,
+      "duration_ms": 8337
+    },
+    {
+      "word": "Y de Sion se dirá: éste y aquél han nacido en ella, Y el Altísimo mismo la establecerá.",
+      "verse": 5,
+      "start_ms": 19400,
+      "end_ms": 25425,
+      "duration_ms": 6025
+    },
+    {
+      "word": "Jehová contará al inscribir a los pueblos: éste nació allí.",
+      "verse": 6,
+      "start_ms": 25425,
+      "end_ms": 29775,
+      "duration_ms": 4350
+    },
+    {
+      "word": "Selah Y cantores y tañedores en ella dirán: Todas mis fuentes están en ti.",
+      "verse": 6,
+      "start_ms": 29775,
+      "end_ms": 34900,
+      "duration_ms": 5125
+    }
+  ]
+}

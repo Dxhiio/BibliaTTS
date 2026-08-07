@@ -1,0 +1,110 @@
+{
+  "book": "JER",
+  "chapter": 47,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 7,
+  "word_count": 7,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 108,
+      "text": "Palabra de Jehová que vino al profeta Jeremías acerca de los filisteos, antes que Faraón destruyese a Gaza."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 108,
+      "char_end": 318,
+      "text": "Así ha dicho Jehová: He aquí que suben aguas del norte, y se harán torrente; inundarán la tierra y su plenitud, la ciudad y los moradores de ella; y los hombres clamarán, y lamentará todo morador de la tierra."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 318,
+      "char_end": 492,
+      "text": "Por el sonido de los cascos de sus caballos, por el alboroto de sus carros, por el estruendo de sus ruedas, los padres no cuidaron a los hijos por la debilidad de sus manos;"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 492,
+      "char_end": 698,
+      "text": "a causa del día que viene para destrucción de todos los filisteos, para destruir a Tiro y a Sidón todo aliado que les queda todavía; porque Jehová destruirá a los filisteos, al resto de la costa de Caftor."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 698,
+      "char_end": 786,
+      "text": "Gaza fue rapada, Ascalón ha perecido, y el resto de su valle; ¿hasta cuándo te sajarás?"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 786,
+      "char_end": 871,
+      "text": "Oh espada de Jehová, ¿hasta cuándo reposarás? Vuelve a tu vaina, reposa y sosiégate."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 871,
+      "char_end": 971,
+      "text": "¿Cómo reposarás? pues Jehová te ha enviado contra Ascalón, y contra la costa del mar, allí te puso."
+    }
+  ],
+  "words": [
+    {
+      "word": "Palabra de Jehová que vino al profeta Jeremías acerca de los filisteos, antes que Faraón destruyese a Gaza.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6950,
+      "duration_ms": 6850
+    },
+    {
+      "word": "Así ha dicho Jehová: He aquí que suben aguas del norte, y se harán torrente; inundarán la tierra y su plenitud, la ciudad y los moradores de ella; y los hombres clamarán, y lamentará todo morador de la tierra.",
+      "verse": 2,
+      "start_ms": 6900,
+      "end_ms": 19825,
+      "duration_ms": 12925
+    },
+    {
+      "word": "Por el sonido de los cascos de sus caballos, por el alboroto de sus carros, por el estruendo de sus ruedas, los padres no cuidaron a los hijos por la debilidad de sus manos; a causa del día que viene para destrucción de todos los filisteos, para destruir a Tiro y a Sidón todo aliado que les queda todavía; porque Jehová destruirá a los filisteos, al resto de la costa de Caftor.",
+      "verse": 3,
+      "start_ms": 19825,
+      "end_ms": 41587,
+      "duration_ms": 21762
+    },
+    {
+      "word": "Gaza fue rapada, Ascalón ha perecido, y el resto de su valle; ¿hasta cuándo te sajarás?",
+      "verse": 5,
+      "start_ms": 41587,
+      "end_ms": 47899,
+      "duration_ms": 6312
+    },
+    {
+      "word": "Oh espada de Jehová, ¿hasta cuándo reposarás?",
+      "verse": 6,
+      "start_ms": 47900,
+      "end_ms": 51462,
+      "duration_ms": 3562
+    },
+    {
+      "word": "Vuelve a tu vaina, reposa y sosiégate.",
+      "verse": 6,
+      "start_ms": 51462,
+      "end_ms": 54737,
+      "duration_ms": 3275
+    },
+    {
+      "word": "Cómo reposarás? pues Jehová te ha enviado contra Ascalón, y contra la costa del mar, allí te puso.",
+      "verse": 7,
+      "start_ms": 54737,
+      "end_ms": 61449,
+      "duration_ms": 6712
+    }
+  ]
+}

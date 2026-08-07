@@ -1,0 +1,355 @@
+{
+  "book": "LAM",
+  "chapter": 4,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 22,
+  "word_count": 27,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 157,
+      "text": "¡Cómo se ha ennegrecido el oro! ¡Cómo el buen oro ha perdido su brillo! Las piedras del santuario están esparcidas por las encrucijadas de todas las calles."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 157,
+      "char_end": 286,
+      "text": "Los hijos de Sion, preciados y estimados más que el oro puro, ¡Cómo son tenidos por vasijas de barro, obra de manos de alfarero!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 286,
+      "char_end": 411,
+      "text": "Aun los chacales dan la teta, y amamantan a sus cachorros; La hija de mi pueblo es cruel como los avestruces en el desierto."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 411,
+      "char_end": 536,
+      "text": "La lengua del niño de pecho se pegó a su paladar por la sed; Los pequeñuelos pidieron pan, y no hubo quien se lo repartiese."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 536,
+      "char_end": 662,
+      "text": "Los que comían delicadamente fueron asolados en las calles; Los que se criaron entre púrpura se abrazaron a los estercoleros."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 662,
+      "char_end": 820,
+      "text": "Porque se aumentó la iniquidad de la hija de mi pueblo más que el pecado de Sodoma, Que fue destruida en un momento, sin que acamparan contra ella compañías."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 820,
+      "char_end": 966,
+      "text": "Sus nobles fueron más puros que la nieve, más blancos que la leche; Más rubios eran sus cuerpos que el coral, su talle más hermoso que el zafiro."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 966,
+      "char_end": 1091,
+      "text": "Oscuro más que la negrura es su aspecto; no los conocen por las calles; Su piel está pegada a sus huesos, seca como un palo."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1091,
+      "char_end": 1235,
+      "text": "Más dichosos fueron los muertos a espada que los muertos por el hambre; Porque éstos murieron poco a poco por falta de los frutos de la tierra."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1235,
+      "char_end": 1384,
+      "text": "Las manos de mujeres piadosas cocieron a sus hijos; Sus propios hijos les sirvieron de comida en el día del quebrantamiento de la hija de mi pueblo."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1384,
+      "char_end": 1496,
+      "text": "Cumplió Jehová su enojo, derramó el ardor de su ira; Y encendió en Sion fuego que consumió hasta sus cimientos."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1496,
+      "char_end": 1642,
+      "text": "Nunca los reyes de la tierra, ni todos los que habitan en el mundo, Creyeron que el enemigo y el adversario entrara por las puertas de Jerusalén."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1642,
+      "char_end": 1782,
+      "text": "Es por causa de los pecados de sus profetas, y las maldades de sus sacerdotes, Quienes derramaron en medio de ella la sangre de los justos."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1782,
+      "char_end": 1900,
+      "text": "Titubearon como ciegos en las calles, fueron contaminados con sangre, De modo que no pudiesen tocarse sus vestiduras."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1900,
+      "char_end": 2051,
+      "text": "¡Apartaos! ¡Inmundos! les gritaban; ¡Apartaos, apartaos, no toquéis! Huyeron y fueron dispersados; se dijo entre las naciones: Nunca más morarán aquí."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2051,
+      "char_end": 2182,
+      "text": "La ira de Jehová los apartó, no los mirará más; No respetaron la presencia de los sacerdotes, ni tuvieron compasión de los viejos."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2182,
+      "char_end": 2318,
+      "text": "Aun han desfallecido nuestros ojos esperando en vano nuestro socorro; En nuestra esperanza aguardamos a una nación que no puede salvar."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2318,
+      "char_end": 2466,
+      "text": "Cazaron nuestros pasos, para que no anduviésemos por nuestras calles; Se acercó nuestro fin, se cumplieron nuestros días; porque llegó nuestro fin."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2466,
+      "char_end": 2610,
+      "text": "Ligeros fueron nuestros perseguidores más que las águilas del cielo; Sobre los montes nos persiguieron, en el desierto nos pusieron emboscadas."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2610,
+      "char_end": 2760,
+      "text": "El aliento de nuestras vidas, el ungido de Jehová, De quien habíamos dicho: A su sombra tendremos vida entre las naciones, fue apresado en sus lazos."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2760,
+      "char_end": 2884,
+      "text": "Gózate y alégrate, hija de Edom, la que habitas en tierra de Uz; Aun hasta ti llegará la copa; te embriagarás, y vomitarás."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2884,
+      "char_end": 3027,
+      "text": "Se ha cumplido tu castigo, oh hija de Sion; Nunca más te hará llevar cautiva. Castigará tu iniquidad, oh hija de Edom; Descubrirá tus pecados."
+    }
+  ],
+  "words": [
+    {
+      "word": "Cómo se ha ennegrecido el oro!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 2575,
+      "duration_ms": 2475
+    },
+    {
+      "word": "Cómo el buen oro ha perdido su brillo!",
+      "verse": 1,
+      "start_ms": 2525,
+      "end_ms": 5275,
+      "duration_ms": 2750
+    },
+    {
+      "word": "Las piedras del santuario están esparcidas por las encrucijadas de todas las calles.",
+      "verse": 1,
+      "start_ms": 5275,
+      "end_ms": 10475,
+      "duration_ms": 5200
+    },
+    {
+      "word": "Los hijos de Sion, preciados y estimados más que el oro puro, ¡Cómo son tenidos por vasijas de barro, obra de manos de alfarero!",
+      "verse": 2,
+      "start_ms": 10475,
+      "end_ms": 18600,
+      "duration_ms": 8125
+    },
+    {
+      "word": "Aun los chacales dan la teta, y amamantan a sus cachorros; La hija de mi pueblo es cruel como los avestruces en el desierto.",
+      "verse": 3,
+      "start_ms": 18600,
+      "end_ms": 26250,
+      "duration_ms": 7650
+    },
+    {
+      "word": "La lengua del niño de pecho se pegó a su paladar por la sed; Los pequeñuelos pidieron pan, y no hubo quien se lo repartiese.",
+      "verse": 4,
+      "start_ms": 26250,
+      "end_ms": 33762,
+      "duration_ms": 7512
+    },
+    {
+      "word": "Los que comían delicadamente fueron asolados en las calles; Los que se criaron entre púrpura se abrazaron a los estercoleros.",
+      "verse": 5,
+      "start_ms": 33762,
+      "end_ms": 41174,
+      "duration_ms": 7412
+    },
+    {
+      "word": "Porque se aumentó la iniquidad de la hija de mi pueblo más que el pecado de Sodoma, Que fue destruida en un momento, sin que acamparan contra ella compañías.",
+      "verse": 6,
+      "start_ms": 41175,
+      "end_ms": 50350,
+      "duration_ms": 9175
+    },
+    {
+      "word": "Sus nobles fueron más puros que la nieve, más blancos que la leche; Más rubios eran sus cuerpos que el coral, su talle más hermoso que el zafiro.",
+      "verse": 7,
+      "start_ms": 50350,
+      "end_ms": 59325,
+      "duration_ms": 8975
+    },
+    {
+      "word": "Oscuro más que la negrura es su aspecto; no los conocen por las calles; Su piel está pegada a sus huesos, seca como un palo.",
+      "verse": 8,
+      "start_ms": 59325,
+      "end_ms": 67525,
+      "duration_ms": 8200
+    },
+    {
+      "word": "Más dichosos fueron los muertos a espada que los muertos por el hambre; Porque éstos murieron poco a poco por falta de los frutos de la tierra.",
+      "verse": 9,
+      "start_ms": 67525,
+      "end_ms": 75225,
+      "duration_ms": 7700
+    },
+    {
+      "word": "Las manos de mujeres piadosas cocieron a sus hijos; Sus propios hijos les sirvieron de comida en el día del quebrantamiento de la hija de mi pueblo.",
+      "verse": 10,
+      "start_ms": 75225,
+      "end_ms": 83562,
+      "duration_ms": 8337
+    },
+    {
+      "word": "Cumplió Jehová su enojo, derramó el ardor de su ira; Y encendió en Sion fuego que consumió hasta sus cimientos.",
+      "verse": 11,
+      "start_ms": 83562,
+      "end_ms": 90799,
+      "duration_ms": 7237
+    },
+    {
+      "word": "Nunca los reyes de la tierra, ni todos los que habitan en el mundo, Creyeron que el enemigo y el adversario entrara por las puertas de Jerusalén.",
+      "verse": 12,
+      "start_ms": 90800,
+      "end_ms": 99200,
+      "duration_ms": 8400
+    },
+    {
+      "word": "Es por causa de los pecados de sus profetas, y las maldades de sus sacerdotes, Quienes derramaron en medio de ella la sangre de los justos.",
+      "verse": 13,
+      "start_ms": 99200,
+      "end_ms": 107750,
+      "duration_ms": 8550
+    },
+    {
+      "word": "Titubearon como ciegos en las calles, fueron contaminados con sangre, De modo que no pudiesen tocarse sus vestiduras.",
+      "verse": 14,
+      "start_ms": 107750,
+      "end_ms": 115150,
+      "duration_ms": 7400
+    },
+    {
+      "word": "Apartaos!",
+      "verse": 15,
+      "start_ms": 115150,
+      "end_ms": 116925,
+      "duration_ms": 1775
+    },
+    {
+      "word": "Inmundos! les gritaban; ¡Apartaos, apartaos, no toquéis!",
+      "verse": 15,
+      "start_ms": 116925,
+      "end_ms": 122287,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Huyeron y fueron dispersados; se dijo entre las naciones: Nunca más morarán aquí.",
+      "verse": 15,
+      "start_ms": 122287,
+      "end_ms": 128224,
+      "duration_ms": 5937
+    },
+    {
+      "word": "La ira de Jehová los apartó, no los mirará más; No respetaron la presencia de los sacerdotes, ni tuvieron compasión de los viejos.",
+      "verse": 16,
+      "start_ms": 128225,
+      "end_ms": 136712,
+      "duration_ms": 8487
+    },
+    {
+      "word": "Aun han desfallecido nuestros ojos esperando en vano nuestro socorro; En nuestra esperanza aguardamos a una nación que no puede salvar.",
+      "verse": 17,
+      "start_ms": 136712,
+      "end_ms": 144474,
+      "duration_ms": 7762
+    },
+    {
+      "word": "Cazaron nuestros pasos, para que no anduviésemos por nuestras calles; Se acercó nuestro fin, se cumplieron nuestros días; porque llegó nuestro fin.",
+      "verse": 18,
+      "start_ms": 144475,
+      "end_ms": 153675,
+      "duration_ms": 9200
+    },
+    {
+      "word": "Ligeros fueron nuestros perseguidores más que las águilas del cielo; Sobre los montes nos persiguieron, en el desierto nos pusieron emboscadas.",
+      "verse": 19,
+      "start_ms": 153675,
+      "end_ms": 161950,
+      "duration_ms": 8275
+    },
+    {
+      "word": "El aliento de nuestras vidas, el ungido de Jehová, De quien habíamos dicho: A su sombra tendremos vida entre las naciones, fue apresado en sus lazos.",
+      "verse": 20,
+      "start_ms": 161950,
+      "end_ms": 171375,
+      "duration_ms": 9425
+    },
+    {
+      "word": "Gózate y alégrate, hija de Edom, la que habitas en tierra de Uz; Aun hasta ti llegará la copa; te embriagarás, y vomitarás.",
+      "verse": 21,
+      "start_ms": 171375,
+      "end_ms": 180162,
+      "duration_ms": 8787
+    },
+    {
+      "word": "Se ha cumplido tu castigo, oh hija de Sion; Nunca más te hará llevar cautiva.",
+      "verse": 22,
+      "start_ms": 180162,
+      "end_ms": 185487,
+      "duration_ms": 5325
+    },
+    {
+      "word": "Castigará tu iniquidad, oh hija de Edom; Descubrirá tus pecados.",
+      "verse": 22,
+      "start_ms": 185487,
+      "end_ms": 190299,
+      "duration_ms": 4812
+    }
+  ]
+}

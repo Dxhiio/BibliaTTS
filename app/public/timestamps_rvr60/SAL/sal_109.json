@@ -1,0 +1,425 @@
+{
+  "book": "SAL",
+  "chapter": 109,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 31,
+  "word_count": 28,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 35,
+      "text": "Oh Dios de mi alabanza, no calles;"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 35,
+      "char_end": 142,
+      "text": "Porque boca de impío y boca de engañador se han abierto contra mí; Han hablado de mí con lengua mentirosa;"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 142,
+      "char_end": 211,
+      "text": "Con palabras de odio me han rodeado, Y pelearon contra mí sin causa."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 211,
+      "char_end": 269,
+      "text": "En pago de mi amor me han sido adversarios; Mas yo oraba."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 269,
+      "char_end": 313,
+      "text": "Me devuelven mal por bien, Y odio por amor."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 313,
+      "char_end": 365,
+      "text": "Pon sobre él al impío, Y Satanás esté a su diestra."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 365,
+      "char_end": 433,
+      "text": "Cuando fuere juzgado, salga culpable; Y su oración sea para pecado."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 433,
+      "char_end": 475,
+      "text": "Sean sus días pocos; Tome otro su oficio."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 475,
+      "char_end": 519,
+      "text": "Sean sus hijos huérfanos, Y su mujer viuda."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 519,
+      "char_end": 610,
+      "text": "Anden sus hijos vagabundos, y mendiguen; Y procuren su pan lejos de sus desolados hogares."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 610,
+      "char_end": 690,
+      "text": "Que el acreedor se apodere de todo lo que tiene, Y extraños saqueen su trabajo."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 690,
+      "char_end": 775,
+      "text": "No tenga quien le haga misericordia, Ni haya quien tenga compasión de sus huérfanos."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 775,
+      "char_end": 852,
+      "text": "Su posteridad sea destruida; En la segunda generación sea borrado su nombre."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 852,
+      "char_end": 946,
+      "text": "Venga en memoria ante Jehová la maldad de sus padres, Y el pecado de su madre no sea borrado."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 946,
+      "char_end": 1015,
+      "text": "Estén siempre delante de Jehová, Y él corte de la tierra su memoria,"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1015,
+      "char_end": 1154,
+      "text": "Por cuanto no se acordó de hacer misericordia, Y persiguió al hombre afligido y menesteroso, Al quebrantado de corazón, para darle muerte."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1154,
+      "char_end": 1241,
+      "text": "Amó la maldición, y ésta le sobrevino; Y no quiso la bendición, y ella se alejó de él."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1241,
+      "char_end": 1348,
+      "text": "Se vistió de maldición como de su vestido, Y entró como agua en sus entrañas, Y como aceite en sus huesos."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1348,
+      "char_end": 1430,
+      "text": "Séale como vestido con que se cubra, Y en lugar de cinto con que se ciña siempre."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1430,
+      "char_end": 1529,
+      "text": "Sea éste el pago de parte de Jehová a los que me calumnian, Y a los que hablan mal contra mi alma."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1529,
+      "char_end": 1630,
+      "text": "Y tú, Jehová, Señor mío, favoréceme por amor de tu nombre; Líbrame, porque tu misericordia es buena."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1630,
+      "char_end": 1708,
+      "text": "Porque yo estoy afligido y necesitado, Y mi corazón está herido dentro de mí."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1708,
+      "char_end": 1774,
+      "text": "Me voy como la sombra cuando declina; Soy sacudido como langosta."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1774,
+      "char_end": 1868,
+      "text": "Mis rodillas están debilitadas a causa del ayuno, Y mi carne desfallece por falta de gordura."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1868,
+      "char_end": 1954,
+      "text": "Yo he sido para ellos objeto de oprobio; Me miraban, y burlándose meneaban su cabeza."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 1954,
+      "char_end": 2016,
+      "text": "Ayúdame, Jehová Dios mío; Sálvame conforme a tu misericordia."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2016,
+      "char_end": 2081,
+      "text": "Y entiendan que ésta es tu mano; Que tú, Jehová, has hecho esto."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2081,
+      "char_end": 2173,
+      "text": "Maldigan ellos, pero bendice tú; Levántense, mas sean avergonzados, y regocíjese tu siervo."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2173,
+      "char_end": 2266,
+      "text": "Sean vestidos de ignominia los que me calumnian; Sean cubiertos de confusión como con manto."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2266,
+      "char_end": 2347,
+      "text": "Yo alabaré a Jehová en gran manera con mi boca, Y en medio de muchos le alabaré."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2347,
+      "char_end": 2433,
+      "text": "Porque él se pondrá a la diestra del pobre, Para librar su alma de los que le juzgan."
+    }
+  ],
+  "words": [
+    {
+      "word": "Oh Dios de mi alabanza, no calles; Porque boca de impío y boca de engañador se han abierto contra mí; Han hablado de mí con lengua mentirosa; Con palabras de odio me han rodeado, Y pelearon contra mí sin causa.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 12900,
+      "duration_ms": 12800
+    },
+    {
+      "word": "En pago de mi amor me han sido adversarios; Mas yo oraba.",
+      "verse": 4,
+      "start_ms": 12850,
+      "end_ms": 17162,
+      "duration_ms": 4312
+    },
+    {
+      "word": "Me devuelven mal por bien, Y odio por amor.",
+      "verse": 5,
+      "start_ms": 17162,
+      "end_ms": 20487,
+      "duration_ms": 3325
+    },
+    {
+      "word": "Pon sobre él al impío, Y Satanás esté a su diestra.",
+      "verse": 6,
+      "start_ms": 20487,
+      "end_ms": 24537,
+      "duration_ms": 4050
+    },
+    {
+      "word": "Cuando fuere juzgado, salga culpable; Y su oración sea para pecado.",
+      "verse": 7,
+      "start_ms": 24537,
+      "end_ms": 29574,
+      "duration_ms": 5037
+    },
+    {
+      "word": "Sean sus días pocos; Tome otro su oficio.",
+      "verse": 8,
+      "start_ms": 29575,
+      "end_ms": 33312,
+      "duration_ms": 3737
+    },
+    {
+      "word": "Sean sus hijos huérfanos, Y su mujer viuda.",
+      "verse": 9,
+      "start_ms": 33312,
+      "end_ms": 36899,
+      "duration_ms": 3587
+    },
+    {
+      "word": "Anden sus hijos vagabundos, y mendiguen; Y procuren su pan lejos de sus desolados hogares.",
+      "verse": 10,
+      "start_ms": 36900,
+      "end_ms": 43287,
+      "duration_ms": 6387
+    },
+    {
+      "word": "Que el acreedor se apodere de todo lo que tiene, Y extraños saqueen su trabajo.",
+      "verse": 11,
+      "start_ms": 43287,
+      "end_ms": 48524,
+      "duration_ms": 5237
+    },
+    {
+      "word": "No tenga quien le haga misericordia, Ni haya quien tenga compasión de sus huérfanos.",
+      "verse": 12,
+      "start_ms": 48525,
+      "end_ms": 53825,
+      "duration_ms": 5300
+    },
+    {
+      "word": "Su posteridad sea destruida; En la segunda generación sea borrado su nombre.",
+      "verse": 13,
+      "start_ms": 53825,
+      "end_ms": 59300,
+      "duration_ms": 5475
+    },
+    {
+      "word": "Venga en memoria ante Jehová la maldad de sus padres, Y el pecado de su madre no sea borrado.",
+      "verse": 14,
+      "start_ms": 59300,
+      "end_ms": 65450,
+      "duration_ms": 6150
+    },
+    {
+      "word": "Estén siempre delante de Jehová, Y él corte de la tierra su memoria, Por cuanto no se acordó de hacer misericordia, Y persiguió al hombre afligido y menesteroso, Al quebrantado de corazón, para darle muerte.",
+      "verse": 15,
+      "start_ms": 65450,
+      "end_ms": 78162,
+      "duration_ms": 12712
+    },
+    {
+      "word": "Amó la maldición, y ésta le sobrevino; Y no quiso la bendición, y ella se alejó de él.",
+      "verse": 17,
+      "start_ms": 78162,
+      "end_ms": 84512,
+      "duration_ms": 6350
+    },
+    {
+      "word": "Se vistió de maldición como de su vestido, Y entró como agua en sus entrañas, Y como aceite en sus huesos.",
+      "verse": 18,
+      "start_ms": 84512,
+      "end_ms": 91537,
+      "duration_ms": 7025
+    },
+    {
+      "word": "Séale como vestido con que se cubra, Y en lugar de cinto con que se ciña siempre.",
+      "verse": 19,
+      "start_ms": 91537,
+      "end_ms": 96999,
+      "duration_ms": 5462
+    },
+    {
+      "word": "Sea éste el pago de parte de Jehová a los que me calumnian, Y a los que hablan mal contra mi alma.",
+      "verse": 20,
+      "start_ms": 97000,
+      "end_ms": 103512,
+      "duration_ms": 6512
+    },
+    {
+      "word": "Y tú, Jehová, Señor mío, favoréceme por amor de tu nombre; Líbrame, porque tu misericordia es buena.",
+      "verse": 21,
+      "start_ms": 103512,
+      "end_ms": 110974,
+      "duration_ms": 7462
+    },
+    {
+      "word": "Porque yo estoy afligido y necesitado, Y mi corazón está herido dentro de mí.",
+      "verse": 22,
+      "start_ms": 110975,
+      "end_ms": 116150,
+      "duration_ms": 5175
+    },
+    {
+      "word": "Me voy como la sombra cuando declina; Soy sacudido como langosta.",
+      "verse": 23,
+      "start_ms": 116150,
+      "end_ms": 120787,
+      "duration_ms": 4637
+    },
+    {
+      "word": "Mis rodillas están debilitadas a causa del ayuno, Y mi carne desfallece por falta de gordura.",
+      "verse": 24,
+      "start_ms": 120787,
+      "end_ms": 126937,
+      "duration_ms": 6150
+    },
+    {
+      "word": "Yo he sido para ellos objeto de oprobio; Me miraban, y burlándose meneaban su cabeza.",
+      "verse": 25,
+      "start_ms": 126937,
+      "end_ms": 133099,
+      "duration_ms": 6162
+    },
+    {
+      "word": "Ayúdame, Jehová Dios mío; Sálvame conforme a tu misericordia.",
+      "verse": 26,
+      "start_ms": 133100,
+      "end_ms": 138012,
+      "duration_ms": 4912
+    },
+    {
+      "word": "Y entiendan que ésta es tu mano; Que tú, Jehová, has hecho esto.",
+      "verse": 27,
+      "start_ms": 138012,
+      "end_ms": 142874,
+      "duration_ms": 4862
+    },
+    {
+      "word": "Maldigan ellos, pero bendice tú; Levántense, mas sean avergonzados, y regocíjese tu siervo.",
+      "verse": 28,
+      "start_ms": 142875,
+      "end_ms": 149962,
+      "duration_ms": 7087
+    },
+    {
+      "word": "Sean vestidos de ignominia los que me calumnian; Sean cubiertos de confusión como con manto.",
+      "verse": 29,
+      "start_ms": 149962,
+      "end_ms": 155762,
+      "duration_ms": 5800
+    },
+    {
+      "word": "Yo alabaré a Jehová en gran manera con mi boca, Y en medio de muchos le alabaré.",
+      "verse": 30,
+      "start_ms": 155762,
+      "end_ms": 161174,
+      "duration_ms": 5412
+    },
+    {
+      "word": "Porque él se pondrá a la diestra del pobre, Para librar su alma de los que le juzgan.",
+      "verse": 31,
+      "start_ms": 161175,
+      "end_ms": 166512,
+      "duration_ms": 5337
+    }
+  ]
+}

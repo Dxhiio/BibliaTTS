@@ -1,0 +1,404 @@
+{
+  "book": "MAT",
+  "chapter": 8,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 29,
+  "word_count": 27,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 41,
+      "text": "No juzguéis, para que no seáis juzgados."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 41,
+      "char_end": 143,
+      "text": "Porque con el juicio con que juzgáis, seréis juzgados, y con la medida con que medís, os será medido."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 143,
+      "char_end": 255,
+      "text": "¿Y por qué miras la paja que está en el ojo de tu hermano, y no echas de ver la viga que está en tu propio ojo?"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 255,
+      "char_end": 349,
+      "text": "¿O cómo dirás a tu hermano: Déjame sacar la paja de tu ojo, y he aquí la viga en el ojo tuyo?"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 349,
+      "char_end": 464,
+      "text": "¡Hipócrita! saca primero la viga de tu propio ojo, y entonces verás bien para sacar la paja del ojo de tu hermano."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 464,
+      "char_end": 648,
+      "text": "No deis lo santo a los perros, ni echéis vuestras perlas delante de los cerdos, no sea que las pisoteen, y se vuelvan y os despedacen. La oración, y la regla de oro (Lc 11.9–13; 6.31)"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 648,
+      "char_end": 714,
+      "text": "Pedid, y se os dará; buscad, y hallaréis; llamad, y se os abrirá."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 714,
+      "char_end": 803,
+      "text": "Porque todo aquel que pide, recibe; y el que busca, halla; y al que llama, se le abrirá."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 803,
+      "char_end": 880,
+      "text": "¿Qué hombre hay de vosotros, que si su hijo le pide pan, le dará una piedra?"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 880,
+      "char_end": 929,
+      "text": "¿O si le pide un pescado, le dará una serpiente?"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 929,
+      "char_end": 1092,
+      "text": "Pues si vosotros, siendo malos, sabéis dar buenas dádivas a vuestros hijos, ¿cuánto más vuestro Padre que está en los cielos dará buenas cosas a los que le pidan?"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1092,
+      "char_end": 1271,
+      "text": "Así que, todas las cosas que queráis que los hombres hagan con vosotros, así también haced vosotros con ellos; porque esto es la ley y los profetas. La puerta estrecha (Lc 13.24)"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1271,
+      "char_end": 1415,
+      "text": "Entrad por la puerta estrecha; porque ancha es la puerta, y espacioso el camino que lleva a la perdición, y muchos son los que entran por ella;"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1415,
+      "char_end": 1560,
+      "text": "porque estrecha es la puerta, y angosto el camino que lleva a la vida, y pocos son los que la hallan. Por sus frutos los conoceréis (Lc 6.43–44)"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1560,
+      "char_end": 1674,
+      "text": "Guardaos de los falsos profetas, que vienen a vosotros con vestidos de ovejas, pero por dentro son lobos rapaces."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1674,
+      "char_end": 1768,
+      "text": "Por sus frutos los conoceréis. ¿Acaso se recogen uvas de los espinos, o higos de los abrojos?"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1768,
+      "char_end": 1843,
+      "text": "Así, todo buen árbol da buenos frutos, pero el árbol malo da frutos malos."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1843,
+      "char_end": 1920,
+      "text": "No puede el buen árbol dar malos frutos, ni el árbol malo dar frutos buenos."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1920,
+      "char_end": 1986,
+      "text": "Todo árbol que no da buen fruto, es cortado y echado en el fuego."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1986,
+      "char_end": 2056,
+      "text": "Así que, por sus frutos los conoceréis. Nunca os conocí (Lc 13.25–27)"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2056,
+      "char_end": 2194,
+      "text": "No todo el que me dice: Señor, Señor, entrará en el reino de los cielos, sino el que hace la voluntad de mi Padre que está en los cielos."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2194,
+      "char_end": 2348,
+      "text": "Muchos me dirán en aquel día: Señor, Señor, ¿no profetizamos en tu nombre, y en tu nombre echamos fuera demonios, y en tu nombre hicimos muchos milagros?"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2348,
+      "char_end": 2459,
+      "text": "Y entonces les declararé: Nunca os conocí; apartaos de mí, hacedores de maldad. Los dos cimientos (Lc 6.46–49)"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2459,
+      "char_end": 2586,
+      "text": "Cualquiera, pues, que me oye estas palabras, y las hace, le compararé a un hombre prudente, que edificó su casa sobre la roca."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2586,
+      "char_end": 2722,
+      "text": "Descendió lluvia, y vinieron ríos, y soplaron vientos, y golpearon contra aquella casa; y no cayó, porque estaba fundada sobre la roca."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2722,
+      "char_end": 2851,
+      "text": "Pero cualquiera que me oye estas palabras y no las hace, le compararé a un hombre insensato, que edificó su casa sobre la arena;"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2851,
+      "char_end": 2980,
+      "text": "y descendió lluvia, y vinieron ríos, y soplaron vientos, y dieron con ímpetu contra aquella casa; y cayó, y fue grande su ruina."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2980,
+      "char_end": 3056,
+      "text": "Y cuando terminó Jesús estas palabras, la gente se admiraba de su doctrina;"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3056,
+      "char_end": 3128,
+      "text": "porque les enseñaba como quien tiene autoridad, y no como los escribas."
+    }
+  ],
+  "words": [
+    {
+      "word": "No juzguéis, para que no seáis juzgados.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3875,
+      "duration_ms": 3775
+    },
+    {
+      "word": "Porque con el juicio con que juzgáis, seréis juzgados, y con la medida con que medís, os será medido.",
+      "verse": 2,
+      "start_ms": 3825,
+      "end_ms": 10600,
+      "duration_ms": 6775
+    },
+    {
+      "word": "Y por qué miras la paja que está en el ojo de tu hermano, y no echas de ver la viga que está en tu propio ojo?",
+      "verse": 3,
+      "start_ms": 10600,
+      "end_ms": 16987,
+      "duration_ms": 6387
+    },
+    {
+      "word": "O cómo dirás a tu hermano: Déjame sacar la paja de tu ojo, y he aquí la viga en el ojo tuyo?",
+      "verse": 4,
+      "start_ms": 16987,
+      "end_ms": 23274,
+      "duration_ms": 6287
+    },
+    {
+      "word": "Hipócrita! saca primero la viga de tu propio ojo, y entonces verás bien para sacar la paja del ojo de tu hermano.",
+      "verse": 5,
+      "start_ms": 23275,
+      "end_ms": 30700,
+      "duration_ms": 7425
+    },
+    {
+      "word": "No deis lo santo a los perros, ni echéis vuestras perlas delante de los cerdos, no sea que las pisoteen, y se vuelvan y os despedacen.",
+      "verse": 6,
+      "start_ms": 30700,
+      "end_ms": 39125,
+      "duration_ms": 8425
+    },
+    {
+      "word": "La oración, y la regla de oro (Lc 11.9–13; 6.31) Pedid, y se os dará; buscad, y hallaréis; llamad, y se os abrirá.",
+      "verse": 6,
+      "start_ms": 39125,
+      "end_ms": 50887,
+      "duration_ms": 11762
+    },
+    {
+      "word": "Porque todo aquel que pide, recibe; y el que busca, halla; y al que llama, se le abrirá.",
+      "verse": 8,
+      "start_ms": 50887,
+      "end_ms": 57387,
+      "duration_ms": 6500
+    },
+    {
+      "word": "Qué hombre hay de vosotros, que si su hijo le pide pan, le dará una piedra?",
+      "verse": 9,
+      "start_ms": 57387,
+      "end_ms": 62749,
+      "duration_ms": 5362
+    },
+    {
+      "word": "O si le pide un pescado, le dará una serpiente?",
+      "verse": 10,
+      "start_ms": 62750,
+      "end_ms": 66337,
+      "duration_ms": 3587
+    },
+    {
+      "word": "Pues si vosotros, siendo malos, sabéis dar buenas dádivas a vuestros hijos, ¿cuánto más vuestro Padre que está en los cielos dará buenas cosas a los que le pidan?",
+      "verse": 11,
+      "start_ms": 66337,
+      "end_ms": 75924,
+      "duration_ms": 9587
+    },
+    {
+      "word": "Así que, todas las cosas que queráis que los hombres hagan con vosotros, así también haced vosotros con ellos; porque esto es la ley y los profetas.",
+      "verse": 12,
+      "start_ms": 75925,
+      "end_ms": 85150,
+      "duration_ms": 9225
+    },
+    {
+      "word": "La puerta estrecha (Lc 13.24) Entrad por la puerta estrecha; porque ancha es la puerta, y espacioso el camino que lleva a la perdición, y muchos son los que entran por ella; porque estrecha es la puerta, y angosto el camino que lleva a la vida, y pocos son los que la hallan.",
+      "verse": 12,
+      "start_ms": 85150,
+      "end_ms": 102187,
+      "duration_ms": 17037
+    },
+    {
+      "word": "Por sus frutos los conoceréis (Lc 6.43–44) Guardaos de los falsos profetas, que vienen a vosotros con vestidos de ovejas, pero por dentro son lobos rapaces.",
+      "verse": 14,
+      "start_ms": 102187,
+      "end_ms": 114112,
+      "duration_ms": 11925
+    },
+    {
+      "word": "Por sus frutos los conoceréis.",
+      "verse": 16,
+      "start_ms": 114112,
+      "end_ms": 116724,
+      "duration_ms": 2612
+    },
+    {
+      "word": "Acaso se recogen uvas de los espinos, o higos de los abrojos?",
+      "verse": 16,
+      "start_ms": 116725,
+      "end_ms": 121262,
+      "duration_ms": 4537
+    },
+    {
+      "word": "Así, todo buen árbol da buenos frutos, pero el árbol malo da frutos malos.",
+      "verse": 17,
+      "start_ms": 121262,
+      "end_ms": 126987,
+      "duration_ms": 5725
+    },
+    {
+      "word": "No puede el buen árbol dar malos frutos, ni el árbol malo dar frutos buenos.",
+      "verse": 18,
+      "start_ms": 126987,
+      "end_ms": 132337,
+      "duration_ms": 5350
+    },
+    {
+      "word": "Todo árbol que no da buen fruto, es cortado y echado en el fuego.",
+      "verse": 19,
+      "start_ms": 132337,
+      "end_ms": 137012,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Así que, por sus frutos los conoceréis.",
+      "verse": 20,
+      "start_ms": 137012,
+      "end_ms": 140449,
+      "duration_ms": 3437
+    },
+    {
+      "word": "Nunca os conocí (Lc 13.25–27) No todo el que me dice: Señor, Señor, entrará en el reino de los cielos, sino el que hace la voluntad de mi Padre que está en los cielos.",
+      "verse": 20,
+      "start_ms": 140450,
+      "end_ms": 152825,
+      "duration_ms": 12375
+    },
+    {
+      "word": "Muchos me dirán en aquel día: Señor, Señor, ¿no profetizamos en tu nombre, y en tu nombre echamos fuera demonios, y en tu nombre hicimos muchos milagros?",
+      "verse": 22,
+      "start_ms": 152825,
+      "end_ms": 162775,
+      "duration_ms": 9950
+    },
+    {
+      "word": "Y entonces les declararé: Nunca os conocí; apartaos de mí, hacedores de maldad.",
+      "verse": 23,
+      "start_ms": 162775,
+      "end_ms": 169000,
+      "duration_ms": 6225
+    },
+    {
+      "word": "Los dos cimientos (Lc 6.46–49) Cualquiera, pues, que me oye estas palabras, y las hace, le compararé a un hombre prudente, que edificó su casa sobre la roca.",
+      "verse": 23,
+      "start_ms": 169000,
+      "end_ms": 181637,
+      "duration_ms": 12637
+    },
+    {
+      "word": "Descendió lluvia, y vinieron ríos, y soplaron vientos, y golpearon contra aquella casa; y no cayó, porque estaba fundada sobre la roca.",
+      "verse": 25,
+      "start_ms": 181637,
+      "end_ms": 191012,
+      "duration_ms": 9375
+    },
+    {
+      "word": "Pero cualquiera que me oye estas palabras y no las hace, le compararé a un hombre insensato, que edificó su casa sobre la arena; y descendió lluvia, y vinieron ríos, y soplaron vientos, y dieron con ímpetu contra aquella casa; y cayó, y fue grande su ruina.",
+      "verse": 26,
+      "start_ms": 191012,
+      "end_ms": 207062,
+      "duration_ms": 16050
+    },
+    {
+      "word": "Y cuando terminó Jesús estas palabras, la gente se admiraba de su doctrina; porque les enseñaba como quien tiene autoridad, y no como los escribas.",
+      "verse": 28,
+      "start_ms": 207062,
+      "end_ms": 216137,
+      "duration_ms": 9075
+    }
+  ]
+}

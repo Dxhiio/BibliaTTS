@@ -1,0 +1,250 @@
+{
+  "book": "JOB",
+  "chapter": 17,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 16,
+  "word_count": 18,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 75,
+      "text": "Mi aliento se agota, se acortan mis días, Y me está preparado el sepulcro."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 75,
+      "char_end": 150,
+      "text": "No hay conmigo sino escarnecedores, En cuya amargura se detienen mis ojos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 150,
+      "char_end": 243,
+      "text": "Dame fianza, oh Dios; sea mi protección cerca de ti. Porque ¿quién querría responder por mí?"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 243,
+      "char_end": 332,
+      "text": "Porque a éstos has escondido de su corazón la inteligencia; Por tanto, no los exaltarás."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 332,
+      "char_end": 410,
+      "text": "Al que denuncia a sus amigos como presa, Los ojos de sus hijos desfallecerán."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 410,
+      "char_end": 491,
+      "text": "Él me ha puesto por refrán de pueblos, Y delante de ellos he sido como tamboril."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 491,
+      "char_end": 572,
+      "text": "Mis ojos se oscurecieron por el dolor, Y mis pensamientos todos son como sombra."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 572,
+      "char_end": 652,
+      "text": "Los rectos se maravillarán de esto, Y el inocente se levantará contra el impío."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 652,
+      "char_end": 738,
+      "text": "No obstante, proseguirá el justo su camino, Y el limpio de manos aumentará la fuerza."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 738,
+      "char_end": 816,
+      "text": "Pero volved todos vosotros, y venid ahora, Y no hallaré entre vosotros sabio."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 816,
+      "char_end": 899,
+      "text": "Pasaron mis días, fueron arrancados mis pensamientos, Los designios de mi corazón."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 899,
+      "char_end": 971,
+      "text": "Pusieron la noche por día, Y la luz se acorta delante de las tinieblas."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 971,
+      "char_end": 1036,
+      "text": "Si yo espero, el Seol es mi casa; Haré mi cama en las tinieblas."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1036,
+      "char_end": 1118,
+      "text": "A la corrupción he dicho: Mi padre eres tú; A los gusanos: Mi madre y mi hermana."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1118,
+      "char_end": 1191,
+      "text": "¿Dónde, pues, estará ahora mi esperanza? Y mi esperanza, ¿quién la verá?"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1191,
+      "char_end": 1268,
+      "text": "A la profundidad del Seol descenderán, Y juntamente descansarán en el polvo."
+    }
+  ],
+  "words": [
+    {
+      "word": "Mi aliento se agota, se acortan mis días, Y me está preparado el sepulcro.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5362,
+      "duration_ms": 5262
+    },
+    {
+      "word": "No hay conmigo sino escarnecedores, En cuya amargura se detienen mis ojos.",
+      "verse": 2,
+      "start_ms": 5312,
+      "end_ms": 10699,
+      "duration_ms": 5387
+    },
+    {
+      "word": "Dame fianza, oh Dios; sea mi protección cerca de ti.",
+      "verse": 3,
+      "start_ms": 10700,
+      "end_ms": 15125,
+      "duration_ms": 4425
+    },
+    {
+      "word": "Porque ¿quién querría responder por mí?",
+      "verse": 3,
+      "start_ms": 15125,
+      "end_ms": 17950,
+      "duration_ms": 2825
+    },
+    {
+      "word": "Porque a éstos has escondido de su corazón la inteligencia; Por tanto, no los exaltarás.",
+      "verse": 4,
+      "start_ms": 17950,
+      "end_ms": 24050,
+      "duration_ms": 6100
+    },
+    {
+      "word": "Al que denuncia a sus amigos como presa, Los ojos de sus hijos desfallecerán.",
+      "verse": 5,
+      "start_ms": 24050,
+      "end_ms": 29137,
+      "duration_ms": 5087
+    },
+    {
+      "word": "Él me ha puesto por refrán de pueblos, Y delante de ellos he sido como tamboril.",
+      "verse": 6,
+      "start_ms": 29137,
+      "end_ms": 34349,
+      "duration_ms": 5212
+    },
+    {
+      "word": "Mis ojos se oscurecieron por el dolor, Y mis pensamientos todos son como sombra.",
+      "verse": 7,
+      "start_ms": 34350,
+      "end_ms": 39587,
+      "duration_ms": 5237
+    },
+    {
+      "word": "Los rectos se maravillarán de esto, Y el inocente se levantará contra el impío.",
+      "verse": 8,
+      "start_ms": 39587,
+      "end_ms": 44862,
+      "duration_ms": 5275
+    },
+    {
+      "word": "No obstante, proseguirá el justo su camino, Y el limpio de manos aumentará la fuerza.",
+      "verse": 9,
+      "start_ms": 44862,
+      "end_ms": 50937,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Pero volved todos vosotros, y venid ahora, Y no hallaré entre vosotros sabio.",
+      "verse": 10,
+      "start_ms": 50937,
+      "end_ms": 56637,
+      "duration_ms": 5700
+    },
+    {
+      "word": "Pasaron mis días, fueron arrancados mis pensamientos, Los designios de mi corazón.",
+      "verse": 11,
+      "start_ms": 56637,
+      "end_ms": 62374,
+      "duration_ms": 5737
+    },
+    {
+      "word": "Pusieron la noche por día, Y la luz se acorta delante de las tinieblas.",
+      "verse": 12,
+      "start_ms": 62375,
+      "end_ms": 67262,
+      "duration_ms": 4887
+    },
+    {
+      "word": "Si yo espero, el Seol es mi casa; Haré mi cama en las tinieblas.",
+      "verse": 13,
+      "start_ms": 67262,
+      "end_ms": 72262,
+      "duration_ms": 5000
+    },
+    {
+      "word": "A la corrupción he dicho: Mi padre eres tú; A los gusanos: Mi madre y mi hermana.",
+      "verse": 14,
+      "start_ms": 72262,
+      "end_ms": 78299,
+      "duration_ms": 6037
+    },
+    {
+      "word": "Dónde, pues, estará ahora mi esperanza?",
+      "verse": 15,
+      "start_ms": 78300,
+      "end_ms": 82075,
+      "duration_ms": 3775
+    },
+    {
+      "word": "Y mi esperanza, ¿quién la verá?",
+      "verse": 15,
+      "start_ms": 82075,
+      "end_ms": 84775,
+      "duration_ms": 2700
+    },
+    {
+      "word": "A la profundidad del Seol descenderán, Y juntamente descansarán en el polvo.",
+      "verse": 16,
+      "start_ms": 84775,
+      "end_ms": 89937,
+      "duration_ms": 5162
+    }
+  ]
+}

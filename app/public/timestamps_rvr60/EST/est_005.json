@@ -1,0 +1,236 @@
+{
+  "book": "EST",
+  "chapter": 5,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 14,
+  "word_count": 18,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 234,
+      "text": "Aconteció que al tercer día se vistió Ester su vestido real, y entró en el patio interior de la casa del rey, enfrente del aposento del rey; y estaba el rey sentado en su trono en el aposento real, enfrente de la puerta del aposento."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 234,
+      "char_end": 433,
+      "text": "Y cuando vio a la reina Ester que estaba en el patio, ella obtuvo gracia ante sus ojos; y el rey extendió a Ester el cetro de oro que tenía en la mano. Entonces vino Ester y tocó la punta del cetro."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 433,
+      "char_end": 532,
+      "text": "Dijo el rey: ¿Qué tienes, reina Ester, y cuál es tu petición? Hasta la mitad del reino se te dará."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 532,
+      "char_end": 630,
+      "text": "Y Ester dijo: Si place al rey, vengan hoy el rey y Amán al banquete que he preparado para el rey."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 630,
+      "char_end": 768,
+      "text": "Respondió el rey: Daos prisa, llamad a Amán, para hacer lo que Ester ha dicho. Vino, pues, el rey con Amán al banquete que Ester dispuso."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 768,
+      "char_end": 941,
+      "text": "Y dijo el rey a Ester en el banquete, mientras bebían vino: ¿Cuál es tu petición, y te será otorgada? ¿Cuál es tu demanda? Aunque sea la mitad del reino, te será concedida."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 941,
+      "char_end": 1008,
+      "text": "Entonces respondió Ester y dijo: Mi petición y mi demanda es ésta:"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1008,
+      "char_end": 1225,
+      "text": "Si he hallado gracia ante los ojos del rey, y si place al rey otorgar mi petición y conceder mi demanda, que venga el rey con Amán a otro banquete que les prepararé; y mañana haré conforme a lo que el rey ha mandado."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1225,
+      "char_end": 1418,
+      "text": "Y salió Amán aquel día contento y alegre de corazón; pero cuando vio a Mardoqueo a la puerta del palacio del rey, que no se levantaba ni se movía de su lugar, se llenó de ira contra Mardoqueo."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1418,
+      "char_end": 1505,
+      "text": "Pero se refrenó Amán y vino a su casa, y mandó llamar a sus amigos y a Zeres su mujer,"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1505,
+      "char_end": 1701,
+      "text": "y les refirió Amán la gloria de sus riquezas, y la multitud de sus hijos, y todas las cosas con que el rey le había engrandecido, y con que le había honrado sobre los príncipes y siervos del rey."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1701,
+      "char_end": 1871,
+      "text": "Y añadió Amán: También la reina Ester a ninguno hizo venir con el rey al banquete que ella dispuso, sino a mí; y también para mañana estoy convidado por ella con el rey."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1871,
+      "char_end": 1968,
+      "text": "Pero todo esto de nada me sirve cada vez que veo al judío Mardoqueo sentado a la puerta del rey."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1968,
+      "char_end": 2211,
+      "text": "Y le dijo Zeres su mujer y todos sus amigos: Hagan una horca de cincuenta codos de altura, y mañana di al rey que cuelguen a Mardoqueo en ella; y entra alegre con el rey al banquete. Y agradó esto a los ojos de Amán, e hizo preparar la horca."
+    }
+  ],
+  "words": [
+    {
+      "word": "Aconteció que al tercer día se vistió Ester su vestido real, y entró en el patio interior de la casa del rey, enfrente del aposento del rey; y estaba el rey sentado en su trono en el aposento real, enfrente de la puerta del aposento.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 13625,
+      "duration_ms": 13525
+    },
+    {
+      "word": "Y cuando vio a la reina Ester que estaba en el patio, ella obtuvo gracia ante sus ojos; y el rey extendió a Ester el cetro de oro que tenía en la mano.",
+      "verse": 2,
+      "start_ms": 13625,
+      "end_ms": 22425,
+      "duration_ms": 8800
+    },
+    {
+      "word": "Entonces vino Ester y tocó la punta del cetro.",
+      "verse": 2,
+      "start_ms": 22425,
+      "end_ms": 25837,
+      "duration_ms": 3412
+    },
+    {
+      "word": "Dijo el rey: ¿Qué tienes, reina Ester, y cuál es tu petición?",
+      "verse": 3,
+      "start_ms": 25837,
+      "end_ms": 30649,
+      "duration_ms": 4812
+    },
+    {
+      "word": "Hasta la mitad del reino se te dará.",
+      "verse": 3,
+      "start_ms": 30650,
+      "end_ms": 33412,
+      "duration_ms": 2762
+    },
+    {
+      "word": "Y Ester dijo: Si place al rey, vengan hoy el rey y Amán al banquete que he preparado para el rey.",
+      "verse": 4,
+      "start_ms": 33412,
+      "end_ms": 39837,
+      "duration_ms": 6425
+    },
+    {
+      "word": "Respondió el rey: Daos prisa, llamad a Amán, para hacer lo que Ester ha dicho.",
+      "verse": 5,
+      "start_ms": 39837,
+      "end_ms": 45487,
+      "duration_ms": 5650
+    },
+    {
+      "word": "Vino, pues, el rey con Amán al banquete que Ester dispuso.",
+      "verse": 5,
+      "start_ms": 45487,
+      "end_ms": 50099,
+      "duration_ms": 4612
+    },
+    {
+      "word": "Y dijo el rey a Ester en el banquete, mientras bebían vino: ¿Cuál es tu petición, y te será otorgada?",
+      "verse": 6,
+      "start_ms": 50100,
+      "end_ms": 57012,
+      "duration_ms": 6912
+    },
+    {
+      "word": "Cuál es tu demanda?",
+      "verse": 6,
+      "start_ms": 57012,
+      "end_ms": 58937,
+      "duration_ms": 1925
+    },
+    {
+      "word": "Aunque sea la mitad del reino, te será concedida.",
+      "verse": 6,
+      "start_ms": 58937,
+      "end_ms": 62637,
+      "duration_ms": 3700
+    },
+    {
+      "word": "Entonces respondió Ester y dijo: Mi petición y mi demanda es ésta: Si he hallado gracia ante los ojos del rey, y si place al rey otorgar mi petición y conceder mi demanda, que venga el rey con Amán a otro banquete que les prepararé; y mañana haré conforme a lo que el rey ha mandado.",
+      "verse": 7,
+      "start_ms": 62637,
+      "end_ms": 79124,
+      "duration_ms": 16487
+    },
+    {
+      "word": "Y salió Amán aquel día contento y alegre de corazón; pero cuando vio a Mardoqueo a la puerta del palacio del rey, que no se levantaba ni se movía de su lugar, se llenó de ira contra Mardoqueo.",
+      "verse": 9,
+      "start_ms": 79125,
+      "end_ms": 90525,
+      "duration_ms": 11400
+    },
+    {
+      "word": "Pero se refrenó Amán y vino a su casa, y mandó llamar a sus amigos y a Zeres su mujer, y les refirió Amán la gloria de sus riquezas, y la multitud de sus hijos, y todas las cosas con que el rey le había engrandecido, y con que le había honrado sobre los príncipes y siervos del rey.",
+      "verse": 10,
+      "start_ms": 90525,
+      "end_ms": 106787,
+      "duration_ms": 16262
+    },
+    {
+      "word": "Y añadió Amán: También la reina Ester a ninguno hizo venir con el rey al banquete que ella dispuso, sino a mí; y también para mañana estoy convidado por ella con el rey.",
+      "verse": 12,
+      "start_ms": 106787,
+      "end_ms": 116874,
+      "duration_ms": 10087
+    },
+    {
+      "word": "Pero todo esto de nada me sirve cada vez que veo al judío Mardoqueo sentado a la puerta del rey.",
+      "verse": 13,
+      "start_ms": 116875,
+      "end_ms": 122725,
+      "duration_ms": 5850
+    },
+    {
+      "word": "Y le dijo Zeres su mujer y todos sus amigos: Hagan una horca de cincuenta codos de altura, y mañana di al rey que cuelguen a Mardoqueo en ella; y entra alegre con el rey al banquete.",
+      "verse": 14,
+      "start_ms": 122725,
+      "end_ms": 133550,
+      "duration_ms": 10825
+    },
+    {
+      "word": "Y agradó esto a los ojos de Amán, e hizo preparar la horca.",
+      "verse": 14,
+      "start_ms": 133550,
+      "end_ms": 137975,
+      "duration_ms": 4425
+    }
+  ]
+}

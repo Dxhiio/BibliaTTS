@@ -1,0 +1,509 @@
+{
+  "book": "EZE",
+  "chapter": 27,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 36,
+  "word_count": 35,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 39,
+      "text": "Vino a mí palabra de Jehová, diciendo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 39,
+      "char_end": 88,
+      "text": "Tú, hijo de hombre, levanta endechas sobre Tiro."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 88,
+      "char_end": 272,
+      "text": "Dirás a Tiro, que está asentada a las orillas del mar, la que trafica con los pueblos de muchas costas: Así ha dicho Jehová el Señor: Tiro, tú has dicho: Yo soy de perfecta hermosura."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 272,
+      "char_end": 365,
+      "text": "En el corazón de los mares están tus confines; los que te edificaron completaron tu belleza."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 365,
+      "char_end": 472,
+      "text": "De hayas del monte Senir te fabricaron todo el maderaje; tomaron cedros del Líbano para hacerte el mástil."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 472,
+      "char_end": 579,
+      "text": "De encinas de Basán hicieron tus remos; tus bancos de pino de las costas de Quitim, incrustados de marfil."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 579,
+      "char_end": 714,
+      "text": "De lino fino bordado de Egipto era tu cortina, para que te sirviese de vela; de azul y púrpura de las costas de Elisa era tu pabellón."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 714,
+      "char_end": 830,
+      "text": "Los moradores de Sidón y de Arvad fueron tus remeros; tus sabios, oh Tiro, estaban en ti; ellos fueron tus pilotos."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 830,
+      "char_end": 1012,
+      "text": "Los ancianos de Gebal y sus más hábiles obreros calafateaban tus junturas; todas las naves del mar y los remeros de ellas fueron a ti para negociar, para participar de tus negocios."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1012,
+      "char_end": 1146,
+      "text": "Persas y los de Lud y Fut fueron en tu ejército tus hombres de guerra; escudos y yelmos colgaron en ti; ellos te dieron tu esplendor."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1146,
+      "char_end": 1331,
+      "text": "Y los hijos de Arvad con tu ejército estuvieron sobre tus muros alrededor, y los gamadeos en tus torres; sus escudos colgaron sobre tus muros alrededor; ellos completaron tu hermosura."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1331,
+      "char_end": 1458,
+      "text": "Tarsis comerciaba contigo por la abundancia de todas tus riquezas; con plata, hierro, estaño y plomo comerciaba en tus ferias."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1458,
+      "char_end": 1574,
+      "text": "Javán, Tubal y Mesec comerciaban también contigo; con hombres y con utensilios de bronce comerciaban en tus ferias."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1574,
+      "char_end": 1671,
+      "text": "Los de la casa de Togarma, con caballos y corceles de guerra y mulos, comerciaban en tu mercado."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1671,
+      "char_end": 1808,
+      "text": "Los hijos de Dedán traficaban contigo; muchas costas tomaban mercadería de tu mano; colmillos de marfil y ébano te dieron por sus pagos."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1808,
+      "char_end": 1955,
+      "text": "Edom traficaba contigo por la multitud de tus productos; con perlas, púrpura, vestidos bordados, linos finos, corales y rubíes venía a tus ferias."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1955,
+      "char_end": 2082,
+      "text": "Judá y la tierra de Israel comerciaban contigo; con trigos de Minit y Panag, miel, aceite y resina negociaban en tus mercados."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2082,
+      "char_end": 2215,
+      "text": "Damasco comerciaba contigo por tus muchos productos, por la abundancia de toda riqueza; con vino de Helbón y lana blanca negociaban."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2215,
+      "char_end": 2352,
+      "text": "Asimismo Dan y el errante Javán vinieron a tus ferias, para negociar en tu mercado con hierro labrado, mirra destilada y caña aromática."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2352,
+      "char_end": 2409,
+      "text": "Dedán comerciaba contigo en paños preciosos para carros."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2409,
+      "char_end": 2545,
+      "text": "Arabia y todos los príncipes de Cedar traficaban contigo en corderos y carneros y machos cabríos; en estas cosas fueron tus mercaderes."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2545,
+      "char_end": 2701,
+      "text": "Los mercaderes de Sabá y de Raama fueron también tus mercaderes; con lo principal de toda especiería, y toda piedra preciosa, y oro, vinieron a tus ferias."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2701,
+      "char_end": 2791,
+      "text": "Harán, Cane, Edén, y los mercaderes de Sabá, de Asiria y de Quilmad, contrataban contigo."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2791,
+      "char_end": 2957,
+      "text": "Estos mercaderes tuyos negociaban contigo en varias cosas; en mantos de azul y bordados, y en cajas de ropas preciosas, enlazadas con cordones, y en madera de cedro."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2957,
+      "char_end": 3112,
+      "text": "Las naves de Tarsis eran como tus caravanas que traían tus mercancías; así llegaste a ser opulenta, te multiplicaste en gran manera en medio de los mares."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3112,
+      "char_end": 3205,
+      "text": "En muchas aguas te engolfaron tus remeros; viento solano te quebrantó en medio de los mares."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3205,
+      "char_end": 3468,
+      "text": "Tus riquezas, tus mercaderías, tu tráfico, tus remeros, tus pilotos, tus calafateadores y los agentes de tus negocios, y todos tus hombres de guerra que hay en ti, con toda tu compañía que en medio de ti se halla, caerán en medio de los mares el día de tu caída."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3468,
+      "char_end": 3533,
+      "text": "Al estrépito de las voces de tus marineros temblarán las costas."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3533,
+      "char_end": 3643,
+      "text": "Descenderán de sus naves todos los que toman remo; remeros y todos los pilotos del mar se quedarán en tierra,"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3643,
+      "char_end": 3758,
+      "text": "y harán oír su voz sobre ti, y gritarán amargamente, y echarán polvo sobre sus cabezas, y se revolcarán en ceniza."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3758,
+      "char_end": 3873,
+      "text": "Se raerán por ti los cabellos, se ceñirán de cilicio, y endecharán por ti endechas amargas, con amargura del alma."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3873,
+      "char_end": 4013,
+      "text": "Y levantarán sobre ti endechas en sus lamentaciones, y endecharán sobre ti, diciendo: ¿Quién como Tiro, como la destruida en medio del mar?"
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4013,
+      "char_end": 4172,
+      "text": "Cuando tus mercaderías salían de las naves, saciabas a muchos pueblos; a los reyes de la tierra enriqueciste con la multitud de tus riquezas y de tu comercio."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4172,
+      "char_end": 4306,
+      "text": "En el tiempo en que seas quebrantada por los mares en lo profundo de las aguas, tu comercio y toda tu compañía caerán en medio de ti."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4306,
+      "char_end": 4423,
+      "text": "Todos los moradores de las costas se maravillarán sobre ti, y sus reyes temblarán de espanto; demudarán sus rostros."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4423,
+      "char_end": 4527,
+      "text": "Los mercaderes en los pueblos silbarán contra ti; vendrás a ser espanto, y para siempre dejarás de ser."
+    }
+  ],
+  "words": [
+    {
+      "word": "Vino a mí palabra de Jehová, diciendo: Tú, hijo de hombre, levanta endechas sobre Tiro.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6400,
+      "duration_ms": 6300
+    },
+    {
+      "word": "Dirás a Tiro, que está asentada a las orillas del mar, la que trafica con los pueblos de muchas costas: Así ha dicho Jehová el Señor: Tiro, tú has dicho: Yo soy de perfecta hermosura.",
+      "verse": 3,
+      "start_ms": 6350,
+      "end_ms": 18200,
+      "duration_ms": 11850
+    },
+    {
+      "word": "En el corazón de los mares están tus confines; los que te edificaron completaron tu belleza.",
+      "verse": 4,
+      "start_ms": 18200,
+      "end_ms": 23962,
+      "duration_ms": 5762
+    },
+    {
+      "word": "De hayas del monte Senir te fabricaron todo el maderaje; tomaron cedros del Líbano para hacerte el mástil.",
+      "verse": 5,
+      "start_ms": 23962,
+      "end_ms": 30437,
+      "duration_ms": 6475
+    },
+    {
+      "word": "De encinas de Basán hicieron tus remos; tus bancos de pino de las costas de Quitim, incrustados de marfil.",
+      "verse": 6,
+      "start_ms": 30437,
+      "end_ms": 37299,
+      "duration_ms": 6862
+    },
+    {
+      "word": "De lino fino bordado de Egipto era tu cortina, para que te sirviese de vela; de azul y púrpura de las costas de Elisa era tu pabellón.",
+      "verse": 7,
+      "start_ms": 37300,
+      "end_ms": 45825,
+      "duration_ms": 8525
+    },
+    {
+      "word": "Los moradores de Sidón y de Arvad fueron tus remeros; tus sabios, oh Tiro, estaban en ti; ellos fueron tus pilotos.",
+      "verse": 8,
+      "start_ms": 45825,
+      "end_ms": 53750,
+      "duration_ms": 7925
+    },
+    {
+      "word": "Los ancianos de Gebal y sus más hábiles obreros calafateaban tus junturas; todas las naves del mar y los remeros de ellas fueron a ti para negociar, para participar de tus negocios.",
+      "verse": 9,
+      "start_ms": 53750,
+      "end_ms": 64112,
+      "duration_ms": 10362
+    },
+    {
+      "word": "Persas y los de Lud y Fut fueron en tu ejército tus hombres de guerra; escudos y yelmos colgaron en ti; ellos te dieron tu esplendor.",
+      "verse": 10,
+      "start_ms": 64112,
+      "end_ms": 71987,
+      "duration_ms": 7875
+    },
+    {
+      "word": "Y los hijos de Arvad con tu ejército estuvieron sobre tus muros alrededor, y los gamadeos en tus torres; sus escudos colgaron sobre tus muros alrededor; ellos completaron tu hermosura.",
+      "verse": 11,
+      "start_ms": 71987,
+      "end_ms": 82937,
+      "duration_ms": 10950
+    },
+    {
+      "word": "Tarsis comerciaba contigo por la abundancia de todas tus riquezas; con plata, hierro, estaño y plomo comerciaba en tus ferias.",
+      "verse": 12,
+      "start_ms": 82937,
+      "end_ms": 91399,
+      "duration_ms": 8462
+    },
+    {
+      "word": "Javán, Tubal y Mesec comerciaban también contigo; con hombres y con utensilios de bronce comerciaban en tus ferias.",
+      "verse": 13,
+      "start_ms": 91400,
+      "end_ms": 98887,
+      "duration_ms": 7487
+    },
+    {
+      "word": "Los de la casa de Togarma, con caballos y corceles de guerra y mulos, comerciaban en tu mercado.",
+      "verse": 14,
+      "start_ms": 98887,
+      "end_ms": 105112,
+      "duration_ms": 6225
+    },
+    {
+      "word": "Los hijos de Dedán traficaban contigo; muchas costas tomaban mercadería de tu mano; colmillos de marfil y ébano te dieron por sus pagos.",
+      "verse": 15,
+      "start_ms": 105112,
+      "end_ms": 113462,
+      "duration_ms": 8350
+    },
+    {
+      "word": "Edom traficaba contigo por la multitud de tus productos; con perlas, púrpura, vestidos bordados, linos finos, corales y rubíes venía a tus ferias.",
+      "verse": 16,
+      "start_ms": 113462,
+      "end_ms": 123974,
+      "duration_ms": 10512
+    },
+    {
+      "word": "Judá y la tierra de Israel comerciaban contigo; con trigos de Minit y Panag, miel, aceite y resina negociaban en tus mercados.",
+      "verse": 17,
+      "start_ms": 123975,
+      "end_ms": 132450,
+      "duration_ms": 8475
+    },
+    {
+      "word": "Damasco comerciaba contigo por tus muchos productos, por la abundancia de toda riqueza; con vino de Helbón y lana blanca negociaban.",
+      "verse": 18,
+      "start_ms": 132450,
+      "end_ms": 140837,
+      "duration_ms": 8387
+    },
+    {
+      "word": "Asimismo Dan y el errante Javán vinieron a tus ferias, para negociar en tu mercado con hierro labrado, mirra destilada y caña aromática.",
+      "verse": 19,
+      "start_ms": 140837,
+      "end_ms": 149512,
+      "duration_ms": 8675
+    },
+    {
+      "word": "Dedán comerciaba contigo en paños preciosos para carros.",
+      "verse": 20,
+      "start_ms": 149512,
+      "end_ms": 153524,
+      "duration_ms": 4012
+    },
+    {
+      "word": "Arabia y todos los príncipes de Cedar traficaban contigo en corderos y carneros y machos cabríos; en estas cosas fueron tus mercaderes.",
+      "verse": 21,
+      "start_ms": 153525,
+      "end_ms": 161937,
+      "duration_ms": 8412
+    },
+    {
+      "word": "Los mercaderes de Sabá y de Raama fueron también tus mercaderes; con lo principal de toda especiería, y toda piedra preciosa, y oro, vinieron a tus ferias.",
+      "verse": 22,
+      "start_ms": 161937,
+      "end_ms": 171874,
+      "duration_ms": 9937
+    },
+    {
+      "word": "Harán, Cane, Edén, y los mercaderes de Sabá, de Asiria y de Quilmad, contrataban contigo.",
+      "verse": 23,
+      "start_ms": 171875,
+      "end_ms": 179037,
+      "duration_ms": 7162
+    },
+    {
+      "word": "Estos mercaderes tuyos negociaban contigo en varias cosas; en mantos de azul y bordados, y en cajas de ropas preciosas, enlazadas con cordones, y en madera de cedro.",
+      "verse": 24,
+      "start_ms": 179037,
+      "end_ms": 189924,
+      "duration_ms": 10887
+    },
+    {
+      "word": "Las naves de Tarsis eran como tus caravanas que traían tus mercancías; así llegaste a ser opulenta, te multiplicaste en gran manera en medio de los mares.",
+      "verse": 25,
+      "start_ms": 189925,
+      "end_ms": 199487,
+      "duration_ms": 9562
+    },
+    {
+      "word": "En muchas aguas te engolfaron tus remeros; viento solano te quebrantó en medio de los mares.",
+      "verse": 26,
+      "start_ms": 199487,
+      "end_ms": 205562,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Tus riquezas, tus mercaderías, tu tráfico, tus remeros, tus pilotos, tus calafateadores y los agentes de tus negocios, y todos tus hombres de guerra que hay en ti, con toda tu compañía que en medio de ti se halla, caerán en medio de los mares el día de tu caída.",
+      "verse": 27,
+      "start_ms": 205562,
+      "end_ms": 222337,
+      "duration_ms": 16775
+    },
+    {
+      "word": "Al estrépito de las voces de tus marineros temblarán las costas.",
+      "verse": 28,
+      "start_ms": 222337,
+      "end_ms": 226737,
+      "duration_ms": 4400
+    },
+    {
+      "word": "Descenderán de sus naves todos los que toman remo; remeros y todos los pilotos del mar se quedarán en tierra, y harán oír su voz sobre ti, y gritarán amargamente, y echarán polvo sobre sus cabezas, y se revolcarán en ceniza.",
+      "verse": 29,
+      "start_ms": 226737,
+      "end_ms": 240324,
+      "duration_ms": 13587
+    },
+    {
+      "word": "Se raerán por ti los cabellos, se ceñirán de cilicio, y endecharán por ti endechas amargas, con amargura del alma.",
+      "verse": 31,
+      "start_ms": 240325,
+      "end_ms": 247875,
+      "duration_ms": 7550
+    },
+    {
+      "word": "Y levantarán sobre ti endechas en sus lamentaciones, y endecharán sobre ti, diciendo: ¿Quién como Tiro, como la destruida en medio del mar?",
+      "verse": 32,
+      "start_ms": 247875,
+      "end_ms": 257037,
+      "duration_ms": 9162
+    },
+    {
+      "word": "Cuando",
+      "verse": 33,
+      "start_ms": 257037,
+      "end_ms": 258462,
+      "duration_ms": 1425
+    },
+    {
+      "word": "tus mercaderías salían de las naves, saciabas a muchos pueblos; a los reyes de la tierra enriqueciste con la multitud de tus riquezas y de tu comercio.",
+      "verse": 33,
+      "start_ms": 258628,
+      "end_ms": 267490,
+      "duration_ms": 8862
+    },
+    {
+      "word": "En el tiempo en que seas quebrantada por los mares en lo profundo de las aguas, tu comercio y toda tu compañía caerán en medio de ti.",
+      "verse": 34,
+      "start_ms": 267440,
+      "end_ms": 275177,
+      "duration_ms": 7737
+    },
+    {
+      "word": "Todos los moradores de las costas se maravillarán sobre ti, y sus reyes temblarán de espanto; demudarán sus rostros.",
+      "verse": 35,
+      "start_ms": 275178,
+      "end_ms": 282565,
+      "duration_ms": 7387
+    },
+    {
+      "word": "Los mercaderes en los pueblos silbarán contra ti; vendrás a ser espanto, y para siempre dejarás de ser.",
+      "verse": 36,
+      "start_ms": 282565,
+      "end_ms": 289177,
+      "duration_ms": 6612
+    }
+  ]
+}

@@ -1,0 +1,523 @@
+{
+  "book": "EZE",
+  "chapter": 36,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 38,
+  "word_count": 35,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 101,
+      "text": "Tú, hijo de hombre, profetiza a los montes de Israel, y di: Montes de Israel, oíd palabra de Jehová."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 101,
+      "char_end": 236,
+      "text": "Así ha dicho Jehová el Señor: Por cuanto el enemigo dijo de vosotros: ¡Ea! también las alturas eternas nos han sido dadas por heredad;"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 236,
+      "char_end": 473,
+      "text": "profetiza, por tanto, y di: Así ha dicho Jehová el Señor: Por cuanto os asolaron y os tragaron de todas partes, para que fueseis heredad de las otras naciones, y se os ha hecho caer en boca de habladores y ser el oprobio de los pueblos,"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 473,
+      "char_end": 756,
+      "text": "por tanto, montes de Israel, oíd palabra de Jehová el Señor: Así ha dicho Jehová el Señor a los montes y a los collados, a los arroyos y a los valles, a las ruinas y asolamientos y a las ciudades desamparadas, que fueron puestas por botín y escarnio de las otras naciones alrededor;"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 756,
+      "char_end": 1028,
+      "text": "por eso, así ha dicho Jehová el Señor: He hablado por cierto en el fuego de mi celo contra las demás naciones, y contra todo Edom, que se disputaron mi tierra por heredad con alegría, de todo corazón y con enconamiento de ánimo, para que sus expulsados fuesen presa suya."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 1028,
+      "char_end": 1274,
+      "text": "Por tanto, profetiza sobre la tierra de Israel, y di a los montes y a los collados, y a los arroyos y a los valles: Así ha dicho Jehová el Señor: He aquí, en mi celo y en mi furor he hablado, por cuanto habéis llevado el oprobio de las naciones."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 1274,
+      "char_end": 1421,
+      "text": "Por lo cual así ha dicho Jehová el Señor: Yo he alzado mi mano, he jurado que las naciones que están a vuestro alrededor han de llevar su afrenta."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1421,
+      "char_end": 1559,
+      "text": "Mas vosotros, oh montes de Israel, daréis vuestras ramas, y llevaréis vuestro fruto para mi pueblo Israel; porque cerca están para venir."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1559,
+      "char_end": 1654,
+      "text": "Porque he aquí, yo estoy por vosotros, y a vosotros me volveré, y seréis labrados y sembrados."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1654,
+      "char_end": 1791,
+      "text": "Y haré multiplicar sobre vosotros hombres, a toda la casa de Israel, toda ella; y las ciudades serán habitadas, y edificadas las ruinas."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1791,
+      "char_end": 1992,
+      "text": "Multiplicaré sobre vosotros hombres y ganado, y serán multiplicados y crecerán; y os haré morar como solíais antiguamente, y os haré mayor bien que en vuestros principios; y sabréis que yo soy Jehová."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1992,
+      "char_end": 2135,
+      "text": "Y haré andar hombres sobre vosotros, a mi pueblo Israel; y tomarán posesión de ti, y les serás por heredad, y nunca más les matarás los hijos."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 2135,
+      "char_end": 2263,
+      "text": "Así ha dicho Jehová el Señor: Por cuanto dicen de vosotros: Comedora de hombres, y matadora de los hijos de tu nación has sido;"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 2263,
+      "char_end": 2368,
+      "text": "por tanto, no devorarás más hombres, y nunca más matarás a los hijos de tu nación, dice Jehová el Señor."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2368,
+      "char_end": 2518,
+      "text": "Y nunca más te haré oír injuria de naciones, ni más llevarás denuestos de pueblos, ni harás más morir a los hijos de tu nación, dice Jehová el Señor."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2518,
+      "char_end": 2557,
+      "text": "Vino a mí palabra de Jehová, diciendo:"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2557,
+      "char_end": 2726,
+      "text": "Hijo de hombre, mientras la casa de Israel moraba en su tierra, la contaminó con sus caminos y con sus obras; como inmundicia de menstruosa fue su camino delante de mí."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2726,
+      "char_end": 2840,
+      "text": "Y derramé mi ira sobre ellos por la sangre que derramaron sobre la tierra; porque con sus ídolos la contaminaron."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2840,
+      "char_end": 2966,
+      "text": "Les esparcí por las naciones, y fueron dispersados por las tierras; conforme a sus caminos y conforme a sus obras les juzgué."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2966,
+      "char_end": 3124,
+      "text": "Y cuando llegaron a las naciones adonde fueron, profanaron mi santo nombre, diciéndose de ellos: éstos son pueblo de Jehová, y de la tierra de él han salido."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 3124,
+      "char_end": 3234,
+      "text": "Pero he tenido dolor al ver mi santo nombre profanado por la casa de Israel entre las naciones adonde fueron."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3234,
+      "char_end": 3450,
+      "text": "Por tanto, di a la casa de Israel: Así ha dicho Jehová el Señor: No lo hago por vosotros, oh casa de Israel, sino por causa de mi santo nombre, el cual profanasteis vosotros entre las naciones adonde habéis llegado."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3450,
+      "char_end": 3680,
+      "text": "Y santificaré mi grande nombre, profanado entre las naciones, el cual profanasteis vosotros en medio de ellas; y sabrán las naciones que yo soy Jehová, dice Jehová el Señor, cuando sea santificado en vosotros delante de sus ojos."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3680,
+      "char_end": 3776,
+      "text": "Y yo os tomaré de las naciones, y os recogeré de todas las tierras, y os traeré a vuestro país."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3776,
+      "char_end": 3904,
+      "text": "Esparciré sobre vosotros agua limpia, y seréis limpiados de todas vuestras inmundicias; y de todos vuestros ídolos os limpiaré."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3904,
+      "char_end": 4051,
+      "text": "Os daré corazón nuevo, y pondré espíritu nuevo dentro de vosotros; y quitaré de vuestra carne el corazón de piedra, y os daré un corazón de carne."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 4051,
+      "char_end": 4178,
+      "text": "Y pondré dentro de vosotros mi Espíritu, y haré que andéis en mis estatutos, y guardéis mis preceptos, y los pongáis por obra."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 4178,
+      "char_end": 4292,
+      "text": "Habitaréis en la tierra que di a vuestros padres, y vosotros me seréis por pueblo, y yo seré a vosotros por Dios."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 4292,
+      "char_end": 4397,
+      "text": "Y os guardaré de todas vuestras inmundicias; y llamaré al trigo, y lo multiplicaré, y no os daré hambre."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4397,
+      "char_end": 4536,
+      "text": "Multiplicaré asimismo el fruto de los árboles, y el fruto de los campos, para que nunca más recibáis oprobio de hambre entre las naciones."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4536,
+      "char_end": 4714,
+      "text": "Y os acordaréis de vuestros malos caminos, y de vuestras obras que no fueron buenas; y os avergonzaréis de vosotros mismos por vuestras iniquidades y por vuestras abominaciones."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4714,
+      "char_end": 4852,
+      "text": "No lo hago por vosotros, dice Jehová el Señor, sabedlo bien; avergonzaos y cubríos de confusión por vuestras iniquidades, casa de Israel."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4852,
+      "char_end": 5013,
+      "text": "Así ha dicho Jehová el Señor: El día que os limpie de todas vuestras iniquidades, haré también que sean habitadas las ciudades, y las ruinas serán reedificadas."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 5013,
+      "char_end": 5118,
+      "text": "Y la tierra asolada será labrada, en lugar de haber permanecido asolada a ojos de todos los que pasaron."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 5118,
+      "char_end": 5288,
+      "text": "Y dirán: Esta tierra que era asolada ha venido a ser como el huerto de Edén; y estas ciudades que eran desiertas y asoladas y arruinadas, están fortificadas y habitadas."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 5288,
+      "char_end": 5454,
+      "text": "Y las naciones que queden en vuestros alrededores sabrán que yo reedifiqué lo que estaba derribado, y planté lo que estaba desolado; yo Jehová he hablado, y lo haré."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 5454,
+      "char_end": 5605,
+      "text": "Así ha dicho Jehová el Señor: Aún seré solicitado por la casa de Israel, para hacerles esto; multiplicaré los hombres como se multiplican los rebaños."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 5605,
+      "char_end": 5779,
+      "text": "Como las ovejas consagradas, como las ovejas de Jerusalén en sus fiestas solemnes, así las ciudades desiertas serán llenas de rebaños de hombres; y sabrán que yo soy Jehová."
+    }
+  ],
+  "words": [
+    {
+      "word": "Tú, hijo de hombre, profetiza a los montes de Israel, y di: Montes de Israel, oíd palabra de Jehová.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7562,
+      "duration_ms": 7462
+    },
+    {
+      "word": "Así ha dicho Jehová el Señor: Por cuanto el enemigo dijo de vosotros: ¡Ea! también las alturas eternas nos han sido dadas por heredad; profetiza, por tanto, y di: Así ha dicho Jehová el Señor: Por cuanto os asolaron y os tragaron de todas partes, para que fueseis heredad de las otras naciones, y se os ha hecho caer en boca de habladores y ser el oprobio de los pueblos, por tanto, montes de Israel, oíd palabra de Jehová el Señor: Así ha dicho Jehová el Señor a los montes y a los collados, a los",
+      "verse": 2,
+      "start_ms": 7512,
+      "end_ms": 37074,
+      "duration_ms": 29562
+    },
+    {
+      "word": "arroyos y a los valles, a las ruinas y asolamientos y a las ciudades desamparadas, que fueron puestas por botín y escarnio de las otras naciones alrededor; por eso, así ha dicho Jehová el Señor: He hablado por cierto en el fuego de mi celo contra las demás naciones, y contra todo Edom, que se disputaron mi tierra por heredad con alegría, de todo corazón y con enconamiento de ánimo, para que sus expulsados fuesen presa suya.",
+      "verse": 4,
+      "start_ms": 37075,
+      "end_ms": 61687,
+      "duration_ms": 24612
+    },
+    {
+      "word": "Por tanto, profetiza sobre la tierra de Israel, y di a los montes y a los collados, y a los arroyos y a los valles: Así ha dicho Jehová el Señor: He aquí, en mi celo y en mi furor he hablado, por cuanto habéis llevado el oprobio de las naciones.",
+      "verse": 6,
+      "start_ms": 61687,
+      "end_ms": 76574,
+      "duration_ms": 14887
+    },
+    {
+      "word": "Por lo cual así ha dicho Jehová el Señor: Yo he alzado mi mano, he jurado que las naciones que están a vuestro alrededor han de llevar su afrenta.",
+      "verse": 7,
+      "start_ms": 76575,
+      "end_ms": 84912,
+      "duration_ms": 8337
+    },
+    {
+      "word": "Mas vosotros, oh montes de Israel, daréis vuestras ramas, y llevaréis vuestro fruto para mi pueblo Israel; porque cerca están para venir.",
+      "verse": 8,
+      "start_ms": 84912,
+      "end_ms": 93799,
+      "duration_ms": 8887
+    },
+    {
+      "word": "Porque he aquí, yo estoy por vosotros, y a vosotros me volveré, y seréis labrados y sembrados.",
+      "verse": 9,
+      "start_ms": 93800,
+      "end_ms": 100512,
+      "duration_ms": 6712
+    },
+    {
+      "word": "Y haré multiplicar sobre vosotros hombres, a toda la casa de Israel, toda ella; y las ciudades serán habitadas, y edificadas las ruinas.",
+      "verse": 10,
+      "start_ms": 100512,
+      "end_ms": 109824,
+      "duration_ms": 9312
+    },
+    {
+      "word": "Multiplicaré sobre vosotros hombres y ganado, y serán multiplicados y crecerán; y os haré morar como solíais antiguamente, y os haré mayor bien que en vuestros principios; y sabréis que yo soy Jehová.",
+      "verse": 11,
+      "start_ms": 109825,
+      "end_ms": 122012,
+      "duration_ms": 12187
+    },
+    {
+      "word": "Y haré andar hombres sobre vosotros, a mi pueblo Israel; y tomarán posesión de ti, y les serás por heredad, y nunca más les matarás los hijos.",
+      "verse": 12,
+      "start_ms": 122012,
+      "end_ms": 131024,
+      "duration_ms": 9012
+    },
+    {
+      "word": "Así ha dicho Jehová el Señor: Por cuanto dicen de vosotros: Comedora de hombres, y matadora de los hijos de tu nación has sido; por tanto, no devorarás más hombres, y nunca más matarás a los hijos de tu nación, dice Jehová el Señor.",
+      "verse": 13,
+      "start_ms": 131025,
+      "end_ms": 145575,
+      "duration_ms": 14550
+    },
+    {
+      "word": "Y nunca más te haré oír injuria de naciones, ni más llevarás denuestos de pueblos, ni harás más morir a los hijos de tu nación, dice Jehová el Señor.",
+      "verse": 15,
+      "start_ms": 145575,
+      "end_ms": 154612,
+      "duration_ms": 9037
+    },
+    {
+      "word": "Vino a mí palabra de Jehová, diciendo: Hijo de hombre, mientras la casa de Israel moraba en su tierra, la contaminó con sus caminos y con sus obras; como inmundicia de menstruosa fue su camino delante de mí.",
+      "verse": 16,
+      "start_ms": 154612,
+      "end_ms": 167174,
+      "duration_ms": 12562
+    },
+    {
+      "word": "Y derramé mi ira sobre ellos por la sangre que derramaron sobre la tierra; porque con sus ídolos la contaminaron.",
+      "verse": 18,
+      "start_ms": 167175,
+      "end_ms": 173950,
+      "duration_ms": 6775
+    },
+    {
+      "word": "Les esparcí por las naciones, y fueron dispersados por las tierras; conforme a sus caminos y conforme a sus obras les juzgué.",
+      "verse": 19,
+      "start_ms": 173950,
+      "end_ms": 181712,
+      "duration_ms": 7762
+    },
+    {
+      "word": "Y cuando llegaron a las naciones adonde fueron, profanaron mi santo nombre, diciéndose de ellos: éstos son pueblo de Jehová, y de la tierra de él han salido.",
+      "verse": 20,
+      "start_ms": 181712,
+      "end_ms": 191324,
+      "duration_ms": 9612
+    },
+    {
+      "word": "Pero he tenido dolor al ver mi santo nombre profanado por la casa de Israel entre las naciones adonde fueron.",
+      "verse": 21,
+      "start_ms": 191325,
+      "end_ms": 197650,
+      "duration_ms": 6325
+    },
+    {
+      "word": "Por tanto, di a la casa de Israel: Así ha dicho Jehová el Señor: No lo hago por vosotros, oh casa de Israel, sino por causa de mi santo nombre, el cual profanasteis vosotros entre las naciones adonde habéis llegado.",
+      "verse": 22,
+      "start_ms": 197650,
+      "end_ms": 211062,
+      "duration_ms": 13412
+    },
+    {
+      "word": "Y santificaré mi grande nombre, profanado entre las naciones, el cual profanasteis vosotros en medio de ellas; y sabrán las naciones que yo soy Jehová, dice Jehová el Señor, cuando sea santificado en vosotros delante de sus ojos.",
+      "verse": 23,
+      "start_ms": 211062,
+      "end_ms": 225487,
+      "duration_ms": 14425
+    },
+    {
+      "word": "Y yo os tomaré de las naciones, y os recogeré de todas las tierras, y os traeré a vuestro país.",
+      "verse": 24,
+      "start_ms": 225487,
+      "end_ms": 232112,
+      "duration_ms": 6625
+    },
+    {
+      "word": "Esparciré sobre vosotros agua limpia, y seréis limpiados de todas vuestras inmundicias; y de todos vuestros ídolos os limpiaré.",
+      "verse": 25,
+      "start_ms": 232112,
+      "end_ms": 240462,
+      "duration_ms": 8350
+    },
+    {
+      "word": "Os daré corazón nuevo, y pondré espíritu nuevo dentro de vosotros; y quitaré de",
+      "verse": 26,
+      "start_ms": 240462,
+      "end_ms": 246337,
+      "duration_ms": 5875
+    },
+    {
+      "word": "vuestra carne el corazón de piedra, y os daré un corazón de carne.",
+      "verse": 26,
+      "start_ms": 246508,
+      "end_ms": 251120,
+      "duration_ms": 4612
+    },
+    {
+      "word": "Y pondré dentro de vosotros mi Espíritu, y haré que andéis en mis estatutos, y guardéis mis preceptos, y los pongáis por obra.",
+      "verse": 27,
+      "start_ms": 251070,
+      "end_ms": 259157,
+      "duration_ms": 8087
+    },
+    {
+      "word": "Habitaréis en la tierra que di a vuestros padres, y vosotros me seréis por pueblo, y yo seré a vosotros por Dios.",
+      "verse": 28,
+      "start_ms": 259158,
+      "end_ms": 266333,
+      "duration_ms": 7175
+    },
+    {
+      "word": "Y os guardaré de todas vuestras inmundicias; y llamaré al trigo, y lo multiplicaré, y no os daré hambre.",
+      "verse": 29,
+      "start_ms": 266333,
+      "end_ms": 273570,
+      "duration_ms": 7237
+    },
+    {
+      "word": "Multiplicaré asimismo el fruto de los árboles, y el fruto de los campos, para que nunca más recibáis oprobio de hambre entre las naciones.",
+      "verse": 30,
+      "start_ms": 273570,
+      "end_ms": 282020,
+      "duration_ms": 8450
+    },
+    {
+      "word": "Y os acordaréis de vuestros malos caminos, y de vuestras obras que no fueron buenas; y os avergonzaréis de vosotros mismos por vuestras iniquidades y por vuestras abominaciones.",
+      "verse": 31,
+      "start_ms": 282020,
+      "end_ms": 292432,
+      "duration_ms": 10412
+    },
+    {
+      "word": "No lo hago por vosotros, dice Jehová el Señor, sabedlo bien; avergonzaos y cubríos de confusión por vuestras iniquidades, casa de Israel.",
+      "verse": 32,
+      "start_ms": 292433,
+      "end_ms": 301858,
+      "duration_ms": 9425
+    },
+    {
+      "word": "Así ha dicho Jehová el Señor: El día que os limpie de todas vuestras iniquidades, haré también que sean habitadas las ciudades, y las ruinas serán reedificadas.",
+      "verse": 33,
+      "start_ms": 301858,
+      "end_ms": 311983,
+      "duration_ms": 10125
+    },
+    {
+      "word": "Y la tierra asolada será labrada, en lugar de haber permanecido asolada a ojos de todos los que pasaron.",
+      "verse": 34,
+      "start_ms": 311983,
+      "end_ms": 318708,
+      "duration_ms": 6725
+    },
+    {
+      "word": "Y dirán: Esta tierra que era asolada ha venido a ser como el huerto de Edén; y estas ciudades que eran desiertas y asoladas y arruinadas, están fortificadas y habitadas.",
+      "verse": 35,
+      "start_ms": 318708,
+      "end_ms": 329283,
+      "duration_ms": 10575
+    },
+    {
+      "word": "Y las naciones que queden en vuestros alrededores sabrán que yo reedifiqué lo que estaba derribado, y planté lo que estaba desolado; yo Jehová he hablado, y lo haré.",
+      "verse": 36,
+      "start_ms": 329283,
+      "end_ms": 338845,
+      "duration_ms": 9562
+    },
+    {
+      "word": "Así ha dicho Jehová el Señor: Aún seré solicitado por la casa de Israel, para hacerles esto; multiplicaré los hombres como se multiplican los rebaños.",
+      "verse": 37,
+      "start_ms": 338845,
+      "end_ms": 348370,
+      "duration_ms": 9525
+    },
+    {
+      "word": "Como las ovejas consagradas, como las ovejas de Jerusalén en sus fiestas solemnes, así las ciudades desiertas serán llenas de rebaños de hombres; y sabrán que yo soy Jehová.",
+      "verse": 38,
+      "start_ms": 348370,
+      "end_ms": 358757,
+      "duration_ms": 10387
+    }
+  ]
+}

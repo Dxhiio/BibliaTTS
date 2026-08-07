@@ -1,0 +1,96 @@
+{
+  "book": "ISA",
+  "chapter": 12,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 6,
+  "word_count": 6,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 126,
+      "text": "En aquel día dirás: Cantaré a ti, oh Jehová; pues aunque te enojaste contra mí, tu indignación se apartó, y me has consolado."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 126,
+      "char_end": 264,
+      "text": "He aquí Dios es salvación mía; me aseguraré y no temeré; porque mi fortaleza y mi canción es JAH Jehová, quien ha sido salvación para mí."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 264,
+      "char_end": 320,
+      "text": "Sacaréis con gozo aguas de las fuentes de la salvación."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 320,
+      "char_end": 460,
+      "text": "Y diréis en aquel día: Cantad a Jehová, aclamad su nombre, haced célebres en los pueblos sus obras, recordad que su nombre es engrandecido."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 460,
+      "char_end": 554,
+      "text": "Cantad salmos a Jehová, porque ha hecho cosas magníficas; sea sabido esto por toda la tierra."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 554,
+      "char_end": 647,
+      "text": "Regocíjate y canta, oh moradora de Sion; porque grande es en medio de ti el Santo de Israel."
+    }
+  ],
+  "words": [
+    {
+      "word": "En aquel día dirás: Cantaré a ti, oh Jehová; pues aunque te enojaste contra mí, tu indignación se apartó, y me has consolado.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 8537,
+      "duration_ms": 8437
+    },
+    {
+      "word": "He aquí Dios es salvación mía; me aseguraré y no temeré; porque mi fortaleza y mi canción es JAH Jehová, quien ha sido salvación para mí.",
+      "verse": 2,
+      "start_ms": 8487,
+      "end_ms": 17624,
+      "duration_ms": 9137
+    },
+    {
+      "word": "Sacaréis con gozo aguas de las fuentes de la salvación.",
+      "verse": 3,
+      "start_ms": 17625,
+      "end_ms": 21487,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Y diréis en aquel día: Cantad a Jehová, aclamad su nombre, haced célebres en los pueblos sus obras, recordad que su nombre es engrandecido.",
+      "verse": 4,
+      "start_ms": 21487,
+      "end_ms": 30599,
+      "duration_ms": 9112
+    },
+    {
+      "word": "Cantad salmos a Jehová, porque ha hecho cosas magníficas; sea sabido esto por toda la tierra.",
+      "verse": 5,
+      "start_ms": 30600,
+      "end_ms": 37125,
+      "duration_ms": 6525
+    },
+    {
+      "word": "Regocíjate y canta, oh moradora de Sion; porque grande es en medio de ti el Santo de Israel.",
+      "verse": 6,
+      "start_ms": 37125,
+      "end_ms": 43587,
+      "duration_ms": 6462
+    }
+  ]
+}

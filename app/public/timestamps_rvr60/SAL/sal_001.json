@@ -1,0 +1,89 @@
+{
+  "book": "SAL",
+  "chapter": 1,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 6,
+  "word_count": 5,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 138,
+      "text": "Bienaventurado el varón que no anduvo en consejo de malos, Ni estuvo en camino de pecadores, Ni en silla de escarnecedores se ha sentado;"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 138,
+      "char_end": 222,
+      "text": "Sino que en la ley de Jehová está su delicia, Y en su ley medita de día y de noche."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 222,
+      "char_end": 356,
+      "text": "Será como árbol plantado junto a corrientes de aguas, Que da su fruto en su tiempo, Y su hoja no cae; Y todo lo que hace, prosperará."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 356,
+      "char_end": 419,
+      "text": "No así los malos, Que son como el tamo que arrebata el viento."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 419,
+      "char_end": 522,
+      "text": "Por tanto, no se levantarán los malos en el juicio, Ni los pecadores en la congregación de los justos."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 522,
+      "char_end": 604,
+      "text": "Porque Jehová conoce el camino de los justos; Mas la senda de los malos perecerá."
+    }
+  ],
+  "words": [
+    {
+      "word": "Bienaventurado el varón que no anduvo en consejo de malos, Ni estuvo en camino de pecadores, Ni en silla de escarnecedores se ha sentado; Sino que en la ley de Jehová está su delicia, Y en su ley medita de día y de noche.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 12887,
+      "duration_ms": 12787
+    },
+    {
+      "word": "Será como árbol plantado junto a corrientes de aguas, Que da su fruto en su tiempo, Y su hoja no cae; Y todo lo que hace, prosperará.",
+      "verse": 3,
+      "start_ms": 12837,
+      "end_ms": 21662,
+      "duration_ms": 8825
+    },
+    {
+      "word": "No así los malos, Que son como el tamo que arrebata el viento.",
+      "verse": 4,
+      "start_ms": 21662,
+      "end_ms": 26024,
+      "duration_ms": 4362
+    },
+    {
+      "word": "Por tanto, no se levantarán los malos en el juicio, Ni los pecadores en la congregación de los justos.",
+      "verse": 5,
+      "start_ms": 26025,
+      "end_ms": 32412,
+      "duration_ms": 6387
+    },
+    {
+      "word": "Porque Jehová conoce el camino de los justos; Mas la senda de los malos perecerá.",
+      "verse": 6,
+      "start_ms": 32412,
+      "end_ms": 37887,
+      "duration_ms": 5475
+    }
+  ]
+}

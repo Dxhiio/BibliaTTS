@@ -1,0 +1,803 @@
+{
+  "book": "JUA",
+  "chapter": 5,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 54,
+  "word_count": 59,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 113,
+      "text": "Cuando, pues, el Señor entendió que los fariseos habían oído decir: Jesús hace y bautiza más discípulos que Juan"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 113,
+      "char_end": 163,
+      "text": "(aunque Jesús no bautizaba, sino sus discípulos),"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 163,
+      "char_end": 208,
+      "text": "salió de Judea, y se fue otra vez a Galilea."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 208,
+      "char_end": 246,
+      "text": "Y le era necesario pasar por Samaria."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 246,
+      "char_end": 346,
+      "text": "Vino, pues, a una ciudad de Samaria llamada Sicar, junto a la heredad que Jacob dio a su hijo José."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 346,
+      "char_end": 466,
+      "text": "Y estaba allí el pozo de Jacob. Entonces Jesús, cansado del camino, se sentó así junto al pozo. Era como la hora sexta."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 466,
+      "char_end": 538,
+      "text": "Vino una mujer de Samaria a sacar agua; y Jesús le dijo: Dame de beber."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 538,
+      "char_end": 601,
+      "text": "Pues sus discípulos habían ido a la ciudad a comprar de comer."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 601,
+      "char_end": 755,
+      "text": "La mujer samaritana le dijo: ¿Cómo tú, siendo judío, me pides a mí de beber, que soy mujer samaritana? Porque judíos y samaritanos no se tratan entre sí."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 755,
+      "char_end": 895,
+      "text": "Respondió Jesús y le dijo: Si conocieras el don de Dios, y quién es el que te dice: Dame de beber; tú le pedirías, y él te daría agua viva."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 895,
+      "char_end": 1005,
+      "text": "La mujer le dijo: Señor, no tienes con qué sacarla, y el pozo es hondo. ¿De dónde, pues, tienes el agua viva?"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1005,
+      "char_end": 1121,
+      "text": "¿Acaso eres tú mayor que nuestro padre Jacob, que nos dio este pozo, del cual bebieron él, sus hijos y sus ganados?"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1121,
+      "char_end": 1206,
+      "text": "Respondió Jesús y le dijo: Cualquiera que bebiere de esta agua, volverá a tener sed;"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1206,
+      "char_end": 1361,
+      "text": "mas el que bebiere del agua que yo le daré, no tendrá sed jamás; sino que el agua que yo le daré será en él una fuente de agua que salte para vida eterna."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1361,
+      "char_end": 1452,
+      "text": "La mujer le dijo: Señor, dame esa agua, para que no tenga yo sed, ni venga aquí a sacarla."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1452,
+      "char_end": 1501,
+      "text": "Jesús le dijo: Ve, llama a tu marido, y ven acá."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1501,
+      "char_end": 1593,
+      "text": "Respondió la mujer y dijo: No tengo marido. Jesús le dijo: Bien has dicho: No tengo marido;"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1593,
+      "char_end": 1692,
+      "text": "porque cinco maridos has tenido, y el que ahora tienes no es tu marido; esto has dicho con verdad."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1692,
+      "char_end": 1748,
+      "text": "Le dijo la mujer: Señor, me parece que tú eres profeta."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1748,
+      "char_end": 1856,
+      "text": "Nuestros padres adoraron en este monte, y vosotros decís que en Jerusalén es el lugar donde se debe adorar."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1856,
+      "char_end": 1964,
+      "text": "Jesús le dijo: Mujer, créeme, que la hora viene cuando ni en este monte ni en Jerusalén adoraréis al Padre."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1964,
+      "char_end": 2074,
+      "text": "Vosotros adoráis lo que no sabéis; nosotros adoramos lo que sabemos; porque la salvación viene de los judíos."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2074,
+      "char_end": 2243,
+      "text": "Mas la hora viene, y ahora es, cuando los verdaderos adoradores adorarán al Padre en espíritu y en verdad; porque también el Padre tales adoradores busca que le adoren."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2243,
+      "char_end": 2331,
+      "text": "Dios es Espíritu; y los que le adoran, en espíritu y en verdad es necesario que adoren."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2331,
+      "char_end": 2445,
+      "text": "Le dijo la mujer: Sé que ha de venir el Mesías, llamado el Cristo; cuando él venga nos declarará todas las cosas."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2445,
+      "char_end": 2490,
+      "text": "Jesús le dijo: Yo soy, el que habla contigo."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2490,
+      "char_end": 2639,
+      "text": "En esto vinieron sus discípulos, y se maravillaron de que hablaba con una mujer; sin embargo, ninguno dijo: ¿Qué preguntas? o, ¿Qué hablas con ella?"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2639,
+      "char_end": 2715,
+      "text": "Entonces la mujer dejó su cántaro, y fue a la ciudad, y dijo a los hombres:"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2715,
+      "char_end": 2801,
+      "text": "Venid, ved a un hombre que me ha dicho todo cuanto he hecho. ¿No será éste el Cristo?"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2801,
+      "char_end": 2850,
+      "text": "Entonces salieron de la ciudad, y vinieron a él."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2850,
+      "char_end": 2912,
+      "text": "Entre tanto, los discípulos le rogaban, diciendo: Rabí, come."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2912,
+      "char_end": 2980,
+      "text": "Él les dijo: Yo tengo una comida que comer, que vosotros no sabéis."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 2980,
+      "char_end": 3060,
+      "text": "Entonces los discípulos decían unos a otros: ¿Le habrá traído alguien de comer?"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3060,
+      "char_end": 3149,
+      "text": "Jesús les dijo: Mi comida es que haga la voluntad del que me envió, y que acabe su obra."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3149,
+      "char_end": 3315,
+      "text": "¿No decís vosotros: Aún faltan cuatro meses para que llegue la siega? He aquí os digo: Alzad vuestros ojos y mirad los campos, porque ya están blancos para la siega."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3315,
+      "char_end": 3437,
+      "text": "Y el que siega recibe salario, y recoge fruto para vida eterna, para que el que siembra goce juntamente con el que siega."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3437,
+      "char_end": 3522,
+      "text": "Porque en esto es verdadero el dicho: Uno es el que siembra, y otro es el que siega."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 3522,
+      "char_end": 3636,
+      "text": "Yo os he enviado a segar lo que vosotros no labrasteis; otros labraron, y vosotros habéis entrado en sus labores."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 3636,
+      "char_end": 3785,
+      "text": "Y muchos de los samaritanos de aquella ciudad creyeron en él por la palabra de la mujer, que daba testimonio diciendo: Me dijo todo lo que he hecho."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 3785,
+      "char_end": 3889,
+      "text": "Entonces vinieron los samaritanos a él y le rogaron que se quedase con ellos; y se quedó allí dos días."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 3889,
+      "char_end": 3933,
+      "text": "Y creyeron muchos más por la palabra de él,"
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 3933,
+      "char_end": 4129,
+      "text": "y decían a la mujer: Ya no creemos solamente por tu dicho, porque nosotros mismos hemos oído, y sabemos que verdaderamente éste es el Salvador del mundo, el Cristo. Jesús sana al hijo de un noble"
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4129,
+      "char_end": 4178,
+      "text": "Dos días después, salió de allí y fue a Galilea."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 4178,
+      "char_end": 4266,
+      "text": "Porque Jesús mismo dio testimonio de que el profeta no tiene honra en su propia tierra."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 4266,
+      "char_end": 4437,
+      "text": "Cuando vino a Galilea, los galileos le recibieron, habiendo visto todas las cosas que había hecho en Jerusalén, en la fiesta; porque también ellos habían ido a la fiesta."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 4437,
+      "char_end": 4590,
+      "text": "Vino, pues, Jesús otra vez a Caná de Galilea, donde había convertido el agua en vino. Y había en Capernaum un oficial del rey, cuyo hijo estaba enfermo."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 4590,
+      "char_end": 4736,
+      "text": "Éste, cuando oyó que Jesús había llegado de Judea a Galilea, vino a él y le rogó que descendiese y sanase a su hijo, que estaba a punto de morir."
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 4736,
+      "char_end": 4808,
+      "text": "Entonces Jesús le dijo: Si no viereis señales y prodigios, no creeréis."
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 4808,
+      "char_end": 4878,
+      "text": "El oficial del rey le dijo: Señor, desciende antes que mi hijo muera."
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 4878,
+      "char_end": 4969,
+      "text": "Jesús le dijo: Ve, tu hijo vive. Y el hombre creyó la palabra que Jesús le dijo, y se fue."
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 4969,
+      "char_end": 5071,
+      "text": "Cuando ya él descendía, sus siervos salieron a recibirle, y le dieron nuevas, diciendo: Tu hijo vive."
+    },
+    {
+      "verse": 52,
+      "label": "52",
+      "char_start": 5071,
+      "char_end": 5188,
+      "text": "Entonces él les preguntó a qué hora había comenzado a estar mejor. Y le dijeron: Ayer a las siete le dejó la fiebre."
+    },
+    {
+      "verse": 53,
+      "label": "53",
+      "char_start": 5188,
+      "char_end": 5311,
+      "text": "El padre entonces entendió que aquélla era la hora en que Jesús le había dicho: Tu hijo vive; y creyó él con toda su casa."
+    },
+    {
+      "verse": 54,
+      "label": "54",
+      "char_start": 5311,
+      "char_end": 5373,
+      "text": "Esta segunda señal hizo Jesús, cuando fue de Judea a Galilea."
+    }
+  ],
+  "words": [
+    {
+      "word": "Cuando, pues, el Señor entendió que los fariseos habían oído decir: Jesús hace y bautiza más discípulos que Juan (aunque Jesús no bautizaba, sino sus discípulos), salió de Judea, y se fue otra vez a Galilea.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 13962,
+      "duration_ms": 13862
+    },
+    {
+      "word": "Y le era necesario pasar por Samaria.",
+      "verse": 4,
+      "start_ms": 13912,
+      "end_ms": 16987,
+      "duration_ms": 3075
+    },
+    {
+      "word": "Vino, pues, a una ciudad de Samaria llamada Sicar, junto a la heredad que Jacob dio a su hijo José.",
+      "verse": 5,
+      "start_ms": 16987,
+      "end_ms": 24137,
+      "duration_ms": 7150
+    },
+    {
+      "word": "Y estaba allí el pozo de Jacob.",
+      "verse": 6,
+      "start_ms": 24137,
+      "end_ms": 26887,
+      "duration_ms": 2750
+    },
+    {
+      "word": "Entonces Jesús, cansado del camino, se sentó así junto al pozo.",
+      "verse": 6,
+      "start_ms": 26887,
+      "end_ms": 31974,
+      "duration_ms": 5087
+    },
+    {
+      "word": "Era como la hora sexta.",
+      "verse": 6,
+      "start_ms": 31975,
+      "end_ms": 34337,
+      "duration_ms": 2362
+    },
+    {
+      "word": "Vino una mujer de Samaria a sacar agua; y Jesús le dijo: Dame de beber.",
+      "verse": 7,
+      "start_ms": 34337,
+      "end_ms": 39837,
+      "duration_ms": 5500
+    },
+    {
+      "word": "Pues sus discípulos habían ido a la ciudad a comprar de comer.",
+      "verse": 8,
+      "start_ms": 39837,
+      "end_ms": 43849,
+      "duration_ms": 4012
+    },
+    {
+      "word": "La mujer samaritana le dijo: ¿Cómo tú, siendo judío, me pides a mí de beber, que soy mujer samaritana?",
+      "verse": 9,
+      "start_ms": 43850,
+      "end_ms": 51375,
+      "duration_ms": 7525
+    },
+    {
+      "word": "Porque judíos y samaritanos no se tratan entre sí.",
+      "verse": 9,
+      "start_ms": 51375,
+      "end_ms": 55062,
+      "duration_ms": 3687
+    },
+    {
+      "word": "Respondió Jesús y le dijo: Si conocieras el don de Dios, y quién es el que te dice: Dame de beber; tú le pedirías, y él te daría agua viva.",
+      "verse": 10,
+      "start_ms": 55062,
+      "end_ms": 64712,
+      "duration_ms": 9650
+    },
+    {
+      "word": "La mujer le dijo: Señor, no tienes con qué sacarla, y el pozo es hondo.",
+      "verse": 11,
+      "start_ms": 64712,
+      "end_ms": 70262,
+      "duration_ms": 5550
+    },
+    {
+      "word": "De dónde, pues, tienes el agua viva?",
+      "verse": 11,
+      "start_ms": 70262,
+      "end_ms": 73637,
+      "duration_ms": 3375
+    },
+    {
+      "word": "Acaso eres tú mayor que nuestro padre Jacob, que nos dio este pozo, del cual bebieron él, sus hijos y sus ganados?",
+      "verse": 12,
+      "start_ms": 73637,
+      "end_ms": 81387,
+      "duration_ms": 7750
+    },
+    {
+      "word": "Respondió Jesús y le dijo: Cualquiera que bebiere de esta agua, volverá a tener sed; mas el que bebiere del agua que yo le daré, no tendrá sed jamás; sino que el agua que yo le daré será en él una fuente de agua que salte para vida eterna.",
+      "verse": 13,
+      "start_ms": 81387,
+      "end_ms": 96012,
+      "duration_ms": 14625
+    },
+    {
+      "word": "La mujer le dijo: Señor, dame esa agua, para que no tenga yo sed, ni venga aquí a sacarla.",
+      "verse": 15,
+      "start_ms": 96012,
+      "end_ms": 102974,
+      "duration_ms": 6962
+    },
+    {
+      "word": "Jesús le dijo: Ve, llama a tu marido, y ven acá.",
+      "verse": 16,
+      "start_ms": 102975,
+      "end_ms": 107587,
+      "duration_ms": 4612
+    },
+    {
+      "word": "Respondió la mujer y dijo: No tengo marido.",
+      "verse": 17,
+      "start_ms": 107587,
+      "end_ms": 111237,
+      "duration_ms": 3650
+    },
+    {
+      "word": "Jesús le dijo: Bien has dicho: No tengo marido; porque cinco maridos has tenido, y el que ahora tienes no es tu marido; esto has dicho con verdad.",
+      "verse": 17,
+      "start_ms": 111237,
+      "end_ms": 121099,
+      "duration_ms": 9862
+    },
+    {
+      "word": "Le dijo la mujer: Señor, me parece que tú eres profeta.",
+      "verse": 19,
+      "start_ms": 121100,
+      "end_ms": 125637,
+      "duration_ms": 4537
+    },
+    {
+      "word": "Nuestros padres adoraron en este monte, y vosotros decís que en Jerusalén es el lugar donde se debe adorar.",
+      "verse": 20,
+      "start_ms": 125637,
+      "end_ms": 132137,
+      "duration_ms": 6500
+    },
+    {
+      "word": "Jesús le dijo: Mujer, créeme, que la hora viene cuando ni en este monte ni en Jerusalén adoraréis al Padre.",
+      "verse": 21,
+      "start_ms": 132137,
+      "end_ms": 139574,
+      "duration_ms": 7437
+    },
+    {
+      "word": "Vosotros adoráis lo que no sabéis; nosotros adoramos lo que sabemos; porque la salvación viene de los judíos.",
+      "verse": 22,
+      "start_ms": 139575,
+      "end_ms": 146937,
+      "duration_ms": 7362
+    },
+    {
+      "word": "Mas la hora viene, y ahora es, cuando los verdaderos adoradores adorarán al Padre en espíritu y en verdad; porque también el Padre tales adoradores busca que le adoren.",
+      "verse": 23,
+      "start_ms": 146937,
+      "end_ms": 157399,
+      "duration_ms": 10462
+    },
+    {
+      "word": "Dios es Espíritu; y los que le adoran, en espíritu y en verdad es necesario que adoren.",
+      "verse": 24,
+      "start_ms": 157400,
+      "end_ms": 163375,
+      "duration_ms": 5975
+    },
+    {
+      "word": "Le dijo la mujer: Sé que ha de venir el Mesías, llamado el Cristo; cuando él venga nos declarará todas las cosas.",
+      "verse": 25,
+      "start_ms": 163375,
+      "end_ms": 170837,
+      "duration_ms": 7462
+    },
+    {
+      "word": "Jesús le dijo: Yo soy, el que habla contigo.",
+      "verse": 26,
+      "start_ms": 170837,
+      "end_ms": 174962,
+      "duration_ms": 4125
+    },
+    {
+      "word": "En esto vinieron sus discípulos, y se maravillaron de que hablaba con una mujer; sin embargo, ninguno dijo: ¿Qué preguntas? o, ¿Qué hablas con ella?",
+      "verse": 27,
+      "start_ms": 174962,
+      "end_ms": 184774,
+      "duration_ms": 9812
+    },
+    {
+      "word": "Entonces la mujer dejó su cántaro, y fue a la ciudad, y dijo a los hombres: Venid, ved a un hombre que me ha dicho todo cuanto he hecho.",
+      "verse": 28,
+      "start_ms": 184775,
+      "end_ms": 193512,
+      "duration_ms": 8737
+    },
+    {
+      "word": "No será éste el Cristo?",
+      "verse": 29,
+      "start_ms": 193512,
+      "end_ms": 195749,
+      "duration_ms": 2237
+    },
+    {
+      "word": "Entonces salieron de la ciudad, y vinieron a él.",
+      "verse": 30,
+      "start_ms": 195750,
+      "end_ms": 199237,
+      "duration_ms": 3487
+    },
+    {
+      "word": "Entre tanto, los discípulos le rogaban, diciendo: Rabí, come.",
+      "verse": 31,
+      "start_ms": 199237,
+      "end_ms": 204562,
+      "duration_ms": 5325
+    },
+    {
+      "word": "Él les dijo: Yo tengo una comida que comer, que vosotros no sabéis.",
+      "verse": 32,
+      "start_ms": 204562,
+      "end_ms": 209887,
+      "duration_ms": 5325
+    },
+    {
+      "word": "Entonces los discípulos decían unos a otros: ¿Le habrá traído alguien de comer?",
+      "verse": 33,
+      "start_ms": 209887,
+      "end_ms": 215287,
+      "duration_ms": 5400
+    },
+    {
+      "word": "Jesús les dijo: Mi comida es que haga la voluntad del que me envió, y que acabe su obra.",
+      "verse": 34,
+      "start_ms": 215287,
+      "end_ms": 221049,
+      "duration_ms": 5762
+    },
+    {
+      "word": "No decís vosotros: Aún faltan cuatro meses para que llegue la siega?",
+      "verse": 35,
+      "start_ms": 221050,
+      "end_ms": 226062,
+      "duration_ms": 5012
+    },
+    {
+      "word": "He aquí os digo: Alzad vuestros ojos y mirad los campos, porque ya están blancos para la siega.",
+      "verse": 35,
+      "start_ms": 226062,
+      "end_ms": 232712,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Y el que siega recibe salario, y recoge fruto para vida eterna, para que el que siembra goce juntamente con el que siega.",
+      "verse": 36,
+      "start_ms": 232712,
+      "end_ms": 240137,
+      "duration_ms": 7425
+    },
+    {
+      "word": "Porque en esto es verdadero el dicho: Uno es el que siembra, y otro es el que siega.",
+      "verse": 37,
+      "start_ms": 240137,
+      "end_ms": 245712,
+      "duration_ms": 5575
+    },
+    {
+      "word": "Yo os he enviado a segar lo que vosotros no labrasteis; otros labraron, y vosotros habéis entrado en sus labores.",
+      "verse": 38,
+      "start_ms": 245712,
+      "end_ms": 253062,
+      "duration_ms": 7350
+    },
+    {
+      "word": "Y muchos de los samaritanos de aquella ciudad creyeron en él por la palabra de la mujer, que daba testimonio diciendo: Me dijo todo lo que he hecho.",
+      "verse": 39,
+      "start_ms": 253062,
+      "end_ms": 261674,
+      "duration_ms": 8612
+    },
+    {
+      "word": "Entonces vinieron los samaritanos a él y le rogaron que se quedase con ellos; y se quedó allí dos días.",
+      "verse": 40,
+      "start_ms": 261675,
+      "end_ms": 268262,
+      "duration_ms": 6587
+    },
+    {
+      "word": "Y creyeron muchos más por la palabra de él, y decían a la mujer: Ya no creemos solamente por",
+      "verse": 41,
+      "start_ms": 268262,
+      "end_ms": 274637,
+      "duration_ms": 6375
+    },
+    {
+      "word": "tu dicho, porque nosotros mismos hemos oído, y sabemos que verdaderamente éste es el Salvador del mundo, el Cristo.",
+      "verse": 42,
+      "start_ms": 274804,
+      "end_ms": 282579,
+      "duration_ms": 7775
+    },
+    {
+      "word": "Jesús sana al hijo de un noble Dos días después, salió de allí y fue a Galilea.",
+      "verse": 42,
+      "start_ms": 282529,
+      "end_ms": 288229,
+      "duration_ms": 5700
+    },
+    {
+      "word": "Porque Jesús mismo dio testimonio de que el profeta no tiene honra en su propia tierra.",
+      "verse": 44,
+      "start_ms": 288229,
+      "end_ms": 293404,
+      "duration_ms": 5175
+    },
+    {
+      "word": "Cuando vino a Galilea, los galileos le recibieron, habiendo visto todas las cosas que había hecho en Jerusalén, en la fiesta; porque también ellos habían ido a la fiesta.",
+      "verse": 45,
+      "start_ms": 293404,
+      "end_ms": 303591,
+      "duration_ms": 10187
+    },
+    {
+      "word": "Vino, pues, Jesús otra vez a Caná de Galilea, donde había convertido el agua en vino.",
+      "verse": 46,
+      "start_ms": 303591,
+      "end_ms": 309916,
+      "duration_ms": 6325
+    },
+    {
+      "word": "Y había en Capernaum un oficial del rey, cuyo hijo estaba enfermo.",
+      "verse": 46,
+      "start_ms": 309916,
+      "end_ms": 314728,
+      "duration_ms": 4812
+    },
+    {
+      "word": "Éste, cuando oyó que Jesús había llegado de Judea a Galilea, vino a él y le rogó que descendiese y sanase a su hijo, que estaba a punto de morir.",
+      "verse": 47,
+      "start_ms": 314729,
+      "end_ms": 323991,
+      "duration_ms": 9262
+    },
+    {
+      "word": "Entonces Jesús le dijo: Si no viereis señales y prodigios, no creeréis.",
+      "verse": 48,
+      "start_ms": 323991,
+      "end_ms": 329466,
+      "duration_ms": 5475
+    },
+    {
+      "word": "El oficial del rey le dijo: Señor, desciende antes que mi hijo muera.",
+      "verse": 49,
+      "start_ms": 329466,
+      "end_ms": 334691,
+      "duration_ms": 5225
+    },
+    {
+      "word": "Jesús le dijo: Ve, tu hijo vive.",
+      "verse": 50,
+      "start_ms": 334691,
+      "end_ms": 338153,
+      "duration_ms": 3462
+    },
+    {
+      "word": "Y el hombre creyó la palabra que Jesús le dijo, y se fue.",
+      "verse": 50,
+      "start_ms": 338154,
+      "end_ms": 342254,
+      "duration_ms": 4100
+    },
+    {
+      "word": "Cuando ya él descendía, sus siervos salieron a recibirle, y le dieron nuevas, diciendo: Tu hijo vive.",
+      "verse": 51,
+      "start_ms": 342254,
+      "end_ms": 349366,
+      "duration_ms": 7112
+    },
+    {
+      "word": "Entonces él les preguntó a qué hora había comenzado a estar mejor.",
+      "verse": 52,
+      "start_ms": 349366,
+      "end_ms": 353728,
+      "duration_ms": 4362
+    },
+    {
+      "word": "Y le dijeron: Ayer a las siete le dejó la fiebre.",
+      "verse": 52,
+      "start_ms": 353729,
+      "end_ms": 357416,
+      "duration_ms": 3687
+    },
+    {
+      "word": "El padre entonces entendió que aquélla era la hora en que Jesús le había dicho: Tu hijo vive; y creyó él con toda su casa.",
+      "verse": 53,
+      "start_ms": 357416,
+      "end_ms": 365053,
+      "duration_ms": 7637
+    },
+    {
+      "word": "Esta segunda señal hizo Jesús, cuando fue de Judea a Galilea.",
+      "verse": 54,
+      "start_ms": 365054,
+      "end_ms": 369779,
+      "duration_ms": 4725
+    }
+  ]
+}

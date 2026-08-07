@@ -1,0 +1,222 @@
+{
+  "book": "AMO",
+  "chapter": 8,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 14,
+  "word_count": 16,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 78,
+      "text": "Así me ha mostrado Jehová el Señor: He aquí un canastillo de fruta de verano."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 78,
+      "char_end": 227,
+      "text": "Y dijo: ¿Qué ves, Amós? Y respondí: Un canastillo de fruta de verano. Y me dijo Jehová: Ha venido el fin sobre mi pueblo Israel; no lo toleraré más."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 227,
+      "char_end": 409,
+      "text": "Y los cantores del templo gemirán en aquel día, dice Jehová el Señor; muchos serán los cuerpos muertos; en todo lugar los echarán fuera en silencio. El juicio sobre Israel se acerca"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 409,
+      "char_end": 496,
+      "text": "Oíd esto, los que explotáis a los menesterosos, y arruináis a los pobres de la tierra,"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 496,
+      "char_end": 684,
+      "text": "diciendo: ¿Cuándo pasará el mes, y venderemos el trigo; y la semana, y abriremos los graneros del pan, y achicaremos la medida, y subiremos el precio, y falsearemos con engaño la balanza,"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 684,
+      "char_end": 798,
+      "text": "para comprar los pobres por dinero, y los necesitados por un par de zapatos, y venderemos los desechos del trigo?"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 798,
+      "char_end": 875,
+      "text": "Jehová juró por la gloria de Jacob: No me olvidaré jamás de todas sus obras."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 875,
+      "char_end": 1021,
+      "text": "¿No se estremecerá la tierra sobre esto? ¿No llorará todo habitante de ella? Subirá toda, como un río, y crecerá y mermará como el río de Egipto."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1021,
+      "char_end": 1159,
+      "text": "Acontecerá en aquel día, dice Jehová el Señor, que haré que se ponga el sol a mediodía, y cubriré de tinieblas la tierra en el día claro."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1159,
+      "char_end": 1382,
+      "text": "Y cambiaré vuestras fiestas en lloro, y todos vuestros cantares en lamentaciones; y haré poner cilicio sobre todo lomo, y que se rape toda cabeza; y la volveré como en llanto de unigénito, y su postrimería como día amargo."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1382,
+      "char_end": 1535,
+      "text": "He aquí vienen días, dice Jehová el Señor, en los cuales enviaré hambre a la tierra, no hambre de pan, ni sed de agua, sino de oír la palabra de Jehová."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1535,
+      "char_end": 1655,
+      "text": "E irán errantes de mar a mar; desde el norte hasta el oriente discurrirán buscando palabra de Jehová, y no la hallarán."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1655,
+      "char_end": 1727,
+      "text": "En aquel tiempo las doncellas hermosas y los jóvenes desmayarán de sed."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1727,
+      "char_end": 1862,
+      "text": "Los que juran por el pecado de Samaria, y dicen: Por tu Dios, oh Dan, y: Por el camino de Beerseba, caerán, y nunca más se levantarán."
+    }
+  ],
+  "words": [
+    {
+      "word": "Así me ha mostrado Jehová el Señor: He aquí un canastillo de fruta de verano.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5375,
+      "duration_ms": 5275
+    },
+    {
+      "word": "Y dijo: ¿Qué ves, Amós?",
+      "verse": 2,
+      "start_ms": 5325,
+      "end_ms": 8350,
+      "duration_ms": 3025
+    },
+    {
+      "word": "Y respondí: Un canastillo de fruta de verano.",
+      "verse": 2,
+      "start_ms": 8350,
+      "end_ms": 12037,
+      "duration_ms": 3687
+    },
+    {
+      "word": "Y me dijo Jehová: Ha venido el fin sobre mi pueblo Israel; no lo toleraré más.",
+      "verse": 2,
+      "start_ms": 12037,
+      "end_ms": 17837,
+      "duration_ms": 5800
+    },
+    {
+      "word": "Y los cantores del templo gemirán en aquel día, dice Jehová el Señor; muchos serán los cuerpos muertos; en todo lugar los echarán fuera en silencio.",
+      "verse": 3,
+      "start_ms": 17837,
+      "end_ms": 26887,
+      "duration_ms": 9050
+    },
+    {
+      "word": "El juicio sobre Israel se acerca Oíd esto, los que explotáis a los menesterosos, y arruináis a los pobres de la tierra, diciendo: ¿Cuándo pasará el mes, y venderemos el trigo; y la semana, y abriremos los graneros del pan, y achicaremos la medida, y subiremos el precio, y falsearemos con engaño la balanza, para comprar los pobres por dinero, y los necesitados por un par de zapatos, y venderemos los desechos del trigo?",
+      "verse": 3,
+      "start_ms": 26887,
+      "end_ms": 52487,
+      "duration_ms": 25600
+    },
+    {
+      "word": "Jehová juró por la gloria de Jacob: No me olvidaré jamás de todas sus obras.",
+      "verse": 7,
+      "start_ms": 52487,
+      "end_ms": 57799,
+      "duration_ms": 5312
+    },
+    {
+      "word": "No se estremecerá la tierra sobre esto?",
+      "verse": 8,
+      "start_ms": 57800,
+      "end_ms": 60700,
+      "duration_ms": 2900
+    },
+    {
+      "word": "No llorará todo habitante de ella?",
+      "verse": 8,
+      "start_ms": 60700,
+      "end_ms": 63487,
+      "duration_ms": 2787
+    },
+    {
+      "word": "Subirá toda, como un río, y crecerá y mermará como el río de Egipto.",
+      "verse": 8,
+      "start_ms": 63487,
+      "end_ms": 68874,
+      "duration_ms": 5387
+    },
+    {
+      "word": "Acontecerá en aquel día, dice Jehová el Señor, que haré que se ponga el sol a mediodía, y cubriré de tinieblas la tierra en el día claro.",
+      "verse": 9,
+      "start_ms": 68875,
+      "end_ms": 77562,
+      "duration_ms": 8687
+    },
+    {
+      "word": "Y cambiaré vuestras fiestas en lloro, y todos vuestros cantares en lamentaciones; y haré poner cilicio sobre todo lomo, y que se rape toda cabeza; y la volveré como en llanto de unigénito, y su postrimería como día amargo.",
+      "verse": 10,
+      "start_ms": 77562,
+      "end_ms": 91574,
+      "duration_ms": 14012
+    },
+    {
+      "word": "He aquí vienen días, dice Jehová el Señor, en los cuales enviaré hambre a la tierra, no hambre de pan, ni sed de agua, sino de oír la palabra de Jehová.",
+      "verse": 11,
+      "start_ms": 91575,
+      "end_ms": 101262,
+      "duration_ms": 9687
+    },
+    {
+      "word": "E irán errantes de mar a mar; desde el norte hasta el oriente discurrirán buscando palabra de Jehová, y no la hallarán.",
+      "verse": 12,
+      "start_ms": 101262,
+      "end_ms": 108649,
+      "duration_ms": 7387
+    },
+    {
+      "word": "En aquel tiempo las doncellas hermosas y los jóvenes desmayarán de sed.",
+      "verse": 13,
+      "start_ms": 108650,
+      "end_ms": 113100,
+      "duration_ms": 4450
+    },
+    {
+      "word": "Los que juran por el pecado de Samaria, y dicen: Por tu Dios, oh Dan, y: Por el camino de Beerseba, caerán, y nunca más se levantarán.",
+      "verse": 14,
+      "start_ms": 113100,
+      "end_ms": 122787,
+      "duration_ms": 9687
+    }
+  ]
+}

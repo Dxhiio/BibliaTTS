@@ -1,0 +1,159 @@
+{
+  "book": "ISA",
+  "chapter": 35,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 10,
+  "word_count": 11,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 84,
+      "text": "Se alegrarán el desierto y la soledad; el yermo se gozará y florecerá como la rosa."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 84,
+      "char_end": 288,
+      "text": "Florecerá profusamente, y también se alegrará y cantará con júbilo; la gloria del Líbano le será dada, la hermosura del Carmelo y de Sarón. Ellos verán la gloria de Jehová, la hermosura del Dios nuestro."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 288,
+      "char_end": 350,
+      "text": "Fortaleced las manos cansadas, afirmad las rodillas endebles."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 350,
+      "char_end": 495,
+      "text": "Decid a los de corazón apocado: Esforzaos, no temáis; he aquí que vuestro Dios viene con retribución, con pago; Dios mismo vendrá, y os salvará."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 495,
+      "char_end": 581,
+      "text": "Entonces los ojos de los ciegos serán abiertos, y los oídos de los sordos se abrirán."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 581,
+      "char_end": 722,
+      "text": "Entonces el cojo saltará como un ciervo, y cantará la lengua del mudo; porque aguas serán cavadas en el desierto, y torrentes en la soledad."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 722,
+      "char_end": 871,
+      "text": "El lugar seco se convertirá en estanque, y el sequedal en manaderos de aguas; en la morada de chacales, en su guarida, será lugar de cañas y juncos."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 871,
+      "char_end": 1069,
+      "text": "Y habrá allí calzada y camino, y será llamado Camino de Santidad; no pasará inmundo por él, sino que él mismo estará con ellos; el que anduviere en este camino, por torpe que sea, no se extraviará."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1069,
+      "char_end": 1165,
+      "text": "No habrá allí león, ni fiera subirá por él, ni allí se hallará, para que caminen los redimidos."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1165,
+      "char_end": 1331,
+      "text": "Y los redimidos de Jehová volverán, y vendrán a Sion con alegría; y gozo perpetuo será sobre sus cabezas; y tendrán gozo y alegría, y huirán la tristeza y el gemido."
+    }
+  ],
+  "words": [
+    {
+      "word": "Se alegrarán el desierto y la soledad; el yermo se gozará y florecerá como la rosa.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5812,
+      "duration_ms": 5712
+    },
+    {
+      "word": "Florecerá profusamente, y también se alegrará y cantará con júbilo; la gloria del Líbano le será dada, la hermosura del Carmelo y de Sarón.",
+      "verse": 2,
+      "start_ms": 5762,
+      "end_ms": 14624,
+      "duration_ms": 8862
+    },
+    {
+      "word": "Ellos verán la gloria de Jehová, la hermosura del Dios nuestro.",
+      "verse": 2,
+      "start_ms": 14625,
+      "end_ms": 18975,
+      "duration_ms": 4350
+    },
+    {
+      "word": "Fortaleced las manos cansadas, afirmad las rodillas endebles.",
+      "verse": 3,
+      "start_ms": 18975,
+      "end_ms": 23775,
+      "duration_ms": 4800
+    },
+    {
+      "word": "Decid a los de corazón apocado: Esforzaos, no temáis; he aquí que vuestro Dios viene con retribución, con pago; Dios mismo vendrá, y os salvará.",
+      "verse": 4,
+      "start_ms": 23775,
+      "end_ms": 33962,
+      "duration_ms": 10187
+    },
+    {
+      "word": "Entonces los ojos de los ciegos serán abiertos, y los oídos de los sordos se abrirán.",
+      "verse": 5,
+      "start_ms": 33962,
+      "end_ms": 39512,
+      "duration_ms": 5550
+    },
+    {
+      "word": "Entonces el cojo saltará como un ciervo, y cantará la lengua del mudo; porque aguas serán cavadas en el desierto, y torrentes en la soledad.",
+      "verse": 6,
+      "start_ms": 39512,
+      "end_ms": 48274,
+      "duration_ms": 8762
+    },
+    {
+      "word": "El lugar seco se convertirá en estanque, y el sequedal en manaderos de aguas; en la morada de chacales, en su guarida, será lugar de cañas y juncos.",
+      "verse": 7,
+      "start_ms": 48275,
+      "end_ms": 57937,
+      "duration_ms": 9662
+    },
+    {
+      "word": "Y habrá allí calzada y camino, y será llamado Camino de Santidad; no pasará inmundo por él, sino que él mismo estará con ellos; el que anduviere en este camino, por torpe que sea, no se extraviará.",
+      "verse": 8,
+      "start_ms": 57937,
+      "end_ms": 70449,
+      "duration_ms": 12512
+    },
+    {
+      "word": "No habrá allí león, ni fiera subirá por él, ni allí se hallará, para que caminen los redimidos.",
+      "verse": 9,
+      "start_ms": 70450,
+      "end_ms": 76925,
+      "duration_ms": 6475
+    },
+    {
+      "word": "Y los redimidos de Jehová volverán, y vendrán a Sion con alegría; y gozo perpetuo será sobre sus cabezas; y tendrán gozo y alegría, y huirán la tristeza y el gemido.",
+      "verse": 10,
+      "start_ms": 76925,
+      "end_ms": 87862,
+      "duration_ms": 10937
+    }
+  ]
+}

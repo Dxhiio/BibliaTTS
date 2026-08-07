@@ -1,0 +1,201 @@
+{
+  "book": "EST",
+  "chapter": 7,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 10,
+  "word_count": 17,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 58,
+      "text": "Fue, pues, el rey con Amán al banquete de la reina Ester."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 58,
+      "char_end": 248,
+      "text": "Y en el segundo día, mientras bebían vino, dijo el rey a Ester: ¿Cuál es tu petición, reina Ester, y te será concedida? ¿Cuál es tu demanda? Aunque sea la mitad del reino, te será otorgada."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 248,
+      "char_end": 415,
+      "text": "Entonces la reina Ester respondió y dijo: Oh rey, si he hallado gracia en tus ojos, y si al rey place, séame dada mi vida por mi petición, y mi pueblo por mi demanda."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 415,
+      "char_end": 630,
+      "text": "Porque hemos sido vendidos, yo y mi pueblo, para ser destruidos, para ser muertos y exterminados. Si para siervos y siervas fuéramos vendidos, me callaría; pero nuestra muerte sería para el rey un daño irreparable."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 630,
+      "char_end": 757,
+      "text": "Respondió el rey Asuero, y dijo a la reina Ester: ¿Quién es, y dónde está, el que ha ensoberbecido su corazón para hacer esto?"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 757,
+      "char_end": 869,
+      "text": "Ester dijo: El enemigo y adversario es este malvado Amán. Entonces se turbó Amán delante del rey y de la reina."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 869,
+      "char_end": 1083,
+      "text": "Luego el rey se levantó del banquete, encendido en ira, y se fue al huerto del palacio; y se quedó Amán para suplicarle a la reina Ester por su vida; porque vio que estaba resuelto para él el mal de parte del rey."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1083,
+      "char_end": 1349,
+      "text": "Después el rey volvió del huerto del palacio al aposento del banquete, y Amán había caído sobre el lecho en que estaba Ester. Entonces dijo el rey: ¿Querrás también violar a la reina en mi propia casa? Al proferir el rey esta palabra, le cubrieron el rostro a Amán."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1349,
+      "char_end": 1575,
+      "text": "Y dijo Harbona, uno de los eunucos que servían al rey: He aquí en casa de Amán la horca de cincuenta codos de altura que hizo Amán para Mardoqueo, el cual había hablado bien por el rey. Entonces el rey dijo: Colgadlo en ella."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1575,
+      "char_end": 1681,
+      "text": "Así colgaron a Amán en la horca que él había hecho preparar para Mardoqueo; y se apaciguó la ira del rey."
+    }
+  ],
+  "words": [
+    {
+      "word": "Fue, pues, el rey con Amán al banquete de la reina Ester.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4650,
+      "duration_ms": 4550
+    },
+    {
+      "word": "Y en el segundo día, mientras bebían vino, dijo el rey a Ester: ¿Cuál es tu petición, reina Ester, y te será concedida?",
+      "verse": 2,
+      "start_ms": 4600,
+      "end_ms": 13050,
+      "duration_ms": 8450
+    },
+    {
+      "word": "Cuál es tu demanda?",
+      "verse": 2,
+      "start_ms": 13050,
+      "end_ms": 14975,
+      "duration_ms": 1925
+    },
+    {
+      "word": "Aunque sea la mitad del reino, te será otorgada.",
+      "verse": 2,
+      "start_ms": 14975,
+      "end_ms": 18687,
+      "duration_ms": 3712
+    },
+    {
+      "word": "Entonces la reina Ester respondió y dijo: Oh rey, si he hallado gracia en tus ojos, y si al rey place, séame dada mi vida por mi petición, y mi pueblo por mi demanda.",
+      "verse": 3,
+      "start_ms": 18687,
+      "end_ms": 29637,
+      "duration_ms": 10950
+    },
+    {
+      "word": "Porque hemos sido vendidos, yo y mi pueblo, para ser destruidos, para ser muertos y exterminados.",
+      "verse": 4,
+      "start_ms": 29637,
+      "end_ms": 36624,
+      "duration_ms": 6987
+    },
+    {
+      "word": "Si para siervos y siervas fuéramos vendidos, me callaría; pero nuestra muerte sería para el rey un daño irreparable.",
+      "verse": 4,
+      "start_ms": 36625,
+      "end_ms": 43762,
+      "duration_ms": 7137
+    },
+    {
+      "word": "Respondió el rey Asuero, y dijo a la reina Ester: ¿Quién es, y dónde está, el que ha ensoberbecido su corazón para hacer esto?",
+      "verse": 5,
+      "start_ms": 43762,
+      "end_ms": 52362,
+      "duration_ms": 8600
+    },
+    {
+      "word": "Ester dijo: El enemigo y adversario es este malvado Amán.",
+      "verse": 6,
+      "start_ms": 52362,
+      "end_ms": 56949,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Entonces se turbó Amán delante del rey y de la reina.",
+      "verse": 6,
+      "start_ms": 56950,
+      "end_ms": 60725,
+      "duration_ms": 3775
+    },
+    {
+      "word": "Luego el rey se levantó del banquete, encendido en ira, y se fue al huerto del palacio; y se quedó Amán para suplicarle a la reina Ester por su vida; porque vio que estaba resuelto para él el mal de parte del rey.",
+      "verse": 7,
+      "start_ms": 60725,
+      "end_ms": 73000,
+      "duration_ms": 12275
+    },
+    {
+      "word": "Después el rey volvió del huerto del palacio al aposento del banquete, y Amán había caído sobre el lecho en que estaba Ester.",
+      "verse": 8,
+      "start_ms": 73000,
+      "end_ms": 80300,
+      "duration_ms": 7300
+    },
+    {
+      "word": "Entonces dijo el rey: ¿Querrás también violar a la reina en mi propia casa?",
+      "verse": 8,
+      "start_ms": 80300,
+      "end_ms": 85337,
+      "duration_ms": 5037
+    },
+    {
+      "word": "Al proferir el rey esta palabra, le cubrieron el rostro a Amán.",
+      "verse": 8,
+      "start_ms": 85337,
+      "end_ms": 89812,
+      "duration_ms": 4475
+    },
+    {
+      "word": "Y dijo Harbona, uno de los eunucos que servían al rey: He aquí en casa de Amán la horca de cincuenta codos de altura que hizo Amán para Mardoqueo, el cual había hablado bien por el rey.",
+      "verse": 9,
+      "start_ms": 89812,
+      "end_ms": 100412,
+      "duration_ms": 10600
+    },
+    {
+      "word": "Entonces el rey dijo: Colgadlo en ella.",
+      "verse": 9,
+      "start_ms": 100412,
+      "end_ms": 103849,
+      "duration_ms": 3437
+    },
+    {
+      "word": "Así colgaron a Amán en la horca que él había hecho preparar para Mardoqueo; y se apaciguó la ira del rey.",
+      "verse": 10,
+      "start_ms": 103850,
+      "end_ms": 110362,
+      "duration_ms": 6512
+    }
+  ]
+}

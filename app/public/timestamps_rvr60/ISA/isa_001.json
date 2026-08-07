@@ -1,0 +1,460 @@
+{
+  "book": "ISA",
+  "chapter": 1,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 31,
+  "word_count": 33,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 127,
+      "text": "Visión de Isaías hijo de Amoz, la cual vio acerca de Judá y Jerusalén en días de Uzías, Jotam, Acaz y Ezequías, reyes de Judá."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 127,
+      "char_end": 245,
+      "text": "Oíd, cielos, y escucha tú, tierra; porque habla Jehová: Crié hijos, y los engrandecí, y ellos se rebelaron contra mí."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 245,
+      "char_end": 359,
+      "text": "El buey conoce a su dueño, y el asno el pesebre de su señor; Israel no entiende, mi pueblo no tiene conocimiento."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 359,
+      "char_end": 522,
+      "text": "¡Oh gente pecadora, pueblo cargado de maldad, generación de malignos, hijos depravados! Dejaron a Jehová, provocaron a ira al Santo de Israel, se volvieron atrás."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 522,
+      "char_end": 635,
+      "text": "¿Por qué querréis ser castigados aún? ¿Todavía os rebelaréis? Toda cabeza está enferma, y todo corazón doliente."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 635,
+      "char_end": 796,
+      "text": "Desde la planta del pie hasta la cabeza no hay en él cosa sana, sino herida, hinchazón y podrida llaga; no están curadas, ni vendadas, ni suavizadas con aceite."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 796,
+      "char_end": 961,
+      "text": "Vuestra tierra está destruida, vuestras ciudades puestas a fuego, vuestra tierra delante de vosotros comida por extranjeros, y asolada como asolamiento de extraños."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 961,
+      "char_end": 1055,
+      "text": "Y queda la hija de Sion como enramada en viña, y como cabaña en melonar, como ciudad asolada."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1055,
+      "char_end": 1209,
+      "text": "Si Jehová de los ejércitos no nos hubiese dejado un resto pequeño, como Sodoma fuéramos, y semejantes a Gomorra. Llamamiento al arrepentimiento verdadero"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1209,
+      "char_end": 1308,
+      "text": "Príncipes de Sodoma, oíd la palabra de Jehová; escuchad la ley de nuestro Dios, pueblo de Gomorra."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1308,
+      "char_end": 1514,
+      "text": "¿Para qué me sirve, dice Jehová, la multitud de vuestros sacrificios? Hastiado estoy de holocaustos de carneros y de sebo de animales gordos; no quiero sangre de bueyes, ni de ovejas, ni de machos cabríos."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1514,
+      "char_end": 1618,
+      "text": "¿Quién demanda esto de vuestras manos, cuando venís a presentaros delante de mí para hollar mis atrios?"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1618,
+      "char_end": 1794,
+      "text": "No me traigáis más vana ofrenda; el incienso me es abominación; luna nueva y día de reposo, el convocar asambleas, no lo puedo sufrir; son iniquidad vuestras fiestas solemnes."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1794,
+      "char_end": 1922,
+      "text": "Vuestras lunas nuevas y vuestras fiestas solemnes las tiene aborrecidas mi alma; me son gravosas; cansado estoy de soportarlas."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1922,
+      "char_end": 2083,
+      "text": "Cuando extendáis vuestras manos, yo esconderé de vosotros mis ojos; asimismo cuando multipliquéis la oración, yo no oiré; llenas están de sangre vuestras manos."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2083,
+      "char_end": 2188,
+      "text": "Lavaos y limpiaos; quitad la iniquidad de vuestras obras de delante de mis ojos; dejad de hacer lo malo;"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2188,
+      "char_end": 2304,
+      "text": "aprended a hacer el bien; buscad el juicio, restituid al agraviado, haced justicia al huérfano, amparad a la viuda."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2304,
+      "char_end": 2493,
+      "text": "Venid luego, dice Jehová, y estemos a cuenta: si vuestros pecados fueren como la grana, como la nieve serán emblanquecidos; si fueren rojos como el carmesí, vendrán a ser como blanca lana."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2493,
+      "char_end": 2549,
+      "text": "Si quisiereis y oyereis, comeréis el bien de la tierra;"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2549,
+      "char_end": 2684,
+      "text": "si no quisiereis y fuereis rebeldes, seréis consumidos a espada; porque la boca de Jehová lo ha dicho. Juicio y redención de Jerusalén"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2684,
+      "char_end": 2815,
+      "text": "¿Cómo te has convertido en ramera, oh ciudad fiel? Llena estuvo de justicia, en ella habitó la equidad; pero ahora, los homicidas."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2815,
+      "char_end": 2886,
+      "text": "Tu plata se ha convertido en escorias, tu vino está mezclado con agua."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2886,
+      "char_end": 3063,
+      "text": "Tus príncipes, prevaricadores y compañeros de ladrones; todos aman el soborno, y van tras las recompensas; no hacen justicia al huérfano, ni llega a ellos la causa de la viuda."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3063,
+      "char_end": 3207,
+      "text": "Por tanto, dice el Señor, Jehová de los ejércitos, el Fuerte de Israel: Ea, tomaré satisfacción de mis enemigos, me vengaré de mis adversarios;"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3207,
+      "char_end": 3307,
+      "text": "y volveré mi mano contra ti, y limpiaré hasta lo más puro tus escorias, y quitaré toda tu impureza."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3307,
+      "char_end": 3436,
+      "text": "Restauraré tus jueces como al principio, y tus consejeros como eran antes; entonces te llamarán Ciudad de justicia, Ciudad fiel."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3436,
+      "char_end": 3508,
+      "text": "Sion será rescatada con juicio, y los convertidos de ella con justicia."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3508,
+      "char_end": 3607,
+      "text": "Pero los rebeldes y pecadores a una serán quebrantados, y los que dejan a Jehová serán consumidos."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3607,
+      "char_end": 3703,
+      "text": "Entonces os avergonzarán las encinas que amasteis, y os afrentarán los huertos que escogisteis."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3703,
+      "char_end": 3799,
+      "text": "Porque seréis como encina a la que se le cae la hoja, y como huerto al que le faltan las aguas."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3799,
+      "char_end": 3920,
+      "text": "Y el fuerte será como estopa, y lo que hizo como centella; y ambos serán encendidos juntamente, y no habrá quien apague."
+    }
+  ],
+  "words": [
+    {
+      "word": "Visión de Isaías hijo de Amoz, la cual vio acerca de Judá y Jerusalén en días de Uzías, Jotam, Acaz y Ezequías, reyes de Judá.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 9162,
+      "duration_ms": 9062
+    },
+    {
+      "word": "Oíd, cielos, y escucha tú, tierra; porque habla Jehová: Crié hijos, y los engrandecí, y ellos se rebelaron contra mí.",
+      "verse": 2,
+      "start_ms": 9112,
+      "end_ms": 18162,
+      "duration_ms": 9050
+    },
+    {
+      "word": "El buey conoce a su dueño, y el asno el pesebre de su señor; Israel no entiende, mi pueblo no tiene conocimiento.",
+      "verse": 3,
+      "start_ms": 18162,
+      "end_ms": 25749,
+      "duration_ms": 7587
+    },
+    {
+      "word": "Oh gente pecadora, pueblo cargado de maldad, generación de malignos, hijos depravados!",
+      "verse": 4,
+      "start_ms": 25750,
+      "end_ms": 32175,
+      "duration_ms": 6425
+    },
+    {
+      "word": "Dejaron a Jehová, provocaron a ira al Santo de Israel, se volvieron atrás.",
+      "verse": 4,
+      "start_ms": 32175,
+      "end_ms": 37725,
+      "duration_ms": 5550
+    },
+    {
+      "word": "Por qué querréis ser castigados aún?",
+      "verse": 5,
+      "start_ms": 37725,
+      "end_ms": 40562,
+      "duration_ms": 2837
+    },
+    {
+      "word": "Todavía os rebelaréis?",
+      "verse": 5,
+      "start_ms": 40562,
+      "end_ms": 42862,
+      "duration_ms": 2300
+    },
+    {
+      "word": "Toda cabeza está enferma, y todo corazón doliente.",
+      "verse": 5,
+      "start_ms": 42862,
+      "end_ms": 46812,
+      "duration_ms": 3950
+    },
+    {
+      "word": "Desde la planta del pie hasta la cabeza no hay en él cosa sana, sino herida, hinchazón y podrida llaga; no están curadas, ni vendadas, ni suavizadas con aceite.",
+      "verse": 6,
+      "start_ms": 46812,
+      "end_ms": 57412,
+      "duration_ms": 10600
+    },
+    {
+      "word": "Vuestra tierra está destruida, vuestras ciudades puestas a fuego, vuestra tierra delante de vosotros comida por extranjeros, y asolada como asolamiento de extraños.",
+      "verse": 7,
+      "start_ms": 57412,
+      "end_ms": 67562,
+      "duration_ms": 10150
+    },
+    {
+      "word": "Y queda la hija de Sion como enramada en viña, y como cabaña en melonar, como ciudad asolada.",
+      "verse": 8,
+      "start_ms": 67562,
+      "end_ms": 73724,
+      "duration_ms": 6162
+    },
+    {
+      "word": "Si Jehová de los ejércitos no nos hubiese dejado un resto pequeño, como Sodoma fuéramos, y semejantes a Gomorra.",
+      "verse": 9,
+      "start_ms": 73725,
+      "end_ms": 80937,
+      "duration_ms": 7212
+    },
+    {
+      "word": "Llamamiento al arrepentimiento verdadero Príncipes de Sodoma, oíd la palabra de Jehová; escuchad la ley de nuestro Dios, pueblo de Gomorra.",
+      "verse": 9,
+      "start_ms": 80937,
+      "end_ms": 89574,
+      "duration_ms": 8637
+    },
+    {
+      "word": "Para qué me sirve, dice Jehová, la multitud de vuestros sacrificios?",
+      "verse": 11,
+      "start_ms": 89575,
+      "end_ms": 94437,
+      "duration_ms": 4862
+    },
+    {
+      "word": "Hastiado estoy de holocaustos de carneros y de sebo de animales gordos; no quiero sangre de bueyes, ni de ovejas, ni de machos cabríos.",
+      "verse": 11,
+      "start_ms": 94437,
+      "end_ms": 103124,
+      "duration_ms": 8687
+    },
+    {
+      "word": "Quién demanda esto de vuestras manos, cuando venís a presentaros delante de mí para hollar mis atrios?",
+      "verse": 12,
+      "start_ms": 103125,
+      "end_ms": 109225,
+      "duration_ms": 6100
+    },
+    {
+      "word": "No me traigáis más vana ofrenda; el incienso me es abominación; luna nueva y día de reposo, el convocar asambleas, no lo puedo sufrir; son iniquidad vuestras fiestas solemnes.",
+      "verse": 13,
+      "start_ms": 109225,
+      "end_ms": 121012,
+      "duration_ms": 11787
+    },
+    {
+      "word": "Vuestras lunas nuevas y vuestras fiestas solemnes las tiene aborrecidas mi alma; me son gravosas; cansado estoy de soportarlas.",
+      "verse": 14,
+      "start_ms": 121012,
+      "end_ms": 129174,
+      "duration_ms": 8162
+    },
+    {
+      "word": "Cuando extendáis vuestras manos, yo esconderé de vosotros mis ojos; asimismo cuando multipliquéis la oración, yo no oiré; llenas están de sangre vuestras manos.",
+      "verse": 15,
+      "start_ms": 129175,
+      "end_ms": 139712,
+      "duration_ms": 10537
+    },
+    {
+      "word": "Lavaos y limpiaos; quitad la iniquidad de vuestras obras de delante de mis ojos; dejad de hacer lo malo; aprended a hacer el bien; buscad el juicio, restituid al agraviado, haced justicia al huérfano, amparad a la viuda.",
+      "verse": 16,
+      "start_ms": 139712,
+      "end_ms": 154049,
+      "duration_ms": 14337
+    },
+    {
+      "word": "Venid luego, dice Jehová, y estemos a cuenta: si vuestros pecados fueren como la grana, como la nieve serán emblanquecidos; si fueren rojos como el carmesí, vendrán a ser como blanca lana.",
+      "verse": 18,
+      "start_ms": 154050,
+      "end_ms": 166162,
+      "duration_ms": 12112
+    },
+    {
+      "word": "Si quisiereis y oyereis, comeréis el bien de la tierra; si no quisiereis y fuereis rebeldes, seréis consumidos a espada; porque la boca de Jehová lo ha dicho.",
+      "verse": 19,
+      "start_ms": 166162,
+      "end_ms": 176012,
+      "duration_ms": 9850
+    },
+    {
+      "word": "Juicio y redención de Jerusalén ¿Cómo te has convertido en ramera, oh ciudad fiel?",
+      "verse": 20,
+      "start_ms": 176012,
+      "end_ms": 181049,
+      "duration_ms": 5037
+    },
+    {
+      "word": "Llena estuvo de justicia, en ella habitó la equidad; pero ahora, los homicidas.",
+      "verse": 21,
+      "start_ms": 181050,
+      "end_ms": 187037,
+      "duration_ms": 5987
+    },
+    {
+      "word": "Tu plata se ha convertido en escorias, tu vino está mezclado con agua.",
+      "verse": 22,
+      "start_ms": 187037,
+      "end_ms": 191837,
+      "duration_ms": 4800
+    },
+    {
+      "word": "Tus príncipes, prevaricadores y compañeros de ladrones; todos aman el soborno, y van tras las recompensas; no hacen justicia al huérfano, ni llega a ellos la causa de la viuda.",
+      "verse": 23,
+      "start_ms": 191837,
+      "end_ms": 203487,
+      "duration_ms": 11650
+    },
+    {
+      "word": "Por tanto, dice el Señor, Jehová de los ejércitos, el Fuerte de Israel: Ea, tomaré satisfacción de mis enemigos, me vengaré de mis adversarios; y volveré mi mano contra ti, y limpiaré hasta lo más puro tus escorias, y quitaré toda tu impureza.",
+      "verse": 24,
+      "start_ms": 203487,
+      "end_ms": 220062,
+      "duration_ms": 16575
+    },
+    {
+      "word": "Restauraré tus jueces como al principio, y tus consejeros como eran antes; entonces te llamarán Ciudad de justicia, Ciudad fiel.",
+      "verse": 26,
+      "start_ms": 220062,
+      "end_ms": 228449,
+      "duration_ms": 8387
+    },
+    {
+      "word": "Sion será rescatada con juicio, y los convertidos de ella con justicia.",
+      "verse": 27,
+      "start_ms": 228450,
+      "end_ms": 233462,
+      "duration_ms": 5012
+    },
+    {
+      "word": "Pero los rebeldes y pecadores a una serán quebrantados, y los que dejan a Jehová serán consumidos.",
+      "verse": 28,
+      "start_ms": 233462,
+      "end_ms": 239712,
+      "duration_ms": 6250
+    },
+    {
+      "word": "Entonces os avergonzarán las encinas que amasteis, y os afrentarán los huertos que escogisteis.",
+      "verse": 29,
+      "start_ms": 239712,
+      "end_ms": 245687,
+      "duration_ms": 5975
+    },
+    {
+      "word": "Porque seréis como encina a la que se le cae la hoja, y como huerto al que le faltan las aguas.",
+      "verse": 30,
+      "start_ms": 245687,
+      "end_ms": 251612,
+      "duration_ms": 5925
+    },
+    {
+      "word": "Y el fuerte será como estopa, y lo que hizo como centella; y ambos serán encendidos juntamente, y no habrá quien apague.",
+      "verse": 31,
+      "start_ms": 251612,
+      "end_ms": 259399,
+      "duration_ms": 7787
+    }
+  ]
+}

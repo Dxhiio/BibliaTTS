@@ -1,0 +1,110 @@
+{
+  "book": "ISA",
+  "chapter": 18,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 7,
+  "word_count": 7,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 82,
+      "text": "¡Ay de la tierra que hace sombra con las alas, que está tras los ríos de Etiopía;"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 82,
+      "char_end": 339,
+      "text": "que envía mensajeros por el mar, y en naves de junco sobre las aguas! Andad, mensajeros veloces, a la nación de elevada estatura y tez brillante, al pueblo temible desde su principio y después, gente fuerte y conquistadora, cuya tierra es surcada por ríos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 339,
+      "char_end": 492,
+      "text": "Vosotros, todos los moradores del mundo y habitantes de la tierra, cuando se levante bandera en los montes, mirad; y cuando se toque trompeta, escuchad."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 492,
+      "char_end": 648,
+      "text": "Porque Jehová me dijo así: Me estaré quieto, y los miraré desde mi morada, como sol claro después de la lluvia, como nube de rocío en el calor de la siega."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 648,
+      "char_end": 818,
+      "text": "Porque antes de la siega, cuando el fruto sea perfecto, y pasada la flor se maduren los frutos, entonces podará con podaderas las ramitas, y cortará y quitará las ramas."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 818,
+      "char_end": 986,
+      "text": "Y serán dejados todos para las aves de los montes y para las bestias de la tierra; sobre ellos tendrán el verano las aves, e invernarán todas las bestias de la tierra."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 986,
+      "char_end": 1275,
+      "text": "En aquel tiempo será traída ofrenda a Jehová de los ejércitos, del pueblo de elevada estatura y tez brillante, del pueblo temible desde su principio y después, gente fuerte y conquistadora, cuya tierra es surcada por ríos, al lugar del nombre de Jehová de los ejércitos, al monte de Sion."
+    }
+  ],
+  "words": [
+    {
+      "word": "Ay de la tierra que hace sombra con las alas, que está tras los ríos de Etiopía; que envía mensajeros por el mar, y en naves de junco sobre las aguas!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 9175,
+      "duration_ms": 9075
+    },
+    {
+      "word": "Andad, mensajeros veloces, a la nación de elevada estatura y tez brillante, al pueblo temible desde su principio y después, gente fuerte y conquistadora, cuya tierra es surcada por ríos.",
+      "verse": 2,
+      "start_ms": 9125,
+      "end_ms": 21250,
+      "duration_ms": 12125
+    },
+    {
+      "word": "Vosotros, todos los moradores del mundo y habitantes de la tierra, cuando se levante bandera en los montes, mirad; y cuando se toque trompeta, escuchad.",
+      "verse": 3,
+      "start_ms": 21250,
+      "end_ms": 30850,
+      "duration_ms": 9600
+    },
+    {
+      "word": "Porque Jehová me dijo así: Me estaré quieto, y los miraré desde mi morada, como sol claro después de la lluvia, como nube de rocío en el calor de la siega.",
+      "verse": 4,
+      "start_ms": 30850,
+      "end_ms": 40450,
+      "duration_ms": 9600
+    },
+    {
+      "word": "Porque antes de la siega, cuando el fruto sea perfecto, y pasada la flor se maduren los frutos, entonces podará con podaderas las ramitas, y cortará y quitará las ramas.",
+      "verse": 5,
+      "start_ms": 40450,
+      "end_ms": 51112,
+      "duration_ms": 10662
+    },
+    {
+      "word": "Y serán dejados todos para las aves de los montes y para las bestias de la tierra; sobre ellos tendrán el verano las aves, e invernarán todas las bestias de la tierra.",
+      "verse": 6,
+      "start_ms": 51112,
+      "end_ms": 60724,
+      "duration_ms": 9612
+    },
+    {
+      "word": "En aquel tiempo será traída ofrenda a Jehová de los ejércitos, del pueblo de elevada estatura y tez brillante, del pueblo temible desde su principio y después, gente fuerte y conquistadora, cuya tierra es surcada por ríos, al lugar del nombre de Jehová de los ejércitos, al monte de Sion.",
+      "verse": 7,
+      "start_ms": 60725,
+      "end_ms": 77950,
+      "duration_ms": 17225
+    }
+  ]
+}

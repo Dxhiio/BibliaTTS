@@ -1,0 +1,82 @@
+{
+  "book": "OSE",
+  "chapter": 3,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 5,
+  "word_count": 5,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 196,
+      "text": "Me dijo otra vez Jehová: Ve, ama a una mujer amada de su compañero, aunque adúltera, como el amor de Jehová para con los hijos de Israel, los cuales miran a dioses ajenos, y aman tortas de pasas."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 196,
+      "char_end": 280,
+      "text": "La compré entonces para mí por quince siclos de plata y un homer y medio de cebada."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 280,
+      "char_end": 389,
+      "text": "Y le dije: Tú serás mía durante muchos días; no fornicarás, ni tomarás otro varón; lo mismo haré yo contigo."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 389,
+      "char_end": 514,
+      "text": "Porque muchos días estarán los hijos de Israel sin rey, sin príncipe, sin sacrificio, sin estatua, sin efod y sin terafines."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 514,
+      "char_end": 655,
+      "text": "Después volverán los hijos de Israel, y buscarán a Jehová su Dios, y a David su rey; y temerán a Jehová y a su bondad en el fin de los días."
+    }
+  ],
+  "words": [
+    {
+      "word": "Me dijo otra vez Jehová: Ve, ama a una mujer amada de su compañero, aunque adúltera, como el amor de Jehová para con los hijos de Israel, los cuales miran a dioses ajenos, y aman tortas de pasas.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 12762,
+      "duration_ms": 12662
+    },
+    {
+      "word": "La compré entonces para mí por quince siclos de plata y un homer y medio de cebada.",
+      "verse": 2,
+      "start_ms": 12712,
+      "end_ms": 17899,
+      "duration_ms": 5187
+    },
+    {
+      "word": "Y le dije: Tú serás mía durante muchos días; no fornicarás, ni tomarás otro varón; lo mismo haré yo contigo.",
+      "verse": 3,
+      "start_ms": 17900,
+      "end_ms": 26012,
+      "duration_ms": 8112
+    },
+    {
+      "word": "Porque muchos días estarán los hijos de Israel sin rey, sin príncipe, sin sacrificio, sin estatua, sin efod y sin terafines.",
+      "verse": 4,
+      "start_ms": 26012,
+      "end_ms": 34624,
+      "duration_ms": 8612
+    },
+    {
+      "word": "Después volverán los hijos de Israel, y buscarán a Jehová su Dios, y a David su rey; y temerán a Jehová y a su bondad en el fin de los días.",
+      "verse": 5,
+      "start_ms": 34625,
+      "end_ms": 43575,
+      "duration_ms": 8950
+    }
+  ]
+}

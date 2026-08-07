@@ -1,0 +1,509 @@
+{
+  "book": "PRO",
+  "chapter": 23,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 35,
+  "word_count": 36,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 85,
+      "text": "Cuando te sientes a comer con algún señor, Considera bien lo que está delante de ti,"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 85,
+      "char_end": 139,
+      "text": "Y pon cuchillo a tu garganta, Si tienes gran apetito."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 139,
+      "char_end": 199,
+      "text": "No codicies sus manjares delicados, Porque es pan engañoso."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 199,
+      "char_end": 254,
+      "text": "No te afanes por hacerte rico; Sé prudente, y desiste."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 254,
+      "char_end": 373,
+      "text": "¿Has de poner tus ojos en las riquezas, siendo ningunas? Porque se harán alas Como alas de águila, y volarán al cielo."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 373,
+      "char_end": 426,
+      "text": "No comas pan con el avaro, Ni codicies sus manjares;"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 426,
+      "char_end": 536,
+      "text": "Porque cual es su pensamiento en su corazón, tal es él. Come y bebe, te dirá; Mas su corazón no está contigo."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 536,
+      "char_end": 600,
+      "text": "Vomitarás la parte que comiste, Y perderás tus suaves palabras."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 600,
+      "char_end": 679,
+      "text": "No hables a oídos del necio, Porque menospreciará la prudencia de tus razones."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 679,
+      "char_end": 754,
+      "text": "No traspases el lindero antiguo, Ni entres en la heredad de los huérfanos;"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 754,
+      "char_end": 841,
+      "text": "Porque el defensor de ellos es el Fuerte, El cual juzgará la causa de ellos contra ti."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 841,
+      "char_end": 916,
+      "text": "Aplica tu corazón a la enseñanza, Y tus oídos a las palabras de sabiduría."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 916,
+      "char_end": 992,
+      "text": "No rehúses corregir al muchacho; Porque si lo castigas con vara, no morirá."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 992,
+      "char_end": 1045,
+      "text": "Lo castigarás con vara, Y librarás su alma del Seol."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1045,
+      "char_end": 1122,
+      "text": "Hijo mío, si tu corazón fuere sabio, También a mí se me alegrará el corazón;"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1122,
+      "char_end": 1197,
+      "text": "Mis entrañas también se alegrarán Cuando tus labios hablaren cosas rectas."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1197,
+      "char_end": 1297,
+      "text": "No tenga tu corazón envidia de los pecadores, Antes persevera en el temor de Jehová todo el tiempo;"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1297,
+      "char_end": 1357,
+      "text": "Porque ciertamente hay fin, Y tu esperanza no será cortada."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1357,
+      "char_end": 1417,
+      "text": "Oye, hijo mío, y sé sabio, Y endereza tu corazón al camino."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1417,
+      "char_end": 1484,
+      "text": "No estés con los bebedores de vino, Ni con los comedores de carne;"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1484,
+      "char_end": 1568,
+      "text": "Porque el bebedor y el comilón empobrecerán, Y el sueño hará vestir vestidos rotos."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1568,
+      "char_end": 1660,
+      "text": "Oye a tu padre, a aquel que te engendró; Y cuando tu madre envejeciere, no la menosprecies."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1660,
+      "char_end": 1740,
+      "text": "Compra la verdad, y no la vendas; La sabiduría, la enseñanza y la inteligencia."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1740,
+      "char_end": 1820,
+      "text": "Mucho se alegrará el padre del justo, Y el que engendra sabio se gozará con él."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1820,
+      "char_end": 1881,
+      "text": "Alégrense tu padre y tu madre, Y gócese la que te dio a luz."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 1881,
+      "char_end": 1943,
+      "text": "Dame, hijo mío, tu corazón, Y miren tus ojos por mis caminos."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 1943,
+      "char_end": 2007,
+      "text": "Porque abismo profundo es la ramera, Y pozo angosto la extraña."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2007,
+      "char_end": 2094,
+      "text": "También ella, como robador, acecha, Y multiplica entre los hombres los prevaricadores."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2094,
+      "char_end": 2263,
+      "text": "¿Para quién será el ay? ¿Para quién el dolor? ¿Para quién las rencillas? ¿Para quién las quejas? ¿Para quién las heridas en balde? ¿Para quién lo amoratado de los ojos?"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2263,
+      "char_end": 2344,
+      "text": "Para los que se detienen mucho en el vino, Para los que van buscando la mistura."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2344,
+      "char_end": 2436,
+      "text": "No mires al vino cuando rojea, Cuando resplandece su color en la copa. Se entra suavemente;"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2436,
+      "char_end": 2496,
+      "text": "Mas al fin como serpiente morderá, Y como áspid dará dolor."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 2496,
+      "char_end": 2565,
+      "text": "Tus ojos mirarán cosas extrañas, Y tu corazón hablará perversidades."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 2565,
+      "char_end": 2654,
+      "text": "Serás como el que yace en medio del mar, O como el que está en la punta de un mastelero."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 2654,
+      "char_end": 2767,
+      "text": "Y dirás: Me hirieron, mas no me dolió; Me azotaron, mas no lo sentí; Cuando despertare, aún lo volveré a buscar."
+    }
+  ],
+  "words": [
+    {
+      "word": "Cuando te sientes a comer con algún señor, Considera bien lo que está delante de ti, Y pon cuchillo a tu garganta, Si tienes gran apetito.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 8612,
+      "duration_ms": 8512
+    },
+    {
+      "word": "No codicies sus manjares delicados, Porque es pan engañoso.",
+      "verse": 3,
+      "start_ms": 8562,
+      "end_ms": 13024,
+      "duration_ms": 4462
+    },
+    {
+      "word": "No te afanes por hacerte rico; Sé prudente, y desiste.",
+      "verse": 4,
+      "start_ms": 13025,
+      "end_ms": 17412,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Has de poner tus ojos en las riquezas, siendo ningunas?",
+      "verse": 5,
+      "start_ms": 17412,
+      "end_ms": 21499,
+      "duration_ms": 4087
+    },
+    {
+      "word": "Porque se harán alas Como alas de águila, y volarán al cielo.",
+      "verse": 5,
+      "start_ms": 21500,
+      "end_ms": 25762,
+      "duration_ms": 4262
+    },
+    {
+      "word": "No comas pan con el avaro, Ni codicies sus manjares; Porque cual es su pensamiento en su corazón, tal es él.",
+      "verse": 6,
+      "start_ms": 25762,
+      "end_ms": 32824,
+      "duration_ms": 7062
+    },
+    {
+      "word": "Come y bebe, te dirá; Mas su corazón no está contigo.",
+      "verse": 7,
+      "start_ms": 32825,
+      "end_ms": 37287,
+      "duration_ms": 4462
+    },
+    {
+      "word": "Vomitarás la parte que comiste, Y perderás tus suaves palabras.",
+      "verse": 8,
+      "start_ms": 37287,
+      "end_ms": 41999,
+      "duration_ms": 4712
+    },
+    {
+      "word": "No hables a oídos del necio, Porque menospreciará la prudencia de tus razones.",
+      "verse": 9,
+      "start_ms": 42000,
+      "end_ms": 47487,
+      "duration_ms": 5487
+    },
+    {
+      "word": "No traspases el lindero antiguo, Ni entres en la heredad de los huérfanos; Porque el defensor de ellos es el Fuerte, El cual juzgará la causa de ellos contra ti.",
+      "verse": 10,
+      "start_ms": 47487,
+      "end_ms": 56899,
+      "duration_ms": 9412
+    },
+    {
+      "word": "Aplica tu corazón a la enseñanza, Y tus oídos a las palabras de sabiduría.",
+      "verse": 12,
+      "start_ms": 56900,
+      "end_ms": 62175,
+      "duration_ms": 5275
+    },
+    {
+      "word": "No rehúses corregir al muchacho; Porque si lo castigas con vara, no morirá.",
+      "verse": 13,
+      "start_ms": 62175,
+      "end_ms": 67575,
+      "duration_ms": 5400
+    },
+    {
+      "word": "Lo castigarás con vara, Y librarás su alma del Seol.",
+      "verse": 14,
+      "start_ms": 67575,
+      "end_ms": 71687,
+      "duration_ms": 4112
+    },
+    {
+      "word": "Hijo mío, si tu corazón fuere sabio, También a mí se me alegrará el corazón; Mis entrañas también se alegrarán Cuando tus labios hablaren cosas rectas.",
+      "verse": 15,
+      "start_ms": 71687,
+      "end_ms": 81062,
+      "duration_ms": 9375
+    },
+    {
+      "word": "No tenga tu corazón envidia de los pecadores, Antes persevera en el temor de Jehová todo el tiempo; Porque ciertamente hay fin, Y tu esperanza no será cortada.",
+      "verse": 17,
+      "start_ms": 81062,
+      "end_ms": 90862,
+      "duration_ms": 9800
+    },
+    {
+      "word": "Oye, hijo mío, y sé sabio, Y endereza tu corazón al camino.",
+      "verse": 19,
+      "start_ms": 90862,
+      "end_ms": 96049,
+      "duration_ms": 5187
+    },
+    {
+      "word": "No estés con los bebedores de vino, Ni con los comedores de carne; Porque el bebedor y el comilón empobrecerán, Y el sueño hará vestir vestidos rotos.",
+      "verse": 20,
+      "start_ms": 96050,
+      "end_ms": 105100,
+      "duration_ms": 9050
+    },
+    {
+      "word": "Oye a tu padre, a aquel que te engendró; Y cuando tu madre envejeciere, no la menosprecies.",
+      "verse": 22,
+      "start_ms": 105100,
+      "end_ms": 111525,
+      "duration_ms": 6425
+    },
+    {
+      "word": "Compra la verdad, y no la vendas; La sabiduría, la enseñanza y la inteligencia.",
+      "verse": 23,
+      "start_ms": 111525,
+      "end_ms": 117575,
+      "duration_ms": 6050
+    },
+    {
+      "word": "Mucho se alegrará el padre del justo, Y el que engendra sabio se gozará con él.",
+      "verse": 24,
+      "start_ms": 117575,
+      "end_ms": 122925,
+      "duration_ms": 5350
+    },
+    {
+      "word": "Alégrense tu padre y tu madre, Y gócese la que te dio a luz.",
+      "verse": 25,
+      "start_ms": 122925,
+      "end_ms": 127450,
+      "duration_ms": 4525
+    },
+    {
+      "word": "Dame, hijo mío, tu corazón, Y miren tus ojos por mis caminos.",
+      "verse": 26,
+      "start_ms": 127450,
+      "end_ms": 132825,
+      "duration_ms": 5375
+    },
+    {
+      "word": "Porque abismo profundo es la ramera, Y pozo angosto la extraña.",
+      "verse": 27,
+      "start_ms": 132825,
+      "end_ms": 137387,
+      "duration_ms": 4562
+    },
+    {
+      "word": "También ella, como robador, acecha, Y multiplica entre los hombres los prevaricadores.",
+      "verse": 28,
+      "start_ms": 137387,
+      "end_ms": 143662,
+      "duration_ms": 6275
+    },
+    {
+      "word": "Para quién será el ay?",
+      "verse": 29,
+      "start_ms": 143662,
+      "end_ms": 145787,
+      "duration_ms": 2125
+    },
+    {
+      "word": "Para quién el dolor?",
+      "verse": 29,
+      "start_ms": 145787,
+      "end_ms": 147687,
+      "duration_ms": 1900
+    },
+    {
+      "word": "Para quién las rencillas?",
+      "verse": 29,
+      "start_ms": 147687,
+      "end_ms": 149849,
+      "duration_ms": 2162
+    },
+    {
+      "word": "Para quién las quejas?",
+      "verse": 29,
+      "start_ms": 149850,
+      "end_ms": 151900,
+      "duration_ms": 2050
+    },
+    {
+      "word": "Para quién las heridas en balde?",
+      "verse": 29,
+      "start_ms": 151900,
+      "end_ms": 154350,
+      "duration_ms": 2450
+    },
+    {
+      "word": "Para quién lo amoratado de los ojos?",
+      "verse": 29,
+      "start_ms": 154350,
+      "end_ms": 157162,
+      "duration_ms": 2812
+    },
+    {
+      "word": "Para los que se detienen mucho en el vino, Para los que van buscando la mistura.",
+      "verse": 30,
+      "start_ms": 157162,
+      "end_ms": 162049,
+      "duration_ms": 4887
+    },
+    {
+      "word": "No mires al vino cuando rojea, Cuando resplandece su color en la copa.",
+      "verse": 31,
+      "start_ms": 162050,
+      "end_ms": 166800,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Se entra suavemente; Mas al fin como serpiente morderá, Y como áspid dará dolor.",
+      "verse": 31,
+      "start_ms": 166800,
+      "end_ms": 172775,
+      "duration_ms": 5975
+    },
+    {
+      "word": "Tus ojos mirarán cosas extrañas, Y tu corazón hablará perversidades.",
+      "verse": 33,
+      "start_ms": 172775,
+      "end_ms": 177950,
+      "duration_ms": 5175
+    },
+    {
+      "word": "Serás como el que yace en medio del mar, O como el que está en la punta de un mastelero.",
+      "verse": 34,
+      "start_ms": 177950,
+      "end_ms": 183487,
+      "duration_ms": 5537
+    },
+    {
+      "word": "Y dirás: Me hirieron, mas no me dolió; Me azotaron, mas no lo sentí; Cuando despertare, aún lo volveré a buscar.",
+      "verse": 35,
+      "start_ms": 183487,
+      "end_ms": 192012,
+      "duration_ms": 8525
+    }
+  ]
+}

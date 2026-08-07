@@ -1,0 +1,838 @@
+{
+  "book": "1RE",
+  "chapter": 8,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 66,
+  "word_count": 52,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 243,
+      "text": "Entonces Salomón reunió ante sí en Jerusalén a los ancianos de Israel, a todos los jefes de las tribus, y a los principales de las familias de los hijos de Israel, para traer el arca del pacto de Jehová de la ciudad de David, la cual es Sion."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 243,
+      "char_end": 381,
+      "text": "Y se reunieron con el rey Salomón todos los varones de Israel en el mes de Etanim, que es el mes séptimo, en el día de la fiesta solemne."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 381,
+      "char_end": 456,
+      "text": "Y vinieron todos los ancianos de Israel, y los sacerdotes tomaron el arca."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 456,
+      "char_end": 624,
+      "text": "Y llevaron el arca de Jehová, y el tabernáculo de reunión, y todos los utensilios sagrados que estaban en el tabernáculo, los cuales llevaban los sacerdotes y levitas."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 624,
+      "char_end": 819,
+      "text": "Y el rey Salomón, y toda la congregación de Israel que se había reunido con él, estaban con él delante del arca, sacrificando ovejas y bueyes, que por la multitud no se podían contar ni numerar."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 819,
+      "char_end": 975,
+      "text": "Y los sacerdotes metieron el arca del pacto de Jehová en su lugar, en el santuario de la casa, en el lugar santísimo, debajo de las alas de los querubines."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 975,
+      "char_end": 1110,
+      "text": "Porque los querubines tenían extendidas las alas sobre el lugar del arca, y así cubrían los querubines el arca y sus varas por encima."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1110,
+      "char_end": 1300,
+      "text": "Y sacaron las varas, de manera que sus extremos se dejaban ver desde el lugar santo, que está delante del lugar santísimo, pero no se dejaban ver desde más afuera; y así quedaron hasta hoy."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1300,
+      "char_end": 1488,
+      "text": "En el arca ninguna cosa había sino las dos tablas de piedra que allí había puesto Moisés en Horeb, donde Jehová hizo pacto con los hijos de Israel, cuando salieron de la tierra de Egipto."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1488,
+      "char_end": 1569,
+      "text": "Y cuando los sacerdotes salieron del santuario, la nube llenó la casa de Jehová."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1569,
+      "char_end": 1744,
+      "text": "Y los sacerdotes no pudieron permanecer para ministrar por causa de la nube; porque la gloria de Jehová había llenado la casa de Jehová. Dedicación del templo (2 Ch 6.1—7.10)"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1744,
+      "char_end": 1817,
+      "text": "Entonces dijo Salomón: Jehová ha dicho que él habitaría en la oscuridad."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1817,
+      "char_end": 1896,
+      "text": "Yo he edificado casa por morada para ti, sitio en que tú habites para siempre."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1896,
+      "char_end": 2016,
+      "text": "Y volviendo el rey su rostro, bendijo a toda la congregación de Israel; y toda la congregación de Israel estaba de pie."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2016,
+      "char_end": 2129,
+      "text": "Y dijo: Bendito sea Jehová, Dios de Israel, que habló a David mi padre lo que con su mano ha cumplido, diciendo:"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2129,
+      "char_end": 2348,
+      "text": "Desde el día que saqué de Egipto a mi pueblo Israel, no he escogido ciudad de todas las tribus de Israel para edificar casa en la cual estuviese mi nombre, aunque escogí a David para que presidiese en mi pueblo Israel."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2348,
+      "char_end": 2434,
+      "text": "Y David mi padre tuvo en su corazón edificar casa al nombre de Jehová Dios de Israel."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2434,
+      "char_end": 2567,
+      "text": "Pero Jehová dijo a David mi padre: Cuanto a haber tenido en tu corazón edificar casa a mi nombre, bien has hecho en tener tal deseo."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2567,
+      "char_end": 2667,
+      "text": "Pero tú no edificarás la casa, sino tu hijo que saldrá de tus lomos, él edificará casa a mi nombre."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2667,
+      "char_end": 2893,
+      "text": "Y Jehová ha cumplido su palabra que había dicho; porque yo me he levantado en lugar de David mi padre, y me he sentado en el trono de Israel, como Jehová había dicho, y he edificado la casa al nombre de Jehová Dios de Israel."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2893,
+      "char_end": 3040,
+      "text": "Y he puesto en ella lugar para el arca, en la cual está el pacto de Jehová que él hizo con nuestros padres cuando los sacó de la tierra de Egipto."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3040,
+      "char_end": 3173,
+      "text": "Luego se puso Salomón delante del altar de Jehová, en presencia de toda la congregación de Israel, y extendiendo sus manos al cielo,"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3173,
+      "char_end": 3373,
+      "text": "dijo: Jehová Dios de Israel, no hay Dios como tú, ni arriba en los cielos ni abajo en la tierra, que guardas el pacto y la misericordia a tus siervos, los que andan delante de ti con todo su corazón;"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3373,
+      "char_end": 3519,
+      "text": "que has cumplido a tu siervo David mi padre lo que le prometiste; lo dijiste con tu boca, y con tu mano lo has cumplido, como sucede en este día."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3519,
+      "char_end": 3789,
+      "text": "Ahora, pues, Jehová Dios de Israel, cumple a tu siervo David mi padre lo que le prometiste, diciendo: No te faltará varón delante de mí, que se siente en el trono de Israel, con tal que tus hijos guarden mi camino y anden delante de mí como tú has andado delante de mí."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3789,
+      "char_end": 3888,
+      "text": "Ahora, pues, oh Jehová Dios de Israel, cúmplase la palabra que dijiste a tu siervo David mi padre."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3888,
+      "char_end": 4055,
+      "text": "Pero ¿es verdad que Dios morará sobre la tierra? He aquí que los cielos, los cielos de los cielos, no te pueden contener; ¿cuánto menos esta casa que yo he edificado?"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 4055,
+      "char_end": 4210,
+      "text": "Con todo, tú atenderás a la oración de tu siervo, y a su plegaria, oh Jehová Dios mío, oyendo el clamor y la oración que tu siervo hace hoy delante de ti;"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 4210,
+      "char_end": 4390,
+      "text": "que estén tus ojos abiertos de noche y de día sobre esta casa, sobre este lugar del cual has dicho: Mi nombre estará allí; y que oigas la oración que tu siervo haga en este lugar."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4390,
+      "char_end": 4556,
+      "text": "Oye, pues, la oración de tu siervo, y de tu pueblo Israel; cuando oren en este lugar, también tú lo oirás en el lugar de tu morada, en los cielos; escucha y perdona."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4556,
+      "char_end": 4690,
+      "text": "Si alguno pecare contra su prójimo, y le tomaren juramento haciéndole jurar, y viniere el juramento delante de tu altar en esta casa;"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4690,
+      "char_end": 4878,
+      "text": "tú oirás desde el cielo y actuarás, y juzgarás a tus siervos, condenando al impío y haciendo recaer su proceder sobre su cabeza, y justificando al justo para darle conforme a su justicia."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4878,
+      "char_end": 5059,
+      "text": "Si tu pueblo Israel fuere derrotado delante de sus enemigos por haber pecado contra ti, y se volvieren a ti y confesaren tu nombre, y oraren y te rogaren y suplicaren en esta casa,"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 5059,
+      "char_end": 5178,
+      "text": "tú oirás en los cielos, y perdonarás el pecado de tu pueblo Israel, y los volverás a la tierra que diste a sus padres."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 5178,
+      "char_end": 5351,
+      "text": "Si el cielo se cerrare y no lloviere, por haber ellos pecado contra ti, y te rogaren en este lugar y confesaren tu nombre, y se volvieren del pecado, cuando los afligieres,"
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 5351,
+      "char_end": 5550,
+      "text": "tú oirás en los cielos, y perdonarás el pecado de tus siervos y de tu pueblo Israel, enseñándoles el buen camino en que anden; y darás lluvias sobre tu tierra, la cual diste a tu pueblo por heredad."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 5550,
+      "char_end": 5732,
+      "text": "Si en la tierra hubiere hambre, pestilencia, tizoncillo, añublo, langosta o pulgón; si sus enemigos los sitiaren en la tierra en donde habiten; cualquier plaga o enfermedad que sea;"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 5732,
+      "char_end": 5902,
+      "text": "toda oración y toda súplica que hiciere cualquier hombre, o todo tu pueblo Israel, cuando cualquiera sintiere la plaga en su corazón, y extendiere sus manos a esta casa,"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 5902,
+      "char_end": 6116,
+      "text": "tú oirás en los cielos, en el lugar de tu morada, y perdonarás, y actuarás, y darás a cada uno conforme a sus caminos, cuyo corazón tú conoces (porque sólo tú conoces el corazón de todos los hijos de los hombres);"
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 6116,
+      "char_end": 6217,
+      "text": "para que te teman todos los días que vivan sobre la faz de la tierra que tú diste a nuestros padres."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 6217,
+      "char_end": 6324,
+      "text": "Asimismo el extranjero, que no es de tu pueblo Israel, que viniere de lejanas tierras a causa de tu nombre"
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 6324,
+      "char_end": 6429,
+      "text": "(pues oirán de tu gran nombre, de tu mano fuerte y de tu brazo extendido), y viniere a orar a esta casa,"
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 6429,
+      "char_end": 6724,
+      "text": "tú oirás en los cielos, en el lugar de tu morada, y harás conforme a todo aquello por lo cual el extranjero hubiere clamado a ti, para que todos los pueblos de la tierra conozcan tu nombre y te teman, como tu pueblo Israel, y entiendan que tu nombre es invocado sobre esta casa que yo edifiqué."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 6724,
+      "char_end": 6919,
+      "text": "Si tu pueblo saliere en batalla contra sus enemigos por el camino que tú les mandes, y oraren a Jehová con el rostro hacia la ciudad que tú elegiste, y hacia la casa que yo edifiqué a tu nombre,"
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 6919,
+      "char_end": 6989,
+      "text": "tú oirás en los cielos su oración y su súplica, y les harás justicia."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 6989,
+      "char_end": 7185,
+      "text": "Si pecaren contra ti (porque no hay hombre que no peque), y estuvieres airado contra ellos, y los entregares delante del enemigo, para que los cautive y lleve a tierra enemiga, sea lejos o cerca,"
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 7185,
+      "char_end": 7385,
+      "text": "y ellos volvieren en sí en la tierra donde fueren cautivos; si se convirtieren, y oraren a ti en la tierra de los que los cautivaron, y dijeren: Pecamos, hemos hecho lo malo, hemos cometido impiedad;"
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 7385,
+      "char_end": 7661,
+      "text": "y si se convirtieren a ti de todo su corazón y de toda su alma, en la tierra de sus enemigos que los hubieren llevado cautivos, y oraren a ti con el rostro hacia su tierra que tú diste a sus padres, y hacia la ciudad que tú elegiste y la casa que yo he edificado a tu nombre,"
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 7661,
+      "char_end": 7758,
+      "text": "tú oirás en los cielos, en el lugar de tu morada, su oración y su súplica, y les harás justicia."
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 7758,
+      "char_end": 7953,
+      "text": "Y perdonarás a tu pueblo que había pecado contra ti, y todas sus infracciones con que se hayan rebelado contra ti, y harás que tengan de ellos misericordia los que los hubieren llevado cautivos;"
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 7953,
+      "char_end": 8057,
+      "text": "porque ellos son tu pueblo y tu heredad, el cual tú sacaste de Egipto, de en medio del horno de hierro."
+    },
+    {
+      "verse": 52,
+      "label": "52",
+      "char_start": 8057,
+      "char_end": 8204,
+      "text": "Estén, pues, atentos tus ojos a la oración de tu siervo y a la plegaria de tu pueblo Israel, para oírlos en todo aquello por lo cual te invocaren;"
+    },
+    {
+      "verse": 53,
+      "label": "53",
+      "char_start": 8204,
+      "char_end": 8403,
+      "text": "porque tú los apartaste para ti como heredad tuya de entre todos los pueblos de la tierra, como lo dijiste por medio de Moisés tu siervo, cuando sacaste a nuestros padres de Egipto, oh Señor Jehová."
+    },
+    {
+      "verse": 54,
+      "label": "54",
+      "char_start": 8403,
+      "char_end": 8566,
+      "text": "Cuando acabó Salomón de hacer a Jehová toda esta oración y súplica, se levantó de estar de rodillas delante del altar de Jehová con sus manos extendidas al cielo;"
+    },
+    {
+      "verse": 55,
+      "label": "55",
+      "char_start": 8566,
+      "char_end": 8647,
+      "text": "y puesto en pie, bendijo a toda la congregación de Israel, diciendo en voz alta:"
+    },
+    {
+      "verse": 56,
+      "label": "56",
+      "char_start": 8647,
+      "char_end": 8826,
+      "text": "Bendito sea Jehová, que ha dado paz a su pueblo Israel, conforme a todo lo que él había dicho; ninguna palabra de todas sus promesas que expresó por Moisés su siervo, ha faltado."
+    },
+    {
+      "verse": 57,
+      "label": "57",
+      "char_start": 8826,
+      "char_end": 8930,
+      "text": "Esté con nosotros Jehová nuestro Dios, como estuvo con nuestros padres, y no nos desampare ni nos deje."
+    },
+    {
+      "verse": 58,
+      "label": "58",
+      "char_start": 8930,
+      "char_end": 9100,
+      "text": "Incline nuestro corazón hacia él, para que andemos en todos sus caminos, y guardemos sus mandamientos y sus estatutos y sus decretos, los cuales mandó a nuestros padres."
+    },
+    {
+      "verse": 59,
+      "label": "59",
+      "char_start": 9100,
+      "char_end": 9300,
+      "text": "Y estas mis palabras con que he orado delante de Jehová, estén cerca de Jehová nuestro Dios de día y de noche, para que él proteja la causa de su siervo y de su pueblo Israel, cada cosa en su tiempo;"
+    },
+    {
+      "verse": 60,
+      "label": "60",
+      "char_start": 9300,
+      "char_end": 9389,
+      "text": "a fin de que todos los pueblos de la tierra sepan que Jehová es Dios, y que no hay otro."
+    },
+    {
+      "verse": 61,
+      "label": "61",
+      "char_start": 9389,
+      "char_end": 9533,
+      "text": "Sea, pues, perfecto vuestro corazón para con Jehová nuestro Dios, andando en sus estatutos y guardando sus mandamientos, como en el día de hoy."
+    },
+    {
+      "verse": 62,
+      "label": "62",
+      "char_start": 9533,
+      "char_end": 9613,
+      "text": "Entonces el rey, y todo Israel con él, sacrificaron víctimas delante de Jehová."
+    },
+    {
+      "verse": 63,
+      "label": "63",
+      "char_start": 9613,
+      "char_end": 9797,
+      "text": "Y ofreció Salomón sacrificios de paz, los cuales ofreció a Jehová: veintidós mil bueyes y ciento veinte mil ovejas. Así dedicaron el rey y todos los hijos de Israel la casa de Jehová."
+    },
+    {
+      "verse": 64,
+      "label": "64",
+      "char_start": 9797,
+      "char_end": 10145,
+      "text": "Aquel mismo día santificó el rey el medio del atrio, el cual estaba delante de la casa de Jehová; porque ofreció allí los holocaustos, las ofrendas y la grosura de los sacrificios de paz, por cuanto el altar de bronce que estaba delante de Jehová era pequeño, y no cabían en él los holocaustos, las ofrendas y la grosura de los sacrificios de paz."
+    },
+    {
+      "verse": 65,
+      "label": "65",
+      "char_start": 10145,
+      "char_end": 10381,
+      "text": "En aquel tiempo Salomón hizo fiesta, y con él todo Israel, una gran congregación, desde donde entran en Hamat hasta el río de Egipto, delante de Jehová nuestro Dios, por siete días y aun por otros siete días, esto es, por catorce días."
+    },
+    {
+      "verse": 66,
+      "label": "66",
+      "char_start": 10381,
+      "char_end": 10588,
+      "text": "Y al octavo día despidió al pueblo; y ellos, bendiciendo al rey, se fueron a sus moradas alegres y gozosos de corazón, por todos los beneficios que Jehová había hecho a David su siervo y a su pueblo Israel."
+    }
+  ],
+  "words": [
+    {
+      "word": "Entonces Salomón reunió ante sí en Jerusalén a los ancianos de Israel, a todos los jefes de las tribus, y a los principales de las familias de los hijos de Israel, para traer el arca del pacto de Jehová de la ciudad de David, la cual es Sion.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 13825,
+      "duration_ms": 13725
+    },
+    {
+      "word": "Y se reunieron con el rey Salomón todos los varones de Israel en el mes de Etanim, que es el mes séptimo, en el día de la fiesta solemne.",
+      "verse": 2,
+      "start_ms": 13825,
+      "end_ms": 22087,
+      "duration_ms": 8262
+    },
+    {
+      "word": "Y vinieron todos los ancianos de Israel, y los sacerdotes tomaron el arca.",
+      "verse": 3,
+      "start_ms": 22087,
+      "end_ms": 27112,
+      "duration_ms": 5025
+    },
+    {
+      "word": "Y llevaron el arca de Jehová, y el tabernáculo de reunión, y todos los utensilios sagrados que estaban en el tabernáculo, los cuales llevaban los sacerdotes y levitas.",
+      "verse": 4,
+      "start_ms": 27112,
+      "end_ms": 37049,
+      "duration_ms": 9937
+    },
+    {
+      "word": "Y el rey Salomón, y toda la congregación de Israel que se había reunido con él, estaban con él delante del arca, sacrificando ovejas y bueyes, que por la multitud no se podían contar ni numerar.",
+      "verse": 5,
+      "start_ms": 37050,
+      "end_ms": 49000,
+      "duration_ms": 11950
+    },
+    {
+      "word": "Y los sacerdotes metieron el arca del pacto de Jehová en su lugar, en el santuario de la casa, en el lugar santísimo, debajo de las alas de los querubines.",
+      "verse": 6,
+      "start_ms": 49000,
+      "end_ms": 58225,
+      "duration_ms": 9225
+    },
+    {
+      "word": "Porque los querubines tenían extendidas las alas sobre el lugar del arca, y así cubrían los querubines el arca y sus varas por encima.",
+      "verse": 7,
+      "start_ms": 58225,
+      "end_ms": 65837,
+      "duration_ms": 7612
+    },
+    {
+      "word": "Y sacaron las varas, de manera que sus extremos se dejaban ver desde el lugar santo, que está delante del lugar santísimo, pero no se dejaban ver desde más afuera; y así quedaron hasta hoy.",
+      "verse": 8,
+      "start_ms": 65837,
+      "end_ms": 77274,
+      "duration_ms": 11437
+    },
+    {
+      "word": "En el arca ninguna cosa había sino las dos tablas de piedra que allí había puesto Moisés en Horeb, donde Jehová hizo pacto con los hijos de Israel, cuando salieron de la tierra de Egipto.",
+      "verse": 9,
+      "start_ms": 77275,
+      "end_ms": 87875,
+      "duration_ms": 10600
+    },
+    {
+      "word": "Y cuando los sacerdotes salieron del santuario, la nube llenó la casa de Jehová.",
+      "verse": 10,
+      "start_ms": 87875,
+      "end_ms": 92950,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Y los sacerdotes no pudieron permanecer para ministrar por causa de la nube; porque la gloria de Jehová había llenado la casa de Jehová.",
+      "verse": 11,
+      "start_ms": 92950,
+      "end_ms": 100625,
+      "duration_ms": 7675
+    },
+    {
+      "word": "Dedicación del templo (2 Ch 6.1—7.10) Entonces dijo Salomón: Jehová ha dicho que él habitaría en la oscuridad.",
+      "verse": 11,
+      "start_ms": 100625,
+      "end_ms": 109712,
+      "duration_ms": 9087
+    },
+    {
+      "word": "Yo he edificado casa por morada para ti, sitio en que tú habites para siempre.",
+      "verse": 13,
+      "start_ms": 109712,
+      "end_ms": 114962,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Y volviendo el rey su rostro, bendijo a toda la congregación de Israel; y toda la congregación de Israel estaba de pie.",
+      "verse": 14,
+      "start_ms": 114962,
+      "end_ms": 122537,
+      "duration_ms": 7575
+    },
+    {
+      "word": "Y dijo: Bendito sea Jehová, Dios de Israel, que habló a David mi padre lo que con su mano ha cumplido, diciendo: Desde el día que saqué de Egipto a mi pueblo Israel, no he escogido ciudad de todas las tribus de Israel para edificar casa en la cual estuviese mi nombre, aunque escogí a David para que presidiese en mi pueblo Israel.",
+      "verse": 15,
+      "start_ms": 122537,
+      "end_ms": 141687,
+      "duration_ms": 19150
+    },
+    {
+      "word": "Y David mi padre tuvo en su corazón edificar casa al nombre de Jehová Dios de Israel.",
+      "verse": 17,
+      "start_ms": 141687,
+      "end_ms": 147124,
+      "duration_ms": 5437
+    },
+    {
+      "word": "Pero Jehová dijo a David mi padre: Cuanto a haber tenido en tu corazón edificar casa a mi nombre, bien has hecho en tener tal deseo.",
+      "verse": 18,
+      "start_ms": 147125,
+      "end_ms": 154862,
+      "duration_ms": 7737
+    },
+    {
+      "word": "Pero tú no edificarás la casa, sino tu hijo que saldrá de tus lomos, él edificará casa a mi nombre.",
+      "verse": 19,
+      "start_ms": 154862,
+      "end_ms": 161649,
+      "duration_ms": 6787
+    },
+    {
+      "word": "Y Jehová ha cumplido su palabra que había dicho; porque yo me he levantado en lugar de David mi padre, y me he sentado en el trono de Israel, como Jehová había dicho, y he edificado la casa al nombre de Jehová Dios de Israel.",
+      "verse": 20,
+      "start_ms": 161650,
+      "end_ms": 174825,
+      "duration_ms": 13175
+    },
+    {
+      "word": "Y he puesto en ella lugar para el arca, en la cual está el pacto de Jehová que él hizo con nuestros padres cuando los sacó de la tierra de Egipto.",
+      "verse": 21,
+      "start_ms": 174825,
+      "end_ms": 182562,
+      "duration_ms": 7737
+    },
+    {
+      "word": "Luego se puso Salomón delante del altar de Jehová, en presencia de toda la congregación de Israel, y extendiendo sus manos al cielo, dijo: Jehová Dios de Israel, no hay Dios como tú, ni arriba en los cielos ni abajo en la tierra, que guardas el pacto y la misericordia a tus siervos, los que andan delante de ti con todo su corazón; que has cumplido a tu siervo David mi padre lo que le prometiste; lo dijiste con tu boca, y con tu mano lo has cumplido, como sucede en este día.",
+      "verse": 22,
+      "start_ms": 182562,
+      "end_ms": 210137,
+      "duration_ms": 27575
+    },
+    {
+      "word": "Ahora, pues, Jehová Dios de Israel, cumple a tu siervo David mi padre lo que le prometiste, diciendo: No te faltará varón delante de mí, que se siente en el trono de Israel, con tal que tus hijos guarden mi camino y anden delante de mí como tú has andado delante de mí.",
+      "verse": 25,
+      "start_ms": 210137,
+      "end_ms": 226274,
+      "duration_ms": 16137
+    },
+    {
+      "word": "Ahora, pues, oh Jehová Dios de Israel, cúmplase la palabra que dijiste a tu siervo David mi padre.",
+      "verse": 26,
+      "start_ms": 226275,
+      "end_ms": 232937,
+      "duration_ms": 6662
+    },
+    {
+      "word": "Pero ¿es verdad que Dios morará sobre la tierra?",
+      "verse": 27,
+      "start_ms": 232937,
+      "end_ms": 236262,
+      "duration_ms": 3325
+    },
+    {
+      "word": "He aquí que los cielos, los cielos de los cielos, no te pueden",
+      "verse": 27,
+      "start_ms": 236262,
+      "end_ms": 240824,
+      "duration_ms": 4562
+    },
+    {
+      "word": "contener; ¿cuánto menos esta casa que yo he edificado?",
+      "verse": 27,
+      "start_ms": 240988,
+      "end_ms": 245088,
+      "duration_ms": 4100
+    },
+    {
+      "word": "Con todo, tú atenderás a la oración de tu siervo, y a su plegaria, oh Jehová Dios mío, oyendo el clamor y la oración que tu siervo hace hoy delante de ti; que estén tus ojos abiertos de noche y de día sobre esta casa, sobre este lugar del cual has dicho: Mi nombre estará allí; y que oigas la oración que tu siervo haga en este lugar.",
+      "verse": 28,
+      "start_ms": 245038,
+      "end_ms": 264663,
+      "duration_ms": 19625
+    },
+    {
+      "word": "Oye, pues, la oración de tu siervo, y de tu pueblo Israel; cuando oren en este lugar, también tú lo oirás en el lugar de tu morada, en los cielos; escucha y perdona.",
+      "verse": 30,
+      "start_ms": 264663,
+      "end_ms": 275650,
+      "duration_ms": 10987
+    },
+    {
+      "word": "Si alguno pecare contra su prójimo, y le tomaren juramento haciéndole jurar, y viniere el juramento delante de tu altar en esta casa; tú oirás desde el cielo y actuarás, y juzgarás a tus siervos, condenando al impío y haciendo recaer su proceder sobre su cabeza, y justificando al justo para darle conforme a su justicia.",
+      "verse": 31,
+      "start_ms": 275650,
+      "end_ms": 294212,
+      "duration_ms": 18562
+    },
+    {
+      "word": "Si tu pueblo Israel fuere derrotado delante de sus enemigos por haber pecado contra ti, y se volvieren a ti y confesaren tu nombre, y oraren y te rogaren y suplicaren en esta casa, tú oirás en los cielos, y perdonarás el pecado de tu pueblo Israel, y los volverás a la tierra que diste a sus padres.",
+      "verse": 33,
+      "start_ms": 294213,
+      "end_ms": 311588,
+      "duration_ms": 17375
+    },
+    {
+      "word": "Si el cielo se cerrare y no lloviere, por haber ellos pecado contra ti, y te rogaren en este lugar y confesaren tu nombre, y se volvieren del pecado, cuando los afligieres, tú oirás en los cielos, y perdonarás el pecado de tus siervos y de tu pueblo Israel, enseñándoles el buen camino en que anden; y darás lluvias sobre tu tierra, la cual diste a tu pueblo por heredad.",
+      "verse": 35,
+      "start_ms": 311588,
+      "end_ms": 332888,
+      "duration_ms": 21300
+    },
+    {
+      "word": "Si en la tierra hubiere hambre, pestilencia, tizoncillo, añublo, langosta o pulgón; si sus enemigos los sitiaren en la tierra en donde habiten; cualquier plaga o enfermedad que sea; toda oración y toda súplica que hiciere cualquier hombre, o todo tu pueblo Israel, cuando cualquiera sintiere la plaga en su corazón, y extendiere sus manos a esta casa, tú oirás en los cielos, en el lugar de tu morada, y perdonarás, y actuarás, y darás a cada uno conforme a sus caminos, cuyo corazón tú conoces (",
+      "verse": 37,
+      "start_ms": 332888,
+      "end_ms": 362875,
+      "duration_ms": 29987
+    },
+    {
+      "word": "porque sólo tú conoces el corazón de todos los hijos de los hombres); para que te teman todos los días que vivan sobre la faz de la tierra que tú diste a nuestros padres.",
+      "verse": 39,
+      "start_ms": 362875,
+      "end_ms": 372062,
+      "duration_ms": 9187
+    },
+    {
+      "word": "Asimismo el extranjero, que no es de tu pueblo Israel, que viniere de lejanas tierras a causa de tu nombre (pues oirán de tu gran nombre, de tu mano fuerte y de tu brazo extendido), y viniere a orar a esta casa, tú oirás en los cielos, en el lugar de tu morada, y harás conforme a todo aquello por lo cual el extranjero hubiere clamado a ti, para que todos los pueblos de la tierra conozcan tu nombre y te teman, como tu pueblo Israel, y entiendan que tu nombre es invocado sobre esta casa que yo",
+      "verse": 41,
+      "start_ms": 372063,
+      "end_ms": 399813,
+      "duration_ms": 27750
+    },
+    {
+      "word": "edifiqué.",
+      "verse": 43,
+      "start_ms": 399813,
+      "end_ms": 401450,
+      "duration_ms": 1637
+    },
+    {
+      "word": "Si tu pueblo saliere en batalla contra sus enemigos por el camino que tú les mandes, y oraren a Jehová con el rostro hacia la ciudad que tú elegiste, y hacia la casa que yo edifiqué a tu nombre, tú oirás en los cielos su oración y su súplica, y les harás justicia.",
+      "verse": 44,
+      "start_ms": 401450,
+      "end_ms": 415962,
+      "duration_ms": 14512
+    },
+    {
+      "word": "Si pecaren contra ti (porque no hay hombre que no peque), y estuvieres airado contra ellos, y los entregares delante del enemigo, para que los cautive y lleve a tierra enemiga, sea lejos o cerca, y ellos volvieren en sí en la tierra donde fueren cautivos; si se convirtieren, y oraren a ti en la tierra de los que los cautivaron, y dijeren: Pecamos, hemos hecho lo malo, hemos cometido impiedad; y si se convirtieren a ti de todo su corazón y de toda su alma, en la tierra de sus enemigos que los",
+      "verse": 46,
+      "start_ms": 415963,
+      "end_ms": 445388,
+      "duration_ms": 29425
+    },
+    {
+      "word": "hubieren llevado cautivos, y oraren a ti con el rostro hacia su tierra que tú diste a sus padres, y hacia la ciudad que tú elegiste y la casa que yo he edificado a tu nombre, tú oirás en los cielos, en el lugar de tu morada, su oración y su súplica, y les harás justicia.",
+      "verse": 48,
+      "start_ms": 445388,
+      "end_ms": 461238,
+      "duration_ms": 15850
+    },
+    {
+      "word": "Y perdonarás a tu pueblo que había pecado contra ti, y todas sus infracciones con que se hayan rebelado contra ti, y harás que tengan de ellos misericordia los que los hubieren llevado cautivos; porque ellos son tu pueblo y tu heredad, el cual tú sacaste de",
+      "verse": 50,
+      "start_ms": 461238,
+      "end_ms": 475563,
+      "duration_ms": 14325
+    },
+    {
+      "word": "Egipto, de en medio del horno de hierro.",
+      "verse": 51,
+      "start_ms": 475732,
+      "end_ms": 479169,
+      "duration_ms": 3437
+    },
+    {
+      "word": "Estén, pues, atentos tus ojos a la oración de tu siervo y a la plegaria de tu pueblo Israel, para oírlos en todo aquello por lo cual te invocaren; porque tú los apartaste para ti como heredad tuya de entre todos los pueblos de la tierra, como lo dijiste por medio de Moisés tu siervo, cuando sacaste a nuestros padres de Egipto, oh Señor Jehová.",
+      "verse": 52,
+      "start_ms": 479119,
+      "end_ms": 498444,
+      "duration_ms": 19325
+    },
+    {
+      "word": "Cuando acabó Salomón de hacer a Jehová toda esta oración y súplica, se levantó de estar de rodillas delante del altar de Jehová con sus manos extendidas al cielo; y puesto en pie, bendijo a toda la congregación de Israel, diciendo en voz alta: Bendito sea Jehová, que ha dado paz a su pueblo Israel, conforme a todo lo que él había dicho; ninguna palabra de todas sus promesas que expresó por Moisés su siervo, ha faltado.",
+      "verse": 54,
+      "start_ms": 498444,
+      "end_ms": 522581,
+      "duration_ms": 24137
+    },
+    {
+      "word": "Esté con nosotros Jehová nuestro Dios, como estuvo con nuestros padres, y no nos desampare ni nos deje.",
+      "verse": 57,
+      "start_ms": 522582,
+      "end_ms": 529319,
+      "duration_ms": 6737
+    },
+    {
+      "word": "Incline nuestro corazón hacia él, para que andemos en todos sus caminos, y guardemos sus mandamientos y sus estatutos y sus decretos, los cuales mandó a nuestros padres.",
+      "verse": 58,
+      "start_ms": 529319,
+      "end_ms": 539669,
+      "duration_ms": 10350
+    },
+    {
+      "word": "Y estas mis palabras con que he orado delante de Jehová, estén cerca de Jehová nuestro Dios de día y de noche, para que él proteja la causa de su siervo y de su pueblo Israel, cada cosa en su tiempo; a fin de que todos los pueblos de la tierra sepan que Jehová es Dios, y que no hay otro.",
+      "verse": 59,
+      "start_ms": 539669,
+      "end_ms": 555869,
+      "duration_ms": 16200
+    },
+    {
+      "word": "Sea, pues, perfecto vuestro corazón para con Jehová nuestro Dios, andando en sus estatutos y guardando sus mandamientos, como en el día de hoy.",
+      "verse": 61,
+      "start_ms": 555869,
+      "end_ms": 565156,
+      "duration_ms": 9287
+    },
+    {
+      "word": "Entonces el rey, y todo Israel con él, sacrificaron víctimas delante de Jehová.",
+      "verse": 62,
+      "start_ms": 565157,
+      "end_ms": 570982,
+      "duration_ms": 5825
+    },
+    {
+      "word": "Y ofreció Salomón sacrificios de paz, los cuales ofreció a Jehová: veintidós mil bueyes y ciento veinte mil ovejas.",
+      "verse": 63,
+      "start_ms": 570982,
+      "end_ms": 578569,
+      "duration_ms": 7587
+    },
+    {
+      "word": "Así dedicaron el rey y todos los hijos de Israel la casa de Jehová.",
+      "verse": 63,
+      "start_ms": 578569,
+      "end_ms": 583094,
+      "duration_ms": 4525
+    },
+    {
+      "word": "Aquel mismo día santificó el rey el medio del atrio, el cual estaba delante de la casa de Jehová; porque ofreció allí los holocaustos, las ofrendas y la grosura de los sacrificios de paz, por cuanto el altar de bronce que estaba delante de Jehová era pequeño, y no cabían en él los holocaustos, las ofrendas y la grosura de los sacrificios de paz.",
+      "verse": 64,
+      "start_ms": 583094,
+      "end_ms": 602531,
+      "duration_ms": 19437
+    },
+    {
+      "word": "En aquel tiempo Salomón hizo fiesta, y con él todo Israel, una gran congregación, desde donde entran en Hamat hasta el río de Egipto, delante de Jehová nuestro Dios, por siete días y aun por otros siete días, esto es, por catorce días.",
+      "verse": 65,
+      "start_ms": 602532,
+      "end_ms": 617619,
+      "duration_ms": 15087
+    },
+    {
+      "word": "Y al octavo día despidió al pueblo; y ellos, bendiciendo al rey, se fueron a sus moradas alegres y gozosos de corazón, por todos los beneficios que Jehová había hecho a David su siervo y a su pueblo Israel.",
+      "verse": 66,
+      "start_ms": 617619,
+      "end_ms": 630044,
+      "duration_ms": 12425
+    }
+  ]
+}

@@ -1,0 +1,579 @@
+{
+  "book": "1CR",
+  "chapter": 7,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 40,
+  "word_count": 41,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 62,
+      "text": "Los hijos de Isacar fueron cuatro: Tola, Fúa, Jasub y Simrón."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 62,
+      "char_end": 277,
+      "text": "Los hijos de Tola: Uzi, Refaías, Jeriel, Jahmai, Jibsam y Semuel, jefes de las familias de sus padres. De Tola fueron contados por sus linajes en el tiempo de David, veintidós mil seiscientos hombres muy valerosos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 277,
+      "char_end": 387,
+      "text": "Hijo de Uzi fue Israhías; y los hijos de Israhías: Micael, Obadías, Joel e Isías; por todos, cinco príncipes."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 387,
+      "char_end": 531,
+      "text": "Y había con ellos en sus linajes, por las familias de sus padres, treinta y seis mil hombres de guerra; porque tuvieron muchas mujeres e hijos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 531,
+      "char_end": 697,
+      "text": "Y sus hermanos por todas las familias de Isacar, contados todos por sus genealogías, eran ochenta y siete mil hombres valientes en extremo. Descendientes de Benjamín"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 697,
+      "char_end": 756,
+      "text": "Los hijos de Benjamín fueron tres: Bela, Bequer y Jediael."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 756,
+      "char_end": 934,
+      "text": "Los hijos de Bela: Ezbón, Uzi, Uziel, Jerimot e Iri; cinco jefes de casas paternas, hombres de gran valor, y de cuya descendencia fueron contados veintidós mil treinta y cuatro."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 934,
+      "char_end": 1063,
+      "text": "Los hijos de Bequer: Zemira, Joás, Eliezer, Elioenai, Omri, Jerimot, Abías, Anatot y Alamet; todos estos fueron hijos de Bequer."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1063,
+      "char_end": 1206,
+      "text": "Y contados por sus descendencias, por sus linajes, los que eran jefes de familias resultaron veinte mil doscientos hombres de grande esfuerzo."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1206,
+      "char_end": 1314,
+      "text": "Hijo de Jediael fue Bilhán; y los hijos de Bilhán: Jeús, Benjamín, Aod, Quenaana, Zetán, Tarsis y Ahisahar."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1314,
+      "char_end": 1455,
+      "text": "Todos estos fueron hijos de Jediael, jefes de familias, hombres muy valerosos, diecisiete mil doscientos que salían a combatir en la guerra."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1455,
+      "char_end": 1538,
+      "text": "Supim y Hupim fueron hijos de Hir; y Husim, hijo de Aher. Descendientes de Neftalí"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1538,
+      "char_end": 1631,
+      "text": "Los hijos de Neftalí: Jahzeel, Guni, Jezer y Salum, hijos de Bilha. Descendientes de Manasés"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1631,
+      "char_end": 1754,
+      "text": "Los hijos de Manasés: Asriel, al cual dio a luz su concubina la siria, la cual también dio a luz a Maquir padre de Galaad."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1754,
+      "char_end": 1891,
+      "text": "Y Maquir tomó mujer de Hupim y Supim, cuya hermana tuvo por nombre Maaca; y el nombre del segundo fue Zelofehad. Y Zelofehad tuvo hijas."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1891,
+      "char_end": 2023,
+      "text": "Y Maaca mujer de Maquir dio a luz un hijo, y lo llamó Peres; y el nombre de su hermano fue Seres, cuyos hijos fueron Ulam y Requem."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2023,
+      "char_end": 2114,
+      "text": "Hijo de Ulam fue Bedán. éstos fueron los hijos de Galaad, hijo de Maquir, hijo de Manasés."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2114,
+      "char_end": 2174,
+      "text": "Y su hermana Hamolequet dio a luz a Isod, Abiezer y Mahala,"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2174,
+      "char_end": 2257,
+      "text": "Y los hijos de Semida fueron Ahián, Siquem, Likhi y Aniam. Descendientes de Efraín"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2257,
+      "char_end": 2346,
+      "text": "Los hijos de Efraín: Sutela, Bered su hijo, Tahat su hijo, Elada su hijo, Tahat su hijo,"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2346,
+      "char_end": 2494,
+      "text": "Zabad su hijo, Sutela su hijo, Ezer y Elad. Mas los hijos de Gat, naturales de aquella tierra, los mataron, porque vinieron a tomarles sus ganados."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2494,
+      "char_end": 2578,
+      "text": "Y Efraín su padre hizo duelo por muchos días, y vinieron sus hermanos a consolarlo."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2578,
+      "char_end": 2727,
+      "text": "Después él se llegó a su mujer, y ella concibió y dio a luz un hijo, al cual puso por nombre Bería, por cuanto había estado en aflicción en su casa."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2727,
+      "char_end": 2811,
+      "text": "Y su hija fue Seera, la cual edificó a Bet-horón la baja y la alta, y a Uzen-seera."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2811,
+      "char_end": 2883,
+      "text": "Hijo de este Bería fue Refa, y Resef, y Telah su hijo, y Tahán su hijo,"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2883,
+      "char_end": 2931,
+      "text": "Laadán su hijo, Amiud su hijo, Elisama su hijo,"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2931,
+      "char_end": 2959,
+      "text": "Nun su hijo, Josué su hijo."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2959,
+      "char_end": 3152,
+      "text": "Y la heredad y habitación de ellos fue Bet-el con sus aldeas; y hacia el oriente Naarán, y a la parte del occidente Gezer y sus aldeas; asimismo Siquem con sus aldeas, hasta Gaza y sus aldeas;"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3152,
+      "char_end": 3376,
+      "text": "y junto al territorio de los hijos de Manasés, Bet-seán con sus aldeas, Taanac con sus aldeas, Meguido con sus aldeas, y Dor con sus aldeas. En estos lugares habitaron los hijos de José hijo de Israel. Descendientes de Aser"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3376,
+      "char_end": 3439,
+      "text": "Los hijos de Aser: Imna, Isúa, Isúi, Bería, y su hermana Sera."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3439,
+      "char_end": 3509,
+      "text": "Los hijos de Bería: Heber, y Malquiel, el cual fue padre de Birzavit."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3509,
+      "char_end": 3574,
+      "text": "Y Heber engendró a Jaflet, Somer, Hotam, y Súa hermana de ellos."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3574,
+      "char_end": 3652,
+      "text": "Los hijos de Jaflet: Pasac, Bimhal y Asvat. éstos fueron los hijos de Jaflet."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3652,
+      "char_end": 3701,
+      "text": "Y los hijos de Semer: Ahí, Rohga, Jehúba y Aram."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3701,
+      "char_end": 3758,
+      "text": "Los hijos de Helem su hermano: Zofa, Imna, Seles y Amal."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3758,
+      "char_end": 3810,
+      "text": "Los hijos de Zofa: Súa, Harnefer, Súal, Beri, Imra,"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3810,
+      "char_end": 3850,
+      "text": "Beser, Hod, Sama, Silsa, Itrán y Beera."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 3850,
+      "char_end": 3891,
+      "text": "Los hijos de Jeter: Jefone, Pispa y Ara."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 3891,
+      "char_end": 3932,
+      "text": "Y los hijos de Ula: Ara, Haniel y Rezia."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 3932,
+      "char_end": 4162,
+      "text": "Todos estos fueron hijos de Aser, cabezas de familias paternas, escogidos, esforzados, jefes de príncipes; y contados que fueron por sus linajes entre los que podían tomar las armas, el número de ellos fue veintiséis mil hombres."
+    }
+  ],
+  "words": [
+    {
+      "word": "Los hijos de Isacar fueron cuatro: Tola, Fúa, Jasub y Simrón.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5150,
+      "duration_ms": 5050
+    },
+    {
+      "word": "Los hijos de Tola: Uzi, Refaías, Jeriel, Jahmai, Jibsam y Semuel, jefes de las familias de sus padres.",
+      "verse": 2,
+      "start_ms": 5100,
+      "end_ms": 13150,
+      "duration_ms": 8050
+    },
+    {
+      "word": "De Tola fueron contados por sus linajes en el tiempo de David, veintidós mil seiscientos hombres muy valerosos.",
+      "verse": 2,
+      "start_ms": 13150,
+      "end_ms": 20162,
+      "duration_ms": 7012
+    },
+    {
+      "word": "Hijo de Uzi fue Israhías; y los hijos de Israhías: Micael, Obadías, Joel e Isías; por todos, cinco príncipes.",
+      "verse": 3,
+      "start_ms": 20162,
+      "end_ms": 29712,
+      "duration_ms": 9550
+    },
+    {
+      "word": "Y había con ellos en sus linajes, por las familias de sus padres, treinta y seis mil hombres de guerra; porque tuvieron muchas mujeres e hijos.",
+      "verse": 4,
+      "start_ms": 29712,
+      "end_ms": 38437,
+      "duration_ms": 8725
+    },
+    {
+      "word": "Y sus hermanos por todas las familias de Isacar, contados todos por sus genealogías, eran ochenta y siete mil hombres valientes en extremo.",
+      "verse": 5,
+      "start_ms": 38437,
+      "end_ms": 46962,
+      "duration_ms": 8525
+    },
+    {
+      "word": "Descendientes de Benjamín Los hijos de Benjamín fueron tres: Bela, Bequer y Jediael.",
+      "verse": 5,
+      "start_ms": 46962,
+      "end_ms": 52762,
+      "duration_ms": 5800
+    },
+    {
+      "word": "Los hijos de Bela: Ezbón, Uzi, Uziel, Jerimot e Iri; cinco jefes de casas paternas, hombres de gran valor, y de cuya descendencia fueron contados veintidós mil treinta y cuatro.",
+      "verse": 7,
+      "start_ms": 52762,
+      "end_ms": 64637,
+      "duration_ms": 11875
+    },
+    {
+      "word": "Los hijos de Bequer: Zemira, Joás, Eliezer, Elioenai, Omri, Jerimot, Abías, Anatot y Alamet; todos estos fueron hijos de Bequer.",
+      "verse": 8,
+      "start_ms": 64637,
+      "end_ms": 75012,
+      "duration_ms": 10375
+    },
+    {
+      "word": "Y contados por sus descendencias, por sus linajes, los que eran jefes de familias resultaron veinte mil doscientos hombres de grande esfuerzo.",
+      "verse": 9,
+      "start_ms": 75012,
+      "end_ms": 83412,
+      "duration_ms": 8400
+    },
+    {
+      "word": "Hijo de Jediael fue Bilhán; y los hijos de Bilhán: Jeús, Benjamín, Aod, Quenaana, Zetán, Tarsis y Ahisahar.",
+      "verse": 10,
+      "start_ms": 83412,
+      "end_ms": 92287,
+      "duration_ms": 8875
+    },
+    {
+      "word": "Todos estos fueron hijos de Jediael, jefes de familias, hombres muy valerosos, diecisiete mil doscientos que salían a combatir en la guerra.",
+      "verse": 11,
+      "start_ms": 92287,
+      "end_ms": 100962,
+      "duration_ms": 8675
+    },
+    {
+      "word": "Supim y Hupim fueron hijos de Hir; y Husim, hijo de Aher.",
+      "verse": 12,
+      "start_ms": 100962,
+      "end_ms": 105737,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Descendientes de Neftalí Los hijos de Neftalí: Jahzeel, Guni, Jezer y Salum, hijos de Bilha.",
+      "verse": 12,
+      "start_ms": 105737,
+      "end_ms": 112349,
+      "duration_ms": 6612
+    },
+    {
+      "word": "Descendientes de Manasés Los hijos de Manasés: Asriel, al cual dio a luz su concubina la siria, la cual también dio a luz a Maquir padre de Galaad.",
+      "verse": 13,
+      "start_ms": 112350,
+      "end_ms": 121287,
+      "duration_ms": 8937
+    },
+    {
+      "word": "Y Maquir tomó mujer de Hupim y Supim, cuya hermana tuvo por nombre Maaca; y el nombre del segundo fue Zelofehad.",
+      "verse": 15,
+      "start_ms": 121287,
+      "end_ms": 128699,
+      "duration_ms": 7412
+    },
+    {
+      "word": "Y Zelofehad tuvo hijas.",
+      "verse": 15,
+      "start_ms": 128700,
+      "end_ms": 131087,
+      "duration_ms": 2387
+    },
+    {
+      "word": "Y Maaca mujer de Maquir dio a luz un hijo, y lo llamó Peres; y el nombre de su hermano fue Seres, cuyos hijos fueron Ulam y Requem.",
+      "verse": 16,
+      "start_ms": 131087,
+      "end_ms": 139737,
+      "duration_ms": 8650
+    },
+    {
+      "word": "Hijo de Ulam fue Bedán.",
+      "verse": 17,
+      "start_ms": 139737,
+      "end_ms": 142087,
+      "duration_ms": 2350
+    },
+    {
+      "word": "éstos fueron los hijos de Galaad, hijo de Maquir, hijo de Manasés.",
+      "verse": 17,
+      "start_ms": 142087,
+      "end_ms": 146874,
+      "duration_ms": 4787
+    },
+    {
+      "word": "Y su hermana Hamolequet dio a luz a Isod, Abiezer y Mahala, Y los hijos de Semida fueron Ahián, Siquem, Likhi y Aniam.",
+      "verse": 18,
+      "start_ms": 146875,
+      "end_ms": 154912,
+      "duration_ms": 8037
+    },
+    {
+      "word": "Descendientes de Efraín Los hijos de Efraín: Sutela, Bered su hijo, Tahat su hijo, Elada su hijo, Tahat su hijo, Zabad su hijo, Sutela su hijo, Ezer y Elad.",
+      "verse": 19,
+      "start_ms": 154912,
+      "end_ms": 166937,
+      "duration_ms": 12025
+    },
+    {
+      "word": "Mas los hijos de Gat, naturales de aquella tierra, los mataron, porque vinieron a tomarles sus ganados.",
+      "verse": 21,
+      "start_ms": 166937,
+      "end_ms": 173812,
+      "duration_ms": 6875
+    },
+    {
+      "word": "Y Efraín su padre hizo duelo por muchos días, y vinieron sus hermanos a consolarlo.",
+      "verse": 22,
+      "start_ms": 173812,
+      "end_ms": 179449,
+      "duration_ms": 5637
+    },
+    {
+      "word": "Después él se llegó a su mujer, y ella concibió y dio a luz un hijo, al cual puso por nombre Bería, por cuanto había estado en aflicción en su casa.",
+      "verse": 23,
+      "start_ms": 179450,
+      "end_ms": 188387,
+      "duration_ms": 8937
+    },
+    {
+      "word": "Y su hija fue Seera, la cual edificó a Bet-horón la baja y la alta, y a Uzen-seera.",
+      "verse": 24,
+      "start_ms": 188387,
+      "end_ms": 194349,
+      "duration_ms": 5962
+    },
+    {
+      "word": "Hijo de este Bería fue Refa, y Resef, y Telah su hijo, y Tahán su hijo, Laadán su hijo, Amiud su hijo, Elisama su hijo, Nun su hijo, Josué su hijo.",
+      "verse": 25,
+      "start_ms": 194350,
+      "end_ms": 205900,
+      "duration_ms": 11550
+    },
+    {
+      "word": "Y la heredad y habitación de ellos fue Bet-el con sus aldeas; y hacia el oriente Naarán, y a la parte del occidente Gezer y sus aldeas; asimismo Siquem con sus aldeas, hasta Gaza y sus aldeas; y junto al territorio de los hijos de Manasés, Bet-seán con sus aldeas, Taanac con sus aldeas, Meguido con sus aldeas, y Dor con sus aldeas.",
+      "verse": 28,
+      "start_ms": 205900,
+      "end_ms": 226900,
+      "duration_ms": 21000
+    },
+    {
+      "word": "En estos lugares habitaron los hijos de José hijo de Israel.",
+      "verse": 29,
+      "start_ms": 226900,
+      "end_ms": 230987,
+      "duration_ms": 4087
+    },
+    {
+      "word": "Descendientes de Aser Los hijos de Aser: Imna, Isúa, Isúi, Bería, y su hermana Sera.",
+      "verse": 29,
+      "start_ms": 230987,
+      "end_ms": 238074,
+      "duration_ms": 7087
+    },
+    {
+      "word": "Los hijos de Bería: Heber, y Malquiel, el cual fue padre de Birzavit.",
+      "verse": 31,
+      "start_ms": 238075,
+      "end_ms": 243462,
+      "duration_ms": 5387
+    },
+    {
+      "word": "Y Heber engendró a Jaflet, Somer, Hotam, y Súa hermana de ellos.",
+      "verse": 32,
+      "start_ms": 243462,
+      "end_ms": 248899,
+      "duration_ms": 5437
+    },
+    {
+      "word": "Los hijos de Jaflet: Pasac, Bimhal y Asvat.",
+      "verse": 33,
+      "start_ms": 248900,
+      "end_ms": 252750,
+      "duration_ms": 3850
+    },
+    {
+      "word": "éstos fueron los hijos de Jaflet.",
+      "verse": 33,
+      "start_ms": 252750,
+      "end_ms": 255337,
+      "duration_ms": 2587
+    },
+    {
+      "word": "Y los hijos de Semer: Ahí, Rohga, Jehúba y Aram.",
+      "verse": 34,
+      "start_ms": 255337,
+      "end_ms": 259799,
+      "duration_ms": 4462
+    },
+    {
+      "word": "Los hijos de Helem su hermano: Zofa, Imna, Seles y Amal.",
+      "verse": 35,
+      "start_ms": 259800,
+      "end_ms": 264625,
+      "duration_ms": 4825
+    },
+    {
+      "word": "Los hijos de Zofa: Súa, Harnefer, Súal, Beri, Imra, Beser, Hod, Sama, Silsa, Itrán y Beera.",
+      "verse": 36,
+      "start_ms": 264625,
+      "end_ms": 273562,
+      "duration_ms": 8937
+    },
+    {
+      "word": "Los hijos de Jeter: Jefone, Pispa y Ara.",
+      "verse": 38,
+      "start_ms": 273562,
+      "end_ms": 277399,
+      "duration_ms": 3837
+    },
+    {
+      "word": "Y los hijos de Ula: Ara, Haniel y Rezia.",
+      "verse": 39,
+      "start_ms": 277400,
+      "end_ms": 281075,
+      "duration_ms": 3675
+    },
+    {
+      "word": "Todos estos fueron hijos de Aser, cabezas de familias paternas, escogidos, esforzados, jefes de",
+      "verse": 40,
+      "start_ms": 281075,
+      "end_ms": 288462,
+      "duration_ms": 7387
+    },
+    {
+      "word": "príncipes; y contados que fueron por sus linajes entre los que podían tomar las armas, el número de ellos fue veintiséis mil hombres.",
+      "verse": 40,
+      "start_ms": 288628,
+      "end_ms": 296690,
+      "duration_ms": 8062
+    }
+  ]
+}

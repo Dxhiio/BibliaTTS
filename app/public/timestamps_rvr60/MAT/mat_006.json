@@ -1,0 +1,670 @@
+{
+  "book": "MAT",
+  "chapter": 6,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 48,
+  "word_count": 46,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 80,
+      "text": "Viendo la multitud, subió al monte; y sentándose, vinieron a él sus discípulos."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 80,
+      "char_end": 123,
+      "text": "Y abriendo su boca les enseñaba, diciendo:"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 123,
+      "char_end": 206,
+      "text": "Bienaventurados los pobres en espíritu, porque de ellos es el reino de los cielos."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 206,
+      "char_end": 274,
+      "text": "Bienaventurados los que lloran, porque ellos recibirán consolación."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 274,
+      "char_end": 348,
+      "text": "Bienaventurados los mansos, porque ellos recibirán la tierra por heredad."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 348,
+      "char_end": 434,
+      "text": "Bienaventurados los que tienen hambre y sed de justicia, porque ellos serán saciados."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 434,
+      "char_end": 509,
+      "text": "Bienaventurados los misericordiosos, porque ellos alcanzarán misericordia."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 509,
+      "char_end": 575,
+      "text": "Bienaventurados los de limpio corazón, porque ellos verán a Dios."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 575,
+      "char_end": 653,
+      "text": "Bienaventurados los pacificadores, porque ellos serán llamados hijos de Dios."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 653,
+      "char_end": 766,
+      "text": "Bienaventurados los que padecen persecución por causa de la justicia, porque de ellos es el reino de los cielos."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 766,
+      "char_end": 889,
+      "text": "Bienaventurados sois cuando por mi causa os vituperen y os persigan, y digan toda clase de mal contra vosotros, mintiendo."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 889,
+      "char_end": 1046,
+      "text": "Gozaos y alegraos, porque vuestro galardón es grande en los cielos; porque así persiguieron a los profetas que fueron antes de vosotros. La sal de la tierra"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1046,
+      "char_end": 1230,
+      "text": "Vosotros sois la sal de la tierra; pero si la sal se desvaneciere, ¿con qué será salada? No sirve más para nada, sino para ser echada fuera y hollada por los hombres. La luz del mundo"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1230,
+      "char_end": 1319,
+      "text": "Vosotros sois la luz del mundo; una ciudad asentada sobre un monte no se puede esconder."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1319,
+      "char_end": 1438,
+      "text": "Ni se enciende una luz y se pone debajo de un almud, sino sobre el candelero, y alumbra a todos los que están en casa."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1438,
+      "char_end": 1592,
+      "text": "Así alumbre vuestra luz delante de los hombres, para que vean vuestras buenas obras, y glorifiquen a vuestro Padre que está en los cielos. Jesús y la ley"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1592,
+      "char_end": 1699,
+      "text": "No penséis que he venido para abrogar la ley o los profetas; no he venido para abrogar, sino para cumplir."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1699,
+      "char_end": 1842,
+      "text": "Porque de cierto os digo que hasta que pasen el cielo y la tierra, ni una jota ni una tilde pasará de la ley, hasta que todo se haya cumplido."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1842,
+      "char_end": 2095,
+      "text": "De manera que cualquiera que quebrante uno de estos mandamientos muy pequeños, y así enseñe a los hombres, muy pequeño será llamado en el reino de los cielos; mas cualquiera que los haga y los enseñe, éste será llamado grande en el reino de los cielos."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2095,
+      "char_end": 2253,
+      "text": "Porque os digo que si vuestra justicia no fuere mayor que la de los escribas y fariseos, no entraréis en el reino de los cielos. Jesús y la ira (Lc 12.57–59)"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2253,
+      "char_end": 2352,
+      "text": "Oísteis que fue dicho a los antiguos: No matarás; y cualquiera que matare será culpable de juicio."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2352,
+      "char_end": 2588,
+      "text": "Pero yo os digo que cualquiera que se enoje contra su hermano, será culpable de juicio; y cualquiera que diga: Necio, a su hermano, será culpable ante el concilio; y cualquiera que le diga: Fatuo, quedará expuesto al infierno de fuego."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2588,
+      "char_end": 2688,
+      "text": "Por tanto, si traes tu ofrenda al altar, y allí te acuerdas de que tu hermano tiene algo contra ti,"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2688,
+      "char_end": 2811,
+      "text": "deja allí tu ofrenda delante del altar, y anda, reconcíliate primero con tu hermano, y entonces ven y presenta tu ofrenda."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2811,
+      "char_end": 2994,
+      "text": "Ponte de acuerdo con tu adversario pronto, entre tanto que estás con él en el camino, no sea que el adversario te entregue al juez, y el juez al alguacil, y seas echado en la cárcel."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2994,
+      "char_end": 3095,
+      "text": "De cierto te digo que no saldrás de allí, hasta que pagues el último cuadrante. Jesús y el adulterio"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3095,
+      "char_end": 3142,
+      "text": "Oísteis que fue dicho: No cometerás adulterio."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3142,
+      "char_end": 3247,
+      "text": "Pero yo os digo que cualquiera que mira a una mujer para codiciarla, ya adulteró con ella en su corazón."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3247,
+      "char_end": 3423,
+      "text": "Por tanto, si tu ojo derecho te es ocasión de caer, sácalo, y échalo de ti; pues mejor te es que se pierda uno de tus miembros, y no que todo tu cuerpo sea echado al infierno."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3423,
+      "char_end": 3612,
+      "text": "Y si tu mano derecha te es ocasión de caer, córtala, y échala de ti; pues mejor te es que se pierda uno de tus miembros, y no que todo tu cuerpo sea echado al infierno. Jesús y el divorcio"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3612,
+      "char_end": 3690,
+      "text": "También fue dicho: Cualquiera que repudie a su mujer, dele carta de divorcio."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3690,
+      "char_end": 3872,
+      "text": "Pero yo os digo que el que repudia a su mujer, a no ser por causa de fornicación, hace que ella adultere; y el que se casa con la repudiada, comete adulterio. Jesús y los juramentos"
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3872,
+      "char_end": 3976,
+      "text": "Además habéis oído que fue dicho a los antiguos: No perjurarás, sino cumplirás al Señor tus juramentos."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3976,
+      "char_end": 4067,
+      "text": "Pero yo os digo: No juréis en ninguna manera; ni por el cielo, porque es el trono de Dios;"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4067,
+      "char_end": 4171,
+      "text": "ni por la tierra, porque es el estrado de sus pies; ni por Jerusalén, porque es la ciudad del gran Rey."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4171,
+      "char_end": 4252,
+      "text": "Ni por tu cabeza jurarás, porque no puedes hacer blanco o negro un solo cabello."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4252,
+      "char_end": 4379,
+      "text": "Pero sea vuestro hablar: Sí, sí; no, no; porque lo que es más de esto, de mal procede. El amor hacia los enemigos (Lc 6.27–36)"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4379,
+      "char_end": 4436,
+      "text": "Oísteis que fue dicho: Ojo por ojo, y diente por diente."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4436,
+      "char_end": 4564,
+      "text": "Pero yo os digo: No resistáis al que es malo; antes, a cualquiera que te hiera en la mejilla derecha, vuélvele también la otra;"
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4564,
+      "char_end": 4643,
+      "text": "y al que quiera ponerte a pleito y quitarte la túnica, déjale también la capa;"
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4643,
+      "char_end": 4718,
+      "text": "y a cualquiera que te obligue a llevar carga por una milla, ve con él dos."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4718,
+      "char_end": 4796,
+      "text": "Al que te pida, dale; y al que quiera tomar de ti prestado, no se lo rehúses."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4796,
+      "char_end": 4868,
+      "text": "Oísteis que fue dicho: Amarás a tu prójimo, y aborrecerás a tu enemigo."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 4868,
+      "char_end": 5025,
+      "text": "Pero yo os digo: Amad a vuestros enemigos, bendecid a los que os maldicen, haced bien a los que os aborrecen, y orad por los que os ultrajan y os persiguen;"
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 5025,
+      "char_end": 5174,
+      "text": "para que seáis hijos de vuestro Padre que está en los cielos, que hace salir su sol sobre malos y buenos, y que hace llover sobre justos e injustos."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 5174,
+      "char_end": 5278,
+      "text": "Porque si amáis a los que os aman, ¿qué recompensa tendréis? ¿No hacen también lo mismo los publicanos?"
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 5278,
+      "char_end": 5379,
+      "text": "Y si saludáis a vuestros hermanos solamente, ¿qué hacéis de más? ¿No hacen también así los gentiles?"
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 5379,
+      "char_end": 5465,
+      "text": "Sed, pues, vosotros perfectos, como vuestro Padre que está en los cielos es perfecto."
+    }
+  ],
+  "words": [
+    {
+      "word": "Viendo la multitud, subió al monte; y sentándose, vinieron a él sus discípulos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6112,
+      "duration_ms": 6012
+    },
+    {
+      "word": "Y abriendo su boca les enseñaba, diciendo: Bienaventurados los pobres en espíritu, porque de ellos es el reino de los cielos.",
+      "verse": 2,
+      "start_ms": 6062,
+      "end_ms": 14274,
+      "duration_ms": 8212
+    },
+    {
+      "word": "Bienaventurados los que lloran, porque ellos recibirán consolación.",
+      "verse": 4,
+      "start_ms": 14275,
+      "end_ms": 18912,
+      "duration_ms": 4637
+    },
+    {
+      "word": "Bienaventurados los mansos, porque ellos recibirán la tierra por heredad.",
+      "verse": 5,
+      "start_ms": 18912,
+      "end_ms": 23887,
+      "duration_ms": 4975
+    },
+    {
+      "word": "Bienaventurados los que tienen hambre y sed de justicia, porque ellos serán saciados.",
+      "verse": 6,
+      "start_ms": 23887,
+      "end_ms": 29549,
+      "duration_ms": 5662
+    },
+    {
+      "word": "Bienaventurados los misericordiosos, porque ellos alcanzarán misericordia.",
+      "verse": 7,
+      "start_ms": 29550,
+      "end_ms": 34800,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Bienaventurados los de limpio corazón, porque ellos verán a Dios.",
+      "verse": 8,
+      "start_ms": 34800,
+      "end_ms": 39475,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Bienaventurados los pacificadores, porque ellos serán llamados hijos de Dios.",
+      "verse": 9,
+      "start_ms": 39475,
+      "end_ms": 44800,
+      "duration_ms": 5325
+    },
+    {
+      "word": "Bienaventurados los que padecen persecución por causa de la justicia, porque de ellos es el reino de los cielos.",
+      "verse": 10,
+      "start_ms": 44800,
+      "end_ms": 51650,
+      "duration_ms": 6850
+    },
+    {
+      "word": "Bienaventurados sois cuando por mi causa os vituperen y os persigan, y digan toda clase de mal contra vosotros, mintiendo.",
+      "verse": 11,
+      "start_ms": 51650,
+      "end_ms": 59412,
+      "duration_ms": 7762
+    },
+    {
+      "word": "Gozaos y alegraos, porque vuestro galardón es grande en los cielos; porque así persiguieron a los profetas que fueron antes de vosotros.",
+      "verse": 12,
+      "start_ms": 59412,
+      "end_ms": 67612,
+      "duration_ms": 8200
+    },
+    {
+      "word": "La sal de la tierra Vosotros sois la sal de la tierra; pero si la sal se desvaneciere, ¿con qué será salada?",
+      "verse": 12,
+      "start_ms": 67612,
+      "end_ms": 74574,
+      "duration_ms": 6962
+    },
+    {
+      "word": "No sirve más para nada, sino para ser echada fuera y hollada por los hombres.",
+      "verse": 13,
+      "start_ms": 74575,
+      "end_ms": 79725,
+      "duration_ms": 5150
+    },
+    {
+      "word": "La luz del mundo Vosotros sois la luz del mundo; una ciudad asentada sobre un monte no se puede esconder.",
+      "verse": 13,
+      "start_ms": 79725,
+      "end_ms": 86412,
+      "duration_ms": 6687
+    },
+    {
+      "word": "Ni se enciende una luz y se pone debajo de un almud, sino sobre el candelero, y alumbra a todos los que están en casa.",
+      "verse": 15,
+      "start_ms": 86412,
+      "end_ms": 93674,
+      "duration_ms": 7262
+    },
+    {
+      "word": "Así alumbre vuestra luz delante de los hombres, para que vean vuestras buenas obras, y glorifiquen a vuestro Padre que está en los cielos.",
+      "verse": 16,
+      "start_ms": 93675,
+      "end_ms": 101787,
+      "duration_ms": 8112
+    },
+    {
+      "word": "Jesús y la ley No penséis que he venido para abrogar la ley o los profetas; no he venido para abrogar, sino para cumplir.",
+      "verse": 16,
+      "start_ms": 101787,
+      "end_ms": 109487,
+      "duration_ms": 7700
+    },
+    {
+      "word": "Porque de cierto os digo que hasta que pasen el cielo y la tierra, ni una jota ni una tilde pasará de la ley, hasta que todo se haya cumplido.",
+      "verse": 18,
+      "start_ms": 109487,
+      "end_ms": 117762,
+      "duration_ms": 8275
+    },
+    {
+      "word": "De manera que cualquiera que quebrante uno de estos mandamientos muy pequeños, y así enseñe a los hombres, muy pequeño será llamado en el reino de los cielos; mas cualquiera que los haga y los enseñe, éste será llamado grande en el reino de los cielos.",
+      "verse": 19,
+      "start_ms": 117762,
+      "end_ms": 132249,
+      "duration_ms": 14487
+    },
+    {
+      "word": "Porque os digo que si vuestra justicia no fuere mayor que la de los escribas y fariseos, no entraréis en el reino de los cielos.",
+      "verse": 20,
+      "start_ms": 132250,
+      "end_ms": 139662,
+      "duration_ms": 7412
+    },
+    {
+      "word": "Jesús y la ira (Lc 12.57–59) Oísteis que fue dicho a los antiguos: No matarás; y cualquiera que matare será culpable de juicio.",
+      "verse": 20,
+      "start_ms": 139662,
+      "end_ms": 150299,
+      "duration_ms": 10637
+    },
+    {
+      "word": "Pero yo os digo que cualquiera que se enoje contra su hermano, será culpable de juicio; y cualquiera que diga: Necio, a su hermano, será culpable ante el concilio; y cualquiera que le diga: Fatuo, quedará expuesto al infierno de fuego.",
+      "verse": 22,
+      "start_ms": 150300,
+      "end_ms": 164912,
+      "duration_ms": 14612
+    },
+    {
+      "word": "Por tanto, si traes tu ofrenda al altar, y allí te acuerdas de que tu hermano tiene algo contra ti, deja allí tu ofrenda delante del altar, y anda, reconcíliate primero con tu hermano, y entonces ven y presenta tu ofrenda.",
+      "verse": 23,
+      "start_ms": 164912,
+      "end_ms": 178299,
+      "duration_ms": 13387
+    },
+    {
+      "word": "Ponte de acuerdo con tu adversario pronto, entre tanto que estás con él en el camino, no sea que el adversario te entregue al juez, y el juez al alguacil, y seas echado en la cárcel.",
+      "verse": 25,
+      "start_ms": 178300,
+      "end_ms": 188875,
+      "duration_ms": 10575
+    },
+    {
+      "word": "De cierto te digo que no saldrás de allí, hasta que pagues el último cuadrante.",
+      "verse": 26,
+      "start_ms": 188875,
+      "end_ms": 193950,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Jesús y el adulterio Oísteis que fue dicho: No cometerás adulterio.",
+      "verse": 26,
+      "start_ms": 193950,
+      "end_ms": 198887,
+      "duration_ms": 4937
+    },
+    {
+      "word": "Pero yo os digo que cualquiera que mira a una mujer para codiciarla, ya adulteró con ella en su corazón.",
+      "verse": 28,
+      "start_ms": 198887,
+      "end_ms": 205287,
+      "duration_ms": 6400
+    },
+    {
+      "word": "Por tanto, si tu ojo derecho te es ocasión de caer, sácalo, y échalo de ti; pues mejor te es que se pierda uno de tus miembros, y no que todo tu cuerpo sea echado al infierno.",
+      "verse": 29,
+      "start_ms": 205287,
+      "end_ms": 216549,
+      "duration_ms": 11262
+    },
+    {
+      "word": "Y si tu mano derecha te es ocasión de caer, córtala, y échala de ti; pues mejor te es que se pierda uno de tus miembros, y no que todo tu cuerpo sea echado al infierno.",
+      "verse": 30,
+      "start_ms": 216550,
+      "end_ms": 227087,
+      "duration_ms": 10537
+    },
+    {
+      "word": "Jesús y el divorcio También fue dicho: Cualquiera que repudie a su mujer, dele carta de divorcio.",
+      "verse": 30,
+      "start_ms": 227087,
+      "end_ms": 233487,
+      "duration_ms": 6400
+    },
+    {
+      "word": "Pero yo os digo que el que repudia a su mujer, a no ser por causa de fornicación, hace que ella adultere; y el que se casa con la repudiada, comete adulterio.",
+      "verse": 32,
+      "start_ms": 233487,
+      "end_ms": 243324,
+      "duration_ms": 9837
+    },
+    {
+      "word": "Jesús y los juramentos Además habéis oído que fue dicho a los antiguos: No perjurarás, sino cumplirás al Señor tus juramentos.",
+      "verse": 32,
+      "start_ms": 243325,
+      "end_ms": 251475,
+      "duration_ms": 8150
+    },
+    {
+      "word": "Pero yo os digo: No juréis en ninguna",
+      "verse": 34,
+      "start_ms": 251475,
+      "end_ms": 254812,
+      "duration_ms": 3337
+    },
+    {
+      "word": "manera; ni por el cielo, porque es el trono de Dios; ni por la tierra, porque es el estrado de sus pies; ni por Jerusalén, porque es la ciudad del gran Rey.",
+      "verse": 34,
+      "start_ms": 254980,
+      "end_ms": 265130,
+      "duration_ms": 10150
+    },
+    {
+      "word": "Ni por tu cabeza jurarás, porque no puedes hacer blanco o negro un solo cabello.",
+      "verse": 36,
+      "start_ms": 265080,
+      "end_ms": 270542,
+      "duration_ms": 5462
+    },
+    {
+      "word": "Pero sea vuestro hablar: Sí, sí; no, no; porque lo que es más de esto, de mal procede.",
+      "verse": 37,
+      "start_ms": 270542,
+      "end_ms": 277767,
+      "duration_ms": 7225
+    },
+    {
+      "word": "El amor hacia los enemigos (Lc 6.27–36) Oísteis que fue dicho: Ojo por ojo, y diente por diente.",
+      "verse": 37,
+      "start_ms": 277767,
+      "end_ms": 286554,
+      "duration_ms": 8787
+    },
+    {
+      "word": "Pero yo os digo: No resistáis al que es malo; antes, a cualquiera que te hiera en la mejilla derecha, vuélvele también la otra; y al que quiera ponerte a pleito y quitarte la túnica, déjale también la capa; y a cualquiera que te obligue a llevar carga por una milla, ve con él dos.",
+      "verse": 39,
+      "start_ms": 286555,
+      "end_ms": 303055,
+      "duration_ms": 16500
+    },
+    {
+      "word": "Al que te pida, dale; y al que quiera tomar de ti prestado, no se lo rehúses.",
+      "verse": 42,
+      "start_ms": 303055,
+      "end_ms": 308705,
+      "duration_ms": 5650
+    },
+    {
+      "word": "Oísteis que fue dicho: Amarás a tu prójimo, y aborrecerás a tu enemigo.",
+      "verse": 43,
+      "start_ms": 308705,
+      "end_ms": 314055,
+      "duration_ms": 5350
+    },
+    {
+      "word": "Pero yo os digo: Amad a vuestros enemigos, bendecid a los que os maldicen, haced bien a los que os aborrecen, y orad por los que os ultrajan y os persiguen; para que seáis hijos de vuestro Padre que está en los cielos, que hace salir su sol sobre malos y buenos, y que hace llover sobre justos e injustos.",
+      "verse": 44,
+      "start_ms": 314055,
+      "end_ms": 332080,
+      "duration_ms": 18025
+    },
+    {
+      "word": "Porque si amáis a los que os aman, ¿qué recompensa tendréis?",
+      "verse": 46,
+      "start_ms": 332080,
+      "end_ms": 336292,
+      "duration_ms": 4212
+    },
+    {
+      "word": "No hacen también lo mismo los publicanos?",
+      "verse": 46,
+      "start_ms": 336292,
+      "end_ms": 339579,
+      "duration_ms": 3287
+    },
+    {
+      "word": "Y si saludáis a vuestros hermanos solamente, ¿qué hacéis de más?",
+      "verse": 47,
+      "start_ms": 339580,
+      "end_ms": 344180,
+      "duration_ms": 4600
+    },
+    {
+      "word": "No hacen también así los gentiles?",
+      "verse": 47,
+      "start_ms": 344180,
+      "end_ms": 347092,
+      "duration_ms": 2912
+    },
+    {
+      "word": "Sed, pues, vosotros perfectos, como vuestro Padre que está en los cielos es perfecto.",
+      "verse": 48,
+      "start_ms": 347092,
+      "end_ms": 353192,
+      "duration_ms": 6100
+    }
+  ]
+}

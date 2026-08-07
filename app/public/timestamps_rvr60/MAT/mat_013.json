@@ -1,0 +1,733 @@
+{
+  "book": "MAT",
+  "chapter": 13,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 50,
+  "word_count": 53,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 142,
+      "text": "En aquel tiempo iba Jesús por los sembrados en un día de reposo; y sus discípulos tuvieron hambre, y comenzaron a arrancar espigas y a comer."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 142,
+      "char_end": 253,
+      "text": "Viéndolo los fariseos, le dijeron: He aquí tus discípulos hacen lo que no es lícito hacer en el día de reposo."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 253,
+      "char_end": 359,
+      "text": "Pero él les dijo: ¿No habéis leído lo que hizo David, cuando él y los que con él estaban tuvieron hambre;"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 359,
+      "char_end": 525,
+      "text": "cómo entró en la casa de Dios, y comió los panes de la proposición, que no les era lícito comer ni a él ni a los que con él estaban, sino solamente a los sacerdotes?"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 525,
+      "char_end": 652,
+      "text": "¿O no habéis leído en la ley, cómo en el día de reposo los sacerdotes en el templo profanan el día de reposo, y son sin culpa?"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 652,
+      "char_end": 704,
+      "text": "Pues os digo que uno mayor que el templo está aquí."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 704,
+      "char_end": 805,
+      "text": "Y si supieseis qué significa: Misericordia quiero, y no sacrificio, no condenaríais a los inocentes;"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 805,
+      "char_end": 907,
+      "text": "porque el Hijo del Hombre es Señor del día de reposo. El hombre de la mano seca (Mc 3.1–6; Lc 6.6–11)"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 907,
+      "char_end": 953,
+      "text": "Pasando de allí, vino a la sinagoga de ellos."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 953,
+      "char_end": 1085,
+      "text": "Y he aquí había allí uno que tenía seca una mano; y preguntaron a Jesús, para poder acusarle: ¿Es lícito sanar en el día de reposo?"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1085,
+      "char_end": 1227,
+      "text": "Él les dijo: ¿Qué hombre habrá de vosotros, que tenga una oveja, y si ésta cayere en un hoyo en día de reposo, no le eche mano, y la levante?"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1227,
+      "char_end": 1339,
+      "text": "Pues ¿cuánto más vale un hombre que una oveja? Por consiguiente, es lícito hacer el bien en los días de reposo."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1339,
+      "char_end": 1444,
+      "text": "Entonces dijo a aquel hombre: Extiende tu mano. Y él la extendió, y le fue restaurada sana como la otra."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1444,
+      "char_end": 1534,
+      "text": "Y salidos los fariseos, tuvieron consejo contra Jesús para destruirle. El siervo escogido"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1534,
+      "char_end": 1617,
+      "text": "Sabiendo esto Jesús, se apartó de allí; y le siguió mucha gente, y sanaba a todos,"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1617,
+      "char_end": 1671,
+      "text": "y les encargaba rigurosamente que no le descubriesen;"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1671,
+      "char_end": 1738,
+      "text": "para que se cumpliese lo dicho por el profeta Isaías, cuando dijo:"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1738,
+      "char_end": 1880,
+      "text": "He aquí mi siervo, a quien he escogido; Mi Amado, en quien se agrada mi alma; Pondré mi Espíritu sobre él, Y a los gentiles anunciará juicio."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1880,
+      "char_end": 1943,
+      "text": "No contenderá, ni voceará, Ni nadie oirá en las calles su voz."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1943,
+      "char_end": 2044,
+      "text": "La caña cascada no quebrará, Y el pábilo que humea no apagará, Hasta que saque a victoria el juicio."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2044,
+      "char_end": 2147,
+      "text": "Y en su nombre esperarán los gentiles. La blasfemia contra el Espíritu Santo (Mc 3.20–30; Lc 11.14–23)"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2147,
+      "char_end": 2263,
+      "text": "Entonces fue traído a él un endemoniado, ciego y mudo; y le sanó, de tal manera que el ciego y mudo veía y hablaba."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2263,
+      "char_end": 2336,
+      "text": "Y toda la gente estaba atónita, y decía: ¿Será éste aquel Hijo de David?"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2336,
+      "char_end": 2449,
+      "text": "Mas los fariseos, al oírlo, decían: éste no echa fuera los demonios sino por Beelzebú, príncipe de los demonios."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2449,
+      "char_end": 2613,
+      "text": "Sabiendo Jesús los pensamientos de ellos, les dijo: Todo reino dividido contra sí mismo, es asolado, y toda ciudad o casa dividida contra sí misma, no permanecerá."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2613,
+      "char_end": 2714,
+      "text": "Y si Satanás echa fuera a Satanás, contra sí mismo está dividido; ¿cómo, pues, permanecerá su reino?"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2714,
+      "char_end": 2837,
+      "text": "Y si yo echo fuera los demonios por Beelzebú, ¿por quién los echan vuestros hijos? Por tanto, ellos serán vuestros jueces."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2837,
+      "char_end": 2949,
+      "text": "Pero si yo por el Espíritu de Dios echo fuera los demonios, ciertamente ha llegado a vosotros el reino de Dios."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2949,
+      "char_end": 3090,
+      "text": "Porque ¿cómo puede alguno entrar en la casa del hombre fuerte, y saquear sus bienes, si primero no le ata? Y entonces podrá saquear su casa."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3090,
+      "char_end": 3166,
+      "text": "El que no es conmigo, contra mí es; y el que conmigo no recoge, desparrama."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3166,
+      "char_end": 3298,
+      "text": "Por tanto os digo: Todo pecado y blasfemia será perdonado a los hombres; mas la blasfemia contra el Espíritu no les será perdonada."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3298,
+      "char_end": 3485,
+      "text": "A cualquiera que dijere alguna palabra contra el Hijo del Hombre, le será perdonado; pero al que hable contra el Espíritu Santo, no le será perdonado, ni en este siglo ni en el venidero."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3485,
+      "char_end": 3607,
+      "text": "O haced el árbol bueno, y su fruto bueno, o haced el árbol malo, y su fruto malo; porque por el fruto se conoce el árbol."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3607,
+      "char_end": 3726,
+      "text": "¡Generación de víboras! ¿Cómo podéis hablar lo bueno, siendo malos? Porque de la abundancia del corazón habla la boca."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3726,
+      "char_end": 3841,
+      "text": "El hombre bueno, del buen tesoro del corazón saca buenas cosas; y el hombre malo, del mal tesoro saca malas cosas."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3841,
+      "char_end": 3950,
+      "text": "Mas yo os digo que de toda palabra ociosa que hablen los hombres, de ella darán cuenta en el día del juicio."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3950,
+      "char_end": 4080,
+      "text": "Porque por tus palabras serás justificado, y por tus palabras serás condenado. La generación perversa demanda señal (Lc 11.29–32)"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4080,
+      "char_end": 4190,
+      "text": "Entonces respondieron algunos de los escribas y de los fariseos, diciendo: Maestro, deseamos ver de ti señal."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4190,
+      "char_end": 4321,
+      "text": "Él respondió y les dijo: La generación mala y adúltera demanda señal; pero señal no le será dada, sino la señal del profeta Jonás."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4321,
+      "char_end": 4480,
+      "text": "Porque como estuvo Jonás en el vientre del gran pez tres días y tres noches, así estará el Hijo del Hombre en el corazón de la tierra tres días y tres noches."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4480,
+      "char_end": 4663,
+      "text": "Los hombres de Nínive se levantarán en el juicio con esta generación, y la condenarán; porque ellos se arrepintieron a la predicación de Jonás, y he aquí más que Jonás en este lugar."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4663,
+      "char_end": 4906,
+      "text": "La reina del Sur se levantará en el juicio con esta generación, y la condenará; porque ella vino de los fines de la tierra para oír la sabiduría de Salomón, y he aquí más que Salomón en este lugar. El espíritu inmundo que vuelve (Lc 11.24–26)"
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4906,
+      "char_end": 5006,
+      "text": "Cuando el espíritu inmundo sale del hombre, anda por lugares secos, buscando reposo, y no lo halla."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 5006,
+      "char_end": 5111,
+      "text": "Entonces dice: Volveré a mi casa de donde salí; y cuando llega, la halla desocupada, barrida y adornada."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 5111,
+      "char_end": 5374,
+      "text": "Entonces va, y toma consigo otros siete espíritus peores que él, y entrados, moran allí; y el postrer estado de aquel hombre viene a ser peor que el primero. Así también acontecerá a esta mala generación. La madre y los hermanos de Jesús (Mc 3.31–35; Lc 8.19–21)"
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 5374,
+      "char_end": 5479,
+      "text": "Mientras él aún hablaba a la gente, he aquí su madre y sus hermanos estaban afuera, y le querían hablar."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 5479,
+      "char_end": 5561,
+      "text": "Y le dijo uno: He aquí tu madre y tus hermanos están afuera, y te quieren hablar."
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 5561,
+      "char_end": 5653,
+      "text": "Respondiendo él al que le decía esto, dijo: ¿Quién es mi madre, y quiénes son mis hermanos?"
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 5653,
+      "char_end": 5736,
+      "text": "Y extendiendo su mano hacia sus discípulos, dijo: He aquí mi madre y mis hermanos."
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 5736,
+      "char_end": 5850,
+      "text": "Porque todo aquel que hace la voluntad de mi Padre que está en los cielos, ése es mi hermano, y hermana, y madre."
+    }
+  ],
+  "words": [
+    {
+      "word": "En aquel tiempo iba Jesús por los sembrados en un día de reposo; y sus discípulos tuvieron hambre, y comenzaron a arrancar espigas y a comer.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 8475,
+      "duration_ms": 8375
+    },
+    {
+      "word": "Viéndolo los fariseos, le dijeron: He aquí tus discípulos hacen lo que no es lícito hacer en el día de reposo.",
+      "verse": 2,
+      "start_ms": 8425,
+      "end_ms": 15512,
+      "duration_ms": 7087
+    },
+    {
+      "word": "Pero él les dijo: ¿No habéis leído lo que hizo David, cuando él y los que con él estaban tuvieron hambre; cómo entró en la casa de Dios, y comió los panes de la proposición, que no les era lícito comer ni a él ni a los que con él estaban, sino solamente a los sacerdotes?",
+      "verse": 3,
+      "start_ms": 15512,
+      "end_ms": 30999,
+      "duration_ms": 15487
+    },
+    {
+      "word": "O no habéis leído en la ley, cómo en el día de reposo los sacerdotes en el templo profanan el día de reposo, y son sin culpa?",
+      "verse": 5,
+      "start_ms": 31000,
+      "end_ms": 38787,
+      "duration_ms": 7787
+    },
+    {
+      "word": "Pues os digo que uno mayor que el templo está aquí.",
+      "verse": 6,
+      "start_ms": 38787,
+      "end_ms": 42162,
+      "duration_ms": 3375
+    },
+    {
+      "word": "Y si supieseis qué significa: Misericordia quiero, y no sacrificio, no condenaríais a los inocentes; porque el Hijo del Hombre es Señor del día de reposo.",
+      "verse": 7,
+      "start_ms": 42162,
+      "end_ms": 52174,
+      "duration_ms": 10012
+    },
+    {
+      "word": "El hombre de la mano seca (Mc 3.1–6; Lc 6.6–11) Pasando de allí, vino a la sinagoga de ellos.",
+      "verse": 8,
+      "start_ms": 52175,
+      "end_ms": 61200,
+      "duration_ms": 9025
+    },
+    {
+      "word": "Y he aquí había allí uno que tenía seca una mano; y preguntaron a Jesús, para poder acusarle: ¿Es lícito sanar en el día de reposo?",
+      "verse": 10,
+      "start_ms": 61200,
+      "end_ms": 69925,
+      "duration_ms": 8725
+    },
+    {
+      "word": "Él les dijo: ¿Qué hombre habrá de vosotros, que tenga una oveja, y si ésta cayere en un hoyo en día de reposo, no le eche mano, y la levante?",
+      "verse": 11,
+      "start_ms": 69925,
+      "end_ms": 79350,
+      "duration_ms": 9425
+    },
+    {
+      "word": "Pues ¿cuánto más vale un hombre que una oveja?",
+      "verse": 12,
+      "start_ms": 79350,
+      "end_ms": 82512,
+      "duration_ms": 3162
+    },
+    {
+      "word": "Por consiguiente, es lícito hacer el bien en los días de reposo.",
+      "verse": 12,
+      "start_ms": 82512,
+      "end_ms": 86812,
+      "duration_ms": 4300
+    },
+    {
+      "word": "Entonces dijo a aquel hombre: Extiende tu mano.",
+      "verse": 13,
+      "start_ms": 86812,
+      "end_ms": 90649,
+      "duration_ms": 3837
+    },
+    {
+      "word": "Y él la extendió, y le fue restaurada sana como la otra.",
+      "verse": 13,
+      "start_ms": 90650,
+      "end_ms": 94937,
+      "duration_ms": 4287
+    },
+    {
+      "word": "Y salidos los fariseos, tuvieron consejo contra Jesús para destruirle.",
+      "verse": 14,
+      "start_ms": 94937,
+      "end_ms": 99837,
+      "duration_ms": 4900
+    },
+    {
+      "word": "El siervo escogido Sabiendo esto Jesús, se apartó de allí; y le siguió mucha gente, y sanaba a todos, y les encargaba rigurosamente que no le descubriesen; para que se cumpliese lo dicho por el profeta Isaías, cuando dijo: He aquí mi siervo, a quien he escogido; Mi Amado, en quien se agrada mi alma; Pondré mi Espíritu sobre él, Y a los gentiles anunciará juicio.",
+      "verse": 14,
+      "start_ms": 99837,
+      "end_ms": 122537,
+      "duration_ms": 22700
+    },
+    {
+      "word": "No contenderá, ni voceará, Ni nadie oirá en las calles su voz.",
+      "verse": 19,
+      "start_ms": 122537,
+      "end_ms": 127399,
+      "duration_ms": 4862
+    },
+    {
+      "word": "La caña cascada no quebrará, Y el pábilo que humea no apagará, Hasta que saque a victoria el juicio.",
+      "verse": 20,
+      "start_ms": 127400,
+      "end_ms": 134050,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Y en su nombre esperarán los gentiles.",
+      "verse": 21,
+      "start_ms": 134050,
+      "end_ms": 136950,
+      "duration_ms": 2900
+    },
+    {
+      "word": "La blasfemia contra el Espíritu Santo (Mc 3.20–30; Lc 11.14–23) Entonces fue traído a él un endemoniado, ciego y mudo; y le sanó, de tal manera que el ciego y mudo veía y hablaba.",
+      "verse": 21,
+      "start_ms": 136950,
+      "end_ms": 151575,
+      "duration_ms": 14625
+    },
+    {
+      "word": "Y toda la gente estaba atónita, y decía: ¿Será éste aquel Hijo de David?",
+      "verse": 23,
+      "start_ms": 151575,
+      "end_ms": 157037,
+      "duration_ms": 5462
+    },
+    {
+      "word": "Mas los fariseos, al oírlo, decían: éste no echa fuera los demonios sino por Beelzebú, príncipe de los demonios.",
+      "verse": 24,
+      "start_ms": 157037,
+      "end_ms": 164987,
+      "duration_ms": 7950
+    },
+    {
+      "word": "Sabiendo Jesús los pensamientos de ellos, les dijo: Todo reino dividido contra sí mismo, es asolado, y toda ciudad o casa dividida contra sí misma, no permanecerá.",
+      "verse": 25,
+      "start_ms": 164987,
+      "end_ms": 176237,
+      "duration_ms": 11250
+    },
+    {
+      "word": "Y si Satanás echa fuera a Satanás, contra sí mismo está dividido; ¿cómo, pues, permanecerá su reino?",
+      "verse": 26,
+      "start_ms": 176237,
+      "end_ms": 183812,
+      "duration_ms": 7575
+    },
+    {
+      "word": "Y si yo echo fuera los demonios por Beelzebú, ¿por quién los echan vuestros hijos?",
+      "verse": 27,
+      "start_ms": 183812,
+      "end_ms": 188974,
+      "duration_ms": 5162
+    },
+    {
+      "word": "Por tanto, ellos serán vuestros jueces.",
+      "verse": 27,
+      "start_ms": 188975,
+      "end_ms": 192350,
+      "duration_ms": 3375
+    },
+    {
+      "word": "Pero si yo por el Espíritu de Dios echo fuera los demonios, ciertamente ha llegado a vosotros el reino de Dios.",
+      "verse": 28,
+      "start_ms": 192350,
+      "end_ms": 199212,
+      "duration_ms": 6862
+    },
+    {
+      "word": "Porque ¿cómo puede alguno entrar en la casa del hombre fuerte, y saquear sus bienes, si primero no le ata?",
+      "verse": 29,
+      "start_ms": 199212,
+      "end_ms": 205749,
+      "duration_ms": 6537
+    },
+    {
+      "word": "Y entonces podrá saquear su casa.",
+      "verse": 29,
+      "start_ms": 205750,
+      "end_ms": 208537,
+      "duration_ms": 2787
+    },
+    {
+      "word": "El que no es conmigo, contra mí es; y el que conmigo no recoge, desparrama.",
+      "verse": 30,
+      "start_ms": 208537,
+      "end_ms": 214412,
+      "duration_ms": 5875
+    },
+    {
+      "word": "Por tanto os digo: Todo pecado y blasfemia será perdonado a los hombres; mas la blasfemia contra el Espíritu no les será perdonada.",
+      "verse": 31,
+      "start_ms": 214412,
+      "end_ms": 222662,
+      "duration_ms": 8250
+    },
+    {
+      "word": "A cualquiera que dijere alguna palabra contra el Hijo del Hombre, le será perdonado; pero al que hable contra el Espíritu Santo, no le será perdonado, ni en este siglo ni en el venidero.",
+      "verse": 32,
+      "start_ms": 222662,
+      "end_ms": 233362,
+      "duration_ms": 10700
+    },
+    {
+      "word": "O haced el árbol bueno, y su fruto bueno, o haced el árbol malo, y su fruto malo; porque por el fruto se conoce el árbol.",
+      "verse": 33,
+      "start_ms": 233362,
+      "end_ms": 241399,
+      "duration_ms": 8037
+    },
+    {
+      "word": "Generación de víboras!",
+      "verse": 34,
+      "start_ms": 241400,
+      "end_ms": 243725,
+      "duration_ms": 2325
+    },
+    {
+      "word": "Cómo podéis hablar lo bueno, siendo malos?",
+      "verse": 34,
+      "start_ms": 243725,
+      "end_ms": 247175,
+      "duration_ms": 3450
+    },
+    {
+      "word": "Porque de la abundancia del corazón habla la boca.",
+      "verse": 34,
+      "start_ms": 247175,
+      "end_ms": 250575,
+      "duration_ms": 3400
+    },
+    {
+      "word": "El hombre bueno, del buen tesoro del corazón saca buenas cosas; y el hombre malo, del mal tesoro saca malas cosas.",
+      "verse": 35,
+      "start_ms": 250575,
+      "end_ms": 258500,
+      "duration_ms": 7925
+    },
+    {
+      "word": "Mas yo os digo que de toda palabra ociosa que hablen los hombres, de ella darán cuenta en el día del juicio.",
+      "verse": 36,
+      "start_ms": 258500,
+      "end_ms": 265075,
+      "duration_ms": 6575
+    },
+    {
+      "word": "Porque",
+      "verse": 37,
+      "start_ms": 265075,
+      "end_ms": 266450,
+      "duration_ms": 1375
+    },
+    {
+      "word": "por tus palabras serás justificado, y por tus palabras serás condenado.",
+      "verse": 37,
+      "start_ms": 266620,
+      "end_ms": 271457,
+      "duration_ms": 4837
+    },
+    {
+      "word": "La generación perversa demanda señal (Lc 11.29–32) Entonces respondieron algunos de los escribas y de los fariseos, diciendo: Maestro, deseamos ver de ti señal.",
+      "verse": 37,
+      "start_ms": 271407,
+      "end_ms": 283894,
+      "duration_ms": 12487
+    },
+    {
+      "word": "Él respondió y les dijo: La generación mala y adúltera demanda señal; pero señal no le será dada, sino la señal del profeta Jonás.",
+      "verse": 39,
+      "start_ms": 283895,
+      "end_ms": 292720,
+      "duration_ms": 8825
+    },
+    {
+      "word": "Porque como estuvo Jonás en el vientre del gran pez tres días y tres noches, así estará el Hijo del Hombre en el corazón de la tierra tres días y tres noches.",
+      "verse": 40,
+      "start_ms": 292720,
+      "end_ms": 302007,
+      "duration_ms": 9287
+    },
+    {
+      "word": "Los hombres de Nínive se levantarán en el juicio con esta generación, y la condenarán; porque ellos se arrepintieron a la predicación de Jonás, y he aquí más que Jonás en este lugar.",
+      "verse": 41,
+      "start_ms": 302007,
+      "end_ms": 312632,
+      "duration_ms": 10625
+    },
+    {
+      "word": "La reina del Sur se levantará en el juicio con esta generación, y la condenará; porque ella vino de los fines de la tierra para oír la sabiduría de Salomón, y he aquí más que Salomón en este lugar.",
+      "verse": 42,
+      "start_ms": 312632,
+      "end_ms": 324232,
+      "duration_ms": 11600
+    },
+    {
+      "word": "El espíritu inmundo que vuelve (Lc 11.24–26) Cuando el espíritu inmundo sale del hombre, anda por lugares secos, buscando reposo, y no lo halla.",
+      "verse": 42,
+      "start_ms": 324232,
+      "end_ms": 335369,
+      "duration_ms": 11137
+    },
+    {
+      "word": "Entonces dice: Volveré a mi casa de donde salí; y cuando llega, la halla desocupada, barrida y adornada.",
+      "verse": 44,
+      "start_ms": 335370,
+      "end_ms": 342957,
+      "duration_ms": 7587
+    },
+    {
+      "word": "Entonces va, y toma consigo otros siete espíritus peores que él, y entrados, moran allí; y el postrer estado de aquel hombre viene a ser peor que el primero.",
+      "verse": 45,
+      "start_ms": 342957,
+      "end_ms": 353019,
+      "duration_ms": 10062
+    },
+    {
+      "word": "Así también acontecerá a esta mala generación.",
+      "verse": 45,
+      "start_ms": 353020,
+      "end_ms": 356607,
+      "duration_ms": 3587
+    },
+    {
+      "word": "La madre y los hermanos de Jesús (Mc 3.31–35; Lc 8.19–21) Mientras él aún hablaba a la gente, he aquí su madre y sus hermanos estaban afuera, y le querían hablar.",
+      "verse": 45,
+      "start_ms": 356607,
+      "end_ms": 369982,
+      "duration_ms": 13375
+    },
+    {
+      "word": "Y le dijo uno: He aquí tu madre y tus hermanos están afuera, y te quieren hablar.",
+      "verse": 47,
+      "start_ms": 369982,
+      "end_ms": 375657,
+      "duration_ms": 5675
+    },
+    {
+      "word": "Respondiendo él al que le decía esto, dijo: ¿Quién es mi madre, y quiénes son mis hermanos?",
+      "verse": 48,
+      "start_ms": 375657,
+      "end_ms": 381807,
+      "duration_ms": 6150
+    },
+    {
+      "word": "Y extendiendo su mano hacia sus discípulos, dijo: He aquí mi madre y mis hermanos.",
+      "verse": 49,
+      "start_ms": 381807,
+      "end_ms": 387882,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Porque todo aquel que hace la voluntad de mi Padre que está en los cielos, ése es mi hermano, y hermana, y madre.",
+      "verse": 50,
+      "start_ms": 387882,
+      "end_ms": 394932,
+      "duration_ms": 7050
+    }
+  ]
+}

@@ -1,0 +1,509 @@
+{
+  "book": "HEC",
+  "chapter": 16,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 41,
+  "word_count": 30,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 135,
+      "text": "Entonces algunos que venían de Judea enseñaban a los hermanos: Si no os circuncidáis conforme al rito de Moisés, no podéis ser salvos."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 135,
+      "char_end": 353,
+      "text": "Como Pablo y Bernabé tuviesen una discusión y contienda no pequeña con ellos, se dispuso que subiesen Pablo y Bernabé a Jerusalén, y algunos otros de ellos, a los apóstoles y a los ancianos, para tratar esta cuestión."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 353,
+      "char_end": 522,
+      "text": "Ellos, pues, habiendo sido encaminados por la iglesia, pasaron por Fenicia y Samaria, contando la conversión de los gentiles; y causaban gran gozo a todos los hermanos."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 522,
+      "char_end": 671,
+      "text": "Y llegados a Jerusalén, fueron recibidos por la iglesia y los apóstoles y los ancianos, y refirieron todas las cosas que Dios había hecho con ellos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 671,
+      "char_end": 827,
+      "text": "Pero algunos de la secta de los fariseos, que habían creído, se levantaron diciendo: Es necesario circuncidarlos, y mandarles que guarden la ley de Moisés."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 827,
+      "char_end": 900,
+      "text": "Y se reunieron los apóstoles y los ancianos para conocer de este asunto."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 900,
+      "char_end": 1109,
+      "text": "Y después de mucha discusión, Pedro se levantó y les dijo: Varones hermanos, vosotros sabéis cómo ya hace algún tiempo que Dios escogió que los gentiles oyesen por mi boca la palabra del evangelio y creyesen."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1109,
+      "char_end": 1215,
+      "text": "Y Dios, que conoce los corazones, les dio testimonio, dándoles el Espíritu Santo lo mismo que a nosotros;"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1215,
+      "char_end": 1302,
+      "text": "y ninguna diferencia hizo entre nosotros y ellos, purificando por la fe sus corazones."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1302,
+      "char_end": 1447,
+      "text": "Ahora, pues, ¿por qué tentáis a Dios, poniendo sobre la cerviz de los discípulos un yugo que ni nuestros padres ni nosotros hemos podido llevar?"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1447,
+      "char_end": 1536,
+      "text": "Antes creemos que por la gracia del Señor Jesús seremos salvos, de igual modo que ellos."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1536,
+      "char_end": 1702,
+      "text": "Entonces toda la multitud calló, y oyeron a Bernabé y a Pablo, que contaban cuán grandes señales y maravillas había hecho Dios por medio de ellos entre los gentiles."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1702,
+      "char_end": 1779,
+      "text": "Y cuando ellos callaron, Jacobo respondió diciendo: Varones hermanos, oídme."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1779,
+      "char_end": 1888,
+      "text": "Simón ha contado cómo Dios visitó por primera vez a los gentiles, para tomar de ellos pueblo para su nombre."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1888,
+      "char_end": 1959,
+      "text": "Y con esto concuerdan las palabras de los profetas, como está escrito:"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1959,
+      "char_end": 2086,
+      "text": "Después de esto volveré Y reedificaré el tabernáculo de David, que está caído; Y repararé sus ruinas, Y lo volveré a levantar,"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2086,
+      "char_end": 2198,
+      "text": "Para que el resto de los hombres busque al Señor, Y todos los gentiles, sobre los cuales es invocado mi nombre,"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2198,
+      "char_end": 2264,
+      "text": "Dice el Señor, que hace conocer todo esto desde tiempos antiguos."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2264,
+      "char_end": 2345,
+      "text": "Por lo cual yo juzgo que no se inquiete a los gentiles que se convierten a Dios,"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2345,
+      "char_end": 2462,
+      "text": "sino que se les escriba que se aparten de las contaminaciones de los ídolos, de fornicación, de ahogado y de sangre."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2462,
+      "char_end": 2591,
+      "text": "Porque Moisés desde tiempos antiguos tiene en cada ciudad quien lo predique en las sinagogas, donde es leído cada día de reposo."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2591,
+      "char_end": 2838,
+      "text": "Entonces pareció bien a los apóstoles y a los ancianos, con toda la iglesia, elegir de entre ellos varones y enviarlos a Antioquía con Pablo y Bernabé: a Judas que tenía por sobrenombre Barsabás, y a Silas, varones principales entre los hermanos;"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2838,
+      "char_end": 3008,
+      "text": "y escribir por conducto de ellos: Los apóstoles y los ancianos y los hermanos, a los hermanos de entre los gentiles que están en Antioquía, en Siria y en Cilicia, salud."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3008,
+      "char_end": 3200,
+      "text": "Por cuanto hemos oído que algunos que han salido de nosotros, a los cuales no dimos orden, os han inquietado con palabras, perturbando vuestras almas, mandando circuncidaros y guardar la ley,"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3200,
+      "char_end": 3328,
+      "text": "nos ha parecido bien, habiendo llegado a un acuerdo, elegir varones y enviarlos a vosotros con nuestros amados Bernabé y Pablo,"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3328,
+      "char_end": 3404,
+      "text": "hombres que han expuesto su vida por el nombre de nuestro Señor Jesucristo."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3404,
+      "char_end": 3495,
+      "text": "Así que enviamos a Judas y a Silas, los cuales también de palabra os harán saber lo mismo."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3495,
+      "char_end": 3611,
+      "text": "Porque ha parecido bien al Espíritu Santo, y a nosotros, no imponeros ninguna carga más que estas cosas necesarias:"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3611,
+      "char_end": 3762,
+      "text": "que os abstengáis de lo sacrificado a ídolos, de sangre, de ahogado y de fornicación; de las cuales cosas si os guardareis, bien haréis. Pasadlo bien."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3762,
+      "char_end": 3875,
+      "text": "Así, pues, los que fueron enviados descendieron a Antioquía, y reuniendo a la congregación, entregaron la carta;"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3875,
+      "char_end": 3934,
+      "text": "habiendo leído la cual, se regocijaron por la consolación."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3934,
+      "char_end": 4053,
+      "text": "Y Judas y Silas, como ellos también eran profetas, consolaron y confirmaron a los hermanos con abundancia de palabras."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4053,
+      "char_end": 4172,
+      "text": "Y pasando algún tiempo allí, fueron despedidos en paz por los hermanos, para volver a aquellos que los habían enviado."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4172,
+      "char_end": 4218,
+      "text": "Mas a Silas le pareció bien el quedarse allí."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4218,
+      "char_end": 4403,
+      "text": "Y Pablo y Bernabé continuaron en Antioquía, enseñando la palabra del Señor y anunciando el evangelio con otros muchos. Pablo se separa de Bernabé, y comienza su segundo viaje misionero"
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4403,
+      "char_end": 4572,
+      "text": "Después de algunos días, Pablo dijo a Bernabé: Volvamos a visitar a los hermanos en todas las ciudades en que hemos anunciado la palabra del Señor, para ver cómo están."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4572,
+      "char_end": 4655,
+      "text": "Y Bernabé quería que llevasen consigo a Juan, el que tenía por sobrenombre Marcos;"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4655,
+      "char_end": 4788,
+      "text": "pero a Pablo no le parecía bien llevar consigo al que se había apartado de ellos desde Panfilia, y no había ido con ellos a la obra."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4788,
+      "char_end": 4901,
+      "text": "Y hubo tal desacuerdo entre ellos, que se separaron el uno del otro; Bernabé, tomando a Marcos, navegó a Chipre,"
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4901,
+      "char_end": 4988,
+      "text": "y Pablo, escogiendo a Silas, salió encomendado por los hermanos a la gracia del Señor,"
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4988,
+      "char_end": 5044,
+      "text": "y pasó por Siria y Cilicia, confirmando a las iglesias."
+    }
+  ],
+  "words": [
+    {
+      "word": "Entonces algunos que venían de Judea enseñaban a los hermanos: Si no os circuncidáis conforme al rito de Moisés, no podéis ser salvos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 8625,
+      "duration_ms": 8525
+    },
+    {
+      "word": "Como Pablo y Bernabé tuviesen una discusión y contienda no pequeña con ellos, se dispuso que subiesen Pablo y Bernabé a Jerusalén, y algunos otros de ellos, a los apóstoles y a los ancianos, para tratar esta cuestión.",
+      "verse": 2,
+      "start_ms": 8575,
+      "end_ms": 21900,
+      "duration_ms": 13325
+    },
+    {
+      "word": "Ellos, pues, habiendo sido encaminados por la iglesia, pasaron por Fenicia y Samaria, contando la conversión de los gentiles; y causaban gran gozo a todos los hermanos.",
+      "verse": 3,
+      "start_ms": 21900,
+      "end_ms": 33000,
+      "duration_ms": 11100
+    },
+    {
+      "word": "Y llegados a Jerusalén, fueron recibidos por la iglesia y los apóstoles y los ancianos, y refirieron todas las cosas que Dios había hecho con ellos.",
+      "verse": 4,
+      "start_ms": 33000,
+      "end_ms": 41862,
+      "duration_ms": 8862
+    },
+    {
+      "word": "Pero algunos de la secta de los fariseos, que habían creído, se levantaron diciendo: Es necesario circuncidarlos, y mandarles que guarden la ley de Moisés.",
+      "verse": 5,
+      "start_ms": 41862,
+      "end_ms": 51774,
+      "duration_ms": 9912
+    },
+    {
+      "word": "Y se reunieron los apóstoles y los ancianos para conocer de este asunto.",
+      "verse": 6,
+      "start_ms": 51775,
+      "end_ms": 56425,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Y después de mucha discusión, Pedro se levantó y les dijo: Varones hermanos, vosotros sabéis cómo ya hace algún tiempo que Dios escogió que los gentiles oyesen por mi boca la palabra del evangelio y creyesen.",
+      "verse": 7,
+      "start_ms": 56425,
+      "end_ms": 68500,
+      "duration_ms": 12075
+    },
+    {
+      "word": "Y Dios, que conoce los corazones, les dio testimonio, dándoles el Espíritu Santo lo mismo que a nosotros; y ninguna diferencia hizo entre nosotros y ellos, purificando por la fe sus corazones.",
+      "verse": 8,
+      "start_ms": 68500,
+      "end_ms": 81287,
+      "duration_ms": 12787
+    },
+    {
+      "word": "Ahora, pues, ¿por qué tentáis a Dios, poniendo sobre la cerviz de los discípulos un yugo que ni nuestros padres ni nosotros hemos podido llevar?",
+      "verse": 10,
+      "start_ms": 81287,
+      "end_ms": 90287,
+      "duration_ms": 9000
+    },
+    {
+      "word": "Antes creemos que por la gracia del Señor Jesús seremos salvos, de igual modo que ellos.",
+      "verse": 11,
+      "start_ms": 90287,
+      "end_ms": 96199,
+      "duration_ms": 5912
+    },
+    {
+      "word": "Entonces toda la multitud calló, y oyeron a Bernabé y a Pablo, que contaban cuán grandes señales y maravillas había hecho Dios por medio de ellos entre los gentiles.",
+      "verse": 12,
+      "start_ms": 96200,
+      "end_ms": 105962,
+      "duration_ms": 9762
+    },
+    {
+      "word": "Y cuando ellos callaron, Jacobo respondió diciendo: Varones hermanos, oídme.",
+      "verse": 13,
+      "start_ms": 105962,
+      "end_ms": 111649,
+      "duration_ms": 5687
+    },
+    {
+      "word": "Simón ha contado cómo Dios visitó por primera vez a los gentiles, para tomar de ellos pueblo para su nombre.",
+      "verse": 14,
+      "start_ms": 111650,
+      "end_ms": 118337,
+      "duration_ms": 6687
+    },
+    {
+      "word": "Y con esto concuerdan las palabras de los profetas, como está escrito: Después de esto volveré Y reedificaré el tabernáculo de David, que está caído; Y repararé sus ruinas, Y lo volveré a levantar, Para que el resto de los hombres busque al Señor, Y todos los gentiles, sobre los cuales es invocado mi nombre, Dice el Señor, que hace conocer todo esto desde tiempos antiguos.",
+      "verse": 15,
+      "start_ms": 118337,
+      "end_ms": 140612,
+      "duration_ms": 22275
+    },
+    {
+      "word": "Por lo cual yo juzgo que no se inquiete a los gentiles que se convierten a Dios, sino que se les escriba que se aparten de las contaminaciones de los ídolos, de fornicación, de ahogado y de sangre.",
+      "verse": 19,
+      "start_ms": 140612,
+      "end_ms": 151412,
+      "duration_ms": 10800
+    },
+    {
+      "word": "Porque Moisés desde tiempos antiguos tiene en cada ciudad quien lo predique en las sinagogas, donde es leído cada día de reposo.",
+      "verse": 21,
+      "start_ms": 151412,
+      "end_ms": 159112,
+      "duration_ms": 7700
+    },
+    {
+      "word": "Entonces pareció bien a los apóstoles y a los ancianos, con toda la iglesia, elegir de entre ellos varones y enviarlos a Antioquía con Pablo y Bernabé: a Judas que tenía por sobrenombre Barsabás, y a Silas, varones principales entre los hermanos; y escribir por conducto de ellos: Los apóstoles y los ancianos y los hermanos, a los hermanos de entre los gentiles que están en Antioquía, en Siria y en Cilicia, salud.",
+      "verse": 22,
+      "start_ms": 159112,
+      "end_ms": 183912,
+      "duration_ms": 24800
+    },
+    {
+      "word": "Por cuanto hemos oído que algunos que han salido de nosotros, a los cuales no dimos orden, os han inquietado con palabras, perturbando vuestras almas, mandando circuncidaros y guardar la ley, nos ha parecido bien, habiendo llegado a un acuerdo, elegir varones y enviarlos a vosotros con nuestros amados Bernabé y Pablo, hombres que han expuesto su vida por el nombre de nuestro Señor Jesucristo.",
+      "verse": 24,
+      "start_ms": 183912,
+      "end_ms": 206237,
+      "duration_ms": 22325
+    },
+    {
+      "word": "Así que enviamos a Judas y a Silas, los cuales también de palabra os harán saber lo mismo.",
+      "verse": 27,
+      "start_ms": 206237,
+      "end_ms": 211949,
+      "duration_ms": 5712
+    },
+    {
+      "word": "Porque ha parecido bien al Espíritu Santo, y a nosotros, no imponeros ninguna carga más que estas cosas necesarias: que os abstengáis de lo sacrificado a ídolos, de sangre, de ahogado y de fornicación; de las cuales cosas si os guardareis, bien haréis.",
+      "verse": 28,
+      "start_ms": 211950,
+      "end_ms": 227825,
+      "duration_ms": 15875
+    },
+    {
+      "word": "Pasadlo bien.",
+      "verse": 29,
+      "start_ms": 227825,
+      "end_ms": 229625,
+      "duration_ms": 1800
+    },
+    {
+      "word": "Así, pues, los que fueron enviados descendieron a Antioquía, y reuniendo a la congregación, entregaron la carta; habiendo leído la cual, se regocijaron por la consolación.",
+      "verse": 30,
+      "start_ms": 229625,
+      "end_ms": 240487,
+      "duration_ms": 10862
+    },
+    {
+      "word": "Y Judas y Silas, como ellos también eran profetas, consolaron y",
+      "verse": 32,
+      "start_ms": 240487,
+      "end_ms": 245562,
+      "duration_ms": 5075
+    },
+    {
+      "word": "confirmaron a los hermanos con abundancia de palabras.",
+      "verse": 32,
+      "start_ms": 245716,
+      "end_ms": 249441,
+      "duration_ms": 3725
+    },
+    {
+      "word": "Y pasando algún tiempo allí, fueron despedidos en paz por los hermanos, para volver a aquellos que los habían enviado.",
+      "verse": 33,
+      "start_ms": 249391,
+      "end_ms": 256428,
+      "duration_ms": 7037
+    },
+    {
+      "word": "Mas a Silas le pareció bien el quedarse allí.",
+      "verse": 34,
+      "start_ms": 256428,
+      "end_ms": 259703,
+      "duration_ms": 3275
+    },
+    {
+      "word": "Y Pablo y Bernabé continuaron en Antioquía, enseñando la palabra del Señor y anunciando el evangelio con otros muchos.",
+      "verse": 35,
+      "start_ms": 259703,
+      "end_ms": 267028,
+      "duration_ms": 7325
+    },
+    {
+      "word": "Pablo se separa de Bernabé, y comienza su segundo viaje misionero Después de algunos días, Pablo dijo a Bernabé: Volvamos a visitar a los hermanos en todas las ciudades en que hemos anunciado la palabra del Señor, para ver cómo están.",
+      "verse": 35,
+      "start_ms": 267028,
+      "end_ms": 280765,
+      "duration_ms": 13737
+    },
+    {
+      "word": "Y Bernabé quería que llevasen consigo a Juan, el que tenía por sobrenombre Marcos; pero a Pablo no le parecía bien llevar consigo al que se había apartado de ellos desde Panfilia, y no había ido con ellos a la obra.",
+      "verse": 37,
+      "start_ms": 280766,
+      "end_ms": 293116,
+      "duration_ms": 12350
+    },
+    {
+      "word": "Y hubo tal desacuerdo entre ellos, que se separaron el uno del otro; Bernabé, tomando a Marcos, navegó a Chipre, y Pablo, escogiendo a Silas, salió encomendado por los hermanos a la gracia del Señor, y pasó por Siria y Cilicia, confirmando a las iglesias.",
+      "verse": 39,
+      "start_ms": 293116,
+      "end_ms": 309691,
+      "duration_ms": 16575
+    }
+  ]
+}

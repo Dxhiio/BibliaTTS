@@ -1,0 +1,586 @@
+{
+  "book": "JER",
+  "chapter": 31,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 40,
+  "word_count": 42,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 113,
+      "text": "En aquel tiempo, dice Jehová, yo seré por Dios a todas las familias de Israel, y ellas me serán a mí por pueblo."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 113,
+      "char_end": 235,
+      "text": "Así ha dicho Jehová: El pueblo que escapó de la espada halló gracia en el desierto, cuando Israel iba en busca de reposo."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 235,
+      "char_end": 362,
+      "text": "Jehová se manifestó a mí hace ya mucho tiempo, diciendo: Con amor eterno te he amado; por tanto, te prolongué mi misericordia."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 362,
+      "char_end": 490,
+      "text": "Aún te edificaré, y serás edificada, oh virgen de Israel; todavía serás adornada con tus panderos, y saldrás en alegres danzas."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 490,
+      "char_end": 587,
+      "text": "Aún plantarás viñas en los montes de Samaria; plantarán los que plantan, y disfrutarán de ellas."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 587,
+      "char_end": 707,
+      "text": "Porque habrá día en que clamarán los guardas en el monte de Efraín: Levantaos, y subamos a Sion, a Jehová nuestro Dios."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 707,
+      "char_end": 897,
+      "text": "Porque así ha dicho Jehová: Regocijaos en Jacob con alegría, y dad voces de júbilo a la cabeza de naciones; haced oír, alabad, y decid: Oh Jehová, salva a tu pueblo, el remanente de Israel."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 897,
+      "char_end": 1107,
+      "text": "He aquí yo los hago volver de la tierra del norte, y los reuniré de los fines de la tierra, y entre ellos ciegos y cojos, la mujer que está encinta y la que dio a luz juntamente; en gran compañía volverán acá."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1107,
+      "char_end": 1308,
+      "text": "Irán con lloro, mas con misericordia los haré volver, y los haré andar junto a arroyos de aguas, por camino derecho en el cual no tropezarán; porque soy a Israel por padre, y Efraín es mi primogénito."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1308,
+      "char_end": 1476,
+      "text": "Oíd palabra de Jehová, oh naciones, y hacedlo saber en las costas que están lejos, y decid: El que esparció a Israel lo reunirá y guardará, como el pastor a su rebaño."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1476,
+      "char_end": 1549,
+      "text": "Porque Jehová redimió a Jacob, lo redimió de mano del más fuerte que él."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1549,
+      "char_end": 1762,
+      "text": "Y vendrán con gritos de gozo en lo alto de Sion, y correrán al bien de Jehová, al pan, al vino, al aceite, y al ganado de las ovejas y de las vacas; y su alma será como huerto de riego, y nunca más tendrán dolor."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1762,
+      "char_end": 1917,
+      "text": "Entonces la virgen se alegrará en la danza, los jóvenes y los viejos juntamente; y cambiaré su lloro en gozo, y los consolaré, y los alegraré de su dolor."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1917,
+      "char_end": 2017,
+      "text": "Y el alma del sacerdote satisfaré con abundancia, y mi pueblo será saciado de mi bien, dice Jehová."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2017,
+      "char_end": 2182,
+      "text": "Así ha dicho Jehová: Voz fue oída en Ramá, llanto y lloro amargo; Raquel que lamenta por sus hijos, y no quiso ser consolada acerca de sus hijos, porque perecieron."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2182,
+      "char_end": 2344,
+      "text": "Así ha dicho Jehová: Reprime del llanto tu voz, y de las lágrimas tus ojos; porque salario hay para tu trabajo, dice Jehová, y volverán de la tierra del enemigo."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2344,
+      "char_end": 2438,
+      "text": "Esperanza hay también para tu porvenir, dice Jehová, y los hijos volverán a su propia tierra."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2438,
+      "char_end": 2600,
+      "text": "Escuchando, he oído a Efraín que se lamentaba: Me azotaste, y fui castigado como novillo indómito; conviérteme, y seré convertido, porque tú eres Jehová mi Dios."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2600,
+      "char_end": 2767,
+      "text": "Porque después que me aparté tuve arrepentimiento, y después que reconocí mi falta, herí mi muslo; me avergoncé y me confundí, porque llevé la afrenta de mi juventud."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2767,
+      "char_end": 2998,
+      "text": "¿No es Efraín hijo precioso para mí? ¿no es niño en quien me deleito? pues desde que hablé de él, me he acordado de él constantemente. Por eso mis entrañas se conmovieron por él; ciertamente tendré de él misericordia, dice Jehová."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2998,
+      "char_end": 3157,
+      "text": "Establécete señales, ponte majanos altos, nota atentamente la calzada; vuélvete por el camino por donde fuiste, virgen de Israel, vuelve a estas tus ciudades."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3157,
+      "char_end": 3286,
+      "text": "¿Hasta cuándo andarás errante, oh hija contumaz? Porque Jehová creará una cosa nueva sobre la tierra: la mujer rodeará al varón."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3286,
+      "char_end": 3497,
+      "text": "Así ha dicho Jehová de los ejércitos, Dios de Israel: Aún dirán esta palabra en la tierra de Judá y en sus ciudades, cuando yo haga volver sus cautivos: Jehová te bendiga, oh morada de justicia, oh monte santo."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3497,
+      "char_end": 3589,
+      "text": "Y habitará allí Judá, y también en todas sus ciudades labradores, y los que van con rebaño."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3589,
+      "char_end": 3659,
+      "text": "Porque satisfaré al alma cansada, y saciaré a toda alma entristecida."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3659,
+      "char_end": 3730,
+      "text": "En esto me desperté, y vi, y mi sueño me fue agradable. El nuevo pacto"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3730,
+      "char_end": 3863,
+      "text": "He aquí vienen días, dice Jehová, en que sembraré la casa de Israel y la casa de Judá de simiente de hombre y de simiente de animal."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3863,
+      "char_end": 4017,
+      "text": "Y así como tuve cuidado de ellos para arrancar y derribar, y trastornar y perder y afligir, tendré cuidado de ellos para edificar y plantar, dice Jehová."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 4017,
+      "char_end": 4130,
+      "text": "En aquellos días no dirán más: Los padres comieron las uvas agrias y los dientes de los hijos tienen la dentera,"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4130,
+      "char_end": 4254,
+      "text": "sino que cada cual morirá por su propia maldad; los dientes de todo hombre que comiere las uvas agrias, tendrán la dentera."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4254,
+      "char_end": 4368,
+      "text": "He aquí que vienen días, dice Jehová, en los cuales haré nuevo pacto con la casa de Israel y con la casa de Judá."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4368,
+      "char_end": 4555,
+      "text": "No como el pacto que hice con sus padres el día que tomé su mano para sacarlos de la tierra de Egipto; porque ellos invalidaron mi pacto, aunque fui yo un marido para ellos, dice Jehová."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4555,
+      "char_end": 4759,
+      "text": "Pero éste es el pacto que haré con la casa de Israel después de aquellos días, dice Jehová: Daré mi ley en su mente, y la escribiré en su corazón; y yo seré a ellos por Dios, y ellos me serán por pueblo."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4759,
+      "char_end": 5015,
+      "text": "Y no enseñará más ninguno a su prójimo, ni ninguno a su hermano, diciendo: Conoce a Jehová; porque todos me conocerán, desde el más pequeño de ellos hasta el más grande, dice Jehová; porque perdonaré la maldad de ellos, y no me acordaré más de su pecado.,"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 5015,
+      "char_end": 5206,
+      "text": "Así ha dicho Jehová, que da el sol para luz del día, las leyes de la luna y de las estrellas para luz de la noche, que parte el mar, y braman sus ondas; Jehová de los ejércitos es su nombre:"
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 5206,
+      "char_end": 5346,
+      "text": "Si faltaren estas leyes delante de mí, dice Jehová, también la descendencia de Israel faltará para no ser nación delante de mí eternamente."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 5346,
+      "char_end": 5545,
+      "text": "Así ha dicho Jehová: Si los cielos arriba se pueden medir, y explorarse abajo los fundamentos de la tierra, también yo desecharé toda la descendencia de Israel por todo lo que hicieron, dice Jehová."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 5545,
+      "char_end": 5680,
+      "text": "He aquí que vienen días, dice Jehová, en que la ciudad será edificada a Jehová, desde la torre de Hananeel hasta la puerta del Ángulo."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 5680,
+      "char_end": 5779,
+      "text": "Y saldrá más allá el cordel de la medida delante de él sobre el collado de Gareb, y rodeará a Goa."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 5779,
+      "char_end": 6010,
+      "text": "Y todo el valle de los cuerpos muertos y de la ceniza, y todas las llanuras hasta el arroyo de Cedrón, hasta la esquina de la puerta de los caballos al oriente, será santo a Jehová; no será arrancada ni destruida más para siempre."
+    }
+  ],
+  "words": [
+    {
+      "word": "En aquel tiempo, dice Jehová, yo seré por Dios a todas las familias de Israel, y ellas me serán a mí por pueblo.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7312,
+      "duration_ms": 7212
+    },
+    {
+      "word": "Así ha dicho Jehová: El pueblo que escapó de la espada halló gracia en el desierto, cuando Israel iba en busca de reposo.",
+      "verse": 2,
+      "start_ms": 7262,
+      "end_ms": 14737,
+      "duration_ms": 7475
+    },
+    {
+      "word": "Jehová se manifestó a mí hace ya mucho tiempo, diciendo: Con amor eterno te he amado; por tanto, te prolongué mi misericordia.",
+      "verse": 3,
+      "start_ms": 14737,
+      "end_ms": 23512,
+      "duration_ms": 8775
+    },
+    {
+      "word": "Aún te edificaré, y serás edificada, oh virgen de Israel; todavía serás adornada con tus panderos, y saldrás en alegres danzas.",
+      "verse": 4,
+      "start_ms": 23512,
+      "end_ms": 32549,
+      "duration_ms": 9037
+    },
+    {
+      "word": "Aún plantarás viñas en los montes de Samaria; plantarán los que plantan, y disfrutarán de ellas.",
+      "verse": 5,
+      "start_ms": 32550,
+      "end_ms": 39075,
+      "duration_ms": 6525
+    },
+    {
+      "word": "Porque habrá día en que clamarán los guardas en el monte de Efraín: Levantaos, y subamos a Sion, a Jehová nuestro Dios.",
+      "verse": 6,
+      "start_ms": 39075,
+      "end_ms": 46750,
+      "duration_ms": 7675
+    },
+    {
+      "word": "Porque así ha dicho Jehová: Regocijaos en Jacob con alegría, y dad voces de júbilo a la cabeza de naciones; haced oír, alabad, y decid: Oh Jehová, salva a tu pueblo, el remanente de Israel.",
+      "verse": 7,
+      "start_ms": 46750,
+      "end_ms": 59862,
+      "duration_ms": 13112
+    },
+    {
+      "word": "He aquí yo los hago volver de la tierra del norte, y los reuniré de los fines de la tierra, y entre ellos ciegos y cojos, la mujer que está encinta y la que dio a luz juntamente; en gran compañía volverán acá.",
+      "verse": 8,
+      "start_ms": 59862,
+      "end_ms": 71999,
+      "duration_ms": 12137
+    },
+    {
+      "word": "Irán con lloro, mas con misericordia los haré volver, y los haré andar junto a arroyos de aguas, por camino derecho en el cual no tropezarán; porque soy a Israel por padre, y Efraín es mi primogénito.",
+      "verse": 9,
+      "start_ms": 72000,
+      "end_ms": 84612,
+      "duration_ms": 12612
+    },
+    {
+      "word": "Oíd palabra de Jehová, oh naciones, y hacedlo saber en las costas que están lejos, y decid: El que esparció a Israel lo reunirá y guardará, como el pastor a su rebaño.",
+      "verse": 10,
+      "start_ms": 84612,
+      "end_ms": 95187,
+      "duration_ms": 10575
+    },
+    {
+      "word": "Porque Jehová redimió a Jacob, lo redimió de mano del más fuerte que él.",
+      "verse": 11,
+      "start_ms": 95187,
+      "end_ms": 100049,
+      "duration_ms": 4862
+    },
+    {
+      "word": "Y vendrán con gritos de gozo en lo alto de Sion, y correrán al bien de Jehová, al pan, al vino, al aceite, y al ganado de las ovejas y de las vacas; y su alma será como huerto de riego, y nunca más tendrán dolor.",
+      "verse": 12,
+      "start_ms": 100050,
+      "end_ms": 113800,
+      "duration_ms": 13750
+    },
+    {
+      "word": "Entonces la virgen se alegrará en la danza, los jóvenes y los viejos juntamente; y cambiaré su lloro en gozo, y los consolaré, y los alegraré de su dolor.",
+      "verse": 13,
+      "start_ms": 113800,
+      "end_ms": 123737,
+      "duration_ms": 9937
+    },
+    {
+      "word": "Y el alma del sacerdote satisfaré con abundancia, y mi pueblo será saciado de mi bien, dice Jehová.",
+      "verse": 14,
+      "start_ms": 123737,
+      "end_ms": 130537,
+      "duration_ms": 6800
+    },
+    {
+      "word": "Así ha dicho Jehová: Voz fue oída en Ramá, llanto y lloro amargo; Raquel que lamenta por sus hijos, y no quiso ser consolada acerca de sus hijos, porque perecieron.",
+      "verse": 15,
+      "start_ms": 130537,
+      "end_ms": 141399,
+      "duration_ms": 10862
+    },
+    {
+      "word": "Así ha dicho Jehová: Reprime del llanto tu voz, y de las lágrimas tus ojos; porque salario hay para tu trabajo, dice Jehová, y volverán de la tierra del enemigo.",
+      "verse": 16,
+      "start_ms": 141400,
+      "end_ms": 151887,
+      "duration_ms": 10487
+    },
+    {
+      "word": "Esperanza hay también para tu porvenir, dice Jehová, y los hijos volverán a su propia tierra.",
+      "verse": 17,
+      "start_ms": 151887,
+      "end_ms": 158049,
+      "duration_ms": 6162
+    },
+    {
+      "word": "Escuchando, he oído a Efraín que se lamentaba: Me azotaste, y fui castigado como novillo indómito; conviérteme, y seré convertido, porque tú eres Jehová mi Dios.",
+      "verse": 18,
+      "start_ms": 158050,
+      "end_ms": 169200,
+      "duration_ms": 11150
+    },
+    {
+      "word": "Porque después que me aparté tuve arrepentimiento, y después que reconocí mi falta, herí mi muslo; me avergoncé y me confundí, porque llevé la afrenta de mi juventud.",
+      "verse": 19,
+      "start_ms": 169200,
+      "end_ms": 179350,
+      "duration_ms": 10150
+    },
+    {
+      "word": "No es Efraín hijo precioso para mí?",
+      "verse": 20,
+      "start_ms": 179350,
+      "end_ms": 182162,
+      "duration_ms": 2812
+    },
+    {
+      "word": "no es niño en quien me deleito? pues desde que hablé de él, me he acordado de él constantemente.",
+      "verse": 20,
+      "start_ms": 182162,
+      "end_ms": 188512,
+      "duration_ms": 6350
+    },
+    {
+      "word": "Por eso mis entrañas se conmovieron por él; ciertamente tendré de él misericordia, dice Jehová.",
+      "verse": 20,
+      "start_ms": 188512,
+      "end_ms": 194737,
+      "duration_ms": 6225
+    },
+    {
+      "word": "Establécete señales, ponte majanos altos, nota atentamente la calzada; vuélvete por el camino por donde fuiste, virgen de Israel, vuelve a estas tus ciudades.",
+      "verse": 21,
+      "start_ms": 194737,
+      "end_ms": 205487,
+      "duration_ms": 10750
+    },
+    {
+      "word": "Hasta cuándo andarás errante, oh hija contumaz?",
+      "verse": 22,
+      "start_ms": 205487,
+      "end_ms": 208924,
+      "duration_ms": 3437
+    },
+    {
+      "word": "Porque Jehová creará una cosa nueva sobre la tierra: la mujer rodeará al varón.",
+      "verse": 22,
+      "start_ms": 208925,
+      "end_ms": 214150,
+      "duration_ms": 5225
+    },
+    {
+      "word": "Así ha dicho Jehová de los ejércitos, Dios de Israel: Aún dirán esta palabra en la tierra de Judá y en sus ciudades, cuando yo haga volver sus cautivos: Jehová te bendiga, oh morada de justicia, oh monte santo.",
+      "verse": 23,
+      "start_ms": 214150,
+      "end_ms": 227087,
+      "duration_ms": 12937
+    },
+    {
+      "word": "Y habitará allí Judá, y también en todas sus ciudades labradores, y los que van con rebaño.",
+      "verse": 24,
+      "start_ms": 227087,
+      "end_ms": 233249,
+      "duration_ms": 6162
+    },
+    {
+      "word": "Porque satisfaré al alma cansada, y saciaré a toda alma entristecida.",
+      "verse": 25,
+      "start_ms": 233250,
+      "end_ms": 238400,
+      "duration_ms": 5150
+    },
+    {
+      "word": "En esto me desperté, y vi, y mi sueño me fue agradable.",
+      "verse": 26,
+      "start_ms": 238400,
+      "end_ms": 242837,
+      "duration_ms": 4437
+    },
+    {
+      "word": "El nuevo pacto He aquí vienen días, dice Jehová, en que sembraré la casa de Israel y la casa de Judá de simiente de hombre y de simiente de animal.",
+      "verse": 26,
+      "start_ms": 242837,
+      "end_ms": 251824,
+      "duration_ms": 8987
+    },
+    {
+      "word": "Y así como tuve cuidado de ellos para arrancar y derribar, y trastornar y perder y",
+      "verse": 28,
+      "start_ms": 251825,
+      "end_ms": 257350,
+      "duration_ms": 5525
+    },
+    {
+      "word": "afligir, tendré cuidado de ellos para edificar y plantar, dice Jehová.",
+      "verse": 28,
+      "start_ms": 257500,
+      "end_ms": 262762,
+      "duration_ms": 5262
+    },
+    {
+      "word": "En aquellos días no dirán más: Los padres comieron las uvas agrias y los dientes de los hijos tienen la dentera, sino que cada cual morirá por su propia maldad; los dientes de todo hombre que comiere las uvas agrias, tendrán la dentera.",
+      "verse": 29,
+      "start_ms": 262712,
+      "end_ms": 276337,
+      "duration_ms": 13625
+    },
+    {
+      "word": "He aquí que vienen días, dice Jehová, en los cuales haré nuevo pacto con la casa de Israel y con la casa de Judá.",
+      "verse": 31,
+      "start_ms": 276337,
+      "end_ms": 283524,
+      "duration_ms": 7187
+    },
+    {
+      "word": "No como el pacto que hice con sus padres el día que tomé su mano para sacarlos de la tierra de Egipto; porque ellos invalidaron mi pacto, aunque fui yo un marido para ellos, dice Jehová.",
+      "verse": 32,
+      "start_ms": 283525,
+      "end_ms": 294175,
+      "duration_ms": 10650
+    },
+    {
+      "word": "Pero éste es el pacto que haré con la casa de Israel después de aquellos días, dice Jehová: Daré mi ley en su mente, y la escribiré en su corazón; y yo seré a ellos por Dios, y ellos me serán por pueblo.",
+      "verse": 33,
+      "start_ms": 294175,
+      "end_ms": 306500,
+      "duration_ms": 12325
+    },
+    {
+      "word": "Y no enseñará más ninguno a su prójimo, ni ninguno a su hermano, diciendo: Conoce a Jehová; porque todos me conocerán, desde el más pequeño de ellos hasta el más grande, dice Jehová; porque perdonaré la maldad de ellos, y no me acordaré más de su pecado., Así ha dicho Jehová, que da el sol para luz del día, las leyes de la luna y de las estrellas para luz de la noche, que parte el mar, y braman sus ondas; Jehová de los ejércitos es su nombre: Si faltaren estas leyes delante de mí, dice Jehová,",
+      "verse": 34,
+      "start_ms": 306500,
+      "end_ms": 336475,
+      "duration_ms": 29975
+    },
+    {
+      "word": "también la descendencia de Israel faltará para no ser nación delante de mí eternamente.",
+      "verse": 36,
+      "start_ms": 336475,
+      "end_ms": 341775,
+      "duration_ms": 5300
+    },
+    {
+      "word": "Así ha dicho Jehová: Si los cielos arriba se pueden medir, y explorarse abajo los fundamentos de la tierra, también yo desecharé toda la descendencia de Israel por todo lo que hicieron, dice Jehová.",
+      "verse": 37,
+      "start_ms": 341775,
+      "end_ms": 353600,
+      "duration_ms": 11825
+    },
+    {
+      "word": "He aquí que vienen días, dice Jehová, en que la ciudad será edificada a Jehová, desde la torre de Hananeel hasta la puerta del Ángulo.",
+      "verse": 38,
+      "start_ms": 353600,
+      "end_ms": 362050,
+      "duration_ms": 8450
+    },
+    {
+      "word": "Y saldrá más allá el cordel de la medida delante de él sobre el collado de Gareb, y rodeará a Goa.",
+      "verse": 39,
+      "start_ms": 362050,
+      "end_ms": 368312,
+      "duration_ms": 6262
+    },
+    {
+      "word": "Y todo el valle de los cuerpos muertos y de la ceniza, y todas las llanuras hasta el arroyo de Cedrón, hasta la esquina de la puerta de los caballos al oriente, será santo a Jehová; no será arrancada ni destruida más para siempre.",
+      "verse": 40,
+      "start_ms": 368312,
+      "end_ms": 381712,
+      "duration_ms": 13400
+    }
+  ]
+}

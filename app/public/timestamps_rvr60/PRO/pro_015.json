@@ -1,0 +1,474 @@
+{
+  "book": "PRO",
+  "chapter": 15,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 33,
+  "word_count": 33,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 77,
+      "text": "La blanda respuesta quita la ira; Mas la palabra áspera hace subir el furor."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 77,
+      "char_end": 168,
+      "text": "La lengua de los sabios adornará la sabiduría; Mas la boca de los necios hablará sandeces."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 168,
+      "char_end": 244,
+      "text": "Los ojos de Jehová están en todo lugar, Mirando a los malos y a los buenos."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 244,
+      "char_end": 340,
+      "text": "La lengua apacible es árbol de vida; Mas la perversidad de ella es quebrantamiento de espíritu."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 340,
+      "char_end": 440,
+      "text": "El necio menosprecia el consejo de su padre; Mas el que guarda la corrección vendrá a ser prudente."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 440,
+      "char_end": 524,
+      "text": "En la casa del justo hay gran provisión; Pero turbación en las ganancias del impío."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 524,
+      "char_end": 598,
+      "text": "La boca de los sabios esparce sabiduría; No así el corazón de los necios."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 598,
+      "char_end": 692,
+      "text": "El sacrificio de los impíos es abominación a Jehová; Mas la oración de los rectos es su gozo."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 692,
+      "char_end": 771,
+      "text": "Abominación es a Jehová el camino del impío; Mas él ama al que sigue justicia."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 771,
+      "char_end": 861,
+      "text": "La reconvención es molesta al que deja el camino; Y el que aborrece la corrección morirá."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 861,
+      "char_end": 948,
+      "text": "El Seol y el Abadón están delante de Jehová; ¡Cuánto más los corazones de los hombres!"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 948,
+      "char_end": 1019,
+      "text": "El escarnecedor no ama al que le reprende, Ni se junta con los sabios."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1019,
+      "char_end": 1108,
+      "text": "El corazón alegre hermosea el rostro; Mas por el dolor del corazón el espíritu se abate."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1108,
+      "char_end": 1201,
+      "text": "El corazón entendido busca la sabiduría; Mas la boca de los necios se alimenta de necedades."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1201,
+      "char_end": 1299,
+      "text": "Todos los días del afligido son difíciles; Mas el de corazón contento tiene un banquete continuo."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1299,
+      "char_end": 1380,
+      "text": "Mejor es lo poco con el temor de Jehová, Que el gran tesoro donde hay turbación."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1380,
+      "char_end": 1466,
+      "text": "Mejor es la comida de legumbres donde hay amor, Que de buey engordado donde hay odio."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1466,
+      "char_end": 1556,
+      "text": "El hombre iracundo promueve contiendas; Mas el que tarda en airarse apacigua la rencilla."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1556,
+      "char_end": 1651,
+      "text": "El camino del perezoso es como seto de espinos; Mas la vereda de los rectos, como una calzada."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1651,
+      "char_end": 1726,
+      "text": "El hijo sabio alegra al padre; Mas el hombre necio menosprecia a su madre."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1726,
+      "char_end": 1819,
+      "text": "La necedad es alegría al falto de entendimiento; Mas el hombre entendido endereza sus pasos."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1819,
+      "char_end": 1918,
+      "text": "Los pensamientos son frustrados donde no hay consejo; Mas en la multitud de consejeros se afirman."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1918,
+      "char_end": 2009,
+      "text": "El hombre se alegra con la respuesta de su boca; Y la palabra a su tiempo, ¡cuán buena es!"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2009,
+      "char_end": 2091,
+      "text": "El camino de la vida es hacia arriba al entendido, Para apartarse del Seol abajo."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2091,
+      "char_end": 2170,
+      "text": "Jehová asolará la casa de los soberbios; Pero afirmará la heredad de la viuda."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2170,
+      "char_end": 2270,
+      "text": "Abominación son a Jehová los pensamientos del malo; Mas las expresiones de los limpios son limpias."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2270,
+      "char_end": 2340,
+      "text": "Alborota su casa el codicioso; Mas el que aborrece el soborno vivirá."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2340,
+      "char_end": 2431,
+      "text": "El corazón del justo piensa para responder; Mas la boca de los impíos derrama malas cosas."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2431,
+      "char_end": 2502,
+      "text": "Jehová está lejos de los impíos; Pero él oye la oración de los justos."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2502,
+      "char_end": 2578,
+      "text": "La luz de los ojos alegra el corazón, Y la buena nueva conforta los huesos."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2578,
+      "char_end": 2654,
+      "text": "El oído que escucha las amonestaciones de la vida, Entre los sabios morará."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2654,
+      "char_end": 2764,
+      "text": "El que tiene en poco la disciplina menosprecia su alma; Mas el que escucha la corrección tiene entendimiento."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 2764,
+      "char_end": 2844,
+      "text": "El temor de Jehová es enseñanza de sabiduría; Y a la honra precede la humildad."
+    }
+  ],
+  "words": [
+    {
+      "word": "La blanda respuesta quita la ira; Mas la palabra áspera hace subir el furor.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5425,
+      "duration_ms": 5325
+    },
+    {
+      "word": "La lengua de los sabios adornará la sabiduría; Mas la boca de los necios hablará sandeces.",
+      "verse": 2,
+      "start_ms": 5375,
+      "end_ms": 11625,
+      "duration_ms": 6250
+    },
+    {
+      "word": "Los ojos de Jehová están en todo lugar, Mirando a los malos y a los buenos.",
+      "verse": 3,
+      "start_ms": 11625,
+      "end_ms": 16725,
+      "duration_ms": 5100
+    },
+    {
+      "word": "La lengua apacible es árbol de vida; Mas la perversidad de ella es quebrantamiento de espíritu.",
+      "verse": 4,
+      "start_ms": 16725,
+      "end_ms": 22950,
+      "duration_ms": 6225
+    },
+    {
+      "word": "El necio menosprecia el consejo de su padre; Mas el que guarda la corrección vendrá a ser prudente.",
+      "verse": 5,
+      "start_ms": 22950,
+      "end_ms": 28975,
+      "duration_ms": 6025
+    },
+    {
+      "word": "En la casa del justo hay gran provisión; Pero turbación en las ganancias del impío.",
+      "verse": 6,
+      "start_ms": 28975,
+      "end_ms": 34212,
+      "duration_ms": 5237
+    },
+    {
+      "word": "La boca de los sabios esparce sabiduría; No así el corazón de los necios.",
+      "verse": 7,
+      "start_ms": 34212,
+      "end_ms": 39612,
+      "duration_ms": 5400
+    },
+    {
+      "word": "El sacrificio de los impíos es abominación a Jehová; Mas la oración de los rectos es su gozo.",
+      "verse": 8,
+      "start_ms": 39612,
+      "end_ms": 45562,
+      "duration_ms": 5950
+    },
+    {
+      "word": "Abominación es a Jehová el camino del impío; Mas él ama al que sigue justicia.",
+      "verse": 9,
+      "start_ms": 45562,
+      "end_ms": 50987,
+      "duration_ms": 5425
+    },
+    {
+      "word": "La reconvención es molesta al que deja el camino; Y el que aborrece la corrección morirá.",
+      "verse": 10,
+      "start_ms": 50987,
+      "end_ms": 56587,
+      "duration_ms": 5600
+    },
+    {
+      "word": "El Seol y el Abadón están delante de Jehová; ¡Cuánto más los corazones de los hombres!",
+      "verse": 11,
+      "start_ms": 56587,
+      "end_ms": 62099,
+      "duration_ms": 5512
+    },
+    {
+      "word": "El escarnecedor no ama al que le reprende, Ni se junta con los sabios.",
+      "verse": 12,
+      "start_ms": 62100,
+      "end_ms": 67025,
+      "duration_ms": 4925
+    },
+    {
+      "word": "El corazón alegre hermosea el rostro; Mas por el dolor del corazón el espíritu se abate.",
+      "verse": 13,
+      "start_ms": 67025,
+      "end_ms": 72912,
+      "duration_ms": 5887
+    },
+    {
+      "word": "El corazón entendido busca la sabiduría; Mas la boca de los necios se alimenta de necedades.",
+      "verse": 14,
+      "start_ms": 72912,
+      "end_ms": 79137,
+      "duration_ms": 6225
+    },
+    {
+      "word": "Todos los días del afligido son difíciles; Mas el de corazón contento tiene un banquete continuo.",
+      "verse": 15,
+      "start_ms": 79137,
+      "end_ms": 85424,
+      "duration_ms": 6287
+    },
+    {
+      "word": "Mejor es lo poco con el temor de Jehová, Que el gran tesoro donde hay turbación.",
+      "verse": 16,
+      "start_ms": 85425,
+      "end_ms": 90612,
+      "duration_ms": 5187
+    },
+    {
+      "word": "Mejor es la comida de legumbres donde hay amor, Que de buey engordado donde hay odio.",
+      "verse": 17,
+      "start_ms": 90612,
+      "end_ms": 96024,
+      "duration_ms": 5412
+    },
+    {
+      "word": "El hombre iracundo promueve contiendas; Mas el que tarda en airarse apacigua la rencilla.",
+      "verse": 18,
+      "start_ms": 96025,
+      "end_ms": 101950,
+      "duration_ms": 5925
+    },
+    {
+      "word": "El camino del perezoso es como seto de espinos; Mas la vereda de los rectos, como una calzada.",
+      "verse": 19,
+      "start_ms": 101950,
+      "end_ms": 108550,
+      "duration_ms": 6600
+    },
+    {
+      "word": "El hijo sabio alegra al padre; Mas el hombre necio menosprecia a su madre.",
+      "verse": 20,
+      "start_ms": 108550,
+      "end_ms": 113700,
+      "duration_ms": 5150
+    },
+    {
+      "word": "La necedad es alegría al falto de entendimiento; Mas el hombre entendido endereza sus pasos.",
+      "verse": 21,
+      "start_ms": 113700,
+      "end_ms": 119850,
+      "duration_ms": 6150
+    },
+    {
+      "word": "Los pensamientos son frustrados donde no hay consejo; Mas en la multitud de consejeros se afirman.",
+      "verse": 22,
+      "start_ms": 119850,
+      "end_ms": 125950,
+      "duration_ms": 6100
+    },
+    {
+      "word": "El hombre se alegra con la respuesta de su boca; Y la palabra a su tiempo, ¡cuán buena es!",
+      "verse": 23,
+      "start_ms": 125950,
+      "end_ms": 131587,
+      "duration_ms": 5637
+    },
+    {
+      "word": "El camino de la vida es hacia arriba al entendido, Para apartarse del Seol abajo.",
+      "verse": 24,
+      "start_ms": 131587,
+      "end_ms": 136999,
+      "duration_ms": 5412
+    },
+    {
+      "word": "Jehová asolará la casa de los soberbios; Pero afirmará la heredad de la viuda.",
+      "verse": 25,
+      "start_ms": 137000,
+      "end_ms": 142162,
+      "duration_ms": 5162
+    },
+    {
+      "word": "Abominación son a Jehová los pensamientos del malo; Mas las expresiones de los limpios son limpias.",
+      "verse": 26,
+      "start_ms": 142162,
+      "end_ms": 148462,
+      "duration_ms": 6300
+    },
+    {
+      "word": "Alborota su casa el codicioso; Mas el que aborrece el soborno vivirá.",
+      "verse": 27,
+      "start_ms": 148462,
+      "end_ms": 153487,
+      "duration_ms": 5025
+    },
+    {
+      "word": "El corazón del justo piensa para responder; Mas la boca de los impíos derrama malas cosas.",
+      "verse": 28,
+      "start_ms": 153487,
+      "end_ms": 159649,
+      "duration_ms": 6162
+    },
+    {
+      "word": "Jehová está lejos de los impíos; Pero él oye la oración de los justos.",
+      "verse": 29,
+      "start_ms": 159650,
+      "end_ms": 164662,
+      "duration_ms": 5012
+    },
+    {
+      "word": "La luz de los ojos alegra el corazón, Y la buena nueva conforta los huesos.",
+      "verse": 30,
+      "start_ms": 164662,
+      "end_ms": 169987,
+      "duration_ms": 5325
+    },
+    {
+      "word": "El oído que escucha las amonestaciones de la vida, Entre los sabios morará.",
+      "verse": 31,
+      "start_ms": 169987,
+      "end_ms": 174837,
+      "duration_ms": 4850
+    },
+    {
+      "word": "El que tiene en poco la disciplina menosprecia su alma; Mas el que escucha la corrección tiene entendimiento.",
+      "verse": 32,
+      "start_ms": 174837,
+      "end_ms": 181162,
+      "duration_ms": 6325
+    },
+    {
+      "word": "El temor de Jehová es enseñanza de sabiduría; Y a la honra precede la humildad.",
+      "verse": 33,
+      "start_ms": 181162,
+      "end_ms": 186599,
+      "duration_ms": 5437
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "book": "SAL",
+  "chapter": 14,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 7,
+  "word_count": 9,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 113,
+      "text": "Dice el necio en su corazón: No hay Dios. Se han corrompido, hacen obras abominables; No hay quien haga el bien."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 113,
+      "char_end": 229,
+      "text": "Jehová miró desde los cielos sobre los hijos de los hombres, Para ver si había algún entendido, Que buscara a Dios."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 229,
+      "char_end": 326,
+      "text": "Todos se desviaron, a una se han corrompido; No hay quien haga lo bueno, no hay ni siquiera uno."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 326,
+      "char_end": 452,
+      "text": "¿No tienen discernimiento todos los que hacen iniquidad, Que devoran a mi pueblo como si comiesen pan, Y a Jehová no invocan?"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 452,
+      "char_end": 530,
+      "text": "Ellos temblaron de espanto; Porque Dios está con la generación de los justos."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 530,
+      "char_end": 597,
+      "text": "Del consejo del pobre se han burlado, Pero Jehová es su esperanza."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 597,
+      "char_end": 743,
+      "text": "¡Oh, que de Sion saliera la salvación de Israel! Cuando Jehová hiciere volver a los cautivos de su pueblo, Se gozará Jacob, y se alegrará Israel."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dice el necio en su corazón: No hay Dios.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3750,
+      "duration_ms": 3650
+    },
+    {
+      "word": "Se han corrompido, hacen obras abominables; No hay quien haga el bien.",
+      "verse": 1,
+      "start_ms": 3700,
+      "end_ms": 8712,
+      "duration_ms": 5012
+    },
+    {
+      "word": "Jehová miró desde los cielos sobre los hijos de los hombres, Para ver si había algún entendido, Que buscara a Dios.",
+      "verse": 2,
+      "start_ms": 8712,
+      "end_ms": 15724,
+      "duration_ms": 7012
+    },
+    {
+      "word": "Todos se desviaron, a una se han corrompido; No hay quien haga lo bueno, no hay ni siquiera uno.",
+      "verse": 3,
+      "start_ms": 15725,
+      "end_ms": 22100,
+      "duration_ms": 6375
+    },
+    {
+      "word": "No tienen discernimiento todos los que hacen iniquidad, Que devoran a mi pueblo como si comiesen pan, Y a Jehová no invocan?",
+      "verse": 4,
+      "start_ms": 22100,
+      "end_ms": 30150,
+      "duration_ms": 8050
+    },
+    {
+      "word": "Ellos temblaron de espanto; Porque Dios está con la generación de los justos.",
+      "verse": 5,
+      "start_ms": 30150,
+      "end_ms": 35312,
+      "duration_ms": 5162
+    },
+    {
+      "word": "Del consejo del pobre se han burlado, Pero Jehová es su esperanza.",
+      "verse": 6,
+      "start_ms": 35312,
+      "end_ms": 39837,
+      "duration_ms": 4525
+    },
+    {
+      "word": "Oh, que de Sion saliera la salvación de Israel!",
+      "verse": 7,
+      "start_ms": 39837,
+      "end_ms": 43374,
+      "duration_ms": 3537
+    },
+    {
+      "word": "Cuando Jehová hiciere volver a los cautivos de su pueblo, Se gozará Jacob, y se alegrará Israel.",
+      "verse": 7,
+      "start_ms": 43375,
+      "end_ms": 49562,
+      "duration_ms": 6187
+    }
+  ]
+}

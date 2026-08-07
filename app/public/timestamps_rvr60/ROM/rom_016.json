@@ -1,0 +1,425 @@
+{
+  "book": "ROM",
+  "chapter": 16,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 33,
+  "word_count": 26,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 113,
+      "text": "Así que, los que somos fuertes debemos soportar las flaquezas de los débiles, y no agradarnos a nosotros mismos."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 113,
+      "char_end": 192,
+      "text": "Cada uno de nosotros agrade a su prójimo en lo que es bueno, para edificación."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 192,
+      "char_end": 326,
+      "text": "Porque ni aun Cristo se agradó a sí mismo; antes bien, como está escrito: Los vituperios de los que te vituperaban, cayeron sobre mí."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 326,
+      "char_end": 494,
+      "text": "Porque las cosas que se escribieron antes, para nuestra enseñanza se escribieron, a fin de que por la paciencia y la consolación de las Escrituras, tengamos esperanza."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 494,
+      "char_end": 600,
+      "text": "Pero el Dios de la paciencia y de la consolación os dé entre vosotros un mismo sentir según Cristo Jesús,"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 600,
+      "char_end": 716,
+      "text": "para que unánimes, a una voz, glorifiquéis al Dios y Padre de nuestro Señor Jesucristo. El evangelio a los gentiles"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 716,
+      "char_end": 812,
+      "text": "Por tanto, recibíos los unos a los otros, como también Cristo nos recibió, para gloria de Dios."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 812,
+      "char_end": 961,
+      "text": "Pues os digo, que Cristo Jesús vino a ser siervo de la circuncisión para mostrar la verdad de Dios, para confirmar las promesas hechas a los padres,"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 961,
+      "char_end": 1114,
+      "text": "y para que los gentiles glorifiquen a Dios por su misericordia, como está escrito: Por tanto, yo te confesaré entre los gentiles, Y cantaré a tu nombre."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1114,
+      "char_end": 1166,
+      "text": "Y otra vez dice: Alegraos, gentiles, con su pueblo."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1166,
+      "char_end": 1248,
+      "text": "Y otra vez: Alabad al Señor todos los gentiles, Y magnificadle todos los pueblos."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1248,
+      "char_end": 1370,
+      "text": "Y otra vez dice Isaías: Estará la raíz de Isaí, Y el que se levantará a regir los gentiles; Los gentiles esperarán en él."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1370,
+      "char_end": 1498,
+      "text": "Y el Dios de esperanza os llene de todo gozo y paz en el creer, para que abundéis en esperanza por el poder del Espíritu Santo."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1498,
+      "char_end": 1680,
+      "text": "Pero estoy seguro de vosotros, hermanos míos, de que vosotros mismos estáis llenos de bondad, llenos de todo conocimiento, de tal manera que podéis amonestaros los unos a los otros."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1680,
+      "char_end": 1801,
+      "text": "Mas os he escrito, hermanos, en parte con atrevimiento, como para haceros recordar, por la gracia que de Dios me es dada"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1801,
+      "char_end": 1967,
+      "text": "para ser ministro de Jesucristo a los gentiles, ministrando el evangelio de Dios, para que los gentiles le sean ofrenda agradable, santificada por el Espíritu Santo."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1967,
+      "char_end": 2042,
+      "text": "Tengo, pues, de qué gloriarme en Cristo Jesús en lo que a Dios se refiere."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2042,
+      "char_end": 2181,
+      "text": "Porque no osaría hablar sino de lo que Cristo ha hecho por medio de mí para la obediencia de los gentiles, con la palabra y con las obras,"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2181,
+      "char_end": 2364,
+      "text": "con potencia de señales y prodigios, en el poder del Espíritu de Dios; de manera que desde Jerusalén, y por los alrededores hasta Ilírico, todo lo he llenado del evangelio de Cristo."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2364,
+      "char_end": 2500,
+      "text": "Y de esta manera me esforcé a predicar el evangelio, no donde Cristo ya hubiese sido nombrado, para no edificar sobre fundamento ajeno,"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2500,
+      "char_end": 2660,
+      "text": "sino, como está escrito: Aquellos a quienes nunca les fue anunciado acerca de él, verán; Y los que nunca han oído de él, entenderán. Pablo se propone ir a Roma"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2660,
+      "char_end": 2727,
+      "text": "Por esta causa me he visto impedido muchas veces de ir a vosotros."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2727,
+      "char_end": 2829,
+      "text": "Pero ahora, no teniendo más campo en estas regiones, y deseando desde hace muchos años ir a vosotros,"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2829,
+      "char_end": 2971,
+      "text": "cuando vaya a España, iré a vosotros; porque espero veros al pasar, y ser encaminado allá por vosotros, una vez que haya gozado con vosotros."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2971,
+      "char_end": 3026,
+      "text": "Mas ahora voy a Jerusalén para ministrar a los santos."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3026,
+      "char_end": 3150,
+      "text": "Porque Macedonia y Acaya tuvieron a bien hacer una ofrenda para los pobres que hay entre los santos que están en Jerusalén."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3150,
+      "char_end": 3331,
+      "text": "Pues les pareció bueno, y son deudores a ellos; porque si los gentiles han sido hechos participantes de sus bienes espirituales, deben también ellos ministrarles de los materiales."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3331,
+      "char_end": 3439,
+      "text": "Así que, cuando haya concluido esto, y les haya entregado este fruto, pasaré entre vosotros rumbo a España."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3439,
+      "char_end": 3536,
+      "text": "Y sé que cuando vaya a vosotros, llegaré con abundancia de la bendición del evangelio de Cristo."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3536,
+      "char_end": 3655,
+      "text": "Pero os ruego, hermanos, por nuestro Señor Jesucristo y por el amor del Espíritu, que me ayudéis orando por mí a Dios,"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3655,
+      "char_end": 3782,
+      "text": "para que sea librado de los rebeldes que están en Judea, y que la ofrenda de mi servicio a los santos en Jerusalén sea acepta;"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3782,
+      "char_end": 3887,
+      "text": "para que con gozo llegue a vosotros por la voluntad de Dios, y que sea recreado juntamente con vosotros."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3887,
+      "char_end": 3934,
+      "text": "Y el Dios de paz sea con todos vosotros. Amén."
+    }
+  ],
+  "words": [
+    {
+      "word": "Así que, los que somos fuertes debemos soportar las flaquezas de los débiles, y no agradarnos a nosotros mismos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7362,
+      "duration_ms": 7262
+    },
+    {
+      "word": "Cada uno de nosotros agrade a su prójimo en lo que es bueno, para edificación.",
+      "verse": 2,
+      "start_ms": 7312,
+      "end_ms": 12374,
+      "duration_ms": 5062
+    },
+    {
+      "word": "Porque ni aun Cristo se agradó a sí mismo; antes bien, como está escrito: Los vituperios de los que te vituperaban, cayeron sobre mí.",
+      "verse": 3,
+      "start_ms": 12375,
+      "end_ms": 20850,
+      "duration_ms": 8475
+    },
+    {
+      "word": "Porque las cosas que se escribieron antes, para nuestra enseñanza se escribieron, a fin de que por la paciencia y la consolación de las Escrituras, tengamos esperanza.",
+      "verse": 4,
+      "start_ms": 20850,
+      "end_ms": 30225,
+      "duration_ms": 9375
+    },
+    {
+      "word": "Pero el Dios de la paciencia y de la consolación os dé entre vosotros un mismo sentir según Cristo Jesús, para que unánimes, a una voz, glorifiquéis al Dios y Padre de nuestro Señor Jesucristo.",
+      "verse": 5,
+      "start_ms": 30225,
+      "end_ms": 41625,
+      "duration_ms": 11400
+    },
+    {
+      "word": "El evangelio a los gentiles Por tanto, recibíos los unos a los otros, como también Cristo nos recibió, para gloria de Dios.",
+      "verse": 6,
+      "start_ms": 41625,
+      "end_ms": 49737,
+      "duration_ms": 8112
+    },
+    {
+      "word": "Pues os digo, que Cristo Jesús vino a ser siervo de la circuncisión para mostrar la verdad de Dios, para confirmar las promesas hechas a los padres, y para que los gentiles glorifiquen a Dios por su misericordia, como está escrito: Por tanto, yo te confesaré entre los gentiles, Y cantaré a tu nombre.",
+      "verse": 8,
+      "start_ms": 49737,
+      "end_ms": 67224,
+      "duration_ms": 17487
+    },
+    {
+      "word": "Y otra vez dice: Alegraos, gentiles, con su pueblo.",
+      "verse": 10,
+      "start_ms": 67225,
+      "end_ms": 71850,
+      "duration_ms": 4625
+    },
+    {
+      "word": "Y otra vez: Alabad al Señor todos los gentiles, Y magnificadle todos los pueblos.",
+      "verse": 11,
+      "start_ms": 71850,
+      "end_ms": 78100,
+      "duration_ms": 6250
+    },
+    {
+      "word": "Y otra vez dice Isaías: Estará la raíz de Isaí, Y el que se levantará a regir los gentiles; Los gentiles esperarán en él.",
+      "verse": 12,
+      "start_ms": 78100,
+      "end_ms": 86425,
+      "duration_ms": 8325
+    },
+    {
+      "word": "Y el Dios de esperanza os llene de todo gozo y paz en el creer, para que abundéis en esperanza por el poder del Espíritu Santo.",
+      "verse": 13,
+      "start_ms": 86425,
+      "end_ms": 94125,
+      "duration_ms": 7700
+    },
+    {
+      "word": "Pero estoy seguro de vosotros, hermanos míos, de que vosotros mismos estáis llenos de bondad, llenos de todo conocimiento, de tal manera que podéis amonestaros los unos a los otros.",
+      "verse": 14,
+      "start_ms": 94125,
+      "end_ms": 105375,
+      "duration_ms": 11250
+    },
+    {
+      "word": "Mas os he escrito, hermanos, en parte con atrevimiento, como para haceros recordar, por la gracia que de Dios me es dada para ser ministro de Jesucristo a los gentiles, ministrando el evangelio de Dios, para que los gentiles le sean ofrenda agradable, santificada por el Espíritu Santo.",
+      "verse": 15,
+      "start_ms": 105375,
+      "end_ms": 122612,
+      "duration_ms": 17237
+    },
+    {
+      "word": "Tengo, pues, de qué gloriarme en Cristo Jesús en lo que a Dios se refiere.",
+      "verse": 17,
+      "start_ms": 122612,
+      "end_ms": 127687,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Porque no osaría hablar sino de lo que Cristo ha hecho por medio de mí para la obediencia de los gentiles, con la palabra y con las obras, con potencia de señales y prodigios, en el poder del Espíritu de Dios; de manera que desde Jerusalén, y por los alrededores hasta Ilírico, todo lo he llenado del evangelio de Cristo.",
+      "verse": 18,
+      "start_ms": 127687,
+      "end_ms": 146049,
+      "duration_ms": 18362
+    },
+    {
+      "word": "Y de esta manera me esforcé a predicar el evangelio, no donde Cristo ya hubiese sido nombrado, para no edificar sobre fundamento ajeno, sino, como está escrito: Aquellos a quienes nunca les fue anunciado acerca de él, verán; Y los que nunca han oído de él, entenderán.",
+      "verse": 20,
+      "start_ms": 146050,
+      "end_ms": 162725,
+      "duration_ms": 16675
+    },
+    {
+      "word": "Pablo se propone ir a Roma Por esta causa me he visto impedido muchas veces de ir a vosotros.",
+      "verse": 21,
+      "start_ms": 162725,
+      "end_ms": 168575,
+      "duration_ms": 5850
+    },
+    {
+      "word": "Pero ahora, no teniendo más campo en estas regiones, y deseando desde hace muchos años ir a vosotros, cuando vaya a España, iré a vosotros; porque espero veros al pasar, y ser encaminado allá por vosotros, una vez que haya gozado con vosotros.",
+      "verse": 23,
+      "start_ms": 168575,
+      "end_ms": 184075,
+      "duration_ms": 15500
+    },
+    {
+      "word": "Mas ahora voy a Jerusalén para ministrar a los santos.",
+      "verse": 25,
+      "start_ms": 184075,
+      "end_ms": 187987,
+      "duration_ms": 3912
+    },
+    {
+      "word": "Porque Macedonia y Acaya tuvieron a bien hacer una ofrenda para los pobres que hay entre los santos que están en Jerusalén.",
+      "verse": 26,
+      "start_ms": 187987,
+      "end_ms": 194549,
+      "duration_ms": 6562
+    },
+    {
+      "word": "Pues les pareció bueno, y son deudores a ellos; porque si los gentiles han sido hechos participantes de sus bienes espirituales, deben también ellos ministrarles de los materiales.",
+      "verse": 27,
+      "start_ms": 194550,
+      "end_ms": 205200,
+      "duration_ms": 10650
+    },
+    {
+      "word": "Así que, cuando haya concluido esto, y les haya entregado este fruto, pasaré entre vosotros rumbo a España.",
+      "verse": 28,
+      "start_ms": 205200,
+      "end_ms": 212487,
+      "duration_ms": 7287
+    },
+    {
+      "word": "Y sé que cuando vaya a vosotros, llegaré con abundancia de la bendición del evangelio de Cristo.",
+      "verse": 29,
+      "start_ms": 212487,
+      "end_ms": 218362,
+      "duration_ms": 5875
+    },
+    {
+      "word": "Pero os ruego, hermanos, por nuestro Señor Jesucristo y por el amor del Espíritu, que me ayudéis orando por mí a Dios, para que sea librado de los rebeldes que están en Judea, y que la ofrenda de mi servicio a los santos en Jerusalén sea acepta; para que con gozo llegue a vosotros por la voluntad de Dios, y que sea recreado juntamente con vosotros.",
+      "verse": 30,
+      "start_ms": 218362,
+      "end_ms": 238224,
+      "duration_ms": 19862
+    },
+    {
+      "word": "Y el Dios de paz sea con todos vosotros.",
+      "verse": 33,
+      "start_ms": 238225,
+      "end_ms": 241525,
+      "duration_ms": 3300
+    },
+    {
+      "word": "Amén.",
+      "verse": 33,
+      "start_ms": 241525,
+      "end_ms": 242925,
+      "duration_ms": 1400
+    }
+  ]
+}

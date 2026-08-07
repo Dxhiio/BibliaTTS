@@ -1,0 +1,782 @@
+{
+  "book": "LUC",
+  "chapter": 12,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 54,
+  "word_count": 56,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 164,
+      "text": "Aconteció que estaba Jesús orando en un lugar, y cuando terminó, uno de sus discípulos le dijo: Señor, enséñanos a orar, como también Juan enseñó a sus discípulos."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 164,
+      "char_end": 343,
+      "text": "Y les dijo: Cuando oréis, decid: Padre nuestro que estás en los cielos, santificado sea tu nombre. Venga tu reino. Hágase tu voluntad, como en el cielo, así también en la tierra."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 343,
+      "char_end": 384,
+      "text": "El pan nuestro de cada día, dánoslo hoy."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 384,
+      "char_end": 528,
+      "text": "Y perdónanos nuestros pecados, porque también nosotros perdonamos a todos los que nos deben. Y no nos metas en tentación, mas líbranos del mal."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 528,
+      "char_end": 645,
+      "text": "Les dijo también: ¿Quién de vosotros que tenga un amigo, va a él a medianoche y le dice: Amigo, préstame tres panes,"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 645,
+      "char_end": 722,
+      "text": "porque un amigo mío ha venido a mí de viaje, y no tengo qué ponerle delante;"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 722,
+      "char_end": 879,
+      "text": "y aquél, respondiendo desde adentro, le dice: No me molestes; la puerta ya está cerrada, y mis niños están conmigo en cama; no puedo levantarme, y dártelos?"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 879,
+      "char_end": 1019,
+      "text": "Os digo, que aunque no se levante a dárselos por ser su amigo, sin embargo por su importunidad se levantará y le dará todo lo que necesite."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1019,
+      "char_end": 1099,
+      "text": "Y yo os digo: Pedid, y se os dará; buscad, y hallaréis; llamad, y se os abrirá."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1099,
+      "char_end": 1188,
+      "text": "Porque todo aquel que pide, recibe; y el que busca, halla; y al que llama, se le abrirá."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1188,
+      "char_end": 1315,
+      "text": "¿Qué padre de vosotros, si su hijo le pide pan, le dará una piedra? ¿o si pescado, en lugar de pescado, le dará una serpiente?"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1315,
+      "char_end": 1361,
+      "text": "¿O si le pide un huevo, le dará un escorpión?"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1361,
+      "char_end": 1579,
+      "text": "Pues si vosotros, siendo malos, sabéis dar buenas dádivas a vuestros hijos, ¿cuánto más vuestro Padre celestial dará el Espíritu Santo a los que se lo pidan? Una casa dividida contra sí misma (Mt 12.22–30; Mc 3.20–27)"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1579,
+      "char_end": 1707,
+      "text": "Estaba Jesús echando fuera un demonio, que era mudo; y aconteció que salido el demonio, el mudo habló; y la gente se maravilló."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1707,
+      "char_end": 1802,
+      "text": "Pero algunos de ellos decían: Por Beelzebú, príncipe de los demonios, echa fuera los demonios."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1802,
+      "char_end": 1851,
+      "text": "Otros, para tentarle, le pedían señal del cielo."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1851,
+      "char_end": 1998,
+      "text": "Mas él, conociendo los pensamientos de ellos, les dijo: Todo reino dividido contra sí mismo, es asolado; y una casa dividida contra sí misma, cae."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1998,
+      "char_end": 2136,
+      "text": "Y si también Satanás está dividido contra sí mismo, ¿cómo permanecerá su reino? ya que decís que por Beelzebú echo yo fuera los demonios."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2136,
+      "char_end": 2262,
+      "text": "Pues si yo echo fuera los demonios por Beelzebú, ¿vuestros hijos por quién los echan? Por tanto, ellos serán vuestros jueces."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2262,
+      "char_end": 2369,
+      "text": "Mas si por el dedo de Dios echo yo fuera los demonios, ciertamente el reino de Dios ha llegado a vosotros."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2369,
+      "char_end": 2445,
+      "text": "Cuando el hombre fuerte armado guarda su palacio, en paz está lo que posee."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2445,
+      "char_end": 2560,
+      "text": "Pero cuando viene otro más fuerte que él y le vence, le quita todas sus armas en que confiaba, y reparte el botín."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2560,
+      "char_end": 2681,
+      "text": "El que no es conmigo, contra mí es; y el que conmigo no recoge, desparrama. El espíritu inmundo que vuelve (Mt 12.43–45)"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2681,
+      "char_end": 2822,
+      "text": "Cuando el espíritu inmundo sale del hombre, anda por lugares secos, buscando reposo; y no hallándolo, dice: Volveré a mi casa de donde salí."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2822,
+      "char_end": 2867,
+      "text": "Y cuando llega, la halla barrida y adornada."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2867,
+      "char_end": 3055,
+      "text": "Entonces va, y toma otros siete espíritus peores que él; y entrados, moran allí; y el postrer estado de aquel hombre viene a ser peor que el primero. Los que en verdad son bienaventurados"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3055,
+      "char_end": 3208,
+      "text": "Mientras él decía estas cosas, una mujer de entre la multitud levantó la voz y le dijo: Bienaventurado el vientre que te trajo, y los senos que mamaste."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3208,
+      "char_end": 3339,
+      "text": "Y él dijo: Antes bienaventurados los que oyen la palabra de Dios, y la guardan. La generación perversa demanda señal (Mt 12.38–42)"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3339,
+      "char_end": 3477,
+      "text": "Y apiñándose las multitudes, comenzó a decir: Esta generación es mala; demanda señal, pero señal no le será dada, sino la señal de Jonás."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3477,
+      "char_end": 3580,
+      "text": "Porque así como Jonás fue señal a los ninivitas, también lo será el Hijo del Hombre a esta generación."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3580,
+      "char_end": 3794,
+      "text": "La reina del Sur se levantará en el juicio con los hombres de esta generación, y los condenará; porque ella vino de los fines de la tierra para oír la sabiduría de Salomón, y he aquí más que Salomón en este lugar."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3794,
+      "char_end": 4006,
+      "text": "Los hombres de Nínive se levantarán en el juicio con esta generación, y la condenarán; porque a la predicación de Jonás se arrepintieron, y he aquí más que Jonás en este lugar. La lámpara del cuerpo (Mt 6.22–23)"
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4006,
+      "char_end": 4125,
+      "text": "Nadie pone en oculto la luz encendida, ni debajo del almud, sino en el candelero, para que los que entran vean la luz."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4125,
+      "char_end": 4292,
+      "text": "La lámpara del cuerpo es el ojo; cuando tu ojo es bueno, también todo tu cuerpo está lleno de luz; pero cuando tu ojo es maligno, también tu cuerpo está en tinieblas."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4292,
+      "char_end": 4354,
+      "text": "Mira pues, no suceda que la luz que en ti hay, sea tinieblas."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4354,
+      "char_end": 4601,
+      "text": "Así que, si todo tu cuerpo está lleno de luz, no teniendo parte alguna de tinieblas, será todo luminoso, como cuando una lámpara te alumbra con su resplandor. Jesús acusa a fariseos y a intérpretes de la ley (Mt 23.1–36; Mc 12.38–40; Lc 20.45–47)"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4601,
+      "char_end": 4713,
+      "text": "Luego que hubo hablado, le rogó un fariseo que comiese con él; y entrando Jesús en la casa, se sentó a la mesa."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4713,
+      "char_end": 4795,
+      "text": "El fariseo, cuando lo vio, se extrañó de que no se hubiese lavado antes de comer."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4795,
+      "char_end": 4951,
+      "text": "Pero el Señor le dijo: Ahora bien, vosotros los fariseos limpiáis lo de fuera del vaso y del plato, pero por dentro estáis llenos de rapacidad y de maldad."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4951,
+      "char_end": 5016,
+      "text": "Necios, ¿el que hizo lo de fuera, no hizo también lo de adentro?"
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 5016,
+      "char_end": 5083,
+      "text": "Pero dad limosna de lo que tenéis, y entonces todo os será limpio."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 5083,
+      "char_end": 5263,
+      "text": "Mas ¡ay de vosotros, fariseos! que diezmáis la menta, y la ruda, y toda hortaliza, y pasáis por alto la justicia y el amor de Dios. Esto os era necesario hacer, sin dejar aquello."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 5263,
+      "char_end": 5372,
+      "text": "¡Ay de vosotros, fariseos! que amáis las primeras sillas en las sinagogas, y las salutaciones en las plazas."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 5372,
+      "char_end": 5505,
+      "text": "¡Ay de vosotros, escribas y fariseos, hipócritas! que sois como sepulcros que no se ven, y los hombres que andan encima no lo saben."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 5505,
+      "char_end": 5622,
+      "text": "Respondiendo uno de los intérpretes de la ley, le dijo: Maestro, cuando dices esto, también nos afrentas a nosotros."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 5622,
+      "char_end": 5788,
+      "text": "Y él dijo: ¡Ay de vosotros también, intérpretes de la ley! porque cargáis a los hombres con cargas que no pueden llevar, pero vosotros ni aun con un dedo las tocáis."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 5788,
+      "char_end": 5884,
+      "text": "¡Ay de vosotros, que edificáis los sepulcros de los profetas a quienes mataron vuestros padres!"
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 5884,
+      "char_end": 6034,
+      "text": "De modo que sois testigos y consentidores de los hechos de vuestros padres; porque a la verdad ellos los mataron, y vosotros edificáis sus sepulcros."
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 6034,
+      "char_end": 6161,
+      "text": "Por eso la sabiduría de Dios también dijo: Les enviaré profetas y apóstoles; y de ellos, a unos matarán y a otros perseguirán,"
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 6161,
+      "char_end": 6282,
+      "text": "para que se demande de esta generación la sangre de todos los profetas que se ha derramado desde la fundación del mundo,"
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 6282,
+      "char_end": 6424,
+      "text": "desde la sangre de Abel hasta la sangre de Zacarías, que murió entre el altar y el templo; sí, os digo que será demandada de esta generación."
+    },
+    {
+      "verse": 52,
+      "label": "52",
+      "char_start": 6424,
+      "char_end": 6581,
+      "text": "¡Ay de vosotros, intérpretes de la ley! porque habéis quitado la llave de la ciencia; vosotros mismos no entrasteis, y a los que entraban se lo impedisteis."
+    },
+    {
+      "verse": 53,
+      "label": "53",
+      "char_start": 6581,
+      "char_end": 6724,
+      "text": "Diciéndoles él estas cosas, los escribas y los fariseos comenzaron a estrecharle en gran manera, y a provocarle a que hablase de muchas cosas;"
+    },
+    {
+      "verse": 54,
+      "label": "54",
+      "char_start": 6724,
+      "char_end": 6797,
+      "text": "acechándole, y procurando cazar alguna palabra de su boca para acusarle."
+    }
+  ],
+  "words": [
+    {
+      "word": "Aconteció que estaba Jesús orando en un lugar, y cuando terminó, uno de sus discípulos le dijo: Señor, enséñanos a orar, como también Juan enseñó a sus discípulos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 10775,
+      "duration_ms": 10675
+    },
+    {
+      "word": "Y les dijo: Cuando oréis, decid: Padre nuestro que estás en los cielos, santificado sea tu nombre.",
+      "verse": 2,
+      "start_ms": 10725,
+      "end_ms": 17637,
+      "duration_ms": 6912
+    },
+    {
+      "word": "Venga tu reino.",
+      "verse": 2,
+      "start_ms": 17637,
+      "end_ms": 19499,
+      "duration_ms": 1862
+    },
+    {
+      "word": "Hágase tu voluntad, como en el cielo, así también en la tierra.",
+      "verse": 2,
+      "start_ms": 19500,
+      "end_ms": 24212,
+      "duration_ms": 4712
+    },
+    {
+      "word": "El pan nuestro de cada día, dánoslo hoy.",
+      "verse": 3,
+      "start_ms": 24212,
+      "end_ms": 27737,
+      "duration_ms": 3525
+    },
+    {
+      "word": "Y perdónanos nuestros pecados, porque también nosotros perdonamos a todos los que nos deben.",
+      "verse": 4,
+      "start_ms": 27737,
+      "end_ms": 33524,
+      "duration_ms": 5787
+    },
+    {
+      "word": "Y no nos metas en tentación, mas líbranos del mal.",
+      "verse": 4,
+      "start_ms": 33525,
+      "end_ms": 37225,
+      "duration_ms": 3700
+    },
+    {
+      "word": "Les dijo también: ¿Quién de vosotros que tenga un amigo, va a él a medianoche y le dice: Amigo, préstame tres panes, porque un amigo mío ha venido a mí de viaje, y no tengo qué ponerle delante; y aquél, respondiendo desde adentro, le dice: No me molestes; la puerta ya está cerrada, y mis niños están conmigo en cama; no puedo levantarme, y dártelos?",
+      "verse": 5,
+      "start_ms": 37225,
+      "end_ms": 60137,
+      "duration_ms": 22912
+    },
+    {
+      "word": "Os digo, que aunque no se levante a dárselos por ser su amigo, sin embargo por su importunidad se levantará y le dará todo lo que necesite.",
+      "verse": 8,
+      "start_ms": 60137,
+      "end_ms": 68212,
+      "duration_ms": 8075
+    },
+    {
+      "word": "Y yo os digo: Pedid, y se os dará; buscad, y hallaréis; llamad, y se os abrirá.",
+      "verse": 9,
+      "start_ms": 68212,
+      "end_ms": 75049,
+      "duration_ms": 6837
+    },
+    {
+      "word": "Porque todo aquel que pide, recibe; y el que busca, halla; y al que llama, se le abrirá.",
+      "verse": 10,
+      "start_ms": 75050,
+      "end_ms": 81550,
+      "duration_ms": 6500
+    },
+    {
+      "word": "Qué padre de vosotros, si su hijo le pide pan, le dará una piedra?",
+      "verse": 11,
+      "start_ms": 81550,
+      "end_ms": 86512,
+      "duration_ms": 4962
+    },
+    {
+      "word": "o si pescado, en lugar de pescado, le dará una serpiente?",
+      "verse": 11,
+      "start_ms": 86512,
+      "end_ms": 91024,
+      "duration_ms": 4512
+    },
+    {
+      "word": "O si le pide un huevo, le dará un escorpión?",
+      "verse": 12,
+      "start_ms": 91025,
+      "end_ms": 94500,
+      "duration_ms": 3475
+    },
+    {
+      "word": "Pues si vosotros, siendo malos, sabéis dar buenas dádivas a vuestros hijos, ¿cuánto más vuestro Padre celestial dará el Espíritu Santo a los que se lo pidan?",
+      "verse": 13,
+      "start_ms": 94500,
+      "end_ms": 103937,
+      "duration_ms": 9437
+    },
+    {
+      "word": "Una casa dividida contra sí misma (Mt 12.22–30; Mc 3.20–27) Estaba Jesús echando fuera un demonio, que era mudo; y aconteció que salido el demonio, el mudo habló; y la gente se maravilló.",
+      "verse": 13,
+      "start_ms": 103937,
+      "end_ms": 118924,
+      "duration_ms": 14987
+    },
+    {
+      "word": "Pero algunos de ellos decían: Por Beelzebú, príncipe de los demonios, echa fuera los demonios.",
+      "verse": 15,
+      "start_ms": 118925,
+      "end_ms": 125400,
+      "duration_ms": 6475
+    },
+    {
+      "word": "Otros, para tentarle, le pedían señal del cielo.",
+      "verse": 16,
+      "start_ms": 125400,
+      "end_ms": 129462,
+      "duration_ms": 4062
+    },
+    {
+      "word": "Mas él, conociendo los pensamientos de ellos, les dijo: Todo reino dividido contra sí mismo, es asolado; y una casa dividida contra sí misma, cae.",
+      "verse": 17,
+      "start_ms": 129462,
+      "end_ms": 140049,
+      "duration_ms": 10587
+    },
+    {
+      "word": "Y si también Satanás está dividido contra sí mismo, ¿cómo permanecerá su reino? ya que decís que por Beelzebú echo yo fuera los demonios.",
+      "verse": 18,
+      "start_ms": 140050,
+      "end_ms": 148712,
+      "duration_ms": 8662
+    },
+    {
+      "word": "Pues si yo echo fuera los demonios por Beelzebú, ¿vuestros hijos por quién los echan?",
+      "verse": 19,
+      "start_ms": 148712,
+      "end_ms": 154012,
+      "duration_ms": 5300
+    },
+    {
+      "word": "Por tanto, ellos serán vuestros jueces.",
+      "verse": 19,
+      "start_ms": 154012,
+      "end_ms": 157387,
+      "duration_ms": 3375
+    },
+    {
+      "word": "Mas si por el dedo de Dios echo yo fuera los demonios, ciertamente el reino de Dios ha llegado a vosotros.",
+      "verse": 20,
+      "start_ms": 157387,
+      "end_ms": 164074,
+      "duration_ms": 6687
+    },
+    {
+      "word": "Cuando el hombre fuerte armado guarda su palacio, en paz está lo que posee.",
+      "verse": 21,
+      "start_ms": 164075,
+      "end_ms": 168887,
+      "duration_ms": 4812
+    },
+    {
+      "word": "Pero cuando viene otro más fuerte que él y le vence, le quita todas sus armas en que confiaba, y reparte el botín.",
+      "verse": 22,
+      "start_ms": 168887,
+      "end_ms": 176049,
+      "duration_ms": 7162
+    },
+    {
+      "word": "El que no es conmigo, contra mí es; y el que conmigo no recoge, desparrama.",
+      "verse": 23,
+      "start_ms": 176050,
+      "end_ms": 181925,
+      "duration_ms": 5875
+    },
+    {
+      "word": "El espíritu inmundo que vuelve (Mt 12.43–45) Cuando el espíritu inmundo sale del hombre, anda por lugares secos, buscando reposo; y no hallándolo, dice: Volveré a mi casa de donde salí.",
+      "verse": 23,
+      "start_ms": 181925,
+      "end_ms": 196000,
+      "duration_ms": 14075
+    },
+    {
+      "word": "Y cuando llega, la halla barrida y adornada.",
+      "verse": 25,
+      "start_ms": 196000,
+      "end_ms": 199600,
+      "duration_ms": 3600
+    },
+    {
+      "word": "Entonces va, y toma otros siete espíritus peores que él; y entrados, moran allí; y el postrer estado de aquel hombre viene a ser peor que el primero.",
+      "verse": 26,
+      "start_ms": 199600,
+      "end_ms": 209287,
+      "duration_ms": 9687
+    },
+    {
+      "word": "Los que en verdad son bienaventurados Mientras él decía estas cosas, una mujer de entre la multitud levantó la voz y le dijo: Bienaventurado el vientre que te trajo, y los senos que mamaste.",
+      "verse": 26,
+      "start_ms": 209287,
+      "end_ms": 220274,
+      "duration_ms": 10987
+    },
+    {
+      "word": "Y él dijo: Antes bienaventurados los que oyen la palabra de Dios, y la guardan.",
+      "verse": 28,
+      "start_ms": 220275,
+      "end_ms": 225762,
+      "duration_ms": 5487
+    },
+    {
+      "word": "La generación perversa demanda señal (Mt 12.38–42) Y apiñándose las multitudes, comenzó a decir: Esta generación es mala; demanda señal, pero señal no le será dada, sino la señal de Jonás.",
+      "verse": 28,
+      "start_ms": 225762,
+      "end_ms": 240662,
+      "duration_ms": 14900
+    },
+    {
+      "word": "Porque así como Jonás fue señal a los ninivitas, también lo será el Hijo del Hombre a esta generación.",
+      "verse": 30,
+      "start_ms": 240662,
+      "end_ms": 246999,
+      "duration_ms": 6337
+    },
+    {
+      "word": "La reina del Sur se levantará en el juicio con los hombres de esta generación, y los condenará; porque ella vino de los fines de la tierra para oír la sabiduría de Salomón, y he aquí más que Salomón en este lugar.",
+      "verse": 31,
+      "start_ms": 247000,
+      "end_ms": 259125,
+      "duration_ms": 12125
+    },
+    {
+      "word": "Los hombres de Nínive se levantarán en el juicio con esta generación, y la condenarán; porque a la predicación de Jonás se arrepintieron, y he aquí más que",
+      "verse": 32,
+      "start_ms": 259125,
+      "end_ms": 268287,
+      "duration_ms": 9162
+    },
+    {
+      "word": "Jonás en este lugar.",
+      "verse": 32,
+      "start_ms": 268444,
+      "end_ms": 270681,
+      "duration_ms": 2237
+    },
+    {
+      "word": "La lámpara del cuerpo (Mt 6.22–23) Nadie pone en oculto la luz encendida, ni debajo del almud, sino en el candelero, para que los que entran vean la luz.",
+      "verse": 32,
+      "start_ms": 270631,
+      "end_ms": 282281,
+      "duration_ms": 11650
+    },
+    {
+      "word": "La lámpara del cuerpo es el ojo; cuando tu ojo es bueno, también todo tu cuerpo está lleno de luz; pero cuando tu ojo es maligno, también tu cuerpo está en tinieblas.",
+      "verse": 34,
+      "start_ms": 282281,
+      "end_ms": 292418,
+      "duration_ms": 10137
+    },
+    {
+      "word": "Mira pues, no suceda que la luz que en ti hay, sea tinieblas.",
+      "verse": 35,
+      "start_ms": 292419,
+      "end_ms": 297344,
+      "duration_ms": 4925
+    },
+    {
+      "word": "Así que, si todo tu cuerpo está lleno de luz, no teniendo parte alguna de tinieblas, será todo luminoso, como cuando una lámpara te alumbra con su resplandor.",
+      "verse": 36,
+      "start_ms": 297344,
+      "end_ms": 307344,
+      "duration_ms": 10000
+    },
+    {
+      "word": "Jesús acusa a fariseos y a intérpretes de la ley (Mt 23.1–36; Mc 12.38–40; Lc 20.45–47) Luego que hubo hablado, le rogó un fariseo que comiese con él; y entrando Jesús en la casa, se sentó a la mesa.",
+      "verse": 36,
+      "start_ms": 307344,
+      "end_ms": 324956,
+      "duration_ms": 17612
+    },
+    {
+      "word": "El fariseo, cuando lo vio, se extrañó de que no se hubiese lavado antes de comer.",
+      "verse": 38,
+      "start_ms": 324956,
+      "end_ms": 330556,
+      "duration_ms": 5600
+    },
+    {
+      "word": "Pero el Señor le dijo: Ahora bien, vosotros los fariseos limpiáis lo de fuera del vaso y del plato, pero por dentro estáis llenos de rapacidad y de maldad.",
+      "verse": 39,
+      "start_ms": 330556,
+      "end_ms": 339718,
+      "duration_ms": 9162
+    },
+    {
+      "word": "Necios, ¿el que hizo lo de fuera, no hizo también lo de adentro?",
+      "verse": 40,
+      "start_ms": 339719,
+      "end_ms": 344419,
+      "duration_ms": 4700
+    },
+    {
+      "word": "Pero dad limosna de lo que tenéis, y entonces todo os será limpio.",
+      "verse": 41,
+      "start_ms": 344419,
+      "end_ms": 349219,
+      "duration_ms": 4800
+    },
+    {
+      "word": "Mas ¡ay de vosotros, fariseos! que diezmáis la menta, y la ruda, y toda hortaliza, y pasáis por alto la justicia y el amor de Dios.",
+      "verse": 42,
+      "start_ms": 349219,
+      "end_ms": 358769,
+      "duration_ms": 9550
+    },
+    {
+      "word": "Esto os era necesario hacer, sin dejar aquello.",
+      "verse": 42,
+      "start_ms": 358769,
+      "end_ms": 362619,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Ay de vosotros, fariseos! que amáis las primeras sillas en las sinagogas, y las salutaciones en las plazas.",
+      "verse": 43,
+      "start_ms": 362619,
+      "end_ms": 370069,
+      "duration_ms": 7450
+    },
+    {
+      "word": "Ay de vosotros, escribas y fariseos, hipócritas! que sois como sepulcros que no se ven, y los hombres que andan encima no lo saben.",
+      "verse": 44,
+      "start_ms": 370069,
+      "end_ms": 378869,
+      "duration_ms": 8800
+    },
+    {
+      "word": "Respondiendo uno de los intérpretes de la ley, le dijo: Maestro, cuando dices esto, también nos afrentas a nosotros.",
+      "verse": 45,
+      "start_ms": 378869,
+      "end_ms": 386781,
+      "duration_ms": 7912
+    },
+    {
+      "word": "Y él dijo: ¡Ay de vosotros también, intérpretes de la ley! porque cargáis a los hombres con cargas que no pueden llevar, pero vosotros ni aun con un dedo las tocáis.",
+      "verse": 46,
+      "start_ms": 386781,
+      "end_ms": 396793,
+      "duration_ms": 10012
+    },
+    {
+      "word": "Ay de vosotros, que edificáis los sepulcros de los profetas a quienes mataron vuestros padres!",
+      "verse": 47,
+      "start_ms": 396794,
+      "end_ms": 402819,
+      "duration_ms": 6025
+    },
+    {
+      "word": "De modo que sois testigos y consentidores de los hechos de vuestros padres; porque a la verdad ellos los mataron, y vosotros edificáis sus sepulcros.",
+      "verse": 48,
+      "start_ms": 402819,
+      "end_ms": 411606,
+      "duration_ms": 8787
+    },
+    {
+      "word": "Por eso la sabiduría de Dios también dijo: Les enviaré profetas y apóstoles; y de ellos, a unos matarán y a otros perseguirán, para que se demande de esta generación la sangre de todos los profetas que se ha derramado desde la fundación del mundo, desde la sangre de Abel hasta la sangre de Zacarías, que murió entre el altar y el templo; sí, os digo que será demandada de esta generación.",
+      "verse": 49,
+      "start_ms": 411606,
+      "end_ms": 434468,
+      "duration_ms": 22862
+    },
+    {
+      "word": "Ay de vosotros, intérpretes de la ley! porque habéis quitado la llave de la ciencia; vosotros mismos no entrasteis, y a los que entraban se lo impedisteis.",
+      "verse": 52,
+      "start_ms": 434469,
+      "end_ms": 444031,
+      "duration_ms": 9562
+    },
+    {
+      "word": "Diciéndoles él estas cosas, los escribas y los fariseos comenzaron a estrecharle en gran manera, y a provocarle a que hablase de muchas cosas; acechándole, y procurando cazar alguna palabra de su boca para acusarle.",
+      "verse": 53,
+      "start_ms": 444031,
+      "end_ms": 457031,
+      "duration_ms": 13000
+    }
+  ]
+}

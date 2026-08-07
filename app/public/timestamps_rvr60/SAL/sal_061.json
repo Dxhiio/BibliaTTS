@@ -1,0 +1,124 @@
+{
+  "book": "SAL",
+  "chapter": 61,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 8,
+  "word_count": 8,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 47,
+      "text": "Oye, oh Dios, mi clamor; A mi oración atiende."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 47,
+      "char_end": 159,
+      "text": "Desde el cabo de la tierra clamaré a ti, cuando mi corazón desmayare. Llévame a la roca que es más alta que yo,"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 159,
+      "char_end": 226,
+      "text": "Porque tú has sido mi refugio, Y torre fuerte delante del enemigo."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 226,
+      "char_end": 320,
+      "text": "Yo habitaré en tu tabernáculo para siempre; Estaré seguro bajo la cubierta de tus alas. Selah"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 320,
+      "char_end": 411,
+      "text": "Porque tú, oh Dios, has oído mis votos; Me has dado la heredad de los que temen tu nombre."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 411,
+      "char_end": 489,
+      "text": "Días sobre días añadirás al rey; Sus años serán como generación y generación."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 489,
+      "char_end": 579,
+      "text": "Estará para siempre delante de Dios; Prepara misericordia y verdad para que lo conserven."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 579,
+      "char_end": 643,
+      "text": "Así cantaré tu nombre para siempre, Pagando mis votos cada día."
+    }
+  ],
+  "words": [
+    {
+      "word": "Oye, oh Dios, mi clamor; A mi oración atiende.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4312,
+      "duration_ms": 4212
+    },
+    {
+      "word": "Desde el cabo de la tierra clamaré a ti, cuando mi corazón desmayare.",
+      "verse": 2,
+      "start_ms": 4262,
+      "end_ms": 8899,
+      "duration_ms": 4637
+    },
+    {
+      "word": "Llévame a la roca que es más alta que yo, Porque tú has sido mi refugio, Y torre fuerte delante del enemigo.",
+      "verse": 2,
+      "start_ms": 8900,
+      "end_ms": 16100,
+      "duration_ms": 7200
+    },
+    {
+      "word": "Yo habitaré en tu tabernáculo para siempre; Estaré seguro bajo la cubierta de tus alas.",
+      "verse": 4,
+      "start_ms": 16100,
+      "end_ms": 22000,
+      "duration_ms": 5900
+    },
+    {
+      "word": "Selah Porque tú, oh Dios, has oído mis votos; Me has dado la heredad de los que temen tu nombre.",
+      "verse": 4,
+      "start_ms": 22000,
+      "end_ms": 28762,
+      "duration_ms": 6762
+    },
+    {
+      "word": "Días sobre días añadirás al rey; Sus años serán como generación y generación.",
+      "verse": 6,
+      "start_ms": 28762,
+      "end_ms": 34337,
+      "duration_ms": 5575
+    },
+    {
+      "word": "Estará para siempre delante de Dios; Prepara misericordia y verdad para que lo conserven.",
+      "verse": 7,
+      "start_ms": 34337,
+      "end_ms": 40112,
+      "duration_ms": 5775
+    },
+    {
+      "word": "Así cantaré tu nombre para siempre, Pagando mis votos cada día.",
+      "verse": 8,
+      "start_ms": 40112,
+      "end_ms": 44662,
+      "duration_ms": 4550
+    }
+  ]
+}

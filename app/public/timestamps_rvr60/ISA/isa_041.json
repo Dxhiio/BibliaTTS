@@ -1,0 +1,432 @@
+{
+  "book": "ISA",
+  "chapter": 41,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 29,
+  "word_count": 31,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 107,
+      "text": "Escuchadme, costas, y esfuércense los pueblos; acérquense, y entonces hablen; estemos juntamente a juicio."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 107,
+      "char_end": 312,
+      "text": "¿Quién despertó del oriente al justo, lo llamó para que le siguiese, entregó delante de él naciones, y le hizo enseñorear de reyes; los entregó a su espada como polvo, como hojarasca que su arco arrebata?"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 312,
+      "char_end": 388,
+      "text": "Los siguió, pasó en paz por camino por donde sus pies nunca habían entrado."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 388,
+      "char_end": 519,
+      "text": "¿Quién hizo y realizó esto? ¿Quién llama las generaciones desde el principio? Yo Jehová, el primero, y yo mismo con los postreros."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 519,
+      "char_end": 625,
+      "text": "Las costas vieron, y tuvieron temor; los confines de la tierra se espantaron; se congregaron, y vinieron."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 625,
+      "char_end": 687,
+      "text": "Cada cual ayudó a su vecino, y a su hermano dijo: Esfuérzate."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 687,
+      "char_end": 859,
+      "text": "El carpintero animó al platero, y el que alisaba con martillo al que batía en el yunque, diciendo: Buena está la soldadura; y lo afirmó con clavos, para que no se moviese."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 859,
+      "char_end": 957,
+      "text": "Pero tú, Israel, siervo mío eres; tú, Jacob, a quien yo escogí, descendencia de Abraham mi amigo."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 957,
+      "char_end": 1091,
+      "text": "Porque te tomé de los confines de la tierra, y de tierras lejanas te llamé, y te dije: Mi siervo eres tú; te escogí, y no te deseché."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1091,
+      "char_end": 1251,
+      "text": "No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo; siempre te ayudaré, siempre te sustentaré con la diestra de mi justicia."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1251,
+      "char_end": 1387,
+      "text": "He aquí que todos los que se enojan contra ti serán avergonzados y confundidos; serán como nada y perecerán los que contienden contigo."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1387,
+      "char_end": 1524,
+      "text": "Buscarás a los que tienen contienda contigo, y no los hallarás; serán como nada, y como cosa que no es, aquellos que te hacen la guerra."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1524,
+      "char_end": 1626,
+      "text": "Porque yo Jehová soy tu Dios, quien te sostiene de tu mano derecha, y te dice: No temas, yo te ayudo."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1626,
+      "char_end": 1753,
+      "text": "No temas, gusano de Jacob, oh vosotros los pocos de Israel; yo soy tu socorro, dice Jehová; el Santo de Israel es tu Redentor."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1753,
+      "char_end": 1886,
+      "text": "He aquí que yo te he puesto por trillo, trillo nuevo, lleno de dientes; trillarás montes y los molerás, y collados reducirás a tamo."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1886,
+      "char_end": 2027,
+      "text": "Los aventarás, y los llevará el viento, y los esparcirá el torbellino; pero tú te regocijarás en Jehová, te gloriarás en el Santo de Israel."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2027,
+      "char_end": 2177,
+      "text": "Los afligidos y menesterosos buscan las aguas, y no las hay; seca está de sed su lengua; yo Jehová los oiré, yo el Dios de Israel no los desampararé."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2177,
+      "char_end": 2323,
+      "text": "En las alturas abriré ríos, y fuentes en medio de los valles; abriré en el desierto estanques de aguas, y manantiales de aguas en la tierra seca."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2323,
+      "char_end": 2437,
+      "text": "Daré en el desierto cedros, acacias, arrayanes y olivos; pondré en la soledad cipreses, pinos y bojes juntamente,"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2437,
+      "char_end": 2591,
+      "text": "para que vean y conozcan, y adviertan y entiendan todos, que la mano de Jehová hace esto, y que el Santo de Israel lo creó. Dios reta a los falsos dioses"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2591,
+      "char_end": 2680,
+      "text": "Alegad por vuestra causa, dice Jehová; presentad vuestras pruebas, dice el Rey de Jacob."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2680,
+      "char_end": 2876,
+      "text": "Traigan, anúnciennos lo que ha de venir; dígannos lo que ha pasado desde el principio, y pondremos nuestro corazón en ello; sepamos también su postrimería, y hacednos entender lo que ha de venir."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2876,
+      "char_end": 3055,
+      "text": "Dadnos nuevas de lo que ha de ser después, para que sepamos que vosotros sois dioses; o a lo menos haced bien, o mal, para que tengamos qué contar, y juntamente nos maravillemos."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3055,
+      "char_end": 3147,
+      "text": "He aquí que vosotros sois nada, y vuestras obras vanidad; abominación es el que os escogió."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3147,
+      "char_end": 3292,
+      "text": "Del norte levanté a uno, y vendrá; del nacimiento del sol invocará mi nombre; y pisoteará príncipes como lodo, y como pisa el barro el alfarero."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3292,
+      "char_end": 3492,
+      "text": "¿Quién lo anunció desde el principio, para que sepamos; o de tiempo atrás, y diremos: Es justo? Cierto, no hay quien anuncie; sí, no hay quien enseñe; ciertamente no hay quien oiga vuestras palabras."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3492,
+      "char_end": 3597,
+      "text": "Yo soy el primero que he enseñado estas cosas a Sion, y a Jerusalén daré un mensajero de alegres nuevas."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3597,
+      "char_end": 3716,
+      "text": "Miré, y no había ninguno; y pregunté de estas cosas, y ningún consejero hubo; les pregunté, y no respondieron palabra."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3716,
+      "char_end": 3815,
+      "text": "He aquí, todos son vanidad, y las obras de ellos nada; viento y vanidad son sus imágenes fundidas."
+    }
+  ],
+  "words": [
+    {
+      "word": "Escuchadme, costas, y esfuércense los pueblos; acérquense, y entonces hablen; estemos juntamente a juicio.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 8462,
+      "duration_ms": 8362
+    },
+    {
+      "word": "Quién despertó del oriente al justo, lo llamó para que le siguiese, entregó delante de él naciones, y le hizo enseñorear de reyes; los entregó a su espada como polvo, como hojarasca que su arco arrebata?",
+      "verse": 2,
+      "start_ms": 8412,
+      "end_ms": 20937,
+      "duration_ms": 12525
+    },
+    {
+      "word": "Los siguió, pasó en paz por camino por donde sus pies nunca habían entrado.",
+      "verse": 3,
+      "start_ms": 20937,
+      "end_ms": 26162,
+      "duration_ms": 5225
+    },
+    {
+      "word": "Quién hizo y realizó esto?",
+      "verse": 4,
+      "start_ms": 26162,
+      "end_ms": 28824,
+      "duration_ms": 2662
+    },
+    {
+      "word": "Quién llama las generaciones desde el principio?",
+      "verse": 4,
+      "start_ms": 28825,
+      "end_ms": 32075,
+      "duration_ms": 3250
+    },
+    {
+      "word": "Yo Jehová, el primero, y yo mismo con los postreros.",
+      "verse": 4,
+      "start_ms": 32075,
+      "end_ms": 36425,
+      "duration_ms": 4350
+    },
+    {
+      "word": "Las costas vieron, y tuvieron temor; los confines de la tierra se espantaron; se congregaron, y vinieron.",
+      "verse": 5,
+      "start_ms": 36425,
+      "end_ms": 43500,
+      "duration_ms": 7075
+    },
+    {
+      "word": "Cada cual ayudó a su vecino, y a su hermano dijo: Esfuérzate.",
+      "verse": 6,
+      "start_ms": 43500,
+      "end_ms": 48300,
+      "duration_ms": 4800
+    },
+    {
+      "word": "El carpintero animó al platero, y el que alisaba con martillo al que batía en el yunque, diciendo: Buena está la soldadura; y lo afirmó con clavos, para que no se moviese.",
+      "verse": 7,
+      "start_ms": 48300,
+      "end_ms": 59162,
+      "duration_ms": 10862
+    },
+    {
+      "word": "Pero tú, Israel, siervo mío eres; tú, Jacob, a quien yo escogí, descendencia de Abraham mi amigo.",
+      "verse": 8,
+      "start_ms": 59162,
+      "end_ms": 67012,
+      "duration_ms": 7850
+    },
+    {
+      "word": "Porque te tomé de los confines de la tierra, y de tierras lejanas te llamé, y te dije: Mi siervo eres tú; te escogí, y no te deseché.",
+      "verse": 9,
+      "start_ms": 67012,
+      "end_ms": 75899,
+      "duration_ms": 8887
+    },
+    {
+      "word": "No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo; siempre te ayudaré, siempre te sustentaré con la diestra de mi justicia.",
+      "verse": 10,
+      "start_ms": 75900,
+      "end_ms": 86162,
+      "duration_ms": 10262
+    },
+    {
+      "word": "He aquí que todos los que se enojan contra ti serán avergonzados y confundidos; serán como nada y perecerán los que contienden contigo.",
+      "verse": 11,
+      "start_ms": 86162,
+      "end_ms": 94374,
+      "duration_ms": 8212
+    },
+    {
+      "word": "Buscarás a los que tienen contienda contigo, y no los hallarás; serán como nada, y como cosa que no es, aquellos que te hacen la guerra.",
+      "verse": 12,
+      "start_ms": 94375,
+      "end_ms": 103187,
+      "duration_ms": 8812
+    },
+    {
+      "word": "Porque yo Jehová soy tu Dios, quien te sostiene de tu mano derecha, y te dice: No temas, yo te ayudo.",
+      "verse": 13,
+      "start_ms": 103187,
+      "end_ms": 110312,
+      "duration_ms": 7125
+    },
+    {
+      "word": "No temas, gusano de Jacob, oh vosotros los pocos de Israel; yo soy tu socorro, dice Jehová; el Santo de Israel es tu Redentor.",
+      "verse": 14,
+      "start_ms": 110312,
+      "end_ms": 119524,
+      "duration_ms": 9212
+    },
+    {
+      "word": "He aquí que yo te he puesto por trillo, trillo nuevo, lleno de dientes; trillarás montes y los molerás, y collados reducirás a tamo.",
+      "verse": 15,
+      "start_ms": 119525,
+      "end_ms": 128462,
+      "duration_ms": 8937
+    },
+    {
+      "word": "Los aventarás, y los llevará el viento, y los esparcirá el torbellino; pero tú te regocijarás en Jehová, te gloriarás en el Santo de Israel.",
+      "verse": 16,
+      "start_ms": 128462,
+      "end_ms": 137712,
+      "duration_ms": 9250
+    },
+    {
+      "word": "Los afligidos y menesterosos buscan las aguas, y no las hay; seca está de sed su lengua; yo Jehová los oiré, yo el Dios de Israel no los desampararé.",
+      "verse": 17,
+      "start_ms": 137712,
+      "end_ms": 147762,
+      "duration_ms": 10050
+    },
+    {
+      "word": "En las alturas abriré ríos, y fuentes en medio de los valles; abriré en el desierto estanques de aguas, y manantiales de aguas en la tierra seca.",
+      "verse": 18,
+      "start_ms": 147762,
+      "end_ms": 156987,
+      "duration_ms": 9225
+    },
+    {
+      "word": "Daré en el desierto cedros, acacias, arrayanes y olivos; pondré en la soledad cipreses, pinos y bojes juntamente, para que vean y conozcan, y adviertan y entiendan todos, que la mano de Jehová hace esto, y que el Santo de Israel lo creó.",
+      "verse": 19,
+      "start_ms": 156987,
+      "end_ms": 173087,
+      "duration_ms": 16100
+    },
+    {
+      "word": "Dios reta a los falsos dioses Alegad por vuestra causa, dice Jehová; presentad vuestras pruebas, dice el Rey de Jacob.",
+      "verse": 20,
+      "start_ms": 173087,
+      "end_ms": 181124,
+      "duration_ms": 8037
+    },
+    {
+      "word": "Traigan, anúnciennos lo que ha de venir; dígannos lo que ha pasado desde el principio, y pondremos nuestro corazón en ello; sepamos también su postrimería, y hacednos entender lo que ha de venir.",
+      "verse": 22,
+      "start_ms": 181125,
+      "end_ms": 192900,
+      "duration_ms": 11775
+    },
+    {
+      "word": "Dadnos nuevas de lo que ha de ser después, para que sepamos que vosotros sois dioses; o a lo menos haced bien, o mal, para que tengamos qué contar, y juntamente nos maravillemos.",
+      "verse": 23,
+      "start_ms": 192900,
+      "end_ms": 203825,
+      "duration_ms": 10925
+    },
+    {
+      "word": "He aquí que vosotros sois nada, y vuestras obras vanidad; abominación es el que os escogió.",
+      "verse": 24,
+      "start_ms": 203825,
+      "end_ms": 210075,
+      "duration_ms": 6250
+    },
+    {
+      "word": "Del norte levanté a uno, y vendrá; del nacimiento del sol invocará mi nombre; y pisoteará príncipes como lodo, y como pisa el barro el alfarero.",
+      "verse": 25,
+      "start_ms": 210075,
+      "end_ms": 219762,
+      "duration_ms": 9687
+    },
+    {
+      "word": "Quién lo anunció desde el principio, para que sepamos; o de tiempo atrás, y diremos: Es justo?",
+      "verse": 26,
+      "start_ms": 219762,
+      "end_ms": 226649,
+      "duration_ms": 6887
+    },
+    {
+      "word": "Cierto, no hay quien anuncie; sí, no hay quien enseñe; ciertamente no hay quien oiga vuestras palabras.",
+      "verse": 26,
+      "start_ms": 226650,
+      "end_ms": 233837,
+      "duration_ms": 7187
+    },
+    {
+      "word": "Yo soy el primero que he enseñado estas cosas a Sion, y a Jerusalén daré un mensajero de alegres nuevas.",
+      "verse": 27,
+      "start_ms": 233837,
+      "end_ms": 240599,
+      "duration_ms": 6762
+    },
+    {
+      "word": "Miré, y no había ninguno; y pregunté de estas cosas, y ningún consejero hubo; les pregunté, y no respondieron palabra.",
+      "verse": 28,
+      "start_ms": 240600,
+      "end_ms": 249262,
+      "duration_ms": 8662
+    },
+    {
+      "word": "He aquí, todos son vanidad, y las obras de ellos nada; viento y vanidad son sus imágenes fundidas.",
+      "verse": 29,
+      "start_ms": 249262,
+      "end_ms": 256499,
+      "duration_ms": 7237
+    }
+  ]
+}

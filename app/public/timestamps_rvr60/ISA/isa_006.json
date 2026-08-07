@@ -1,0 +1,194 @@
+{
+  "book": "ISA",
+  "chapter": 6,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 13,
+  "word_count": 13,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 120,
+      "text": "En el año que murió el rey Uzías vi yo al Señor sentado sobre un trono alto y sublime, y sus faldas llenaban el templo."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 120,
+      "char_end": 254,
+      "text": "Por encima de él había serafines; cada uno tenía seis alas; con dos cubrían sus rostros, con dos cubrían sus pies, y con dos volaban."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 254,
+      "char_end": 379,
+      "text": "Y el uno al otro daba voces, diciendo: Santo, santo, santo, Jehová de los ejércitos; toda la tierra está llena de su gloria."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 379,
+      "char_end": 483,
+      "text": "Y los quiciales de las puertas se estremecieron con la voz del que clamaba, y la casa se llenó de humo."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 483,
+      "char_end": 675,
+      "text": "Entonces dije: ¡Ay de mí! que soy muerto; porque siendo hombre inmundo de labios, y habitando en medio de pueblo que tiene labios inmundos, han visto mis ojos al Rey, Jehová de los ejércitos."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 675,
+      "char_end": 789,
+      "text": "Y voló hacia mí uno de los serafines, teniendo en su mano un carbón encendido, tomado del altar con unas tenazas;"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 789,
+      "char_end": 904,
+      "text": "y tocando con él sobre mi boca, dijo: He aquí que esto tocó tus labios, y es quitada tu culpa, y limpio tu pecado."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 904,
+      "char_end": 1035,
+      "text": "Después oí la voz del Señor, que decía: ¿A quién enviaré, y quién irá por nosotros? Entonces respondí yo: Heme aquí, envíame a mí."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1035,
+      "char_end": 1131,
+      "text": "Y dijo: Anda, y di a este pueblo: Oíd bien, y no entendáis; ved por cierto, mas no comprendáis."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1131,
+      "char_end": 1323,
+      "text": "Engruesa el corazón de este pueblo, y agrava sus oídos, y ciega sus ojos, para que no vea con sus ojos, ni oiga con sus oídos, ni su corazón entienda, ni se convierta, y haya para él sanidad."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1323,
+      "char_end": 1492,
+      "text": "Y yo dije: ¿Hasta cuándo, Señor? Y respondió él: Hasta que las ciudades estén asoladas y sin morador, y no haya hombre en las casas, y la tierra esté hecha un desierto;"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1492,
+      "char_end": 1604,
+      "text": "hasta que Jehová haya echado lejos a los hombres, y multiplicado los lugares abandonados en medio de la tierra."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1604,
+      "char_end": 1788,
+      "text": "Y si quedare aún en ella la décima parte, ésta volverá a ser destruida; pero como el roble y la encina, que al ser cortados aún queda el tronco, así será el tronco, la simiente santa."
+    }
+  ],
+  "words": [
+    {
+      "word": "En el año que murió el rey Uzías vi yo al Señor sentado sobre un trono alto y sublime, y sus faldas llenaban el templo.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7412,
+      "duration_ms": 7312
+    },
+    {
+      "word": "Por encima de él había serafines; cada uno tenía seis alas; con dos cubrían sus rostros, con dos cubrían sus pies, y con dos volaban.",
+      "verse": 2,
+      "start_ms": 7362,
+      "end_ms": 16762,
+      "duration_ms": 9400
+    },
+    {
+      "word": "Y el uno al otro daba voces, diciendo: Santo, santo, santo, Jehová de los ejércitos; toda la tierra está llena de su gloria.",
+      "verse": 3,
+      "start_ms": 16762,
+      "end_ms": 26149,
+      "duration_ms": 9387
+    },
+    {
+      "word": "Y los quiciales de las puertas se estremecieron con la voz del que clamaba, y la casa se llenó de humo.",
+      "verse": 4,
+      "start_ms": 26150,
+      "end_ms": 31887,
+      "duration_ms": 5737
+    },
+    {
+      "word": "Entonces dije: ¡Ay de mí! que soy muerto; porque siendo hombre inmundo de labios, y habitando en medio de pueblo que tiene labios inmundos, han visto mis ojos al Rey, Jehová de los ejércitos.",
+      "verse": 5,
+      "start_ms": 31887,
+      "end_ms": 43962,
+      "duration_ms": 12075
+    },
+    {
+      "word": "Y voló hacia mí uno de los serafines, teniendo en su mano un carbón encendido, tomado del altar con unas tenazas; y tocando con él sobre mi boca, dijo: He aquí que esto tocó tus labios, y es quitada tu culpa, y limpio tu pecado.",
+      "verse": 6,
+      "start_ms": 43962,
+      "end_ms": 58999,
+      "duration_ms": 15037
+    },
+    {
+      "word": "Después oí la voz del Señor, que decía: ¿A quién enviaré, y quién irá por nosotros?",
+      "verse": 8,
+      "start_ms": 59000,
+      "end_ms": 65387,
+      "duration_ms": 6387
+    },
+    {
+      "word": "Entonces respondí yo: Heme aquí, envíame a mí.",
+      "verse": 8,
+      "start_ms": 65387,
+      "end_ms": 69437,
+      "duration_ms": 4050
+    },
+    {
+      "word": "Y dijo: Anda, y di a este pueblo: Oíd bien, y no entendáis; ved por cierto, mas no comprendáis.",
+      "verse": 9,
+      "start_ms": 69437,
+      "end_ms": 77112,
+      "duration_ms": 7675
+    },
+    {
+      "word": "Engruesa el corazón de este pueblo, y agrava sus oídos, y ciega sus ojos, para que no vea con sus ojos, ni oiga con sus oídos, ni su corazón entienda, ni se convierta, y haya para él sanidad.",
+      "verse": 10,
+      "start_ms": 77112,
+      "end_ms": 89799,
+      "duration_ms": 12687
+    },
+    {
+      "word": "Y yo dije: ¿Hasta cuándo, Señor?",
+      "verse": 11,
+      "start_ms": 89800,
+      "end_ms": 92962,
+      "duration_ms": 3162
+    },
+    {
+      "word": "Y respondió él: Hasta que las ciudades estén asoladas y sin morador, y no haya hombre en las casas, y la tierra esté hecha un desierto; hasta que Jehová haya echado lejos a los hombres, y multiplicado los lugares abandonados en medio de la tierra.",
+      "verse": 11,
+      "start_ms": 92962,
+      "end_ms": 107399,
+      "duration_ms": 14437
+    },
+    {
+      "word": "Y si quedare aún en ella la décima parte, ésta volverá a ser destruida; pero como el roble y la encina, que al ser cortados aún queda el tronco, así será el tronco, la simiente santa.",
+      "verse": 13,
+      "start_ms": 107400,
+      "end_ms": 119125,
+      "duration_ms": 11725
+    }
+  ]
+}

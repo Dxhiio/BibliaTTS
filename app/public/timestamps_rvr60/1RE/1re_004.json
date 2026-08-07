@@ -1,0 +1,404 @@
+{
+  "book": "1RE",
+  "chapter": 4,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 34,
+  "word_count": 22,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 47,
+      "text": "Reinó, pues, el rey Salomón sobre todo Israel."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 47,
+      "char_end": 116,
+      "text": "Y éstos fueron los jefes que tuvo: Azarías hijo del sacerdote Sadoc;"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 116,
+      "char_end": 197,
+      "text": "Elihoref y Ahías, hijos de Sisa, secretarios; Josafat hijo de Ahilud, canciller;"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 197,
+      "char_end": 271,
+      "text": "Benaía hijo de Joiada sobre el ejército; Sadoc y Abiatar, los sacerdotes;"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 271,
+      "char_end": 375,
+      "text": "Azarías hijo de Natán, sobre los gobernadores; Zabud hijo de Natán, ministro principal y amigo del rey;"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 375,
+      "char_end": 437,
+      "text": "Ahisar, mayordomo; y Adoniram hijo de Abda, sobre el tributo."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 437,
+      "char_end": 599,
+      "text": "Tenía Salomón doce gobernadores sobre todo Israel, los cuales mantenían al rey y a su casa. Cada uno de ellos estaba obligado a abastecerlo por un mes en el año."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 599,
+      "char_end": 671,
+      "text": "Y éstos son los nombres de ellos: el hijo de Hur en el monte de Efraín;"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 671,
+      "char_end": 748,
+      "text": "el hijo de Decar en Macaz, en Saalbim, en Bet-semes, en Elón y en Bet-hanán;"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 748,
+      "char_end": 829,
+      "text": "el hijo de Hesed en Arubot; éste tenía también a Soco y toda la tierra de Hefer;"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 829,
+      "char_end": 928,
+      "text": "el hijo de Abinadab en todos los territorios de Dor; éste tenía por mujer a Tafat hija de Salomón;"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 928,
+      "char_end": 1104,
+      "text": "Baana hijo de Ahilud en Taanac y Meguido, en toda Bet-seán, que está cerca de Saretán, más abajo de Jezreel, desde Bet-seán hasta Abel-mehola, y hasta el otro lado de Jocmeam;"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1104,
+      "char_end": 1343,
+      "text": "el hijo de Geber en Ramot de Galaad; éste tenía también las ciudades de Jair hijo de Manasés, las cuales estaban en Galaad; tenía también la provincia de Argob que estaba en Basán, sesenta grandes ciudades con muro y cerraduras de bronce;"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1343,
+      "char_end": 1378,
+      "text": "Ahinadab hijo de Iddo en Mahanaim;"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1378,
+      "char_end": 1453,
+      "text": "Ahimaas en Neftalí; éste tomó también por mujer a Basemat hija de Salomón."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1453,
+      "char_end": 1493,
+      "text": "Baana hijo de Husai, en Aser y en Alot;"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1493,
+      "char_end": 1527,
+      "text": "Josafat hijo de Parúa, en Isacar;"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1527,
+      "char_end": 1559,
+      "text": "Simei hijo de Ela, en Benjamín;"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1559,
+      "char_end": 1711,
+      "text": "Geber hijo de Uri, en la tierra de Galaad, la tierra de Sehón rey de los amorreos y de Og rey de Basán; éste era el único gobernador en aquella tierra."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1711,
+      "char_end": 1821,
+      "text": "Judá e Israel eran muchos, como la arena que está junto al mar en multitud, comiendo, bebiendo y alegrándose."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1821,
+      "char_end": 2007,
+      "text": "Y Salomón señoreaba sobre todos los reinos desde el éufrates hasta la tierra de los filisteos y el límite con Egipto; y traían presentes, y sirvieron a Salomón todos los días que vivió."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2007,
+      "char_end": 2112,
+      "text": "Y la provisión de Salomón para cada día era de treinta coros de flor de harina, sesenta coros de harina,"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2112,
+      "char_end": 2218,
+      "text": "diez bueyes gordos, veinte bueyes de pasto y cien ovejas; sin los ciervos, gacelas, corzos y aves gordas."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2218,
+      "char_end": 2386,
+      "text": "Porque él señoreaba en toda la región al oeste del éufrates, desde Tifsa hasta Gaza, sobre todos los reyes al oeste del éufrates; y tuvo paz por todos lados alrededor."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2386,
+      "char_end": 2523,
+      "text": "Y Judá e Israel vivían seguros, cada uno debajo de su parra y debajo de su higuera, desde Dan hasta Beerseba, todos los días de Salomón."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2523,
+      "char_end": 2632,
+      "text": "Además de esto, Salomón tenía cuarenta mil caballos en sus caballerizas para sus carros, y doce mil jinetes."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2632,
+      "char_end": 2775,
+      "text": "Y estos gobernadores mantenían al rey Salomón, y a todos los que a la mesa del rey Salomón venían, cada uno un mes, y hacían que nada faltase."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2775,
+      "char_end": 2921,
+      "text": "Hacían también traer cebada y paja para los caballos y para las bestias de carga, al lugar donde él estaba, cada uno conforme al turno que tenía."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2921,
+      "char_end": 3042,
+      "text": "Y Dios dio a Salomón sabiduría y prudencia muy grandes, y anchura de corazón como la arena que está a la orilla del mar."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3042,
+      "char_end": 3149,
+      "text": "Era mayor la sabiduría de Salomón que la de todos los orientales, y que toda la sabiduría de los egipcios."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3149,
+      "char_end": 3311,
+      "text": "Aun fue más sabio que todos los hombres, más que Etán ezraíta, y que Hemán, Calcol y Darda, hijos de Mahol; y fue conocido entre todas las naciones de alrededor."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3311,
+      "char_end": 3375,
+      "text": "Y compuso tres mil proverbios, y sus cantares fueron mil cinco."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3375,
+      "char_end": 3565,
+      "text": "También disertó sobre los árboles, desde el cedro del Líbano hasta el hisopo que nace en la pared. Asimismo disertó sobre los animales, sobre las aves, sobre los reptiles y sobre los peces."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3565,
+      "char_end": 3709,
+      "text": "Y para oír la sabiduría de Salomón venían de todos los pueblos y de todos los reyes de la tierra, adonde había llegado la fama de su sabiduría."
+    }
+  ],
+  "words": [
+    {
+      "word": "Reinó, pues, el rey Salomón sobre todo Israel.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4375,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Y éstos fueron los jefes que tuvo: Azarías hijo del sacerdote Sadoc; Elihoref y Ahías, hijos de Sisa, secretarios; Josafat hijo de Ahilud, canciller; Benaía hijo de Joiada sobre el ejército; Sadoc y Abiatar, los sacerdotes; Azarías hijo de Natán, sobre los gobernadores; Zabud hijo de Natán, ministro principal y amigo del rey; Ahisar, mayordomo; y Adoniram hijo de Abda, sobre el tributo.",
+      "verse": 2,
+      "start_ms": 4325,
+      "end_ms": 30837,
+      "duration_ms": 26512
+    },
+    {
+      "word": "Tenía Salomón doce gobernadores sobre todo Israel, los cuales mantenían al rey y a su casa.",
+      "verse": 7,
+      "start_ms": 30837,
+      "end_ms": 36924,
+      "duration_ms": 6087
+    },
+    {
+      "word": "Cada uno de ellos estaba obligado a abastecerlo por un mes en el año.",
+      "verse": 7,
+      "start_ms": 36925,
+      "end_ms": 41512,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Y éstos son los nombres de ellos: el hijo de Hur en el monte de Efraín; el hijo de Decar en Macaz, en Saalbim, en Bet-semes, en Elón y en Bet-hanán; el hijo de Hesed en Arubot; éste tenía también a Soco y toda la tierra de Hefer; el hijo de Abinadab en todos los territorios de Dor; éste tenía por mujer a Tafat hija de Salomón; Baana hijo de Ahilud en Taanac y Meguido, en toda Bet-seán, que está cerca de Saretán, más abajo de Jezreel, desde Bet-seán hasta Abel-mehola, y hasta el otro lado de",
+      "verse": 8,
+      "start_ms": 41512,
+      "end_ms": 71424,
+      "duration_ms": 29912
+    },
+    {
+      "word": "Jocmeam; el hijo de Geber en Ramot de Galaad; éste tenía también las ciudades de Jair hijo de Manasés, las cuales estaban en Galaad; tenía también la provincia de Argob que estaba en Basán, sesenta grandes ciudades con muro y cerraduras de bronce; Ahinadab hijo de Iddo en Mahanaim; Ahimaas en Neftalí; éste tomó también por mujer a Basemat hija de Salomón.",
+      "verse": 12,
+      "start_ms": 71425,
+      "end_ms": 91962,
+      "duration_ms": 20537
+    },
+    {
+      "word": "Baana hijo de Husai, en Aser y en Alot; Josafat hijo de Parúa, en Isacar; Simei hijo de Ela, en Benjamín; Geber hijo de Uri, en la tierra de Galaad, la tierra de Sehón rey de los amorreos y de Og rey de Basán; éste era el único gobernador en aquella tierra.",
+      "verse": 16,
+      "start_ms": 91962,
+      "end_ms": 108987,
+      "duration_ms": 17025
+    },
+    {
+      "word": "Judá e Israel eran muchos, como la arena que está junto al mar en multitud, comiendo, bebiendo y alegrándose.",
+      "verse": 20,
+      "start_ms": 108987,
+      "end_ms": 116612,
+      "duration_ms": 7625
+    },
+    {
+      "word": "Y Salomón señoreaba sobre todos los reinos desde el éufrates hasta la tierra de los filisteos y el límite con Egipto; y traían presentes, y sirvieron a Salomón todos los días que vivió.",
+      "verse": 21,
+      "start_ms": 116612,
+      "end_ms": 127374,
+      "duration_ms": 10762
+    },
+    {
+      "word": "Y la provisión de Salomón para cada día era de treinta coros de flor de harina, sesenta coros de harina, diez bueyes gordos, veinte bueyes de pasto y cien ovejas; sin los ciervos, gacelas, corzos y aves gordas.",
+      "verse": 22,
+      "start_ms": 127375,
+      "end_ms": 141025,
+      "duration_ms": 13650
+    },
+    {
+      "word": "Porque él señoreaba en toda la región al oeste del éufrates, desde Tifsa hasta Gaza, sobre todos los reyes al oeste del éufrates; y tuvo paz por todos lados alrededor.",
+      "verse": 24,
+      "start_ms": 141025,
+      "end_ms": 151837,
+      "duration_ms": 10812
+    },
+    {
+      "word": "Y Judá e Israel vivían seguros, cada uno debajo de su parra y debajo de su higuera, desde Dan hasta Beerseba, todos los días de Salomón.",
+      "verse": 25,
+      "start_ms": 151837,
+      "end_ms": 160712,
+      "duration_ms": 8875
+    },
+    {
+      "word": "Además de esto, Salomón tenía cuarenta mil caballos en sus caballerizas para sus carros, y doce mil jinetes.",
+      "verse": 26,
+      "start_ms": 160712,
+      "end_ms": 168024,
+      "duration_ms": 7312
+    },
+    {
+      "word": "Y estos gobernadores mantenían al rey Salomón, y a todos los que a la mesa del rey Salomón venían, cada uno un mes, y hacían que nada faltase.",
+      "verse": 27,
+      "start_ms": 168025,
+      "end_ms": 177287,
+      "duration_ms": 9262
+    },
+    {
+      "word": "Hacían también traer cebada y paja para los caballos y para las bestias de carga, al lugar donde él estaba, cada uno conforme al turno que tenía.",
+      "verse": 28,
+      "start_ms": 177287,
+      "end_ms": 185924,
+      "duration_ms": 8637
+    },
+    {
+      "word": "Y Dios dio a Salomón sabiduría y prudencia muy grandes, y anchura de corazón como la arena que está a la orilla del mar.",
+      "verse": 29,
+      "start_ms": 185925,
+      "end_ms": 193487,
+      "duration_ms": 7562
+    },
+    {
+      "word": "Era mayor la sabiduría de Salomón que la de todos los orientales, y que toda la sabiduría de los egipcios.",
+      "verse": 30,
+      "start_ms": 193487,
+      "end_ms": 200374,
+      "duration_ms": 6887
+    },
+    {
+      "word": "Aun fue más sabio que todos los hombres, más que Etán ezraíta, y que Hemán, Calcol y Darda, hijos de Mahol; y fue conocido entre todas las naciones de alrededor.",
+      "verse": 31,
+      "start_ms": 200375,
+      "end_ms": 210675,
+      "duration_ms": 10300
+    },
+    {
+      "word": "Y compuso tres mil proverbios, y sus cantares fueron mil cinco.",
+      "verse": 32,
+      "start_ms": 210675,
+      "end_ms": 215450,
+      "duration_ms": 4775
+    },
+    {
+      "word": "También disertó sobre los árboles, desde el cedro del Líbano hasta el hisopo que nace en la pared.",
+      "verse": 33,
+      "start_ms": 215450,
+      "end_ms": 221500,
+      "duration_ms": 6050
+    },
+    {
+      "word": "Asimismo disertó sobre los animales, sobre las aves, sobre los reptiles y sobre los peces.",
+      "verse": 33,
+      "start_ms": 221500,
+      "end_ms": 227925,
+      "duration_ms": 6425
+    },
+    {
+      "word": "Y para oír la sabiduría de Salomón venían de todos los pueblos y de todos los reyes de la tierra, adonde había llegado la fama de su sabiduría.",
+      "verse": 34,
+      "start_ms": 227925,
+      "end_ms": 236437,
+      "duration_ms": 8512
+    }
+  ]
+}

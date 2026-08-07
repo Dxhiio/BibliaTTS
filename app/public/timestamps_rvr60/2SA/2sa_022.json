@@ -1,0 +1,691 @@
+{
+  "book": "2SA",
+  "chapter": 22,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 51,
+  "word_count": 46,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 142,
+      "text": "Habló David a Jehová las palabras de este cántico, el día que Jehová le había librado de la mano de todos sus enemigos, y de la mano de Saúl."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 142,
+      "char_end": 199,
+      "text": "Dijo: Jehová es mi roca y mi fortaleza, y mi libertador;"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 199,
+      "char_end": 337,
+      "text": "Dios mío, fortaleza mía, en él confiaré; Mi escudo, y el fuerte de mi salvación, mi alto refugio; Salvador mío; de violencia me libraste."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 337,
+      "char_end": 417,
+      "text": "Invocaré a Jehová, quien es digno de ser alabado, Y seré salvo de mis enemigos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 417,
+      "char_end": 490,
+      "text": "Me rodearon ondas de muerte, Y torrentes de perversidad me atemorizaron."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 490,
+      "char_end": 558,
+      "text": "Ligaduras del Seol me rodearon; Tendieron sobre mí lazos de muerte."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 558,
+      "char_end": 672,
+      "text": "En mi angustia invoqué a Jehová, Y clamé a mi Dios; él oyó mi voz desde su templo, Y mi clamor llegó a sus oídos."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 672,
+      "char_end": 793,
+      "text": "La tierra fue conmovida, y tembló, Y se conmovieron los cimientos de los cielos; Se estremecieron, porque se indignó él."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 793,
+      "char_end": 883,
+      "text": "Humo subió de su nariz, Y de su boca fuego consumidor; Carbones fueron por él encendidos."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 883,
+      "char_end": 956,
+      "text": "E inclinó los cielos, y descendió; Y había tinieblas debajo de sus pies."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 956,
+      "char_end": 1025,
+      "text": "Y cabalgó sobre un querubín, y voló; Voló sobre las alas del viento."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1025,
+      "char_end": 1111,
+      "text": "Puso tinieblas por su escondedero alrededor de sí; Oscuridad de aguas y densas nubes."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1111,
+      "char_end": 1180,
+      "text": "Por el resplandor de su presencia se encendieron carbones ardientes."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1180,
+      "char_end": 1239,
+      "text": "Y tronó desde los cielos Jehová, Y el Altísimo dio su voz;"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1239,
+      "char_end": 1309,
+      "text": "Envió sus saetas, y los dispersó; Y lanzó relámpagos, y los destruyó."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1309,
+      "char_end": 1474,
+      "text": "Entonces aparecieron los torrentes de las aguas, Y quedaron al descubierto los cimientos del mundo; A la reprensión de Jehová, Por el soplo del aliento de su nariz."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1474,
+      "char_end": 1534,
+      "text": "Envió desde lo alto y me tomó; Me sacó de las muchas aguas."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1534,
+      "char_end": 1624,
+      "text": "Me libró de poderoso enemigo, Y de los que me aborrecían, aunque eran más fuertes que yo."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1624,
+      "char_end": 1689,
+      "text": "Me asaltaron en el día de mi quebranto; Mas Jehová fue mi apoyo,"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1689,
+      "char_end": 1752,
+      "text": "Y me sacó a lugar espacioso; Me libró, porque se agradó de mí."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1752,
+      "char_end": 1854,
+      "text": "Jehová me ha premiado conforme a mi justicia; Conforme a la limpieza de mis manos me ha recompensado."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1854,
+      "char_end": 1937,
+      "text": "Porque yo he guardado los caminos de Jehová, Y no me aparté impíamente de mi Dios."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1937,
+      "char_end": 2025,
+      "text": "Pues todos sus decretos estuvieron delante de mí, Y no me he apartado de sus estatutos."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2025,
+      "char_end": 2079,
+      "text": "Fui recto para con él, Y me he guardado de mi maldad;"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2079,
+      "char_end": 2198,
+      "text": "Por lo cual me ha recompensado Jehová conforme a mi justicia; Conforme a la limpieza de mis manos delante de su vista."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2198,
+      "char_end": 2285,
+      "text": "Con el misericordioso te mostrarás misericordioso, Y recto para con el hombre íntegro."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2285,
+      "char_end": 2362,
+      "text": "Limpio te mostrarás para con el limpio, Y rígido serás para con el perverso."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2362,
+      "char_end": 2452,
+      "text": "Porque tú salvas al pueblo afligido, Mas tus ojos están sobre los altivos para abatirlos."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2452,
+      "char_end": 2516,
+      "text": "Tú eres mi lámpara, oh Jehová; Mi Dios alumbrará mis tinieblas."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2516,
+      "char_end": 2577,
+      "text": "Contigo desbarataré ejércitos, Y con mi Dios asaltaré muros."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2577,
+      "char_end": 2694,
+      "text": "En cuanto a Dios, perfecto es su camino, Y acrisolada la palabra de Jehová. Escudo es a todos los que en él esperan."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2694,
+      "char_end": 2774,
+      "text": "Porque ¿quién es Dios, sino sólo Jehová? ¿Y qué roca hay fuera de nuestro Dios?"
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 2774,
+      "char_end": 2835,
+      "text": "Dios es el que me ciñe de fuerza, Y quien despeja mi camino;"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 2835,
+      "char_end": 2913,
+      "text": "Quien hace mis pies como de ciervas, Y me hace estar firme sobre mis alturas;"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 2913,
+      "char_end": 3012,
+      "text": "Quien adiestra mis manos para la batalla, De manera que se doble el arco de bronce con mis brazos."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3012,
+      "char_end": 3093,
+      "text": "Me diste asimismo el escudo de tu salvación, Y tu benignidad me ha engrandecido."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3093,
+      "char_end": 3161,
+      "text": "Tú ensanchaste mis pasos debajo de mí, Y mis pies no han resbalado."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 3161,
+      "char_end": 3235,
+      "text": "Perseguiré a mis enemigos, y los destruiré, Y no volveré hasta acabarlos."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 3235,
+      "char_end": 3318,
+      "text": "Los consumiré y los heriré, de modo que no se levanten; Caerán debajo de mis pies."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 3318,
+      "char_end": 3403,
+      "text": "Pues me ceñiste de fuerzas para la pelea; Has humillado a mis enemigos debajo de mí,"
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 3403,
+      "char_end": 3504,
+      "text": "Y has hecho que mis enemigos me vuelvan las espaldas, Para que yo destruyese a los que me aborrecen."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 3504,
+      "char_end": 3573,
+      "text": "Clamaron, y no hubo quien los salvase; Aun a Jehová, mas no les oyó."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 3573,
+      "char_end": 3655,
+      "text": "Como polvo de la tierra los molí; Como lodo de las calles los pisé y los trituré."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 3655,
+      "char_end": 3785,
+      "text": "Me has librado de las contiendas del pueblo; Me guardaste para que fuese cabeza de naciones; Pueblo que yo no conocía me servirá."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 3785,
+      "char_end": 3855,
+      "text": "Los hijos de extraños se someterán a mí; Al oír de mí, me obedecerán."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 3855,
+      "char_end": 3922,
+      "text": "Los extraños se debilitarán, Y saldrán temblando de sus encierros."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 3922,
+      "char_end": 4002,
+      "text": "Viva Jehová, y bendita sea mi roca, Y engrandecido sea el Dios de mi salvación."
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 4002,
+      "char_end": 4065,
+      "text": "El Dios que venga mis agravios, Y sujeta pueblos debajo de mí;"
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 4065,
+      "char_end": 4179,
+      "text": "El que me libra de enemigos, Y aun me exalta sobre los que se levantan contra mí; Me libraste del varón violento."
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 4179,
+      "char_end": 4260,
+      "text": "Por tanto, yo te confesaré entre las naciones, oh Jehová, Y cantaré a tu nombre."
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 4260,
+      "char_end": 4377,
+      "text": "Él salva gloriosamente a su rey, Y usa de misericordia para con su ungido, A David y a su descendencia para siempre."
+    }
+  ],
+  "words": [
+    {
+      "word": "Habló David a Jehová las palabras de este cántico, el día que Jehová le había librado de la mano de todos sus enemigos, y de la mano de Saúl.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 8650,
+      "duration_ms": 8550
+    },
+    {
+      "word": "Dijo: Jehová es mi roca y mi fortaleza, y mi libertador; Dios mío, fortaleza mía, en él confiaré; Mi escudo, y el fuerte de mi salvación, mi alto refugio; Salvador mío; de violencia me libraste.",
+      "verse": 2,
+      "start_ms": 8600,
+      "end_ms": 22775,
+      "duration_ms": 14175
+    },
+    {
+      "word": "Invocaré a Jehová, quien es digno de ser alabado, Y seré salvo de mis enemigos.",
+      "verse": 4,
+      "start_ms": 22775,
+      "end_ms": 28537,
+      "duration_ms": 5762
+    },
+    {
+      "word": "Me rodearon ondas de muerte, Y torrentes de perversidad me atemorizaron.",
+      "verse": 5,
+      "start_ms": 28537,
+      "end_ms": 33437,
+      "duration_ms": 4900
+    },
+    {
+      "word": "Ligaduras del Seol me rodearon; Tendieron sobre mí lazos de muerte.",
+      "verse": 6,
+      "start_ms": 33437,
+      "end_ms": 38187,
+      "duration_ms": 4750
+    },
+    {
+      "word": "En mi angustia invoqué a Jehová, Y clamé a mi Dios; él oyó mi voz desde su templo, Y mi clamor llegó a sus oídos.",
+      "verse": 7,
+      "start_ms": 38187,
+      "end_ms": 45824,
+      "duration_ms": 7637
+    },
+    {
+      "word": "La tierra fue conmovida, y tembló, Y se conmovieron los cimientos de los cielos; Se estremecieron, porque se indignó él.",
+      "verse": 8,
+      "start_ms": 45825,
+      "end_ms": 53712,
+      "duration_ms": 7887
+    },
+    {
+      "word": "Humo subió de su nariz, Y de su boca fuego consumidor; Carbones fueron por él encendidos.",
+      "verse": 9,
+      "start_ms": 53712,
+      "end_ms": 59987,
+      "duration_ms": 6275
+    },
+    {
+      "word": "E inclinó los cielos, y descendió; Y había tinieblas debajo de sus pies.",
+      "verse": 10,
+      "start_ms": 59987,
+      "end_ms": 65399,
+      "duration_ms": 5412
+    },
+    {
+      "word": "Y cabalgó sobre un querubín, y voló; Voló sobre las alas del viento.",
+      "verse": 11,
+      "start_ms": 65400,
+      "end_ms": 70437,
+      "duration_ms": 5037
+    },
+    {
+      "word": "Puso tinieblas por su escondedero alrededor de sí; Oscuridad de aguas y densas nubes.",
+      "verse": 12,
+      "start_ms": 70437,
+      "end_ms": 76412,
+      "duration_ms": 5975
+    },
+    {
+      "word": "Por el resplandor de su presencia se encendieron carbones ardientes.",
+      "verse": 13,
+      "start_ms": 76412,
+      "end_ms": 80724,
+      "duration_ms": 4312
+    },
+    {
+      "word": "Y tronó desde los cielos Jehová, Y el Altísimo dio su voz; Envió sus saetas, y los dispersó; Y lanzó relámpagos, y los destruyó.",
+      "verse": 14,
+      "start_ms": 80725,
+      "end_ms": 89912,
+      "duration_ms": 9187
+    },
+    {
+      "word": "Entonces aparecieron los torrentes de las aguas, Y quedaron al descubierto los cimientos del mundo; A la reprensión de Jehová, Por el soplo del aliento de su nariz.",
+      "verse": 16,
+      "start_ms": 89912,
+      "end_ms": 99287,
+      "duration_ms": 9375
+    },
+    {
+      "word": "Envió desde lo alto y me tomó; Me sacó de las muchas aguas.",
+      "verse": 17,
+      "start_ms": 99287,
+      "end_ms": 103849,
+      "duration_ms": 4562
+    },
+    {
+      "word": "Me libró de poderoso enemigo, Y de los que me aborrecían, aunque eran más fuertes que yo.",
+      "verse": 18,
+      "start_ms": 103850,
+      "end_ms": 109687,
+      "duration_ms": 5837
+    },
+    {
+      "word": "Me asaltaron en el día de mi quebranto; Mas Jehová fue mi apoyo, Y me sacó a lugar espacioso; Me libró, porque se agradó de mí.",
+      "verse": 19,
+      "start_ms": 109687,
+      "end_ms": 118137,
+      "duration_ms": 8450
+    },
+    {
+      "word": "Jehová me ha premiado conforme a mi justicia; Conforme a la limpieza de mis manos me ha recompensado.",
+      "verse": 21,
+      "start_ms": 118137,
+      "end_ms": 124462,
+      "duration_ms": 6325
+    },
+    {
+      "word": "Porque yo he guardado los caminos de Jehová, Y no me aparté impíamente de mi Dios.",
+      "verse": 22,
+      "start_ms": 124462,
+      "end_ms": 129824,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Pues todos sus decretos estuvieron delante de mí, Y no me he apartado de sus estatutos.",
+      "verse": 23,
+      "start_ms": 129825,
+      "end_ms": 135475,
+      "duration_ms": 5650
+    },
+    {
+      "word": "Fui recto para con él, Y me he guardado de mi maldad; Por lo cual me ha recompensado Jehová conforme a mi justicia; Conforme a la limpieza de mis manos delante de su vista.",
+      "verse": 24,
+      "start_ms": 135475,
+      "end_ms": 145600,
+      "duration_ms": 10125
+    },
+    {
+      "word": "Con el misericordioso te mostrarás misericordioso, Y recto para con el hombre íntegro.",
+      "verse": 26,
+      "start_ms": 145600,
+      "end_ms": 151350,
+      "duration_ms": 5750
+    },
+    {
+      "word": "Limpio te mostrarás para con el limpio, Y rígido serás para con el perverso.",
+      "verse": 27,
+      "start_ms": 151350,
+      "end_ms": 156450,
+      "duration_ms": 5100
+    },
+    {
+      "word": "Porque tú salvas al pueblo afligido, Mas tus ojos están sobre los altivos para abatirlos.",
+      "verse": 28,
+      "start_ms": 156450,
+      "end_ms": 162187,
+      "duration_ms": 5737
+    },
+    {
+      "word": "Tú eres mi lámpara, oh Jehová; Mi Dios alumbrará mis tinieblas.",
+      "verse": 29,
+      "start_ms": 162187,
+      "end_ms": 167024,
+      "duration_ms": 4837
+    },
+    {
+      "word": "Contigo desbarataré ejércitos, Y con mi Dios asaltaré muros.",
+      "verse": 30,
+      "start_ms": 167025,
+      "end_ms": 171800,
+      "duration_ms": 4775
+    },
+    {
+      "word": "En cuanto a Dios, perfecto es su camino, Y acrisolada la palabra de Jehová.",
+      "verse": 31,
+      "start_ms": 171800,
+      "end_ms": 177075,
+      "duration_ms": 5275
+    },
+    {
+      "word": "Escudo es a todos los que en él esperan.",
+      "verse": 31,
+      "start_ms": 177075,
+      "end_ms": 180175,
+      "duration_ms": 3100
+    },
+    {
+      "word": "Porque ¿quién es Dios, sino sólo Jehová?",
+      "verse": 32,
+      "start_ms": 180175,
+      "end_ms": 183362,
+      "duration_ms": 3187
+    },
+    {
+      "word": "Y qué roca hay fuera de nuestro Dios?",
+      "verse": 32,
+      "start_ms": 183362,
+      "end_ms": 186287,
+      "duration_ms": 2925
+    },
+    {
+      "word": "Dios es el que me ciñe de fuerza, Y quien despeja mi camino; Quien hace mis pies como de ciervas, Y me hace estar firme sobre mis alturas; Quien adiestra mis manos para la batalla, De manera que se doble el arco de bronce con mis brazos.",
+      "verse": 33,
+      "start_ms": 186287,
+      "end_ms": 200149,
+      "duration_ms": 13862
+    },
+    {
+      "word": "Me diste asimismo el escudo de tu salvación, Y tu benignidad me ha engrandecido.",
+      "verse": 36,
+      "start_ms": 200150,
+      "end_ms": 205662,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Tú ensanchaste mis pasos debajo de mí, Y mis pies no han resbalado.",
+      "verse": 37,
+      "start_ms": 205662,
+      "end_ms": 210312,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Perseguiré a mis enemigos, y los destruiré, Y no volveré hasta acabarlos.",
+      "verse": 38,
+      "start_ms": 210312,
+      "end_ms": 215799,
+      "duration_ms": 5487
+    },
+    {
+      "word": "Los consumiré y los heriré, de modo que no se levanten; Caerán debajo de mis pies.",
+      "verse": 39,
+      "start_ms": 215800,
+      "end_ms": 221712,
+      "duration_ms": 5912
+    },
+    {
+      "word": "Pues me ceñiste de fuerzas para la pelea; Has humillado a mis enemigos debajo de mí, Y has hecho que mis enemigos me vuelvan las espaldas, Para que yo destruyese a los que me aborrecen.",
+      "verse": 40,
+      "start_ms": 221712,
+      "end_ms": 232262,
+      "duration_ms": 10550
+    },
+    {
+      "word": "Clamaron, y no hubo quien los salvase; Aun a Jehová, mas no les oyó.",
+      "verse": 42,
+      "start_ms": 232262,
+      "end_ms": 237374,
+      "duration_ms": 5112
+    },
+    {
+      "word": "Como polvo de la tierra los molí; Como lodo de las calles los pisé y los trituré.",
+      "verse": 43,
+      "start_ms": 237375,
+      "end_ms": 242850,
+      "duration_ms": 5475
+    },
+    {
+      "word": "Me has librado de las contiendas del pueblo; Me guardaste para que fuese cabeza de naciones; Pueblo que yo no conocía me servirá.",
+      "verse": 44,
+      "start_ms": 242850,
+      "end_ms": 250650,
+      "duration_ms": 7800
+    },
+    {
+      "word": "Los hijos de extraños se someterán a mí; Al oír de mí, me obedecerán.",
+      "verse": 45,
+      "start_ms": 250650,
+      "end_ms": 255600,
+      "duration_ms": 4950
+    },
+    {
+      "word": "Los extraños se debilitarán, Y saldrán temblando de sus encierros.",
+      "verse": 46,
+      "start_ms": 255600,
+      "end_ms": 260425,
+      "duration_ms": 4825
+    },
+    {
+      "word": "Viva Jehová, y bendita sea mi roca, Y engrandecido sea",
+      "verse": 47,
+      "start_ms": 260425,
+      "end_ms": 265062,
+      "duration_ms": 4637
+    },
+    {
+      "word": "el Dios de mi salvación.",
+      "verse": 47,
+      "start_ms": 265228,
+      "end_ms": 267490,
+      "duration_ms": 2262
+    },
+    {
+      "word": "El Dios que venga mis agravios, Y sujeta pueblos debajo de mí; El que me libra de enemigos, Y aun me exalta sobre los que se levantan contra mí; Me libraste del varón violento.",
+      "verse": 48,
+      "start_ms": 267440,
+      "end_ms": 278090,
+      "duration_ms": 10650
+    },
+    {
+      "word": "Por tanto, yo te confesaré entre las naciones, oh Jehová, Y cantaré a tu nombre.",
+      "verse": 50,
+      "start_ms": 278090,
+      "end_ms": 283815,
+      "duration_ms": 5725
+    },
+    {
+      "word": "Él salva gloriosamente a su rey, Y usa de misericordia para con su ungido, A David y a su descendencia para siempre.",
+      "verse": 51,
+      "start_ms": 283815,
+      "end_ms": 291352,
+      "duration_ms": 7537
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "book": "SAL",
+  "chapter": 21,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 13,
+  "word_count": 12,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 75,
+      "text": "El rey se alegra en tu poder, oh Jehová; Y en tu salvación, ¡cómo se goza!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 75,
+      "char_end": 165,
+      "text": "Le has concedido el deseo de su corazón, Y no le negaste la petición de sus labios. Selah"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 165,
+      "char_end": 271,
+      "text": "Porque le has salido al encuentro con bendiciones de bien; Corona de oro fino has puesto sobre su cabeza."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 271,
+      "char_end": 347,
+      "text": "Vida te demandó, y se la diste; Largura de días eternamente y para siempre."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 347,
+      "char_end": 422,
+      "text": "Grande es su gloria en tu salvación; Honra y majestad has puesto sobre él."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 422,
+      "char_end": 501,
+      "text": "Porque lo has bendecido para siempre; Lo llenaste de alegría con tu presencia."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 501,
+      "char_end": 591,
+      "text": "Por cuanto el rey confía en Jehová, Y en la misericordia del Altísimo, no será conmovido."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 591,
+      "char_end": 676,
+      "text": "Alcanzará tu mano a todos tus enemigos; Tu diestra alcanzará a los que te aborrecen."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 676,
+      "char_end": 785,
+      "text": "Los pondrás como horno de fuego en el tiempo de tu ira; Jehová los deshará en su ira, Y fuego los consumirá."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 785,
+      "char_end": 872,
+      "text": "Su fruto destruirás de la tierra, Y su descendencia de entre los hijos de los hombres."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 872,
+      "char_end": 954,
+      "text": "Porque intentaron el mal contra ti; Fraguaron maquinaciones, mas no prevalecerán,"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 954,
+      "char_end": 1036,
+      "text": "Pues tú los pondrás en fuga; En tus cuerdas dispondrás saetas contra sus rostros."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1036,
+      "char_end": 1110,
+      "text": "Engrandécete, oh Jehová, en tu poder; Cantaremos y alabaremos tu poderío."
+    }
+  ],
+  "words": [
+    {
+      "word": "El rey se alegra en tu poder, oh Jehová; Y en tu salvación, ¡cómo se goza!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5412,
+      "duration_ms": 5312
+    },
+    {
+      "word": "Le has concedido el deseo de su corazón, Y no le negaste la petición de sus labios.",
+      "verse": 2,
+      "start_ms": 5362,
+      "end_ms": 11074,
+      "duration_ms": 5712
+    },
+    {
+      "word": "Selah Porque le has salido al encuentro con bendiciones de bien; Corona de oro fino has puesto sobre su cabeza.",
+      "verse": 2,
+      "start_ms": 11075,
+      "end_ms": 17625,
+      "duration_ms": 6550
+    },
+    {
+      "word": "Vida te demandó, y se la diste; Largura de días eternamente y para siempre.",
+      "verse": 4,
+      "start_ms": 17625,
+      "end_ms": 23187,
+      "duration_ms": 5562
+    },
+    {
+      "word": "Grande es su gloria en tu salvación; Honra y majestad has puesto sobre él.",
+      "verse": 5,
+      "start_ms": 23187,
+      "end_ms": 28137,
+      "duration_ms": 4950
+    },
+    {
+      "word": "Porque lo has bendecido para siempre; Lo llenaste de alegría con tu presencia.",
+      "verse": 6,
+      "start_ms": 28137,
+      "end_ms": 33024,
+      "duration_ms": 4887
+    },
+    {
+      "word": "Por cuanto el rey confía en Jehová, Y en la misericordia del Altísimo, no será conmovido.",
+      "verse": 7,
+      "start_ms": 33025,
+      "end_ms": 38937,
+      "duration_ms": 5912
+    },
+    {
+      "word": "Alcanzará tu mano a todos tus enemigos; Tu diestra alcanzará a los que te aborrecen.",
+      "verse": 8,
+      "start_ms": 38937,
+      "end_ms": 44624,
+      "duration_ms": 5687
+    },
+    {
+      "word": "Los pondrás como horno de fuego en el tiempo de tu ira; Jehová los deshará en su ira, Y fuego los consumirá.",
+      "verse": 9,
+      "start_ms": 44625,
+      "end_ms": 51512,
+      "duration_ms": 6887
+    },
+    {
+      "word": "Su fruto destruirás de la tierra, Y su descendencia de entre los hijos de los hombres.",
+      "verse": 10,
+      "start_ms": 51512,
+      "end_ms": 56949,
+      "duration_ms": 5437
+    },
+    {
+      "word": "Porque intentaron el mal contra ti; Fraguaron maquinaciones, mas no prevalecerán, Pues tú los pondrás en fuga; En tus cuerdas dispondrás saetas contra sus rostros.",
+      "verse": 11,
+      "start_ms": 56950,
+      "end_ms": 67312,
+      "duration_ms": 10362
+    },
+    {
+      "word": "Engrandécete, oh Jehová, en tu poder; Cantaremos y alabaremos tu poderío.",
+      "verse": 13,
+      "start_ms": 67312,
+      "end_ms": 72924,
+      "duration_ms": 5612
+    }
+  ]
+}

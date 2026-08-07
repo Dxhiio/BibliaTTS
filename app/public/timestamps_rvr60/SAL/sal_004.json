@@ -1,0 +1,138 @@
+{
+  "book": "SAL",
+  "chapter": 4,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 8,
+  "word_count": 10,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 143,
+      "text": "Respóndeme cuando clamo, oh Dios de mi justicia. Cuando estaba en angustia, tú me hiciste ensanchar; Ten misericordia de mí, y oye mi oración."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 143,
+      "char_end": 260,
+      "text": "Hijos de los hombres, ¿hasta cuándo volveréis mi honra en infamia, Amaréis la vanidad, y buscaréis la mentira? Selah"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 260,
+      "char_end": 352,
+      "text": "Sabed, pues, que Jehová ha escogido al piadoso para sí; Jehová oirá cuando yo a él clamare."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 352,
+      "char_end": 443,
+      "text": "Temblad, y no pequéis; Meditad en vuestro corazón estando en vuestra cama, y callad. Selah"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 443,
+      "char_end": 497,
+      "text": "Ofreced sacrificios de justicia, Y confiad en Jehová."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 497,
+      "char_end": 605,
+      "text": "Muchos son los que dicen: ¿Quién nos mostrará el bien? Alza sobre nosotros, oh Jehová, la luz de tu rostro."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 605,
+      "char_end": 694,
+      "text": "Tú diste alegría a mi corazón Mayor que la de ellos cuando abundaba su grano y su mosto."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 694,
+      "char_end": 783,
+      "text": "En paz me acostaré, y asimismo dormiré; Porque sólo tú, Jehová, me haces vivir confiado."
+    }
+  ],
+  "words": [
+    {
+      "word": "Respóndeme cuando clamo, oh Dios de mi justicia.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3737,
+      "duration_ms": 3637
+    },
+    {
+      "word": "Cuando estaba en angustia, tú me hiciste ensanchar; Ten misericordia de mí, y oye mi oración.",
+      "verse": 1,
+      "start_ms": 3687,
+      "end_ms": 10024,
+      "duration_ms": 6337
+    },
+    {
+      "word": "Hijos de los hombres, ¿hasta cuándo volveréis mi honra en infamia, Amaréis la vanidad, y buscaréis la mentira?",
+      "verse": 2,
+      "start_ms": 10025,
+      "end_ms": 17200,
+      "duration_ms": 7175
+    },
+    {
+      "word": "Selah Sabed, pues, que Jehová ha escogido al piadoso para sí; Jehová oirá cuando yo a él clamare.",
+      "verse": 2,
+      "start_ms": 17200,
+      "end_ms": 23950,
+      "duration_ms": 6750
+    },
+    {
+      "word": "Temblad, y no pequéis; Meditad en vuestro corazón estando en vuestra cama, y callad.",
+      "verse": 4,
+      "start_ms": 23950,
+      "end_ms": 29950,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Selah Ofreced sacrificios de justicia, Y confiad en Jehová.",
+      "verse": 4,
+      "start_ms": 29950,
+      "end_ms": 34337,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Muchos son los que dicen: ¿Quién nos mostrará el bien?",
+      "verse": 6,
+      "start_ms": 34337,
+      "end_ms": 38037,
+      "duration_ms": 3700
+    },
+    {
+      "word": "Alza sobre nosotros, oh Jehová, la luz de tu rostro.",
+      "verse": 6,
+      "start_ms": 38037,
+      "end_ms": 42299,
+      "duration_ms": 4262
+    },
+    {
+      "word": "Tú diste alegría a mi corazón Mayor que la de ellos cuando abundaba su grano y su mosto.",
+      "verse": 7,
+      "start_ms": 42300,
+      "end_ms": 47687,
+      "duration_ms": 5387
+    },
+    {
+      "word": "En paz me acostaré, y asimismo dormiré; Porque sólo tú, Jehová, me haces vivir confiado.",
+      "verse": 8,
+      "start_ms": 47687,
+      "end_ms": 54262,
+      "duration_ms": 6575
+    }
+  ]
+}

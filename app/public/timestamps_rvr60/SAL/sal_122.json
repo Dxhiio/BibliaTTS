@@ -1,0 +1,138 @@
+{
+  "book": "SAL",
+  "chapter": 122,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 9,
+  "word_count": 9,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 64,
+      "text": "Yo me alegré con los que me decían: A la casa de Jehová iremos."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 64,
+      "char_end": 126,
+      "text": "Nuestros pies estuvieron Dentro de tus puertas, oh Jerusalén."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 126,
+      "char_end": 203,
+      "text": "Jerusalén, que se ha edificado Como una ciudad que está bien unida entre sí."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 203,
+      "char_end": 321,
+      "text": "Y allá subieron las tribus, las tribus de JAH, Conforme al testimonio dado a Israel, Para alabar el nombre de Jehová."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 321,
+      "char_end": 394,
+      "text": "Porque allá están las sillas del juicio, Los tronos de la casa de David."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 394,
+      "char_end": 459,
+      "text": "Pedid por la paz de Jerusalén; Sean prosperados los que te aman."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 459,
+      "char_end": 529,
+      "text": "Sea la paz dentro de tus muros, Y el descanso dentro de tus palacios."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 529,
+      "char_end": 600,
+      "text": "Por amor de mis hermanos y mis compañeros Diré yo: La paz sea contigo."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 600,
+      "char_end": 659,
+      "text": "Por amor a la casa de Jehová nuestro Dios Buscaré tu bien."
+    }
+  ],
+  "words": [
+    {
+      "word": "Yo me alegré con los que me decían: A la casa de Jehová iremos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4550,
+      "duration_ms": 4450
+    },
+    {
+      "word": "Nuestros pies estuvieron Dentro de tus puertas, oh Jerusalén.",
+      "verse": 2,
+      "start_ms": 4500,
+      "end_ms": 8625,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Jerusalén, que se ha edificado Como una ciudad que está bien unida entre sí.",
+      "verse": 3,
+      "start_ms": 8625,
+      "end_ms": 13875,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Y allá subieron las tribus, las tribus de JAH, Conforme al testimonio dado a Israel, Para alabar el nombre de Jehová.",
+      "verse": 4,
+      "start_ms": 13875,
+      "end_ms": 21900,
+      "duration_ms": 8025
+    },
+    {
+      "word": "Porque allá están las sillas del juicio, Los tronos de la casa de David.",
+      "verse": 5,
+      "start_ms": 21900,
+      "end_ms": 26487,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Pedid por la paz de Jerusalén; Sean prosperados los que te aman.",
+      "verse": 6,
+      "start_ms": 26487,
+      "end_ms": 30999,
+      "duration_ms": 4512
+    },
+    {
+      "word": "Sea la paz dentro de tus muros, Y el descanso dentro de tus palacios.",
+      "verse": 7,
+      "start_ms": 31000,
+      "end_ms": 36087,
+      "duration_ms": 5087
+    },
+    {
+      "word": "Por amor de mis hermanos y mis compañeros Diré yo: La paz sea contigo.",
+      "verse": 8,
+      "start_ms": 36087,
+      "end_ms": 40999,
+      "duration_ms": 4912
+    },
+    {
+      "word": "Por amor a la casa de Jehová nuestro Dios Buscaré tu bien.",
+      "verse": 9,
+      "start_ms": 41000,
+      "end_ms": 44825,
+      "duration_ms": 3825
+    }
+  ]
+}

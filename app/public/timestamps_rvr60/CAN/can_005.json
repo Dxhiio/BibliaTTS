@@ -1,0 +1,278 @@
+{
+  "book": "CAN",
+  "chapter": 5,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 16,
+  "word_count": 22,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 216,
+      "text": "Yo vine a mi huerto, oh hermana, esposa mía; He recogido mi mirra y mis aromas; He comido mi panal y mi miel, Mi vino y mi leche he bebido. Comed, amigos; bebed en abundancia, oh amados. El tormento de la separación"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 216,
+      "char_end": 419,
+      "text": "Yo dormía, pero mi corazón velaba. Es la voz de mi amado que llama: Abreme, hermana mía, amiga mía, paloma mía, perfecta mía, Porque mi cabeza está llena de rocío, Mis cabellos de las gotas de la noche."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 419,
+      "char_end": 516,
+      "text": "Me he desnudado de mi ropa; ¿cómo me he de vestir? He lavado mis pies; ¿cómo los he de ensuciar?"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 516,
+      "char_end": 597,
+      "text": "Mi amado metió su mano por la ventanilla, Y mi corazón se conmovió dentro de mí."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 597,
+      "char_end": 724,
+      "text": "Yo me levanté para abrir a mi amado, Y mis manos gotearon mirra, Y mis dedos mirra, que corría Sobre la manecilla del cerrojo."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 724,
+      "char_end": 876,
+      "text": "Abrí yo a mi amado; Pero mi amado se había ido, había ya pasado; Y tras su hablar salió mi alma. Lo busqué, y no lo hallé; Lo llamé, y no me respondió."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 876,
+      "char_end": 1006,
+      "text": "Me hallaron los guardas que rondan la ciudad; Me golpearon, me hirieron; Me quitaron mi manto de encima los guardas de los muros."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1006,
+      "char_end": 1144,
+      "text": "Yo os conjuro, oh doncellas de Jerusalén, si halláis a mi amado, Que le hagáis saber que estoy enferma de amor. La esposa alaba al esposo"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1144,
+      "char_end": 1280,
+      "text": "¿Qué es tu amado más que otro amado, Oh la más hermosa de todas las mujeres? ¿Qué es tu amado más que otro amado, Que así nos conjuras?"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1280,
+      "char_end": 1333,
+      "text": "Mi amado es blanco y rubio, Señalado entre diez mil."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1333,
+      "char_end": 1407,
+      "text": "Su cabeza como oro finísimo; Sus cabellos crespos, negros como el cuervo."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1407,
+      "char_end": 1517,
+      "text": "Sus ojos, como palomas junto a los arroyos de las aguas, Que se lavan con leche, y a la perfección colocados."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1517,
+      "char_end": 1644,
+      "text": "Sus mejillas, como una era de especias aromáticas, como fragantes flores; Sus labios, como lirios que destilan mirra fragante."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1644,
+      "char_end": 1749,
+      "text": "Sus manos, como anillos de oro engastados de jacintos; Su cuerpo, como claro marfil cubierto de zafiros."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1749,
+      "char_end": 1873,
+      "text": "Sus piernas, como columnas de mármol fundadas sobre basas de oro fino; Su aspecto como el Líbano, escogido como los cedros."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1873,
+      "char_end": 1979,
+      "text": "Su paladar, dulcísimo, y todo él codiciable. Tal es mi amado, tal es mi amigo, Oh doncellas de Jerusalén."
+    }
+  ],
+  "words": [
+    {
+      "word": "Yo vine a mi huerto, oh hermana, esposa mía; He recogido mi mirra y mis aromas; He comido mi panal y mi miel, Mi vino y mi leche he bebido.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 9875,
+      "duration_ms": 9775
+    },
+    {
+      "word": "Comed, amigos; bebed en abundancia, oh amados.",
+      "verse": 1,
+      "start_ms": 9825,
+      "end_ms": 14375,
+      "duration_ms": 4550
+    },
+    {
+      "word": "El tormento de la separación Yo dormía, pero mi corazón velaba.",
+      "verse": 1,
+      "start_ms": 14375,
+      "end_ms": 18800,
+      "duration_ms": 4425
+    },
+    {
+      "word": "Es la voz de mi amado que llama: Abreme, hermana mía, amiga mía, paloma mía, perfecta mía, Porque mi cabeza está llena de rocío, Mis cabellos de las gotas de la noche.",
+      "verse": 2,
+      "start_ms": 18800,
+      "end_ms": 30275,
+      "duration_ms": 11475
+    },
+    {
+      "word": "Me he desnudado de mi ropa; ¿cómo me he de vestir?",
+      "verse": 3,
+      "start_ms": 30275,
+      "end_ms": 34262,
+      "duration_ms": 3987
+    },
+    {
+      "word": "He lavado mis pies; ¿cómo los he de ensuciar?",
+      "verse": 3,
+      "start_ms": 34262,
+      "end_ms": 37949,
+      "duration_ms": 3687
+    },
+    {
+      "word": "Mi amado metió su mano por la ventanilla, Y mi corazón se conmovió dentro de mí.",
+      "verse": 4,
+      "start_ms": 37950,
+      "end_ms": 43325,
+      "duration_ms": 5375
+    },
+    {
+      "word": "Yo me levanté para abrir a mi amado, Y mis manos gotearon mirra, Y mis dedos mirra, que corría Sobre la manecilla del cerrojo.",
+      "verse": 5,
+      "start_ms": 43325,
+      "end_ms": 51337,
+      "duration_ms": 8012
+    },
+    {
+      "word": "Abrí yo a mi amado; Pero mi amado se había ido, había ya pasado; Y tras su hablar salió mi alma.",
+      "verse": 6,
+      "start_ms": 51337,
+      "end_ms": 58199,
+      "duration_ms": 6862
+    },
+    {
+      "word": "Lo busqué, y no lo hallé; Lo llamé, y no me respondió.",
+      "verse": 6,
+      "start_ms": 58200,
+      "end_ms": 62625,
+      "duration_ms": 4425
+    },
+    {
+      "word": "Me hallaron los guardas que rondan la ciudad; Me golpearon, me hirieron; Me quitaron mi manto de encima los guardas de los muros.",
+      "verse": 7,
+      "start_ms": 62625,
+      "end_ms": 70487,
+      "duration_ms": 7862
+    },
+    {
+      "word": "Yo os conjuro, oh doncellas de Jerusalén, si halláis a mi amado, Que le hagáis saber que estoy enferma de amor.",
+      "verse": 8,
+      "start_ms": 70487,
+      "end_ms": 77687,
+      "duration_ms": 7200
+    },
+    {
+      "word": "La esposa alaba al esposo ¿Qué es tu amado más que otro amado, Oh la más hermosa de todas las mujeres?",
+      "verse": 8,
+      "start_ms": 77687,
+      "end_ms": 83849,
+      "duration_ms": 6162
+    },
+    {
+      "word": "Qué es tu amado más que otro amado, Que así nos conjuras?",
+      "verse": 9,
+      "start_ms": 83850,
+      "end_ms": 88100,
+      "duration_ms": 4250
+    },
+    {
+      "word": "Mi amado es blanco y rubio, Señalado entre diez mil.",
+      "verse": 10,
+      "start_ms": 88100,
+      "end_ms": 92137,
+      "duration_ms": 4037
+    },
+    {
+      "word": "Su cabeza como oro finísimo; Sus cabellos crespos, negros como el cuervo.",
+      "verse": 11,
+      "start_ms": 92137,
+      "end_ms": 97699,
+      "duration_ms": 5562
+    },
+    {
+      "word": "Sus ojos, como palomas junto a los arroyos de las aguas, Que se lavan con leche, y a la perfección colocados.",
+      "verse": 12,
+      "start_ms": 97700,
+      "end_ms": 105025,
+      "duration_ms": 7325
+    },
+    {
+      "word": "Sus mejillas, como una era de especias aromáticas, como fragantes flores; Sus labios, como lirios que destilan mirra fragante.",
+      "verse": 13,
+      "start_ms": 105025,
+      "end_ms": 114175,
+      "duration_ms": 9150
+    },
+    {
+      "word": "Sus manos, como anillos de oro engastados de jacintos; Su cuerpo, como claro marfil cubierto de zafiros.",
+      "verse": 14,
+      "start_ms": 114175,
+      "end_ms": 121912,
+      "duration_ms": 7737
+    },
+    {
+      "word": "Sus piernas, como columnas de mármol fundadas sobre basas de oro fino; Su aspecto como el Líbano, escogido como los cedros.",
+      "verse": 15,
+      "start_ms": 121912,
+      "end_ms": 130274,
+      "duration_ms": 8362
+    },
+    {
+      "word": "Su paladar, dulcísimo, y todo él codiciable.",
+      "verse": 16,
+      "start_ms": 130275,
+      "end_ms": 134425,
+      "duration_ms": 4150
+    },
+    {
+      "word": "Tal es mi amado, tal es mi amigo, Oh doncellas de Jerusalén.",
+      "verse": 16,
+      "start_ms": 134425,
+      "end_ms": 138825,
+      "duration_ms": 4400
+    }
+  ]
+}

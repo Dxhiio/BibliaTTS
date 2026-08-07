@@ -1,0 +1,943 @@
+{
+  "book": "JUA",
+  "chapter": 9,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 59,
+  "word_count": 74,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 39,
+      "text": "y Jesús se fue al monte de los Olivos."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 39,
+      "char_end": 129,
+      "text": "Y por la mañana volvió al templo, y todo el pueblo vino a él; y sentado él, les enseñaba."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 129,
+      "char_end": 237,
+      "text": "Entonces los escribas y los fariseos le trajeron una mujer sorprendida en adulterio; y poniéndola en medio,"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 237,
+      "char_end": 320,
+      "text": "le dijeron: Maestro, esta mujer ha sido sorprendida en el acto mismo de adulterio."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 320,
+      "char_end": 397,
+      "text": "Y en la ley nos mandó Moisés apedrear a tales mujeres. Tú, pues, ¿qué dices?"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 397,
+      "char_end": 516,
+      "text": "Mas esto decían tentándole, para poder acusarle. Pero Jesús, inclinado hacia el suelo, escribía en tierra con el dedo."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 516,
+      "char_end": 659,
+      "text": "Y como insistieran en preguntarle, se enderezó y les dijo: El que de vosotros esté sin pecado sea el primero en arrojar la piedra contra ella."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 659,
+      "char_end": 729,
+      "text": "E inclinándose de nuevo hacia el suelo, siguió escribiendo en tierra."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 729,
+      "char_end": 905,
+      "text": "Pero ellos, al oír esto, acusados por su conciencia, salían uno a uno, comenzando desde los más viejos hasta los postreros; y quedó solo Jesús, y la mujer que estaba en medio."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 905,
+      "char_end": 1034,
+      "text": "Enderezándose Jesús, y no viendo a nadie sino a la mujer, le dijo: Mujer, ¿dónde están los que te acusaban? ¿Ninguno te condenó?"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1034,
+      "char_end": 1150,
+      "text": "Ella dijo: Ninguno, Señor. Entonces Jesús le dijo: Ni yo te condeno; vete, y no peques más. Jesús, la luz del mundo"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1150,
+      "char_end": 1287,
+      "text": "Otra vez Jesús les habló, diciendo: Yo soy la luz del mundo; el que me sigue, no andará en tinieblas, sino que tendrá la luz de la vida."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1287,
+      "char_end": 1390,
+      "text": "Entonces los fariseos le dijeron: Tú das testimonio acerca de ti mismo; tu testimonio no es verdadero."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1390,
+      "char_end": 1591,
+      "text": "Respondió Jesús y les dijo: Aunque yo doy testimonio acerca de mí mismo, mi testimonio es verdadero, porque sé de dónde he venido y a dónde voy; pero vosotros no sabéis de dónde vengo, ni a dónde voy."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1591,
+      "char_end": 1645,
+      "text": "Vosotros juzgáis según la carne; yo no juzgo a nadie."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1645,
+      "char_end": 1744,
+      "text": "Y si yo juzgo, mi juicio es verdadero; porque no soy yo solo, sino yo y el que me envió, el Padre."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1744,
+      "char_end": 1821,
+      "text": "Y en vuestra ley está escrito que el testimonio de dos hombres es verdadero."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1821,
+      "char_end": 1908,
+      "text": "Yo soy el que doy testimonio de mí mismo, y el Padre que me envió da testimonio de mí."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1908,
+      "char_end": 2057,
+      "text": "Ellos le dijeron: ¿Dónde está tu Padre? Respondió Jesús: Ni a mí me conocéis, ni a mi Padre; si a mí me conocieseis, también a mi Padre conoceríais."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2057,
+      "char_end": 2235,
+      "text": "Estas palabras habló Jesús en el lugar de las ofrendas, enseñando en el templo; y nadie le prendió, porque aún no había llegado su hora. A donde yo voy, vosotros no podéis venir"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2235,
+      "char_end": 2362,
+      "text": "Otra vez les dijo Jesús: Yo me voy, y me buscaréis, pero en vuestro pecado moriréis; a donde yo voy, vosotros no podéis venir."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2362,
+      "char_end": 2471,
+      "text": "Decían entonces los judíos: ¿Acaso se matará a sí mismo, que dice: A donde yo voy, vosotros no podéis venir?"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2471,
+      "char_end": 2579,
+      "text": "Y les dijo: Vosotros sois de abajo, yo soy de arriba; vosotros sois de este mundo, yo no soy de este mundo."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2579,
+      "char_end": 2691,
+      "text": "Por eso os dije que moriréis en vuestros pecados; porque si no creéis que yo soy, en vuestros pecados moriréis."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2691,
+      "char_end": 2792,
+      "text": "Entonces le dijeron: ¿Tú quién eres? Entonces Jesús les dijo: Lo que desde el principio os he dicho."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2792,
+      "char_end": 2927,
+      "text": "Muchas cosas tengo que decir y juzgar de vosotros; pero el que me envió es verdadero; y yo, lo que he oído de él, esto hablo al mundo."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2927,
+      "char_end": 2974,
+      "text": "Pero no entendieron que les hablaba del Padre."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2974,
+      "char_end": 3149,
+      "text": "Les dijo, pues, Jesús: Cuando hayáis levantado al Hijo del Hombre, entonces conoceréis que yo soy, y que nada hago por mí mismo, sino que según me enseñó el Padre, así hablo."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3149,
+      "char_end": 3259,
+      "text": "Porque el que me envió, conmigo está; no me ha dejado solo el Padre, porque yo hago siempre lo que le agrada."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3259,
+      "char_end": 3332,
+      "text": "Hablando él estas cosas, muchos creyeron en él. La verdad os hará libres"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3332,
+      "char_end": 3470,
+      "text": "Dijo entonces Jesús a los judíos que habían creído en él: Si vosotros permaneciereis en mi palabra, seréis verdaderamente mis discípulos;"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3470,
+      "char_end": 3522,
+      "text": "y conoceréis la verdad, y la verdad os hará libres."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3522,
+      "char_end": 3633,
+      "text": "Le respondieron: Linaje de Abraham somos, y jamás hemos sido esclavos de nadie. ¿Cómo dices tú: Seréis libres?"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3633,
+      "char_end": 3739,
+      "text": "Jesús les respondió: De cierto, de cierto os digo, que todo aquel que hace pecado, esclavo es del pecado."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3739,
+      "char_end": 3817,
+      "text": "Y el esclavo no queda en la casa para siempre; el hijo sí queda para siempre."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3817,
+      "char_end": 3881,
+      "text": "Así que, si el Hijo os libertare, seréis verdaderamente libres."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3881,
+      "char_end": 3990,
+      "text": "Sé que sois descendientes de Abraham; pero procuráis matarme, porque mi palabra no halla cabida en vosotros."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 3990,
+      "char_end": 4125,
+      "text": "Yo hablo lo que he visto cerca del Padre; y vosotros hacéis lo que habéis oído cerca de vuestro padre. Sois de vuestro padre el diablo"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4125,
+      "char_end": 4253,
+      "text": "Respondieron y le dijeron: Nuestro padre es Abraham. Jesús les dijo: Si fueseis hijos de Abraham, las obras de Abraham haríais."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4253,
+      "char_end": 4371,
+      "text": "Pero ahora procuráis matarme a mí, hombre que os he hablado la verdad, la cual he oído de Dios; no hizo esto Abraham."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4371,
+      "char_end": 4509,
+      "text": "Vosotros hacéis las obras de vuestro padre. Entonces le dijeron: Nosotros no somos nacidos de fornicación; un padre tenemos, que es Dios."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4509,
+      "char_end": 4683,
+      "text": "Jesús entonces les dijo: Si vuestro padre fuese Dios, ciertamente me amaríais; porque yo de Dios he salido, y he venido; pues no he venido de mí mismo, sino que él me envió."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4683,
+      "char_end": 4756,
+      "text": "¿Por qué no entendéis mi lenguaje? Porque no podéis escuchar mi palabra."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 4756,
+      "char_end": 5023,
+      "text": "Vosotros sois de vuestro padre el diablo, y los deseos de vuestro padre queréis hacer. él ha sido homicida desde el principio, y no ha permanecido en la verdad, porque no hay verdad en él. Cuando habla mentira, de suyo habla; porque es mentiroso, y padre de mentira."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 5023,
+      "char_end": 5068,
+      "text": "Y a mí, porque digo la verdad, no me creéis."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 5068,
+      "char_end": 5167,
+      "text": "¿Quién de vosotros me redarguye de pecado? Pues si digo la verdad, ¿por qué vosotros no me creéis?"
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 5167,
+      "char_end": 5293,
+      "text": "El que es de Dios, las palabras de Dios oye; por esto no las oís vosotros, porque no sois de Dios. La preexistencia de Cristo"
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 5293,
+      "char_end": 5414,
+      "text": "Respondieron entonces los judíos, y le dijeron: ¿No decimos bien nosotros, que tú eres samaritano, y que tienes demonio?"
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 5414,
+      "char_end": 5502,
+      "text": "Respondió Jesús: Yo no tengo demonio, antes honro a mi Padre; y vosotros me deshonráis."
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 5502,
+      "char_end": 5559,
+      "text": "Pero yo no busco mi gloria; hay quien la busca, y juzga."
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 5559,
+      "char_end": 5638,
+      "text": "De cierto, de cierto os digo, que el que guarda mi palabra, nunca verá muerte."
+    },
+    {
+      "verse": 52,
+      "label": "52",
+      "char_start": 5638,
+      "char_end": 5797,
+      "text": "Entonces los judíos le dijeron: Ahora conocemos que tienes demonio. Abraham murió, y los profetas; y tú dices: El que guarda mi palabra, nunca sufrirá muerte."
+    },
+    {
+      "verse": 53,
+      "label": "53",
+      "char_start": 5797,
+      "char_end": 5914,
+      "text": "¿Eres tú acaso mayor que nuestro padre Abraham, el cual murió? ¡Y los profetas murieron! ¿Quién te haces a ti mismo?"
+    },
+    {
+      "verse": 54,
+      "label": "54",
+      "char_start": 5914,
+      "char_end": 6057,
+      "text": "Respondió Jesús: Si yo me glorifico a mí mismo, mi gloria nada es; mi Padre es el que me glorifica, el que vosotros decís que es vuestro Dios."
+    },
+    {
+      "verse": 55,
+      "label": "55",
+      "char_start": 6057,
+      "char_end": 6206,
+      "text": "Pero vosotros no le conocéis; mas yo le conozco, y si dijere que no le conozco, sería mentiroso como vosotros; pero le conozco, y guardo su palabra."
+    },
+    {
+      "verse": 56,
+      "label": "56",
+      "char_start": 6206,
+      "char_end": 6285,
+      "text": "Abraham vuestro padre se gozó de que había de ver mi día; y lo vio, y se gozó."
+    },
+    {
+      "verse": 57,
+      "label": "57",
+      "char_start": 6285,
+      "char_end": 6371,
+      "text": "Entonces le dijeron los judíos: Aún no tienes cincuenta años, ¿y has visto a Abraham?"
+    },
+    {
+      "verse": 58,
+      "label": "58",
+      "char_start": 6371,
+      "char_end": 6450,
+      "text": "Jesús les dijo: De cierto, de cierto os digo: Antes que Abraham fuese, yo soy."
+    },
+    {
+      "verse": 59,
+      "label": "59",
+      "char_start": 6450,
+      "char_end": 6582,
+      "text": "Tomaron entonces piedras para arrojárselas; pero Jesús se escondió y salió del templo; y atravesando por en medio de ellos, se fue."
+    }
+  ],
+  "words": [
+    {
+      "word": "y Jesús se fue al monte de los Olivos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3175,
+      "duration_ms": 3075
+    },
+    {
+      "word": "Y por la mañana volvió al templo, y todo el pueblo vino a él; y sentado él, les enseñaba.",
+      "verse": 2,
+      "start_ms": 3125,
+      "end_ms": 9375,
+      "duration_ms": 6250
+    },
+    {
+      "word": "Entonces los escribas y los fariseos le trajeron una mujer sorprendida en adulterio; y poniéndola en medio, le dijeron: Maestro, esta mujer ha sido sorprendida en el acto mismo de adulterio.",
+      "verse": 3,
+      "start_ms": 9375,
+      "end_ms": 21175,
+      "duration_ms": 11800
+    },
+    {
+      "word": "Y en la ley nos mandó Moisés apedrear a tales mujeres.",
+      "verse": 5,
+      "start_ms": 21175,
+      "end_ms": 25187,
+      "duration_ms": 4012
+    },
+    {
+      "word": "Tú, pues, ¿qué dices?",
+      "verse": 5,
+      "start_ms": 25187,
+      "end_ms": 27887,
+      "duration_ms": 2700
+    },
+    {
+      "word": "Mas esto decían tentándole, para poder acusarle.",
+      "verse": 6,
+      "start_ms": 27887,
+      "end_ms": 31774,
+      "duration_ms": 3887
+    },
+    {
+      "word": "Pero Jesús, inclinado hacia el suelo, escribía en tierra con el dedo.",
+      "verse": 6,
+      "start_ms": 31775,
+      "end_ms": 36850,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Y como insistieran en preguntarle, se enderezó y les dijo: El que de vosotros esté sin pecado sea el primero en arrojar la piedra contra ella.",
+      "verse": 7,
+      "start_ms": 36850,
+      "end_ms": 45387,
+      "duration_ms": 8537
+    },
+    {
+      "word": "E inclinándose de nuevo hacia el suelo, siguió escribiendo en tierra.",
+      "verse": 8,
+      "start_ms": 45387,
+      "end_ms": 49887,
+      "duration_ms": 4500
+    },
+    {
+      "word": "Pero ellos, al oír esto, acusados por su conciencia, salían uno a uno, comenzando desde los más viejos hasta los postreros; y quedó solo Jesús, y la mujer que estaba en medio.",
+      "verse": 9,
+      "start_ms": 49887,
+      "end_ms": 61699,
+      "duration_ms": 11812
+    },
+    {
+      "word": "Enderezándose Jesús, y no viendo a nadie sino a la mujer, le dijo: Mujer, ¿dónde están los que te acusaban?",
+      "verse": 10,
+      "start_ms": 61700,
+      "end_ms": 69037,
+      "duration_ms": 7337
+    },
+    {
+      "word": "Ninguno te condenó?",
+      "verse": 10,
+      "start_ms": 69037,
+      "end_ms": 71037,
+      "duration_ms": 2000
+    },
+    {
+      "word": "Ella dijo: Ninguno, Señor.",
+      "verse": 11,
+      "start_ms": 71037,
+      "end_ms": 74162,
+      "duration_ms": 3125
+    },
+    {
+      "word": "Entonces Jesús le dijo: Ni yo te condeno; vete, y no peques más.",
+      "verse": 11,
+      "start_ms": 74162,
+      "end_ms": 79662,
+      "duration_ms": 5500
+    },
+    {
+      "word": "Jesús, la luz del mundo Otra vez Jesús les habló, diciendo: Yo soy la luz del mundo; el que me sigue, no andará en tinieblas, sino que tendrá la luz de la vida.",
+      "verse": 11,
+      "start_ms": 79662,
+      "end_ms": 90299,
+      "duration_ms": 10637
+    },
+    {
+      "word": "Entonces los fariseos le dijeron: Tú das testimonio acerca de ti mismo; tu testimonio no es verdadero.",
+      "verse": 13,
+      "start_ms": 90300,
+      "end_ms": 97600,
+      "duration_ms": 7300
+    },
+    {
+      "word": "Respondió Jesús y les dijo: Aunque yo doy testimonio acerca de mí mismo, mi testimonio es verdadero, porque sé de dónde he venido y a dónde voy; pero vosotros no sabéis de dónde vengo, ni a dónde voy.",
+      "verse": 14,
+      "start_ms": 97600,
+      "end_ms": 110200,
+      "duration_ms": 12600
+    },
+    {
+      "word": "Vosotros juzgáis según la carne; yo no juzgo a nadie.",
+      "verse": 15,
+      "start_ms": 110200,
+      "end_ms": 114212,
+      "duration_ms": 4012
+    },
+    {
+      "word": "Y si yo juzgo, mi juicio es verdadero; porque no soy yo solo, sino yo y el que me envió, el Padre.",
+      "verse": 16,
+      "start_ms": 114212,
+      "end_ms": 121524,
+      "duration_ms": 7312
+    },
+    {
+      "word": "Y en vuestra ley está escrito que el testimonio de dos hombres es verdadero.",
+      "verse": 17,
+      "start_ms": 121525,
+      "end_ms": 126175,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Yo soy el que doy testimonio de mí mismo, y el Padre que me envió da testimonio de mí.",
+      "verse": 18,
+      "start_ms": 126175,
+      "end_ms": 131800,
+      "duration_ms": 5625
+    },
+    {
+      "word": "Ellos le dijeron: ¿Dónde está tu Padre?",
+      "verse": 19,
+      "start_ms": 131800,
+      "end_ms": 135037,
+      "duration_ms": 3237
+    },
+    {
+      "word": "Respondió Jesús: Ni a mí me conocéis, ni a mi Padre; si a mí me conocieseis, también a mi Padre conoceríais.",
+      "verse": 19,
+      "start_ms": 135037,
+      "end_ms": 143037,
+      "duration_ms": 8000
+    },
+    {
+      "word": "Estas palabras habló Jesús en el lugar de las ofrendas, enseñando en el templo; y nadie le prendió, porque aún no había llegado su hora.",
+      "verse": 20,
+      "start_ms": 143037,
+      "end_ms": 151462,
+      "duration_ms": 8425
+    },
+    {
+      "word": "A donde yo voy, vosotros no podéis venir Otra vez les dijo Jesús: Yo me voy, y me buscaréis, pero en vuestro pecado moriréis; a donde yo voy, vosotros no podéis venir.",
+      "verse": 20,
+      "start_ms": 151462,
+      "end_ms": 163037,
+      "duration_ms": 11575
+    },
+    {
+      "word": "Decían entonces los judíos: ¿Acaso se matará a sí mismo, que dice: A donde yo voy, vosotros no podéis venir?",
+      "verse": 22,
+      "start_ms": 163037,
+      "end_ms": 171224,
+      "duration_ms": 8187
+    },
+    {
+      "word": "Y les dijo: Vosotros sois de abajo, yo soy de arriba; vosotros sois de este mundo, yo no soy de este mundo.",
+      "verse": 23,
+      "start_ms": 171225,
+      "end_ms": 178837,
+      "duration_ms": 7612
+    },
+    {
+      "word": "Por eso os dije que moriréis en vuestros pecados; porque si no creéis que yo soy, en vuestros pecados moriréis.",
+      "verse": 24,
+      "start_ms": 178837,
+      "end_ms": 186212,
+      "duration_ms": 7375
+    },
+    {
+      "word": "Entonces le dijeron: ¿Tú quién eres?",
+      "verse": 25,
+      "start_ms": 186212,
+      "end_ms": 189399,
+      "duration_ms": 3187
+    },
+    {
+      "word": "Entonces Jesús les dijo: Lo que desde el principio os he dicho.",
+      "verse": 25,
+      "start_ms": 189400,
+      "end_ms": 194037,
+      "duration_ms": 4637
+    },
+    {
+      "word": "Muchas cosas tengo que decir y juzgar de vosotros; pero el que me envió es verdadero; y yo, lo que he oído de él, esto hablo al mundo.",
+      "verse": 26,
+      "start_ms": 194037,
+      "end_ms": 203049,
+      "duration_ms": 9012
+    },
+    {
+      "word": "Pero no entendieron que les hablaba del Padre.",
+      "verse": 27,
+      "start_ms": 203050,
+      "end_ms": 206100,
+      "duration_ms": 3050
+    },
+    {
+      "word": "Les dijo, pues, Jesús: Cuando hayáis levantado al Hijo del Hombre, entonces conoceréis que yo soy, y que nada hago por mí mismo, sino que según me enseñó el Padre, así hablo.",
+      "verse": 28,
+      "start_ms": 206100,
+      "end_ms": 217762,
+      "duration_ms": 11662
+    },
+    {
+      "word": "Porque el que me envió, conmigo está; no me ha dejado solo el Padre, porque yo hago siempre lo que le agrada.",
+      "verse": 29,
+      "start_ms": 217762,
+      "end_ms": 224562,
+      "duration_ms": 6800
+    },
+    {
+      "word": "Hablando él estas cosas, muchos creyeron en él.",
+      "verse": 30,
+      "start_ms": 224562,
+      "end_ms": 228237,
+      "duration_ms": 3675
+    },
+    {
+      "word": "La verdad os hará libres Dijo entonces Jesús a los judíos que habían creído en él: Si vosotros permaneciereis en mi palabra, seréis verdaderamente mis discípulos; y conoceréis la verdad, y la verdad os hará libres.",
+      "verse": 30,
+      "start_ms": 228237,
+      "end_ms": 241062,
+      "duration_ms": 12825
+    },
+    {
+      "word": "Le respondieron: Linaje de Abraham somos, y jamás hemos sido esclavos de nadie.",
+      "verse": 33,
+      "start_ms": 241062,
+      "end_ms": 246687,
+      "duration_ms": 5625
+    },
+    {
+      "word": "Cómo dices tú: Seréis libres?",
+      "verse": 33,
+      "start_ms": 246687,
+      "end_ms": 249649,
+      "duration_ms": 2962
+    },
+    {
+      "word": "Jesús les respondió: De cierto, de cierto os digo, que todo aquel que hace pecado, esclavo es del pecado.",
+      "verse": 34,
+      "start_ms": 249650,
+      "end_ms": 257362,
+      "duration_ms": 7712
+    },
+    {
+      "word": "Y el esclavo no queda en la casa para siempre; el hijo sí queda para siempre.",
+      "verse": 35,
+      "start_ms": 257362,
+      "end_ms": 262337,
+      "duration_ms": 4975
+    },
+    {
+      "word": "Así que, si el Hijo os libertare, seréis verdaderamente libres.",
+      "verse": 36,
+      "start_ms": 262337,
+      "end_ms": 267424,
+      "duration_ms": 5087
+    },
+    {
+      "word": "Sé que sois descendientes de Abraham; pero procuráis matarme, porque mi palabra no",
+      "verse": 37,
+      "start_ms": 267425,
+      "end_ms": 272850,
+      "duration_ms": 5425
+    },
+    {
+      "word": "halla cabida en vosotros.",
+      "verse": 37,
+      "start_ms": 273004,
+      "end_ms": 275404,
+      "duration_ms": 2400
+    },
+    {
+      "word": "Yo hablo lo que he visto cerca del Padre; y vosotros hacéis lo que habéis oído cerca de vuestro padre.",
+      "verse": 38,
+      "start_ms": 275354,
+      "end_ms": 281766,
+      "duration_ms": 6412
+    },
+    {
+      "word": "Sois de vuestro padre el diablo Respondieron y le dijeron: Nuestro padre es Abraham.",
+      "verse": 38,
+      "start_ms": 281766,
+      "end_ms": 287066,
+      "duration_ms": 5300
+    },
+    {
+      "word": "Jesús les dijo: Si fueseis hijos de Abraham, las obras de Abraham haríais.",
+      "verse": 39,
+      "start_ms": 287066,
+      "end_ms": 292478,
+      "duration_ms": 5412
+    },
+    {
+      "word": "Pero ahora procuráis matarme a mí, hombre que os he hablado la verdad, la cual he oído de Dios; no hizo esto Abraham.",
+      "verse": 40,
+      "start_ms": 292479,
+      "end_ms": 300091,
+      "duration_ms": 7612
+    },
+    {
+      "word": "Vosotros hacéis las obras de vuestro padre.",
+      "verse": 41,
+      "start_ms": 300091,
+      "end_ms": 303316,
+      "duration_ms": 3225
+    },
+    {
+      "word": "Entonces le dijeron: Nosotros no somos nacidos de fornicación; un padre tenemos, que es Dios.",
+      "verse": 41,
+      "start_ms": 303316,
+      "end_ms": 310278,
+      "duration_ms": 6962
+    },
+    {
+      "word": "Jesús entonces les dijo: Si vuestro padre fuese Dios, ciertamente me amaríais; porque yo de Dios he salido, y he venido; pues no he venido de mí mismo, sino que él me envió.",
+      "verse": 42,
+      "start_ms": 310279,
+      "end_ms": 321929,
+      "duration_ms": 11650
+    },
+    {
+      "word": "Por qué no entendéis mi lenguaje?",
+      "verse": 43,
+      "start_ms": 321929,
+      "end_ms": 324504,
+      "duration_ms": 2575
+    },
+    {
+      "word": "Porque no podéis escuchar mi palabra.",
+      "verse": 43,
+      "start_ms": 324504,
+      "end_ms": 327316,
+      "duration_ms": 2812
+    },
+    {
+      "word": "Vosotros sois de vuestro padre el diablo, y los deseos de vuestro padre queréis hacer.",
+      "verse": 44,
+      "start_ms": 327316,
+      "end_ms": 332703,
+      "duration_ms": 5387
+    },
+    {
+      "word": "él ha sido homicida desde el principio, y no ha permanecido en la verdad, porque no hay verdad en él.",
+      "verse": 44,
+      "start_ms": 332704,
+      "end_ms": 339166,
+      "duration_ms": 6462
+    },
+    {
+      "word": "Cuando habla mentira, de suyo habla; porque es mentiroso, y padre de mentira.",
+      "verse": 44,
+      "start_ms": 339166,
+      "end_ms": 344953,
+      "duration_ms": 5787
+    },
+    {
+      "word": "Y a mí, porque digo la verdad, no me creéis.",
+      "verse": 45,
+      "start_ms": 344954,
+      "end_ms": 348766,
+      "duration_ms": 3812
+    },
+    {
+      "word": "Quién de vosotros me redarguye de pecado?",
+      "verse": 46,
+      "start_ms": 348766,
+      "end_ms": 351816,
+      "duration_ms": 3050
+    },
+    {
+      "word": "Pues si digo la verdad, ¿por qué vosotros no me creéis?",
+      "verse": 46,
+      "start_ms": 351816,
+      "end_ms": 355766,
+      "duration_ms": 3950
+    },
+    {
+      "word": "El que es de Dios, las palabras de Dios oye; por esto no las oís vosotros, porque no sois de Dios.",
+      "verse": 47,
+      "start_ms": 355766,
+      "end_ms": 362803,
+      "duration_ms": 7037
+    },
+    {
+      "word": "La preexistencia de Cristo Respondieron entonces los judíos, y le dijeron: ¿No decimos bien nosotros, que tú eres samaritano, y que tienes demonio?",
+      "verse": 47,
+      "start_ms": 362804,
+      "end_ms": 372341,
+      "duration_ms": 9537
+    },
+    {
+      "word": "Respondió Jesús: Yo no tengo demonio, antes honro a mi Padre; y vosotros me deshonráis.",
+      "verse": 49,
+      "start_ms": 372341,
+      "end_ms": 378891,
+      "duration_ms": 6550
+    },
+    {
+      "word": "Pero yo no busco mi gloria; hay quien la busca, y juzga.",
+      "verse": 50,
+      "start_ms": 378891,
+      "end_ms": 383178,
+      "duration_ms": 4287
+    },
+    {
+      "word": "De cierto, de cierto os digo, que el que guarda mi palabra, nunca verá muerte.",
+      "verse": 51,
+      "start_ms": 383179,
+      "end_ms": 389041,
+      "duration_ms": 5862
+    },
+    {
+      "word": "Entonces los judíos le dijeron: Ahora conocemos que tienes demonio.",
+      "verse": 52,
+      "start_ms": 389041,
+      "end_ms": 393828,
+      "duration_ms": 4787
+    },
+    {
+      "word": "Abraham murió, y los profetas; y tú dices: El que guarda mi palabra, nunca sufrirá muerte.",
+      "verse": 52,
+      "start_ms": 393829,
+      "end_ms": 400879,
+      "duration_ms": 7050
+    },
+    {
+      "word": "Eres tú acaso mayor que nuestro padre Abraham, el cual murió?",
+      "verse": 53,
+      "start_ms": 400879,
+      "end_ms": 405141,
+      "duration_ms": 4262
+    },
+    {
+      "word": "Y los profetas murieron!",
+      "verse": 53,
+      "start_ms": 405141,
+      "end_ms": 407391,
+      "duration_ms": 2250
+    },
+    {
+      "word": "Quién te haces a ti mismo?",
+      "verse": 53,
+      "start_ms": 407391,
+      "end_ms": 409716,
+      "duration_ms": 2325
+    },
+    {
+      "word": "Respondió Jesús: Si yo me glorifico a mí mismo, mi gloria nada es; mi Padre es el que me glorifica, el que vosotros decís que es vuestro Dios.",
+      "verse": 54,
+      "start_ms": 409716,
+      "end_ms": 419528,
+      "duration_ms": 9812
+    },
+    {
+      "word": "Pero vosotros no le conocéis; mas yo le conozco, y si dijere que no le conozco, sería mentiroso como vosotros; pero le conozco, y guardo su palabra.",
+      "verse": 55,
+      "start_ms": 419529,
+      "end_ms": 429891,
+      "duration_ms": 10362
+    },
+    {
+      "word": "Abraham vuestro padre se gozó de que había de ver mi día; y lo vio, y se gozó.",
+      "verse": 56,
+      "start_ms": 429891,
+      "end_ms": 435378,
+      "duration_ms": 5487
+    },
+    {
+      "word": "Entonces le dijeron los judíos: Aún no tienes cincuenta años, ¿y has visto a Abraham?",
+      "verse": 57,
+      "start_ms": 435379,
+      "end_ms": 441291,
+      "duration_ms": 5912
+    },
+    {
+      "word": "Jesús les dijo: De cierto, de cierto os digo: Antes que Abraham fuese, yo soy.",
+      "verse": 58,
+      "start_ms": 441291,
+      "end_ms": 447716,
+      "duration_ms": 6425
+    },
+    {
+      "word": "Tomaron entonces piedras para arrojárselas; pero Jesús se escondió y salió del templo; y atravesando por en medio de ellos, se fue.",
+      "verse": 59,
+      "start_ms": 447716,
+      "end_ms": 456103,
+      "duration_ms": 8387
+    }
+  ]
+}

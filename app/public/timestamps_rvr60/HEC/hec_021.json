@@ -1,0 +1,509 @@
+{
+  "book": "HEC",
+  "chapter": 21,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 38,
+  "word_count": 33,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 137,
+      "text": "Después que cesó el alboroto, llamó Pablo a los discípulos, y habiéndolos exhortado y abrazado, se despidió y salió para ir a Macedonia."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 137,
+      "char_end": 239,
+      "text": "Y después de recorrer aquellas regiones, y de exhortarles con abundancia de palabras, llegó a Grecia."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 239,
+      "char_end": 404,
+      "text": "Después de haber estado allí tres meses, y siéndole puestas asechanzas por los judíos para cuando se embarcase para Siria, tomó la decisión de volver por Macedonia."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 404,
+      "char_end": 542,
+      "text": "Y le acompañaron hasta Asia, Sópater de Berea, Aristarco y Segundo de Tesalónica, Gayo de Derbe, y Timoteo; y de Asia, Tíquico y Trófimo."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 542,
+      "char_end": 596,
+      "text": "Éstos, habiéndose adelantado, nos esperaron en Troas."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 596,
+      "char_end": 792,
+      "text": "Y nosotros, pasados los días de los panes sin levadura, navegamos de Filipos, y en cinco días nos reunimos con ellos en Troas, donde nos quedamos siete días. Visita de despedida de Pablo en Troas"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 792,
+      "char_end": 962,
+      "text": "El primer día de la semana, reunidos los discípulos para partir el pan, Pablo les enseñaba, habiendo de salir al día siguiente; y alargó el discurso hasta la medianoche."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 962,
+      "char_end": 1030,
+      "text": "Y había muchas lámparas en el aposento alto donde estaban reunidos;"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1030,
+      "char_end": 1230,
+      "text": "y un joven llamado Eutico, que estaba sentado en la ventana, rendido de un sueño profundo, por cuanto Pablo disertaba largamente, vencido del sueño cayó del tercer piso abajo, y fue levantado muerto."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1230,
+      "char_end": 1328,
+      "text": "Entonces descendió Pablo y se echó sobre él, y abrazándole, dijo: No os alarméis, pues está vivo."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1328,
+      "char_end": 1425,
+      "text": "Después de haber subido, y partido el pan y comido, habló largamente hasta el alba; y así salió."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1425,
+      "char_end": 1508,
+      "text": "Y llevaron al joven vivo, y fueron grandemente consolados. Viaje de Troas a Mileto"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1508,
+      "char_end": 1653,
+      "text": "Nosotros, adelantándonos a embarcarnos, navegamos a Asón para recoger allí a Pablo, ya que así lo había determinado, queriendo él ir por tierra."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1653,
+      "char_end": 1731,
+      "text": "Cuando se reunió con nosotros en Asón, tomándole a bordo, vinimos a Mitilene."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1731,
+      "char_end": 1905,
+      "text": "Navegando de allí, al día siguiente llegamos delante de Quío, y al otro día tomamos puerto en Samos; y habiendo hecho escala en Trogilio, al día siguiente llegamos a Mileto."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1905,
+      "char_end": 2116,
+      "text": "Porque Pablo se había propuesto pasar de largo a éfeso, para no detenerse en Asia, pues se apresuraba por estar el día de Pentecostés, si le fuese posible, en Jerusalén. Discurso de despedida de Pablo en Mileto"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2116,
+      "char_end": 2196,
+      "text": "Enviando, pues, desde Mileto a éfeso, hizo llamar a los ancianos de la iglesia."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2196,
+      "char_end": 2336,
+      "text": "Cuando vinieron a él, les dijo: Vosotros sabéis cómo me he comportado entre vosotros todo el tiempo, desde el primer día que entré en Asia,"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2336,
+      "char_end": 2459,
+      "text": "sirviendo al Señor con toda humildad, y con muchas lágrimas, y pruebas que me han venido por las asechanzas de los judíos;"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2459,
+      "char_end": 2554,
+      "text": "y cómo nada que fuese útil he rehuido de anunciaros y enseñaros, públicamente y por las casas,"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2554,
+      "char_end": 2671,
+      "text": "testificando a judíos y a gentiles acerca del arrepentimiento para con Dios, y de la fe en nuestro Señor Jesucristo."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2671,
+      "char_end": 2769,
+      "text": "Ahora, he aquí, ligado yo en espíritu, voy a Jerusalén, sin saber lo que allá me ha de acontecer;"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2769,
+      "char_end": 2889,
+      "text": "salvo que el Espíritu Santo por todas las ciudades me da testimonio, diciendo que me esperan prisiones y tribulaciones."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2889,
+      "char_end": 3102,
+      "text": "Pero de ninguna cosa hago caso, ni estimo preciosa mi vida para mí mismo, con tal que acabe mi carrera con gozo, y el ministerio que recibí del Señor Jesús, para dar testimonio del evangelio de la gracia de Dios."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3102,
+      "char_end": 3230,
+      "text": "Y ahora, he aquí, yo sé que ninguno de todos vosotros, entre quienes he pasado predicando el reino de Dios, verá más mi rostro."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3230,
+      "char_end": 3314,
+      "text": "Por tanto, yo os protesto en el día de hoy, que estoy limpio de la sangre de todos;"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3314,
+      "char_end": 3371,
+      "text": "porque no he rehuido anunciaros todo el consejo de Dios."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3371,
+      "char_end": 3549,
+      "text": "Por tanto, mirad por vosotros, y por todo el rebaño en que el Espíritu Santo os ha puesto por obispos, para apacentar la iglesia del Señor, la cual él ganó por su propia sangre."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3549,
+      "char_end": 3662,
+      "text": "Porque yo sé que después de mi partida entrarán en medio de vosotros lobos rapaces, que no perdonarán al rebaño."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3662,
+      "char_end": 3773,
+      "text": "Y de vosotros mismos se levantarán hombres que hablen cosas perversas para arrastrar tras sí a los discípulos."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3773,
+      "char_end": 3892,
+      "text": "Por tanto, velad, acordándoos que por tres años, de noche y de día, no he cesado de amonestar con lágrimas a cada uno."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3892,
+      "char_end": 4044,
+      "text": "Y ahora, hermanos, os encomiendo a Dios, y a la palabra de su gracia, que tiene poder para sobreedificaros y daros herencia con todos los santificados."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4044,
+      "char_end": 4094,
+      "text": "Ni plata ni oro ni vestido de nadie he codiciado."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4094,
+      "char_end": 4213,
+      "text": "Antes vosotros sabéis que para lo que me ha sido necesario a mí y a los que están conmigo, estas manos me han servido."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4213,
+      "char_end": 4381,
+      "text": "En todo os he enseñado que, trabajando así, se debe ayudar a los necesitados, y recordar las palabras del Señor Jesús, que dijo: Más bienaventurado es dar que recibir."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4381,
+      "char_end": 4456,
+      "text": "Cuando hubo dicho estas cosas, se puso de rodillas, y oró con todos ellos."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4456,
+      "char_end": 4536,
+      "text": "Entonces hubo gran llanto de todos; y echándose al cuello de Pablo, le besaban,"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4536,
+      "char_end": 4646,
+      "text": "doliéndose en gran manera por la palabra que dijo, de que no verían más su rostro. Y le acompañaron al barco."
+    }
+  ],
+  "words": [
+    {
+      "word": "Después que cesó el alboroto, llamó Pablo a los discípulos, y habiéndolos exhortado y abrazado, se despidió y salió para ir a Macedonia.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 8825,
+      "duration_ms": 8725
+    },
+    {
+      "word": "Y después de recorrer aquellas regiones, y de exhortarles con abundancia de palabras, llegó a Grecia.",
+      "verse": 2,
+      "start_ms": 8775,
+      "end_ms": 15212,
+      "duration_ms": 6437
+    },
+    {
+      "word": "Después de haber estado allí tres meses, y siéndole puestas asechanzas por los judíos para cuando se embarcase para Siria, tomó la decisión de volver por Macedonia.",
+      "verse": 3,
+      "start_ms": 15212,
+      "end_ms": 24599,
+      "duration_ms": 9387
+    },
+    {
+      "word": "Y le acompañaron hasta Asia, Sópater de Berea, Aristarco y Segundo de Tesalónica, Gayo de Derbe, y Timoteo; y de Asia, Tíquico y Trófimo.",
+      "verse": 4,
+      "start_ms": 24600,
+      "end_ms": 34975,
+      "duration_ms": 10375
+    },
+    {
+      "word": "Éstos, habiéndose adelantado, nos esperaron en Troas.",
+      "verse": 5,
+      "start_ms": 34975,
+      "end_ms": 39387,
+      "duration_ms": 4412
+    },
+    {
+      "word": "Y nosotros, pasados los días de los panes sin levadura, navegamos de Filipos, y en cinco días nos reunimos con ellos en Troas, donde nos quedamos siete días.",
+      "verse": 6,
+      "start_ms": 39387,
+      "end_ms": 49574,
+      "duration_ms": 10187
+    },
+    {
+      "word": "Visita de despedida de Pablo en Troas El primer día de la semana, reunidos los discípulos para partir el pan, Pablo les enseñaba, habiendo de salir al día siguiente; y alargó el discurso hasta la medianoche.",
+      "verse": 6,
+      "start_ms": 49575,
+      "end_ms": 61875,
+      "duration_ms": 12300
+    },
+    {
+      "word": "Y había muchas lámparas en el aposento alto donde estaban reunidos; y un joven llamado Eutico, que estaba sentado en la ventana, rendido de un sueño profundo, por cuanto Pablo disertaba largamente, vencido del sueño cayó del tercer piso abajo, y fue levantado muerto.",
+      "verse": 8,
+      "start_ms": 61875,
+      "end_ms": 78487,
+      "duration_ms": 16612
+    },
+    {
+      "word": "Entonces descendió Pablo y se echó sobre él, y abrazándole, dijo: No os alarméis, pues está vivo.",
+      "verse": 10,
+      "start_ms": 78487,
+      "end_ms": 85862,
+      "duration_ms": 7375
+    },
+    {
+      "word": "Después de haber subido, y partido el pan y comido, habló largamente hasta el alba; y así salió.",
+      "verse": 11,
+      "start_ms": 85862,
+      "end_ms": 92512,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Y llevaron al joven vivo, y fueron grandemente consolados.",
+      "verse": 12,
+      "start_ms": 92512,
+      "end_ms": 96887,
+      "duration_ms": 4375
+    },
+    {
+      "word": "Viaje de Troas a Mileto Nosotros, adelantándonos a embarcarnos, navegamos a Asón para recoger allí a Pablo, ya que así lo había determinado, queriendo él ir por tierra.",
+      "verse": 12,
+      "start_ms": 96887,
+      "end_ms": 107662,
+      "duration_ms": 10775
+    },
+    {
+      "word": "Cuando se reunió con nosotros en Asón, tomándole a bordo, vinimos a Mitilene.",
+      "verse": 14,
+      "start_ms": 107662,
+      "end_ms": 113012,
+      "duration_ms": 5350
+    },
+    {
+      "word": "Navegando de allí, al día siguiente llegamos delante de Quío, y al otro día tomamos puerto en Samos; y habiendo hecho escala en Trogilio, al día siguiente llegamos a Mileto.",
+      "verse": 15,
+      "start_ms": 113012,
+      "end_ms": 123574,
+      "duration_ms": 10562
+    },
+    {
+      "word": "Porque Pablo se había propuesto pasar de largo a éfeso, para no detenerse en Asia, pues se apresuraba por estar el día de Pentecostés, si le fuese posible, en Jerusalén.",
+      "verse": 16,
+      "start_ms": 123575,
+      "end_ms": 133850,
+      "duration_ms": 10275
+    },
+    {
+      "word": "Discurso de despedida de Pablo en Mileto Enviando, pues, desde Mileto a éfeso, hizo llamar a los ancianos de la iglesia.",
+      "verse": 16,
+      "start_ms": 133850,
+      "end_ms": 141675,
+      "duration_ms": 7825
+    },
+    {
+      "word": "Cuando vinieron a él, les dijo: Vosotros sabéis cómo me he comportado entre vosotros todo el tiempo, desde el primer día que entré en Asia, sirviendo al Señor con toda humildad, y con muchas lágrimas, y pruebas que me han venido por las asechanzas de los judíos; y cómo nada que fuese útil he rehuido de anunciaros y enseñaros, públicamente y por las casas, testificando a judíos y a gentiles acerca del arrepentimiento para con Dios, y de la fe en nuestro Señor Jesucristo.",
+      "verse": 18,
+      "start_ms": 141675,
+      "end_ms": 169000,
+      "duration_ms": 27325
+    },
+    {
+      "word": "Ahora, he aquí, ligado yo en espíritu, voy a Jerusalén, sin saber lo que allá me ha de acontecer; salvo que el Espíritu Santo por todas las ciudades me da testimonio, diciendo que me esperan prisiones y tribulaciones.",
+      "verse": 22,
+      "start_ms": 169000,
+      "end_ms": 182637,
+      "duration_ms": 13637
+    },
+    {
+      "word": "Pero de ninguna cosa hago caso, ni estimo preciosa mi vida para mí mismo, con tal que acabe mi carrera con gozo, y el ministerio que recibí del Señor Jesús, para dar testimonio del evangelio de la gracia de Dios.",
+      "verse": 24,
+      "start_ms": 182637,
+      "end_ms": 195612,
+      "duration_ms": 12975
+    },
+    {
+      "word": "Y ahora, he aquí, yo sé que ninguno de todos vosotros, entre quienes he pasado predicando el reino de Dios, verá más mi rostro.",
+      "verse": 25,
+      "start_ms": 195612,
+      "end_ms": 204299,
+      "duration_ms": 8687
+    },
+    {
+      "word": "Por tanto, yo os protesto en el día de hoy, que estoy limpio de la sangre de todos; porque no he rehuido anunciaros todo el consejo de Dios.",
+      "verse": 26,
+      "start_ms": 204300,
+      "end_ms": 213175,
+      "duration_ms": 8875
+    },
+    {
+      "word": "Por tanto, mirad por vosotros, y por todo el rebaño en que el Espíritu Santo os ha puesto por obispos, para apacentar la iglesia del Señor, la cual él ganó por su propia sangre.",
+      "verse": 28,
+      "start_ms": 213175,
+      "end_ms": 223987,
+      "duration_ms": 10812
+    },
+    {
+      "word": "Porque yo sé que después de mi partida entrarán en medio de vosotros lobos rapaces, que no perdonarán al rebaño.",
+      "verse": 29,
+      "start_ms": 223987,
+      "end_ms": 230762,
+      "duration_ms": 6775
+    },
+    {
+      "word": "Y de vosotros mismos se levantarán hombres que hablen cosas perversas para arrastrar tras sí a los discípulos.",
+      "verse": 30,
+      "start_ms": 230762,
+      "end_ms": 236999,
+      "duration_ms": 6237
+    },
+    {
+      "word": "Por tanto, velad, acordándoos que por tres años, de noche y de día, no he cesado de amonestar con lágrimas a cada uno.",
+      "verse": 31,
+      "start_ms": 237000,
+      "end_ms": 245375,
+      "duration_ms": 8375
+    },
+    {
+      "word": "Y ahora, hermanos, os encomiendo a Dios, y a la palabra de su gracia, que tiene poder para",
+      "verse": 32,
+      "start_ms": 245375,
+      "end_ms": 251950,
+      "duration_ms": 6575
+    },
+    {
+      "word": "sobreedificaros y daros herencia con todos los santificados.",
+      "verse": 32,
+      "start_ms": 252100,
+      "end_ms": 256512,
+      "duration_ms": 4412
+    },
+    {
+      "word": "Ni plata ni oro ni vestido de nadie he codiciado.",
+      "verse": 33,
+      "start_ms": 256462,
+      "end_ms": 260399,
+      "duration_ms": 3937
+    },
+    {
+      "word": "Antes vosotros sabéis que para lo que me ha sido necesario a mí y a los que están conmigo, estas manos me han servido.",
+      "verse": 34,
+      "start_ms": 260400,
+      "end_ms": 267250,
+      "duration_ms": 6850
+    },
+    {
+      "word": "En todo os he enseñado que, trabajando así, se debe ayudar a los necesitados, y recordar las palabras del Señor Jesús, que dijo: Más bienaventurado es dar que recibir.",
+      "verse": 35,
+      "start_ms": 267250,
+      "end_ms": 278237,
+      "duration_ms": 10987
+    },
+    {
+      "word": "Cuando hubo dicho estas cosas, se puso de rodillas, y oró con todos ellos.",
+      "verse": 36,
+      "start_ms": 278237,
+      "end_ms": 283637,
+      "duration_ms": 5400
+    },
+    {
+      "word": "Entonces hubo gran llanto de todos; y echándose al cuello de Pablo, le besaban, doliéndose en gran manera por la palabra que dijo, de que no verían más su rostro.",
+      "verse": 37,
+      "start_ms": 283637,
+      "end_ms": 293799,
+      "duration_ms": 10162
+    },
+    {
+      "word": "Y le acompañaron al barco.",
+      "verse": 38,
+      "start_ms": 293800,
+      "end_ms": 296162,
+      "duration_ms": 2362
+    }
+  ]
+}

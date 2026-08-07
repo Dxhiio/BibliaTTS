@@ -1,0 +1,397 @@
+{
+  "book": "APO",
+  "chapter": 3,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 29,
+  "word_count": 26,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 153,
+      "text": "Escribe al ángel de la iglesia en éfeso: El que tiene las siete estrellas en su diestra, el que anda en medio de los siete candeleros de oro, dice esto:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 153,
+      "char_end": 336,
+      "text": "Yo conozco tus obras, y tu arduo trabajo y paciencia; y que no puedes soportar a los malos, y has probado a los que se dicen ser apóstoles, y no lo son, y los has hallado mentirosos;"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 336,
+      "char_end": 445,
+      "text": "y has sufrido, y has tenido paciencia, y has trabajado arduamente por amor de mi nombre, y no has desmayado."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 445,
+      "char_end": 498,
+      "text": "Pero tengo contra ti, que has dejado tu primer amor."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 498,
+      "char_end": 680,
+      "text": "Recuerda, por tanto, de dónde has caído, y arrepiéntete, y haz las primeras obras; pues si no, vendré pronto a ti, y quitaré tu candelero de su lugar, si no te hubieres arrepentido."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 680,
+      "char_end": 774,
+      "text": "Pero tienes esto, que aborreces las obras de los nicolaítas, las cuales yo también aborrezco."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 774,
+      "char_end": 957,
+      "text": "El que tiene oído, oiga lo que el Espíritu dice a las iglesias. Al que venciere, le daré a comer del árbol de la vida, el cual está en medio del paraíso de Dios. El mensaje a Esmirna"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 957,
+      "char_end": 1069,
+      "text": "Y escribe al ángel de la iglesia en Esmirna: El primero y el postrero, el que estuvo muerto y vivió, dice esto:"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1069,
+      "char_end": 1229,
+      "text": "Yo conozco tus obras, y tu tribulación, y tu pobreza (pero tú eres rico), y la blasfemia de los que se dicen ser judíos, y no lo son, sino sinagoga de Satanás."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1229,
+      "char_end": 1453,
+      "text": "No temas en nada lo que vas a padecer. He aquí, el diablo echará a algunos de vosotros en la cárcel, para que seáis probados, y tendréis tribulación por diez días. Sé fiel hasta la muerte, y yo te daré la corona de la vida."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1453,
+      "char_end": 1593,
+      "text": "El que tiene oído, oiga lo que el Espíritu dice a las iglesias. El que venciere, no sufrirá daño de la segunda muerte. El mensaje a Pérgamo"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1593,
+      "char_end": 1691,
+      "text": "Y escribe al ángel de la iglesia en Pérgamo: El que tiene la espada aguda de dos filos dice esto:"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1691,
+      "char_end": 1905,
+      "text": "Yo conozco tus obras, y dónde moras, donde está el trono de Satanás; pero retienes mi nombre, y no has negado mi fe, ni aun en los días en que Antipas mi testigo fiel fue muerto entre vosotros, donde mora Satanás."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1905,
+      "char_end": 2134,
+      "text": "Pero tengo unas pocas cosas contra ti: que tienes ahí a los que retienen la doctrina de Balaam, que enseñaba a Balac a poner tropiezo ante los hijos de Israel, a comer de cosas sacrificadas a los ídolos, y a cometer fornicación."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2134,
+      "char_end": 2222,
+      "text": "Y también tienes a los que retienen la doctrina de los nicolaítas, la que yo aborrezco."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2222,
+      "char_end": 2328,
+      "text": "Por tanto, arrepiéntete; pues si no, vendré a ti pronto, y pelearé contra ellos con la espada de mi boca."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2328,
+      "char_end": 2589,
+      "text": "El que tiene oído, oiga lo que el Espíritu dice a las iglesias. Al que venciere, daré a comer del maná escondido, y le daré una piedrecita blanca, y en la piedrecita escrito un nombre nuevo, el cual ninguno conoce sino aquel que lo recibe. El mensaje a Tiatira"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2589,
+      "char_end": 2738,
+      "text": "Y escribe al ángel de la iglesia en Tiatira: El Hijo de Dios, el que tiene ojos como llama de fuego, y pies semejantes al bronce bruñido, dice esto:"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2738,
+      "char_end": 2854,
+      "text": "Yo conozco tus obras, y amor, y fe, y servicio, y tu paciencia, y que tus obras postreras son más que las primeras."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2854,
+      "char_end": 3036,
+      "text": "Pero tengo unas pocas cosas contra ti: que toleras que esa mujer Jezabel, que se dice profetisa, enseñe y seduzca a mis siervos a fornicar y a comer cosas sacrificadas a los ídolos."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 3036,
+      "char_end": 3127,
+      "text": "Y le he dado tiempo para que se arrepienta, pero no quiere arrepentirse de su fornicación."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3127,
+      "char_end": 3253,
+      "text": "He aquí, yo la arrojo en cama, y en gran tribulación a los que con ella adulteran, si no se arrepienten de las obras de ella."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3253,
+      "char_end": 3407,
+      "text": "Y a sus hijos heriré de muerte, y todas las iglesias sabrán que yo soy el que escudriña la mente y el corazón; y os daré a cada uno según vuestras obras."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3407,
+      "char_end": 3600,
+      "text": "Pero a vosotros y a los demás que están en Tiatira, a cuantos no tienen esa doctrina, y no han conocido lo que ellos llaman las profundidades de Satanás, yo os digo: No os impondré otra carga;"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3600,
+      "char_end": 3650,
+      "text": "pero lo que tenéis, retenedlo hasta que yo venga."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3650,
+      "char_end": 3742,
+      "text": "Al que venciere y guardare mis obras hasta el fin, yo le daré autoridad sobre las naciones,"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3742,
+      "char_end": 3860,
+      "text": "y las regirá con vara de hierro, y serán quebradas como vaso de alfarero; como yo también la he recibido de mi Padre;"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3860,
+      "char_end": 3896,
+      "text": "y le daré la estrella de la mañana."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3896,
+      "char_end": 3960,
+      "text": "El que tiene oído, oiga lo que el Espíritu dice a las iglesias."
+    }
+  ],
+  "words": [
+    {
+      "word": "Escribe al ángel de la iglesia en éfeso: El que tiene las siete estrellas en su diestra, el que anda en medio de los siete candeleros de oro, dice esto: Yo conozco tus obras, y tu arduo trabajo y paciencia; y que no puedes soportar a los malos, y has probado a los que se dicen ser apóstoles, y no lo son, y los has hallado mentirosos; y has sufrido, y has tenido paciencia, y has trabajado arduamente por amor de mi nombre, y no has desmayado.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 26887,
+      "duration_ms": 26787
+    },
+    {
+      "word": "Pero tengo contra ti, que has dejado tu primer amor.",
+      "verse": 4,
+      "start_ms": 26887,
+      "end_ms": 30737,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Recuerda, por tanto, de dónde has caído, y arrepiéntete, y haz las primeras obras; pues si no, vendré pronto a ti, y quitaré tu candelero de su lugar, si no te hubieres arrepentido.",
+      "verse": 5,
+      "start_ms": 30737,
+      "end_ms": 42687,
+      "duration_ms": 11950
+    },
+    {
+      "word": "Pero tienes esto, que aborreces las obras de los nicolaítas, las cuales yo también aborrezco.",
+      "verse": 6,
+      "start_ms": 42687,
+      "end_ms": 48787,
+      "duration_ms": 6100
+    },
+    {
+      "word": "El que tiene oído, oiga lo que el Espíritu dice a las iglesias.",
+      "verse": 7,
+      "start_ms": 48787,
+      "end_ms": 53387,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Al que venciere, le daré a comer del árbol de la vida, el cual está en medio del paraíso de Dios.",
+      "verse": 7,
+      "start_ms": 53387,
+      "end_ms": 59787,
+      "duration_ms": 6400
+    },
+    {
+      "word": "El mensaje a Esmirna Y escribe al ángel de la iglesia en Esmirna: El primero y el postrero, el que estuvo muerto y vivió, dice esto: Yo conozco tus obras, y tu tribulación, y tu pobreza (pero tú eres rico), y la blasfemia de los que se dicen ser judíos, y no lo son, sino sinagoga de Satanás.",
+      "verse": 7,
+      "start_ms": 59787,
+      "end_ms": 78612,
+      "duration_ms": 18825
+    },
+    {
+      "word": "No temas en nada lo que vas a padecer.",
+      "verse": 10,
+      "start_ms": 78612,
+      "end_ms": 81562,
+      "duration_ms": 2950
+    },
+    {
+      "word": "He aquí, el diablo echará a algunos de vosotros en la cárcel, para que seáis probados, y tendréis tribulación por diez días.",
+      "verse": 10,
+      "start_ms": 81562,
+      "end_ms": 89674,
+      "duration_ms": 8112
+    },
+    {
+      "word": "Sé fiel hasta la muerte, y yo te daré la corona de la vida.",
+      "verse": 10,
+      "start_ms": 89675,
+      "end_ms": 93825,
+      "duration_ms": 4150
+    },
+    {
+      "word": "El que tiene oído, oiga lo que el Espíritu dice a las iglesias.",
+      "verse": 11,
+      "start_ms": 93825,
+      "end_ms": 98425,
+      "duration_ms": 4600
+    },
+    {
+      "word": "El que venciere, no sufrirá daño de la segunda muerte.",
+      "verse": 11,
+      "start_ms": 98425,
+      "end_ms": 102387,
+      "duration_ms": 3962
+    },
+    {
+      "word": "El mensaje a Pérgamo Y escribe al ángel de la iglesia en Pérgamo: El que tiene la espada aguda de dos filos dice esto: Yo conozco tus obras, y dónde moras, donde está el trono de Satanás; pero retienes mi nombre, y no has negado mi fe, ni aun en los días en que Antipas mi testigo fiel fue muerto entre vosotros, donde mora Satanás.",
+      "verse": 11,
+      "start_ms": 102387,
+      "end_ms": 122749,
+      "duration_ms": 20362
+    },
+    {
+      "word": "Pero tengo unas pocas cosas contra ti: que tienes ahí a los que retienen la doctrina de Balaam, que enseñaba a Balac a poner tropiezo ante los hijos de Israel, a comer de cosas sacrificadas a los ídolos, y a cometer fornicación.",
+      "verse": 14,
+      "start_ms": 122750,
+      "end_ms": 136312,
+      "duration_ms": 13562
+    },
+    {
+      "word": "Y también tienes a los que retienen la doctrina de los nicolaítas, la que yo aborrezco.",
+      "verse": 15,
+      "start_ms": 136312,
+      "end_ms": 141812,
+      "duration_ms": 5500
+    },
+    {
+      "word": "Por tanto, arrepiéntete; pues si no, vendré a ti pronto, y pelearé contra ellos con la espada de mi boca.",
+      "verse": 16,
+      "start_ms": 141812,
+      "end_ms": 149262,
+      "duration_ms": 7450
+    },
+    {
+      "word": "El que tiene oído, oiga lo que el Espíritu dice a las iglesias.",
+      "verse": 17,
+      "start_ms": 149262,
+      "end_ms": 153862,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Al que venciere, daré a comer del maná escondido, y le daré una piedrecita blanca, y en la piedrecita escrito un nombre nuevo, el cual ninguno conoce sino aquel que lo recibe.",
+      "verse": 17,
+      "start_ms": 153862,
+      "end_ms": 164637,
+      "duration_ms": 10775
+    },
+    {
+      "word": "El mensaje a Tiatira Y escribe al ángel de la iglesia en Tiatira: El Hijo de Dios, el que tiene ojos como llama de fuego, y pies semejantes al bronce bruñido, dice esto: Yo conozco tus obras, y amor, y fe, y servicio, y tu paciencia, y que tus obras postreras son más que las primeras.",
+      "verse": 17,
+      "start_ms": 164637,
+      "end_ms": 183224,
+      "duration_ms": 18587
+    },
+    {
+      "word": "Pero tengo unas pocas cosas contra ti: que toleras que esa mujer Jezabel, que se dice profetisa, enseñe y seduzca a mis siervos a fornicar y a comer cosas sacrificadas a los ídolos.",
+      "verse": 20,
+      "start_ms": 183225,
+      "end_ms": 194437,
+      "duration_ms": 11212
+    },
+    {
+      "word": "Y le he dado tiempo para que se arrepienta, pero no quiere arrepentirse de su fornicación.",
+      "verse": 21,
+      "start_ms": 194437,
+      "end_ms": 199949,
+      "duration_ms": 5512
+    },
+    {
+      "word": "He aquí, yo la arrojo en cama, y en gran tribulación a los que con ella adulteran, si no se arrepienten de las obras de ella.",
+      "verse": 22,
+      "start_ms": 199950,
+      "end_ms": 207750,
+      "duration_ms": 7800
+    },
+    {
+      "word": "Y a sus hijos heriré de muerte, y todas las iglesias sabrán que yo soy el que escudriña la mente y el corazón; y os daré a cada uno según vuestras obras.",
+      "verse": 23,
+      "start_ms": 207750,
+      "end_ms": 217075,
+      "duration_ms": 9325
+    },
+    {
+      "word": "Pero a vosotros y a los demás que están en Tiatira, a cuantos no tienen esa doctrina, y no han conocido lo que ellos llaman las profundidades de Satanás, yo os digo: No os impondré otra carga; pero lo que tenéis, retenedlo hasta que yo venga.",
+      "verse": 24,
+      "start_ms": 217075,
+      "end_ms": 231475,
+      "duration_ms": 14400
+    },
+    {
+      "word": "Al que venciere y guardare mis obras hasta el fin, yo le daré autoridad sobre las naciones, y las regirá con vara de hierro, y serán quebradas como vaso de alfarero; como yo también la he recibido de mi Padre; y le daré la estrella de la mañana.",
+      "verse": 26,
+      "start_ms": 231475,
+      "end_ms": 245762,
+      "duration_ms": 14287
+    },
+    {
+      "word": "El que tiene oído, oiga lo que el Espíritu dice a las iglesias.",
+      "verse": 29,
+      "start_ms": 245762,
+      "end_ms": 250362,
+      "duration_ms": 4600
+    }
+  ]
+}

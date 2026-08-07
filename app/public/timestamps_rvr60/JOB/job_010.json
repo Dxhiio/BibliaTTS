@@ -1,0 +1,320 @@
+{
+  "book": "JOB",
+  "chapter": 10,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 22,
+  "word_count": 22,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 96,
+      "text": "Está mi alma hastiada de mi vida; Daré libre curso a mi queja, Hablaré con amargura de mi alma."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 96,
+      "char_end": 168,
+      "text": "Diré a Dios: No me condenes; Hazme entender por qué contiendes conmigo."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 168,
+      "char_end": 278,
+      "text": "¿Te parece bien que oprimas, Que deseches la obra de tus manos, Y que favorezcas los designios de los impíos?"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 278,
+      "char_end": 337,
+      "text": "¿Tienes tú acaso ojos de carne? ¿Ves tú como ve el hombre?"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 337,
+      "char_end": 414,
+      "text": "¿Son tus días como los días del hombre, O tus años como los tiempos humanos,"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 414,
+      "char_end": 468,
+      "text": "Para que inquieras mi iniquidad, Y busques mi pecado,"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 468,
+      "char_end": 542,
+      "text": "Aunque tú sabes que no soy impío, Y que no hay quien de tu mano me libre?"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 542,
+      "char_end": 614,
+      "text": "Tus manos me hicieron y me formaron; ¿Y luego te vuelves y me deshaces?"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 614,
+      "char_end": 687,
+      "text": "Acuérdate que como a barro me diste forma; ¿Y en polvo me has de volver?"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 687,
+      "char_end": 741,
+      "text": "¿No me vaciaste como leche, Y como queso me cuajaste?"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 741,
+      "char_end": 805,
+      "text": "Me vestiste de piel y carne, Y me tejiste con huesos y nervios."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 805,
+      "char_end": 873,
+      "text": "Vida y misericordia me concediste, Y tu cuidado guardó mi espíritu."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 873,
+      "char_end": 946,
+      "text": "Estas cosas tienes guardadas en tu corazón; Yo sé que están cerca de ti."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 946,
+      "char_end": 1021,
+      "text": "Si pequé, tú me has observado, Y no me tendrás por limpio de mi iniquidad."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1021,
+      "char_end": 1140,
+      "text": "Si fuere malo, ¡ay de mí! Y si fuere justo, no levantaré mi cabeza, Estando hastiado de deshonra, y de verme afligido."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1140,
+      "char_end": 1223,
+      "text": "Si mi cabeza se alzare, cual león tú me cazas; Y vuelves a hacer en mí maravillas."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1223,
+      "char_end": 1306,
+      "text": "Renuevas contra mí tus pruebas, Y aumentas conmigo tu furor como tropas de relevo."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1306,
+      "char_end": 1391,
+      "text": "¿Por qué me sacaste de la matriz? Hubiera yo expirado, y ningún ojo me habría visto."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1391,
+      "char_end": 1465,
+      "text": "Fuera como si nunca hubiera existido, Llevado del vientre a la sepultura."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1465,
+      "char_end": 1541,
+      "text": "¿No son pocos mis días? Cesa, pues, y déjame, para que me consuele un poco,"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1541,
+      "char_end": 1620,
+      "text": "Antes que vaya para no volver, A la tierra de tinieblas y de sombra de muerte;"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1620,
+      "char_end": 1722,
+      "text": "Tierra de oscuridad, lóbrega, Como sombra de muerte y sin orden, Y cuya luz es como densas tinieblas."
+    }
+  ],
+  "words": [
+    {
+      "word": "Está mi alma hastiada de mi vida; Daré libre curso a mi queja, Hablaré con amargura de mi alma.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6575,
+      "duration_ms": 6475
+    },
+    {
+      "word": "Diré a Dios: No me condenes; Hazme entender por qué contiendes conmigo.",
+      "verse": 2,
+      "start_ms": 6525,
+      "end_ms": 11887,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Te parece bien que oprimas, Que deseches la obra de tus manos, Y que favorezcas los designios de los impíos?",
+      "verse": 3,
+      "start_ms": 11887,
+      "end_ms": 19074,
+      "duration_ms": 7187
+    },
+    {
+      "word": "Tienes tú acaso ojos de carne?",
+      "verse": 4,
+      "start_ms": 19075,
+      "end_ms": 21662,
+      "duration_ms": 2587
+    },
+    {
+      "word": "Ves tú como ve el hombre?",
+      "verse": 4,
+      "start_ms": 21662,
+      "end_ms": 24037,
+      "duration_ms": 2375
+    },
+    {
+      "word": "Son tus días como los días del hombre, O tus años como los tiempos humanos, Para que inquieras mi iniquidad, Y busques mi pecado, Aunque tú sabes que no soy impío, Y que no hay quien de tu mano me libre?",
+      "verse": 5,
+      "start_ms": 24037,
+      "end_ms": 35874,
+      "duration_ms": 11837
+    },
+    {
+      "word": "Tus manos me hicieron y me formaron; ¿Y luego te vuelves y me deshaces?",
+      "verse": 8,
+      "start_ms": 35875,
+      "end_ms": 40437,
+      "duration_ms": 4562
+    },
+    {
+      "word": "Acuérdate que como a barro me diste forma; ¿Y en polvo me has de volver?",
+      "verse": 9,
+      "start_ms": 40437,
+      "end_ms": 45224,
+      "duration_ms": 4787
+    },
+    {
+      "word": "No me vaciaste como leche, Y como queso me cuajaste?",
+      "verse": 10,
+      "start_ms": 45225,
+      "end_ms": 49200,
+      "duration_ms": 3975
+    },
+    {
+      "word": "Me vestiste de piel y carne, Y me tejiste con huesos y nervios.",
+      "verse": 11,
+      "start_ms": 49200,
+      "end_ms": 53737,
+      "duration_ms": 4537
+    },
+    {
+      "word": "Vida y misericordia me concediste, Y tu cuidado guardó mi espíritu.",
+      "verse": 12,
+      "start_ms": 53737,
+      "end_ms": 58787,
+      "duration_ms": 5050
+    },
+    {
+      "word": "Estas cosas tienes guardadas en tu corazón; Yo sé que están cerca de ti.",
+      "verse": 13,
+      "start_ms": 58787,
+      "end_ms": 63849,
+      "duration_ms": 5062
+    },
+    {
+      "word": "Si pequé, tú me has observado, Y no me tendrás por limpio de mi iniquidad.",
+      "verse": 14,
+      "start_ms": 63850,
+      "end_ms": 68950,
+      "duration_ms": 5100
+    },
+    {
+      "word": "Si fuere malo, ¡ay de mí!",
+      "verse": 15,
+      "start_ms": 68950,
+      "end_ms": 71412,
+      "duration_ms": 2462
+    },
+    {
+      "word": "Y si fuere justo, no levantaré mi cabeza, Estando hastiado de deshonra, y de verme afligido.",
+      "verse": 15,
+      "start_ms": 71412,
+      "end_ms": 77999,
+      "duration_ms": 6587
+    },
+    {
+      "word": "Si mi cabeza se alzare, cual león tú me cazas; Y vuelves a hacer en mí maravillas.",
+      "verse": 16,
+      "start_ms": 78000,
+      "end_ms": 83825,
+      "duration_ms": 5825
+    },
+    {
+      "word": "Renuevas contra mí tus pruebas, Y aumentas conmigo tu furor como tropas de relevo.",
+      "verse": 17,
+      "start_ms": 83825,
+      "end_ms": 89337,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Por qué me sacaste de la matriz?",
+      "verse": 18,
+      "start_ms": 89337,
+      "end_ms": 91974,
+      "duration_ms": 2637
+    },
+    {
+      "word": "Hubiera yo expirado, y ningún ojo me habría visto.",
+      "verse": 18,
+      "start_ms": 91975,
+      "end_ms": 95787,
+      "duration_ms": 3812
+    },
+    {
+      "word": "Fuera como si nunca hubiera existido, Llevado del vientre a la sepultura.",
+      "verse": 19,
+      "start_ms": 95787,
+      "end_ms": 100662,
+      "duration_ms": 4875
+    },
+    {
+      "word": "No son pocos mis días?",
+      "verse": 20,
+      "start_ms": 100662,
+      "end_ms": 102937,
+      "duration_ms": 2275
+    },
+    {
+      "word": "Cesa, pues, y déjame, para que me consuele un poco, Antes que vaya para no volver, A la tierra de tinieblas y de sombra de muerte; Tierra de oscuridad, lóbrega, Como sombra de muerte y sin orden, Y cuya luz es como densas tinieblas.",
+      "verse": 20,
+      "start_ms": 102937,
+      "end_ms": 118112,
+      "duration_ms": 15175
+    }
+  ]
+}

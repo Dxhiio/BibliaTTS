@@ -1,0 +1,474 @@
+{
+  "book": "2SA",
+  "chapter": 11,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 27,
+  "word_count": 39,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 221,
+      "text": "Aconteció al año siguiente, en el tiempo que salen los reyes a la guerra, que David envió a Joab, y con él a sus siervos y a todo Israel, y destruyeron a los amonitas, y sitiaron a Rabá; pero David se quedó en Jerusalén."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 221,
+      "char_end": 420,
+      "text": "Y sucedió un día, al caer la tarde, que se levantó David de su lecho y se paseaba sobre el terrado de la casa real; y vio desde el terrado a una mujer que se estaba bañando, la cual era muy hermosa."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 420,
+      "char_end": 533,
+      "text": "Envió David a preguntar por aquella mujer, y le dijeron: Aquella es Betsabé hija de Eliam, mujer de Urías heteo."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 533,
+      "char_end": 669,
+      "text": "Y envió David mensajeros, y la tomó; y vino a él, y él durmió con ella. Luego ella se purificó de su inmundicia, y se volvió a su casa."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 669,
+      "char_end": 748,
+      "text": "Y concibió la mujer, y envió a hacerlo saber a David, diciendo: Estoy encinta."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 748,
+      "char_end": 838,
+      "text": "Entonces David envió a decir a Joab: Envíame a Urías heteo. Y Joab envió a Urías a David."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 838,
+      "char_end": 959,
+      "text": "Cuando Urías vino a él, David le preguntó por la salud de Joab, y por la salud del pueblo, y por el estado de la guerra."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 959,
+      "char_end": 1103,
+      "text": "Después dijo David a Urías: Desciende a tu casa, y lava tus pies. Y saliendo Urías de la casa del rey, le fue enviado presente de la mesa real."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1103,
+      "char_end": 1212,
+      "text": "Mas Urías durmió a la puerta de la casa del rey con todos los siervos de su señor, y no descendió a su casa."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1212,
+      "char_end": 1377,
+      "text": "E hicieron saber esto a David, diciendo: Urías no ha descendido a su casa. Y dijo David a Urías: ¿No has venido de camino? ¿Por qué, pues, no descendiste a tu casa?"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1377,
+      "char_end": 1646,
+      "text": "Y Urías respondió a David: El arca e Israel y Judá están bajo tiendas, y mi señor Joab, y los siervos de mi señor, en el campo; ¿y había yo de entrar en mi casa para comer y beber, y a dormir con mi mujer? Por vida tuya, y por vida de tu alma, que yo no haré tal cosa."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1646,
+      "char_end": 1770,
+      "text": "Y David dijo a Urías: Quédate aquí aún hoy, y mañana te despacharé. Y se quedó Urías en Jerusalén aquel día y el siguiente."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1770,
+      "char_end": 1933,
+      "text": "Y David lo convidó a comer y a beber con él, hasta embriagarlo. Y él salió a la tarde a dormir en su cama con los siervos de su señor; mas no descendió a su casa."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1933,
+      "char_end": 2017,
+      "text": "Venida la mañana, escribió David a Joab una carta, la cual envió por mano de Urías."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2017,
+      "char_end": 2154,
+      "text": "Y escribió en la carta, diciendo: Poned a Urías al frente, en lo más recio de la batalla, y retiraos de él, para que sea herido y muera."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2154,
+      "char_end": 2271,
+      "text": "Así fue que cuando Joab sitió la ciudad, puso a Urías en el lugar donde sabía que estaban los hombres más valientes."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2271,
+      "char_end": 2413,
+      "text": "Y saliendo luego los de la ciudad, pelearon contra Joab, y cayeron algunos del ejército de los siervos de David; y murió también Urías heteo."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2413,
+      "char_end": 2486,
+      "text": "Entonces envió Joab e hizo saber a David todos los asuntos de la guerra."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2486,
+      "char_end": 2581,
+      "text": "Y mandó al mensajero, diciendo: Cuando acabes de contar al rey todos los asuntos de la guerra,"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2581,
+      "char_end": 2736,
+      "text": "si el rey comenzare a enojarse, y te dijere: ¿Por qué os acercasteis demasiado a la ciudad para combatir? ¿No sabíais lo que suelen arrojar desde el muro?"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2736,
+      "char_end": 2960,
+      "text": "¿Quién hirió a Abimelec hijo de Jerobaal? ¿No echó una mujer del muro un pedazo de una rueda de molino, y murió en Tebes? ¿Por qué os acercasteis tanto al muro? Entonces tú le dirás: También tu siervo Urías heteo es muerto."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2960,
+      "char_end": 3046,
+      "text": "Fue el mensajero, y llegando, contó a David todo aquello a que Joab le había enviado."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3046,
+      "char_end": 3228,
+      "text": "Y dijo el mensajero a David: Prevalecieron contra nosotros los hombres que salieron contra nosotros al campo, bien que nosotros les hicimos retroceder hasta la entrada de la puerta;"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3228,
+      "char_end": 3371,
+      "text": "pero los flecheros tiraron contra tus siervos desde el muro, y murieron algunos de los siervos del rey; y murió también tu siervo Urías heteo."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3371,
+      "char_end": 3565,
+      "text": "Y David dijo al mensajero: Así dirás a Joab: No tengas pesar por esto, porque la espada consume, ora a uno, ora a otro; refuerza tu ataque contra la ciudad, hasta que la rindas. Y tú aliéntale."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3565,
+      "char_end": 3648,
+      "text": "Oyendo la mujer de Urías que su marido Urías era muerto, hizo duelo por su marido."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3648,
+      "char_end": 3819,
+      "text": "Y pasado el luto, envió David y la trajo a su casa; y fue ella su mujer, y le dio a luz un hijo. Mas esto que David había hecho, fue desagradable ante los ojos de Jehová."
+    }
+  ],
+  "words": [
+    {
+      "word": "Aconteció al año siguiente, en el tiempo que salen los reyes a la guerra, que David envió a Joab, y con él a sus siervos y a todo Israel, y destruyeron a los amonitas, y sitiaron a Rabá; pero David se quedó en Jerusalén.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 13700,
+      "duration_ms": 13600
+    },
+    {
+      "word": "Y sucedió un día, al caer la tarde, que se levantó David de su lecho y se paseaba sobre el terrado de la casa real; y vio desde el terrado a una mujer que se estaba bañando, la cual era muy hermosa.",
+      "verse": 2,
+      "start_ms": 13650,
+      "end_ms": 25687,
+      "duration_ms": 12037
+    },
+    {
+      "word": "Envió David a preguntar por aquella mujer, y le dijeron: Aquella es Betsabé hija de Eliam, mujer de Urías heteo.",
+      "verse": 3,
+      "start_ms": 25687,
+      "end_ms": 33337,
+      "duration_ms": 7650
+    },
+    {
+      "word": "Y envió David mensajeros, y la tomó; y vino a él, y él durmió con ella.",
+      "verse": 4,
+      "start_ms": 33337,
+      "end_ms": 38937,
+      "duration_ms": 5600
+    },
+    {
+      "word": "Luego ella se purificó de su inmundicia, y se volvió a su casa.",
+      "verse": 4,
+      "start_ms": 38937,
+      "end_ms": 43424,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Y concibió la mujer, y envió a hacerlo saber a David, diciendo: Estoy encinta.",
+      "verse": 5,
+      "start_ms": 43425,
+      "end_ms": 49425,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Entonces David envió a decir a Joab: Envíame a Urías heteo.",
+      "verse": 6,
+      "start_ms": 49425,
+      "end_ms": 53975,
+      "duration_ms": 4550
+    },
+    {
+      "word": "Y Joab envió a Urías a David.",
+      "verse": 6,
+      "start_ms": 53975,
+      "end_ms": 56700,
+      "duration_ms": 2725
+    },
+    {
+      "word": "Cuando Urías vino a él, David le preguntó por la salud de Joab, y por la salud del pueblo, y por el estado de la guerra.",
+      "verse": 7,
+      "start_ms": 56700,
+      "end_ms": 64250,
+      "duration_ms": 7550
+    },
+    {
+      "word": "Después dijo David a Urías: Desciende a tu casa, y lava tus pies.",
+      "verse": 8,
+      "start_ms": 64250,
+      "end_ms": 69437,
+      "duration_ms": 5187
+    },
+    {
+      "word": "Y saliendo Urías de la casa del rey, le fue enviado presente de la mesa real.",
+      "verse": 8,
+      "start_ms": 69437,
+      "end_ms": 74562,
+      "duration_ms": 5125
+    },
+    {
+      "word": "Mas Urías durmió a la puerta de la casa del rey con todos los siervos de su señor, y no descendió a su casa.",
+      "verse": 9,
+      "start_ms": 74562,
+      "end_ms": 81162,
+      "duration_ms": 6600
+    },
+    {
+      "word": "E hicieron saber esto a David, diciendo: Urías no ha descendido a su casa.",
+      "verse": 10,
+      "start_ms": 81162,
+      "end_ms": 86499,
+      "duration_ms": 5337
+    },
+    {
+      "word": "Y dijo David a Urías: ¿No has venido de camino?",
+      "verse": 10,
+      "start_ms": 86500,
+      "end_ms": 90487,
+      "duration_ms": 3987
+    },
+    {
+      "word": "Por qué, pues, no descendiste a tu casa?",
+      "verse": 10,
+      "start_ms": 90487,
+      "end_ms": 94012,
+      "duration_ms": 3525
+    },
+    {
+      "word": "Y Urías respondió a David: El arca e Israel y Judá están bajo tiendas, y mi señor Joab, y los siervos de mi señor, en el campo; ¿y había yo de entrar en mi casa para comer y beber, y a dormir con mi mujer?",
+      "verse": 11,
+      "start_ms": 94012,
+      "end_ms": 106949,
+      "duration_ms": 12937
+    },
+    {
+      "word": "Por vida tuya, y por vida de tu alma, que yo no haré tal cosa.",
+      "verse": 11,
+      "start_ms": 106950,
+      "end_ms": 111662,
+      "duration_ms": 4712
+    },
+    {
+      "word": "Y David dijo a Urías: Quédate aquí aún hoy, y mañana te despacharé.",
+      "verse": 12,
+      "start_ms": 111662,
+      "end_ms": 116962,
+      "duration_ms": 5300
+    },
+    {
+      "word": "Y se quedó Urías en Jerusalén aquel día y el siguiente.",
+      "verse": 12,
+      "start_ms": 116962,
+      "end_ms": 120824,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Y David lo convidó a comer y a beber con él, hasta embriagarlo.",
+      "verse": 13,
+      "start_ms": 120825,
+      "end_ms": 125000,
+      "duration_ms": 4175
+    },
+    {
+      "word": "Y él salió a la tarde a dormir en su cama con los siervos de su señor; mas no descendió a su casa.",
+      "verse": 13,
+      "start_ms": 125000,
+      "end_ms": 131075,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Venida la mañana, escribió David a Joab una carta, la cual envió por mano de Urías.",
+      "verse": 14,
+      "start_ms": 131075,
+      "end_ms": 137087,
+      "duration_ms": 6012
+    },
+    {
+      "word": "Y escribió en la carta, diciendo: Poned a Urías al frente, en lo más recio de la batalla, y retiraos de él, para que sea herido y muera.",
+      "verse": 15,
+      "start_ms": 137087,
+      "end_ms": 146187,
+      "duration_ms": 9100
+    },
+    {
+      "word": "Así fue que cuando Joab sitió la ciudad, puso a Urías en el lugar donde sabía que estaban los hombres más valientes.",
+      "verse": 16,
+      "start_ms": 146187,
+      "end_ms": 153187,
+      "duration_ms": 7000
+    },
+    {
+      "word": "Y saliendo luego los de la ciudad, pelearon contra Joab, y cayeron algunos del ejército de los siervos de David; y murió también Urías heteo.",
+      "verse": 17,
+      "start_ms": 153187,
+      "end_ms": 162149,
+      "duration_ms": 8962
+    },
+    {
+      "word": "Entonces envió Joab e hizo saber a David todos los asuntos de la guerra.",
+      "verse": 18,
+      "start_ms": 162150,
+      "end_ms": 166825,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Y mandó al mensajero, diciendo: Cuando acabes de contar al rey todos los asuntos de la guerra, si el rey comenzare a enojarse, y te dijere: ¿Por qué os acercasteis demasiado a la ciudad para combatir?",
+      "verse": 19,
+      "start_ms": 166825,
+      "end_ms": 178950,
+      "duration_ms": 12125
+    },
+    {
+      "word": "No sabíais lo que suelen arrojar desde el muro?",
+      "verse": 20,
+      "start_ms": 178950,
+      "end_ms": 182312,
+      "duration_ms": 3362
+    },
+    {
+      "word": "Quién hirió a Abimelec hijo de Jerobaal?",
+      "verse": 21,
+      "start_ms": 182312,
+      "end_ms": 185462,
+      "duration_ms": 3150
+    },
+    {
+      "word": "No echó una mujer del muro un pedazo de una rueda de molino, y murió en Tebes?",
+      "verse": 21,
+      "start_ms": 185462,
+      "end_ms": 190824,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Por qué os acercasteis tanto al muro?",
+      "verse": 21,
+      "start_ms": 190825,
+      "end_ms": 193775,
+      "duration_ms": 2950
+    },
+    {
+      "word": "Entonces tú le dirás: También tu siervo Urías heteo es muerto.",
+      "verse": 21,
+      "start_ms": 193775,
+      "end_ms": 198475,
+      "duration_ms": 4700
+    },
+    {
+      "word": "Fue el mensajero, y llegando, contó a David todo aquello a que Joab le había enviado.",
+      "verse": 22,
+      "start_ms": 198475,
+      "end_ms": 204312,
+      "duration_ms": 5837
+    },
+    {
+      "word": "Y dijo el mensajero a David: Prevalecieron contra nosotros los hombres que salieron contra nosotros al campo, bien que nosotros les hicimos retroceder hasta la entrada de la puerta; pero los flecheros tiraron contra tus siervos desde el muro, y murieron algunos de los siervos del rey; y murió también tu siervo Urías heteo.",
+      "verse": 23,
+      "start_ms": 204312,
+      "end_ms": 221662,
+      "duration_ms": 17350
+    },
+    {
+      "word": "Y David dijo al mensajero: Así dirás a Joab: No tengas pesar por esto, porque la espada consume, ora a uno, ora a otro; refuerza tu ataque contra la ciudad, hasta que la rindas.",
+      "verse": 25,
+      "start_ms": 221662,
+      "end_ms": 233487,
+      "duration_ms": 11825
+    },
+    {
+      "word": "Y tú aliéntale.",
+      "verse": 25,
+      "start_ms": 233487,
+      "end_ms": 235387,
+      "duration_ms": 1900
+    },
+    {
+      "word": "Oyendo la mujer de Urías que su marido Urías era muerto, hizo duelo por su marido.",
+      "verse": 26,
+      "start_ms": 235387,
+      "end_ms": 241049,
+      "duration_ms": 5662
+    },
+    {
+      "word": "Y pasado el luto, envió David y la trajo a su casa; y fue ella su mujer, y le dio a luz un hijo.",
+      "verse": 27,
+      "start_ms": 241050,
+      "end_ms": 247700,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Mas esto que David había hecho, fue desagradable ante los ojos de Jehová.",
+      "verse": 27,
+      "start_ms": 247700,
+      "end_ms": 252675,
+      "duration_ms": 4975
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "book": "1TE",
+  "chapter": 2,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 10,
+  "word_count": 5,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 207,
+      "text": "Pablo, Silvano y Timoteo, a la iglesia de los tesalonicenses en Dios Padre y en el Señor Jesucristo: Gracia y paz sean a vosotros, de Dios nuestro Padre y del Señor Jesucristo. Ejemplo de los tesalonicenses"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 207,
+      "char_end": 308,
+      "text": "Damos siempre gracias a Dios por todos vosotros, haciendo memoria de vosotros en nuestras oraciones,"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 308,
+      "char_end": 487,
+      "text": "acordándonos sin cesar delante del Dios y Padre nuestro de la obra de vuestra fe, del trabajo de vuestro amor y de vuestra constancia en la esperanza en nuestro Señor Jesucristo."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 487,
+      "char_end": 548,
+      "text": "Porque conocemos, hermanos amados de Dios, vuestra elección;"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 548,
+      "char_end": 750,
+      "text": "pues nuestro evangelio no llegó a vosotros en palabras solamente, sino también en poder, en el Espíritu Santo y en plena certidumbre, como bien sabéis cuáles fuimos entre vosotros por amor de vosotros."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 750,
+      "char_end": 894,
+      "text": "Y vosotros vinisteis a ser imitadores de nosotros y del Señor, recibiendo la palabra en medio de gran tribulación, con gozo del Espíritu Santo,"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 894,
+      "char_end": 984,
+      "text": "de tal manera que habéis sido ejemplo a todos los de Macedonia y de Acaya que han creído."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 984,
+      "char_end": 1208,
+      "text": "Porque partiendo de vosotros ha sido divulgada la palabra del Señor, no sólo en Macedonia y Acaya, sino que también en todo lugar vuestra fe en Dios se ha extendido, de modo que nosotros no tenemos necesidad de hablar nada;"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1208,
+      "char_end": 1366,
+      "text": "porque ellos mismos cuentan de nosotros la manera en que nos recibisteis, y cómo os convertisteis de los ídolos a Dios, para servir al Dios vivo y verdadero,"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1366,
+      "char_end": 1479,
+      "text": "y esperar de los cielos a su Hijo, al cual resucitó de los muertos, a Jesús, quien nos libra de la ira venidera."
+    }
+  ],
+  "words": [
+    {
+      "word": "Pablo, Silvano y Timoteo, a la iglesia de los tesalonicenses en Dios Padre y en el Señor Jesucristo: Gracia y paz sean a vosotros, de Dios nuestro Padre y del Señor Jesucristo.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 11462,
+      "duration_ms": 11362
+    },
+    {
+      "word": "Ejemplo de los tesalonicenses Damos siempre gracias a Dios por todos vosotros, haciendo memoria de vosotros en nuestras oraciones, acordándonos sin cesar delante del Dios y Padre nuestro de la obra de vuestra fe, del trabajo de vuestro amor y de vuestra constancia en la esperanza en nuestro Señor Jesucristo.",
+      "verse": 1,
+      "start_ms": 11412,
+      "end_ms": 28437,
+      "duration_ms": 17025
+    },
+    {
+      "word": "Porque conocemos, hermanos amados de Dios, vuestra elección; pues nuestro evangelio no llegó a vosotros en palabras solamente, sino también en poder, en el Espíritu Santo y en plena certidumbre, como bien sabéis cuáles fuimos entre vosotros por amor de vosotros.",
+      "verse": 4,
+      "start_ms": 28437,
+      "end_ms": 44124,
+      "duration_ms": 15687
+    },
+    {
+      "word": "Y vosotros vinisteis a ser imitadores de nosotros y del Señor, recibiendo la palabra en medio de gran tribulación, con gozo del Espíritu Santo, de tal manera que habéis sido ejemplo a todos los de Macedonia y de Acaya que han creído.",
+      "verse": 6,
+      "start_ms": 44125,
+      "end_ms": 57525,
+      "duration_ms": 13400
+    },
+    {
+      "word": "Porque partiendo de vosotros ha sido divulgada la palabra del Señor, no sólo en Macedonia y Acaya, sino que también en todo lugar vuestra fe en Dios se ha extendido, de modo que nosotros no tenemos necesidad de hablar nada; porque ellos mismos cuentan de nosotros la manera en que nos recibisteis, y cómo os convertisteis de los ídolos a Dios, para servir al Dios vivo y verdadero, y esperar de los cielos a su Hijo, al cual resucitó de los muertos, a Jesús, quien nos libra de la ira venidera.",
+      "verse": 8,
+      "start_ms": 57525,
+      "end_ms": 85437,
+      "duration_ms": 27912
+    }
+  ]
+}

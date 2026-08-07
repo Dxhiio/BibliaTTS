@@ -1,0 +1,376 @@
+{
+  "book": "PRO",
+  "chapter": 27,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 27,
+  "word_count": 25,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 71,
+      "text": "No te jactes del día de mañana; Porque no sabes qué dará de sí el día."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 71,
+      "char_end": 145,
+      "text": "Alábete el extraño, y no tu propia boca; El ajeno, y no los labios tuyos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 145,
+      "char_end": 229,
+      "text": "Pesada es la piedra, y la arena pesa; Mas la ira del necio es más pesada que ambas."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 229,
+      "char_end": 319,
+      "text": "Cruel es la ira, e impetuoso el furor; Mas ¿quién podrá sostenerse delante de la envidia?"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 319,
+      "char_end": 367,
+      "text": "Mejor es reprensión manifiesta Que amor oculto."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 367,
+      "char_end": 447,
+      "text": "Fieles son las heridas del que ama; Pero importunos los besos del que aborrece."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 447,
+      "char_end": 537,
+      "text": "El hombre saciado desprecia el panal de miel; Pero al hambriento todo lo amargo es dulce."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 537,
+      "char_end": 608,
+      "text": "Cual ave que se va de su nido, Tal es el hombre que se va de su lugar."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 608,
+      "char_end": 696,
+      "text": "El ungüento y el perfume alegran el corazón, Y el cordial consejo del amigo, al hombre."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 696,
+      "char_end": 849,
+      "text": "No dejes a tu amigo, ni al amigo de tu padre; Ni vayas a la casa de tu hermano en el día de tu aflicción. Mejor es el vecino cerca que el hermano lejos."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 849,
+      "char_end": 932,
+      "text": "Sé sabio, hijo mío, y alegra mi corazón, Y tendré qué responder al que me agravie."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 932,
+      "char_end": 1007,
+      "text": "El avisado ve el mal y se esconde; Mas los simples pasan y llevan el daño."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1007,
+      "char_end": 1101,
+      "text": "Quítale su ropa al que salió fiador por el extraño; Y al que fía a la extraña, tómale prenda."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1101,
+      "char_end": 1191,
+      "text": "El que bendice a su amigo en alta voz, madrugando de mañana, Por maldición se le contará."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1191,
+      "char_end": 1266,
+      "text": "Gotera continua en tiempo de lluvia Y la mujer rencillosa, son semejantes;"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1266,
+      "char_end": 1355,
+      "text": "Pretender contenerla es como refrenar el viento, O sujetar el aceite en la mano derecha."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1355,
+      "char_end": 1428,
+      "text": "Hierro con hierro se aguza; Y así el hombre aguza el rostro de su amigo."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1428,
+      "char_end": 1527,
+      "text": "Quien cuida la higuera comerá su fruto, Y el que mira por los intereses de su señor, tendrá honra."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1527,
+      "char_end": 1617,
+      "text": "Como en el agua el rostro corresponde al rostro, Así el corazón del hombre al del hombre."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1617,
+      "char_end": 1703,
+      "text": "El Seol y el Abadón nunca se sacian; Así los ojos del hombre nunca están satisfechos."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1703,
+      "char_end": 1789,
+      "text": "El crisol prueba la plata, y la hornaza el oro, Y al hombre la boca del que lo alaba."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1789,
+      "char_end": 1902,
+      "text": "Aunque majes al necio en un mortero entre granos de trigo majados con el pisón, No se apartará de él su necedad."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1902,
+      "char_end": 1987,
+      "text": "Sé diligente en conocer el estado de tus ovejas, Y mira con cuidado por tus rebaños;"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1987,
+      "char_end": 2077,
+      "text": "Porque las riquezas no duran para siempre; ¿Y será la corona para perpetuas generaciones?"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2077,
+      "char_end": 2155,
+      "text": "Saldrá la grama, aparecerá la hierba, Y se segarán las hierbas de los montes."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2155,
+      "char_end": 2232,
+      "text": "Los corderos son para tus vestidos, Y los cabritos para el precio del campo;"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2232,
+      "char_end": 2354,
+      "text": "Y abundancia de leche de las cabras para tu mantenimiento, para mantenimiento de tu casa, Y para sustento de tus criadas."
+    }
+  ],
+  "words": [
+    {
+      "word": "No te jactes del día de mañana; Porque no sabes qué dará de sí el día.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4975,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Alábete el extraño, y no tu propia boca; El ajeno, y no los labios tuyos.",
+      "verse": 2,
+      "start_ms": 4925,
+      "end_ms": 10850,
+      "duration_ms": 5925
+    },
+    {
+      "word": "Pesada es la piedra, y la arena pesa; Mas la ira del necio es más pesada que ambas.",
+      "verse": 3,
+      "start_ms": 10850,
+      "end_ms": 16950,
+      "duration_ms": 6100
+    },
+    {
+      "word": "Cruel es la ira, e impetuoso el furor; Mas ¿quién podrá sostenerse delante de la envidia?",
+      "verse": 4,
+      "start_ms": 16950,
+      "end_ms": 22962,
+      "duration_ms": 6012
+    },
+    {
+      "word": "Mejor es reprensión manifiesta Que amor oculto.",
+      "verse": 5,
+      "start_ms": 22962,
+      "end_ms": 26324,
+      "duration_ms": 3362
+    },
+    {
+      "word": "Fieles son las heridas del que ama; Pero importunos los besos del que aborrece.",
+      "verse": 6,
+      "start_ms": 26325,
+      "end_ms": 31225,
+      "duration_ms": 4900
+    },
+    {
+      "word": "El hombre saciado desprecia el panal de miel; Pero al hambriento todo lo amargo es dulce.",
+      "verse": 7,
+      "start_ms": 31225,
+      "end_ms": 36675,
+      "duration_ms": 5450
+    },
+    {
+      "word": "Cual ave que se va de su nido, Tal es el hombre que se va de su lugar.",
+      "verse": 8,
+      "start_ms": 36675,
+      "end_ms": 41100,
+      "duration_ms": 4425
+    },
+    {
+      "word": "El ungüento y el perfume alegran el corazón, Y el cordial consejo del amigo, al hombre.",
+      "verse": 9,
+      "start_ms": 41100,
+      "end_ms": 46987,
+      "duration_ms": 5887
+    },
+    {
+      "word": "No dejes a tu amigo, ni al amigo de tu padre; Ni vayas a la casa de tu hermano en el día de tu aflicción.",
+      "verse": 10,
+      "start_ms": 46987,
+      "end_ms": 53724,
+      "duration_ms": 6737
+    },
+    {
+      "word": "Mejor es el vecino cerca que el hermano lejos.",
+      "verse": 10,
+      "start_ms": 53725,
+      "end_ms": 57287,
+      "duration_ms": 3562
+    },
+    {
+      "word": "Sé sabio, hijo mío, y alegra mi corazón, Y tendré qué responder al que me agravie.",
+      "verse": 11,
+      "start_ms": 57287,
+      "end_ms": 63449,
+      "duration_ms": 6162
+    },
+    {
+      "word": "El avisado ve el mal y se esconde; Mas los simples pasan y llevan el daño.",
+      "verse": 12,
+      "start_ms": 63450,
+      "end_ms": 68500,
+      "duration_ms": 5050
+    },
+    {
+      "word": "Quítale su ropa al que salió fiador por el extraño; Y al que fía a la extraña, tómale prenda.",
+      "verse": 13,
+      "start_ms": 68500,
+      "end_ms": 74587,
+      "duration_ms": 6087
+    },
+    {
+      "word": "El que bendice a su amigo en alta voz, madrugando de mañana, Por maldición se le contará.",
+      "verse": 14,
+      "start_ms": 74587,
+      "end_ms": 80499,
+      "duration_ms": 5912
+    },
+    {
+      "word": "Gotera continua en tiempo de lluvia Y la mujer rencillosa, son semejantes; Pretender contenerla es como refrenar el viento, O sujetar el aceite en la mano derecha.",
+      "verse": 15,
+      "start_ms": 80500,
+      "end_ms": 90575,
+      "duration_ms": 10075
+    },
+    {
+      "word": "Hierro con hierro se aguza; Y así el hombre aguza el rostro de su amigo.",
+      "verse": 17,
+      "start_ms": 90575,
+      "end_ms": 95525,
+      "duration_ms": 4950
+    },
+    {
+      "word": "Quien cuida la higuera comerá su fruto, Y el que mira por los intereses de su señor, tendrá honra.",
+      "verse": 18,
+      "start_ms": 95525,
+      "end_ms": 101662,
+      "duration_ms": 6137
+    },
+    {
+      "word": "Como en el agua el rostro corresponde al rostro, Así el corazón del hombre al del hombre.",
+      "verse": 19,
+      "start_ms": 101662,
+      "end_ms": 107012,
+      "duration_ms": 5350
+    },
+    {
+      "word": "El Seol y el Abadón nunca se sacian; Así los ojos del hombre nunca están satisfechos.",
+      "verse": 20,
+      "start_ms": 107012,
+      "end_ms": 112949,
+      "duration_ms": 5937
+    },
+    {
+      "word": "El crisol prueba la plata, y la hornaza el oro, Y al hombre la boca del que lo alaba.",
+      "verse": 21,
+      "start_ms": 112950,
+      "end_ms": 118500,
+      "duration_ms": 5550
+    },
+    {
+      "word": "Aunque majes al necio en un mortero entre granos de trigo majados con el pisón, No se apartará de él su necedad.",
+      "verse": 22,
+      "start_ms": 118500,
+      "end_ms": 125312,
+      "duration_ms": 6812
+    },
+    {
+      "word": "Sé diligente en conocer el estado de tus ovejas, Y mira con cuidado por tus rebaños; Porque las riquezas no duran para siempre; ¿Y será la corona para perpetuas generaciones?",
+      "verse": 23,
+      "start_ms": 125312,
+      "end_ms": 136024,
+      "duration_ms": 10712
+    },
+    {
+      "word": "Saldrá la grama, aparecerá la hierba, Y se segarán las hierbas de los montes.",
+      "verse": 25,
+      "start_ms": 136025,
+      "end_ms": 141462,
+      "duration_ms": 5437
+    },
+    {
+      "word": "Los corderos son para tus vestidos, Y los cabritos para el precio del campo; Y abundancia de leche de las cabras para tu mantenimiento, para mantenimiento de tu casa, Y para sustento de tus criadas.",
+      "verse": 26,
+      "start_ms": 141462,
+      "end_ms": 153124,
+      "duration_ms": 11662
+    }
+  ]
+}

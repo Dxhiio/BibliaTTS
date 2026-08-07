@@ -1,0 +1,159 @@
+{
+  "book": "SAL",
+  "chapter": 95,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 11,
+  "word_count": 10,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 91,
+      "text": "Venid, aclamemos alegremente a Jehová; Cantemos con júbilo a la roca de nuestra salvación."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 91,
+      "char_end": 159,
+      "text": "Lleguemos ante su presencia con alabanza; Aclamémosle con cánticos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 159,
+      "char_end": 226,
+      "text": "Porque Jehová es Dios grande, Y Rey grande sobre todos los dioses."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 226,
+      "char_end": 321,
+      "text": "Porque en su mano están las profundidades de la tierra, Y las alturas de los montes son suyas."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 321,
+      "char_end": 396,
+      "text": "Suyo también el mar, pues él lo hizo; Y sus manos formaron la tierra seca."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 396,
+      "char_end": 477,
+      "text": "Venid, adoremos y postrémonos; Arrodillémonos delante de Jehová nuestro Hacedor."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 477,
+      "char_end": 580,
+      "text": "Porque él es nuestro Dios; Nosotros el pueblo de su prado, y ovejas de su mano. Si oyereis hoy su voz,"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 580,
+      "char_end": 668,
+      "text": "No endurezcáis vuestro corazón, como en Meriba, Como en el día de Masah en el desierto,"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 668,
+      "char_end": 736,
+      "text": "Donde me tentaron vuestros padres, Me probaron, y vieron mis obras."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 736,
+      "char_end": 855,
+      "text": "Cuarenta años estuve disgustado con la nación, Y dije: Pueblo es que divaga de corazón, Y no han conocido mis caminos."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 855,
+      "char_end": 915,
+      "text": "Por tanto, juré en mi furor Que no entrarían en mi reposo.,"
+    }
+  ],
+  "words": [
+    {
+      "word": "Venid, aclamemos alegremente a Jehová; Cantemos con júbilo a la roca de nuestra salvación.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6287,
+      "duration_ms": 6187
+    },
+    {
+      "word": "Lleguemos ante su presencia con alabanza; Aclamémosle con cánticos.",
+      "verse": 2,
+      "start_ms": 6237,
+      "end_ms": 11099,
+      "duration_ms": 4862
+    },
+    {
+      "word": "Porque Jehová es Dios grande, Y Rey grande sobre todos los dioses.",
+      "verse": 3,
+      "start_ms": 11100,
+      "end_ms": 15825,
+      "duration_ms": 4725
+    },
+    {
+      "word": "Porque en su mano están las profundidades de la tierra, Y las alturas de los montes son suyas.",
+      "verse": 4,
+      "start_ms": 15825,
+      "end_ms": 21537,
+      "duration_ms": 5712
+    },
+    {
+      "word": "Suyo también el mar, pues él lo hizo; Y sus manos formaron la tierra seca.",
+      "verse": 5,
+      "start_ms": 21537,
+      "end_ms": 26887,
+      "duration_ms": 5350
+    },
+    {
+      "word": "Venid, adoremos y postrémonos; Arrodillémonos delante de Jehová nuestro Hacedor.",
+      "verse": 6,
+      "start_ms": 26887,
+      "end_ms": 32849,
+      "duration_ms": 5962
+    },
+    {
+      "word": "Porque él es nuestro Dios; Nosotros el pueblo de su prado, y ovejas de su mano.",
+      "verse": 7,
+      "start_ms": 32850,
+      "end_ms": 38362,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Si oyereis hoy su voz, No endurezcáis vuestro corazón, como en Meriba, Como en el día de Masah en el desierto, Donde me tentaron vuestros padres, Me probaron, y vieron mis obras.",
+      "verse": 7,
+      "start_ms": 38362,
+      "end_ms": 49437,
+      "duration_ms": 11075
+    },
+    {
+      "word": "Cuarenta años estuve disgustado con la nación, Y dije: Pueblo es que divaga de corazón, Y no han conocido mis caminos.",
+      "verse": 10,
+      "start_ms": 49437,
+      "end_ms": 57549,
+      "duration_ms": 8112
+    },
+    {
+      "word": "Por tanto, juré en mi furor Que no entrarían en mi reposo.",
+      "verse": 11,
+      "start_ms": 57550,
+      "end_ms": 61937,
+      "duration_ms": 4387
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "book": "SAL",
+  "chapter": 142,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 7,
+  "word_count": 9,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 70,
+      "text": "Con mi voz clamaré a Jehová; Con mi voz pediré a Jehová misericordia."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 70,
+      "char_end": 142,
+      "text": "Delante de él expondré mi queja; Delante de él manifestaré mi angustia."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 142,
+      "char_end": 261,
+      "text": "Cuando mi espíritu se angustiaba dentro de mí, tú conociste mi senda. En el camino en que andaba, me escondieron lazo."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 261,
+      "char_end": 376,
+      "text": "Mira a mi diestra y observa, pues no hay quien me quiera conocer; No tengo refugio, ni hay quien cuide de mi vida."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 376,
+      "char_end": 471,
+      "text": "Clamé a ti, oh Jehová; Dije: Tú eres mi esperanza, Y mi porción en la tierra de los vivientes."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 471,
+      "char_end": 581,
+      "text": "Escucha mi clamor, porque estoy muy afligido. Líbrame de los que me persiguen, porque son más fuertes que yo."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 581,
+      "char_end": 687,
+      "text": "Saca mi alma de la cárcel, para que alabe tu nombre; Me rodearán los justos, Porque tú me serás propicio."
+    }
+  ],
+  "words": [
+    {
+      "word": "Con mi voz clamaré a Jehová; Con mi voz pediré a Jehová misericordia.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5100,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Delante de él expondré mi queja; Delante de él manifestaré mi angustia.",
+      "verse": 2,
+      "start_ms": 5050,
+      "end_ms": 10125,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Cuando mi espíritu se angustiaba dentro de mí, tú conociste mi senda.",
+      "verse": 3,
+      "start_ms": 10125,
+      "end_ms": 14800,
+      "duration_ms": 4675
+    },
+    {
+      "word": "En el camino en que andaba, me escondieron lazo.",
+      "verse": 3,
+      "start_ms": 14800,
+      "end_ms": 18200,
+      "duration_ms": 3400
+    },
+    {
+      "word": "Mira a mi diestra y observa, pues no hay quien me quiera conocer; No tengo refugio, ni hay quien cuide de mi vida.",
+      "verse": 4,
+      "start_ms": 18200,
+      "end_ms": 25550,
+      "duration_ms": 7350
+    },
+    {
+      "word": "Clamé a ti, oh Jehová; Dije: Tú eres mi esperanza, Y mi porción en la tierra de los vivientes.",
+      "verse": 5,
+      "start_ms": 25550,
+      "end_ms": 32425,
+      "duration_ms": 6875
+    },
+    {
+      "word": "Escucha mi clamor, porque estoy muy afligido.",
+      "verse": 6,
+      "start_ms": 32425,
+      "end_ms": 36075,
+      "duration_ms": 3650
+    },
+    {
+      "word": "Líbrame de los que me persiguen, porque son más fuertes que yo.",
+      "verse": 6,
+      "start_ms": 36075,
+      "end_ms": 40325,
+      "duration_ms": 4250
+    },
+    {
+      "word": "Saca mi alma de la cárcel, para que alabe tu nombre; Me rodearán los justos, Porque tú me serás propicio.",
+      "verse": 7,
+      "start_ms": 40325,
+      "end_ms": 47312,
+      "duration_ms": 6987
+    }
+  ]
+}

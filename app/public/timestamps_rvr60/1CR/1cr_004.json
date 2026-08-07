@@ -1,0 +1,621 @@
+{
+  "book": "1CR",
+  "chapter": 4,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 43,
+  "word_count": 44,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 54,
+      "text": "Los hijos de Judá: Fares, Hezrón, Carmi, Hur y Sobal."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 54,
+      "char_end": 170,
+      "text": "Reaía hijo de Sobal engendró a Jahat, y Jahat engendró a Ahumai y a Lahad. éstas son las familias de los zoratitas."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 170,
+      "char_end": 272,
+      "text": "Y éstas son las del padre de Etam: Jezreel, Isma e Ibdas. Y el nombre de su hermana fue Haze-lelponi."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 272,
+      "char_end": 390,
+      "text": "Penuel fue padre de Gedor, y Ezer padre de Husa. éstos fueron los hijos de Hur primogénito de Efrata, padre de Belén."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 390,
+      "char_end": 442,
+      "text": "Asur padre de Tecoa tuvo dos mujeres, Hela y Naara."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 442,
+      "char_end": 529,
+      "text": "Y Naara dio a luz a Ahuzam, Hefer, Temeni y Ahastari. éstos fueron los hijos de Naara."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 529,
+      "char_end": 571,
+      "text": "Los hijos de Hela: Zeret, Jezoar y Etnán."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 571,
+      "char_end": 641,
+      "text": "Cos engendró a Anub, a Zobeba, y la familia de Aharhel hijo de Harum."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 641,
+      "char_end": 756,
+      "text": "Y Jabes fue más ilustre que sus hermanos, al cual su madre llamó Jabes, diciendo: Por cuanto lo di a luz en dolor."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 756,
+      "char_end": 964,
+      "text": "E invocó Jabes al Dios de Israel, diciendo: ¡Oh, si me dieras bendición, y ensancharas mi territorio, y si tu mano estuviera conmigo, y me libraras de mal, para que no me dañe! Y le otorgó Dios lo que pidió."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 964,
+      "char_end": 1032,
+      "text": "Quelub hermano de Súa engendró a Mehir, el cual fue padre de Estón."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1032,
+      "char_end": 1142,
+      "text": "Y Estón engendró a Bet-rafa, a Paseah, y a Tehina padre de la ciudad de Nahas; éstos son los varones de Reca."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1142,
+      "char_end": 1210,
+      "text": "Los hijos de Cenaz: Otoniel y Seraías. Los hijos de Otoniel: Hatat,"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1210,
+      "char_end": 1345,
+      "text": "y Meonotai, el cual engendró a Ofra. Y Seraías engendró a Joab, padre de los habitantes del valle de Carisim, porque fueron artífices."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1345,
+      "char_end": 1422,
+      "text": "Los hijos de Caleb hijo de Jefone: Iru, Ela y Naam; e hijo de Ela fue Cenaz."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1422,
+      "char_end": 1475,
+      "text": "Los hijos de Jehalelel: Zif, Zifa, Tirías y Asareel."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1475,
+      "char_end": 1587,
+      "text": "Y los hijos de Esdras: Jeter, Mered, Efer y Jalón; también engendró a María, a Samai y a Isba padre de Estemoa."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1587,
+      "char_end": 1764,
+      "text": "Y su mujer Jehudaía dio a luz a Jered padre de Gedor, a Heber padre de Soco y a Jecutiel padre de Zanoa. éstos fueron los hijos de Bitia hija de Faraón, con la cual casó Mered."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1764,
+      "char_end": 1871,
+      "text": "Y los hijos de la mujer de Hodías, hermana de Naham, fueron el padre de Keila garmita, y Estemoa maacateo."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1871,
+      "char_end": 1961,
+      "text": "Los hijos de Simón: Amnón, Rina, Ben-hanán y Tilón. Y los hijos de Isi: Zohet y Benzohet."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1961,
+      "char_end": 2090,
+      "text": "Los hijos de Sela hijo de Judá: Er padre de Leca, y Laada padre de Maresa, y las familias de los que trabajan lino en Bet-asbea;"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2090,
+      "char_end": 2216,
+      "text": "y Joacim, y los varones de Cozeba, Joás, y Saraf, los cuales dominaron en Moab y volvieron a Lehem, según registros antiguos."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2216,
+      "char_end": 2355,
+      "text": "Éstos eran alfareros, y moraban en medio de plantíos y cercados; moraban allá con el rey, ocupados en su servicio. Descendientes de Simeón"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2355,
+      "char_end": 2410,
+      "text": "Los hijos de Simeón: Nemuel, Jamín, Jarib, Zera, Saúl,"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2410,
+      "char_end": 2459,
+      "text": "y Salum su hijo, Mibsam su hijo y Misma su hijo."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2459,
+      "char_end": 2527,
+      "text": "Los hijos de Misma: Hamuel su hijo, Zacur su hijo, y Simei su hijo."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2527,
+      "char_end": 2679,
+      "text": "Los hijos de Simei fueron dieciséis, y seis hijas; pero sus hermanos no tuvieron muchos hijos, ni multiplicaron toda su familia como los hijos de Judá."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2679,
+      "char_end": 2724,
+      "text": "Y habitaron en Beerseba, Molada, Hazar-sual,"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2724,
+      "char_end": 2744,
+      "text": "Bilha, Ezem, Tolad,"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2744,
+      "char_end": 2767,
+      "text": "Betuel, Horma, Siclag,"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2767,
+      "char_end": 2868,
+      "text": "Bet-marcabot, Hazar-susim, Bet-birai y Saaraim. éstas fueron sus ciudades hasta el reinado de David."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2868,
+      "char_end": 2936,
+      "text": "Y sus aldeas fueron Etam, Aín, Rimón, Toquén y Asán; cinco pueblos,"
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 2936,
+      "char_end": 3057,
+      "text": "y todas sus aldeas que estaban en contorno de estas ciudades hasta Baal. ésta fue su habitación, y ésta su descendencia."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3057,
+      "char_end": 3100,
+      "text": "Y Mesobab, Jamlec, Josías hijo de Amasías,"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3100,
+      "char_end": 3161,
+      "text": "Joel, Jehú hijo de Josibías, hijo de Seraías, hijo de Asiel,"
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3161,
+      "char_end": 3223,
+      "text": "Elioenai, Jaacoba, Jesohaía, Asaías, Adiel, Jesimiel, Benaía,"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3223,
+      "char_end": 3307,
+      "text": "y Ziza hijo de Sifi, hijo de Alón, hijo de Jedaías, hijo de Simri, hijo de Semaías."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 3307,
+      "char_end": 3434,
+      "text": "Éstos, por sus nombres, son los principales entre sus familias; y las casas de sus padres fueron multiplicadas en gran manera."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 3434,
+      "char_end": 3533,
+      "text": "Y llegaron hasta la entrada de Gedor hasta el oriente del valle, buscando pastos para sus ganados."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 3533,
+      "char_end": 3654,
+      "text": "Y hallaron gruesos y buenos pastos, y tierra ancha y espaciosa, quieta y reposada, porque los de Cam la habitaban antes."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 3654,
+      "char_end": 3911,
+      "text": "Y estos que han sido escritos por sus nombres, vinieron en días de Ezequías rey de Judá, y desbarataron sus tiendas y cabañas que allí hallaron, y los destruyeron hasta hoy, y habitaron allí en lugar de ellos; por cuanto había allí pastos para sus ganados."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 3911,
+      "char_end": 4073,
+      "text": "Asimismo quinientos hombres de ellos, de los hijos de Simeón, fueron al monte de Seir, llevando por capitanes a Pelatías, Nearías, Refaías y Uziel, hijos de Isi,"
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4073,
+      "char_end": 4151,
+      "text": "y destruyeron a los que habían quedado de Amalec, y habitaron allí hasta hoy."
+    }
+  ],
+  "words": [
+    {
+      "word": "Los hijos de Judá: Fares, Hezrón, Carmi, Hur y Sobal.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5225,
+      "duration_ms": 5125
+    },
+    {
+      "word": "Reaía hijo de Sobal engendró a Jahat, y Jahat engendró a Ahumai y a Lahad.",
+      "verse": 2,
+      "start_ms": 5175,
+      "end_ms": 10762,
+      "duration_ms": 5587
+    },
+    {
+      "word": "éstas son las familias de los zoratitas.",
+      "verse": 2,
+      "start_ms": 10762,
+      "end_ms": 13812,
+      "duration_ms": 3050
+    },
+    {
+      "word": "Y éstas son las del padre de Etam: Jezreel, Isma e Ibdas.",
+      "verse": 3,
+      "start_ms": 13812,
+      "end_ms": 18487,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Y el nombre de su hermana fue Haze-lelponi.",
+      "verse": 3,
+      "start_ms": 18487,
+      "end_ms": 21637,
+      "duration_ms": 3150
+    },
+    {
+      "word": "Penuel fue padre de Gedor, y Ezer padre de Husa.",
+      "verse": 4,
+      "start_ms": 21637,
+      "end_ms": 25424,
+      "duration_ms": 3787
+    },
+    {
+      "word": "éstos fueron los hijos de Hur primogénito de Efrata, padre de Belén.",
+      "verse": 4,
+      "start_ms": 25425,
+      "end_ms": 29987,
+      "duration_ms": 4562
+    },
+    {
+      "word": "Asur padre de Tecoa tuvo dos mujeres, Hela y Naara.",
+      "verse": 5,
+      "start_ms": 29987,
+      "end_ms": 34449,
+      "duration_ms": 4462
+    },
+    {
+      "word": "Y Naara dio a luz a Ahuzam, Hefer, Temeni y Ahastari.",
+      "verse": 6,
+      "start_ms": 34450,
+      "end_ms": 38850,
+      "duration_ms": 4400
+    },
+    {
+      "word": "éstos fueron los hijos de Naara.",
+      "verse": 6,
+      "start_ms": 38850,
+      "end_ms": 41437,
+      "duration_ms": 2587
+    },
+    {
+      "word": "Los hijos de Hela: Zeret, Jezoar y Etnán.",
+      "verse": 7,
+      "start_ms": 41437,
+      "end_ms": 45174,
+      "duration_ms": 3737
+    },
+    {
+      "word": "Cos engendró a Anub, a Zobeba, y la familia de Aharhel hijo de Harum.",
+      "verse": 8,
+      "start_ms": 45175,
+      "end_ms": 50087,
+      "duration_ms": 4912
+    },
+    {
+      "word": "Y Jabes fue más ilustre que sus hermanos, al cual su madre llamó Jabes, diciendo: Por cuanto lo di a luz en dolor.",
+      "verse": 9,
+      "start_ms": 50087,
+      "end_ms": 57649,
+      "duration_ms": 7562
+    },
+    {
+      "word": "E invocó Jabes al Dios de Israel, diciendo: ¡Oh, si me dieras bendición, y ensancharas mi territorio, y si tu mano estuviera conmigo, y me libraras de mal, para que no me dañe!",
+      "verse": 10,
+      "start_ms": 57650,
+      "end_ms": 69400,
+      "duration_ms": 11750
+    },
+    {
+      "word": "Y le otorgó Dios lo que pidió.",
+      "verse": 10,
+      "start_ms": 69400,
+      "end_ms": 71875,
+      "duration_ms": 2475
+    },
+    {
+      "word": "Quelub hermano de Súa engendró a Mehir, el cual fue padre de Estón.",
+      "verse": 11,
+      "start_ms": 71875,
+      "end_ms": 76587,
+      "duration_ms": 4712
+    },
+    {
+      "word": "Y Estón engendró a Bet-rafa, a Paseah, y a Tehina padre de la ciudad de Nahas; éstos son los varones de Reca.",
+      "verse": 12,
+      "start_ms": 76587,
+      "end_ms": 83862,
+      "duration_ms": 7275
+    },
+    {
+      "word": "Los hijos de Cenaz: Otoniel y Seraías.",
+      "verse": 13,
+      "start_ms": 83862,
+      "end_ms": 87424,
+      "duration_ms": 3562
+    },
+    {
+      "word": "Los hijos de Otoniel: Hatat, y Meonotai, el cual engendró a Ofra.",
+      "verse": 13,
+      "start_ms": 87425,
+      "end_ms": 92612,
+      "duration_ms": 5187
+    },
+    {
+      "word": "Y Seraías engendró a Joab, padre de los habitantes del valle de Carisim, porque fueron artífices.",
+      "verse": 14,
+      "start_ms": 92612,
+      "end_ms": 99349,
+      "duration_ms": 6737
+    },
+    {
+      "word": "Los hijos de Caleb hijo de Jefone: Iru, Ela y Naam; e hijo de Ela fue Cenaz.",
+      "verse": 15,
+      "start_ms": 99350,
+      "end_ms": 105387,
+      "duration_ms": 6037
+    },
+    {
+      "word": "Los hijos de Jehalelel: Zif, Zifa, Tirías y Asareel.",
+      "verse": 16,
+      "start_ms": 105387,
+      "end_ms": 110324,
+      "duration_ms": 4937
+    },
+    {
+      "word": "Y los hijos de Esdras: Jeter, Mered, Efer y Jalón; también engendró a María, a Samai y a Isba padre de Estemoa.",
+      "verse": 17,
+      "start_ms": 110325,
+      "end_ms": 118687,
+      "duration_ms": 8362
+    },
+    {
+      "word": "Y su mujer Jehudaía dio a luz a Jered padre de Gedor, a Heber padre de Soco y a Jecutiel padre de Zanoa.",
+      "verse": 18,
+      "start_ms": 118687,
+      "end_ms": 125824,
+      "duration_ms": 7137
+    },
+    {
+      "word": "éstos fueron los hijos de Bitia hija de Faraón, con la cual casó Mered.",
+      "verse": 18,
+      "start_ms": 125825,
+      "end_ms": 130412,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Y los hijos de la mujer de Hodías, hermana de Naham, fueron el padre de Keila garmita, y Estemoa maacateo.",
+      "verse": 19,
+      "start_ms": 130412,
+      "end_ms": 137649,
+      "duration_ms": 7237
+    },
+    {
+      "word": "Los hijos de Simón: Amnón, Rina, Ben-hanán y Tilón.",
+      "verse": 20,
+      "start_ms": 137650,
+      "end_ms": 142125,
+      "duration_ms": 4475
+    },
+    {
+      "word": "Y los hijos de Isi: Zohet y Benzohet.",
+      "verse": 20,
+      "start_ms": 142125,
+      "end_ms": 145637,
+      "duration_ms": 3512
+    },
+    {
+      "word": "Los hijos de Sela hijo de Judá: Er padre de Leca, y Laada padre de Maresa, y las familias de los que trabajan lino en Bet-asbea; y Joacim, y los varones de Cozeba, Joás, y Saraf, los cuales dominaron en Moab y volvieron a Lehem, según registros antiguos.",
+      "verse": 21,
+      "start_ms": 145637,
+      "end_ms": 162362,
+      "duration_ms": 16725
+    },
+    {
+      "word": "Éstos eran alfareros, y moraban en medio de plantíos y cercados; moraban allá con el rey, ocupados en su servicio.",
+      "verse": 23,
+      "start_ms": 162362,
+      "end_ms": 170087,
+      "duration_ms": 7725
+    },
+    {
+      "word": "Descendientes de Simeón Los hijos de Simeón: Nemuel, Jamín, Jarib, Zera, Saúl, y Salum su hijo, Mibsam su hijo y Misma su hijo.",
+      "verse": 23,
+      "start_ms": 170087,
+      "end_ms": 180237,
+      "duration_ms": 10150
+    },
+    {
+      "word": "Los hijos de Misma: Hamuel su hijo, Zacur su hijo, y Simei su hijo.",
+      "verse": 26,
+      "start_ms": 180237,
+      "end_ms": 185749,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Los hijos de Simei fueron dieciséis, y seis hijas; pero sus hermanos no tuvieron muchos hijos, ni multiplicaron toda su familia como los hijos de Judá.",
+      "verse": 27,
+      "start_ms": 185750,
+      "end_ms": 195337,
+      "duration_ms": 9587
+    },
+    {
+      "word": "Y habitaron en Beerseba, Molada, Hazar-sual, Bilha, Ezem, Tolad, Betuel, Horma, Siclag, Bet-marcabot, Hazar-susim, Bet-birai y Saaraim.",
+      "verse": 28,
+      "start_ms": 195337,
+      "end_ms": 206724,
+      "duration_ms": 11387
+    },
+    {
+      "word": "éstas fueron sus ciudades hasta el reinado de David.",
+      "verse": 31,
+      "start_ms": 206725,
+      "end_ms": 210312,
+      "duration_ms": 3587
+    },
+    {
+      "word": "Y sus aldeas fueron Etam, Aín, Rimón, Toquén y Asán; cinco pueblos, y todas sus aldeas que estaban en contorno de estas ciudades hasta Baal.",
+      "verse": 32,
+      "start_ms": 210312,
+      "end_ms": 219999,
+      "duration_ms": 9687
+    },
+    {
+      "word": "ésta fue su habitación, y ésta su descendencia.",
+      "verse": 33,
+      "start_ms": 220000,
+      "end_ms": 223650,
+      "duration_ms": 3650
+    },
+    {
+      "word": "Y Mesobab, Jamlec, Josías hijo de Amasías, Joel, Jehú hijo de Josibías, hijo de Seraías, hijo de Asiel, Elioenai, Jaacoba, Jesohaía, Asaías, Adiel, Jesimiel, Benaía, y Ziza hijo de Sifi, hijo de Alón, hijo de Jedaías, hijo de Simri, hijo de Semaías.",
+      "verse": 34,
+      "start_ms": 223650,
+      "end_ms": 244162,
+      "duration_ms": 20512
+    },
+    {
+      "word": "Éstos, por sus nombres, son los principales entre sus familias; y las casas de sus padres fueron multiplicadas en gran manera.",
+      "verse": 38,
+      "start_ms": 244162,
+      "end_ms": 252074,
+      "duration_ms": 7912
+    },
+    {
+      "word": "Y llegaron hasta la entrada de Gedor hasta el oriente del valle, buscando pastos para sus ganados.",
+      "verse": 39,
+      "start_ms": 252075,
+      "end_ms": 258112,
+      "duration_ms": 6037
+    },
+    {
+      "word": "Y hallaron gruesos y buenos pastos, y tierra ancha y espaciosa, quieta y reposada, porque los de Cam la habitaban antes.",
+      "verse": 40,
+      "start_ms": 258112,
+      "end_ms": 266299,
+      "duration_ms": 8187
+    },
+    {
+      "word": "Y estos que han sido escritos por sus nombres, vinieron en días de Ezequías rey de Judá, y desbarataron sus tiendas y cabañas que allí hallaron, y los destruyeron hasta hoy, y habitaron allí en lugar de ellos; por cuanto había allí pastos para sus ganados.",
+      "verse": 41,
+      "start_ms": 266300,
+      "end_ms": 280975,
+      "duration_ms": 14675
+    },
+    {
+      "word": "Asimismo quinientos hombres de ellos, de los hijos de Simeón, fueron al monte de Seir, llevando",
+      "verse": 42,
+      "start_ms": 280975,
+      "end_ms": 287400,
+      "duration_ms": 6425
+    },
+    {
+      "word": "por capitanes a Pelatías, Nearías, Refaías y Uziel, hijos de Isi, y destruyeron a los que habían quedado de Amalec, y habitaron allí hasta hoy.",
+      "verse": 42,
+      "start_ms": 287548,
+      "end_ms": 297360,
+      "duration_ms": 9812
+    }
+  ]
+}

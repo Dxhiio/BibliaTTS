@@ -1,0 +1,607 @@
+{
+  "book": "MAR",
+  "chapter": 9,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 38,
+  "word_count": 47,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 113,
+      "text": "En aquellos días, como había una gran multitud, y no tenían qué comer, Jesús llamó a sus discípulos, y les dijo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 113,
+      "char_end": 209,
+      "text": "Tengo compasión de la gente, porque ya hace tres días que están conmigo, y no tienen qué comer;"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 209,
+      "char_end": 320,
+      "text": "y si los enviare en ayunas a sus casas, se desmayarán en el camino, pues algunos de ellos han venido de lejos."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 320,
+      "char_end": 419,
+      "text": "Sus discípulos le respondieron: ¿De dónde podrá alguien saciar de pan a éstos aquí en el desierto?"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 419,
+      "char_end": 481,
+      "text": "Él les preguntó: ¿Cuántos panes tenéis? Ellos dijeron: Siete."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 481,
+      "char_end": 693,
+      "text": "Entonces mandó a la multitud que se recostase en tierra; y tomando los siete panes, habiendo dado gracias, los partió, y dio a sus discípulos para que los pusiesen delante; y los pusieron delante de la multitud."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 693,
+      "char_end": 788,
+      "text": "Tenían también unos pocos pececillos; y los bendijo, y mandó que también los pusiesen delante."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 788,
+      "char_end": 879,
+      "text": "Y comieron, y se saciaron; y recogieron de los pedazos que habían sobrado, siete canastas."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 879,
+      "char_end": 935,
+      "text": "Eran los que comieron, como cuatro mil; y los despidió."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 935,
+      "char_end": 1064,
+      "text": "Y luego entrando en la barca con sus discípulos, vino a la región de Dalmanuta. La demanda de una señal (Mt 16.1–4; Lc 12.54–56)"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1064,
+      "char_end": 1170,
+      "text": "Vinieron entonces los fariseos y comenzaron a discutir con él, pidiéndole señal del cielo, para tentarle."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1170,
+      "char_end": 1298,
+      "text": "Y gimiendo en su espíritu, dijo: ¿Por qué pide señal esta generación? De cierto os digo que no se dará señal a esta generación."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1298,
+      "char_end": 1409,
+      "text": "Y dejándolos, volvió a entrar en la barca, y se fue a la otra ribera. La levadura de los fariseos (Mt 16.5–12)"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1409,
+      "char_end": 1484,
+      "text": "Habían olvidado de traer pan, y no tenían sino un pan consigo en la barca."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1484,
+      "char_end": 1587,
+      "text": "Y él les mandó, diciendo: Mirad, guardaos de la levadura de los fariseos, y de la levadura de Herodes."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1587,
+      "char_end": 1646,
+      "text": "Y discutían entre sí, diciendo: Es porque no trajimos pan."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1646,
+      "char_end": 1786,
+      "text": "Y entendiéndolo Jesús, les dijo: ¿Qué discutís, porque no tenéis pan? ¿No entendéis ni comprendéis? ¿Aún tenéis endurecido vuestro corazón?"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1786,
+      "char_end": 1852,
+      "text": "¿Teniendo ojos no veis, y teniendo oídos no oís? ¿Y no recordáis?"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1852,
+      "char_end": 1972,
+      "text": "Cuando partí los cinco panes entre cinco mil, ¿cuántas cestas llenas de los pedazos recogisteis? Y ellos dijeron: Doce."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1972,
+      "char_end": 2092,
+      "text": "Y cuando los siete panes entre cuatro mil, ¿cuántas canastas llenas de los pedazos recogisteis? Y ellos dijeron: Siete."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2092,
+      "char_end": 2156,
+      "text": "Y les dijo: ¿Cómo aún no entendéis? Un ciego sanado en Betsaida"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2156,
+      "char_end": 2231,
+      "text": "Vino luego a Betsaida; y le trajeron un ciego, y le rogaron que le tocase."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2231,
+      "char_end": 2375,
+      "text": "Entonces, tomando la mano del ciego, le sacó fuera de la aldea; y escupiendo en sus ojos, le puso las manos encima, y le preguntó si veía algo."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2375,
+      "char_end": 2448,
+      "text": "Él, mirando, dijo: Veo los hombres como árboles, pero los veo que andan."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2448,
+      "char_end": 2576,
+      "text": "Luego le puso otra vez las manos sobre los ojos, y le hizo que mirase; y fue restablecido, y vio de lejos y claramente a todos."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2576,
+      "char_end": 2712,
+      "text": "Y lo envió a su casa, diciendo: No entres en la aldea, ni lo digas a nadie en la aldea. La confesión de Pedro (Mt 16.13–20; Lc 9.18–21)"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2712,
+      "char_end": 2873,
+      "text": "Salieron Jesús y sus discípulos por las aldeas de Cesarea de Filipo. Y en el camino preguntó a sus discípulos, diciéndoles: ¿Quién dicen los hombres que soy yo?"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2873,
+      "char_end": 2964,
+      "text": "Ellos respondieron: Unos, Juan el Bautista; otros, Elías; y otros, alguno de los profetas."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2964,
+      "char_end": 3068,
+      "text": "Entonces él les dijo: Y vosotros, ¿quién decís que soy? Respondiendo Pedro, le dijo: Tú eres el Cristo."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3068,
+      "char_end": 3173,
+      "text": "Pero él les mandó que no dijesen esto de él a ninguno. Jesús anuncia su muerte (Mt 16.21–28; Lc 9.22–27)"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3173,
+      "char_end": 3384,
+      "text": "Y comenzó a enseñarles que le era necesario al Hijo del Hombre padecer mucho, y ser desechado por los ancianos, por los principales sacerdotes y por los escribas, y ser muerto, y resucitar después de tres días."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3384,
+      "char_end": 3467,
+      "text": "Esto les decía claramente. Entonces Pedro le tomó aparte y comenzó a reconvenirle."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3467,
+      "char_end": 3655,
+      "text": "Pero él, volviéndose y mirando a los discípulos, reprendió a Pedro, diciendo: ¡Quítate de delante de mí, Satanás! porque no pones la mira en las cosas de Dios, sino en las de los hombres."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3655,
+      "char_end": 3791,
+      "text": "Y llamando a la gente y a sus discípulos, les dijo: Si alguno quiere venir en pos de mí, niéguese a sí mismo, y tome su cruz, y sígame."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3791,
+      "char_end": 3919,
+      "text": "Porque todo el que quiera salvar su vida, la perderá; y todo el que pierda su vida por causa de mí y del evangelio, la salvará."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3919,
+      "char_end": 3998,
+      "text": "Porque ¿qué aprovechará al hombre si ganare todo el mundo, y perdiere su alma?"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3998,
+      "char_end": 4044,
+      "text": "¿O qué recompensa dará el hombre por su alma?"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4044,
+      "char_end": 4248,
+      "text": "Porque el que se avergonzare de mí y de mis palabras en esta generación adúltera y pecadora, el Hijo del Hombre se avergonzará también de él, cuando venga en la gloria de su Padre con los santos ángeles."
+    }
+  ],
+  "words": [
+    {
+      "word": "En aquellos días, como había una gran multitud, y no tenían qué comer, Jesús llamó a sus discípulos, y les dijo: Tengo compasión de la gente, porque ya hace tres días que están conmigo, y no tienen qué comer; y si los enviare en ayunas a sus casas, se desmayarán en el camino, pues algunos de ellos han venido de lejos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 19650,
+      "duration_ms": 19550
+    },
+    {
+      "word": "Sus discípulos le respondieron: ¿De dónde podrá alguien saciar de pan a éstos aquí en el desierto?",
+      "verse": 4,
+      "start_ms": 19650,
+      "end_ms": 25975,
+      "duration_ms": 6325
+    },
+    {
+      "word": "Él les preguntó: ¿Cuántos panes tenéis?",
+      "verse": 5,
+      "start_ms": 25975,
+      "end_ms": 29312,
+      "duration_ms": 3337
+    },
+    {
+      "word": "Ellos dijeron: Siete.",
+      "verse": 5,
+      "start_ms": 29312,
+      "end_ms": 31874,
+      "duration_ms": 2562
+    },
+    {
+      "word": "Entonces mandó a la multitud que se recostase en tierra; y tomando los siete panes, habiendo dado gracias, los partió, y dio a sus discípulos para que los pusiesen delante; y los pusieron delante de la multitud.",
+      "verse": 6,
+      "start_ms": 31875,
+      "end_ms": 44612,
+      "duration_ms": 12737
+    },
+    {
+      "word": "Tenían también unos pocos pececillos; y los bendijo, y mandó que también los pusiesen delante.",
+      "verse": 7,
+      "start_ms": 44612,
+      "end_ms": 51024,
+      "duration_ms": 6412
+    },
+    {
+      "word": "Y comieron, y se saciaron; y recogieron de los pedazos que habían sobrado, siete canastas.",
+      "verse": 8,
+      "start_ms": 51025,
+      "end_ms": 57400,
+      "duration_ms": 6375
+    },
+    {
+      "word": "Eran los que comieron, como cuatro mil; y los despidió.",
+      "verse": 9,
+      "start_ms": 57400,
+      "end_ms": 61500,
+      "duration_ms": 4100
+    },
+    {
+      "word": "Y luego entrando en la barca con sus discípulos, vino a la región de Dalmanuta.",
+      "verse": 10,
+      "start_ms": 61500,
+      "end_ms": 66500,
+      "duration_ms": 5000
+    },
+    {
+      "word": "La demanda de una señal (Mt 16.1–4; Lc 12.54–56) Vinieron entonces los fariseos y comenzaron a discutir con él, pidiéndole señal del cielo, para tentarle.",
+      "verse": 10,
+      "start_ms": 66500,
+      "end_ms": 80237,
+      "duration_ms": 13737
+    },
+    {
+      "word": "Y gimiendo en su espíritu, dijo: ¿Por qué pide señal esta generación?",
+      "verse": 12,
+      "start_ms": 80237,
+      "end_ms": 85374,
+      "duration_ms": 5137
+    },
+    {
+      "word": "De cierto os digo que no se dará señal a esta generación.",
+      "verse": 12,
+      "start_ms": 85375,
+      "end_ms": 89475,
+      "duration_ms": 4100
+    },
+    {
+      "word": "Y dejándolos, volvió a entrar en la barca, y se fue a la otra ribera.",
+      "verse": 13,
+      "start_ms": 89475,
+      "end_ms": 94362,
+      "duration_ms": 4887
+    },
+    {
+      "word": "La levadura de los fariseos (Mt 16.5–12) Habían olvidado de traer pan, y no tenían sino un pan consigo en la barca.",
+      "verse": 13,
+      "start_ms": 94362,
+      "end_ms": 103587,
+      "duration_ms": 9225
+    },
+    {
+      "word": "Y él les mandó, diciendo: Mirad, guardaos de la levadura de los fariseos, y de la levadura de Herodes.",
+      "verse": 15,
+      "start_ms": 103587,
+      "end_ms": 111024,
+      "duration_ms": 7437
+    },
+    {
+      "word": "Y discutían entre sí, diciendo: Es porque no trajimos pan.",
+      "verse": 16,
+      "start_ms": 111025,
+      "end_ms": 115875,
+      "duration_ms": 4850
+    },
+    {
+      "word": "Y entendiéndolo Jesús, les dijo: ¿Qué discutís, porque no tenéis pan?",
+      "verse": 17,
+      "start_ms": 115875,
+      "end_ms": 121462,
+      "duration_ms": 5587
+    },
+    {
+      "word": "No entendéis ni comprendéis?",
+      "verse": 17,
+      "start_ms": 121462,
+      "end_ms": 124049,
+      "duration_ms": 2587
+    },
+    {
+      "word": "Aún tenéis endurecido vuestro corazón?",
+      "verse": 17,
+      "start_ms": 124050,
+      "end_ms": 127250,
+      "duration_ms": 3200
+    },
+    {
+      "word": "Teniendo ojos no veis, y teniendo oídos no oís?",
+      "verse": 18,
+      "start_ms": 127250,
+      "end_ms": 131475,
+      "duration_ms": 4225
+    },
+    {
+      "word": "Y no recordáis?",
+      "verse": 18,
+      "start_ms": 131475,
+      "end_ms": 133375,
+      "duration_ms": 1900
+    },
+    {
+      "word": "Cuando partí los cinco panes entre cinco mil, ¿cuántas cestas llenas de los pedazos recogisteis?",
+      "verse": 19,
+      "start_ms": 133375,
+      "end_ms": 139337,
+      "duration_ms": 5962
+    },
+    {
+      "word": "Y ellos dijeron: Doce.",
+      "verse": 19,
+      "start_ms": 139337,
+      "end_ms": 141999,
+      "duration_ms": 2662
+    },
+    {
+      "word": "Y cuando los siete panes entre cuatro mil, ¿cuántas canastas llenas de los pedazos recogisteis?",
+      "verse": 20,
+      "start_ms": 142000,
+      "end_ms": 147937,
+      "duration_ms": 5937
+    },
+    {
+      "word": "Y ellos dijeron: Siete.",
+      "verse": 20,
+      "start_ms": 147937,
+      "end_ms": 150637,
+      "duration_ms": 2700
+    },
+    {
+      "word": "Y les dijo: ¿Cómo aún no entendéis?",
+      "verse": 21,
+      "start_ms": 150637,
+      "end_ms": 153849,
+      "duration_ms": 3212
+    },
+    {
+      "word": "Un ciego sanado en Betsaida Vino luego a Betsaida; y le trajeron un ciego, y le rogaron que le tocase.",
+      "verse": 21,
+      "start_ms": 153850,
+      "end_ms": 160400,
+      "duration_ms": 6550
+    },
+    {
+      "word": "Entonces, tomando la mano del ciego, le sacó fuera de la aldea; y escupiendo en sus ojos, le puso las manos encima, y le preguntó si veía algo.",
+      "verse": 23,
+      "start_ms": 160400,
+      "end_ms": 170012,
+      "duration_ms": 9612
+    },
+    {
+      "word": "Él, mirando, dijo: Veo los hombres como árboles, pero los veo que andan.",
+      "verse": 24,
+      "start_ms": 170012,
+      "end_ms": 175987,
+      "duration_ms": 5975
+    },
+    {
+      "word": "Luego le puso otra vez las manos sobre los ojos, y le hizo que mirase; y fue restablecido, y vio de lejos y claramente a todos.",
+      "verse": 25,
+      "start_ms": 175987,
+      "end_ms": 184574,
+      "duration_ms": 8587
+    },
+    {
+      "word": "Y lo envió a su casa, diciendo: No entres en la aldea, ni lo digas a nadie en la aldea.",
+      "verse": 26,
+      "start_ms": 184575,
+      "end_ms": 190650,
+      "duration_ms": 6075
+    },
+    {
+      "word": "La confesión de Pedro (Mt 16.13–20; Lc 9.18–21) Salieron Jesús y sus discípulos por las aldeas de Cesarea de Filipo.",
+      "verse": 26,
+      "start_ms": 190650,
+      "end_ms": 201200,
+      "duration_ms": 10550
+    },
+    {
+      "word": "Y en el camino preguntó a sus discípulos, diciéndoles: ¿Quién dicen los hombres que soy yo?",
+      "verse": 27,
+      "start_ms": 201200,
+      "end_ms": 207262,
+      "duration_ms": 6062
+    },
+    {
+      "word": "Ellos respondieron: Unos, Juan el Bautista; otros, Elías; y otros, alguno de los profetas.",
+      "verse": 28,
+      "start_ms": 207262,
+      "end_ms": 214787,
+      "duration_ms": 7525
+    },
+    {
+      "word": "Entonces él les dijo: Y vosotros, ¿quién decís que soy?",
+      "verse": 29,
+      "start_ms": 214787,
+      "end_ms": 219112,
+      "duration_ms": 4325
+    },
+    {
+      "word": "Respondiendo Pedro, le dijo: Tú eres el Cristo.",
+      "verse": 29,
+      "start_ms": 219112,
+      "end_ms": 223237,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Pero él les mandó que no dijesen esto de él a ninguno.",
+      "verse": 30,
+      "start_ms": 223237,
+      "end_ms": 226874,
+      "duration_ms": 3637
+    },
+    {
+      "word": "Jesús anuncia su muerte (Mt 16.21–28; Lc 9.22–27) Y comenzó a enseñarles que le era necesario al Hijo del Hombre padecer mucho, y ser desechado por los ancianos, por los principales sacerdotes y por los escribas, y ser muerto, y resucitar después de tres días.",
+      "verse": 30,
+      "start_ms": 226875,
+      "end_ms": 246162,
+      "duration_ms": 19287
+    },
+    {
+      "word": "Esto les decía claramente.",
+      "verse": 32,
+      "start_ms": 246162,
+      "end_ms": 248662,
+      "duration_ms": 2500
+    },
+    {
+      "word": "Entonces Pedro le tomó aparte y comenzó a reconvenirle.",
+      "verse": 32,
+      "start_ms": 248662,
+      "end_ms": 252787,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Pero él, volviéndose y mirando a los discípulos, reprendió a Pedro, diciendo: ¡Quítate de delante de mí, Satanás! porque no pones la mira en las cosas de Dios, sino en las de los hombres.",
+      "verse": 33,
+      "start_ms": 252787,
+      "end_ms": 264549,
+      "duration_ms": 11762
+    },
+    {
+      "word": "Y llamando a la gente y a sus discípulos, les dijo: Si alguno quiere venir en pos de mí, niéguese a sí mismo, y tome su cruz, y sígame.",
+      "verse": 34,
+      "start_ms": 264550,
+      "end_ms": 273587,
+      "duration_ms": 9037
+    },
+    {
+      "word": "Porque todo el que quiera salvar su vida, la perderá; y todo el que pierda su vida por causa de mí y del evangelio, la salvará.",
+      "verse": 35,
+      "start_ms": 273587,
+      "end_ms": 281437,
+      "duration_ms": 7850
+    },
+    {
+      "word": "Porque ¿qué aprovechará al",
+      "verse": 36,
+      "start_ms": 281437,
+      "end_ms": 283612,
+      "duration_ms": 2175
+    },
+    {
+      "word": "hombre si ganare todo el mundo, y perdiere su alma?",
+      "verse": 36,
+      "start_ms": 283780,
+      "end_ms": 287505,
+      "duration_ms": 3725
+    },
+    {
+      "word": "O qué recompensa dará el hombre por su alma?",
+      "verse": 37,
+      "start_ms": 287455,
+      "end_ms": 290555,
+      "duration_ms": 3100
+    },
+    {
+      "word": "Porque el que se avergonzare de mí y de mis palabras en esta generación adúltera y pecadora, el Hijo del Hombre se avergonzará también de él, cuando venga en la gloria de su Padre con los santos ángeles.",
+      "verse": 38,
+      "start_ms": 290555,
+      "end_ms": 301667,
+      "duration_ms": 11112
+    }
+  ]
+}

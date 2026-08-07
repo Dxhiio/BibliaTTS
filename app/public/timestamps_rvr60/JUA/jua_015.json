@@ -1,0 +1,474 @@
+{
+  "book": "JUA",
+  "chapter": 15,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 31,
+  "word_count": 35,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 66,
+      "text": "No se turbe vuestro corazón; creéis en Dios, creed también en mí."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 66,
+      "char_end": 193,
+      "text": "En la casa de mi Padre muchas moradas hay; si así no fuera, yo os lo hubiera dicho; voy, pues, a preparar lugar para vosotros."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 193,
+      "char_end": 320,
+      "text": "Y si me fuere y os preparare lugar, vendré otra vez, y os tomaré a mí mismo, para que donde yo estoy, vosotros también estéis."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 320,
+      "char_end": 362,
+      "text": "Y sabéis a dónde voy, y sabéis el camino."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 362,
+      "char_end": 446,
+      "text": "Le dijo Tomás: Señor, no sabemos a dónde vas; ¿cómo, pues, podemos saber el camino?"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 446,
+      "char_end": 538,
+      "text": "Jesús le dijo: Yo soy el camino, y la verdad, y la vida; nadie viene al Padre, sino por mí."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 538,
+      "char_end": 635,
+      "text": "Si me conocieseis, también a mi Padre conoceríais; y desde ahora le conocéis, y le habéis visto."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 635,
+      "char_end": 692,
+      "text": "Felipe le dijo: Señor, muéstranos el Padre, y nos basta."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 692,
+      "char_end": 868,
+      "text": "Jesús le dijo: ¿Tanto tiempo hace que estoy con vosotros, y no me has conocido, Felipe? El que me ha visto a mí, ha visto al Padre; ¿cómo, pues, dices tú: Muéstranos el Padre?"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 868,
+      "char_end": 1038,
+      "text": "¿No crees que yo soy en el Padre, y el Padre en mí? Las palabras que yo os hablo, no las hablo por mi propia cuenta, sino que el Padre que mora en mí, él hace las obras."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1038,
+      "char_end": 1134,
+      "text": "Creedme que yo soy en el Padre, y el Padre en mí; de otra manera, creedme por las mismas obras."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1134,
+      "char_end": 1271,
+      "text": "De cierto, de cierto os digo: El que en mí cree, las obras que yo hago, él las hará también; y aun mayores hará, porque yo voy al Padre."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1271,
+      "char_end": 1373,
+      "text": "Y todo lo que pidiereis al Padre en mi nombre, lo haré, para que el Padre sea glorificado en el Hijo."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1373,
+      "char_end": 1447,
+      "text": "Si algo pidiereis en mi nombre, yo lo haré. La promesa del Espíritu Santo"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1447,
+      "char_end": 1486,
+      "text": "Si me amáis, guardad mis mandamientos."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1486,
+      "char_end": 1576,
+      "text": "Y yo rogaré al Padre, y os dará otro Consolador, para que esté con vosotros para siempre:"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1576,
+      "char_end": 1740,
+      "text": "el Espíritu de verdad, al cual el mundo no puede recibir, porque no le ve, ni le conoce; pero vosotros le conocéis, porque mora con vosotros, y estará en vosotros."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1740,
+      "char_end": 1783,
+      "text": "No os dejaré huérfanos; vendré a vosotros."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1783,
+      "char_end": 1895,
+      "text": "Todavía un poco, y el mundo no me verá más; pero vosotros me veréis; porque yo vivo, vosotros también viviréis."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1895,
+      "char_end": 1990,
+      "text": "En aquel día vosotros conoceréis que yo estoy en mi Padre, y vosotros en mí, y yo en vosotros."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1990,
+      "char_end": 2137,
+      "text": "El que tiene mis mandamientos, y los guarda, ése es el que me ama; y el que me ama, será amado por mi Padre, y yo le amaré, y me manifestaré a él."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2137,
+      "char_end": 2233,
+      "text": "Le dijo Judas (no el Iscariote): Señor, ¿cómo es que te manifestarás a nosotros, y no al mundo?"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2233,
+      "char_end": 2360,
+      "text": "Respondió Jesús y le dijo: El que me ama, mi palabra guardará; y mi Padre le amará, y vendremos a él, y haremos morada con él."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2360,
+      "char_end": 2471,
+      "text": "El que no me ama, no guarda mis palabras; y la palabra que habéis oído no es mía, sino del Padre que me envió."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2471,
+      "char_end": 2517,
+      "text": "Os he dicho estas cosas estando con vosotros."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2517,
+      "char_end": 2669,
+      "text": "Mas el Consolador, el Espíritu Santo, a quien el Padre enviará en mi nombre, él os enseñará todas las cosas, y os recordará todo lo que yo os he dicho."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2669,
+      "char_end": 2782,
+      "text": "La paz os dejo, mi paz os doy; yo no os la doy como el mundo la da. No se turbe vuestro corazón, ni tenga miedo."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2782,
+      "char_end": 2945,
+      "text": "Habéis oído que yo os he dicho: Voy, y vengo a vosotros. Si me amarais, os habríais regocijado, porque he dicho que voy al Padre; porque el Padre mayor es que yo."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2945,
+      "char_end": 3018,
+      "text": "Y ahora os lo he dicho antes que suceda, para que cuando suceda, creáis."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3018,
+      "char_end": 3115,
+      "text": "No hablaré ya mucho con vosotros; porque viene el príncipe de este mundo, y él nada tiene en mí."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3115,
+      "char_end": 3225,
+      "text": "Mas para que el mundo conozca que amo al Padre, y como el Padre me mandó, así hago. Levantaos, vamos de aquí."
+    }
+  ],
+  "words": [
+    {
+      "word": "No se turbe vuestro corazón; creéis en Dios, creed también en mí.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4962,
+      "duration_ms": 4862
+    },
+    {
+      "word": "En la casa de mi Padre muchas moradas hay; si así no fuera, yo os lo hubiera dicho; voy, pues, a preparar lugar para vosotros.",
+      "verse": 2,
+      "start_ms": 4912,
+      "end_ms": 13762,
+      "duration_ms": 8850
+    },
+    {
+      "word": "Y si me fuere y os preparare lugar, vendré otra vez, y os tomaré a mí mismo, para que donde yo estoy, vosotros también estéis.",
+      "verse": 3,
+      "start_ms": 13762,
+      "end_ms": 22599,
+      "duration_ms": 8837
+    },
+    {
+      "word": "Y sabéis a dónde voy, y sabéis el camino.",
+      "verse": 4,
+      "start_ms": 22600,
+      "end_ms": 26037,
+      "duration_ms": 3437
+    },
+    {
+      "word": "Le dijo Tomás: Señor, no sabemos a dónde vas; ¿cómo, pues, podemos saber el camino?",
+      "verse": 5,
+      "start_ms": 26037,
+      "end_ms": 32962,
+      "duration_ms": 6925
+    },
+    {
+      "word": "Jesús le dijo: Yo soy el camino, y la verdad, y la vida; nadie viene al Padre, sino por mí.",
+      "verse": 6,
+      "start_ms": 32962,
+      "end_ms": 40237,
+      "duration_ms": 7275
+    },
+    {
+      "word": "Si me conocieseis, también a mi Padre conoceríais; y desde ahora le conocéis, y le habéis visto.",
+      "verse": 7,
+      "start_ms": 40237,
+      "end_ms": 47124,
+      "duration_ms": 6887
+    },
+    {
+      "word": "Felipe le dijo: Señor, muéstranos el Padre, y nos basta.",
+      "verse": 8,
+      "start_ms": 47125,
+      "end_ms": 51987,
+      "duration_ms": 4862
+    },
+    {
+      "word": "Jesús le dijo: ¿Tanto tiempo hace que estoy con vosotros, y no me has conocido, Felipe?",
+      "verse": 9,
+      "start_ms": 51987,
+      "end_ms": 58187,
+      "duration_ms": 6200
+    },
+    {
+      "word": "El que me ha visto a mí, ha visto al Padre; ¿cómo, pues, dices tú: Muéstranos el Padre?",
+      "verse": 9,
+      "start_ms": 58187,
+      "end_ms": 64674,
+      "duration_ms": 6487
+    },
+    {
+      "word": "No crees que yo soy en el Padre, y el Padre en mí?",
+      "verse": 10,
+      "start_ms": 64675,
+      "end_ms": 68275,
+      "duration_ms": 3600
+    },
+    {
+      "word": "Las palabras que yo os hablo, no las hablo por mi propia cuenta, sino que el Padre que mora en mí, él hace las obras.",
+      "verse": 10,
+      "start_ms": 68275,
+      "end_ms": 75600,
+      "duration_ms": 7325
+    },
+    {
+      "word": "Creedme que yo soy en el Padre, y el Padre en mí; de otra manera, creedme por las mismas obras.",
+      "verse": 11,
+      "start_ms": 75600,
+      "end_ms": 82375,
+      "duration_ms": 6775
+    },
+    {
+      "word": "De cierto, de cierto os digo: El que en mí cree, las obras que yo hago, él las hará también; y aun mayores hará, porque yo voy al Padre.",
+      "verse": 12,
+      "start_ms": 82375,
+      "end_ms": 91750,
+      "duration_ms": 9375
+    },
+    {
+      "word": "Y todo lo que pidiereis al Padre en mi nombre, lo haré, para que el Padre sea glorificado en el Hijo.",
+      "verse": 13,
+      "start_ms": 91750,
+      "end_ms": 98050,
+      "duration_ms": 6300
+    },
+    {
+      "word": "Si algo pidiereis en mi nombre, yo lo haré.",
+      "verse": 14,
+      "start_ms": 98050,
+      "end_ms": 101400,
+      "duration_ms": 3350
+    },
+    {
+      "word": "La promesa del Espíritu Santo Si me amáis, guardad mis mandamientos.",
+      "verse": 14,
+      "start_ms": 101400,
+      "end_ms": 106362,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Y yo rogaré al Padre, y os dará otro Consolador, para que esté con vosotros para siempre: el Espíritu de verdad, al cual el mundo no puede recibir, porque no le ve, ni le conoce; pero vosotros le conocéis, porque mora con vosotros, y estará en vosotros.",
+      "verse": 16,
+      "start_ms": 106362,
+      "end_ms": 122874,
+      "duration_ms": 16512
+    },
+    {
+      "word": "No os dejaré huérfanos; vendré a vosotros.",
+      "verse": 18,
+      "start_ms": 122875,
+      "end_ms": 126850,
+      "duration_ms": 3975
+    },
+    {
+      "word": "Todavía un poco, y el mundo no me verá más; pero vosotros me veréis; porque yo vivo, vosotros también viviréis.",
+      "verse": 19,
+      "start_ms": 126850,
+      "end_ms": 135025,
+      "duration_ms": 8175
+    },
+    {
+      "word": "En aquel día vosotros conoceréis que yo estoy en mi Padre, y vosotros en mí, y yo en vosotros.",
+      "verse": 20,
+      "start_ms": 135025,
+      "end_ms": 141412,
+      "duration_ms": 6387
+    },
+    {
+      "word": "El que tiene mis mandamientos, y los guarda, ése es el que me ama; y el que me ama, será amado por mi Padre, y yo le amaré, y me manifestaré a él.",
+      "verse": 21,
+      "start_ms": 141412,
+      "end_ms": 151362,
+      "duration_ms": 9950
+    },
+    {
+      "word": "Le dijo Judas (no el Iscariote): Señor, ¿cómo es que te manifestarás a nosotros, y no al mundo?",
+      "verse": 22,
+      "start_ms": 151362,
+      "end_ms": 158249,
+      "duration_ms": 6887
+    },
+    {
+      "word": "Respondió Jesús y le dijo: El que me ama, mi palabra guardará; y mi Padre le amará, y vendremos a él, y haremos morada con él.",
+      "verse": 23,
+      "start_ms": 158250,
+      "end_ms": 167112,
+      "duration_ms": 8862
+    },
+    {
+      "word": "El que no me ama, no guarda mis palabras; y la palabra que habéis oído no es mía, sino del Padre que me envió.",
+      "verse": 24,
+      "start_ms": 167112,
+      "end_ms": 174287,
+      "duration_ms": 7175
+    },
+    {
+      "word": "Os he dicho estas cosas estando con vosotros.",
+      "verse": 25,
+      "start_ms": 174287,
+      "end_ms": 177687,
+      "duration_ms": 3400
+    },
+    {
+      "word": "Mas el Consolador, el Espíritu Santo, a quien el Padre enviará en mi nombre, él os enseñará todas las cosas, y os recordará todo lo que yo os he dicho.",
+      "verse": 26,
+      "start_ms": 177687,
+      "end_ms": 187537,
+      "duration_ms": 9850
+    },
+    {
+      "word": "La paz os dejo, mi paz os doy; yo no os la doy como el mundo la da.",
+      "verse": 27,
+      "start_ms": 187537,
+      "end_ms": 192562,
+      "duration_ms": 5025
+    },
+    {
+      "word": "No se turbe vuestro corazón, ni tenga miedo.",
+      "verse": 27,
+      "start_ms": 192562,
+      "end_ms": 196087,
+      "duration_ms": 3525
+    },
+    {
+      "word": "Habéis oído que yo os he dicho: Voy, y vengo a vosotros.",
+      "verse": 28,
+      "start_ms": 196087,
+      "end_ms": 200787,
+      "duration_ms": 4700
+    },
+    {
+      "word": "Si me amarais, os habríais regocijado, porque he dicho que voy al Padre; porque el Padre mayor es que yo.",
+      "verse": 28,
+      "start_ms": 200787,
+      "end_ms": 207599,
+      "duration_ms": 6812
+    },
+    {
+      "word": "Y ahora os lo he dicho antes que suceda, para que cuando suceda, creáis.",
+      "verse": 29,
+      "start_ms": 207600,
+      "end_ms": 212900,
+      "duration_ms": 5300
+    },
+    {
+      "word": "No hablaré ya mucho con vosotros; porque viene el príncipe de este mundo, y él nada tiene en mí.",
+      "verse": 30,
+      "start_ms": 212900,
+      "end_ms": 219350,
+      "duration_ms": 6450
+    },
+    {
+      "word": "Mas para que el mundo conozca que amo al Padre, y como el Padre me mandó, así hago.",
+      "verse": 31,
+      "start_ms": 219350,
+      "end_ms": 225000,
+      "duration_ms": 5650
+    },
+    {
+      "word": "Levantaos, vamos de aquí.",
+      "verse": 31,
+      "start_ms": 225000,
+      "end_ms": 227662,
+      "duration_ms": 2662
+    }
+  ]
+}

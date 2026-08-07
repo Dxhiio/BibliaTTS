@@ -1,0 +1,152 @@
+{
+  "book": "JON",
+  "chapter": 2,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 10,
+  "word_count": 10,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 62,
+      "text": "Entonces oró Jonás a Jehová su Dios desde el vientre del pez,"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 62,
+      "char_end": 162,
+      "text": "y dijo: Invoqué en mi angustia a Jehová, y él me oyó; Desde el seno del Seol clamé, Y mi voz oíste."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 162,
+      "char_end": 281,
+      "text": "Me echaste a lo profundo, en medio de los mares, Y me rodeó la corriente; Todas tus ondas y tus olas pasaron sobre mí."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 281,
+      "char_end": 364,
+      "text": "Entonces dije: Desechado soy de delante de tus ojos; Mas aún veré tu santo templo."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 364,
+      "char_end": 451,
+      "text": "Las aguas me rodearon hasta el alma, Rodeóme el abismo; El alga se enredó a mi cabeza."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 451,
+      "char_end": 602,
+      "text": "Descendí a los cimientos de los montes; La tierra echó sus cerrojos sobre mí para siempre; Mas tú sacaste mi vida de la sepultura, oh Jehová Dios mío."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 602,
+      "char_end": 705,
+      "text": "Cuando mi alma desfallecía en mí, me acordé de Jehová, Y mi oración llegó hasta ti en tu santo templo."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 705,
+      "char_end": 768,
+      "text": "Los que siguen vanidades ilusorias, Su misericordia abandonan."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 768,
+      "char_end": 870,
+      "text": "Mas yo con voz de alabanza te ofreceré sacrificios; Pagaré lo que prometí. La salvación es de Jehová."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 870,
+      "char_end": 921,
+      "text": "Y mandó Jehová al pez, y vomitó a Jonás en tierra."
+    }
+  ],
+  "words": [
+    {
+      "word": "Entonces oró Jonás a Jehová su Dios desde el vientre del pez, y dijo: Invoqué en mi angustia a Jehová, y él me oyó; Desde el seno del Seol clamé, Y mi voz oíste.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 10700,
+      "duration_ms": 10600
+    },
+    {
+      "word": "Me echaste a lo profundo, en medio de los mares, Y me rodeó la corriente; Todas tus ondas y tus olas pasaron sobre mí.",
+      "verse": 3,
+      "start_ms": 10650,
+      "end_ms": 18275,
+      "duration_ms": 7625
+    },
+    {
+      "word": "Entonces dije: Desechado soy de delante de tus ojos; Mas aún veré tu santo templo.",
+      "verse": 4,
+      "start_ms": 18275,
+      "end_ms": 24537,
+      "duration_ms": 6262
+    },
+    {
+      "word": "Las aguas me rodearon hasta el alma, Rodeóme el abismo; El alga se enredó a mi cabeza.",
+      "verse": 5,
+      "start_ms": 24537,
+      "end_ms": 30599,
+      "duration_ms": 6062
+    },
+    {
+      "word": "Descendí a los cimientos de los montes; La tierra echó sus cerrojos sobre mí para siempre; Mas tú sacaste mi vida de la sepultura, oh Jehová Dios mío.",
+      "verse": 6,
+      "start_ms": 30600,
+      "end_ms": 39712,
+      "duration_ms": 9112
+    },
+    {
+      "word": "Cuando mi alma desfallecía en mí, me acordé de Jehová, Y mi oración llegó hasta ti en tu santo templo.",
+      "verse": 7,
+      "start_ms": 39712,
+      "end_ms": 46337,
+      "duration_ms": 6625
+    },
+    {
+      "word": "Los que siguen vanidades ilusorias, Su misericordia abandonan.",
+      "verse": 8,
+      "start_ms": 46337,
+      "end_ms": 50874,
+      "duration_ms": 4537
+    },
+    {
+      "word": "Mas yo con voz de alabanza te ofreceré sacrificios; Pagaré lo que prometí.",
+      "verse": 9,
+      "start_ms": 50875,
+      "end_ms": 55950,
+      "duration_ms": 5075
+    },
+    {
+      "word": "La salvación es de Jehová.",
+      "verse": 9,
+      "start_ms": 55950,
+      "end_ms": 58250,
+      "duration_ms": 2300
+    },
+    {
+      "word": "Y mandó Jehová al pez, y vomitó a Jonás en tierra.",
+      "verse": 10,
+      "start_ms": 58250,
+      "end_ms": 62275,
+      "duration_ms": 4025
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "book": "SAL",
+  "chapter": 82,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 8,
+  "word_count": 7,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 69,
+      "text": "Dios está en la reunión de los dioses; En medio de los dioses juzga."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 69,
+      "char_end": 154,
+      "text": "¿Hasta cuándo juzgaréis injustamente, Y aceptaréis las personas de los impíos? Selah"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 154,
+      "char_end": 232,
+      "text": "Defended al débil y al huérfano; Haced justicia al afligido y al menesteroso."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 232,
+      "char_end": 300,
+      "text": "Librad al afligido y al necesitado; Libradlo de mano de los impíos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 300,
+      "char_end": 387,
+      "text": "No saben, no entienden, Andan en tinieblas; Tiemblan todos los cimientos de la tierra."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 387,
+      "char_end": 455,
+      "text": "Yo dije: Vosotros sois dioses, Y todos vosotros hijos del Altísimo;"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 455,
+      "char_end": 527,
+      "text": "Pero como hombres moriréis, Y como cualquiera de los príncipes caeréis."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 527,
+      "char_end": 604,
+      "text": "Levántate, oh Dios, juzga la tierra; Porque tú heredarás todas las naciones."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dios está en la reunión de los dioses; En medio de los dioses juzga.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4875,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Hasta cuándo juzgaréis injustamente, Y aceptaréis las personas de los impíos?",
+      "verse": 2,
+      "start_ms": 4825,
+      "end_ms": 10187,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Selah Defended al débil y al huérfano; Haced justicia al afligido y al menesteroso.",
+      "verse": 2,
+      "start_ms": 10187,
+      "end_ms": 15899,
+      "duration_ms": 5712
+    },
+    {
+      "word": "Librad al afligido y al necesitado; Libradlo de mano de los impíos.",
+      "verse": 4,
+      "start_ms": 15900,
+      "end_ms": 21025,
+      "duration_ms": 5125
+    },
+    {
+      "word": "No saben, no entienden, Andan en tinieblas; Tiemblan todos los cimientos de la tierra.",
+      "verse": 5,
+      "start_ms": 21025,
+      "end_ms": 27100,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Yo dije: Vosotros sois dioses, Y todos vosotros hijos del Altísimo; Pero como hombres moriréis, Y como cualquiera de los príncipes caeréis.",
+      "verse": 6,
+      "start_ms": 27100,
+      "end_ms": 36575,
+      "duration_ms": 9475
+    },
+    {
+      "word": "Levántate, oh Dios, juzga la tierra; Porque tú heredarás todas las naciones.",
+      "verse": 8,
+      "start_ms": 36575,
+      "end_ms": 42475,
+      "duration_ms": 5900
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "book": "SAL",
+  "chapter": 92,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 15,
+  "word_count": 13,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 72,
+      "text": "Bueno es alabarte, oh Jehová, Y cantar salmos a tu nombre, oh Altísimo;"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 72,
+      "char_end": 139,
+      "text": "Anunciar por la mañana tu misericordia, Y tu fidelidad cada noche,"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 139,
+      "char_end": 201,
+      "text": "En el decacordio y en el salterio, En tono suave con el arpa."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 201,
+      "char_end": 290,
+      "text": "Por cuanto me has alegrado, oh Jehová, con tus obras; En las obras de tus manos me gozo."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 290,
+      "char_end": 366,
+      "text": "¡Cuán grandes son tus obras, oh Jehová! Muy profundos son tus pensamientos."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 366,
+      "char_end": 424,
+      "text": "El hombre necio no sabe, Y el insensato no entiende esto."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 424,
+      "char_end": 543,
+      "text": "Cuando brotan los impíos como la hierba, Y florecen todos los que hacen iniquidad, Es para ser destruidos eternamente."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 543,
+      "char_end": 587,
+      "text": "Mas tú, Jehová, para siempre eres Altísimo."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 587,
+      "char_end": 712,
+      "text": "Porque he aquí tus enemigos, oh Jehová, Porque he aquí, perecerán tus enemigos; Serán esparcidos todos los que hacen maldad."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 712,
+      "char_end": 795,
+      "text": "Pero tú aumentarás mis fuerzas como las del búfalo; Seré ungido con aceite fresco."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 795,
+      "char_end": 903,
+      "text": "Y mirarán mis ojos sobre mis enemigos; Oirán mis oídos de los que se levantaron contra mí, de los malignos."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 903,
+      "char_end": 972,
+      "text": "El justo florecerá como la palmera; Crecerá como cedro en el Líbano."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 972,
+      "char_end": 1046,
+      "text": "Plantados en la casa de Jehová, En los atrios de nuestro Dios florecerán."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1046,
+      "char_end": 1105,
+      "text": "Aun en la vejez fructificarán; Estarán vigorosos y verdes,"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1105,
+      "char_end": 1184,
+      "text": "Para anunciar que Jehová mi fortaleza es recto, Y que en él no hay injusticia."
+    }
+  ],
+  "words": [
+    {
+      "word": "Bueno es alabarte, oh Jehová, Y cantar salmos a tu nombre, oh Altísimo; Anunciar por la mañana tu misericordia, Y tu fidelidad cada noche, En el decacordio y en el salterio, En tono suave con el arpa.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 13325,
+      "duration_ms": 13225
+    },
+    {
+      "word": "Por cuanto me has alegrado, oh Jehová, con tus obras; En las obras de tus manos me gozo.",
+      "verse": 4,
+      "start_ms": 13275,
+      "end_ms": 19300,
+      "duration_ms": 6025
+    },
+    {
+      "word": "Cuán grandes son tus obras, oh Jehová!",
+      "verse": 5,
+      "start_ms": 19300,
+      "end_ms": 22275,
+      "duration_ms": 2975
+    },
+    {
+      "word": "Muy profundos son tus pensamientos.",
+      "verse": 5,
+      "start_ms": 22275,
+      "end_ms": 25187,
+      "duration_ms": 2912
+    },
+    {
+      "word": "El hombre necio no sabe, Y el insensato no entiende esto.",
+      "verse": 6,
+      "start_ms": 25187,
+      "end_ms": 29587,
+      "duration_ms": 4400
+    },
+    {
+      "word": "Cuando brotan los impíos como la hierba, Y florecen todos los que hacen iniquidad, Es para ser destruidos eternamente.",
+      "verse": 7,
+      "start_ms": 29587,
+      "end_ms": 36949,
+      "duration_ms": 7362
+    },
+    {
+      "word": "Mas tú, Jehová, para siempre eres Altísimo.",
+      "verse": 8,
+      "start_ms": 36950,
+      "end_ms": 40912,
+      "duration_ms": 3962
+    },
+    {
+      "word": "Porque he aquí tus enemigos, oh Jehová, Porque he aquí, perecerán tus enemigos; Serán esparcidos todos los que hacen maldad.",
+      "verse": 9,
+      "start_ms": 40912,
+      "end_ms": 49324,
+      "duration_ms": 8412
+    },
+    {
+      "word": "Pero tú aumentarás mis fuerzas como las del búfalo; Seré ungido con aceite fresco.",
+      "verse": 10,
+      "start_ms": 49325,
+      "end_ms": 54825,
+      "duration_ms": 5500
+    },
+    {
+      "word": "Y mirarán mis ojos sobre mis enemigos; Oirán mis oídos de los que se levantaron contra mí, de los malignos.",
+      "verse": 11,
+      "start_ms": 54825,
+      "end_ms": 61737,
+      "duration_ms": 6912
+    },
+    {
+      "word": "El justo florecerá como la palmera; Crecerá como cedro en el Líbano.",
+      "verse": 12,
+      "start_ms": 61737,
+      "end_ms": 66549,
+      "duration_ms": 4812
+    },
+    {
+      "word": "Plantados en la casa de Jehová, En los atrios de nuestro Dios florecerán.",
+      "verse": 13,
+      "start_ms": 66550,
+      "end_ms": 71312,
+      "duration_ms": 4762
+    },
+    {
+      "word": "Aun en la vejez fructificarán; Estarán vigorosos y verdes, Para anunciar que Jehová mi fortaleza es recto, Y que en él no hay injusticia.",
+      "verse": 14,
+      "start_ms": 71312,
+      "end_ms": 80312,
+      "duration_ms": 9000
+    }
+  ]
+}

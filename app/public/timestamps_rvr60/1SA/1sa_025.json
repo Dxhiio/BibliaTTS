@@ -1,0 +1,691 @@
+{
+  "book": "1SA",
+  "chapter": 25,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 44,
+  "word_count": 53,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 139,
+      "text": "Murió Samuel, y se juntó todo Israel, y lo lloraron, y lo sepultaron en su casa en Ramá. Y se levantó David y se fue al desierto de Parán."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 139,
+      "char_end": 314,
+      "text": "Y en Maón había un hombre que tenía su hacienda en Carmel, el cual era muy rico, y tenía tres mil ovejas y mil cabras. Y aconteció que estaba esquilando sus ovejas en Carmel."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 314,
+      "char_end": 501,
+      "text": "Y aquel varón se llamaba Nabal, y su mujer, Abigail. Era aquella mujer de buen entendimiento y de hermosa apariencia, pero el hombre era duro y de malas obras; y era del linaje de Caleb."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 501,
+      "char_end": 560,
+      "text": "Y oyó David en el desierto que Nabal esquilaba sus ovejas."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 560,
+      "char_end": 661,
+      "text": "Entonces envió David diez jóvenes y les dijo: Subid a Carmel e id a Nabal, y saludadle en mi nombre,"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 661,
+      "char_end": 738,
+      "text": "y decidle así: Sea paz a ti, y paz a tu familia, y paz a todo cuanto tienes."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 738,
+      "char_end": 901,
+      "text": "He sabido que tienes esquiladores. Ahora, tus pastores han estado con nosotros; no les tratamos mal, ni les faltó nada en todo el tiempo que han estado en Carmel."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 901,
+      "char_end": 1106,
+      "text": "Pregunta a tus criados, y ellos te lo dirán. Hallen, por tanto, estos jóvenes gracia en tus ojos, porque hemos venido en buen día; te ruego que des lo que tuvieres a mano a tus siervos, y a tu hijo David."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1106,
+      "char_end": 1223,
+      "text": "Cuando llegaron los jóvenes enviados por David, dijeron a Nabal todas estas palabras en nombre de David, y callaron."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1223,
+      "char_end": 1377,
+      "text": "Y Nabal respondió a los jóvenes enviados por David, y dijo: ¿Quién es David, y quién es el hijo de Isaí? Muchos siervos hay hoy que huyen de sus señores."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1377,
+      "char_end": 1509,
+      "text": "¿He de tomar yo ahora mi pan, mi agua, y la carne que he preparado para mis esquiladores, y darla a hombres que no sé de dónde son?"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1509,
+      "char_end": 1626,
+      "text": "Y los jóvenes que había enviado David se volvieron por su camino, y vinieron y dijeron a David todas estas palabras."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1626,
+      "char_end": 1838,
+      "text": "Entonces David dijo a sus hombres: Cíñase cada uno su espada. Y se ciñó cada uno su espada y también David se ciñó su espada; y subieron tras David como cuatrocientos hombres, y dejaron doscientos con el bagaje."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1838,
+      "char_end": 2003,
+      "text": "Pero uno de los criados dio aviso a Abigail mujer de Nabal, diciendo: He aquí David envió mensajeros del desierto que saludasen a nuestro amo, y él los ha zaherido."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2003,
+      "char_end": 2173,
+      "text": "Y aquellos hombres han sido muy buenos con nosotros, y nunca nos trataron mal, ni nos faltó nada en todo el tiempo que anduvimos con ellos, cuando estábamos en el campo."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2173,
+      "char_end": 2284,
+      "text": "Muro fueron para nosotros de día y de noche, todos los días que hemos estado con ellos apacentando las ovejas."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2284,
+      "char_end": 2475,
+      "text": "Ahora, pues, reflexiona y ve lo que has de hacer, porque el mal está ya resuelto contra nuestro amo y contra toda su casa; pues él es un hombre tan perverso, que no hay quien pueda hablarle."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2475,
+      "char_end": 2685,
+      "text": "Entonces Abigail tomó luego doscientos panes, dos cueros de vino, cinco ovejas guisadas, cinco medidas de grano tostado, cien racimos de uvas pasas, y doscientos panes de higos secos, y lo cargó todo en asnos."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2685,
+      "char_end": 2782,
+      "text": "Y dijo a sus criados: Id delante de mí, y yo os seguiré luego; y nada declaró a su marido Nabal."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2782,
+      "char_end": 2928,
+      "text": "Y montando un asno, descendió por una parte secreta del monte; y he aquí David y sus hombres venían frente a ella, y ella les salió al encuentro."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2928,
+      "char_end": 3105,
+      "text": "Y David había dicho: Ciertamente en vano he guardado todo lo que éste tiene en el desierto, sin que nada le haya faltado de todo cuanto es suyo; y él me ha vuelto mal por bien."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3105,
+      "char_end": 3245,
+      "text": "Así haga Dios a los enemigos de David y aun les añada, que de aquí a mañana, de todo lo que fuere suyo no he de dejar con vida ni un varón."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3245,
+      "char_end": 3374,
+      "text": "Y cuando Abigail vio a David, se bajó prontamente del asno, y postrándose sobre su rostro delante de David, se inclinó a tierra;"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3374,
+      "char_end": 3535,
+      "text": "y se echó a sus pies, y dijo: Señor mío, sobre mí sea el pecado; mas te ruego que permitas que tu sierva hable a tus oídos, y escucha las palabras de tu sierva."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3535,
+      "char_end": 3736,
+      "text": "No haga caso ahora mi señor de ese hombre perverso, de Nabal; porque conforme a su nombre, así es. él se llama Nabal, y la insensatez está con él; mas yo tu sierva no vi a los jóvenes que tú enviaste."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3736,
+      "char_end": 3955,
+      "text": "Ahora pues, señor mío, vive Jehová, y vive tu alma, que Jehová te ha impedido el venir a derramar sangre y vengarte por tu propia mano. Sean, pues, como Nabal tus enemigos, y todos los que procuran mal contra mi señor."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3955,
+      "char_end": 4059,
+      "text": "Y ahora este presente que tu sierva ha traído a mi señor, sea dado a los hombres que siguen a mi señor."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 4059,
+      "char_end": 4255,
+      "text": "Y yo te ruego que perdones a tu sierva esta ofensa; pues Jehová de cierto hará casa estable a mi señor, por cuanto mi señor pelea las batallas de Jehová, y mal no se ha hallado en ti en tus días."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 4255,
+      "char_end": 4508,
+      "text": "Aunque alguien se haya levantado para perseguirte y atentar contra tu vida, con todo, la vida de mi señor será ligada en el haz de los que viven delante de Jehová tu Dios, y él arrojará la vida de tus enemigos como de en medio de la palma de una honda."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4508,
+      "char_end": 4646,
+      "text": "Y acontecerá que cuando Jehová haga con mi señor conforme a todo el bien que ha hablado de ti, y te establezca por príncipe sobre Israel,"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4646,
+      "char_end": 4873,
+      "text": "entonces, señor mío, no tendrás motivo de pena ni remordimientos por haber derramado sangre sin causa, o por haberte vengado por ti mismo. Guárdese, pues, mi señor, y cuando Jehová haga bien a mi señor, acuérdate de tu sierva."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4873,
+      "char_end": 4974,
+      "text": "Y dijo David a Abigail: Bendito sea Jehová Dios de Israel, que te envió para que hoy me encontrases."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4974,
+      "char_end": 5102,
+      "text": "Y bendito sea tu razonamiento, y bendita tú, que me has estorbado hoy de ir a derramar sangre, y a vengarme por mi propia mano."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 5102,
+      "char_end": 5299,
+      "text": "Porque vive Jehová Dios de Israel que me ha defendido de hacerte mal, que si no te hubieras dado prisa en venir a mi encuentro, de aquí a mañana no le hubiera quedado con vida a Nabal ni un varón."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 5299,
+      "char_end": 5435,
+      "text": "Y recibió David de su mano lo que le había traído, y le dijo: Sube en paz a tu casa, y mira que he oído tu voz, y te he tenido respeto."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 5435,
+      "char_end": 5660,
+      "text": "Y Abigail volvió a Nabal, y he aquí que él tenía banquete en su casa como banquete de rey; y el corazón de Nabal estaba alegre, y estaba completamente ebrio, por lo cual ella no le declaró cosa alguna hasta el día siguiente."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 5660,
+      "char_end": 5829,
+      "text": "Pero por la mañana, cuando ya a Nabal se le habían pasado los efectos del vino, le refirió su mujer estas cosas; y desmayó su corazón en él, y se quedó como una piedra."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 5829,
+      "char_end": 5881,
+      "text": "Y diez días después, Jehová hirió a Nabal, y murió."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 5881,
+      "char_end": 6179,
+      "text": "Luego que David oyó que Nabal había muerto, dijo: Bendito sea Jehová, que juzgó la causa de mi afrenta recibida de mano de Nabal, y ha preservado del mal a su siervo; y Jehová ha vuelto la maldad de Nabal sobre su propia cabeza. Después envió David a hablar con Abigail, para tomarla por su mujer."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 6179,
+      "char_end": 6317,
+      "text": "Y los siervos de David vinieron a Abigail en Carmel, y hablaron con ella, diciendo: David nos ha enviado a ti, para tomarte por su mujer."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 6317,
+      "char_end": 6462,
+      "text": "Y ella se levantó e inclinó su rostro a tierra, diciendo: He aquí tu sierva, que será una sierva para lavar los pies de los siervos de mi señor."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 6462,
+      "char_end": 6596,
+      "text": "Y levantándose luego Abigail con cinco doncellas que le servían, montó en un asno y siguió a los mensajeros de David, y fue su mujer."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 6596,
+      "char_end": 6665,
+      "text": "También tomó David a Ahinoam de Jezreel, y ambas fueron sus mujeres."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 6665,
+      "char_end": 6759,
+      "text": "Porque Saúl había dado a su hija Mical mujer de David a Palti hijo de Lais, que era de Galim."
+    }
+  ],
+  "words": [
+    {
+      "word": "Murió Samuel, y se juntó todo Israel, y lo lloraron, y lo sepultaron en su casa en Ramá.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6412,
+      "duration_ms": 6312
+    },
+    {
+      "word": "Y se levantó David y se fue al desierto de Parán.",
+      "verse": 1,
+      "start_ms": 6362,
+      "end_ms": 9849,
+      "duration_ms": 3487
+    },
+    {
+      "word": "Y en Maón había un hombre que tenía su hacienda en Carmel, el cual era muy rico, y tenía tres mil ovejas y mil cabras.",
+      "verse": 2,
+      "start_ms": 9850,
+      "end_ms": 17500,
+      "duration_ms": 7650
+    },
+    {
+      "word": "Y aconteció que estaba esquilando sus ovejas en Carmel.",
+      "verse": 2,
+      "start_ms": 17500,
+      "end_ms": 21162,
+      "duration_ms": 3662
+    },
+    {
+      "word": "Y aquel varón se llamaba Nabal, y su mujer, Abigail.",
+      "verse": 3,
+      "start_ms": 21162,
+      "end_ms": 25287,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Era aquella mujer de buen entendimiento y de hermosa apariencia, pero el hombre era duro y de malas obras; y era del linaje de Caleb.",
+      "verse": 3,
+      "start_ms": 25287,
+      "end_ms": 33437,
+      "duration_ms": 8150
+    },
+    {
+      "word": "Y oyó David en el desierto que Nabal esquilaba sus ovejas.",
+      "verse": 4,
+      "start_ms": 33437,
+      "end_ms": 37549,
+      "duration_ms": 4112
+    },
+    {
+      "word": "Entonces envió David diez jóvenes y les dijo: Subid a Carmel e id a Nabal, y saludadle en mi nombre, y decidle así: Sea paz a ti, y paz a tu familia, y paz a todo cuanto tienes.",
+      "verse": 5,
+      "start_ms": 37550,
+      "end_ms": 49837,
+      "duration_ms": 12287
+    },
+    {
+      "word": "He sabido que tienes esquiladores.",
+      "verse": 7,
+      "start_ms": 49837,
+      "end_ms": 52749,
+      "duration_ms": 2912
+    },
+    {
+      "word": "Ahora, tus pastores han estado con nosotros; no les tratamos mal, ni les faltó nada en todo el tiempo que han estado en Carmel.",
+      "verse": 7,
+      "start_ms": 52750,
+      "end_ms": 61037,
+      "duration_ms": 8287
+    },
+    {
+      "word": "Pregunta a tus criados, y ellos te lo dirán.",
+      "verse": 8,
+      "start_ms": 61037,
+      "end_ms": 64474,
+      "duration_ms": 3437
+    },
+    {
+      "word": "Hallen, por tanto, estos jóvenes gracia en tus ojos, porque hemos venido en buen día; te ruego que des lo que tuvieres a mano a tus siervos, y a tu hijo David.",
+      "verse": 8,
+      "start_ms": 64475,
+      "end_ms": 74512,
+      "duration_ms": 10037
+    },
+    {
+      "word": "Cuando llegaron los jóvenes enviados por David, dijeron a Nabal todas estas palabras en nombre de David, y callaron.",
+      "verse": 9,
+      "start_ms": 74512,
+      "end_ms": 81724,
+      "duration_ms": 7212
+    },
+    {
+      "word": "Y Nabal respondió a los jóvenes enviados por David, y dijo: ¿Quién es David, y quién es el hijo de Isaí?",
+      "verse": 10,
+      "start_ms": 81725,
+      "end_ms": 88587,
+      "duration_ms": 6862
+    },
+    {
+      "word": "Muchos siervos hay hoy que huyen de sus señores.",
+      "verse": 10,
+      "start_ms": 88587,
+      "end_ms": 91962,
+      "duration_ms": 3375
+    },
+    {
+      "word": "He de tomar yo ahora mi pan, mi agua, y la carne que he preparado para mis esquiladores, y darla a hombres que no sé de dónde son?",
+      "verse": 11,
+      "start_ms": 91962,
+      "end_ms": 100487,
+      "duration_ms": 8525
+    },
+    {
+      "word": "Y los jóvenes que había enviado David se volvieron por su camino, y vinieron y dijeron a David todas estas palabras.",
+      "verse": 12,
+      "start_ms": 100487,
+      "end_ms": 107462,
+      "duration_ms": 6975
+    },
+    {
+      "word": "Entonces David dijo a sus hombres: Cíñase cada uno su espada.",
+      "verse": 13,
+      "start_ms": 107462,
+      "end_ms": 112087,
+      "duration_ms": 4625
+    },
+    {
+      "word": "Y se ciñó cada uno su espada y también David se ciñó su espada; y subieron tras David como cuatrocientos hombres, y dejaron doscientos con el bagaje.",
+      "verse": 13,
+      "start_ms": 112087,
+      "end_ms": 121187,
+      "duration_ms": 9100
+    },
+    {
+      "word": "Pero uno de los criados dio aviso a Abigail mujer de Nabal, diciendo: He aquí David envió mensajeros del desierto que saludasen a nuestro amo, y él los ha zaherido.",
+      "verse": 14,
+      "start_ms": 121187,
+      "end_ms": 131224,
+      "duration_ms": 10037
+    },
+    {
+      "word": "Y aquellos hombres han sido muy buenos con nosotros, y nunca nos trataron mal, ni nos faltó nada en todo el tiempo que anduvimos con ellos, cuando estábamos en el campo.",
+      "verse": 15,
+      "start_ms": 131225,
+      "end_ms": 141062,
+      "duration_ms": 9837
+    },
+    {
+      "word": "Muro fueron para nosotros de día y de noche, todos los días que hemos estado con ellos apacentando las ovejas.",
+      "verse": 16,
+      "start_ms": 141062,
+      "end_ms": 147974,
+      "duration_ms": 6912
+    },
+    {
+      "word": "Ahora, pues, reflexiona y ve lo que has de hacer, porque el mal está ya resuelto contra nuestro amo y contra toda su casa; pues él es un hombre tan perverso, que no hay quien pueda hablarle.",
+      "verse": 17,
+      "start_ms": 147975,
+      "end_ms": 159300,
+      "duration_ms": 11325
+    },
+    {
+      "word": "Entonces Abigail tomó luego doscientos panes, dos cueros de vino, cinco ovejas guisadas, cinco medidas de grano tostado, cien racimos de uvas pasas, y doscientos panes de higos secos, y lo cargó todo en asnos.",
+      "verse": 18,
+      "start_ms": 159300,
+      "end_ms": 173275,
+      "duration_ms": 13975
+    },
+    {
+      "word": "Y dijo a sus criados: Id delante de mí, y yo os seguiré luego; y nada declaró a su marido Nabal.",
+      "verse": 19,
+      "start_ms": 173275,
+      "end_ms": 180287,
+      "duration_ms": 7012
+    },
+    {
+      "word": "Y montando un asno, descendió por una parte secreta del monte; y he aquí David y sus hombres venían frente a ella, y ella les salió al encuentro.",
+      "verse": 20,
+      "start_ms": 180287,
+      "end_ms": 189137,
+      "duration_ms": 8850
+    },
+    {
+      "word": "Y David había dicho: Ciertamente en vano he guardado todo lo que éste tiene en el desierto, sin que nada le haya faltado de todo cuanto es suyo; y él me ha vuelto mal por bien.",
+      "verse": 21,
+      "start_ms": 189137,
+      "end_ms": 199674,
+      "duration_ms": 10537
+    },
+    {
+      "word": "Así haga Dios a los enemigos de David y aun les añada, que de aquí a mañana, de todo lo que fuere suyo no he de dejar con vida ni un varón.",
+      "verse": 22,
+      "start_ms": 199675,
+      "end_ms": 208262,
+      "duration_ms": 8587
+    },
+    {
+      "word": "Y cuando Abigail vio a David, se bajó prontamente del asno, y postrándose sobre su rostro delante de David, se inclinó a tierra; y se echó a sus pies, y dijo: Señor mío, sobre mí sea el pecado; mas te ruego que permitas que tu sierva hable a tus oídos, y escucha las palabras de tu sierva.",
+      "verse": 23,
+      "start_ms": 208262,
+      "end_ms": 226449,
+      "duration_ms": 18187
+    },
+    {
+      "word": "No haga caso ahora mi señor de ese hombre perverso, de Nabal; porque conforme a su nombre, así es.",
+      "verse": 25,
+      "start_ms": 226450,
+      "end_ms": 233425,
+      "duration_ms": 6975
+    },
+    {
+      "word": "él se llama Nabal, y la insensatez está con él; mas yo tu sierva no vi a los jóvenes que tú enviaste.",
+      "verse": 25,
+      "start_ms": 233425,
+      "end_ms": 239837,
+      "duration_ms": 6412
+    },
+    {
+      "word": "Ahora pues, señor mío, vive Jehová, y vive tu alma, que Jehová te ha impedido el venir a derramar sangre y vengarte por tu propia mano.",
+      "verse": 26,
+      "start_ms": 239837,
+      "end_ms": 248924,
+      "duration_ms": 9087
+    },
+    {
+      "word": "Sean, pues, como Nabal tus enemigos, y todos los que procuran mal contra mi señor.",
+      "verse": 26,
+      "start_ms": 248925,
+      "end_ms": 255262,
+      "duration_ms": 6337
+    },
+    {
+      "word": "Y ahora este presente que tu sierva ha traído a mi",
+      "verse": 27,
+      "start_ms": 255262,
+      "end_ms": 258774,
+      "duration_ms": 3512
+    },
+    {
+      "word": "señor, sea dado a los hombres que siguen a mi señor.",
+      "verse": 27,
+      "start_ms": 258940,
+      "end_ms": 262890,
+      "duration_ms": 3950
+    },
+    {
+      "word": "Y yo te ruego que perdones a tu sierva esta ofensa; pues Jehová de cierto hará casa estable a mi señor, por cuanto mi señor pelea las batallas de Jehová, y mal no se ha hallado en ti en tus días.",
+      "verse": 28,
+      "start_ms": 262840,
+      "end_ms": 273715,
+      "duration_ms": 10875
+    },
+    {
+      "word": "Aunque alguien se haya levantado para perseguirte y atentar contra tu vida, con todo, la vida de mi señor será ligada en el haz de los que viven delante de Jehová tu Dios, y él arrojará la vida de tus enemigos como de en medio de la palma de una honda.",
+      "verse": 29,
+      "start_ms": 273715,
+      "end_ms": 287727,
+      "duration_ms": 14012
+    },
+    {
+      "word": "Y acontecerá que cuando Jehová haga con mi señor conforme a todo el bien que ha hablado de ti, y te establezca por príncipe sobre Israel, entonces, señor mío, no tendrás motivo de pena ni remordimientos por haber derramado sangre sin causa, o por haberte vengado por ti mismo.",
+      "verse": 30,
+      "start_ms": 287727,
+      "end_ms": 303764,
+      "duration_ms": 16037
+    },
+    {
+      "word": "Guárdese, pues, mi señor, y cuando Jehová haga bien a mi señor, acuérdate de tu sierva.",
+      "verse": 31,
+      "start_ms": 303765,
+      "end_ms": 310102,
+      "duration_ms": 6337
+    },
+    {
+      "word": "Y dijo David a Abigail: Bendito sea Jehová Dios de Israel, que te envió para que hoy me encontrases.",
+      "verse": 32,
+      "start_ms": 310102,
+      "end_ms": 316927,
+      "duration_ms": 6825
+    },
+    {
+      "word": "Y bendito sea tu razonamiento, y bendita tú, que me has estorbado hoy de ir a derramar sangre, y a vengarme por mi propia mano.",
+      "verse": 33,
+      "start_ms": 316927,
+      "end_ms": 325327,
+      "duration_ms": 8400
+    },
+    {
+      "word": "Porque vive Jehová Dios de Israel que me ha defendido de hacerte mal, que si no te hubieras dado prisa en venir a mi encuentro, de aquí a mañana no le hubiera quedado con vida a Nabal ni un varón.",
+      "verse": 34,
+      "start_ms": 325327,
+      "end_ms": 335839,
+      "duration_ms": 10512
+    },
+    {
+      "word": "Y recibió David de su mano lo que le había traído, y le dijo: Sube en paz a tu casa, y mira que he oído tu voz, y te he tenido respeto.",
+      "verse": 35,
+      "start_ms": 335840,
+      "end_ms": 345190,
+      "duration_ms": 9350
+    },
+    {
+      "word": "Y Abigail volvió a Nabal, y he aquí que él tenía banquete en su casa como banquete de rey; y el corazón de Nabal estaba alegre, y estaba completamente ebrio, por lo cual ella no le declaró cosa alguna hasta el día siguiente.",
+      "verse": 36,
+      "start_ms": 345190,
+      "end_ms": 358340,
+      "duration_ms": 13150
+    },
+    {
+      "word": "Pero por la mañana, cuando ya a Nabal se le habían pasado los efectos del vino, le refirió su mujer estas cosas; y desmayó su corazón en él, y se quedó como una piedra.",
+      "verse": 37,
+      "start_ms": 358340,
+      "end_ms": 368827,
+      "duration_ms": 10487
+    },
+    {
+      "word": "Y diez días después, Jehová hirió a Nabal, y murió.",
+      "verse": 38,
+      "start_ms": 368827,
+      "end_ms": 372827,
+      "duration_ms": 4000
+    },
+    {
+      "word": "Luego que David oyó que Nabal había muerto, dijo: Bendito sea Jehová, que juzgó la causa de mi afrenta recibida de mano de Nabal, y ha preservado del mal a su siervo; y Jehová ha vuelto la maldad de Nabal sobre su propia cabeza.",
+      "verse": 39,
+      "start_ms": 372827,
+      "end_ms": 386664,
+      "duration_ms": 13837
+    },
+    {
+      "word": "Después envió David a hablar con Abigail, para tomarla por su mujer.",
+      "verse": 39,
+      "start_ms": 386665,
+      "end_ms": 391415,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Y los siervos de David vinieron a Abigail en Carmel, y hablaron con ella, diciendo: David nos ha enviado a ti, para tomarte por su mujer.",
+      "verse": 40,
+      "start_ms": 391415,
+      "end_ms": 400265,
+      "duration_ms": 8850
+    },
+    {
+      "word": "Y ella se levantó e inclinó su rostro a tierra, diciendo: He aquí tu sierva, que será una sierva para lavar los pies de los siervos de mi señor.",
+      "verse": 41,
+      "start_ms": 400265,
+      "end_ms": 409240,
+      "duration_ms": 8975
+    },
+    {
+      "word": "Y levantándose luego Abigail con cinco doncellas que le servían, montó en un asno y siguió a los mensajeros de David, y fue su mujer.",
+      "verse": 42,
+      "start_ms": 409240,
+      "end_ms": 417615,
+      "duration_ms": 8375
+    },
+    {
+      "word": "También tomó David a Ahinoam de Jezreel, y ambas fueron sus mujeres.",
+      "verse": 43,
+      "start_ms": 417615,
+      "end_ms": 422427,
+      "duration_ms": 4812
+    },
+    {
+      "word": "Porque Saúl había dado a su hija Mical mujer de David a Palti hijo de Lais, que era de Galim.",
+      "verse": 44,
+      "start_ms": 422427,
+      "end_ms": 428439,
+      "duration_ms": 6012
+    }
+  ]
+}

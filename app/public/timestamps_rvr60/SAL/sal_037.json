@@ -1,0 +1,579 @@
+{
+  "book": "SAL",
+  "chapter": 37,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 40,
+  "word_count": 41,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 89,
+      "text": "No te impacientes a causa de los malignos, Ni tengas envidia de los que hacen iniquidad."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 89,
+      "char_end": 166,
+      "text": "Porque como hierba serán pronto cortados, Y como la hierba verde se secarán."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 166,
+      "char_end": 256,
+      "text": "Confía en Jehová, y haz el bien; Y habitarás en la tierra, y te apacentarás de la verdad."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 256,
+      "char_end": 334,
+      "text": "Deléitate asimismo en Jehová, Y él te concederá las peticiones de tu corazón."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 334,
+      "char_end": 392,
+      "text": "Encomienda a Jehová tu camino, Y confía en él; y él hará."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 392,
+      "char_end": 457,
+      "text": "Exhibirá tu justicia como la luz, Y tu derecho como el mediodía."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 457,
+      "char_end": 591,
+      "text": "Guarda silencio ante Jehová, y espera en él. No te alteres con motivo del que prospera en su camino, Por el hombre que hace maldades."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 591,
+      "char_end": 672,
+      "text": "Deja la ira, y desecha el enojo; No te excites en manera alguna a hacer lo malo."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 672,
+      "char_end": 769,
+      "text": "Porque los malignos serán destruidos, Pero los que esperan en Jehová, ellos heredarán la tierra."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 769,
+      "char_end": 849,
+      "text": "Pues de aquí a poco no existirá el malo; Observarás su lugar, y no estará allí."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 849,
+      "char_end": 924,
+      "text": "Pero los mansos heredarán la tierra, Y se recrearán con abundancia de paz."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 924,
+      "char_end": 989,
+      "text": "Maquina el impío contra el justo, Y cruje contra él sus dientes;"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 989,
+      "char_end": 1042,
+      "text": "El Señor se reirá de él; Porque ve que viene su día."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1042,
+      "char_end": 1168,
+      "text": "Los impíos desenvainan espada y entesan su arco, Para derribar al pobre y al menesteroso, Para matar a los de recto proceder."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1168,
+      "char_end": 1232,
+      "text": "Su espada entrará en su mismo corazón, Y su arco será quebrado."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1232,
+      "char_end": 1298,
+      "text": "Mejor es lo poco del justo, Que las riquezas de muchos pecadores."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1298,
+      "char_end": 1391,
+      "text": "Porque los brazos de los impíos serán quebrados; Mas el que sostiene a los justos es Jehová."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1391,
+      "char_end": 1473,
+      "text": "Conoce Jehová los días de los perfectos, Y la heredad de ellos será para siempre."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1473,
+      "char_end": 1553,
+      "text": "No serán avergonzados en el mal tiempo, Y en los días de hambre serán saciados."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1553,
+      "char_end": 1679,
+      "text": "Mas los impíos perecerán, Y los enemigos de Jehová como la grasa de los carneros Serán consumidos; se disiparán como el humo."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1679,
+      "char_end": 1753,
+      "text": "El impío toma prestado, y no paga; Mas el justo tiene misericordia, y da."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1753,
+      "char_end": 1839,
+      "text": "Porque los benditos de él heredarán la tierra; Y los malditos de él serán destruidos."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1839,
+      "char_end": 1910,
+      "text": "Por Jehová son ordenados los pasos del hombre, Y él aprueba su camino."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1910,
+      "char_end": 1988,
+      "text": "Cuando el hombre cayere, no quedará postrado, Porque Jehová sostiene su mano."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1988,
+      "char_end": 2086,
+      "text": "Joven fui, y he envejecido, Y no he visto justo desamparado, Ni su descendencia que mendigue pan."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2086,
+      "char_end": 2168,
+      "text": "En todo tiempo tiene misericordia, y presta; Y su descendencia es para bendición."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2168,
+      "char_end": 2225,
+      "text": "Apártate del mal, y haz el bien, Y vivirás para siempre."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2225,
+      "char_end": 2365,
+      "text": "Porque Jehová ama la rectitud, Y no desampara a sus santos. Para siempre serán guardados; Mas la descendencia de los impíos será destruida."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2365,
+      "char_end": 2432,
+      "text": "Los justos heredarán la tierra, Y vivirán para siempre sobre ella."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2432,
+      "char_end": 2495,
+      "text": "La boca del justo habla sabiduría, Y su lengua habla justicia."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2495,
+      "char_end": 2568,
+      "text": "La ley de su Dios está en su corazón; Por tanto, sus pies no resbalarán."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2568,
+      "char_end": 2613,
+      "text": "Acecha el impío al justo, Y procura matarlo."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 2613,
+      "char_end": 2683,
+      "text": "Jehová no lo dejará en sus manos, Ni lo condenará cuando le juzgaren."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 2683,
+      "char_end": 2810,
+      "text": "Espera en Jehová, y guarda su camino, Y él te exaltará para heredar la tierra; Cuando sean destruidos los pecadores, lo verás."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 2810,
+      "char_end": 2884,
+      "text": "Vi yo al impío sumamente enaltecido, Y que se extendía como laurel verde."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 2884,
+      "char_end": 2951,
+      "text": "Pero él pasó, y he aquí ya no estaba; Lo busqué, y no fue hallado."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 2951,
+      "char_end": 3041,
+      "text": "Considera al íntegro, y mira al justo; Porque hay un final dichoso para el hombre de paz."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 3041,
+      "char_end": 3138,
+      "text": "Mas los transgresores serán todos a una destruidos; La posteridad de los impíos será extinguida."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 3138,
+      "char_end": 3234,
+      "text": "Pero la salvación de los justos es de Jehová, Y él es su fortaleza en el tiempo de la angustia."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 3234,
+      "char_end": 3340,
+      "text": "Jehová los ayudará y los librará; Los libertará de los impíos, y los salvará, Por cuanto en él esperaron."
+    }
+  ],
+  "words": [
+    {
+      "word": "No te impacientes a causa de los malignos, Ni tengas envidia de los que hacen iniquidad.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5525,
+      "duration_ms": 5425
+    },
+    {
+      "word": "Porque como hierba serán pronto cortados, Y como la hierba verde se secarán.",
+      "verse": 2,
+      "start_ms": 5475,
+      "end_ms": 10537,
+      "duration_ms": 5062
+    },
+    {
+      "word": "Confía en Jehová, y haz el bien; Y habitarás en la tierra, y te apacentarás de la verdad.",
+      "verse": 3,
+      "start_ms": 10537,
+      "end_ms": 16562,
+      "duration_ms": 6025
+    },
+    {
+      "word": "Deléitate asimismo en Jehová, Y él te concederá las peticiones de tu corazón.",
+      "verse": 4,
+      "start_ms": 16562,
+      "end_ms": 21849,
+      "duration_ms": 5287
+    },
+    {
+      "word": "Encomienda a Jehová tu camino, Y confía en él; y él hará.",
+      "verse": 5,
+      "start_ms": 21850,
+      "end_ms": 26475,
+      "duration_ms": 4625
+    },
+    {
+      "word": "Exhibirá tu justicia como la luz, Y tu derecho como el mediodía.",
+      "verse": 6,
+      "start_ms": 26475,
+      "end_ms": 31212,
+      "duration_ms": 4737
+    },
+    {
+      "word": "Guarda silencio ante Jehová, y espera en él.",
+      "verse": 7,
+      "start_ms": 31212,
+      "end_ms": 34849,
+      "duration_ms": 3637
+    },
+    {
+      "word": "No te alteres con motivo del que prospera en su camino, Por el hombre que hace maldades.",
+      "verse": 7,
+      "start_ms": 34850,
+      "end_ms": 40162,
+      "duration_ms": 5312
+    },
+    {
+      "word": "Deja la ira, y desecha el enojo; No te excites en manera alguna a hacer lo malo.",
+      "verse": 8,
+      "start_ms": 40162,
+      "end_ms": 45774,
+      "duration_ms": 5612
+    },
+    {
+      "word": "Porque los malignos serán destruidos, Pero los que esperan en Jehová, ellos heredarán la tierra.",
+      "verse": 9,
+      "start_ms": 45775,
+      "end_ms": 51750,
+      "duration_ms": 5975
+    },
+    {
+      "word": "Pues de aquí a poco no existirá el malo; Observarás su lugar, y no estará allí.",
+      "verse": 10,
+      "start_ms": 51750,
+      "end_ms": 57250,
+      "duration_ms": 5500
+    },
+    {
+      "word": "Pero los mansos heredarán la tierra, Y se recrearán con abundancia de paz.",
+      "verse": 11,
+      "start_ms": 57250,
+      "end_ms": 62150,
+      "duration_ms": 4900
+    },
+    {
+      "word": "Maquina el impío contra el justo, Y cruje contra él sus dientes; El Señor se reirá de él; Porque ve que viene su día.",
+      "verse": 12,
+      "start_ms": 62150,
+      "end_ms": 70000,
+      "duration_ms": 7850
+    },
+    {
+      "word": "Los impíos desenvainan espada y entesan su arco, Para derribar al pobre y al menesteroso, Para matar a los de recto proceder.",
+      "verse": 14,
+      "start_ms": 70000,
+      "end_ms": 77887,
+      "duration_ms": 7887
+    },
+    {
+      "word": "Su espada entrará en su mismo corazón, Y su arco será quebrado.",
+      "verse": 15,
+      "start_ms": 77887,
+      "end_ms": 82487,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Mejor es lo poco del justo, Que las riquezas de muchos pecadores.",
+      "verse": 16,
+      "start_ms": 82487,
+      "end_ms": 87162,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Porque los brazos de los impíos serán quebrados; Mas el que sostiene a los justos es Jehová.",
+      "verse": 17,
+      "start_ms": 87162,
+      "end_ms": 92874,
+      "duration_ms": 5712
+    },
+    {
+      "word": "Conoce Jehová los días de los perfectos, Y la heredad de ellos será para siempre.",
+      "verse": 18,
+      "start_ms": 92875,
+      "end_ms": 98175,
+      "duration_ms": 5300
+    },
+    {
+      "word": "No serán avergonzados en el mal tiempo, Y en los días de hambre serán saciados.",
+      "verse": 19,
+      "start_ms": 98175,
+      "end_ms": 103437,
+      "duration_ms": 5262
+    },
+    {
+      "word": "Mas los impíos perecerán, Y los enemigos de Jehová como la grasa de los carneros Serán consumidos; se disiparán como el humo.",
+      "verse": 20,
+      "start_ms": 103437,
+      "end_ms": 111174,
+      "duration_ms": 7737
+    },
+    {
+      "word": "El impío toma prestado, y no paga; Mas el justo tiene misericordia, y da.",
+      "verse": 21,
+      "start_ms": 111175,
+      "end_ms": 116962,
+      "duration_ms": 5787
+    },
+    {
+      "word": "Porque los benditos de él heredarán la tierra; Y los malditos de él serán destruidos.",
+      "verse": 22,
+      "start_ms": 116962,
+      "end_ms": 122574,
+      "duration_ms": 5612
+    },
+    {
+      "word": "Por Jehová son ordenados los pasos del hombre, Y él aprueba su camino.",
+      "verse": 23,
+      "start_ms": 122575,
+      "end_ms": 127162,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Cuando el hombre cayere, no quedará postrado, Porque Jehová sostiene su mano.",
+      "verse": 24,
+      "start_ms": 127162,
+      "end_ms": 132387,
+      "duration_ms": 5225
+    },
+    {
+      "word": "Joven fui, y he envejecido, Y no he visto justo desamparado, Ni su descendencia que mendigue pan.",
+      "verse": 25,
+      "start_ms": 132387,
+      "end_ms": 139099,
+      "duration_ms": 6712
+    },
+    {
+      "word": "En todo tiempo tiene misericordia, y presta; Y su descendencia es para bendición.",
+      "verse": 26,
+      "start_ms": 139100,
+      "end_ms": 144762,
+      "duration_ms": 5662
+    },
+    {
+      "word": "Apártate del mal, y haz el bien, Y vivirás para siempre.",
+      "verse": 27,
+      "start_ms": 144762,
+      "end_ms": 149087,
+      "duration_ms": 4325
+    },
+    {
+      "word": "Porque Jehová ama la rectitud, Y no desampara a sus santos.",
+      "verse": 28,
+      "start_ms": 149087,
+      "end_ms": 153549,
+      "duration_ms": 4462
+    },
+    {
+      "word": "Para siempre serán guardados; Mas la descendencia de los impíos será destruida.",
+      "verse": 28,
+      "start_ms": 153550,
+      "end_ms": 158925,
+      "duration_ms": 5375
+    },
+    {
+      "word": "Los justos heredarán la tierra, Y vivirán para siempre sobre ella.",
+      "verse": 29,
+      "start_ms": 158925,
+      "end_ms": 163450,
+      "duration_ms": 4525
+    },
+    {
+      "word": "La boca del justo habla sabiduría, Y su lengua habla justicia.",
+      "verse": 30,
+      "start_ms": 163450,
+      "end_ms": 168150,
+      "duration_ms": 4700
+    },
+    {
+      "word": "La ley de su Dios está en su corazón; Por tanto, sus pies no resbalarán.",
+      "verse": 31,
+      "start_ms": 168150,
+      "end_ms": 173662,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Acecha el impío al justo, Y procura matarlo.",
+      "verse": 32,
+      "start_ms": 173662,
+      "end_ms": 177449,
+      "duration_ms": 3787
+    },
+    {
+      "word": "Jehová no lo dejará en sus manos, Ni lo condenará cuando le juzgaren.",
+      "verse": 33,
+      "start_ms": 177450,
+      "end_ms": 182087,
+      "duration_ms": 4637
+    },
+    {
+      "word": "Espera en Jehová, y guarda su camino, Y él te exaltará para heredar la tierra; Cuando sean destruidos los pecadores, lo verás.",
+      "verse": 34,
+      "start_ms": 182087,
+      "end_ms": 190437,
+      "duration_ms": 8350
+    },
+    {
+      "word": "Vi yo al impío sumamente enaltecido, Y que se extendía como laurel verde.",
+      "verse": 35,
+      "start_ms": 190437,
+      "end_ms": 195824,
+      "duration_ms": 5387
+    },
+    {
+      "word": "Pero él pasó, y he aquí ya no estaba; Lo busqué, y no fue hallado.",
+      "verse": 36,
+      "start_ms": 195825,
+      "end_ms": 200950,
+      "duration_ms": 5125
+    },
+    {
+      "word": "Considera al íntegro, y mira al justo; Porque hay un final dichoso para el hombre de paz.",
+      "verse": 37,
+      "start_ms": 200950,
+      "end_ms": 206950,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Mas los transgresores serán todos a una destruidos; La posteridad de los impíos será extinguida.",
+      "verse": 38,
+      "start_ms": 206950,
+      "end_ms": 213362,
+      "duration_ms": 6412
+    },
+    {
+      "word": "Pero la salvación de los justos es de Jehová, Y él es su fortaleza en el tiempo de la angustia.",
+      "verse": 39,
+      "start_ms": 213362,
+      "end_ms": 219112,
+      "duration_ms": 5750
+    },
+    {
+      "word": "Jehová los ayudará y los librará; Los libertará de los impíos, y los salvará, Por cuanto en él esperaron.",
+      "verse": 40,
+      "start_ms": 219112,
+      "end_ms": 225949,
+      "duration_ms": 6837
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "book": "1TI",
+  "chapter": 3,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 15,
+  "word_count": 10,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 113,
+      "text": "Exhorto ante todo, a que se hagan rogativas, oraciones, peticiones y acciones de gracias, por todos los hombres;"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 113,
+      "char_end": 236,
+      "text": "por los reyes y por todos los que están en eminencia, para que vivamos quieta y reposadamente en toda piedad y honestidad."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 236,
+      "char_end": 303,
+      "text": "Porque esto es bueno y agradable delante de Dios nuestro Salvador,"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 303,
+      "char_end": 391,
+      "text": "el cual quiere que todos los hombres sean salvos y vengan al conocimiento de la verdad."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 391,
+      "char_end": 480,
+      "text": "Porque hay un solo Dios, y un solo mediador entre Dios y los hombres, Jesucristo hombre,"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 480,
+      "char_end": 577,
+      "text": "el cual se dio a sí mismo en rescate por todos, de lo cual se dio testimonio a su debido tiempo."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 577,
+      "char_end": 705,
+      "text": "Para esto yo fui constituido predicador y apóstol (digo verdad en Cristo, no miento), y maestro de los gentiles en fe y verdad."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 705,
+      "char_end": 802,
+      "text": "Quiero, pues, que los hombres oren en todo lugar, levantando manos santas, sin ira ni contienda."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 802,
+      "char_end": 945,
+      "text": "Asimismo que las mujeres se atavíen de ropa decorosa, con pudor y modestia; no con peinado ostentoso, ni oro, ni perlas, ni vestidos costosos,"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 945,
+      "char_end": 1016,
+      "text": "sino con buenas obras, como corresponde a mujeres que profesan piedad."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1016,
+      "char_end": 1065,
+      "text": "La mujer aprenda en silencio, con toda sujeción."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1065,
+      "char_end": 1163,
+      "text": "Porque no permito a la mujer enseñar, ni ejercer dominio sobre el hombre, sino estar en silencio."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1163,
+      "char_end": 1209,
+      "text": "Porque Adán fue formado primero, después Eva;"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1209,
+      "char_end": 1295,
+      "text": "y Adán no fue engañado, sino que la mujer, siendo engañada, incurrió en transgresión."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1295,
+      "char_end": 1389,
+      "text": "Pero se salvará engendrando hijos, si permaneciere en fe, amor y santificación, con modestia."
+    }
+  ],
+  "words": [
+    {
+      "word": "Exhorto ante todo, a que se hagan rogativas, oraciones, peticiones y acciones de gracias, por todos los hombres; por los reyes y por todos los que están en eminencia, para que vivamos quieta y reposadamente en toda piedad y honestidad.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 14762,
+      "duration_ms": 14662
+    },
+    {
+      "word": "Porque esto es bueno y agradable delante de Dios nuestro Salvador, el cual quiere que todos los hombres sean salvos y vengan al conocimiento de la verdad.",
+      "verse": 3,
+      "start_ms": 14762,
+      "end_ms": 23187,
+      "duration_ms": 8425
+    },
+    {
+      "word": "Porque hay un solo Dios, y un solo mediador entre Dios y los hombres, Jesucristo hombre, el cual se dio a sí mismo en rescate por todos, de lo cual se dio testimonio a su debido tiempo.",
+      "verse": 5,
+      "start_ms": 23187,
+      "end_ms": 34449,
+      "duration_ms": 11262
+    },
+    {
+      "word": "Para esto yo fui constituido predicador y apóstol (digo verdad en Cristo, no miento), y maestro de los gentiles en fe y verdad.",
+      "verse": 7,
+      "start_ms": 34450,
+      "end_ms": 42675,
+      "duration_ms": 8225
+    },
+    {
+      "word": "Quiero, pues, que los hombres oren en todo lugar, levantando manos santas, sin ira ni contienda.",
+      "verse": 8,
+      "start_ms": 42675,
+      "end_ms": 49725,
+      "duration_ms": 7050
+    },
+    {
+      "word": "Asimismo que las mujeres se atavíen de ropa decorosa, con pudor y modestia; no con peinado ostentoso, ni oro, ni perlas, ni vestidos costosos, sino con buenas obras, como corresponde a mujeres que profesan piedad.",
+      "verse": 9,
+      "start_ms": 49725,
+      "end_ms": 63825,
+      "duration_ms": 14100
+    },
+    {
+      "word": "La mujer aprenda en silencio, con toda sujeción.",
+      "verse": 11,
+      "start_ms": 63825,
+      "end_ms": 67650,
+      "duration_ms": 3825
+    },
+    {
+      "word": "Porque no permito a la mujer enseñar, ni ejercer dominio sobre el hombre, sino estar en silencio.",
+      "verse": 12,
+      "start_ms": 67650,
+      "end_ms": 73587,
+      "duration_ms": 5937
+    },
+    {
+      "word": "Porque Adán fue formado primero, después Eva; y Adán no fue engañado, sino que la mujer, siendo engañada, incurrió en transgresión.",
+      "verse": 13,
+      "start_ms": 73587,
+      "end_ms": 82274,
+      "duration_ms": 8687
+    },
+    {
+      "word": "Pero se salvará engendrando hijos, si permaneciere en fe, amor y santificación, con modestia.",
+      "verse": 15,
+      "start_ms": 82275,
+      "end_ms": 88912,
+      "duration_ms": 6637
+    }
+  ]
+}

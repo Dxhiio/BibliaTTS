@@ -1,0 +1,222 @@
+{
+  "book": "CAN",
+  "chapter": 6,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 13,
+  "word_count": 17,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 123,
+      "text": "¿A dónde se ha ido tu amado, oh la más hermosa de todas las mujeres? ¿A dónde se apartó tu amado, Y lo buscaremos contigo?"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 123,
+      "char_end": 241,
+      "text": "Mi amado descendió a su huerto, a las eras de las especias, Para apacentar en los huertos, y para recoger los lirios."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 241,
+      "char_end": 311,
+      "text": "Yo soy de mi amado, y mi amado es mío; él apacienta entre los lirios."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 311,
+      "char_end": 416,
+      "text": "Hermosa eres tú, oh amiga mía, como Tirsa; De desear, como Jerusalén; Imponente como ejércitos en orden."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 416,
+      "char_end": 556,
+      "text": "Aparta tus ojos de delante de mí, Porque ellos me vencieron. Tu cabello es como manada de cabras Que se recuestan en las laderas de Galaad."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 556,
+      "char_end": 671,
+      "text": "Tus dientes, como manadas de ovejas que suben del lavadero, Todas con crías gemelas, Y estéril no hay entre ellas."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 671,
+      "char_end": 730,
+      "text": "Como cachos de granada son tus mejillas Detrás de tu velo."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 730,
+      "char_end": 808,
+      "text": "Sesenta son las reinas, y ochenta las concubinas, Y las doncellas sin número;"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 808,
+      "char_end": 1011,
+      "text": "Mas una es la paloma mía, la perfecta mía; Es la única de su madre, La escogida de la que la dio a luz. La vieron las doncellas, y la llamaron bienaventurada; Las reinas y las concubinas, y la alabaron."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1011,
+      "char_end": 1137,
+      "text": "¿Quién es ésta que se muestra como el alba, Hermosa como la luna, Esclarecida como el sol, Imponente como ejércitos en orden?"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1137,
+      "char_end": 1260,
+      "text": "Al huerto de los nogales descendí A ver los frutos del valle, Y para ver si brotaban las vides, Si florecían los granados."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1260,
+      "char_end": 1328,
+      "text": "Antes que lo supiera, mi alma me puso Entre los carros de Aminadab."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1328,
+      "char_end": 1466,
+      "text": "Vuélvete, vuélvete, oh sulamita; Vuélvete, vuélvete, y te miraremos. ¿Qué veréis en la sulamita? Algo como la reunión de dos campamentos."
+    }
+  ],
+  "words": [
+    {
+      "word": "A dónde se ha ido tu amado, oh la más hermosa de todas las mujeres?",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4787,
+      "duration_ms": 4687
+    },
+    {
+      "word": "A dónde se apartó tu amado, Y lo buscaremos contigo?",
+      "verse": 1,
+      "start_ms": 4737,
+      "end_ms": 8712,
+      "duration_ms": 3975
+    },
+    {
+      "word": "Mi amado descendió a su huerto, a las eras de las especias, Para apacentar en los huertos, y para recoger los lirios.",
+      "verse": 2,
+      "start_ms": 8712,
+      "end_ms": 16412,
+      "duration_ms": 7700
+    },
+    {
+      "word": "Yo soy de mi amado, y mi amado es mío; él apacienta entre los lirios.",
+      "verse": 3,
+      "start_ms": 16412,
+      "end_ms": 21637,
+      "duration_ms": 5225
+    },
+    {
+      "word": "Hermosa eres tú, oh amiga mía, como Tirsa; De desear, como Jerusalén; Imponente como ejércitos en orden.",
+      "verse": 4,
+      "start_ms": 21637,
+      "end_ms": 29737,
+      "duration_ms": 8100
+    },
+    {
+      "word": "Aparta tus ojos de delante de mí, Porque ellos me vencieron.",
+      "verse": 5,
+      "start_ms": 29737,
+      "end_ms": 34037,
+      "duration_ms": 4300
+    },
+    {
+      "word": "Tu cabello es como manada de cabras Que se recuestan en las laderas de Galaad.",
+      "verse": 5,
+      "start_ms": 34037,
+      "end_ms": 38824,
+      "duration_ms": 4787
+    },
+    {
+      "word": "Tus dientes, como manadas de ovejas que suben del lavadero, Todas con crías gemelas, Y estéril no hay entre ellas.",
+      "verse": 6,
+      "start_ms": 38825,
+      "end_ms": 46625,
+      "duration_ms": 7800
+    },
+    {
+      "word": "Como cachos de granada son tus mejillas Detrás de tu velo.",
+      "verse": 7,
+      "start_ms": 46625,
+      "end_ms": 50475,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Sesenta son las reinas, y ochenta las concubinas, Y las doncellas sin número; Mas una es la paloma mía, la perfecta mía; Es la única de su madre, La escogida de la que la dio a luz.",
+      "verse": 8,
+      "start_ms": 50475,
+      "end_ms": 62237,
+      "duration_ms": 11762
+    },
+    {
+      "word": "La vieron las doncellas, y la llamaron bienaventurada; Las reinas y las concubinas, y la alabaron.",
+      "verse": 9,
+      "start_ms": 62237,
+      "end_ms": 68949,
+      "duration_ms": 6712
+    },
+    {
+      "word": "Quién es ésta que se muestra como el alba, Hermosa como la luna, Esclarecida como el sol, Imponente como ejércitos en orden?",
+      "verse": 10,
+      "start_ms": 68950,
+      "end_ms": 76925,
+      "duration_ms": 7975
+    },
+    {
+      "word": "Al huerto de los nogales descendí A ver los frutos del valle, Y para ver si brotaban las vides, Si florecían los granados.",
+      "verse": 11,
+      "start_ms": 76925,
+      "end_ms": 84425,
+      "duration_ms": 7500
+    },
+    {
+      "word": "Antes que lo supiera, mi alma me puso Entre los carros de Aminadab.",
+      "verse": 12,
+      "start_ms": 84425,
+      "end_ms": 88987,
+      "duration_ms": 4562
+    },
+    {
+      "word": "Vuélvete, vuélvete, oh sulamita; Vuélvete, vuélvete, y te miraremos.",
+      "verse": 13,
+      "start_ms": 88987,
+      "end_ms": 94974,
+      "duration_ms": 5987
+    },
+    {
+      "word": "Qué veréis en la sulamita?",
+      "verse": 13,
+      "start_ms": 94975,
+      "end_ms": 97362,
+      "duration_ms": 2387
+    },
+    {
+      "word": "Algo como la reunión de dos campamentos.",
+      "verse": 13,
+      "start_ms": 97362,
+      "end_ms": 100624,
+      "duration_ms": 3262
+    }
+  ]
+}

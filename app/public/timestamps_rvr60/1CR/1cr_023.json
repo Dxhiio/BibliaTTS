@@ -1,0 +1,474 @@
+{
+  "book": "1CR",
+  "chapter": 23,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 32,
+  "word_count": 34,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 87,
+      "text": "Siendo, pues, David ya viejo y lleno de días, hizo a Salomón su hijo rey sobre Israel."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 87,
+      "char_end": 163,
+      "text": "Y juntando a todos los principales de Israel, y a los sacerdotes y levitas,"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 163,
+      "char_end": 299,
+      "text": "fueron contados los levitas de treinta años arriba; y fue el número de ellos por sus cabezas, contados uno por uno, treinta y ocho mil."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 299,
+      "char_end": 408,
+      "text": "De éstos, veinticuatro mil para dirigir la obra de la casa de Jehová, y seis mil para gobernadores y jueces."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 408,
+      "char_end": 543,
+      "text": "Además, cuatro mil porteros, y cuatro mil para alabar a Jehová, dijo David, con los instrumentos que he hecho para tributar alabanzas."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 543,
+      "char_end": 627,
+      "text": "Y los repartió David en grupos conforme a los hijos de Leví: Gersón, Coat y Merari."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 627,
+      "char_end": 664,
+      "text": "Los hijos de Gersón: Laadán y Simei."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 664,
+      "char_end": 732,
+      "text": "Los hijos de Laadán, tres: Jehiel el primero, después Zetam y Joel."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 732,
+      "char_end": 833,
+      "text": "Los hijos de Simei, tres: Selomit, Haziel y Harán. éstos fueron los jefes de las familias de Laadán."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 833,
+      "char_end": 922,
+      "text": "Y los hijos de Simei: Jahat, Zina, Jeús y Bería. Estos cuatro fueron los hijos de Simei."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 922,
+      "char_end": 1053,
+      "text": "Jahat era el primero, y Zina el segundo; pero Jeús y Bería no tuvieron muchos hijos, por lo cual fueron contados como una familia."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1053,
+      "char_end": 1116,
+      "text": "Los hijos de Coat: Amram, Izhar, Hebrón y Uziel, ellos cuatro."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1116,
+      "char_end": 1348,
+      "text": "Los hijos de Amram: Aarón y Moisés. Y Aarón fue apartado para ser dedicado a las cosas más santas, él y sus hijos para siempre, para que quemasen incienso delante de Jehová, y le ministrasen y bendijesen en su nombre, para siempre."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1348,
+      "char_end": 1421,
+      "text": "Y los hijos de Moisés varón de Dios fueron contados en la tribu de Leví."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1421,
+      "char_end": 1466,
+      "text": "Los hijos de Moisés fueron Gersón y Eliezer."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1466,
+      "char_end": 1501,
+      "text": "Hijo de Gersón fue Sebuel el jefe."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1501,
+      "char_end": 1613,
+      "text": "E hijo de Eliezer fue Rehabías el jefe. Y Eliezer no tuvo otros hijos; mas los hijos de Rehabías fueron muchos."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1613,
+      "char_end": 1648,
+      "text": "Hijo de Izhar fue Selomit el jefe."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1648,
+      "char_end": 1747,
+      "text": "Los hijos de Hebrón: Jerías el jefe, Amarías el segundo, Jahaziel el tercero, y Jecamán el cuarto."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1747,
+      "char_end": 1803,
+      "text": "Los hijos de Uziel: Micaía el jefe, e Isías el segundo."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1803,
+      "char_end": 1873,
+      "text": "Los hijos de Merari: Mahli y Musi. Los hijos de Mahli: Eleazar y Cis."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1873,
+      "char_end": 1977,
+      "text": "Y murió Eleazar sin hijos; pero tuvo hijas, y los hijos de Cis, sus parientes, las tomaron por mujeres."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1977,
+      "char_end": 2031,
+      "text": "Los hijos de Musi: Mahli, Edar y Jeremot, ellos tres."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2031,
+      "char_end": 2260,
+      "text": "Éstos son los hijos de Leví en las familias de sus padres, jefes de familias según el censo de ellos, contados por sus nombres, por sus cabezas, de veinte años arriba, los cuales trabajaban en el ministerio de la casa de Jehová."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2260,
+      "char_end": 2374,
+      "text": "Porque David dijo: Jehová Dios de Israel ha dado paz a su pueblo Israel, y él habitará en Jerusalén para siempre."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2374,
+      "char_end": 2480,
+      "text": "Y también los levitas no tendrán que llevar más el tabernáculo y todos los utensilios para su ministerio."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2480,
+      "char_end": 2595,
+      "text": "Así que, conforme a las postreras palabras de David, se hizo la cuenta de los hijos de Leví de veinte años arriba."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2595,
+      "char_end": 2813,
+      "text": "Y estaban bajo las órdenes de los hijos de Aarón para ministrar en la casa de Jehová, en los atrios, en las cámaras, y en la purificación de toda cosa santificada, y en la demás obra del ministerio de la casa de Dios."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2813,
+      "char_end": 3006,
+      "text": "Asimismo para los panes de la proposición, para la flor de harina para el sacrificio, para las hojuelas sin levadura, para lo preparado en sartén, para lo tostado, y para toda medida y cuenta;"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3006,
+      "char_end": 3118,
+      "text": "y para asistir cada mañana todos los días a dar gracias y tributar alabanzas a Jehová, y asimismo por la tarde;"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3118,
+      "char_end": 3292,
+      "text": "y para ofrecer todos los holocaustos a Jehová los días de reposo, lunas nuevas y fiestas solemnes, según su número y de acuerdo con su rito, continuamente delante de Jehová;"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3292,
+      "char_end": 3469,
+      "text": "y para que tuviesen la guarda del tabernáculo de reunión, y la guarda del santuario, bajo las órdenes de los hijos de Aarón sus hermanos, en el ministerio de la casa de Jehová."
+    }
+  ],
+  "words": [
+    {
+      "word": "Siendo, pues, David ya viejo y lleno de días, hizo a Salomón su hijo rey sobre Israel.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6650,
+      "duration_ms": 6550
+    },
+    {
+      "word": "Y juntando a todos los principales de Israel, y a los sacerdotes y levitas, fueron contados los levitas de treinta años arriba; y fue el número de ellos por sus cabezas, contados uno por uno, treinta y ocho mil.",
+      "verse": 2,
+      "start_ms": 6600,
+      "end_ms": 19400,
+      "duration_ms": 12800
+    },
+    {
+      "word": "De éstos, veinticuatro mil para dirigir la obra de la casa de Jehová, y seis mil para gobernadores y jueces.",
+      "verse": 4,
+      "start_ms": 19400,
+      "end_ms": 26600,
+      "duration_ms": 7200
+    },
+    {
+      "word": "Además, cuatro mil porteros, y cuatro mil para alabar a Jehová, dijo David, con los instrumentos que he hecho para tributar alabanzas.",
+      "verse": 5,
+      "start_ms": 26600,
+      "end_ms": 35700,
+      "duration_ms": 9100
+    },
+    {
+      "word": "Y los repartió David en grupos conforme a los hijos de Leví: Gersón, Coat y Merari.",
+      "verse": 6,
+      "start_ms": 35700,
+      "end_ms": 41375,
+      "duration_ms": 5675
+    },
+    {
+      "word": "Los hijos de Gersón: Laadán y Simei.",
+      "verse": 7,
+      "start_ms": 41375,
+      "end_ms": 44637,
+      "duration_ms": 3262
+    },
+    {
+      "word": "Los hijos de Laadán, tres: Jehiel el primero, después Zetam y Joel.",
+      "verse": 8,
+      "start_ms": 44637,
+      "end_ms": 49862,
+      "duration_ms": 5225
+    },
+    {
+      "word": "Los hijos de Simei, tres: Selomit, Haziel y Harán.",
+      "verse": 9,
+      "start_ms": 49862,
+      "end_ms": 54374,
+      "duration_ms": 4512
+    },
+    {
+      "word": "éstos fueron los jefes de las familias de Laadán.",
+      "verse": 9,
+      "start_ms": 54375,
+      "end_ms": 57675,
+      "duration_ms": 3300
+    },
+    {
+      "word": "Y los hijos de Simei: Jahat, Zina, Jeús y Bería.",
+      "verse": 10,
+      "start_ms": 57675,
+      "end_ms": 62187,
+      "duration_ms": 4512
+    },
+    {
+      "word": "Estos cuatro fueron los hijos de Simei.",
+      "verse": 10,
+      "start_ms": 62187,
+      "end_ms": 65037,
+      "duration_ms": 2850
+    },
+    {
+      "word": "Jahat era el primero, y Zina el segundo; pero Jeús y Bería no tuvieron muchos hijos, por lo cual fueron contados como una familia.",
+      "verse": 11,
+      "start_ms": 65037,
+      "end_ms": 73574,
+      "duration_ms": 8537
+    },
+    {
+      "word": "Los hijos de Coat: Amram, Izhar, Hebrón y Uziel, ellos cuatro.",
+      "verse": 12,
+      "start_ms": 73575,
+      "end_ms": 78750,
+      "duration_ms": 5175
+    },
+    {
+      "word": "Los hijos de Amram: Aarón y Moisés.",
+      "verse": 13,
+      "start_ms": 78750,
+      "end_ms": 81887,
+      "duration_ms": 3137
+    },
+    {
+      "word": "Y Aarón fue apartado para ser dedicado a las cosas más santas, él y sus hijos para siempre, para que quemasen incienso delante de Jehová, y le ministrasen y bendijesen en su nombre, para siempre.",
+      "verse": 13,
+      "start_ms": 81887,
+      "end_ms": 93374,
+      "duration_ms": 11487
+    },
+    {
+      "word": "Y los hijos de Moisés varón de Dios fueron contados en la tribu de Leví.",
+      "verse": 14,
+      "start_ms": 93375,
+      "end_ms": 97862,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Los hijos de Moisés fueron Gersón y Eliezer.",
+      "verse": 15,
+      "start_ms": 97862,
+      "end_ms": 101199,
+      "duration_ms": 3337
+    },
+    {
+      "word": "Hijo de Gersón fue Sebuel el jefe.",
+      "verse": 16,
+      "start_ms": 101200,
+      "end_ms": 103987,
+      "duration_ms": 2787
+    },
+    {
+      "word": "E hijo de Eliezer fue Rehabías el jefe.",
+      "verse": 17,
+      "start_ms": 103987,
+      "end_ms": 107062,
+      "duration_ms": 3075
+    },
+    {
+      "word": "Y Eliezer no tuvo otros hijos; mas los hijos de Rehabías fueron muchos.",
+      "verse": 17,
+      "start_ms": 107062,
+      "end_ms": 112262,
+      "duration_ms": 5200
+    },
+    {
+      "word": "Hijo de Izhar fue Selomit el jefe.",
+      "verse": 18,
+      "start_ms": 112262,
+      "end_ms": 115074,
+      "duration_ms": 2812
+    },
+    {
+      "word": "Los hijos de Hebrón: Jerías el jefe, Amarías el segundo, Jahaziel el tercero, y Jecamán el cuarto.",
+      "verse": 19,
+      "start_ms": 115075,
+      "end_ms": 122137,
+      "duration_ms": 7062
+    },
+    {
+      "word": "Los hijos de Uziel: Micaía el jefe, e Isías el segundo.",
+      "verse": 20,
+      "start_ms": 122137,
+      "end_ms": 126862,
+      "duration_ms": 4725
+    },
+    {
+      "word": "Los hijos de Merari: Mahli y Musi.",
+      "verse": 21,
+      "start_ms": 126862,
+      "end_ms": 129912,
+      "duration_ms": 3050
+    },
+    {
+      "word": "Los hijos de Mahli: Eleazar y Cis.",
+      "verse": 21,
+      "start_ms": 129912,
+      "end_ms": 132987,
+      "duration_ms": 3075
+    },
+    {
+      "word": "Y murió Eleazar sin hijos; pero tuvo hijas, y los hijos de Cis, sus parientes, las tomaron por mujeres.",
+      "verse": 22,
+      "start_ms": 132987,
+      "end_ms": 140874,
+      "duration_ms": 7887
+    },
+    {
+      "word": "Los hijos de Musi: Mahli, Edar y Jeremot, ellos tres.",
+      "verse": 23,
+      "start_ms": 140875,
+      "end_ms": 145425,
+      "duration_ms": 4550
+    },
+    {
+      "word": "Éstos son los hijos de Leví en las familias de sus padres, jefes de familias según el censo de ellos, contados por sus nombres, por sus cabezas, de veinte años arriba, los cuales trabajaban en el ministerio de la casa de Jehová.",
+      "verse": 24,
+      "start_ms": 145425,
+      "end_ms": 159012,
+      "duration_ms": 13587
+    },
+    {
+      "word": "Porque David dijo: Jehová Dios de Israel ha dado paz a su pueblo Israel, y él habitará en Jerusalén para siempre.",
+      "verse": 25,
+      "start_ms": 159012,
+      "end_ms": 166249,
+      "duration_ms": 7237
+    },
+    {
+      "word": "Y también los levitas no tendrán que llevar más el tabernáculo y todos los utensilios para su ministerio.",
+      "verse": 26,
+      "start_ms": 166250,
+      "end_ms": 172262,
+      "duration_ms": 6012
+    },
+    {
+      "word": "Así que, conforme a las postreras palabras de David, se hizo la cuenta de los hijos de Leví de veinte años arriba.",
+      "verse": 27,
+      "start_ms": 172262,
+      "end_ms": 179462,
+      "duration_ms": 7200
+    },
+    {
+      "word": "Y estaban bajo las órdenes de los hijos de Aarón para ministrar en la casa de Jehová, en los atrios, en las cámaras, y en la purificación de toda cosa santificada, y en la demás obra del ministerio de la casa de Dios.",
+      "verse": 28,
+      "start_ms": 179462,
+      "end_ms": 191837,
+      "duration_ms": 12375
+    },
+    {
+      "word": "Asimismo para los panes de la proposición, para la flor de harina para el sacrificio, para las hojuelas sin levadura, para lo preparado en sartén, para lo tostado, y para toda medida y cuenta; y para asistir cada mañana todos los días a dar gracias y tributar alabanzas a Jehová, y asimismo por la tarde; y para ofrecer todos los holocaustos a Jehová los días de reposo, lunas nuevas y fiestas solemnes, según su número y de acuerdo con su rito, continuamente delante de Jehová; y para que tuviesen",
+      "verse": 29,
+      "start_ms": 191837,
+      "end_ms": 220687,
+      "duration_ms": 28850
+    },
+    {
+      "word": "la guarda del tabernáculo de reunión, y la guarda del santuario, bajo las órdenes de los hijos de Aarón sus hermanos, en el ministerio de la casa de Jehová.",
+      "verse": 32,
+      "start_ms": 220687,
+      "end_ms": 229837,
+      "duration_ms": 9150
+    }
+  ]
+}

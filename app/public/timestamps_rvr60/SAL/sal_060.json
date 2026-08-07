@@ -1,0 +1,187 @@
+{
+  "book": "SAL",
+  "chapter": 60,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 12,
+  "word_count": 13,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 86,
+      "text": "Oh Dios, tú nos has desechado, nos quebrantaste; Te has airado; ¡vuélvete a nosotros!"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 86,
+      "char_end": 163,
+      "text": "Hiciste temblar la tierra, la has hendido; Sana sus roturas, porque titubea."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 163,
+      "char_end": 242,
+      "text": "Has hecho ver a tu pueblo cosas duras; Nos hiciste beber vino de aturdimiento."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 242,
+      "char_end": 318,
+      "text": "Has dado a los que te temen bandera Que alcen por causa de la verdad. Selah"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 318,
+      "char_end": 380,
+      "text": "Para que se libren tus amados, Salva con tu diestra, y óyeme."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 380,
+      "char_end": 475,
+      "text": "Dios ha dicho en su santuario: Yo me alegraré; Repartiré a Siquem, y mediré el valle de Sucot."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 475,
+      "char_end": 570,
+      "text": "Mío es Galaad, y mío es Manasés; Y Efraín es la fortaleza de mi cabeza; Judá es mi legislador."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 570,
+      "char_end": 657,
+      "text": "Moab, vasija para lavarme; Sobre Edom echaré mi calzado; Me regocijaré sobre Filistea."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 657,
+      "char_end": 730,
+      "text": "¿Quién me llevará a la ciudad fortificada? ¿Quién me llevará hasta Edom?"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 730,
+      "char_end": 825,
+      "text": "¿No serás tú, oh Dios, que nos habías desechado, Y no salías, oh Dios, con nuestros ejércitos?"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 825,
+      "char_end": 898,
+      "text": "Danos socorro contra el enemigo, Porque vana es la ayuda de los hombres."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 898,
+      "char_end": 957,
+      "text": "En Dios haremos proezas, Y él hollará a nuestros enemigos."
+    }
+  ],
+  "words": [
+    {
+      "word": "Oh Dios, tú nos has desechado, nos quebrantaste; Te has airado; ¡vuélvete a nosotros!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6425,
+      "duration_ms": 6325
+    },
+    {
+      "word": "Hiciste temblar la tierra, la has hendido; Sana sus roturas, porque titubea.",
+      "verse": 2,
+      "start_ms": 6375,
+      "end_ms": 12200,
+      "duration_ms": 5825
+    },
+    {
+      "word": "Has hecho ver a tu pueblo cosas duras; Nos hiciste beber vino de aturdimiento.",
+      "verse": 3,
+      "start_ms": 12200,
+      "end_ms": 17312,
+      "duration_ms": 5112
+    },
+    {
+      "word": "Has dado a los que te temen bandera Que alcen por causa de la verdad.",
+      "verse": 4,
+      "start_ms": 17312,
+      "end_ms": 21712,
+      "duration_ms": 4400
+    },
+    {
+      "word": "Selah Para que se libren tus amados, Salva con tu diestra, y óyeme.",
+      "verse": 4,
+      "start_ms": 21712,
+      "end_ms": 26549,
+      "duration_ms": 4837
+    },
+    {
+      "word": "Dios ha dicho en su santuario: Yo me alegraré; Repartiré a Siquem, y mediré el valle de Sucot.",
+      "verse": 6,
+      "start_ms": 26550,
+      "end_ms": 33350,
+      "duration_ms": 6800
+    },
+    {
+      "word": "Mío es Galaad, y mío es Manasés; Y Efraín es la fortaleza de mi cabeza; Judá es mi legislador.",
+      "verse": 7,
+      "start_ms": 33350,
+      "end_ms": 40537,
+      "duration_ms": 7187
+    },
+    {
+      "word": "Moab, vasija para lavarme; Sobre Edom echaré mi calzado; Me regocijaré sobre Filistea.",
+      "verse": 8,
+      "start_ms": 40537,
+      "end_ms": 47137,
+      "duration_ms": 6600
+    },
+    {
+      "word": "Quién me llevará a la ciudad fortificada?",
+      "verse": 9,
+      "start_ms": 47137,
+      "end_ms": 50162,
+      "duration_ms": 3025
+    },
+    {
+      "word": "Quién me llevará hasta Edom?",
+      "verse": 9,
+      "start_ms": 50162,
+      "end_ms": 52337,
+      "duration_ms": 2175
+    },
+    {
+      "word": "No serás tú, oh Dios, que nos habías desechado, Y no salías, oh Dios, con nuestros ejércitos?",
+      "verse": 10,
+      "start_ms": 52337,
+      "end_ms": 59712,
+      "duration_ms": 7375
+    },
+    {
+      "word": "Danos socorro contra el enemigo, Porque vana es la ayuda de los hombres.",
+      "verse": 11,
+      "start_ms": 59712,
+      "end_ms": 64587,
+      "duration_ms": 4875
+    },
+    {
+      "word": "En Dios haremos proezas, Y él hollará a nuestros enemigos.",
+      "verse": 12,
+      "start_ms": 64587,
+      "end_ms": 68987,
+      "duration_ms": 4400
+    }
+  ]
+}

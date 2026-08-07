@@ -1,0 +1,180 @@
+{
+  "book": "SAL",
+  "chapter": 2,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 12,
+  "word_count": 12,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 68,
+      "text": "¿Por qué se amotinan las gentes, Y los pueblos piensan cosas vanas?"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 68,
+      "char_end": 181,
+      "text": "Se levantarán los reyes de la tierra, Y príncipes consultarán unidos Contra Jehová y contra su ungido, diciendo:"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 181,
+      "char_end": 240,
+      "text": "Rompamos sus ligaduras, Y echemos de nosotros sus cuerdas."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 240,
+      "char_end": 306,
+      "text": "El que mora en los cielos se reirá; El Señor se burlará de ellos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 306,
+      "char_end": 367,
+      "text": "Luego hablará a ellos en su furor, Y los turbará con su ira."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 367,
+      "char_end": 420,
+      "text": "Pero yo he puesto mi rey Sobre Sion, mi santo monte."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 420,
+      "char_end": 502,
+      "text": "Yo publicaré el decreto; Jehová me ha dicho: Mi hijo eres tú; Yo te engendré hoy."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 502,
+      "char_end": 595,
+      "text": "Pídeme, y te daré por herencia las naciones, Y como posesión tuya los confines de la tierra."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 595,
+      "char_end": 674,
+      "text": "Los quebrantarás con vara de hierro; Como vasija de alfarero los desmenuzarás."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 674,
+      "char_end": 755,
+      "text": "Ahora, pues, oh reyes, sed prudentes; Admitid amonestación, jueces de la tierra."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 755,
+      "char_end": 806,
+      "text": "Servid a Jehová con temor, Y alegraos con temblor."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 806,
+      "char_end": 949,
+      "text": "Honrad al Hijo, para que no se enoje, y perezcáis en el camino; Pues se inflama de pronto su ira. Bienaventurados todos los que en él confían."
+    }
+  ],
+  "words": [
+    {
+      "word": "Por qué se amotinan las gentes, Y los pueblos piensan cosas vanas?",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4825,
+      "duration_ms": 4725
+    },
+    {
+      "word": "Se levantarán los reyes de la tierra, Y príncipes consultarán unidos Contra Jehová y contra su ungido, diciendo: Rompamos sus ligaduras, Y echemos de nosotros sus cuerdas.",
+      "verse": 2,
+      "start_ms": 4775,
+      "end_ms": 15512,
+      "duration_ms": 10737
+    },
+    {
+      "word": "El que mora en los cielos se reirá; El Señor se burlará de ellos.",
+      "verse": 4,
+      "start_ms": 15512,
+      "end_ms": 20274,
+      "duration_ms": 4762
+    },
+    {
+      "word": "Luego hablará a ellos en su furor, Y los turbará con su ira.",
+      "verse": 5,
+      "start_ms": 20275,
+      "end_ms": 24562,
+      "duration_ms": 4287
+    },
+    {
+      "word": "Pero yo he puesto mi rey Sobre Sion, mi santo monte.",
+      "verse": 6,
+      "start_ms": 24562,
+      "end_ms": 28312,
+      "duration_ms": 3750
+    },
+    {
+      "word": "Yo publicaré el decreto; Jehová me ha dicho: Mi hijo eres tú; Yo te engendré hoy.",
+      "verse": 7,
+      "start_ms": 28312,
+      "end_ms": 34287,
+      "duration_ms": 5975
+    },
+    {
+      "word": "Pídeme, y te daré por herencia las naciones, Y como posesión tuya los confines de la tierra.",
+      "verse": 8,
+      "start_ms": 34287,
+      "end_ms": 40512,
+      "duration_ms": 6225
+    },
+    {
+      "word": "Los quebrantarás con vara de hierro; Como vasija de alfarero los desmenuzarás.",
+      "verse": 9,
+      "start_ms": 40512,
+      "end_ms": 45812,
+      "duration_ms": 5300
+    },
+    {
+      "word": "Ahora, pues, oh reyes, sed prudentes; Admitid amonestación, jueces de la tierra.",
+      "verse": 10,
+      "start_ms": 45812,
+      "end_ms": 52574,
+      "duration_ms": 6762
+    },
+    {
+      "word": "Servid a Jehová con temor, Y alegraos con temblor.",
+      "verse": 11,
+      "start_ms": 52575,
+      "end_ms": 56500,
+      "duration_ms": 3925
+    },
+    {
+      "word": "Honrad al Hijo, para que no se enoje, y perezcáis en el camino; Pues se inflama de pronto su ira.",
+      "verse": 12,
+      "start_ms": 56500,
+      "end_ms": 63262,
+      "duration_ms": 6762
+    },
+    {
+      "word": "Bienaventurados todos los que en él confían.",
+      "verse": 12,
+      "start_ms": 63262,
+      "end_ms": 66549,
+      "duration_ms": 3287
+    }
+  ]
+}

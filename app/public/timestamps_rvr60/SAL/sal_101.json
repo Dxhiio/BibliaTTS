@@ -1,0 +1,138 @@
+{
+  "book": "SAL",
+  "chapter": 101,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 8,
+  "word_count": 10,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 59,
+      "text": "Misericordia y juicio cantaré; A ti cantaré yo, oh Jehová."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 59,
+      "char_end": 175,
+      "text": "Entenderé el camino de la perfección Cuando vengas a mí. En la integridad de mi corazón andaré en medio de mi casa."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 175,
+      "char_end": 295,
+      "text": "No pondré delante de mis ojos cosa injusta. Aborrezco la obra de los que se desvían; Ninguno de ellos se acercará a mí."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 295,
+      "char_end": 355,
+      "text": "Corazón perverso se apartará de mí; No conoceré al malvado."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 355,
+      "char_end": 469,
+      "text": "Al que solapadamente infama a su prójimo, yo lo destruiré; No sufriré al de ojos altaneros y de corazón vanidoso."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 469,
+      "char_end": 597,
+      "text": "Mis ojos pondré en los fieles de la tierra, para que estén conmigo; El que ande en el camino de la perfección, éste me servirá."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 597,
+      "char_end": 705,
+      "text": "No habitará dentro de mi casa el que hace fraude; El que habla mentiras no se afirmará delante de mis ojos."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 705,
+      "char_end": 830,
+      "text": "De mañana destruiré a todos los impíos de la tierra, Para exterminar de la ciudad de Jehová a todos los que hagan iniquidad."
+    }
+  ],
+  "words": [
+    {
+      "word": "Misericordia y juicio cantaré; A ti cantaré yo, oh Jehová.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4850,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Entenderé el camino de la perfección Cuando vengas a mí.",
+      "verse": 2,
+      "start_ms": 4800,
+      "end_ms": 8537,
+      "duration_ms": 3737
+    },
+    {
+      "word": "En la integridad de mi corazón andaré en medio de mi casa.",
+      "verse": 2,
+      "start_ms": 8537,
+      "end_ms": 12337,
+      "duration_ms": 3800
+    },
+    {
+      "word": "No pondré delante de mis ojos cosa injusta.",
+      "verse": 3,
+      "start_ms": 12337,
+      "end_ms": 15762,
+      "duration_ms": 3425
+    },
+    {
+      "word": "Aborrezco la obra de los que se desvían; Ninguno de ellos se acercará a mí.",
+      "verse": 3,
+      "start_ms": 15762,
+      "end_ms": 20874,
+      "duration_ms": 5112
+    },
+    {
+      "word": "Corazón perverso se apartará de mí; No conoceré al malvado.",
+      "verse": 4,
+      "start_ms": 20875,
+      "end_ms": 25387,
+      "duration_ms": 4512
+    },
+    {
+      "word": "Al que solapadamente infama a su prójimo, yo lo destruiré; No sufriré al de ojos altaneros y de corazón vanidoso.",
+      "verse": 5,
+      "start_ms": 25387,
+      "end_ms": 33149,
+      "duration_ms": 7762
+    },
+    {
+      "word": "Mis ojos pondré en los fieles de la tierra, para que estén conmigo; El que ande en el camino de la perfección, éste me servirá.",
+      "verse": 6,
+      "start_ms": 33150,
+      "end_ms": 41087,
+      "duration_ms": 7937
+    },
+    {
+      "word": "No habitará dentro de mi casa el que hace fraude; El que habla mentiras no se afirmará delante de mis ojos.",
+      "verse": 7,
+      "start_ms": 41087,
+      "end_ms": 47674,
+      "duration_ms": 6587
+    },
+    {
+      "word": "De mañana destruiré a todos los impíos de la tierra, Para exterminar de la ciudad de Jehová a todos los que hagan iniquidad.",
+      "verse": 8,
+      "start_ms": 47675,
+      "end_ms": 54887,
+      "duration_ms": 7212
+    }
+  ]
+}

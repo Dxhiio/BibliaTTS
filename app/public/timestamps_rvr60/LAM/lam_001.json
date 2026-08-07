@@ -1,0 +1,390 @@
+{
+  "book": "LAM",
+  "chapter": 1,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 22,
+  "word_count": 32,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 146,
+      "text": "¡Cómo ha quedado sola la ciudad populosa! La grande entre las naciones se ha vuelto como viuda, La señora de provincias ha sido hecha tributaria."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 146,
+      "char_end": 320,
+      "text": "Amargamente llora en la noche, y sus lágrimas están en sus mejillas. No tiene quien la consuele de todos sus amantes; Todos sus amigos le faltaron, se le volvieron enemigos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 320,
+      "char_end": 510,
+      "text": "Judá ha ido en cautiverio a causa de la aflicción y de la dura servidumbre; Ella habitó entre las naciones, y no halló descanso; Todos sus perseguidores la alcanzaron entre las estrechuras."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 510,
+      "char_end": 703,
+      "text": "Las calzadas de Sion tienen luto, porque no hay quien venga a las fiestas solemnes; Todas sus puertas están asoladas, sus sacerdotes gimen, Sus vírgenes están afligidas, y ella tiene amargura."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 703,
+      "char_end": 893,
+      "text": "Sus enemigos han sido hechos príncipes, sus aborrecedores fueron prosperados, Porque Jehová la afligió por la multitud de sus rebeliones; Sus hijos fueron en cautividad delante del enemigo."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 893,
+      "char_end": 1048,
+      "text": "Desapareció de la hija de Sion toda su hermosura; Sus príncipes fueron como ciervos que no hallan pasto, Y anduvieron sin fuerzas delante del perseguidor."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 1048,
+      "char_end": 1310,
+      "text": "Jerusalén, cuando cayó su pueblo en mano del enemigo y no hubo quien la ayudase, Se acordó de los días de su aflicción, y de sus rebeliones, Y de todas las cosas agradables que tuvo desde los tiempos antiguos. La miraron los enemigos, y se burlaron de su caída."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1310,
+      "char_end": 1482,
+      "text": "Pecado cometió Jerusalén, por lo cual ella ha sido removida; Todos los que la honraban la han menospreciado, porque vieron su vergüenza; Y ella suspira, y se vuelve atrás."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1482,
+      "char_end": 1690,
+      "text": "Su inmundicia está en sus faldas, y no se acordó de su fin; Por tanto, ella ha descendido sorprendentemente, y no tiene quien la consuele. Mira, oh Jehová, mi aflicción, porque el enemigo se ha engrandecido."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1690,
+      "char_end": 1858,
+      "text": "Extendió su mano el enemigo a todas sus cosas preciosas; Ella ha visto entrar en su santuario a las naciones De las cuales mandaste que no entrasen en tu congregación."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1858,
+      "char_end": 2012,
+      "text": "Todo su pueblo buscó su pan suspirando; Dieron por la comida todas sus cosas preciosas, para entretener la vida. Mira, oh Jehová, y ve que estoy abatida."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 2012,
+      "char_end": 2181,
+      "text": "¿No os conmueve a cuantos pasáis por el camino? Mirad, y ved si hay dolor como mi dolor que me ha venido; Porque Jehová me ha angustiado en el día de su ardiente furor."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 2181,
+      "char_end": 2320,
+      "text": "Desde lo alto envió fuego que consume mis huesos; Ha extendido red a mis pies, me volvió atrás, Me dejó desolada, y con dolor todo el día."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 2320,
+      "char_end": 2516,
+      "text": "El yugo de mis rebeliones ha sido atado por su mano; Ataduras han sido echadas sobre mi cerviz; ha debilitado mis fuerzas; Me ha entregado el Señor en manos contra las cuales no podré levantarme."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2516,
+      "char_end": 2693,
+      "text": "El Señor ha hollado a todos mis hombres fuertes en medio de mí; Llamó contra mí compañía para quebrantar a mis jóvenes; Como lagar ha hollado el Señor a la virgen hija de Judá."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2693,
+      "char_end": 2865,
+      "text": "Por esta causa lloro; mis ojos, mis ojos fluyen aguas, Porque se alejó de mí el consolador que dé reposo a mi alma; Mis hijos son destruidos, porque el enemigo prevaleció."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2865,
+      "char_end": 3041,
+      "text": "Sion extendió sus manos; no tiene quien la consuele; Jehová dio mandamiento contra Jacob, que sus vecinos fuesen sus enemigos; Jerusalén fue objeto de abominación entre ellos."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 3041,
+      "char_end": 3190,
+      "text": "Jehová es justo; yo contra su palabra me rebelé. Oíd ahora, pueblos todos, y ved mi dolor; Mis vírgenes y mis jóvenes fueron llevados en cautiverio."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 3190,
+      "char_end": 3348,
+      "text": "Di voces a mis amantes, mas ellos me han engañado; Mis sacerdotes y mis ancianos en la ciudad perecieron, Buscando comida para sí con que entretener su vida."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 3348,
+      "char_end": 3541,
+      "text": "Mira, oh Jehová, estoy atribulada, mis entrañas hierven. Mi corazón se trastorna dentro de mí, porque me rebelé en gran manera. Por fuera hizo estragos la espada; por dentro señoreó la muerte."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 3541,
+      "char_end": 3714,
+      "text": "Oyeron que gemía, mas no hay consolador para mí; Todos mis enemigos han oído mi mal, se alegran de lo que tú hiciste. Harás venir el día que has anunciado, y serán como yo."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3714,
+      "char_end": 3874,
+      "text": "Venga delante de ti toda su maldad, Y haz con ellos como hiciste conmigo por todas mis rebeliones; Porque muchos son mis suspiros, y mi corazón está adolorido."
+    }
+  ],
+  "words": [
+    {
+      "word": "Cómo ha quedado sola la ciudad populosa!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3200,
+      "duration_ms": 3100
+    },
+    {
+      "word": "La grande entre las naciones se ha vuelto como viuda, La señora de provincias ha sido hecha tributaria.",
+      "verse": 1,
+      "start_ms": 3150,
+      "end_ms": 9462,
+      "duration_ms": 6312
+    },
+    {
+      "word": "Amargamente llora en la noche, y sus lágrimas están en sus mejillas.",
+      "verse": 2,
+      "start_ms": 9462,
+      "end_ms": 14387,
+      "duration_ms": 4925
+    },
+    {
+      "word": "No tiene quien la consuele de todos sus amantes; Todos sus amigos le faltaron, se le volvieron enemigos.",
+      "verse": 2,
+      "start_ms": 14387,
+      "end_ms": 21237,
+      "duration_ms": 6850
+    },
+    {
+      "word": "Judá ha ido en cautiverio a causa de la aflicción y de la dura servidumbre; Ella habitó entre las naciones, y no halló descanso; Todos sus perseguidores la alcanzaron entre las estrechuras.",
+      "verse": 3,
+      "start_ms": 21237,
+      "end_ms": 32537,
+      "duration_ms": 11300
+    },
+    {
+      "word": "Las calzadas de Sion tienen luto, porque no hay quien venga a las fiestas solemnes; Todas sus puertas están asoladas, sus sacerdotes gimen, Sus vírgenes están afligidas, y ella tiene amargura.",
+      "verse": 4,
+      "start_ms": 32537,
+      "end_ms": 44749,
+      "duration_ms": 12212
+    },
+    {
+      "word": "Sus enemigos han sido hechos príncipes, sus aborrecedores fueron prosperados, Porque Jehová la afligió por la multitud de sus rebeliones; Sus hijos fueron en cautividad delante del enemigo.",
+      "verse": 5,
+      "start_ms": 44750,
+      "end_ms": 56050,
+      "duration_ms": 11300
+    },
+    {
+      "word": "Desapareció de la hija de Sion toda su hermosura; Sus príncipes fueron como ciervos que no hallan pasto, Y anduvieron sin fuerzas delante del perseguidor.",
+      "verse": 6,
+      "start_ms": 56050,
+      "end_ms": 65100,
+      "duration_ms": 9050
+    },
+    {
+      "word": "Jerusalén, cuando cayó su pueblo en mano del enemigo y no hubo quien la ayudase, Se acordó de los días de su aflicción, y de sus rebeliones, Y de todas las cosas agradables que tuvo desde los tiempos antiguos.",
+      "verse": 7,
+      "start_ms": 65100,
+      "end_ms": 77475,
+      "duration_ms": 12375
+    },
+    {
+      "word": "La miraron los enemigos, y se burlaron de su caída.",
+      "verse": 7,
+      "start_ms": 77475,
+      "end_ms": 81387,
+      "duration_ms": 3912
+    },
+    {
+      "word": "Pecado cometió Jerusalén, por lo cual ella ha sido removida; Todos los que la honraban la han menospreciado, porque vieron su vergüenza; Y ella suspira, y se vuelve atrás.",
+      "verse": 8,
+      "start_ms": 81387,
+      "end_ms": 92299,
+      "duration_ms": 10912
+    },
+    {
+      "word": "Su inmundicia está en sus faldas, y no se acordó de su fin; Por tanto, ella ha descendido sorprendentemente, y no tiene quien la consuele.",
+      "verse": 9,
+      "start_ms": 92300,
+      "end_ms": 101250,
+      "duration_ms": 8950
+    },
+    {
+      "word": "Mira, oh Jehová, mi aflicción, porque el enemigo se ha engrandecido.",
+      "verse": 9,
+      "start_ms": 101250,
+      "end_ms": 106575,
+      "duration_ms": 5325
+    },
+    {
+      "word": "Extendió su mano el enemigo a todas sus cosas preciosas; Ella ha visto entrar en su santuario a las naciones De las cuales mandaste que no entrasen en tu congregación.",
+      "verse": 10,
+      "start_ms": 106575,
+      "end_ms": 115875,
+      "duration_ms": 9300
+    },
+    {
+      "word": "Todo su pueblo buscó su pan suspirando; Dieron por la comida todas sus cosas preciosas, para entretener la vida.",
+      "verse": 11,
+      "start_ms": 115875,
+      "end_ms": 123050,
+      "duration_ms": 7175
+    },
+    {
+      "word": "Mira, oh Jehová, y ve que estoy abatida.",
+      "verse": 11,
+      "start_ms": 123050,
+      "end_ms": 126737,
+      "duration_ms": 3687
+    },
+    {
+      "word": "No os conmueve a cuantos pasáis por el camino?",
+      "verse": 12,
+      "start_ms": 126737,
+      "end_ms": 130187,
+      "duration_ms": 3450
+    },
+    {
+      "word": "Mirad, y ved si hay dolor como mi dolor que me ha venido; Porque Jehová me ha angustiado en el día de su ardiente furor.",
+      "verse": 12,
+      "start_ms": 130187,
+      "end_ms": 137399,
+      "duration_ms": 7212
+    },
+    {
+      "word": "Desde lo alto envió fuego que consume mis huesos; Ha extendido red a mis pies, me volvió atrás, Me dejó desolada, y con dolor todo el día.",
+      "verse": 13,
+      "start_ms": 137400,
+      "end_ms": 146637,
+      "duration_ms": 9237
+    },
+    {
+      "word": "El yugo de mis rebeliones ha sido atado por su mano; Ataduras han sido echadas sobre mi cerviz; ha debilitado mis fuerzas; Me ha entregado el Señor en manos contra las cuales no podré levantarme.",
+      "verse": 14,
+      "start_ms": 146637,
+      "end_ms": 158287,
+      "duration_ms": 11650
+    },
+    {
+      "word": "El Señor ha hollado a todos mis hombres fuertes en medio de mí; Llamó contra mí compañía para quebrantar a mis jóvenes; Como lagar ha hollado el Señor a la virgen hija de Judá.",
+      "verse": 15,
+      "start_ms": 158287,
+      "end_ms": 168437,
+      "duration_ms": 10150
+    },
+    {
+      "word": "Por esta causa lloro; mis ojos, mis ojos fluyen aguas, Porque se alejó de mí el consolador que dé reposo a mi alma; Mis hijos son destruidos, porque el enemigo prevaleció.",
+      "verse": 16,
+      "start_ms": 168437,
+      "end_ms": 179524,
+      "duration_ms": 11087
+    },
+    {
+      "word": "Sion extendió sus manos; no tiene quien la consuele; Jehová dio mandamiento contra Jacob, que sus vecinos fuesen sus enemigos; Jerusalén fue objeto de abominación entre ellos.",
+      "verse": 17,
+      "start_ms": 179525,
+      "end_ms": 190650,
+      "duration_ms": 11125
+    },
+    {
+      "word": "Jehová es justo; yo contra su palabra me rebelé.",
+      "verse": 18,
+      "start_ms": 190650,
+      "end_ms": 194500,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Oíd ahora, pueblos todos, y ved mi dolor; Mis vírgenes y mis jóvenes fueron llevados en cautiverio.",
+      "verse": 18,
+      "start_ms": 194500,
+      "end_ms": 201775,
+      "duration_ms": 7275
+    },
+    {
+      "word": "Di voces a mis amantes, mas ellos me han engañado; Mis sacerdotes y mis ancianos en la ciudad perecieron, Buscando comida para sí con que entretener su vida.",
+      "verse": 19,
+      "start_ms": 201775,
+      "end_ms": 211362,
+      "duration_ms": 9587
+    },
+    {
+      "word": "Mira, oh Jehová, estoy atribulada, mis entrañas hierven.",
+      "verse": 20,
+      "start_ms": 211362,
+      "end_ms": 216074,
+      "duration_ms": 4712
+    },
+    {
+      "word": "Mi corazón se trastorna dentro de mí, porque me rebelé en gran manera.",
+      "verse": 20,
+      "start_ms": 216075,
+      "end_ms": 220925,
+      "duration_ms": 4850
+    },
+    {
+      "word": "Por fuera hizo estragos la espada; por dentro señoreó la muerte.",
+      "verse": 20,
+      "start_ms": 220925,
+      "end_ms": 225287,
+      "duration_ms": 4362
+    },
+    {
+      "word": "Oyeron que gemía, mas no hay consolador para mí; Todos mis enemigos han oído mi mal, se alegran de lo que tú hiciste.",
+      "verse": 21,
+      "start_ms": 225287,
+      "end_ms": 232799,
+      "duration_ms": 7512
+    },
+    {
+      "word": "Harás venir el día que has anunciado, y serán como yo.",
+      "verse": 21,
+      "start_ms": 232800,
+      "end_ms": 236675,
+      "duration_ms": 3875
+    },
+    {
+      "word": "Venga delante de ti toda su maldad, Y haz con ellos como hiciste conmigo por todas mis rebeliones; Porque muchos son mis suspiros, y mi corazón está adolorido.",
+      "verse": 22,
+      "start_ms": 236675,
+      "end_ms": 246737,
+      "duration_ms": 10062
+    }
+  ]
+}

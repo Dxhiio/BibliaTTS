@@ -1,0 +1,173 @@
+{
+  "book": "SAL",
+  "chapter": 32,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 11,
+  "word_count": 12,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 80,
+      "text": "Bienaventurado aquel cuya transgresión ha sido perdonada, y cubierto su pecado."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 80,
+      "char_end": 177,
+      "text": "Bienaventurado el hombre a quien Jehová no culpa de iniquidad, Y en cuyo espíritu no hay engaño."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 177,
+      "char_end": 245,
+      "text": "Mientras callé, se envejecieron mis huesos En mi gemir todo el día."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 245,
+      "char_end": 349,
+      "text": "Porque de día y de noche se agravó sobre mí tu mano; Se volvió mi verdor en sequedades de verano. Selah"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 349,
+      "char_end": 489,
+      "text": "Mi pecado te declaré, y no encubrí mi iniquidad. Dije: Confesaré mis transgresiones a Jehová; Y tú perdonaste la maldad de mi pecado. Selah"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 489,
+      "char_end": 629,
+      "text": "Por esto orará a ti todo santo en el tiempo en que puedas ser hallado; Ciertamente en la inundación de muchas aguas no llegarán éstas a él."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 629,
+      "char_end": 724,
+      "text": "Tú eres mi refugio; me guardarás de la angustia; Con cánticos de liberación me rodearás. Selah"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 724,
+      "char_end": 812,
+      "text": "Te haré entender, y te enseñaré el camino en que debes andar; Sobre ti fijaré mis ojos."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 812,
+      "char_end": 958,
+      "text": "No seáis como el caballo, o como el mulo, sin entendimiento, Que han de ser sujetados con cabestro y con freno, Porque si no, no se acercan a ti."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 958,
+      "char_end": 1049,
+      "text": "Muchos dolores habrá para el impío; Mas al que espera en Jehová, le rodea la misericordia."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1049,
+      "char_end": 1144,
+      "text": "Alegraos en Jehová y gozaos, justos; Y cantad con júbilo todos vosotros los rectos de corazón."
+    }
+  ],
+  "words": [
+    {
+      "word": "Bienaventurado aquel cuya transgresión ha sido perdonada, y cubierto su pecado.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5512,
+      "duration_ms": 5412
+    },
+    {
+      "word": "Bienaventurado el hombre a quien Jehová no culpa de iniquidad, Y en cuyo espíritu no hay engaño.",
+      "verse": 2,
+      "start_ms": 5462,
+      "end_ms": 11374,
+      "duration_ms": 5912
+    },
+    {
+      "word": "Mientras callé, se envejecieron mis huesos En mi gemir todo el día.",
+      "verse": 3,
+      "start_ms": 11375,
+      "end_ms": 16000,
+      "duration_ms": 4625
+    },
+    {
+      "word": "Porque de día y de noche se agravó sobre mí tu mano; Se volvió mi verdor en sequedades de verano.",
+      "verse": 4,
+      "start_ms": 16000,
+      "end_ms": 22000,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Selah Mi pecado te declaré, y no encubrí mi iniquidad.",
+      "verse": 4,
+      "start_ms": 22000,
+      "end_ms": 26200,
+      "duration_ms": 4200
+    },
+    {
+      "word": "Dije: Confesaré mis transgresiones a Jehová; Y tú perdonaste la maldad de mi pecado.",
+      "verse": 5,
+      "start_ms": 26200,
+      "end_ms": 32112,
+      "duration_ms": 5912
+    },
+    {
+      "word": "Selah Por esto orará a ti todo santo en el tiempo en que puedas ser hallado; Ciertamente en la inundación de muchas aguas no llegarán éstas a él.",
+      "verse": 5,
+      "start_ms": 32112,
+      "end_ms": 40349,
+      "duration_ms": 8237
+    },
+    {
+      "word": "Tú eres mi refugio; me guardarás de la angustia; Con cánticos de liberación me rodearás.",
+      "verse": 7,
+      "start_ms": 40350,
+      "end_ms": 46425,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Selah Te haré entender, y te enseñaré el camino en que debes andar; Sobre ti fijaré mis ojos.",
+      "verse": 7,
+      "start_ms": 46425,
+      "end_ms": 52887,
+      "duration_ms": 6462
+    },
+    {
+      "word": "No seáis como el caballo, o como el mulo, sin entendimiento, Que han de ser sujetados con cabestro y con freno, Porque si no, no se acercan a ti.",
+      "verse": 9,
+      "start_ms": 52887,
+      "end_ms": 62112,
+      "duration_ms": 9225
+    },
+    {
+      "word": "Muchos dolores habrá para el impío; Mas al que espera en Jehová, le rodea la misericordia.",
+      "verse": 10,
+      "start_ms": 62112,
+      "end_ms": 68037,
+      "duration_ms": 5925
+    },
+    {
+      "word": "Alegraos en Jehová y gozaos, justos; Y cantad con júbilo todos vosotros los rectos de corazón.",
+      "verse": 11,
+      "start_ms": 68037,
+      "end_ms": 75012,
+      "duration_ms": 6975
+    }
+  ]
+}

@@ -1,0 +1,621 @@
+{
+  "book": "2SA",
+  "chapter": 3,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 39,
+  "word_count": 48,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 177,
+      "text": "Hubo larga guerra entre la casa de Saúl y la casa de David; pero David se iba fortaleciendo, y la casa de Saúl se iba debilitando. Hijos de David nacidos en Hebrón (1 Ch 3.1–4)"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 177,
+      "char_end": 262,
+      "text": "Y nacieron hijos a David en Hebrón; su primogénito fue Amnón, de Ahinoam jezreelita;"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 262,
+      "char_end": 389,
+      "text": "su segundo Quileab, de Abigail la mujer de Nabal el de Carmel; el tercero, Absalón hijo de Maaca, hija de Talmai rey de Gesur;"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 389,
+      "char_end": 460,
+      "text": "el cuarto, Adonías hijo de Haguit; el quinto, Sefatías hijo de Abital;"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 460,
+      "char_end": 571,
+      "text": "el sexto, Itream, de Egla mujer de David. éstos le nacieron a David en Hebrón. Abner pacta con David en Hebrón"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 571,
+      "char_end": 680,
+      "text": "Como había guerra entre la casa de Saúl y la de David, aconteció que Abner se esforzaba por la casa de Saúl."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 680,
+      "char_end": 826,
+      "text": "Y había tenido Saúl una concubina que se llamaba Rizpa, hija de Aja; y dijo Is-boset a Abner: ¿Por qué te has llegado a la concubina de mi padre?"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 826,
+      "char_end": 1127,
+      "text": "Y se enojó Abner en gran manera por las palabras de Is-boset, y dijo: ¿Soy yo cabeza de perro que pertenezca a Judá? Yo he hecho hoy misericordia con la casa de Saúl tu padre, con sus hermanos y con sus amigos, y no te he entregado en mano de David; ¿y tú me haces hoy cargo del pecado de esta mujer?"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1127,
+      "char_end": 1222,
+      "text": "Así haga Dios a Abner y aun le añada, si como ha jurado Jehová a David, no haga yo así con él,"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1222,
+      "char_end": 1348,
+      "text": "trasladando el reino de la casa de Saúl, y confirmando el trono de David sobre Israel y sobre Judá, desde Dan hasta Beerseba."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1348,
+      "char_end": 1405,
+      "text": "Y él no pudo responder palabra a Abner, porque le temía."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1405,
+      "char_end": 1596,
+      "text": "Entonces envió Abner mensajeros a David de su parte, diciendo: ¿De quién es la tierra? Y que le dijesen: Haz pacto conmigo, y he aquí que mi mano estará contigo para volver a ti todo Israel."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1596,
+      "char_end": 1749,
+      "text": "Y David dijo: Bien; haré pacto contigo, mas una cosa te pido: No me vengas a ver sin que primero traigas a Mical la hija de Saúl, cuando vengas a verme."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1749,
+      "char_end": 1908,
+      "text": "Después de esto envió David mensajeros a Is-boset hijo de Saúl, diciendo: Restitúyeme mi mujer Mical, la cual desposé conmigo por cien prepucios de filisteos."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1908,
+      "char_end": 1980,
+      "text": "Entonces Is-boset envió y se la quitó a su marido Paltiel hijo de Lais."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1980,
+      "char_end": 2100,
+      "text": "Y su marido fue con ella, siguiéndola y llorando hasta Bahurim. Y le dijo Abner: Anda, vuélvete. Entonces él se volvió."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2100,
+      "char_end": 2215,
+      "text": "Y habló Abner con los ancianos de Israel, diciendo: Hace ya tiempo procurabais que David fuese rey sobre vosotros."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2215,
+      "char_end": 2398,
+      "text": "Ahora, pues, hacedlo; porque Jehová ha hablado a David, diciendo: Por la mano de mi siervo David libraré a mi pueblo Israel de mano de los filisteos, y de mano de todos sus enemigos."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2398,
+      "char_end": 2553,
+      "text": "Habló también Abner a los de Benjamín; y fue también Abner a Hebrón a decir a David todo lo que parecía bien a los de Israel y a toda la casa de Benjamín."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2553,
+      "char_end": 2679,
+      "text": "Vino, pues, Abner a David en Hebrón, y con él veinte hombres; y David hizo banquete a Abner y a los que con él habían venido."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2679,
+      "char_end": 2903,
+      "text": "Y dijo Abner a David: Yo me levantaré e iré, y juntaré a mi señor el rey a todo Israel, para que hagan contigo pacto, y tú reines como lo desea tu corazón. David despidió luego a Abner, y él se fue en paz. Joab mata a Abner"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2903,
+      "char_end": 3087,
+      "text": "Y he aquí que los siervos de David y Joab venían del campo, y traían consigo gran botín. Mas Abner no estaba con David en Hebrón, pues ya lo había despedido, y él se había ido en paz."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3087,
+      "char_end": 3256,
+      "text": "Y luego que llegó Joab y todo el ejército que con él estaba, fue dado aviso a Joab, diciendo: Abner hijo de Ner ha venido al rey, y él le ha despedido, y se fue en paz."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3256,
+      "char_end": 3376,
+      "text": "Entonces Joab vino al rey, y le dijo: ¿Qué has hecho? He aquí Abner vino a ti; ¿por qué, pues, le dejaste que se fuese?"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3376,
+      "char_end": 3524,
+      "text": "Tú conoces a Abner hijo de Ner. No ha venido sino para engañarte, y para enterarse de tu salida y de tu entrada, y para saber todo lo que tú haces."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3524,
+      "char_end": 3674,
+      "text": "Y saliendo Joab de la presencia de David, envió mensajeros tras Abner, los cuales le hicieron volver desde el pozo de Sira, sin que David lo supiera."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3674,
+      "char_end": 3876,
+      "text": "Y cuando Abner volvió a Hebrón, Joab lo llevó aparte en medio de la puerta para hablar con él en secreto; y allí, en venganza de la muerte de Asael su hermano, le hirió por la quinta costilla, y murió."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3876,
+      "char_end": 4010,
+      "text": "Cuando David supo después esto, dijo: Inocente soy yo y mi reino, delante de Jehová, para siempre, de la sangre de Abner hijo de Ner."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 4010,
+      "char_end": 4223,
+      "text": "Caiga sobre la cabeza de Joab, y sobre toda la casa de su padre; que nunca falte de la casa de Joab quien padezca flujo, ni leproso, ni quien ande con báculo, ni quien muera a espada, ni quien tenga falta de pan."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4223,
+      "char_end": 4351,
+      "text": "Joab, pues, y Abisai su hermano, mataron a Abner, porque él había dado muerte a Asael hermano de ellos en la batalla de Gabaón."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4351,
+      "char_end": 4535,
+      "text": "Entonces dijo David a Joab, y a todo el pueblo que con él estaba: Rasgad vuestros vestidos, y ceñíos de cilicio, y haced duelo delante de Abner. Y el rey David iba detrás del féretro."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4535,
+      "char_end": 4658,
+      "text": "Y sepultaron a Abner en Hebrón; y alzando el rey su voz, lloró junto al sepulcro de Abner; y lloró también todo el pueblo."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4658,
+      "char_end": 4746,
+      "text": "Y endechando el rey al mismo Abner, decía: ¿Había de morir Abner como muere un villano?"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4746,
+      "char_end": 4902,
+      "text": "Tus manos no estaban atadas, ni tus pies ligados con grillos; Caíste como los que caen delante de malos hombres. Y todo el pueblo volvió a llorar sobre él."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4902,
+      "char_end": 5120,
+      "text": "Entonces todo el pueblo vino para persuadir a David que comiera, antes que acabara el día. Mas David juró diciendo: Así me haga Dios y aun me añada, si antes que se ponga el sol gustare yo pan, o cualquiera otra cosa."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 5120,
+      "char_end": 5216,
+      "text": "Todo el pueblo supo esto, y le agradó; pues todo lo que el rey hacía agradaba a todo el pueblo."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 5216,
+      "char_end": 5328,
+      "text": "Y todo el pueblo y todo Israel entendió aquel día, que no había procedido del rey el matar a Abner hijo de Ner."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 5328,
+      "char_end": 5423,
+      "text": "También dijo el rey a sus siervos: ¿No sabéis que un príncipe y grande ha caído hoy en Israel?"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 5423,
+      "char_end": 5580,
+      "text": "Y yo soy débil hoy, aunque ungido rey; y estos hombres, los hijos de Sarvia, son muy duros para mí; Jehová dé el pago al que mal hace, conforme a su maldad."
+    }
+  ],
+  "words": [
+    {
+      "word": "Hubo larga guerra entre la casa de Saúl y la casa de David; pero David se iba fortaleciendo, y la casa de Saúl se iba debilitando.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 8450,
+      "duration_ms": 8350
+    },
+    {
+      "word": "Hijos de David nacidos en Hebrón (1 Ch 3.1–4) Y nacieron hijos a David en Hebrón; su primogénito fue Amnón, de Ahinoam jezreelita; su segundo Quileab, de Abigail la mujer de Nabal el de Carmel; el tercero, Absalón hijo de Maaca, hija de Talmai rey de Gesur; el cuarto, Adonías hijo de Haguit; el quinto, Sefatías hijo de Abital; el sexto, Itream, de Egla mujer de David.",
+      "verse": 1,
+      "start_ms": 8400,
+      "end_ms": 33875,
+      "duration_ms": 25475
+    },
+    {
+      "word": "éstos le nacieron a David en Hebrón.",
+      "verse": 5,
+      "start_ms": 33875,
+      "end_ms": 36575,
+      "duration_ms": 2700
+    },
+    {
+      "word": "Abner pacta con David en Hebrón Como había guerra entre la casa de Saúl y la de David, aconteció que Abner se esforzaba por la casa de Saúl.",
+      "verse": 5,
+      "start_ms": 36575,
+      "end_ms": 44825,
+      "duration_ms": 8250
+    },
+    {
+      "word": "Y había tenido Saúl una concubina que se llamaba Rizpa, hija de Aja; y dijo Is-boset a Abner: ¿Por qué te has llegado a la concubina de mi padre?",
+      "verse": 7,
+      "start_ms": 44825,
+      "end_ms": 54000,
+      "duration_ms": 9175
+    },
+    {
+      "word": "Y se enojó Abner en gran manera por las palabras de Is-boset, y dijo: ¿Soy yo cabeza de perro que pertenezca a Judá?",
+      "verse": 8,
+      "start_ms": 54000,
+      "end_ms": 61712,
+      "duration_ms": 7712
+    },
+    {
+      "word": "Yo he hecho hoy misericordia con la casa de Saúl tu padre, con sus hermanos y con sus amigos, y no te he entregado en mano de David; ¿y tú me haces hoy cargo del pecado de esta mujer?",
+      "verse": 8,
+      "start_ms": 61712,
+      "end_ms": 73124,
+      "duration_ms": 11412
+    },
+    {
+      "word": "Así haga Dios a Abner y aun le añada, si como ha jurado Jehová a David, no haga yo así con él, trasladando el reino de la casa de Saúl, y confirmando el trono de David sobre Israel y sobre Judá, desde Dan hasta Beerseba.",
+      "verse": 9,
+      "start_ms": 73125,
+      "end_ms": 86675,
+      "duration_ms": 13550
+    },
+    {
+      "word": "Y él no pudo responder palabra a Abner, porque le temía.",
+      "verse": 11,
+      "start_ms": 86675,
+      "end_ms": 90825,
+      "duration_ms": 4150
+    },
+    {
+      "word": "Entonces envió Abner mensajeros a David de su parte, diciendo: ¿De quién es la tierra?",
+      "verse": 12,
+      "start_ms": 90825,
+      "end_ms": 96725,
+      "duration_ms": 5900
+    },
+    {
+      "word": "Y que le dijesen: Haz pacto conmigo, y he aquí que mi mano estará contigo para volver a ti todo Israel.",
+      "verse": 12,
+      "start_ms": 96725,
+      "end_ms": 103650,
+      "duration_ms": 6925
+    },
+    {
+      "word": "Y David dijo: Bien; haré pacto contigo, mas una cosa te pido: No me vengas a ver sin que primero traigas a Mical la hija de Saúl, cuando vengas a verme.",
+      "verse": 13,
+      "start_ms": 103650,
+      "end_ms": 113637,
+      "duration_ms": 9987
+    },
+    {
+      "word": "Después de esto envió David mensajeros a Is-boset hijo de Saúl, diciendo: Restitúyeme mi mujer Mical, la cual desposé conmigo por cien prepucios de filisteos.",
+      "verse": 14,
+      "start_ms": 113637,
+      "end_ms": 123724,
+      "duration_ms": 10087
+    },
+    {
+      "word": "Entonces Is-boset envió y se la quitó a su marido Paltiel hijo de Lais.",
+      "verse": 15,
+      "start_ms": 123725,
+      "end_ms": 128475,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Y su marido fue con ella, siguiéndola y llorando hasta Bahurim.",
+      "verse": 16,
+      "start_ms": 128475,
+      "end_ms": 132825,
+      "duration_ms": 4350
+    },
+    {
+      "word": "Y le dijo Abner: Anda, vuélvete.",
+      "verse": 16,
+      "start_ms": 132825,
+      "end_ms": 136150,
+      "duration_ms": 3325
+    },
+    {
+      "word": "Entonces él se volvió.",
+      "verse": 16,
+      "start_ms": 136150,
+      "end_ms": 138350,
+      "duration_ms": 2200
+    },
+    {
+      "word": "Y habló Abner con los ancianos de Israel, diciendo: Hace ya tiempo procurabais que David fuese rey sobre vosotros.",
+      "verse": 17,
+      "start_ms": 138350,
+      "end_ms": 145900,
+      "duration_ms": 7550
+    },
+    {
+      "word": "Ahora, pues, hacedlo; porque Jehová ha hablado a David, diciendo: Por la mano de mi siervo David libraré a mi pueblo Israel de mano de los filisteos, y de mano de todos sus enemigos.",
+      "verse": 18,
+      "start_ms": 145900,
+      "end_ms": 157900,
+      "duration_ms": 12000
+    },
+    {
+      "word": "Habló también Abner a los de Benjamín; y fue también Abner a Hebrón a decir a David todo lo que parecía bien a los de Israel y a toda la casa de Benjamín.",
+      "verse": 19,
+      "start_ms": 157900,
+      "end_ms": 166412,
+      "duration_ms": 8512
+    },
+    {
+      "word": "Vino, pues, Abner a David en Hebrón, y con él veinte hombres; y David hizo banquete a Abner y a los que con él habían venido.",
+      "verse": 20,
+      "start_ms": 166412,
+      "end_ms": 174599,
+      "duration_ms": 8187
+    },
+    {
+      "word": "Y dijo Abner a David: Yo me levantaré e iré, y juntaré a mi señor el rey a todo Israel, para que hagan contigo pacto, y tú reines como lo desea tu corazón.",
+      "verse": 21,
+      "start_ms": 174600,
+      "end_ms": 184812,
+      "duration_ms": 10212
+    },
+    {
+      "word": "David despidió luego a Abner, y él se fue en paz.",
+      "verse": 21,
+      "start_ms": 184812,
+      "end_ms": 188849,
+      "duration_ms": 4037
+    },
+    {
+      "word": "Joab mata a Abner Y he aquí que los siervos de David y Joab venían del campo, y traían consigo gran botín.",
+      "verse": 21,
+      "start_ms": 188850,
+      "end_ms": 195700,
+      "duration_ms": 6850
+    },
+    {
+      "word": "Mas Abner no estaba con David en Hebrón, pues ya lo había despedido, y él se había ido en paz.",
+      "verse": 22,
+      "start_ms": 195700,
+      "end_ms": 201975,
+      "duration_ms": 6275
+    },
+    {
+      "word": "Y luego que llegó Joab y todo el ejército que con él estaba, fue dado aviso a Joab, diciendo: Abner hijo de Ner ha venido al rey, y él le ha despedido, y se fue en paz.",
+      "verse": 23,
+      "start_ms": 201975,
+      "end_ms": 212612,
+      "duration_ms": 10637
+    },
+    {
+      "word": "Entonces Joab vino al rey, y le dijo: ¿Qué has hecho?",
+      "verse": 24,
+      "start_ms": 212612,
+      "end_ms": 216824,
+      "duration_ms": 4212
+    },
+    {
+      "word": "He aquí Abner vino a ti; ¿por qué, pues, le dejaste que se fuese?",
+      "verse": 24,
+      "start_ms": 216825,
+      "end_ms": 222075,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Tú conoces a Abner hijo de Ner.",
+      "verse": 25,
+      "start_ms": 222075,
+      "end_ms": 224800,
+      "duration_ms": 2725
+    },
+    {
+      "word": "No ha venido sino para engañarte, y para enterarse de tu salida y de tu entrada, y para saber todo lo que tú haces.",
+      "verse": 25,
+      "start_ms": 224800,
+      "end_ms": 232125,
+      "duration_ms": 7325
+    },
+    {
+      "word": "Y saliendo Joab de la presencia de David, envió mensajeros tras Abner, los cuales le hicieron volver desde el pozo de Sira, sin que David lo supiera.",
+      "verse": 26,
+      "start_ms": 232125,
+      "end_ms": 241075,
+      "duration_ms": 8950
+    },
+    {
+      "word": "Y cuando Abner volvió a Hebrón, Joab lo llevó aparte en medio de la puerta para hablar con él en secreto; y allí, en venganza de la muerte de Asael su hermano, le hirió por la quinta costilla, y murió.",
+      "verse": 27,
+      "start_ms": 241075,
+      "end_ms": 252787,
+      "duration_ms": 11712
+    },
+    {
+      "word": "Cuando David supo después esto, dijo: Inocente soy yo y mi reino, delante de Jehová, para siempre, de la sangre",
+      "verse": 28,
+      "start_ms": 252787,
+      "end_ms": 260899,
+      "duration_ms": 8112
+    },
+    {
+      "word": "de Abner hijo de Ner.",
+      "verse": 28,
+      "start_ms": 261052,
+      "end_ms": 263189,
+      "duration_ms": 2137
+    },
+    {
+      "word": "Caiga sobre la cabeza de Joab, y sobre toda la casa de su padre; que nunca falte de la casa de Joab quien padezca flujo, ni leproso, ni quien ande con báculo, ni quien muera a espada, ni quien tenga falta de pan.",
+      "verse": 29,
+      "start_ms": 263139,
+      "end_ms": 275989,
+      "duration_ms": 12850
+    },
+    {
+      "word": "Joab, pues, y Abisai su hermano, mataron a Abner, porque él había dado muerte a Asael hermano de ellos en la batalla de Gabaón.",
+      "verse": 30,
+      "start_ms": 275989,
+      "end_ms": 284501,
+      "duration_ms": 8512
+    },
+    {
+      "word": "Entonces dijo David a Joab, y a todo el pueblo que con él estaba: Rasgad vuestros vestidos, y ceñíos de cilicio, y haced duelo delante de Abner.",
+      "verse": 31,
+      "start_ms": 284502,
+      "end_ms": 293989,
+      "duration_ms": 9487
+    },
+    {
+      "word": "Y el rey David iba detrás del féretro.",
+      "verse": 31,
+      "start_ms": 293989,
+      "end_ms": 297001,
+      "duration_ms": 3012
+    },
+    {
+      "word": "Y sepultaron a Abner en Hebrón; y alzando el rey su voz, lloró junto al sepulcro de Abner; y lloró también todo el pueblo.",
+      "verse": 32,
+      "start_ms": 297002,
+      "end_ms": 304827,
+      "duration_ms": 7825
+    },
+    {
+      "word": "Y endechando el rey al mismo Abner, decía: ¿Había de morir Abner como muere un villano?",
+      "verse": 33,
+      "start_ms": 304827,
+      "end_ms": 310939,
+      "duration_ms": 6112
+    },
+    {
+      "word": "Tus manos no estaban atadas, ni tus pies ligados con grillos; Caíste como los que caen delante de malos hombres.",
+      "verse": 34,
+      "start_ms": 310939,
+      "end_ms": 318426,
+      "duration_ms": 7487
+    },
+    {
+      "word": "Y todo el pueblo volvió a llorar sobre él.",
+      "verse": 34,
+      "start_ms": 318427,
+      "end_ms": 321589,
+      "duration_ms": 3162
+    },
+    {
+      "word": "Entonces todo el pueblo vino para persuadir a David que comiera, antes que acabara el día.",
+      "verse": 35,
+      "start_ms": 321589,
+      "end_ms": 327201,
+      "duration_ms": 5612
+    },
+    {
+      "word": "Mas David juró diciendo: Así me haga Dios y aun me añada, si antes que se ponga el sol gustare yo pan, o cualquiera otra cosa.",
+      "verse": 35,
+      "start_ms": 327202,
+      "end_ms": 335427,
+      "duration_ms": 8225
+    },
+    {
+      "word": "Todo el pueblo supo esto, y le agradó; pues todo lo que el rey hacía agradaba a todo el pueblo.",
+      "verse": 36,
+      "start_ms": 335427,
+      "end_ms": 341789,
+      "duration_ms": 6362
+    },
+    {
+      "word": "Y todo el pueblo y todo Israel entendió aquel día, que no había procedido del rey el matar a Abner hijo de Ner.",
+      "verse": 37,
+      "start_ms": 341789,
+      "end_ms": 348739,
+      "duration_ms": 6950
+    },
+    {
+      "word": "También dijo el rey a sus siervos: ¿No sabéis que un príncipe y grande ha caído hoy en Israel?",
+      "verse": 38,
+      "start_ms": 348739,
+      "end_ms": 354739,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Y yo soy débil hoy, aunque ungido rey; y estos hombres, los hijos de Sarvia, son muy duros para mí; Jehová dé el pago al que mal hace, conforme a su maldad.",
+      "verse": 39,
+      "start_ms": 354739,
+      "end_ms": 365164,
+      "duration_ms": 10425
+    }
+  ]
+}

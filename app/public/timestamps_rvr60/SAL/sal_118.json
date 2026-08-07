@@ -1,0 +1,418 @@
+{
+  "book": "SAL",
+  "chapter": 118,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 29,
+  "word_count": 29,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 77,
+      "text": "Alabad a Jehová, porque él es bueno; Porque para siempre es su misericordia."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 77,
+      "char_end": 133,
+      "text": "Diga ahora Israel, Que para siempre es su misericordia."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 133,
+      "char_end": 199,
+      "text": "Diga ahora la casa de Aarón, Que para siempre es su misericordia."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 199,
+      "char_end": 272,
+      "text": "Digan ahora los que temen a Jehová, Que para siempre es su misericordia."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 272,
+      "char_end": 356,
+      "text": "Desde la angustia invoqué a JAH, Y me respondió JAH, poniéndome en lugar espacioso."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 356,
+      "char_end": 420,
+      "text": "Jehová está conmigo; no temeré Lo que me pueda hacer el hombre."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 420,
+      "char_end": 518,
+      "text": "Jehová está conmigo entre los que me ayudan; Por tanto, yo veré mi deseo en los que me aborrecen."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 518,
+      "char_end": 571,
+      "text": "Mejor es confiar en Jehová Que confiar en el hombre."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 571,
+      "char_end": 624,
+      "text": "Mejor es confiar en Jehová Que confiar en príncipes."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 624,
+      "char_end": 701,
+      "text": "Todas las naciones me rodearon; Mas en el nombre de Jehová yo las destruiré."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 701,
+      "char_end": 774,
+      "text": "Me rodearon y me asediaron; Mas en el nombre de Jehová yo las destruiré."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 774,
+      "char_end": 883,
+      "text": "Me rodearon como abejas; se enardecieron como fuego de espinos; Mas en el nombre de Jehová yo las destruiré."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 883,
+      "char_end": 949,
+      "text": "Me empujaste con violencia para que cayese, Pero me ayudó Jehová."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 949,
+      "char_end": 1014,
+      "text": "Mi fortaleza y mi cántico es JAH, Y él me ha sido por salvación."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1014,
+      "char_end": 1112,
+      "text": "Voz de júbilo y de salvación hay en las tiendas de los justos; La diestra de Jehová hace proezas."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1112,
+      "char_end": 1182,
+      "text": "La diestra de Jehová es sublime; La diestra de Jehová hace valentías."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1182,
+      "char_end": 1238,
+      "text": "No moriré, sino que viviré, Y contaré las obras de JAH."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1238,
+      "char_end": 1296,
+      "text": "Me castigó gravemente JAH, Mas no me entregó a la muerte."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1296,
+      "char_end": 1366,
+      "text": "Abridme las puertas de la justicia; Entraré por ellas, alabaré a JAH."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1366,
+      "char_end": 1422,
+      "text": "Ésta es puerta de Jehová; Por ella entrarán los justos."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1422,
+      "char_end": 1480,
+      "text": "Te alabaré porque me has oído, Y me fuiste por salvación."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1480,
+      "char_end": 1557,
+      "text": "La piedra que desecharon los edificadores Ha venido a ser cabeza del ángulo."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1557,
+      "char_end": 1624,
+      "text": "De parte de Jehová es esto, Y es cosa maravillosa a nuestros ojos."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1624,
+      "char_end": 1691,
+      "text": "Éste es el día que hizo Jehová; Nos gozaremos y alegraremos en él."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1691,
+      "char_end": 1780,
+      "text": "Oh Jehová, sálvanos ahora, te ruego; Te ruego, oh Jehová, que nos hagas prosperar ahora."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 1780,
+      "char_end": 1864,
+      "text": "Bendito el que viene en el nombre de Jehová; Desde la casa de Jehová os bendecimos."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 1864,
+      "char_end": 1950,
+      "text": "Jehová es Dios, y nos ha dado luz; Atad víctimas con cuerdas a los cuernos del altar."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 1950,
+      "char_end": 2004,
+      "text": "Mi Dios eres tú, y te alabaré; Dios mío, te exaltaré."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2004,
+      "char_end": 2081,
+      "text": "Alabad a Jehová, porque él es bueno; Porque para siempre es su misericordia."
+    }
+  ],
+  "words": [
+    {
+      "word": "Alabad a Jehová, porque él es bueno; Porque para siempre es su misericordia.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5587,
+      "duration_ms": 5487
+    },
+    {
+      "word": "Diga ahora Israel, Que para siempre es su misericordia.",
+      "verse": 2,
+      "start_ms": 5537,
+      "end_ms": 9737,
+      "duration_ms": 4200
+    },
+    {
+      "word": "Diga ahora la casa de Aarón, Que para siempre es su misericordia.",
+      "verse": 3,
+      "start_ms": 9737,
+      "end_ms": 14262,
+      "duration_ms": 4525
+    },
+    {
+      "word": "Digan ahora los que temen a Jehová, Que para siempre es su misericordia.",
+      "verse": 4,
+      "start_ms": 14262,
+      "end_ms": 19087,
+      "duration_ms": 4825
+    },
+    {
+      "word": "Desde la angustia invoqué a JAH, Y me respondió JAH, poniéndome en lugar espacioso.",
+      "verse": 5,
+      "start_ms": 19087,
+      "end_ms": 25837,
+      "duration_ms": 6750
+    },
+    {
+      "word": "Jehová está conmigo; no temeré Lo que me pueda hacer el hombre.",
+      "verse": 6,
+      "start_ms": 25837,
+      "end_ms": 30024,
+      "duration_ms": 4187
+    },
+    {
+      "word": "Jehová está conmigo entre los que me ayudan; Por tanto, yo veré mi deseo en los que me aborrecen.",
+      "verse": 7,
+      "start_ms": 30025,
+      "end_ms": 36312,
+      "duration_ms": 6287
+    },
+    {
+      "word": "Mejor es confiar en Jehová Que confiar en el hombre.",
+      "verse": 8,
+      "start_ms": 36312,
+      "end_ms": 39649,
+      "duration_ms": 3337
+    },
+    {
+      "word": "Mejor es confiar en Jehová Que confiar en príncipes.",
+      "verse": 9,
+      "start_ms": 39650,
+      "end_ms": 43237,
+      "duration_ms": 3587
+    },
+    {
+      "word": "Todas las naciones me rodearon; Mas en el nombre de Jehová yo las destruiré.",
+      "verse": 10,
+      "start_ms": 43237,
+      "end_ms": 48099,
+      "duration_ms": 4862
+    },
+    {
+      "word": "Me rodearon y me asediaron; Mas en el nombre de Jehová yo las destruiré.",
+      "verse": 11,
+      "start_ms": 48100,
+      "end_ms": 52875,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Me rodearon como abejas; se enardecieron como fuego de espinos; Mas en el nombre de Jehová yo las destruiré.",
+      "verse": 12,
+      "start_ms": 52875,
+      "end_ms": 59887,
+      "duration_ms": 7012
+    },
+    {
+      "word": "Me empujaste con violencia para que cayese, Pero me ayudó Jehová.",
+      "verse": 13,
+      "start_ms": 59887,
+      "end_ms": 64337,
+      "duration_ms": 4450
+    },
+    {
+      "word": "Mi fortaleza y mi cántico es JAH, Y él me ha sido por salvación.",
+      "verse": 14,
+      "start_ms": 64337,
+      "end_ms": 69487,
+      "duration_ms": 5150
+    },
+    {
+      "word": "Voz de júbilo y de salvación hay en las tiendas de los justos; La diestra de Jehová hace proezas.",
+      "verse": 15,
+      "start_ms": 69487,
+      "end_ms": 75849,
+      "duration_ms": 6362
+    },
+    {
+      "word": "La diestra de Jehová es sublime; La diestra de Jehová hace valentías.",
+      "verse": 16,
+      "start_ms": 75850,
+      "end_ms": 80762,
+      "duration_ms": 4912
+    },
+    {
+      "word": "No moriré, sino que viviré, Y contaré las obras de JAH.",
+      "verse": 17,
+      "start_ms": 80762,
+      "end_ms": 85699,
+      "duration_ms": 4937
+    },
+    {
+      "word": "Me castigó gravemente JAH, Mas no me entregó a la muerte.",
+      "verse": 18,
+      "start_ms": 85700,
+      "end_ms": 90275,
+      "duration_ms": 4575
+    },
+    {
+      "word": "Abridme las puertas de la justicia; Entraré por ellas, alabaré a JAH.",
+      "verse": 19,
+      "start_ms": 90275,
+      "end_ms": 95925,
+      "duration_ms": 5650
+    },
+    {
+      "word": "Ésta es puerta de Jehová; Por ella entrarán los justos.",
+      "verse": 20,
+      "start_ms": 95925,
+      "end_ms": 100012,
+      "duration_ms": 4087
+    },
+    {
+      "word": "Te alabaré porque me has oído, Y me fuiste por salvación.",
+      "verse": 21,
+      "start_ms": 100012,
+      "end_ms": 104099,
+      "duration_ms": 4087
+    },
+    {
+      "word": "La piedra que desecharon los edificadores Ha venido a ser cabeza del ángulo.",
+      "verse": 22,
+      "start_ms": 104100,
+      "end_ms": 108950,
+      "duration_ms": 4850
+    },
+    {
+      "word": "De parte de Jehová es esto, Y es cosa maravillosa a nuestros ojos.",
+      "verse": 23,
+      "start_ms": 108950,
+      "end_ms": 113912,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Éste es el día que hizo Jehová; Nos gozaremos y alegraremos en él.",
+      "verse": 24,
+      "start_ms": 113912,
+      "end_ms": 118799,
+      "duration_ms": 4887
+    },
+    {
+      "word": "Oh Jehová, sálvanos ahora, te ruego; Te ruego, oh Jehová, que nos hagas prosperar ahora.",
+      "verse": 25,
+      "start_ms": 118800,
+      "end_ms": 125800,
+      "duration_ms": 7000
+    },
+    {
+      "word": "Bendito el que viene en el nombre de Jehová; Desde la casa de Jehová os bendecimos.",
+      "verse": 26,
+      "start_ms": 125800,
+      "end_ms": 131500,
+      "duration_ms": 5700
+    },
+    {
+      "word": "Jehová es Dios, y nos ha dado luz; Atad víctimas con cuerdas a los cuernos del altar.",
+      "verse": 27,
+      "start_ms": 131500,
+      "end_ms": 137612,
+      "duration_ms": 6112
+    },
+    {
+      "word": "Mi Dios eres tú, y te alabaré; Dios mío, te exaltaré.",
+      "verse": 28,
+      "start_ms": 137612,
+      "end_ms": 142324,
+      "duration_ms": 4712
+    },
+    {
+      "word": "Alabad a Jehová, porque él es bueno; Porque para siempre es su misericordia.",
+      "verse": 29,
+      "start_ms": 142325,
+      "end_ms": 147812,
+      "duration_ms": 5487
+    }
+  ]
+}

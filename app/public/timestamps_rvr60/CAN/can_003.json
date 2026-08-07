@@ -1,0 +1,166 @@
+{
+  "book": "CAN",
+  "chapter": 3,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 11,
+  "word_count": 11,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 80,
+      "text": "Por las noches busqué en mi lecho al que ama mi alma; Lo busqué, y no lo hallé."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 80,
+      "char_end": 219,
+      "text": "Y dije: Me levantaré ahora, y rodearé por la ciudad; Por las calles y por las plazas Buscaré al que ama mi alma; Lo busqué, y no lo hallé."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 219,
+      "char_end": 311,
+      "text": "Me hallaron los guardas que rondan la ciudad, Y les dije: ¿Habéis visto al que ama mi alma?"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 311,
+      "char_end": 480,
+      "text": "Apenas hube pasado de ellos un poco, Hallé luego al que ama mi alma; Lo así, y no lo dejé, Hasta que lo metí en casa de mi madre, Y en la cámara de la que me dio a luz."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 480,
+      "char_end": 647,
+      "text": "Yo os conjuro, oh doncellas de Jerusalén, Por los corzos y por las ciervas del campo, Que no despertéis ni hagáis velar al amor, Hasta que quiera. El cortejo de bodas"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 647,
+      "char_end": 765,
+      "text": "¿Quién es ésta que sube del desierto como columna de humo, Sahumada de mirra y de incienso Y de todo polvo aromático?"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 765,
+      "char_end": 853,
+      "text": "He aquí es la litera de Salomón; Sesenta valientes la rodean, De los fuertes de Israel."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 853,
+      "char_end": 968,
+      "text": "Todos ellos tienen espadas, diestros en la guerra; Cada uno su espada sobre su muslo, Por los temores de la noche."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 968,
+      "char_end": 1025,
+      "text": "El rey Salomón se hizo una carroza De madera del Líbano."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1025,
+      "char_end": 1155,
+      "text": "Hizo sus columnas de plata, Su respaldo de oro, Su asiento de grana, Su interior recamado de amor Por las doncellas de Jerusalén."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1155,
+      "char_end": 1307,
+      "text": "Salid, oh doncellas de Sion, y ved al rey Salomón Con la corona con que le coronó su madre en el día de su desposorio, Y el día del gozo de su corazón."
+    }
+  ],
+  "words": [
+    {
+      "word": "Por las noches busqué en mi lecho al que ama mi alma; Lo busqué, y no lo hallé.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5325,
+      "duration_ms": 5225
+    },
+    {
+      "word": "Y dije: Me levantaré ahora, y rodearé por la ciudad; Por las calles y por las plazas Buscaré al que ama mi alma; Lo busqué, y no lo hallé.",
+      "verse": 2,
+      "start_ms": 5275,
+      "end_ms": 14575,
+      "duration_ms": 9300
+    },
+    {
+      "word": "Me hallaron los guardas que rondan la ciudad, Y les dije: ¿Habéis visto al que ama mi alma?",
+      "verse": 3,
+      "start_ms": 14575,
+      "end_ms": 20337,
+      "duration_ms": 5762
+    },
+    {
+      "word": "Apenas hube pasado de ellos un poco, Hallé luego al que ama mi alma; Lo así, y no lo dejé, Hasta que lo metí en casa de mi madre, Y en la cámara de la que me dio a luz.",
+      "verse": 4,
+      "start_ms": 20337,
+      "end_ms": 30974,
+      "duration_ms": 10637
+    },
+    {
+      "word": "Yo os conjuro, oh doncellas de Jerusalén, Por los corzos y por las ciervas del campo, Que no despertéis ni hagáis velar al amor, Hasta que quiera.",
+      "verse": 5,
+      "start_ms": 30975,
+      "end_ms": 39962,
+      "duration_ms": 8987
+    },
+    {
+      "word": "El cortejo de bodas ¿Quién es ésta que sube del desierto como columna de humo, Sahumada de mirra y de incienso Y de todo polvo aromático?",
+      "verse": 5,
+      "start_ms": 39962,
+      "end_ms": 48287,
+      "duration_ms": 8325
+    },
+    {
+      "word": "He aquí es la litera de Salomón; Sesenta valientes la rodean, De los fuertes de Israel.",
+      "verse": 7,
+      "start_ms": 48287,
+      "end_ms": 54349,
+      "duration_ms": 6062
+    },
+    {
+      "word": "Todos ellos tienen espadas, diestros en la guerra; Cada uno su espada sobre su muslo, Por los temores de la noche.",
+      "verse": 8,
+      "start_ms": 54350,
+      "end_ms": 61875,
+      "duration_ms": 7525
+    },
+    {
+      "word": "El rey Salomón se hizo una carroza De madera del Líbano.",
+      "verse": 9,
+      "start_ms": 61875,
+      "end_ms": 65875,
+      "duration_ms": 4000
+    },
+    {
+      "word": "Hizo sus columnas de plata, Su respaldo de oro, Su asiento de grana, Su interior recamado de amor Por las doncellas de Jerusalén.",
+      "verse": 10,
+      "start_ms": 65875,
+      "end_ms": 74100,
+      "duration_ms": 8225
+    },
+    {
+      "word": "Salid, oh doncellas de Sion, y ved al rey Salomón Con la corona con que le coronó su madre en el día de su desposorio, Y el día del gozo de su corazón.",
+      "verse": 11,
+      "start_ms": 74100,
+      "end_ms": 83475,
+      "duration_ms": 9375
+    }
+  ]
+}

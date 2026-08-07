@@ -1,0 +1,621 @@
+{
+  "book": "MAT",
+  "chapter": 26,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 46,
+  "word_count": 41,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 119,
+      "text": "Entonces el reino de los cielos será semejante a diez vírgenes que tomando sus lámparas, salieron a recibir al esposo."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 119,
+      "char_end": 169,
+      "text": "Cinco de ellas eran prudentes y cinco insensatas."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 169,
+      "char_end": 234,
+      "text": "Las insensatas, tomando sus lámparas, no tomaron consigo aceite;"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 234,
+      "char_end": 312,
+      "text": "mas las prudentes tomaron aceite en sus vasijas, juntamente con sus lámparas."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 312,
+      "char_end": 369,
+      "text": "Y tardándose el esposo, cabecearon todas y se durmieron."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 369,
+      "char_end": 447,
+      "text": "Y a la medianoche se oyó un clamor: ¡Aquí viene el esposo; salid a recibirle!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 447,
+      "char_end": 522,
+      "text": "Entonces todas aquellas vírgenes se levantaron, y arreglaron sus lámparas."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 522,
+      "char_end": 626,
+      "text": "Y las insensatas dijeron a las prudentes: Dadnos de vuestro aceite; porque nuestras lámparas se apagan."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 626,
+      "char_end": 776,
+      "text": "Mas las prudentes respondieron diciendo: Para que no nos falte a nosotras y a vosotras, id más bien a los que venden, y comprad para vosotras mismas."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 776,
+      "char_end": 908,
+      "text": "Pero mientras ellas iban a comprar, vino el esposo; y las que estaban preparadas entraron con él a las bodas; y se cerró la puerta."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 908,
+      "char_end": 987,
+      "text": "Después vinieron también las otras vírgenes, diciendo: ¡Señor, señor, ábrenos!"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 987,
+      "char_end": 1053,
+      "text": "Mas él, respondiendo, dijo: De cierto os digo, que no os conozco."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1053,
+      "char_end": 1165,
+      "text": "Velad, pues, porque no sabéis el día ni la hora en que el Hijo del Hombre ha de venir. Parábola de los talentos"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1165,
+      "char_end": 1278,
+      "text": "Porque el reino de los cielos es como un hombre que yéndose lejos, llamó a sus siervos y les entregó sus bienes."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1278,
+      "char_end": 1390,
+      "text": "A uno dio cinco talentos, y a otro dos, y a otro uno, a cada uno conforme a su capacidad; y luego se fue lejos."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1390,
+      "char_end": 1483,
+      "text": "Y el que había recibido cinco talentos fue y negoció con ellos, y ganó otros cinco talentos."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1483,
+      "char_end": 1543,
+      "text": "Asimismo el que había recibido dos, ganó también otros dos."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1543,
+      "char_end": 1633,
+      "text": "Pero el que había recibido uno fue y cavó en la tierra, y escondió el dinero de su señor."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1633,
+      "char_end": 1721,
+      "text": "Después de mucho tiempo vino el señor de aquellos siervos, y arregló cuentas con ellos."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1721,
+      "char_end": 1902,
+      "text": "Y llegando el que había recibido cinco talentos, trajo otros cinco talentos, diciendo: Señor, cinco talentos me entregaste; aquí tienes, he ganado otros cinco talentos sobre ellos."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1902,
+      "char_end": 2027,
+      "text": "Y su señor le dijo: Bien, buen siervo y fiel; sobre poco has sido fiel, sobre mucho te pondré; entra en el gozo de tu señor."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2027,
+      "char_end": 2176,
+      "text": "Llegando también el que había recibido dos talentos, dijo: Señor, dos talentos me entregaste; aquí tienes, he ganado otros dos talentos sobre ellos."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2176,
+      "char_end": 2299,
+      "text": "Su señor le dijo: Bien, buen siervo y fiel; sobre poco has sido fiel, sobre mucho te pondré; entra en el gozo de tu señor."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2299,
+      "char_end": 2462,
+      "text": "Pero llegando también el que había recibido un talento, dijo: Señor, te conocía que eres hombre duro, que siegas donde no sembraste y recoges donde no esparciste;"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2462,
+      "char_end": 2555,
+      "text": "por lo cual tuve miedo, y fui y escondí tu talento en la tierra; aquí tienes lo que es tuyo."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2555,
+      "char_end": 2678,
+      "text": "Respondiendo su señor, le dijo: Siervo malo y negligente, sabías que siego donde no sembré, y que recojo donde no esparcí."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2678,
+      "char_end": 2799,
+      "text": "Por tanto, debías haber dado mi dinero a los banqueros, y al venir yo, hubiera recibido lo que es mío con los intereses."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2799,
+      "char_end": 2863,
+      "text": "Quitadle, pues, el talento, y dadlo al que tiene diez talentos."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2863,
+      "char_end": 2965,
+      "text": "Porque al que tiene, le será dado, y tendrá más; y al que no tiene, aun lo que tiene le será quitado."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2965,
+      "char_end": 3090,
+      "text": "Y al siervo inútil echadle en las tinieblas de afuera; allí será el lloro y el crujir de dientes., El juicio de las naciones"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3090,
+      "char_end": 3214,
+      "text": "Cuando el Hijo del Hombre venga en su gloria, y todos los santos ángeles con él, entonces se sentará en su trono de gloria,"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3214,
+      "char_end": 3349,
+      "text": "y serán reunidas delante de él todas las naciones; y apartará los unos de los otros, como aparta el pastor las ovejas de los cabritos."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3349,
+      "char_end": 3414,
+      "text": "Y pondrá las ovejas a su derecha, y los cabritos a su izquierda."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3414,
+      "char_end": 3556,
+      "text": "Entonces el Rey dirá a los de su derecha: Venid, benditos de mi Padre, heredad el reino preparado para vosotros desde la fundación del mundo."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3556,
+      "char_end": 3665,
+      "text": "Porque tuve hambre, y me disteis de comer; tuve sed, y me disteis de beber; fui forastero, y me recogisteis;"
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3665,
+      "char_end": 3757,
+      "text": "estuve desnudo, y me cubristeis; enfermo, y me visitasteis; en la cárcel, y vinisteis a mí."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3757,
+      "char_end": 3889,
+      "text": "Entonces los justos le responderán diciendo: Señor, ¿cuándo te vimos hambriento, y te sustentamos, o sediento, y te dimos de beber?"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 3889,
+      "char_end": 3961,
+      "text": "¿Y cuándo te vimos forastero, y te recogimos, o desnudo, y te cubrimos?"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 3961,
+      "char_end": 4021,
+      "text": "¿O cuándo te vimos enfermo, o en la cárcel, y vinimos a ti?"
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4021,
+      "char_end": 4160,
+      "text": "Y respondiendo el Rey, les dirá: De cierto os digo que en cuanto lo hicisteis a uno de estos mis hermanos más pequeños, a mí lo hicisteis."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4160,
+      "char_end": 4287,
+      "text": "Entonces dirá también a los de la izquierda: Apartaos de mí, malditos, al fuego eterno preparado para el diablo y sus ángeles."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4287,
+      "char_end": 4369,
+      "text": "Porque tuve hambre, y no me disteis de comer; tuve sed, y no me disteis de beber;"
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4369,
+      "char_end": 4487,
+      "text": "fui forastero, y no me recogisteis; estuve desnudo, y no me cubristeis; enfermo, y en la cárcel, y no me visitasteis."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 4487,
+      "char_end": 4644,
+      "text": "Entonces también ellos le responderán diciendo: Señor, ¿cuándo te vimos hambriento, sediento, forastero, desnudo, enfermo, o en la cárcel, y no te servimos?"
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 4644,
+      "char_end": 4782,
+      "text": "Entonces les responderá diciendo: De cierto os digo que en cuanto no lo hicisteis a uno de estos más pequeños, tampoco a mí lo hicisteis."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 4782,
+      "char_end": 4845,
+      "text": "E irán éstos al castigo eterno, y los justos a la vida eterna."
+    }
+  ],
+  "words": [
+    {
+      "word": "Entonces el reino de los cielos será semejante a diez vírgenes que tomando sus lámparas, salieron a recibir al esposo.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7350,
+      "duration_ms": 7250
+    },
+    {
+      "word": "Cinco de ellas eran prudentes y cinco insensatas.",
+      "verse": 2,
+      "start_ms": 7300,
+      "end_ms": 11137,
+      "duration_ms": 3837
+    },
+    {
+      "word": "Las insensatas, tomando sus lámparas, no tomaron consigo aceite; mas las prudentes tomaron aceite en sus vasijas, juntamente con sus lámparas.",
+      "verse": 3,
+      "start_ms": 11137,
+      "end_ms": 20737,
+      "duration_ms": 9600
+    },
+    {
+      "word": "Y tardándose el esposo, cabecearon todas y se durmieron.",
+      "verse": 5,
+      "start_ms": 20737,
+      "end_ms": 25124,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Y a la medianoche se oyó un clamor: ¡Aquí viene el esposo; salid a recibirle!",
+      "verse": 6,
+      "start_ms": 25125,
+      "end_ms": 30787,
+      "duration_ms": 5662
+    },
+    {
+      "word": "Entonces todas aquellas vírgenes se levantaron, y arreglaron sus lámparas.",
+      "verse": 7,
+      "start_ms": 30787,
+      "end_ms": 35924,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Y las insensatas dijeron a las prudentes: Dadnos de vuestro aceite; porque nuestras lámparas se apagan.",
+      "verse": 8,
+      "start_ms": 35925,
+      "end_ms": 42437,
+      "duration_ms": 6512
+    },
+    {
+      "word": "Mas las prudentes respondieron diciendo: Para que no nos falte a nosotras y a vosotras, id más bien a los que venden, y comprad para vosotras mismas.",
+      "verse": 9,
+      "start_ms": 42437,
+      "end_ms": 51712,
+      "duration_ms": 9275
+    },
+    {
+      "word": "Pero mientras ellas iban a comprar, vino el esposo; y las que estaban preparadas entraron con él a las bodas; y se cerró la puerta.",
+      "verse": 10,
+      "start_ms": 51712,
+      "end_ms": 59674,
+      "duration_ms": 7962
+    },
+    {
+      "word": "Después vinieron también las otras vírgenes, diciendo: ¡Señor, señor, ábrenos!",
+      "verse": 11,
+      "start_ms": 59675,
+      "end_ms": 65687,
+      "duration_ms": 6012
+    },
+    {
+      "word": "Mas él, respondiendo, dijo: De cierto os digo, que no os conozco.",
+      "verse": 12,
+      "start_ms": 65687,
+      "end_ms": 71337,
+      "duration_ms": 5650
+    },
+    {
+      "word": "Velad, pues, porque no sabéis el día ni la hora en que el Hijo del Hombre ha de venir.",
+      "verse": 13,
+      "start_ms": 71337,
+      "end_ms": 77099,
+      "duration_ms": 5762
+    },
+    {
+      "word": "Parábola de los talentos Porque el reino de los cielos es como un hombre que yéndose lejos, llamó a sus siervos y les entregó sus bienes.",
+      "verse": 13,
+      "start_ms": 77100,
+      "end_ms": 85150,
+      "duration_ms": 8050
+    },
+    {
+      "word": "A uno dio cinco talentos, y a otro dos, y a otro uno, a cada uno conforme a su capacidad; y luego se fue lejos.",
+      "verse": 15,
+      "start_ms": 85150,
+      "end_ms": 93650,
+      "duration_ms": 8500
+    },
+    {
+      "word": "Y el que había recibido cinco talentos fue y negoció con ellos, y ganó otros cinco talentos.",
+      "verse": 16,
+      "start_ms": 93650,
+      "end_ms": 99975,
+      "duration_ms": 6325
+    },
+    {
+      "word": "Asimismo el que había recibido dos, ganó también otros dos.",
+      "verse": 17,
+      "start_ms": 99975,
+      "end_ms": 104637,
+      "duration_ms": 4662
+    },
+    {
+      "word": "Pero el que había recibido uno fue y cavó en la tierra, y escondió el dinero de su señor.",
+      "verse": 18,
+      "start_ms": 104637,
+      "end_ms": 110237,
+      "duration_ms": 5600
+    },
+    {
+      "word": "Después de mucho tiempo vino el señor de aquellos siervos, y arregló cuentas con ellos.",
+      "verse": 19,
+      "start_ms": 110237,
+      "end_ms": 115724,
+      "duration_ms": 5487
+    },
+    {
+      "word": "Y llegando el que había recibido cinco talentos, trajo otros cinco talentos, diciendo: Señor, cinco talentos me entregaste; aquí tienes, he ganado otros cinco talentos sobre ellos.",
+      "verse": 20,
+      "start_ms": 115725,
+      "end_ms": 128400,
+      "duration_ms": 12675
+    },
+    {
+      "word": "Y su señor le dijo: Bien, buen siervo y fiel; sobre poco has sido fiel, sobre mucho te pondré; entra en el gozo de tu señor.",
+      "verse": 21,
+      "start_ms": 128400,
+      "end_ms": 137237,
+      "duration_ms": 8837
+    },
+    {
+      "word": "Llegando también el que había recibido dos talentos, dijo: Señor, dos talentos me entregaste; aquí tienes, he ganado otros dos talentos sobre ellos.",
+      "verse": 22,
+      "start_ms": 137237,
+      "end_ms": 147799,
+      "duration_ms": 10562
+    },
+    {
+      "word": "Su señor le dijo: Bien, buen siervo y fiel; sobre poco has sido fiel, sobre mucho te pondré; entra en el gozo de tu señor.",
+      "verse": 23,
+      "start_ms": 147800,
+      "end_ms": 156575,
+      "duration_ms": 8775
+    },
+    {
+      "word": "Pero llegando también el que había recibido un talento, dijo: Señor, te conocía que eres hombre duro, que siegas donde no sembraste y recoges donde no esparciste; por lo cual tuve miedo, y fui y escondí tu talento en la tierra; aquí tienes lo que es tuyo.",
+      "verse": 24,
+      "start_ms": 156575,
+      "end_ms": 172100,
+      "duration_ms": 15525
+    },
+    {
+      "word": "Respondiendo su señor, le dijo: Siervo malo y negligente, sabías que siego donde no sembré, y que recojo donde no esparcí.",
+      "verse": 26,
+      "start_ms": 172100,
+      "end_ms": 180850,
+      "duration_ms": 8750
+    },
+    {
+      "word": "Por tanto, debías haber dado mi dinero a los banqueros, y al venir yo, hubiera recibido lo que es mío con los intereses.",
+      "verse": 27,
+      "start_ms": 180850,
+      "end_ms": 188575,
+      "duration_ms": 7725
+    },
+    {
+      "word": "Quitadle, pues, el talento, y dadlo al que tiene diez talentos.",
+      "verse": 28,
+      "start_ms": 188575,
+      "end_ms": 193762,
+      "duration_ms": 5187
+    },
+    {
+      "word": "Porque al que tiene, le será dado, y tendrá más; y al que no tiene, aun lo que tiene le será quitado.",
+      "verse": 29,
+      "start_ms": 193762,
+      "end_ms": 200624,
+      "duration_ms": 6862
+    },
+    {
+      "word": "Y al siervo inútil echadle en las tinieblas de afuera; allí será el lloro y el crujir de dientes., El juicio de las naciones Cuando el Hijo del Hombre venga en su gloria, y todos los santos ángeles con él, entonces se sentará en su trono de gloria, y serán reunidas delante de él todas las naciones; y apartará los unos de los otros, como aparta el pastor las ovejas de los cabritos.",
+      "verse": 30,
+      "start_ms": 200625,
+      "end_ms": 222512,
+      "duration_ms": 21887
+    },
+    {
+      "word": "Y pondrá las ovejas a su derecha, y los cabritos a su izquierda.",
+      "verse": 33,
+      "start_ms": 222512,
+      "end_ms": 226887,
+      "duration_ms": 4375
+    },
+    {
+      "word": "Entonces el Rey dirá a los de su derecha: Venid, benditos de mi Padre, heredad el reino preparado para vosotros desde la fundación del mundo.",
+      "verse": 34,
+      "start_ms": 226887,
+      "end_ms": 235737,
+      "duration_ms": 8850
+    },
+    {
+      "word": "Porque tuve hambre, y me disteis de comer; tuve sed, y me disteis de beber; fui forastero, y me recogisteis; estuve desnudo, y me cubristeis; enfermo, y me visitasteis; en la cárcel, y vinisteis a mí.",
+      "verse": 35,
+      "start_ms": 235737,
+      "end_ms": 249999,
+      "duration_ms": 14262
+    },
+    {
+      "word": "Entonces los justos le responderán diciendo: Señor, ¿cuándo te vimos hambriento, y te sustentamos, o sediento, y te dimos de beber?",
+      "verse": 37,
+      "start_ms": 250000,
+      "end_ms": 259075,
+      "duration_ms": 9075
+    },
+    {
+      "word": "Y cuándo te vimos forastero, y te recogimos, o desnudo, y te cubrimos?",
+      "verse": 38,
+      "start_ms": 259075,
+      "end_ms": 264787,
+      "duration_ms": 5712
+    },
+    {
+      "word": "O cuándo te vimos enfermo, o en la",
+      "verse": 39,
+      "start_ms": 264787,
+      "end_ms": 267624,
+      "duration_ms": 2837
+    },
+    {
+      "word": "cárcel, y vinimos a ti?",
+      "verse": 39,
+      "start_ms": 267796,
+      "end_ms": 270346,
+      "duration_ms": 2550
+    },
+    {
+      "word": "Y respondiendo el Rey, les dirá: De cierto os digo que en cuanto lo hicisteis a uno de estos mis hermanos más pequeños, a mí lo hicisteis.",
+      "verse": 40,
+      "start_ms": 270296,
+      "end_ms": 278808,
+      "duration_ms": 8512
+    },
+    {
+      "word": "Entonces dirá también a los de la izquierda: Apartaos de mí, malditos, al fuego eterno preparado para el diablo y sus ángeles.",
+      "verse": 41,
+      "start_ms": 278808,
+      "end_ms": 287058,
+      "duration_ms": 8250
+    },
+    {
+      "word": "Porque tuve hambre, y no me disteis de comer; tuve sed, y no me disteis de beber; fui forastero, y no me recogisteis; estuve desnudo, y no me cubristeis; enfermo, y en la cárcel, y no me visitasteis.",
+      "verse": 42,
+      "start_ms": 287058,
+      "end_ms": 301008,
+      "duration_ms": 13950
+    },
+    {
+      "word": "Entonces también ellos le responderán diciendo: Señor, ¿cuándo te vimos hambriento, sediento, forastero, desnudo, enfermo, o en la cárcel, y no te servimos?",
+      "verse": 44,
+      "start_ms": 301008,
+      "end_ms": 312145,
+      "duration_ms": 11137
+    },
+    {
+      "word": "Entonces les responderá diciendo: De cierto os digo que en cuanto no lo hicisteis a uno de estos más pequeños, tampoco a mí lo hicisteis.",
+      "verse": 45,
+      "start_ms": 312146,
+      "end_ms": 320658,
+      "duration_ms": 8512
+    },
+    {
+      "word": "E irán éstos al castigo eterno, y los justos a la vida eterna.",
+      "verse": 46,
+      "start_ms": 320658,
+      "end_ms": 325308,
+      "duration_ms": 4650
+    }
+  ]
+}

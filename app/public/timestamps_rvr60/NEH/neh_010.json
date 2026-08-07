@@ -1,0 +1,376 @@
+{
+  "book": "NEH",
+  "chapter": 10,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 39,
+  "word_count": 13,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 80,
+      "text": "Los que firmaron fueron: Nehemías el gobernador, hijo de Hacalías, y Sedequías,"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 80,
+      "char_end": 108,
+      "text": "Seraías, Azarías, Jeremías,"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 108,
+      "char_end": 134,
+      "text": "Pasur, Amarías, Malquías,"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 134,
+      "char_end": 158,
+      "text": "Hatús, Sebanías, Maluc,"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 158,
+      "char_end": 183,
+      "text": "Harim, Meremot, Obadías,"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 183,
+      "char_end": 207,
+      "text": "Daniel, Ginetón, Baruc,"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 207,
+      "char_end": 232,
+      "text": "Mesulam, Abías, Mijamín,"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 232,
+      "char_end": 282,
+      "text": "Maazías, Bilgai y Semaías; éstos eran sacerdotes."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 282,
+      "char_end": 360,
+      "text": "Y los levitas: Jesúa hijo de Azanías, Binúi de los hijos de Henadad, Cadmiel,"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 360,
+      "char_end": 417,
+      "text": "y sus hermanos Sebanías, Hodías, Kelita, Pelaías, Hanán,"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 417,
+      "char_end": 442,
+      "text": "Micaía, Rehob, Hasabías,"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 442,
+      "char_end": 469,
+      "text": "Zacur, Serebías, Sebanías,"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 469,
+      "char_end": 492,
+      "text": "Hodías, Bani y Beninu."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 492,
+      "char_end": 553,
+      "text": "Los cabezas del pueblo: Paros, Pahat-moab, Elam, Zatu, Bani,"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 553,
+      "char_end": 573,
+      "text": "Buni, Azgad, Bebai,"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 573,
+      "char_end": 596,
+      "text": "Adonías, Bigvai, Adín,"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 596,
+      "char_end": 618,
+      "text": "Ater, Ezequías, Azur,"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 618,
+      "char_end": 640,
+      "text": "Hodías, Hasum, Bezai,"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 640,
+      "char_end": 662,
+      "text": "Harif, Anatot, Nebai,"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 662,
+      "char_end": 687,
+      "text": "Magpías, Mesulam, Hezir,"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 687,
+      "char_end": 713,
+      "text": "Mesezabeel, Sadoc, Jadúa,"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 713,
+      "char_end": 738,
+      "text": "Pelatías, Hanán, Anaías,"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 738,
+      "char_end": 762,
+      "text": "Oseas, Hananías, Hasub,"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 762,
+      "char_end": 785,
+      "text": "Halohes, Pilha, Sobec,"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 785,
+      "char_end": 810,
+      "text": "Rehum, Hasabna, Maasías,"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 810,
+      "char_end": 830,
+      "text": "Ahías, Hanán, Anán,"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 830,
+      "char_end": 852,
+      "text": "Maluc, Harim y Baana."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 852,
+      "char_end": 1115,
+      "text": "Y el resto del pueblo, los sacerdotes, levitas, porteros y cantores, los sirvientes del templo, y todos los que se habían apartado de los pueblos de las tierras a la ley de Dios, con sus mujeres, sus hijos e hijas, todo el que tenía comprensión y discernimiento,"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 1115,
+      "char_end": 1359,
+      "text": "se reunieron con sus hermanos y sus principales, para protestar y jurar que andarían en la ley de Dios, que fue dada por Moisés siervo de Dios, y que guardarían y cumplirían todos los mandamientos, decretos y estatutos de Jehová nuestro Señor."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 1359,
+      "char_end": 1465,
+      "text": "Y que no daríamos nuestras hijas a los pueblos de la tierra, ni tomaríamos sus hijas para nuestros hijos."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 1465,
+      "char_end": 1713,
+      "text": "Asimismo, que si los pueblos de la tierra trajesen a vender mercaderías y comestibles en día de reposo, nada tomaríamos de ellos en ese día ni en otro día santificado; y que el año séptimo dejaríamos descansar la tierra, y remitiríamos toda deuda."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 1713,
+      "char_end": 1849,
+      "text": "Nos impusimos además por ley, el cargo de contribuir cada año con la tercera parte de un siclo para la obra de la casa de nuestro Dios;"
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 1849,
+      "char_end": 2130,
+      "text": "para el pan de la proposición y para la ofrenda continua, para el holocausto continuo, los días de reposo, las nuevas lunas, las festividades, y para las cosas santificadas y los sacrificios de expiación por el pecado de Israel, y para todo el servicio de la casa de nuestro Dios."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 2130,
+      "char_end": 2422,
+      "text": "Echamos también suertes los sacerdotes, los levitas y el pueblo, acerca de la ofrenda de la leña, para traerla a la casa de nuestro Dios, según las casas de nuestros padres, en los tiempos determinados cada año, para quemar sobre el altar de Jehová nuestro Dios, como está escrito en la ley."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 2422,
+      "char_end": 2542,
+      "text": "Y que cada año traeríamos a la casa de Jehová las primicias de nuestra tierra, y las primicias del fruto de todo árbol."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 2542,
+      "char_end": 2797,
+      "text": "Asimismo los primogénitos de nuestros hijos y de nuestros ganados, como está escrito en la ley; y que traeríamos los primogénitos de nuestras vacas y de nuestras ovejas a la casa de nuestro Dios, a los sacerdotes que ministran en la casa de nuestro Dios;"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 2797,
+      "char_end": 3121,
+      "text": "que traeríamos también las primicias de nuestras masas, y nuestras ofrendas, y del fruto de todo árbol, y del vino y del aceite, para los sacerdotes, a las cámaras de la casa de nuestro Dios, y el diezmo de nuestra tierra para los levitas; y que los levitas recibirían las décimas de nuestras labores en todas las ciudades;"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 3121,
+      "char_end": 3333,
+      "text": "y que estaría el sacerdote hijo de Aarón con los levitas, cuando los levitas recibiesen el diezmo; y que los levitas llevarían el diezmo del diezmo a la casa de nuestro Dios, a las cámaras de la casa del tesoro."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 3333,
+      "char_end": 3614,
+      "text": "Porque a las cámaras del tesoro han de llevar los hijos de Israel y los hijos de Leví la ofrenda del grano, del vino y del aceite; y allí estarán los utensilios del santuario, y los sacerdotes que ministran, los porteros y los cantores; y no abandonaremos la casa de nuestro Dios."
+    }
+  ],
+  "words": [
+    {
+      "word": "Los que firmaron fueron: Nehemías el gobernador, hijo de Hacalías, y Sedequías, Seraías, Azarías, Jeremías, Pasur, Amarías, Malquías, Hatús, Sebanías, Maluc, Harim, Meremot, Obadías, Daniel, Ginetón, Baruc, Mesulam, Abías, Mijamín, Maazías, Bilgai y Semaías; éstos eran sacerdotes.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 24250,
+      "duration_ms": 24150
+    },
+    {
+      "word": "Y los levitas: Jesúa hijo de Azanías, Binúi de los hijos de Henadad, Cadmiel, y sus hermanos Sebanías, Hodías, Kelita, Pelaías, Hanán, Micaía, Rehob, Hasabías, Zacur, Serebías, Sebanías, Hodías, Bani y Beninu.",
+      "verse": 9,
+      "start_ms": 24250,
+      "end_ms": 41637,
+      "duration_ms": 17387
+    },
+    {
+      "word": "Los cabezas del pueblo: Paros, Pahat-moab, Elam, Zatu, Bani, Buni, Azgad, Bebai, Adonías, Bigvai, Adín, Ater, Ezequías, Azur, Hodías, Hasum, Bezai, Harif, Anatot, Nebai, Magpías, Mesulam, Hezir, Mesezabeel, Sadoc, Jadúa, Pelatías, Hanán, Anaías, Oseas, Hananías, Hasub, Halohes, Pilha, Sobec, Rehum, Hasabna, Maasías, Ahías, Hanán, Anán, Maluc, Harim y Baana.",
+      "verse": 14,
+      "start_ms": 41637,
+      "end_ms": 76999,
+      "duration_ms": 35362
+    },
+    {
+      "word": "Y el resto del pueblo, los sacerdotes, levitas, porteros y cantores, los sirvientes del templo, y todos los que se habían apartado de los pueblos de las tierras a la ley de Dios, con sus mujeres, sus hijos e hijas, todo el que tenía comprensión y discernimiento, se reunieron con sus hermanos y sus principales, para protestar y jurar que andarían en la ley de Dios, que fue dada por Moisés siervo de Dios, y que guardarían y cumplirían todos los mandamientos, decretos y estatutos de Jehová nuestro",
+      "verse": 28,
+      "start_ms": 77000,
+      "end_ms": 106087,
+      "duration_ms": 29087
+    },
+    {
+      "word": "Señor.",
+      "verse": 29,
+      "start_ms": 106087,
+      "end_ms": 107562,
+      "duration_ms": 1475
+    },
+    {
+      "word": "Y que no daríamos nuestras hijas a los pueblos de la tierra, ni tomaríamos sus hijas para nuestros hijos.",
+      "verse": 30,
+      "start_ms": 107562,
+      "end_ms": 113762,
+      "duration_ms": 6200
+    },
+    {
+      "word": "Asimismo, que si los pueblos de la tierra trajesen a vender mercaderías y comestibles en día de reposo, nada tomaríamos de ellos en ese día ni en otro día santificado; y que el año séptimo dejaríamos descansar la tierra, y remitiríamos toda deuda.",
+      "verse": 31,
+      "start_ms": 113762,
+      "end_ms": 128987,
+      "duration_ms": 15225
+    },
+    {
+      "word": "Nos impusimos además por ley, el cargo de contribuir cada año con la tercera parte de un siclo para la obra de la casa de nuestro Dios; para el pan de la proposición y para la ofrenda continua, para el holocausto continuo, los días de reposo, las nuevas lunas, las festividades, y para las cosas santificadas y los sacrificios de expiación por el pecado de Israel, y para todo el servicio de la casa de nuestro Dios.",
+      "verse": 32,
+      "start_ms": 128987,
+      "end_ms": 152424,
+      "duration_ms": 23437
+    },
+    {
+      "word": "Echamos también suertes los sacerdotes, los levitas y el pueblo, acerca de la ofrenda de la leña, para traerla a la casa de nuestro Dios, según las casas de nuestros padres, en los tiempos determinados cada año, para quemar sobre el altar de Jehová nuestro Dios, como está escrito en la ley.",
+      "verse": 34,
+      "start_ms": 152425,
+      "end_ms": 169312,
+      "duration_ms": 16887
+    },
+    {
+      "word": "Y que cada año traeríamos a la casa de Jehová las primicias de nuestra tierra, y las primicias del fruto de todo árbol.",
+      "verse": 35,
+      "start_ms": 169312,
+      "end_ms": 176374,
+      "duration_ms": 7062
+    },
+    {
+      "word": "Asimismo los primogénitos de nuestros hijos y de nuestros ganados, como está escrito en la ley; y que traeríamos los primogénitos de nuestras vacas y de nuestras ovejas a la casa de nuestro Dios, a los sacerdotes que ministran en la casa de nuestro Dios; que traeríamos también las primicias de nuestras masas, y nuestras ofrendas, y del fruto de todo árbol, y del vino y del aceite, para los sacerdotes, a las cámaras de la casa de nuestro Dios, y el diezmo de nuestra tierra para los levitas; y",
+      "verse": 36,
+      "start_ms": 176375,
+      "end_ms": 204437,
+      "duration_ms": 28062
+    },
+    {
+      "word": "que los levitas recibirían las décimas de nuestras labores en todas las ciudades; y que estaría el sacerdote hijo de Aarón con los levitas, cuando los levitas recibiesen el diezmo; y que los levitas llevarían el diezmo del diezmo a la casa de nuestro Dios, a las cámaras de la casa del tesoro.",
+      "verse": 37,
+      "start_ms": 204437,
+      "end_ms": 220712,
+      "duration_ms": 16275
+    },
+    {
+      "word": "Porque a las cámaras del tesoro han de llevar los hijos de Israel y los hijos de Leví la ofrenda del grano, del vino y del aceite; y allí estarán los utensilios del santuario, y los sacerdotes que ministran, los porteros y los cantores; y no abandonaremos la casa de nuestro Dios.",
+      "verse": 39,
+      "start_ms": 220712,
+      "end_ms": 236687,
+      "duration_ms": 15975
+    }
+  ]
+}

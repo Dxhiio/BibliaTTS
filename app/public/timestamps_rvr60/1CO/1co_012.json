@@ -1,0 +1,495 @@
+{
+  "book": "1CO",
+  "chapter": 12,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 34,
+  "word_count": 35,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 67,
+      "text": "Sed imitadores de mí, así como yo de Cristo. Atavío de las mujeres"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 67,
+      "char_end": 176,
+      "text": "Os alabo, hermanos, porque en todo os acordáis de mí, y retenéis las instrucciones tal como os las entregué."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 176,
+      "char_end": 303,
+      "text": "Pero quiero que sepáis que Cristo es la cabeza de todo varón, y el varón es la cabeza de la mujer, y Dios la cabeza de Cristo."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 303,
+      "char_end": 377,
+      "text": "Todo varón que ora o profetiza con la cabeza cubierta, afrenta su cabeza."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 377,
+      "char_end": 504,
+      "text": "Pero toda mujer que ora o profetiza con la cabeza descubierta, afrenta su cabeza; porque lo mismo es que si se hubiese rapado."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 504,
+      "char_end": 647,
+      "text": "Porque si la mujer no se cubre, que se corte también el cabello; y si le es vergonzoso a la mujer cortarse el cabello o raparse, que se cubra."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 647,
+      "char_end": 762,
+      "text": "Porque el varón no debe cubrirse la cabeza, pues él es imagen y gloria de Dios; pero la mujer es gloria del varón."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 762,
+      "char_end": 827,
+      "text": "Porque el varón no procede de la mujer, sino la mujer del varón,"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 827,
+      "char_end": 915,
+      "text": "y tampoco el varón fue creado por causa de la mujer, sino la mujer por causa del varón."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 915,
+      "char_end": 1009,
+      "text": "Por lo cual la mujer debe tener señal de autoridad sobre su cabeza, por causa de los ángeles."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1009,
+      "char_end": 1082,
+      "text": "Pero en el Señor, ni el varón es sin la mujer, ni la mujer sin el varón;"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1082,
+      "char_end": 1188,
+      "text": "porque así como la mujer procede del varón, también el varón nace de la mujer; pero todo procede de Dios."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1188,
+      "char_end": 1271,
+      "text": "Juzgad vosotros mismos: ¿Es propio que la mujer ore a Dios sin cubrirse la cabeza?"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1271,
+      "char_end": 1362,
+      "text": "La naturaleza misma ¿no os enseña que al varón le es deshonroso dejarse crecer el cabello?"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1362,
+      "char_end": 1479,
+      "text": "Por el contrario, a la mujer dejarse crecer el cabello le es honroso; porque en lugar de velo le es dado el cabello."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1479,
+      "char_end": 1615,
+      "text": "Con todo eso, si alguno quiere ser contencioso, nosotros no tenemos tal costumbre, ni las iglesias de Dios. Abusos en la Cena del Señor"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1615,
+      "char_end": 1721,
+      "text": "Pero al anunciaros esto que sigue, no os alabo; porque no os congregáis para lo mejor, sino para lo peor."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1721,
+      "char_end": 1834,
+      "text": "Pues en primer lugar, cuando os reunís como iglesia, oigo que hay entre vosotros divisiones; y en parte lo creo."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1834,
+      "char_end": 1957,
+      "text": "Porque es preciso que entre vosotros haya disensiones, para que se hagan manifiestos entre vosotros los que son aprobados."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1957,
+      "char_end": 2027,
+      "text": "Cuando, pues, os reunís vosotros, esto no es comer la cena del Señor."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2027,
+      "char_end": 2129,
+      "text": "Porque al comer, cada uno se adelanta a tomar su propia cena; y uno tiene hambre, y otro se embriaga."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2129,
+      "char_end": 2378,
+      "text": "Pues qué, ¿no tenéis casas en que comáis y bebáis? ¿O menospreciáis la iglesia de Dios, y avergonzáis a los que no tienen nada? ¿Qué os diré? ¿Os alabaré? En esto no os alabo. Institución de la Cena del Señor (Mt 26.26–29; Mc 14.22–25; Lc 22.14–20)"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2378,
+      "char_end": 2494,
+      "text": "Porque yo recibí del Señor lo que también os he enseñado: Que el Señor Jesús, la noche que fue entregado, tomó pan;"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2494,
+      "char_end": 2628,
+      "text": "y habiendo dado gracias, lo partió, y dijo: Tomad, comed; esto es mi cuerpo que por vosotros es partido; haced esto en memoria de mí."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2628,
+      "char_end": 2799,
+      "text": "Asimismo tomó también la copa, después de haber cenado, diciendo: Esta copa es el nuevo pacto en mi sangre; haced esto todas las veces que la bebiereis, en memoria de mí."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2799,
+      "char_end": 2952,
+      "text": "Así, pues, todas las veces que comiereis este pan, y bebiereis esta copa, la muerte del Señor anunciáis hasta que él venga. Tomando la Cena indignamente"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2952,
+      "char_end": 3092,
+      "text": "De manera que cualquiera que comiere este pan o bebiere esta copa del Señor indignamente, será culpado del cuerpo y de la sangre del Señor."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3092,
+      "char_end": 3172,
+      "text": "Por tanto, pruébese cada uno a sí mismo, y coma así del pan, y beba de la copa."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3172,
+      "char_end": 3275,
+      "text": "Porque el que come y bebe indignamente, sin discernir el cuerpo del Señor, juicio come y bebe para sí."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3275,
+      "char_end": 3355,
+      "text": "Por lo cual hay muchos enfermos y debilitados entre vosotros, y muchos duermen."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3355,
+      "char_end": 3423,
+      "text": "Si, pues, nos examinásemos a nosotros mismos, no seríamos juzgados;"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3423,
+      "char_end": 3519,
+      "text": "mas siendo juzgados, somos castigados por el Señor, para que no seamos condenados con el mundo."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3519,
+      "char_end": 3592,
+      "text": "Así que, hermanos míos, cuando os reunís a comer, esperaos unos a otros."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3592,
+      "char_end": 3724,
+      "text": "Si alguno tuviere hambre, coma en su casa, para que no os reunáis para juicio. Las demás cosas las pondré en orden cuando yo fuere."
+    }
+  ],
+  "words": [
+    {
+      "word": "Sed imitadores de mí, así como yo de Cristo.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3825,
+      "duration_ms": 3725
+    },
+    {
+      "word": "Atavío de las mujeres Os alabo, hermanos, porque en todo os acordáis de mí, y retenéis las instrucciones tal como os las entregué.",
+      "verse": 1,
+      "start_ms": 3775,
+      "end_ms": 12237,
+      "duration_ms": 8462
+    },
+    {
+      "word": "Pero quiero que sepáis que Cristo es la cabeza de todo varón, y el varón es la cabeza de la mujer, y Dios la cabeza de Cristo.",
+      "verse": 3,
+      "start_ms": 12237,
+      "end_ms": 19799,
+      "duration_ms": 7562
+    },
+    {
+      "word": "Todo varón que ora o profetiza con la cabeza cubierta, afrenta su cabeza.",
+      "verse": 4,
+      "start_ms": 19800,
+      "end_ms": 24987,
+      "duration_ms": 5187
+    },
+    {
+      "word": "Pero toda mujer que ora o profetiza con la cabeza descubierta, afrenta su cabeza; porque lo mismo es que si se hubiese rapado.",
+      "verse": 5,
+      "start_ms": 24987,
+      "end_ms": 32787,
+      "duration_ms": 7800
+    },
+    {
+      "word": "Porque si la mujer no se cubre, que se corte también el cabello; y si le es vergonzoso a la mujer cortarse el cabello o raparse, que se cubra.",
+      "verse": 6,
+      "start_ms": 32787,
+      "end_ms": 41662,
+      "duration_ms": 8875
+    },
+    {
+      "word": "Porque el varón no debe cubrirse la cabeza, pues él es imagen y gloria de Dios; pero la mujer es gloria del varón.",
+      "verse": 7,
+      "start_ms": 41662,
+      "end_ms": 48674,
+      "duration_ms": 7012
+    },
+    {
+      "word": "Porque el varón no procede de la mujer, sino la mujer del varón, y tampoco el varón fue creado por causa de la mujer, sino la mujer por causa del varón.",
+      "verse": 8,
+      "start_ms": 48675,
+      "end_ms": 57887,
+      "duration_ms": 9212
+    },
+    {
+      "word": "Por lo cual la mujer debe tener señal de autoridad sobre su cabeza, por causa de los ángeles.",
+      "verse": 10,
+      "start_ms": 57887,
+      "end_ms": 63724,
+      "duration_ms": 5837
+    },
+    {
+      "word": "Pero en el Señor, ni el varón es sin la mujer, ni la mujer sin el varón; porque así como la mujer procede del varón, también el varón nace de la mujer; pero todo procede de Dios.",
+      "verse": 11,
+      "start_ms": 63725,
+      "end_ms": 74700,
+      "duration_ms": 10975
+    },
+    {
+      "word": "Juzgad vosotros mismos: ¿Es propio que la mujer ore a Dios sin cubrirse la cabeza?",
+      "verse": 13,
+      "start_ms": 74700,
+      "end_ms": 80437,
+      "duration_ms": 5737
+    },
+    {
+      "word": "La naturaleza misma ¿no os enseña que al varón le es deshonroso dejarse crecer el cabello?",
+      "verse": 14,
+      "start_ms": 80437,
+      "end_ms": 85949,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Por el contrario, a la mujer dejarse crecer el cabello le es honroso; porque en lugar de velo le es dado el cabello.",
+      "verse": 15,
+      "start_ms": 85950,
+      "end_ms": 93212,
+      "duration_ms": 7262
+    },
+    {
+      "word": "Con todo eso, si alguno quiere ser contencioso, nosotros no tenemos tal costumbre, ni las iglesias de Dios.",
+      "verse": 16,
+      "start_ms": 93212,
+      "end_ms": 100387,
+      "duration_ms": 7175
+    },
+    {
+      "word": "Abusos en la Cena del Señor Pero al anunciaros esto que sigue, no os alabo; porque no os congregáis para lo mejor, sino para lo peor.",
+      "verse": 16,
+      "start_ms": 100387,
+      "end_ms": 108774,
+      "duration_ms": 8387
+    },
+    {
+      "word": "Pues en primer lugar, cuando os reunís como iglesia, oigo que hay entre vosotros divisiones; y en parte lo creo.",
+      "verse": 18,
+      "start_ms": 108775,
+      "end_ms": 116012,
+      "duration_ms": 7237
+    },
+    {
+      "word": "Porque es preciso que entre vosotros haya disensiones, para que se hagan manifiestos entre vosotros los que son aprobados.",
+      "verse": 19,
+      "start_ms": 116012,
+      "end_ms": 123112,
+      "duration_ms": 7100
+    },
+    {
+      "word": "Cuando, pues, os reunís vosotros, esto no es comer la cena del Señor.",
+      "verse": 20,
+      "start_ms": 123112,
+      "end_ms": 128499,
+      "duration_ms": 5387
+    },
+    {
+      "word": "Porque al comer, cada uno se adelanta a tomar su propia cena; y uno tiene hambre, y otro se embriaga.",
+      "verse": 21,
+      "start_ms": 128500,
+      "end_ms": 135350,
+      "duration_ms": 6850
+    },
+    {
+      "word": "Pues qué, ¿no tenéis casas en que comáis y bebáis?",
+      "verse": 22,
+      "start_ms": 135350,
+      "end_ms": 139112,
+      "duration_ms": 3762
+    },
+    {
+      "word": "O menospreciáis la iglesia de Dios, y avergonzáis a los que no tienen nada?",
+      "verse": 22,
+      "start_ms": 139112,
+      "end_ms": 144187,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Qué os diré?",
+      "verse": 22,
+      "start_ms": 144187,
+      "end_ms": 145837,
+      "duration_ms": 1650
+    },
+    {
+      "word": "Os alabaré?",
+      "verse": 22,
+      "start_ms": 145837,
+      "end_ms": 147487,
+      "duration_ms": 1650
+    },
+    {
+      "word": "En esto no os alabo.",
+      "verse": 22,
+      "start_ms": 147487,
+      "end_ms": 149737,
+      "duration_ms": 2250
+    },
+    {
+      "word": "Institución de la Cena del Señor (Mt 26.26–29; Mc 14.22–25; Lc 22.14–20) Porque yo recibí del Señor lo que también os he enseñado: Que el Señor Jesús, la noche que fue entregado, tomó pan; y habiendo dado gracias, lo partió, y dijo: Tomad, comed; esto es mi cuerpo que por vosotros es partido; haced esto en memoria de mí.",
+      "verse": 22,
+      "start_ms": 149737,
+      "end_ms": 175599,
+      "duration_ms": 25862
+    },
+    {
+      "word": "Asimismo tomó también la copa, después de haber cenado, diciendo: Esta copa es el nuevo pacto en mi sangre; haced esto todas las veces que la bebiereis, en memoria de mí.",
+      "verse": 25,
+      "start_ms": 175600,
+      "end_ms": 186375,
+      "duration_ms": 10775
+    },
+    {
+      "word": "Así, pues, todas las veces que comiereis este pan, y bebiereis esta copa, la muerte del Señor anunciáis hasta que él venga.",
+      "verse": 26,
+      "start_ms": 186375,
+      "end_ms": 194537,
+      "duration_ms": 8162
+    },
+    {
+      "word": "Tomando la Cena indignamente De manera que cualquiera que comiere este pan o bebiere esta copa del Señor indignamente, será culpado del cuerpo y de la sangre del Señor.",
+      "verse": 26,
+      "start_ms": 194537,
+      "end_ms": 204062,
+      "duration_ms": 9525
+    },
+    {
+      "word": "Por tanto, pruébese cada uno a sí mismo, y coma así del pan, y beba de la copa.",
+      "verse": 28,
+      "start_ms": 204062,
+      "end_ms": 210199,
+      "duration_ms": 6137
+    },
+    {
+      "word": "Porque el que come y bebe indignamente, sin discernir el cuerpo del Señor, juicio come y bebe para sí.",
+      "verse": 29,
+      "start_ms": 210200,
+      "end_ms": 216975,
+      "duration_ms": 6775
+    },
+    {
+      "word": "Por lo cual hay muchos enfermos y debilitados entre vosotros, y muchos duermen.",
+      "verse": 30,
+      "start_ms": 216975,
+      "end_ms": 222012,
+      "duration_ms": 5037
+    },
+    {
+      "word": "Si, pues, nos examinásemos a nosotros mismos, no seríamos juzgados; mas siendo juzgados, somos castigados por el Señor, para que no seamos condenados con el mundo.",
+      "verse": 31,
+      "start_ms": 222012,
+      "end_ms": 233174,
+      "duration_ms": 11162
+    },
+    {
+      "word": "Así que, hermanos míos, cuando os reunís a comer, esperaos unos a otros.",
+      "verse": 33,
+      "start_ms": 233175,
+      "end_ms": 239275,
+      "duration_ms": 6100
+    },
+    {
+      "word": "Si alguno tuviere hambre, coma en su casa, para que no os reunáis para juicio.",
+      "verse": 34,
+      "start_ms": 239275,
+      "end_ms": 244587,
+      "duration_ms": 5312
+    },
+    {
+      "word": "Las demás cosas las pondré en orden cuando yo fuere.",
+      "verse": 34,
+      "start_ms": 244587,
+      "end_ms": 248137,
+      "duration_ms": 3550
+    }
+  ]
+}

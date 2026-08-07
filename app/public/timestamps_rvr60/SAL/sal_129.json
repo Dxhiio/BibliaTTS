@@ -1,0 +1,110 @@
+{
+  "book": "SAL",
+  "chapter": 129,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 8,
+  "word_count": 6,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 69,
+      "text": "Mucho me han angustiado desde mi juventud, Puede decir ahora Israel;"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 69,
+      "char_end": 144,
+      "text": "Mucho me han angustiado desde mi juventud; Mas no prevalecieron contra mí."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 144,
+      "char_end": 208,
+      "text": "Sobre mis espaldas araron los aradores; Hicieron largos surcos."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 208,
+      "char_end": 259,
+      "text": "Jehová es justo; Cortó las coyundas de los impíos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 259,
+      "char_end": 326,
+      "text": "Serán avergonzados y vueltos atrás Todos los que aborrecen a Sion."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 326,
+      "char_end": 393,
+      "text": "Serán como la hierba de los tejados, Que se seca antes que crezca;"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 393,
+      "char_end": 469,
+      "text": "De la cual no llenó el segador su mano, Ni sus brazos el que hace gavillas."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 469,
+      "char_end": 575,
+      "text": "Ni dijeron los que pasaban: Bendición de Jehová sea sobre vosotros; Os bendecimos en el nombre de Jehová."
+    }
+  ],
+  "words": [
+    {
+      "word": "Mucho me han angustiado desde mi juventud, Puede decir ahora Israel; Mucho me han angustiado desde mi juventud; Mas no prevalecieron contra mí.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 9150,
+      "duration_ms": 9050
+    },
+    {
+      "word": "Sobre mis espaldas araron los aradores; Hicieron largos surcos.",
+      "verse": 3,
+      "start_ms": 9100,
+      "end_ms": 13912,
+      "duration_ms": 4812
+    },
+    {
+      "word": "Jehová es justo; Cortó las coyundas de los impíos.",
+      "verse": 4,
+      "start_ms": 13912,
+      "end_ms": 17987,
+      "duration_ms": 4075
+    },
+    {
+      "word": "Serán avergonzados y vueltos atrás Todos los que aborrecen a Sion.",
+      "verse": 5,
+      "start_ms": 17987,
+      "end_ms": 22499,
+      "duration_ms": 4512
+    },
+    {
+      "word": "Serán como la hierba de los tejados, Que se seca antes que crezca; De la cual no llenó el segador su mano, Ni sus brazos el que hace gavillas.",
+      "verse": 6,
+      "start_ms": 22500,
+      "end_ms": 31312,
+      "duration_ms": 8812
+    },
+    {
+      "word": "Ni dijeron los que pasaban: Bendición de Jehová sea sobre vosotros; Os bendecimos en el nombre de Jehová.",
+      "verse": 8,
+      "start_ms": 31312,
+      "end_ms": 38124,
+      "duration_ms": 6812
+    }
+  ]
+}

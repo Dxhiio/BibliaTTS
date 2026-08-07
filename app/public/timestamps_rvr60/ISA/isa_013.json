@@ -1,0 +1,306 @@
+{
+  "book": "ISA",
+  "chapter": 13,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 22,
+  "word_count": 20,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 58,
+      "text": "Profecía sobre Babilonia, revelada a Isaías hijo de Amoz."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 58,
+      "char_end": 175,
+      "text": "Levantad bandera sobre un alto monte; alzad la voz a ellos, alzad la mano, para que entren por puertas de príncipes."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 175,
+      "char_end": 283,
+      "text": "Yo mandé a mis consagrados, asimismo llamé a mis valientes para mi ira, a los que se alegran con mi gloria."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 283,
+      "char_end": 461,
+      "text": "Estruendo de multitud en los montes, como de mucho pueblo; estruendo de ruido de reinos, de naciones reunidas; Jehová de los ejércitos pasa revista a las tropas para la batalla."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 461,
+      "char_end": 583,
+      "text": "Vienen de lejana tierra, de lo postrero de los cielos, Jehová y los instrumentos de su ira, para destruir toda la tierra."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 583,
+      "char_end": 669,
+      "text": "Aullad, porque cerca está el día de Jehová; vendrá como asolamiento del Todopoderoso."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 669,
+      "char_end": 744,
+      "text": "Por tanto, toda mano se debilitará, y desfallecerá todo corazón de hombre,"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 744,
+      "char_end": 930,
+      "text": "y se llenarán de terror; angustias y dolores se apoderarán de ellos; tendrán dolores como mujer de parto; se asombrará cada cual al mirar a su compañero; sus rostros, rostros de llamas."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 930,
+      "char_end": 1074,
+      "text": "He aquí el día de Jehová viene, terrible, y de indignación y ardor de ira, para convertir la tierra en soledad, y raer de ella a sus pecadores."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1074,
+      "char_end": 1211,
+      "text": "Por lo cual las estrellas de los cielos y sus luceros no darán su luz; y el sol se oscurecerá al nacer, y la luna no dará su resplandor."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1211,
+      "char_end": 1365,
+      "text": "Y castigaré al mundo por su maldad, y a los impíos por su iniquidad; y haré que cese la arrogancia de los soberbios, y abatiré la altivez de los fuertes."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1365,
+      "char_end": 1445,
+      "text": "Haré más precioso que el oro fino al varón, y más que el oro de Ofir al hombre."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1445,
+      "char_end": 1594,
+      "text": "Porque haré estremecer los cielos, y la tierra se moverá de su lugar, en la indignación de Jehová de los ejércitos, y en el día del ardor de su ira."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1594,
+      "char_end": 1709,
+      "text": "Y como gacela perseguida, y como oveja sin pastor, cada cual mirará hacia su pueblo, y cada uno huirá a su tierra."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1709,
+      "char_end": 1807,
+      "text": "Cualquiera que sea hallado será alanceado; y cualquiera que por ellos sea tomado, caerá a espada."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1807,
+      "char_end": 1904,
+      "text": "Sus niños serán estrellados delante de ellos; sus casas serán saqueadas, y violadas sus mujeres."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1904,
+      "char_end": 2006,
+      "text": "He aquí que yo despierto contra ellos a los medos, que no se ocuparán de la plata, ni codiciarán oro."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2006,
+      "char_end": 2118,
+      "text": "Con arco tirarán a los niños, y no tendrán misericordia del fruto del vientre, ni su ojo perdonará a los hijos."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2118,
+      "char_end": 2248,
+      "text": "Y Babilonia, hermosura de reinos y ornamento de la grandeza de los caldeos, será como Sodoma y Gomorra, a las que trastornó Dios."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2248,
+      "char_end": 2391,
+      "text": "Nunca más será habitada, ni se morará en ella de generación en generación; ni levantará allí tienda el árabe, ni pastores tendrán allí majada;"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2391,
+      "char_end": 2539,
+      "text": "sino que dormirán allí las fieras del desierto, y sus casas se llenarán de hurones; allí habitarán avestruces, y allí saltarán las cabras salvajes."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2539,
+      "char_end": 2671,
+      "text": "En sus palacios aullarán hienas, y chacales en sus casas de deleite; y cercano a llegar está su tiempo, y sus días no se alargarán."
+    }
+  ],
+  "words": [
+    {
+      "word": "Profecía sobre Babilonia, revelada a Isaías hijo de Amoz.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4825,
+      "duration_ms": 4725
+    },
+    {
+      "word": "Levantad bandera sobre un alto monte; alzad la voz a ellos, alzad la mano, para que entren por puertas de príncipes.",
+      "verse": 2,
+      "start_ms": 4775,
+      "end_ms": 12800,
+      "duration_ms": 8025
+    },
+    {
+      "word": "Yo mandé a mis consagrados, asimismo llamé a mis valientes para mi ira, a los que se alegran con mi gloria.",
+      "verse": 3,
+      "start_ms": 12800,
+      "end_ms": 19837,
+      "duration_ms": 7037
+    },
+    {
+      "word": "Estruendo de multitud en los montes, como de mucho pueblo; estruendo de ruido de reinos, de naciones reunidas; Jehová de los ejércitos pasa revista a las tropas para la batalla.",
+      "verse": 4,
+      "start_ms": 19837,
+      "end_ms": 30737,
+      "duration_ms": 10900
+    },
+    {
+      "word": "Vienen de lejana tierra, de lo postrero de los cielos, Jehová y los instrumentos de su ira, para destruir toda la tierra.",
+      "verse": 5,
+      "start_ms": 30737,
+      "end_ms": 38512,
+      "duration_ms": 7775
+    },
+    {
+      "word": "Aullad, porque cerca está el día de Jehová; vendrá como asolamiento del Todopoderoso.",
+      "verse": 6,
+      "start_ms": 38512,
+      "end_ms": 44487,
+      "duration_ms": 5975
+    },
+    {
+      "word": "Por tanto, toda mano se debilitará, y desfallecerá todo corazón de hombre, y se llenarán de terror; angustias y dolores se apoderarán de ellos; tendrán dolores como mujer de parto; se asombrará cada cual al mirar a su compañero; sus rostros, rostros de llamas.",
+      "verse": 7,
+      "start_ms": 44487,
+      "end_ms": 61262,
+      "duration_ms": 16775
+    },
+    {
+      "word": "He aquí el día de Jehová viene, terrible, y de indignación y ardor de ira, para convertir la tierra en soledad, y raer de ella a sus pecadores.",
+      "verse": 9,
+      "start_ms": 61262,
+      "end_ms": 70724,
+      "duration_ms": 9462
+    },
+    {
+      "word": "Por lo cual las estrellas de los cielos y sus luceros no darán su luz; y el sol se oscurecerá al nacer, y la luna no dará su resplandor.",
+      "verse": 10,
+      "start_ms": 70725,
+      "end_ms": 79050,
+      "duration_ms": 8325
+    },
+    {
+      "word": "Y castigaré al mundo por su maldad, y a los impíos por su iniquidad; y haré que cese la arrogancia de los soberbios, y abatiré la altivez de los fuertes.",
+      "verse": 11,
+      "start_ms": 79050,
+      "end_ms": 88550,
+      "duration_ms": 9500
+    },
+    {
+      "word": "Haré más precioso que el oro fino al varón, y más que el oro de Ofir al hombre.",
+      "verse": 12,
+      "start_ms": 88550,
+      "end_ms": 93725,
+      "duration_ms": 5175
+    },
+    {
+      "word": "Porque haré estremecer los cielos, y la tierra se moverá de su lugar, en la indignación de Jehová de los ejércitos, y en el día del ardor de su ira.",
+      "verse": 13,
+      "start_ms": 93725,
+      "end_ms": 102525,
+      "duration_ms": 8800
+    },
+    {
+      "word": "Y como gacela perseguida, y como oveja sin pastor, cada cual mirará hacia su pueblo, y cada uno huirá a su tierra.",
+      "verse": 14,
+      "start_ms": 102525,
+      "end_ms": 110437,
+      "duration_ms": 7912
+    },
+    {
+      "word": "Cualquiera que sea hallado será alanceado; y cualquiera que por ellos sea tomado, caerá a espada.",
+      "verse": 15,
+      "start_ms": 110437,
+      "end_ms": 116624,
+      "duration_ms": 6187
+    },
+    {
+      "word": "Sus niños serán estrellados delante de ellos; sus casas serán saqueadas, y violadas sus mujeres.",
+      "verse": 16,
+      "start_ms": 116625,
+      "end_ms": 123475,
+      "duration_ms": 6850
+    },
+    {
+      "word": "He aquí que yo despierto contra ellos a los medos, que no se ocuparán de la plata, ni codiciarán oro.",
+      "verse": 17,
+      "start_ms": 123475,
+      "end_ms": 130000,
+      "duration_ms": 6525
+    },
+    {
+      "word": "Con arco tirarán a los niños, y no tendrán misericordia del fruto del vientre, ni su ojo perdonará a los hijos.",
+      "verse": 18,
+      "start_ms": 130000,
+      "end_ms": 137262,
+      "duration_ms": 7262
+    },
+    {
+      "word": "Y Babilonia, hermosura de reinos y ornamento de la grandeza de los caldeos, será como Sodoma y Gomorra, a las que trastornó Dios.",
+      "verse": 19,
+      "start_ms": 137262,
+      "end_ms": 145699,
+      "duration_ms": 8437
+    },
+    {
+      "word": "Nunca más será habitada, ni se morará en ella de generación en generación; ni levantará allí tienda el árabe, ni pastores tendrán allí majada; sino que dormirán allí las fieras del desierto, y sus casas se llenarán de hurones; allí habitarán avestruces, y allí saltarán las cabras salvajes.",
+      "verse": 20,
+      "start_ms": 145700,
+      "end_ms": 163600,
+      "duration_ms": 17900
+    },
+    {
+      "word": "En sus palacios aullarán hienas, y chacales en sus casas de deleite; y cercano a llegar está su tiempo, y sus días no se alargarán.",
+      "verse": 22,
+      "start_ms": 163600,
+      "end_ms": 171962,
+      "duration_ms": 8362
+    }
+  ]
+}

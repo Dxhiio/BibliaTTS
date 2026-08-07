@@ -1,0 +1,530 @@
+{
+  "book": "NEH",
+  "chapter": 12,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 47,
+  "word_count": 27,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 120,
+      "text": "Éstos son los sacerdotes y levitas que subieron con Zorobabel hijo de Salatiel, y con Jesúa: Seraías, Jeremías, Esdras,"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 120,
+      "char_end": 143,
+      "text": "Amarías, Maluc, Hatús,"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 143,
+      "char_end": 169,
+      "text": "Secanías, Rehum, Meremot,"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 169,
+      "char_end": 190,
+      "text": "Iddo, Gineto, Abías,"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 190,
+      "char_end": 215,
+      "text": "Mijamín, Maadías, Bilga,"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 215,
+      "char_end": 242,
+      "text": "Semaías, Joiarib, Jedaías,"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 242,
+      "char_end": 353,
+      "text": "Salú, Amoc, Hilcías y Jedaías. éstos eran los príncipes de los sacerdotes y sus hermanos en los días de Jesúa."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 353,
+      "char_end": 475,
+      "text": "Y los levitas: Jesúa, Binúi, Cadmiel, Serebías, Judá y Matanías, que con sus hermanos oficiaba en los cantos de alabanza."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 475,
+      "char_end": 537,
+      "text": "Y Bacbuquías y Uni, sus hermanos, cada cual en su ministerio."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 537,
+      "char_end": 622,
+      "text": "Jesúa engendró a Joiacim, y Joiacim engendró a Eliasib, y Eliasib engendró a Joiada;"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 622,
+      "char_end": 677,
+      "text": "Joiada engendró a Jonatán, y Jonatán engendró a Jadúa."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 677,
+      "char_end": 787,
+      "text": "Y en los días de Joiacim los sacerdotes jefes de familias fueron: de Seraías, Meraías; de Jeremías, Hananías;"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 787,
+      "char_end": 828,
+      "text": "de Esdras, Mesulam; de Amarías, Johanán;"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 828,
+      "char_end": 867,
+      "text": "de Melicú, Jonatán; de Sebanías, José;"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 867,
+      "char_end": 903,
+      "text": "de Harim, Adna; de Meraiot, Helcai;"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 903,
+      "char_end": 943,
+      "text": "de Iddo, Zacarías; de Ginetón, Mesulam;"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 943,
+      "char_end": 993,
+      "text": "de Abías, Zicri; de Miniamín, de Moadías, Piltai;"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 993,
+      "char_end": 1031,
+      "text": "de Bilga, Samúa; de Semaías, Jonatán;"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1031,
+      "char_end": 1069,
+      "text": "de Joiarib, Matenai; de Jedaías, Uzi;"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1069,
+      "char_end": 1101,
+      "text": "de Salai, Calai; de Amoc, Eber;"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1101,
+      "char_end": 1145,
+      "text": "de Hilcías, Hasabías; de Jedaías, Natanael."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1145,
+      "char_end": 1310,
+      "text": "Los levitas en días de Eliasib, de Joiada, de Johanán y de Jadúa fueron inscritos por jefes de familias; también los sacerdotes, hasta el reinado de Darío el persa."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1310,
+      "char_end": 1436,
+      "text": "Los hijos de Leví, jefes de familias, fueron inscritos en el libro de las crónicas hasta los días de Johanán hijo de Eliasib."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1436,
+      "char_end": 1636,
+      "text": "Los principales de los levitas: Hasabías, Serebías, Jesúa hijo de Cadmiel, y sus hermanos delante de ellos, para alabar y dar gracias, conforme al estatuto de David varón de Dios, guardando su turno."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1636,
+      "char_end": 1761,
+      "text": "Matanías, Bacbuquías, Obadías, Mesulam, Talmón y Acub, guardas, eran porteros para la guardia a las entradas de las puertas."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 1761,
+      "char_end": 1920,
+      "text": "Éstos fueron en los días de Joiacim hijo de Jesúa, hijo de Josadac, y en los días del gobernador Nehemías y del sacerdote Esdras, escriba. Dedicación del muro"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 1920,
+      "char_end": 2135,
+      "text": "Para la dedicación del muro de Jerusalén, buscaron a los levitas de todos sus lugares para traerlos a Jerusalén, para hacer la dedicación y la fiesta con alabanzas y con cánticos, con címbalos, salterios y cítaras."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2135,
+      "char_end": 2259,
+      "text": "Y fueron reunidos los hijos de los cantores, así de la región alrededor de Jerusalén como de las aldeas de los netofatitas;"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2259,
+      "char_end": 2392,
+      "text": "y de la casa de Gilgal, y de los campos de Geba y de Azmavet; porque los cantores se habían edificado aldeas alrededor de Jerusalén."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2392,
+      "char_end": 2490,
+      "text": "Y se purificaron los sacerdotes y los levitas; y purificaron al pueblo, y las puertas, y el muro."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2490,
+      "char_end": 2661,
+      "text": "Hice luego subir a los príncipes de Judá sobre el muro, y puse dos coros grandes que fueron en procesión; el uno a la derecha, sobre el muro, hacia la puerta del Muladar."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2661,
+      "char_end": 2727,
+      "text": "E iba tras de ellos Osaías con la mitad de los príncipes de Judá,"
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 2727,
+      "char_end": 2755,
+      "text": "y Azarías, Esdras, Mesulam,"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 2755,
+      "char_end": 2792,
+      "text": "Judá y Benjamín, Semaías y Jeremías."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 2792,
+      "char_end": 2951,
+      "text": "Y de los hijos de los sacerdotes iban con trompetas Zacarías hijo de Jonatán, hijo de Semaías, hijo de Matanías, hijo de Micaías, hijo de Zacur, hijo de Asaf;"
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 2951,
+      "char_end": 3126,
+      "text": "y sus hermanos Semaías, Azarael, Milalai, Gilalai, Maai, Natanael, Judá y Hanani, con los instrumentos musicales de David varón de Dios; y el escriba Esdras delante de ellos."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3126,
+      "char_end": 3310,
+      "text": "Y a la puerta de la Fuente, en frente de ellos, subieron por las gradas de la ciudad de David, por la subida del muro, desde la casa de David hasta la puerta de las Aguas, al oriente."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 3310,
+      "char_end": 3456,
+      "text": "El segundo coro iba del lado opuesto, y yo en pos de él, con la mitad del pueblo sobre el muro, desde la torre de los Hornos hasta el muro ancho;"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 3456,
+      "char_end": 3652,
+      "text": "y desde la puerta de Efraín hasta la puerta Vieja y a la puerta del Pescado, y la torre de Hananeel, y la torre de Hamea, hasta la puerta de las Ovejas; y se detuvieron en la puerta de la Cárcel."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 3652,
+      "char_end": 3743,
+      "text": "Llegaron luego los dos coros a la casa de Dios; y yo, y la mitad de los oficiales conmigo,"
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 3743,
+      "char_end": 3844,
+      "text": "y los sacerdotes Eliacim, Maaseías, Miniamín, Micaías, Elioenai, Zacarías y Hananías, con trompetas;"
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 3844,
+      "char_end": 3975,
+      "text": "y Maasías, Semaías, Eleazar, Uzi, Johanán, Malquías, Elam y Ezer. Y los cantores cantaban en alta voz, e Izrahías era el director."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 3975,
+      "char_end": 4227,
+      "text": "Y sacrificaron aquel día numerosas víctimas, y se regocijaron, porque Dios los había recreado con grande contentamiento; se alegraron también las mujeres y los niños; y el alborozo de Jerusalén fue oído desde lejos. Porciones para sacerdotes y levitas"
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 4227,
+      "char_end": 4543,
+      "text": "En aquel día fueron puestos varones sobre las cámaras de los tesoros, de las ofrendas, de las primicias y de los diezmos, para recoger en ellas, de los ejidos de las ciudades, las porciones legales para los sacerdotes y levitas; porque era grande el gozo de Judá con respecto a los sacerdotes y levitas que servían."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 4543,
+      "char_end": 4710,
+      "text": "Y habían cumplido el servicio de su Dios, y el servicio de la expiación, como también los cantores y los porteros, conforme al estatuto de David y de Salomón su hijo."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 4710,
+      "char_end": 4856,
+      "text": "Porque desde el tiempo de David y de Asaf, ya de antiguo, había un director de cantores para los cánticos y alabanzas y acción de gracias a Dios."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 4856,
+      "char_end": 5086,
+      "text": "Y todo Israel en días de Zorobabel y en días de Nehemías daba alimentos a los cantores y a los porteros, cada cosa en su día; consagraban asimismo sus porciones a los levitas, y los levitas consagraban parte a los hijos de Aarón."
+    }
+  ],
+  "words": [
+    {
+      "word": "Éstos son los sacerdotes y levitas que subieron con Zorobabel hijo de Salatiel, y con Jesúa: Seraías, Jeremías, Esdras, Amarías, Maluc, Hatús, Secanías, Rehum, Meremot, Iddo, Gineto, Abías, Mijamín, Maadías, Bilga, Semaías, Joiarib, Jedaías, Salú, Amoc, Hilcías y Jedaías.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 22875,
+      "duration_ms": 22775
+    },
+    {
+      "word": "éstos eran los príncipes de los sacerdotes y sus hermanos en los días de Jesúa.",
+      "verse": 7,
+      "start_ms": 22875,
+      "end_ms": 27725,
+      "duration_ms": 4850
+    },
+    {
+      "word": "Y los levitas: Jesúa, Binúi, Cadmiel, Serebías, Judá y Matanías, que con sus hermanos oficiaba en los cantos de alabanza.",
+      "verse": 8,
+      "start_ms": 27725,
+      "end_ms": 36987,
+      "duration_ms": 9262
+    },
+    {
+      "word": "Y Bacbuquías y Uni, sus hermanos, cada cual en su ministerio.",
+      "verse": 9,
+      "start_ms": 36987,
+      "end_ms": 41912,
+      "duration_ms": 4925
+    },
+    {
+      "word": "Jesúa engendró a Joiacim, y Joiacim engendró a Eliasib, y Eliasib engendró a Joiada; Joiada engendró a Jonatán, y Jonatán engendró a Jadúa.",
+      "verse": 10,
+      "start_ms": 41912,
+      "end_ms": 51574,
+      "duration_ms": 9662
+    },
+    {
+      "word": "Y en los días de Joiacim los sacerdotes jefes de familias fueron: de Seraías, Meraías; de Jeremías, Hananías; de Esdras, Mesulam; de Amarías, Johanán; de Melicú, Jonatán; de Sebanías, José; de Harim, Adna; de Meraiot, Helcai; de Iddo, Zacarías; de Ginetón, Mesulam; de Abías, Zicri; de Miniamín, de Moadías, Piltai; de Bilga, Samúa; de Semaías, Jonatán; de Joiarib, Matenai; de Jedaías, Uzi; de Salai, Calai; de Amoc, Eber; de Hilcías, Hasabías; de Jedaías, Natanael.",
+      "verse": 12,
+      "start_ms": 51575,
+      "end_ms": 91075,
+      "duration_ms": 39500
+    },
+    {
+      "word": "Los levitas en días de Eliasib, de Joiada, de Johanán y de Jadúa fueron inscritos por jefes de familias; también los sacerdotes, hasta el reinado de Darío el persa.",
+      "verse": 22,
+      "start_ms": 91075,
+      "end_ms": 101450,
+      "duration_ms": 10375
+    },
+    {
+      "word": "Los hijos de Leví, jefes de familias, fueron inscritos en el libro de las crónicas hasta los días de Johanán hijo de Eliasib.",
+      "verse": 23,
+      "start_ms": 101450,
+      "end_ms": 109025,
+      "duration_ms": 7575
+    },
+    {
+      "word": "Los principales de los levitas: Hasabías, Serebías, Jesúa hijo de Cadmiel, y sus hermanos delante de ellos, para alabar y dar gracias, conforme al estatuto de David varón de Dios, guardando su turno.",
+      "verse": 24,
+      "start_ms": 109025,
+      "end_ms": 122337,
+      "duration_ms": 13312
+    },
+    {
+      "word": "Matanías, Bacbuquías, Obadías, Mesulam, Talmón y Acub, guardas, eran porteros para la guardia a las entradas de las puertas.",
+      "verse": 25,
+      "start_ms": 122337,
+      "end_ms": 131812,
+      "duration_ms": 9475
+    },
+    {
+      "word": "Éstos fueron en los días de Joiacim hijo de Jesúa, hijo de Josadac, y en los días del gobernador Nehemías y del sacerdote Esdras, escriba.",
+      "verse": 26,
+      "start_ms": 131812,
+      "end_ms": 140774,
+      "duration_ms": 8962
+    },
+    {
+      "word": "Dedicación del muro Para la dedicación del muro de Jerusalén, buscaron a los levitas de todos sus lugares para traerlos a Jerusalén, para hacer la dedicación y la fiesta con alabanzas y con cánticos, con címbalos, salterios y cítaras.",
+      "verse": 26,
+      "start_ms": 140775,
+      "end_ms": 155050,
+      "duration_ms": 14275
+    },
+    {
+      "word": "Y fueron reunidos los hijos de los cantores, así de la región alrededor de Jerusalén como de las aldeas de los netofatitas; y de la casa de Gilgal, y de los campos de Geba y de Azmavet; porque los cantores se habían edificado aldeas alrededor de Jerusalén.",
+      "verse": 28,
+      "start_ms": 155050,
+      "end_ms": 169987,
+      "duration_ms": 14937
+    },
+    {
+      "word": "Y se purificaron los sacerdotes y los levitas; y purificaron al pueblo, y las puertas, y el muro.",
+      "verse": 30,
+      "start_ms": 169987,
+      "end_ms": 176699,
+      "duration_ms": 6712
+    },
+    {
+      "word": "Hice luego subir a los príncipes de Judá sobre el muro, y puse dos coros grandes que fueron en procesión; el uno a la derecha, sobre el muro, hacia la puerta del Muladar.",
+      "verse": 31,
+      "start_ms": 176700,
+      "end_ms": 187037,
+      "duration_ms": 10337
+    },
+    {
+      "word": "E iba tras de ellos Osaías con la mitad de los príncipes de Judá, y Azarías, Esdras, Mesulam, Judá y Benjamín, Semaías y Jeremías.",
+      "verse": 32,
+      "start_ms": 187037,
+      "end_ms": 196724,
+      "duration_ms": 9687
+    },
+    {
+      "word": "Y de los hijos de los sacerdotes iban con trompetas Zacarías hijo de Jonatán, hijo de Semaías, hijo de Matanías, hijo de Micaías, hijo de Zacur, hijo de Asaf; y sus hermanos Semaías, Azarael, Milalai, Gilalai, Maai, Natanael, Judá y Hanani, con los instrumentos musicales de David varón de Dios; y el escriba Esdras delante de ellos.",
+      "verse": 35,
+      "start_ms": 196725,
+      "end_ms": 219237,
+      "duration_ms": 22512
+    },
+    {
+      "word": "Y a la puerta de la Fuente, en frente de ellos, subieron por las gradas de la ciudad de David, por la subida del muro, desde la casa de David hasta la puerta de las Aguas, al oriente.",
+      "verse": 37,
+      "start_ms": 219237,
+      "end_ms": 230187,
+      "duration_ms": 10950
+    },
+    {
+      "word": "El segundo coro iba del lado opuesto, y yo en pos de él, con la mitad del pueblo sobre el muro, desde la torre de los Hornos hasta el muro ancho; y desde la puerta de Efraín hasta la puerta Vieja y a la puerta del Pescado, y la torre de Hananeel, y la torre de Hamea, hasta la puerta de las Ovejas; y se detuvieron en la puerta de la Cárcel.",
+      "verse": 38,
+      "start_ms": 230187,
+      "end_ms": 249674,
+      "duration_ms": 19487
+    },
+    {
+      "word": "Llegaron luego los dos coros a la casa de Dios; y yo, y la mitad de los oficiales conmigo, y los sacerdotes Eliacim, Maaseías, Miniamín, Micaías, Elioenai, Zacarías y Hananías, con trompetas; y Maasías, Semaías, Eleazar, Uzi, Johanán, Malquías, Elam y Ezer.",
+      "verse": 40,
+      "start_ms": 249675,
+      "end_ms": 269975,
+      "duration_ms": 20300
+    },
+    {
+      "word": "Y los cantores cantaban en alta voz, e Izrahías era el",
+      "verse": 42,
+      "start_ms": 269975,
+      "end_ms": 274300,
+      "duration_ms": 4325
+    },
+    {
+      "word": "director.",
+      "verse": 42,
+      "start_ms": 274468,
+      "end_ms": 276068,
+      "duration_ms": 1600
+    },
+    {
+      "word": "Y sacrificaron aquel día numerosas víctimas, y se regocijaron, porque Dios los había recreado con grande contentamiento; se alegraron también las mujeres y los niños; y el alborozo de Jerusalén fue oído desde lejos.",
+      "verse": 43,
+      "start_ms": 276018,
+      "end_ms": 289330,
+      "duration_ms": 13312
+    },
+    {
+      "word": "Porciones para sacerdotes y levitas En aquel día fueron puestos varones sobre las cámaras de los tesoros, de las ofrendas, de las primicias y de los diezmos, para recoger en ellas, de los ejidos de las ciudades, las porciones legales para los sacerdotes y levitas; porque era grande el gozo de Judá con respecto a los sacerdotes y levitas que servían.",
+      "verse": 43,
+      "start_ms": 289330,
+      "end_ms": 309017,
+      "duration_ms": 19687
+    },
+    {
+      "word": "Y habían cumplido el servicio de su Dios, y el servicio de la expiación, como también los cantores y los porteros, conforme al estatuto de David y de Salomón su hijo.",
+      "verse": 45,
+      "start_ms": 309018,
+      "end_ms": 318905,
+      "duration_ms": 9887
+    },
+    {
+      "word": "Porque desde el tiempo de David y de Asaf, ya de antiguo, había un director de cantores para los cánticos y alabanzas y acción de gracias a Dios.",
+      "verse": 46,
+      "start_ms": 318905,
+      "end_ms": 327330,
+      "duration_ms": 8425
+    },
+    {
+      "word": "Y todo Israel en días de Zorobabel y en días de Nehemías daba alimentos a los cantores y a los porteros, cada cosa en su día; consagraban asimismo sus porciones a los levitas, y los levitas consagraban parte a los hijos de Aarón.",
+      "verse": 47,
+      "start_ms": 327330,
+      "end_ms": 340942,
+      "duration_ms": 13612
+    }
+  ]
+}

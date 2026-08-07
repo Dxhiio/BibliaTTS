@@ -1,0 +1,292 @@
+{
+  "book": "JER",
+  "chapter": 12,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 17,
+  "word_count": 23,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 194,
+      "text": "Justo eres tú, oh Jehová, para que yo dispute contigo; sin embargo, alegaré mi causa ante ti. ¿Por qué es prosperado el camino de los impíos, y tienen bien todos los que se portan deslealmente?"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 194,
+      "char_end": 313,
+      "text": "Los plantaste, y echaron raíces; crecieron y dieron fruto; cercano estás tú en sus bocas, pero lejos de sus corazones."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 313,
+      "char_end": 477,
+      "text": "Pero tú, oh Jehová, me conoces; me viste, y probaste mi corazón para contigo; arrebátalos como a ovejas para el degolladero, y señálalos para el día de la matanza."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 477,
+      "char_end": 672,
+      "text": "¿Hasta cuándo estará desierta la tierra, y marchita la hierba de todo el campo? Por la maldad de los que en ella moran, faltaron los ganados y las aves; porque dijeron: No verá Dios nuestro fin."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 672,
+      "char_end": 836,
+      "text": "Si corriste con los de a pie, y te cansaron, ¿cómo contenderás con los caballos? Y si en la tierra de paz no estabas seguro, ¿cómo harás en la espesura del Jordán?"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 836,
+      "char_end": 991,
+      "text": "Porque aun tus hermanos y la casa de tu padre, aun ellos se levantaron contra ti, aun ellos dieron grito en pos de ti. No los creas cuando bien te hablen."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 991,
+      "char_end": 1091,
+      "text": "He dejado mi casa, desamparé mi heredad, he entregado lo que amaba mi alma en mano de sus enemigos."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1091,
+      "char_end": 1186,
+      "text": "Mi heredad fue para mí como león en la selva; contra mí dio su rugido; por tanto, la aborrecí."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1186,
+      "char_end": 1369,
+      "text": "¿Es mi heredad para mí como ave de rapiña de muchos colores? ¿No están contra ella aves de rapiña en derredor? Venid, reuníos, vosotras todas las fieras del campo, venid a devorarla."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1369,
+      "char_end": 1485,
+      "text": "Muchos pastores han destruido mi viña, hollaron mi heredad, convirtieron en desierto y soledad mi heredad preciosa."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1485,
+      "char_end": 1607,
+      "text": "Fue puesta en asolamiento, y lloró sobre mí desolada; fue asolada toda la tierra, porque no hubo hombre que reflexionase."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1607,
+      "char_end": 1781,
+      "text": "Sobre todas las alturas del desierto vinieron destruidores; porque la espada de Jehová devorará desde un extremo de la tierra hasta el otro; no habrá paz para ninguna carne."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1781,
+      "char_end": 1933,
+      "text": "Sembraron trigo, y segaron espinos; tuvieron la heredad, mas no aprovecharon nada; se avergonzarán de sus frutos, a causa de la ardiente ira de Jehová."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1933,
+      "char_end": 2133,
+      "text": "Así dijo Jehová contra todos mis malos vecinos, que tocan la heredad que hice poseer a mi pueblo Israel: He aquí que yo los arrancaré de su tierra, y arrancaré de en medio de ellos a la casa de Judá."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2133,
+      "char_end": 2272,
+      "text": "Y después que los haya arrancado, volveré y tendré misericordia de ellos, y los haré volver cada uno a su heredad y cada cual a su tierra."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2272,
+      "char_end": 2474,
+      "text": "Y si cuidadosamente aprendieren los caminos de mi pueblo, para jurar en mi nombre, diciendo: Vive Jehová, así como enseñaron a mi pueblo a jurar por Baal, ellos serán prosperados en medio de mi pueblo."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2474,
+      "char_end": 2562,
+      "text": "Mas si no oyeren, arrancaré esa nación, sacándola de raíz y destruyéndola, dice Jehová."
+    }
+  ],
+  "words": [
+    {
+      "word": "Justo eres tú, oh Jehová, para que yo dispute contigo; sin embargo, alegaré mi causa ante ti.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7275,
+      "duration_ms": 7175
+    },
+    {
+      "word": "Por qué es prosperado el camino de los impíos, y tienen bien todos los que se portan deslealmente?",
+      "verse": 1,
+      "start_ms": 7225,
+      "end_ms": 13350,
+      "duration_ms": 6125
+    },
+    {
+      "word": "Los plantaste, y echaron raíces; crecieron y dieron fruto; cercano estás tú en sus bocas, pero lejos de sus corazones.",
+      "verse": 2,
+      "start_ms": 13350,
+      "end_ms": 21900,
+      "duration_ms": 8550
+    },
+    {
+      "word": "Pero tú, oh Jehová, me conoces; me viste, y probaste mi corazón para contigo; arrebátalos como a ovejas para el degolladero, y señálalos para el día de la matanza.",
+      "verse": 3,
+      "start_ms": 21900,
+      "end_ms": 32837,
+      "duration_ms": 10937
+    },
+    {
+      "word": "Hasta cuándo estará desierta la tierra, y marchita la hierba de todo el campo?",
+      "verse": 4,
+      "start_ms": 32837,
+      "end_ms": 37787,
+      "duration_ms": 4950
+    },
+    {
+      "word": "Por la maldad de los que en ella moran, faltaron los ganados y las aves; porque dijeron: No verá Dios nuestro fin.",
+      "verse": 4,
+      "start_ms": 37787,
+      "end_ms": 45262,
+      "duration_ms": 7475
+    },
+    {
+      "word": "Si corriste con los de a pie, y te cansaron, ¿cómo contenderás con los caballos?",
+      "verse": 5,
+      "start_ms": 45262,
+      "end_ms": 50774,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Y si en la tierra de paz no estabas seguro, ¿cómo harás en la espesura del Jordán?",
+      "verse": 5,
+      "start_ms": 50775,
+      "end_ms": 55887,
+      "duration_ms": 5112
+    },
+    {
+      "word": "Porque aun tus hermanos y la casa de tu padre, aun ellos se levantaron contra ti, aun ellos dieron grito en pos de ti.",
+      "verse": 6,
+      "start_ms": 55887,
+      "end_ms": 63037,
+      "duration_ms": 7150
+    },
+    {
+      "word": "No los creas cuando bien te hablen.",
+      "verse": 6,
+      "start_ms": 63037,
+      "end_ms": 65724,
+      "duration_ms": 2687
+    },
+    {
+      "word": "He dejado mi casa, desamparé mi heredad, he entregado lo que amaba mi alma en mano de sus enemigos.",
+      "verse": 7,
+      "start_ms": 65725,
+      "end_ms": 72287,
+      "duration_ms": 6562
+    },
+    {
+      "word": "Mi heredad fue para mí como león en la selva; contra mí dio su rugido; por tanto, la aborrecí.",
+      "verse": 8,
+      "start_ms": 72287,
+      "end_ms": 78812,
+      "duration_ms": 6525
+    },
+    {
+      "word": "Es mi heredad para mí como ave de rapiña de muchos colores?",
+      "verse": 9,
+      "start_ms": 78812,
+      "end_ms": 82824,
+      "duration_ms": 4012
+    },
+    {
+      "word": "No están contra ella aves de rapiña en derredor?",
+      "verse": 9,
+      "start_ms": 82825,
+      "end_ms": 86250,
+      "duration_ms": 3425
+    },
+    {
+      "word": "Venid, reuníos, vosotras todas las fieras del campo, venid a devorarla.",
+      "verse": 9,
+      "start_ms": 86250,
+      "end_ms": 91825,
+      "duration_ms": 5575
+    },
+    {
+      "word": "Muchos pastores han destruido mi viña, hollaron mi heredad, convirtieron en desierto y soledad mi heredad preciosa.",
+      "verse": 10,
+      "start_ms": 91825,
+      "end_ms": 99075,
+      "duration_ms": 7250
+    },
+    {
+      "word": "Fue puesta en asolamiento, y lloró sobre mí desolada; fue asolada toda la tierra, porque no hubo hombre que reflexionase.",
+      "verse": 11,
+      "start_ms": 99075,
+      "end_ms": 107062,
+      "duration_ms": 7987
+    },
+    {
+      "word": "Sobre todas las alturas del desierto vinieron destruidores; porque la espada de Jehová devorará desde un extremo de la tierra hasta el otro; no habrá paz para ninguna carne.",
+      "verse": 12,
+      "start_ms": 107062,
+      "end_ms": 117112,
+      "duration_ms": 10050
+    },
+    {
+      "word": "Sembraron trigo, y segaron espinos; tuvieron la heredad, mas no aprovecharon nada; se avergonzarán de sus frutos, a causa de la ardiente ira de Jehová.",
+      "verse": 13,
+      "start_ms": 117112,
+      "end_ms": 127287,
+      "duration_ms": 10175
+    },
+    {
+      "word": "Así dijo Jehová contra todos mis malos vecinos, que tocan la heredad que hice poseer a mi pueblo Israel: He aquí que yo los arrancaré de su tierra, y arrancaré de en medio de ellos a la casa de Judá.",
+      "verse": 14,
+      "start_ms": 127287,
+      "end_ms": 139149,
+      "duration_ms": 11862
+    },
+    {
+      "word": "Y después que los haya arrancado, volveré y tendré misericordia de ellos, y los haré volver cada uno a su heredad y cada cual a su tierra.",
+      "verse": 15,
+      "start_ms": 139150,
+      "end_ms": 147575,
+      "duration_ms": 8425
+    },
+    {
+      "word": "Y si cuidadosamente aprendieren los caminos de mi pueblo, para jurar en mi nombre, diciendo: Vive Jehová, así como enseñaron a mi pueblo a jurar por Baal, ellos serán prosperados en medio de mi pueblo.",
+      "verse": 16,
+      "start_ms": 147575,
+      "end_ms": 159400,
+      "duration_ms": 11825
+    },
+    {
+      "word": "Mas si no oyeren, arrancaré esa nación, sacándola de raíz y destruyéndola, dice Jehová.",
+      "verse": 17,
+      "start_ms": 159400,
+      "end_ms": 166062,
+      "duration_ms": 6662
+    }
+  ]
+}

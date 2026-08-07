@@ -1,0 +1,180 @@
+{
+  "book": "SAL",
+  "chapter": 5,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 12,
+  "word_count": 12,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 54,
+      "text": "Escucha, oh Jehová, mis palabras; Considera mi gemir."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 54,
+      "char_end": 128,
+      "text": "Está atento a la voz de mi clamor, Rey mío y Dios mío, Porque a ti oraré."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 128,
+      "char_end": 214,
+      "text": "Oh Jehová, de mañana oirás mi voz; De mañana me presentaré delante de ti, y esperaré."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 214,
+      "char_end": 302,
+      "text": "Porque tú no eres un Dios que se complace en la maldad; El malo no habitará junto a ti."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 302,
+      "char_end": 392,
+      "text": "Los insensatos no estarán delante de tus ojos; Aborreces a todos los que hacen iniquidad."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 392,
+      "char_end": 481,
+      "text": "Destruirás a los que hablan mentira; Al hombre sanguinario y engañador abominará Jehová."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 481,
+      "char_end": 588,
+      "text": "Mas yo por la abundancia de tu misericordia entraré en tu casa; Adoraré hacia tu santo templo en tu temor."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 588,
+      "char_end": 679,
+      "text": "Guíame, Jehová, en tu justicia, a causa de mis enemigos; Endereza delante de mí tu camino."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 679,
+      "char_end": 814,
+      "text": "Porque en la boca de ellos no hay sinceridad; Sus entrañas son maldad, Sepulcro abierto es su garganta, Con su lengua hablan lisonjas."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 814,
+      "char_end": 951,
+      "text": "Castígalos, oh Dios; Caigan por sus mismos consejos; Por la multitud de sus transgresiones échalos fuera, Porque se rebelaron contra ti."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 951,
+      "char_end": 1097,
+      "text": "Pero alégrense todos los que en ti confían; Den voces de júbilo para siempre, porque tú los defiendes; En ti se regocijen los que aman tu nombre."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1097,
+      "char_end": 1184,
+      "text": "Porque tú, oh Jehová, bendecirás al justo; Como con un escudo lo rodearás de tu favor."
+    }
+  ],
+  "words": [
+    {
+      "word": "Escucha, oh Jehová, mis palabras; Considera mi gemir.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4775,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Está atento a la voz de mi clamor, Rey mío y Dios mío, Porque a ti oraré.",
+      "verse": 2,
+      "start_ms": 4725,
+      "end_ms": 10112,
+      "duration_ms": 5387
+    },
+    {
+      "word": "Oh Jehová, de mañana oirás mi voz; De mañana me presentaré delante de ti, y esperaré.",
+      "verse": 3,
+      "start_ms": 10112,
+      "end_ms": 16537,
+      "duration_ms": 6425
+    },
+    {
+      "word": "Porque tú no eres un Dios que se complace en la maldad; El malo no habitará junto a ti.",
+      "verse": 4,
+      "start_ms": 16537,
+      "end_ms": 21912,
+      "duration_ms": 5375
+    },
+    {
+      "word": "Los insensatos no estarán delante de tus ojos; Aborreces a todos los que hacen iniquidad.",
+      "verse": 5,
+      "start_ms": 21912,
+      "end_ms": 27899,
+      "duration_ms": 5987
+    },
+    {
+      "word": "Destruirás a los que hablan mentira; Al hombre sanguinario y engañador abominará Jehová.",
+      "verse": 6,
+      "start_ms": 27900,
+      "end_ms": 33587,
+      "duration_ms": 5687
+    },
+    {
+      "word": "Mas yo por la abundancia de tu misericordia entraré en tu casa; Adoraré hacia tu santo templo en tu temor.",
+      "verse": 7,
+      "start_ms": 33587,
+      "end_ms": 40124,
+      "duration_ms": 6537
+    },
+    {
+      "word": "Guíame, Jehová, en tu justicia, a causa de mis enemigos; Endereza delante de mí tu camino.",
+      "verse": 8,
+      "start_ms": 40125,
+      "end_ms": 47050,
+      "duration_ms": 6925
+    },
+    {
+      "word": "Porque en la boca de ellos no hay sinceridad; Sus entrañas son maldad, Sepulcro abierto es su garganta, Con su lengua hablan lisonjas.",
+      "verse": 9,
+      "start_ms": 47050,
+      "end_ms": 55650,
+      "duration_ms": 8600
+    },
+    {
+      "word": "Castígalos, oh Dios; Caigan por sus mismos consejos; Por la multitud de sus transgresiones échalos fuera, Porque se rebelaron contra ti.",
+      "verse": 10,
+      "start_ms": 55650,
+      "end_ms": 64550,
+      "duration_ms": 8900
+    },
+    {
+      "word": "Pero alégrense todos los que en ti confían; Den voces de júbilo para siempre, porque tú los defiendes; En ti se regocijen los que aman tu nombre.",
+      "verse": 11,
+      "start_ms": 64550,
+      "end_ms": 73412,
+      "duration_ms": 8862
+    },
+    {
+      "word": "Porque tú, oh Jehová, bendecirás al justo; Como con un escudo lo rodearás de tu favor.",
+      "verse": 12,
+      "start_ms": 73412,
+      "end_ms": 79674,
+      "duration_ms": 6262
+    }
+  ]
+}

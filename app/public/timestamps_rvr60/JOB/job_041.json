@@ -1,0 +1,523 @@
+{
+  "book": "JOB",
+  "chapter": 41,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 34,
+  "word_count": 39,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 77,
+      "text": "¿Sacarás tú al leviatán con anzuelo, O con cuerda que le eches en su lengua?"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 77,
+      "char_end": 145,
+      "text": "¿Pondrás tú soga en sus narices, Y horadarás con garfio su quijada?"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 145,
+      "char_end": 208,
+      "text": "¿Multiplicará él ruegos para contigo? ¿Te hablará él lisonjas?"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 208,
+      "char_end": 267,
+      "text": "¿Hará pacto contigo Para que lo tomes por siervo perpetuo?"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 267,
+      "char_end": 328,
+      "text": "¿Jugarás con él como con pájaro, O lo atarás para tus niñas?"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 328,
+      "char_end": 403,
+      "text": "¿Harán de él banquete los compañeros? ¿Lo repartirán entre los mercaderes?"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 403,
+      "char_end": 475,
+      "text": "¿Cortarás tú con cuchillo su piel, O con arpón de pescadores su cabeza?"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 475,
+      "char_end": 547,
+      "text": "Pon tu mano sobre él; Te acordarás de la batalla, y nunca más volverás."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 547,
+      "char_end": 641,
+      "text": "He aquí que la esperanza acerca de él será burlada, Porque aun a su sola vista se desmayarán."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 641,
+      "char_end": 720,
+      "text": "Nadie hay tan osado que lo despierte; ¿Quién, pues, podrá estar delante de mí?"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 720,
+      "char_end": 816,
+      "text": "¿Quién me ha dado a mí primero, para que yo restituya? Todo lo que hay debajo del cielo es mío."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 816,
+      "char_end": 909,
+      "text": "No guardaré silencio sobre sus miembros, Ni sobre sus fuerzas y la gracia de su disposición."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 909,
+      "char_end": 1001,
+      "text": "¿Quién descubrirá la delantera de su vestidura? ¿Quién se acercará a él con su freno doble?"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1001,
+      "char_end": 1078,
+      "text": "¿Quién abrirá las puertas de su rostro? Las hileras de sus dientes espantan."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1078,
+      "char_end": 1156,
+      "text": "La gloria de su vestido son escudos fuertes, Cerrados entre sí estrechamente."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1156,
+      "char_end": 1218,
+      "text": "El uno se junta con el otro, Que viento no entra entre ellos."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1218,
+      "char_end": 1301,
+      "text": "Pegado está el uno con el otro; Están trabados entre sí, que no se pueden apartar."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1301,
+      "char_end": 1380,
+      "text": "Con sus estornudos enciende lumbre, Y sus ojos son como los párpados del alba."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1380,
+      "char_end": 1445,
+      "text": "De su boca salen hachones de fuego; Centellas de fuego proceden."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1445,
+      "char_end": 1510,
+      "text": "De sus narices sale humo, Como de una olla o caldero que hierve."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1510,
+      "char_end": 1569,
+      "text": "Su aliento enciende los carbones, Y de su boca sale llama."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1569,
+      "char_end": 1640,
+      "text": "En su cerviz está la fuerza, Y delante de él se esparce el desaliento."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1640,
+      "char_end": 1729,
+      "text": "Las partes más flojas de su carne están endurecidas; Están en él firmes, y no se mueven."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1729,
+      "char_end": 1799,
+      "text": "Su corazón es firme como una piedra, Y fuerte como la muela de abajo."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1799,
+      "char_end": 1896,
+      "text": "De su grandeza tienen temor los fuertes, Y a causa de su desfallecimiento hacen por purificarse."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 1896,
+      "char_end": 1975,
+      "text": "Cuando alguno lo alcanzare, Ni espada, ni lanza, ni dardo, ni coselete durará."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 1975,
+      "char_end": 2034,
+      "text": "Estima como paja el hierro, Y el bronce como leño podrido."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2034,
+      "char_end": 2096,
+      "text": "Saeta no le hace huir; Las piedras de honda le son como paja."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2096,
+      "char_end": 2166,
+      "text": "Tiene toda arma por hojarasca, Y del blandir de la jabalina se burla."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2166,
+      "char_end": 2230,
+      "text": "Por debajo tiene agudas conchas; Imprime su agudez en el suelo."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2230,
+      "char_end": 2312,
+      "text": "Hace hervir como una olla el mar profundo, Y lo vuelve como una olla de ungüento."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2312,
+      "char_end": 2387,
+      "text": "En pos de sí hace resplandecer la senda, Que parece que el abismo es cano."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 2387,
+      "char_end": 2461,
+      "text": "No hay sobre la tierra quien se le parezca; Animal hecho exento de temor."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 2461,
+      "char_end": 2523,
+      "text": "Menosprecia toda cosa alta; Es rey sobre todos los soberbios."
+    }
+  ],
+  "words": [
+    {
+      "word": "Sacarás tú al leviatán con anzuelo, O con cuerda que le eches en su lengua?",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5075,
+      "duration_ms": 4975
+    },
+    {
+      "word": "Pondrás tú soga en sus narices, Y horadarás con garfio su quijada?",
+      "verse": 2,
+      "start_ms": 5025,
+      "end_ms": 9800,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Multiplicará él ruegos para contigo?",
+      "verse": 3,
+      "start_ms": 9800,
+      "end_ms": 12650,
+      "duration_ms": 2850
+    },
+    {
+      "word": "Te hablará él lisonjas?",
+      "verse": 3,
+      "start_ms": 12650,
+      "end_ms": 14850,
+      "duration_ms": 2200
+    },
+    {
+      "word": "Hará pacto contigo Para que lo tomes por siervo perpetuo?",
+      "verse": 4,
+      "start_ms": 14850,
+      "end_ms": 18712,
+      "duration_ms": 3862
+    },
+    {
+      "word": "Jugarás con él como con pájaro, O lo atarás para tus niñas?",
+      "verse": 5,
+      "start_ms": 18712,
+      "end_ms": 22912,
+      "duration_ms": 4200
+    },
+    {
+      "word": "Harán de él banquete los compañeros?",
+      "verse": 6,
+      "start_ms": 22912,
+      "end_ms": 25687,
+      "duration_ms": 2775
+    },
+    {
+      "word": "Lo repartirán entre los mercaderes?",
+      "verse": 6,
+      "start_ms": 25687,
+      "end_ms": 28574,
+      "duration_ms": 2887
+    },
+    {
+      "word": "Cortarás tú con cuchillo su piel, O con arpón de pescadores su cabeza?",
+      "verse": 7,
+      "start_ms": 28575,
+      "end_ms": 33250,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Pon tu mano sobre él; Te acordarás de la batalla, y nunca más volverás.",
+      "verse": 8,
+      "start_ms": 33250,
+      "end_ms": 38462,
+      "duration_ms": 5212
+    },
+    {
+      "word": "He aquí que la esperanza acerca de él será burlada, Porque aun a su sola vista se desmayarán.",
+      "verse": 9,
+      "start_ms": 38462,
+      "end_ms": 44537,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Nadie hay tan osado que lo despierte; ¿Quién, pues, podrá estar delante de mí?",
+      "verse": 10,
+      "start_ms": 44537,
+      "end_ms": 50174,
+      "duration_ms": 5637
+    },
+    {
+      "word": "Quién me ha dado a mí primero, para que yo restituya?",
+      "verse": 11,
+      "start_ms": 50175,
+      "end_ms": 53937,
+      "duration_ms": 3762
+    },
+    {
+      "word": "Todo lo que hay debajo del cielo es mío.",
+      "verse": 11,
+      "start_ms": 53937,
+      "end_ms": 56774,
+      "duration_ms": 2837
+    },
+    {
+      "word": "No guardaré silencio sobre sus miembros, Ni sobre sus fuerzas y la gracia de su disposición.",
+      "verse": 12,
+      "start_ms": 56775,
+      "end_ms": 62587,
+      "duration_ms": 5812
+    },
+    {
+      "word": "Quién descubrirá la delantera de su vestidura?",
+      "verse": 13,
+      "start_ms": 62587,
+      "end_ms": 65799,
+      "duration_ms": 3212
+    },
+    {
+      "word": "Quién se acercará a él con su freno doble?",
+      "verse": 13,
+      "start_ms": 65800,
+      "end_ms": 68862,
+      "duration_ms": 3062
+    },
+    {
+      "word": "Quién abrirá las puertas de su rostro?",
+      "verse": 14,
+      "start_ms": 68862,
+      "end_ms": 71749,
+      "duration_ms": 2887
+    },
+    {
+      "word": "Las hileras de sus dientes espantan.",
+      "verse": 14,
+      "start_ms": 71750,
+      "end_ms": 74675,
+      "duration_ms": 2925
+    },
+    {
+      "word": "La gloria de su vestido son escudos fuertes, Cerrados entre sí estrechamente.",
+      "verse": 15,
+      "start_ms": 74675,
+      "end_ms": 80150,
+      "duration_ms": 5475
+    },
+    {
+      "word": "El uno se junta con el otro, Que viento no entra entre ellos.",
+      "verse": 16,
+      "start_ms": 80150,
+      "end_ms": 84625,
+      "duration_ms": 4475
+    },
+    {
+      "word": "Pegado está el uno con el otro; Están trabados entre sí, que no se pueden apartar.",
+      "verse": 17,
+      "start_ms": 84625,
+      "end_ms": 90225,
+      "duration_ms": 5600
+    },
+    {
+      "word": "Con sus estornudos enciende lumbre, Y sus ojos son como los párpados del alba.",
+      "verse": 18,
+      "start_ms": 90225,
+      "end_ms": 95437,
+      "duration_ms": 5212
+    },
+    {
+      "word": "De su boca salen hachones de fuego; Centellas de fuego proceden.",
+      "verse": 19,
+      "start_ms": 95437,
+      "end_ms": 100037,
+      "duration_ms": 4600
+    },
+    {
+      "word": "De sus narices sale humo, Como de una olla o caldero que hierve.",
+      "verse": 20,
+      "start_ms": 100037,
+      "end_ms": 104787,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Su aliento enciende los carbones, Y de su boca sale llama.",
+      "verse": 21,
+      "start_ms": 104787,
+      "end_ms": 108962,
+      "duration_ms": 4175
+    },
+    {
+      "word": "En su cerviz está la fuerza, Y delante de él se esparce el desaliento.",
+      "verse": 22,
+      "start_ms": 108962,
+      "end_ms": 113799,
+      "duration_ms": 4837
+    },
+    {
+      "word": "Las partes más flojas de su carne están endurecidas; Están en él firmes, y no se mueven.",
+      "verse": 23,
+      "start_ms": 113800,
+      "end_ms": 120000,
+      "duration_ms": 6200
+    },
+    {
+      "word": "Su corazón es firme como una piedra, Y fuerte como la muela de abajo.",
+      "verse": 24,
+      "start_ms": 120000,
+      "end_ms": 124900,
+      "duration_ms": 4900
+    },
+    {
+      "word": "De su grandeza tienen temor los fuertes, Y a causa de su desfallecimiento hacen por purificarse.",
+      "verse": 25,
+      "start_ms": 124900,
+      "end_ms": 131550,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Cuando alguno lo alcanzare, Ni espada, ni lanza, ni dardo, ni coselete durará.",
+      "verse": 26,
+      "start_ms": 131550,
+      "end_ms": 137625,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Estima como paja el hierro, Y el bronce como leño podrido.",
+      "verse": 27,
+      "start_ms": 137625,
+      "end_ms": 142062,
+      "duration_ms": 4437
+    },
+    {
+      "word": "Saeta no le hace huir; Las piedras de honda le son como paja.",
+      "verse": 28,
+      "start_ms": 142062,
+      "end_ms": 146787,
+      "duration_ms": 4725
+    },
+    {
+      "word": "Tiene toda arma por hojarasca, Y del blandir de la jabalina se burla.",
+      "verse": 29,
+      "start_ms": 146787,
+      "end_ms": 151562,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Por debajo tiene agudas conchas; Imprime su agudez en el suelo.",
+      "verse": 30,
+      "start_ms": 151562,
+      "end_ms": 155949,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Hace hervir como una olla el mar profundo, Y lo vuelve como una olla de ungüento.",
+      "verse": 31,
+      "start_ms": 155950,
+      "end_ms": 161262,
+      "duration_ms": 5312
+    },
+    {
+      "word": "En pos de sí hace resplandecer la senda, Que parece que el abismo es cano.",
+      "verse": 32,
+      "start_ms": 161262,
+      "end_ms": 166337,
+      "duration_ms": 5075
+    },
+    {
+      "word": "No hay sobre la tierra quien se le parezca; Animal hecho exento de temor.",
+      "verse": 33,
+      "start_ms": 166337,
+      "end_ms": 171124,
+      "duration_ms": 4787
+    },
+    {
+      "word": "Menosprecia toda cosa alta; Es rey sobre todos los soberbios.",
+      "verse": 34,
+      "start_ms": 171125,
+      "end_ms": 175875,
+      "duration_ms": 4750
+    }
+  ]
+}

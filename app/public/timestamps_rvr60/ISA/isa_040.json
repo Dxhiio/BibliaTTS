@@ -1,0 +1,488 @@
+{
+  "book": "ISA",
+  "chapter": 40,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 31,
+  "word_count": 37,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 53,
+      "text": "Consolaos, consolaos, pueblo mío, dice vuestro Dios."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 53,
+      "char_end": 225,
+      "text": "Hablad al corazón de Jerusalén; decidle a voces que su tiempo es ya cumplido, que su pecado es perdonado; que doble ha recibido de la mano de Jehová por todos sus pecados."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 225,
+      "char_end": 329,
+      "text": "Voz que clama en el desierto: Preparad camino a Jehová; enderezad calzada en la soledad a nuestro Dios."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 329,
+      "char_end": 432,
+      "text": "Todo valle sea alzado, y bájese todo monte y collado; y lo torcido se enderece, y lo áspero se allane."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 432,
+      "char_end": 540,
+      "text": "Y se manifestará la gloria de Jehová, y toda carne juntamente la verá; porque la boca de Jehová ha hablado."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 540,
+      "char_end": 674,
+      "text": "Voz que decía: Da voces. Y yo respondí: ¿Qué tengo que decir a voces? Que toda carne es hierba, y toda su gloria como flor del campo."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 674,
+      "char_end": 796,
+      "text": "La hierba se seca, y la flor se marchita, porque el viento de Jehová sopló en ella; ciertamente como hierba es el pueblo."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 796,
+      "char_end": 890,
+      "text": "Sécase la hierba, marchítase la flor; mas la palabra del Dios nuestro permanece para siempre."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 890,
+      "char_end": 1068,
+      "text": "Súbete sobre un monte alto, anunciadora de Sion; levanta fuertemente tu voz, anunciadora de Jerusalén; levántala, no temas; di a las ciudades de Judá: ¡Ved aquí al Dios vuestro!"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1068,
+      "char_end": 1208,
+      "text": "He aquí que Jehová el Señor vendrá con poder, y su brazo señoreará; he aquí que su recompensa viene con él, y su paga delante de su rostro."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1208,
+      "char_end": 1377,
+      "text": "Como pastor apacentará su rebaño; en su brazo llevará los corderos, y en su seno los llevará; pastoreará suavemente a las recién paridas. El incomparable Dios de Israel"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1377,
+      "char_end": 1551,
+      "text": "¿Quién midió las aguas con el hueco de su mano y los cielos con su palmo, con tres dedos juntó el polvo de la tierra, y pesó los montes con balanza y con pesas los collados?"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1551,
+      "char_end": 1615,
+      "text": "¿Quién enseñó al Espíritu de Jehová, o le aconsejó enseñándole?"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1615,
+      "char_end": 1754,
+      "text": "¿A quién pidió consejo para ser avisado? ¿Quién le enseñó el camino del juicio, o le enseñó ciencia, o le mostró la senda de la prudencia?"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1754,
+      "char_end": 1930,
+      "text": "He aquí que las naciones le son como la gota de agua que cae del cubo, y como menudo polvo en las balanzas le son estimadas; he aquí que hace desaparecer las islas como polvo."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1930,
+      "char_end": 2008,
+      "text": "Ni el Líbano bastará para el fuego, ni todos sus animales para el sacrificio."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2008,
+      "char_end": 2131,
+      "text": "Como nada son todas las naciones delante de él; y en su comparación serán estimadas en menos que nada, y que lo que no es."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2131,
+      "char_end": 2199,
+      "text": "¿A qué, pues, haréis semejante a Dios, o qué imagen le compondréis?"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2199,
+      "char_end": 2298,
+      "text": "El artífice prepara la imagen de talla, el platero le extiende el oro y le funde cadenas de plata."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2298,
+      "char_end": 2434,
+      "text": "El pobre escoge, para ofrecerle, madera que no se apolille; se busca un maestro sabio, que le haga una imagen de talla que no se mueva."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2434,
+      "char_end": 2562,
+      "text": "¿No sabéis? ¿No habéis oído? ¿Nunca os lo han dicho desde el principio? ¿No habéis sido enseñados desde que la tierra se fundó?"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2562,
+      "char_end": 2728,
+      "text": "Él está sentado sobre el círculo de la tierra, cuyos moradores son como langostas; él extiende los cielos como una cortina, los despliega como una tienda para morar."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2728,
+      "char_end": 2819,
+      "text": "Él convierte en nada a los poderosos, y a los que gobiernan la tierra hace como cosa vana."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2819,
+      "char_end": 3038,
+      "text": "Como si nunca hubieran sido plantados, como si nunca hubieran sido sembrados, como si nunca su tronco hubiera tenido raíz en la tierra; tan pronto como sopla en ellos se secan, y el torbellino los lleva como hojarasca."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3038,
+      "char_end": 3105,
+      "text": "¿A qué, pues, me haréis semejante o me compararéis? dice el Santo."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3105,
+      "char_end": 3306,
+      "text": "Levantad en alto vuestros ojos, y mirad quién creó estas cosas; él saca y cuenta su ejército; a todas llama por sus nombres; ninguna faltará; tal es la grandeza de su fuerza, y el poder de su dominio."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3306,
+      "char_end": 3418,
+      "text": "¿Por qué dices, oh Jacob, y hablas tú, Israel: Mi camino está escondido de Jehová, y de mi Dios pasó mi juicio?"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3418,
+      "char_end": 3603,
+      "text": "¿No has sabido, no has oído que el Dios eterno es Jehová, el cual creó los confines de la tierra? No desfallece, ni se fatiga con cansancio, y su entendimiento no hay quien lo alcance."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3603,
+      "char_end": 3681,
+      "text": "Él da esfuerzo al cansado, y multiplica las fuerzas al que no tiene ningunas."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3681,
+      "char_end": 3748,
+      "text": "Los muchachos se fatigan y se cansan, los jóvenes flaquean y caen;"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3748,
+      "char_end": 3894,
+      "text": "pero los que esperan a Jehová tendrán nuevas fuerzas; levantarán alas como las águilas; correrán, y no se cansarán; caminarán, y no se fatigarán."
+    }
+  ],
+  "words": [
+    {
+      "word": "Consolaos, consolaos, pueblo mío, dice vuestro Dios.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5187,
+      "duration_ms": 5087
+    },
+    {
+      "word": "Hablad al corazón de Jerusalén; decidle a voces que su tiempo es ya cumplido, que su pecado es perdonado; que doble ha recibido de la mano de Jehová por todos sus pecados.",
+      "verse": 2,
+      "start_ms": 5137,
+      "end_ms": 15549,
+      "duration_ms": 10412
+    },
+    {
+      "word": "Voz que clama en el desierto: Preparad camino a Jehová; enderezad calzada en la soledad a nuestro Dios.",
+      "verse": 3,
+      "start_ms": 15550,
+      "end_ms": 22550,
+      "duration_ms": 7000
+    },
+    {
+      "word": "Todo valle sea alzado, y bájese todo monte y collado; y lo torcido se enderece, y lo áspero se allane.",
+      "verse": 4,
+      "start_ms": 22550,
+      "end_ms": 29762,
+      "duration_ms": 7212
+    },
+    {
+      "word": "Y se manifestará la gloria de Jehová, y toda carne juntamente la verá; porque la boca de Jehová ha hablado.",
+      "verse": 5,
+      "start_ms": 29762,
+      "end_ms": 36687,
+      "duration_ms": 6925
+    },
+    {
+      "word": "Voz que decía: Da voces.",
+      "verse": 6,
+      "start_ms": 36687,
+      "end_ms": 39499,
+      "duration_ms": 2812
+    },
+    {
+      "word": "Y yo respondí: ¿Qué tengo que decir a voces?",
+      "verse": 6,
+      "start_ms": 39500,
+      "end_ms": 43075,
+      "duration_ms": 3575
+    },
+    {
+      "word": "Que toda carne es hierba, y toda su gloria como flor del campo.",
+      "verse": 6,
+      "start_ms": 43075,
+      "end_ms": 47662,
+      "duration_ms": 4587
+    },
+    {
+      "word": "La hierba se seca, y la flor se marchita, porque el viento de Jehová sopló en ella; ciertamente como hierba es el pueblo.",
+      "verse": 7,
+      "start_ms": 47662,
+      "end_ms": 55374,
+      "duration_ms": 7712
+    },
+    {
+      "word": "Sécase la hierba, marchítase la flor; mas la palabra del Dios nuestro permanece para siempre.",
+      "verse": 8,
+      "start_ms": 55375,
+      "end_ms": 61562,
+      "duration_ms": 6187
+    },
+    {
+      "word": "Súbete sobre un monte alto, anunciadora de Sion; levanta fuertemente tu voz, anunciadora de Jerusalén; levántala, no temas; di a las ciudades de Judá: ¡Ved aquí al Dios vuestro!",
+      "verse": 9,
+      "start_ms": 61562,
+      "end_ms": 73899,
+      "duration_ms": 12337
+    },
+    {
+      "word": "He aquí que Jehová el Señor vendrá con poder, y su brazo señoreará; he aquí que su recompensa viene con él, y su paga delante de su rostro.",
+      "verse": 10,
+      "start_ms": 73900,
+      "end_ms": 82875,
+      "duration_ms": 8975
+    },
+    {
+      "word": "Como pastor apacentará su rebaño; en su brazo llevará los corderos, y en su seno los llevará; pastoreará suavemente a las recién paridas.",
+      "verse": 11,
+      "start_ms": 82875,
+      "end_ms": 91850,
+      "duration_ms": 8975
+    },
+    {
+      "word": "El incomparable Dios de Israel ¿Quién midió las aguas con el hueco de su mano y los cielos con su palmo, con tres dedos juntó el polvo de la tierra, y pesó los montes con balanza y con pesas los collados?",
+      "verse": 11,
+      "start_ms": 91850,
+      "end_ms": 103162,
+      "duration_ms": 11312
+    },
+    {
+      "word": "Quién enseñó al Espíritu de Jehová, o le aconsejó enseñándole?",
+      "verse": 13,
+      "start_ms": 103162,
+      "end_ms": 107537,
+      "duration_ms": 4375
+    },
+    {
+      "word": "A quién pidió consejo para ser avisado?",
+      "verse": 14,
+      "start_ms": 107537,
+      "end_ms": 110637,
+      "duration_ms": 3100
+    },
+    {
+      "word": "Quién le enseñó el camino del juicio, o le enseñó ciencia, o le mostró la senda de la prudencia?",
+      "verse": 14,
+      "start_ms": 110637,
+      "end_ms": 116599,
+      "duration_ms": 5962
+    },
+    {
+      "word": "He aquí que las naciones le son como la gota de agua que cae del cubo, y como menudo polvo en las balanzas le son estimadas; he aquí que hace desaparecer las islas como polvo.",
+      "verse": 15,
+      "start_ms": 116600,
+      "end_ms": 127062,
+      "duration_ms": 10462
+    },
+    {
+      "word": "Ni el Líbano bastará para el fuego, ni todos sus animales para el sacrificio.",
+      "verse": 16,
+      "start_ms": 127062,
+      "end_ms": 132062,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Como nada son todas las naciones delante de él; y en su comparación serán estimadas en menos que nada, y que lo que no es.",
+      "verse": 17,
+      "start_ms": 132062,
+      "end_ms": 139749,
+      "duration_ms": 7687
+    },
+    {
+      "word": "A qué, pues, haréis semejante a Dios, o qué imagen le compondréis?",
+      "verse": 18,
+      "start_ms": 139750,
+      "end_ms": 144787,
+      "duration_ms": 5037
+    },
+    {
+      "word": "El artífice prepara la imagen de talla, el platero le extiende el oro y le funde cadenas de plata.",
+      "verse": 19,
+      "start_ms": 144787,
+      "end_ms": 151162,
+      "duration_ms": 6375
+    },
+    {
+      "word": "El pobre escoge, para ofrecerle, madera que no se apolille; se busca un maestro sabio, que le haga una imagen de talla que no se mueva.",
+      "verse": 20,
+      "start_ms": 151162,
+      "end_ms": 159987,
+      "duration_ms": 8825
+    },
+    {
+      "word": "No sabéis?",
+      "verse": 21,
+      "start_ms": 159987,
+      "end_ms": 161674,
+      "duration_ms": 1687
+    },
+    {
+      "word": "No habéis oído?",
+      "verse": 21,
+      "start_ms": 161675,
+      "end_ms": 163600,
+      "duration_ms": 1925
+    },
+    {
+      "word": "Nunca os lo han dicho desde el principio?",
+      "verse": 21,
+      "start_ms": 163600,
+      "end_ms": 166537,
+      "duration_ms": 2937
+    },
+    {
+      "word": "No habéis sido enseñados desde que la tierra se fundó?",
+      "verse": 21,
+      "start_ms": 166537,
+      "end_ms": 170199,
+      "duration_ms": 3662
+    },
+    {
+      "word": "Él está sentado sobre el círculo de la tierra, cuyos moradores son como langostas; él extiende los cielos como una cortina, los despliega como una tienda para morar.",
+      "verse": 22,
+      "start_ms": 170200,
+      "end_ms": 180425,
+      "duration_ms": 10225
+    },
+    {
+      "word": "Él convierte en nada a los poderosos, y a los que gobiernan la tierra hace como cosa vana.",
+      "verse": 23,
+      "start_ms": 180425,
+      "end_ms": 186375,
+      "duration_ms": 5950
+    },
+    {
+      "word": "Como si nunca hubieran sido plantados, como si nunca hubieran sido sembrados, como si nunca su tronco hubiera tenido raíz en la tierra; tan pronto como sopla en ellos se secan, y el torbellino los lleva como hojarasca.",
+      "verse": 24,
+      "start_ms": 186375,
+      "end_ms": 199437,
+      "duration_ms": 13062
+    },
+    {
+      "word": "A qué, pues, me haréis semejante o me compararéis? dice el Santo.",
+      "verse": 25,
+      "start_ms": 199437,
+      "end_ms": 204574,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Levantad en alto vuestros ojos, y mirad quién creó estas cosas; él saca y cuenta su ejército; a todas llama por sus nombres; ninguna faltará; tal es la grandeza de su fuerza, y el poder de su dominio.",
+      "verse": 26,
+      "start_ms": 204575,
+      "end_ms": 217600,
+      "duration_ms": 13025
+    },
+    {
+      "word": "Por qué dices, oh Jacob, y hablas tú, Israel: Mi camino está escondido de Jehová, y de mi Dios pasó mi juicio?",
+      "verse": 27,
+      "start_ms": 217600,
+      "end_ms": 225575,
+      "duration_ms": 7975
+    },
+    {
+      "word": "No has sabido, no has oído que el Dios eterno es Jehová, el cual creó los confines de la tierra?",
+      "verse": 28,
+      "start_ms": 225575,
+      "end_ms": 232012,
+      "duration_ms": 6437
+    },
+    {
+      "word": "No desfallece, ni se fatiga con cansancio, y su entendimiento no hay quien lo alcance.",
+      "verse": 28,
+      "start_ms": 232012,
+      "end_ms": 237774,
+      "duration_ms": 5762
+    },
+    {
+      "word": "Él da esfuerzo al cansado, y multiplica las fuerzas al que no tiene ningunas.",
+      "verse": 29,
+      "start_ms": 237775,
+      "end_ms": 242925,
+      "duration_ms": 5150
+    },
+    {
+      "word": "Los muchachos se fatigan y se cansan, los jóvenes flaquean y caen; pero los que esperan a Jehová tendrán nuevas fuerzas; levantarán alas como las águilas; correrán, y no se cansarán; caminarán, y no se fatigarán.",
+      "verse": 30,
+      "start_ms": 242925,
+      "end_ms": 256787,
+      "duration_ms": 13862
+    }
+  ]
+}

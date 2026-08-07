@@ -1,0 +1,320 @@
+{
+  "book": "SAL",
+  "chapter": 34,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 22,
+  "word_count": 22,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 78,
+      "text": "Bendeciré a Jehová en todo tiempo; Su alabanza estará de continuo en mi boca."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 78,
+      "char_end": 146,
+      "text": "En Jehová se gloriará mi alma; Lo oirán los mansos, y se alegrarán."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 146,
+      "char_end": 205,
+      "text": "Engrandeced a Jehová conmigo, Y exaltemos a una su nombre."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 205,
+      "char_end": 268,
+      "text": "Busqué a Jehová, y él me oyó, Y me libró de todos mis temores."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 268,
+      "char_end": 346,
+      "text": "Los que miraron a él fueron alumbrados, Y sus rostros no fueron avergonzados."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 346,
+      "char_end": 416,
+      "text": "Este pobre clamó, y le oyó Jehová, Y lo libró de todas sus angustias."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 416,
+      "char_end": 489,
+      "text": "El ángel de Jehová acampa alrededor de los que le temen, Y los defiende."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 489,
+      "char_end": 560,
+      "text": "Gustad, y ved que es bueno Jehová; Dichoso el hombre que confía en él."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 560,
+      "char_end": 633,
+      "text": "Temed a Jehová, vosotros sus santos, Pues nada falta a los que le temen."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 633,
+      "char_end": 738,
+      "text": "Los leoncillos necesitan, y tienen hambre; Pero los que buscan a Jehová no tendrán falta de ningún bien."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 738,
+      "char_end": 791,
+      "text": "Venid, hijos, oídme; El temor de Jehová os enseñaré."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 791,
+      "char_end": 867,
+      "text": "¿Quién es el hombre que desea vida, Que desea muchos días para ver el bien?"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 867,
+      "char_end": 924,
+      "text": "Guarda tu lengua del mal, Y tus labios de hablar engaño."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 924,
+      "char_end": 982,
+      "text": "Apártate del mal, y haz el bien; Busca la paz, y síguela."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 982,
+      "char_end": 1065,
+      "text": "Los ojos de Jehová están sobre los justos, Y atentos sus oídos al clamor de ellos."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1065,
+      "char_end": 1154,
+      "text": "La ira de Jehová contra los que hacen mal, Para cortar de la tierra la memoria de ellos."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1154,
+      "char_end": 1223,
+      "text": "Claman los justos, y Jehová oye, Y los libra de todas sus angustias."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1223,
+      "char_end": 1311,
+      "text": "Cercano está Jehová a los quebrantados de corazón; Y salva a los contritos de espíritu."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1311,
+      "char_end": 1388,
+      "text": "Muchas son las aflicciones del justo, Pero de todas ellas le librará Jehová."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1388,
+      "char_end": 1450,
+      "text": "Él guarda todos sus huesos; Ni uno de ellos será quebrantado."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1450,
+      "char_end": 1523,
+      "text": "Matará al malo la maldad, Y los que aborrecen al justo serán condenados."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1523,
+      "char_end": 1606,
+      "text": "Jehová redime el alma de sus siervos, Y no serán condenados cuantos en él confían."
+    }
+  ],
+  "words": [
+    {
+      "word": "Bendeciré a Jehová en todo tiempo; Su alabanza estará de continuo en mi boca.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5487,
+      "duration_ms": 5387
+    },
+    {
+      "word": "En Jehová se gloriará mi alma; Lo oirán los mansos, y se alegrarán.",
+      "verse": 2,
+      "start_ms": 5437,
+      "end_ms": 10412,
+      "duration_ms": 4975
+    },
+    {
+      "word": "Engrandeced a Jehová conmigo, Y exaltemos a una su nombre.",
+      "verse": 3,
+      "start_ms": 10412,
+      "end_ms": 14812,
+      "duration_ms": 4400
+    },
+    {
+      "word": "Busqué a Jehová, y él me oyó, Y me libró de todos mis temores.",
+      "verse": 4,
+      "start_ms": 14812,
+      "end_ms": 19774,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Los que miraron a él fueron alumbrados, Y sus rostros no fueron avergonzados.",
+      "verse": 5,
+      "start_ms": 19775,
+      "end_ms": 25000,
+      "duration_ms": 5225
+    },
+    {
+      "word": "Este pobre clamó, y le oyó Jehová, Y lo libró de todas sus angustias.",
+      "verse": 6,
+      "start_ms": 25000,
+      "end_ms": 30137,
+      "duration_ms": 5137
+    },
+    {
+      "word": "El ángel de Jehová acampa alrededor de los que le temen, Y los defiende.",
+      "verse": 7,
+      "start_ms": 30137,
+      "end_ms": 34849,
+      "duration_ms": 4712
+    },
+    {
+      "word": "Gustad, y ved que es bueno Jehová; Dichoso el hombre que confía en él.",
+      "verse": 8,
+      "start_ms": 34850,
+      "end_ms": 39937,
+      "duration_ms": 5087
+    },
+    {
+      "word": "Temed a Jehová, vosotros sus santos, Pues nada falta a los que le temen.",
+      "verse": 9,
+      "start_ms": 39937,
+      "end_ms": 45212,
+      "duration_ms": 5275
+    },
+    {
+      "word": "Los leoncillos necesitan, y tienen hambre; Pero los que buscan a Jehová no tendrán falta de ningún bien.",
+      "verse": 10,
+      "start_ms": 45212,
+      "end_ms": 51649,
+      "duration_ms": 6437
+    },
+    {
+      "word": "Venid, hijos, oídme; El temor de Jehová os enseñaré.",
+      "verse": 11,
+      "start_ms": 51650,
+      "end_ms": 56237,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Quién es el hombre que desea vida, Que desea muchos días para ver el bien?",
+      "verse": 12,
+      "start_ms": 56237,
+      "end_ms": 61074,
+      "duration_ms": 4837
+    },
+    {
+      "word": "Guarda tu lengua del mal, Y tus labios de hablar engaño.",
+      "verse": 13,
+      "start_ms": 61075,
+      "end_ms": 65100,
+      "duration_ms": 4025
+    },
+    {
+      "word": "Apártate del mal, y haz el bien; Busca la paz, y síguela.",
+      "verse": 14,
+      "start_ms": 65100,
+      "end_ms": 69912,
+      "duration_ms": 4812
+    },
+    {
+      "word": "Los ojos de Jehová están sobre los justos, Y atentos sus oídos al clamor de ellos.",
+      "verse": 15,
+      "start_ms": 69912,
+      "end_ms": 75649,
+      "duration_ms": 5737
+    },
+    {
+      "word": "La ira de Jehová contra los que hacen mal, Para cortar de la tierra la memoria de ellos.",
+      "verse": 16,
+      "start_ms": 75650,
+      "end_ms": 81312,
+      "duration_ms": 5662
+    },
+    {
+      "word": "Claman los justos, y Jehová oye, Y los libra de todas sus angustias.",
+      "verse": 17,
+      "start_ms": 81312,
+      "end_ms": 86612,
+      "duration_ms": 5300
+    },
+    {
+      "word": "Cercano está Jehová a los quebrantados de corazón; Y salva a los contritos de espíritu.",
+      "verse": 18,
+      "start_ms": 86612,
+      "end_ms": 92349,
+      "duration_ms": 5737
+    },
+    {
+      "word": "Muchas son las aflicciones del justo, Pero de todas ellas le librará Jehová.",
+      "verse": 19,
+      "start_ms": 92350,
+      "end_ms": 97350,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Él guarda todos sus huesos; Ni uno de ellos será quebrantado.",
+      "verse": 20,
+      "start_ms": 97350,
+      "end_ms": 101862,
+      "duration_ms": 4512
+    },
+    {
+      "word": "Matará al malo la maldad, Y los que aborrecen al justo serán condenados.",
+      "verse": 21,
+      "start_ms": 101862,
+      "end_ms": 106987,
+      "duration_ms": 5125
+    },
+    {
+      "word": "Jehová redime el alma de sus siervos, Y no serán condenados cuantos en él confían.",
+      "verse": 22,
+      "start_ms": 106987,
+      "end_ms": 112524,
+      "duration_ms": 5537
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "book": "SAL",
+  "chapter": 6,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 10,
+  "word_count": 10,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 65,
+      "text": "Jehová, no me reprendas en tu enojo, Ni me castigues con tu ira."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 65,
+      "char_end": 174,
+      "text": "Ten misericordia de mí, oh Jehová, porque estoy enfermo; Sáname, oh Jehová, porque mis huesos se estremecen."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 174,
+      "char_end": 237,
+      "text": "Mi alma también está muy turbada; Y tú, Jehová, ¿hasta cuándo?"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 237,
+      "char_end": 302,
+      "text": "Vuélvete, oh Jehová, libra mi alma; Sálvame por tu misericordia."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 302,
+      "char_end": 375,
+      "text": "Porque en la muerte no hay memoria de ti; En el Seol, ¿quién te alabará?"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 375,
+      "char_end": 486,
+      "text": "Me he consumido a fuerza de gemir; Todas las noches inundo de llanto mi lecho, Riego mi cama con mis lágrimas."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 486,
+      "char_end": 575,
+      "text": "Mis ojos están gastados de sufrir; Se han envejecido a causa de todos mis angustiadores."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 575,
+      "char_end": 667,
+      "text": "Apartaos de mí, todos los hacedores de iniquidad; Porque Jehová ha oído la voz de mi lloro."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 667,
+      "char_end": 723,
+      "text": "Jehová ha oído mi ruego; Ha recibido Jehová mi oración."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 723,
+      "char_end": 824,
+      "text": "Se avergonzarán y se turbarán mucho todos mis enemigos; Se volverán y serán avergonzados de repente."
+    }
+  ],
+  "words": [
+    {
+      "word": "Jehová, no me reprendas en tu enojo, Ni me castigues con tu ira.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4687,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Ten misericordia de mí, oh Jehová, porque estoy enfermo; Sáname, oh Jehová, porque mis huesos se estremecen.",
+      "verse": 2,
+      "start_ms": 4637,
+      "end_ms": 12262,
+      "duration_ms": 7625
+    },
+    {
+      "word": "Mi alma también está muy turbada; Y tú, Jehová, ¿hasta cuándo?",
+      "verse": 3,
+      "start_ms": 12262,
+      "end_ms": 17074,
+      "duration_ms": 4812
+    },
+    {
+      "word": "Vuélvete, oh Jehová, libra mi alma; Sálvame por tu misericordia.",
+      "verse": 4,
+      "start_ms": 17075,
+      "end_ms": 22325,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Porque en la muerte no hay memoria de ti; En el Seol, ¿quién te alabará?",
+      "verse": 5,
+      "start_ms": 22325,
+      "end_ms": 27225,
+      "duration_ms": 4900
+    },
+    {
+      "word": "Me he consumido a fuerza de gemir; Todas las noches inundo de llanto mi lecho, Riego mi cama con mis lágrimas.",
+      "verse": 6,
+      "start_ms": 27225,
+      "end_ms": 34637,
+      "duration_ms": 7412
+    },
+    {
+      "word": "Mis ojos están gastados de sufrir; Se han envejecido a causa de todos mis angustiadores.",
+      "verse": 7,
+      "start_ms": 34637,
+      "end_ms": 40724,
+      "duration_ms": 6087
+    },
+    {
+      "word": "Apartaos de mí, todos los hacedores de iniquidad; Porque Jehová ha oído la voz de mi lloro.",
+      "verse": 8,
+      "start_ms": 40725,
+      "end_ms": 46900,
+      "duration_ms": 6175
+    },
+    {
+      "word": "Jehová ha oído mi ruego; Ha recibido Jehová mi oración.",
+      "verse": 9,
+      "start_ms": 46900,
+      "end_ms": 51212,
+      "duration_ms": 4312
+    },
+    {
+      "word": "Se avergonzarán y se turbarán mucho todos mis enemigos; Se volverán y serán avergonzados de repente.",
+      "verse": 10,
+      "start_ms": 51212,
+      "end_ms": 57849,
+      "duration_ms": 6637
+    }
+  ]
+}

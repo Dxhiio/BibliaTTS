@@ -1,0 +1,684 @@
+{
+  "book": "MAT",
+  "chapter": 25,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 51,
+  "word_count": 45,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 109,
+      "text": "Cuando Jesús salió del templo y se iba, se acercaron sus discípulos para mostrarle los edificios del templo."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 109,
+      "char_end": 282,
+      "text": "Respondiendo él, les dijo: ¿Veis todo esto? De cierto os digo, que no quedará aquí piedra sobre piedra, que no sea derribada. Señales antes del fin (Mc 13.3–23; Lc 21.7–24)"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 282,
+      "char_end": 466,
+      "text": "Y estando él sentado en el monte de los Olivos, los discípulos se le acercaron aparte, diciendo: Dinos, ¿cuándo serán estas cosas, y qué señal habrá de tu venida, y del fin del siglo?"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 466,
+      "char_end": 523,
+      "text": "Respondiendo Jesús, les dijo: Mirad que nadie os engañe."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 523,
+      "char_end": 609,
+      "text": "Porque vendrán muchos en mi nombre, diciendo: Yo soy el Cristo; y a muchos engañarán."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 609,
+      "char_end": 744,
+      "text": "Y oiréis de guerras y rumores de guerras; mirad que no os turbéis, porque es necesario que todo esto acontezca; pero aún no es el fin."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 744,
+      "char_end": 871,
+      "text": "Porque se levantará nación contra nación, y reino contra reino; y habrá pestes, y hambres, y terremotos en diferentes lugares."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 871,
+      "char_end": 910,
+      "text": "Y todo esto será principio de dolores."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 910,
+      "char_end": 1027,
+      "text": "Entonces os entregarán a tribulación, y os matarán, y seréis aborrecidos de todas las gentes por causa de mi nombre."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1027,
+      "char_end": 1116,
+      "text": "Muchos tropezarán entonces, y se entregarán unos a otros, y unos a otros se aborrecerán."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1116,
+      "char_end": 1178,
+      "text": "Y muchos falsos profetas se levantarán, y engañarán a muchos;"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1178,
+      "char_end": 1247,
+      "text": "y por haberse multiplicado la maldad, el amor de muchos se enfriará."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1247,
+      "char_end": 1299,
+      "text": "Mas el que persevere hasta el fin, éste será salvo."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1299,
+      "char_end": 1423,
+      "text": "Y será predicado este evangelio del reino en todo el mundo, para testimonio a todas las naciones; y entonces vendrá el fin."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1423,
+      "char_end": 1546,
+      "text": "Por tanto, cuando veáis en el lugar santo la abominación desoladora de que habló el profeta Daniel (el que lee, entienda),"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1546,
+      "char_end": 1599,
+      "text": "entonces los que estén en Judea, huyan a los montes."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1599,
+      "char_end": 1666,
+      "text": "El que esté en la azotea, no descienda para tomar algo de su casa;"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1666,
+      "char_end": 1729,
+      "text": "y el que esté en el campo, no vuelva atrás para tomar su capa."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1729,
+      "char_end": 1801,
+      "text": "Mas ¡ay de las que estén encintas, y de las que críen en aquellos días!"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1801,
+      "char_end": 1871,
+      "text": "Orad, pues, que vuestra huida no sea en invierno ni en día de reposo;"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1871,
+      "char_end": 1987,
+      "text": "porque habrá entonces gran tribulación, cual no la ha habido desde el principio del mundo hasta ahora, ni la habrá."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1987,
+      "char_end": 2109,
+      "text": "Y si aquellos días no fuesen acortados, nadie sería salvo; mas por causa de los escogidos, aquellos días serán acortados."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2109,
+      "char_end": 2202,
+      "text": "Entonces, si alguno os dijere: Mirad, aquí está el Cristo, o mirad, allí está, no lo creáis."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2202,
+      "char_end": 2363,
+      "text": "Porque se levantarán falsos Cristos, y falsos profetas, y harán grandes señales y prodigios, de tal manera que engañarán, si fuere posible, aun a los escogidos."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2363,
+      "char_end": 2388,
+      "text": "Ya os lo he dicho antes."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2388,
+      "char_end": 2498,
+      "text": "Así que, si os dijeren: Mirad, está en el desierto, no salgáis; o mirad, está en los aposentos, no lo creáis."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2498,
+      "char_end": 2625,
+      "text": "Porque como el relámpago que sale del oriente y se muestra hasta el occidente, así será también la venida del Hijo del Hombre."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2625,
+      "char_end": 2783,
+      "text": "Porque dondequiera que estuviere el cuerpo muerto, allí se juntarán las águilas. La venida del Hijo del Hombre (Mc 13.24–37; Lc 21.25–36; 17.25–36; 12.41–48)"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2783,
+      "char_end": 2981,
+      "text": "E inmediatamente después de la tribulación de aquellos días, el sol se oscurecerá, y la luna no dará su resplandor, y las estrellas caerán del cielo, y las potencias de los cielos serán conmovidas."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2981,
+      "char_end": 3183,
+      "text": "Entonces aparecerá la señal del Hijo del Hombre en el cielo; y entonces lamentarán todas las tribus de la tierra, y verán al Hijo del Hombre viniendo sobre las nubes del cielo, con poder y gran gloria."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3183,
+      "char_end": 3324,
+      "text": "Y enviará sus ángeles con gran voz de trompeta, y juntarán a sus escogidos, de los cuatro vientos, desde un extremo del cielo hasta el otro."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3324,
+      "char_end": 3444,
+      "text": "De la higuera aprended la parábola: Cuando ya su rama está tierna, y brotan las hojas, sabéis que el verano está cerca."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3444,
+      "char_end": 3537,
+      "text": "Así también vosotros, cuando veáis todas estas cosas, conoced que está cerca, a las puertas."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3537,
+      "char_end": 3617,
+      "text": "De cierto os digo, que no pasará esta generación hasta que todo esto acontezca."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3617,
+      "char_end": 3677,
+      "text": "El cielo y la tierra pasarán, pero mis palabras no pasarán."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3677,
+      "char_end": 3766,
+      "text": "Pero del día y la hora nadie sabe, ni aun los ángeles de los cielos, sino sólo mi Padre."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3766,
+      "char_end": 3835,
+      "text": "Mas como en los días de Noé, así será la venida del Hijo del Hombre."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 3835,
+      "char_end": 3981,
+      "text": "Porque como en los días antes del diluvio estaban comiendo y bebiendo, casándose y dando en casamiento, hasta el día en que Noé entró en el arca,"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 3981,
+      "char_end": 4096,
+      "text": "y no entendieron hasta que vino el diluvio y se los llevó a todos, así será también la venida del Hijo del Hombre."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4096,
+      "char_end": 4173,
+      "text": "Entonces estarán dos en el campo; el uno será tomado, y el otro será dejado."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4173,
+      "char_end": 4259,
+      "text": "Dos mujeres estarán moliendo en un molino; la una será tomada, y la otra será dejada."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4259,
+      "char_end": 4327,
+      "text": "Velad, pues, porque no sabéis a qué hora ha de venir vuestro Señor."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4327,
+      "char_end": 4454,
+      "text": "Pero sabed esto, que si el padre de familia supiese a qué hora el ladrón habría de venir, velaría, y no dejaría minar su casa."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 4454,
+      "char_end": 4559,
+      "text": "Por tanto, también vosotros estad preparados; porque el Hijo del Hombre vendrá a la hora que no pensáis."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 4559,
+      "char_end": 4677,
+      "text": "¿Quién es, pues, el siervo fiel y prudente, al cual puso su señor sobre su casa para que les dé el alimento a tiempo?"
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 4677,
+      "char_end": 4760,
+      "text": "Bienaventurado aquel siervo al cual, cuando su señor venga, le halle haciendo así."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 4760,
+      "char_end": 4816,
+      "text": "De cierto os digo que sobre todos sus bienes le pondrá."
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 4816,
+      "char_end": 4889,
+      "text": "Pero si aquel siervo malo dijere en su corazón: Mi señor tarda en venir;"
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 4889,
+      "char_end": 4972,
+      "text": "y comenzare a golpear a sus consiervos, y aun a comer y a beber con los borrachos,"
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 4972,
+      "char_end": 5056,
+      "text": "vendrá el señor de aquel siervo en día que éste no espera, y a la hora que no sabe,"
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 5056,
+      "char_end": 5163,
+      "text": "y lo castigará duramente, y pondrá su parte con los hipócritas; allí será el lloro y el crujir de dientes."
+    }
+  ],
+  "words": [
+    {
+      "word": "Cuando Jesús salió del templo y se iba, se acercaron sus discípulos para mostrarle los edificios del templo.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6525,
+      "duration_ms": 6425
+    },
+    {
+      "word": "Respondiendo él, les dijo: ¿Veis todo esto?",
+      "verse": 2,
+      "start_ms": 6475,
+      "end_ms": 10437,
+      "duration_ms": 3962
+    },
+    {
+      "word": "De cierto os digo, que no quedará aquí piedra sobre piedra, que no sea derribada.",
+      "verse": 2,
+      "start_ms": 10437,
+      "end_ms": 16074,
+      "duration_ms": 5637
+    },
+    {
+      "word": "Señales antes del fin (Mc 13.3–23; Lc 21.7–24) Y estando él sentado en el monte de los Olivos, los discípulos se le acercaron aparte, diciendo: Dinos, ¿cuándo serán estas cosas, y qué señal habrá de tu venida, y del fin del siglo?",
+      "verse": 2,
+      "start_ms": 16075,
+      "end_ms": 33962,
+      "duration_ms": 17887
+    },
+    {
+      "word": "Respondiendo Jesús, les dijo: Mirad que nadie os engañe.",
+      "verse": 4,
+      "start_ms": 33962,
+      "end_ms": 38737,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Porque vendrán muchos en mi nombre, diciendo: Yo soy el Cristo; y a muchos engañarán.",
+      "verse": 5,
+      "start_ms": 38737,
+      "end_ms": 44812,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Y oiréis de guerras y rumores de guerras; mirad que no os turbéis, porque es necesario que todo esto acontezca; pero aún no es el fin.",
+      "verse": 6,
+      "start_ms": 44812,
+      "end_ms": 53487,
+      "duration_ms": 8675
+    },
+    {
+      "word": "Porque se levantará nación contra nación, y reino contra reino; y habrá pestes, y hambres, y terremotos en diferentes lugares.",
+      "verse": 7,
+      "start_ms": 53487,
+      "end_ms": 62062,
+      "duration_ms": 8575
+    },
+    {
+      "word": "Y todo esto será principio de dolores.",
+      "verse": 8,
+      "start_ms": 62062,
+      "end_ms": 65387,
+      "duration_ms": 3325
+    },
+    {
+      "word": "Entonces os entregarán a tribulación, y os matarán, y seréis aborrecidos de todas las gentes por causa de mi nombre.",
+      "verse": 9,
+      "start_ms": 65387,
+      "end_ms": 72724,
+      "duration_ms": 7337
+    },
+    {
+      "word": "Muchos tropezarán entonces, y se entregarán unos a otros, y unos a otros se aborrecerán.",
+      "verse": 10,
+      "start_ms": 72725,
+      "end_ms": 78887,
+      "duration_ms": 6162
+    },
+    {
+      "word": "Y muchos falsos profetas se levantarán, y engañarán a muchos; y por haberse multiplicado la maldad, el amor de muchos se enfriará.",
+      "verse": 11,
+      "start_ms": 78887,
+      "end_ms": 87024,
+      "duration_ms": 8137
+    },
+    {
+      "word": "Mas el que persevere hasta el fin, éste será salvo.",
+      "verse": 13,
+      "start_ms": 87025,
+      "end_ms": 90812,
+      "duration_ms": 3787
+    },
+    {
+      "word": "Y será predicado este evangelio del reino en todo el mundo, para testimonio a todas las naciones; y entonces vendrá el fin.",
+      "verse": 14,
+      "start_ms": 90812,
+      "end_ms": 98662,
+      "duration_ms": 7850
+    },
+    {
+      "word": "Por tanto, cuando veáis en el lugar santo la abominación desoladora de que habló el profeta Daniel (el que lee, entienda), entonces los que estén en Judea, huyan a los montes.",
+      "verse": 15,
+      "start_ms": 98662,
+      "end_ms": 109337,
+      "duration_ms": 10675
+    },
+    {
+      "word": "El que esté en la azotea, no descienda para tomar algo de su casa; y el que esté en el campo, no vuelva atrás para tomar su capa.",
+      "verse": 17,
+      "start_ms": 109337,
+      "end_ms": 117287,
+      "duration_ms": 7950
+    },
+    {
+      "word": "Mas ¡ay de las que estén encintas, y de las que críen en aquellos días!",
+      "verse": 19,
+      "start_ms": 117287,
+      "end_ms": 121999,
+      "duration_ms": 4712
+    },
+    {
+      "word": "Orad, pues, que vuestra huida no sea en invierno ni en día de reposo; porque habrá entonces gran tribulación, cual no la ha habido desde el principio del mundo hasta ahora, ni la habrá.",
+      "verse": 20,
+      "start_ms": 122000,
+      "end_ms": 133187,
+      "duration_ms": 11187
+    },
+    {
+      "word": "Y si aquellos días no fuesen acortados, nadie sería salvo; mas por causa de los escogidos, aquellos días serán acortados.",
+      "verse": 22,
+      "start_ms": 133187,
+      "end_ms": 141587,
+      "duration_ms": 8400
+    },
+    {
+      "word": "Entonces, si alguno os dijere: Mirad, aquí está el Cristo, o mirad, allí está, no lo creáis.",
+      "verse": 23,
+      "start_ms": 141587,
+      "end_ms": 149024,
+      "duration_ms": 7437
+    },
+    {
+      "word": "Porque se levantarán falsos Cristos, y falsos profetas, y harán grandes señales y prodigios, de tal manera que engañarán, si fuere posible, aun a los escogidos.",
+      "verse": 24,
+      "start_ms": 149025,
+      "end_ms": 159612,
+      "duration_ms": 10587
+    },
+    {
+      "word": "Ya os lo he dicho antes.",
+      "verse": 25,
+      "start_ms": 159612,
+      "end_ms": 162162,
+      "duration_ms": 2550
+    },
+    {
+      "word": "Así que, si os dijeren: Mirad, está en el desierto, no salgáis; o mirad, está en los aposentos, no lo creáis.",
+      "verse": 26,
+      "start_ms": 162162,
+      "end_ms": 170849,
+      "duration_ms": 8687
+    },
+    {
+      "word": "Porque como el relámpago que sale del oriente y se muestra hasta el occidente, así será también la venida del Hijo del Hombre.",
+      "verse": 27,
+      "start_ms": 170850,
+      "end_ms": 177925,
+      "duration_ms": 7075
+    },
+    {
+      "word": "Porque dondequiera que estuviere el cuerpo muerto, allí se juntarán las águilas.",
+      "verse": 28,
+      "start_ms": 177925,
+      "end_ms": 182862,
+      "duration_ms": 4937
+    },
+    {
+      "word": "La venida del Hijo del Hombre (Mc 13.24–37; Lc 21.25–36; 17.25–36; 12.41–48) E inmediatamente después de la tribulación de aquellos días, el sol se oscurecerá, y la luna no dará su resplandor, y las estrellas caerán del cielo, y las potencias de los cielos serán conmovidas.",
+      "verse": 28,
+      "start_ms": 182862,
+      "end_ms": 206762,
+      "duration_ms": 23900
+    },
+    {
+      "word": "Entonces aparecerá la señal del Hijo del Hombre en el cielo; y entonces lamentarán todas las tribus de la tierra, y verán al Hijo del Hombre viniendo sobre las nubes del cielo, con poder y gran gloria.",
+      "verse": 30,
+      "start_ms": 206762,
+      "end_ms": 218237,
+      "duration_ms": 11475
+    },
+    {
+      "word": "Y enviará sus ángeles con gran voz de trompeta, y juntarán a sus escogidos, de los cuatro vientos, desde un extremo del cielo hasta el otro.",
+      "verse": 31,
+      "start_ms": 218237,
+      "end_ms": 227062,
+      "duration_ms": 8825
+    },
+    {
+      "word": "De la higuera aprended la parábola: Cuando ya su rama está tierna, y brotan las hojas, sabéis que el verano está cerca.",
+      "verse": 32,
+      "start_ms": 227062,
+      "end_ms": 234624,
+      "duration_ms": 7562
+    },
+    {
+      "word": "Así también vosotros, cuando veáis todas estas cosas, conoced que está cerca, a las puertas.",
+      "verse": 33,
+      "start_ms": 234625,
+      "end_ms": 241450,
+      "duration_ms": 6825
+    },
+    {
+      "word": "De cierto os digo, que no pasará esta generación hasta que todo esto acontezca.",
+      "verse": 34,
+      "start_ms": 241450,
+      "end_ms": 246862,
+      "duration_ms": 5412
+    },
+    {
+      "word": "El cielo y la tierra pasarán, pero mis palabras no pasarán.",
+      "verse": 35,
+      "start_ms": 246862,
+      "end_ms": 251312,
+      "duration_ms": 4450
+    },
+    {
+      "word": "Pero del día y la hora nadie sabe, ni aun los ángeles de los cielos, sino sólo mi Padre.",
+      "verse": 36,
+      "start_ms": 251312,
+      "end_ms": 257362,
+      "duration_ms": 6050
+    },
+    {
+      "word": "Mas como en los días de Noé, así será la venida del Hijo del Hombre.",
+      "verse": 37,
+      "start_ms": 257362,
+      "end_ms": 262112,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Porque como en los días antes del diluvio estaban comiendo y bebiendo, casándose y dando en casamiento, hasta el día en que",
+      "verse": 38,
+      "start_ms": 262112,
+      "end_ms": 269387,
+      "duration_ms": 7275
+    },
+    {
+      "word": "Noé entró en el arca, y no entendieron hasta que vino el diluvio y se los llevó a todos, así será también la venida del Hijo del Hombre.",
+      "verse": 38,
+      "start_ms": 269548,
+      "end_ms": 277735,
+      "duration_ms": 8187
+    },
+    {
+      "word": "Entonces estarán dos en el campo; el uno será tomado, y el otro será dejado.",
+      "verse": 40,
+      "start_ms": 277685,
+      "end_ms": 283322,
+      "duration_ms": 5637
+    },
+    {
+      "word": "Dos mujeres estarán moliendo en un molino; la una será tomada, y la otra será dejada.",
+      "verse": 41,
+      "start_ms": 283323,
+      "end_ms": 289435,
+      "duration_ms": 6112
+    },
+    {
+      "word": "Velad, pues, porque no sabéis a qué hora ha de venir vuestro Señor.",
+      "verse": 42,
+      "start_ms": 289435,
+      "end_ms": 294422,
+      "duration_ms": 4987
+    },
+    {
+      "word": "Pero sabed esto, que si el padre de familia supiese a qué hora el ladrón habría de venir, velaría, y no dejaría minar su casa.",
+      "verse": 43,
+      "start_ms": 294423,
+      "end_ms": 302685,
+      "duration_ms": 8262
+    },
+    {
+      "word": "Por tanto, también vosotros estad preparados; porque el Hijo del Hombre vendrá a la hora que no pensáis.",
+      "verse": 44,
+      "start_ms": 302685,
+      "end_ms": 309497,
+      "duration_ms": 6812
+    },
+    {
+      "word": "Quién es, pues, el siervo fiel y prudente, al cual puso su señor sobre su casa para que les dé el alimento a tiempo?",
+      "verse": 45,
+      "start_ms": 309498,
+      "end_ms": 317073,
+      "duration_ms": 7575
+    },
+    {
+      "word": "Bienaventurado aquel siervo al cual, cuando su señor venga, le halle haciendo así.",
+      "verse": 46,
+      "start_ms": 317073,
+      "end_ms": 322535,
+      "duration_ms": 5462
+    },
+    {
+      "word": "De cierto os digo que sobre todos sus bienes le pondrá.",
+      "verse": 47,
+      "start_ms": 322535,
+      "end_ms": 326385,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Pero si aquel siervo malo dijere en su corazón: Mi señor tarda en venir; y comenzare a golpear a sus consiervos, y aun a comer y a beber con los borrachos, vendrá el señor de aquel siervo en día que éste no espera, y a la hora que no sabe, y lo castigará duramente, y pondrá su parte con los hipócritas; allí será el lloro y el crujir de dientes.",
+      "verse": 48,
+      "start_ms": 326385,
+      "end_ms": 346897,
+      "duration_ms": 20512
+    }
+  ]
+}

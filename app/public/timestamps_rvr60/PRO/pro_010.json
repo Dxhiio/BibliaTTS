@@ -1,0 +1,467 @@
+{
+  "book": "PRO",
+  "chapter": 10,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 32,
+  "word_count": 33,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 102,
+      "text": "Los proverbios de Salomón. El hijo sabio alegra al padre, Pero el hijo necio es tristeza de su madre."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 102,
+      "char_end": 179,
+      "text": "Los tesoros de maldad no serán de provecho; Mas la justicia libra de muerte."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 179,
+      "char_end": 260,
+      "text": "Jehová no dejará padecer hambre al justo; Mas la iniquidad lanzará a los impíos."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 260,
+      "char_end": 331,
+      "text": "La mano negligente empobrece; Mas la mano de los diligentes enriquece."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 331,
+      "char_end": 442,
+      "text": "El que recoge en el verano es hombre entendido; El que duerme en el tiempo de la siega es hijo que avergüenza."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 442,
+      "char_end": 531,
+      "text": "Hay bendiciones sobre la cabeza del justo; Pero violencia cubrirá la boca de los impíos."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 531,
+      "char_end": 606,
+      "text": "La memoria del justo será bendita; Mas el nombre de los impíos se pudrirá."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 606,
+      "char_end": 683,
+      "text": "El sabio de corazón recibirá los mandamientos; Mas el necio de labios caerá."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 683,
+      "char_end": 777,
+      "text": "El que camina en integridad anda confiado; Mas el que pervierte sus caminos será quebrantado."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 777,
+      "char_end": 852,
+      "text": "El que guiña el ojo acarrea tristeza; Y el necio de labios será castigado."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 852,
+      "char_end": 938,
+      "text": "Manantial de vida es la boca del justo; Pero violencia cubrirá la boca de los impíos."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 938,
+      "char_end": 1006,
+      "text": "El odio despierta rencillas; Pero el amor cubrirá todas las faltas."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1006,
+      "char_end": 1108,
+      "text": "En los labios del prudente se halla sabiduría; Mas la vara es para las espaldas del falto de cordura."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1108,
+      "char_end": 1185,
+      "text": "Los sabios guardan la sabiduría; Mas la boca del necio es calamidad cercana."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1185,
+      "char_end": 1276,
+      "text": "Las riquezas del rico son su ciudad fortificada; Y el desmayo de los pobres es su pobreza."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1276,
+      "char_end": 1347,
+      "text": "La obra del justo es para vida; Mas el fruto del impío es para pecado."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1347,
+      "char_end": 1432,
+      "text": "Camino a la vida es guardar la instrucción; Pero quien desecha la reprensión, yerra."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1432,
+      "char_end": 1516,
+      "text": "El que encubre el odio es de labios mentirosos; Y el que propaga calumnia es necio."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1516,
+      "char_end": 1599,
+      "text": "En las muchas palabras no falta pecado; Mas el que refrena sus labios es prudente."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1599,
+      "char_end": 1681,
+      "text": "Plata escogida es la lengua del justo; Mas el corazón de los impíos es como nada."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1681,
+      "char_end": 1773,
+      "text": "Los labios del justo apacientan a muchos, Mas los necios mueren por falta de entendimiento."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1773,
+      "char_end": 1847,
+      "text": "La bendición de Jehová es la que enriquece, Y no añade tristeza con ella."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1847,
+      "char_end": 1951,
+      "text": "El hacer maldad es como una diversión al insensato; Mas la sabiduría recrea al hombre de entendimiento."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1951,
+      "char_end": 2035,
+      "text": "Lo que el impío teme, eso le vendrá; Pero a los justos les será dado lo que desean."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2035,
+      "char_end": 2123,
+      "text": "Como pasa el torbellino, así el malo no permanece; Mas el justo permanece para siempre."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2123,
+      "char_end": 2221,
+      "text": "Como el vinagre a los dientes, y como el humo a los ojos, Así es el perezoso a los que lo envían."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2221,
+      "char_end": 2304,
+      "text": "El temor de Jehová aumentará los días; Mas los años de los impíos serán acortados."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2304,
+      "char_end": 2384,
+      "text": "La esperanza de los justos es alegría; Mas la esperanza de los impíos perecerá."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2384,
+      "char_end": 2474,
+      "text": "El camino de Jehová es fortaleza al perfecto; Pero es destrucción a los que hacen maldad."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2474,
+      "char_end": 2547,
+      "text": "El justo no será removido jamás; Pero los impíos no habitarán la tierra."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2547,
+      "char_end": 2623,
+      "text": "La boca del justo producirá sabiduría; Mas la lengua perversa será cortada."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2623,
+      "char_end": 2719,
+      "text": "Los labios del justo saben hablar lo que agrada; Mas la boca de los impíos habla perversidades."
+    }
+  ],
+  "words": [
+    {
+      "word": "Los proverbios de Salomón.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 2475,
+      "duration_ms": 2375
+    },
+    {
+      "word": "El hijo sabio alegra al padre, Pero el hijo necio es tristeza de su madre.",
+      "verse": 1,
+      "start_ms": 2425,
+      "end_ms": 7562,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Los tesoros de maldad no serán de provecho; Mas la justicia libra de muerte.",
+      "verse": 2,
+      "start_ms": 7562,
+      "end_ms": 12699,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Jehová no dejará padecer hambre al justo; Mas la iniquidad lanzará a los impíos.",
+      "verse": 3,
+      "start_ms": 12700,
+      "end_ms": 18200,
+      "duration_ms": 5500
+    },
+    {
+      "word": "La mano negligente empobrece; Mas la mano de los diligentes enriquece.",
+      "verse": 4,
+      "start_ms": 18200,
+      "end_ms": 23137,
+      "duration_ms": 4937
+    },
+    {
+      "word": "El que recoge en el verano es hombre entendido; El que duerme en el tiempo de la siega es hijo que avergüenza.",
+      "verse": 5,
+      "start_ms": 23137,
+      "end_ms": 29662,
+      "duration_ms": 6525
+    },
+    {
+      "word": "Hay bendiciones sobre la cabeza del justo; Pero violencia cubrirá la boca de los impíos.",
+      "verse": 6,
+      "start_ms": 29662,
+      "end_ms": 35337,
+      "duration_ms": 5675
+    },
+    {
+      "word": "La memoria del justo será bendita; Mas el nombre de los impíos se pudrirá.",
+      "verse": 7,
+      "start_ms": 35337,
+      "end_ms": 40412,
+      "duration_ms": 5075
+    },
+    {
+      "word": "El sabio de corazón recibirá los mandamientos; Mas el necio de labios caerá.",
+      "verse": 8,
+      "start_ms": 40412,
+      "end_ms": 45712,
+      "duration_ms": 5300
+    },
+    {
+      "word": "El que camina en integridad anda confiado; Mas el que pervierte sus caminos será quebrantado.",
+      "verse": 9,
+      "start_ms": 45712,
+      "end_ms": 51487,
+      "duration_ms": 5775
+    },
+    {
+      "word": "El que guiña el ojo acarrea tristeza; Y el necio de labios será castigado.",
+      "verse": 10,
+      "start_ms": 51487,
+      "end_ms": 56812,
+      "duration_ms": 5325
+    },
+    {
+      "word": "Manantial de vida es la boca del justo; Pero violencia cubrirá la boca de los impíos.",
+      "verse": 11,
+      "start_ms": 56812,
+      "end_ms": 62612,
+      "duration_ms": 5800
+    },
+    {
+      "word": "El odio despierta rencillas; Pero el amor cubrirá todas las faltas.",
+      "verse": 12,
+      "start_ms": 62612,
+      "end_ms": 67712,
+      "duration_ms": 5100
+    },
+    {
+      "word": "En los labios del prudente se halla sabiduría; Mas la vara es para las espaldas del falto de cordura.",
+      "verse": 13,
+      "start_ms": 67712,
+      "end_ms": 73962,
+      "duration_ms": 6250
+    },
+    {
+      "word": "Los sabios guardan la sabiduría; Mas la boca del necio es calamidad cercana.",
+      "verse": 14,
+      "start_ms": 73962,
+      "end_ms": 79324,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Las riquezas del rico son su ciudad fortificada; Y el desmayo de los pobres es su pobreza.",
+      "verse": 15,
+      "start_ms": 79325,
+      "end_ms": 85100,
+      "duration_ms": 5775
+    },
+    {
+      "word": "La obra del justo es para vida; Mas el fruto del impío es para pecado.",
+      "verse": 16,
+      "start_ms": 85100,
+      "end_ms": 90175,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Camino a la vida es guardar la instrucción; Pero quien desecha la reprensión, yerra.",
+      "verse": 17,
+      "start_ms": 90175,
+      "end_ms": 95775,
+      "duration_ms": 5600
+    },
+    {
+      "word": "El que encubre el odio es de labios mentirosos; Y el que propaga calumnia es necio.",
+      "verse": 18,
+      "start_ms": 95775,
+      "end_ms": 101350,
+      "duration_ms": 5575
+    },
+    {
+      "word": "En las muchas palabras no falta pecado; Mas el que refrena sus labios es prudente.",
+      "verse": 19,
+      "start_ms": 101350,
+      "end_ms": 106800,
+      "duration_ms": 5450
+    },
+    {
+      "word": "Plata escogida es la lengua del justo; Mas el corazón de los impíos es como nada.",
+      "verse": 20,
+      "start_ms": 106800,
+      "end_ms": 112300,
+      "duration_ms": 5500
+    },
+    {
+      "word": "Los labios del justo apacientan a muchos, Mas los necios mueren por falta de entendimiento.",
+      "verse": 21,
+      "start_ms": 112300,
+      "end_ms": 118050,
+      "duration_ms": 5750
+    },
+    {
+      "word": "La bendición de Jehová es la que enriquece, Y no añade tristeza con ella.",
+      "verse": 22,
+      "start_ms": 118050,
+      "end_ms": 123025,
+      "duration_ms": 4975
+    },
+    {
+      "word": "El hacer maldad es como una diversión al insensato; Mas la sabiduría recrea al hombre de entendimiento.",
+      "verse": 23,
+      "start_ms": 123025,
+      "end_ms": 129500,
+      "duration_ms": 6475
+    },
+    {
+      "word": "Lo que el impío teme, eso le vendrá; Pero a los justos les será dado lo que desean.",
+      "verse": 24,
+      "start_ms": 129500,
+      "end_ms": 135187,
+      "duration_ms": 5687
+    },
+    {
+      "word": "Como pasa el torbellino, así el malo no permanece; Mas el justo permanece para siempre.",
+      "verse": 25,
+      "start_ms": 135187,
+      "end_ms": 141249,
+      "duration_ms": 6062
+    },
+    {
+      "word": "Como el vinagre a los dientes, y como el humo a los ojos, Así es el perezoso a los que lo envían.",
+      "verse": 26,
+      "start_ms": 141250,
+      "end_ms": 147412,
+      "duration_ms": 6162
+    },
+    {
+      "word": "El temor de Jehová aumentará los días; Mas los años de los impíos serán acortados.",
+      "verse": 27,
+      "start_ms": 147412,
+      "end_ms": 153062,
+      "duration_ms": 5650
+    },
+    {
+      "word": "La esperanza de los justos es alegría; Mas la esperanza de los impíos perecerá.",
+      "verse": 28,
+      "start_ms": 153062,
+      "end_ms": 158412,
+      "duration_ms": 5350
+    },
+    {
+      "word": "El camino de Jehová es fortaleza al perfecto; Pero es destrucción a los que hacen maldad.",
+      "verse": 29,
+      "start_ms": 158412,
+      "end_ms": 163962,
+      "duration_ms": 5550
+    },
+    {
+      "word": "El justo no será removido jamás; Pero los impíos no habitarán la tierra.",
+      "verse": 30,
+      "start_ms": 163962,
+      "end_ms": 169224,
+      "duration_ms": 5262
+    },
+    {
+      "word": "La boca del justo producirá sabiduría; Mas la lengua perversa será cortada.",
+      "verse": 31,
+      "start_ms": 169225,
+      "end_ms": 174812,
+      "duration_ms": 5587
+    },
+    {
+      "word": "Los labios del justo saben hablar lo que agrada; Mas la boca de los impíos habla perversidades.",
+      "verse": 32,
+      "start_ms": 174812,
+      "end_ms": 181112,
+      "duration_ms": 6300
+    }
+  ]
+}

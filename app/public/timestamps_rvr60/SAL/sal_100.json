@@ -1,0 +1,82 @@
+{
+  "book": "SAL",
+  "chapter": 100,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 5,
+  "word_count": 5,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 53,
+      "text": "Cantad alegres a Dios, habitantes de toda la tierra."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 53,
+      "char_end": 120,
+      "text": "Servid a Jehová con alegría; Venid ante su presencia con regocijo."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 120,
+      "char_end": 237,
+      "text": "Reconoced que Jehová es Dios; él nos hizo, y no nosotros a nosotros mismos; Pueblo suyo somos, y ovejas de su prado."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 237,
+      "char_end": 342,
+      "text": "Entrad por sus puertas con acción de gracias, Por sus atrios con alabanza; Alabadle, bendecid su nombre."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 342,
+      "char_end": 439,
+      "text": "Porque Jehová es bueno; para siempre es su misericordia, Y su verdad por todas las generaciones."
+    }
+  ],
+  "words": [
+    {
+      "word": "Cantad alegres a Dios, habitantes de toda la tierra.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4200,
+      "duration_ms": 4100
+    },
+    {
+      "word": "Servid a Jehová con alegría; Venid ante su presencia con regocijo.",
+      "verse": 2,
+      "start_ms": 4150,
+      "end_ms": 9137,
+      "duration_ms": 4987
+    },
+    {
+      "word": "Reconoced que Jehová es Dios; él nos hizo, y no nosotros a nosotros mismos; Pueblo suyo somos, y ovejas de su prado.",
+      "verse": 3,
+      "start_ms": 9137,
+      "end_ms": 17699,
+      "duration_ms": 8562
+    },
+    {
+      "word": "Entrad por sus puertas con acción de gracias, Por sus atrios con alabanza; Alabadle, bendecid su nombre.",
+      "verse": 4,
+      "start_ms": 17700,
+      "end_ms": 24675,
+      "duration_ms": 6975
+    },
+    {
+      "word": "Porque Jehová es bueno; para siempre es su misericordia, Y su verdad por todas las generaciones.",
+      "verse": 5,
+      "start_ms": 24675,
+      "end_ms": 31150,
+      "duration_ms": 6475
+    }
+  ]
+}

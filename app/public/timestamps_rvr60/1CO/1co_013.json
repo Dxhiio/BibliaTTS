@@ -1,0 +1,474 @@
+{
+  "book": "1CO",
+  "chapter": 13,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 31,
+  "word_count": 35,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 68,
+      "text": "No quiero, hermanos, que ignoréis acerca de los dones espirituales."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 68,
+      "char_end": 171,
+      "text": "Sabéis que cuando erais gentiles, se os extraviaba llevándoos, como se os llevaba, a los ídolos mudos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 171,
+      "char_end": 327,
+      "text": "Por tanto, os hago saber que nadie que hable por el Espíritu de Dios llama anatema a Jesús; y nadie puede llamar a Jesús Señor, sino por el Espíritu Santo."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 327,
+      "char_end": 394,
+      "text": "Ahora bien, hay diversidad de dones, pero el Espíritu es el mismo."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 394,
+      "char_end": 454,
+      "text": "Y hay diversidad de ministerios, pero el Señor es el mismo."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 454,
+      "char_end": 546,
+      "text": "Y hay diversidad de operaciones, pero Dios, que hace todas las cosas en todos, es el mismo."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 546,
+      "char_end": 618,
+      "text": "Pero a cada uno le es dada la manifestación del Espíritu para provecho."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 618,
+      "char_end": 730,
+      "text": "Porque a éste es dada por el Espíritu palabra de sabiduría; a otro, palabra de ciencia según el mismo Espíritu;"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 730,
+      "char_end": 816,
+      "text": "a otro, fe por el mismo Espíritu; y a otro, dones de sanidades por el mismo Espíritu."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 816,
+      "char_end": 972,
+      "text": "A otro, el hacer milagros; a otro, profecía; a otro, discernimiento de espíritus; a otro, diversos géneros de lenguas; y a otro, interpretación de lenguas."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 972,
+      "char_end": 1082,
+      "text": "Pero todas estas cosas las hace uno y el mismo Espíritu, repartiendo a cada uno en particular como él quiere."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1082,
+      "char_end": 1232,
+      "text": "Porque así como el cuerpo es uno, y tiene muchos miembros, pero todos los miembros del cuerpo, siendo muchos, son un solo cuerpo, así también Cristo."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1232,
+      "char_end": 1396,
+      "text": "Porque por un solo Espíritu fuimos todos bautizados en un cuerpo, sean judíos o griegos, sean esclavos o libres; y a todos se nos dio a beber de un mismo Espíritu."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1396,
+      "char_end": 1450,
+      "text": "Además, el cuerpo no es un solo miembro, sino muchos."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1450,
+      "char_end": 1536,
+      "text": "Si dijere el pie: Porque no soy mano, no soy del cuerpo, ¿por eso no será del cuerpo?"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1536,
+      "char_end": 1625,
+      "text": "Y si dijere la oreja: Porque no soy ojo, no soy del cuerpo, ¿por eso no será del cuerpo?"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1625,
+      "char_end": 1724,
+      "text": "Si todo el cuerpo fuese ojo, ¿dónde estaría el oído? Si todo fuese oído, ¿dónde estaría el olfato?"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1724,
+      "char_end": 1811,
+      "text": "Mas ahora Dios ha colocado los miembros cada uno de ellos en el cuerpo, como él quiso."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1811,
+      "char_end": 1877,
+      "text": "Porque si todos fueran un solo miembro, ¿dónde estaría el cuerpo?"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1877,
+      "char_end": 1941,
+      "text": "Pero ahora son muchos los miembros, pero el cuerpo es uno solo."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1941,
+      "char_end": 2055,
+      "text": "Ni el ojo puede decir a la mano: No te necesito, ni tampoco la cabeza a los pies: No tengo necesidad de vosotros."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2055,
+      "char_end": 2139,
+      "text": "Antes bien los miembros del cuerpo que parecen más débiles, son los más necesarios;"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2139,
+      "char_end": 2295,
+      "text": "y a aquellos del cuerpo que nos parecen menos dignos, a éstos vestimos más dignamente; y los que en nosotros son menos decorosos, se tratan con más decoro."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2295,
+      "char_end": 2435,
+      "text": "Porque los que en nosotros son más decorosos, no tienen necesidad; pero Dios ordenó el cuerpo, dando más abundante honor al que le faltaba,"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2435,
+      "char_end": 2544,
+      "text": "para que no haya desavenencia en el cuerpo, sino que los miembros todos se preocupen los unos por los otros."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2544,
+      "char_end": 2683,
+      "text": "De manera que si un miembro padece, todos los miembros se duelen con él, y si un miembro recibe honra, todos los miembros con él se gozan."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2683,
+      "char_end": 2760,
+      "text": "Vosotros, pues, sois el cuerpo de Cristo, y miembros cada uno en particular."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2760,
+      "char_end": 2976,
+      "text": "Y a unos puso Dios en la iglesia, primeramente apóstoles, luego profetas, lo tercero maestros, luego los que hacen milagros, después los que sanan, los que ayudan, los que administran, los que tienen don de lenguas."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2976,
+      "char_end": 3059,
+      "text": "¿Son todos apóstoles? ¿son todos profetas? ¿todos maestros? ¿hacen todos milagros?"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3059,
+      "char_end": 3134,
+      "text": "¿Tienen todos dones de sanidad? ¿hablan todos lenguas? ¿interpretan todos?"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3134,
+      "char_end": 3216,
+      "text": "Procurad, pues, los dones mejores. Mas yo os muestro un camino aun más excelente."
+    }
+  ],
+  "words": [
+    {
+      "word": "No quiero, hermanos, que ignoréis acerca de los dones espirituales.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5387,
+      "duration_ms": 5287
+    },
+    {
+      "word": "Sabéis que cuando erais gentiles, se os extraviaba llevándoos, como se os llevaba, a los ídolos mudos.",
+      "verse": 2,
+      "start_ms": 5337,
+      "end_ms": 12574,
+      "duration_ms": 7237
+    },
+    {
+      "word": "Por tanto, os hago saber que nadie que hable por el Espíritu de Dios llama anatema a Jesús; y nadie puede llamar a Jesús Señor, sino por el Espíritu Santo.",
+      "verse": 3,
+      "start_ms": 12575,
+      "end_ms": 22362,
+      "duration_ms": 9787
+    },
+    {
+      "word": "Ahora bien, hay diversidad de dones, pero el Espíritu es el mismo.",
+      "verse": 4,
+      "start_ms": 22362,
+      "end_ms": 27362,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Y hay diversidad de ministerios, pero el Señor es el mismo.",
+      "verse": 5,
+      "start_ms": 27362,
+      "end_ms": 31549,
+      "duration_ms": 4187
+    },
+    {
+      "word": "Y hay diversidad de operaciones, pero Dios, que hace todas las cosas en todos, es el mismo.",
+      "verse": 6,
+      "start_ms": 31550,
+      "end_ms": 38050,
+      "duration_ms": 6500
+    },
+    {
+      "word": "Pero a cada uno le es dada la manifestación del Espíritu para provecho.",
+      "verse": 7,
+      "start_ms": 38050,
+      "end_ms": 42725,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Porque a éste es dada por el Espíritu palabra de sabiduría; a otro, palabra de ciencia según el mismo Espíritu; a otro, fe por el mismo Espíritu; y a otro, dones de sanidades por el mismo Espíritu.",
+      "verse": 8,
+      "start_ms": 42725,
+      "end_ms": 55587,
+      "duration_ms": 12862
+    },
+    {
+      "word": "A otro, el hacer milagros; a otro, profecía; a otro, discernimiento de espíritus; a otro, diversos géneros de lenguas; y a otro, interpretación de lenguas.",
+      "verse": 10,
+      "start_ms": 55587,
+      "end_ms": 67662,
+      "duration_ms": 12075
+    },
+    {
+      "word": "Pero todas estas cosas las hace uno y el mismo Espíritu, repartiendo a cada uno en particular como él quiere.",
+      "verse": 11,
+      "start_ms": 67662,
+      "end_ms": 74437,
+      "duration_ms": 6775
+    },
+    {
+      "word": "Porque así como el cuerpo es uno, y tiene muchos miembros, pero todos los miembros del cuerpo, siendo muchos, son un solo cuerpo, así también Cristo.",
+      "verse": 12,
+      "start_ms": 74437,
+      "end_ms": 83787,
+      "duration_ms": 9350
+    },
+    {
+      "word": "Porque por un solo Espíritu fuimos todos bautizados en un cuerpo, sean judíos o griegos, sean esclavos o libres; y a todos se nos dio a beber de un mismo Espíritu.",
+      "verse": 13,
+      "start_ms": 83787,
+      "end_ms": 94112,
+      "duration_ms": 10325
+    },
+    {
+      "word": "Además, el cuerpo no es un solo miembro, sino muchos.",
+      "verse": 14,
+      "start_ms": 94112,
+      "end_ms": 98512,
+      "duration_ms": 4400
+    },
+    {
+      "word": "Si dijere el pie: Porque no soy mano, no soy del cuerpo, ¿por eso no será del cuerpo?",
+      "verse": 15,
+      "start_ms": 98512,
+      "end_ms": 104612,
+      "duration_ms": 6100
+    },
+    {
+      "word": "Y si dijere la oreja: Porque no soy ojo, no soy del cuerpo, ¿por eso no será del cuerpo?",
+      "verse": 16,
+      "start_ms": 104612,
+      "end_ms": 110899,
+      "duration_ms": 6287
+    },
+    {
+      "word": "Si todo el cuerpo fuese ojo, ¿dónde estaría el oído?",
+      "verse": 17,
+      "start_ms": 110900,
+      "end_ms": 114875,
+      "duration_ms": 3975
+    },
+    {
+      "word": "Si todo fuese oído, ¿dónde estaría el olfato?",
+      "verse": 17,
+      "start_ms": 114875,
+      "end_ms": 118512,
+      "duration_ms": 3637
+    },
+    {
+      "word": "Mas ahora Dios ha colocado los miembros cada uno de ellos en el cuerpo, como él quiso.",
+      "verse": 18,
+      "start_ms": 118512,
+      "end_ms": 124049,
+      "duration_ms": 5537
+    },
+    {
+      "word": "Porque si todos fueran un solo miembro, ¿dónde estaría el cuerpo?",
+      "verse": 19,
+      "start_ms": 124050,
+      "end_ms": 128362,
+      "duration_ms": 4312
+    },
+    {
+      "word": "Pero ahora son muchos los miembros, pero el cuerpo es uno solo.",
+      "verse": 20,
+      "start_ms": 128362,
+      "end_ms": 132737,
+      "duration_ms": 4375
+    },
+    {
+      "word": "Ni el ojo puede decir a la mano: No te necesito, ni tampoco la cabeza a los pies: No tengo necesidad de vosotros.",
+      "verse": 21,
+      "start_ms": 132737,
+      "end_ms": 140474,
+      "duration_ms": 7737
+    },
+    {
+      "word": "Antes bien los miembros del cuerpo que parecen más débiles, son los más necesarios; y a aquellos del cuerpo que nos parecen menos dignos, a éstos vestimos más dignamente; y los que en nosotros son menos decorosos, se tratan con más decoro.",
+      "verse": 22,
+      "start_ms": 140475,
+      "end_ms": 154662,
+      "duration_ms": 14187
+    },
+    {
+      "word": "Porque los que en nosotros son más decorosos, no tienen necesidad; pero Dios ordenó el cuerpo, dando más abundante honor al que le faltaba, para que no haya desavenencia en el cuerpo, sino que los miembros todos se preocupen los unos por los otros.",
+      "verse": 24,
+      "start_ms": 154662,
+      "end_ms": 168887,
+      "duration_ms": 14225
+    },
+    {
+      "word": "De manera que si un miembro padece, todos los miembros se duelen con él, y si un miembro recibe honra, todos los miembros con él se gozan.",
+      "verse": 26,
+      "start_ms": 168887,
+      "end_ms": 177237,
+      "duration_ms": 8350
+    },
+    {
+      "word": "Vosotros, pues, sois el cuerpo de Cristo, y miembros cada uno en particular.",
+      "verse": 27,
+      "start_ms": 177237,
+      "end_ms": 183087,
+      "duration_ms": 5850
+    },
+    {
+      "word": "Y a unos puso Dios en la iglesia, primeramente apóstoles, luego profetas, lo tercero maestros, luego los que hacen milagros, después los que sanan, los que ayudan, los que administran, los que tienen don de lenguas.",
+      "verse": 28,
+      "start_ms": 183087,
+      "end_ms": 196587,
+      "duration_ms": 13500
+    },
+    {
+      "word": "Son todos apóstoles?",
+      "verse": 29,
+      "start_ms": 196587,
+      "end_ms": 198987,
+      "duration_ms": 2400
+    },
+    {
+      "word": "son todos profetas?",
+      "verse": 29,
+      "start_ms": 198987,
+      "end_ms": 201262,
+      "duration_ms": 2275
+    },
+    {
+      "word": "todos maestros?",
+      "verse": 29,
+      "start_ms": 201262,
+      "end_ms": 203274,
+      "duration_ms": 2012
+    },
+    {
+      "word": "hacen todos milagros?",
+      "verse": 29,
+      "start_ms": 203275,
+      "end_ms": 205537,
+      "duration_ms": 2262
+    },
+    {
+      "word": "Tienen todos dones de sanidad?",
+      "verse": 30,
+      "start_ms": 205537,
+      "end_ms": 208137,
+      "duration_ms": 2600
+    },
+    {
+      "word": "hablan todos lenguas?",
+      "verse": 30,
+      "start_ms": 208137,
+      "end_ms": 210362,
+      "duration_ms": 2225
+    },
+    {
+      "word": "interpretan todos?",
+      "verse": 30,
+      "start_ms": 210362,
+      "end_ms": 212474,
+      "duration_ms": 2112
+    },
+    {
+      "word": "Procurad, pues, los dones mejores.",
+      "verse": 31,
+      "start_ms": 212475,
+      "end_ms": 216050,
+      "duration_ms": 3575
+    },
+    {
+      "word": "Mas yo os muestro un camino aun más excelente.",
+      "verse": 31,
+      "start_ms": 216050,
+      "end_ms": 219725,
+      "duration_ms": 3675
+    }
+  ]
+}

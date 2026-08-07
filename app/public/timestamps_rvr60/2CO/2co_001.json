@@ -1,0 +1,369 @@
+{
+  "book": "2CO",
+  "chapter": 1,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 24,
+  "word_count": 27,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 115,
+      "text": "En cuanto a la ofrenda para los santos, haced vosotros también de la manera que ordené en las iglesias de Galacia."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 115,
+      "char_end": 279,
+      "text": "Cada primer día de la semana cada uno de vosotros ponga aparte algo, según haya prosperado, guardándolo, para que cuando yo llegue no se recojan entonces ofrendas."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 279,
+      "char_end": 405,
+      "text": "Y cuando haya llegado, a quienes hubiereis designado por carta, a éstos enviaré para que lleven vuestro donativo a Jerusalén."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 405,
+      "char_end": 474,
+      "text": "Y si fuere propio que yo también vaya, irán conmigo. Planes de Pablo"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 474,
+      "char_end": 560,
+      "text": "Iré a vosotros, cuando haya pasado por Macedonia, pues por Macedonia tengo que pasar."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 560,
+      "char_end": 675,
+      "text": "Y podrá ser que me quede con vosotros, o aun pase el invierno, para que vosotros me encaminéis a donde haya de ir."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 675,
+      "char_end": 782,
+      "text": "Porque no quiero veros ahora de paso, pues espero estar con vosotros algún tiempo, si el Señor lo permite."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 782,
+      "char_end": 822,
+      "text": "Pero estaré en éfeso hasta Pentecostés;"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 822,
+      "char_end": 900,
+      "text": "porque se me ha abierto puerta grande y eficaz, y muchos son los adversarios."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 900,
+      "char_end": 1012,
+      "text": "Y si llega Timoteo, mirad que esté con vosotros con tranquilidad, porque él hace la obra del Señor así como yo."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1012,
+      "char_end": 1128,
+      "text": "Por tanto, nadie le tenga en poco, sino encaminadle en paz, para que venga a mí, porque le espero con los hermanos."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1128,
+      "char_end": 1318,
+      "text": "Acerca del hermano Apolos, mucho le rogué que fuese a vosotros con los hermanos, mas de ninguna manera tuvo voluntad de ir por ahora; pero irá cuando tenga oportunidad. Salutaciones finales"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1318,
+      "char_end": 1383,
+      "text": "Velad, estad firmes en la fe; portaos varonilmente, y esforzaos."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1383,
+      "char_end": 1426,
+      "text": "Todas vuestras cosas sean hechas con amor."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1426,
+      "char_end": 1556,
+      "text": "Hermanos, ya sabéis que la familia de Estéfanas es las primicias de Acaya, y que ellos se han dedicado al servicio de los santos."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1556,
+      "char_end": 1641,
+      "text": "Os ruego que os sujetéis a personas como ellos, y a todos los que ayudan y trabajan."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1641,
+      "char_end": 1748,
+      "text": "Me regocijo con la venida de Estéfanas, de Fortunato y de Acaico, pues ellos han suplido vuestra ausencia."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1748,
+      "char_end": 1828,
+      "text": "Porque confortaron mi espíritu y el vuestro; reconoced, pues, a tales personas."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1828,
+      "char_end": 1946,
+      "text": "Las iglesias de Asia os saludan. Aquila y Priscila, con la iglesia que está en su casa, os saludan mucho en el Señor."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1946,
+      "char_end": 2025,
+      "text": "Os saludan todos los hermanos. Saludaos los unos a los otros con ósculo santo."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2025,
+      "char_end": 2082,
+      "text": "Yo, Pablo, os escribo esta salutación de mi propia mano."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2082,
+      "char_end": 2148,
+      "text": "El que no amare al Señor Jesucristo, sea anatema. El Señor viene."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2148,
+      "char_end": 2198,
+      "text": "La gracia del Señor Jesucristo esté con vosotros."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2198,
+      "char_end": 2253,
+      "text": "Mi amor en Cristo Jesús esté con todos vosotros. Amén."
+    }
+  ],
+  "words": [
+    {
+      "word": "En cuanto a la ofrenda para los santos, haced vosotros también de la manera que ordené en las iglesias de Galacia.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6437,
+      "duration_ms": 6337
+    },
+    {
+      "word": "Cada primer día de la semana cada uno de vosotros ponga aparte algo, según haya prosperado, guardándolo, para que cuando yo llegue no se recojan entonces ofrendas.",
+      "verse": 2,
+      "start_ms": 6387,
+      "end_ms": 16349,
+      "duration_ms": 9962
+    },
+    {
+      "word": "Y cuando haya llegado, a quienes hubiereis designado por carta, a éstos enviaré para que lleven vuestro donativo a Jerusalén.",
+      "verse": 3,
+      "start_ms": 16350,
+      "end_ms": 23837,
+      "duration_ms": 7487
+    },
+    {
+      "word": "Y si fuere propio que yo también vaya, irán conmigo.",
+      "verse": 4,
+      "start_ms": 23837,
+      "end_ms": 27724,
+      "duration_ms": 3887
+    },
+    {
+      "word": "Planes de Pablo Iré a vosotros, cuando haya pasado por Macedonia, pues por Macedonia tengo que pasar.",
+      "verse": 4,
+      "start_ms": 27725,
+      "end_ms": 34512,
+      "duration_ms": 6787
+    },
+    {
+      "word": "Y podrá ser que me quede con vosotros, o aun pase el invierno, para que vosotros me encaminéis a donde haya de ir.",
+      "verse": 6,
+      "start_ms": 34512,
+      "end_ms": 41587,
+      "duration_ms": 7075
+    },
+    {
+      "word": "Porque no quiero veros ahora de paso, pues espero estar con vosotros algún tiempo, si el Señor lo permite.",
+      "verse": 7,
+      "start_ms": 41587,
+      "end_ms": 48149,
+      "duration_ms": 6562
+    },
+    {
+      "word": "Pero estaré en éfeso hasta Pentecostés; porque se me ha abierto puerta grande y eficaz, y muchos son los adversarios.",
+      "verse": 8,
+      "start_ms": 48150,
+      "end_ms": 55675,
+      "duration_ms": 7525
+    },
+    {
+      "word": "Y si llega Timoteo, mirad que esté con vosotros con tranquilidad, porque él hace la obra del Señor así como yo.",
+      "verse": 10,
+      "start_ms": 55675,
+      "end_ms": 62837,
+      "duration_ms": 7162
+    },
+    {
+      "word": "Por tanto, nadie le tenga en poco, sino encaminadle en paz, para que venga a mí, porque le espero con los hermanos.",
+      "verse": 11,
+      "start_ms": 62837,
+      "end_ms": 70387,
+      "duration_ms": 7550
+    },
+    {
+      "word": "Acerca del hermano Apolos, mucho le rogué que fuese a vosotros con los hermanos, mas de ninguna manera tuvo voluntad de ir por ahora; pero irá cuando tenga oportunidad.",
+      "verse": 12,
+      "start_ms": 70387,
+      "end_ms": 80387,
+      "duration_ms": 10000
+    },
+    {
+      "word": "Salutaciones finales Velad, estad firmes en la fe; portaos varonilmente, y esforzaos.",
+      "verse": 12,
+      "start_ms": 80387,
+      "end_ms": 87137,
+      "duration_ms": 6750
+    },
+    {
+      "word": "Todas vuestras cosas sean hechas con amor.",
+      "verse": 14,
+      "start_ms": 87137,
+      "end_ms": 90224,
+      "duration_ms": 3087
+    },
+    {
+      "word": "Hermanos, ya sabéis que la familia de Estéfanas es las primicias de Acaya, y que ellos se han dedicado al servicio de los santos.",
+      "verse": 15,
+      "start_ms": 90225,
+      "end_ms": 97837,
+      "duration_ms": 7612
+    },
+    {
+      "word": "Os ruego que os sujetéis a personas como ellos, y a todos los que ayudan y trabajan.",
+      "verse": 16,
+      "start_ms": 97837,
+      "end_ms": 103349,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Me regocijo con la venida de Estéfanas, de Fortunato y de Acaico, pues ellos han suplido vuestra ausencia.",
+      "verse": 17,
+      "start_ms": 103350,
+      "end_ms": 110175,
+      "duration_ms": 6825
+    },
+    {
+      "word": "Porque confortaron mi espíritu y el vuestro; reconoced, pues, a tales personas.",
+      "verse": 18,
+      "start_ms": 110175,
+      "end_ms": 116187,
+      "duration_ms": 6012
+    },
+    {
+      "word": "Las iglesias de Asia os saludan.",
+      "verse": 19,
+      "start_ms": 116187,
+      "end_ms": 118899,
+      "duration_ms": 2712
+    },
+    {
+      "word": "Aquila y Priscila, con la iglesia que está en su casa, os saludan mucho en el Señor.",
+      "verse": 19,
+      "start_ms": 118900,
+      "end_ms": 124500,
+      "duration_ms": 5600
+    },
+    {
+      "word": "Os saludan todos los hermanos.",
+      "verse": 20,
+      "start_ms": 124500,
+      "end_ms": 127212,
+      "duration_ms": 2712
+    },
+    {
+      "word": "Saludaos los unos a los otros con ósculo santo.",
+      "verse": 20,
+      "start_ms": 127212,
+      "end_ms": 130824,
+      "duration_ms": 3612
+    },
+    {
+      "word": "Yo, Pablo, os escribo esta salutación de mi propia mano.",
+      "verse": 21,
+      "start_ms": 130825,
+      "end_ms": 135500,
+      "duration_ms": 4675
+    },
+    {
+      "word": "El que no amare al Señor Jesucristo, sea anatema.",
+      "verse": 22,
+      "start_ms": 135500,
+      "end_ms": 139500,
+      "duration_ms": 4000
+    },
+    {
+      "word": "El Señor viene.",
+      "verse": 22,
+      "start_ms": 139500,
+      "end_ms": 141412,
+      "duration_ms": 1912
+    },
+    {
+      "word": "La gracia del Señor Jesucristo esté con vosotros.",
+      "verse": 23,
+      "start_ms": 141412,
+      "end_ms": 145099,
+      "duration_ms": 3687
+    },
+    {
+      "word": "Mi amor en Cristo Jesús esté con todos vosotros.",
+      "verse": 24,
+      "start_ms": 145100,
+      "end_ms": 148862,
+      "duration_ms": 3762
+    },
+    {
+      "word": "Amén.",
+      "verse": 24,
+      "start_ms": 148862,
+      "end_ms": 150262,
+      "duration_ms": 1400
+    }
+  ]
+}

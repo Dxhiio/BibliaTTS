@@ -1,0 +1,502 @@
+{
+  "book": "1SA",
+  "chapter": 23,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 29,
+  "word_count": 41,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 94,
+      "text": "Dieron aviso a David, diciendo: He aquí que los filisteos combaten a Keila, y roban las eras."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 94,
+      "char_end": 236,
+      "text": "Y David consultó a Jehová, diciendo: ¿Iré a atacar a estos filisteos? Y Jehová respondió a David: Ve, ataca a los filisteos, y libra a Keila."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 236,
+      "char_end": 401,
+      "text": "Pero los que estaban con David le dijeron: He aquí que nosotros aquí en Judá estamos con miedo; ¿cuánto más si fuéremos a Keila contra el ejército de los filisteos?"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 401,
+      "char_end": 553,
+      "text": "Entonces David volvió a consultar a Jehová. Y Jehová le respondió y dijo: Levántate, desciende a Keila, pues yo entregaré en tus manos a los filisteos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 553,
+      "char_end": 707,
+      "text": "Fue, pues, David con sus hombres a Keila, y peleó contra los filisteos, se llevó sus ganados, y les causó una gran derrota; y libró David a los de Keila."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 707,
+      "char_end": 821,
+      "text": "Y aconteció que cuando Abiatar hijo de Ahimelec huyó siguiendo a David a Keila, descendió con el efod en su mano."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 821,
+      "char_end": 996,
+      "text": "Y fue dado aviso a Saúl que David había venido a Keila. Entonces dijo Saúl: Dios lo ha entregado en mi mano, pues se ha encerrado entrando en ciudad con puertas y cerraduras."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 996,
+      "char_end": 1104,
+      "text": "Y convocó Saúl a todo el pueblo a la batalla para descender a Keila, y poner sitio a David y a sus hombres."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1104,
+      "char_end": 1200,
+      "text": "Mas entendiendo David que Saúl ideaba el mal contra él, dijo a Abiatar sacerdote: Trae el efod."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1200,
+      "char_end": 1337,
+      "text": "Y dijo David: Jehová Dios de Israel, tu siervo tiene entendido que Saúl trata de venir contra Keila, a destruir la ciudad por causa mía."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1337,
+      "char_end": 1521,
+      "text": "¿Me entregarán los vecinos de Keila en sus manos? ¿Descenderá Saúl, como ha oído tu siervo? Jehová Dios de Israel, te ruego que lo declares a tu siervo. Y Jehová dijo: Sí, descenderá."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1521,
+      "char_end": 1649,
+      "text": "Dijo luego David: ¿Me entregarán los vecinos de Keila a mí y a mis hombres en manos de Saúl? Y Jehová respondió: Os entregarán."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1649,
+      "char_end": 1858,
+      "text": "David entonces se levantó con sus hombres, que eran como seiscientos, y salieron de Keila, y anduvieron de un lugar a otro. Y vino a Saúl la nueva de que David se había escapado de Keila, y desistió de salir."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1858,
+      "char_end": 2028,
+      "text": "Y David se quedó en el desierto en lugares fuertes, y habitaba en un monte en el desierto de Zif; y lo buscaba Saúl todos los días, pero Dios no lo entregó en sus manos."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2028,
+      "char_end": 2134,
+      "text": "Viendo, pues, David que Saúl había salido en busca de su vida, se estuvo en Hores, en el desierto de Zif."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2134,
+      "char_end": 2229,
+      "text": "Entonces se levantó Jonatán hijo de Saúl y vino a David a Hores, y fortaleció su mano en Dios."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2229,
+      "char_end": 2389,
+      "text": "Y le dijo: No temas, pues no te hallará la mano de Saúl mi padre, y tú reinarás sobre Israel, y yo seré segundo después de ti; y aun Saúl mi padre así lo sabe."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2389,
+      "char_end": 2489,
+      "text": "Y ambos hicieron pacto delante de Jehová; y David se quedó en Hores, y Jonatán se volvió a su casa."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2489,
+      "char_end": 2669,
+      "text": "Después subieron los de Zif para decirle a Saúl en Gabaa: ¿No está David escondido en nuestra tierra en las peñas de Hores, en el collado de Haquila, que está al sur del desierto?"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2669,
+      "char_end": 2777,
+      "text": "Por tanto, rey, desciende pronto ahora, conforme a tu deseo, y nosotros lo entregaremos en la mano del rey."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2777,
+      "char_end": 2860,
+      "text": "Y Saúl dijo: Benditos seáis vosotros de Jehová, que habéis tenido compasión de mí."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2860,
+      "char_end": 3015,
+      "text": "Id, pues, ahora, aseguraos más, conoced y ved el lugar de su escondite, y quién lo haya visto allí; porque se me ha dicho que él es astuto en gran manera."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3015,
+      "char_end": 3226,
+      "text": "Observad, pues, e informaos de todos los escondrijos donde se oculta, y volved a mí con información segura, y yo iré con vosotros; y si él estuviere en la tierra, yo le buscaré entre todos los millares de Judá."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3226,
+      "char_end": 3371,
+      "text": "Y ellos se levantaron, y se fueron a Zif delante de Saúl. Pero David y su gente estaban en el desierto de Maón, en el Arabá al sur del desierto."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3371,
+      "char_end": 3555,
+      "text": "Y se fue Saúl con su gente a buscarlo; pero fue dado aviso a David, y descendió a la peña, y se quedó en el desierto de Maón. Cuando Saúl oyó esto, siguió a David al desierto de Maón."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3555,
+      "char_end": 3764,
+      "text": "Y Saúl iba por un lado del monte, y David con sus hombres por el otro lado del monte, y se daba prisa David para escapar de Saúl; mas Saúl y sus hombres habían encerrado a David y a su gente para capturarlos."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3764,
+      "char_end": 3877,
+      "text": "Entonces vino un mensajero a Saúl, diciendo: Ven luego, porque los filisteos han hecho una irrupción en el país."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3877,
+      "char_end": 4020,
+      "text": "Volvió, por tanto, Saúl de perseguir a David, y partió contra los filisteos. Por esta causa pusieron a aquel lugar por nombre Sela-hama-lecot."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 4020,
+      "char_end": 4093,
+      "text": "Entonces David subió de allí y habitó en los lugares fuertes de En-gadi."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dieron aviso a David, diciendo: He aquí que los filisteos combaten a Keila, y roban las eras.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6950,
+      "duration_ms": 6850
+    },
+    {
+      "word": "Y David consultó a Jehová, diciendo: ¿Iré a atacar a estos filisteos?",
+      "verse": 2,
+      "start_ms": 6900,
+      "end_ms": 12512,
+      "duration_ms": 5612
+    },
+    {
+      "word": "Y Jehová respondió a David: Ve, ataca a los filisteos, y libra a Keila.",
+      "verse": 2,
+      "start_ms": 12512,
+      "end_ms": 18137,
+      "duration_ms": 5625
+    },
+    {
+      "word": "Pero los que estaban con David le dijeron: He aquí que nosotros aquí en Judá estamos con miedo; ¿cuánto más si fuéremos a Keila contra el ejército de los filisteos?",
+      "verse": 3,
+      "start_ms": 18137,
+      "end_ms": 27524,
+      "duration_ms": 9387
+    },
+    {
+      "word": "Entonces David volvió a consultar a Jehová.",
+      "verse": 4,
+      "start_ms": 27525,
+      "end_ms": 30837,
+      "duration_ms": 3312
+    },
+    {
+      "word": "Y Jehová le respondió y dijo: Levántate, desciende a Keila, pues yo entregaré en tus manos a los filisteos.",
+      "verse": 4,
+      "start_ms": 30837,
+      "end_ms": 38137,
+      "duration_ms": 7300
+    },
+    {
+      "word": "Fue, pues, David con sus hombres a Keila, y peleó contra los filisteos, se llevó sus ganados, y les causó una gran derrota; y libró David a los de Keila.",
+      "verse": 5,
+      "start_ms": 38137,
+      "end_ms": 48737,
+      "duration_ms": 10600
+    },
+    {
+      "word": "Y aconteció que cuando Abiatar hijo de Ahimelec huyó siguiendo a David a Keila, descendió con el efod en su mano.",
+      "verse": 6,
+      "start_ms": 48737,
+      "end_ms": 55224,
+      "duration_ms": 6487
+    },
+    {
+      "word": "Y fue dado aviso a Saúl que David había venido a Keila.",
+      "verse": 7,
+      "start_ms": 55225,
+      "end_ms": 59200,
+      "duration_ms": 3975
+    },
+    {
+      "word": "Entonces dijo Saúl: Dios lo ha entregado en mi mano, pues se ha encerrado entrando en ciudad con puertas y cerraduras.",
+      "verse": 7,
+      "start_ms": 59200,
+      "end_ms": 66300,
+      "duration_ms": 7100
+    },
+    {
+      "word": "Y convocó Saúl a todo el pueblo a la batalla para descender a Keila, y poner sitio a David y a sus hombres.",
+      "verse": 8,
+      "start_ms": 66300,
+      "end_ms": 72775,
+      "duration_ms": 6475
+    },
+    {
+      "word": "Mas entendiendo David que Saúl ideaba el mal contra él, dijo a Abiatar sacerdote: Trae el efod.",
+      "verse": 9,
+      "start_ms": 72775,
+      "end_ms": 79575,
+      "duration_ms": 6800
+    },
+    {
+      "word": "Y dijo David: Jehová Dios de Israel, tu siervo tiene entendido que Saúl trata de venir contra Keila, a destruir la ciudad por causa mía.",
+      "verse": 10,
+      "start_ms": 79575,
+      "end_ms": 88250,
+      "duration_ms": 8675
+    },
+    {
+      "word": "Me entregarán los vecinos de Keila en sus manos?",
+      "verse": 11,
+      "start_ms": 88250,
+      "end_ms": 91537,
+      "duration_ms": 3287
+    },
+    {
+      "word": "Descenderá Saúl, como ha oído tu siervo?",
+      "verse": 11,
+      "start_ms": 91537,
+      "end_ms": 95162,
+      "duration_ms": 3625
+    },
+    {
+      "word": "Jehová Dios de Israel, te ruego que lo declares a tu siervo.",
+      "verse": 11,
+      "start_ms": 95162,
+      "end_ms": 99437,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Y Jehová dijo: Sí, descenderá.",
+      "verse": 11,
+      "start_ms": 99437,
+      "end_ms": 102674,
+      "duration_ms": 3237
+    },
+    {
+      "word": "Dijo luego David: ¿Me entregarán los vecinos de Keila a mí y a mis hombres en manos de Saúl?",
+      "verse": 12,
+      "start_ms": 102675,
+      "end_ms": 108587,
+      "duration_ms": 5912
+    },
+    {
+      "word": "Y Jehová respondió: Os entregarán.",
+      "verse": 12,
+      "start_ms": 108587,
+      "end_ms": 111624,
+      "duration_ms": 3037
+    },
+    {
+      "word": "David entonces se levantó con sus hombres, que eran como seiscientos, y salieron de Keila, y anduvieron de un lugar a otro.",
+      "verse": 13,
+      "start_ms": 111625,
+      "end_ms": 119400,
+      "duration_ms": 7775
+    },
+    {
+      "word": "Y vino a Saúl la nueva de que David se había escapado de Keila, y desistió de salir.",
+      "verse": 13,
+      "start_ms": 119400,
+      "end_ms": 125025,
+      "duration_ms": 5625
+    },
+    {
+      "word": "Y David se quedó en el desierto en lugares fuertes, y habitaba en un monte en el desierto de Zif; y lo buscaba Saúl todos los días, pero Dios no lo entregó en sus manos.",
+      "verse": 14,
+      "start_ms": 125025,
+      "end_ms": 135600,
+      "duration_ms": 10575
+    },
+    {
+      "word": "Viendo, pues, David que Saúl había salido en busca de su vida, se estuvo en Hores, en el desierto de Zif.",
+      "verse": 15,
+      "start_ms": 135600,
+      "end_ms": 143112,
+      "duration_ms": 7512
+    },
+    {
+      "word": "Entonces se levantó Jonatán hijo de Saúl y vino a David a Hores, y fortaleció su mano en Dios.",
+      "verse": 16,
+      "start_ms": 143112,
+      "end_ms": 149424,
+      "duration_ms": 6312
+    },
+    {
+      "word": "Y le dijo: No temas, pues no te hallará la mano de Saúl mi padre, y tú reinarás sobre Israel, y yo seré segundo después de ti; y aun Saúl mi padre así lo sabe.",
+      "verse": 17,
+      "start_ms": 149425,
+      "end_ms": 160200,
+      "duration_ms": 10775
+    },
+    {
+      "word": "Y ambos hicieron pacto delante de Jehová; y David se quedó en Hores, y Jonatán se volvió a su casa.",
+      "verse": 18,
+      "start_ms": 160200,
+      "end_ms": 166737,
+      "duration_ms": 6537
+    },
+    {
+      "word": "Después subieron los de Zif para decirle a Saúl en Gabaa: ¿No está David escondido en nuestra tierra en las peñas de Hores, en el collado de Haquila, que está al sur del desierto?",
+      "verse": 19,
+      "start_ms": 166737,
+      "end_ms": 177462,
+      "duration_ms": 10725
+    },
+    {
+      "word": "Por tanto, rey, desciende pronto ahora, conforme a tu deseo, y nosotros lo entregaremos en la mano del rey.",
+      "verse": 20,
+      "start_ms": 177462,
+      "end_ms": 184787,
+      "duration_ms": 7325
+    },
+    {
+      "word": "Y Saúl dijo: Benditos seáis vosotros de Jehová, que habéis tenido compasión de mí.",
+      "verse": 21,
+      "start_ms": 184787,
+      "end_ms": 190674,
+      "duration_ms": 5887
+    },
+    {
+      "word": "Id, pues, ahora, aseguraos más, conoced y ved el lugar de su escondite, y quién lo haya visto allí; porque se me ha dicho que él es astuto en gran manera.",
+      "verse": 22,
+      "start_ms": 190675,
+      "end_ms": 201012,
+      "duration_ms": 10337
+    },
+    {
+      "word": "Observad, pues, e informaos de todos los escondrijos donde se oculta, y volved a mí con información segura, y yo iré con vosotros; y si él estuviere en la tierra, yo le buscaré entre todos los millares de Judá.",
+      "verse": 23,
+      "start_ms": 201012,
+      "end_ms": 214262,
+      "duration_ms": 13250
+    },
+    {
+      "word": "Y ellos se levantaron, y se fueron a Zif delante de Saúl.",
+      "verse": 24,
+      "start_ms": 214262,
+      "end_ms": 218349,
+      "duration_ms": 4087
+    },
+    {
+      "word": "Pero David y su gente estaban en el desierto de Maón, en el Arabá al sur del desierto.",
+      "verse": 24,
+      "start_ms": 218350,
+      "end_ms": 223862,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Y se fue Saúl con su gente a buscarlo; pero fue dado aviso a David, y descendió a la peña, y se quedó en el desierto de Maón.",
+      "verse": 25,
+      "start_ms": 223862,
+      "end_ms": 231674,
+      "duration_ms": 7812
+    },
+    {
+      "word": "Cuando Saúl oyó esto, siguió a David al desierto de Maón.",
+      "verse": 25,
+      "start_ms": 231675,
+      "end_ms": 235900,
+      "duration_ms": 4225
+    },
+    {
+      "word": "Y Saúl iba por un lado del monte, y David con sus hombres por el otro lado del monte, y se daba prisa David para escapar de Saúl; mas Saúl y sus hombres habían encerrado a David y a su gente para capturarlos.",
+      "verse": 26,
+      "start_ms": 235900,
+      "end_ms": 248000,
+      "duration_ms": 12100
+    },
+    {
+      "word": "Entonces vino un mensajero a Saúl, diciendo: Ven luego, porque los filisteos han hecho una irrupción en el país.",
+      "verse": 27,
+      "start_ms": 248000,
+      "end_ms": 255650,
+      "duration_ms": 7650
+    },
+    {
+      "word": "Volvió, por tanto, Saúl de perseguir a David, y partió contra los filisteos.",
+      "verse": 28,
+      "start_ms": 255650,
+      "end_ms": 261437,
+      "duration_ms": 5787
+    },
+    {
+      "word": "Por esta causa",
+      "verse": 28,
+      "start_ms": 261437,
+      "end_ms": 263299,
+      "duration_ms": 1862
+    },
+    {
+      "word": "pusieron a aquel lugar por nombre Sela-hama-lecot.",
+      "verse": 28,
+      "start_ms": 263452,
+      "end_ms": 267027,
+      "duration_ms": 3575
+    },
+    {
+      "word": "Entonces David subió de allí y habitó en los lugares fuertes de En-gadi.",
+      "verse": 29,
+      "start_ms": 266977,
+      "end_ms": 271702,
+      "duration_ms": 4725
+    }
+  ]
+}

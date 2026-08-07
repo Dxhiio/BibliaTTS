@@ -1,0 +1,572 @@
+{
+  "book": "MAT",
+  "chapter": 11,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 42,
+  "word_count": 38,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 163,
+      "text": "Entonces llamando a sus doce discípulos, les dio autoridad sobre los espíritus inmundos, para que los echasen fuera, y para sanar toda enfermedad y toda dolencia."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 163,
+      "char_end": 302,
+      "text": "Los nombres de los doce apóstoles son éstos: primero Simón, llamado Pedro, y Andrés su hermano; Jacobo hijo de Zebedeo, y Juan su hermano;"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 302,
+      "char_end": 400,
+      "text": "Felipe, Bartolomé, Tomás, Mateo el publicano, Jacobo hijo de Alfeo, Lebeo, por sobrenombre Tadeo,"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 400,
+      "char_end": 507,
+      "text": "Simón el cananista, y Judas Iscariote, el que también le entregó. Misión de los doce (Mc 6.7–13; Lc 9.1–6)"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 507,
+      "char_end": 641,
+      "text": "A estos doce envió Jesús, y les dio instrucciones, diciendo: Por camino de gentiles no vayáis, y en ciudad de samaritanos no entréis,"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 641,
+      "char_end": 699,
+      "text": "sino id antes a las ovejas perdidas de la casa de Israel."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 699,
+      "char_end": 767,
+      "text": "Y yendo, predicad, diciendo: El reino de los cielos se ha acercado."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 767,
+      "char_end": 880,
+      "text": "Sanad enfermos, limpiad leprosos, resucitad muertos, echad fuera demonios; de gracia recibisteis, dad de gracia."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 880,
+      "char_end": 942,
+      "text": "No os proveáis de oro, ni plata, ni cobre en vuestros cintos;"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 942,
+      "char_end": 1062,
+      "text": "ni de alforja para el camino, ni de dos túnicas, ni de calzado, ni de bordón; porque el obrero es digno de su alimento."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1062,
+      "char_end": 1176,
+      "text": "Mas en cualquier ciudad o aldea donde entréis, informaos quién en ella sea digno, y posad allí hasta que salgáis."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1176,
+      "char_end": 1211,
+      "text": "Y al entrar en la casa, saludadla."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1211,
+      "char_end": 1326,
+      "text": "Y si la casa fuere digna, vuestra paz vendrá sobre ella; mas si no fuere digna, vuestra paz se volverá a vosotros."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1326,
+      "char_end": 1452,
+      "text": "Y si alguno no os recibiere, ni oyere vuestras palabras, salid de aquella casa o ciudad, y sacudid el polvo de vuestros pies."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1452,
+      "char_end": 1614,
+      "text": "De cierto os digo que en el día del juicio, será más tolerable el castigo para la tierra de Sodoma y de Gomorra, que para aquella ciudad. Persecuciones venideras"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1614,
+      "char_end": 1732,
+      "text": "He aquí, yo os envío como a ovejas en medio de lobos; sed, pues, prudentes como serpientes, y sencillos como palomas."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1732,
+      "char_end": 1829,
+      "text": "Y guardaos de los hombres, porque os entregarán a los concilios, y en sus sinagogas os azotarán;"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1829,
+      "char_end": 1936,
+      "text": "y aun ante gobernadores y reyes seréis llevados por causa de mí, para testimonio a ellos y a los gentiles."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1936,
+      "char_end": 2065,
+      "text": "Mas cuando os entreguen, no os preocupéis por cómo o qué hablaréis; porque en aquella hora os será dado lo que habéis de hablar."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2065,
+      "char_end": 2163,
+      "text": "Porque no sois vosotros los que habláis, sino el Espíritu de vuestro Padre que habla en vosotros."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2163,
+      "char_end": 2292,
+      "text": "El hermano entregará a la muerte al hermano, y el padre al hijo; y los hijos se levantarán contra los padres, y los harán morir."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2292,
+      "char_end": 2398,
+      "text": "Y seréis aborrecidos de todos por causa de mi nombre; mas el que persevere hasta el fin, éste será salvo."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2398,
+      "char_end": 2570,
+      "text": "Cuando os persigan en esta ciudad, huid a la otra; porque de cierto os digo, que no acabaréis de recorrer todas las ciudades de Israel, antes que venga el Hijo del Hombre."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2570,
+      "char_end": 2640,
+      "text": "El discípulo no es más que su maestro, ni el siervo más que su señor."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2640,
+      "char_end": 2815,
+      "text": "Bástale al discípulo ser como su maestro, y al siervo como su señor. Si al padre de familia llamaron Beelzebú, ¿cuánto más a los de su casa? A quién se debe temer (Lc 12.2–9)"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2815,
+      "char_end": 2934,
+      "text": "Así que, no los temáis; porque nada hay encubierto, que no haya de ser manifestado; ni oculto, que no haya de saberse."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2934,
+      "char_end": 3035,
+      "text": "Lo que os digo en tinieblas, decidlo en la luz; y lo que oís al oído, proclamadlo desde las azoteas."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3035,
+      "char_end": 3181,
+      "text": "Y no temáis a los que matan el cuerpo, mas el alma no pueden matar; temed más bien a aquel que puede destruir el alma y el cuerpo en el infierno."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3181,
+      "char_end": 3283,
+      "text": "¿No se venden dos pajarillos por un cuarto? Con todo, ni uno de ellos cae a tierra sin vuestro Padre."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3283,
+      "char_end": 3332,
+      "text": "Pues aun vuestros cabellos están todos contados."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3332,
+      "char_end": 3395,
+      "text": "Así que, no temáis; más valéis vosotros que muchos pajarillos."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3395,
+      "char_end": 3523,
+      "text": "A cualquiera, pues, que me confiese delante de los hombres, yo también le confesaré delante de mi Padre que está en los cielos."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3523,
+      "char_end": 3690,
+      "text": "Y a cualquiera que me niegue delante de los hombres, yo también le negaré delante de mi Padre que está en los cielos. Jesús, causa de división (Lc 12.49–53; 14.26–27)"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3690,
+      "char_end": 3785,
+      "text": "No penséis que he venido para traer paz a la tierra; no he venido para traer paz, sino espada."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3785,
+      "char_end": 3911,
+      "text": "Porque he venido para poner en disensión al hombre contra su padre, a la hija contra su madre, y a la nuera contra su suegra;"
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3911,
+      "char_end": 3959,
+      "text": "y los enemigos del hombre serán los de su casa."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3959,
+      "char_end": 4077,
+      "text": "El que ama a padre o madre más que a mí, no es digno de mí; el que ama a hijo o hija más que a mí, no es digno de mí;"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4077,
+      "char_end": 4143,
+      "text": "y el que no toma su cruz y sigue en pos de mí, no es digno de mí."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4143,
+      "char_end": 4252,
+      "text": "El que halla su vida, la perderá; y el que pierde su vida por causa de mí, la hallará. Recompensas (Mc 9.41)"
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4252,
+      "char_end": 4343,
+      "text": "El que a vosotros recibe, a mí me recibe; y el que me recibe a mí, recibe al que me envió."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4343,
+      "char_end": 4503,
+      "text": "El que recibe a un profeta por cuanto es profeta, recompensa de profeta recibirá; y el que recibe a un justo por cuanto es justo, recompensa de justo recibirá."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4503,
+      "char_end": 4654,
+      "text": "Y cualquiera que dé a uno de estos pequeñitos un vaso de agua fría solamente, por cuanto es discípulo, de cierto os digo que no perderá su recompensa."
+    }
+  ],
+  "words": [
+    {
+      "word": "Entonces llamando a sus doce discípulos, les dio autoridad sobre los espíritus inmundos, para que los echasen fuera, y para sanar toda enfermedad y toda dolencia.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 10112,
+      "duration_ms": 10012
+    },
+    {
+      "word": "Los nombres de los doce apóstoles son éstos: primero Simón, llamado Pedro, y Andrés su hermano; Jacobo hijo de Zebedeo, y Juan su hermano; Felipe, Bartolomé, Tomás, Mateo el publicano, Jacobo hijo de Alfeo, Lebeo, por sobrenombre Tadeo, Simón el cananista, y Judas Iscariote, el que también le entregó.",
+      "verse": 2,
+      "start_ms": 10062,
+      "end_ms": 31324,
+      "duration_ms": 21262
+    },
+    {
+      "word": "Misión de los doce (Mc 6.7–13; Lc 9.1–6) A estos doce envió Jesús, y les dio instrucciones, diciendo: Por camino de gentiles no vayáis, y en ciudad de samaritanos no entréis, sino id antes a las ovejas perdidas de la casa de Israel.",
+      "verse": 4,
+      "start_ms": 31325,
+      "end_ms": 49087,
+      "duration_ms": 17762
+    },
+    {
+      "word": "Y yendo, predicad, diciendo: El reino de los cielos se ha acercado.",
+      "verse": 7,
+      "start_ms": 49087,
+      "end_ms": 54549,
+      "duration_ms": 5462
+    },
+    {
+      "word": "Sanad enfermos, limpiad leprosos, resucitad muertos, echad fuera demonios; de gracia recibisteis, dad de gracia.",
+      "verse": 8,
+      "start_ms": 54550,
+      "end_ms": 63150,
+      "duration_ms": 8600
+    },
+    {
+      "word": "No os proveáis de oro, ni plata, ni cobre en vuestros cintos; ni de alforja para el camino, ni de dos túnicas, ni de calzado, ni de bordón; porque el obrero es digno de su alimento.",
+      "verse": 9,
+      "start_ms": 63150,
+      "end_ms": 75012,
+      "duration_ms": 11862
+    },
+    {
+      "word": "Mas en cualquier ciudad o aldea donde entréis, informaos quién en ella sea digno, y posad allí hasta que salgáis.",
+      "verse": 11,
+      "start_ms": 75012,
+      "end_ms": 82287,
+      "duration_ms": 7275
+    },
+    {
+      "word": "Y al entrar en la casa, saludadla.",
+      "verse": 12,
+      "start_ms": 82287,
+      "end_ms": 85262,
+      "duration_ms": 2975
+    },
+    {
+      "word": "Y si la casa fuere digna, vuestra paz vendrá sobre ella; mas si no fuere digna, vuestra paz se volverá a vosotros.",
+      "verse": 13,
+      "start_ms": 85262,
+      "end_ms": 92799,
+      "duration_ms": 7537
+    },
+    {
+      "word": "Y si alguno no os recibiere, ni oyere vuestras palabras, salid de aquella casa o ciudad, y sacudid el polvo de vuestros pies.",
+      "verse": 14,
+      "start_ms": 92800,
+      "end_ms": 100837,
+      "duration_ms": 8037
+    },
+    {
+      "word": "De cierto os digo que en el día del juicio, será más tolerable el castigo para la tierra de Sodoma y de Gomorra, que para aquella ciudad.",
+      "verse": 15,
+      "start_ms": 100837,
+      "end_ms": 109062,
+      "duration_ms": 8225
+    },
+    {
+      "word": "Persecuciones venideras He aquí, yo os envío como a ovejas en medio de lobos; sed, pues, prudentes como serpientes, y sencillos como palomas.",
+      "verse": 15,
+      "start_ms": 109062,
+      "end_ms": 118974,
+      "duration_ms": 9912
+    },
+    {
+      "word": "Y guardaos de los hombres, porque os entregarán a los concilios, y en sus sinagogas os azotarán; y aun ante gobernadores y reyes seréis llevados por causa de mí, para testimonio a ellos y a los gentiles.",
+      "verse": 17,
+      "start_ms": 118975,
+      "end_ms": 131300,
+      "duration_ms": 12325
+    },
+    {
+      "word": "Mas cuando os entreguen, no os preocupéis por cómo o qué hablaréis; porque en aquella hora os será dado lo que habéis de hablar.",
+      "verse": 19,
+      "start_ms": 131300,
+      "end_ms": 138700,
+      "duration_ms": 7400
+    },
+    {
+      "word": "Porque no sois vosotros los que habláis, sino el Espíritu de vuestro Padre que habla en vosotros.",
+      "verse": 20,
+      "start_ms": 138700,
+      "end_ms": 144550,
+      "duration_ms": 5850
+    },
+    {
+      "word": "El hermano entregará a la muerte al hermano, y el padre al hijo; y los hijos se levantarán contra los padres, y los harán morir.",
+      "verse": 21,
+      "start_ms": 144550,
+      "end_ms": 152562,
+      "duration_ms": 8012
+    },
+    {
+      "word": "Y seréis aborrecidos de todos por causa de mi nombre; mas el que persevere hasta el fin, éste será salvo.",
+      "verse": 22,
+      "start_ms": 152562,
+      "end_ms": 159299,
+      "duration_ms": 6737
+    },
+    {
+      "word": "Cuando os persigan en esta ciudad, huid a la otra; porque de cierto os digo, que no acabaréis de recorrer todas las ciudades de Israel, antes que venga el Hijo del Hombre.",
+      "verse": 23,
+      "start_ms": 159300,
+      "end_ms": 169300,
+      "duration_ms": 10000
+    },
+    {
+      "word": "El discípulo no es más que su maestro, ni el siervo más que su señor.",
+      "verse": 24,
+      "start_ms": 169300,
+      "end_ms": 174075,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Bástale al discípulo ser como su maestro, y al siervo como su señor.",
+      "verse": 25,
+      "start_ms": 174075,
+      "end_ms": 179000,
+      "duration_ms": 4925
+    },
+    {
+      "word": "Si al padre de familia llamaron Beelzebú, ¿cuánto más a los de su casa?",
+      "verse": 25,
+      "start_ms": 179000,
+      "end_ms": 183625,
+      "duration_ms": 4625
+    },
+    {
+      "word": "A quién se debe temer (Lc 12.2–9) Así que, no los temáis; porque nada hay encubierto, que no haya de ser manifestado; ni oculto, que no haya de saberse.",
+      "verse": 25,
+      "start_ms": 183625,
+      "end_ms": 195700,
+      "duration_ms": 12075
+    },
+    {
+      "word": "Lo que os digo en tinieblas, decidlo en la luz; y lo que oís al oído, proclamadlo desde las azoteas.",
+      "verse": 27,
+      "start_ms": 195700,
+      "end_ms": 202675,
+      "duration_ms": 6975
+    },
+    {
+      "word": "Y no temáis a los que matan el cuerpo, mas el alma no pueden matar; temed más bien a aquel que puede destruir el alma y el cuerpo en el infierno.",
+      "verse": 28,
+      "start_ms": 202675,
+      "end_ms": 211137,
+      "duration_ms": 8462
+    },
+    {
+      "word": "No se venden dos pajarillos por un cuarto?",
+      "verse": 29,
+      "start_ms": 211137,
+      "end_ms": 214224,
+      "duration_ms": 3087
+    },
+    {
+      "word": "Con todo, ni uno de ellos cae a tierra sin vuestro Padre.",
+      "verse": 29,
+      "start_ms": 214225,
+      "end_ms": 218500,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Pues aun vuestros cabellos están todos contados.",
+      "verse": 30,
+      "start_ms": 218500,
+      "end_ms": 222025,
+      "duration_ms": 3525
+    },
+    {
+      "word": "Así que, no temáis; más valéis vosotros que muchos pajarillos.",
+      "verse": 31,
+      "start_ms": 222025,
+      "end_ms": 227125,
+      "duration_ms": 5100
+    },
+    {
+      "word": "A cualquiera, pues, que me confiese delante de los hombres, yo también le confesaré delante de mi Padre que está en los cielos.",
+      "verse": 32,
+      "start_ms": 227125,
+      "end_ms": 234787,
+      "duration_ms": 7662
+    },
+    {
+      "word": "Y a cualquiera que me niegue delante de los hombres, yo también le negaré delante de mi Padre que está en los cielos.",
+      "verse": 33,
+      "start_ms": 234787,
+      "end_ms": 241287,
+      "duration_ms": 6500
+    },
+    {
+      "word": "Jesús, causa de división (Lc 12.49–53; 14.26–27) No penséis que he venido para traer paz a la tierra; no he venido para traer paz, sino espada.",
+      "verse": 33,
+      "start_ms": 241287,
+      "end_ms": 254824,
+      "duration_ms": 13537
+    },
+    {
+      "word": "Porque he venido para poner en disensión al hombre contra su padre, a la hija contra su madre, y a la nuera contra su suegra; y los enemigos del hombre serán los de su casa.",
+      "verse": 35,
+      "start_ms": 254825,
+      "end_ms": 264300,
+      "duration_ms": 9475
+    },
+    {
+      "word": "El que ama a padre o madre más que a mí,",
+      "verse": 37,
+      "start_ms": 264300,
+      "end_ms": 267300,
+      "duration_ms": 3000
+    },
+    {
+      "word": "no es digno de mí; el que ama a hijo o hija más que a mí, no es digno de mí; y el que no toma su cruz y sigue en pos de mí, no es digno de mí.",
+      "verse": 37,
+      "start_ms": 267460,
+      "end_ms": 276735,
+      "duration_ms": 9275
+    },
+    {
+      "word": "El que halla su vida, la perderá; y el que pierde su vida por causa de mí, la hallará.",
+      "verse": 39,
+      "start_ms": 276685,
+      "end_ms": 282597,
+      "duration_ms": 5912
+    },
+    {
+      "word": "Recompensas (Mc 9.41) El que a vosotros recibe, a mí me recibe; y el que me recibe a mí, recibe al que me envió.",
+      "verse": 39,
+      "start_ms": 282597,
+      "end_ms": 291484,
+      "duration_ms": 8887
+    },
+    {
+      "word": "El que recibe a un profeta por cuanto es profeta, recompensa de profeta recibirá; y el que recibe a un justo por cuanto es justo, recompensa de justo recibirá.",
+      "verse": 41,
+      "start_ms": 291485,
+      "end_ms": 301322,
+      "duration_ms": 9837
+    },
+    {
+      "word": "Y cualquiera que dé a uno de estos pequeñitos un vaso de agua fría solamente, por cuanto es discípulo, de cierto os digo que no perderá su recompensa.",
+      "verse": 42,
+      "start_ms": 301322,
+      "end_ms": 310134,
+      "duration_ms": 8812
+    }
+  ]
+}

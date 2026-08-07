@@ -1,0 +1,180 @@
+{
+  "book": "1SA",
+  "chapter": 29,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 11,
+  "word_count": 13,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 105,
+      "text": "Los filisteos juntaron todas sus fuerzas en Afec, e Israel acampó junto a la fuente que está en Jezreel."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 105,
+      "char_end": 263,
+      "text": "Y cuando los príncipes de los filisteos pasaban revista a sus compañías de a ciento y de a mil hombres, David y sus hombres iban en la retaguardia con Aquis."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 263,
+      "char_end": 548,
+      "text": "Y dijeron los príncipes de los filisteos: ¿Qué hacen aquí estos hebreos? Y Aquis respondió a los príncipes de los filisteos: ¿No es éste David, el siervo de Saúl rey de Israel, que ha estado conmigo por días y años, y no he hallado falta en él desde el día que se pasó a mí hasta hoy?"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 548,
+      "char_end": 878,
+      "text": "Entonces los príncipes de los filisteos se enojaron contra él, y le dijeron: Despide a este hombre, para que se vuelva al lugar que le señalaste, y no venga con nosotros a la batalla, no sea que en la batalla se nos vuelva enemigo; porque ¿con qué cosa volvería mejor a la gracia de su señor que con las cabezas de estos hombres?"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 878,
+      "char_end": 990,
+      "text": "¿No es éste David, de quien cantaban en las danzas, diciendo: Saúl hirió a sus miles, Y David a sus diez miles?"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 990,
+      "char_end": 1260,
+      "text": "Y Aquis llamó a David y le dijo: Vive Jehová, que tú has sido recto, y que me ha parecido bien tu salida y tu entrada en el campamento conmigo, y que ninguna cosa mala he hallado en ti desde el día que viniste a mí hasta hoy; mas a los ojos de los príncipes no agradas."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 1260,
+      "char_end": 1344,
+      "text": "Vuélvete, pues, y vete en paz, para no desagradar a los príncipes de los filisteos."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1344,
+      "char_end": 1526,
+      "text": "Y David respondió a Aquis: ¿Qué he hecho? ¿Qué has hallado en tu siervo desde el día que estoy contigo hasta hoy, para que yo no vaya y pelee contra los enemigos de mi señor el rey?"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1526,
+      "char_end": 1709,
+      "text": "Y Aquis respondió a David, y dijo: Yo sé que tú eres bueno ante mis ojos, como un ángel de Dios; pero los príncipes de los filisteos me han dicho: No venga con nosotros a la batalla."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1709,
+      "char_end": 1827,
+      "text": "Levántate, pues, de mañana, tú y los siervos de tu señor que han venido contigo; y levantándoos al amanecer, marchad."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1827,
+      "char_end": 1958,
+      "text": "Y se levantó David de mañana, él y sus hombres, para irse y volver a la tierra de los filisteos; y los filisteos fueron a Jezreel."
+    }
+  ],
+  "words": [
+    {
+      "word": "Los filisteos juntaron todas sus fuerzas en Afec, e Israel acampó junto a la fuente que está en Jezreel.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6912,
+      "duration_ms": 6812
+    },
+    {
+      "word": "Y cuando los príncipes de los filisteos pasaban revista a sus compañías de a ciento y de a mil hombres, David y sus hombres iban en la retaguardia con Aquis.",
+      "verse": 2,
+      "start_ms": 6862,
+      "end_ms": 15549,
+      "duration_ms": 8687
+    },
+    {
+      "word": "Y dijeron los príncipes de los filisteos: ¿Qué hacen aquí estos hebreos?",
+      "verse": 3,
+      "start_ms": 15550,
+      "end_ms": 20562,
+      "duration_ms": 5012
+    },
+    {
+      "word": "Y Aquis respondió a los príncipes de los filisteos: ¿No es éste David, el siervo de Saúl rey de Israel, que ha estado conmigo por días y años, y no he hallado falta en él desde el día que se pasó a mí hasta hoy?",
+      "verse": 3,
+      "start_ms": 20562,
+      "end_ms": 33349,
+      "duration_ms": 12787
+    },
+    {
+      "word": "Entonces los príncipes de los filisteos se enojaron contra él, y le dijeron: Despide a este hombre, para que se vuelva al lugar que le señalaste, y no venga con nosotros a la batalla, no sea que en la batalla se nos vuelva enemigo; porque ¿con qué cosa volvería mejor a la gracia de su señor que con las cabezas de estos hombres?",
+      "verse": 4,
+      "start_ms": 33350,
+      "end_ms": 51387,
+      "duration_ms": 18037
+    },
+    {
+      "word": "No es éste David, de quien cantaban en las danzas, diciendo: Saúl hirió a sus miles, Y David a sus diez miles?",
+      "verse": 5,
+      "start_ms": 51387,
+      "end_ms": 59537,
+      "duration_ms": 8150
+    },
+    {
+      "word": "Y Aquis llamó a David y le dijo: Vive Jehová, que tú has sido recto, y que me ha parecido bien tu salida y tu entrada en el campamento conmigo, y que ninguna cosa mala he hallado en ti desde el día que viniste a mí hasta hoy; mas a los ojos de los príncipes no agradas.",
+      "verse": 6,
+      "start_ms": 59537,
+      "end_ms": 75187,
+      "duration_ms": 15650
+    },
+    {
+      "word": "Vuélvete, pues, y vete en paz, para no desagradar a los príncipes de los filisteos.",
+      "verse": 7,
+      "start_ms": 75187,
+      "end_ms": 81387,
+      "duration_ms": 6200
+    },
+    {
+      "word": "Y David respondió a Aquis: ¿Qué he hecho?",
+      "verse": 8,
+      "start_ms": 81387,
+      "end_ms": 84924,
+      "duration_ms": 3537
+    },
+    {
+      "word": "Qué has hallado en tu siervo desde el día que estoy contigo hasta hoy, para que yo no vaya y pelee contra los enemigos de mi señor el rey?",
+      "verse": 8,
+      "start_ms": 84925,
+      "end_ms": 92450,
+      "duration_ms": 7525
+    },
+    {
+      "word": "Y Aquis respondió a David, y dijo: Yo sé que tú eres bueno ante mis ojos, como un ángel de Dios; pero los príncipes de los filisteos me han dicho: No venga con nosotros a la batalla.",
+      "verse": 9,
+      "start_ms": 92450,
+      "end_ms": 103987,
+      "duration_ms": 11537
+    },
+    {
+      "word": "Levántate, pues, de mañana, tú y los siervos de tu señor que han venido contigo; y levantándoos al amanecer, marchad.",
+      "verse": 10,
+      "start_ms": 103987,
+      "end_ms": 112137,
+      "duration_ms": 8150
+    },
+    {
+      "word": "Y se levantó David de mañana, él y sus hombres, para irse y volver a la tierra de los filisteos; y los filisteos fueron a Jezreel.",
+      "verse": 11,
+      "start_ms": 112137,
+      "end_ms": 120449,
+      "duration_ms": 8312
+    }
+  ]
+}

@@ -1,0 +1,803 @@
+{
+  "book": "JUA",
+  "chapter": 2,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 51,
+  "word_count": 62,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 76,
+      "text": "En el principio era el Verbo, y el Verbo era con Dios, y el Verbo era Dios."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 76,
+      "char_end": 111,
+      "text": "Éste era en el principio con Dios."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 111,
+      "char_end": 199,
+      "text": "Todas las cosas por él fueron hechas, y sin él nada de lo que ha sido hecho, fue hecho."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 199,
+      "char_end": 258,
+      "text": "En él estaba la vida, y la vida era la luz de los hombres."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 258,
+      "char_end": 341,
+      "text": "La luz en las tinieblas resplandece, y las tinieblas no prevalecieron contra ella."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 341,
+      "char_end": 398,
+      "text": "Hubo un hombre enviado de Dios, el cual se llamaba Juan."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 398,
+      "char_end": 497,
+      "text": "Éste vino por testimonio, para que diese testimonio de la luz, a fin de que todos creyesen por él."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 497,
+      "char_end": 557,
+      "text": "No era él la luz, sino para que diese testimonio de la luz."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 557,
+      "char_end": 627,
+      "text": "Aquella luz verdadera, que alumbra a todo hombre, venía a este mundo."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 627,
+      "char_end": 705,
+      "text": "En el mundo estaba, y el mundo por él fue hecho; pero el mundo no le conoció."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 705,
+      "char_end": 751,
+      "text": "A lo suyo vino, y los suyos no le recibieron."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 751,
+      "char_end": 862,
+      "text": "Mas a todos los que le recibieron, a los que creen en su nombre, les dio potestad de ser hechos hijos de Dios;"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 862,
+      "char_end": 967,
+      "text": "los cuales no son engendrados de sangre, ni de voluntad de carne, ni de voluntad de varón, sino de Dios."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 967,
+      "char_end": 1109,
+      "text": "Y aquel Verbo fue hecho carne, y habitó entre nosotros (y vimos su gloria, gloria como del unigénito del Padre), lleno de gracia y de verdad."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1109,
+      "char_end": 1252,
+      "text": "Juan dio testimonio de él, y clamó diciendo: éste es de quien yo decía: El que viene después de mí, es antes de mí; porque era primero que yo."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1252,
+      "char_end": 1312,
+      "text": "Porque de su plenitud tomamos todos, y gracia sobre gracia."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1312,
+      "char_end": 1415,
+      "text": "Pues la ley por medio de Moisés fue dada, pero la gracia y la verdad vinieron por medio de Jesucristo."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1415,
+      "char_end": 1583,
+      "text": "A Dios nadie le vio jamás; el unigénito Hijo, que está en el seno del Padre, él le ha dado a conocer. Testimonio de Juan el Bautista (Mt 3.11–12; Mc 1.7–8; Lc 3.15–17)"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1583,
+      "char_end": 1717,
+      "text": "Éste es el testimonio de Juan, cuando los judíos enviaron de Jerusalén sacerdotes y levitas para que le preguntasen: ¿Tú, quién eres?"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1717,
+      "char_end": 1772,
+      "text": "Confesó, y no negó, sino confesó: Yo no soy el Cristo."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1772,
+      "char_end": 1869,
+      "text": "Y le preguntaron: ¿Qué pues? ¿Eres tú Elías? Dijo: No soy. ¿Eres tú el profeta? Y respondió: No."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1869,
+      "char_end": 1972,
+      "text": "Le dijeron: ¿Pues quién eres? para que demos respuesta a los que nos enviaron. ¿Qué dices de ti mismo?"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1972,
+      "char_end": 2085,
+      "text": "Dijo: Yo soy la voz de uno que clama en el desierto: Enderezad el camino del Señor, como dijo el profeta Isaías."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2085,
+      "char_end": 2138,
+      "text": "Y los que habían sido enviados eran de los fariseos."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2138,
+      "char_end": 2246,
+      "text": "Y le preguntaron, y le dijeron: ¿Por qué, pues, bautizas, si tú no eres el Cristo, ni Elías, ni el profeta?"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2246,
+      "char_end": 2360,
+      "text": "Juan les respondió diciendo: Yo bautizo con agua; mas en medio de vosotros está uno a quien vosotros no conocéis."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2360,
+      "char_end": 2478,
+      "text": "Éste es el que viene después de mí, el que es antes de mí, del cual yo no soy digno de desatar la correa del calzado."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2478,
+      "char_end": 2588,
+      "text": "Estas cosas sucedieron en Betábara, al otro lado del Jordán, donde Juan estaba bautizando. El Cordero de Dios"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2588,
+      "char_end": 2705,
+      "text": "El siguiente día vio Juan a Jesús que venía a él, y dijo: He aquí el Cordero de Dios, que quita el pecado del mundo."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2705,
+      "char_end": 2818,
+      "text": "Éste es aquel de quien yo dije: Después de mí viene un varón, el cual es antes de mí; porque era primero que yo."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2818,
+      "char_end": 2917,
+      "text": "Y yo no le conocía; mas para que fuese manifestado a Israel, por esto vine yo bautizando con agua."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2917,
+      "char_end": 3031,
+      "text": "También dio Juan testimonio, diciendo: Vi al Espíritu que descendía del cielo como paloma, y permaneció sobre él."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3031,
+      "char_end": 3218,
+      "text": "Y yo no le conocía; pero el que me envió a bautizar con agua, aquél me dijo: Sobre quien veas descender el Espíritu y que permanece sobre él, ése es el que bautiza con el Espíritu Santo."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3218,
+      "char_end": 3307,
+      "text": "Y yo le vi, y he dado testimonio de que éste es el Hijo de Dios. Los primeros discípulos"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3307,
+      "char_end": 3371,
+      "text": "El siguiente día otra vez estaba Juan, y dos de sus discípulos."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3371,
+      "char_end": 3444,
+      "text": "Y mirando a Jesús que andaba por allí, dijo: He aquí el Cordero de Dios."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3444,
+      "char_end": 3502,
+      "text": "Le oyeron hablar los dos discípulos, y siguieron a Jesús."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 3502,
+      "char_end": 3638,
+      "text": "Y volviéndose Jesús, y viendo que le seguían, les dijo: ¿Qué buscáis? Ellos le dijeron: Rabí (que traducido es, Maestro), ¿dónde moras?"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 3638,
+      "char_end": 3756,
+      "text": "Les dijo: Venid y ved. Fueron, y vieron donde moraba, y se quedaron con él aquel día; porque era como la hora décima."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 3756,
+      "char_end": 3857,
+      "text": "Andrés, hermano de Simón Pedro, era uno de los dos que habían oído a Juan, y habían seguido a Jesús."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 3857,
+      "char_end": 3962,
+      "text": "Éste halló primero a su hermano Simón, y le dijo: Hemos hallado al Mesías (que traducido es, el Cristo)."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 3962,
+      "char_end": 4122,
+      "text": "Y le trajo a Jesús. Y mirándole Jesús, dijo: Tú eres Simón, hijo de Jonás; tú serás llamado Cefas (que quiere decir, Pedro ). Jesús llama a Felipe y a Natanael"
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4122,
+      "char_end": 4203,
+      "text": "El siguiente día quiso Jesús ir a Galilea, y halló a Felipe, y le dijo: Sígueme."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 4203,
+      "char_end": 4258,
+      "text": "Y Felipe era de Betsaida, la ciudad de Andrés y Pedro."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 4258,
+      "char_end": 4413,
+      "text": "Felipe halló a Natanael, y le dijo: Hemos hallado a aquél de quien escribió Moisés en la ley, así como los profetas: a Jesús, el hijo de José, de Nazaret."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 4413,
+      "char_end": 4496,
+      "text": "Natanael le dijo: ¿De Nazaret puede salir algo de bueno? Le dijo Felipe: Ven y ve."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 4496,
+      "char_end": 4612,
+      "text": "Cuando Jesús vio a Natanael que se le acercaba, dijo de él: He aquí un verdadero israelita, en quien no hay engaño."
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 4612,
+      "char_end": 4752,
+      "text": "Le dijo Natanael: ¿De dónde me conoces? Respondió Jesús y le dijo: Antes que Felipe te llamara, cuando estabas debajo de la higuera, te vi."
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 4752,
+      "char_end": 4839,
+      "text": "Respondió Natanael y le dijo: Rabí, tú eres el Hijo de Dios; tú eres el Rey de Israel."
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 4839,
+      "char_end": 4949,
+      "text": "Respondió Jesús y le dijo: ¿Porque te dije: Te vi debajo de la higuera, crees? Cosas mayores que éstas verás."
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 4949,
+      "char_end": 5105,
+      "text": "Y le dijo: De cierto, de cierto os digo: De aquí adelante veréis el cielo abierto, y a los ángeles de Dios que suben y descienden sobre el Hijo del Hombre."
+    }
+  ],
+  "words": [
+    {
+      "word": "En el principio era el Verbo, y el Verbo era con Dios, y el Verbo era Dios.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5450,
+      "duration_ms": 5350
+    },
+    {
+      "word": "Éste era en el principio con Dios.",
+      "verse": 2,
+      "start_ms": 5400,
+      "end_ms": 8250,
+      "duration_ms": 2850
+    },
+    {
+      "word": "Todas las cosas por él fueron hechas, y sin él nada de lo que ha sido hecho, fue hecho.",
+      "verse": 3,
+      "start_ms": 8250,
+      "end_ms": 13837,
+      "duration_ms": 5587
+    },
+    {
+      "word": "En él estaba la vida, y la vida era la luz de los hombres.",
+      "verse": 4,
+      "start_ms": 13837,
+      "end_ms": 18049,
+      "duration_ms": 4212
+    },
+    {
+      "word": "La luz en las tinieblas resplandece, y las tinieblas no prevalecieron contra ella.",
+      "verse": 5,
+      "start_ms": 18050,
+      "end_ms": 23425,
+      "duration_ms": 5375
+    },
+    {
+      "word": "Hubo un hombre enviado de Dios, el cual se llamaba Juan.",
+      "verse": 6,
+      "start_ms": 23425,
+      "end_ms": 27437,
+      "duration_ms": 4012
+    },
+    {
+      "word": "Éste vino por testimonio, para que diese testimonio de la luz, a fin de que todos creyesen por él.",
+      "verse": 7,
+      "start_ms": 27437,
+      "end_ms": 33974,
+      "duration_ms": 6537
+    },
+    {
+      "word": "No era él la luz, sino para que diese testimonio de la luz.",
+      "verse": 8,
+      "start_ms": 33975,
+      "end_ms": 38387,
+      "duration_ms": 4412
+    },
+    {
+      "word": "Aquella luz verdadera, que alumbra a todo hombre, venía a este mundo.",
+      "verse": 9,
+      "start_ms": 38387,
+      "end_ms": 43474,
+      "duration_ms": 5087
+    },
+    {
+      "word": "En el mundo estaba, y el mundo por él fue hecho; pero el mundo no le conoció.",
+      "verse": 10,
+      "start_ms": 43475,
+      "end_ms": 48812,
+      "duration_ms": 5337
+    },
+    {
+      "word": "A lo suyo vino, y los suyos no le recibieron.",
+      "verse": 11,
+      "start_ms": 48812,
+      "end_ms": 52524,
+      "duration_ms": 3712
+    },
+    {
+      "word": "Mas a todos los que le recibieron, a los que creen en su nombre, les dio potestad de ser hechos hijos de Dios; los cuales no son engendrados de sangre, ni de voluntad de carne, ni de voluntad de varón, sino de Dios.",
+      "verse": 12,
+      "start_ms": 52525,
+      "end_ms": 65200,
+      "duration_ms": 12675
+    },
+    {
+      "word": "Y aquel Verbo fue hecho carne, y habitó entre nosotros (y vimos su gloria, gloria como del unigénito del Padre), lleno de gracia y de verdad.",
+      "verse": 14,
+      "start_ms": 65200,
+      "end_ms": 74512,
+      "duration_ms": 9312
+    },
+    {
+      "word": "Juan dio testimonio de él, y clamó diciendo: éste es de quien yo decía: El que viene después de mí, es antes de mí; porque era primero que yo.",
+      "verse": 15,
+      "start_ms": 74512,
+      "end_ms": 83849,
+      "duration_ms": 9337
+    },
+    {
+      "word": "Porque de su plenitud tomamos todos, y gracia sobre gracia.",
+      "verse": 16,
+      "start_ms": 83850,
+      "end_ms": 88125,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Pues la ley por medio de Moisés fue dada, pero la gracia y la verdad vinieron por medio de Jesucristo.",
+      "verse": 17,
+      "start_ms": 88125,
+      "end_ms": 94400,
+      "duration_ms": 6275
+    },
+    {
+      "word": "A Dios nadie le vio jamás; el unigénito Hijo, que está en el seno del Padre, él le ha dado a conocer.",
+      "verse": 18,
+      "start_ms": 94400,
+      "end_ms": 101775,
+      "duration_ms": 7375
+    },
+    {
+      "word": "Testimonio de Juan el Bautista (Mt 3.11–12; Mc 1.7–8; Lc 3.15–17) Éste es el testimonio de Juan, cuando los judíos enviaron de Jerusalén sacerdotes y levitas para que le preguntasen: ¿Tú, quién eres?",
+      "verse": 18,
+      "start_ms": 101775,
+      "end_ms": 117962,
+      "duration_ms": 16187
+    },
+    {
+      "word": "Confesó, y no negó, sino confesó: Yo no soy el Cristo.",
+      "verse": 20,
+      "start_ms": 117962,
+      "end_ms": 123024,
+      "duration_ms": 5062
+    },
+    {
+      "word": "Y le preguntaron: ¿Qué pues?",
+      "verse": 21,
+      "start_ms": 123025,
+      "end_ms": 125625,
+      "duration_ms": 2600
+    },
+    {
+      "word": "Eres tú Elías?",
+      "verse": 21,
+      "start_ms": 125625,
+      "end_ms": 127525,
+      "duration_ms": 1900
+    },
+    {
+      "word": "Dijo: No soy.",
+      "verse": 21,
+      "start_ms": 127525,
+      "end_ms": 129587,
+      "duration_ms": 2062
+    },
+    {
+      "word": "Eres tú el profeta?",
+      "verse": 21,
+      "start_ms": 129587,
+      "end_ms": 131649,
+      "duration_ms": 2062
+    },
+    {
+      "word": "Y respondió: No.",
+      "verse": 21,
+      "start_ms": 131650,
+      "end_ms": 133825,
+      "duration_ms": 2175
+    },
+    {
+      "word": "Le dijeron: ¿Pues quién eres? para que demos respuesta a los que nos enviaron.",
+      "verse": 22,
+      "start_ms": 133825,
+      "end_ms": 138950,
+      "duration_ms": 5125
+    },
+    {
+      "word": "Qué dices de ti mismo?",
+      "verse": 22,
+      "start_ms": 138950,
+      "end_ms": 141175,
+      "duration_ms": 2225
+    },
+    {
+      "word": "Dijo: Yo soy la voz de uno que clama en el desierto: Enderezad el camino del Señor, como dijo el profeta Isaías.",
+      "verse": 23,
+      "start_ms": 141175,
+      "end_ms": 149250,
+      "duration_ms": 8075
+    },
+    {
+      "word": "Y los que habían sido enviados eran de los fariseos.",
+      "verse": 24,
+      "start_ms": 149250,
+      "end_ms": 152800,
+      "duration_ms": 3550
+    },
+    {
+      "word": "Y le preguntaron, y le dijeron: ¿Por qué, pues, bautizas, si tú no eres el Cristo, ni Elías, ni el profeta?",
+      "verse": 25,
+      "start_ms": 152800,
+      "end_ms": 161312,
+      "duration_ms": 8512
+    },
+    {
+      "word": "Juan les respondió diciendo: Yo bautizo con agua; mas en medio de vosotros está uno a quien vosotros no conocéis.",
+      "verse": 26,
+      "start_ms": 161312,
+      "end_ms": 168887,
+      "duration_ms": 7575
+    },
+    {
+      "word": "Éste es el que viene después de mí, el que es antes de mí, del cual yo no soy digno de desatar la correa del calzado.",
+      "verse": 27,
+      "start_ms": 168887,
+      "end_ms": 176262,
+      "duration_ms": 7375
+    },
+    {
+      "word": "Estas cosas sucedieron en Betábara, al otro lado del Jordán, donde Juan estaba bautizando.",
+      "verse": 28,
+      "start_ms": 176262,
+      "end_ms": 182499,
+      "duration_ms": 6237
+    },
+    {
+      "word": "El Cordero de Dios El siguiente día vio Juan a Jesús que venía a él, y dijo: He aquí el Cordero de Dios, que quita el pecado del mundo.",
+      "verse": 28,
+      "start_ms": 182500,
+      "end_ms": 191275,
+      "duration_ms": 8775
+    },
+    {
+      "word": "Éste es aquel de quien yo dije: Después de mí viene un varón, el cual es antes de mí; porque era primero que yo.",
+      "verse": 30,
+      "start_ms": 191275,
+      "end_ms": 198425,
+      "duration_ms": 7150
+    },
+    {
+      "word": "Y yo no le conocía; mas para que fuese manifestado a Israel, por esto vine yo bautizando con agua.",
+      "verse": 31,
+      "start_ms": 198425,
+      "end_ms": 205125,
+      "duration_ms": 6700
+    },
+    {
+      "word": "También dio Juan testimonio, diciendo: Vi al Espíritu que descendía del cielo como paloma, y permaneció sobre él.",
+      "verse": 32,
+      "start_ms": 205125,
+      "end_ms": 212637,
+      "duration_ms": 7512
+    },
+    {
+      "word": "Y yo no le conocía; pero el que me envió a bautizar con agua, aquél me dijo: Sobre quien veas descender el Espíritu y que permanece sobre él, ése es el que bautiza con el Espíritu Santo.",
+      "verse": 33,
+      "start_ms": 212637,
+      "end_ms": 223787,
+      "duration_ms": 11150
+    },
+    {
+      "word": "Y yo le vi, y he dado testimonio de que éste es el Hijo de Dios.",
+      "verse": 34,
+      "start_ms": 223787,
+      "end_ms": 228537,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Los primeros discípulos El siguiente día otra vez estaba Juan, y dos de sus discípulos.",
+      "verse": 34,
+      "start_ms": 228537,
+      "end_ms": 234224,
+      "duration_ms": 5687
+    },
+    {
+      "word": "Y mirando a Jesús que andaba por allí, dijo: He aquí el Cordero de Dios.",
+      "verse": 36,
+      "start_ms": 234225,
+      "end_ms": 239587,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Le oyeron hablar los dos discípulos, y siguieron a Jesús.",
+      "verse": 37,
+      "start_ms": 239587,
+      "end_ms": 243799,
+      "duration_ms": 4212
+    },
+    {
+      "word": "Y volviéndose Jesús, y viendo que le seguían, les dijo: ¿Qué buscáis?",
+      "verse": 38,
+      "start_ms": 243800,
+      "end_ms": 249200,
+      "duration_ms": 5400
+    },
+    {
+      "word": "Ellos le dijeron: Rabí (que traducido es, Maestro), ¿dónde moras?",
+      "verse": 38,
+      "start_ms": 249200,
+      "end_ms": 254937,
+      "duration_ms": 5737
+    },
+    {
+      "word": "Les dijo: Venid y ved.",
+      "verse": 39,
+      "start_ms": 254937,
+      "end_ms": 257487,
+      "duration_ms": 2550
+    },
+    {
+      "word": "Fueron, y vieron donde moraba, y se quedaron con él aquel día; porque era como la hora décima.",
+      "verse": 39,
+      "start_ms": 257487,
+      "end_ms": 263924,
+      "duration_ms": 6437
+    },
+    {
+      "word": "Andrés, hermano de Simón Pedro, era uno de los dos que habían oído a Juan, y habían seguido a Jesús.",
+      "verse": 40,
+      "start_ms": 263925,
+      "end_ms": 271125,
+      "duration_ms": 7200
+    },
+    {
+      "word": "Éste halló primero a su hermano Simón, y le dijo: Hemos hallado al Mesías (que traducido es, el Cristo).",
+      "verse": 41,
+      "start_ms": 271125,
+      "end_ms": 278325,
+      "duration_ms": 7200
+    },
+    {
+      "word": "Y le trajo",
+      "verse": 42,
+      "start_ms": 278325,
+      "end_ms": 280000,
+      "duration_ms": 1675
+    },
+    {
+      "word": "a Jesús.",
+      "verse": 42,
+      "start_ms": 280156,
+      "end_ms": 281906,
+      "duration_ms": 1750
+    },
+    {
+      "word": "Y mirándole Jesús, dijo: Tú eres Simón, hijo de Jonás; tú serás llamado Cefas (que quiere decir, Pedro ).",
+      "verse": 42,
+      "start_ms": 281856,
+      "end_ms": 290281,
+      "duration_ms": 8425
+    },
+    {
+      "word": "Jesús llama a Felipe y a Natanael El siguiente día quiso Jesús ir a Galilea, y halló a Felipe, y le dijo: Sígueme.",
+      "verse": 42,
+      "start_ms": 290281,
+      "end_ms": 298393,
+      "duration_ms": 8112
+    },
+    {
+      "word": "Y Felipe era de Betsaida, la ciudad de Andrés y Pedro.",
+      "verse": 44,
+      "start_ms": 298393,
+      "end_ms": 302368,
+      "duration_ms": 3975
+    },
+    {
+      "word": "Felipe halló a Natanael, y le dijo: Hemos hallado a aquél de quien escribió Moisés en la ley, así como los profetas: a Jesús, el hijo de José, de Nazaret.",
+      "verse": 45,
+      "start_ms": 302368,
+      "end_ms": 312993,
+      "duration_ms": 10625
+    },
+    {
+      "word": "Natanael le dijo: ¿De Nazaret puede salir algo de bueno?",
+      "verse": 46,
+      "start_ms": 312993,
+      "end_ms": 317305,
+      "duration_ms": 4312
+    },
+    {
+      "word": "Le dijo Felipe: Ven y ve.",
+      "verse": 46,
+      "start_ms": 317306,
+      "end_ms": 319943,
+      "duration_ms": 2637
+    },
+    {
+      "word": "Cuando Jesús vio a Natanael que se le acercaba, dijo de él: He aquí un verdadero israelita, en quien no hay engaño.",
+      "verse": 47,
+      "start_ms": 319943,
+      "end_ms": 327480,
+      "duration_ms": 7537
+    },
+    {
+      "word": "Le dijo Natanael: ¿De dónde me conoces?",
+      "verse": 48,
+      "start_ms": 327481,
+      "end_ms": 330931,
+      "duration_ms": 3450
+    },
+    {
+      "word": "Respondió Jesús y le dijo: Antes que Felipe te llamara, cuando estabas debajo de la higuera, te vi.",
+      "verse": 48,
+      "start_ms": 330931,
+      "end_ms": 337456,
+      "duration_ms": 6525
+    },
+    {
+      "word": "Respondió Natanael y le dijo: Rabí, tú eres el Hijo de Dios; tú eres el Rey de Israel.",
+      "verse": 49,
+      "start_ms": 337456,
+      "end_ms": 344106,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Respondió Jesús y le dijo: ¿Porque te dije: Te vi debajo de la higuera, crees?",
+      "verse": 50,
+      "start_ms": 344106,
+      "end_ms": 349881,
+      "duration_ms": 5775
+    },
+    {
+      "word": "Cosas mayores que éstas verás.",
+      "verse": 50,
+      "start_ms": 349881,
+      "end_ms": 352631,
+      "duration_ms": 2750
+    },
+    {
+      "word": "Y le dijo: De cierto, de cierto os digo: De aquí adelante veréis el cielo abierto, y a los ángeles de Dios que suben y descienden sobre el Hijo del Hombre.",
+      "verse": 51,
+      "start_ms": 352631,
+      "end_ms": 362318,
+      "duration_ms": 9687
+    }
+  ]
+}

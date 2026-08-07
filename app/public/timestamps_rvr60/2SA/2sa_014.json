@@ -1,0 +1,565 @@
+{
+  "book": "2SA",
+  "chapter": 14,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 33,
+  "word_count": 46,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 80,
+      "text": "Conociendo Joab hijo de Sarvia que el corazón del rey se inclinaba por Absalón,"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 80,
+      "char_end": 320,
+      "text": "envió Joab a Tecoa, y tomó de allá una mujer astuta, y le dijo: Yo te ruego que finjas estar de duelo, y te vistas ropas de luto, y no te unjas con óleo, sino preséntate como una mujer que desde mucho tiempo está de duelo por algún muerto;"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 320,
+      "char_end": 406,
+      "text": "y entrarás al rey, y le hablarás de esta manera. Y puso Joab las palabras en su boca."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 406,
+      "char_end": 534,
+      "text": "Entró, pues, aquella mujer de Tecoa al rey, y postrándose en tierra sobre su rostro, hizo reverencia, y dijo: ¡Socorro, oh rey!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 534,
+      "char_end": 639,
+      "text": "El rey le dijo: ¿Qué tienes? Y ella respondió: Yo a la verdad soy una mujer viuda y mi marido ha muerto."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 639,
+      "char_end": 764,
+      "text": "Tu sierva tenía dos hijos, y los dos riñeron en el campo; y no habiendo quien los separase, hirió el uno al otro, y lo mató."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 764,
+      "char_end": 1068,
+      "text": "Y he aquí toda la familia se ha levantado contra tu sierva, diciendo: Entrega al que mató a su hermano, para que le hagamos morir por la vida de su hermano a quien él mató, y matemos también al heredero. Así apagarán el ascua que me ha quedado, no dejando a mi marido nombre ni reliquia sobre la tierra."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1068,
+      "char_end": 1154,
+      "text": "Entonces el rey dijo a la mujer: Vete a tu casa, y yo daré órdenes con respecto a ti."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1154,
+      "char_end": 1292,
+      "text": "Y la mujer de Tecoa dijo al rey: Rey señor mío, la maldad sea sobre mí y sobre la casa de mi padre; mas el rey y su trono sean sin culpa."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1292,
+      "char_end": 1366,
+      "text": "Y el rey dijo: Al que hablare contra ti, tráelo a mí, y no te tocará más."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1366,
+      "char_end": 1609,
+      "text": "Dijo ella entonces: Te ruego, oh rey, que te acuerdes de Jehová tu Dios, para que el vengador de la sangre no aumente el daño, y no destruya a mi hijo. Y él respondió: Vive Jehová, que no caerá ni un cabello de la cabeza de tu hijo en tierra."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1609,
+      "char_end": 1717,
+      "text": "Y la mujer dijo: Te ruego que permitas que tu sierva hable una palabra a mi señor el rey. Y él dijo: Habla."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1717,
+      "char_end": 1927,
+      "text": "Entonces la mujer dijo: ¿Por qué, pues, has pensado tú cosa semejante contra el pueblo de Dios? Porque hablando el rey esta palabra, se hace culpable él mismo, por cuanto el rey no hace volver a su desterrado."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1927,
+      "char_end": 2111,
+      "text": "Porque de cierto morimos, y somos como aguas derramadas por tierra, que no pueden volver a recogerse; ni Dios quita la vida, sino que provee medios para no alejar de sí al desterrado."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2111,
+      "char_end": 2282,
+      "text": "Y el haber yo venido ahora para decir esto al rey mi señor, es porque el pueblo me atemorizó; y tu sierva dijo: Hablaré ahora al rey; quizá él hará lo que su sierva diga."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2282,
+      "char_end": 2418,
+      "text": "Pues el rey oirá, para librar a su sierva de mano del hombre que me quiere destruir a mí y a mi hijo juntamente, de la heredad de Dios."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2418,
+      "char_end": 2619,
+      "text": "Tu sierva, pues, dice: Sea ahora de consuelo la respuesta de mi señor el rey, pues que mi señor el rey es como un ángel de Dios para discernir entre lo bueno y lo malo. Así Jehová tu Dios sea contigo."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2619,
+      "char_end": 2767,
+      "text": "Entonces David respondió y dijo a la mujer: Yo te ruego que no me encubras nada de lo que yo te preguntare. Y la mujer dijo: Hable mi señor el rey."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2767,
+      "char_end": 3075,
+      "text": "Y el rey dijo: ¿No anda la mano de Joab contigo en todas estas cosas? La mujer respondió y dijo: Vive tu alma, rey señor mío, que no hay que apartarse a derecha ni a izquierda de todo lo que mi señor el rey ha hablado; porque tu siervo Joab, él me mandó, y él puso en boca de tu sierva todas estas palabras."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 3075,
+      "char_end": 3246,
+      "text": "Para mudar el aspecto de las cosas Joab tu siervo ha hecho esto; pero mi señor es sabio conforme a la sabiduría de un ángel de Dios, para conocer lo que hay en la tierra."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 3246,
+      "char_end": 3332,
+      "text": "Entonces el rey dijo a Joab: He aquí yo hago esto; ve, y haz volver al joven Absalón."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3332,
+      "char_end": 3555,
+      "text": "Y Joab se postró en tierra sobre su rostro e hizo reverencia, y después que bendijo al rey, dijo: Hoy ha entendido tu siervo que he hallado gracia en tus ojos, rey señor mío, pues ha hecho el rey lo que su siervo ha dicho."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3555,
+      "char_end": 3623,
+      "text": "Se levantó luego Joab y fue a Gesur, y trajo a Absalón a Jerusalén."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3623,
+      "char_end": 3734,
+      "text": "Mas el rey dijo: Váyase a su casa, y no vea mi rostro. Y volvió Absalón a su casa, y no vio el rostro del rey."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3734,
+      "char_end": 3880,
+      "text": "Y no había en todo Israel ninguno tan alabado por su hermosura como Absalón; desde la planta de su pie hasta su coronilla no había en él defecto."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3880,
+      "char_end": 4059,
+      "text": "Cuando se cortaba el cabello (lo cual hacía al fin de cada año, pues le causaba molestia, y por eso se lo cortaba), pesaba el cabello de su cabeza doscientos siclos de peso real."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 4059,
+      "char_end": 4166,
+      "text": "Y le nacieron a Absalón tres hijos, y una hija que se llamó Tamar, la cual era mujer de hermoso semblante."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 4166,
+      "char_end": 4249,
+      "text": "Y estuvo Absalón por espacio de dos años en Jerusalén, y no vio el rostro del rey."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 4249,
+      "char_end": 4368,
+      "text": "Y mandó Absalón por Joab, para enviarlo al rey, pero él no quiso venir; y envió aun por segunda vez, y no quiso venir."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4368,
+      "char_end": 4535,
+      "text": "Entonces dijo a sus siervos: Mirad, el campo de Joab está junto al mío, y tiene allí cebada; id y prendedle fuego. Y los siervos de Absalón prendieron fuego al campo."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4535,
+      "char_end": 4649,
+      "text": "Entonces se levantó Joab y vino a casa de Absalón, y le dijo: ¿Por qué han prendido fuego tus siervos a mi campo?"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4649,
+      "char_end": 4897,
+      "text": "Y Absalón respondió a Joab: He aquí yo he enviado por ti, diciendo que vinieses acá, con el fin de enviarte al rey para decirle: ¿Para qué vine de Gesur? Mejor me fuera estar aún allá. Vea yo ahora el rostro del rey; y si hay en mí pecado, máteme."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4897,
+      "char_end": 5060,
+      "text": "Vino, pues, Joab al rey, y se lo hizo saber. Entonces llamó a Absalón, el cual vino al rey, e inclinó su rostro a tierra delante del rey; y el rey besó a Absalón."
+    }
+  ],
+  "words": [
+    {
+      "word": "Conociendo Joab hijo de Sarvia que el corazón del rey se inclinaba por Absalón, envió Joab a Tecoa, y tomó de allá una mujer astuta, y le dijo: Yo te ruego que finjas estar de duelo, y te vistas ropas de luto, y no te unjas con óleo, sino preséntate como una mujer que desde mucho tiempo está de duelo por algún muerto; y entrarás al rey, y le hablarás de esta manera.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 21800,
+      "duration_ms": 21700
+    },
+    {
+      "word": "Y puso Joab las palabras en su boca.",
+      "verse": 3,
+      "start_ms": 21800,
+      "end_ms": 24700,
+      "duration_ms": 2900
+    },
+    {
+      "word": "Entró, pues, aquella mujer de Tecoa al rey, y postrándose en tierra sobre su rostro, hizo reverencia, y dijo: ¡Socorro, oh rey!",
+      "verse": 4,
+      "start_ms": 24700,
+      "end_ms": 34037,
+      "duration_ms": 9337
+    },
+    {
+      "word": "El rey le dijo: ¿Qué tienes?",
+      "verse": 5,
+      "start_ms": 34037,
+      "end_ms": 36799,
+      "duration_ms": 2762
+    },
+    {
+      "word": "Y ella respondió: Yo a la verdad soy una mujer viuda y mi marido ha muerto.",
+      "verse": 5,
+      "start_ms": 36800,
+      "end_ms": 42025,
+      "duration_ms": 5225
+    },
+    {
+      "word": "Tu sierva tenía dos hijos, y los dos riñeron en el campo; y no habiendo quien los separase, hirió el uno al otro, y lo mató.",
+      "verse": 6,
+      "start_ms": 42025,
+      "end_ms": 50150,
+      "duration_ms": 8125
+    },
+    {
+      "word": "Y he aquí toda la familia se ha levantado contra tu sierva, diciendo: Entrega al que mató a su hermano, para que le hagamos morir por la vida de su hermano a quien él mató, y matemos también al heredero.",
+      "verse": 7,
+      "start_ms": 50150,
+      "end_ms": 61887,
+      "duration_ms": 11737
+    },
+    {
+      "word": "Así apagarán el ascua que me ha quedado, no dejando a mi marido nombre ni reliquia sobre la tierra.",
+      "verse": 7,
+      "start_ms": 61887,
+      "end_ms": 68087,
+      "duration_ms": 6200
+    },
+    {
+      "word": "Entonces el rey dijo a la mujer: Vete a tu casa, y yo daré órdenes con respecto a ti.",
+      "verse": 8,
+      "start_ms": 68087,
+      "end_ms": 74112,
+      "duration_ms": 6025
+    },
+    {
+      "word": "Y la mujer de Tecoa dijo al rey: Rey señor mío, la maldad sea sobre mí y sobre la casa de mi padre; mas el rey y su trono sean sin culpa.",
+      "verse": 9,
+      "start_ms": 74112,
+      "end_ms": 83199,
+      "duration_ms": 9087
+    },
+    {
+      "word": "Y el rey dijo: Al que hablare contra ti, tráelo a mí, y no te tocará más.",
+      "verse": 10,
+      "start_ms": 83200,
+      "end_ms": 88987,
+      "duration_ms": 5787
+    },
+    {
+      "word": "Dijo ella entonces: Te ruego, oh rey, que te acuerdes de Jehová tu Dios, para que el vengador de la sangre no aumente el daño, y no destruya a mi hijo.",
+      "verse": 11,
+      "start_ms": 88987,
+      "end_ms": 98724,
+      "duration_ms": 9737
+    },
+    {
+      "word": "Y él respondió: Vive Jehová, que no caerá ni un cabello de la cabeza de tu hijo en tierra.",
+      "verse": 11,
+      "start_ms": 98725,
+      "end_ms": 104775,
+      "duration_ms": 6050
+    },
+    {
+      "word": "Y la mujer dijo: Te ruego que permitas que tu sierva hable una palabra a mi señor el rey.",
+      "verse": 12,
+      "start_ms": 104775,
+      "end_ms": 110525,
+      "duration_ms": 5750
+    },
+    {
+      "word": "Y él dijo: Habla.",
+      "verse": 12,
+      "start_ms": 110525,
+      "end_ms": 112837,
+      "duration_ms": 2312
+    },
+    {
+      "word": "Entonces la mujer dijo: ¿Por qué, pues, has pensado tú cosa semejante contra el pueblo de Dios?",
+      "verse": 13,
+      "start_ms": 112837,
+      "end_ms": 119562,
+      "duration_ms": 6725
+    },
+    {
+      "word": "Porque hablando el rey esta palabra, se hace culpable él mismo, por cuanto el rey no hace volver a su desterrado.",
+      "verse": 13,
+      "start_ms": 119562,
+      "end_ms": 126424,
+      "duration_ms": 6862
+    },
+    {
+      "word": "Porque de cierto morimos, y somos como aguas derramadas por tierra, que no pueden volver a recogerse; ni Dios quita la vida, sino que provee medios para no alejar de sí al desterrado.",
+      "verse": 14,
+      "start_ms": 126425,
+      "end_ms": 137637,
+      "duration_ms": 11212
+    },
+    {
+      "word": "Y el haber yo venido ahora para decir esto al rey mi señor, es porque el pueblo me atemorizó; y tu sierva dijo: Hablaré ahora al rey; quizá él hará lo que su sierva diga.",
+      "verse": 15,
+      "start_ms": 137637,
+      "end_ms": 148337,
+      "duration_ms": 10700
+    },
+    {
+      "word": "Pues el rey oirá, para librar a su sierva de mano del hombre que me quiere destruir a mí y a mi hijo juntamente, de la heredad de Dios.",
+      "verse": 16,
+      "start_ms": 148337,
+      "end_ms": 156062,
+      "duration_ms": 7725
+    },
+    {
+      "word": "Tu sierva, pues, dice: Sea ahora de consuelo la respuesta de mi señor el rey, pues que mi señor el rey es como un ángel de Dios para discernir entre lo bueno y lo malo.",
+      "verse": 17,
+      "start_ms": 156062,
+      "end_ms": 166424,
+      "duration_ms": 10362
+    },
+    {
+      "word": "Así Jehová tu Dios sea contigo.",
+      "verse": 17,
+      "start_ms": 166425,
+      "end_ms": 169187,
+      "duration_ms": 2762
+    },
+    {
+      "word": "Entonces David respondió y dijo a la mujer: Yo te ruego que no me encubras nada de lo que yo te preguntare.",
+      "verse": 18,
+      "start_ms": 169187,
+      "end_ms": 175937,
+      "duration_ms": 6750
+    },
+    {
+      "word": "Y la mujer dijo: Hable mi señor el rey.",
+      "verse": 18,
+      "start_ms": 175937,
+      "end_ms": 179299,
+      "duration_ms": 3362
+    },
+    {
+      "word": "Y el rey dijo: ¿No anda la mano de Joab contigo en todas estas cosas?",
+      "verse": 19,
+      "start_ms": 179300,
+      "end_ms": 184212,
+      "duration_ms": 4912
+    },
+    {
+      "word": "La mujer respondió y dijo: Vive tu alma, rey señor mío, que no hay que apartarse a derecha ni a izquierda de todo lo que mi señor el rey ha hablado; porque tu siervo Joab, él me mandó, y él puso en boca de tu sierva todas estas palabras.",
+      "verse": 19,
+      "start_ms": 184212,
+      "end_ms": 198612,
+      "duration_ms": 14400
+    },
+    {
+      "word": "Para mudar el aspecto de las cosas Joab tu siervo ha hecho esto; pero mi señor es sabio conforme a la sabiduría de un ángel de Dios, para conocer lo que hay en la tierra.",
+      "verse": 20,
+      "start_ms": 198612,
+      "end_ms": 208324,
+      "duration_ms": 9712
+    },
+    {
+      "word": "Entonces el rey dijo a Joab: He aquí yo hago esto; ve, y haz volver al joven Absalón.",
+      "verse": 21,
+      "start_ms": 208325,
+      "end_ms": 214625,
+      "duration_ms": 6300
+    },
+    {
+      "word": "Y Joab se postró en tierra sobre su rostro e hizo reverencia, y después que bendijo al rey, dijo: Hoy ha entendido tu siervo que he hallado gracia en tus ojos, rey señor mío, pues ha hecho el rey lo que su siervo ha dicho.",
+      "verse": 22,
+      "start_ms": 214625,
+      "end_ms": 227675,
+      "duration_ms": 13050
+    },
+    {
+      "word": "Se levantó luego Joab y fue a Gesur, y trajo a Absalón a Jerusalén.",
+      "verse": 23,
+      "start_ms": 227675,
+      "end_ms": 232687,
+      "duration_ms": 5012
+    },
+    {
+      "word": "Mas el rey dijo: Váyase a su casa, y no vea mi rostro.",
+      "verse": 24,
+      "start_ms": 232687,
+      "end_ms": 237199,
+      "duration_ms": 4512
+    },
+    {
+      "word": "Y volvió Absalón a su casa, y no vio el rostro del rey.",
+      "verse": 24,
+      "start_ms": 237200,
+      "end_ms": 241200,
+      "duration_ms": 4000
+    },
+    {
+      "word": "Y no había en todo Israel ninguno tan alabado por su hermosura como Absalón; desde la planta de su pie hasta su coronilla no había en él defecto.",
+      "verse": 25,
+      "start_ms": 241200,
+      "end_ms": 249737,
+      "duration_ms": 8537
+    },
+    {
+      "word": "Cuando se cortaba el cabello (lo cual hacía al fin de cada año, pues le causaba molestia, y por eso se lo cortaba),",
+      "verse": 26,
+      "start_ms": 249737,
+      "end_ms": 257124,
+      "duration_ms": 7387
+    },
+    {
+      "word": "pesaba el cabello de su cabeza doscientos siclos de peso real.",
+      "verse": 26,
+      "start_ms": 257284,
+      "end_ms": 261459,
+      "duration_ms": 4175
+    },
+    {
+      "word": "Y le nacieron a Absalón tres hijos, y una hija que se llamó Tamar, la cual era mujer de hermoso semblante.",
+      "verse": 27,
+      "start_ms": 261409,
+      "end_ms": 268271,
+      "duration_ms": 6862
+    },
+    {
+      "word": "Y estuvo Absalón por espacio de dos años en Jerusalén, y no vio el rostro del rey.",
+      "verse": 28,
+      "start_ms": 268271,
+      "end_ms": 273696,
+      "duration_ms": 5425
+    },
+    {
+      "word": "Y mandó Absalón por Joab, para enviarlo al rey, pero él no quiso venir; y envió aun por segunda vez, y no quiso venir.",
+      "verse": 29,
+      "start_ms": 273696,
+      "end_ms": 281658,
+      "duration_ms": 7962
+    },
+    {
+      "word": "Entonces dijo a sus siervos: Mirad, el campo de Joab está junto al mío, y tiene allí cebada; id y prendedle fuego.",
+      "verse": 30,
+      "start_ms": 281659,
+      "end_ms": 289821,
+      "duration_ms": 8162
+    },
+    {
+      "word": "Y los siervos de Absalón prendieron fuego al campo.",
+      "verse": 30,
+      "start_ms": 289821,
+      "end_ms": 293221,
+      "duration_ms": 3400
+    },
+    {
+      "word": "Entonces se levantó Joab y vino a casa de Absalón, y le dijo: ¿Por qué han prendido fuego tus siervos a mi campo?",
+      "verse": 31,
+      "start_ms": 293221,
+      "end_ms": 300583,
+      "duration_ms": 7362
+    },
+    {
+      "word": "Y Absalón respondió a Joab: He aquí yo he enviado por ti, diciendo que vinieses acá, con el fin de enviarte al rey para decirle: ¿Para qué vine de Gesur?",
+      "verse": 32,
+      "start_ms": 300584,
+      "end_ms": 310346,
+      "duration_ms": 9762
+    },
+    {
+      "word": "Mejor me fuera estar aún allá.",
+      "verse": 32,
+      "start_ms": 310346,
+      "end_ms": 312771,
+      "duration_ms": 2425
+    },
+    {
+      "word": "Vea yo ahora el rostro del rey; y si hay en mí pecado, máteme.",
+      "verse": 32,
+      "start_ms": 312771,
+      "end_ms": 317458,
+      "duration_ms": 4687
+    },
+    {
+      "word": "Vino, pues, Joab al rey, y se lo hizo saber.",
+      "verse": 33,
+      "start_ms": 317459,
+      "end_ms": 321684,
+      "duration_ms": 4225
+    },
+    {
+      "word": "Entonces llamó a Absalón, el cual vino al rey, e inclinó su rostro a tierra delante del rey; y el rey besó a Absalón.",
+      "verse": 33,
+      "start_ms": 321684,
+      "end_ms": 329409,
+      "duration_ms": 7725
+    }
+  ]
+}

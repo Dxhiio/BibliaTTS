@@ -1,0 +1,446 @@
+{
+  "book": "EZE",
+  "chapter": 1,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 28,
+  "word_count": 34,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 181,
+      "text": "Aconteció en el año treinta, en el mes cuarto, a los cinco días del mes, que estando yo en medio de los cautivos junto al río Quebar, los cielos se abrieron, y vi visiones de Dios."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 181,
+      "char_end": 259,
+      "text": "En el quinto año de la deportación del rey Joaquín, a los cinco días del mes,"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 259,
+      "char_end": 406,
+      "text": "vino palabra de Jehová al sacerdote Ezequiel hijo de Buzi, en la tierra de los caldeos, junto al río Quebar; vino allí sobre él la mano de Jehová."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 406,
+      "char_end": 600,
+      "text": "Y miré, y he aquí venía del norte un viento tempestuoso, y una gran nube, con un fuego envolvente, y alrededor de él un resplandor, y en medio del fuego algo que parecía como bronce refulgente,"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 600,
+      "char_end": 718,
+      "text": "y en medio de ella la figura de cuatro seres vivientes. Y ésta era su apariencia: había en ellos semejanza de hombre."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 718,
+      "char_end": 761,
+      "text": "Cada uno tenía cuatro caras y cuatro alas."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 761,
+      "char_end": 898,
+      "text": "Y los pies de ellos eran derechos, y la planta de sus pies como planta de pie de becerro; y centelleaban a manera de bronce muy bruñido."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 898,
+      "char_end": 1007,
+      "text": "Debajo de sus alas, a sus cuatro lados, tenían manos de hombre; y sus caras y sus alas por los cuatro lados."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1007,
+      "char_end": 1129,
+      "text": "Con las alas se juntaban el uno al otro. No se volvían cuando andaban, sino que cada uno caminaba derecho hacia adelante."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1129,
+      "char_end": 1311,
+      "text": "Y el aspecto de sus caras era cara de hombre, y cara de león al lado derecho de los cuatro, y cara de buey a la izquierda en los cuatro; asimismo había en los cuatro cara de águila."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1311,
+      "char_end": 1447,
+      "text": "Así eran sus caras. Y tenían sus alas extendidas por encima, cada uno dos, las cuales se juntaban; y las otras dos cubrían sus cuerpos."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1447,
+      "char_end": 1583,
+      "text": "Y cada uno caminaba derecho hacia adelante; hacia donde el espíritu les movía que anduviesen, andaban; y cuando andaban, no se volvían."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1583,
+      "char_end": 1811,
+      "text": "Cuanto a la semejanza de los seres vivientes, su aspecto era como de carbones de fuego encendidos, como visión de hachones encendidos que andaba entre los seres vivientes; y el fuego resplandecía, y del fuego salían relámpagos."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1811,
+      "char_end": 1878,
+      "text": "Y los seres vivientes corrían y volvían a semejanza de relámpagos."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1878,
+      "char_end": 2001,
+      "text": "Mientras yo miraba los seres vivientes, he aquí una rueda sobre la tierra junto a los seres vivientes, a los cuatro lados."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2001,
+      "char_end": 2174,
+      "text": "El aspecto de las ruedas y su obra era semejante al color del crisólito. Y las cuatro tenían una misma semejanza; su apariencia y su obra eran como rueda en medio de rueda."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2174,
+      "char_end": 2257,
+      "text": "Cuando andaban, se movían hacia sus cuatro costados; no se volvían cuando andaban."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2257,
+      "char_end": 2335,
+      "text": "Y sus aros eran altos y espantosos, y llenos de ojos alrededor en las cuatro."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2335,
+      "char_end": 2490,
+      "text": "Y cuando los seres vivientes andaban, las ruedas andaban junto a ellos; y cuando los seres vivientes se levantaban de la tierra, las ruedas se levantaban."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2490,
+      "char_end": 2708,
+      "text": "Hacia donde el espíritu les movía que anduviesen, andaban; hacia donde les movía el espíritu que anduviesen, las ruedas también se levantaban tras ellos; porque el espíritu de los seres vivientes estaba en las ruedas."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2708,
+      "char_end": 2935,
+      "text": "Cuando ellos andaban, andaban ellas, y cuando ellos se paraban, se paraban ellas; asimismo cuando se levantaban de la tierra, las ruedas se levantaban tras ellos; porque el espíritu de los seres vivientes estaba en las ruedas."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2935,
+      "char_end": 3070,
+      "text": "Y sobre las cabezas de los seres vivientes aparecía una expansión a manera de cristal maravilloso, extendido encima sobre sus cabezas."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3070,
+      "char_end": 3216,
+      "text": "Y debajo de la expansión las alas de ellos estaban derechas, extendiéndose la una hacia la otra; y cada uno tenía dos alas que cubrían su cuerpo."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3216,
+      "char_end": 3411,
+      "text": "Y oí el sonido de sus alas cuando andaban, como sonido de muchas aguas, como la voz del Omnipotente, como ruido de muchedumbre, como el ruido de un ejército. Cuando se paraban, bajaban sus alas."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3411,
+      "char_end": 3521,
+      "text": "Y cuando se paraban y bajaban sus alas, se oía una voz de arriba de la expansión que había sobre sus cabezas."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3521,
+      "char_end": 3721,
+      "text": "Y sobre la expansión que había sobre sus cabezas se veía la figura de un trono que parecía de piedra de zafiro; y sobre la figura del trono había una semejanza que parecía de hombre sentado sobre él."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3721,
+      "char_end": 3951,
+      "text": "Y vi apariencia como de bronce refulgente, como apariencia de fuego dentro de ella en derredor, desde el aspecto de sus lomos para arriba; y desde sus lomos para abajo, vi que parecía como fuego, y que tenía resplandor alrededor."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3951,
+      "char_end": 4199,
+      "text": "Como parece el arco iris que está en las nubes el día que llueve, así era el parecer del resplandor alrededor. ésta fue la visión de la semejanza de la gloria de Jehová. Y cuando yo la vi, me postré sobre mi rostro, y oí la voz de uno que hablaba."
+    }
+  ],
+  "words": [
+    {
+      "word": "Aconteció en el año treinta, en el mes cuarto, a los cinco días del mes, que estando yo en medio de los cautivos junto al río Quebar, los cielos se abrieron, y vi visiones de Dios.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 11012,
+      "duration_ms": 10912
+    },
+    {
+      "word": "En el quinto año de la deportación del rey Joaquín, a los cinco días del mes, vino palabra de Jehová al sacerdote Ezequiel hijo de Buzi, en la tierra de los caldeos, junto al río Quebar; vino allí sobre él la mano de Jehová.",
+      "verse": 2,
+      "start_ms": 10962,
+      "end_ms": 24362,
+      "duration_ms": 13400
+    },
+    {
+      "word": "Y miré, y he aquí venía del norte un viento tempestuoso, y una gran nube, con un fuego envolvente, y alrededor de él un resplandor, y en medio del fuego algo que parecía como bronce refulgente, y en medio de ella la figura de cuatro seres vivientes.",
+      "verse": 4,
+      "start_ms": 24362,
+      "end_ms": 40012,
+      "duration_ms": 15650
+    },
+    {
+      "word": "Y ésta era su apariencia: había en ellos semejanza de hombre.",
+      "verse": 5,
+      "start_ms": 40012,
+      "end_ms": 44574,
+      "duration_ms": 4562
+    },
+    {
+      "word": "Cada uno tenía cuatro caras y cuatro alas.",
+      "verse": 6,
+      "start_ms": 44575,
+      "end_ms": 48087,
+      "duration_ms": 3512
+    },
+    {
+      "word": "Y los pies de ellos eran derechos, y la planta de sus pies como planta de pie de becerro; y centelleaban a manera de bronce muy bruñido.",
+      "verse": 7,
+      "start_ms": 48087,
+      "end_ms": 56487,
+      "duration_ms": 8400
+    },
+    {
+      "word": "Debajo de sus alas, a sus cuatro lados, tenían manos de hombre; y sus caras y sus alas por los cuatro lados.",
+      "verse": 8,
+      "start_ms": 56487,
+      "end_ms": 63774,
+      "duration_ms": 7287
+    },
+    {
+      "word": "Con las alas se juntaban el uno al otro.",
+      "verse": 9,
+      "start_ms": 63775,
+      "end_ms": 66750,
+      "duration_ms": 2975
+    },
+    {
+      "word": "No se volvían cuando andaban, sino que cada uno caminaba derecho hacia adelante.",
+      "verse": 9,
+      "start_ms": 66750,
+      "end_ms": 72062,
+      "duration_ms": 5312
+    },
+    {
+      "word": "Y el aspecto de sus caras era cara de hombre, y cara de león al lado derecho de los cuatro, y cara de buey a la izquierda en los cuatro; asimismo había en los cuatro cara de águila.",
+      "verse": 10,
+      "start_ms": 72062,
+      "end_ms": 82574,
+      "duration_ms": 10512
+    },
+    {
+      "word": "Así eran sus caras.",
+      "verse": 11,
+      "start_ms": 82575,
+      "end_ms": 84850,
+      "duration_ms": 2275
+    },
+    {
+      "word": "Y tenían sus alas extendidas por encima, cada uno dos, las cuales se juntaban; y las otras dos cubrían sus cuerpos.",
+      "verse": 11,
+      "start_ms": 84850,
+      "end_ms": 92787,
+      "duration_ms": 7937
+    },
+    {
+      "word": "Y cada uno caminaba derecho hacia adelante; hacia donde el espíritu les movía que anduviesen, andaban; y cuando andaban, no se volvían.",
+      "verse": 12,
+      "start_ms": 92787,
+      "end_ms": 101737,
+      "duration_ms": 8950
+    },
+    {
+      "word": "Cuanto a la semejanza de los seres vivientes, su aspecto era como de carbones de fuego encendidos, como visión de hachones encendidos que andaba entre los seres vivientes; y el fuego resplandecía, y del fuego salían relámpagos.",
+      "verse": 13,
+      "start_ms": 101737,
+      "end_ms": 115199,
+      "duration_ms": 13462
+    },
+    {
+      "word": "Y los seres vivientes corrían y volvían a semejanza de relámpagos.",
+      "verse": 14,
+      "start_ms": 115200,
+      "end_ms": 119812,
+      "duration_ms": 4612
+    },
+    {
+      "word": "Mientras yo miraba los seres vivientes, he aquí una rueda sobre la tierra junto a los seres vivientes, a los cuatro lados.",
+      "verse": 15,
+      "start_ms": 119812,
+      "end_ms": 127324,
+      "duration_ms": 7512
+    },
+    {
+      "word": "El aspecto de las ruedas y su obra era semejante al color del crisólito.",
+      "verse": 16,
+      "start_ms": 127325,
+      "end_ms": 132087,
+      "duration_ms": 4762
+    },
+    {
+      "word": "Y las cuatro tenían una misma semejanza; su apariencia y su obra eran como rueda en medio de rueda.",
+      "verse": 16,
+      "start_ms": 132087,
+      "end_ms": 138687,
+      "duration_ms": 6600
+    },
+    {
+      "word": "Cuando andaban, se movían hacia sus cuatro costados; no se volvían cuando andaban.",
+      "verse": 17,
+      "start_ms": 138687,
+      "end_ms": 144249,
+      "duration_ms": 5562
+    },
+    {
+      "word": "Y sus aros eran altos y espantosos, y llenos de ojos alrededor en las cuatro.",
+      "verse": 18,
+      "start_ms": 144250,
+      "end_ms": 149475,
+      "duration_ms": 5225
+    },
+    {
+      "word": "Y cuando los seres vivientes andaban, las ruedas andaban junto a ellos; y cuando los seres vivientes se levantaban de la tierra, las ruedas se levantaban.",
+      "verse": 19,
+      "start_ms": 149475,
+      "end_ms": 158400,
+      "duration_ms": 8925
+    },
+    {
+      "word": "Hacia donde el espíritu les movía que anduviesen, andaban; hacia donde les movía el espíritu que anduviesen, las ruedas también se levantaban tras ellos; porque el espíritu de los seres vivientes estaba en las ruedas.",
+      "verse": 20,
+      "start_ms": 158400,
+      "end_ms": 170637,
+      "duration_ms": 12237
+    },
+    {
+      "word": "Cuando ellos andaban, andaban ellas, y cuando ellos se paraban, se paraban ellas; asimismo cuando se levantaban de la tierra, las ruedas se levantaban tras ellos; porque el espíritu de los seres vivientes estaba en las ruedas.",
+      "verse": 21,
+      "start_ms": 170637,
+      "end_ms": 183962,
+      "duration_ms": 13325
+    },
+    {
+      "word": "Y sobre las cabezas de los seres vivientes aparecía una expansión a manera de cristal maravilloso, extendido encima sobre sus cabezas.",
+      "verse": 22,
+      "start_ms": 183962,
+      "end_ms": 192087,
+      "duration_ms": 8125
+    },
+    {
+      "word": "Y debajo de la expansión las alas de ellos estaban derechas, extendiéndose la una hacia la otra; y cada uno tenía dos alas que cubrían su cuerpo.",
+      "verse": 23,
+      "start_ms": 192087,
+      "end_ms": 201149,
+      "duration_ms": 9062
+    },
+    {
+      "word": "Y oí el sonido de sus alas cuando andaban, como sonido de muchas aguas, como la voz del Omnipotente, como ruido de muchedumbre, como el ruido de un ejército.",
+      "verse": 24,
+      "start_ms": 201150,
+      "end_ms": 211287,
+      "duration_ms": 10137
+    },
+    {
+      "word": "Cuando se paraban, bajaban sus alas.",
+      "verse": 24,
+      "start_ms": 211287,
+      "end_ms": 214474,
+      "duration_ms": 3187
+    },
+    {
+      "word": "Y cuando se paraban y bajaban sus alas, se oía una voz de arriba de la expansión que había sobre sus cabezas.",
+      "verse": 25,
+      "start_ms": 214475,
+      "end_ms": 221200,
+      "duration_ms": 6725
+    },
+    {
+      "word": "Y sobre la expansión que había sobre sus cabezas se veía la figura de un trono que parecía de piedra de zafiro; y sobre la figura del trono había una semejanza que parecía de hombre sentado sobre él.",
+      "verse": 26,
+      "start_ms": 221200,
+      "end_ms": 232162,
+      "duration_ms": 10962
+    },
+    {
+      "word": "Y vi apariencia como de bronce refulgente, como apariencia de fuego dentro de ella en derredor, desde el aspecto de sus lomos para arriba; y desde sus lomos para abajo, vi que parecía como fuego, y que tenía resplandor alrededor.",
+      "verse": 27,
+      "start_ms": 232162,
+      "end_ms": 245899,
+      "duration_ms": 13737
+    },
+    {
+      "word": "Como parece el arco iris que está en las nubes el día que llueve, así",
+      "verse": 28,
+      "start_ms": 245900,
+      "end_ms": 250662,
+      "duration_ms": 4762
+    },
+    {
+      "word": "era el parecer del resplandor alrededor.",
+      "verse": 28,
+      "start_ms": 250828,
+      "end_ms": 253878,
+      "duration_ms": 3050
+    },
+    {
+      "word": "ésta fue la visión de la semejanza de la gloria de Jehová.",
+      "verse": 28,
+      "start_ms": 253828,
+      "end_ms": 257565,
+      "duration_ms": 3737
+    },
+    {
+      "word": "Y cuando yo la vi, me postré sobre mi rostro, y oí la voz de uno que hablaba.",
+      "verse": 28,
+      "start_ms": 257565,
+      "end_ms": 263052,
+      "duration_ms": 5487
+    }
+  ]
+}

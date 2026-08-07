@@ -1,0 +1,642 @@
+{
+  "book": "JUA",
+  "chapter": 10,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 41,
+  "word_count": 49,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 53,
+      "text": "Al pasar Jesús, vio a un hombre ciego de nacimiento."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 53,
+      "char_end": 162,
+      "text": "Y le preguntaron sus discípulos, diciendo: Rabí, ¿quién pecó, éste o sus padres, para que haya nacido ciego?"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 162,
+      "char_end": 269,
+      "text": "Respondió Jesús: No es que pecó éste, ni sus padres, sino para que las obras de Dios se manifiesten en él."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 269,
+      "char_end": 393,
+      "text": "Me es necesario hacer las obras del que me envió, entre tanto que el día dura; la noche viene, cuando nadie puede trabajar."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 393,
+      "char_end": 447,
+      "text": "Entre tanto que estoy en el mundo, luz soy del mundo."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 447,
+      "char_end": 544,
+      "text": "Dicho esto, escupió en tierra, e hizo lodo con la saliva, y untó con el lodo los ojos del ciego,"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 544,
+      "char_end": 664,
+      "text": "y le dijo: Ve a lavarte en el estanque de Siloé (que traducido es, Enviado). Fue entonces, y se lavó, y regresó viendo."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 664,
+      "char_end": 784,
+      "text": "Entonces los vecinos, y los que antes le habían visto que era ciego, decían: ¿No es éste el que se sentaba y mendigaba?"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 784,
+      "char_end": 847,
+      "text": "Unos decían: él es; y otros: A él se parece. él decía: Yo soy."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 847,
+      "char_end": 896,
+      "text": "Y le dijeron: ¿Cómo te fueron abiertos los ojos?"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 896,
+      "char_end": 1049,
+      "text": "Respondió él y dijo: Aquel hombre que se llama Jesús hizo lodo, me untó los ojos, y me dijo: Ve al Siloé, y lávate; y fui, y me lavé, y recibí la vista."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1049,
+      "char_end": 1142,
+      "text": "Entonces le dijeron: ¿Dónde está él? él dijo: No sé. Los fariseos interrogan al ciego sanado"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1142,
+      "char_end": 1194,
+      "text": "Llevaron ante los fariseos al que había sido ciego."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1194,
+      "char_end": 1277,
+      "text": "Y era día de reposo cuando Jesús había hecho el lodo, y le había abierto los ojos."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1277,
+      "char_end": 1419,
+      "text": "Volvieron, pues, a preguntarle también los fariseos cómo había recibido la vista. él les dijo: Me puso lodo sobre los ojos, y me lavé, y veo."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1419,
+      "char_end": 1622,
+      "text": "Entonces algunos de los fariseos decían: Ese hombre no procede de Dios, porque no guarda el día de reposo. Otros decían: ¿Cómo puede un hombre pecador hacer estas señales? Y había disensión entre ellos."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1622,
+      "char_end": 1729,
+      "text": "Entonces volvieron a decirle al ciego: ¿Qué dices tú del que te abrió los ojos? Y él dijo: Que es profeta."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1729,
+      "char_end": 1876,
+      "text": "Pero los judíos no creían que él había sido ciego, y que había recibido la vista, hasta que llamaron a los padres del que había recibido la vista,"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1876,
+      "char_end": 1990,
+      "text": "y les preguntaron, diciendo: ¿Es éste vuestro hijo, el que vosotros decís que nació ciego? ¿Cómo, pues, ve ahora?"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1990,
+      "char_end": 2082,
+      "text": "Sus padres respondieron y les dijeron: Sabemos que éste es nuestro hijo, y que nació ciego;"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2082,
+      "char_end": 2236,
+      "text": "pero cómo vea ahora, no lo sabemos; o quién le haya abierto los ojos, nosotros tampoco lo sabemos; edad tiene, preguntadle a él; él hablará por sí mismo."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2236,
+      "char_end": 2418,
+      "text": "Esto dijeron sus padres, porque tenían miedo de los judíos, por cuanto los judíos ya habían acordado que si alguno confesase que Jesús era el Mesías, fuera expulsado de la sinagoga."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2418,
+      "char_end": 2476,
+      "text": "Por eso dijeron sus padres: Edad tiene, preguntadle a él."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2476,
+      "char_end": 2612,
+      "text": "Entonces volvieron a llamar al hombre que había sido ciego, y le dijeron: Da gloria a Dios; nosotros sabemos que ese hombre es pecador."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2612,
+      "char_end": 2719,
+      "text": "Entonces él respondió y dijo: Si es pecador, no lo sé; una cosa sé, que habiendo yo sido ciego, ahora veo."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2719,
+      "char_end": 2780,
+      "text": "Le volvieron a decir: ¿Qué te hizo? ¿Cómo te abrió los ojos?"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2780,
+      "char_end": 2926,
+      "text": "Él les respondió: Ya os lo he dicho, y no habéis querido oír; ¿por qué lo queréis oír otra vez? ¿Queréis también vosotros haceros sus discípulos?"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2926,
+      "char_end": 3019,
+      "text": "Y le injuriaron, y dijeron: Tú eres su discípulo; pero nosotros, discípulos de Moisés somos."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3019,
+      "char_end": 3112,
+      "text": "Nosotros sabemos que Dios ha hablado a Moisés; pero respecto a ése, no sabemos de dónde sea."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3112,
+      "char_end": 3237,
+      "text": "Respondió el hombre, y les dijo: Pues esto es lo maravilloso, que vosotros no sepáis de dónde sea, y a mí me abrió los ojos."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3237,
+      "char_end": 3347,
+      "text": "Y sabemos que Dios no oye a los pecadores; pero si alguno es temeroso de Dios, y hace su voluntad, a ése oye."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3347,
+      "char_end": 3437,
+      "text": "Desde el principio no se ha oído decir que alguno abriese los ojos a uno que nació ciego."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3437,
+      "char_end": 3484,
+      "text": "Si éste no viniera de Dios, nada podría hacer."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3484,
+      "char_end": 3605,
+      "text": "Respondieron y le dijeron: Tú naciste del todo en pecado, ¿y nos enseñas a nosotros? Y le expulsaron. Ceguera espiritual"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3605,
+      "char_end": 3693,
+      "text": "Oyó Jesús que le habían expulsado; y hallándole, le dijo: ¿Crees tú en el Hijo de Dios?"
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3693,
+      "char_end": 3753,
+      "text": "Respondió él y dijo: ¿Quién es, Señor, para que crea en él?"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3753,
+      "char_end": 3818,
+      "text": "Le dijo Jesús: Pues le has visto, y el que habla contigo, él es."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 3818,
+      "char_end": 3854,
+      "text": "Y él dijo: Creo, Señor; y le adoró."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 3854,
+      "char_end": 3965,
+      "text": "Dijo Jesús: Para juicio he venido yo a este mundo; para que los que no ven, vean, y los que ven, sean cegados."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 3965,
+      "char_end": 4081,
+      "text": "Entonces algunos de los fariseos que estaban con él, al oír esto, le dijeron: ¿Acaso nosotros somos también ciegos?"
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4081,
+      "char_end": 4200,
+      "text": "Jesús les respondió: Si fuerais ciegos, no tendríais pecado; mas ahora, porque decís: Vemos, vuestro pecado permanece."
+    }
+  ],
+  "words": [
+    {
+      "word": "Al pasar Jesús, vio a un hombre ciego de nacimiento.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4175,
+      "duration_ms": 4075
+    },
+    {
+      "word": "Y le preguntaron sus discípulos, diciendo: Rabí, ¿quién pecó, éste o sus padres, para que haya nacido ciego?",
+      "verse": 2,
+      "start_ms": 4125,
+      "end_ms": 12100,
+      "duration_ms": 7975
+    },
+    {
+      "word": "Respondió Jesús: No es que pecó éste, ni sus padres, sino para que las obras de Dios se manifiesten en él.",
+      "verse": 3,
+      "start_ms": 12100,
+      "end_ms": 19262,
+      "duration_ms": 7162
+    },
+    {
+      "word": "Me es necesario hacer las obras del que me envió, entre tanto que el día dura; la noche viene, cuando nadie puede trabajar.",
+      "verse": 4,
+      "start_ms": 19262,
+      "end_ms": 26937,
+      "duration_ms": 7675
+    },
+    {
+      "word": "Entre tanto que estoy en el mundo, luz soy del mundo.",
+      "verse": 5,
+      "start_ms": 26937,
+      "end_ms": 30612,
+      "duration_ms": 3675
+    },
+    {
+      "word": "Dicho esto, escupió en tierra, e hizo lodo con la saliva, y untó con el lodo los ojos del ciego, y le dijo: Ve a lavarte en el estanque de Siloé (que traducido es, Enviado).",
+      "verse": 6,
+      "start_ms": 30612,
+      "end_ms": 42624,
+      "duration_ms": 12012
+    },
+    {
+      "word": "Fue entonces, y se lavó, y regresó viendo.",
+      "verse": 7,
+      "start_ms": 42625,
+      "end_ms": 46400,
+      "duration_ms": 3775
+    },
+    {
+      "word": "Entonces los vecinos, y los que antes le habían visto que era ciego, decían: ¿No es éste el que se sentaba y mendigaba?",
+      "verse": 8,
+      "start_ms": 46400,
+      "end_ms": 54187,
+      "duration_ms": 7787
+    },
+    {
+      "word": "Unos decían: él es; y otros: A él se parece.",
+      "verse": 9,
+      "start_ms": 54187,
+      "end_ms": 58749,
+      "duration_ms": 4562
+    },
+    {
+      "word": "él decía: Yo soy.",
+      "verse": 9,
+      "start_ms": 58750,
+      "end_ms": 61187,
+      "duration_ms": 2437
+    },
+    {
+      "word": "Y le dijeron: ¿Cómo te fueron abiertos los ojos?",
+      "verse": 10,
+      "start_ms": 61187,
+      "end_ms": 64999,
+      "duration_ms": 3812
+    },
+    {
+      "word": "Respondió él y dijo: Aquel hombre que se llama Jesús hizo lodo, me untó los ojos, y me dijo: Ve al Siloé, y lávate; y fui, y me lavé, y recibí la vista.",
+      "verse": 11,
+      "start_ms": 65000,
+      "end_ms": 76237,
+      "duration_ms": 11237
+    },
+    {
+      "word": "Entonces le dijeron: ¿Dónde está él? él dijo: No sé.",
+      "verse": 12,
+      "start_ms": 76237,
+      "end_ms": 80812,
+      "duration_ms": 4575
+    },
+    {
+      "word": "Los fariseos interrogan al ciego sanado Llevaron ante los fariseos al que había sido ciego.",
+      "verse": 12,
+      "start_ms": 80812,
+      "end_ms": 86487,
+      "duration_ms": 5675
+    },
+    {
+      "word": "Y era día de reposo cuando Jesús había hecho el lodo, y le había abierto los ojos.",
+      "verse": 14,
+      "start_ms": 86487,
+      "end_ms": 91962,
+      "duration_ms": 5475
+    },
+    {
+      "word": "Volvieron, pues, a preguntarle también los fariseos cómo había recibido la vista.",
+      "verse": 15,
+      "start_ms": 91962,
+      "end_ms": 97687,
+      "duration_ms": 5725
+    },
+    {
+      "word": "él les dijo: Me puso lodo sobre los ojos, y me lavé, y veo.",
+      "verse": 15,
+      "start_ms": 97687,
+      "end_ms": 102749,
+      "duration_ms": 5062
+    },
+    {
+      "word": "Entonces algunos de los fariseos decían: Ese hombre no procede de Dios, porque no guarda el día de reposo.",
+      "verse": 16,
+      "start_ms": 102750,
+      "end_ms": 109887,
+      "duration_ms": 7137
+    },
+    {
+      "word": "Otros decían: ¿Cómo puede un hombre pecador hacer estas señales?",
+      "verse": 16,
+      "start_ms": 109887,
+      "end_ms": 114487,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Y había disensión entre ellos.",
+      "verse": 16,
+      "start_ms": 114487,
+      "end_ms": 117174,
+      "duration_ms": 2687
+    },
+    {
+      "word": "Entonces volvieron a decirle al ciego: ¿Qué dices tú del que te abrió los ojos?",
+      "verse": 17,
+      "start_ms": 117175,
+      "end_ms": 122287,
+      "duration_ms": 5112
+    },
+    {
+      "word": "Y él dijo: Que es profeta.",
+      "verse": 17,
+      "start_ms": 122287,
+      "end_ms": 125149,
+      "duration_ms": 2862
+    },
+    {
+      "word": "Pero los judíos no creían que él había sido ciego, y que había recibido la vista, hasta que llamaron a los padres del que había recibido la vista, y les preguntaron, diciendo: ¿Es éste vuestro hijo, el que vosotros decís que nació ciego?",
+      "verse": 18,
+      "start_ms": 125150,
+      "end_ms": 139412,
+      "duration_ms": 14262
+    },
+    {
+      "word": "Cómo, pues, ve ahora?",
+      "verse": 19,
+      "start_ms": 139412,
+      "end_ms": 142287,
+      "duration_ms": 2875
+    },
+    {
+      "word": "Sus padres respondieron y les dijeron: Sabemos que éste es nuestro hijo, y que nació ciego; pero cómo vea ahora, no lo sabemos; o quién le haya abierto los ojos, nosotros tampoco lo sabemos; edad tiene, preguntadle a él; él hablará por sí mismo.",
+      "verse": 20,
+      "start_ms": 142287,
+      "end_ms": 158837,
+      "duration_ms": 16550
+    },
+    {
+      "word": "Esto dijeron sus padres, porque tenían miedo de los judíos, por cuanto los judíos ya habían acordado que si alguno confesase que Jesús era el Mesías, fuera expulsado de la sinagoga.",
+      "verse": 22,
+      "start_ms": 158837,
+      "end_ms": 169587,
+      "duration_ms": 10750
+    },
+    {
+      "word": "Por eso dijeron sus padres: Edad tiene, preguntadle a él.",
+      "verse": 23,
+      "start_ms": 169587,
+      "end_ms": 174324,
+      "duration_ms": 4737
+    },
+    {
+      "word": "Entonces volvieron a llamar al hombre que había sido ciego, y le dijeron: Da gloria a Dios; nosotros sabemos que ese hombre es pecador.",
+      "verse": 24,
+      "start_ms": 174325,
+      "end_ms": 182987,
+      "duration_ms": 8662
+    },
+    {
+      "word": "Entonces él respondió y dijo: Si es pecador, no lo sé; una cosa sé, que habiendo yo sido ciego, ahora veo.",
+      "verse": 25,
+      "start_ms": 182987,
+      "end_ms": 191162,
+      "duration_ms": 8175
+    },
+    {
+      "word": "Le volvieron a decir: ¿Qué te hizo?",
+      "verse": 26,
+      "start_ms": 191162,
+      "end_ms": 194012,
+      "duration_ms": 2850
+    },
+    {
+      "word": "Cómo te abrió los ojos?",
+      "verse": 26,
+      "start_ms": 194012,
+      "end_ms": 196299,
+      "duration_ms": 2287
+    },
+    {
+      "word": "Él les respondió: Ya os lo he dicho, y no habéis querido oír; ¿por qué lo queréis oír otra vez?",
+      "verse": 27,
+      "start_ms": 196300,
+      "end_ms": 203050,
+      "duration_ms": 6750
+    },
+    {
+      "word": "Queréis también vosotros haceros sus discípulos?",
+      "verse": 27,
+      "start_ms": 203050,
+      "end_ms": 206637,
+      "duration_ms": 3587
+    },
+    {
+      "word": "Y le injuriaron, y dijeron: Tú eres su discípulo; pero nosotros, discípulos de Moisés somos.",
+      "verse": 28,
+      "start_ms": 206637,
+      "end_ms": 213612,
+      "duration_ms": 6975
+    },
+    {
+      "word": "Nosotros sabemos que Dios ha hablado a Moisés; pero respecto a ése, no sabemos de dónde sea.",
+      "verse": 29,
+      "start_ms": 213612,
+      "end_ms": 220074,
+      "duration_ms": 6462
+    },
+    {
+      "word": "Respondió el hombre, y les dijo: Pues esto es lo maravilloso, que vosotros no sepáis de dónde sea, y a mí me abrió los ojos.",
+      "verse": 30,
+      "start_ms": 220075,
+      "end_ms": 228575,
+      "duration_ms": 8500
+    },
+    {
+      "word": "Y sabemos que Dios no oye a los pecadores; pero si alguno es temeroso de Dios, y hace su voluntad, a ése oye.",
+      "verse": 31,
+      "start_ms": 228575,
+      "end_ms": 236287,
+      "duration_ms": 7712
+    },
+    {
+      "word": "Desde el principio no se ha oído decir que alguno abriese los ojos a uno que nació ciego.",
+      "verse": 32,
+      "start_ms": 236287,
+      "end_ms": 241787,
+      "duration_ms": 5500
+    },
+    {
+      "word": "Si éste no viniera de Dios, nada podría hacer.",
+      "verse": 33,
+      "start_ms": 241787,
+      "end_ms": 245674,
+      "duration_ms": 3887
+    },
+    {
+      "word": "Respondieron y le dijeron: Tú naciste del todo en pecado, ¿y nos enseñas a nosotros?",
+      "verse": 34,
+      "start_ms": 245675,
+      "end_ms": 251725,
+      "duration_ms": 6050
+    },
+    {
+      "word": "Y le expulsaron.",
+      "verse": 34,
+      "start_ms": 251725,
+      "end_ms": 253700,
+      "duration_ms": 1975
+    },
+    {
+      "word": "Ceguera espiritual Oyó Jesús que le habían expulsado; y hallándole, le dijo: ¿Crees tú en el Hijo de Dios?",
+      "verse": 34,
+      "start_ms": 253700,
+      "end_ms": 260862,
+      "duration_ms": 7162
+    },
+    {
+      "word": "Respondió él y dijo: ¿Quién es, Señor, para que crea en él?",
+      "verse": 36,
+      "start_ms": 260862,
+      "end_ms": 265674,
+      "duration_ms": 4812
+    },
+    {
+      "word": "Le dijo Jesús: Pues le has visto, y el que habla contigo, él es.",
+      "verse": 37,
+      "start_ms": 265675,
+      "end_ms": 270912,
+      "duration_ms": 5237
+    },
+    {
+      "word": "Y él dijo: Creo, Señor; y le adoró.",
+      "verse": 38,
+      "start_ms": 270912,
+      "end_ms": 274687,
+      "duration_ms": 3775
+    },
+    {
+      "word": "Dijo Jesús: Para juicio he venido yo a este mundo; para que los que no ven, vean, y los",
+      "verse": 39,
+      "start_ms": 274687,
+      "end_ms": 281499,
+      "duration_ms": 6812
+    },
+    {
+      "word": "que ven, sean cegados.",
+      "verse": 39,
+      "start_ms": 281668,
+      "end_ms": 284343,
+      "duration_ms": 2675
+    },
+    {
+      "word": "Entonces algunos de los fariseos que estaban con él, al oír esto, le dijeron: ¿Acaso nosotros somos también ciegos?",
+      "verse": 40,
+      "start_ms": 284293,
+      "end_ms": 292143,
+      "duration_ms": 7850
+    },
+    {
+      "word": "Jesús les respondió: Si fuerais ciegos, no tendríais pecado; mas ahora, porque decís: Vemos, vuestro pecado permanece.",
+      "verse": 41,
+      "start_ms": 292143,
+      "end_ms": 301105,
+      "duration_ms": 8962
+    }
+  ]
+}

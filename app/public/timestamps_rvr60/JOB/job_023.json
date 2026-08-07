@@ -1,0 +1,257 @@
+{
+  "book": "JOB",
+  "chapter": 23,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 17,
+  "word_count": 18,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 23,
+      "text": "Respondió Job, y dijo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 23,
+      "char_end": 101,
+      "text": "Hoy también hablaré con amargura; Porque es más grave mi llaga que mi gemido."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 101,
+      "char_end": 171,
+      "text": "¡Quién me diera el saber dónde hallar a Dios! Yo iría hasta su silla."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 171,
+      "char_end": 239,
+      "text": "Expondría mi causa delante de él, Y llenaría mi boca de argumentos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 239,
+      "char_end": 306,
+      "text": "Yo sabría lo que él me respondiese, Y entendería lo que me dijera."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 306,
+      "char_end": 378,
+      "text": "¿Contendería conmigo con grandeza de fuerza? No; antes él me atendería."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 378,
+      "char_end": 450,
+      "text": "Allí el justo razonaría con él; Y yo escaparía para siempre de mi juez."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 450,
+      "char_end": 529,
+      "text": "He aquí yo iré al oriente, y no lo hallaré; Y al occidente, y no lo percibiré;"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 529,
+      "char_end": 609,
+      "text": "Si muestra su poder al norte, yo no lo veré; Al sur se esconderá, y no lo veré."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 609,
+      "char_end": 665,
+      "text": "Mas él conoce mi camino; Me probará, y saldré como oro."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 665,
+      "char_end": 733,
+      "text": "Mis pies han seguido sus pisadas; Guardé su camino, y no me aparté."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 733,
+      "char_end": 830,
+      "text": "Del mandamiento de sus labios nunca me separé; Guardé las palabras de su boca más que mi comida."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 830,
+      "char_end": 908,
+      "text": "Pero si él determina una cosa, ¿quién lo hará cambiar? Su alma deseó, e hizo."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 908,
+      "char_end": 992,
+      "text": "Él, pues, acabará lo que ha determinado de mí; Y muchas cosas como éstas hay en él."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 992,
+      "char_end": 1079,
+      "text": "Por lo cual yo me espanto en su presencia; Cuando lo considero, tiemblo a causa de él."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1079,
+      "char_end": 1140,
+      "text": "Dios ha enervado mi corazón, Y me ha turbado el Omnipotente."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1140,
+      "char_end": 1234,
+      "text": "¿Por qué no fui yo cortado delante de las tinieblas, Ni fue cubierto con oscuridad mi rostro?"
+    }
+  ],
+  "words": [
+    {
+      "word": "Respondió Job, y dijo: Hoy también hablaré con amargura; Porque es más grave mi llaga que mi gemido.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7062,
+      "duration_ms": 6962
+    },
+    {
+      "word": "Quién me diera el saber dónde hallar a Dios!",
+      "verse": 3,
+      "start_ms": 7012,
+      "end_ms": 9874,
+      "duration_ms": 2862
+    },
+    {
+      "word": "Yo iría hasta su silla.",
+      "verse": 3,
+      "start_ms": 9875,
+      "end_ms": 12250,
+      "duration_ms": 2375
+    },
+    {
+      "word": "Expondría mi causa delante de él, Y llenaría mi boca de argumentos.",
+      "verse": 4,
+      "start_ms": 12250,
+      "end_ms": 17237,
+      "duration_ms": 4987
+    },
+    {
+      "word": "Yo sabría lo que él me respondiese, Y entendería lo que me dijera.",
+      "verse": 5,
+      "start_ms": 17237,
+      "end_ms": 21837,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Contendería conmigo con grandeza de fuerza?",
+      "verse": 6,
+      "start_ms": 21837,
+      "end_ms": 25099,
+      "duration_ms": 3262
+    },
+    {
+      "word": "No; antes él me atendería.",
+      "verse": 6,
+      "start_ms": 25100,
+      "end_ms": 27875,
+      "duration_ms": 2775
+    },
+    {
+      "word": "Allí el justo razonaría con él; Y yo escaparía para siempre de mi juez.",
+      "verse": 7,
+      "start_ms": 27875,
+      "end_ms": 33162,
+      "duration_ms": 5287
+    },
+    {
+      "word": "He aquí yo iré al oriente, y no lo hallaré; Y al occidente, y no lo percibiré; Si muestra su poder al norte, yo no lo veré; Al sur se esconderá, y no lo veré.",
+      "verse": 8,
+      "start_ms": 33162,
+      "end_ms": 44199,
+      "duration_ms": 11037
+    },
+    {
+      "word": "Mas él conoce mi camino; Me probará, y saldré como oro.",
+      "verse": 10,
+      "start_ms": 44200,
+      "end_ms": 48700,
+      "duration_ms": 4500
+    },
+    {
+      "word": "Mis pies han seguido sus pisadas; Guardé su camino, y no me aparté.",
+      "verse": 11,
+      "start_ms": 48700,
+      "end_ms": 53737,
+      "duration_ms": 5037
+    },
+    {
+      "word": "Del mandamiento de sus labios nunca me separé; Guardé las palabras de su boca más que mi comida.",
+      "verse": 12,
+      "start_ms": 53737,
+      "end_ms": 59924,
+      "duration_ms": 6187
+    },
+    {
+      "word": "Pero si él determina una cosa, ¿quién lo hará cambiar?",
+      "verse": 13,
+      "start_ms": 59925,
+      "end_ms": 63600,
+      "duration_ms": 3675
+    },
+    {
+      "word": "Su alma deseó, e hizo.",
+      "verse": 13,
+      "start_ms": 63600,
+      "end_ms": 66362,
+      "duration_ms": 2762
+    },
+    {
+      "word": "Él, pues, acabará lo que ha determinado de mí; Y muchas cosas como éstas hay en él.",
+      "verse": 14,
+      "start_ms": 66362,
+      "end_ms": 72262,
+      "duration_ms": 5900
+    },
+    {
+      "word": "Por lo cual yo me espanto en su presencia; Cuando lo considero, tiemblo a causa de él.",
+      "verse": 15,
+      "start_ms": 72262,
+      "end_ms": 77849,
+      "duration_ms": 5587
+    },
+    {
+      "word": "Dios ha enervado mi corazón, Y me ha turbado el Omnipotente.",
+      "verse": 16,
+      "start_ms": 77850,
+      "end_ms": 82350,
+      "duration_ms": 4500
+    },
+    {
+      "word": "Por qué no fui yo cortado delante de las tinieblas, Ni fue cubierto con oscuridad mi rostro?",
+      "verse": 17,
+      "start_ms": 82350,
+      "end_ms": 88175,
+      "duration_ms": 5825
+    }
+  ]
+}

@@ -1,0 +1,551 @@
+{
+  "book": "MAT",
+  "chapter": 24,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 39,
+  "word_count": 38,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 62,
+      "text": "Entonces habló Jesús a la gente y a sus discípulos, diciendo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 62,
+      "char_end": 126,
+      "text": "En la cátedra de Moisés se sientan los escribas y los fariseos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 126,
+      "char_end": 253,
+      "text": "Así que, todo lo que os digan que guardéis, guardadlo y hacedlo; mas no hagáis conforme a sus obras, porque dicen, y no hacen."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 253,
+      "char_end": 393,
+      "text": "Porque atan cargas pesadas y difíciles de llevar, y las ponen sobre los hombros de los hombres; pero ellos ni con un dedo quieren moverlas."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 393,
+      "char_end": 525,
+      "text": "Antes, hacen todas sus obras para ser vistos por los hombres. Pues ensanchan sus filacterias, y extienden los flecos de sus mantos;"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 525,
+      "char_end": 608,
+      "text": "y aman los primeros asientos en las cenas, y las primeras sillas en las sinagogas,"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 608,
+      "char_end": 684,
+      "text": "y las salutaciones en las plazas, y que los hombres los llamen: Rabí, Rabí."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 684,
+      "char_end": 803,
+      "text": "Pero vosotros no queráis que os llamen Rabí; porque uno es vuestro Maestro, el Cristo, y todos vosotros sois hermanos."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 803,
+      "char_end": 908,
+      "text": "Y no llaméis padre vuestro a nadie en la tierra; porque uno es vuestro Padre, el que está en los cielos."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 908,
+      "char_end": 978,
+      "text": "Ni seáis llamados maestros; porque uno es vuestro Maestro, el Cristo."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 978,
+      "char_end": 1030,
+      "text": "El que es el mayor de vosotros, sea vuestro siervo."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1030,
+      "char_end": 1109,
+      "text": "Porque el que se enaltece será humillado, y el que se humilla será enaltecido."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1109,
+      "char_end": 1294,
+      "text": "Mas ¡ay de vosotros, escribas y fariseos, hipócritas! porque cerráis el reino de los cielos delante de los hombres; pues ni entráis vosotros, ni dejáis entrar a los que están entrando."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1294,
+      "char_end": 1465,
+      "text": "¡Ay de vosotros, escribas y fariseos, hipócritas! porque devoráis las casas de las viudas, y como pretexto hacéis largas oraciones; por esto recibiréis mayor condenación."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1465,
+      "char_end": 1643,
+      "text": "¡Ay de vosotros, escribas y fariseos, hipócritas! porque recorréis mar y tierra para hacer un prosélito, y una vez hecho, le hacéis dos veces más hijo del infierno que vosotros."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1643,
+      "char_end": 1781,
+      "text": "¡Ay de vosotros, guías ciegos! que decís: Si alguno jura por el templo, no es nada; pero si alguno jura por el oro del templo, es deudor."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1781,
+      "char_end": 1868,
+      "text": "¡Insensatos y ciegos! porque ¿cuál es mayor, el oro, o el templo que santifica al oro?"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1868,
+      "char_end": 1989,
+      "text": "También decís: Si alguno jura por el altar, no es nada; pero si alguno jura por la ofrenda que está sobre él, es deudor."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1989,
+      "char_end": 2079,
+      "text": "¡Necios y ciegos! porque ¿cuál es mayor, la ofrenda, o el altar que santifica la ofrenda?"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2079,
+      "char_end": 2156,
+      "text": "Pues el que jura por el altar, jura por él, y por todo lo que está sobre él;"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2156,
+      "char_end": 2222,
+      "text": "y el que jura por el templo, jura por él, y por el que lo habita;"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2222,
+      "char_end": 2313,
+      "text": "y el que jura por el cielo, jura por el trono de Dios, y por aquel que está sentado en él."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2313,
+      "char_end": 2543,
+      "text": "¡Ay de vosotros, escribas y fariseos, hipócritas! porque diezmáis la menta y el eneldo y el comino, y dejáis lo más importante de la ley: la justicia, la misericordia y la fe. Esto era necesario hacer, sin dejar de hacer aquello."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2543,
+      "char_end": 2604,
+      "text": "¡Guías ciegos, que coláis el mosquito, y tragáis el camello!"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2604,
+      "char_end": 2759,
+      "text": "¡Ay de vosotros, escribas y fariseos, hipócritas! porque limpiáis lo de fuera del vaso y del plato, pero por dentro estáis llenos de robo y de injusticia."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2759,
+      "char_end": 2866,
+      "text": "¡Fariseo ciego! Limpia primero lo de dentro del vaso y del plato, para que también lo de fuera sea limpio."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2866,
+      "char_end": 3085,
+      "text": "¡Ay de vosotros, escribas y fariseos, hipócritas! porque sois semejantes a sepulcros blanqueados, que por fuera, a la verdad, se muestran hermosos, mas por dentro están llenos de huesos de muertos y de toda inmundicia."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3085,
+      "char_end": 3221,
+      "text": "Así también vosotros por fuera, a la verdad, os mostráis justos a los hombres, pero por dentro estáis llenos de hipocresía e iniquidad."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3221,
+      "char_end": 3360,
+      "text": "¡Ay de vosotros, escribas y fariseos, hipócritas! porque edificáis los sepulcros de los profetas, y adornáis los monumentos de los justos,"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3360,
+      "char_end": 3485,
+      "text": "y decís: Si hubiésemos vivido en los días de nuestros padres, no hubiéramos sido sus cómplices en la sangre de los profetas."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3485,
+      "char_end": 3591,
+      "text": "Así que dais testimonio contra vosotros mismos, de que sois hijos de aquellos que mataron a los profetas."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3591,
+      "char_end": 3646,
+      "text": "¡Vosotros también llenad la medida de vuestros padres!"
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3646,
+      "char_end": 3731,
+      "text": "¡Serpientes, generación de víboras! ¿Cómo escaparéis de la condenación del infierno?"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3731,
+      "char_end": 3916,
+      "text": "Por tanto, he aquí yo os envío profetas y sabios y escribas; y de ellos, a unos mataréis y crucificaréis, y a otros azotaréis en vuestras sinagogas, y perseguiréis de ciudad en ciudad;"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3916,
+      "char_end": 4130,
+      "text": "para que venga sobre vosotros toda la sangre justa que se ha derramado sobre la tierra, desde la sangre de Abel el justo hasta la sangre de Zacarías hijo de Berequías, a quien matasteis entre el templo y el altar."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4130,
+      "char_end": 4239,
+      "text": "De cierto os digo que todo esto vendrá sobre esta generación. Lamento de Jesús sobre Jerusalén (Lc 13.34–35)"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4239,
+      "char_end": 4438,
+      "text": "¡Jerusalén, Jerusalén, que matas a los profetas, y apedreas a los que te son enviados! ¡Cuántas veces quise juntar a tus hijos, como la gallina junta sus polluelos debajo de las alas, y no quisiste!"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4438,
+      "char_end": 4482,
+      "text": "He aquí vuestra casa os es dejada desierta."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4482,
+      "char_end": 4590,
+      "text": "Porque os digo que desde ahora no me veréis, hasta que digáis: Bendito el que viene en el nombre del Señor."
+    }
+  ],
+  "words": [
+    {
+      "word": "Entonces habló Jesús a la gente y a sus discípulos, diciendo: En la cátedra de Moisés se sientan los escribas y los fariseos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 8075,
+      "duration_ms": 7975
+    },
+    {
+      "word": "Así que, todo lo que os digan que guardéis, guardadlo y hacedlo; mas no hagáis conforme a sus obras, porque dicen, y no hacen.",
+      "verse": 3,
+      "start_ms": 8025,
+      "end_ms": 16875,
+      "duration_ms": 8850
+    },
+    {
+      "word": "Porque atan cargas pesadas y difíciles de llevar, y las ponen sobre los hombros de los hombres; pero ellos ni con un dedo quieren moverlas.",
+      "verse": 4,
+      "start_ms": 16875,
+      "end_ms": 25262,
+      "duration_ms": 8387
+    },
+    {
+      "word": "Antes, hacen todas sus obras para ser vistos por los hombres.",
+      "verse": 5,
+      "start_ms": 25262,
+      "end_ms": 29612,
+      "duration_ms": 4350
+    },
+    {
+      "word": "Pues ensanchan sus filacterias, y extienden los flecos de sus mantos; y aman los primeros asientos en las cenas, y las primeras sillas en las sinagogas, y las salutaciones en las plazas, y que los hombres los llamen: Rabí, Rabí.",
+      "verse": 5,
+      "start_ms": 29612,
+      "end_ms": 43524,
+      "duration_ms": 13912
+    },
+    {
+      "word": "Pero vosotros no queráis que os llamen Rabí; porque uno es vuestro Maestro, el Cristo, y todos vosotros sois hermanos.",
+      "verse": 8,
+      "start_ms": 43525,
+      "end_ms": 51512,
+      "duration_ms": 7987
+    },
+    {
+      "word": "Y no llaméis padre vuestro a nadie en la tierra; porque uno es vuestro Padre, el que está en los cielos.",
+      "verse": 9,
+      "start_ms": 51512,
+      "end_ms": 58074,
+      "duration_ms": 6562
+    },
+    {
+      "word": "Ni seáis llamados maestros; porque uno es vuestro Maestro, el Cristo.",
+      "verse": 10,
+      "start_ms": 58075,
+      "end_ms": 63437,
+      "duration_ms": 5362
+    },
+    {
+      "word": "El que es el mayor de vosotros, sea vuestro siervo.",
+      "verse": 11,
+      "start_ms": 63437,
+      "end_ms": 67387,
+      "duration_ms": 3950
+    },
+    {
+      "word": "Porque el que se enaltece será humillado, y el que se humilla será enaltecido.",
+      "verse": 12,
+      "start_ms": 67387,
+      "end_ms": 72587,
+      "duration_ms": 5200
+    },
+    {
+      "word": "Mas ¡ay de vosotros, escribas y fariseos, hipócritas! porque cerráis el reino de los cielos delante de los hombres; pues ni entráis vosotros, ni dejáis entrar a los que están entrando.",
+      "verse": 13,
+      "start_ms": 72587,
+      "end_ms": 84124,
+      "duration_ms": 11537
+    },
+    {
+      "word": "Ay de vosotros, escribas y fariseos, hipócritas! porque devoráis las casas de las viudas, y como pretexto hacéis largas oraciones; por esto recibiréis mayor condenación.",
+      "verse": 14,
+      "start_ms": 84125,
+      "end_ms": 95525,
+      "duration_ms": 11400
+    },
+    {
+      "word": "Ay de vosotros, escribas y fariseos, hipócritas! porque recorréis mar y tierra para hacer un prosélito, y una vez hecho, le hacéis dos veces más hijo del infierno que vosotros.",
+      "verse": 15,
+      "start_ms": 95525,
+      "end_ms": 106962,
+      "duration_ms": 11437
+    },
+    {
+      "word": "Ay de vosotros, guías ciegos! que decís: Si alguno jura por el templo, no es nada; pero si alguno jura por el oro del templo, es deudor.",
+      "verse": 16,
+      "start_ms": 106962,
+      "end_ms": 116374,
+      "duration_ms": 9412
+    },
+    {
+      "word": "Insensatos y ciegos! porque ¿cuál es mayor, el oro, o el templo que santifica al oro?",
+      "verse": 17,
+      "start_ms": 116375,
+      "end_ms": 122575,
+      "duration_ms": 6200
+    },
+    {
+      "word": "También decís: Si alguno jura por el altar, no es nada; pero si alguno jura por la ofrenda que está sobre él, es deudor.",
+      "verse": 18,
+      "start_ms": 122575,
+      "end_ms": 130575,
+      "duration_ms": 8000
+    },
+    {
+      "word": "Necios y ciegos! porque ¿cuál es mayor, la ofrenda, o el altar que santifica la ofrenda?",
+      "verse": 19,
+      "start_ms": 130575,
+      "end_ms": 136800,
+      "duration_ms": 6225
+    },
+    {
+      "word": "Pues el que jura por el altar, jura por él, y por todo lo que está sobre él; y el que jura por el templo, jura por él, y por el que lo habita; y el que jura por el cielo, jura por el trono de Dios, y por aquel que está sentado en él.",
+      "verse": 20,
+      "start_ms": 136800,
+      "end_ms": 150750,
+      "duration_ms": 13950
+    },
+    {
+      "word": "Ay de vosotros, escribas y fariseos, hipócritas! porque diezmáis la menta y el eneldo y el comino, y dejáis lo más importante de la ley: la justicia, la misericordia y la fe.",
+      "verse": 23,
+      "start_ms": 150750,
+      "end_ms": 162562,
+      "duration_ms": 11812
+    },
+    {
+      "word": "Esto era necesario hacer, sin dejar de hacer aquello.",
+      "verse": 23,
+      "start_ms": 162562,
+      "end_ms": 166537,
+      "duration_ms": 3975
+    },
+    {
+      "word": "Guías ciegos, que coláis el mosquito, y tragáis el camello!",
+      "verse": 24,
+      "start_ms": 166537,
+      "end_ms": 171287,
+      "duration_ms": 4750
+    },
+    {
+      "word": "Ay de vosotros, escribas y fariseos, hipócritas! porque limpiáis lo de fuera del vaso y del plato, pero por dentro estáis llenos de robo y de injusticia.",
+      "verse": 25,
+      "start_ms": 171287,
+      "end_ms": 181024,
+      "duration_ms": 9737
+    },
+    {
+      "word": "Fariseo ciego!",
+      "verse": 26,
+      "start_ms": 181025,
+      "end_ms": 182950,
+      "duration_ms": 1925
+    },
+    {
+      "word": "Limpia primero lo de dentro del vaso y del plato, para que también lo de fuera sea limpio.",
+      "verse": 26,
+      "start_ms": 182950,
+      "end_ms": 188587,
+      "duration_ms": 5637
+    },
+    {
+      "word": "Ay de vosotros, escribas y fariseos, hipócritas! porque sois semejantes a sepulcros blanqueados, que por fuera, a la verdad, se muestran hermosos, mas por dentro están llenos de huesos de muertos y de toda inmundicia.",
+      "verse": 27,
+      "start_ms": 188587,
+      "end_ms": 202537,
+      "duration_ms": 13950
+    },
+    {
+      "word": "Así también vosotros por fuera, a la verdad, os mostráis justos a los hombres, pero por dentro estáis llenos de hipocresía e iniquidad.",
+      "verse": 28,
+      "start_ms": 202537,
+      "end_ms": 210999,
+      "duration_ms": 8462
+    },
+    {
+      "word": "Ay de vosotros, escribas y fariseos, hipócritas! porque edificáis los sepulcros de los profetas, y adornáis los monumentos de los justos, y decís: Si hubiésemos vivido en los días de nuestros padres, no hubiéramos sido sus cómplices en la sangre de los profetas.",
+      "verse": 29,
+      "start_ms": 211000,
+      "end_ms": 227312,
+      "duration_ms": 16312
+    },
+    {
+      "word": "Así que dais testimonio contra vosotros mismos, de que sois hijos de aquellos que mataron a los profetas.",
+      "verse": 31,
+      "start_ms": 227312,
+      "end_ms": 233799,
+      "duration_ms": 6487
+    },
+    {
+      "word": "Vosotros también llenad la medida de vuestros padres!",
+      "verse": 32,
+      "start_ms": 233800,
+      "end_ms": 237675,
+      "duration_ms": 3875
+    },
+    {
+      "word": "Serpientes, generación de víboras!",
+      "verse": 33,
+      "start_ms": 237675,
+      "end_ms": 240912,
+      "duration_ms": 3237
+    },
+    {
+      "word": "Cómo escaparéis de la condenación del infierno?",
+      "verse": 33,
+      "start_ms": 240912,
+      "end_ms": 244162,
+      "duration_ms": 3250
+    },
+    {
+      "word": "Por tanto, he aquí yo os envío profetas y sabios y escribas; y de ellos, a unos mataréis y crucificaréis, y a otros azotaréis en vuestras sinagogas, y perseguiréis de ciudad en ciudad; para que venga sobre vosotros toda la sangre justa que se ha derramado sobre",
+      "verse": 34,
+      "start_ms": 244162,
+      "end_ms": 260287,
+      "duration_ms": 16125
+    },
+    {
+      "word": "la tierra, desde la sangre de Abel el justo hasta la sangre de Zacarías hijo de Berequías, a quien matasteis entre el templo y el altar.",
+      "verse": 35,
+      "start_ms": 260452,
+      "end_ms": 268727,
+      "duration_ms": 8275
+    },
+    {
+      "word": "De cierto os digo que todo esto vendrá sobre esta generación.",
+      "verse": 36,
+      "start_ms": 268677,
+      "end_ms": 273052,
+      "duration_ms": 4375
+    },
+    {
+      "word": "Lamento de Jesús sobre Jerusalén (Lc 13.34–35) ¡Jerusalén, Jerusalén, que matas a los profetas, y apedreas a los que te son enviados!",
+      "verse": 36,
+      "start_ms": 273052,
+      "end_ms": 284477,
+      "duration_ms": 11425
+    },
+    {
+      "word": "Cuántas veces quise juntar a tus hijos, como la gallina junta sus polluelos debajo de las alas, y no quisiste!",
+      "verse": 37,
+      "start_ms": 284477,
+      "end_ms": 291689,
+      "duration_ms": 7212
+    },
+    {
+      "word": "He aquí vuestra casa os es dejada desierta.",
+      "verse": 38,
+      "start_ms": 291689,
+      "end_ms": 295201,
+      "duration_ms": 3512
+    },
+    {
+      "word": "Porque os digo que desde ahora no me veréis, hasta que digáis: Bendito el que viene en el nombre del Señor.",
+      "verse": 39,
+      "start_ms": 295202,
+      "end_ms": 302039,
+      "duration_ms": 6837
+    }
+  ]
+}

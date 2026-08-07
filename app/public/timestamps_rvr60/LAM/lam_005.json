@@ -1,0 +1,313 @@
+{
+  "book": "LAM",
+  "chapter": 5,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 22,
+  "word_count": 21,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 77,
+      "text": "Acuérdate, oh Jehová, de lo que nos ha sucedido; Mira, y ve nuestro oprobio."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 77,
+      "char_end": 144,
+      "text": "Nuestra heredad ha pasado a extraños, Nuestras casas a forasteros."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 144,
+      "char_end": 204,
+      "text": "Huérfanos somos sin padre; Nuestras madres son como viudas."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 204,
+      "char_end": 272,
+      "text": "Nuestra agua bebemos por dinero; Compramos nuestra leña por precio."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 272,
+      "char_end": 356,
+      "text": "Padecemos persecución sobre nosotros; Nos fatigamos, y no hay para nosotros reposo."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 356,
+      "char_end": 422,
+      "text": "Al egipcio y al asirio extendimos la mano, para saciarnos de pan."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 422,
+      "char_end": 493,
+      "text": "Nuestros padres pecaron, y han muerto; Y nosotros llevamos su castigo."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 493,
+      "char_end": 568,
+      "text": "Siervos se enseñorearon de nosotros; No hubo quien nos librase de su mano."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 568,
+      "char_end": 648,
+      "text": "Con peligro de nuestras vidas traíamos nuestro pan Ante la espada del desierto."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 648,
+      "char_end": 719,
+      "text": "Nuestra piel se ennegreció como un horno A causa del ardor del hambre."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 719,
+      "char_end": 791,
+      "text": "Violaron a las mujeres en Sion, A las vírgenes en las ciudades de Judá."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 791,
+      "char_end": 869,
+      "text": "A los príncipes colgaron de las manos; No respetaron el rostro de los viejos."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 869,
+      "char_end": 957,
+      "text": "Llevaron a los jóvenes a moler, Y los muchachos desfallecieron bajo el peso de la leña."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 957,
+      "char_end": 1033,
+      "text": "Los ancianos no se ven más en la puerta, Los jóvenes dejaron sus canciones."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1033,
+      "char_end": 1099,
+      "text": "Cesó el gozo de nuestro corazón; Nuestra danza se cambió en luto."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1099,
+      "char_end": 1172,
+      "text": "Cayó la corona de nuestra cabeza; ¡Ay ahora de nosotros! porque pecamos."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1172,
+      "char_end": 1258,
+      "text": "Por esto fue entristecido nuestro corazón, Por esto se entenebrecieron nuestros ojos,"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1258,
+      "char_end": 1318,
+      "text": "Por el monte de Sion que está asolado; Zorras andan por él."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1318,
+      "char_end": 1399,
+      "text": "Mas tú, Jehová, permanecerás para siempre; Tu trono de generación en generación."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1399,
+      "char_end": 1480,
+      "text": "¿Por qué te olvidas completamente de nosotros, Y nos abandonas tan largo tiempo?"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1480,
+      "char_end": 1567,
+      "text": "Vuélvenos, oh Jehová, a ti, y nos volveremos; Renueva nuestros días como al principio."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1567,
+      "char_end": 1639,
+      "text": "Porque nos has desechado; Te has airado contra nosotros en gran manera."
+    }
+  ],
+  "words": [
+    {
+      "word": "Acuérdate, oh Jehová, de lo que nos ha sucedido; Mira, y ve nuestro oprobio.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6025,
+      "duration_ms": 5925
+    },
+    {
+      "word": "Nuestra heredad ha pasado a extraños, Nuestras casas a forasteros.",
+      "verse": 2,
+      "start_ms": 5975,
+      "end_ms": 10675,
+      "duration_ms": 4700
+    },
+    {
+      "word": "Huérfanos somos sin padre; Nuestras madres son como viudas.",
+      "verse": 3,
+      "start_ms": 10675,
+      "end_ms": 15025,
+      "duration_ms": 4350
+    },
+    {
+      "word": "Nuestra agua bebemos por dinero; Compramos nuestra leña por precio.",
+      "verse": 4,
+      "start_ms": 15025,
+      "end_ms": 19600,
+      "duration_ms": 4575
+    },
+    {
+      "word": "Padecemos persecución sobre nosotros; Nos fatigamos, y no hay para nosotros reposo.",
+      "verse": 5,
+      "start_ms": 19600,
+      "end_ms": 25675,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Al egipcio y al asirio extendimos la mano, para saciarnos de pan.",
+      "verse": 6,
+      "start_ms": 25675,
+      "end_ms": 30225,
+      "duration_ms": 4550
+    },
+    {
+      "word": "Nuestros padres pecaron, y han muerto; Y nosotros llevamos su castigo.",
+      "verse": 7,
+      "start_ms": 30225,
+      "end_ms": 35187,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Siervos se enseñorearon de nosotros; No hubo quien nos librase de su mano.",
+      "verse": 8,
+      "start_ms": 35187,
+      "end_ms": 40187,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Con peligro de nuestras vidas traíamos nuestro pan Ante la espada del desierto.",
+      "verse": 9,
+      "start_ms": 40187,
+      "end_ms": 45124,
+      "duration_ms": 4937
+    },
+    {
+      "word": "Nuestra piel se ennegreció como un horno A causa del ardor del hambre.",
+      "verse": 10,
+      "start_ms": 45125,
+      "end_ms": 49525,
+      "duration_ms": 4400
+    },
+    {
+      "word": "Violaron a las mujeres en Sion, A las vírgenes en las ciudades de Judá.",
+      "verse": 11,
+      "start_ms": 49525,
+      "end_ms": 54212,
+      "duration_ms": 4687
+    },
+    {
+      "word": "A los príncipes colgaron de las manos; No respetaron el rostro de los viejos.",
+      "verse": 12,
+      "start_ms": 54212,
+      "end_ms": 59462,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Llevaron a los jóvenes a moler, Y los muchachos desfallecieron bajo el peso de la leña.",
+      "verse": 13,
+      "start_ms": 59462,
+      "end_ms": 64912,
+      "duration_ms": 5450
+    },
+    {
+      "word": "Los ancianos no se ven más en la puerta, Los jóvenes dejaron sus canciones.",
+      "verse": 14,
+      "start_ms": 64912,
+      "end_ms": 69937,
+      "duration_ms": 5025
+    },
+    {
+      "word": "Cesó el gozo de nuestro corazón; Nuestra danza se cambió en luto.",
+      "verse": 15,
+      "start_ms": 69937,
+      "end_ms": 74587,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Cayó la corona de nuestra cabeza; ¡Ay ahora de nosotros! porque pecamos.",
+      "verse": 16,
+      "start_ms": 74587,
+      "end_ms": 79962,
+      "duration_ms": 5375
+    },
+    {
+      "word": "Por esto fue entristecido nuestro corazón, Por esto se entenebrecieron nuestros ojos, Por el monte de Sion que está asolado; Zorras andan por él.",
+      "verse": 17,
+      "start_ms": 79962,
+      "end_ms": 88487,
+      "duration_ms": 8525
+    },
+    {
+      "word": "Mas tú, Jehová, permanecerás para siempre; Tu trono de generación en generación.",
+      "verse": 19,
+      "start_ms": 88487,
+      "end_ms": 94587,
+      "duration_ms": 6100
+    },
+    {
+      "word": "Por qué te olvidas completamente de nosotros, Y nos abandonas tan largo tiempo?",
+      "verse": 20,
+      "start_ms": 94587,
+      "end_ms": 99837,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Vuélvenos, oh Jehová, a ti, y nos volveremos; Renueva nuestros días como al principio.",
+      "verse": 21,
+      "start_ms": 99837,
+      "end_ms": 106212,
+      "duration_ms": 6375
+    },
+    {
+      "word": "Porque nos has desechado; Te has airado contra nosotros en gran manera.",
+      "verse": 22,
+      "start_ms": 106212,
+      "end_ms": 111062,
+      "duration_ms": 4850
+    }
+  ]
+}

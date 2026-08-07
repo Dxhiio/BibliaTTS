@@ -1,0 +1,502 @@
+{
+  "book": "1CR",
+  "chapter": 27,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 34,
+  "word_count": 36,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 267,
+      "text": "Éstos son los principales de los hijos de Israel, jefes de familias, jefes de millares y de centenas, y oficiales que servían al rey en todos los negocios de las divisiones que entraban y salían cada mes durante todo el año, siendo cada división de veinticuatro mil."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 267,
+      "char_end": 382,
+      "text": "Sobre la primera división del primer mes estaba Jasobeam hijo de Zabdiel; y había en su división veinticuatro mil."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 382,
+      "char_end": 473,
+      "text": "De los hijos de Fares, él fue jefe de todos los capitanes de las compañías del primer mes."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 473,
+      "char_end": 605,
+      "text": "Sobre la división del segundo mes estaba Dodai ahohíta; y Miclot era jefe en su división, en la que también había veinticuatro mil."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 605,
+      "char_end": 740,
+      "text": "El jefe de la tercera división para el tercer mes era Benaía, hijo del sumo sacerdote Joiada; y en su división había veinticuatro mil."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 740,
+      "char_end": 846,
+      "text": "Este Benaía era valiente entre los treinta y sobre los treinta; y en su división estaba Amisabad su hijo."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 846,
+      "char_end": 982,
+      "text": "El cuarto jefe para el cuarto mes era Asael hermano de Joab, y después de él Zebadías su hijo; y en su división había veinticuatro mil."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 982,
+      "char_end": 1077,
+      "text": "El quinto jefe para el quinto mes era Samhut izraíta; y en su división había veinticuatro mil."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1077,
+      "char_end": 1172,
+      "text": "El sexto para el sexto mes era Ira hijo de Iques, de Tecoa; y en su división veinticuatro mil."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1172,
+      "char_end": 1282,
+      "text": "El séptimo para el séptimo mes era Heles pelonita, de los hijos de Efraín; y en su división veinticuatro mil."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1282,
+      "char_end": 1385,
+      "text": "El octavo para el octavo mes era Sibecai husatita, de los zeraítas; y en su división veinticuatro mil."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1385,
+      "char_end": 1491,
+      "text": "El noveno para el noveno mes era Abiezer anatotita, de los benjamitas; y en su división veinticuatro mil."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1491,
+      "char_end": 1596,
+      "text": "El décimo para el décimo mes era Maharai netofatita, de los zeraítas; y en su división veinticuatro mil."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1596,
+      "char_end": 1711,
+      "text": "El undécimo para el undécimo mes era Benaía piratonita, de los hijos de Efraín; y en su división veinticuatro mil."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1711,
+      "char_end": 1816,
+      "text": "El duodécimo para el duodécimo mes era Heldai netofatita, de Otoniel; y en su división veinticuatro mil."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1816,
+      "char_end": 1949,
+      "text": "Asimismo sobre las tribus de Israel: el jefe de los rubenitas era Eliezer hijo de Zicri; de los simeonitas, Sefatías, hijo de Maaca."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1949,
+      "char_end": 2014,
+      "text": "De los levitas, Hasabías hijo de Kemuel; de los de Aarón, Sadoc."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2014,
+      "char_end": 2098,
+      "text": "De Judá, Eliú, uno de los hermanos de David; de los de Isacar, Omri hijo de Micael."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2098,
+      "char_end": 2184,
+      "text": "De los de Zabulón, Ismaías hijo de Abdías; de los de Neftalí, Jerimot hijo de Azriel."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2184,
+      "char_end": 2283,
+      "text": "De los hijos de Efraín, Oseas hijo de Azazías; de la media tribu de Manasés, Joel hijo de Pedaías."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2283,
+      "char_end": 2395,
+      "text": "De la otra media tribu de Manasés, en Galaad, Iddo hijo de Zacarías; de los de Benjamín, Jaasiel hijo de Abner."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2395,
+      "char_end": 2478,
+      "text": "Y de Dan, Azareel hijo de Jeroham. éstos fueron los jefes de las tribus de Israel."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2478,
+      "char_end": 2632,
+      "text": "Y no tomó David el número de los que eran de veinte años abajo, por cuanto Jehová había dicho que él multiplicaría a Israel como las estrellas del cielo."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2632,
+      "char_end": 2813,
+      "text": "Joab hijo de Sarvia había comenzado a contar; pero no acabó, pues por esto vino el castigo sobre Israel, y así el número no fue puesto en el registro de las crónicas del rey David."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2813,
+      "char_end": 2972,
+      "text": "Azmavet hijo de Adiel tenía a su cargo los tesoros del rey; y Jonatán hijo de Uzías los tesoros de los campos, de las ciudades, de las aldeas y de las torres."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2972,
+      "char_end": 3048,
+      "text": "Y de los que trabajaban en la labranza de las tierras, Ezri hijo de Quelub."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3048,
+      "char_end": 3136,
+      "text": "De las viñas, Simei ramatita; y del fruto de las viñas para las bodegas, Zabdi sifmita."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3136,
+      "char_end": 3237,
+      "text": "De los olivares e higuerales de la Sefela, Baal-hanán gederita; y de los almacenes del aceite, Joás."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3237,
+      "char_end": 3347,
+      "text": "Del ganado que pastaba en Sarón, Sitrai saronita; y del ganado que estaba en los valles, Safat hijo de Adlai."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3347,
+      "char_end": 3415,
+      "text": "De los camellos, Obil ismaelita; de las asnas, Jehedías meronotita;"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3415,
+      "char_end": 3510,
+      "text": "y de las ovejas, Jaziz agareno. Todos estos eran administradores de la hacienda del rey David."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3510,
+      "char_end": 3629,
+      "text": "Y Jonatán tío de David era consejero, varón prudente y escriba; y Jehiel hijo de Hacmoni estaba con los hijos del rey."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3629,
+      "char_end": 3700,
+      "text": "También Ahitofel era consejero del rey, y Husai arquita amigo del rey."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3700,
+      "char_end": 3805,
+      "text": "Después de Ahitofel estaba Joiada hijo de Benaía, y Abiatar. Y Joab era el general del ejército del rey."
+    }
+  ],
+  "words": [
+    {
+      "word": "Éstos son los principales de los hijos de Israel, jefes de familias, jefes de millares y de centenas, y oficiales que servían al rey en todos los negocios de las divisiones que entraban y salían cada mes durante todo el año, siendo cada división de veinticuatro mil.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 15125,
+      "duration_ms": 15025
+    },
+    {
+      "word": "Sobre la primera división del primer mes estaba Jasobeam hijo de Zabdiel; y había en su división veinticuatro mil.",
+      "verse": 2,
+      "start_ms": 15125,
+      "end_ms": 21962,
+      "duration_ms": 6837
+    },
+    {
+      "word": "De los hijos de Fares, él fue jefe de todos los capitanes de las compañías del primer mes.",
+      "verse": 3,
+      "start_ms": 21962,
+      "end_ms": 27949,
+      "duration_ms": 5987
+    },
+    {
+      "word": "Sobre la división del segundo mes estaba Dodai ahohíta; y Miclot era jefe en su división, en la que también había veinticuatro mil.",
+      "verse": 4,
+      "start_ms": 27950,
+      "end_ms": 35900,
+      "duration_ms": 7950
+    },
+    {
+      "word": "El jefe de la tercera división para el tercer mes era Benaía, hijo del sumo sacerdote Joiada; y en su división había veinticuatro mil.",
+      "verse": 5,
+      "start_ms": 35900,
+      "end_ms": 44100,
+      "duration_ms": 8200
+    },
+    {
+      "word": "Este Benaía era valiente entre los treinta y sobre los treinta; y en su división estaba Amisabad su hijo.",
+      "verse": 6,
+      "start_ms": 44100,
+      "end_ms": 50637,
+      "duration_ms": 6537
+    },
+    {
+      "word": "El cuarto jefe para el cuarto mes era Asael hermano de Joab, y después de él Zebadías su hijo; y en su división había veinticuatro mil.",
+      "verse": 7,
+      "start_ms": 50637,
+      "end_ms": 58799,
+      "duration_ms": 8162
+    },
+    {
+      "word": "El quinto jefe para el quinto mes era Samhut izraíta; y en su división había veinticuatro mil.",
+      "verse": 8,
+      "start_ms": 58800,
+      "end_ms": 64775,
+      "duration_ms": 5975
+    },
+    {
+      "word": "El sexto para el sexto mes era Ira hijo de Iques, de Tecoa; y en su división veinticuatro mil.",
+      "verse": 9,
+      "start_ms": 64775,
+      "end_ms": 71325,
+      "duration_ms": 6550
+    },
+    {
+      "word": "El séptimo para el séptimo mes era Heles pelonita, de los hijos de Efraín; y en su división veinticuatro mil.",
+      "verse": 10,
+      "start_ms": 71325,
+      "end_ms": 78312,
+      "duration_ms": 6987
+    },
+    {
+      "word": "El octavo para el octavo mes era Sibecai husatita, de los zeraítas; y en su división veinticuatro mil.",
+      "verse": 11,
+      "start_ms": 78312,
+      "end_ms": 84962,
+      "duration_ms": 6650
+    },
+    {
+      "word": "El noveno para el noveno mes era Abiezer anatotita, de los benjamitas; y en su división veinticuatro mil.",
+      "verse": 12,
+      "start_ms": 84962,
+      "end_ms": 91787,
+      "duration_ms": 6825
+    },
+    {
+      "word": "El décimo para el décimo mes era Maharai netofatita, de los zeraítas; y en su división veinticuatro mil.",
+      "verse": 13,
+      "start_ms": 91787,
+      "end_ms": 98524,
+      "duration_ms": 6737
+    },
+    {
+      "word": "El undécimo para el undécimo mes era Benaía piratonita, de los hijos de Efraín; y en su división veinticuatro mil.",
+      "verse": 14,
+      "start_ms": 98525,
+      "end_ms": 105875,
+      "duration_ms": 7350
+    },
+    {
+      "word": "El duodécimo para el duodécimo mes era Heldai netofatita, de Otoniel; y en su división veinticuatro mil.",
+      "verse": 15,
+      "start_ms": 105875,
+      "end_ms": 112475,
+      "duration_ms": 6600
+    },
+    {
+      "word": "Asimismo sobre las tribus de Israel: el jefe de los rubenitas era Eliezer hijo de Zicri; de los simeonitas, Sefatías, hijo de Maaca.",
+      "verse": 16,
+      "start_ms": 112475,
+      "end_ms": 121500,
+      "duration_ms": 9025
+    },
+    {
+      "word": "De los levitas, Hasabías hijo de Kemuel; de los de Aarón, Sadoc.",
+      "verse": 17,
+      "start_ms": 121500,
+      "end_ms": 126600,
+      "duration_ms": 5100
+    },
+    {
+      "word": "De Judá, Eliú, uno de los hermanos de David; de los de Isacar, Omri hijo de Micael.",
+      "verse": 18,
+      "start_ms": 126600,
+      "end_ms": 132837,
+      "duration_ms": 6237
+    },
+    {
+      "word": "De los de Zabulón, Ismaías hijo de Abdías; de los de Neftalí, Jerimot hijo de Azriel.",
+      "verse": 19,
+      "start_ms": 132837,
+      "end_ms": 139162,
+      "duration_ms": 6325
+    },
+    {
+      "word": "De los hijos de Efraín, Oseas hijo de Azazías; de la media tribu de Manasés, Joel hijo de Pedaías.",
+      "verse": 20,
+      "start_ms": 139162,
+      "end_ms": 146512,
+      "duration_ms": 7350
+    },
+    {
+      "word": "De la otra media tribu de Manasés, en Galaad, Iddo hijo de Zacarías; de los de Benjamín, Jaasiel hijo de Abner.",
+      "verse": 21,
+      "start_ms": 146512,
+      "end_ms": 154474,
+      "duration_ms": 7962
+    },
+    {
+      "word": "Y de Dan, Azareel hijo de Jeroham.",
+      "verse": 22,
+      "start_ms": 154475,
+      "end_ms": 157737,
+      "duration_ms": 3262
+    },
+    {
+      "word": "éstos fueron los jefes de las tribus de Israel.",
+      "verse": 22,
+      "start_ms": 157737,
+      "end_ms": 160974,
+      "duration_ms": 3237
+    },
+    {
+      "word": "Y no tomó David el número de los que eran de veinte años abajo, por cuanto Jehová había dicho que él multiplicaría a Israel como las estrellas del cielo.",
+      "verse": 23,
+      "start_ms": 160975,
+      "end_ms": 169600,
+      "duration_ms": 8625
+    },
+    {
+      "word": "Joab hijo de Sarvia había comenzado a contar; pero no acabó, pues por esto vino el castigo sobre Israel, y así el número no fue puesto en el registro de las crónicas del rey David.",
+      "verse": 24,
+      "start_ms": 169600,
+      "end_ms": 180425,
+      "duration_ms": 10825
+    },
+    {
+      "word": "Azmavet hijo de Adiel tenía a su cargo los tesoros del rey; y Jonatán hijo de Uzías los tesoros de los campos, de las ciudades, de las aldeas y de las torres.",
+      "verse": 25,
+      "start_ms": 180425,
+      "end_ms": 190350,
+      "duration_ms": 9925
+    },
+    {
+      "word": "Y de los que trabajaban en la labranza de las tierras, Ezri hijo de Quelub.",
+      "verse": 26,
+      "start_ms": 190350,
+      "end_ms": 195125,
+      "duration_ms": 4775
+    },
+    {
+      "word": "De las viñas, Simei ramatita; y del fruto de las viñas para las bodegas, Zabdi sifmita.",
+      "verse": 27,
+      "start_ms": 195125,
+      "end_ms": 201600,
+      "duration_ms": 6475
+    },
+    {
+      "word": "De los olivares e higuerales de la Sefela, Baal-hanán gederita; y de los almacenes del aceite, Joás.",
+      "verse": 28,
+      "start_ms": 201600,
+      "end_ms": 208487,
+      "duration_ms": 6887
+    },
+    {
+      "word": "Del ganado que pastaba en Sarón, Sitrai saronita; y del ganado que estaba en los valles, Safat hijo de Adlai.",
+      "verse": 29,
+      "start_ms": 208487,
+      "end_ms": 215574,
+      "duration_ms": 7087
+    },
+    {
+      "word": "De los camellos, Obil ismaelita; de las asnas, Jehedías meronotita; y de las ovejas, Jaziz agareno.",
+      "verse": 30,
+      "start_ms": 215575,
+      "end_ms": 223175,
+      "duration_ms": 7600
+    },
+    {
+      "word": "Todos estos eran administradores de la hacienda del rey David.",
+      "verse": 31,
+      "start_ms": 223175,
+      "end_ms": 227250,
+      "duration_ms": 4075
+    },
+    {
+      "word": "Y Jonatán tío de David era consejero, varón prudente y escriba; y Jehiel hijo de Hacmoni estaba con los hijos del rey.",
+      "verse": 32,
+      "start_ms": 227250,
+      "end_ms": 234800,
+      "duration_ms": 7550
+    },
+    {
+      "word": "También Ahitofel era consejero del rey, y Husai arquita amigo del rey.",
+      "verse": 33,
+      "start_ms": 234800,
+      "end_ms": 239725,
+      "duration_ms": 4925
+    },
+    {
+      "word": "Después de Ahitofel estaba Joiada hijo de Benaía, y Abiatar.",
+      "verse": 34,
+      "start_ms": 239725,
+      "end_ms": 244212,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Y Joab era el general del ejército del rey.",
+      "verse": 34,
+      "start_ms": 244212,
+      "end_ms": 247437,
+      "duration_ms": 3225
+    }
+  ]
+}

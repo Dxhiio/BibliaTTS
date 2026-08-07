@@ -1,0 +1,404 @@
+{
+  "book": "ISA",
+  "chapter": 49,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 26,
+  "word_count": 30,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 136,
+      "text": "Oídme, costas, y escuchad, pueblos lejanos. Jehová me llamó desde el vientre, desde las entrañas de mi madre tuvo mi nombre en memoria."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 136,
+      "char_end": 259,
+      "text": "Y puso mi boca como espada aguda, me cubrió con la sombra de su mano; y me puso por saeta bruñida, me guardó en su aljaba;"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 259,
+      "char_end": 323,
+      "text": "y me dijo: Mi siervo eres, oh Israel, porque en ti me gloriaré."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 323,
+      "char_end": 477,
+      "text": "Pero yo dije: Por demás he trabajado, en vano y sin provecho he consumido mis fuerzas; pero mi causa está delante de Jehová, y mi recompensa con mi Dios."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 477,
+      "char_end": 690,
+      "text": "Ahora pues, dice Jehová, el que me formó desde el vientre para ser su siervo, para hacer volver a él a Jacob y para congregarle a Israel (porque estimado seré en los ojos de Jehová, y el Dios mío será mi fuerza);"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 690,
+      "char_end": 912,
+      "text": "dice: Poco es para mí que tú seas mi siervo para levantar las tribus de Jacob, y para que restaures el remanente de Israel; también te di por luz de las naciones, para que seas mi salvación hasta lo postrero de la tierra."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 912,
+      "char_end": 1198,
+      "text": "Así ha dicho Jehová, Redentor de Israel, el Santo suyo, al menospreciado de alma, al abominado de las naciones, al siervo de los tiranos: Verán reyes, y se levantarán príncipes, y adorarán por Jehová; porque fiel es el Santo de Israel, el cual te escogió. Dios promete restaurar a Sion"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1198,
+      "char_end": 1390,
+      "text": "Así dijo Jehová: En tiempo aceptable te oí, y en el día de salvación te ayudé; y te guardaré, y te daré por pacto al pueblo, para que restaures la tierra, para que heredes asoladas heredades;"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1390,
+      "char_end": 1545,
+      "text": "para que digas a los presos: Salid; y a los que están en tinieblas: Mostraos. En los caminos serán apacentados, y en todas las alturas tendrán sus pastos."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1545,
+      "char_end": 1701,
+      "text": "No tendrán hambre ni sed, ni el calor ni el sol los afligirá; porque el que tiene de ellos misericordia los guiará, y los conducirá a manantiales de aguas."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1701,
+      "char_end": 1775,
+      "text": "Y convertiré en camino todos mis montes, y mis calzadas serán levantadas."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1775,
+      "char_end": 1881,
+      "text": "He aquí éstos vendrán de lejos; y he aquí éstos del norte y del occidente, y éstos de la tierra de Sinim."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1881,
+      "char_end": 2045,
+      "text": "Cantad alabanzas, oh cielos, y alégrate, tierra; y prorrumpid en alabanzas, oh montes; porque Jehová ha consolado a su pueblo, y de sus pobres tendrá misericordia."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 2045,
+      "char_end": 2105,
+      "text": "Pero Sion dijo: Me dejó Jehová, y el Señor se olvidó de mí."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2105,
+      "char_end": 2247,
+      "text": "¿Se olvidará la mujer de lo que dio a luz, para dejar de compadecerse del hijo de su vientre? Aunque olvide ella, yo nunca me olvidaré de ti."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2247,
+      "char_end": 2345,
+      "text": "He aquí que en las palmas de las manos te tengo esculpida; delante de mí están siempre tus muros."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2345,
+      "char_end": 2427,
+      "text": "Tus edificadores vendrán aprisa; tus destruidores y tus asoladores saldrán de ti."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2427,
+      "char_end": 2620,
+      "text": "Alza tus ojos alrededor, y mira: todos estos se han reunido, han venido a ti. Vivo yo, dice Jehová, que de todos, como de vestidura de honra, serás vestida; y de ellos serás ceñida como novia."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2620,
+      "char_end": 2766,
+      "text": "Porque tu tierra devastada, arruinada y desierta, ahora será estrecha por la multitud de los moradores, y tus destruidores serán apartados lejos."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2766,
+      "char_end": 2874,
+      "text": "Aun los hijos de tu orfandad dirán a tus oídos: Estrecho es para mí este lugar; apártate, para que yo more."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2874,
+      "char_end": 3083,
+      "text": "Y dirás en tu corazón: ¿Quién me engendró éstos? Porque yo había sido privada de hijos y estaba sola, peregrina y desterrada; ¿quién, pues, crió éstos? He aquí yo había sido dejada sola; ¿dónde estaban éstos?"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3083,
+      "char_end": 3262,
+      "text": "Así dijo Jehová el Señor: He aquí, yo tenderé mi mano a las naciones, y a los pueblos levantaré mi bandera; y traerán en brazos a tus hijos, y tus hijas serán traídas en hombros."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3262,
+      "char_end": 3466,
+      "text": "Reyes serán tus ayos, y sus reinas tus nodrizas; con el rostro inclinado a tierra te adorarán, y lamerán el polvo de tus pies; y conocerás que yo soy Jehová, que no se avergonzarán los que esperan en mí."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3466,
+      "char_end": 3543,
+      "text": "¿Será quitado el botín al valiente? ¿Será rescatado el cautivo de un tirano?"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3543,
+      "char_end": 3710,
+      "text": "Pero así dice Jehová: Ciertamente el cautivo será rescatado del valiente, y el botín será arrebatado al tirano; y tu pleito yo lo defenderé, y yo salvaré a tus hijos."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3710,
+      "char_end": 3908,
+      "text": "Y a los que te despojaron haré comer sus propias carnes, y con su sangre serán embriagados como con vino; y conocerá todo hombre que yo Jehová soy Salvador tuyo y Redentor tuyo, el Fuerte de Jacob."
+    }
+  ],
+  "words": [
+    {
+      "word": "Oídme, costas, y escuchad, pueblos lejanos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4462,
+      "duration_ms": 4362
+    },
+    {
+      "word": "Jehová me llamó desde el vientre, desde las entrañas de mi madre tuvo mi nombre en memoria.",
+      "verse": 1,
+      "start_ms": 4412,
+      "end_ms": 9987,
+      "duration_ms": 5575
+    },
+    {
+      "word": "Y puso mi boca como espada aguda, me cubrió con la sombra de su mano; y me puso por saeta bruñida, me guardó en su aljaba; y me dijo: Mi siervo eres, oh Israel, porque en ti me gloriaré.",
+      "verse": 2,
+      "start_ms": 9987,
+      "end_ms": 22149,
+      "duration_ms": 12162
+    },
+    {
+      "word": "Pero yo dije: Por demás he trabajado, en vano y sin provecho he consumido mis fuerzas; pero mi causa está delante de Jehová, y mi recompensa con mi Dios.",
+      "verse": 4,
+      "start_ms": 22150,
+      "end_ms": 32137,
+      "duration_ms": 9987
+    },
+    {
+      "word": "Ahora pues, dice Jehová, el que me formó desde el vientre para ser su siervo, para hacer volver a él a Jacob y para congregarle a Israel (porque estimado seré en los ojos de Jehová, y el Dios mío será mi fuerza); dice: Poco es para mí que tú seas mi siervo para levantar las tribus de Jacob, y para que restaures el remanente de Israel; también te di por luz de las naciones, para que seas mi salvación hasta lo postrero de la tierra.",
+      "verse": 5,
+      "start_ms": 32137,
+      "end_ms": 56737,
+      "duration_ms": 24600
+    },
+    {
+      "word": "Así ha dicho Jehová, Redentor de Israel, el Santo suyo, al menospreciado de alma, al abominado de las naciones, al siervo de los tiranos: Verán reyes, y se levantarán príncipes, y adorarán por Jehová; porque fiel es el Santo de Israel, el cual te escogió.",
+      "verse": 7,
+      "start_ms": 56737,
+      "end_ms": 73487,
+      "duration_ms": 16750
+    },
+    {
+      "word": "Dios promete restaurar a Sion Así dijo Jehová: En tiempo aceptable te oí, y en el día de salvación te ayudé; y te guardaré, y te daré por pacto al pueblo, para que restaures la tierra, para que heredes asoladas heredades; para que digas a los presos: Salid; y a los que están en tinieblas: Mostraos.",
+      "verse": 7,
+      "start_ms": 73487,
+      "end_ms": 92474,
+      "duration_ms": 18987
+    },
+    {
+      "word": "En los caminos serán apacentados, y en todas las alturas tendrán sus pastos.",
+      "verse": 9,
+      "start_ms": 92475,
+      "end_ms": 97712,
+      "duration_ms": 5237
+    },
+    {
+      "word": "No tendrán hambre ni sed, ni el calor ni el sol los afligirá; porque el que tiene de ellos misericordia los guiará, y los conducirá a manantiales de aguas.",
+      "verse": 10,
+      "start_ms": 97712,
+      "end_ms": 106999,
+      "duration_ms": 9287
+    },
+    {
+      "word": "Y convertiré en camino todos mis montes, y mis calzadas serán levantadas.",
+      "verse": 11,
+      "start_ms": 107000,
+      "end_ms": 112350,
+      "duration_ms": 5350
+    },
+    {
+      "word": "He aquí éstos vendrán de lejos; y he aquí éstos del norte y del occidente, y éstos de la tierra de Sinim.",
+      "verse": 12,
+      "start_ms": 112350,
+      "end_ms": 119225,
+      "duration_ms": 6875
+    },
+    {
+      "word": "Cantad alabanzas, oh cielos, y alégrate, tierra; y prorrumpid en alabanzas, oh montes; porque Jehová ha consolado a su pueblo, y de sus pobres tendrá misericordia.",
+      "verse": 13,
+      "start_ms": 119225,
+      "end_ms": 130450,
+      "duration_ms": 11225
+    },
+    {
+      "word": "Pero Sion dijo: Me dejó Jehová, y el Señor se olvidó de mí.",
+      "verse": 14,
+      "start_ms": 130450,
+      "end_ms": 135050,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Se olvidará la mujer de lo que dio a luz, para dejar de compadecerse del hijo de su vientre?",
+      "verse": 15,
+      "start_ms": 135050,
+      "end_ms": 140812,
+      "duration_ms": 5762
+    },
+    {
+      "word": "Aunque olvide ella, yo nunca me olvidaré de ti.",
+      "verse": 15,
+      "start_ms": 140812,
+      "end_ms": 144487,
+      "duration_ms": 3675
+    },
+    {
+      "word": "He aquí que en las palmas de las manos te tengo esculpida; delante de mí están siempre tus muros.",
+      "verse": 16,
+      "start_ms": 144487,
+      "end_ms": 150524,
+      "duration_ms": 6037
+    },
+    {
+      "word": "Tus edificadores vendrán aprisa; tus destruidores y tus asoladores saldrán de ti.",
+      "verse": 17,
+      "start_ms": 150525,
+      "end_ms": 156187,
+      "duration_ms": 5662
+    },
+    {
+      "word": "Alza tus ojos alrededor, y mira: todos estos se han reunido, han venido a ti.",
+      "verse": 18,
+      "start_ms": 156187,
+      "end_ms": 162049,
+      "duration_ms": 5862
+    },
+    {
+      "word": "Vivo yo, dice Jehová, que de todos, como de vestidura de honra, serás vestida; y de ellos serás ceñida como novia.",
+      "verse": 18,
+      "start_ms": 162050,
+      "end_ms": 170687,
+      "duration_ms": 8637
+    },
+    {
+      "word": "Porque tu tierra devastada, arruinada y desierta, ahora será estrecha por la multitud de los moradores, y tus destruidores serán apartados lejos.",
+      "verse": 19,
+      "start_ms": 170687,
+      "end_ms": 179999,
+      "duration_ms": 9312
+    },
+    {
+      "word": "Aun los hijos de tu orfandad dirán a tus oídos: Estrecho es para mí este lugar; apártate, para que yo more.",
+      "verse": 20,
+      "start_ms": 180000,
+      "end_ms": 187437,
+      "duration_ms": 7437
+    },
+    {
+      "word": "Y dirás en tu corazón: ¿Quién me engendró éstos?",
+      "verse": 21,
+      "start_ms": 187437,
+      "end_ms": 191212,
+      "duration_ms": 3775
+    },
+    {
+      "word": "Porque yo había sido privada de hijos y estaba sola, peregrina y desterrada; ¿quién, pues, crió éstos?",
+      "verse": 21,
+      "start_ms": 191212,
+      "end_ms": 198799,
+      "duration_ms": 7587
+    },
+    {
+      "word": "He aquí yo había sido dejada sola; ¿dónde estaban éstos?",
+      "verse": 21,
+      "start_ms": 198800,
+      "end_ms": 203125,
+      "duration_ms": 4325
+    },
+    {
+      "word": "Así dijo Jehová el Señor: He aquí, yo tenderé mi mano a las naciones, y a los pueblos levantaré mi bandera; y traerán en brazos a tus hijos, y tus hijas serán traídas en hombros.",
+      "verse": 22,
+      "start_ms": 203125,
+      "end_ms": 214637,
+      "duration_ms": 11512
+    },
+    {
+      "word": "Reyes serán tus ayos, y sus reinas tus nodrizas; con el rostro inclinado a tierra te adorarán, y lamerán el polvo de tus pies; y conocerás que yo soy Jehová, que no se avergonzarán los que esperan en mí.",
+      "verse": 23,
+      "start_ms": 214637,
+      "end_ms": 227262,
+      "duration_ms": 12625
+    },
+    {
+      "word": "Será quitado el botín al valiente?",
+      "verse": 24,
+      "start_ms": 227262,
+      "end_ms": 230037,
+      "duration_ms": 2775
+    },
+    {
+      "word": "Será rescatado el cautivo de un tirano?",
+      "verse": 24,
+      "start_ms": 230037,
+      "end_ms": 233149,
+      "duration_ms": 3112
+    },
+    {
+      "word": "Pero así dice Jehová: Ciertamente el cautivo será rescatado del valiente, y el botín será arrebatado al tirano; y tu pleito yo lo defenderé, y yo salvaré a tus hijos.",
+      "verse": 25,
+      "start_ms": 233150,
+      "end_ms": 244225,
+      "duration_ms": 11075
+    },
+    {
+      "word": "Y a los que te despojaron haré comer sus propias carnes, y con su sangre serán embriagados como con vino; y conocerá todo hombre que yo Jehová soy Salvador tuyo y Redentor tuyo, el Fuerte de Jacob.",
+      "verse": 26,
+      "start_ms": 244225,
+      "end_ms": 256075,
+      "duration_ms": 11850
+    }
+  ]
+}

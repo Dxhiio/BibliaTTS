@@ -1,0 +1,180 @@
+{
+  "book": "ISA",
+  "chapter": 25,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 12,
+  "word_count": 12,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 130,
+      "text": "Jehová, tú eres mi Dios; te exaltaré, alabaré tu nombre, porque has hecho maravillas; tus consejos antiguos son verdad y firmeza."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 130,
+      "char_end": 285,
+      "text": "Porque convertiste la ciudad en montón, la ciudad fortificada en ruina; el alcázar de los extraños para que no sea ciudad, ni nunca jamás sea reedificado."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 285,
+      "char_end": 367,
+      "text": "Por esto te dará gloria el pueblo fuerte, te temerá la ciudad de gentes robustas."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 367,
+      "char_end": 560,
+      "text": "Porque fuiste fortaleza al pobre, fortaleza al menesteroso en su aflicción, refugio contra el turbión, sombra contra el calor; porque el ímpetu de los violentos es como turbión contra el muro."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 560,
+      "char_end": 704,
+      "text": "Como el calor en lugar seco, así humillarás el orgullo de los extraños; y como calor debajo de nube harás marchitar el renuevo de los robustos."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 704,
+      "char_end": 875,
+      "text": "Y Jehová de los ejércitos hará en este monte a todos los pueblos banquete de manjares suculentos, banquete de vinos refinados, de gruesos tuétanos y de vinos purificados."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 875,
+      "char_end": 1001,
+      "text": "Y destruirá en este monte la cubierta con que están cubiertos todos los pueblos, y el velo que envuelve a todas las naciones."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1001,
+      "char_end": 1179,
+      "text": "Destruirá a la muerte para siempre; y enjugará Jehová el Señor toda lágrima de todos los rostros; y quitará la afrenta de su pueblo de toda la tierra; porque Jehová lo ha dicho."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1179,
+      "char_end": 1356,
+      "text": "Y se dirá en aquel día: He aquí, éste es nuestro Dios, le hemos esperado, y nos salvará; éste es Jehová a quien hemos esperado, nos gozaremos y nos alegraremos en su salvación."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1356,
+      "char_end": 1486,
+      "text": "Porque la mano de Jehová reposará en este monte; pero Moab será hollado en su mismo sitio, como es hollada la paja en el muladar."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1486,
+      "char_end": 1616,
+      "text": "Y extenderá su mano por en medio de él, como la extiende el nadador para nadar; y abatirá su soberbia y la destreza de sus manos."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1616,
+      "char_end": 1710,
+      "text": "Y abatirá la fortaleza de tus altos muros; la humillará y la echará a tierra, hasta el polvo."
+    }
+  ],
+  "words": [
+    {
+      "word": "Jehová, tú eres mi Dios; te exaltaré, alabaré tu nombre, porque has hecho maravillas; tus consejos antiguos son verdad y firmeza.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 9062,
+      "duration_ms": 8962
+    },
+    {
+      "word": "Porque convertiste la ciudad en montón, la ciudad fortificada en ruina; el alcázar de los extraños para que no sea ciudad, ni nunca jamás sea reedificado.",
+      "verse": 2,
+      "start_ms": 9012,
+      "end_ms": 18512,
+      "duration_ms": 9500
+    },
+    {
+      "word": "Por esto te dará gloria el pueblo fuerte, te temerá la ciudad de gentes robustas.",
+      "verse": 3,
+      "start_ms": 18512,
+      "end_ms": 23887,
+      "duration_ms": 5375
+    },
+    {
+      "word": "Porque fuiste fortaleza al pobre, fortaleza al menesteroso en su aflicción, refugio contra el turbión, sombra contra el calor; porque el ímpetu de los violentos es como turbión contra el muro.",
+      "verse": 4,
+      "start_ms": 23887,
+      "end_ms": 35149,
+      "duration_ms": 11262
+    },
+    {
+      "word": "Como el calor en lugar seco, así humillarás el orgullo de los extraños; y como calor debajo de nube harás marchitar el renuevo de los robustos.",
+      "verse": 5,
+      "start_ms": 35150,
+      "end_ms": 43787,
+      "duration_ms": 8637
+    },
+    {
+      "word": "Y Jehová de los ejércitos hará en este monte a todos los pueblos banquete de manjares suculentos, banquete de vinos refinados, de gruesos tuétanos y de vinos purificados.",
+      "verse": 6,
+      "start_ms": 43787,
+      "end_ms": 54024,
+      "duration_ms": 10237
+    },
+    {
+      "word": "Y destruirá en este monte la cubierta con que están cubiertos todos los pueblos, y el velo que envuelve a todas las naciones.",
+      "verse": 7,
+      "start_ms": 54025,
+      "end_ms": 61412,
+      "duration_ms": 7387
+    },
+    {
+      "word": "Destruirá a la muerte para siempre; y enjugará Jehová el Señor toda lágrima de todos los rostros; y quitará la afrenta de su pueblo de toda la tierra; porque Jehová lo ha dicho.",
+      "verse": 8,
+      "start_ms": 61412,
+      "end_ms": 72074,
+      "duration_ms": 10662
+    },
+    {
+      "word": "Y se dirá en aquel día: He aquí, éste es nuestro Dios, le hemos esperado, y nos salvará; éste es Jehová a quien hemos esperado, nos gozaremos y nos alegraremos en su salvación.",
+      "verse": 9,
+      "start_ms": 72075,
+      "end_ms": 83687,
+      "duration_ms": 11612
+    },
+    {
+      "word": "Porque la mano de Jehová reposará en este monte; pero Moab será hollado en su mismo sitio, como es hollada la paja en el muladar.",
+      "verse": 10,
+      "start_ms": 83687,
+      "end_ms": 91662,
+      "duration_ms": 7975
+    },
+    {
+      "word": "Y extenderá su mano por en medio de él, como la extiende el nadador para nadar; y abatirá su soberbia y la destreza de sus manos.",
+      "verse": 11,
+      "start_ms": 91662,
+      "end_ms": 99912,
+      "duration_ms": 8250
+    },
+    {
+      "word": "Y abatirá la fortaleza de tus altos muros; la humillará y la echará a tierra, hasta el polvo.",
+      "verse": 12,
+      "start_ms": 99912,
+      "end_ms": 106249,
+      "duration_ms": 6337
+    }
+  ]
+}

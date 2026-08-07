@@ -1,0 +1,761 @@
+{
+  "book": "MAR",
+  "chapter": 11,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 52,
+  "word_count": 55,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 147,
+      "text": "Levantándose de allí, vino a la región de Judea y al otro lado del Jordán; y volvió el pueblo a juntarse a él, y de nuevo les enseñaba como solía."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 147,
+      "char_end": 253,
+      "text": "Y se acercaron los fariseos y le preguntaron, para tentarle, si era lícito al marido repudiar a su mujer."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 253,
+      "char_end": 303,
+      "text": "Él, respondiendo, les dijo: ¿Qué os mandó Moisés?"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 303,
+      "char_end": 371,
+      "text": "Ellos dijeron: Moisés permitió dar carta de divorcio, y repudiarla."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 371,
+      "char_end": 466,
+      "text": "Y respondiendo Jesús, les dijo: Por la dureza de vuestro corazón os escribió este mandamiento;"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 466,
+      "char_end": 530,
+      "text": "pero al principio de la creación, varón y hembra los hizo Dios."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 530,
+      "char_end": 604,
+      "text": "Por esto dejará el hombre a su padre y a su madre, y se unirá a su mujer,"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 604,
+      "char_end": 673,
+      "text": "y los dos serán una sola carne; así que no son ya más dos, sino uno."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 673,
+      "char_end": 727,
+      "text": "Por tanto, lo que Dios juntó, no lo separe el hombre."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 727,
+      "char_end": 787,
+      "text": "En casa volvieron los discípulos a preguntarle de lo mismo,"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 787,
+      "char_end": 883,
+      "text": "y les dijo: Cualquiera que repudia a su mujer y se casa con otra, comete adulterio contra ella;"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 883,
+      "char_end": 1008,
+      "text": "y si la mujer repudia a su marido y se casa con otro, comete adulterio. Jesús bendice a los niños (Mt 19.13–15; Lc 18.15–17)"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1008,
+      "char_end": 1107,
+      "text": "Y le presentaban niños para que los tocase; y los discípulos reprendían a los que los presentaban."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1107,
+      "char_end": 1239,
+      "text": "Viéndolo Jesús, se indignó, y les dijo: Dejad a los niños venir a mí, y no se lo impidáis; porque de los tales es el reino de Dios."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1239,
+      "char_end": 1328,
+      "text": "De cierto os digo, que el que no reciba el reino de Dios como un niño, no entrará en él."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1328,
+      "char_end": 1443,
+      "text": "Y tomándolos en los brazos, poniendo las manos sobre ellos, los bendecía. El joven rico (Mt 19.16–30; Lc 18.18–30)"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1443,
+      "char_end": 1602,
+      "text": "Al salir él para seguir su camino, vino uno corriendo, e hincando la rodilla delante de él, le preguntó: Maestro bueno, ¿qué haré para heredar la vida eterna?"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1602,
+      "char_end": 1683,
+      "text": "Jesús le dijo: ¿Por qué me llamas bueno? Ninguno hay bueno, sino sólo uno, Dios."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1683,
+      "char_end": 1814,
+      "text": "Los mandamientos sabes: No adulteres. No mates. No hurtes. No digas falso testimonio. No defraudes. Honra a tu padre y a tu madre."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1814,
+      "char_end": 1903,
+      "text": "Él entonces, respondiendo, le dijo: Maestro, todo esto lo he guardado desde mi juventud."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1903,
+      "char_end": 2084,
+      "text": "Entonces Jesús, mirándole, le amó, y le dijo: Una cosa te falta: anda, vende todo lo que tienes, y dalo a los pobres, y tendrás tesoro en el cielo; y ven, sígueme, tomando tu cruz."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2084,
+      "char_end": 2167,
+      "text": "Pero él, afligido por esta palabra, se fue triste, porque tenía muchas posesiones."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2167,
+      "char_end": 2298,
+      "text": "Entonces Jesús, mirando alrededor, dijo a sus discípulos: ¡Cuán difícilmente entrarán en el reino de Dios los que tienen riquezas!"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2298,
+      "char_end": 2480,
+      "text": "Los discípulos se asombraron de sus palabras; pero Jesús, respondiendo, volvió a decirles: Hijos, ¡cuán difícil les es entrar en el reino de Dios, a los que confían en las riquezas!"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2480,
+      "char_end": 2575,
+      "text": "Más fácil es pasar un camello por el ojo de una aguja, que entrar un rico en el reino de Dios."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2575,
+      "char_end": 2654,
+      "text": "Ellos se asombraban aún más, diciendo entre sí: ¿Quién, pues, podrá ser salvo?"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2654,
+      "char_end": 2785,
+      "text": "Entonces Jesús, mirándolos, dijo: Para los hombres es imposible, mas para Dios, no; porque todas las cosas son posibles para Dios."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2785,
+      "char_end": 2879,
+      "text": "Entonces Pedro comenzó a decirle: He aquí, nosotros lo hemos dejado todo, y te hemos seguido."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2879,
+      "char_end": 3066,
+      "text": "Respondió Jesús y dijo: De cierto os digo que no hay ninguno que haya dejado casa, o hermanos, o hermanas, o padre, o madre, o mujer, o hijos, o tierras, por causa de mí y del evangelio,"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3066,
+      "char_end": 3228,
+      "text": "que no reciba cien veces más ahora en este tiempo; casas, hermanos, hermanas, madres, hijos, y tierras, con persecuciones; y en el siglo venidero la vida eterna."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3228,
+      "char_end": 3355,
+      "text": "Pero muchos primeros serán postreros, y los postreros, primeros. Nuevamente Jesús anuncia su muerte (Mt 20.17–19; Lc 18.31–34)"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3355,
+      "char_end": 3568,
+      "text": "Iban por el camino subiendo a Jerusalén; y Jesús iba delante, y ellos se asombraron, y le seguían con miedo. Entonces volviendo a tomar a los doce aparte, les comenzó a decir las cosas que le habían de acontecer:"
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3568,
+      "char_end": 3738,
+      "text": "He aquí subimos a Jerusalén, y el Hijo del Hombre será entregado a los principales sacerdotes y a los escribas, y le condenarán a muerte, y le entregarán a los gentiles;"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3738,
+      "char_end": 3878,
+      "text": "y le escarnecerán, le azotarán, y escupirán en él, y le matarán; mas al tercer día resucitará. Petición de Santiago y de Juan (Mt 20.20–28)"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3878,
+      "char_end": 4000,
+      "text": "Entonces Jacobo y Juan, hijos de Zebedeo, se le acercaron, diciendo: Maestro, querríamos que nos hagas lo que pidiéremos."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4000,
+      "char_end": 4039,
+      "text": "Él les dijo: ¿Qué queréis que os haga?"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4039,
+      "char_end": 4145,
+      "text": "Ellos le dijeron: Concédenos que en tu gloria nos sentemos el uno a tu derecha, y el otro a tu izquierda."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4145,
+      "char_end": 4289,
+      "text": "Entonces Jesús les dijo: No sabéis lo que pedís. ¿Podéis beber del vaso que yo bebo, o ser bautizados con el bautismo con que yo soy bautizado?"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4289,
+      "char_end": 4437,
+      "text": "Ellos dijeron: Podemos. Jesús les dijo: A la verdad, del vaso que yo bebo, beberéis, y con el bautismo con que yo soy bautizado, seréis bautizados;"
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4437,
+      "char_end": 4547,
+      "text": "pero el sentaros a mi derecha y a mi izquierda, no es mío darlo, sino a aquellos para quienes está preparado."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4547,
+      "char_end": 4625,
+      "text": "Cuando lo oyeron los diez, comenzaron a enojarse contra Jacobo y contra Juan."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4625,
+      "char_end": 4790,
+      "text": "Mas Jesús, llamándolos, les dijo: Sabéis que los que son tenidos por gobernantes de las naciones se enseñorean de ellas, y sus grandes ejercen sobre ellas potestad."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4790,
+      "char_end": 4899,
+      "text": "Pero no será así entre vosotros, sino que el que quiera hacerse grande entre vosotros será vuestro servidor,"
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 4899,
+      "char_end": 4965,
+      "text": "y el que de vosotros quiera ser el primero, será siervo de todos."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 4965,
+      "char_end": 5138,
+      "text": "Porque el Hijo del Hombre no vino para ser servido, sino para servir, y para dar su vida en rescate por muchos. El ciego Bartimeo recibe la vista (Mt 20.29–34; Lc 18.35–43)"
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 5138,
+      "char_end": 5305,
+      "text": "Entonces vinieron a Jericó; y al salir de Jericó él y sus discípulos y una gran multitud, Bartimeo el ciego, hijo de Timeo, estaba sentado junto al camino mendigando."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 5305,
+      "char_end": 5416,
+      "text": "Y oyendo que era Jesús nazareno, comenzó a dar voces y a decir: ¡Jesús, Hijo de David, ten misericordia de mí!"
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 5416,
+      "char_end": 5524,
+      "text": "Y muchos le reprendían para que callase, pero él clamaba mucho más: ¡Hijo de David, ten misericordia de mí!"
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 5524,
+      "char_end": 5639,
+      "text": "Entonces Jesús, deteniéndose, mandó llamarle; y llamaron al ciego, diciéndole: Ten confianza; levántate, te llama."
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 5639,
+      "char_end": 5698,
+      "text": "Él entonces, arrojando su capa, se levantó y vino a Jesús."
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 5698,
+      "char_end": 5804,
+      "text": "Respondiendo Jesús, le dijo: ¿Qué quieres que te haga? Y el ciego le dijo: Maestro, que recobre la vista."
+    },
+    {
+      "verse": 52,
+      "label": "52",
+      "char_start": 5804,
+      "char_end": 5910,
+      "text": "Y Jesús le dijo: Vete, tu fe te ha salvado. Y en seguida recobró la vista, y seguía a Jesús en el camino."
+    }
+  ],
+  "words": [
+    {
+      "word": "Levantándose de allí, vino a la región de Judea y al otro lado del Jordán; y volvió el pueblo a juntarse a él, y de nuevo les enseñaba como solía.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 9412,
+      "duration_ms": 9312
+    },
+    {
+      "word": "Y se acercaron los fariseos y le preguntaron, para tentarle, si era lícito al marido repudiar a su mujer.",
+      "verse": 2,
+      "start_ms": 9362,
+      "end_ms": 16212,
+      "duration_ms": 6850
+    },
+    {
+      "word": "Él, respondiendo, les dijo: ¿Qué os mandó Moisés?",
+      "verse": 3,
+      "start_ms": 16212,
+      "end_ms": 20674,
+      "duration_ms": 4462
+    },
+    {
+      "word": "Ellos dijeron: Moisés permitió dar carta de divorcio, y repudiarla.",
+      "verse": 4,
+      "start_ms": 20675,
+      "end_ms": 25837,
+      "duration_ms": 5162
+    },
+    {
+      "word": "Y respondiendo Jesús, les dijo: Por la dureza de vuestro corazón os escribió este mandamiento; pero al principio de la creación, varón y hembra los hizo Dios.",
+      "verse": 5,
+      "start_ms": 25837,
+      "end_ms": 35874,
+      "duration_ms": 10037
+    },
+    {
+      "word": "Por esto dejará el hombre a su padre y a su madre, y se unirá a su mujer, y los dos serán una sola carne; así que no son ya más dos, sino uno.",
+      "verse": 7,
+      "start_ms": 35875,
+      "end_ms": 45125,
+      "duration_ms": 9250
+    },
+    {
+      "word": "Por tanto, lo que Dios juntó, no lo separe el hombre.",
+      "verse": 9,
+      "start_ms": 45125,
+      "end_ms": 49250,
+      "duration_ms": 4125
+    },
+    {
+      "word": "En casa volvieron los discípulos a preguntarle de lo mismo, y les dijo: Cualquiera que repudia a su mujer y se casa con otra, comete adulterio contra ella; y si la mujer repudia a su marido y se casa con otro, comete adulterio.",
+      "verse": 10,
+      "start_ms": 49250,
+      "end_ms": 62550,
+      "duration_ms": 13300
+    },
+    {
+      "word": "Jesús bendice a los niños (Mt 19.13–15; Lc 18.15–17) Y le presentaban niños para que los tocase; y los discípulos reprendían a los que los presentaban.",
+      "verse": 12,
+      "start_ms": 62550,
+      "end_ms": 75137,
+      "duration_ms": 12587
+    },
+    {
+      "word": "Viéndolo Jesús, se indignó, y les dijo: Dejad a los niños venir a mí, y no se lo impidáis; porque de los tales es el reino de Dios.",
+      "verse": 14,
+      "start_ms": 75137,
+      "end_ms": 84124,
+      "duration_ms": 8987
+    },
+    {
+      "word": "De cierto os digo, que el que no reciba el reino de Dios como un niño, no entrará en él.",
+      "verse": 15,
+      "start_ms": 84125,
+      "end_ms": 90112,
+      "duration_ms": 5987
+    },
+    {
+      "word": "Y tomándolos en los brazos, poniendo las manos sobre ellos, los bendecía.",
+      "verse": 16,
+      "start_ms": 90112,
+      "end_ms": 95412,
+      "duration_ms": 5300
+    },
+    {
+      "word": "El joven rico (Mt 19.16–30; Lc 18.18–30) Al salir él para seguir su camino, vino uno corriendo, e hincando la rodilla delante de él, le preguntó: Maestro bueno, ¿qué haré para heredar la vida eterna?",
+      "verse": 16,
+      "start_ms": 95412,
+      "end_ms": 111649,
+      "duration_ms": 16237
+    },
+    {
+      "word": "Jesús le dijo: ¿Por qué me llamas bueno?",
+      "verse": 18,
+      "start_ms": 111650,
+      "end_ms": 114950,
+      "duration_ms": 3300
+    },
+    {
+      "word": "Ninguno hay bueno, sino sólo uno, Dios.",
+      "verse": 18,
+      "start_ms": 114950,
+      "end_ms": 118762,
+      "duration_ms": 3812
+    },
+    {
+      "word": "Los mandamientos sabes: No adulteres.",
+      "verse": 19,
+      "start_ms": 118762,
+      "end_ms": 122212,
+      "duration_ms": 3450
+    },
+    {
+      "word": "No mates.",
+      "verse": 19,
+      "start_ms": 122212,
+      "end_ms": 123887,
+      "duration_ms": 1675
+    },
+    {
+      "word": "No hurtes.",
+      "verse": 19,
+      "start_ms": 123887,
+      "end_ms": 125712,
+      "duration_ms": 1825
+    },
+    {
+      "word": "No digas falso testimonio.",
+      "verse": 19,
+      "start_ms": 125712,
+      "end_ms": 128262,
+      "duration_ms": 2550
+    },
+    {
+      "word": "No defraudes.",
+      "verse": 19,
+      "start_ms": 128262,
+      "end_ms": 130199,
+      "duration_ms": 1937
+    },
+    {
+      "word": "Honra a tu padre y a tu madre.",
+      "verse": 19,
+      "start_ms": 130200,
+      "end_ms": 132800,
+      "duration_ms": 2600
+    },
+    {
+      "word": "Él entonces, respondiendo, le dijo: Maestro, todo esto lo he guardado desde mi juventud.",
+      "verse": 20,
+      "start_ms": 132800,
+      "end_ms": 139575,
+      "duration_ms": 6775
+    },
+    {
+      "word": "Entonces Jesús, mirándole, le amó, y le dijo: Una cosa te falta: anda, vende todo lo que tienes, y dalo a los pobres, y tendrás tesoro en el cielo; y ven, sígueme, tomando tu cruz.",
+      "verse": 21,
+      "start_ms": 139575,
+      "end_ms": 152925,
+      "duration_ms": 13350
+    },
+    {
+      "word": "Pero él, afligido por esta palabra, se fue triste, porque tenía muchas posesiones.",
+      "verse": 22,
+      "start_ms": 152925,
+      "end_ms": 159112,
+      "duration_ms": 6187
+    },
+    {
+      "word": "Entonces Jesús, mirando alrededor, dijo a sus discípulos: ¡Cuán difícilmente entrarán en el reino de Dios los que tienen riquezas!",
+      "verse": 23,
+      "start_ms": 159112,
+      "end_ms": 167712,
+      "duration_ms": 8600
+    },
+    {
+      "word": "Los discípulos se asombraron de sus palabras; pero Jesús, respondiendo, volvió a decirles: Hijos, ¡cuán difícil les es entrar en el reino de Dios, a los que confían en las riquezas!",
+      "verse": 24,
+      "start_ms": 167712,
+      "end_ms": 179449,
+      "duration_ms": 11737
+    },
+    {
+      "word": "Más fácil es pasar un camello por el ojo de una aguja, que entrar un rico en el reino de Dios.",
+      "verse": 25,
+      "start_ms": 179450,
+      "end_ms": 185525,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Ellos se asombraban aún más, diciendo entre sí: ¿Quién, pues, podrá ser salvo?",
+      "verse": 26,
+      "start_ms": 185525,
+      "end_ms": 191562,
+      "duration_ms": 6037
+    },
+    {
+      "word": "Entonces Jesús, mirándolos, dijo: Para los hombres es imposible, mas para Dios, no; porque todas las cosas son posibles para Dios.",
+      "verse": 27,
+      "start_ms": 191562,
+      "end_ms": 201062,
+      "duration_ms": 9500
+    },
+    {
+      "word": "Entonces Pedro comenzó a decirle: He aquí, nosotros lo hemos dejado todo, y te hemos seguido.",
+      "verse": 28,
+      "start_ms": 201062,
+      "end_ms": 207849,
+      "duration_ms": 6787
+    },
+    {
+      "word": "Respondió Jesús y dijo: De cierto os digo que no hay ninguno que haya dejado casa, o hermanos, o hermanas, o padre, o madre, o mujer, o hijos, o tierras, por causa de mí y del evangelio, que no reciba cien veces más ahora en este tiempo; casas, hermanos, hermanas, madres, hijos, y tierras, con persecuciones; y en el siglo venidero la vida eterna.",
+      "verse": 29,
+      "start_ms": 207850,
+      "end_ms": 231587,
+      "duration_ms": 23737
+    },
+    {
+      "word": "Pero muchos primeros serán postreros, y los postreros, primeros.",
+      "verse": 31,
+      "start_ms": 231587,
+      "end_ms": 236462,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Nuevamente Jesús anuncia su muerte (Mt 20.17–19; Lc 18.31–34) Iban por el camino subiendo a Jerusalén; y Jesús iba delante, y ellos se asombraron, y le seguían con miedo.",
+      "verse": 31,
+      "start_ms": 236462,
+      "end_ms": 251349,
+      "duration_ms": 14887
+    },
+    {
+      "word": "Entonces volviendo a tomar a los doce aparte, les comenzó a decir las cosas que le habían de acontecer: He aquí subimos a Jerusalén, y el Hijo del Hombre será entregado a los principales sacerdotes y a los escribas, y le condenarán a muerte, y le entregarán a los gentiles; y le escarnecerán, le azotarán, y escupirán en él, y le matarán; mas al tercer día resucitará.",
+      "verse": 32,
+      "start_ms": 251350,
+      "end_ms": 273262,
+      "duration_ms": 21912
+    },
+    {
+      "word": "Petición de Santiago y de Juan (Mt 20.20–28) Entonces Jacobo y Juan, hijos de Zebedeo, se le acercaron, diciendo: Maestro, querríamos",
+      "verse": 34,
+      "start_ms": 273262,
+      "end_ms": 284437,
+      "duration_ms": 11175
+    },
+    {
+      "word": "que nos hagas lo que pidiéremos.",
+      "verse": 35,
+      "start_ms": 284596,
+      "end_ms": 287196,
+      "duration_ms": 2600
+    },
+    {
+      "word": "Él les dijo: ¿Qué queréis que os haga?",
+      "verse": 36,
+      "start_ms": 287146,
+      "end_ms": 290321,
+      "duration_ms": 3175
+    },
+    {
+      "word": "Ellos le dijeron: Concédenos que en tu gloria nos sentemos el uno a tu derecha, y el otro a tu izquierda.",
+      "verse": 37,
+      "start_ms": 290321,
+      "end_ms": 296833,
+      "duration_ms": 6512
+    },
+    {
+      "word": "Entonces Jesús les dijo: No sabéis lo que pedís.",
+      "verse": 38,
+      "start_ms": 296833,
+      "end_ms": 300858,
+      "duration_ms": 4025
+    },
+    {
+      "word": "Podéis beber del vaso que yo bebo, o ser bautizados con el bautismo con que yo soy bautizado?",
+      "verse": 38,
+      "start_ms": 300858,
+      "end_ms": 306783,
+      "duration_ms": 5925
+    },
+    {
+      "word": "Ellos dijeron: Podemos.",
+      "verse": 39,
+      "start_ms": 306783,
+      "end_ms": 309495,
+      "duration_ms": 2712
+    },
+    {
+      "word": "Jesús les dijo: A la verdad, del vaso que yo bebo, beberéis, y con el bautismo con que yo soy bautizado, seréis bautizados; pero el sentaros a mi derecha y a mi izquierda, no es mío darlo, sino a aquellos para quienes está preparado.",
+      "verse": 39,
+      "start_ms": 309496,
+      "end_ms": 324546,
+      "duration_ms": 15050
+    },
+    {
+      "word": "Cuando lo oyeron los diez, comenzaron a enojarse contra Jacobo y contra Juan.",
+      "verse": 41,
+      "start_ms": 324546,
+      "end_ms": 329646,
+      "duration_ms": 5100
+    },
+    {
+      "word": "Mas Jesús, llamándolos, les dijo: Sabéis que los que son tenidos por gobernantes de las naciones se enseñorean de ellas, y sus grandes ejercen sobre ellas potestad.",
+      "verse": 42,
+      "start_ms": 329646,
+      "end_ms": 339983,
+      "duration_ms": 10337
+    },
+    {
+      "word": "Pero no será así entre vosotros, sino que el que quiera hacerse grande entre vosotros será vuestro servidor, y el que de vosotros quiera ser el primero, será siervo de todos.",
+      "verse": 43,
+      "start_ms": 339983,
+      "end_ms": 350308,
+      "duration_ms": 10325
+    },
+    {
+      "word": "Porque el Hijo del Hombre no vino para ser servido, sino para servir, y para dar su vida en rescate por muchos.",
+      "verse": 45,
+      "start_ms": 350308,
+      "end_ms": 357195,
+      "duration_ms": 6887
+    },
+    {
+      "word": "El ciego Bartimeo recibe la vista (Mt 20.29–34; Lc 18.35–43) Entonces vinieron a Jericó; y al salir de Jericó él y sus discípulos y una gran multitud, Bartimeo el ciego, hijo de Timeo, estaba sentado junto al camino mendigando.",
+      "verse": 45,
+      "start_ms": 357196,
+      "end_ms": 376033,
+      "duration_ms": 18837
+    },
+    {
+      "word": "Y oyendo que era Jesús nazareno, comenzó a dar voces y a decir: ¡Jesús, Hijo de David, ten misericordia de mí!",
+      "verse": 47,
+      "start_ms": 376033,
+      "end_ms": 384158,
+      "duration_ms": 8125
+    },
+    {
+      "word": "Y muchos le reprendían para que callase, pero él clamaba mucho más: ¡Hijo de David, ten misericordia de mí!",
+      "verse": 48,
+      "start_ms": 384158,
+      "end_ms": 391345,
+      "duration_ms": 7187
+    },
+    {
+      "word": "Entonces Jesús, deteniéndose, mandó llamarle; y llamaron al ciego, diciéndole: Ten confianza; levántate, te llama.",
+      "verse": 49,
+      "start_ms": 391346,
+      "end_ms": 400296,
+      "duration_ms": 8950
+    },
+    {
+      "word": "Él entonces, arrojando su capa, se levantó y vino a Jesús.",
+      "verse": 50,
+      "start_ms": 400296,
+      "end_ms": 405221,
+      "duration_ms": 4925
+    },
+    {
+      "word": "Respondiendo Jesús, le dijo: ¿Qué quieres que te haga?",
+      "verse": 51,
+      "start_ms": 405221,
+      "end_ms": 409433,
+      "duration_ms": 4212
+    },
+    {
+      "word": "Y el ciego le dijo: Maestro, que recobre la vista.",
+      "verse": 51,
+      "start_ms": 409433,
+      "end_ms": 413533,
+      "duration_ms": 4100
+    },
+    {
+      "word": "Y Jesús le dijo: Vete, tu fe te ha salvado.",
+      "verse": 52,
+      "start_ms": 413533,
+      "end_ms": 417520,
+      "duration_ms": 3987
+    },
+    {
+      "word": "Y en seguida recobró la vista, y seguía a Jesús en el camino.",
+      "verse": 52,
+      "start_ms": 417521,
+      "end_ms": 422021,
+      "duration_ms": 4500
+    }
+  ]
+}

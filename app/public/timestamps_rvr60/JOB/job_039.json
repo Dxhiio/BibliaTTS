@@ -1,0 +1,432 @@
+{
+  "book": "JOB",
+  "chapter": 39,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 30,
+  "word_count": 30,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 103,
+      "text": "¿Sabes tú el tiempo en que paren las cabras monteses? ¿O miraste tú las ciervas cuando están pariendo?"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 103,
+      "char_end": 179,
+      "text": "¿Contaste tú los meses de su preñez, Y sabes el tiempo cuando han de parir?"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 179,
+      "char_end": 234,
+      "text": "Se encorvan, hacen salir sus hijos, Pasan sus dolores."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 234,
+      "char_end": 309,
+      "text": "Sus hijos se fortalecen, crecen con el pasto; Salen, y no vuelven a ellas."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 309,
+      "char_end": 371,
+      "text": "¿Quién echó libre al asno montés, Y quién soltó sus ataduras?"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 371,
+      "char_end": 443,
+      "text": "Al cual yo puse casa en la soledad, Y sus moradas en lugares estériles."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 443,
+      "char_end": 511,
+      "text": "Se burla de la multitud de la ciudad; No oye las voces del arriero."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 511,
+      "char_end": 581,
+      "text": "Lo oculto de los montes es su pasto, Y anda buscando toda cosa verde."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 581,
+      "char_end": 638,
+      "text": "¿Querrá el búfalo servirte a ti, O quedar en tu pesebre?"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 638,
+      "char_end": 720,
+      "text": "¿Atarás tú al búfalo con coyunda para el surco? ¿Labrará los valles en pos de ti?"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 720,
+      "char_end": 789,
+      "text": "¿Confiarás tú en él, por ser grande su fuerza, Y le fiarás tu labor?"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 789,
+      "char_end": 853,
+      "text": "¿Fiarás de él para que recoja tu semilla, Y la junte en tu era?"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 853,
+      "char_end": 920,
+      "text": "¿Diste tú hermosas alas al pavo real, O alas y plumas al avestruz?"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 920,
+      "char_end": 994,
+      "text": "El cual desampara en la tierra sus huevos, Y sobre el polvo los calienta,"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 994,
+      "char_end": 1075,
+      "text": "Y olvida que el pie los puede pisar, Y que puede quebrarlos la bestia del campo."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1075,
+      "char_end": 1178,
+      "text": "Se endurece para con sus hijos, como si no fuesen suyos, No temiendo que su trabajo haya sido en vano;"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1178,
+      "char_end": 1239,
+      "text": "Porque le privó Dios de sabiduría, Y no le dio inteligencia."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1239,
+      "char_end": 1306,
+      "text": "Luego que se levanta en alto, Se burla del caballo y de su jinete."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1306,
+      "char_end": 1383,
+      "text": "¿Diste tú al caballo la fuerza? ¿Vestiste tú su cuello de crines ondulantes?"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1383,
+      "char_end": 1459,
+      "text": "¿Le intimidarás tú como a langosta? El resoplido de su nariz es formidable."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1459,
+      "char_end": 1534,
+      "text": "Escarba la tierra, se alegra en su fuerza, Sale al encuentro de las armas;"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1534,
+      "char_end": 1611,
+      "text": "Hace burla del espanto, y no teme, Ni vuelve el rostro delante de la espada."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1611,
+      "char_end": 1679,
+      "text": "Contra él suenan la aljaba, El hierro de la lanza y de la jabalina;"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1679,
+      "char_end": 1763,
+      "text": "Y él con ímpetu y furor escarba la tierra, Sin importarle el sonido de la trompeta;"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1763,
+      "char_end": 1881,
+      "text": "Antes como que dice entre los clarines: ¡Ea! Y desde lejos huele la batalla, El grito de los capitanes, y el vocerío."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 1881,
+      "char_end": 1951,
+      "text": "¿Vuela el gavilán por tu sabiduría, Y extiende hacia el sur sus alas?"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 1951,
+      "char_end": 2017,
+      "text": "¿Se remonta el águila por tu mandamiento, Y pone en alto su nido?"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2017,
+      "char_end": 2087,
+      "text": "Ella habita y mora en la peña, En la cumbre del peñasco y de la roca."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2087,
+      "char_end": 2147,
+      "text": "Desde allí acecha la presa; Sus ojos observan de muy lejos."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2147,
+      "char_end": 2222,
+      "text": "Sus polluelos chupan la sangre; Y donde hubiere cadáveres, allí está ella."
+    }
+  ],
+  "words": [
+    {
+      "word": "Sabes tú el tiempo en que paren las cabras monteses?",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3650,
+      "duration_ms": 3550
+    },
+    {
+      "word": "O miraste tú las ciervas cuando están pariendo?",
+      "verse": 1,
+      "start_ms": 3600,
+      "end_ms": 6850,
+      "duration_ms": 3250
+    },
+    {
+      "word": "Contaste tú los meses de su preñez, Y sabes el tiempo cuando han de parir?",
+      "verse": 2,
+      "start_ms": 6850,
+      "end_ms": 11912,
+      "duration_ms": 5062
+    },
+    {
+      "word": "Se encorvan, hacen salir sus hijos, Pasan sus dolores.",
+      "verse": 3,
+      "start_ms": 11912,
+      "end_ms": 16437,
+      "duration_ms": 4525
+    },
+    {
+      "word": "Sus hijos se fortalecen, crecen con el pasto; Salen, y no vuelven a ellas.",
+      "verse": 4,
+      "start_ms": 16437,
+      "end_ms": 22199,
+      "duration_ms": 5762
+    },
+    {
+      "word": "Quién echó libre al asno montés, Y quién soltó sus ataduras?",
+      "verse": 5,
+      "start_ms": 22200,
+      "end_ms": 26625,
+      "duration_ms": 4425
+    },
+    {
+      "word": "Al cual yo puse casa en la soledad, Y sus moradas en lugares estériles.",
+      "verse": 6,
+      "start_ms": 26625,
+      "end_ms": 31725,
+      "duration_ms": 5100
+    },
+    {
+      "word": "Se burla de la multitud de la ciudad; No oye las voces del arriero.",
+      "verse": 7,
+      "start_ms": 31725,
+      "end_ms": 36425,
+      "duration_ms": 4700
+    },
+    {
+      "word": "Lo oculto de los montes es su pasto, Y anda buscando toda cosa verde.",
+      "verse": 8,
+      "start_ms": 36425,
+      "end_ms": 41350,
+      "duration_ms": 4925
+    },
+    {
+      "word": "Querrá el búfalo servirte a ti, O quedar en tu pesebre?",
+      "verse": 9,
+      "start_ms": 41350,
+      "end_ms": 45162,
+      "duration_ms": 3812
+    },
+    {
+      "word": "Atarás tú al búfalo con coyunda para el surco?",
+      "verse": 10,
+      "start_ms": 45162,
+      "end_ms": 48537,
+      "duration_ms": 3375
+    },
+    {
+      "word": "Labrará los valles en pos de ti?",
+      "verse": 10,
+      "start_ms": 48537,
+      "end_ms": 51162,
+      "duration_ms": 2625
+    },
+    {
+      "word": "Confiarás tú en él, por ser grande su fuerza, Y le fiarás tu labor?",
+      "verse": 11,
+      "start_ms": 51162,
+      "end_ms": 56212,
+      "duration_ms": 5050
+    },
+    {
+      "word": "Fiarás de él para que recoja tu semilla, Y la junte en tu era?",
+      "verse": 12,
+      "start_ms": 56212,
+      "end_ms": 60712,
+      "duration_ms": 4500
+    },
+    {
+      "word": "Diste tú hermosas alas al pavo real, O alas y plumas al avestruz?",
+      "verse": 13,
+      "start_ms": 60712,
+      "end_ms": 65574,
+      "duration_ms": 4862
+    },
+    {
+      "word": "El cual desampara en la tierra sus huevos, Y sobre el polvo los calienta, Y olvida que el pie los puede pisar, Y que puede quebrarlos la bestia del campo.",
+      "verse": 14,
+      "start_ms": 65575,
+      "end_ms": 74662,
+      "duration_ms": 9087
+    },
+    {
+      "word": "Se endurece para con sus hijos, como si no fuesen suyos, No temiendo que su trabajo haya sido en vano; Porque le privó Dios de sabiduría, Y no le dio inteligencia.",
+      "verse": 16,
+      "start_ms": 74662,
+      "end_ms": 84949,
+      "duration_ms": 10287
+    },
+    {
+      "word": "Luego que se levanta en alto, Se burla del caballo y de su jinete.",
+      "verse": 18,
+      "start_ms": 84950,
+      "end_ms": 89537,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Diste tú al caballo la fuerza?",
+      "verse": 19,
+      "start_ms": 89537,
+      "end_ms": 92237,
+      "duration_ms": 2700
+    },
+    {
+      "word": "Vestiste tú su cuello de crines ondulantes?",
+      "verse": 19,
+      "start_ms": 92237,
+      "end_ms": 95512,
+      "duration_ms": 3275
+    },
+    {
+      "word": "Le intimidarás tú como a langosta?",
+      "verse": 20,
+      "start_ms": 95512,
+      "end_ms": 98312,
+      "duration_ms": 2800
+    },
+    {
+      "word": "El resoplido de su nariz es formidable.",
+      "verse": 20,
+      "start_ms": 98312,
+      "end_ms": 101374,
+      "duration_ms": 3062
+    },
+    {
+      "word": "Escarba la tierra, se alegra en su fuerza, Sale al encuentro de las armas; Hace burla del espanto, y no teme, Ni vuelve el rostro delante de la espada.",
+      "verse": 21,
+      "start_ms": 101375,
+      "end_ms": 111212,
+      "duration_ms": 9837
+    },
+    {
+      "word": "Contra él suenan la aljaba, El hierro de la lanza y de la jabalina; Y él con ímpetu y furor escarba la tierra, Sin importarle el sonido de la trompeta; Antes como que dice entre los clarines: ¡Ea!",
+      "verse": 23,
+      "start_ms": 111212,
+      "end_ms": 123437,
+      "duration_ms": 12225
+    },
+    {
+      "word": "Y desde lejos huele la batalla, El grito de los capitanes, y el vocerío.",
+      "verse": 25,
+      "start_ms": 123437,
+      "end_ms": 128699,
+      "duration_ms": 5262
+    },
+    {
+      "word": "Vuela el gavilán por tu sabiduría, Y extiende hacia el sur sus alas?",
+      "verse": 26,
+      "start_ms": 128700,
+      "end_ms": 133587,
+      "duration_ms": 4887
+    },
+    {
+      "word": "Se remonta el águila por tu mandamiento, Y pone en alto su nido?",
+      "verse": 27,
+      "start_ms": 133587,
+      "end_ms": 138362,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Ella habita y mora en la peña, En la cumbre del peñasco y de la roca.",
+      "verse": 28,
+      "start_ms": 138362,
+      "end_ms": 142999,
+      "duration_ms": 4637
+    },
+    {
+      "word": "Desde allí acecha la presa; Sus ojos observan de muy lejos.",
+      "verse": 29,
+      "start_ms": 143000,
+      "end_ms": 147600,
+      "duration_ms": 4600
+    },
+    {
+      "word": "Sus polluelos chupan la sangre; Y donde hubiere cadáveres, allí está ella.",
+      "verse": 30,
+      "start_ms": 147600,
+      "end_ms": 152850,
+      "duration_ms": 5250
+    }
+  ]
+}

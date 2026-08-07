@@ -1,0 +1,152 @@
+{
+  "book": "SAL",
+  "chapter": 112,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 10,
+  "word_count": 10,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 93,
+      "text": "Bienaventurado el hombre que teme a Jehová, Y en sus mandamientos se deleita en gran manera."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 93,
+      "char_end": 179,
+      "text": "Su descendencia será poderosa en la tierra; La generación de los rectos será bendita."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 179,
+      "char_end": 251,
+      "text": "Bienes y riquezas hay en su casa, Y su justicia permanece para siempre."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 251,
+      "char_end": 336,
+      "text": "Resplandeció en las tinieblas luz a los rectos; Es clemente, misericordioso y justo."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 336,
+      "char_end": 417,
+      "text": "El hombre de bien tiene misericordia, y presta; Gobierna sus asuntos con juicio,"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 417,
+      "char_end": 482,
+      "text": "Por lo cual no resbalará jamás; En memoria eterna será el justo."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 482,
+      "char_end": 560,
+      "text": "No tendrá temor de malas noticias; Su corazón está firme, confiado en Jehová."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 560,
+      "char_end": 638,
+      "text": "Asegurado está su corazón; no temerá, Hasta que vea en sus enemigos su deseo."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 638,
+      "char_end": 734,
+      "text": "Reparte, da a los pobres; Su justicia permanece para siempre; Su poder será exaltado en gloria."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 734,
+      "char_end": 836,
+      "text": "Lo verá el impío y se irritará; Crujirá los dientes, y se consumirá. El deseo de los impíos perecerá."
+    }
+  ],
+  "words": [
+    {
+      "word": "Bienaventurado el hombre que teme a Jehová, Y en sus mandamientos se deleita en gran manera.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5825,
+      "duration_ms": 5725
+    },
+    {
+      "word": "Su descendencia será poderosa en la tierra; La generación de los rectos será bendita.",
+      "verse": 2,
+      "start_ms": 5775,
+      "end_ms": 11362,
+      "duration_ms": 5587
+    },
+    {
+      "word": "Bienes y riquezas hay en su casa, Y su justicia permanece para siempre.",
+      "verse": 3,
+      "start_ms": 11362,
+      "end_ms": 16262,
+      "duration_ms": 4900
+    },
+    {
+      "word": "Resplandeció en las tinieblas luz a los rectos; Es clemente, misericordioso y justo.",
+      "verse": 4,
+      "start_ms": 16262,
+      "end_ms": 22299,
+      "duration_ms": 6037
+    },
+    {
+      "word": "El hombre de bien tiene misericordia, y presta; Gobierna sus asuntos con juicio, Por lo cual no resbalará jamás; En memoria eterna será el justo.",
+      "verse": 5,
+      "start_ms": 22300,
+      "end_ms": 31650,
+      "duration_ms": 9350
+    },
+    {
+      "word": "No tendrá temor de malas noticias; Su corazón está firme, confiado en Jehová.",
+      "verse": 7,
+      "start_ms": 31650,
+      "end_ms": 37237,
+      "duration_ms": 5587
+    },
+    {
+      "word": "Asegurado está su corazón; no temerá, Hasta que vea en sus enemigos su deseo.",
+      "verse": 8,
+      "start_ms": 37237,
+      "end_ms": 42874,
+      "duration_ms": 5637
+    },
+    {
+      "word": "Reparte, da a los pobres; Su justicia permanece para siempre; Su poder será exaltado en gloria.",
+      "verse": 9,
+      "start_ms": 42875,
+      "end_ms": 49875,
+      "duration_ms": 7000
+    },
+    {
+      "word": "Lo verá el impío y se irritará; Crujirá los dientes, y se consumirá.",
+      "verse": 10,
+      "start_ms": 49875,
+      "end_ms": 55000,
+      "duration_ms": 5125
+    },
+    {
+      "word": "El deseo de los impíos perecerá.",
+      "verse": 10,
+      "start_ms": 55000,
+      "end_ms": 57775,
+      "duration_ms": 2775
+    }
+  ]
+}

@@ -1,0 +1,663 @@
+{
+  "book": "JUA",
+  "chapter": 6,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 47,
+  "word_count": 46,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 82,
+      "text": "Después de estas cosas había una fiesta de los judíos, y subió Jesús a Jerusalén."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 82,
+      "char_end": 206,
+      "text": "Y hay en Jerusalén, cerca de la puerta de las ovejas, un estanque, llamado en hebreo Betesda, el cual tiene cinco pórticos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 206,
+      "char_end": 314,
+      "text": "En éstos yacía una multitud de enfermos, ciegos, cojos y paralíticos, que esperaban el movimiento del agua."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 314,
+      "char_end": 514,
+      "text": "Porque un ángel descendía de tiempo en tiempo al estanque, y agitaba el agua; y el que primero descendía al estanque después del movimiento del agua, quedaba sano de cualquier enfermedad que tuviese."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 514,
+      "char_end": 587,
+      "text": "Y había allí un hombre que hacía treinta y ocho años que estaba enfermo."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 587,
+      "char_end": 685,
+      "text": "Cuando Jesús lo vio acostado, y supo que llevaba ya mucho tiempo así, le dijo: ¿Quieres ser sano?"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 685,
+      "char_end": 835,
+      "text": "Señor, le respondió el enfermo, no tengo quien me meta en el estanque cuando se agita el agua; y entre tanto que yo voy, otro desciende antes que yo."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 835,
+      "char_end": 884,
+      "text": "Jesús le dijo: Levántate, toma tu lecho, y anda."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 884,
+      "char_end": 981,
+      "text": "Y al instante aquel hombre fue sanado, y tomó su lecho, y anduvo. Y era día de reposo aquel día."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 981,
+      "char_end": 1091,
+      "text": "Entonces los judíos dijeron a aquel que había sido sanado: Es día de reposo; no te es lícito llevar tu lecho."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1091,
+      "char_end": 1165,
+      "text": "Él les respondió: El que me sanó, él mismo me dijo: Toma tu lecho y anda."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1165,
+      "char_end": 1238,
+      "text": "Entonces le preguntaron: ¿Quién es el que te dijo: Toma tu lecho y anda?"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1238,
+      "char_end": 1357,
+      "text": "Y el que había sido sanado no sabía quién fuese, porque Jesús se había apartado de la gente que estaba en aquel lugar."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1357,
+      "char_end": 1482,
+      "text": "Después le halló Jesús en el templo, y le dijo: Mira, has sido sanado; no peques más, para que no te venga alguna cosa peor."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1482,
+      "char_end": 1564,
+      "text": "El hombre se fue, y dio aviso a los judíos, que Jesús era el que le había sanado."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1564,
+      "char_end": 1680,
+      "text": "Y por esta causa los judíos perseguían a Jesús, y procuraban matarle, porque hacía estas cosas en el día de reposo."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1680,
+      "char_end": 1747,
+      "text": "Y Jesús les respondió: Mi Padre hasta ahora trabaja, y yo trabajo."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1747,
+      "char_end": 1940,
+      "text": "Por esto los judíos aún más procuraban matarle, porque no sólo quebrantaba el día de reposo, sino que también decía que Dios era su propio Padre, haciéndose igual a Dios. La autoridad del Hijo"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1940,
+      "char_end": 2151,
+      "text": "Respondió entonces Jesús, y les dijo: De cierto, de cierto os digo: No puede el Hijo hacer nada por sí mismo, sino lo que ve hacer al Padre; porque todo lo que el Padre hace, también lo hace el Hijo igualmente."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2151,
+      "char_end": 2298,
+      "text": "Porque el Padre ama al Hijo, y le muestra todas las cosas que él hace; y mayores obras que éstas le mostrará, de modo que vosotros os maravilléis."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2298,
+      "char_end": 2403,
+      "text": "Porque como el Padre levanta a los muertos, y les da vida, así también el Hijo a los que quiere da vida."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2403,
+      "char_end": 2471,
+      "text": "Porque el Padre a nadie juzga, sino que todo el juicio dio al Hijo,"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2471,
+      "char_end": 2580,
+      "text": "para que todos honren al Hijo como honran al Padre. El que no honra al Hijo, no honra al Padre que le envió."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2580,
+      "char_end": 2735,
+      "text": "De cierto, de cierto os digo: El que oye mi palabra, y cree al que me envió, tiene vida eterna; y no vendrá a condenación, mas ha pasado de muerte a vida."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2735,
+      "char_end": 2871,
+      "text": "De cierto, de cierto os digo: Viene la hora, y ahora es, cuando los muertos oirán la voz del Hijo de Dios; y los que la oyeren vivirán."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2871,
+      "char_end": 2971,
+      "text": "Porque como el Padre tiene vida en sí mismo, así también ha dado al Hijo el tener vida en sí mismo;"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2971,
+      "char_end": 3049,
+      "text": "y también le dio autoridad de hacer juicio, por cuanto es el Hijo del Hombre."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3049,
+      "char_end": 3153,
+      "text": "No os maravilléis de esto; porque vendrá hora cuando todos los que están en los sepulcros oirán su voz;"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3153,
+      "char_end": 3294,
+      "text": "y los que hicieron lo bueno, saldrán a resurrección de vida; mas los que hicieron lo malo, a resurrección de condenación. Testigos de Cristo"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3294,
+      "char_end": 3454,
+      "text": "No puedo yo hacer nada por mí mismo; según oigo, así juzgo; y mi juicio es justo, porque no busco mi voluntad, sino la voluntad del que me envió, la del Padre."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3454,
+      "char_end": 3526,
+      "text": "Si yo doy testimonio acerca de mí mismo, mi testimonio no es verdadero."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3526,
+      "char_end": 3619,
+      "text": "Otro es el que da testimonio acerca de mí, y sé que el testimonio que da de mí es verdadero."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3619,
+      "char_end": 3692,
+      "text": "Vosotros enviasteis mensajeros a Juan, y él dio testimonio de la verdad."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3692,
+      "char_end": 3786,
+      "text": "Pero yo no recibo testimonio de hombre alguno; mas digo esto, para que vosotros seáis salvos."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3786,
+      "char_end": 3884,
+      "text": "Él era antorcha que ardía y alumbraba; y vosotros quisisteis regocijaros por un tiempo en su luz."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3884,
+      "char_end": 4067,
+      "text": "Mas yo tengo mayor testimonio que el de Juan; porque las obras que el Padre me dio para que cumpliese, las mismas obras que yo hago, dan testimonio de mí, que el Padre me ha enviado."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4067,
+      "char_end": 4177,
+      "text": "También el Padre que me envió ha dado testimonio de mí. Nunca habéis oído su voz, ni habéis visto su aspecto,"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4177,
+      "char_end": 4264,
+      "text": "ni tenéis su palabra morando en vosotros; porque a quien él envió, vosotros no creéis."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4264,
+      "char_end": 4397,
+      "text": "Escudriñad las Escrituras; porque a vosotros os parece que en ellas tenéis la vida eterna; y ellas son las que dan testimonio de mí;"
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4397,
+      "char_end": 4444,
+      "text": "y no queréis venir a mí para que tengáis vida."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4444,
+      "char_end": 4477,
+      "text": "Gloria de los hombres no recibo."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4477,
+      "char_end": 4536,
+      "text": "Mas yo os conozco, que no tenéis amor de Dios en vosotros."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4536,
+      "char_end": 4644,
+      "text": "Yo he venido en nombre de mi Padre, y no me recibís; si otro viniere en su propio nombre, a ése recibiréis."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 4644,
+      "char_end": 4765,
+      "text": "¿Cómo podéis vosotros creer, pues recibís gloria los unos de los otros, y no buscáis la gloria que viene del Dios único?"
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 4765,
+      "char_end": 4880,
+      "text": "No penséis que yo voy a acusaros delante del Padre; hay quien os acusa, Moisés, en quien tenéis vuestra esperanza."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 4880,
+      "char_end": 4955,
+      "text": "Porque si creyeseis a Moisés, me creeríais a mí, porque de mí escribió él."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 4955,
+      "char_end": 5020,
+      "text": "Pero si no creéis a sus escritos, ¿cómo creeréis a mis palabras?"
+    }
+  ],
+  "words": [
+    {
+      "word": "Después de estas cosas había una fiesta de los judíos, y subió Jesús a Jerusalén.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5637,
+      "duration_ms": 5537
+    },
+    {
+      "word": "Y hay en Jerusalén, cerca de la puerta de las ovejas, un estanque, llamado en hebreo Betesda, el cual tiene cinco pórticos.",
+      "verse": 2,
+      "start_ms": 5587,
+      "end_ms": 14012,
+      "duration_ms": 8425
+    },
+    {
+      "word": "En éstos yacía una multitud de enfermos, ciegos, cojos y paralíticos, que esperaban el movimiento del agua.",
+      "verse": 3,
+      "start_ms": 14012,
+      "end_ms": 21412,
+      "duration_ms": 7400
+    },
+    {
+      "word": "Porque un ángel descendía de tiempo en tiempo al estanque, y agitaba el agua; y el que primero descendía al estanque después del movimiento del agua, quedaba sano de cualquier enfermedad que tuviese.",
+      "verse": 4,
+      "start_ms": 21412,
+      "end_ms": 32599,
+      "duration_ms": 11187
+    },
+    {
+      "word": "Y había allí un hombre que hacía treinta y ocho años que estaba enfermo.",
+      "verse": 5,
+      "start_ms": 32600,
+      "end_ms": 36987,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Cuando Jesús lo vio acostado, y supo que llevaba ya mucho tiempo así, le dijo: ¿Quieres ser sano?",
+      "verse": 6,
+      "start_ms": 36987,
+      "end_ms": 43637,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Señor, le respondió el enfermo, no tengo quien me meta en el estanque cuando se agita el agua; y entre tanto que yo voy, otro desciende antes que yo.",
+      "verse": 7,
+      "start_ms": 43637,
+      "end_ms": 52599,
+      "duration_ms": 8962
+    },
+    {
+      "word": "Jesús le dijo: Levántate, toma tu lecho, y anda.",
+      "verse": 8,
+      "start_ms": 52600,
+      "end_ms": 57100,
+      "duration_ms": 4500
+    },
+    {
+      "word": "Y al instante aquel hombre fue sanado, y tomó su lecho, y anduvo.",
+      "verse": 9,
+      "start_ms": 57100,
+      "end_ms": 61912,
+      "duration_ms": 4812
+    },
+    {
+      "word": "Y era día de reposo aquel día.",
+      "verse": 9,
+      "start_ms": 61912,
+      "end_ms": 64637,
+      "duration_ms": 2725
+    },
+    {
+      "word": "Entonces los judíos dijeron a aquel que había sido sanado: Es día de reposo; no te es lícito llevar tu lecho.",
+      "verse": 10,
+      "start_ms": 64637,
+      "end_ms": 71962,
+      "duration_ms": 7325
+    },
+    {
+      "word": "Él les respondió: El que me sanó, él mismo me dijo: Toma tu lecho y anda.",
+      "verse": 11,
+      "start_ms": 71962,
+      "end_ms": 77462,
+      "duration_ms": 5500
+    },
+    {
+      "word": "Entonces le preguntaron: ¿Quién es el que te dijo: Toma tu lecho y anda?",
+      "verse": 12,
+      "start_ms": 77462,
+      "end_ms": 82624,
+      "duration_ms": 5162
+    },
+    {
+      "word": "Y el que había sido sanado no sabía quién fuese, porque Jesús se había apartado de la gente que estaba en aquel lugar.",
+      "verse": 13,
+      "start_ms": 82625,
+      "end_ms": 89700,
+      "duration_ms": 7075
+    },
+    {
+      "word": "Después le halló Jesús en el templo, y le dijo: Mira, has sido sanado; no peques más, para que no te venga alguna cosa peor.",
+      "verse": 14,
+      "start_ms": 89700,
+      "end_ms": 98312,
+      "duration_ms": 8612
+    },
+    {
+      "word": "El hombre se fue, y dio aviso a los judíos, que Jesús era el que le había sanado.",
+      "verse": 15,
+      "start_ms": 98312,
+      "end_ms": 103837,
+      "duration_ms": 5525
+    },
+    {
+      "word": "Y por esta causa los judíos perseguían a Jesús, y procuraban matarle, porque hacía estas cosas en el día de reposo.",
+      "verse": 16,
+      "start_ms": 103837,
+      "end_ms": 111087,
+      "duration_ms": 7250
+    },
+    {
+      "word": "Y Jesús les respondió: Mi Padre hasta ahora trabaja, y yo trabajo.",
+      "verse": 17,
+      "start_ms": 111087,
+      "end_ms": 115949,
+      "duration_ms": 4862
+    },
+    {
+      "word": "Por esto los judíos aún más procuraban matarle, porque no sólo quebrantaba el día de reposo, sino que también decía que Dios era su propio Padre, haciéndose igual a Dios.",
+      "verse": 18,
+      "start_ms": 115950,
+      "end_ms": 126150,
+      "duration_ms": 10200
+    },
+    {
+      "word": "La autoridad del Hijo Respondió entonces Jesús, y les dijo: De cierto, de cierto os digo: No puede el Hijo hacer nada por sí mismo, sino lo que ve hacer al Padre; porque todo lo que el Padre hace, también lo hace el Hijo igualmente.",
+      "verse": 18,
+      "start_ms": 126150,
+      "end_ms": 140675,
+      "duration_ms": 14525
+    },
+    {
+      "word": "Porque el Padre ama al Hijo, y le muestra todas las cosas que él hace; y mayores obras que éstas le mostrará, de modo que vosotros os maravilléis.",
+      "verse": 20,
+      "start_ms": 140675,
+      "end_ms": 149950,
+      "duration_ms": 9275
+    },
+    {
+      "word": "Porque como el Padre levanta a los muertos, y les da vida, así también el Hijo a los que quiere da vida.",
+      "verse": 21,
+      "start_ms": 149950,
+      "end_ms": 156450,
+      "duration_ms": 6500
+    },
+    {
+      "word": "Porque el Padre a nadie juzga, sino que todo el juicio dio al Hijo, para que todos honren al Hijo como honran al Padre.",
+      "verse": 22,
+      "start_ms": 156450,
+      "end_ms": 163950,
+      "duration_ms": 7500
+    },
+    {
+      "word": "El que no honra al Hijo, no honra al Padre que le envió.",
+      "verse": 23,
+      "start_ms": 163950,
+      "end_ms": 168075,
+      "duration_ms": 4125
+    },
+    {
+      "word": "De cierto, de cierto os digo: El que oye mi palabra, y cree al que me envió, tiene vida eterna; y no vendrá a condenación, mas ha pasado de muerte a vida.",
+      "verse": 24,
+      "start_ms": 168075,
+      "end_ms": 178575,
+      "duration_ms": 10500
+    },
+    {
+      "word": "De cierto, de cierto os digo: Viene la hora, y ahora es, cuando los muertos oirán la voz del Hijo de Dios; y los que la oyeren vivirán.",
+      "verse": 25,
+      "start_ms": 178575,
+      "end_ms": 187850,
+      "duration_ms": 9275
+    },
+    {
+      "word": "Porque como el Padre tiene vida en sí mismo, así también ha dado al Hijo el tener vida en sí mismo; y también le dio autoridad de hacer juicio, por cuanto es el Hijo del Hombre.",
+      "verse": 26,
+      "start_ms": 187850,
+      "end_ms": 197862,
+      "duration_ms": 10012
+    },
+    {
+      "word": "No os maravilléis de esto; porque vendrá hora cuando todos los que están en los sepulcros oirán su voz; y los que hicieron lo bueno, saldrán a resurrección de vida; mas los que hicieron lo malo, a resurrección de condenación.",
+      "verse": 28,
+      "start_ms": 197862,
+      "end_ms": 210724,
+      "duration_ms": 12862
+    },
+    {
+      "word": "Testigos de Cristo No puedo yo hacer nada por mí mismo; según oigo, así juzgo; y mi juicio es justo, porque no busco mi voluntad, sino la voluntad del que me envió, la del Padre.",
+      "verse": 29,
+      "start_ms": 210725,
+      "end_ms": 222312,
+      "duration_ms": 11587
+    },
+    {
+      "word": "Si yo doy testimonio acerca de mí mismo, mi testimonio no es verdadero.",
+      "verse": 31,
+      "start_ms": 222312,
+      "end_ms": 227412,
+      "duration_ms": 5100
+    },
+    {
+      "word": "Otro es el que da testimonio acerca de mí, y sé que el testimonio que da de mí es verdadero.",
+      "verse": 32,
+      "start_ms": 227412,
+      "end_ms": 233399,
+      "duration_ms": 5987
+    },
+    {
+      "word": "Vosotros enviasteis mensajeros a Juan, y él dio testimonio de la verdad.",
+      "verse": 33,
+      "start_ms": 233400,
+      "end_ms": 238287,
+      "duration_ms": 4887
+    },
+    {
+      "word": "Pero yo no recibo testimonio de hombre alguno; mas digo esto, para que vosotros seáis salvos.",
+      "verse": 34,
+      "start_ms": 238287,
+      "end_ms": 244612,
+      "duration_ms": 6325
+    },
+    {
+      "word": "Él era antorcha que ardía y alumbraba; y vosotros quisisteis regocijaros por un tiempo en su luz.",
+      "verse": 35,
+      "start_ms": 244612,
+      "end_ms": 250787,
+      "duration_ms": 6175
+    },
+    {
+      "word": "Mas yo tengo mayor testimonio que el de Juan; porque las obras que el Padre me dio para que cumpliese,",
+      "verse": 36,
+      "start_ms": 250787,
+      "end_ms": 256737,
+      "duration_ms": 5950
+    },
+    {
+      "word": "las mismas obras que yo hago, dan testimonio de mí, que el Padre me ha enviado.",
+      "verse": 36,
+      "start_ms": 256900,
+      "end_ms": 262325,
+      "duration_ms": 5425
+    },
+    {
+      "word": "También el Padre que me envió ha dado testimonio de mí.",
+      "verse": 37,
+      "start_ms": 262275,
+      "end_ms": 265887,
+      "duration_ms": 3612
+    },
+    {
+      "word": "Nunca habéis oído su voz, ni habéis visto su aspecto, ni tenéis su palabra morando en vosotros; porque a quien él envió, vosotros no creéis.",
+      "verse": 37,
+      "start_ms": 265887,
+      "end_ms": 275062,
+      "duration_ms": 9175
+    },
+    {
+      "word": "Escudriñad las Escrituras; porque a vosotros os parece que en ellas tenéis la vida eterna; y ellas son las que dan testimonio de mí; y no queréis venir a mí para que tengáis vida.",
+      "verse": 39,
+      "start_ms": 275062,
+      "end_ms": 285587,
+      "duration_ms": 10525
+    },
+    {
+      "word": "Gloria de los hombres no recibo.",
+      "verse": 41,
+      "start_ms": 285587,
+      "end_ms": 288249,
+      "duration_ms": 2662
+    },
+    {
+      "word": "Mas yo os conozco, que no tenéis amor de Dios en vosotros.",
+      "verse": 42,
+      "start_ms": 288250,
+      "end_ms": 292737,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Yo he venido en nombre de mi Padre, y no me recibís; si otro viniere en su propio nombre, a ése recibiréis.",
+      "verse": 43,
+      "start_ms": 292737,
+      "end_ms": 300212,
+      "duration_ms": 7475
+    },
+    {
+      "word": "Cómo podéis vosotros creer, pues recibís gloria los unos de los otros, y no buscáis la gloria que viene del Dios único?",
+      "verse": 44,
+      "start_ms": 300212,
+      "end_ms": 308074,
+      "duration_ms": 7862
+    },
+    {
+      "word": "No penséis que yo voy a acusaros delante del Padre; hay quien os acusa, Moisés, en quien tenéis vuestra esperanza.",
+      "verse": 45,
+      "start_ms": 308075,
+      "end_ms": 315187,
+      "duration_ms": 7112
+    },
+    {
+      "word": "Porque si creyeseis a Moisés, me creeríais a mí, porque de mí escribió él.",
+      "verse": 46,
+      "start_ms": 315187,
+      "end_ms": 320437,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Pero si no creéis a sus escritos, ¿cómo creeréis a mis palabras?",
+      "verse": 47,
+      "start_ms": 320437,
+      "end_ms": 325062,
+      "duration_ms": 4625
+    }
+  ]
+}

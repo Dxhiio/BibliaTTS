@@ -1,0 +1,362 @@
+{
+  "book": "PRO",
+  "chapter": 13,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 25,
+  "word_count": 25,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 88,
+      "text": "El hijo sabio recibe el consejo del padre; Mas el burlador no escucha las reprensiones."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 88,
+      "char_end": 185,
+      "text": "Del fruto de su boca el hombre comerá el bien; Mas el alma de los prevaricadores hallará el mal."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 185,
+      "char_end": 274,
+      "text": "El que guarda su boca guarda su alma; Mas el que mucho abre sus labios tendrá calamidad."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 274,
+      "char_end": 365,
+      "text": "El alma del perezoso desea, y nada alcanza; Mas el alma de los diligentes será prosperada."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 365,
+      "char_end": 444,
+      "text": "El justo aborrece la palabra de mentira; Mas el impío se hace odioso e infame."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 444,
+      "char_end": 526,
+      "text": "La justicia guarda al de perfecto camino; Mas la impiedad trastornará al pecador."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 526,
+      "char_end": 639,
+      "text": "Hay quienes pretenden ser ricos, y no tienen nada; Y hay quienes pretenden ser pobres, y tienen muchas riquezas."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 639,
+      "char_end": 725,
+      "text": "El rescate de la vida del hombre está en sus riquezas; Pero el pobre no oye censuras."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 725,
+      "char_end": 800,
+      "text": "La luz de los justos se alegrará; Mas se apagará la lámpara de los impíos."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 800,
+      "char_end": 885,
+      "text": "Ciertamente la soberbia concebirá contienda; Mas con los avisados está la sabiduría."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 885,
+      "char_end": 973,
+      "text": "Las riquezas de vanidad disminuirán; Pero el que recoge con mano laboriosa las aumenta."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 973,
+      "char_end": 1066,
+      "text": "La esperanza que se demora es tormento del corazón; Pero árbol de vida es el deseo cumplido."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1066,
+      "char_end": 1166,
+      "text": "El que menosprecia el precepto perecerá por ello; Mas el que teme el mandamiento será recompensado."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1166,
+      "char_end": 1246,
+      "text": "La ley del sabio es manantial de vida Para apartarse de los lazos de la muerte."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1246,
+      "char_end": 1323,
+      "text": "El buen entendimiento da gracia; Mas el camino de los transgresores es duro."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1323,
+      "char_end": 1401,
+      "text": "Todo hombre prudente procede con sabiduría; Mas el necio manifestará necedad."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1401,
+      "char_end": 1474,
+      "text": "El mal mensajero acarrea desgracia; Mas el mensajero fiel acarrea salud."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1474,
+      "char_end": 1580,
+      "text": "Pobreza y vergüenza tendrá el que menosprecia el consejo; Mas el que guarda la corrección recibirá honra."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1580,
+      "char_end": 1668,
+      "text": "El deseo cumplido regocija el alma; Pero apartarse del mal es abominación a los necios."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1668,
+      "char_end": 1753,
+      "text": "El que anda con sabios, sabio será; Mas el que se junta con necios será quebrantado."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1753,
+      "char_end": 1832,
+      "text": "El mal perseguirá a los pecadores, Mas los justos serán premiados con el bien."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1832,
+      "char_end": 1941,
+      "text": "El bueno dejará herederos a los hijos de sus hijos; Pero la riqueza del pecador está guardada para el justo."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1941,
+      "char_end": 2020,
+      "text": "En el barbecho de los pobres hay mucho pan; Mas se pierde por falta de juicio."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2020,
+      "char_end": 2113,
+      "text": "El que detiene el castigo, a su hijo aborrece; Mas el que lo ama, desde temprano lo corrige."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2113,
+      "char_end": 2196,
+      "text": "El justo come hasta saciar su alma; Mas el vientre de los impíos tendrá necesidad."
+    }
+  ],
+  "words": [
+    {
+      "word": "El hijo sabio recibe el consejo del padre; Mas el burlador no escucha las reprensiones.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5875,
+      "duration_ms": 5775
+    },
+    {
+      "word": "Del fruto de su boca el hombre comerá el bien; Mas el alma de los prevaricadores hallará el mal.",
+      "verse": 2,
+      "start_ms": 5825,
+      "end_ms": 11650,
+      "duration_ms": 5825
+    },
+    {
+      "word": "El que guarda su boca guarda su alma; Mas el que mucho abre sus labios tendrá calamidad.",
+      "verse": 3,
+      "start_ms": 11650,
+      "end_ms": 17337,
+      "duration_ms": 5687
+    },
+    {
+      "word": "El alma del perezoso desea, y nada alcanza; Mas el alma de los diligentes será prosperada.",
+      "verse": 4,
+      "start_ms": 17337,
+      "end_ms": 23899,
+      "duration_ms": 6562
+    },
+    {
+      "word": "El justo aborrece la palabra de mentira; Mas el impío se hace odioso e infame.",
+      "verse": 5,
+      "start_ms": 23900,
+      "end_ms": 29300,
+      "duration_ms": 5400
+    },
+    {
+      "word": "La justicia guarda al de perfecto camino; Mas la impiedad trastornará al pecador.",
+      "verse": 6,
+      "start_ms": 29300,
+      "end_ms": 34850,
+      "duration_ms": 5550
+    },
+    {
+      "word": "Hay quienes pretenden ser ricos, y no tienen nada; Y hay quienes pretenden ser pobres, y tienen muchas riquezas.",
+      "verse": 7,
+      "start_ms": 34850,
+      "end_ms": 42075,
+      "duration_ms": 7225
+    },
+    {
+      "word": "El rescate de la vida del hombre está en sus riquezas; Pero el pobre no oye censuras.",
+      "verse": 8,
+      "start_ms": 42075,
+      "end_ms": 47912,
+      "duration_ms": 5837
+    },
+    {
+      "word": "La luz de los justos se alegrará; Mas se apagará la lámpara de los impíos.",
+      "verse": 9,
+      "start_ms": 47912,
+      "end_ms": 52962,
+      "duration_ms": 5050
+    },
+    {
+      "word": "Ciertamente la soberbia concebirá contienda; Mas con los avisados está la sabiduría.",
+      "verse": 10,
+      "start_ms": 52962,
+      "end_ms": 58737,
+      "duration_ms": 5775
+    },
+    {
+      "word": "Las riquezas de vanidad disminuirán; Pero el que recoge con mano laboriosa las aumenta.",
+      "verse": 11,
+      "start_ms": 58737,
+      "end_ms": 64387,
+      "duration_ms": 5650
+    },
+    {
+      "word": "La esperanza que se demora es tormento del corazón; Pero árbol de vida es el deseo cumplido.",
+      "verse": 12,
+      "start_ms": 64387,
+      "end_ms": 70287,
+      "duration_ms": 5900
+    },
+    {
+      "word": "El que menosprecia el precepto perecerá por ello; Mas el que teme el mandamiento será recompensado.",
+      "verse": 13,
+      "start_ms": 70287,
+      "end_ms": 76412,
+      "duration_ms": 6125
+    },
+    {
+      "word": "La ley del sabio es manantial de vida Para apartarse de los lazos de la muerte.",
+      "verse": 14,
+      "start_ms": 76412,
+      "end_ms": 81374,
+      "duration_ms": 4962
+    },
+    {
+      "word": "El buen entendimiento da gracia; Mas el camino de los transgresores es duro.",
+      "verse": 15,
+      "start_ms": 81375,
+      "end_ms": 86487,
+      "duration_ms": 5112
+    },
+    {
+      "word": "Todo hombre prudente procede con sabiduría; Mas el necio manifestará necedad.",
+      "verse": 16,
+      "start_ms": 86487,
+      "end_ms": 91949,
+      "duration_ms": 5462
+    },
+    {
+      "word": "El mal mensajero acarrea desgracia; Mas el mensajero fiel acarrea salud.",
+      "verse": 17,
+      "start_ms": 91950,
+      "end_ms": 97375,
+      "duration_ms": 5425
+    },
+    {
+      "word": "Pobreza y vergüenza tendrá el que menosprecia el consejo; Mas el que guarda la corrección recibirá honra.",
+      "verse": 18,
+      "start_ms": 97375,
+      "end_ms": 103750,
+      "duration_ms": 6375
+    },
+    {
+      "word": "El deseo cumplido regocija el alma; Pero apartarse del mal es abominación a los necios.",
+      "verse": 19,
+      "start_ms": 103750,
+      "end_ms": 109600,
+      "duration_ms": 5850
+    },
+    {
+      "word": "El que anda con sabios, sabio será; Mas el que se junta con necios será quebrantado.",
+      "verse": 20,
+      "start_ms": 109600,
+      "end_ms": 115337,
+      "duration_ms": 5737
+    },
+    {
+      "word": "El mal perseguirá a los pecadores, Mas los justos serán premiados con el bien.",
+      "verse": 21,
+      "start_ms": 115337,
+      "end_ms": 120587,
+      "duration_ms": 5250
+    },
+    {
+      "word": "El bueno dejará herederos a los hijos de sus hijos; Pero la riqueza del pecador está guardada para el justo.",
+      "verse": 22,
+      "start_ms": 120587,
+      "end_ms": 127199,
+      "duration_ms": 6612
+    },
+    {
+      "word": "En el barbecho de los pobres hay mucho pan; Mas se pierde por falta de juicio.",
+      "verse": 23,
+      "start_ms": 127200,
+      "end_ms": 132300,
+      "duration_ms": 5100
+    },
+    {
+      "word": "El que detiene el castigo, a su hijo aborrece; Mas el que lo ama, desde temprano lo corrige.",
+      "verse": 24,
+      "start_ms": 132300,
+      "end_ms": 138775,
+      "duration_ms": 6475
+    },
+    {
+      "word": "El justo come hasta saciar su alma; Mas el vientre de los impíos tendrá necesidad.",
+      "verse": 25,
+      "start_ms": 138775,
+      "end_ms": 144262,
+      "duration_ms": 5487
+    }
+  ]
+}

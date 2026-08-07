@@ -1,0 +1,201 @@
+{
+  "book": "EZE",
+  "chapter": 35,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 15,
+  "word_count": 12,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 39,
+      "text": "Vino a mí palabra de Jehová, diciendo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 39,
+      "char_end": 116,
+      "text": "Hijo de hombre, pon tu rostro hacia el monte de Seir, y profetiza contra él,"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 116,
+      "char_end": 273,
+      "text": "y dile: Así ha dicho Jehová el Señor: He aquí yo estoy contra ti, oh monte de Seir, y extenderé mi mano contra ti, y te convertiré en desierto y en soledad."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 273,
+      "char_end": 345,
+      "text": "A tus ciudades asolaré, y tú serás asolado; y sabrás que yo soy Jehová."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 345,
+      "char_end": 505,
+      "text": "Por cuanto tuviste enemistad perpetua, y entregaste a los hijos de Israel al poder de la espada en el tiempo de su aflicción, en el tiempo extremadamente malo,"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 505,
+      "char_end": 655,
+      "text": "por tanto, vivo yo, dice Jehová el Señor, que a sangre te destinaré, y sangre te perseguirá; y porque la sangre no aborreciste, sangre te perseguirá."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 655,
+      "char_end": 755,
+      "text": "Y convertiré al monte de Seir en desierto y en soledad, y cortaré de él al que vaya y al que venga."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 755,
+      "char_end": 872,
+      "text": "Y llenaré sus montes de sus muertos; en tus collados, en tus valles y en todos tus arroyos, caerán muertos a espada."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 872,
+      "char_end": 980,
+      "text": "Yo te pondré en asolamiento perpetuo, y tus ciudades nunca más se restaurarán; y sabréis que yo soy Jehová."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 980,
+      "char_end": 1096,
+      "text": "Por cuanto dijiste: Las dos naciones y las dos tierras serán mías, y tomaré posesión de ellas; estando allí Jehová;"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1096,
+      "char_end": 1288,
+      "text": "por tanto, vivo yo, dice Jehová el Señor, yo haré conforme a tu ira, y conforme a tu celo con que procediste, a causa de tus enemistades con ellos; y seré conocido en ellos, cuando te juzgue."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1288,
+      "char_end": 1451,
+      "text": "Y sabrás que yo Jehová he oído todas tus injurias que proferiste contra los montes de Israel, diciendo: Destruidos son, nos han sido dados para que los devoremos."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1451,
+      "char_end": 1557,
+      "text": "Y os engrandecisteis contra mí con vuestra boca, y multiplicasteis contra mí vuestras palabras. Yo lo oí."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1557,
+      "char_end": 1651,
+      "text": "Así ha dicho Jehová el Señor: Para que toda la tierra se regocije, yo te haré una desolación."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1651,
+      "char_end": 1827,
+      "text": "Como te alegraste sobre la heredad de la casa de Israel, porque fue asolada, así te haré a ti; asolado será el monte de Seir, y todo Edom, todo él; y sabrán que yo soy Jehová."
+    }
+  ],
+  "words": [
+    {
+      "word": "Vino a mí palabra de Jehová, diciendo: Hijo de hombre, pon tu rostro hacia el monte de Seir, y profetiza contra él, y dile: Así ha dicho Jehová el Señor: He aquí yo estoy contra ti, oh monte de Seir, y extenderé mi mano contra ti, y te convertiré en desierto y en soledad.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 17150,
+      "duration_ms": 17050
+    },
+    {
+      "word": "A tus ciudades asolaré, y tú serás asolado; y sabrás que yo soy Jehová.",
+      "verse": 4,
+      "start_ms": 17150,
+      "end_ms": 22450,
+      "duration_ms": 5300
+    },
+    {
+      "word": "Por cuanto tuviste enemistad perpetua, y entregaste a los hijos de Israel al poder de la espada en el tiempo de su aflicción, en el tiempo extremadamente malo, por tanto, vivo yo, dice Jehová el Señor, que a sangre te destinaré, y sangre te perseguirá; y porque la sangre no aborreciste, sangre te perseguirá.",
+      "verse": 5,
+      "start_ms": 22450,
+      "end_ms": 41125,
+      "duration_ms": 18675
+    },
+    {
+      "word": "Y convertiré al monte de Seir en desierto y en soledad, y cortaré de él al que vaya y al que venga.",
+      "verse": 7,
+      "start_ms": 41125,
+      "end_ms": 47500,
+      "duration_ms": 6375
+    },
+    {
+      "word": "Y llenaré sus montes de sus muertos; en tus collados, en tus valles y en todos tus arroyos, caerán muertos a espada.",
+      "verse": 8,
+      "start_ms": 47500,
+      "end_ms": 55400,
+      "duration_ms": 7900
+    },
+    {
+      "word": "Yo te pondré en asolamiento perpetuo, y tus ciudades nunca más se restaurarán; y sabréis que yo soy Jehová.",
+      "verse": 9,
+      "start_ms": 55400,
+      "end_ms": 62562,
+      "duration_ms": 7162
+    },
+    {
+      "word": "Por cuanto dijiste: Las dos naciones y las dos tierras serán mías, y tomaré posesión de ellas; estando allí Jehová; por tanto, vivo yo, dice Jehová el Señor, yo haré conforme a tu ira, y conforme a tu celo con que procediste, a causa de tus enemistades con ellos; y seré conocido en ellos, cuando te juzgue.",
+      "verse": 10,
+      "start_ms": 62562,
+      "end_ms": 82387,
+      "duration_ms": 19825
+    },
+    {
+      "word": "Y sabrás que yo Jehová he oído todas tus injurias que proferiste contra los montes de Israel, diciendo: Destruidos son, nos han sido dados para que los devoremos.",
+      "verse": 12,
+      "start_ms": 82387,
+      "end_ms": 92437,
+      "duration_ms": 10050
+    },
+    {
+      "word": "Y os engrandecisteis contra mí con vuestra boca, y multiplicasteis contra mí vuestras palabras.",
+      "verse": 13,
+      "start_ms": 92437,
+      "end_ms": 98412,
+      "duration_ms": 5975
+    },
+    {
+      "word": "Yo lo oí.",
+      "verse": 13,
+      "start_ms": 98412,
+      "end_ms": 100212,
+      "duration_ms": 1800
+    },
+    {
+      "word": "Así ha dicho Jehová el Señor: Para que toda la tierra se regocije, yo te haré una desolación.",
+      "verse": 14,
+      "start_ms": 100212,
+      "end_ms": 106574,
+      "duration_ms": 6362
+    },
+    {
+      "word": "Como te alegraste sobre la heredad de la casa de Israel, porque fue asolada, así te haré a ti; asolado será el monte de Seir, y todo Edom, todo él; y sabrán que yo soy Jehová.",
+      "verse": 15,
+      "start_ms": 106575,
+      "end_ms": 118162,
+      "duration_ms": 11587
+    }
+  ]
+}

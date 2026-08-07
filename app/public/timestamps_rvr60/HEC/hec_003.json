@@ -1,0 +1,586 @@
+{
+  "book": "HEC",
+  "chapter": 3,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 47,
+  "word_count": 35,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 67,
+      "text": "Cuando llegó el día de Pentecostés, estaban todos unánimes juntos."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 67,
+      "char_end": 196,
+      "text": "Y de repente vino del cielo un estruendo como de un viento recio que soplaba, el cual llenó toda la casa donde estaban sentados;"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 196,
+      "char_end": 289,
+      "text": "y se les aparecieron lenguas repartidas, como de fuego, asentándose sobre cada uno de ellos."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 289,
+      "char_end": 412,
+      "text": "Y fueron todos llenos del Espíritu Santo, y comenzaron a hablar en otras lenguas, según el Espíritu les daba que hablasen."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 412,
+      "char_end": 505,
+      "text": "Moraban entonces en Jerusalén judíos, varones piadosos, de todas las naciones bajo el cielo."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 505,
+      "char_end": 623,
+      "text": "Y hecho este estruendo, se juntó la multitud; y estaban confusos, porque cada uno les oía hablar en su propia lengua."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 623,
+      "char_end": 716,
+      "text": "Y estaban atónitos y maravillados, diciendo: Mirad, ¿no son galileos todos estos que hablan?"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 716,
+      "char_end": 806,
+      "text": "¿Cómo, pues, les oímos nosotros hablar cada uno en nuestra lengua en la que hemos nacido?"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 806,
+      "char_end": 914,
+      "text": "Partos, medos, elamitas, y los que habitamos en Mesopotamia, en Judea, en Capadocia, en el Ponto y en Asia,"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 914,
+      "char_end": 1051,
+      "text": "en Frigia y Panfilia, en Egipto y en las regiones de Africa más allá de Cirene, y romanos aquí residentes, tanto judíos como prosélitos,"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1051,
+      "char_end": 1132,
+      "text": "cretenses y árabes, les oímos hablar en nuestras lenguas las maravillas de Dios."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1132,
+      "char_end": 1219,
+      "text": "Y estaban todos atónitos y perplejos, diciéndose unos a otros: ¿Qué quiere decir esto?"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1219,
+      "char_end": 1298,
+      "text": "Mas otros, burlándose, decían: Están llenos de mosto. Primer discurso de Pedro"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1298,
+      "char_end": 1476,
+      "text": "Entonces Pedro, poniéndose en pie con los once, alzó la voz y les habló diciendo: Varones judíos, y todos los que habitáis en Jerusalén, esto os sea notorio, y oíd mis palabras."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1476,
+      "char_end": 1569,
+      "text": "Porque éstos no están ebrios, como vosotros suponéis, puesto que es la hora tercera del día."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1569,
+      "char_end": 1611,
+      "text": "Mas esto es lo dicho por el profeta Joel:"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1611,
+      "char_end": 1807,
+      "text": "Y en los postreros días, dice Dios, Derramaré de mi Espíritu sobre toda carne, Y vuestros hijos y vuestras hijas profetizarán; Vuestros jóvenes verán visiones, Y vuestros ancianos soñarán sueños;"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1807,
+      "char_end": 1916,
+      "text": "Y de cierto sobre mis siervos y sobre mis siervas en aquellos días Derramaré de mi Espíritu, y profetizarán."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1916,
+      "char_end": 2015,
+      "text": "Y daré prodigios arriba en el cielo, Y señales abajo en la tierra, Sangre y fuego y vapor de humo;"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2015,
+      "char_end": 2126,
+      "text": "El sol se convertirá en tinieblas, Y la luna en sangre, Antes que venga el día del Señor, Grande y manifiesto;"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2126,
+      "char_end": 2185,
+      "text": "Y todo aquel que invocare el nombre del Señor, será salvo."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2185,
+      "char_end": 2395,
+      "text": "Varones israelitas, oíd estas palabras: Jesús nazareno, varón aprobado por Dios entre vosotros con las maravillas, prodigios y señales que Dios hizo entre vosotros por medio de él, como vosotros mismos sabéis;"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2395,
+      "char_end": 2537,
+      "text": "a éste, entregado por el determinado consejo y anticipado conocimiento de Dios, prendisteis y matasteis por manos de inicuos, crucificándole;"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2537,
+      "char_end": 2647,
+      "text": "al cual Dios levantó, sueltos los dolores de la muerte, por cuanto era imposible que fuese retenido por ella."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2647,
+      "char_end": 2754,
+      "text": "Porque David dice de él: Veía al Señor siempre delante de mí; Porque está a mi diestra, no seré conmovido."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2754,
+      "char_end": 2849,
+      "text": "Por lo cual mi corazón se alegró, y se gozó mi lengua, Y aun mi carne descansará en esperanza;"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2849,
+      "char_end": 2931,
+      "text": "Porque no dejarás mi alma en el Hades, Ni permitirás que tu Santo vea corrupción."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2931,
+      "char_end": 3012,
+      "text": "Me hiciste conocer los caminos de la vida; Me llenarás de gozo con tu presencia."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3012,
+      "char_end": 3160,
+      "text": "Varones hermanos, se os puede decir libremente del patriarca David, que murió y fue sepultado, y su sepulcro está con nosotros hasta el día de hoy."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3160,
+      "char_end": 3331,
+      "text": "Pero siendo profeta, y sabiendo que con juramento Dios le había jurado que de su descendencia, en cuanto a la carne, levantaría al Cristo para que se sentase en su trono,"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3331,
+      "char_end": 3450,
+      "text": "viéndolo antes, habló de la resurrección de Cristo, que su alma no fue dejada en el Hades, ni su carne vio corrupción."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3450,
+      "char_end": 3520,
+      "text": "A este Jesús resucitó Dios, de lo cual todos nosotros somos testigos."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3520,
+      "char_end": 3666,
+      "text": "Así que, exaltado por la diestra de Dios, y habiendo recibido del Padre la promesa del Espíritu Santo, ha derramado esto que vosotros veis y oís."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3666,
+      "char_end": 3771,
+      "text": "Porque David no subió a los cielos; pero él mismo dice: Dijo el Señor a mi Señor: Siéntate a mi diestra,"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3771,
+      "char_end": 3827,
+      "text": "Hasta que ponga a tus enemigos por estrado de tus pies."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3827,
+      "char_end": 3962,
+      "text": "Sepa, pues, ciertísimamente toda la casa de Israel, que a este Jesús a quien vosotros crucificasteis, Dios le ha hecho Señor y Cristo."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3962,
+      "char_end": 4078,
+      "text": "Al oír esto, se compungieron de corazón, y dijeron a Pedro y a los otros apóstoles: Varones hermanos, ¿qué haremos?"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4078,
+      "char_end": 4235,
+      "text": "Pedro les dijo: Arrepentíos, y bautícese cada uno de vosotros en el nombre de Jesucristo para perdón de los pecados; y recibiréis el don del Espíritu Santo."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4235,
+      "char_end": 4372,
+      "text": "Porque para vosotros es la promesa, y para vuestros hijos, y para todos los que están lejos; para cuantos el Señor nuestro Dios llamare."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4372,
+      "char_end": 4479,
+      "text": "Y con otras muchas palabras testificaba y les exhortaba, diciendo: Sed salvos de esta perversa generación."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4479,
+      "char_end": 4586,
+      "text": "Así que, los que recibieron su palabra fueron bautizados; y se añadieron aquel día como tres mil personas."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4586,
+      "char_end": 4746,
+      "text": "Y perseveraban en la doctrina de los apóstoles, en la comunión unos con otros, en el partimiento del pan y en las oraciones. La vida de los primeros cristianos"
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4746,
+      "char_end": 4841,
+      "text": "Y sobrevino temor a toda persona; y muchas maravillas y señales eran hechas por los apóstoles."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 4841,
+      "char_end": 4920,
+      "text": "Todos los que habían creído estaban juntos, y tenían en común todas las cosas;"
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 4920,
+      "char_end": 5015,
+      "text": "y vendían sus propiedades y sus bienes, y lo repartían a todos según la necesidad de cada uno."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 5015,
+      "char_end": 5145,
+      "text": "Y perseverando unánimes cada día en el templo, y partiendo el pan en las casas, comían juntos con alegría y sencillez de corazón,"
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 5145,
+      "char_end": 5269,
+      "text": "alabando a Dios, y teniendo favor con todo el pueblo. Y el Señor añadía cada día a la iglesia los que habían de ser salvos."
+    }
+  ],
+  "words": [
+    {
+      "word": "Cuando llegó el día de Pentecostés, estaban todos unánimes juntos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5000,
+      "duration_ms": 4900
+    },
+    {
+      "word": "Y de repente vino del cielo un estruendo como de un viento recio que soplaba, el cual llenó toda la casa donde estaban sentados; y se les aparecieron lenguas repartidas, como de fuego, asentándose sobre cada uno de ellos.",
+      "verse": 2,
+      "start_ms": 4950,
+      "end_ms": 18325,
+      "duration_ms": 13375
+    },
+    {
+      "word": "Y fueron todos llenos del Espíritu Santo, y comenzaron a hablar en otras lenguas, según el Espíritu les daba que hablasen.",
+      "verse": 4,
+      "start_ms": 18325,
+      "end_ms": 25825,
+      "duration_ms": 7500
+    },
+    {
+      "word": "Moraban entonces en Jerusalén judíos, varones piadosos, de todas las naciones bajo el cielo.",
+      "verse": 5,
+      "start_ms": 25825,
+      "end_ms": 32262,
+      "duration_ms": 6437
+    },
+    {
+      "word": "Y hecho este estruendo, se juntó la multitud; y estaban confusos, porque cada uno les oía hablar en su propia lengua.",
+      "verse": 6,
+      "start_ms": 32262,
+      "end_ms": 40062,
+      "duration_ms": 7800
+    },
+    {
+      "word": "Y estaban atónitos y maravillados, diciendo: Mirad, ¿no son galileos todos estos que hablan?",
+      "verse": 7,
+      "start_ms": 40062,
+      "end_ms": 46787,
+      "duration_ms": 6725
+    },
+    {
+      "word": "Cómo, pues, les oímos nosotros hablar cada uno en nuestra lengua en la que hemos nacido?",
+      "verse": 8,
+      "start_ms": 46787,
+      "end_ms": 52962,
+      "duration_ms": 6175
+    },
+    {
+      "word": "Partos, medos, elamitas, y los que habitamos en Mesopotamia, en Judea, en Capadocia, en el Ponto y en Asia, en Frigia y Panfilia, en Egipto y en las regiones de Africa más allá de Cirene, y romanos aquí residentes, tanto judíos como prosélitos, cretenses y árabes, les oímos hablar en nuestras lenguas las maravillas de Dios.",
+      "verse": 9,
+      "start_ms": 52962,
+      "end_ms": 74512,
+      "duration_ms": 21550
+    },
+    {
+      "word": "Y estaban todos atónitos y perplejos, diciéndose unos a otros: ¿Qué quiere decir esto?",
+      "verse": 12,
+      "start_ms": 74512,
+      "end_ms": 80974,
+      "duration_ms": 6462
+    },
+    {
+      "word": "Mas otros, burlándose, decían: Están llenos de mosto.",
+      "verse": 13,
+      "start_ms": 80975,
+      "end_ms": 85900,
+      "duration_ms": 4925
+    },
+    {
+      "word": "Primer discurso de Pedro Entonces Pedro, poniéndose en pie con los once, alzó la voz y les habló diciendo: Varones judíos, y todos los que habitáis en Jerusalén, esto os sea notorio, y oíd mis palabras.",
+      "verse": 13,
+      "start_ms": 85900,
+      "end_ms": 99212,
+      "duration_ms": 13312
+    },
+    {
+      "word": "Porque éstos no están ebrios, como vosotros suponéis, puesto que es la hora tercera del día.",
+      "verse": 15,
+      "start_ms": 99212,
+      "end_ms": 105362,
+      "duration_ms": 6150
+    },
+    {
+      "word": "Mas esto es lo dicho por el profeta Joel: Y en los postreros días, dice Dios, Derramaré de mi Espíritu sobre toda carne, Y vuestros hijos y vuestras hijas profetizarán; Vuestros jóvenes verán visiones, Y vuestros ancianos soñarán sueños; Y de cierto sobre mis siervos y sobre mis siervas en aquellos días Derramaré de mi Espíritu, y profetizarán.",
+      "verse": 16,
+      "start_ms": 105362,
+      "end_ms": 126224,
+      "duration_ms": 20862
+    },
+    {
+      "word": "Y daré prodigios arriba en el cielo, Y señales abajo en la tierra, Sangre y fuego y vapor de humo; El sol se convertirá en tinieblas, Y la luna en sangre, Antes que venga el día del Señor, Grande y manifiesto; Y todo aquel que invocare el nombre del Señor, será salvo.",
+      "verse": 19,
+      "start_ms": 126225,
+      "end_ms": 143162,
+      "duration_ms": 16937
+    },
+    {
+      "word": "Varones israelitas, oíd estas palabras: Jesús nazareno, varón aprobado por Dios entre vosotros con las maravillas, prodigios y señales que Dios hizo entre vosotros por medio de él, como vosotros mismos sabéis; a éste, entregado por el determinado consejo y anticipado conocimiento de Dios, prendisteis y matasteis por manos de inicuos, crucificándole; al cual Dios levantó, sueltos los dolores de la muerte, por cuanto era imposible que fuese retenido por ella.",
+      "verse": 22,
+      "start_ms": 143162,
+      "end_ms": 171174,
+      "duration_ms": 28012
+    },
+    {
+      "word": "Porque David dice de él: Veía al Señor siempre delante de mí; Porque está a mi diestra, no seré conmovido.",
+      "verse": 25,
+      "start_ms": 171175,
+      "end_ms": 178537,
+      "duration_ms": 7362
+    },
+    {
+      "word": "Por lo cual mi corazón se alegró, y se gozó mi lengua, Y aun mi carne descansará en esperanza; Porque no dejarás mi alma en el Hades, Ni permitirás que tu Santo vea corrupción.",
+      "verse": 26,
+      "start_ms": 178537,
+      "end_ms": 189499,
+      "duration_ms": 10962
+    },
+    {
+      "word": "Me hiciste conocer los caminos de la vida; Me llenarás de gozo con tu presencia.",
+      "verse": 28,
+      "start_ms": 189500,
+      "end_ms": 194687,
+      "duration_ms": 5187
+    },
+    {
+      "word": "Varones hermanos, se os puede decir libremente del patriarca David, que murió y fue sepultado, y su sepulcro está con nosotros hasta el día de hoy.",
+      "verse": 29,
+      "start_ms": 194687,
+      "end_ms": 203862,
+      "duration_ms": 9175
+    },
+    {
+      "word": "Pero siendo profeta, y sabiendo que con juramento Dios le había jurado que de su descendencia, en cuanto a la carne, levantaría al Cristo para que se sentase en su trono, viéndolo antes, habló de la resurrección de Cristo, que su alma no fue dejada en el Hades, ni su carne vio corrupción.",
+      "verse": 30,
+      "start_ms": 203862,
+      "end_ms": 220474,
+      "duration_ms": 16612
+    },
+    {
+      "word": "A este Jesús resucitó Dios, de lo cual todos nosotros somos testigos.",
+      "verse": 32,
+      "start_ms": 220475,
+      "end_ms": 225737,
+      "duration_ms": 5262
+    },
+    {
+      "word": "Así que, exaltado por la diestra de Dios, y habiendo recibido del Padre la promesa del Espíritu Santo, ha derramado esto que vosotros veis y oís.",
+      "verse": 33,
+      "start_ms": 225737,
+      "end_ms": 235437,
+      "duration_ms": 9700
+    },
+    {
+      "word": "Porque David no subió a los cielos; pero él mismo dice: Dijo el Señor a mi Señor: Siéntate a mi diestra, Hasta que ponga a tus enemigos por estrado de tus pies.",
+      "verse": 34,
+      "start_ms": 235437,
+      "end_ms": 245387,
+      "duration_ms": 9950
+    },
+    {
+      "word": "Sepa, pues, ciertísimamente toda la casa de Israel, que a este Jesús a quien vosotros crucificasteis, Dios le ha hecho Señor y Cristo.",
+      "verse": 36,
+      "start_ms": 245387,
+      "end_ms": 254487,
+      "duration_ms": 9100
+    },
+    {
+      "word": "Al oír esto, se",
+      "verse": 37,
+      "start_ms": 254487,
+      "end_ms": 256824,
+      "duration_ms": 2337
+    },
+    {
+      "word": "compungieron de corazón, y dijeron a Pedro y a los otros apóstoles: Varones hermanos, ¿qué haremos?",
+      "verse": 37,
+      "start_ms": 256996,
+      "end_ms": 264133,
+      "duration_ms": 7137
+    },
+    {
+      "word": "Pedro les dijo: Arrepentíos, y bautícese cada uno de vosotros en el nombre de Jesucristo para perdón de los pecados; y recibiréis el don del Espíritu Santo.",
+      "verse": 38,
+      "start_ms": 264083,
+      "end_ms": 274120,
+      "duration_ms": 10037
+    },
+    {
+      "word": "Porque para vosotros es la promesa, y para vuestros hijos, y para todos los que están lejos; para cuantos el Señor nuestro Dios llamare.",
+      "verse": 39,
+      "start_ms": 274121,
+      "end_ms": 282446,
+      "duration_ms": 8325
+    },
+    {
+      "word": "Y con otras muchas palabras testificaba y les exhortaba, diciendo: Sed salvos de esta perversa generación.",
+      "verse": 40,
+      "start_ms": 282446,
+      "end_ms": 289796,
+      "duration_ms": 7350
+    },
+    {
+      "word": "Así que, los que recibieron su palabra fueron bautizados; y se añadieron aquel día como tres mil personas.",
+      "verse": 41,
+      "start_ms": 289796,
+      "end_ms": 296858,
+      "duration_ms": 7062
+    },
+    {
+      "word": "Y perseveraban en la doctrina de los apóstoles, en la comunión unos con otros, en el partimiento del pan y en las oraciones.",
+      "verse": 42,
+      "start_ms": 296858,
+      "end_ms": 304395,
+      "duration_ms": 7537
+    },
+    {
+      "word": "La vida de los primeros cristianos Y sobrevino temor a toda persona; y muchas maravillas y señales eran hechas por los apóstoles.",
+      "verse": 42,
+      "start_ms": 304396,
+      "end_ms": 312271,
+      "duration_ms": 7875
+    },
+    {
+      "word": "Todos los que habían creído estaban juntos, y tenían en común todas las cosas; y vendían sus propiedades y sus bienes, y lo repartían a todos según la necesidad de cada uno.",
+      "verse": 44,
+      "start_ms": 312271,
+      "end_ms": 323246,
+      "duration_ms": 10975
+    },
+    {
+      "word": "Y perseverando unánimes cada día en el templo, y partiendo el pan en las casas, comían juntos con alegría y sencillez de corazón, alabando a Dios, y teniendo favor con todo el pueblo.",
+      "verse": 46,
+      "start_ms": 323246,
+      "end_ms": 334821,
+      "duration_ms": 11575
+    },
+    {
+      "word": "Y el Señor añadía cada día a la iglesia los que habían de ser salvos.",
+      "verse": 47,
+      "start_ms": 334821,
+      "end_ms": 339446,
+      "duration_ms": 4625
+    }
+  ]
+}

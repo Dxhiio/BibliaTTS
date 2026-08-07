@@ -1,0 +1,103 @@
+{
+  "book": "SAL",
+  "chapter": 53,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 6,
+  "word_count": 7,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 115,
+      "text": "Dice el necio en su corazón: No hay Dios. Se han corrompido, e hicieron abominable maldad; No hay quien haga bien."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 115,
+      "char_end": 228,
+      "text": "Dios desde los cielos miró sobre los hijos de los hombres, Para ver si había algún entendido Que buscara a Dios."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 228,
+      "char_end": 335,
+      "text": "Cada uno se había vuelto atrás; todos se habían corrompido; No hay quien haga lo bueno, no hay ni aun uno."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 335,
+      "char_end": 457,
+      "text": "¿No tienen conocimiento todos los que hacen iniquidad, Que devoran a mi pueblo como si comiesen pan, Y a Dios no invocan?"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 457,
+      "char_end": 620,
+      "text": "Allí se sobresaltaron de pavor donde no había miedo, Porque Dios ha esparcido los huesos del que puso asedio contra ti; Los avergonzaste, porque Dios los desechó."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 620,
+      "char_end": 764,
+      "text": "¡Oh, si saliera de Sion la salvación de Israel! Cuando Dios hiciere volver de la cautividad a su pueblo, Se gozará Jacob, y se alegrará Israel."
+    }
+  ],
+  "words": [
+    {
+      "word": "Dice el necio en su corazón: No hay Dios.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3750,
+      "duration_ms": 3650
+    },
+    {
+      "word": "Se han corrompido, e hicieron abominable maldad; No hay quien haga bien.",
+      "verse": 1,
+      "start_ms": 3700,
+      "end_ms": 8725,
+      "duration_ms": 5025
+    },
+    {
+      "word": "Dios desde los cielos miró sobre los hijos de los hombres, Para ver si había algún entendido Que buscara a Dios.",
+      "verse": 2,
+      "start_ms": 8725,
+      "end_ms": 15437,
+      "duration_ms": 6712
+    },
+    {
+      "word": "Cada uno se había vuelto atrás; todos se habían corrompido; No hay quien haga lo bueno, no hay ni aun uno.",
+      "verse": 3,
+      "start_ms": 15437,
+      "end_ms": 22574,
+      "duration_ms": 7137
+    },
+    {
+      "word": "No tienen conocimiento todos los que hacen iniquidad, Que devoran a mi pueblo como si comiesen pan, Y a Dios no invocan?",
+      "verse": 4,
+      "start_ms": 22575,
+      "end_ms": 30562,
+      "duration_ms": 7987
+    },
+    {
+      "word": "Allí se sobresaltaron de pavor donde no había miedo, Porque Dios ha esparcido los huesos del que puso asedio contra ti; Los avergonzaste, porque Dios los desechó.",
+      "verse": 5,
+      "start_ms": 30562,
+      "end_ms": 40224,
+      "duration_ms": 9662
+    },
+    {
+      "word": "Oh, si saliera de Sion la salvación de Israel!",
+      "verse": 6,
+      "start_ms": 40225,
+      "end_ms": 43812,
+      "duration_ms": 3587
+    }
+  ]
+}

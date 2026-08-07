@@ -1,0 +1,117 @@
+{
+  "book": "SAL",
+  "chapter": 13,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 6,
+  "word_count": 9,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 93,
+      "text": "¿Hasta cuándo, Jehová? ¿Me olvidarás para siempre? ¿Hasta cuándo esconderás tu rostro de mí?"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 93,
+      "char_end": 224,
+      "text": "¿Hasta cuándo pondré consejos en mi alma, Con tristezas en mi corazón cada día? ¿Hasta cuándo será enaltecido mi enemigo sobre mí?"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 224,
+      "char_end": 310,
+      "text": "Mira, respóndeme, oh Jehová Dios mío; Alumbra mis ojos, para que no duerma de muerte;"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 310,
+      "char_end": 394,
+      "text": "Para que no diga mi enemigo: Lo vencí. Mis enemigos se alegrarían, si yo resbalara."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 394,
+      "char_end": 473,
+      "text": "Mas yo en tu misericordia he confiado; Mi corazón se alegrará en tu salvación."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 473,
+      "char_end": 516,
+      "text": "Cantaré a Jehová, Porque me ha hecho bien."
+    }
+  ],
+  "words": [
+    {
+      "word": "Hasta cuándo, Jehová?",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 2375,
+      "duration_ms": 2275
+    },
+    {
+      "word": "Me olvidarás para siempre?",
+      "verse": 1,
+      "start_ms": 2325,
+      "end_ms": 4687,
+      "duration_ms": 2362
+    },
+    {
+      "word": "Hasta cuándo esconderás tu rostro de mí?",
+      "verse": 1,
+      "start_ms": 4687,
+      "end_ms": 7549,
+      "duration_ms": 2862
+    },
+    {
+      "word": "Hasta cuándo pondré consejos en mi alma, Con tristezas en mi corazón cada día?",
+      "verse": 2,
+      "start_ms": 7550,
+      "end_ms": 12862,
+      "duration_ms": 5312
+    },
+    {
+      "word": "Hasta cuándo será enaltecido mi enemigo sobre mí?",
+      "verse": 2,
+      "start_ms": 12862,
+      "end_ms": 16312,
+      "duration_ms": 3450
+    },
+    {
+      "word": "Mira, respóndeme, oh Jehová Dios mío; Alumbra mis ojos, para que no duerma de muerte; Para que no diga mi enemigo: Lo vencí.",
+      "verse": 3,
+      "start_ms": 16312,
+      "end_ms": 25224,
+      "duration_ms": 8912
+    },
+    {
+      "word": "Mis enemigos se alegrarían, si yo resbalara.",
+      "verse": 4,
+      "start_ms": 25225,
+      "end_ms": 28875,
+      "duration_ms": 3650
+    },
+    {
+      "word": "Mas yo en tu misericordia he confiado; Mi corazón se alegrará en tu salvación.",
+      "verse": 5,
+      "start_ms": 28875,
+      "end_ms": 34075,
+      "duration_ms": 5200
+    },
+    {
+      "word": "Cantaré a Jehová, Porque me ha hecho bien.",
+      "verse": 6,
+      "start_ms": 34075,
+      "end_ms": 37487,
+      "duration_ms": 3412
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "book": "JOB",
+  "chapter": 29,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 25,
+  "word_count": 17,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 43,
+      "text": "Volvió Job a reanudar su discurso, y dijo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 43,
+      "char_end": 131,
+      "text": "¡Quién me volviese como en los meses pasados, Como en los días en que Dios me guardaba,"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 131,
+      "char_end": 225,
+      "text": "Cuando hacía resplandecer sobre mi cabeza su lámpara, A cuya luz yo caminaba en la oscuridad;"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 225,
+      "char_end": 310,
+      "text": "Como fui en los días de mi juventud, Cuando el favor de Dios velaba sobre mi tienda;"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 310,
+      "char_end": 381,
+      "text": "Cuando aún estaba conmigo el Omnipotente, Y mis hijos alrededor de mí;"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 381,
+      "char_end": 460,
+      "text": "Cuando lavaba yo mis pasos con leche, Y la piedra me derramaba ríos de aceite!"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 460,
+      "char_end": 539,
+      "text": "Cuando yo salía a la puerta a juicio, Y en la plaza hacía preparar mi asiento,"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 539,
+      "char_end": 625,
+      "text": "Los jóvenes me veían, y se escondían; Y los ancianos se levantaban, y estaban de pie."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 625,
+      "char_end": 692,
+      "text": "Los príncipes detenían sus palabras; Ponían la mano sobre su boca."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 692,
+      "char_end": 766,
+      "text": "La voz de los principales se apagaba, Y su lengua se pegaba a su paladar."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 766,
+      "char_end": 861,
+      "text": "Los oídos que me oían me llamaban bienaventurado, Y los ojos que me veían me daban testimonio,"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 861,
+      "char_end": 940,
+      "text": "Porque yo libraba al pobre que clamaba, Y al huérfano que carecía de ayudador."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 940,
+      "char_end": 1035,
+      "text": "La bendición del que se iba a perder venía sobre mí, Y al corazón de la viuda yo daba alegría."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1035,
+      "char_end": 1114,
+      "text": "Me vestía de justicia, y ella me cubría; Como manto y diadema era mi rectitud."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1114,
+      "char_end": 1152,
+      "text": "Yo era ojos al ciego, Y pies al cojo."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1152,
+      "char_end": 1242,
+      "text": "A los menesterosos era padre, Y de la causa que no entendía, me informaba con diligencia;"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1242,
+      "char_end": 1322,
+      "text": "Y quebrantaba los colmillos del inicuo, Y de sus dientes hacía soltar la presa."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1322,
+      "char_end": 1387,
+      "text": "Decía yo: En mi nido moriré, Y como arena multiplicaré mis días."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1387,
+      "char_end": 1465,
+      "text": "Mi raíz estaba abierta junto a las aguas, Y en mis ramas permanecía el rocío."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1465,
+      "char_end": 1529,
+      "text": "Mi honra se renovaba en mí, Y mi arco se fortalecía en mi mano."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1529,
+      "char_end": 1576,
+      "text": "Me oían, y esperaban, Y callaban a mi consejo."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1576,
+      "char_end": 1641,
+      "text": "Tras mi palabra no replicaban, Y mi razón destilaba sobre ellos."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1641,
+      "char_end": 1714,
+      "text": "Me esperaban como a la lluvia, Y abrían su boca como a la lluvia tardía."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1714,
+      "char_end": 1784,
+      "text": "Si me reía con ellos, no lo creían; Y no abatían la luz de mi rostro."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1784,
+      "char_end": 1930,
+      "text": "Calificaba yo el camino de ellos, y me sentaba entre ellos como el jefe; Y moraba como rey en el ejército, Como el que consuela a los que lloran."
+    }
+  ],
+  "words": [
+    {
+      "word": "Volvió Job a reanudar su discurso, y dijo: ¡Quién me volviese como en los meses pasados, Como en los días en que Dios me guardaba, Cuando hacía resplandecer sobre mi cabeza su lámpara, A cuya luz yo caminaba en la oscuridad; Como fui en los días de mi juventud, Cuando el favor de Dios velaba sobre mi tienda; Cuando aún estaba conmigo el Omnipotente, Y mis hijos alrededor de mí; Cuando lavaba yo mis pasos con leche, Y la piedra me derramaba ríos de aceite!",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 26525,
+      "duration_ms": 26425
+    },
+    {
+      "word": "Cuando yo salía a la puerta a juicio, Y en la plaza hacía preparar mi asiento, Los jóvenes me veían, y se escondían; Y los ancianos se levantaban, y estaban de pie.",
+      "verse": 7,
+      "start_ms": 26525,
+      "end_ms": 36675,
+      "duration_ms": 10150
+    },
+    {
+      "word": "Los príncipes detenían sus palabras; Ponían la mano sobre su boca.",
+      "verse": 9,
+      "start_ms": 36675,
+      "end_ms": 41437,
+      "duration_ms": 4762
+    },
+    {
+      "word": "La voz de los principales se apagaba, Y su lengua se pegaba a su paladar.",
+      "verse": 10,
+      "start_ms": 41437,
+      "end_ms": 46262,
+      "duration_ms": 4825
+    },
+    {
+      "word": "Los oídos que me oían me llamaban bienaventurado, Y los ojos que me veían me daban testimonio, Porque yo libraba al pobre que clamaba, Y al huérfano que carecía de ayudador.",
+      "verse": 11,
+      "start_ms": 46262,
+      "end_ms": 56687,
+      "duration_ms": 10425
+    },
+    {
+      "word": "La bendición del que se iba a perder venía sobre mí, Y al corazón de la viuda yo daba alegría.",
+      "verse": 13,
+      "start_ms": 56687,
+      "end_ms": 62762,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Me vestía de justicia, y ella me cubría; Como manto y diadema era mi rectitud.",
+      "verse": 14,
+      "start_ms": 62762,
+      "end_ms": 68637,
+      "duration_ms": 5875
+    },
+    {
+      "word": "Yo era ojos al ciego, Y pies al cojo.",
+      "verse": 15,
+      "start_ms": 68637,
+      "end_ms": 72049,
+      "duration_ms": 3412
+    },
+    {
+      "word": "A los menesterosos era padre, Y de la causa que no entendía, me informaba con diligencia; Y quebrantaba los colmillos del inicuo, Y de sus dientes hacía soltar la presa.",
+      "verse": 16,
+      "start_ms": 72050,
+      "end_ms": 82500,
+      "duration_ms": 10450
+    },
+    {
+      "word": "Decía yo: En mi nido moriré, Y como arena multiplicaré mis días.",
+      "verse": 18,
+      "start_ms": 82500,
+      "end_ms": 87837,
+      "duration_ms": 5337
+    },
+    {
+      "word": "Mi raíz estaba abierta junto a las aguas, Y en mis ramas permanecía el rocío.",
+      "verse": 19,
+      "start_ms": 87837,
+      "end_ms": 93112,
+      "duration_ms": 5275
+    },
+    {
+      "word": "Mi honra se renovaba en mí, Y mi arco se fortalecía en mi mano.",
+      "verse": 20,
+      "start_ms": 93112,
+      "end_ms": 97612,
+      "duration_ms": 4500
+    },
+    {
+      "word": "Me oían, y esperaban, Y callaban a mi consejo.",
+      "verse": 21,
+      "start_ms": 97612,
+      "end_ms": 101674,
+      "duration_ms": 4062
+    },
+    {
+      "word": "Tras mi palabra no replicaban, Y mi razón destilaba sobre ellos.",
+      "verse": 22,
+      "start_ms": 101675,
+      "end_ms": 106437,
+      "duration_ms": 4762
+    },
+    {
+      "word": "Me esperaban como a la lluvia, Y abrían su boca como a la lluvia tardía.",
+      "verse": 23,
+      "start_ms": 106437,
+      "end_ms": 111212,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Si me reía con ellos, no lo creían; Y no abatían la luz de mi rostro.",
+      "verse": 24,
+      "start_ms": 111212,
+      "end_ms": 116512,
+      "duration_ms": 5300
+    },
+    {
+      "word": "Calificaba yo el camino de ellos, y me sentaba entre ellos como el jefe; Y moraba como rey en el ejército, Como el que consuela a los que lloran.",
+      "verse": 25,
+      "start_ms": 116512,
+      "end_ms": 125537,
+      "duration_ms": 9025
+    }
+  ]
+}

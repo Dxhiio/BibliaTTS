@@ -1,0 +1,159 @@
+{
+  "book": "ISA",
+  "chapter": 15,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 9,
+  "word_count": 12,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 149,
+      "text": "Profecía sobre Moab. Cierto, de noche fue destruida Ar de Moab, puesta en silencio. Cierto, de noche fue destruida Kir de Moab, reducida a silencio."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 149,
+      "char_end": 295,
+      "text": "Subió a Bayit y a Dibón, lugares altos, a llorar; sobre Nebo y sobre Medeba aullará Moab; toda cabeza de ella será rapada, y toda barba rasurada."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 295,
+      "char_end": 405,
+      "text": "Se ceñirán de cilicio en sus calles; en sus terrados y en sus plazas aullarán todos, deshaciéndose en llanto."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 405,
+      "char_end": 550,
+      "text": "Hesbón y Eleale gritarán, hasta Jahaza se oirá su voz; por lo que aullarán los guerreros de Moab, se lamentará el alma de cada uno dentro de él."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 550,
+      "char_end": 749,
+      "text": "Mi corazón dará gritos por Moab; sus fugitivos huirán hasta Zoar, como novilla de tres años. Por la cuesta de Luhit subirán llorando, y levantarán grito de quebrantamiento por el camino de Horonaim."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 749,
+      "char_end": 860,
+      "text": "Las aguas de Nimrim serán consumidas, y se secará la hierba, se marchitarán los retoños, todo verdor perecerá."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 860,
+      "char_end": 974,
+      "text": "Por tanto, las riquezas que habrán adquirido, y las que habrán reservado, las llevarán al torrente de los sauces."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 974,
+      "char_end": 1078,
+      "text": "Porque el llanto rodeó los límites de Moab; hasta Eglaim llegó su alarido, y hasta Beer-elim su clamor."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1078,
+      "char_end": 1239,
+      "text": "Y las aguas de Dimón se llenarán de sangre; porque yo traeré sobre Dimón males mayores, leones a los que escaparen de Moab, y a los sobrevivientes de la tierra."
+    }
+  ],
+  "words": [
+    {
+      "word": "Profecía sobre Moab.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 2225,
+      "duration_ms": 2125
+    },
+    {
+      "word": "Cierto, de noche fue destruida Ar de Moab, puesta en silencio.",
+      "verse": 1,
+      "start_ms": 2175,
+      "end_ms": 6937,
+      "duration_ms": 4762
+    },
+    {
+      "word": "Cierto, de noche fue destruida Kir de Moab, reducida a silencio.",
+      "verse": 1,
+      "start_ms": 6937,
+      "end_ms": 12087,
+      "duration_ms": 5150
+    },
+    {
+      "word": "Subió a Bayit y a Dibón, lugares altos, a llorar; sobre Nebo y sobre Medeba aullará Moab; toda cabeza de ella será rapada, y toda barba rasurada.",
+      "verse": 2,
+      "start_ms": 12087,
+      "end_ms": 22624,
+      "duration_ms": 10537
+    },
+    {
+      "word": "Se ceñirán de cilicio en sus calles; en sus terrados y en sus plazas aullarán todos, deshaciéndose en llanto.",
+      "verse": 3,
+      "start_ms": 22625,
+      "end_ms": 29825,
+      "duration_ms": 7200
+    },
+    {
+      "word": "Hesbón y Eleale gritarán, hasta Jahaza se oirá su voz; por lo que aullarán los guerreros de Moab, se lamentará el alma de cada uno dentro de él.",
+      "verse": 4,
+      "start_ms": 29825,
+      "end_ms": 38862,
+      "duration_ms": 9037
+    },
+    {
+      "word": "Mi corazón dará gritos por Moab; sus fugitivos huirán hasta Zoar, como novilla de tres años.",
+      "verse": 5,
+      "start_ms": 38862,
+      "end_ms": 45399,
+      "duration_ms": 6537
+    },
+    {
+      "word": "Por la cuesta de Luhit subirán llorando, y levantarán grito de quebrantamiento por el camino de Horonaim.",
+      "verse": 5,
+      "start_ms": 45400,
+      "end_ms": 51612,
+      "duration_ms": 6212
+    },
+    {
+      "word": "Las aguas de Nimrim serán consumidas, y se secará la hierba, se marchitarán los retoños, todo verdor perecerá.",
+      "verse": 6,
+      "start_ms": 51612,
+      "end_ms": 59174,
+      "duration_ms": 7562
+    },
+    {
+      "word": "Por tanto, las riquezas que habrán adquirido, y las que habrán reservado, las llevarán al torrente de los sauces.",
+      "verse": 7,
+      "start_ms": 59175,
+      "end_ms": 66200,
+      "duration_ms": 7025
+    },
+    {
+      "word": "Porque el llanto rodeó los límites de Moab; hasta Eglaim llegó su alarido, y hasta Beer-elim su clamor.",
+      "verse": 8,
+      "start_ms": 66200,
+      "end_ms": 72775,
+      "duration_ms": 6575
+    },
+    {
+      "word": "Y las aguas de Dimón se llenarán de sangre; porque yo traeré sobre Dimón males mayores, leones a los que escaparen de Moab, y a los sobrevivientes de la tierra.",
+      "verse": 9,
+      "start_ms": 72775,
+      "end_ms": 82412,
+      "duration_ms": 9637
+    }
+  ]
+}

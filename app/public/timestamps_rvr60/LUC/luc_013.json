@@ -1,0 +1,845 @@
+{
+  "book": "LUC",
+  "chapter": 13,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 59,
+  "word_count": 60,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 197,
+      "text": "En esto, juntándose por millares la multitud, tanto que unos a otros se atropellaban, comenzó a decir a sus discípulos, primeramente: Guardaos de la levadura de los fariseos, que es la hipocresía."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 197,
+      "char_end": 288,
+      "text": "Porque nada hay encubierto, que no haya de descubrirse; ni oculto, que no haya de saberse."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 288,
+      "char_end": 472,
+      "text": "Por tanto, todo lo que habéis dicho en tinieblas, a la luz se oirá; y lo que habéis hablado al oído en los aposentos, se proclamará en las azoteas. A quién se debe temer (Mt 10.26–31)"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 472,
+      "char_end": 568,
+      "text": "Mas os digo, amigos míos: No temáis a los que matan el cuerpo, y después nada más pueden hacer."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 568,
+      "char_end": 723,
+      "text": "Pero os enseñaré a quién debéis temer: Temed a aquel que después de haber quitado la vida, tiene poder de echar en el infierno; sí, os digo, a éste temed."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 723,
+      "char_end": 828,
+      "text": "¿No se venden cinco pajarillos por dos cuartos? Con todo, ni uno de ellos está olvidado delante de Dios."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 828,
+      "char_end": 993,
+      "text": "Pues aun los cabellos de vuestra cabeza están todos contados. No temáis, pues; más valéis vosotros que muchos pajarillos. El que me confesare delante de los hombres"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 993,
+      "char_end": 1129,
+      "text": "Os digo que todo aquel que me confesare delante de los hombres, también el Hijo del Hombre le confesará delante de los ángeles de Dios;"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1129,
+      "char_end": 1218,
+      "text": "mas el que me negare delante de los hombres, será negado delante de los ángeles de Dios."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1218,
+      "char_end": 1374,
+      "text": "A todo aquel que dijere alguna palabra contra el Hijo del Hombre, le será perdonado; pero al que blasfemare contra el Espíritu Santo, no le será perdonado."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1374,
+      "char_end": 1530,
+      "text": "Cuando os trajeren a las sinagogas, y ante los magistrados y las autoridades, no os preocupéis por cómo o qué habréis de responder, o qué habréis de decir;"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1530,
+      "char_end": 1623,
+      "text": "porque el Espíritu Santo os enseñará en la misma hora lo que debáis decir. El rico insensato"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1623,
+      "char_end": 1707,
+      "text": "Le dijo uno de la multitud: Maestro, di a mi hermano que parta conmigo la herencia."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1707,
+      "char_end": 1788,
+      "text": "Mas él le dijo: Hombre, ¿quién me ha puesto sobre vosotros como juez o partidor?"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1788,
+      "char_end": 1916,
+      "text": "Y les dijo: Mirad, y guardaos de toda avaricia; porque la vida del hombre no consiste en la abundancia de los bienes que posee."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1916,
+      "char_end": 2012,
+      "text": "También les refirió una parábola, diciendo: La heredad de un hombre rico había producido mucho."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2012,
+      "char_end": 2102,
+      "text": "Y él pensaba dentro de sí, diciendo: ¿Qué haré, porque no tengo dónde guardar mis frutos?"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2102,
+      "char_end": 2217,
+      "text": "Y dijo: Esto haré: derribaré mis graneros, y los edificaré mayores, y allí guardaré todos mis frutos y mis bienes;"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2217,
+      "char_end": 2324,
+      "text": "y diré a mi alma: Alma, muchos bienes tienes guardados para muchos años; repósate, come, bebe, regocíjate."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2324,
+      "char_end": 2426,
+      "text": "Pero Dios le dijo: Necio, esta noche vienen a pedirte tu alma; y lo que has provisto, ¿de quién será?"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2426,
+      "char_end": 2524,
+      "text": "Así es el que hace para sí tesoro, y no es rico para con Dios. El afán y la ansiedad (Mt 6.25–34)"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2524,
+      "char_end": 2651,
+      "text": "Dijo luego a sus discípulos: Por tanto os digo: No os afanéis por vuestra vida, qué comeréis; ni por el cuerpo, qué vestiréis."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2651,
+      "char_end": 2709,
+      "text": "La vida es más que la comida, y el cuerpo que el vestido."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2709,
+      "char_end": 2862,
+      "text": "Considerad los cuervos, que ni siembran, ni siegan; que ni tienen despensa, ni granero, y Dios los alimenta. ¿No valéis vosotros mucho más que las aves?"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2862,
+      "char_end": 2932,
+      "text": "¿Y quién de vosotros podrá con afanarse añadir a su estatura un codo?"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2932,
+      "char_end": 3008,
+      "text": "Pues si no podéis ni aun lo que es menos, ¿por qué os afanáis por lo demás?"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3008,
+      "char_end": 3147,
+      "text": "Considerad los lirios, cómo crecen; no trabajan, ni hilan; mas os digo, que ni aun Salomón con toda su gloria se vistió como uno de ellos."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3147,
+      "char_end": 3276,
+      "text": "Y si así viste Dios la hierba que hoy está en el campo, y mañana es echada al horno, ¿cuánto más a vosotros, hombres de poca fe?"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3276,
+      "char_end": 3400,
+      "text": "Vosotros, pues, no os preocupéis por lo que habéis de comer, ni por lo que habéis de beber, ni estéis en ansiosa inquietud."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3400,
+      "char_end": 3515,
+      "text": "Porque todas estas cosas buscan las gentes del mundo; pero vuestro Padre sabe que tenéis necesidad de estas cosas."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3515,
+      "char_end": 3615,
+      "text": "Mas buscad el reino de Dios, y todas estas cosas os serán añadidas. Tesoro en el cielo (Mt 6.19–21)"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3615,
+      "char_end": 3695,
+      "text": "No temáis, manada pequeña, porque a vuestro Padre le ha placido daros el reino."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3695,
+      "char_end": 3851,
+      "text": "Vended lo que poseéis, y dad limosna; haceos bolsas que no se envejezcan, tesoro en los cielos que no se agote, donde ladrón no llega, ni polilla destruye."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3851,
+      "char_end": 3942,
+      "text": "Porque donde está vuestro tesoro, allí estará también vuestro corazón. El siervo vigilante"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3942,
+      "char_end": 4004,
+      "text": "Estén ceñidos vuestros lomos, y vuestras lámparas encendidas;"
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4004,
+      "char_end": 4143,
+      "text": "y vosotros sed semejantes a hombres que aguardan a que su señor regrese de las bodas, para que cuando llegue y llame, le abran en seguida."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4143,
+      "char_end": 4316,
+      "text": "Bienaventurados aquellos siervos a los cuales su señor, cuando venga, halle velando; de cierto os digo que se ceñirá, y hará que se sienten a la mesa, y vendrá a servirles."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4316,
+      "char_end": 4448,
+      "text": "Y aunque venga a la segunda vigilia, y aunque venga a la tercera vigilia, si los hallare así, bienaventurados son aquellos siervos."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4448,
+      "char_end": 4586,
+      "text": "Pero sabed esto, que si supiese el padre de familia a qué hora el ladrón había de venir, velaría ciertamente, y no dejaría minar su casa."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4586,
+      "char_end": 4720,
+      "text": "Vosotros, pues, también, estad preparados, porque a la hora que no penséis, el Hijo del Hombre vendrá. El siervo infiel (Mt 24.45–51)"
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4720,
+      "char_end": 4803,
+      "text": "Entonces Pedro le dijo: Señor, ¿dices esta parábola a nosotros, o también a todos?"
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4803,
+      "char_end": 4934,
+      "text": "Y dijo el Señor: ¿Quién es el mayordomo fiel y prudente al cual su señor pondrá sobre su casa, para que a tiempo les dé su ración?"
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4934,
+      "char_end": 5017,
+      "text": "Bienaventurado aquel siervo al cual, cuando su señor venga, le halle haciendo así."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 5017,
+      "char_end": 5073,
+      "text": "En verdad os digo que le pondrá sobre todos sus bienes."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 5073,
+      "char_end": 5226,
+      "text": "Mas si aquel siervo dijere en su corazón: Mi señor tarda en venir; y comenzare a golpear a los criados y a las criadas, y a comer y beber y embriagarse,"
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 5226,
+      "char_end": 5366,
+      "text": "vendrá el señor de aquel siervo en día que éste no espera, y a la hora que no sabe, y le castigará duramente, y le pondrá con los infieles."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 5366,
+      "char_end": 5490,
+      "text": "Aquel siervo que conociendo la voluntad de su señor, no se preparó, ni hizo conforme a su voluntad, recibirá muchos azotes."
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 5490,
+      "char_end": 5727,
+      "text": "Mas el que sin conocerla hizo cosas dignas de azotes, será azotado poco; porque a todo aquel a quien se haya dado mucho, mucho se le demandará; y al que mucho se le haya confiado, más se le pedirá. Jesús, causa de división (Mt 10.34–36)"
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 5727,
+      "char_end": 5798,
+      "text": "Fuego vine a echar en la tierra; ¿y qué quiero, si ya se ha encendido?"
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 5798,
+      "char_end": 5879,
+      "text": "De un bautismo tengo que ser bautizado; y ¡cómo me angustio hasta que se cumpla!"
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 5879,
+      "char_end": 5958,
+      "text": "¿Pensáis que he venido para dar paz en la tierra? Os digo: No, sino disensión."
+    },
+    {
+      "verse": 52,
+      "label": "52",
+      "char_start": 5958,
+      "char_end": 6062,
+      "text": "Porque de aquí en adelante, cinco en una familia estarán divididos, tres contra dos, y dos contra tres."
+    },
+    {
+      "verse": 53,
+      "label": "53",
+      "char_start": 6062,
+      "char_end": 6295,
+      "text": "Estará dividido el padre contra el hijo, y el hijo contra el padre; la madre contra la hija, y la hija contra la madre; la suegra contra su nuera, y la nuera contra su suegra. ¿Cómo no reconocéis este tiempo? (Mt 16.1–4; Mc 8.11–13)"
+    },
+    {
+      "verse": 54,
+      "label": "54",
+      "char_start": 6295,
+      "char_end": 6406,
+      "text": "Decía también a la multitud: Cuando veis la nube que sale del poniente, luego decís: Agua viene; y así sucede."
+    },
+    {
+      "verse": 55,
+      "label": "55",
+      "char_start": 6406,
+      "char_end": 6470,
+      "text": "Y cuando sopla el viento del sur, decís: Hará calor; y lo hace."
+    },
+    {
+      "verse": 56,
+      "label": "56",
+      "char_start": 6470,
+      "char_end": 6614,
+      "text": "¡Hipócritas! Sabéis distinguir el aspecto del cielo y de la tierra; ¿y cómo no distinguís este tiempo? Arréglate con tu adversario (Mt 5.25–26)"
+    },
+    {
+      "verse": 57,
+      "label": "57",
+      "char_start": 6614,
+      "char_end": 6673,
+      "text": "¿Y por qué no juzgáis por vosotros mismos lo que es justo?"
+    },
+    {
+      "verse": 58,
+      "label": "58",
+      "char_start": 6673,
+      "char_end": 6862,
+      "text": "Cuando vayas al magistrado con tu adversario, procura en el camino arreglarte con él, no sea que te arrastre al juez, y el juez te entregue al alguacil, y el alguacil te meta en la cárcel."
+    },
+    {
+      "verse": 59,
+      "label": "59",
+      "char_start": 6862,
+      "char_end": 6939,
+      "text": "Te digo que no saldrás de allí, hasta que hayas pagado aun la última blanca."
+    }
+  ],
+  "words": [
+    {
+      "word": "En esto, juntándose por millares la multitud, tanto que unos a otros se atropellaban, comenzó a decir a sus discípulos, primeramente: Guardaos de la levadura de los fariseos, que es la hipocresía.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 12587,
+      "duration_ms": 12487
+    },
+    {
+      "word": "Porque nada hay encubierto, que no haya de descubrirse; ni oculto, que no haya de saberse.",
+      "verse": 2,
+      "start_ms": 12537,
+      "end_ms": 19162,
+      "duration_ms": 6625
+    },
+    {
+      "word": "Por tanto, todo lo que habéis dicho en tinieblas, a la luz se oirá; y lo que habéis hablado al oído en los aposentos, se proclamará en las azoteas.",
+      "verse": 3,
+      "start_ms": 19162,
+      "end_ms": 28112,
+      "duration_ms": 8950
+    },
+    {
+      "word": "A quién se debe temer (Mt 10.26–31) Mas os digo, amigos míos: No temáis a los que matan el cuerpo, y después nada más pueden hacer.",
+      "verse": 3,
+      "start_ms": 28112,
+      "end_ms": 38637,
+      "duration_ms": 10525
+    },
+    {
+      "word": "Pero os enseñaré a quién debéis temer: Temed a aquel que después de haber quitado la vida, tiene poder de echar en el infierno; sí, os digo, a éste temed.",
+      "verse": 5,
+      "start_ms": 38637,
+      "end_ms": 48612,
+      "duration_ms": 9975
+    },
+    {
+      "word": "No se venden cinco pajarillos por dos cuartos?",
+      "verse": 6,
+      "start_ms": 48612,
+      "end_ms": 52074,
+      "duration_ms": 3462
+    },
+    {
+      "word": "Con todo, ni uno de ellos está olvidado delante de Dios.",
+      "verse": 6,
+      "start_ms": 52075,
+      "end_ms": 56437,
+      "duration_ms": 4362
+    },
+    {
+      "word": "Pues aun los cabellos de vuestra cabeza están todos contados.",
+      "verse": 7,
+      "start_ms": 56437,
+      "end_ms": 60524,
+      "duration_ms": 4087
+    },
+    {
+      "word": "No temáis, pues; más valéis vosotros que muchos pajarillos.",
+      "verse": 7,
+      "start_ms": 60525,
+      "end_ms": 65462,
+      "duration_ms": 4937
+    },
+    {
+      "word": "El que me confesare delante de los hombres Os digo que todo aquel que me confesare delante de los hombres, también el Hijo del Hombre le confesará delante de los ángeles de Dios; mas el que me negare delante de los hombres, será negado delante de los ángeles de Dios.",
+      "verse": 7,
+      "start_ms": 65462,
+      "end_ms": 80124,
+      "duration_ms": 14662
+    },
+    {
+      "word": "A todo aquel que dijere alguna palabra contra el Hijo del Hombre, le será perdonado; pero al que blasfemare contra el Espíritu Santo, no le será perdonado.",
+      "verse": 10,
+      "start_ms": 80125,
+      "end_ms": 89200,
+      "duration_ms": 9075
+    },
+    {
+      "word": "Cuando os trajeren a las sinagogas, y ante los magistrados y las autoridades, no os preocupéis por cómo o qué habréis de responder, o qué habréis de decir; porque el Espíritu Santo os enseñará en la misma hora lo que debáis decir.",
+      "verse": 11,
+      "start_ms": 89200,
+      "end_ms": 102600,
+      "duration_ms": 13400
+    },
+    {
+      "word": "El rico insensato Le dijo uno de la multitud: Maestro, di a mi hermano que parta conmigo la herencia.",
+      "verse": 12,
+      "start_ms": 102600,
+      "end_ms": 109325,
+      "duration_ms": 6725
+    },
+    {
+      "word": "Mas él le dijo: Hombre, ¿quién me ha puesto sobre vosotros como juez o partidor?",
+      "verse": 14,
+      "start_ms": 109325,
+      "end_ms": 114600,
+      "duration_ms": 5275
+    },
+    {
+      "word": "Y les dijo: Mirad, y guardaos de toda avaricia; porque la vida del hombre no consiste en la abundancia de los bienes que posee.",
+      "verse": 15,
+      "start_ms": 114600,
+      "end_ms": 122587,
+      "duration_ms": 7987
+    },
+    {
+      "word": "También les refirió una parábola, diciendo: La heredad de un hombre rico había producido mucho.",
+      "verse": 16,
+      "start_ms": 122587,
+      "end_ms": 128974,
+      "duration_ms": 6387
+    },
+    {
+      "word": "Y él pensaba dentro de sí, diciendo: ¿Qué haré, porque no tengo dónde guardar mis frutos?",
+      "verse": 17,
+      "start_ms": 128975,
+      "end_ms": 135412,
+      "duration_ms": 6437
+    },
+    {
+      "word": "Y dijo: Esto haré: derribaré mis graneros, y los edificaré mayores, y allí guardaré todos mis frutos y mis bienes; y diré a mi alma: Alma, muchos bienes tienes guardados para muchos años; repósate, come, bebe, regocíjate.",
+      "verse": 18,
+      "start_ms": 135412,
+      "end_ms": 151462,
+      "duration_ms": 16050
+    },
+    {
+      "word": "Pero Dios le dijo: Necio, esta noche vienen a pedirte tu alma; y lo que has provisto, ¿de quién será?",
+      "verse": 20,
+      "start_ms": 151462,
+      "end_ms": 158624,
+      "duration_ms": 7162
+    },
+    {
+      "word": "Así es el que hace para sí tesoro, y no es rico para con Dios.",
+      "verse": 21,
+      "start_ms": 158625,
+      "end_ms": 163075,
+      "duration_ms": 4450
+    },
+    {
+      "word": "El afán y la ansiedad (Mt 6.25–34) Dijo luego a sus discípulos: Por tanto os digo: No os afanéis por vuestra vida, qué comeréis; ni por el cuerpo, qué vestiréis.",
+      "verse": 21,
+      "start_ms": 163075,
+      "end_ms": 175912,
+      "duration_ms": 12837
+    },
+    {
+      "word": "La vida es más que la comida, y el cuerpo que el vestido.",
+      "verse": 23,
+      "start_ms": 175912,
+      "end_ms": 179987,
+      "duration_ms": 4075
+    },
+    {
+      "word": "Considerad los cuervos, que ni siembran, ni siegan; que ni tienen despensa, ni granero, y Dios los alimenta.",
+      "verse": 24,
+      "start_ms": 179987,
+      "end_ms": 187812,
+      "duration_ms": 7825
+    },
+    {
+      "word": "No valéis vosotros mucho más que las aves?",
+      "verse": 24,
+      "start_ms": 187812,
+      "end_ms": 191012,
+      "duration_ms": 3200
+    },
+    {
+      "word": "Y quién de vosotros podrá con afanarse añadir a su estatura un codo?",
+      "verse": 25,
+      "start_ms": 191012,
+      "end_ms": 195449,
+      "duration_ms": 4437
+    },
+    {
+      "word": "Pues si no podéis ni aun lo que es menos, ¿por qué os afanáis por lo demás?",
+      "verse": 26,
+      "start_ms": 195450,
+      "end_ms": 200450,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Considerad los lirios, cómo crecen; no trabajan, ni hilan; mas os digo, que ni aun Salomón con toda su gloria se vistió como uno de ellos.",
+      "verse": 27,
+      "start_ms": 200450,
+      "end_ms": 210275,
+      "duration_ms": 9825
+    },
+    {
+      "word": "Y si así viste Dios la hierba que hoy está en el campo, y mañana es echada al horno, ¿cuánto más a vosotros, hombres de poca fe?",
+      "verse": 28,
+      "start_ms": 210275,
+      "end_ms": 218237,
+      "duration_ms": 7962
+    },
+    {
+      "word": "Vosotros, pues, no os preocupéis por lo que habéis de comer, ni por lo que habéis de beber, ni estéis en ansiosa inquietud.",
+      "verse": 29,
+      "start_ms": 218237,
+      "end_ms": 226099,
+      "duration_ms": 7862
+    },
+    {
+      "word": "Porque todas estas cosas buscan las gentes del mundo; pero vuestro Padre sabe que tenéis necesidad de estas cosas.",
+      "verse": 30,
+      "start_ms": 226100,
+      "end_ms": 233050,
+      "duration_ms": 6950
+    },
+    {
+      "word": "Mas buscad el reino de Dios, y todas estas cosas os serán añadidas.",
+      "verse": 31,
+      "start_ms": 233050,
+      "end_ms": 238212,
+      "duration_ms": 5162
+    },
+    {
+      "word": "Tesoro en el cielo (Mt 6.19–21) No temáis, manada pequeña, porque a vuestro Padre le ha placido daros el reino.",
+      "verse": 31,
+      "start_ms": 238212,
+      "end_ms": 247362,
+      "duration_ms": 9150
+    },
+    {
+      "word": "Vended lo que poseéis, y dad limosna; haceos bolsas que no se envejezcan, tesoro en los cielos que no se agote, donde ladrón no llega, ni polilla destruye.",
+      "verse": 33,
+      "start_ms": 247362,
+      "end_ms": 257574,
+      "duration_ms": 10212
+    },
+    {
+      "word": "Porque donde está vuestro tesoro, allí estará también vuestro corazón.",
+      "verse": 34,
+      "start_ms": 257575,
+      "end_ms": 262212,
+      "duration_ms": 4637
+    },
+    {
+      "word": "El siervo vigilante Estén ceñidos vuestros",
+      "verse": 34,
+      "start_ms": 262212,
+      "end_ms": 265649,
+      "duration_ms": 3437
+    },
+    {
+      "word": "lomos, y vuestras lámparas encendidas; y vosotros sed semejantes a hombres que aguardan a que su señor regrese de las bodas, para que cuando llegue y llame, le abran en seguida.",
+      "verse": 35,
+      "start_ms": 265804,
+      "end_ms": 276429,
+      "duration_ms": 10625
+    },
+    {
+      "word": "Bienaventurados aquellos siervos a los cuales su señor, cuando venga, halle velando; de cierto os digo que se ceñirá, y hará que se sienten a la mesa, y vendrá a servirles.",
+      "verse": 37,
+      "start_ms": 276379,
+      "end_ms": 287091,
+      "duration_ms": 10712
+    },
+    {
+      "word": "Y aunque venga a la segunda vigilia, y aunque venga a la tercera vigilia, si los hallare así, bienaventurados son aquellos siervos.",
+      "verse": 38,
+      "start_ms": 287091,
+      "end_ms": 295353,
+      "duration_ms": 8262
+    },
+    {
+      "word": "Pero sabed esto, que si supiese el padre de familia a qué hora el ladrón había de venir, velaría ciertamente, y no dejaría minar su casa.",
+      "verse": 39,
+      "start_ms": 295354,
+      "end_ms": 304154,
+      "duration_ms": 8800
+    },
+    {
+      "word": "Vosotros, pues, también, estad preparados, porque a la hora que no penséis, el Hijo del Hombre vendrá.",
+      "verse": 40,
+      "start_ms": 304154,
+      "end_ms": 311541,
+      "duration_ms": 7387
+    },
+    {
+      "word": "El siervo infiel (Mt 24.45–51) Entonces Pedro le dijo: Señor, ¿dices esta parábola a nosotros, o también a todos?",
+      "verse": 40,
+      "start_ms": 311541,
+      "end_ms": 322266,
+      "duration_ms": 10725
+    },
+    {
+      "word": "Y dijo el Señor: ¿Quién es el mayordomo fiel y prudente al cual su señor pondrá sobre su casa, para que a tiempo les dé su ración?",
+      "verse": 42,
+      "start_ms": 322266,
+      "end_ms": 329991,
+      "duration_ms": 7725
+    },
+    {
+      "word": "Bienaventurado aquel siervo al cual, cuando su señor venga, le halle haciendo así.",
+      "verse": 43,
+      "start_ms": 329991,
+      "end_ms": 335453,
+      "duration_ms": 5462
+    },
+    {
+      "word": "En verdad os digo que le pondrá sobre todos sus bienes.",
+      "verse": 44,
+      "start_ms": 335454,
+      "end_ms": 339254,
+      "duration_ms": 3800
+    },
+    {
+      "word": "Mas si aquel siervo dijere en su corazón: Mi señor tarda en venir; y comenzare a golpear a los criados y a las criadas, y a comer y beber y embriagarse, vendrá el señor de aquel siervo en día que éste no espera, y a la hora que no sabe, y le castigará duramente, y le pondrá con los infieles.",
+      "verse": 45,
+      "start_ms": 339254,
+      "end_ms": 356716,
+      "duration_ms": 17462
+    },
+    {
+      "word": "Aquel siervo que conociendo la voluntad de su señor, no se preparó, ni hizo conforme a su voluntad, recibirá muchos azotes.",
+      "verse": 47,
+      "start_ms": 356716,
+      "end_ms": 364766,
+      "duration_ms": 8050
+    },
+    {
+      "word": "Mas el que sin conocerla hizo cosas dignas de azotes, será azotado poco; porque a todo aquel a quien se haya dado mucho, mucho se le demandará; y al que mucho se le haya confiado, más se le pedirá.",
+      "verse": 48,
+      "start_ms": 364766,
+      "end_ms": 376878,
+      "duration_ms": 12112
+    },
+    {
+      "word": "Jesús, causa de división (Mt 10.34–36) Fuego vine a echar en la tierra; ¿y qué quiero, si ya se ha encendido?",
+      "verse": 48,
+      "start_ms": 376879,
+      "end_ms": 386566,
+      "duration_ms": 9687
+    },
+    {
+      "word": "De un bautismo tengo que ser bautizado; y ¡cómo me angustio hasta que se cumpla!",
+      "verse": 50,
+      "start_ms": 386566,
+      "end_ms": 391766,
+      "duration_ms": 5200
+    },
+    {
+      "word": "Pensáis que he venido para dar paz en la tierra?",
+      "verse": 51,
+      "start_ms": 391766,
+      "end_ms": 395053,
+      "duration_ms": 3287
+    },
+    {
+      "word": "Os digo: No, sino disensión.",
+      "verse": 51,
+      "start_ms": 395054,
+      "end_ms": 398254,
+      "duration_ms": 3200
+    },
+    {
+      "word": "Porque de aquí en adelante, cinco en una familia estarán divididos, tres contra dos, y dos contra tres.",
+      "verse": 52,
+      "start_ms": 398254,
+      "end_ms": 405304,
+      "duration_ms": 7050
+    },
+    {
+      "word": "Estará dividido el padre contra el hijo, y el hijo contra el padre; la madre contra la hija, y la hija contra la madre; la suegra contra su nuera, y la nuera contra su suegra.",
+      "verse": 53,
+      "start_ms": 405304,
+      "end_ms": 416079,
+      "duration_ms": 10775
+    },
+    {
+      "word": "Cómo no reconocéis este tiempo? (Mt 16.1–4; Mc 8.11–13) Decía también a la multitud: Cuando veis la nube que sale del poniente, luego decís: Agua viene; y así sucede.",
+      "verse": 53,
+      "start_ms": 416079,
+      "end_ms": 430254,
+      "duration_ms": 14175
+    },
+    {
+      "word": "Y cuando sopla el viento del sur, decís: Hará calor; y lo hace.",
+      "verse": 55,
+      "start_ms": 430254,
+      "end_ms": 435329,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Hipócritas!",
+      "verse": 56,
+      "start_ms": 435329,
+      "end_ms": 437079,
+      "duration_ms": 1750
+    },
+    {
+      "word": "Sabéis distinguir el aspecto del cielo y de la tierra; ¿y cómo no distinguís este tiempo?",
+      "verse": 56,
+      "start_ms": 437079,
+      "end_ms": 442954,
+      "duration_ms": 5875
+    },
+    {
+      "word": "Arréglate con tu adversario (Mt 5.25–26) ¿Y por qué no juzgáis por vosotros mismos lo que es justo?",
+      "verse": 56,
+      "start_ms": 442954,
+      "end_ms": 451316,
+      "duration_ms": 8362
+    },
+    {
+      "word": "Cuando vayas al magistrado con tu adversario, procura en el camino arreglarte con él, no sea que te arrastre al juez, y el juez te entregue al alguacil, y el alguacil te meta en la cárcel.",
+      "verse": 58,
+      "start_ms": 451316,
+      "end_ms": 462341,
+      "duration_ms": 11025
+    },
+    {
+      "word": "Te digo que no saldrás de allí, hasta que hayas pagado aun la última blanca.",
+      "verse": 59,
+      "start_ms": 462341,
+      "end_ms": 467366,
+      "duration_ms": 5025
+    }
+  ]
+}

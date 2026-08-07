@@ -1,0 +1,201 @@
+{
+  "book": "SAL",
+  "chapter": 39,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 13,
+  "word_count": 14,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 132,
+      "text": "Yo dije: Atenderé a mis caminos, Para no pecar con mi lengua; Guardaré mi boca con freno, En tanto que el impío esté delante de mí."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 132,
+      "char_end": 212,
+      "text": "Enmudecí con silencio, me callé aun respecto de lo bueno; Y se agravó mi dolor."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 212,
+      "char_end": 315,
+      "text": "Se enardeció mi corazón dentro de mí; En mi meditación se encendió fuego, Y así proferí con mi lengua:"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 315,
+      "char_end": 405,
+      "text": "Hazme saber, Jehová, mi fin, Y cuánta sea la medida de mis días; Sepa yo cuán frágil soy."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 405,
+      "char_end": 544,
+      "text": "He aquí, diste a mis días término corto, Y mi edad es como nada delante de ti; Ciertamente es completa vanidad todo hombre que vive. Selah"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 544,
+      "char_end": 665,
+      "text": "Ciertamente como una sombra es el hombre; Ciertamente en vano se afana; Amontona riquezas, y no sabe quién las recogerá."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 665,
+      "char_end": 721,
+      "text": "Y ahora, Señor, ¿qué esperaré? Mi esperanza está en ti."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 721,
+      "char_end": 799,
+      "text": "Líbrame de todas mis transgresiones; No me pongas por escarnio del insensato."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 799,
+      "char_end": 848,
+      "text": "Enmudecí, no abrí mi boca, Porque tú lo hiciste."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 848,
+      "char_end": 920,
+      "text": "Quita de sobre mí tu plaga; Estoy consumido bajo los golpes de tu mano."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 920,
+      "char_end": 1056,
+      "text": "Con castigos por el pecado corriges al hombre, Y deshaces como polilla lo más estimado de él; Ciertamente vanidad es todo hombre. Selah"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1056,
+      "char_end": 1200,
+      "text": "Oye mi oración, oh Jehová, y escucha mi clamor. No calles ante mis lágrimas; Porque forastero soy para ti, Y advenedizo, como todos mis padres."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1200,
+      "char_end": 1252,
+      "text": "Déjame, y tomaré fuerzas, Antes que vaya y perezca."
+    }
+  ],
+  "words": [
+    {
+      "word": "Yo dije: Atenderé a mis caminos, Para no pecar con mi lengua; Guardaré mi boca con freno, En tanto que el impío esté delante de mí.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 8912,
+      "duration_ms": 8812
+    },
+    {
+      "word": "Enmudecí con silencio, me callé aun respecto de lo bueno; Y se agravó mi dolor.",
+      "verse": 2,
+      "start_ms": 8862,
+      "end_ms": 14574,
+      "duration_ms": 5712
+    },
+    {
+      "word": "Se enardeció mi corazón dentro de mí; En mi meditación se encendió fuego, Y así proferí con mi lengua: Hazme saber, Jehová, mi fin, Y cuánta sea la medida de mis días; Sepa yo cuán frágil soy.",
+      "verse": 3,
+      "start_ms": 14575,
+      "end_ms": 27162,
+      "duration_ms": 12587
+    },
+    {
+      "word": "He aquí, diste a mis días término corto, Y mi edad es como nada delante de ti; Ciertamente es completa vanidad todo hombre que vive.",
+      "verse": 5,
+      "start_ms": 27162,
+      "end_ms": 35749,
+      "duration_ms": 8587
+    },
+    {
+      "word": "Selah Ciertamente como una sombra es el hombre; Ciertamente en vano se afana; Amontona riquezas, y no sabe quién las recogerá.",
+      "verse": 5,
+      "start_ms": 35750,
+      "end_ms": 44000,
+      "duration_ms": 8250
+    },
+    {
+      "word": "Y ahora, Señor, ¿qué esperaré?",
+      "verse": 7,
+      "start_ms": 44000,
+      "end_ms": 47275,
+      "duration_ms": 3275
+    },
+    {
+      "word": "Mi esperanza está en ti.",
+      "verse": 7,
+      "start_ms": 47275,
+      "end_ms": 49525,
+      "duration_ms": 2250
+    },
+    {
+      "word": "Líbrame de todas mis transgresiones; No me pongas por escarnio del insensato.",
+      "verse": 8,
+      "start_ms": 49525,
+      "end_ms": 54875,
+      "duration_ms": 5350
+    },
+    {
+      "word": "Enmudecí, no abrí mi boca, Porque tú lo hiciste.",
+      "verse": 9,
+      "start_ms": 54875,
+      "end_ms": 59000,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Quita de sobre mí tu plaga; Estoy consumido bajo los golpes de tu mano.",
+      "verse": 10,
+      "start_ms": 59000,
+      "end_ms": 63850,
+      "duration_ms": 4850
+    },
+    {
+      "word": "Con castigos por el pecado corriges al hombre, Y deshaces como polilla lo más estimado de él; Ciertamente vanidad es todo hombre.",
+      "verse": 11,
+      "start_ms": 63850,
+      "end_ms": 72012,
+      "duration_ms": 8162
+    },
+    {
+      "word": "Selah Oye mi oración, oh Jehová, y escucha mi clamor.",
+      "verse": 11,
+      "start_ms": 72012,
+      "end_ms": 76412,
+      "duration_ms": 4400
+    },
+    {
+      "word": "No calles ante mis lágrimas; Porque forastero soy para ti, Y advenedizo, como todos mis padres.",
+      "verse": 12,
+      "start_ms": 76412,
+      "end_ms": 83324,
+      "duration_ms": 6912
+    },
+    {
+      "word": "Déjame, y tomaré fuerzas, Antes que vaya y perezca.",
+      "verse": 13,
+      "start_ms": 83325,
+      "end_ms": 87762,
+      "duration_ms": 4437
+    }
+  ]
+}

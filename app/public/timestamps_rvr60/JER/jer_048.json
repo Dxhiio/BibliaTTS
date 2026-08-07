@@ -1,0 +1,705 @@
+{
+  "book": "JER",
+  "chapter": 48,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 47,
+  "word_count": 52,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 176,
+      "text": "Acerca de Moab. Así ha dicho Jehová de los ejércitos, Dios de Israel: ¡Ay de Nebo! porque fue destruida y avergonzada: Quiriataim fue tomada; fue confundida Misgab, y desmayó."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 176,
+      "char_end": 355,
+      "text": "No se alabará ya más Moab; en Hesbón maquinaron mal contra ella, diciendo: Venid, y quitémosla de entre las naciones. También tú, Madmena, serás cortada; espada irá en pos de ti."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 355,
+      "char_end": 419,
+      "text": "¡Voz de clamor de Horonaim, destrucción y gran quebrantamiento!"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 419,
+      "char_end": 490,
+      "text": "Moab fue quebrantada; hicieron que se oyese el clamor de sus pequeños."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 490,
+      "char_end": 622,
+      "text": "Porque a la subida de Luhit con llanto subirá el que llora; porque a la bajada de Horonaim los enemigos oyeron clamor de quebranto."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 622,
+      "char_end": 683,
+      "text": "Huid, salvad vuestra vida, y sed como retama en el desierto."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 683,
+      "char_end": 846,
+      "text": "Pues por cuanto confiaste en tus bienes y en tus tesoros, tú también serás tomada; y Quemos será llevado en cautiverio, sus sacerdotes y sus príncipes juntamente."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 846,
+      "char_end": 1003,
+      "text": "Y vendrá destruidor a cada una de las ciudades, y ninguna ciudad escapará; se arruinará también el valle, y será destruida la llanura, como ha dicho Jehová."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1003,
+      "char_end": 1114,
+      "text": "Dad alas a Moab, para que se vaya volando; pues serán desiertas sus ciudades hasta no quedar en ellas morador."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1114,
+      "char_end": 1222,
+      "text": "Maldito el que hiciere indolentemente la obra de Jehová, y maldito el que detuviere de la sangre su espada."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1222,
+      "char_end": 1432,
+      "text": "Quieto estuvo Moab desde su juventud, y sobre su sedimento ha estado reposado, y no fue vaciado de vasija en vasija, ni nunca estuvo en cautiverio; por tanto, quedó su sabor en él, y su olor no se ha cambiado."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1432,
+      "char_end": 1571,
+      "text": "Por eso vienen días, ha dicho Jehová, en que yo le enviaré trasvasadores que le trasvasarán; y vaciarán sus vasijas, y romperán sus odres."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1571,
+      "char_end": 1665,
+      "text": "Y se avergonzará Moab de Quemos, como la casa de Israel se avergonzó de Bet-el, su confianza."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1665,
+      "char_end": 1738,
+      "text": "¿Cómo, pues, diréis: Somos hombres valientes, y robustos para la guerra?"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1738,
+      "char_end": 1893,
+      "text": "Destruido fue Moab, y sus ciudades asoladas, y sus jóvenes escogidos descendieron al degolladero, ha dicho el Rey, cuyo nombre es Jehová de los ejércitos."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1893,
+      "char_end": 1973,
+      "text": "Cercano está el quebrantamiento de Moab para venir, y su mal se apresura mucho."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1973,
+      "char_end": 2120,
+      "text": "Compadeceos de él todos los que estáis alrededor suyo; y todos los que sabéis su nombre, decid: ¡Cómo se quebró la vara fuerte, el báculo hermoso!"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2120,
+      "char_end": 2264,
+      "text": "Desciende de la gloria, siéntate en tierra seca, moradora hija de Dibón; porque el destruidor de Moab subió contra ti, destruyó tus fortalezas."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2264,
+      "char_end": 2390,
+      "text": "Párate en el camino, y mira, oh moradora de Aroer; pregunta a la que va huyendo, y a la que escapó; dile: ¿Qué ha acontecido?"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2390,
+      "char_end": 2493,
+      "text": "Se avergonzó Moab, porque fue quebrantado; lamentad y clamad; anunciad en Arnón que Moab es destruido."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2493,
+      "char_end": 2577,
+      "text": "Vino juicio sobre la tierra de la llanura; sobre Holón, sobre Jahaza, sobre Mefaat,"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2577,
+      "char_end": 2623,
+      "text": "sobre Dibón, sobre Nebo, sobre Bet-diblataim,"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2623,
+      "char_end": 2674,
+      "text": "sobre Quiriataim, sobre Bet-gamul, sobre Bet-meón,"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2674,
+      "char_end": 2776,
+      "text": "sobre Queriot, sobre Bosra y sobre todas las ciudades de tierra de Moab, las de lejos y las de cerca."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2776,
+      "char_end": 2842,
+      "text": "Cortado es el poder de Moab, y su brazo quebrantado, dice Jehová."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2842,
+      "char_end": 2969,
+      "text": "Embriagadle, porque contra Jehová se engrandeció; y revuélquese Moab sobre su vómito, y sea también él por motivo de escarnio."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2969,
+      "char_end": 3102,
+      "text": "¿Y no te fue a ti Israel por motivo de escarnio, como si lo tomaran entre ladrones? Porque cuando de él hablaste, tú te has burlado."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3102,
+      "char_end": 3231,
+      "text": "Abandonad las ciudades y habitad en peñascos, oh moradores de Moab, y sed como la paloma que hace nido en la boca de la caverna."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3231,
+      "char_end": 3336,
+      "text": "Hemos oído la soberbia de Moab, que es muy soberbio, arrogante, orgulloso, altivo y altanero de corazón."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3336,
+      "char_end": 3430,
+      "text": "Yo conozco, dice Jehová, su cólera, pero no tendrá efecto; sus jactancias no le aprovecharán."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3430,
+      "char_end": 3534,
+      "text": "Por tanto, yo aullaré sobre Moab; sobre todo Moab haré clamor, y sobre los hombres de Kir-hares gemiré."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3534,
+      "char_end": 3707,
+      "text": "Con llanto de Jazer lloraré por ti, oh vid de Sibma; tus sarmientos pasaron el mar, llegaron hasta el mar de Jazer; sobre tu cosecha y sobre tu vendimia vino el destruidor."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3707,
+      "char_end": 3886,
+      "text": "Y será cortada la alegría y el regocijo de los campos fértiles, de la tierra de Moab; y de los lagares haré que falte el vino; no pisarán con canción; la canción no será canción."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3886,
+      "char_end": 4056,
+      "text": "El clamor de Hesbón llega hasta Eleale; hasta Jahaza dieron su voz; desde Zoar hasta Horonaim, becerra de tres años; porque también las aguas de Nimrim serán destruidas."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4056,
+      "char_end": 4177,
+      "text": "Y exterminaré de Moab, dice Jehová, a quien sacrifique sobre los lugares altos, y a quien ofrezca incienso a sus dioses."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4177,
+      "char_end": 4366,
+      "text": "Por tanto, mi corazón resonará como flautas por causa de Moab, asimismo resonará mi corazón a modo de flautas por los hombres de Kir-hares; porque perecieron las riquezas que habían hecho."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4366,
+      "char_end": 4477,
+      "text": "Porque toda cabeza será rapada, y toda barba raída; sobre toda mano habrá rasguños, y cilicio sobre todo lomo."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4477,
+      "char_end": 4618,
+      "text": "Sobre todos los terrados de Moab, y en sus calles, todo él será llanto; porque yo quebranté a Moab como a vasija que no agrada, dice Jehová."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4618,
+      "char_end": 4788,
+      "text": "¡Lamentad! ¡Cómo ha sido quebrantado! ¡Cómo volvió la espalda Moab, y fue avergonzado! Fue Moab objeto de escarnio y de espanto a todos los que están en sus alrededores."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4788,
+      "char_end": 4882,
+      "text": "Porque así ha dicho Jehová: He aquí que como águila volará, y extenderá sus alas contra Moab."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4882,
+      "char_end": 5034,
+      "text": "Tomadas serán las ciudades, y tomadas serán las fortalezas; y será aquel día el corazón de los valientes de Moab como el corazón de mujer en angustias."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 5034,
+      "char_end": 5120,
+      "text": "Y Moab será destruido hasta dejar de ser pueblo, porque se engrandeció contra Jehová."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 5120,
+      "char_end": 5184,
+      "text": "Miedo y hoyo y lazo contra ti, oh morador de Moab, dice Jehová."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 5184,
+      "char_end": 5349,
+      "text": "El que huyere del miedo caerá en el hoyo, y el que saliere del hoyo será preso en el lazo; porque yo traeré sobre él, sobre Moab, el año de su castigo, dice Jehová."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 5349,
+      "char_end": 5533,
+      "text": "A la sombra de Hesbón se pararon sin fuerzas los que huían; mas salió fuego de Hesbón, y llama de en medio de Sehón, y quemó el rincón de Moab, y la coronilla de los hijos revoltosos."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 5533,
+      "char_end": 5664,
+      "text": "¡Ay de ti, Moab! pereció el pueblo de Quemos; porque tus hijos fueron puestos presos para cautividad, y tus hijas para cautiverio."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 5664,
+      "char_end": 5781,
+      "text": "Pero haré volver a los cautivos de Moab en lo postrero de los tiempos, dice Jehová. Hasta aquí es el juicio de Moab."
+    }
+  ],
+  "words": [
+    {
+      "word": "Acerca de Moab.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 2025,
+      "duration_ms": 1925
+    },
+    {
+      "word": "Así ha dicho Jehová de los ejércitos, Dios de Israel: ¡Ay de Nebo! porque fue destruida y avergonzada: Quiriataim fue tomada; fue confundida Misgab, y desmayó.",
+      "verse": 1,
+      "start_ms": 1975,
+      "end_ms": 12900,
+      "duration_ms": 10925
+    },
+    {
+      "word": "No se alabará ya más Moab; en Hesbón maquinaron mal contra ella, diciendo: Venid, y quitémosla de entre las naciones.",
+      "verse": 2,
+      "start_ms": 12900,
+      "end_ms": 21025,
+      "duration_ms": 8125
+    },
+    {
+      "word": "También tú, Madmena, serás cortada; espada irá en pos de ti.",
+      "verse": 2,
+      "start_ms": 21025,
+      "end_ms": 26350,
+      "duration_ms": 5325
+    },
+    {
+      "word": "Voz de clamor de Horonaim, destrucción y gran quebrantamiento!",
+      "verse": 3,
+      "start_ms": 26350,
+      "end_ms": 30625,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Moab fue quebrantada; hicieron que se oyese el clamor de sus pequeños.",
+      "verse": 4,
+      "start_ms": 30625,
+      "end_ms": 35512,
+      "duration_ms": 4887
+    },
+    {
+      "word": "Porque a la subida de Luhit con llanto subirá el que llora; porque a la bajada de Horonaim los enemigos oyeron clamor de quebranto.",
+      "verse": 5,
+      "start_ms": 35512,
+      "end_ms": 42912,
+      "duration_ms": 7400
+    },
+    {
+      "word": "Huid, salvad vuestra vida, y sed como retama en el desierto.",
+      "verse": 6,
+      "start_ms": 42912,
+      "end_ms": 47724,
+      "duration_ms": 4812
+    },
+    {
+      "word": "Pues por cuanto confiaste en tus bienes y en tus tesoros, tú también serás tomada; y Quemos será llevado en cautiverio, sus sacerdotes y sus príncipes juntamente.",
+      "verse": 7,
+      "start_ms": 47725,
+      "end_ms": 57525,
+      "duration_ms": 9800
+    },
+    {
+      "word": "Y vendrá destruidor a cada una de las ciudades, y ninguna ciudad escapará; se arruinará también el valle, y será destruida la llanura, como ha dicho Jehová.",
+      "verse": 8,
+      "start_ms": 57525,
+      "end_ms": 67525,
+      "duration_ms": 10000
+    },
+    {
+      "word": "Dad alas a Moab, para que se vaya volando; pues serán desiertas sus ciudades hasta no quedar en ellas morador.",
+      "verse": 9,
+      "start_ms": 67525,
+      "end_ms": 74412,
+      "duration_ms": 6887
+    },
+    {
+      "word": "Maldito el que hiciere indolentemente la obra de Jehová, y maldito el que detuviere de la sangre su espada.",
+      "verse": 10,
+      "start_ms": 74412,
+      "end_ms": 80774,
+      "duration_ms": 6362
+    },
+    {
+      "word": "Quieto estuvo Moab desde su juventud, y sobre su sedimento ha estado reposado, y no fue vaciado de vasija en vasija, ni nunca estuvo en cautiverio; por tanto, quedó su sabor en él, y su olor no se ha cambiado.",
+      "verse": 11,
+      "start_ms": 80775,
+      "end_ms": 93762,
+      "duration_ms": 12987
+    },
+    {
+      "word": "Por eso vienen días, ha dicho Jehová, en que yo le enviaré trasvasadores que le trasvasarán; y vaciarán sus vasijas, y romperán sus odres.",
+      "verse": 12,
+      "start_ms": 93762,
+      "end_ms": 102762,
+      "duration_ms": 9000
+    },
+    {
+      "word": "Y se avergonzará Moab de Quemos, como la casa de Israel se avergonzó de Bet-el, su confianza.",
+      "verse": 13,
+      "start_ms": 102762,
+      "end_ms": 109337,
+      "duration_ms": 6575
+    },
+    {
+      "word": "Cómo, pues, diréis: Somos hombres valientes, y robustos para la guerra?",
+      "verse": 14,
+      "start_ms": 109337,
+      "end_ms": 115287,
+      "duration_ms": 5950
+    },
+    {
+      "word": "Destruido fue Moab, y sus ciudades asoladas, y sus jóvenes escogidos descendieron al degolladero, ha dicho el Rey, cuyo nombre es Jehová de los ejércitos.",
+      "verse": 15,
+      "start_ms": 115287,
+      "end_ms": 125274,
+      "duration_ms": 9987
+    },
+    {
+      "word": "Cercano está el quebrantamiento de Moab para venir, y su mal se apresura mucho.",
+      "verse": 16,
+      "start_ms": 125275,
+      "end_ms": 130400,
+      "duration_ms": 5125
+    },
+    {
+      "word": "Compadeceos de él todos los que estáis alrededor suyo; y todos los que sabéis su nombre, decid: ¡Cómo se quebró la vara fuerte, el báculo hermoso!",
+      "verse": 17,
+      "start_ms": 130400,
+      "end_ms": 139612,
+      "duration_ms": 9212
+    },
+    {
+      "word": "Desciende de la gloria, siéntate en tierra seca, moradora hija de Dibón; porque el destruidor de Moab subió contra ti, destruyó tus fortalezas.",
+      "verse": 18,
+      "start_ms": 139612,
+      "end_ms": 148962,
+      "duration_ms": 9350
+    },
+    {
+      "word": "Párate en el camino, y mira, oh moradora de Aroer; pregunta a la que va huyendo, y a la que escapó; dile: ¿Qué ha acontecido?",
+      "verse": 19,
+      "start_ms": 148962,
+      "end_ms": 158262,
+      "duration_ms": 9300
+    },
+    {
+      "word": "Se avergonzó Moab, porque fue quebrantado; lamentad y clamad; anunciad en Arnón que Moab es destruido.",
+      "verse": 20,
+      "start_ms": 158262,
+      "end_ms": 165362,
+      "duration_ms": 7100
+    },
+    {
+      "word": "Vino juicio sobre la tierra de la llanura; sobre Holón, sobre Jahaza, sobre Mefaat, sobre Dibón, sobre Nebo, sobre Bet-diblataim, sobre Quiriataim, sobre Bet-gamul, sobre Bet-meón, sobre Queriot, sobre Bosra y sobre todas las ciudades de tierra de Moab, las de lejos y las de cerca.",
+      "verse": 21,
+      "start_ms": 165362,
+      "end_ms": 184012,
+      "duration_ms": 18650
+    },
+    {
+      "word": "Cortado es el poder de Moab, y su brazo quebrantado, dice Jehová.",
+      "verse": 25,
+      "start_ms": 184012,
+      "end_ms": 188924,
+      "duration_ms": 4912
+    },
+    {
+      "word": "Embriagadle, porque contra Jehová se engrandeció; y revuélquese Moab sobre su vómito, y sea también él por motivo de escarnio.",
+      "verse": 26,
+      "start_ms": 188925,
+      "end_ms": 197012,
+      "duration_ms": 8087
+    },
+    {
+      "word": "Y no te fue a ti Israel por motivo de escarnio, como si lo tomaran entre ladrones?",
+      "verse": 27,
+      "start_ms": 197012,
+      "end_ms": 202612,
+      "duration_ms": 5600
+    },
+    {
+      "word": "Porque cuando de él hablaste, tú te has burlado.",
+      "verse": 27,
+      "start_ms": 202612,
+      "end_ms": 206199,
+      "duration_ms": 3587
+    },
+    {
+      "word": "Abandonad las ciudades y habitad en peñascos, oh moradores de Moab, y sed como la paloma que hace nido en la boca de la caverna.",
+      "verse": 28,
+      "start_ms": 206200,
+      "end_ms": 213875,
+      "duration_ms": 7675
+    },
+    {
+      "word": "Hemos oído la soberbia de Moab, que es muy soberbio, arrogante, orgulloso, altivo y altanero de corazón.",
+      "verse": 29,
+      "start_ms": 213875,
+      "end_ms": 221687,
+      "duration_ms": 7812
+    },
+    {
+      "word": "Yo conozco, dice Jehová, su cólera, pero no tendrá efecto; sus jactancias no le aprovecharán.",
+      "verse": 30,
+      "start_ms": 221687,
+      "end_ms": 228862,
+      "duration_ms": 7175
+    },
+    {
+      "word": "Por tanto, yo aullaré sobre Moab; sobre todo Moab haré clamor, y sobre los hombres de Kir-hares gemiré.",
+      "verse": 31,
+      "start_ms": 228862,
+      "end_ms": 235874,
+      "duration_ms": 7012
+    },
+    {
+      "word": "Con llanto de Jazer lloraré por ti, oh vid de Sibma; tus sarmientos pasaron el mar, llegaron hasta el mar de Jazer; sobre tu cosecha y sobre tu vendimia vino el destruidor.",
+      "verse": 32,
+      "start_ms": 235875,
+      "end_ms": 246450,
+      "duration_ms": 10575
+    },
+    {
+      "word": "Y será cortada la alegría y el regocijo de los campos fértiles, de la tierra de Moab; y de los lagares haré que falte el vino; no pisarán con canción; la canción no será canción.",
+      "verse": 33,
+      "start_ms": 246450,
+      "end_ms": 257750,
+      "duration_ms": 11300
+    },
+    {
+      "word": "El clamor de Hesbón llega hasta Eleale; hasta Jahaza dieron su voz; desde Zoar hasta Horonaim, becerra de tres",
+      "verse": 34,
+      "start_ms": 257750,
+      "end_ms": 265200,
+      "duration_ms": 7450
+    },
+    {
+      "word": "años; porque también las aguas de Nimrim serán destruidas.",
+      "verse": 34,
+      "start_ms": 265348,
+      "end_ms": 269873,
+      "duration_ms": 4525
+    },
+    {
+      "word": "Y exterminaré de Moab, dice Jehová, a quien sacrifique sobre los lugares altos, y a quien ofrezca incienso a sus dioses.",
+      "verse": 35,
+      "start_ms": 269823,
+      "end_ms": 277585,
+      "duration_ms": 7762
+    },
+    {
+      "word": "Por tanto, mi corazón resonará como flautas por causa de Moab, asimismo resonará mi corazón a modo de flautas por los hombres de Kir-hares; porque perecieron las riquezas que habían hecho.",
+      "verse": 36,
+      "start_ms": 277585,
+      "end_ms": 288472,
+      "duration_ms": 10887
+    },
+    {
+      "word": "Porque toda cabeza será rapada, y toda barba raída; sobre toda mano habrá rasguños, y cilicio sobre todo lomo.",
+      "verse": 37,
+      "start_ms": 288473,
+      "end_ms": 296473,
+      "duration_ms": 8000
+    },
+    {
+      "word": "Sobre todos los terrados de Moab, y en sus calles, todo él será llanto; porque yo quebranté a Moab como a vasija que no agrada, dice Jehová.",
+      "verse": 38,
+      "start_ms": 296473,
+      "end_ms": 305635,
+      "duration_ms": 9162
+    },
+    {
+      "word": "Lamentad!",
+      "verse": 39,
+      "start_ms": 305635,
+      "end_ms": 307247,
+      "duration_ms": 1612
+    },
+    {
+      "word": "Cómo ha sido quebrantado!",
+      "verse": 39,
+      "start_ms": 307248,
+      "end_ms": 309423,
+      "duration_ms": 2175
+    },
+    {
+      "word": "Cómo volvió la espalda Moab, y fue avergonzado!",
+      "verse": 39,
+      "start_ms": 309423,
+      "end_ms": 312948,
+      "duration_ms": 3525
+    },
+    {
+      "word": "Fue Moab objeto de escarnio y de espanto a todos los que están en sus alrededores.",
+      "verse": 39,
+      "start_ms": 312948,
+      "end_ms": 318085,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Porque así ha dicho Jehová: He aquí que como águila volará, y extenderá sus alas contra Moab.",
+      "verse": 40,
+      "start_ms": 318085,
+      "end_ms": 324447,
+      "duration_ms": 6362
+    },
+    {
+      "word": "Tomadas serán las ciudades, y tomadas serán las fortalezas; y será aquel día el corazón de los valientes de Moab como el corazón de mujer en angustias.",
+      "verse": 41,
+      "start_ms": 324448,
+      "end_ms": 333598,
+      "duration_ms": 9150
+    },
+    {
+      "word": "Y Moab será destruido hasta dejar de ser pueblo, porque se engrandeció contra Jehová.",
+      "verse": 42,
+      "start_ms": 333598,
+      "end_ms": 338923,
+      "duration_ms": 5325
+    },
+    {
+      "word": "Miedo y hoyo y lazo contra ti, oh morador de Moab, dice Jehová.",
+      "verse": 43,
+      "start_ms": 338923,
+      "end_ms": 343873,
+      "duration_ms": 4950
+    },
+    {
+      "word": "El que huyere del miedo caerá en el hoyo, y el que saliere del hoyo será preso en el lazo; porque yo traeré sobre él, sobre Moab, el año de su castigo, dice Jehová.",
+      "verse": 44,
+      "start_ms": 343873,
+      "end_ms": 354385,
+      "duration_ms": 10512
+    },
+    {
+      "word": "A la sombra de Hesbón se pararon sin fuerzas los que huían; mas salió fuego de Hesbón, y llama de en medio de Sehón, y quemó el rincón de Moab, y la coronilla de los hijos revoltosos.",
+      "verse": 45,
+      "start_ms": 354385,
+      "end_ms": 365310,
+      "duration_ms": 10925
+    },
+    {
+      "word": "Ay de ti, Moab! pereció el pueblo de Quemos; porque tus hijos fueron puestos presos para cautividad, y tus hijas para cautiverio.",
+      "verse": 46,
+      "start_ms": 365310,
+      "end_ms": 373760,
+      "duration_ms": 8450
+    },
+    {
+      "word": "Pero haré volver a los cautivos de Moab en lo postrero de los tiempos, dice Jehová.",
+      "verse": 47,
+      "start_ms": 373760,
+      "end_ms": 378885,
+      "duration_ms": 5125
+    },
+    {
+      "word": "Hasta aquí es el juicio de Moab.",
+      "verse": 47,
+      "start_ms": 378885,
+      "end_ms": 381472,
+      "duration_ms": 2587
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "book": "SAL",
+  "chapter": 43,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 5,
+  "word_count": 7,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 95,
+      "text": "Júzgame, oh Dios, y defiende mi causa; Líbrame de gente impía, y del hombre engañoso e inicuo."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 95,
+      "char_end": 218,
+      "text": "Pues que tú eres el Dios de mi fortaleza, ¿por qué me has desechado? ¿Por qué andaré enlutado por la opresión del enemigo?"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 218,
+      "char_end": 311,
+      "text": "Envía tu luz y tu verdad; éstas me guiarán; Me conducirán a tu santo monte, Y a tus moradas."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 311,
+      "char_end": 415,
+      "text": "Entraré al altar de Dios, Al Dios de mi alegría y de mi gozo; Y te alabaré con arpa, oh Dios, Dios mío."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 415,
+      "char_end": 551,
+      "text": "¿Por qué te abates, oh alma mía, Y por qué te turbas dentro de mí? Espera en Dios; porque aún he de alabarle, Salvación mía y Dios mío."
+    }
+  ],
+  "words": [
+    {
+      "word": "Júzgame, oh Dios, y defiende mi causa; Líbrame de gente impía, y del hombre engañoso e inicuo.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7237,
+      "duration_ms": 7137
+    },
+    {
+      "word": "Pues que tú eres el Dios de mi fortaleza, ¿por qué me has desechado?",
+      "verse": 2,
+      "start_ms": 7187,
+      "end_ms": 11699,
+      "duration_ms": 4512
+    },
+    {
+      "word": "Por qué andaré enlutado por la opresión del enemigo?",
+      "verse": 2,
+      "start_ms": 11700,
+      "end_ms": 15237,
+      "duration_ms": 3537
+    },
+    {
+      "word": "Envía tu luz y tu verdad; éstas me guiarán; Me conducirán a tu santo monte, Y a tus moradas.",
+      "verse": 3,
+      "start_ms": 15237,
+      "end_ms": 22137,
+      "duration_ms": 6900
+    },
+    {
+      "word": "Entraré al altar de Dios, Al Dios de mi alegría y de mi gozo; Y te alabaré con arpa, oh Dios, Dios mío.",
+      "verse": 4,
+      "start_ms": 22137,
+      "end_ms": 29624,
+      "duration_ms": 7487
+    },
+    {
+      "word": "Por qué te abates, oh alma mía, Y por qué te turbas dentro de mí?",
+      "verse": 5,
+      "start_ms": 29625,
+      "end_ms": 34362,
+      "duration_ms": 4737
+    },
+    {
+      "word": "Espera en Dios; porque aún he de alabarle, Salvación mía y Dios mío.",
+      "verse": 5,
+      "start_ms": 34362,
+      "end_ms": 39549,
+      "duration_ms": 5187
+    }
+  ]
+}

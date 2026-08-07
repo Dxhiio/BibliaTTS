@@ -1,0 +1,439 @@
+{
+  "book": "1CR",
+  "chapter": 26,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 32,
+  "word_count": 29,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 106,
+      "text": "También fueron distribuidos los porteros: de los coreítas, Meselemías hijo de Coré, de los hijos de Asaf."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 106,
+      "char_end": 216,
+      "text": "Los hijos de Meselemías: Zacarías el primogénito, Jediael el segundo, Zebadías el tercero, Jatniel el cuarto,"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 216,
+      "char_end": 271,
+      "text": "Elam el quinto, Johanán el sexto, Elioenai el séptimo."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 271,
+      "char_end": 392,
+      "text": "Los hijos de Obed-edom: Semaías el primogénito, Jozabad el segundo, Joa el tercero, el cuarto Sacar, el quinto Natanael,"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 392,
+      "char_end": 487,
+      "text": "el sexto Amiel, el séptimo Isacar, el octavo Peultai; porque Dios había bendecido a Obed-edom."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 487,
+      "char_end": 621,
+      "text": "También de Semaías su hijo nacieron hijos que fueron señores sobre la casa de sus padres; porque eran varones valerosos y esforzados."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 621,
+      "char_end": 735,
+      "text": "Los hijos de Semaías: Otni, Rafael, Obed, Elzabad, y sus hermanos, hombres esforzados; asimismo Eliú y Samaquías."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 735,
+      "char_end": 884,
+      "text": "Todos estos de los hijos de Obed-edom; ellos con sus hijos y sus hermanos, hombres robustos y fuertes para el servicio; sesenta y dos, de Obed-edom."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 884,
+      "char_end": 955,
+      "text": "Y los hijos de Meselemías y sus hermanos, dieciocho hombres valientes."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 955,
+      "char_end": 1065,
+      "text": "De Hosa, de los hijos de Merari: Simri el jefe (aunque no era el primogénito, mas su padre lo puso por jefe),"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1065,
+      "char_end": 1179,
+      "text": "el segundo Hilcías, el tercero Tebalías, el cuarto Zacarías; todos los hijos de Hosa y sus hermanos fueron trece."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1179,
+      "char_end": 1340,
+      "text": "Entre éstos se hizo la distribución de los porteros, alternando los principales de los varones en la guardia con sus hermanos, para servir en la casa de Jehová."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1340,
+      "char_end": 1427,
+      "text": "Echaron suertes, el pequeño con el grande, según sus casas paternas, para cada puerta."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1427,
+      "char_end": 1585,
+      "text": "Y la suerte para la del oriente cayó a Selemías. Y metieron en las suertes a Zacarías su hijo, consejero entendido; y salió la suerte suya para la del norte."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1585,
+      "char_end": 1670,
+      "text": "Y para Obed-edom la puerta del sur, y a sus hijos la casa de provisiones del templo."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1670,
+      "char_end": 1796,
+      "text": "Para Supim y Hosa, la del occidente, la puerta de Salequet, en el camino de la subida, correspondiéndose guardia con guardia."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1796,
+      "char_end": 1909,
+      "text": "Al oriente seis levitas, al norte cuatro de día; al sur cuatro de día; y a la casa de provisiones de dos en dos."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1909,
+      "char_end": 1992,
+      "text": "En la cámara de los utensilios al occidente, cuatro al camino, y dos en la cámara."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1992,
+      "char_end": 2086,
+      "text": "Éstas son las distribuciones de los porteros, hijos de los coreítas y de los hijos de Merari."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2086,
+      "char_end": 2201,
+      "text": "Y de los levitas, Ahías tenía cargo de los tesoros de la casa de Dios, y de los tesoros de las cosas santificadas."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2201,
+      "char_end": 2332,
+      "text": "Cuanto a los hijos de Laadán hijo de Gersón: de Laadán, los jefes de las casas paternas de Laadán gersonita fueron los jehielitas."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2332,
+      "char_end": 2431,
+      "text": "Los hijos de Jehieli, Zetam y Joel su hermano, tuvieron cargo de los tesoros de la casa de Jehová."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2431,
+      "char_end": 2511,
+      "text": "De entre los amramitas, de los izharitas, de los hebronitas y de los uzielitas,"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2511,
+      "char_end": 2578,
+      "text": "Sebuel hijo de Gersón, hijo de Moisés, era jefe sobre los tesoros."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2578,
+      "char_end": 2725,
+      "text": "En cuanto a su hermano Eliezer, hijo de éste era Rehabías, hijo de éste Jesaías, hijo de éste Joram, hijo de éste Zicri, del que fue hijo Selomit."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2725,
+      "char_end": 2958,
+      "text": "Este Selomit y sus hermanos tenían a su cargo todos los tesoros de todas las cosas santificadas que había consagrado el rey David, y los jefes de las casas paternas, los capitanes de millares y de centenas, y los jefes del ejército;"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2958,
+      "char_end": 3051,
+      "text": "de lo que habían consagrado de las guerras y de los botines, para reparar la casa de Jehová."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3051,
+      "char_end": 3259,
+      "text": "Asimismo todas las cosas que había consagrado el vidente Samuel, y Saúl hijo de Cis, Abner hijo de Ner y Joab hijo de Sarvia, y todo lo que cualquiera consagraba, estaba a cargo de Selomit y de sus hermanos."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3259,
+      "char_end": 3362,
+      "text": "De los izharitas, Quenanías y sus hijos eran gobernadores y jueces sobre Israel en asuntos exteriores."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3362,
+      "char_end": 3553,
+      "text": "De los hebronitas, Hasabías y sus hermanos, hombres de vigor, mil setecientos, gobernaban a Israel al otro lado del Jordán, al occidente, en toda la obra de Jehová, y en el servicio del rey."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3553,
+      "char_end": 3787,
+      "text": "De los hebronitas, Jerías era el jefe de los hebronitas repartidos en sus linajes por sus familias. En el año cuarenta del reinado de David se registraron, y fueron hallados entre ellos hombres fuertes y vigorosos en Jazer de Galaad."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3787,
+      "char_end": 4017,
+      "text": "Y sus hermanos, hombres valientes, eran dos mil setecientos, jefes de familias, los cuales el rey David constituyó sobre los rubenitas, los gaditas y la media tribu de Manasés, para todas las cosas de Dios y los negocios del rey."
+    }
+  ],
+  "words": [
+    {
+      "word": "También fueron distribuidos los porteros: de los coreítas, Meselemías hijo de Coré, de los hijos de Asaf.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7237,
+      "duration_ms": 7137
+    },
+    {
+      "word": "Los hijos de Meselemías: Zacarías el primogénito, Jediael el segundo, Zebadías el tercero, Jatniel el cuarto, Elam el quinto, Johanán el sexto, Elioenai el séptimo.",
+      "verse": 2,
+      "start_ms": 7187,
+      "end_ms": 19174,
+      "duration_ms": 11987
+    },
+    {
+      "word": "Los hijos de Obed-edom: Semaías el primogénito, Jozabad el segundo, Joa el tercero, el cuarto Sacar, el quinto Natanael, el sexto Amiel, el séptimo Isacar, el octavo Peultai; porque Dios había bendecido a Obed-edom.",
+      "verse": 4,
+      "start_ms": 19175,
+      "end_ms": 34100,
+      "duration_ms": 14925
+    },
+    {
+      "word": "También de Semaías su hijo nacieron hijos que fueron señores sobre la casa de sus padres; porque eran varones valerosos y esforzados.",
+      "verse": 6,
+      "start_ms": 34100,
+      "end_ms": 41887,
+      "duration_ms": 7787
+    },
+    {
+      "word": "Los hijos de Semaías: Otni, Rafael, Obed, Elzabad, y sus hermanos, hombres esforzados; asimismo Eliú y Samaquías.",
+      "verse": 7,
+      "start_ms": 41887,
+      "end_ms": 51362,
+      "duration_ms": 9475
+    },
+    {
+      "word": "Todos estos de los hijos de Obed-edom; ellos con sus hijos y sus hermanos, hombres robustos y fuertes para el servicio; sesenta y dos, de Obed-edom.",
+      "verse": 8,
+      "start_ms": 51362,
+      "end_ms": 60637,
+      "duration_ms": 9275
+    },
+    {
+      "word": "Y los hijos de Meselemías y sus hermanos, dieciocho hombres valientes.",
+      "verse": 9,
+      "start_ms": 60637,
+      "end_ms": 65637,
+      "duration_ms": 5000
+    },
+    {
+      "word": "De Hosa, de los hijos de Merari: Simri el jefe (aunque no era el primogénito, mas su padre lo puso por jefe), el segundo Hilcías, el tercero Tebalías, el cuarto Zacarías; todos los hijos de Hosa y sus hermanos fueron trece.",
+      "verse": 10,
+      "start_ms": 65637,
+      "end_ms": 80437,
+      "duration_ms": 14800
+    },
+    {
+      "word": "Entre éstos se hizo la distribución de los porteros, alternando los principales de los varones en la guardia con sus hermanos, para servir en la casa de Jehová.",
+      "verse": 12,
+      "start_ms": 80437,
+      "end_ms": 89549,
+      "duration_ms": 9112
+    },
+    {
+      "word": "Echaron suertes, el pequeño con el grande, según sus casas paternas, para cada puerta.",
+      "verse": 13,
+      "start_ms": 89550,
+      "end_ms": 95862,
+      "duration_ms": 6312
+    },
+    {
+      "word": "Y la suerte para la del oriente cayó a Selemías.",
+      "verse": 14,
+      "start_ms": 95862,
+      "end_ms": 99474,
+      "duration_ms": 3612
+    },
+    {
+      "word": "Y metieron en las suertes a Zacarías su hijo, consejero entendido; y salió la suerte suya para la del norte.",
+      "verse": 14,
+      "start_ms": 99475,
+      "end_ms": 106450,
+      "duration_ms": 6975
+    },
+    {
+      "word": "Y para Obed-edom la puerta del sur, y a sus hijos la casa de provisiones del templo.",
+      "verse": 15,
+      "start_ms": 106450,
+      "end_ms": 111900,
+      "duration_ms": 5450
+    },
+    {
+      "word": "Para Supim y Hosa, la del occidente, la puerta de Salequet, en el camino de la subida, correspondiéndose guardia con guardia.",
+      "verse": 16,
+      "start_ms": 111900,
+      "end_ms": 120225,
+      "duration_ms": 8325
+    },
+    {
+      "word": "Al oriente seis levitas, al norte cuatro de día; al sur cuatro de día; y a la casa de provisiones de dos en dos.",
+      "verse": 17,
+      "start_ms": 120225,
+      "end_ms": 128137,
+      "duration_ms": 7912
+    },
+    {
+      "word": "En la cámara de los utensilios al occidente, cuatro al camino, y dos en la cámara.",
+      "verse": 18,
+      "start_ms": 128137,
+      "end_ms": 133724,
+      "duration_ms": 5587
+    },
+    {
+      "word": "Éstas son las distribuciones de los porteros, hijos de los coreítas y de los hijos de Merari.",
+      "verse": 19,
+      "start_ms": 133725,
+      "end_ms": 139412,
+      "duration_ms": 5687
+    },
+    {
+      "word": "Y de los levitas, Ahías tenía cargo de los tesoros de la casa de Dios, y de los tesoros de las cosas santificadas.",
+      "verse": 20,
+      "start_ms": 139412,
+      "end_ms": 146774,
+      "duration_ms": 7362
+    },
+    {
+      "word": "Cuanto a los hijos de Laadán hijo de Gersón: de Laadán, los jefes de las casas paternas de Laadán gersonita fueron los jehielitas.",
+      "verse": 21,
+      "start_ms": 146775,
+      "end_ms": 154625,
+      "duration_ms": 7850
+    },
+    {
+      "word": "Los hijos de Jehieli, Zetam y Joel su hermano, tuvieron cargo de los tesoros de la casa de Jehová.",
+      "verse": 22,
+      "start_ms": 154625,
+      "end_ms": 160937,
+      "duration_ms": 6312
+    },
+    {
+      "word": "De entre los amramitas, de los izharitas, de los hebronitas y de los uzielitas, Sebuel hijo de Gersón, hijo de Moisés, era jefe sobre los tesoros.",
+      "verse": 23,
+      "start_ms": 160937,
+      "end_ms": 170887,
+      "duration_ms": 9950
+    },
+    {
+      "word": "En cuanto a su hermano Eliezer, hijo de éste era Rehabías, hijo de éste Jesaías, hijo de éste Joram, hijo de éste Zicri, del que fue hijo Selomit.",
+      "verse": 25,
+      "start_ms": 170887,
+      "end_ms": 180562,
+      "duration_ms": 9675
+    },
+    {
+      "word": "Este Selomit y sus hermanos tenían a su cargo todos los tesoros de todas las cosas santificadas que había consagrado el rey David, y los jefes de las casas paternas, los capitanes de millares y de centenas, y los jefes del ejército; de lo que habían consagrado de las guerras y de los botines, para reparar la casa de Jehová.",
+      "verse": 26,
+      "start_ms": 180562,
+      "end_ms": 198962,
+      "duration_ms": 18400
+    },
+    {
+      "word": "Asimismo todas las cosas que había consagrado el vidente Samuel, y Saúl hijo de Cis, Abner hijo de Ner y Joab hijo de Sarvia, y todo lo que cualquiera consagraba, estaba a cargo de Selomit y de sus hermanos.",
+      "verse": 28,
+      "start_ms": 198962,
+      "end_ms": 211362,
+      "duration_ms": 12400
+    },
+    {
+      "word": "De los izharitas, Quenanías y sus hijos eran gobernadores y jueces sobre Israel en asuntos exteriores.",
+      "verse": 29,
+      "start_ms": 211362,
+      "end_ms": 218187,
+      "duration_ms": 6825
+    },
+    {
+      "word": "De los hebronitas, Hasabías y sus hermanos, hombres de vigor, mil setecientos, gobernaban a Israel al otro lado del Jordán, al occidente, en toda la obra de Jehová, y en el servicio del rey.",
+      "verse": 30,
+      "start_ms": 218187,
+      "end_ms": 230674,
+      "duration_ms": 12487
+    },
+    {
+      "word": "De los hebronitas, Jerías era el jefe de los hebronitas repartidos en sus linajes por sus familias.",
+      "verse": 31,
+      "start_ms": 230675,
+      "end_ms": 237000,
+      "duration_ms": 6325
+    },
+    {
+      "word": "En el año cuarenta del reinado de David se registraron, y fueron hallados entre ellos hombres fuertes y vigorosos en Jazer de Galaad.",
+      "verse": 31,
+      "start_ms": 237000,
+      "end_ms": 244925,
+      "duration_ms": 7925
+    },
+    {
+      "word": "Y sus hermanos, hombres valientes, eran dos mil setecientos, jefes de familias, los cuales el rey David constituyó sobre los rubenitas, los gaditas y la media tribu de Manasés, para todas las cosas de Dios y los negocios del rey.",
+      "verse": 32,
+      "start_ms": 244925,
+      "end_ms": 259337,
+      "duration_ms": 14412
+    }
+  ]
+}

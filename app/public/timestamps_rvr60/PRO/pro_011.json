@@ -1,0 +1,446 @@
+{
+  "book": "PRO",
+  "chapter": 11,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 31,
+  "word_count": 31,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 68,
+      "text": "El peso falso es abominación a Jehová; Mas la pesa cabal le agrada."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 68,
+      "char_end": 161,
+      "text": "Cuando viene la soberbia, viene también la deshonra; Mas con los humildes está la sabiduría."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 161,
+      "char_end": 261,
+      "text": "La integridad de los rectos los encaminará; Pero destruirá a los pecadores la perversidad de ellos."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 261,
+      "char_end": 346,
+      "text": "No aprovecharán las riquezas en el día de la ira; Mas la justicia librará de muerte."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 346,
+      "char_end": 429,
+      "text": "La justicia del perfecto enderezará su camino; Mas el impío por su impiedad caerá."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 429,
+      "char_end": 516,
+      "text": "La justicia de los rectos los librará; Mas los pecadores serán atrapados en su pecado."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 516,
+      "char_end": 607,
+      "text": "Cuando muere el hombre impío, perece su esperanza; Y la expectación de los malos perecerá."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 607,
+      "char_end": 680,
+      "text": "El justo es librado de la tribulación; Mas el impío entra en lugar suyo."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 680,
+      "char_end": 770,
+      "text": "El hipócrita con la boca daña a su prójimo; Mas los justos son librados con la sabiduría."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 770,
+      "char_end": 858,
+      "text": "En el bien de los justos la ciudad se alegra; Mas cuando los impíos perecen hay fiesta."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 858,
+      "char_end": 966,
+      "text": "Por la bendición de los rectos la ciudad será engrandecida; Mas por la boca de los impíos será trastornada."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 966,
+      "char_end": 1053,
+      "text": "El que carece de entendimiento menosprecia a su prójimo; Mas el hombre prudente calla."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1053,
+      "char_end": 1137,
+      "text": "El que anda en chismes descubre el secreto; Mas el de espíritu fiel lo guarda todo."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1137,
+      "char_end": 1232,
+      "text": "Donde no hay dirección sabia, caerá el pueblo; Mas en la multitud de consejeros hay seguridad."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1232,
+      "char_end": 1347,
+      "text": "Con ansiedad será afligido el que sale por fiador de un extraño; Mas el que aborreciere las fianzas vivirá seguro."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1347,
+      "char_end": 1412,
+      "text": "La mujer agraciada tendrá honra, Y los fuertes tendrán riquezas."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1412,
+      "char_end": 1496,
+      "text": "A su alma hace bien el hombre misericordioso; Mas el cruel se atormenta a sí mismo."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1496,
+      "char_end": 1573,
+      "text": "El impío hace obra falsa; Mas el que siembra justicia tendrá galardón firme."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1573,
+      "char_end": 1657,
+      "text": "Como la justicia conduce a la vida, Así el que sigue el mal lo hace para su muerte."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1657,
+      "char_end": 1755,
+      "text": "Abominación son a Jehová los perversos de corazón; Mas los perfectos de camino le son agradables."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1755,
+      "char_end": 1845,
+      "text": "Tarde o temprano, el malo será castigado; Mas la descendencia de los justos será librada."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1845,
+      "char_end": 1932,
+      "text": "Como zarcillo de oro en el hocico de un cerdo Es la mujer hermosa y apartada de razón."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1932,
+      "char_end": 2021,
+      "text": "El deseo de los justos es solamente el bien; Mas la esperanza de los impíos es el enojo."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2021,
+      "char_end": 2135,
+      "text": "Hay quienes reparten, y les es añadido más; Y hay quienes retienen más de lo que es justo, pero vienen a pobreza."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2135,
+      "char_end": 2212,
+      "text": "El alma generosa será prosperada; Y el que saciare, él también será saciado."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2212,
+      "char_end": 2315,
+      "text": "Al que acapara el grano, el pueblo lo maldecirá; Pero bendición será sobre la cabeza del que lo vende."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2315,
+      "char_end": 2394,
+      "text": "El que procura el bien buscará favor; Mas al que busca el mal, éste le vendrá."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2394,
+      "char_end": 2471,
+      "text": "El que confía en sus riquezas caerá; Mas los justos reverdecerán como ramas."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2471,
+      "char_end": 2554,
+      "text": "El que turba su casa heredará viento; Y el necio será siervo del sabio de corazón."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2554,
+      "char_end": 2621,
+      "text": "El fruto del justo es árbol de vida; Y el que gana almas es sabio."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2621,
+      "char_end": 2709,
+      "text": "Ciertamente el justo será recompensado en la tierra; ¡Cuánto más el impío y el pecador!"
+    }
+  ],
+  "words": [
+    {
+      "word": "El peso falso es abominación a Jehová; Mas la pesa cabal le agrada.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4962,
+      "duration_ms": 4862
+    },
+    {
+      "word": "Cuando viene la soberbia, viene también la deshonra; Mas con los humildes está la sabiduría.",
+      "verse": 2,
+      "start_ms": 4912,
+      "end_ms": 10949,
+      "duration_ms": 6037
+    },
+    {
+      "word": "La integridad de los rectos los encaminará; Pero destruirá a los pecadores la perversidad de ellos.",
+      "verse": 3,
+      "start_ms": 10950,
+      "end_ms": 17300,
+      "duration_ms": 6350
+    },
+    {
+      "word": "No aprovecharán las riquezas en el día de la ira; Mas la justicia librará de muerte.",
+      "verse": 4,
+      "start_ms": 17300,
+      "end_ms": 22862,
+      "duration_ms": 5562
+    },
+    {
+      "word": "La justicia del perfecto enderezará su camino; Mas el impío por su impiedad caerá.",
+      "verse": 5,
+      "start_ms": 22862,
+      "end_ms": 28349,
+      "duration_ms": 5487
+    },
+    {
+      "word": "La justicia de los rectos los librará; Mas los pecadores serán atrapados en su pecado.",
+      "verse": 6,
+      "start_ms": 28350,
+      "end_ms": 33962,
+      "duration_ms": 5612
+    },
+    {
+      "word": "Cuando muere el hombre impío, perece su esperanza; Y la expectación de los malos perecerá.",
+      "verse": 7,
+      "start_ms": 33962,
+      "end_ms": 39812,
+      "duration_ms": 5850
+    },
+    {
+      "word": "El justo es librado de la tribulación; Mas el impío entra en lugar suyo.",
+      "verse": 8,
+      "start_ms": 39812,
+      "end_ms": 44849,
+      "duration_ms": 5037
+    },
+    {
+      "word": "El hipócrita con la boca daña a su prójimo; Mas los justos son librados con la sabiduría.",
+      "verse": 9,
+      "start_ms": 44850,
+      "end_ms": 50600,
+      "duration_ms": 5750
+    },
+    {
+      "word": "En el bien de los justos la ciudad se alegra; Mas cuando los impíos perecen hay fiesta.",
+      "verse": 10,
+      "start_ms": 50600,
+      "end_ms": 56037,
+      "duration_ms": 5437
+    },
+    {
+      "word": "Por la bendición de los rectos la ciudad será engrandecida; Mas por la boca de los impíos será trastornada.",
+      "verse": 11,
+      "start_ms": 56037,
+      "end_ms": 62487,
+      "duration_ms": 6450
+    },
+    {
+      "word": "El que carece de entendimiento menosprecia a su prójimo; Mas el hombre prudente calla.",
+      "verse": 12,
+      "start_ms": 62487,
+      "end_ms": 67974,
+      "duration_ms": 5487
+    },
+    {
+      "word": "El que anda en chismes descubre el secreto; Mas el de espíritu fiel lo guarda todo.",
+      "verse": 13,
+      "start_ms": 67975,
+      "end_ms": 73387,
+      "duration_ms": 5412
+    },
+    {
+      "word": "Donde no hay dirección sabia, caerá el pueblo; Mas en la multitud de consejeros hay seguridad.",
+      "verse": 14,
+      "start_ms": 73387,
+      "end_ms": 79549,
+      "duration_ms": 6162
+    },
+    {
+      "word": "Con ansiedad será afligido el que sale por fiador de un extraño; Mas el que aborreciere las fianzas vivirá seguro.",
+      "verse": 15,
+      "start_ms": 79550,
+      "end_ms": 86462,
+      "duration_ms": 6912
+    },
+    {
+      "word": "La mujer agraciada tendrá honra, Y los fuertes tendrán riquezas.",
+      "verse": 16,
+      "start_ms": 86462,
+      "end_ms": 91212,
+      "duration_ms": 4750
+    },
+    {
+      "word": "A su alma hace bien el hombre misericordioso; Mas el cruel se atormenta a sí mismo.",
+      "verse": 17,
+      "start_ms": 91212,
+      "end_ms": 96999,
+      "duration_ms": 5787
+    },
+    {
+      "word": "El impío hace obra falsa; Mas el que siembra justicia tendrá galardón firme.",
+      "verse": 18,
+      "start_ms": 97000,
+      "end_ms": 102362,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Como la justicia conduce a la vida, Así el que sigue el mal lo hace para su muerte.",
+      "verse": 19,
+      "start_ms": 102362,
+      "end_ms": 107662,
+      "duration_ms": 5300
+    },
+    {
+      "word": "Abominación son a Jehová los perversos de corazón; Mas los perfectos de camino le son agradables.",
+      "verse": 20,
+      "start_ms": 107662,
+      "end_ms": 114049,
+      "duration_ms": 6387
+    },
+    {
+      "word": "Tarde o temprano, el malo será castigado; Mas la descendencia de los justos será librada.",
+      "verse": 21,
+      "start_ms": 114050,
+      "end_ms": 120225,
+      "duration_ms": 6175
+    },
+    {
+      "word": "Como zarcillo de oro en el hocico de un cerdo Es la mujer hermosa y apartada de razón.",
+      "verse": 22,
+      "start_ms": 120225,
+      "end_ms": 125812,
+      "duration_ms": 5587
+    },
+    {
+      "word": "El deseo de los justos es solamente el bien; Mas la esperanza de los impíos es el enojo.",
+      "verse": 23,
+      "start_ms": 125812,
+      "end_ms": 131612,
+      "duration_ms": 5800
+    },
+    {
+      "word": "Hay quienes reparten, y les es añadido más; Y hay quienes retienen más de lo que es justo, pero vienen a pobreza.",
+      "verse": 24,
+      "start_ms": 131612,
+      "end_ms": 138987,
+      "duration_ms": 7375
+    },
+    {
+      "word": "El alma generosa será prosperada; Y el que saciare, él también será saciado.",
+      "verse": 25,
+      "start_ms": 138987,
+      "end_ms": 144537,
+      "duration_ms": 5550
+    },
+    {
+      "word": "Al que acapara el grano, el pueblo lo maldecirá; Pero bendición será sobre la cabeza del que lo vende.",
+      "verse": 26,
+      "start_ms": 144537,
+      "end_ms": 150937,
+      "duration_ms": 6400
+    },
+    {
+      "word": "El que procura el bien buscará favor; Mas al que busca el mal, éste le vendrá.",
+      "verse": 27,
+      "start_ms": 150937,
+      "end_ms": 156299,
+      "duration_ms": 5362
+    },
+    {
+      "word": "El que confía en sus riquezas caerá; Mas los justos reverdecerán como ramas.",
+      "verse": 28,
+      "start_ms": 156300,
+      "end_ms": 161725,
+      "duration_ms": 5425
+    },
+    {
+      "word": "El que turba su casa heredará viento; Y el necio será siervo del sabio de corazón.",
+      "verse": 29,
+      "start_ms": 161725,
+      "end_ms": 167350,
+      "duration_ms": 5625
+    },
+    {
+      "word": "El fruto del justo es árbol de vida; Y el que gana almas es sabio.",
+      "verse": 30,
+      "start_ms": 167350,
+      "end_ms": 172125,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Ciertamente el justo será recompensado en la tierra; ¡Cuánto más el impío y el pecador!",
+      "verse": 31,
+      "start_ms": 172125,
+      "end_ms": 177725,
+      "duration_ms": 5600
+    }
+  ]
+}

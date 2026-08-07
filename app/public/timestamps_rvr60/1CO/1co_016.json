@@ -1,0 +1,824 @@
+{
+  "book": "1CO",
+  "chapter": 16,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 58,
+  "word_count": 58,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 124,
+      "text": "Además os declaro, hermanos, el evangelio que os he predicado, el cual también recibisteis, en el cual también perseveráis;"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 124,
+      "char_end": 228,
+      "text": "por el cual asimismo, si retenéis la palabra que os he predicado, sois salvos, si no creísteis en vano."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 228,
+      "char_end": 353,
+      "text": "Porque primeramente os he enseñado lo que asimismo recibí: Que Cristo murió por nuestros pecados, conforme a las Escrituras;"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 353,
+      "char_end": 431,
+      "text": "y que fue sepultado, y que resucitó al tercer día, conforme a las Escrituras;"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 431,
+      "char_end": 477,
+      "text": "y que apareció a Cefas, y después a los doce."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 477,
+      "char_end": 585,
+      "text": "Después apareció a más de quinientos hermanos a la vez, de los cuales muchos viven aún, y otros ya duermen."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 585,
+      "char_end": 643,
+      "text": "Después apareció a Jacobo; después a todos los apóstoles;"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 643,
+      "char_end": 703,
+      "text": "y al último de todos, como a un abortivo, me apareció a mí."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 703,
+      "char_end": 829,
+      "text": "Porque yo soy el más pequeño de los apóstoles, que no soy digno de ser llamado apóstol, porque perseguí a la iglesia de Dios."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 829,
+      "char_end": 1001,
+      "text": "Pero por la gracia de Dios soy lo que soy; y su gracia no ha sido en vano para conmigo, antes he trabajado más que todos ellos; pero no yo, sino la gracia de Dios conmigo."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1001,
+      "char_end": 1068,
+      "text": "Porque o sea yo o sean ellos, así predicamos, y así habéis creído."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1068,
+      "char_end": 1197,
+      "text": "Pero si se predica de Cristo que resucitó de los muertos, ¿cómo dicen algunos entre vosotros que no hay resurrección de muertos?"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1197,
+      "char_end": 1264,
+      "text": "Porque si no hay resurrección de muertos, tampoco Cristo resucitó."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1264,
+      "char_end": 1355,
+      "text": "Y si Cristo no resucitó, vana es entonces nuestra predicación, vana es también vuestra fe."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1355,
+      "char_end": 1516,
+      "text": "Y somos hallados falsos testigos de Dios; porque hemos testificado de Dios que él resucitó a Cristo, al cual no resucitó, si en verdad los muertos no resucitan."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1516,
+      "char_end": 1577,
+      "text": "Porque si los muertos no resucitan, tampoco Cristo resucitó;"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1577,
+      "char_end": 1654,
+      "text": "y si Cristo no resucitó, vuestra fe es vana; aún estáis en vuestros pecados."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1654,
+      "char_end": 1711,
+      "text": "Entonces también los que durmieron en Cristo perecieron."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1711,
+      "char_end": 1818,
+      "text": "Si en esta vida solamente esperamos en Cristo, somos los más dignos de conmiseración de todos los hombres."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1818,
+      "char_end": 1906,
+      "text": "Mas ahora Cristo ha resucitado de los muertos; primicias de los que durmieron es hecho."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1906,
+      "char_end": 2009,
+      "text": "Porque por cuanto la muerte entró por un hombre, también por un hombre la resurrección de los muertos."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2009,
+      "char_end": 2090,
+      "text": "Porque así como en Adán todos mueren, también en Cristo todos serán vivificados."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2090,
+      "char_end": 2190,
+      "text": "Pero cada uno en su debido orden: Cristo, las primicias; luego los que son de Cristo, en su venida."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2190,
+      "char_end": 2309,
+      "text": "Luego el fin, cuando entregue el reino al Dios y Padre, cuando haya suprimido todo dominio, toda autoridad y potencia."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2309,
+      "char_end": 2403,
+      "text": "Porque preciso es que él reine hasta que haya puesto a todos sus enemigos debajo de sus pies."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2403,
+      "char_end": 2457,
+      "text": "Y el postrer enemigo que será destruido es la muerte."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2457,
+      "char_end": 2632,
+      "text": "Porque todas las cosas las sujetó debajo de sus pies. Y cuando dice que todas las cosas han sido sujetadas a él, claramente se exceptúa aquel que sujetó a él todas las cosas."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2632,
+      "char_end": 2796,
+      "text": "Pero luego que todas las cosas le estén sujetas, entonces también el Hijo mismo se sujetará al que le sujetó a él todas las cosas, para que Dios sea todo en todos."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2796,
+      "char_end": 2947,
+      "text": "De otro modo, ¿qué harán los que se bautizan por los muertos, si en ninguna manera los muertos resucitan? ¿Por qué, pues, se bautizan por los muertos?"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2947,
+      "char_end": 2991,
+      "text": "¿Y por qué nosotros peligramos a toda hora?"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2991,
+      "char_end": 3098,
+      "text": "Os aseguro, hermanos, por la gloria que de vosotros tengo en nuestro Señor Jesucristo, que cada día muero."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3098,
+      "char_end": 3237,
+      "text": "Si como hombre batallé en éfeso contra fieras, ¿qué me aprovecha? Si los muertos no resucitan, comamos y bebamos, porque mañana moriremos."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3237,
+      "char_end": 3306,
+      "text": "No erréis; las malas conversaciones corrompen las buenas costumbres."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3306,
+      "char_end": 3405,
+      "text": "Velad debidamente, y no pequéis; porque algunos no conocen a Dios; para vergüenza vuestra lo digo."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3405,
+      "char_end": 3479,
+      "text": "Pero dirá alguno: ¿Cómo resucitarán los muertos? ¿Con qué cuerpo vendrán?"
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3479,
+      "char_end": 3540,
+      "text": "Necio, lo que tú siembras no se vivifica, si no muere antes."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3540,
+      "char_end": 3647,
+      "text": "Y lo que siembras no es el cuerpo que ha de salir, sino el grano desnudo, ya sea de trigo o de otro grano;"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 3647,
+      "char_end": 3723,
+      "text": "pero Dios le da el cuerpo como él quiso, y a cada semilla su propio cuerpo."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 3723,
+      "char_end": 3872,
+      "text": "No toda carne es la misma carne, sino que una carne es la de los hombres, otra carne la de las bestias, otra la de los peces, y otra la de las aves."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 3872,
+      "char_end": 3992,
+      "text": "Y hay cuerpos celestiales, y cuerpos terrenales; pero una es la gloria de los celestiales, y otra la de los terrenales."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 3992,
+      "char_end": 4130,
+      "text": "Una es la gloria del sol, otra la gloria de la luna, y otra la gloria de las estrellas, pues una estrella es diferente de otra en gloria."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4130,
+      "char_end": 4231,
+      "text": "Así también es la resurrección de los muertos. Se siembra en corrupción, resucitará en incorrupción."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4231,
+      "char_end": 4323,
+      "text": "Se siembra en deshonra, resucitará en gloria; se siembra en debilidad, resucitará en poder."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 4323,
+      "char_end": 4423,
+      "text": "Se siembra cuerpo animal, resucitará cuerpo espiritual. Hay cuerpo animal, y hay cuerpo espiritual."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 4423,
+      "char_end": 4535,
+      "text": "Así también está escrito: Fue hecho el primer hombre Adán alma viviente; el postrer Adán, espíritu vivificante."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 4535,
+      "char_end": 4605,
+      "text": "Mas lo espiritual no es primero, sino lo animal; luego lo espiritual."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 4605,
+      "char_end": 4699,
+      "text": "El primer hombre es de la tierra, terrenal; el segundo hombre, que es el Señor, es del cielo."
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 4699,
+      "char_end": 4799,
+      "text": "Cual el terrenal, tales también los terrenales; y cual el celestial, tales también los celestiales."
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 4799,
+      "char_end": 4890,
+      "text": "Y así como hemos traído la imagen del terrenal, traeremos también la imagen del celestial."
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 4890,
+      "char_end": 5018,
+      "text": "Pero esto digo, hermanos: que la carne y la sangre no pueden heredar el reino de Dios, ni la corrupción hereda la incorrupción."
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 5018,
+      "char_end": 5103,
+      "text": "He aquí, os digo un misterio: No todos dormiremos; pero todos seremos transformados,"
+    },
+    {
+      "verse": 52,
+      "label": "52",
+      "char_start": 5103,
+      "char_end": 5281,
+      "text": "en un momento, en un abrir y cerrar de ojos, a la final trompeta; porque se tocará la trompeta, y los muertos serán resucitados incorruptibles, y nosotros seremos transformados."
+    },
+    {
+      "verse": 53,
+      "label": "53",
+      "char_start": 5281,
+      "char_end": 5388,
+      "text": "Porque es necesario que esto corruptible se vista de incorrupción, y esto mortal se vista de inmortalidad."
+    },
+    {
+      "verse": 54,
+      "label": "54",
+      "char_start": 5388,
+      "char_end": 5578,
+      "text": "Y cuando esto corruptible se haya vestido de incorrupción, y esto mortal se haya vestido de inmortalidad, entonces se cumplirá la palabra que está escrita: Sorbida es la muerte en victoria."
+    },
+    {
+      "verse": 55,
+      "label": "55",
+      "char_start": 5578,
+      "char_end": 5648,
+      "text": "¿Dónde está, oh muerte, tu aguijón? ¿Dónde, oh sepulcro, tu victoria?"
+    },
+    {
+      "verse": 56,
+      "label": "56",
+      "char_start": 5648,
+      "char_end": 5724,
+      "text": "ya que el aguijón de la muerte es el pecado, y el poder del pecado, la ley."
+    },
+    {
+      "verse": 57,
+      "label": "57",
+      "char_start": 5724,
+      "char_end": 5817,
+      "text": "Mas gracias sean dadas a Dios, que nos da la victoria por medio de nuestro Señor Jesucristo."
+    },
+    {
+      "verse": 58,
+      "label": "58",
+      "char_start": 5817,
+      "char_end": 5971,
+      "text": "Así que, hermanos míos amados, estad firmes y constantes, creciendo en la obra del Señor siempre, sabiendo que vuestro trabajo en el Señor no es en vano."
+    }
+  ],
+  "words": [
+    {
+      "word": "Además os declaro, hermanos, el evangelio que os he predicado, el cual también recibisteis, en el cual también perseveráis; por el cual asimismo, si retenéis la palabra que os he predicado, sois salvos, si no creísteis en vano.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 14775,
+      "duration_ms": 14675
+    },
+    {
+      "word": "Porque primeramente os he enseñado lo que asimismo recibí: Que Cristo murió por nuestros pecados, conforme a las Escrituras; y que fue sepultado, y que resucitó al tercer día, conforme a las Escrituras; y que apareció a Cefas, y después a los doce.",
+      "verse": 3,
+      "start_ms": 14725,
+      "end_ms": 30200,
+      "duration_ms": 15475
+    },
+    {
+      "word": "Después apareció a más de quinientos hermanos a la vez, de los cuales muchos viven aún, y otros ya duermen.",
+      "verse": 6,
+      "start_ms": 30200,
+      "end_ms": 36975,
+      "duration_ms": 6775
+    },
+    {
+      "word": "Después apareció a Jacobo; después a todos los apóstoles; y al último de todos, como a un abortivo, me apareció a mí.",
+      "verse": 7,
+      "start_ms": 36975,
+      "end_ms": 45312,
+      "duration_ms": 8337
+    },
+    {
+      "word": "Porque yo soy el más pequeño de los apóstoles, que no soy digno de ser llamado apóstol, porque perseguí a la iglesia de Dios.",
+      "verse": 9,
+      "start_ms": 45312,
+      "end_ms": 53149,
+      "duration_ms": 7837
+    },
+    {
+      "word": "Pero por la gracia de Dios soy lo que soy; y su gracia no ha sido en vano para conmigo, antes he trabajado más que todos ellos; pero no yo, sino la gracia de Dios conmigo.",
+      "verse": 10,
+      "start_ms": 53150,
+      "end_ms": 63725,
+      "duration_ms": 10575
+    },
+    {
+      "word": "Porque o sea yo o sean ellos, así predicamos, y así habéis creído.",
+      "verse": 11,
+      "start_ms": 63725,
+      "end_ms": 69150,
+      "duration_ms": 5425
+    },
+    {
+      "word": "Pero si se predica de Cristo que resucitó de los muertos, ¿cómo dicen algunos entre vosotros que no hay resurrección de muertos?",
+      "verse": 12,
+      "start_ms": 69150,
+      "end_ms": 76650,
+      "duration_ms": 7500
+    },
+    {
+      "word": "Porque si no hay resurrección de muertos, tampoco Cristo resucitó.",
+      "verse": 13,
+      "start_ms": 76650,
+      "end_ms": 81162,
+      "duration_ms": 4512
+    },
+    {
+      "word": "Y si Cristo no resucitó, vana es entonces nuestra predicación, vana es también vuestra fe.",
+      "verse": 14,
+      "start_ms": 81162,
+      "end_ms": 87424,
+      "duration_ms": 6262
+    },
+    {
+      "word": "Y somos hallados falsos testigos de Dios; porque hemos testificado de Dios que él resucitó a Cristo, al cual no resucitó, si en verdad los muertos no resucitan.",
+      "verse": 15,
+      "start_ms": 87425,
+      "end_ms": 97575,
+      "duration_ms": 10150
+    },
+    {
+      "word": "Porque si los muertos no resucitan, tampoco Cristo resucitó; y si Cristo no resucitó, vuestra fe es vana; aún estáis en vuestros pecados.",
+      "verse": 16,
+      "start_ms": 97575,
+      "end_ms": 107112,
+      "duration_ms": 9537
+    },
+    {
+      "word": "Entonces también los que durmieron en Cristo perecieron.",
+      "verse": 18,
+      "start_ms": 107112,
+      "end_ms": 110787,
+      "duration_ms": 3675
+    },
+    {
+      "word": "Si en esta vida solamente esperamos en Cristo, somos los más dignos de conmiseración de todos los hombres.",
+      "verse": 19,
+      "start_ms": 110787,
+      "end_ms": 117474,
+      "duration_ms": 6687
+    },
+    {
+      "word": "Mas ahora Cristo ha resucitado de los muertos; primicias de los que durmieron es hecho.",
+      "verse": 20,
+      "start_ms": 117475,
+      "end_ms": 123000,
+      "duration_ms": 5525
+    },
+    {
+      "word": "Porque por cuanto la muerte entró por un hombre, también por un hombre la resurrección de los muertos.",
+      "verse": 21,
+      "start_ms": 123000,
+      "end_ms": 128662,
+      "duration_ms": 5662
+    },
+    {
+      "word": "Porque así como en Adán todos mueren, también en Cristo todos serán vivificados.",
+      "verse": 22,
+      "start_ms": 128662,
+      "end_ms": 134137,
+      "duration_ms": 5475
+    },
+    {
+      "word": "Pero cada uno en su debido orden: Cristo, las primicias; luego los que son de Cristo, en su venida.",
+      "verse": 23,
+      "start_ms": 134137,
+      "end_ms": 141312,
+      "duration_ms": 7175
+    },
+    {
+      "word": "Luego el fin, cuando entregue el reino al Dios y Padre, cuando haya suprimido todo dominio, toda autoridad y potencia.",
+      "verse": 24,
+      "start_ms": 141312,
+      "end_ms": 148949,
+      "duration_ms": 7637
+    },
+    {
+      "word": "Porque preciso es que él reine hasta que haya puesto a todos sus enemigos debajo de sus pies.",
+      "verse": 25,
+      "start_ms": 148950,
+      "end_ms": 154375,
+      "duration_ms": 5425
+    },
+    {
+      "word": "Y el postrer enemigo que será destruido es la muerte.",
+      "verse": 26,
+      "start_ms": 154375,
+      "end_ms": 158137,
+      "duration_ms": 3762
+    },
+    {
+      "word": "Porque todas las cosas las sujetó debajo de sus pies.",
+      "verse": 27,
+      "start_ms": 158137,
+      "end_ms": 161899,
+      "duration_ms": 3762
+    },
+    {
+      "word": "Y cuando dice que todas las cosas han sido sujetadas a él, claramente se exceptúa aquel que sujetó a él todas las cosas.",
+      "verse": 27,
+      "start_ms": 161900,
+      "end_ms": 169275,
+      "duration_ms": 7375
+    },
+    {
+      "word": "Pero luego que todas las cosas le estén sujetas, entonces también el Hijo mismo se sujetará al que le sujetó a él todas las cosas, para que Dios sea todo en todos.",
+      "verse": 28,
+      "start_ms": 169275,
+      "end_ms": 179262,
+      "duration_ms": 9987
+    },
+    {
+      "word": "De otro modo, ¿qué harán los que se bautizan por los muertos, si en ninguna manera los muertos resucitan?",
+      "verse": 29,
+      "start_ms": 179262,
+      "end_ms": 185924,
+      "duration_ms": 6662
+    },
+    {
+      "word": "Por qué, pues, se bautizan por los muertos?",
+      "verse": 29,
+      "start_ms": 185925,
+      "end_ms": 189637,
+      "duration_ms": 3712
+    },
+    {
+      "word": "Y por qué nosotros peligramos a toda hora?",
+      "verse": 30,
+      "start_ms": 189637,
+      "end_ms": 192912,
+      "duration_ms": 3275
+    },
+    {
+      "word": "Os aseguro, hermanos, por la gloria que de vosotros tengo en nuestro Señor Jesucristo, que cada día muero.",
+      "verse": 31,
+      "start_ms": 192912,
+      "end_ms": 200049,
+      "duration_ms": 7137
+    },
+    {
+      "word": "Si como hombre batallé en éfeso contra fieras, ¿qué me aprovecha?",
+      "verse": 32,
+      "start_ms": 200050,
+      "end_ms": 204700,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Si los muertos no resucitan, comamos y bebamos, porque mañana moriremos.",
+      "verse": 32,
+      "start_ms": 204700,
+      "end_ms": 210287,
+      "duration_ms": 5587
+    },
+    {
+      "word": "No erréis; las malas conversaciones corrompen las buenas costumbres.",
+      "verse": 33,
+      "start_ms": 210287,
+      "end_ms": 215224,
+      "duration_ms": 4937
+    },
+    {
+      "word": "Velad debidamente, y no pequéis; porque algunos no conocen a Dios; para vergüenza vuestra lo digo.",
+      "verse": 34,
+      "start_ms": 215225,
+      "end_ms": 222262,
+      "duration_ms": 7037
+    },
+    {
+      "word": "Pero dirá alguno: ¿Cómo resucitarán los muertos?",
+      "verse": 35,
+      "start_ms": 222262,
+      "end_ms": 226162,
+      "duration_ms": 3900
+    },
+    {
+      "word": "Con qué cuerpo vendrán?",
+      "verse": 35,
+      "start_ms": 226162,
+      "end_ms": 228362,
+      "duration_ms": 2200
+    },
+    {
+      "word": "Necio, lo que tú siembras no se vivifica, si no muere antes.",
+      "verse": 36,
+      "start_ms": 228362,
+      "end_ms": 233199,
+      "duration_ms": 4837
+    },
+    {
+      "word": "Y lo que siembras no es el cuerpo que ha de salir, sino el grano desnudo, ya sea de trigo o de otro grano; pero Dios le da el cuerpo como él quiso, y a cada semilla su propio cuerpo.",
+      "verse": 37,
+      "start_ms": 233200,
+      "end_ms": 244212,
+      "duration_ms": 11012
+    },
+    {
+      "word": "No toda carne es la misma carne, sino que una carne es la de los hombres, otra carne la de las bestias, otra la de los peces, y otra la de las aves.",
+      "verse": 39,
+      "start_ms": 244212,
+      "end_ms": 253649,
+      "duration_ms": 9437
+    },
+    {
+      "word": "Y hay cuerpos celestiales, y cuerpos terrenales; pero una es la gloria de los celestiales, y otra la de los terrenales.",
+      "verse": 40,
+      "start_ms": 253650,
+      "end_ms": 261562,
+      "duration_ms": 7912
+    },
+    {
+      "word": "Una",
+      "verse": 41,
+      "start_ms": 261562,
+      "end_ms": 262937,
+      "duration_ms": 1375
+    },
+    {
+      "word": "es la gloria del sol, otra la gloria de la luna, y otra la gloria de las estrellas, pues una estrella es diferente de otra en gloria.",
+      "verse": 41,
+      "start_ms": 263092,
+      "end_ms": 271367,
+      "duration_ms": 8275
+    },
+    {
+      "word": "Así también es la resurrección de los muertos.",
+      "verse": 42,
+      "start_ms": 271317,
+      "end_ms": 274629,
+      "duration_ms": 3312
+    },
+    {
+      "word": "Se siembra en corrupción, resucitará en incorrupción.",
+      "verse": 42,
+      "start_ms": 274629,
+      "end_ms": 278629,
+      "duration_ms": 4000
+    },
+    {
+      "word": "Se siembra en deshonra, resucitará en gloria; se siembra en debilidad, resucitará en poder.",
+      "verse": 43,
+      "start_ms": 278629,
+      "end_ms": 285016,
+      "duration_ms": 6387
+    },
+    {
+      "word": "Se siembra cuerpo animal, resucitará cuerpo espiritual.",
+      "verse": 44,
+      "start_ms": 285017,
+      "end_ms": 289167,
+      "duration_ms": 4150
+    },
+    {
+      "word": "Hay cuerpo animal, y hay cuerpo espiritual.",
+      "verse": 44,
+      "start_ms": 289167,
+      "end_ms": 292467,
+      "duration_ms": 3300
+    },
+    {
+      "word": "Así también está escrito: Fue hecho el primer hombre Adán alma viviente; el postrer Adán, espíritu vivificante.",
+      "verse": 45,
+      "start_ms": 292467,
+      "end_ms": 299942,
+      "duration_ms": 7475
+    },
+    {
+      "word": "Mas lo espiritual no es primero, sino lo animal; luego lo espiritual.",
+      "verse": 46,
+      "start_ms": 299942,
+      "end_ms": 304742,
+      "duration_ms": 4800
+    },
+    {
+      "word": "El primer hombre es de la tierra, terrenal; el segundo hombre, que es el Señor, es del cielo.",
+      "verse": 47,
+      "start_ms": 304742,
+      "end_ms": 311029,
+      "duration_ms": 6287
+    },
+    {
+      "word": "Cual el terrenal, tales también los terrenales; y cual el celestial, tales también los celestiales.",
+      "verse": 48,
+      "start_ms": 311029,
+      "end_ms": 317829,
+      "duration_ms": 6800
+    },
+    {
+      "word": "Y así como hemos traído la imagen del terrenal, traeremos también la imagen del celestial.",
+      "verse": 49,
+      "start_ms": 317829,
+      "end_ms": 323816,
+      "duration_ms": 5987
+    },
+    {
+      "word": "Pero esto digo, hermanos: que la carne y la sangre no pueden heredar el reino de Dios, ni la corrupción hereda la incorrupción.",
+      "verse": 50,
+      "start_ms": 323817,
+      "end_ms": 331867,
+      "duration_ms": 8050
+    },
+    {
+      "word": "He aquí, os digo un misterio: No todos dormiremos; pero todos seremos transformados, en un momento, en un abrir y cerrar de ojos, a la final trompeta; porque se tocará la trompeta, y los muertos serán resucitados incorruptibles, y nosotros seremos transformados.",
+      "verse": 51,
+      "start_ms": 331867,
+      "end_ms": 349404,
+      "duration_ms": 17537
+    },
+    {
+      "word": "Porque es necesario que esto corruptible se vista de incorrupción, y esto mortal se vista de inmortalidad.",
+      "verse": 53,
+      "start_ms": 349404,
+      "end_ms": 355954,
+      "duration_ms": 6550
+    },
+    {
+      "word": "Y cuando esto corruptible se haya vestido de incorrupción, y esto mortal se haya vestido de inmortalidad, entonces se cumplirá la palabra que está escrita: Sorbida es la muerte en victoria.",
+      "verse": 54,
+      "start_ms": 355954,
+      "end_ms": 367079,
+      "duration_ms": 11125
+    },
+    {
+      "word": "Dónde está, oh muerte, tu aguijón?",
+      "verse": 55,
+      "start_ms": 367079,
+      "end_ms": 370316,
+      "duration_ms": 3237
+    },
+    {
+      "word": "Dónde, oh sepulcro, tu victoria? ya que el aguijón de la muerte es el pecado, y el poder del pecado, la ley.",
+      "verse": 55,
+      "start_ms": 370317,
+      "end_ms": 378042,
+      "duration_ms": 7725
+    },
+    {
+      "word": "Mas gracias sean dadas a Dios, que nos da la victoria por medio de nuestro Señor Jesucristo.",
+      "verse": 57,
+      "start_ms": 378042,
+      "end_ms": 383879,
+      "duration_ms": 5837
+    },
+    {
+      "word": "Así que, hermanos míos amados, estad firmes y constantes, creciendo en la obra del Señor siempre, sabiendo que vuestro trabajo en el Señor no es en vano.",
+      "verse": 58,
+      "start_ms": 383879,
+      "end_ms": 393741,
+      "duration_ms": 9862
+    }
+  ]
+}

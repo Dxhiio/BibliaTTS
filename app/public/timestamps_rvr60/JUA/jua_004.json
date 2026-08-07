@@ -1,0 +1,516 @@
+{
+  "book": "JUA",
+  "chapter": 4,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 36,
+  "word_count": 36,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 88,
+      "text": "Había un hombre de los fariseos que se llamaba Nicodemo, un principal entre los judíos."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 88,
+      "char_end": 255,
+      "text": "Éste vino a Jesús de noche, y le dijo: Rabí, sabemos que has venido de Dios como maestro; porque nadie puede hacer estas señales que tú haces, si no está Dios con él."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 255,
+      "char_end": 375,
+      "text": "Respondió Jesús y le dijo: De cierto, de cierto te digo, que el que no naciere de nuevo, no puede ver el reino de Dios."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 375,
+      "char_end": 507,
+      "text": "Nicodemo le dijo: ¿Cómo puede un hombre nacer siendo viejo? ¿Puede acaso entrar por segunda vez en el vientre de su madre, y nacer?"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 507,
+      "char_end": 637,
+      "text": "Respondió Jesús: De cierto, de cierto te digo, que el que no naciere de agua y del Espíritu, no puede entrar en el reino de Dios."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 637,
+      "char_end": 723,
+      "text": "Lo que es nacido de la carne, carne es; y lo que es nacido del Espíritu, espíritu es."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 723,
+      "char_end": 788,
+      "text": "No te maravilles de que te dije: Os es necesario nacer de nuevo."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 788,
+      "char_end": 929,
+      "text": "El viento sopla de donde quiere, y oyes su sonido; mas ni sabes de dónde viene, ni a dónde va; así es todo aquel que es nacido del Espíritu."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 929,
+      "char_end": 985,
+      "text": "Respondió Nicodemo y le dijo: ¿Cómo puede hacerse esto?"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 985,
+      "char_end": 1057,
+      "text": "Respondió Jesús y le dijo: ¿Eres tú maestro de Israel, y no sabes esto?"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1057,
+      "char_end": 1185,
+      "text": "De cierto, de cierto te digo, que lo que sabemos hablamos, y lo que hemos visto, testificamos; y no recibís nuestro testimonio."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1185,
+      "char_end": 1276,
+      "text": "Si os he dicho cosas terrenales, y no creéis, ¿cómo creeréis si os dijere las celestiales?"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1276,
+      "char_end": 1373,
+      "text": "Nadie subió al cielo, sino el que descendió del cielo; el Hijo del Hombre, que está en el cielo."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1373,
+      "char_end": 1479,
+      "text": "Y como Moisés levantó la serpiente en el desierto, así es necesario que el Hijo del Hombre sea levantado,"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1479,
+      "char_end": 1584,
+      "text": "para que todo aquel que en él cree, no se pierda, mas tenga vida eterna. De tal manera amó Dios al mundo"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1584,
+      "char_end": 1730,
+      "text": "Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1730,
+      "char_end": 1835,
+      "text": "Porque no envió Dios a su Hijo al mundo para condenar al mundo, sino para que el mundo sea salvo por él."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1835,
+      "char_end": 1975,
+      "text": "El que en él cree, no es condenado; pero el que no cree, ya ha sido condenado, porque no ha creído en el nombre del unigénito Hijo de Dios."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1975,
+      "char_end": 2107,
+      "text": "Y ésta es la condenación: que la luz vino al mundo, y los hombres amaron más las tinieblas que la luz, porque sus obras eran malas."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2107,
+      "char_end": 2220,
+      "text": "Porque todo aquel que hace lo malo, aborrece la luz y no viene a la luz, para que sus obras no sean reprendidas."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2220,
+      "char_end": 2344,
+      "text": "Mas el que practica la verdad viene a la luz, para que sea manifiesto que sus obras son hechas en Dios. El amigo del esposo"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2344,
+      "char_end": 2451,
+      "text": "Después de esto, vino Jesús con sus discípulos a la tierra de Judea, y estuvo allí con ellos, y bautizaba."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2451,
+      "char_end": 2559,
+      "text": "Juan bautizaba también en Enón, junto a Salim, porque había allí muchas aguas; y venían, y eran bautizados."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2559,
+      "char_end": 2602,
+      "text": "Porque Juan no había sido aún encarcelado."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2602,
+      "char_end": 2695,
+      "text": "Entonces hubo discusión entre los discípulos de Juan y los judíos acerca de la purificación."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2695,
+      "char_end": 2849,
+      "text": "Y vinieron a Juan y le dijeron: Rabí, mira que el que estaba contigo al otro lado del Jordán, de quien tú diste testimonio, bautiza, y todos vienen a él."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2849,
+      "char_end": 2936,
+      "text": "Respondió Juan y dijo: No puede el hombre recibir nada, si no le fuere dado del cielo."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2936,
+      "char_end": 3039,
+      "text": "Vosotros mismos me sois testigos de que dije: Yo no soy el Cristo, sino que soy enviado delante de él."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3039,
+      "char_end": 3211,
+      "text": "El que tiene la esposa, es el esposo; mas el amigo del esposo, que está a su lado y le oye, se goza grandemente de la voz del esposo; así pues, este mi gozo está cumplido."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3211,
+      "char_end": 3282,
+      "text": "Es necesario que él crezca, pero que yo mengüe. El que viene de arriba"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3282,
+      "char_end": 3425,
+      "text": "El que de arriba viene, es sobre todos; el que es de la tierra, es terrenal, y cosas terrenales habla; el que viene del cielo, es sobre todos."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3425,
+      "char_end": 3491,
+      "text": "Y lo que vio y oyó, esto testifica; y nadie recibe su testimonio."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3491,
+      "char_end": 3554,
+      "text": "El que recibe su testimonio, éste atestigua que Dios es veraz."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3554,
+      "char_end": 3648,
+      "text": "Porque el que Dios envió, las palabras de Dios habla; pues Dios no da el Espíritu por medida."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3648,
+      "char_end": 3713,
+      "text": "El Padre ama al Hijo, y todas las cosas ha entregado en su mano."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3713,
+      "char_end": 3847,
+      "text": "El que cree en el Hijo tiene vida eterna; pero el que rehúsa creer en el Hijo no verá la vida, sino que la ira de Dios está sobre él."
+    }
+  ],
+  "words": [
+    {
+      "word": "Había un hombre de los fariseos que se llamaba Nicodemo, un principal entre los judíos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5712,
+      "duration_ms": 5612
+    },
+    {
+      "word": "Éste vino a Jesús de noche, y le dijo: Rabí, sabemos que has venido de Dios como maestro; porque nadie puede hacer estas señales que tú haces, si no está Dios con él.",
+      "verse": 2,
+      "start_ms": 5662,
+      "end_ms": 16362,
+      "duration_ms": 10700
+    },
+    {
+      "word": "Respondió Jesús y le dijo: De cierto, de cierto te digo, que el que no naciere de nuevo, no puede ver el reino de Dios.",
+      "verse": 3,
+      "start_ms": 16362,
+      "end_ms": 24549,
+      "duration_ms": 8187
+    },
+    {
+      "word": "Nicodemo le dijo: ¿Cómo puede un hombre nacer siendo viejo?",
+      "verse": 4,
+      "start_ms": 24550,
+      "end_ms": 28875,
+      "duration_ms": 4325
+    },
+    {
+      "word": "Puede acaso entrar por segunda vez en el vientre de su madre, y nacer?",
+      "verse": 4,
+      "start_ms": 28875,
+      "end_ms": 33512,
+      "duration_ms": 4637
+    },
+    {
+      "word": "Respondió Jesús: De cierto, de cierto te digo, que el que no naciere de agua y del Espíritu, no puede entrar en el reino de Dios.",
+      "verse": 5,
+      "start_ms": 33512,
+      "end_ms": 42112,
+      "duration_ms": 8600
+    },
+    {
+      "word": "Lo que es nacido de la carne, carne es; y lo que es nacido del Espíritu, espíritu es.",
+      "verse": 6,
+      "start_ms": 42112,
+      "end_ms": 48799,
+      "duration_ms": 6687
+    },
+    {
+      "word": "No te maravilles de que te dije: Os es necesario nacer de nuevo.",
+      "verse": 7,
+      "start_ms": 48800,
+      "end_ms": 53225,
+      "duration_ms": 4425
+    },
+    {
+      "word": "El viento sopla de donde quiere, y oyes su sonido; mas ni sabes de dónde viene, ni a dónde va; así es todo aquel que es nacido del Espíritu.",
+      "verse": 8,
+      "start_ms": 53225,
+      "end_ms": 62575,
+      "duration_ms": 9350
+    },
+    {
+      "word": "Respondió Nicodemo y le dijo: ¿Cómo puede hacerse esto?",
+      "verse": 9,
+      "start_ms": 62575,
+      "end_ms": 66837,
+      "duration_ms": 4262
+    },
+    {
+      "word": "Respondió Jesús y le dijo: ¿Eres tú maestro de Israel, y no sabes esto?",
+      "verse": 10,
+      "start_ms": 66837,
+      "end_ms": 72399,
+      "duration_ms": 5562
+    },
+    {
+      "word": "De cierto, de cierto te digo, que lo que sabemos hablamos, y lo que hemos visto, testificamos; y no recibís nuestro testimonio.",
+      "verse": 11,
+      "start_ms": 72400,
+      "end_ms": 81262,
+      "duration_ms": 8862
+    },
+    {
+      "word": "Si os he dicho cosas terrenales, y no creéis, ¿cómo creeréis si os dijere las celestiales?",
+      "verse": 12,
+      "start_ms": 81262,
+      "end_ms": 87762,
+      "duration_ms": 6500
+    },
+    {
+      "word": "Nadie subió al cielo, sino el que descendió del cielo; el Hijo del Hombre, que está en el cielo.",
+      "verse": 13,
+      "start_ms": 87762,
+      "end_ms": 94062,
+      "duration_ms": 6300
+    },
+    {
+      "word": "Y como Moisés levantó la serpiente en el desierto, así es necesario que el Hijo del Hombre sea levantado, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna.",
+      "verse": 14,
+      "start_ms": 94062,
+      "end_ms": 105049,
+      "duration_ms": 10987
+    },
+    {
+      "word": "De tal manera amó Dios al mundo Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna.",
+      "verse": 15,
+      "start_ms": 105050,
+      "end_ms": 115925,
+      "duration_ms": 10875
+    },
+    {
+      "word": "Porque no envió Dios a su Hijo al mundo para condenar al mundo, sino para que el mundo sea salvo por él.",
+      "verse": 17,
+      "start_ms": 115925,
+      "end_ms": 121962,
+      "duration_ms": 6037
+    },
+    {
+      "word": "El que en él cree, no es condenado; pero el que no cree, ya ha sido condenado, porque no ha creído en el nombre del unigénito Hijo de Dios.",
+      "verse": 18,
+      "start_ms": 121962,
+      "end_ms": 131024,
+      "duration_ms": 9062
+    },
+    {
+      "word": "Y ésta es la condenación: que la luz vino al mundo, y los hombres amaron más las tinieblas que la luz, porque sus obras eran malas.",
+      "verse": 19,
+      "start_ms": 131025,
+      "end_ms": 139212,
+      "duration_ms": 8187
+    },
+    {
+      "word": "Porque todo aquel que hace lo malo, aborrece la luz y no viene a la luz, para que sus obras no sean reprendidas.",
+      "verse": 20,
+      "start_ms": 139212,
+      "end_ms": 146437,
+      "duration_ms": 7225
+    },
+    {
+      "word": "Mas el que practica la verdad viene a la luz, para que sea manifiesto que sus obras son hechas en Dios.",
+      "verse": 21,
+      "start_ms": 146437,
+      "end_ms": 152812,
+      "duration_ms": 6375
+    },
+    {
+      "word": "El amigo del esposo Después de esto, vino Jesús con sus discípulos a la tierra de Judea, y estuvo allí con ellos, y bautizaba.",
+      "verse": 21,
+      "start_ms": 152812,
+      "end_ms": 160999,
+      "duration_ms": 8187
+    },
+    {
+      "word": "Juan bautizaba también en Enón, junto a Salim, porque había allí muchas aguas; y venían, y eran bautizados.",
+      "verse": 23,
+      "start_ms": 161000,
+      "end_ms": 168887,
+      "duration_ms": 7887
+    },
+    {
+      "word": "Porque Juan no había sido aún encarcelado.",
+      "verse": 24,
+      "start_ms": 168887,
+      "end_ms": 172087,
+      "duration_ms": 3200
+    },
+    {
+      "word": "Entonces hubo discusión entre los discípulos de Juan y los judíos acerca de la purificación.",
+      "verse": 25,
+      "start_ms": 172087,
+      "end_ms": 177787,
+      "duration_ms": 5700
+    },
+    {
+      "word": "Y vinieron a Juan y le dijeron: Rabí, mira que el que estaba contigo al otro lado del Jordán, de quien tú diste testimonio, bautiza, y todos vienen a él.",
+      "verse": 26,
+      "start_ms": 177787,
+      "end_ms": 187837,
+      "duration_ms": 10050
+    },
+    {
+      "word": "Respondió Juan y dijo: No puede el hombre recibir nada, si no le fuere dado del cielo.",
+      "verse": 27,
+      "start_ms": 187837,
+      "end_ms": 193837,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Vosotros mismos me sois testigos de que dije: Yo no soy el Cristo, sino que soy enviado delante de él.",
+      "verse": 28,
+      "start_ms": 193837,
+      "end_ms": 200624,
+      "duration_ms": 6787
+    },
+    {
+      "word": "El que tiene la esposa, es el esposo; mas el amigo del esposo, que está a su lado y le oye, se goza grandemente de la voz del esposo; así pues, este mi gozo está cumplido.",
+      "verse": 29,
+      "start_ms": 200625,
+      "end_ms": 212187,
+      "duration_ms": 11562
+    },
+    {
+      "word": "Es necesario que él crezca, pero que yo mengüe.",
+      "verse": 30,
+      "start_ms": 212187,
+      "end_ms": 215712,
+      "duration_ms": 3525
+    },
+    {
+      "word": "El que viene de arriba El que de arriba viene, es sobre todos; el que es de la tierra, es terrenal, y cosas terrenales habla; el que viene del cielo, es sobre todos.",
+      "verse": 30,
+      "start_ms": 215712,
+      "end_ms": 226337,
+      "duration_ms": 10625
+    },
+    {
+      "word": "Y lo que vio y oyó, esto testifica; y nadie recibe su testimonio.",
+      "verse": 32,
+      "start_ms": 226337,
+      "end_ms": 231449,
+      "duration_ms": 5112
+    },
+    {
+      "word": "El que recibe su testimonio, éste atestigua que Dios es veraz.",
+      "verse": 33,
+      "start_ms": 231450,
+      "end_ms": 236087,
+      "duration_ms": 4637
+    },
+    {
+      "word": "Porque el que Dios envió, las palabras de Dios habla; pues Dios no da el Espíritu por medida.",
+      "verse": 34,
+      "start_ms": 236087,
+      "end_ms": 242149,
+      "duration_ms": 6062
+    },
+    {
+      "word": "El Padre ama al Hijo, y todas las cosas ha entregado en su mano.",
+      "verse": 35,
+      "start_ms": 242150,
+      "end_ms": 246837,
+      "duration_ms": 4687
+    },
+    {
+      "word": "El que cree en el Hijo tiene vida eterna; pero el que rehúsa creer en el Hijo no verá la vida, sino que la ira de Dios está sobre él.",
+      "verse": 36,
+      "start_ms": 246837,
+      "end_ms": 254824,
+      "duration_ms": 7987
+    }
+  ]
+}

@@ -1,0 +1,796 @@
+{
+  "book": "1CR",
+  "chapter": 2,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 55,
+  "word_count": 57,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 75,
+      "text": "Éstos son los hijos de Israel: Rubén, Simeón, Leví, Judá, Isacar, Zabulón,"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 75,
+      "char_end": 139,
+      "text": "Dan, José, Benjamín, Neftalí, Gad y Aser. Descendientes de Judá"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 139,
+      "char_end": 296,
+      "text": "Los hijos de Judá: Er, Onán y Sela. Estos tres le nacieron de la hija de Súa, cananea. Y Er, primogénito de Judá, fue malo delante de Jehová, quien lo mató."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 296,
+      "char_end": 379,
+      "text": "Y Tamar su nuera dio a luz a Fares y a Zera. Todos los hijos de Judá fueron cinco."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 379,
+      "char_end": 415,
+      "text": "Los hijos de Fares: Hezrón y Hamul."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 415,
+      "char_end": 488,
+      "text": "Y los hijos de Zera: Zimri, Etán, Hemán, Calcol y Dara; por todos cinco."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 488,
+      "char_end": 570,
+      "text": "Hijo de Carmi fue Acán, el que perturbó a Israel, porque prevaricó en el anatema."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 570,
+      "char_end": 596,
+      "text": "Azarías fue hijo de Etán."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 596,
+      "char_end": 655,
+      "text": "Los hijos que nacieron a Hezrón: Jerameel, Ram y Quelubai."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 655,
+      "char_end": 741,
+      "text": "Ram engendró a Aminadab, y Aminadab engendró a Naasón, príncipe de los hijos de Judá."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 741,
+      "char_end": 793,
+      "text": "Naasón engendró a Salmón, y Salmón engendró a Booz."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 793,
+      "char_end": 839,
+      "text": "Booz engendró a Obed, y Obed engendró a Isaí,"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 839,
+      "char_end": 918,
+      "text": "e Isaí engendró a Eliab su primogénito, el segundo Abinadab, Simea el tercero,"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 918,
+      "char_end": 955,
+      "text": "el cuarto Natanael, el quinto Radai,"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 955,
+      "char_end": 988,
+      "text": "el sexto Ozem, el séptimo David,"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 988,
+      "char_end": 1091,
+      "text": "de los cuales Sarvia y Abigail fueron hermanas. Los hijos de Sarvia fueron tres: Abisai, Joab y Asael."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1091,
+      "char_end": 1150,
+      "text": "Abigail dio a luz a Amasa, cuyo padre fue Jeter ismaelita,"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1150,
+      "char_end": 1257,
+      "text": "Caleb hijo de Hezrón engendró a Jeriot de su mujer Azuba. Y los hijos de ella fueron Jeser, Sobab y Ardón."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1257,
+      "char_end": 1327,
+      "text": "Muerta Azuba, tomó Caleb por mujer a Efrata, la cual dio a luz a Hur."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1327,
+      "char_end": 1376,
+      "text": "Y Hur engendró a Uri, y Uri engendró a Bezaleel."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1376,
+      "char_end": 1500,
+      "text": "Después entró Hezrón a la hija de Maquir padre de Galaad, la cual tomó siendo él de sesenta años, y ella dio a luz a Segub."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1500,
+      "char_end": 1582,
+      "text": "Y Segub engendró a Jair, el cual tuvo veintitrés ciudades en la tierra de Galaad."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1582,
+      "char_end": 1739,
+      "text": "Pero Gesur y Aram tomaron de ellos las ciudades de Jair, con Kenat y sus aldeas, sesenta lugares. Todos estos fueron de los hijos de Maquir padre de Galaad."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1739,
+      "char_end": 1828,
+      "text": "Muerto Hezrón en Caleb de Efrata, Abías mujer de Hezrón dio a luz a Asur padre de Tecoa."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1828,
+      "char_end": 1925,
+      "text": "Los hijos de Jerameel primogénito de Hezrón fueron Ram su primogénito, Buna, Orén, Ozem y Ahías."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 1925,
+      "char_end": 1990,
+      "text": "Y tuvo Jerameel otra mujer llamada Atara, que fue madre de Onam."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 1990,
+      "char_end": 2059,
+      "text": "Los hijos de Ram primogénito de Jerameel fueron Maaz, Jamín y Equer."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2059,
+      "char_end": 2136,
+      "text": "Y los hijos de Onam fueron Samai y Jada. Los hijos de Samai: Nadab y Abisur."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2136,
+      "char_end": 2220,
+      "text": "Y el nombre de la mujer de Abisur fue Abihail, la cual dio a luz a Ahbán y a Molid."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2220,
+      "char_end": 2280,
+      "text": "Los hijos de Nadab: Seled y Apaim. Y Seled murió sin hijos."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2280,
+      "char_end": 2348,
+      "text": "Isi fue hijo de Apaim, y Sesán hijo de Isi, e hijo de Sesán, Ahlai."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2348,
+      "char_end": 2426,
+      "text": "Los hijos de Jada hermano de Samai: Jeter y Jonatán. Y murió Jeter sin hijos."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 2426,
+      "char_end": 2498,
+      "text": "Los hijos de Jonatán: Pelet y Zaza. éstos fueron los hijos de Jerameel."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 2498,
+      "char_end": 2583,
+      "text": "Y Sesán no tuvo hijos, sino hijas; pero tenía Sesán un siervo egipcio llamado Jarha."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 2583,
+      "char_end": 2644,
+      "text": "A éste Sesán dio su hija por mujer, y ella dio a luz a Atai."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 2644,
+      "char_end": 2693,
+      "text": "Atai engendró a Natán, y Natán engendró a Zabad;"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 2693,
+      "char_end": 2740,
+      "text": "Zabad engendró a Eflal, Eflal engendró a Obed;"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 2740,
+      "char_end": 2787,
+      "text": "Obed engendró a Jehú, Jehú engendró a Azarías;"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 2787,
+      "char_end": 2837,
+      "text": "Azarías engendró a Heles, Heles engendró a Elasa;"
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 2837,
+      "char_end": 2887,
+      "text": "Elasa engendró a Sismai, Sismai engendró a Salum;"
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 2887,
+      "char_end": 2945,
+      "text": "Salum engendró a Jecamías, y Jecamías engendró a Elisama."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 2945,
+      "char_end": 3077,
+      "text": "Los hijos de Caleb hermano de Jerameel fueron: Mesa su primogénito, que fue el padre de Zif; y los hijos de Maresa padre de Hebrón."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 3077,
+      "char_end": 3128,
+      "text": "Y los hijos de Hebrón: Coré, Tapúa, Requem y Sema."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 3128,
+      "char_end": 3195,
+      "text": "Sema engendró a Raham padre de Jorcoam, y Requem engendró a Samai."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 3195,
+      "char_end": 3244,
+      "text": "Maón fue hijo de Samai, y Maón padre de Bet-sur."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 3244,
+      "char_end": 3332,
+      "text": "Y Efa concubina de Caleb dio a luz a Harán, a Mosa y a Gazez. Y Harán engendró a Gazez."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 3332,
+      "char_end": 3393,
+      "text": "Los hijos de Jahdai: Regem, Jotam, Gesam, Pelet, Efa y Saaf."
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 3393,
+      "char_end": 3449,
+      "text": "Maaca concubina de Caleb dio a luz a Seber y a Tirhana."
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 3449,
+      "char_end": 3562,
+      "text": "También dio a luz a Saaf padre de Madmana, y a Seva padre de Macbena y padre de Gibea. Y Acsa fue hija de Caleb."
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 3562,
+      "char_end": 3666,
+      "text": "Éstos fueron los hijos de Caleb. Los hijos de Hur primogénito de Efrata: Sobal padre de Quiriat-jearim,"
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 3666,
+      "char_end": 3716,
+      "text": "Salma padre de Belén, y Haref padre de Bet-gader."
+    },
+    {
+      "verse": 52,
+      "label": "52",
+      "char_start": 3716,
+      "char_end": 3804,
+      "text": "Y los hijos de Sobal padre de Quiriat-jearim fueron Haroe, la mitad de los manahetitas."
+    },
+    {
+      "verse": 53,
+      "label": "53",
+      "char_start": 3804,
+      "char_end": 3956,
+      "text": "Y las familias de Quiriat-jearim fueron los itritas, los futitas, los sumatitas y los misraítas, de los cuales salieron los zoratitas y los estaolitas."
+    },
+    {
+      "verse": 54,
+      "label": "54",
+      "char_start": 3956,
+      "char_end": 4063,
+      "text": "Los hijos de Salma: Belén, y los netofatitas, Atrot-bet-joab, y la mitad de los manahetitas, los zoraítas."
+    },
+    {
+      "verse": 55,
+      "label": "55",
+      "char_start": 4063,
+      "char_end": 4241,
+      "text": "Y las familias de los escribas que moraban en Jabes fueron los tirateos, los simeateos y los sucateos, los cuales son los ceneos que vinieron de Hamat padre de la casa de Recab."
+    }
+  ],
+  "words": [
+    {
+      "word": "Éstos son los hijos de Israel: Rubén, Simeón, Leví, Judá, Isacar, Zabulón, Dan, José, Benjamín, Neftalí, Gad y Aser.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 11062,
+      "duration_ms": 10962
+    },
+    {
+      "word": "Descendientes de Judá Los hijos de Judá: Er, Onán y Sela.",
+      "verse": 2,
+      "start_ms": 11012,
+      "end_ms": 15312,
+      "duration_ms": 4300
+    },
+    {
+      "word": "Estos tres le nacieron de la hija de Súa, cananea.",
+      "verse": 3,
+      "start_ms": 15312,
+      "end_ms": 19224,
+      "duration_ms": 3912
+    },
+    {
+      "word": "Y Er, primogénito de Judá, fue malo delante de Jehová, quien lo mató.",
+      "verse": 3,
+      "start_ms": 19225,
+      "end_ms": 24612,
+      "duration_ms": 5387
+    },
+    {
+      "word": "Y Tamar su nuera dio a luz a Fares y a Zera.",
+      "verse": 4,
+      "start_ms": 24612,
+      "end_ms": 27787,
+      "duration_ms": 3175
+    },
+    {
+      "word": "Todos los hijos de Judá fueron cinco.",
+      "verse": 4,
+      "start_ms": 27787,
+      "end_ms": 30674,
+      "duration_ms": 2887
+    },
+    {
+      "word": "Los hijos de Fares: Hezrón y Hamul.",
+      "verse": 5,
+      "start_ms": 30675,
+      "end_ms": 33925,
+      "duration_ms": 3250
+    },
+    {
+      "word": "Y los hijos de Zera: Zimri, Etán, Hemán, Calcol y Dara; por todos cinco.",
+      "verse": 6,
+      "start_ms": 33925,
+      "end_ms": 40287,
+      "duration_ms": 6362
+    },
+    {
+      "word": "Hijo de Carmi fue Acán, el que perturbó a Israel, porque prevaricó en el anatema.",
+      "verse": 7,
+      "start_ms": 40287,
+      "end_ms": 46112,
+      "duration_ms": 5825
+    },
+    {
+      "word": "Azarías fue hijo de Etán.",
+      "verse": 8,
+      "start_ms": 46112,
+      "end_ms": 48637,
+      "duration_ms": 2525
+    },
+    {
+      "word": "Los hijos que nacieron a Hezrón: Jerameel, Ram y Quelubai.",
+      "verse": 9,
+      "start_ms": 48637,
+      "end_ms": 53224,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Ram engendró a Aminadab, y Aminadab engendró a Naasón, príncipe de los hijos de Judá.",
+      "verse": 10,
+      "start_ms": 53225,
+      "end_ms": 59550,
+      "duration_ms": 6325
+    },
+    {
+      "word": "Naasón engendró a Salmón, y Salmón engendró a Booz.",
+      "verse": 11,
+      "start_ms": 59550,
+      "end_ms": 63775,
+      "duration_ms": 4225
+    },
+    {
+      "word": "Booz engendró a Obed, y Obed engendró a Isaí, e Isaí engendró a Eliab su primogénito, el segundo Abinadab, Simea el tercero, el cuarto Natanael, el quinto Radai, el sexto Ozem, el séptimo David, de los cuales Sarvia y Abigail fueron hermanas.",
+      "verse": 12,
+      "start_ms": 63775,
+      "end_ms": 80262,
+      "duration_ms": 16487
+    },
+    {
+      "word": "Los hijos de Sarvia fueron tres: Abisai, Joab y Asael.",
+      "verse": 16,
+      "start_ms": 80262,
+      "end_ms": 84999,
+      "duration_ms": 4737
+    },
+    {
+      "word": "Abigail dio a luz a Amasa, cuyo padre fue Jeter ismaelita, Caleb hijo de Hezrón engendró a Jeriot de su mujer Azuba.",
+      "verse": 17,
+      "start_ms": 85000,
+      "end_ms": 92912,
+      "duration_ms": 7912
+    },
+    {
+      "word": "Y los hijos de ella fueron Jeser, Sobab y Ardón.",
+      "verse": 18,
+      "start_ms": 92912,
+      "end_ms": 96737,
+      "duration_ms": 3825
+    },
+    {
+      "word": "Muerta Azuba, tomó Caleb por mujer a Efrata, la cual dio a luz a Hur.",
+      "verse": 19,
+      "start_ms": 96737,
+      "end_ms": 101849,
+      "duration_ms": 5112
+    },
+    {
+      "word": "Y Hur engendró a Uri, y Uri engendró a Bezaleel.",
+      "verse": 20,
+      "start_ms": 101850,
+      "end_ms": 105812,
+      "duration_ms": 3962
+    },
+    {
+      "word": "Después entró Hezrón a la hija de Maquir padre de Galaad, la cual tomó siendo él de sesenta años, y ella dio a luz a Segub.",
+      "verse": 21,
+      "start_ms": 105812,
+      "end_ms": 113462,
+      "duration_ms": 7650
+    },
+    {
+      "word": "Y Segub engendró a Jair, el cual tuvo veintitrés ciudades en la tierra de Galaad.",
+      "verse": 22,
+      "start_ms": 113462,
+      "end_ms": 118874,
+      "duration_ms": 5412
+    },
+    {
+      "word": "Pero Gesur y Aram tomaron de ellos las ciudades de Jair, con Kenat y sus aldeas, sesenta lugares.",
+      "verse": 23,
+      "start_ms": 118875,
+      "end_ms": 125512,
+      "duration_ms": 6637
+    },
+    {
+      "word": "Todos estos fueron de los hijos de Maquir padre de Galaad.",
+      "verse": 23,
+      "start_ms": 125512,
+      "end_ms": 129287,
+      "duration_ms": 3775
+    },
+    {
+      "word": "Muerto Hezrón en Caleb de Efrata, Abías mujer de Hezrón dio a luz a Asur padre de Tecoa.",
+      "verse": 24,
+      "start_ms": 129287,
+      "end_ms": 135274,
+      "duration_ms": 5987
+    },
+    {
+      "word": "Los hijos de Jerameel primogénito de Hezrón fueron Ram su primogénito, Buna, Orén, Ozem y Ahías.",
+      "verse": 25,
+      "start_ms": 135275,
+      "end_ms": 142212,
+      "duration_ms": 6937
+    },
+    {
+      "word": "Y tuvo Jerameel otra mujer llamada Atara, que fue madre de Onam.",
+      "verse": 26,
+      "start_ms": 142212,
+      "end_ms": 147049,
+      "duration_ms": 4837
+    },
+    {
+      "word": "Los hijos de Ram primogénito de Jerameel fueron Maaz, Jamín y Equer.",
+      "verse": 27,
+      "start_ms": 147050,
+      "end_ms": 152050,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Y los hijos de Onam fueron Samai y Jada.",
+      "verse": 28,
+      "start_ms": 152050,
+      "end_ms": 155262,
+      "duration_ms": 3212
+    },
+    {
+      "word": "Los hijos de Samai: Nadab y Abisur.",
+      "verse": 28,
+      "start_ms": 155262,
+      "end_ms": 158412,
+      "duration_ms": 3150
+    },
+    {
+      "word": "Y el nombre de la mujer de Abisur fue Abihail, la cual dio a luz a Ahbán y a Molid.",
+      "verse": 29,
+      "start_ms": 158412,
+      "end_ms": 163812,
+      "duration_ms": 5400
+    },
+    {
+      "word": "Los hijos de Nadab: Seled y Apaim.",
+      "verse": 30,
+      "start_ms": 163812,
+      "end_ms": 166774,
+      "duration_ms": 2962
+    },
+    {
+      "word": "Y Seled murió sin hijos.",
+      "verse": 30,
+      "start_ms": 166775,
+      "end_ms": 169175,
+      "duration_ms": 2400
+    },
+    {
+      "word": "Isi fue hijo de Apaim, y Sesán hijo de Isi, e hijo de Sesán, Ahlai.",
+      "verse": 31,
+      "start_ms": 169175,
+      "end_ms": 174450,
+      "duration_ms": 5275
+    },
+    {
+      "word": "Los hijos de Jada hermano de Samai: Jeter y Jonatán.",
+      "verse": 32,
+      "start_ms": 174450,
+      "end_ms": 178487,
+      "duration_ms": 4037
+    },
+    {
+      "word": "Y murió Jeter sin hijos.",
+      "verse": 32,
+      "start_ms": 178487,
+      "end_ms": 181024,
+      "duration_ms": 2537
+    },
+    {
+      "word": "Los hijos de Jonatán: Pelet y Zaza.",
+      "verse": 33,
+      "start_ms": 181025,
+      "end_ms": 184325,
+      "duration_ms": 3300
+    },
+    {
+      "word": "éstos fueron los hijos de Jerameel.",
+      "verse": 33,
+      "start_ms": 184325,
+      "end_ms": 187175,
+      "duration_ms": 2850
+    },
+    {
+      "word": "Y Sesán no tuvo hijos, sino hijas; pero tenía Sesán un siervo egipcio llamado Jarha.",
+      "verse": 34,
+      "start_ms": 187175,
+      "end_ms": 193450,
+      "duration_ms": 6275
+    },
+    {
+      "word": "A éste Sesán dio su hija por mujer, y ella dio a luz a Atai.",
+      "verse": 35,
+      "start_ms": 193450,
+      "end_ms": 197937,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Atai engendró a Natán, y Natán engendró a Zabad; Zabad engendró a Eflal, Eflal engendró a Obed; Obed engendró a Jehú, Jehú engendró a Azarías; Azarías engendró a Heles, Heles engendró a Elasa; Elasa engendró a Sismai, Sismai engendró a Salum; Salum engendró a Jecamías, y Jecamías engendró a Elisama.",
+      "verse": 36,
+      "start_ms": 197937,
+      "end_ms": 218687,
+      "duration_ms": 20750
+    },
+    {
+      "word": "Los hijos de Caleb hermano de Jerameel fueron: Mesa su primogénito, que fue el padre de Zif; y los hijos de Maresa padre de Hebrón.",
+      "verse": 42,
+      "start_ms": 218687,
+      "end_ms": 227199,
+      "duration_ms": 8512
+    },
+    {
+      "word": "Y los hijos de Hebrón: Coré, Tapúa, Requem y Sema.",
+      "verse": 43,
+      "start_ms": 227200,
+      "end_ms": 231537,
+      "duration_ms": 4337
+    },
+    {
+      "word": "Sema engendró a Raham padre de Jorcoam, y Requem engendró a Samai.",
+      "verse": 44,
+      "start_ms": 231537,
+      "end_ms": 236237,
+      "duration_ms": 4700
+    },
+    {
+      "word": "Maón fue hijo de Samai, y Maón padre de Bet-sur.",
+      "verse": 45,
+      "start_ms": 236237,
+      "end_ms": 240262,
+      "duration_ms": 4025
+    },
+    {
+      "word": "Y Efa concubina de Caleb dio a luz a Harán, a Mosa y a Gazez.",
+      "verse": 46,
+      "start_ms": 240262,
+      "end_ms": 245062,
+      "duration_ms": 4800
+    },
+    {
+      "word": "Y Harán engendró a Gazez.",
+      "verse": 46,
+      "start_ms": 245062,
+      "end_ms": 247474,
+      "duration_ms": 2412
+    },
+    {
+      "word": "Los hijos de Jahdai: Regem, Jotam, Gesam, Pelet, Efa y Saaf.",
+      "verse": 47,
+      "start_ms": 247475,
+      "end_ms": 253562,
+      "duration_ms": 6087
+    },
+    {
+      "word": "Maaca concubina de Caleb dio a luz a Seber y a Tirhana.",
+      "verse": 48,
+      "start_ms": 253562,
+      "end_ms": 257649,
+      "duration_ms": 4087
+    },
+    {
+      "word": "También dio a luz a Saaf padre de Madmana, y a Seva padre de Macbena y padre de Gibea.",
+      "verse": 49,
+      "start_ms": 257650,
+      "end_ms": 263450,
+      "duration_ms": 5800
+    },
+    {
+      "word": "Y Acsa fue hija de Caleb.",
+      "verse": 49,
+      "start_ms": 263450,
+      "end_ms": 265862,
+      "duration_ms": 2412
+    },
+    {
+      "word": "Éstos fueron los hijos de Caleb.",
+      "verse": 50,
+      "start_ms": 265862,
+      "end_ms": 268387,
+      "duration_ms": 2525
+    },
+    {
+      "word": "Los hijos de Hur primogénito de Efrata: Sobal padre de Quiriat-jearim, Salma padre de Belén, y Haref padre de Bet-gader.",
+      "verse": 50,
+      "start_ms": 268387,
+      "end_ms": 276674,
+      "duration_ms": 8287
+    },
+    {
+      "word": "Y los hijos de Sobal padre de Quiriat-jearim fueron Haroe, la mitad de los manahetitas.",
+      "verse": 52,
+      "start_ms": 276675,
+      "end_ms": 282425,
+      "duration_ms": 5750
+    },
+    {
+      "word": "Y las familias de Quiriat-jearim fueron los itritas, los futitas, los sumatitas y los misraítas, de los cuales salieron los zoratitas y los estaolitas.",
+      "verse": 53,
+      "start_ms": 282425,
+      "end_ms": 291837,
+      "duration_ms": 9412
+    },
+    {
+      "word": "Los hijos de Salma:",
+      "verse": 54,
+      "start_ms": 291837,
+      "end_ms": 293849,
+      "duration_ms": 2012
+    },
+    {
+      "word": "Belén, y los netofatitas, Atrot-bet-joab, y la mitad de los manahetitas, los zoraítas.",
+      "verse": 54,
+      "start_ms": 294004,
+      "end_ms": 300591,
+      "duration_ms": 6587
+    },
+    {
+      "word": "Y las familias de los escribas que moraban en Jabes fueron los tirateos, los simeateos y los sucateos, los cuales son los ceneos que vinieron de Hamat padre de la casa de Recab.",
+      "verse": 55,
+      "start_ms": 300541,
+      "end_ms": 310328,
+      "duration_ms": 9787
+    }
+  ]
+}

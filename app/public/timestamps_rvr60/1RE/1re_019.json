@@ -1,0 +1,362 @@
+{
+  "book": "1RE",
+  "chapter": 19,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 21,
+  "word_count": 29,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 116,
+      "text": "Acab dio a Jezabel la nueva de todo lo que Elías había hecho, y de cómo había matado a espada a todos los profetas."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 116,
+      "char_end": 289,
+      "text": "Entonces envió Jezabel a Elías un mensajero, diciendo: Así me hagan los dioses, y aun me añadan, si mañana a estas horas yo no he puesto tu persona como la de uno de ellos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 289,
+      "char_end": 418,
+      "text": "Viendo, pues, el peligro, se levantó y se fue para salvar su vida, y vino a Beerseba, que está en Judá, y dejó allí a su criado."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 418,
+      "char_end": 604,
+      "text": "Y él se fue por el desierto un día de camino, y vino y se sentó debajo de un enebro; y deseando morirse, dijo: Basta ya, oh Jehová, quítame la vida, pues no soy yo mejor que mis padres."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 604,
+      "char_end": 715,
+      "text": "Y echándose debajo del enebro, se quedó dormido; y he aquí luego un ángel le tocó, y le dijo: Levántate, come."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 715,
+      "char_end": 852,
+      "text": "Entonces él miró, y he aquí a su cabecera una torta cocida sobre las ascuas, y una vasija de agua; y comió y bebió, y volvió a dormirse."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 852,
+      "char_end": 966,
+      "text": "Y volviendo el ángel de Jehová la segunda vez, lo tocó, diciendo: Levántate y come, porque largo camino te resta."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 966,
+      "char_end": 1104,
+      "text": "Se levantó, pues, y comió y bebió; y fortalecido con aquella comida caminó cuarenta días y cuarenta noches hasta Horeb, el monte de Dios."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1104,
+      "char_end": 1227,
+      "text": "Y allí se metió en una cueva, donde pasó la noche. Y vino a él palabra de Jehová, el cual le dijo: ¿Qué haces aquí, Elías?"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1227,
+      "char_end": 1469,
+      "text": "Él respondió: He sentido un vivo celo por Jehová Dios de los ejércitos; porque los hijos de Israel han dejado tu pacto, han derribado tus altares, y han matado a espada a tus profetas; y sólo yo he quedado, y me buscan para quitarme la vida."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1469,
+      "char_end": 1759,
+      "text": "él le dijo: Sal fuera, y ponte en el monte delante de Jehová. Y he aquí Jehová que pasaba, y un grande y poderoso viento que rompía los montes, y quebraba las peñas delante de Jehová; pero Jehová no estaba en el viento. Y tras el viento un terremoto; pero Jehová no estaba en el terremoto."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1759,
+      "char_end": 1870,
+      "text": "Y tras el terremoto un fuego; pero Jehová no estaba en el fuego. Y tras el fuego un silbo apacible y delicado."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1870,
+      "char_end": 2031,
+      "text": "Y cuando lo oyó Elías, cubrió su rostro con su manto, y salió, y se puso a la puerta de la cueva. Y he aquí vino a él una voz, diciendo: ¿Qué haces aquí, Elías?"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 2031,
+      "char_end": 2273,
+      "text": "Él respondió: He sentido un vivo celo por Jehová Dios de los ejércitos; porque los hijos de Israel han dejado tu pacto, han derribado tus altares, y han matado a espada a tus profetas; y sólo yo he quedado, y me buscan para quitarme la vida."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2273,
+      "char_end": 2396,
+      "text": "Y le dijo Jehová: Ve, vuélvete por tu camino, por el desierto de Damasco; y llegarás, y ungirás a Hazael por rey de Siria."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2396,
+      "char_end": 2531,
+      "text": "A Jehú hijo de Nimsi ungirás por rey sobre Israel; y a Eliseo hijo de Safat, de Abel-mehola, ungirás para que sea profeta en tu lugar."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2531,
+      "char_end": 2647,
+      "text": "Y el que escapare de la espada de Hazael, Jehú lo matará; y el que escapare de la espada de Jehú, Eliseo lo matará."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2647,
+      "char_end": 2781,
+      "text": "Y yo haré que queden en Israel siete mil, cuyas rodillas no se doblaron ante Baal, y cuyas bocas no lo besaron. Llamamiento de Eliseo"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2781,
+      "char_end": 2955,
+      "text": "Partiendo él de allí, halló a Eliseo hijo de Safat, que araba con doce yuntas delante de sí, y él tenía la última. Y pasando Elías por delante de él, echó sobre él su manto."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2955,
+      "char_end": 3147,
+      "text": "Entonces dejando él los bueyes, vino corriendo en pos de Elías, y dijo: Te ruego que me dejes besar a mi padre y a mi madre, y luego te seguiré. Y él le dijo: Ve, vuelve; ¿qué te he hecho yo?"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 3147,
+      "char_end": 3329,
+      "text": "Y se volvió, y tomó un par de bueyes y los mató, y con el arado de los bueyes coció la carne, y la dio al pueblo para que comiesen. Después se levantó y fue tras Elías, y le servía."
+    }
+  ],
+  "words": [
+    {
+      "word": "Acab dio a Jezabel la nueva de todo lo que Elías había hecho, y de cómo había matado a espada a todos los profetas.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7587,
+      "duration_ms": 7487
+    },
+    {
+      "word": "Entonces envió Jezabel a Elías un mensajero, diciendo: Así me hagan los dioses, y aun me añadan, si mañana a estas horas yo no he puesto tu persona como la de uno de ellos.",
+      "verse": 2,
+      "start_ms": 7537,
+      "end_ms": 18462,
+      "duration_ms": 10925
+    },
+    {
+      "word": "Viendo, pues, el peligro, se levantó y se fue para salvar su vida, y vino a Beerseba, que está en Judá, y dejó allí a su criado.",
+      "verse": 3,
+      "start_ms": 18462,
+      "end_ms": 27374,
+      "duration_ms": 8912
+    },
+    {
+      "word": "Y él se fue por el desierto un día de camino, y vino y se sentó debajo de un enebro; y deseando morirse, dijo: Basta ya, oh Jehová, quítame la vida, pues no soy yo mejor que mis padres.",
+      "verse": 4,
+      "start_ms": 27375,
+      "end_ms": 39725,
+      "duration_ms": 12350
+    },
+    {
+      "word": "Y echándose debajo del enebro, se quedó dormido; y he aquí luego un ángel le tocó, y le dijo: Levántate, come.",
+      "verse": 5,
+      "start_ms": 39725,
+      "end_ms": 48000,
+      "duration_ms": 8275
+    },
+    {
+      "word": "Entonces él miró, y he aquí a su cabecera una torta cocida sobre las ascuas, y una vasija de agua; y comió y bebió, y volvió a dormirse.",
+      "verse": 6,
+      "start_ms": 48000,
+      "end_ms": 57250,
+      "duration_ms": 9250
+    },
+    {
+      "word": "Y volviendo el ángel de Jehová la segunda vez, lo tocó, diciendo: Levántate y come, porque largo camino te resta.",
+      "verse": 7,
+      "start_ms": 57250,
+      "end_ms": 65237,
+      "duration_ms": 7987
+    },
+    {
+      "word": "Se levantó, pues, y comió y bebió; y fortalecido con aquella comida caminó cuarenta días y cuarenta noches hasta Horeb, el monte de Dios.",
+      "verse": 8,
+      "start_ms": 65237,
+      "end_ms": 74399,
+      "duration_ms": 9162
+    },
+    {
+      "word": "Y allí se metió en una cueva, donde pasó la noche.",
+      "verse": 9,
+      "start_ms": 74400,
+      "end_ms": 78175,
+      "duration_ms": 3775
+    },
+    {
+      "word": "Y vino a él palabra de Jehová, el cual le dijo: ¿Qué haces aquí, Elías?",
+      "verse": 9,
+      "start_ms": 78175,
+      "end_ms": 83587,
+      "duration_ms": 5412
+    },
+    {
+      "word": "Él respondió: He sentido un vivo celo por Jehová Dios de los ejércitos; porque los hijos de Israel han dejado tu pacto, han derribado tus altares, y han matado a espada a tus profetas; y sólo yo he quedado, y me buscan para quitarme la vida.",
+      "verse": 10,
+      "start_ms": 83587,
+      "end_ms": 98324,
+      "duration_ms": 14737
+    },
+    {
+      "word": "él le dijo: Sal fuera, y ponte en el monte delante de Jehová.",
+      "verse": 11,
+      "start_ms": 98325,
+      "end_ms": 103200,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Y he aquí Jehová que pasaba, y un grande y poderoso viento que rompía los montes, y quebraba las peñas delante de Jehová; pero Jehová no estaba en el viento.",
+      "verse": 11,
+      "start_ms": 103200,
+      "end_ms": 112837,
+      "duration_ms": 9637
+    },
+    {
+      "word": "Y tras el viento un terremoto; pero Jehová no estaba en el terremoto.",
+      "verse": 11,
+      "start_ms": 112837,
+      "end_ms": 117574,
+      "duration_ms": 4737
+    },
+    {
+      "word": "Y tras el terremoto un fuego; pero Jehová no estaba en el fuego.",
+      "verse": 12,
+      "start_ms": 117575,
+      "end_ms": 122062,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Y tras el fuego un silbo apacible y delicado.",
+      "verse": 12,
+      "start_ms": 122062,
+      "end_ms": 125487,
+      "duration_ms": 3425
+    },
+    {
+      "word": "Y cuando lo oyó Elías, cubrió su rostro con su manto, y salió, y se puso a la puerta de la cueva.",
+      "verse": 13,
+      "start_ms": 125487,
+      "end_ms": 132024,
+      "duration_ms": 6537
+    },
+    {
+      "word": "Y he aquí vino a él una voz, diciendo: ¿Qué haces aquí, Elías?",
+      "verse": 13,
+      "start_ms": 132025,
+      "end_ms": 137262,
+      "duration_ms": 5237
+    },
+    {
+      "word": "Él respondió: He sentido un vivo celo por Jehová Dios de los ejércitos; porque los hijos de Israel han dejado tu pacto, han derribado tus altares, y han matado a espada a tus profetas; y sólo yo he quedado, y me buscan para quitarme la vida.",
+      "verse": 14,
+      "start_ms": 137262,
+      "end_ms": 151999,
+      "duration_ms": 14737
+    },
+    {
+      "word": "Y le dijo Jehová: Ve, vuélvete por tu camino, por el desierto de Damasco; y llegarás, y ungirás a Hazael por rey de Siria.",
+      "verse": 15,
+      "start_ms": 152000,
+      "end_ms": 160712,
+      "duration_ms": 8712
+    },
+    {
+      "word": "A Jehú hijo de Nimsi ungirás por rey sobre Israel; y a Eliseo hijo de Safat, de Abel-mehola, ungirás para que sea profeta en tu lugar.",
+      "verse": 16,
+      "start_ms": 160712,
+      "end_ms": 169737,
+      "duration_ms": 9025
+    },
+    {
+      "word": "Y el que escapare de la espada de Hazael, Jehú lo matará; y el que escapare de la espada de Jehú, Eliseo lo matará.",
+      "verse": 17,
+      "start_ms": 169737,
+      "end_ms": 177162,
+      "duration_ms": 7425
+    },
+    {
+      "word": "Y yo haré que queden en Israel siete mil, cuyas rodillas no se doblaron ante Baal, y cuyas bocas no lo besaron.",
+      "verse": 18,
+      "start_ms": 177162,
+      "end_ms": 184612,
+      "duration_ms": 7450
+    },
+    {
+      "word": "Llamamiento de Eliseo Partiendo él de allí, halló a Eliseo hijo de Safat, que araba con doce yuntas delante de sí, y él tenía la última.",
+      "verse": 18,
+      "start_ms": 184612,
+      "end_ms": 193512,
+      "duration_ms": 8900
+    },
+    {
+      "word": "Y pasando Elías por delante de él, echó sobre él su manto.",
+      "verse": 19,
+      "start_ms": 193512,
+      "end_ms": 197812,
+      "duration_ms": 4300
+    },
+    {
+      "word": "Entonces dejando él los bueyes, vino corriendo en pos de Elías, y dijo: Te ruego que me dejes besar a mi padre y a mi madre, y luego te seguiré.",
+      "verse": 20,
+      "start_ms": 197812,
+      "end_ms": 207074,
+      "duration_ms": 9262
+    },
+    {
+      "word": "Y él le dijo: Ve, vuelve; ¿qué te he hecho yo?",
+      "verse": 20,
+      "start_ms": 207075,
+      "end_ms": 211375,
+      "duration_ms": 4300
+    },
+    {
+      "word": "Y se volvió, y tomó un par de bueyes y los mató, y con el arado de los bueyes coció la carne, y la dio al pueblo para que comiesen.",
+      "verse": 21,
+      "start_ms": 211375,
+      "end_ms": 219625,
+      "duration_ms": 8250
+    },
+    {
+      "word": "Después se levantó y fue tras Elías, y le servía.",
+      "verse": 21,
+      "start_ms": 219625,
+      "end_ms": 223450,
+      "duration_ms": 3825
+    }
+  ]
+}

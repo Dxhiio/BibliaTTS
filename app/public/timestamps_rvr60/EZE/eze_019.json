@@ -1,0 +1,215 @@
+{
+  "book": "EZE",
+  "chapter": 19,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 14,
+  "word_count": 15,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 53,
+      "text": "Y tú, levanta endecha sobre los príncipes de Israel."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 53,
+      "char_end": 151,
+      "text": "Dirás: ¡Cómo se echó entre los leones tu madre la leona! Entre los leoncillos crió sus cachorros,"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 151,
+      "char_end": 262,
+      "text": "e hizo subir uno de sus cachorros; vino a ser leoncillo, y aprendió a arrebatar la presa, y a devorar hombres."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 262,
+      "char_end": 374,
+      "text": "Y las naciones oyeron de él; fue tomado en la trampa de ellas, y lo llevaron con grillos a la tierra de Egipto."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 374,
+      "char_end": 502,
+      "text": "Viendo ella que había esperado mucho tiempo, y que se perdía su esperanza, tomó otro de sus cachorros, y lo puso por leoncillo."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 502,
+      "char_end": 598,
+      "text": "Y él andaba entre los leones; se hizo leoncillo, aprendió a arrebatar la presa, devoró hombres."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 598,
+      "char_end": 714,
+      "text": "Saqueó fortalezas, y asoló ciudades; y la tierra fue desolada, y cuanto había en ella, al estruendo de sus rugidos."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 714,
+      "char_end": 838,
+      "text": "Arremetieron contra él las gentes de las provincias de alrededor, y extendieron sobre él su red, y en el foso fue apresado."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 838,
+      "char_end": 1018,
+      "text": "Y lo pusieron en una jaula y lo llevaron con cadenas, y lo llevaron al rey de Babilonia; lo pusieron en las fortalezas, para que su voz no se oyese más sobre los montes de Israel."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1018,
+      "char_end": 1153,
+      "text": "Tu madre fue como una vid en medio de la viña, plantada junto a las aguas, dando fruto y echando vástagos a causa de las muchas aguas."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1153,
+      "char_end": 1320,
+      "text": "Y ella tuvo varas fuertes para cetros de reyes; y se elevó su estatura por encima entre las ramas, y fue vista por causa de su altura y la multitud de sus sarmientos."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1320,
+      "char_end": 1475,
+      "text": "Pero fue arrancada con ira, derribada en tierra, y el viento solano secó su fruto; sus ramas fuertes fueron quebradas y se secaron; las consumió el fuego."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1475,
+      "char_end": 1548,
+      "text": "Y ahora está plantada en el desierto, en tierra de sequedad y de aridez."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1548,
+      "char_end": 1712,
+      "text": "Y ha salido fuego de la vara de sus ramas, que ha consumido su fruto, y no ha quedado en ella vara fuerte para cetro de rey. Endecha es ésta, y de endecha servirá."
+    }
+  ],
+  "words": [
+    {
+      "word": "Y tú, levanta endecha sobre los príncipes de Israel.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 4025,
+      "duration_ms": 3925
+    },
+    {
+      "word": "Dirás: ¡Cómo se echó entre los leones tu madre la leona!",
+      "verse": 2,
+      "start_ms": 3975,
+      "end_ms": 8150,
+      "duration_ms": 4175
+    },
+    {
+      "word": "Entre los leoncillos crió sus cachorros, e hizo subir uno de sus cachorros; vino a ser leoncillo, y aprendió a arrebatar la presa, y a devorar hombres.",
+      "verse": 2,
+      "start_ms": 8150,
+      "end_ms": 17862,
+      "duration_ms": 9712
+    },
+    {
+      "word": "Y las naciones oyeron de él; fue tomado en la trampa de ellas, y lo llevaron con grillos a la tierra de Egipto.",
+      "verse": 4,
+      "start_ms": 17862,
+      "end_ms": 24837,
+      "duration_ms": 6975
+    },
+    {
+      "word": "Viendo ella que había esperado mucho tiempo, y que se perdía su esperanza, tomó otro de sus cachorros, y lo puso por leoncillo.",
+      "verse": 5,
+      "start_ms": 24837,
+      "end_ms": 32824,
+      "duration_ms": 7987
+    },
+    {
+      "word": "Y él andaba entre los leones; se hizo leoncillo, aprendió a arrebatar la presa, devoró hombres.",
+      "verse": 6,
+      "start_ms": 32825,
+      "end_ms": 39575,
+      "duration_ms": 6750
+    },
+    {
+      "word": "Saqueó fortalezas, y asoló ciudades; y la tierra fue desolada, y cuanto había en ella, al estruendo de sus rugidos.",
+      "verse": 7,
+      "start_ms": 39575,
+      "end_ms": 47650,
+      "duration_ms": 8075
+    },
+    {
+      "word": "Arremetieron contra él las gentes de las provincias de alrededor, y extendieron sobre él su red, y en el foso fue apresado.",
+      "verse": 8,
+      "start_ms": 47650,
+      "end_ms": 55100,
+      "duration_ms": 7450
+    },
+    {
+      "word": "Y lo pusieron en una jaula y lo llevaron con cadenas, y lo llevaron al rey de Babilonia; lo pusieron en las fortalezas, para que su voz no se oyese más sobre los montes de Israel.",
+      "verse": 9,
+      "start_ms": 55100,
+      "end_ms": 65662,
+      "duration_ms": 10562
+    },
+    {
+      "word": "Tu madre fue como una vid en medio de la viña, plantada junto a las aguas, dando fruto y echando vástagos a causa de las muchas aguas.",
+      "verse": 10,
+      "start_ms": 65662,
+      "end_ms": 74024,
+      "duration_ms": 8362
+    },
+    {
+      "word": "Y ella tuvo varas fuertes para cetros de reyes; y se elevó su estatura por encima entre las ramas, y fue vista por causa de su altura y la multitud de sus sarmientos.",
+      "verse": 11,
+      "start_ms": 74025,
+      "end_ms": 83825,
+      "duration_ms": 9800
+    },
+    {
+      "word": "Pero fue arrancada con ira, derribada en tierra, y el viento solano secó su fruto; sus ramas fuertes fueron quebradas y se secaron; las consumió el fuego.",
+      "verse": 12,
+      "start_ms": 83825,
+      "end_ms": 93462,
+      "duration_ms": 9637
+    },
+    {
+      "word": "Y ahora está plantada en el desierto, en tierra de sequedad y de aridez.",
+      "verse": 13,
+      "start_ms": 93462,
+      "end_ms": 98337,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Y ha salido fuego de la vara de sus ramas, que ha consumido su fruto, y no ha quedado en ella vara fuerte para cetro de rey.",
+      "verse": 14,
+      "start_ms": 98337,
+      "end_ms": 105837,
+      "duration_ms": 7500
+    },
+    {
+      "word": "Endecha es ésta, y de endecha servirá.",
+      "verse": 14,
+      "start_ms": 105837,
+      "end_ms": 109087,
+      "duration_ms": 3250
+    }
+  ]
+}

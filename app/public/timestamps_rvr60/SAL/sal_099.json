@@ -1,0 +1,145 @@
+{
+  "book": "SAL",
+  "chapter": 99,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 9,
+  "word_count": 10,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 99,
+      "text": "Jehová reina; temblarán los pueblos. él está sentado sobre los querubines, se conmoverá la tierra."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 99,
+      "char_end": 161,
+      "text": "Jehová en Sion es grande, Y exaltado sobre todos los pueblos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 161,
+      "char_end": 209,
+      "text": "Alaben tu nombre grande y temible; él es santo."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 209,
+      "char_end": 311,
+      "text": "Y la gloria del rey ama el juicio; Tú confirmas la rectitud; Tú has hecho en Jacob juicio y justicia."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 311,
+      "char_end": 395,
+      "text": "Exaltad a Jehová nuestro Dios, Y postraos ante el estrado de sus pies; él es santo."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 395,
+      "char_end": 516,
+      "text": "Moisés y Aarón entre sus sacerdotes, Y Samuel entre los que invocaron su nombre; Invocaban a Jehová, y él les respondía."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 516,
+      "char_end": 615,
+      "text": "En columna de nube hablaba con ellos; Guardaban sus testimonios, y el estatuto que les había dado."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 615,
+      "char_end": 714,
+      "text": "Jehová Dios nuestro, tú les respondías; Les fuiste un Dios perdonador, Y retribuidor de sus obras."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 714,
+      "char_end": 814,
+      "text": "Exaltad a Jehová nuestro Dios, Y postraos ante su santo monte, Porque Jehová nuestro Dios es santo."
+    }
+  ],
+  "words": [
+    {
+      "word": "Jehová reina; temblarán los pueblos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3337,
+      "duration_ms": 3237
+    },
+    {
+      "word": "él está sentado sobre los querubines, se conmoverá la tierra.",
+      "verse": 1,
+      "start_ms": 3287,
+      "end_ms": 7699,
+      "duration_ms": 4412
+    },
+    {
+      "word": "Jehová en Sion es grande, Y exaltado sobre todos los pueblos.",
+      "verse": 2,
+      "start_ms": 7700,
+      "end_ms": 12337,
+      "duration_ms": 4637
+    },
+    {
+      "word": "Alaben tu nombre grande y temible; él es santo.",
+      "verse": 3,
+      "start_ms": 12337,
+      "end_ms": 15949,
+      "duration_ms": 3612
+    },
+    {
+      "word": "Y la gloria del rey ama el juicio; Tú confirmas la rectitud; Tú has hecho en Jacob juicio y justicia.",
+      "verse": 4,
+      "start_ms": 15950,
+      "end_ms": 22725,
+      "duration_ms": 6775
+    },
+    {
+      "word": "Exaltad a Jehová nuestro Dios, Y postraos ante el estrado de sus pies; él es santo.",
+      "verse": 5,
+      "start_ms": 22725,
+      "end_ms": 28700,
+      "duration_ms": 5975
+    },
+    {
+      "word": "Moisés y Aarón entre sus sacerdotes, Y Samuel entre los que invocaron su nombre; Invocaban a Jehová, y él les respondía.",
+      "verse": 6,
+      "start_ms": 28700,
+      "end_ms": 36325,
+      "duration_ms": 7625
+    },
+    {
+      "word": "En columna de nube hablaba con ellos; Guardaban sus testimonios, y el estatuto que les había dado.",
+      "verse": 7,
+      "start_ms": 36325,
+      "end_ms": 42837,
+      "duration_ms": 6512
+    },
+    {
+      "word": "Jehová Dios nuestro, tú les respondías; Les fuiste un Dios perdonador, Y retribuidor de sus obras.",
+      "verse": 8,
+      "start_ms": 42837,
+      "end_ms": 49724,
+      "duration_ms": 6887
+    },
+    {
+      "word": "Exaltad a Jehová nuestro Dios, Y postraos ante su santo monte, Porque Jehová nuestro Dios es santo.",
+      "verse": 9,
+      "start_ms": 49725,
+      "end_ms": 56312,
+      "duration_ms": 6587
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "book": "EZE",
+  "chapter": 2,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 10,
+  "word_count": 10,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 66,
+      "text": "Me dijo: Hijo de hombre, ponte sobre tus pies, y hablaré contigo."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 66,
+      "char_end": 164,
+      "text": "Y luego que me habló, entró el Espíritu en mí y me afirmó sobre mis pies, y oí al que me hablaba."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 164,
+      "char_end": 339,
+      "text": "Y me dijo: Hijo de hombre, yo te envío a los hijos de Israel, a gentes rebeldes que se rebelaron contra mí; ellos y sus padres se han rebelado contra mí hasta este mismo día."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 339,
+      "char_end": 450,
+      "text": "Yo, pues, te envío a hijos de duro rostro y de empedernido corazón; y les dirás: Así ha dicho Jehová el Señor."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 450,
+      "char_end": 572,
+      "text": "Acaso ellos escuchen; pero si no escucharen, porque son una casa rebelde, siempre conocerán que hubo profeta entre ellos."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 572,
+      "char_end": 792,
+      "text": "Y tú, hijo de hombre, no les temas, ni tengas miedo de sus palabras, aunque te hallas entre zarzas y espinos, y moras con escorpiones; no tengas miedo de sus palabras, ni temas delante de ellos, porque son casa rebelde."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 792,
+      "char_end": 881,
+      "text": "Les hablarás, pues, mis palabras, escuchen o dejen de escuchar; porque son muy rebeldes."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 881,
+      "char_end": 1006,
+      "text": "Mas tú, hijo de hombre, oye lo que yo te hablo; no seas rebelde como la casa rebelde; abre tu boca, y come lo que yo te doy."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1006,
+      "char_end": 1088,
+      "text": "Y miré, y he aquí una mano extendida hacia mí, y en ella había un rollo de libro."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1088,
+      "char_end": 1216,
+      "text": "Y lo extendió delante de mí, y estaba escrito por delante y por detrás; y había escritas en él endechas y lamentaciones y ayes."
+    }
+  ],
+  "words": [
+    {
+      "word": "Me dijo: Hijo de hombre, ponte sobre tus pies, y hablaré contigo.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5212,
+      "duration_ms": 5112
+    },
+    {
+      "word": "Y luego que me habló, entró el Espíritu en mí y me afirmó sobre mis pies, y oí al que me hablaba.",
+      "verse": 2,
+      "start_ms": 5162,
+      "end_ms": 11462,
+      "duration_ms": 6300
+    },
+    {
+      "word": "Y me dijo: Hijo de hombre, yo te envío a los hijos de Israel, a gentes rebeldes que se rebelaron contra mí; ellos y sus padres se han rebelado contra mí hasta este mismo día.",
+      "verse": 3,
+      "start_ms": 11462,
+      "end_ms": 21987,
+      "duration_ms": 10525
+    },
+    {
+      "word": "Yo, pues, te envío a hijos de duro rostro y de empedernido corazón; y les dirás: Así ha dicho Jehová el Señor.",
+      "verse": 4,
+      "start_ms": 21987,
+      "end_ms": 30112,
+      "duration_ms": 8125
+    },
+    {
+      "word": "Acaso ellos escuchen; pero si no escucharen, porque son una casa rebelde, siempre conocerán que hubo profeta entre ellos.",
+      "verse": 5,
+      "start_ms": 30112,
+      "end_ms": 38249,
+      "duration_ms": 8137
+    },
+    {
+      "word": "Y tú, hijo de hombre, no les temas, ni tengas miedo de sus palabras, aunque te hallas entre zarzas y espinos, y moras con escorpiones; no tengas miedo de sus palabras, ni temas delante de ellos, porque son casa rebelde.",
+      "verse": 6,
+      "start_ms": 38250,
+      "end_ms": 52537,
+      "duration_ms": 14287
+    },
+    {
+      "word": "Les hablarás, pues, mis palabras, escuchen o dejen de escuchar; porque son muy rebeldes.",
+      "verse": 7,
+      "start_ms": 52537,
+      "end_ms": 59199,
+      "duration_ms": 6662
+    },
+    {
+      "word": "Mas tú, hijo de hombre, oye lo que yo te hablo; no seas rebelde como la casa rebelde; abre tu boca, y come lo que yo te doy.",
+      "verse": 8,
+      "start_ms": 59200,
+      "end_ms": 67587,
+      "duration_ms": 8387
+    },
+    {
+      "word": "Y miré, y he aquí una mano extendida hacia mí, y en ella había un rollo de libro.",
+      "verse": 9,
+      "start_ms": 67587,
+      "end_ms": 73262,
+      "duration_ms": 5675
+    },
+    {
+      "word": "Y lo extendió delante de mí, y estaba escrito por delante y por detrás; y había escritas en él endechas y lamentaciones y ayes.",
+      "verse": 10,
+      "start_ms": 73262,
+      "end_ms": 81249,
+      "duration_ms": 7987
+    }
+  ]
+}

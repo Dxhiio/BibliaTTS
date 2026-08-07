@@ -1,0 +1,271 @@
+{
+  "book": "CAN",
+  "chapter": 1,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 17,
+  "word_count": 20,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 47,
+      "text": "Cantar de los cantares, el cual es de Salomón."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 47,
+      "char_end": 133,
+      "text": "¡Oh, si él me besara con besos de su boca! Porque mejores son tus amores que el vino."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 133,
+      "char_end": 242,
+      "text": "A más del olor de tus suaves ungüentos, Tu nombre es como ungüento derramado; Por eso las doncellas te aman."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 242,
+      "char_end": 414,
+      "text": "Atráeme; en pos de ti correremos. El rey me ha metido en sus cámaras; Nos gozaremos y alegraremos en ti; Nos acordaremos de tus amores más que del vino; Con razón te aman."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 414,
+      "char_end": 522,
+      "text": "Morena soy, oh hijas de Jerusalén, pero codiciable Como las tiendas de Cedar, Como las cortinas de Salomón."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 522,
+      "char_end": 688,
+      "text": "No reparéis en que soy morena, Porque el sol me miró. Los hijos de mi madre se airaron contra mí; Me pusieron a guardar las viñas; Y mi viña, que era mía, no guardé."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 688,
+      "char_end": 857,
+      "text": "Hazme saber, oh tú a quien ama mi alma, Dónde apacientas, dónde sesteas al mediodía; Pues ¿por qué había de estar yo como errante Junto a los rebaños de tus compañeros?"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 857,
+      "char_end": 1024,
+      "text": "Si tú no lo sabes, oh hermosa entre las mujeres, Ve, sigue las huellas del rebaño, Y apacienta tus cabritas junto a las cabañas de los pastores. La esposa y el esposo"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1024,
+      "char_end": 1084,
+      "text": "A yegua de los carros de Faraón Te he comparado, amiga mía."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1084,
+      "char_end": 1162,
+      "text": "Hermosas son tus mejillas entre los pendientes, Tu cuello entre los collares."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1162,
+      "char_end": 1212,
+      "text": "Zarcillos de oro te haremos, Tachonados de plata."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1212,
+      "char_end": 1277,
+      "text": "Mientras el rey estaba en su reclinatorio, Mi nardo dio su olor."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1277,
+      "char_end": 1348,
+      "text": "Mi amado es para mí un manojito de mirra, Que reposa entre mis pechos."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1348,
+      "char_end": 1420,
+      "text": "Racimo de flores de alheña en las viñas de En-gadi Es para mí mi amado."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1420,
+      "char_end": 1507,
+      "text": "He aquí que tú eres hermosa, amiga mía; He aquí eres bella; tus ojos son como palomas."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1507,
+      "char_end": 1584,
+      "text": "He aquí que tú eres hermoso, amado mío, y dulce; Nuestro lecho es de flores."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1584,
+      "char_end": 1653,
+      "text": "Las vigas de nuestra casa son de cedro, Y de ciprés los artesonados."
+    }
+  ],
+  "words": [
+    {
+      "word": "Cantar de los cantares, el cual es de Salomón.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 3675,
+      "duration_ms": 3575
+    },
+    {
+      "word": "Oh, si él me besara con besos de su boca!",
+      "verse": 2,
+      "start_ms": 3625,
+      "end_ms": 6925,
+      "duration_ms": 3300
+    },
+    {
+      "word": "Porque mejores son tus amores que el vino.",
+      "verse": 2,
+      "start_ms": 6925,
+      "end_ms": 9862,
+      "duration_ms": 2937
+    },
+    {
+      "word": "A más del olor de tus suaves ungüentos, Tu nombre es como ungüento derramado; Por eso las doncellas te aman.",
+      "verse": 3,
+      "start_ms": 9862,
+      "end_ms": 16824,
+      "duration_ms": 6962
+    },
+    {
+      "word": "Atráeme; en pos de ti correremos.",
+      "verse": 4,
+      "start_ms": 16825,
+      "end_ms": 20037,
+      "duration_ms": 3212
+    },
+    {
+      "word": "El rey me ha metido en sus cámaras; Nos gozaremos y alegraremos en ti; Nos acordaremos de tus amores más que del vino; Con razón te aman.",
+      "verse": 4,
+      "start_ms": 20037,
+      "end_ms": 28849,
+      "duration_ms": 8812
+    },
+    {
+      "word": "Morena soy, oh hijas de Jerusalén, pero codiciable Como las tiendas de Cedar, Como las cortinas de Salomón.",
+      "verse": 5,
+      "start_ms": 28850,
+      "end_ms": 36200,
+      "duration_ms": 7350
+    },
+    {
+      "word": "No reparéis en que soy morena, Porque el sol me miró.",
+      "verse": 6,
+      "start_ms": 36200,
+      "end_ms": 40000,
+      "duration_ms": 3800
+    },
+    {
+      "word": "Los hijos de mi madre se airaron contra mí; Me pusieron a guardar las viñas; Y mi viña, que era mía, no guardé.",
+      "verse": 6,
+      "start_ms": 40000,
+      "end_ms": 47562,
+      "duration_ms": 7562
+    },
+    {
+      "word": "Hazme saber, oh tú a quien ama mi alma, Dónde apacientas, dónde sesteas al mediodía; Pues ¿por qué había de estar yo como errante Junto a los rebaños de tus compañeros?",
+      "verse": 7,
+      "start_ms": 47562,
+      "end_ms": 57599,
+      "duration_ms": 10037
+    },
+    {
+      "word": "Si tú no lo sabes, oh hermosa entre las mujeres, Ve, sigue las huellas del rebaño, Y apacienta tus cabritas junto a las cabañas de los pastores.",
+      "verse": 8,
+      "start_ms": 57600,
+      "end_ms": 66737,
+      "duration_ms": 9137
+    },
+    {
+      "word": "La esposa y el esposo A yegua de los carros de Faraón Te he comparado, amiga mía.",
+      "verse": 8,
+      "start_ms": 66737,
+      "end_ms": 72249,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Hermosas son tus mejillas entre los pendientes, Tu cuello entre los collares.",
+      "verse": 10,
+      "start_ms": 72250,
+      "end_ms": 77387,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Zarcillos de oro te haremos, Tachonados de plata.",
+      "verse": 11,
+      "start_ms": 77387,
+      "end_ms": 81262,
+      "duration_ms": 3875
+    },
+    {
+      "word": "Mientras el rey estaba en su reclinatorio, Mi nardo dio su olor.",
+      "verse": 12,
+      "start_ms": 81262,
+      "end_ms": 85799,
+      "duration_ms": 4537
+    },
+    {
+      "word": "Mi amado es para mí un manojito de mirra, Que reposa entre mis pechos.",
+      "verse": 13,
+      "start_ms": 85800,
+      "end_ms": 90875,
+      "duration_ms": 5075
+    },
+    {
+      "word": "Racimo de flores de alheña en las viñas de En-gadi Es para mí mi amado.",
+      "verse": 14,
+      "start_ms": 90875,
+      "end_ms": 95462,
+      "duration_ms": 4587
+    },
+    {
+      "word": "He aquí que tú eres hermosa, amiga mía; He aquí eres bella; tus ojos son como palomas.",
+      "verse": 15,
+      "start_ms": 95462,
+      "end_ms": 102137,
+      "duration_ms": 6675
+    },
+    {
+      "word": "He aquí que tú eres hermoso, amado mío, y dulce; Nuestro lecho es de flores.",
+      "verse": 16,
+      "start_ms": 102137,
+      "end_ms": 108087,
+      "duration_ms": 5950
+    },
+    {
+      "word": "Las vigas de nuestra casa son de cedro, Y de ciprés los artesonados.",
+      "verse": 17,
+      "start_ms": 108087,
+      "end_ms": 113012,
+      "duration_ms": 4925
+    }
+  ]
+}

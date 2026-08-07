@@ -1,0 +1,509 @@
+{
+  "book": "MAT",
+  "chapter": 19,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 35,
+  "word_count": 36,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 105,
+      "text": "En aquel tiempo los discípulos vinieron a Jesús, diciendo: ¿Quién es el mayor en el reino de los cielos?"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 105,
+      "char_end": 160,
+      "text": "Y llamando Jesús a un niño, lo puso en medio de ellos,"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 160,
+      "char_end": 272,
+      "text": "y dijo: De cierto os digo, que si no os volvéis y os hacéis como niños, no entraréis en el reino de los cielos."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 272,
+      "char_end": 366,
+      "text": "Así que, cualquiera que se humille como este niño, ése es el mayor en el reino de los cielos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 366,
+      "char_end": 482,
+      "text": "Y cualquiera que reciba en mi nombre a un niño como éste, a mí me recibe. Ocasiones de caer (Mc 9.42–48; Lc 17.1–2)"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 482,
+      "char_end": 675,
+      "text": "Y cualquiera que haga tropezar a alguno de estos pequeños que creen en mí, mejor le fuera que se le colgase al cuello una piedra de molino de asno, y que se le hundiese en lo profundo del mar."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 675,
+      "char_end": 804,
+      "text": "¡Ay del mundo por los tropiezos! porque es necesario que vengan tropiezos, pero ¡ay de aquel hombre por quien viene el tropiezo!"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 804,
+      "char_end": 991,
+      "text": "Por tanto, si tu mano o tu pie te es ocasión de caer, córtalo y échalo de ti; mejor te es entrar en la vida cojo o manco, que teniendo dos manos o dos pies ser echado en el fuego eterno."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 991,
+      "char_end": 1195,
+      "text": "Y si tu ojo te es ocasión de caer, sácalo y échalo de ti; mejor te es entrar con un solo ojo en la vida, que teniendo dos ojos ser echado en el infierno de fuego. Parábola de la oveja perdida (Lc 15.3–7)"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1195,
+      "char_end": 1350,
+      "text": "Mirad que no menospreciéis a uno de estos pequeños; porque os digo que sus ángeles en los cielos ven siempre el rostro de mi Padre que está en los cielos."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1350,
+      "char_end": 1423,
+      "text": "Porque el Hijo del Hombre ha venido para salvar lo que se había perdido."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1423,
+      "char_end": 1587,
+      "text": "¿Qué os parece? Si un hombre tiene cien ovejas, y se descarría una de ellas, ¿no deja las noventa y nueve y va por los montes a buscar la que se había descarriado?"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1587,
+      "char_end": 1722,
+      "text": "Y si acontece que la encuentra, de cierto os digo que se regocija más por aquélla, que por las noventa y nueve que no se descarriaron."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1722,
+      "char_end": 1856,
+      "text": "Así, no es la voluntad de vuestro Padre que está en los cielos, que se pierda uno de estos pequeños. Cómo se debe perdonar al hermano"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1856,
+      "char_end": 1974,
+      "text": "Por tanto, si tu hermano peca contra ti, ve y repréndele estando tú y él solos; si te oyere, has ganado a tu hermano."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1974,
+      "char_end": 2085,
+      "text": "Mas si no te oyere, toma aún contigo a uno o dos, para que en boca de dos o tres testigos conste toda palabra."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2085,
+      "char_end": 2187,
+      "text": "Si no los oyere a ellos, dilo a la iglesia; y si no oyere a la iglesia, tenle por gentil y publicano."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2187,
+      "char_end": 2329,
+      "text": "De cierto os digo que todo lo que atéis en la tierra, será atado en el cielo; y todo lo que desatéis en la tierra, será desatado en el cielo."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2329,
+      "char_end": 2498,
+      "text": "Otra vez os digo, que si dos de vosotros se pusieren de acuerdo en la tierra acerca de cualquiera cosa que pidieren, les será hecho por mi Padre que está en los cielos."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2498,
+      "char_end": 2587,
+      "text": "Porque donde están dos o tres congregados en mi nombre, allí estoy yo en medio de ellos."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2587,
+      "char_end": 2706,
+      "text": "Entonces se le acercó Pedro y le dijo: Señor, ¿cuántas veces perdonaré a mi hermano que peque contra mí? ¿Hasta siete?"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2706,
+      "char_end": 2798,
+      "text": "Jesús le dijo: No te digo hasta siete, sino aun hasta setenta veces siete. Los dos deudores"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2798,
+      "char_end": 2896,
+      "text": "Por lo cual el reino de los cielos es semejante a un rey que quiso hacer cuentas con sus siervos."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2896,
+      "char_end": 2980,
+      "text": "Y comenzando a hacer cuentas, le fue presentado uno que le debía diez mil talentos."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2980,
+      "char_end": 3109,
+      "text": "A éste, como no pudo pagar, ordenó su señor venderle, y a su mujer e hijos, y todo lo que tenía, para que se le pagase la deuda."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3109,
+      "char_end": 3220,
+      "text": "Entonces aquel siervo, postrado, le suplicaba, diciendo: Señor, ten paciencia conmigo, y yo te lo pagaré todo."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3220,
+      "char_end": 3301,
+      "text": "El señor de aquel siervo, movido a misericordia, le soltó y le perdonó la deuda."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3301,
+      "char_end": 3451,
+      "text": "Pero saliendo aquel siervo, halló a uno de sus consiervos, que le debía cien denarios; y asiendo de él, le ahogaba, diciendo: Págame lo que me debes."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3451,
+      "char_end": 3565,
+      "text": "Entonces su consiervo, postrándose a sus pies, le rogaba diciendo: Ten paciencia conmigo, y yo te lo pagaré todo."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3565,
+      "char_end": 3642,
+      "text": "Mas él no quiso, sino fue y le echó en la cárcel, hasta que pagase la deuda."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3642,
+      "char_end": 3763,
+      "text": "Viendo sus consiervos lo que pasaba, se entristecieron mucho, y fueron y refirieron a su señor todo lo que había pasado."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3763,
+      "char_end": 3869,
+      "text": "Entonces, llamándole su señor, le dijo: Siervo malvado, toda aquella deuda te perdoné, porque me rogaste."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3869,
+      "char_end": 3960,
+      "text": "¿No debías tú también tener misericordia de tu consiervo, como yo tuve misericordia de ti?"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3960,
+      "char_end": 4054,
+      "text": "Entonces su señor, enojado, le entregó a los verdugos, hasta que pagase todo lo que le debía."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4054,
+      "char_end": 4170,
+      "text": "Así también mi Padre celestial hará con vosotros si no perdonáis de todo corazón cada uno a su hermano sus ofensas."
+    }
+  ],
+  "words": [
+    {
+      "word": "En aquel tiempo los discípulos vinieron a Jesús, diciendo: ¿Quién es el mayor en el reino de los cielos?",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6712,
+      "duration_ms": 6612
+    },
+    {
+      "word": "Y llamando Jesús a un niño, lo puso en medio de ellos, y dijo: De cierto os digo, que si no os volvéis y os hacéis como niños, no entraréis en el reino de los cielos.",
+      "verse": 2,
+      "start_ms": 6662,
+      "end_ms": 17499,
+      "duration_ms": 10837
+    },
+    {
+      "word": "Así que, cualquiera que se humille como este niño, ése es el mayor en el reino de los cielos.",
+      "verse": 4,
+      "start_ms": 17500,
+      "end_ms": 23687,
+      "duration_ms": 6187
+    },
+    {
+      "word": "Y cualquiera que reciba en mi nombre a un niño como éste, a mí me recibe.",
+      "verse": 5,
+      "start_ms": 23687,
+      "end_ms": 28449,
+      "duration_ms": 4762
+    },
+    {
+      "word": "Ocasiones de caer (Mc 9.42–48; Lc 17.1–2) Y cualquiera que haga tropezar a alguno de estos pequeños que creen en mí, mejor le fuera que se le colgase al cuello una piedra de molino de asno, y que se le hundiese en lo profundo del mar. ¡Ay del mundo por los tropiezos! porque es necesario que vengan tropiezos, pero ¡ay de aquel hombre por quien viene el tropiezo!",
+      "verse": 5,
+      "start_ms": 28450,
+      "end_ms": 51525,
+      "duration_ms": 23075
+    },
+    {
+      "word": "Por tanto, si tu mano o tu pie te es ocasión de caer, córtalo y échalo de ti; mejor te es entrar en la vida cojo o manco, que teniendo dos manos o dos pies ser echado en el fuego eterno.",
+      "verse": 8,
+      "start_ms": 51525,
+      "end_ms": 63262,
+      "duration_ms": 11737
+    },
+    {
+      "word": "Y si tu ojo te es ocasión de caer, sácalo y échalo de ti; mejor te es entrar con un solo ojo en la vida, que teniendo dos ojos ser echado en el infierno de fuego.",
+      "verse": 9,
+      "start_ms": 63262,
+      "end_ms": 73412,
+      "duration_ms": 10150
+    },
+    {
+      "word": "Parábola de la oveja perdida (Lc 15.3–7) Mirad que no menospreciéis a uno de estos pequeños; porque os digo que sus ángeles en los cielos ven siempre el rostro de mi Padre que está en los cielos.",
+      "verse": 9,
+      "start_ms": 73412,
+      "end_ms": 85699,
+      "duration_ms": 12287
+    },
+    {
+      "word": "Porque el Hijo del Hombre ha venido para salvar lo que se había perdido.",
+      "verse": 11,
+      "start_ms": 85700,
+      "end_ms": 89900,
+      "duration_ms": 4200
+    },
+    {
+      "word": "Qué os parece?",
+      "verse": 12,
+      "start_ms": 89900,
+      "end_ms": 91700,
+      "duration_ms": 1800
+    },
+    {
+      "word": "Si un hombre tiene cien ovejas, y se descarría una de ellas, ¿no deja las noventa y nueve y va por los montes a buscar la que se había descarriado?",
+      "verse": 12,
+      "start_ms": 91700,
+      "end_ms": 100550,
+      "duration_ms": 8850
+    },
+    {
+      "word": "Y si acontece que la encuentra, de cierto os digo que se regocija más por aquélla, que por las noventa y nueve que no se descarriaron.",
+      "verse": 13,
+      "start_ms": 100550,
+      "end_ms": 108387,
+      "duration_ms": 7837
+    },
+    {
+      "word": "Así, no es la voluntad de vuestro Padre que está en los cielos, que se pierda uno de estos pequeños.",
+      "verse": 14,
+      "start_ms": 108387,
+      "end_ms": 114974,
+      "duration_ms": 6587
+    },
+    {
+      "word": "Cómo se debe perdonar al hermano Por tanto, si tu hermano peca contra ti, ve y repréndele estando tú y él solos; si te oyere, has ganado a tu hermano.",
+      "verse": 14,
+      "start_ms": 114975,
+      "end_ms": 124462,
+      "duration_ms": 9487
+    },
+    {
+      "word": "Mas si no te oyere, toma aún contigo a uno o dos, para que en boca de dos o tres testigos conste toda palabra.",
+      "verse": 16,
+      "start_ms": 124462,
+      "end_ms": 132137,
+      "duration_ms": 7675
+    },
+    {
+      "word": "Si no los oyere a ellos, dilo a la iglesia; y si no oyere a la iglesia, tenle por gentil y publicano.",
+      "verse": 17,
+      "start_ms": 132137,
+      "end_ms": 138999,
+      "duration_ms": 6862
+    },
+    {
+      "word": "De cierto os digo que todo lo que atéis en la tierra, será atado en el cielo; y todo lo que desatéis en la tierra, será desatado en el cielo.",
+      "verse": 18,
+      "start_ms": 139000,
+      "end_ms": 147862,
+      "duration_ms": 8862
+    },
+    {
+      "word": "Otra vez os digo, que si dos de vosotros se pusieren de acuerdo en la tierra acerca de cualquiera cosa que pidieren, les será hecho por mi Padre que está en los cielos.",
+      "verse": 19,
+      "start_ms": 147862,
+      "end_ms": 157087,
+      "duration_ms": 9225
+    },
+    {
+      "word": "Porque donde están dos o tres congregados en mi nombre, allí estoy yo en medio de ellos.",
+      "verse": 20,
+      "start_ms": 157087,
+      "end_ms": 162662,
+      "duration_ms": 5575
+    },
+    {
+      "word": "Entonces se le acercó Pedro y le dijo: Señor, ¿cuántas veces perdonaré a mi hermano que peque contra mí?",
+      "verse": 21,
+      "start_ms": 162662,
+      "end_ms": 169512,
+      "duration_ms": 6850
+    },
+    {
+      "word": "Hasta siete?",
+      "verse": 21,
+      "start_ms": 169512,
+      "end_ms": 171199,
+      "duration_ms": 1687
+    },
+    {
+      "word": "Jesús le dijo: No te digo hasta siete, sino aun hasta setenta veces siete.",
+      "verse": 22,
+      "start_ms": 171200,
+      "end_ms": 176800,
+      "duration_ms": 5600
+    },
+    {
+      "word": "Los dos deudores Por lo cual el reino de los cielos es semejante a un rey que quiso hacer cuentas con sus siervos.",
+      "verse": 22,
+      "start_ms": 176800,
+      "end_ms": 183100,
+      "duration_ms": 6300
+    },
+    {
+      "word": "Y comenzando a hacer cuentas, le fue presentado uno que le debía diez mil talentos.",
+      "verse": 24,
+      "start_ms": 183100,
+      "end_ms": 188675,
+      "duration_ms": 5575
+    },
+    {
+      "word": "A éste, como no pudo pagar, ordenó su señor venderle, y a su mujer e hijos, y todo lo que tenía, para que se le pagase la deuda.",
+      "verse": 25,
+      "start_ms": 188675,
+      "end_ms": 197687,
+      "duration_ms": 9012
+    },
+    {
+      "word": "Entonces aquel siervo, postrado, le suplicaba, diciendo: Señor, ten paciencia conmigo, y yo te lo pagaré todo.",
+      "verse": 26,
+      "start_ms": 197687,
+      "end_ms": 206349,
+      "duration_ms": 8662
+    },
+    {
+      "word": "El señor de aquel siervo, movido a misericordia, le soltó y le perdonó la deuda.",
+      "verse": 27,
+      "start_ms": 206350,
+      "end_ms": 212050,
+      "duration_ms": 5700
+    },
+    {
+      "word": "Pero saliendo aquel siervo, halló a uno de sus consiervos, que le debía cien denarios; y asiendo de él, le ahogaba, diciendo: Págame lo que me debes.",
+      "verse": 28,
+      "start_ms": 212050,
+      "end_ms": 222300,
+      "duration_ms": 10250
+    },
+    {
+      "word": "Entonces su consiervo, postrándose a sus pies, le rogaba diciendo: Ten paciencia conmigo, y yo te lo pagaré todo.",
+      "verse": 29,
+      "start_ms": 222300,
+      "end_ms": 230325,
+      "duration_ms": 8025
+    },
+    {
+      "word": "Mas él no quiso, sino fue y le echó en la cárcel, hasta que pagase la deuda.",
+      "verse": 30,
+      "start_ms": 230325,
+      "end_ms": 235612,
+      "duration_ms": 5287
+    },
+    {
+      "word": "Viendo sus consiervos lo que pasaba, se entristecieron mucho, y fueron y refirieron a su señor todo lo que había pasado.",
+      "verse": 31,
+      "start_ms": 235612,
+      "end_ms": 242849,
+      "duration_ms": 7237
+    },
+    {
+      "word": "Entonces, llamándole su señor, le dijo: Siervo malvado, toda aquella deuda te perdoné, porque me rogaste.",
+      "verse": 32,
+      "start_ms": 242850,
+      "end_ms": 250825,
+      "duration_ms": 7975
+    },
+    {
+      "word": "No debías tú también tener misericordia de tu consiervo, como yo tuve misericordia de ti?",
+      "verse": 33,
+      "start_ms": 250825,
+      "end_ms": 256712,
+      "duration_ms": 5887
+    },
+    {
+      "word": "Entonces su señor, enojado, le",
+      "verse": 34,
+      "start_ms": 256712,
+      "end_ms": 259899,
+      "duration_ms": 3187
+    },
+    {
+      "word": "entregó a los verdugos, hasta que pagase todo lo que le debía.",
+      "verse": 34,
+      "start_ms": 260068,
+      "end_ms": 264418,
+      "duration_ms": 4350
+    },
+    {
+      "word": "Así también mi Padre celestial hará con vosotros si no perdonáis de todo corazón cada uno a su hermano sus ofensas.",
+      "verse": 35,
+      "start_ms": 264368,
+      "end_ms": 271193,
+      "duration_ms": 6825
+    }
+  ]
+}

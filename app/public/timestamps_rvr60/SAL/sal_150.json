@@ -1,0 +1,103 @@
+{
+  "book": "SAL",
+  "chapter": 150,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 6,
+  "word_count": 7,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 78,
+      "text": "Alabad a Dios en su santuario; Alabadle en la magnificencia de su firmamento."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 78,
+      "char_end": 155,
+      "text": "Alabadle por sus proezas; Alabadle conforme a la muchedumbre de su grandeza."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 155,
+      "char_end": 211,
+      "text": "Alabadle a son de bocina; Alabadle con salterio y arpa."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 211,
+      "char_end": 273,
+      "text": "Alabadle con pandero y danza; Alabadle con cuerdas y flautas."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 273,
+      "char_end": 340,
+      "text": "Alabadle con címbalos resonantes; Alabadle con címbalos de júbilo."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 340,
+      "char_end": 382,
+      "text": "Todo lo que respira alabe a JAH. Aleluya."
+    }
+  ],
+  "words": [
+    {
+      "word": "Alabad a Dios en su santuario; Alabadle en la magnificencia de su firmamento.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5462,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Alabadle por sus proezas; Alabadle conforme a la muchedumbre de su grandeza.",
+      "verse": 2,
+      "start_ms": 5412,
+      "end_ms": 10874,
+      "duration_ms": 5462
+    },
+    {
+      "word": "Alabadle a son de bocina; Alabadle con salterio y arpa.",
+      "verse": 3,
+      "start_ms": 10875,
+      "end_ms": 15362,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Alabadle con pandero y danza; Alabadle con cuerdas y flautas.",
+      "verse": 4,
+      "start_ms": 15362,
+      "end_ms": 20137,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Alabadle con címbalos resonantes; Alabadle con címbalos de júbilo.",
+      "verse": 5,
+      "start_ms": 20137,
+      "end_ms": 25124,
+      "duration_ms": 4987
+    },
+    {
+      "word": "Todo lo que respira alabe a JAH.",
+      "verse": 6,
+      "start_ms": 25125,
+      "end_ms": 28325,
+      "duration_ms": 3200
+    },
+    {
+      "word": "Aleluya.",
+      "verse": 6,
+      "start_ms": 28325,
+      "end_ms": 30025,
+      "duration_ms": 1700
+    }
+  ]
+}
