@@ -1,0 +1,383 @@
+{
+  "book": "DEU",
+  "chapter": 22,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 30,
+  "word_count": 23,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 108,
+      "text": "Si vieres extraviado el buey de tu hermano, o su cordero, no le negarás tu ayuda; lo volverás a tu hermano."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 108,
+      "char_end": 258,
+      "text": "Y si tu hermano no fuere tu vecino, o no lo conocieres, lo recogerás en tu casa, y estará contigo hasta que tu hermano lo busque, y se lo devolverás."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 258,
+      "char_end": 425,
+      "text": "Así harás con su asno, así harás también con su vestido, y lo mismo harás con toda cosa de tu hermano que se le perdiere y tú la hallares; no podrás negarle tu ayuda."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 425,
+      "char_end": 538,
+      "text": "Si vieres el asno de tu hermano, o su buey, caído en el camino, no te apartarás de él; le ayudarás a levantarlo."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 538,
+      "char_end": 676,
+      "text": "No vestirá la mujer traje de hombre, ni el hombre vestirá ropa de mujer; porque abominación es a Jehová tu Dios cualquiera que esto hace."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 676,
+      "char_end": 876,
+      "text": "Cuando encuentres por el camino algún nido de ave en cualquier árbol, o sobre la tierra, con pollos o huevos, y la madre echada sobre los pollos o sobre los huevos, no tomarás la madre con los hijos."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 876,
+      "char_end": 975,
+      "text": "Dejarás ir a la madre, y tomarás los pollos para ti, para que te vaya bien, y prolongues tus días."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 975,
+      "char_end": 1104,
+      "text": "Cuando edifiques casa nueva, harás pretil a tu terrado, para que no eches culpa de sangre sobre tu casa, si de él cayere alguno."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1104,
+      "char_end": 1232,
+      "text": "No sembrarás tu viña con semillas diversas, no sea que se pierda todo, tanto la semilla que sembraste como el fruto de la viña."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1232,
+      "char_end": 1274,
+      "text": "No ararás con buey y con asno juntamente."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1274,
+      "char_end": 1318,
+      "text": "No vestirás ropa de lana y lino juntamente."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1318,
+      "char_end": 1410,
+      "text": "Te harás flecos en las cuatro puntas de tu manto con que te cubras. Leyes sobre la castidad"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1410,
+      "char_end": 1490,
+      "text": "Cuando alguno tomare mujer, y después de haberse llegado a ella la aborreciere,"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1490,
+      "char_end": 1604,
+      "text": "y le atribuyere faltas que den que hablar, y dijere: A esta mujer tomé, y me llegué a ella, y no la hallé virgen;"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1604,
+      "char_end": 1750,
+      "text": "entonces el padre de la joven y su madre tomarán y sacarán las señales de la virginidad de la doncella a los ancianos de la ciudad, en la puerta;"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1750,
+      "char_end": 1851,
+      "text": "y dirá el padre de la joven a los ancianos: Yo di mi hija a este hombre por mujer, y él la aborrece;"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1851,
+      "char_end": 2065,
+      "text": "y he aquí, él le atribuye faltas que dan que hablar, diciendo: No he hallado virgen a tu hija; pero ved aquí las señales de la virginidad de mi hija. Y extenderán la vestidura delante de los ancianos de la ciudad."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2065,
+      "char_end": 2135,
+      "text": "Entonces los ancianos de la ciudad tomarán al hombre y lo castigarán;"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2135,
+      "char_end": 2335,
+      "text": "y le multarán en cien piezas de plata, las cuales darán al padre de la joven, por cuanto esparció mala fama sobre una virgen de Israel; y la tendrá por mujer, y no podrá despedirla en todos sus días."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2335,
+      "char_end": 2403,
+      "text": "Mas si resultare ser verdad que no se halló virginidad en la joven,"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2403,
+      "char_end": 2615,
+      "text": "entonces la sacarán a la puerta de la casa de su padre, y la apedrearán los hombres de su ciudad, y morirá, por cuanto hizo vileza en Israel fornicando en casa de su padre; así quitarás el mal de en medio de ti."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2615,
+      "char_end": 2789,
+      "text": "Si fuere sorprendido alguno acostado con una mujer casada con marido, ambos morirán, el hombre que se acostó con la mujer, y la mujer también; así quitarás el mal de Israel."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2789,
+      "char_end": 2900,
+      "text": "Si hubiere una muchacha virgen desposada con alguno, y alguno la hallare en la ciudad, y se acostare con ella;"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2900,
+      "char_end": 3121,
+      "text": "entonces los sacaréis a ambos a la puerta de la ciudad, y los apedrearéis, y morirán; la joven porque no dio voces en la ciudad, y el hombre porque humilló a la mujer de su prójimo; así quitarás el mal de en medio de ti."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3121,
+      "char_end": 3280,
+      "text": "Mas si un hombre hallare en el campo a la joven desposada, y la forzare aquel hombre, acostándose con ella, morirá solamente el hombre que se acostó con ella;"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3280,
+      "char_end": 3439,
+      "text": "mas a la joven no le harás nada; no hay en ella culpa de muerte; pues como cuando alguno se levanta contra su prójimo y le quita la vida, así es en este caso."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3439,
+      "char_end": 3529,
+      "text": "Porque él la halló en el campo; dio voces la joven desposada, y no hubo quien la librase."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3529,
+      "char_end": 3659,
+      "text": "Cuando algún hombre hallare a una joven virgen que no fuere desposada, y la tomare y se acostare con ella, y fueren descubiertos;"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3659,
+      "char_end": 3839,
+      "text": "entonces el hombre que se acostó con ella dará al padre de la joven cincuenta piezas de plata, y ella será su mujer, por cuanto la humilló; no la podrá despedir en todos sus días."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3839,
+      "char_end": 3911,
+      "text": "Ninguno tomará la mujer de su padre, ni profanará el lecho de su padre."
+    }
+  ],
+  "words": [
+    {
+      "word": "Si vieres extraviado el buey de tu hermano, o su cordero, no le negarás tu ayuda; lo volverás a tu hermano.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7000,
+      "duration_ms": 6900
+    },
+    {
+      "word": "Y si tu hermano no fuere tu vecino, o no lo conocieres, lo recogerás en tu casa, y estará contigo hasta que tu hermano lo busque, y se lo devolverás.",
+      "verse": 2,
+      "start_ms": 6950,
+      "end_ms": 16012,
+      "duration_ms": 9062
+    },
+    {
+      "word": "Así harás con su asno, así harás también con su vestido, y lo mismo harás con toda cosa de tu hermano que se le perdiere y tú la hallares; no podrás negarle tu ayuda.",
+      "verse": 3,
+      "start_ms": 16012,
+      "end_ms": 25887,
+      "duration_ms": 9875
+    },
+    {
+      "word": "Si vieres el asno de tu hermano, o su buey, caído en el camino, no te apartarás de él; le ayudarás a levantarlo.",
+      "verse": 4,
+      "start_ms": 25887,
+      "end_ms": 33474,
+      "duration_ms": 7587
+    },
+    {
+      "word": "No vestirá la mujer traje de hombre, ni el hombre vestirá ropa de mujer; porque abominación es a Jehová tu Dios cualquiera que esto hace.",
+      "verse": 5,
+      "start_ms": 33475,
+      "end_ms": 41612,
+      "duration_ms": 8137
+    },
+    {
+      "word": "Cuando encuentres por el camino algún nido de ave en cualquier árbol, o sobre la tierra, con pollos o huevos, y la madre echada sobre los pollos o sobre los huevos, no tomarás la madre con los hijos.",
+      "verse": 6,
+      "start_ms": 41612,
+      "end_ms": 52824,
+      "duration_ms": 11212
+    },
+    {
+      "word": "Dejarás ir a la madre, y tomarás los pollos para ti, para que te vaya bien, y prolongues tus días.",
+      "verse": 7,
+      "start_ms": 52825,
+      "end_ms": 59462,
+      "duration_ms": 6637
+    },
+    {
+      "word": "Cuando edifiques casa nueva, harás pretil a tu terrado, para que no eches culpa de sangre sobre tu casa, si de él cayere alguno.",
+      "verse": 8,
+      "start_ms": 59462,
+      "end_ms": 67737,
+      "duration_ms": 8275
+    },
+    {
+      "word": "No sembrarás tu viña con semillas diversas, no sea que se pierda todo, tanto la semilla que sembraste como el fruto de la viña.",
+      "verse": 9,
+      "start_ms": 67737,
+      "end_ms": 75387,
+      "duration_ms": 7650
+    },
+    {
+      "word": "No ararás con buey y con asno juntamente.",
+      "verse": 10,
+      "start_ms": 75387,
+      "end_ms": 78674,
+      "duration_ms": 3287
+    },
+    {
+      "word": "No vestirás ropa de lana y lino juntamente.",
+      "verse": 11,
+      "start_ms": 78675,
+      "end_ms": 82075,
+      "duration_ms": 3400
+    },
+    {
+      "word": "Te harás flecos en las cuatro puntas de tu manto con que te cubras.",
+      "verse": 12,
+      "start_ms": 82075,
+      "end_ms": 86175,
+      "duration_ms": 4100
+    },
+    {
+      "word": "Leyes sobre la castidad Cuando alguno tomare mujer, y después de haberse llegado a ella la aborreciere, y le atribuyere faltas que den que hablar, y dijere: A esta mujer tomé, y me llegué a ella, y no la hallé virgen; entonces el padre de la joven y su madre tomarán y sacarán las señales de la virginidad de la doncella a los ancianos de la ciudad, en la puerta; y dirá el padre de la joven a los ancianos: Yo di mi hija a este hombre por mujer, y él la aborrece; y he aquí, él le atribuye faltas",
+      "verse": 12,
+      "start_ms": 86175,
+      "end_ms": 115200,
+      "duration_ms": 29025
+    },
+    {
+      "word": "que dan que hablar, diciendo: No he hallado virgen a tu hija; pero ved aquí las señales de la virginidad de mi hija.",
+      "verse": 17,
+      "start_ms": 115200,
+      "end_ms": 122662,
+      "duration_ms": 7462
+    },
+    {
+      "word": "Y extenderán la vestidura delante de los ancianos de la ciudad.",
+      "verse": 17,
+      "start_ms": 122662,
+      "end_ms": 126799,
+      "duration_ms": 4137
+    },
+    {
+      "word": "Entonces los ancianos de la ciudad tomarán al hombre y lo castigarán; y le multarán en cien piezas de plata, las cuales darán al padre de la joven, por cuanto esparció mala fama sobre una virgen de Israel; y la tendrá por mujer, y no podrá despedirla en todos sus días.",
+      "verse": 18,
+      "start_ms": 126800,
+      "end_ms": 142562,
+      "duration_ms": 15762
+    },
+    {
+      "word": "Mas si resultare ser verdad que no se halló virginidad en la joven, entonces la sacarán a la puerta de la casa de su padre, y la apedrearán los hombres de su ciudad, y morirá, por cuanto hizo vileza en Israel fornicando en casa de su padre; así quitarás el mal de en medio de ti.",
+      "verse": 20,
+      "start_ms": 142562,
+      "end_ms": 158162,
+      "duration_ms": 15600
+    },
+    {
+      "word": "Si fuere sorprendido alguno acostado con una mujer casada con marido, ambos morirán, el hombre que se acostó con la mujer, y la mujer también; así quitarás el mal de Israel.",
+      "verse": 22,
+      "start_ms": 158162,
+      "end_ms": 168862,
+      "duration_ms": 10700
+    },
+    {
+      "word": "Si hubiere una muchacha virgen desposada con alguno, y alguno la hallare en la ciudad, y se acostare con ella; entonces los sacaréis a ambos a la puerta de la ciudad, y los apedrearéis, y morirán; la joven porque no dio voces en la ciudad, y el hombre porque humilló a la mujer de su prójimo; así quitarás el mal de en medio de ti.",
+      "verse": 23,
+      "start_ms": 168862,
+      "end_ms": 187712,
+      "duration_ms": 18850
+    },
+    {
+      "word": "Mas si un hombre hallare en el campo a la joven desposada, y la forzare aquel hombre, acostándose con ella, morirá solamente el hombre que se acostó con ella; mas a la joven no le harás nada; no hay en ella culpa de muerte; pues como cuando alguno se levanta contra su prójimo y le quita la vida, así es en este caso.",
+      "verse": 25,
+      "start_ms": 187712,
+      "end_ms": 205599,
+      "duration_ms": 17887
+    },
+    {
+      "word": "Porque él la halló en el campo; dio voces la joven desposada, y no hubo quien la librase.",
+      "verse": 27,
+      "start_ms": 205600,
+      "end_ms": 211562,
+      "duration_ms": 5962
+    },
+    {
+      "word": "Cuando algún hombre hallare a una joven virgen que no fuere desposada, y la tomare y se acostare con ella, y fueren descubiertos; entonces el hombre que se acostó con ella dará al padre de la joven cincuenta piezas de plata, y ella será su mujer, por cuanto la humilló; no la podrá despedir en todos sus días.",
+      "verse": 28,
+      "start_ms": 211562,
+      "end_ms": 229087,
+      "duration_ms": 17525
+    },
+    {
+      "word": "Ninguno tomará la mujer de su padre, ni profanará el lecho de su padre.",
+      "verse": 30,
+      "start_ms": 229087,
+      "end_ms": 233974,
+      "duration_ms": 4887
+    }
+  ]
+}
