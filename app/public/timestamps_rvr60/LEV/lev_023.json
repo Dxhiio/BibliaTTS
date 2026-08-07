@@ -1,0 +1,586 @@
+{
+  "book": "LEV",
+  "chapter": 23,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 44,
+  "word_count": 38,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 33,
+      "text": "Habló Jehová a Moisés, diciendo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 33,
+      "char_end": 166,
+      "text": "Habla a los hijos de Israel y diles: Las fiestas solemnes de Jehová, las cuales proclamaréis como santas convocaciones, serán éstas:"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 166,
+      "char_end": 323,
+      "text": "Seis días se trabajará, mas el séptimo día será de reposo, santa convocación; ningún trabajo haréis; día de reposo es de Jehová en dondequiera que habitéis."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 323,
+      "char_end": 432,
+      "text": "Éstas son las fiestas solemnes de Jehová, las convocaciones santas, a las cuales convocaréis en sus tiempos:"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 432,
+      "char_end": 517,
+      "text": "En el mes primero, a los catorce del mes, entre las dos tardes, pascua es de Jehová."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 517,
+      "char_end": 646,
+      "text": "Y a los quince días de este mes es la fiesta solemne de los panes sin levadura a Jehová; siete días comeréis panes sin levadura."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 646,
+      "char_end": 722,
+      "text": "El primer día tendréis santa convocación; ningún trabajo de siervos haréis."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 722,
+      "char_end": 846,
+      "text": "Y ofreceréis a Jehová siete días ofrenda encendida; el séptimo día será santa convocación; ningún trabajo de siervo haréis."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 846,
+      "char_end": 881,
+      "text": "Y habló Jehová a Moisés, diciendo:"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 881,
+      "char_end": 1075,
+      "text": "Habla a los hijos de Israel y diles: Cuando hayáis entrado en la tierra que yo os doy, y seguéis su mies, traeréis al sacerdote una gavilla por primicia de los primeros frutos de vuestra siega."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1075,
+      "char_end": 1197,
+      "text": "Y el sacerdote mecerá la gavilla delante de Jehová, para que seáis aceptos; el día siguiente del día de reposo la mecerá."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1197,
+      "char_end": 1302,
+      "text": "Y el día que ofrezcáis la gavilla, ofreceréis un cordero de un año, sin defecto, en holocausto a Jehová."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1302,
+      "char_end": 1476,
+      "text": "Su ofrenda será dos décimas de efa de flor de harina amasada con aceite, ofrenda encendida a Jehová en olor gratísimo; y su libación será de vino, la cuarta parte de un hin."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1476,
+      "char_end": 1675,
+      "text": "No comeréis pan, ni grano tostado, ni espiga fresca, hasta este mismo día, hasta que hayáis ofrecido la ofrenda de vuestro Dios; estatuto perpetuo es por vuestras edades en dondequiera que habitéis."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1675,
+      "char_end": 1824,
+      "text": "Y contaréis desde el día que sigue al día de reposo, desde el día en que ofrecisteis la gavilla de la ofrenda mecida; siete semanas cumplidas serán."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1824,
+      "char_end": 1944,
+      "text": "Hasta el día siguiente del séptimo día de reposo contaréis cincuenta días; entonces ofreceréis el nuevo grano a Jehová."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1944,
+      "char_end": 2110,
+      "text": "De vuestras habitaciones traeréis dos panes para ofrenda mecida, que serán de dos décimas de efa de flor de harina, cocidos con levadura, como primicias para Jehová."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2110,
+      "char_end": 2319,
+      "text": "Y ofreceréis con el pan siete corderos de un año, sin defecto, un becerro de la vacada, y dos carneros; serán holocausto a Jehová, con su ofrenda y sus libaciones, ofrenda encendida de olor grato para Jehová."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2319,
+      "char_end": 2426,
+      "text": "Ofreceréis además un macho cabrío por expiación, y dos corderos de un año en sacrificio de ofrenda de paz."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2426,
+      "char_end": 2590,
+      "text": "Y el sacerdote los presentará como ofrenda mecida delante de Jehová, con el pan de las primicias y los dos corderos; serán cosa sagrada a Jehová para el sacerdote."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2590,
+      "char_end": 2748,
+      "text": "Y convocaréis en este mismo día santa convocación; ningún trabajo de siervos haréis; estatuto perpetuo en dondequiera que habitéis por vuestras generaciones."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2748,
+      "char_end": 2929,
+      "text": "Cuando segareis la mies de vuestra tierra, no segaréis hasta el último rincón de ella, ni espigarás tu siega; para el pobre y para el extranjero la dejarás. Yo Jehová vuestro Dios."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2929,
+      "char_end": 2964,
+      "text": "Y habló Jehová a Moisés, diciendo:"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2964,
+      "char_end": 3127,
+      "text": "Habla a los hijos de Israel y diles: En el mes séptimo, al primero del mes tendréis día de reposo, una conmemoración al son de trompetas, y una santa convocación."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3127,
+      "char_end": 3202,
+      "text": "Ningún trabajo de siervos haréis; y ofreceréis ofrenda encendida a Jehová."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3202,
+      "char_end": 3243,
+      "text": "También habló Jehová a Moisés, diciendo:"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3243,
+      "char_end": 3403,
+      "text": "A los diez días de este mes séptimo será el día de expiación; tendréis santa convocación, y afligiréis vuestras almas, y ofreceréis ofrenda encendida a Jehová."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3403,
+      "char_end": 3517,
+      "text": "Ningún trabajo haréis en este día; porque es día de expiación, para reconciliaros delante de Jehová vuestro Dios."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3517,
+      "char_end": 3603,
+      "text": "Porque toda persona que no se afligiere en este mismo día, será cortada de su pueblo."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3603,
+      "char_end": 3714,
+      "text": "Y cualquiera persona que hiciere trabajo alguno en este día, yo destruiré a la tal persona de entre su pueblo."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3714,
+      "char_end": 3813,
+      "text": "Ningún trabajo haréis; estatuto perpetuo es por vuestras generaciones en dondequiera que habitéis."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3813,
+      "char_end": 3966,
+      "text": "Día de reposo será a vosotros, y afligiréis vuestras almas, comenzando a los nueve días del mes en la tarde; de tarde a tarde guardaréis vuestro reposo."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3966,
+      "char_end": 4001,
+      "text": "Y habló Jehová a Moisés, diciendo:"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4001,
+      "char_end": 4144,
+      "text": "Habla a los hijos de Israel y diles: A los quince días de este mes séptimo será la fiesta solemne de los tabernáculos a Jehová por siete días."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4144,
+      "char_end": 4217,
+      "text": "El primer día habrá santa convocación; ningún trabajo de siervos haréis."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4217,
+      "char_end": 4395,
+      "text": "Siete días ofreceréis ofrenda encendida a Jehová; el octavo día tendréis santa convocación, y ofreceréis ofrenda encendida a Jehová; es fiesta, ningún trabajo de siervos haréis."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4395,
+      "char_end": 4589,
+      "text": "Éstas son las fiestas solemnes de Jehová, a las que convocaréis santas reuniones, para ofrecer ofrenda encendida a Jehová, holocausto y ofrenda, sacrificio y libaciones, cada cosa en su tiempo,"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4589,
+      "char_end": 4745,
+      "text": "además de los días de reposo de Jehová, de vuestros dones, de todos vuestros votos, y de todas vuestras ofrendas voluntarias que acostumbráis dar a Jehová."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4745,
+      "char_end": 4944,
+      "text": "Pero a los quince días del mes séptimo, cuando hayáis recogido el fruto de la tierra, haréis fiesta a Jehová por siete días; el primer día será de reposo, y el octavo día será también día de reposo."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4944,
+      "char_end": 5140,
+      "text": "Y tomaréis el primer día ramas con fruto de árbol hermoso, ramas de palmeras, ramas de árboles frondosos, y sauces de los arroyos, y os regocijaréis delante de Jehová vuestro Dios por siete días."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 5140,
+      "char_end": 5272,
+      "text": "Y le haréis fiesta a Jehová por siete días cada año; será estatuto perpetuo por vuestras generaciones; en el mes séptimo la haréis."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 5272,
+      "char_end": 5360,
+      "text": "En tabernáculos habitaréis siete días; todo natural de Israel habitará en tabernáculos,"
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 5360,
+      "char_end": 5521,
+      "text": "para que sepan vuestros descendientes que en tabernáculos hice yo habitar a los hijos de Israel cuando los saqué de la tierra de Egipto. Yo Jehová vuestro Dios."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 5521,
+      "char_end": 5598,
+      "text": "Así habló Moisés a los hijos de Israel sobre las fiestas solemnes de Jehová."
+    }
+  ],
+  "words": [
+    {
+      "word": "Habló Jehová a Moisés, diciendo: Habla a los hijos de Israel y diles: Las fiestas solemnes de Jehová, las cuales proclamaréis como santas convocaciones, serán éstas: Seis días se trabajará, mas el séptimo día será de reposo, santa convocación; ningún trabajo haréis; día de reposo es de Jehová en dondequiera que habitéis.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 20737,
+      "duration_ms": 20637
+    },
+    {
+      "word": "Éstas son las fiestas solemnes de Jehová, las convocaciones santas, a las cuales convocaréis en sus tiempos: En el mes primero, a los catorce del mes, entre las dos tardes, pascua es de Jehová.",
+      "verse": 4,
+      "start_ms": 20737,
+      "end_ms": 32499,
+      "duration_ms": 11762
+    },
+    {
+      "word": "Y a los quince días de este mes es la fiesta solemne de los panes sin levadura a Jehová; siete días comeréis panes sin levadura.",
+      "verse": 6,
+      "start_ms": 32500,
+      "end_ms": 40250,
+      "duration_ms": 7750
+    },
+    {
+      "word": "El primer día tendréis santa convocación; ningún trabajo de siervos haréis.",
+      "verse": 7,
+      "start_ms": 40250,
+      "end_ms": 45462,
+      "duration_ms": 5212
+    },
+    {
+      "word": "Y ofreceréis a Jehová siete días ofrenda encendida; el séptimo día será santa convocación; ningún trabajo de siervo haréis.",
+      "verse": 8,
+      "start_ms": 45462,
+      "end_ms": 53612,
+      "duration_ms": 8150
+    },
+    {
+      "word": "Y habló Jehová a Moisés, diciendo: Habla a los hijos de Israel y diles: Cuando hayáis entrado en la tierra que yo os doy, y seguéis su mies, traeréis al sacerdote una gavilla por primicia de los primeros frutos de vuestra siega.",
+      "verse": 9,
+      "start_ms": 53612,
+      "end_ms": 67337,
+      "duration_ms": 13725
+    },
+    {
+      "word": "Y el sacerdote mecerá la gavilla delante de Jehová, para que seáis aceptos; el día siguiente del día de reposo la mecerá.",
+      "verse": 11,
+      "start_ms": 67337,
+      "end_ms": 75037,
+      "duration_ms": 7700
+    },
+    {
+      "word": "Y el día que ofrezcáis la gavilla, ofreceréis un cordero de un año, sin defecto, en holocausto a Jehová.",
+      "verse": 12,
+      "start_ms": 75037,
+      "end_ms": 82124,
+      "duration_ms": 7087
+    },
+    {
+      "word": "Su ofrenda será dos décimas de efa de flor de harina amasada con aceite, ofrenda encendida a Jehová en olor gratísimo; y su libación será de vino, la cuarta parte de un hin.",
+      "verse": 13,
+      "start_ms": 82125,
+      "end_ms": 92900,
+      "duration_ms": 10775
+    },
+    {
+      "word": "No comeréis pan, ni grano tostado, ni espiga fresca, hasta este mismo día, hasta que hayáis ofrecido la ofrenda de vuestro Dios; estatuto perpetuo es por vuestras edades en dondequiera que habitéis.",
+      "verse": 14,
+      "start_ms": 92900,
+      "end_ms": 105162,
+      "duration_ms": 12262
+    },
+    {
+      "word": "Y contaréis desde el día que sigue al día de reposo, desde el día en que ofrecisteis la gavilla de la ofrenda mecida; siete semanas cumplidas serán.",
+      "verse": 15,
+      "start_ms": 105162,
+      "end_ms": 113899,
+      "duration_ms": 8737
+    },
+    {
+      "word": "Hasta el día siguiente del séptimo día de reposo contaréis cincuenta días; entonces ofreceréis el nuevo grano a Jehová.",
+      "verse": 16,
+      "start_ms": 113900,
+      "end_ms": 121337,
+      "duration_ms": 7437
+    },
+    {
+      "word": "De vuestras habitaciones traeréis dos panes para ofrenda mecida, que serán de dos décimas de efa de flor de harina, cocidos con levadura, como primicias para Jehová.",
+      "verse": 17,
+      "start_ms": 121337,
+      "end_ms": 131312,
+      "duration_ms": 9975
+    },
+    {
+      "word": "Y ofreceréis con el pan siete corderos de un año, sin defecto, un becerro de la vacada, y dos carneros; serán holocausto a Jehová, con su ofrenda y sus libaciones, ofrenda encendida de olor grato para Jehová.",
+      "verse": 18,
+      "start_ms": 131312,
+      "end_ms": 144374,
+      "duration_ms": 13062
+    },
+    {
+      "word": "Ofreceréis además un macho cabrío por expiación, y dos corderos de un año en sacrificio de ofrenda de paz.",
+      "verse": 19,
+      "start_ms": 144375,
+      "end_ms": 151137,
+      "duration_ms": 6762
+    },
+    {
+      "word": "Y el sacerdote los presentará como ofrenda mecida delante de Jehová, con el pan de las primicias y los dos corderos; serán cosa sagrada a Jehová para el sacerdote.",
+      "verse": 20,
+      "start_ms": 151137,
+      "end_ms": 160849,
+      "duration_ms": 9712
+    },
+    {
+      "word": "Y convocaréis en este mismo día santa convocación; ningún trabajo de siervos haréis; estatuto perpetuo en dondequiera que habitéis por vuestras generaciones.",
+      "verse": 21,
+      "start_ms": 160850,
+      "end_ms": 170512,
+      "duration_ms": 9662
+    },
+    {
+      "word": "Cuando segareis la mies de vuestra tierra, no segaréis hasta el último rincón de ella, ni espigarás tu siega; para el pobre y para el extranjero la dejarás.",
+      "verse": 22,
+      "start_ms": 170512,
+      "end_ms": 179837,
+      "duration_ms": 9325
+    },
+    {
+      "word": "Yo Jehová vuestro Dios.",
+      "verse": 22,
+      "start_ms": 179837,
+      "end_ms": 182174,
+      "duration_ms": 2337
+    },
+    {
+      "word": "Y habló Jehová a Moisés, diciendo: Habla a los hijos de Israel y diles: En el mes séptimo, al primero del mes tendréis día de reposo, una conmemoración al son de trompetas, y una santa convocación.",
+      "verse": 23,
+      "start_ms": 182175,
+      "end_ms": 195137,
+      "duration_ms": 12962
+    },
+    {
+      "word": "Ningún trabajo de siervos haréis; y ofreceréis ofrenda encendida a Jehová.",
+      "verse": 25,
+      "start_ms": 195137,
+      "end_ms": 200324,
+      "duration_ms": 5187
+    },
+    {
+      "word": "También habló Jehová a Moisés, diciendo: A los diez días de este mes séptimo será el día de expiación; tendréis santa convocación, y afligiréis vuestras almas, y ofreceréis ofrenda encendida a Jehová.",
+      "verse": 26,
+      "start_ms": 200325,
+      "end_ms": 212937,
+      "duration_ms": 12612
+    },
+    {
+      "word": "Ningún trabajo haréis en este día; porque es día de expiación, para reconciliaros delante de Jehová vuestro Dios.",
+      "verse": 28,
+      "start_ms": 212937,
+      "end_ms": 220087,
+      "duration_ms": 7150
+    },
+    {
+      "word": "Porque toda persona que no se afligiere en este mismo día, será cortada de su pueblo.",
+      "verse": 29,
+      "start_ms": 220087,
+      "end_ms": 225562,
+      "duration_ms": 5475
+    },
+    {
+      "word": "Y cualquiera persona que hiciere trabajo alguno en este día, yo destruiré a la tal persona de entre su pueblo.",
+      "verse": 30,
+      "start_ms": 225562,
+      "end_ms": 232162,
+      "duration_ms": 6600
+    },
+    {
+      "word": "Ningún trabajo haréis; estatuto perpetuo es por vuestras generaciones en dondequiera que habitéis.",
+      "verse": 31,
+      "start_ms": 232162,
+      "end_ms": 238512,
+      "duration_ms": 6350
+    },
+    {
+      "word": "Día de reposo será a vosotros, y afligiréis vuestras almas, comenzando a los nueve días del mes en la tarde; de tarde a tarde",
+      "verse": 32,
+      "start_ms": 238512,
+      "end_ms": 247062,
+      "duration_ms": 8550
+    },
+    {
+      "word": "guardaréis vuestro reposo.",
+      "verse": 32,
+      "start_ms": 247228,
+      "end_ms": 249715,
+      "duration_ms": 2487
+    },
+    {
+      "word": "Y habló Jehová a Moisés, diciendo: Habla a los hijos de Israel y diles: A los quince días de este mes séptimo será la fiesta solemne de los tabernáculos a Jehová por siete días.",
+      "verse": 33,
+      "start_ms": 249665,
+      "end_ms": 260815,
+      "duration_ms": 11150
+    },
+    {
+      "word": "El primer día habrá santa convocación; ningún trabajo de siervos haréis.",
+      "verse": 35,
+      "start_ms": 260815,
+      "end_ms": 265915,
+      "duration_ms": 5100
+    },
+    {
+      "word": "Siete días ofreceréis ofrenda encendida a Jehová; el octavo día tendréis santa convocación, y ofreceréis ofrenda encendida a Jehová; es fiesta, ningún trabajo de siervos haréis.",
+      "verse": 36,
+      "start_ms": 265915,
+      "end_ms": 277040,
+      "duration_ms": 11125
+    },
+    {
+      "word": "Éstas son las fiestas solemnes de Jehová, a las que convocaréis santas reuniones, para ofrecer ofrenda encendida a Jehová, holocausto y ofrenda, sacrificio y libaciones, cada cosa en su tiempo, además de los días de reposo de Jehová, de vuestros dones, de todos vuestros votos, y de todas vuestras ofrendas voluntarias que acostumbráis dar a Jehová.",
+      "verse": 37,
+      "start_ms": 277040,
+      "end_ms": 297727,
+      "duration_ms": 20687
+    },
+    {
+      "word": "Pero a los quince días del mes séptimo, cuando hayáis recogido el fruto de la tierra, haréis fiesta a Jehová por siete días; el primer día será de reposo, y el octavo día será también día de reposo.",
+      "verse": 39,
+      "start_ms": 297728,
+      "end_ms": 309840,
+      "duration_ms": 12112
+    },
+    {
+      "word": "Y tomaréis el primer día ramas con fruto de árbol hermoso, ramas de palmeras, ramas de árboles frondosos, y sauces de los arroyos, y os regocijaréis delante de Jehová vuestro Dios por siete días.",
+      "verse": 40,
+      "start_ms": 309840,
+      "end_ms": 322102,
+      "duration_ms": 12262
+    },
+    {
+      "word": "Y le haréis fiesta a Jehová por siete días cada año; será estatuto perpetuo por vuestras generaciones; en el mes séptimo la haréis.",
+      "verse": 41,
+      "start_ms": 322103,
+      "end_ms": 330765,
+      "duration_ms": 8662
+    },
+    {
+      "word": "En tabernáculos habitaréis siete días; todo natural de Israel habitará en tabernáculos, para que sepan vuestros descendientes que en tabernáculos hice yo habitar a los hijos de Israel cuando los saqué de la tierra de Egipto.",
+      "verse": 42,
+      "start_ms": 330765,
+      "end_ms": 343065,
+      "duration_ms": 12300
+    },
+    {
+      "word": "Yo Jehová vuestro Dios.",
+      "verse": 43,
+      "start_ms": 343065,
+      "end_ms": 345402,
+      "duration_ms": 2337
+    },
+    {
+      "word": "Así habló Moisés a los hijos de Israel sobre las fiestas solemnes de Jehová.",
+      "verse": 44,
+      "start_ms": 345403,
+      "end_ms": 350165,
+      "duration_ms": 4762
+    }
+  ]
+}

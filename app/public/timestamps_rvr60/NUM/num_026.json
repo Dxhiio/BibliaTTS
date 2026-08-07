@@ -1,0 +1,866 @@
+{
+  "book": "NUM",
+  "chapter": 26,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 65,
+  "word_count": 57,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 109,
+      "text": "Aconteció después de la mortandad, que Jehová habló a Moisés y a Eleazar hijo del sacerdote Aarón, diciendo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 109,
+      "char_end": 274,
+      "text": "Tomad el censo de toda la congregación de los hijos de Israel, de veinte años arriba, por las casas de sus padres, todos los que pueden salir a la guerra en Israel."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 274,
+      "char_end": 391,
+      "text": "Y Moisés y el sacerdote Eleazar hablaron con ellos en los campos de Moab, junto al Jordán frente a Jericó, diciendo:"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 391,
+      "char_end": 524,
+      "text": "Contaréis el pueblo de veinte años arriba, como mandó Jehová a Moisés y a los hijos de Israel que habían salido de tierra de Egipto."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 524,
+      "char_end": 649,
+      "text": "Rubén, primogénito de Israel; los hijos de Rubén: de Enoc, la familia de los enoquitas; de Falú, la familia de los faluitas;"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 649,
+      "char_end": 728,
+      "text": "de Hezrón, la familia de los hezronitas; de Carmi, la familia de los carmitas."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 728,
+      "char_end": 837,
+      "text": "Éstas son las familias de los rubenitas; y fueron contados de ellas cuarenta y tres mil setecientos treinta."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 837,
+      "char_end": 863,
+      "text": "Los hijos de Falú: Eliab."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 863,
+      "char_end": 1069,
+      "text": "Y los hijos de Eliab: Nemuel, Datán y Abiram. Estos Datán y Abiram fueron los del consejo de la congregación, que se rebelaron contra Moisés y Aarón con el grupo de Coré, cuando se rebelaron contra Jehová;"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1069,
+      "char_end": 1236,
+      "text": "y la tierra abrió su boca y los tragó a ellos y a Coré, cuando aquel grupo murió, cuando consumió el fuego a doscientos cincuenta varones, para servir de escarmiento."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1236,
+      "char_end": 1271,
+      "text": "Mas los hijos de Coré no murieron."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1271,
+      "char_end": 1430,
+      "text": "Los hijos de Simeón por sus familias: de Nemuel, la familia de los nemuelitas; de Jamín, la familia de los jaminitas; de Jaquín, la familia de los jaquinitas;"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1430,
+      "char_end": 1504,
+      "text": "de Zera, la familia de los zeraítas; de Saúl, la familia de los saulitas."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1504,
+      "char_end": 1572,
+      "text": "Éstas son las familias de los simeonitas, veintidós mil doscientos."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1572,
+      "char_end": 1720,
+      "text": "Los hijos de Gad por sus familias: de Zefón, la familia de los zefonitas; de Hagui, la familia de los haguitas; de Suni, la familia de los sunitas;"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1720,
+      "char_end": 1790,
+      "text": "de Ozni, la familia de los oznitas; de Eri, la familia de los eritas;"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1790,
+      "char_end": 1865,
+      "text": "de Arod, la familia de los aroditas; de Areli, la familia de los arelitas."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1865,
+      "char_end": 1948,
+      "text": "Éstas son las familias de Gad; y fueron contados de ellas cuarenta mil quinientos."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1948,
+      "char_end": 2023,
+      "text": "Los hijos de Judá: Er y Onán; y Er y Onán murieron en la tierra de Canaán."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2023,
+      "char_end": 2181,
+      "text": "Y fueron los hijos de Judá por sus familias: de Sela, la familia de los selaítas; de Fares, la familia de los faresitas; de Zera, la familia de los zeraítas."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2181,
+      "char_end": 2290,
+      "text": "Y fueron los hijos de Fares: de Hezrón, la familia de los hezronitas; de Hamul, la familia de los hamulitas."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2290,
+      "char_end": 2380,
+      "text": "Éstas son las familias de Judá, y fueron contados de ellas setenta y seis mil quinientos."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2380,
+      "char_end": 2490,
+      "text": "Los hijos de Isacar por sus familias; de Tola, la familia de los tolaítas; de Fúa, la familia de los funitas;"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2490,
+      "char_end": 2570,
+      "text": "de Jasub, la familia de los jasubitas; de Simrón, la familia de los simronitas."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2570,
+      "char_end": 2665,
+      "text": "Éstas son las familias de Isacar, y fueron contados de ellas sesenta y cuatro mil trescientos."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2665,
+      "char_end": 2823,
+      "text": "Los hijos de Zabulón por sus familias: de Sered, la familia de los sereditas; de Elón, la familia de los elonitas; de Jahleel, la familia de los jahleelitas."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2823,
+      "char_end": 2917,
+      "text": "Éstas son las familias de los zabulonitas, y fueron contados de ellas sesenta mil quinientos."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2917,
+      "char_end": 2971,
+      "text": "Los hijos de José por sus familias: Manasés y Efraín."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2971,
+      "char_end": 3103,
+      "text": "Los hijos de Manasés: de Maquir, la familia de los maquiritas; y Maquir engendró a Galaad; de Galaad, la familia de los galaaditas."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3103,
+      "char_end": 3213,
+      "text": "Éstos son los hijos de Galaad: de Jezer, la familia de los jezeritas; de Helec, la familia de los helequitas;"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3213,
+      "char_end": 3295,
+      "text": "de Asriel, la familia de los asrielitas; de Siquem, la familia de los siquemitas;"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3295,
+      "char_end": 3375,
+      "text": "de Semida, la familia de los semidaítas; de Hefer, la familia de los heferitas."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3375,
+      "char_end": 3508,
+      "text": "Y Zelofehad hijo de Hefer no tuvo hijos sino hijas; y los nombres de las hijas de Zelofehad fueron Maala, Noa, Hogla, Milca y Tirsa."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3508,
+      "char_end": 3603,
+      "text": "Éstas son las familias de Manasés; y fueron contados de ellas cincuenta y dos mil setecientos."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3603,
+      "char_end": 3772,
+      "text": "Éstos son los hijos de Efraín por sus familias: de Sutela, la familia de los sutelaítas; de Bequer, la familia de los bequeritas; de Tahán, la familia de los tahanitas."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3772,
+      "char_end": 3842,
+      "text": "Y éstos son los hijos de Sutela: de Erán, la familia de los eranitas."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3842,
+      "char_end": 3992,
+      "text": "Éstas son las familias de los hijos de Efraín; y fueron contados de ellas treinta y dos mil quinientos. éstos son los hijos de José por sus familias."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 3992,
+      "char_end": 4149,
+      "text": "Los hijos de Benjamín por sus familias: de Bela, la familia de los belaítas; de Asbel, la familia de los asbelitas; de Ahiram, la familia de los ahiramitas;"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4149,
+      "char_end": 4227,
+      "text": "de Sufam, la familia de los sufamitas; de Hufam, la familia de los hufamitas."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4227,
+      "char_end": 4342,
+      "text": "Y los hijos de Bela fueron Ard y Naamán: de Ard, la familia de los arditas; de Naamán, la familia de los naamitas."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4342,
+      "char_end": 4453,
+      "text": "Éstos son los hijos de Benjamín por sus familias; y fueron contados de ellos cuarenta y cinco mil seiscientos."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4453,
+      "char_end": 4585,
+      "text": "Éstos son los hijos de Dan por sus familias: de Súham, la familia de los suhamitas. éstas son las familias de Dan por sus familias."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4585,
+      "char_end": 4670,
+      "text": "De las familias de los suhamitas fueron contados sesenta y cuatro mil cuatrocientos."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 4670,
+      "char_end": 4817,
+      "text": "Los hijos de Aser por sus familias: de Imna, la familia de los imnitas; de Isúi, la familia de los isuitas; de Bería, la familia de los beriaítas."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 4817,
+      "char_end": 4921,
+      "text": "Los hijos de Bería: de Heber, la familia de los heberitas; de Malquiel, la familia de los malquielitas."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 4921,
+      "char_end": 4962,
+      "text": "Y el nombre de la hija de Aser fue Sera."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 4962,
+      "char_end": 5070,
+      "text": "Éstas son las familias de los hijos de Aser; y fueron contados de ellas cincuenta y tres mil cuatrocientos."
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 5070,
+      "char_end": 5189,
+      "text": "Los hijos de Neftalí, por sus familias: de Jahzeel, la familia de los jahzeelitas; de Guni, la familia de los gunitas;"
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 5189,
+      "char_end": 5267,
+      "text": "de Jezer, la familia de los jezeritas; de Silem, la familia de los silemitas."
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 5267,
+      "char_end": 5382,
+      "text": "Éstas son las familias de Neftalí por sus familias; y fueron contados de ellas cuarenta y cinco mil cuatrocientos."
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 5382,
+      "char_end": 5508,
+      "text": "Éstos son los contados de los hijos de Israel, seiscientos un mil setecientos treinta. Orden para la repartición de la tierra"
+    },
+    {
+      "verse": 52,
+      "label": "52",
+      "char_start": 5508,
+      "char_end": 5543,
+      "text": "Y habló Jehová a Moisés, diciendo:"
+    },
+    {
+      "verse": 53,
+      "label": "53",
+      "char_start": 5543,
+      "char_end": 5616,
+      "text": "A éstos se repartirá la tierra en heredad, por la cuenta de los nombres."
+    },
+    {
+      "verse": 54,
+      "label": "54",
+      "char_start": 5616,
+      "char_end": 5728,
+      "text": "A los más darás mayor heredad, y a los menos menor; y a cada uno se le dará su heredad conforme a sus contados."
+    },
+    {
+      "verse": 55,
+      "label": "55",
+      "char_start": 5728,
+      "char_end": 5827,
+      "text": "Pero la tierra será repartida por suerte; y por los nombres de las tribus de sus padres heredarán."
+    },
+    {
+      "verse": 56,
+      "label": "56",
+      "char_start": 5827,
+      "char_end": 5930,
+      "text": "Conforme a la suerte será repartida su heredad entre el grande y el pequeño. Censo de la tribu de Leví"
+    },
+    {
+      "verse": 57,
+      "label": "57",
+      "char_start": 5930,
+      "char_end": 6104,
+      "text": "Los contados de los levitas por sus familias son éstos: de Gersón, la familia de los gersonitas; de Coat, la familia de los coatitas; de Merari, la familia de los meraritas."
+    },
+    {
+      "verse": 58,
+      "label": "58",
+      "char_start": 6104,
+      "char_end": 6309,
+      "text": "Éstas son las familias de los levitas: la familia de los libnitas, la familia de los hebronitas, la familia de los mahlitas, la familia de los musitas, la familia de los coreítas. Y Coat engendró a Amram."
+    },
+    {
+      "verse": 59,
+      "label": "59",
+      "char_start": 6309,
+      "char_end": 6456,
+      "text": "La mujer de Amram se llamó Jocabed, hija de Leví, que le nació a Leví en Egipto; ésta dio a luz de Amram a Aarón y a Moisés, y a María su hermana."
+    },
+    {
+      "verse": 60,
+      "label": "60",
+      "char_start": 6456,
+      "char_end": 6509,
+      "text": "Y a Aarón le nacieron Nadab, Abiú, Eleazar e Itamar."
+    },
+    {
+      "verse": 61,
+      "label": "61",
+      "char_start": 6509,
+      "char_end": 6587,
+      "text": "Pero Nadab y Abiú murieron cuando ofrecieron fuego extraño delante de Jehová."
+    },
+    {
+      "verse": 62,
+      "label": "62",
+      "char_start": 6587,
+      "char_end": 6815,
+      "text": "De los levitas fueron contados veintitrés mil, todos varones de un mes arriba; porque no fueron contados entre los hijos de Israel, por cuanto no les había de ser dada heredad entre los hijos de Israel. Caleb y Josué sobreviven"
+    },
+    {
+      "verse": 63,
+      "label": "63",
+      "char_start": 6815,
+      "char_end": 6969,
+      "text": "Éstos son los contados por Moisés y el sacerdote Eleazar, los cuales contaron los hijos de Israel en los campos de Moab, junto al Jordán frente a Jericó."
+    },
+    {
+      "verse": 64,
+      "label": "64",
+      "char_start": 6969,
+      "char_end": 7109,
+      "text": "Y entre éstos ninguno hubo de los contados por Moisés y el sacerdote Aarón, quienes contaron a los hijos de Israel en el desierto de Sinaí."
+    },
+    {
+      "verse": 65,
+      "label": "65",
+      "char_start": 7109,
+      "char_end": 7243,
+      "text": "Porque Jehová había dicho de ellos: Morirán en el desierto; y no quedó varón de ellos, sino Caleb hijo de Jefone y Josué hijo de Nun."
+    }
+  ],
+  "words": [
+    {
+      "word": "Aconteció después de la mortandad, que Jehová habló a Moisés y a Eleazar hijo del sacerdote Aarón, diciendo: Tomad el censo de toda la congregación de los hijos de Israel, de veinte años arriba, por las casas de sus padres, todos los que pueden salir a la guerra en Israel.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 16075,
+      "duration_ms": 15975
+    },
+    {
+      "word": "Y Moisés y el sacerdote Eleazar hablaron con ellos en los campos de Moab, junto al Jordán frente a Jericó, diciendo: Contaréis el pueblo de veinte años arriba, como mandó Jehová a Moisés y a los hijos de Israel que habían salido de tierra de Egipto.",
+      "verse": 3,
+      "start_ms": 16075,
+      "end_ms": 30462,
+      "duration_ms": 14387
+    },
+    {
+      "word": "Rubén, primogénito de Israel; los hijos de Rubén: de Enoc, la familia de los enoquitas; de Falú, la familia de los faluitas; de Hezrón, la familia de los hezronitas; de Carmi, la familia de los carmitas.",
+      "verse": 5,
+      "start_ms": 30462,
+      "end_ms": 44899,
+      "duration_ms": 14437
+    },
+    {
+      "word": "Éstas son las familias de los rubenitas; y fueron contados de ellas cuarenta y tres mil setecientos treinta.",
+      "verse": 7,
+      "start_ms": 44900,
+      "end_ms": 51300,
+      "duration_ms": 6400
+    },
+    {
+      "word": "Los hijos de Falú: Eliab.",
+      "verse": 8,
+      "start_ms": 51300,
+      "end_ms": 53900,
+      "duration_ms": 2600
+    },
+    {
+      "word": "Y los hijos de Eliab: Nemuel, Datán y Abiram.",
+      "verse": 9,
+      "start_ms": 53900,
+      "end_ms": 57737,
+      "duration_ms": 3837
+    },
+    {
+      "word": "Estos Datán y Abiram fueron los del consejo de la congregación, que se rebelaron contra Moisés y Aarón con el grupo de Coré, cuando se rebelaron contra Jehová; y la tierra abrió su boca y los tragó a ellos y a Coré, cuando aquel grupo murió, cuando consumió el fuego a doscientos cincuenta varones, para servir de escarmiento.",
+      "verse": 9,
+      "start_ms": 57737,
+      "end_ms": 75937,
+      "duration_ms": 18200
+    },
+    {
+      "word": "Mas los hijos de Coré no murieron.",
+      "verse": 11,
+      "start_ms": 75937,
+      "end_ms": 78724,
+      "duration_ms": 2787
+    },
+    {
+      "word": "Los hijos de Simeón por sus familias: de Nemuel, la familia de los nemuelitas; de Jamín, la familia de los jaminitas; de Jaquín, la familia de los jaquinitas; de Zera, la familia de los zeraítas; de Saúl, la familia de los saulitas.",
+      "verse": 12,
+      "start_ms": 78725,
+      "end_ms": 94662,
+      "duration_ms": 15937
+    },
+    {
+      "word": "Éstas son las familias de los simeonitas, veintidós mil doscientos.",
+      "verse": 14,
+      "start_ms": 94662,
+      "end_ms": 99337,
+      "duration_ms": 4675
+    },
+    {
+      "word": "Los hijos de Gad por sus familias: de Zefón, la familia de los zefonitas; de Hagui, la familia de los haguitas; de Suni, la familia de los sunitas; de Ozni, la familia de los oznitas; de Eri, la familia de los eritas; de Arod, la familia de los aroditas; de Areli, la familia de los arelitas.",
+      "verse": 15,
+      "start_ms": 99337,
+      "end_ms": 119362,
+      "duration_ms": 20025
+    },
+    {
+      "word": "Éstas son las familias de Gad; y fueron contados de ellas cuarenta mil quinientos.",
+      "verse": 18,
+      "start_ms": 119362,
+      "end_ms": 124587,
+      "duration_ms": 5225
+    },
+    {
+      "word": "Los hijos de Judá: Er y Onán; y Er y Onán murieron en la tierra de Canaán.",
+      "verse": 19,
+      "start_ms": 124587,
+      "end_ms": 129999,
+      "duration_ms": 5412
+    },
+    {
+      "word": "Y fueron los hijos de Judá por sus familias: de Sela, la familia de los selaítas; de Fares, la familia de los faresitas; de Zera, la familia de los zeraítas.",
+      "verse": 20,
+      "start_ms": 130000,
+      "end_ms": 140800,
+      "duration_ms": 10800
+    },
+    {
+      "word": "Y fueron los hijos de Fares: de Hezrón, la familia de los hezronitas; de Hamul, la familia de los hamulitas.",
+      "verse": 21,
+      "start_ms": 140800,
+      "end_ms": 148350,
+      "duration_ms": 7550
+    },
+    {
+      "word": "Éstas son las familias de Judá, y fueron contados de ellas setenta y seis mil quinientos.",
+      "verse": 22,
+      "start_ms": 148350,
+      "end_ms": 153950,
+      "duration_ms": 5600
+    },
+    {
+      "word": "Los hijos de Isacar por sus familias; de Tola, la familia de los tolaítas; de Fúa, la familia de los funitas; de Jasub, la familia de los jasubitas; de Simrón, la familia de los simronitas.",
+      "verse": 23,
+      "start_ms": 153950,
+      "end_ms": 166962,
+      "duration_ms": 13012
+    },
+    {
+      "word": "Éstas son las familias de Isacar, y fueron contados de ellas sesenta y cuatro mil trescientos.",
+      "verse": 25,
+      "start_ms": 166962,
+      "end_ms": 172812,
+      "duration_ms": 5850
+    },
+    {
+      "word": "Los hijos de Zabulón por sus familias: de Sered, la familia de los sereditas; de Elón, la familia de los elonitas; de Jahleel, la familia de los jahleelitas.",
+      "verse": 26,
+      "start_ms": 172812,
+      "end_ms": 183687,
+      "duration_ms": 10875
+    },
+    {
+      "word": "Éstas son las familias de los zabulonitas, y fueron contados de ellas sesenta mil quinientos.",
+      "verse": 27,
+      "start_ms": 183687,
+      "end_ms": 189562,
+      "duration_ms": 5875
+    },
+    {
+      "word": "Los hijos de José por sus familias: Manasés y Efraín.",
+      "verse": 28,
+      "start_ms": 189562,
+      "end_ms": 193812,
+      "duration_ms": 4250
+    },
+    {
+      "word": "Los hijos de Manasés: de Maquir, la familia de los maquiritas; y Maquir engendró a Galaad; de Galaad, la familia de los galaaditas.",
+      "verse": 29,
+      "start_ms": 193812,
+      "end_ms": 202799,
+      "duration_ms": 8987
+    },
+    {
+      "word": "Éstos son los hijos de Galaad: de Jezer, la familia de los jezeritas; de Helec, la familia de los helequitas; de Asriel, la familia de los asrielitas; de Siquem, la familia de los siquemitas; de Semida, la familia de los semidaítas; de Hefer, la familia de los heferitas.",
+      "verse": 30,
+      "start_ms": 202800,
+      "end_ms": 220825,
+      "duration_ms": 18025
+    },
+    {
+      "word": "Y Zelofehad hijo de Hefer no tuvo hijos sino hijas; y los nombres de las hijas de Zelofehad fueron Maala, Noa, Hogla, Milca y Tirsa.",
+      "verse": 33,
+      "start_ms": 220825,
+      "end_ms": 229625,
+      "duration_ms": 8800
+    },
+    {
+      "word": "Éstas son las familias de Manasés; y fueron contados de ellas cincuenta y dos mil setecientos.",
+      "verse": 34,
+      "start_ms": 229625,
+      "end_ms": 235612,
+      "duration_ms": 5987
+    },
+    {
+      "word": "Éstos son los hijos de Efraín por sus familias: de Sutela, la familia de los sutelaítas; de Bequer, la familia de los bequeritas; de Tahán, la familia de los tahanitas.",
+      "verse": 35,
+      "start_ms": 235612,
+      "end_ms": 246674,
+      "duration_ms": 11062
+    },
+    {
+      "word": "Y éstos son los hijos de Sutela: de Erán, la familia de los eranitas.",
+      "verse": 36,
+      "start_ms": 246675,
+      "end_ms": 251912,
+      "duration_ms": 5237
+    },
+    {
+      "word": "Éstas son las familias de los hijos de Efraín; y fueron contados de ellas treinta y dos mil quinientos.",
+      "verse": 37,
+      "start_ms": 251912,
+      "end_ms": 258099,
+      "duration_ms": 6187
+    },
+    {
+      "word": "éstos son los hijos de José por sus familias.",
+      "verse": 37,
+      "start_ms": 258100,
+      "end_ms": 261512,
+      "duration_ms": 3412
+    },
+    {
+      "word": "Los hijos de",
+      "verse": 38,
+      "start_ms": 261512,
+      "end_ms": 263349,
+      "duration_ms": 1837
+    },
+    {
+      "word": "Benjamín por sus familias: de Bela, la familia de los belaítas; de Asbel, la familia de los asbelitas; de Ahiram, la familia de los ahiramitas; de Sufam, la familia de los sufamitas; de Hufam, la familia de los hufamitas.",
+      "verse": 38,
+      "start_ms": 263500,
+      "end_ms": 278850,
+      "duration_ms": 15350
+    },
+    {
+      "word": "Y los hijos de Bela fueron Ard y Naamán: de Ard, la familia de los arditas; de Naamán, la familia de los naamitas.",
+      "verse": 40,
+      "start_ms": 278800,
+      "end_ms": 286837,
+      "duration_ms": 8037
+    },
+    {
+      "word": "Éstos son los hijos de Benjamín por sus familias; y fueron contados de ellos cuarenta y cinco mil seiscientos.",
+      "verse": 41,
+      "start_ms": 286837,
+      "end_ms": 293537,
+      "duration_ms": 6700
+    },
+    {
+      "word": "Éstos son los hijos de Dan por sus familias: de Súham, la familia de los suhamitas.",
+      "verse": 42,
+      "start_ms": 293537,
+      "end_ms": 299187,
+      "duration_ms": 5650
+    },
+    {
+      "word": "éstas son las familias de Dan por sus familias.",
+      "verse": 42,
+      "start_ms": 299187,
+      "end_ms": 302499,
+      "duration_ms": 3312
+    },
+    {
+      "word": "De las familias de los suhamitas fueron contados sesenta y cuatro mil cuatrocientos.",
+      "verse": 43,
+      "start_ms": 302500,
+      "end_ms": 307412,
+      "duration_ms": 4912
+    },
+    {
+      "word": "Los hijos de Aser por sus familias: de Imna, la familia de los imnitas; de Isúi, la familia de los isuitas; de Bería, la familia de los beriaítas.",
+      "verse": 44,
+      "start_ms": 307412,
+      "end_ms": 317962,
+      "duration_ms": 10550
+    },
+    {
+      "word": "Los hijos de Bería: de Heber, la familia de los heberitas; de Malquiel, la familia de los malquielitas.",
+      "verse": 45,
+      "start_ms": 317962,
+      "end_ms": 325299,
+      "duration_ms": 7337
+    },
+    {
+      "word": "Y el nombre de la hija de Aser fue Sera.",
+      "verse": 46,
+      "start_ms": 325300,
+      "end_ms": 328250,
+      "duration_ms": 2950
+    },
+    {
+      "word": "Éstas son las familias de los hijos de Aser; y fueron contados de ellas cincuenta y tres mil cuatrocientos.",
+      "verse": 47,
+      "start_ms": 328250,
+      "end_ms": 334575,
+      "duration_ms": 6325
+    },
+    {
+      "word": "Los hijos de Neftalí, por sus familias: de Jahzeel, la familia de los jahzeelitas; de Guni, la familia de los gunitas; de Jezer, la familia de los jezeritas; de Silem, la familia de los silemitas.",
+      "verse": 48,
+      "start_ms": 334575,
+      "end_ms": 348312,
+      "duration_ms": 13737
+    },
+    {
+      "word": "Éstas son las familias de Neftalí por sus familias; y fueron contados de ellas cuarenta y cinco mil cuatrocientos.",
+      "verse": 50,
+      "start_ms": 348312,
+      "end_ms": 355224,
+      "duration_ms": 6912
+    },
+    {
+      "word": "Éstos son los contados de los hijos de Israel, seiscientos un mil setecientos treinta.",
+      "verse": 51,
+      "start_ms": 355225,
+      "end_ms": 360737,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Orden para la repartición de la tierra Y habló Jehová a Moisés, diciendo: A éstos se repartirá la tierra en heredad, por la cuenta de los nombres.",
+      "verse": 51,
+      "start_ms": 360737,
+      "end_ms": 369587,
+      "duration_ms": 8850
+    },
+    {
+      "word": "A los más darás mayor heredad, y a los menos menor; y a cada uno se le dará su heredad conforme a sus contados.",
+      "verse": 54,
+      "start_ms": 369587,
+      "end_ms": 376762,
+      "duration_ms": 7175
+    },
+    {
+      "word": "Pero la tierra será repartida por suerte; y por los nombres de las tribus de sus padres heredarán.",
+      "verse": 55,
+      "start_ms": 376762,
+      "end_ms": 382774,
+      "duration_ms": 6012
+    },
+    {
+      "word": "Conforme a la suerte será repartida su heredad entre el grande y el pequeño.",
+      "verse": 56,
+      "start_ms": 382775,
+      "end_ms": 387500,
+      "duration_ms": 4725
+    },
+    {
+      "word": "Censo de la tribu de Leví Los contados de los levitas por sus familias son éstos: de Gersón, la familia de los gersonitas; de Coat, la familia de los coatitas; de Merari, la familia de los meraritas.",
+      "verse": 56,
+      "start_ms": 387500,
+      "end_ms": 400425,
+      "duration_ms": 12925
+    },
+    {
+      "word": "Éstas son las familias de los levitas: la familia de los libnitas, la familia de los hebronitas, la familia de los mahlitas, la familia de los musitas, la familia de los coreítas.",
+      "verse": 58,
+      "start_ms": 400425,
+      "end_ms": 411437,
+      "duration_ms": 11012
+    },
+    {
+      "word": "Y Coat engendró a Amram.",
+      "verse": 58,
+      "start_ms": 411437,
+      "end_ms": 413849,
+      "duration_ms": 2412
+    },
+    {
+      "word": "La mujer de Amram se llamó Jocabed, hija de Leví, que le nació a Leví en Egipto; ésta dio a luz de Amram a Aarón y a Moisés, y a María su hermana.",
+      "verse": 59,
+      "start_ms": 413850,
+      "end_ms": 423262,
+      "duration_ms": 9412
+    },
+    {
+      "word": "Y a Aarón le nacieron Nadab, Abiú, Eleazar e Itamar.",
+      "verse": 60,
+      "start_ms": 423262,
+      "end_ms": 427624,
+      "duration_ms": 4362
+    },
+    {
+      "word": "Pero Nadab y Abiú murieron cuando ofrecieron fuego extraño delante de Jehová.",
+      "verse": 61,
+      "start_ms": 427625,
+      "end_ms": 432462,
+      "duration_ms": 4837
+    },
+    {
+      "word": "De los levitas fueron contados veintitrés mil, todos varones de un mes arriba; porque no fueron contados entre los hijos de Israel, por cuanto no les había de ser dada heredad entre los hijos de Israel.",
+      "verse": 62,
+      "start_ms": 432462,
+      "end_ms": 443637,
+      "duration_ms": 11175
+    },
+    {
+      "word": "Caleb y Josué sobreviven Éstos son los contados por Moisés y el sacerdote Eleazar, los cuales contaron los hijos de Israel en los campos de Moab, junto al Jordán frente a Jericó.",
+      "verse": 62,
+      "start_ms": 443637,
+      "end_ms": 453612,
+      "duration_ms": 9975
+    },
+    {
+      "word": "Y entre éstos ninguno hubo de los contados por Moisés y el sacerdote Aarón, quienes contaron a los hijos de Israel en el desierto de Sinaí.",
+      "verse": 64,
+      "start_ms": 453612,
+      "end_ms": 461712,
+      "duration_ms": 8100
+    },
+    {
+      "word": "Porque Jehová había dicho de ellos: Morirán en el desierto; y no quedó varón de ellos, sino Caleb hijo de Jefone y Josué hijo de Nun.",
+      "verse": 65,
+      "start_ms": 461712,
+      "end_ms": 470399,
+      "duration_ms": 8687
+    }
+  ]
+}

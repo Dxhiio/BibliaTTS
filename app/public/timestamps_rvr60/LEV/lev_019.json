@@ -1,0 +1,656 @@
+{
+  "book": "LEV",
+  "chapter": 19,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 37,
+  "word_count": 55,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 33,
+      "text": "Habló Jehová a Moisés, diciendo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 33,
+      "char_end": 151,
+      "text": "Habla a toda la congregación de los hijos de Israel, y diles: Santos seréis, porque santo soy yo Jehová vuestro Dios."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 151,
+      "char_end": 249,
+      "text": "Cada uno temerá a su madre y a su padre, y mis días de reposo guardaréis. Yo Jehová vuestro Dios."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 249,
+      "char_end": 348,
+      "text": "No os volveréis a los ídolos, ni haréis para vosotros dioses de fundición. Yo Jehová vuestro Dios."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 348,
+      "char_end": 451,
+      "text": "Y cuando ofreciereis sacrificio de ofrenda de paz a Jehová, ofrecedlo de tal manera que seáis aceptos."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 451,
+      "char_end": 573,
+      "text": "Será comido el día que lo ofreciereis, y el día siguiente; y lo que quedare para el tercer día, será quemado en el fuego."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 573,
+      "char_end": 639,
+      "text": "Y si se comiere el día tercero, será abominación; no será acepto,"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 639,
+      "char_end": 761,
+      "text": "y el que lo comiere llevará su delito, por cuanto profanó lo santo de Jehová; y la tal persona será cortada de su pueblo."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 761,
+      "char_end": 872,
+      "text": "Cuando siegues la mies de tu tierra, no segarás hasta el último rincón de ella, ni espigarás tu tierra segada."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 872,
+      "char_end": 1008,
+      "text": "Y no rebuscarás tu viña, ni recogerás el fruto caído de tu viña; para el pobre y para el extranjero lo dejarás. Yo Jehová vuestro Dios."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1008,
+      "char_end": 1067,
+      "text": "No hurtaréis, y no engañaréis ni mentiréis el uno al otro."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1067,
+      "char_end": 1155,
+      "text": "Y no juraréis falsamente por mi nombre, profanando así el nombre de tu Dios. Yo Jehová."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1155,
+      "char_end": 1263,
+      "text": "No oprimirás a tu prójimo, ni le robarás. No retendrás el salario del jornalero en tu casa hasta la mañana."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1263,
+      "char_end": 1374,
+      "text": "No maldecirás al sordo, y delante del ciego no pondrás tropiezo, sino que tendrás temor de tu Dios. Yo Jehová."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1374,
+      "char_end": 1496,
+      "text": "No harás injusticia en el juicio, ni favoreciendo al pobre ni complaciendo al grande; con justicia juzgarás a tu prójimo."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1496,
+      "char_end": 1589,
+      "text": "No andarás chismeando entre tu pueblo. No atentarás contra la vida de tu prójimo. Yo Jehová."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1589,
+      "char_end": 1695,
+      "text": "No aborrecerás a tu hermano en tu corazón; razonarás con tu prójimo, para que no participes de su pecado."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1695,
+      "char_end": 1810,
+      "text": "No te vengarás, ni guardarás rencor a los hijos de tu pueblo, sino amarás a tu prójimo como a ti mismo. Yo Jehová."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1810,
+      "char_end": 1984,
+      "text": "Mis estatutos guardarás. No harás ayuntar tu ganado con animales de otra especie; tu campo no sembrarás con mezcla de semillas, y no te pondrás vestidos con mezcla de hilos."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1984,
+      "char_end": 2181,
+      "text": "Si un hombre yaciere con una mujer que fuere sierva desposada con alguno, y no estuviere rescatada, ni le hubiere sido dada libertad, ambos serán azotados; no morirán, por cuanto ella no es libre."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2181,
+      "char_end": 2281,
+      "text": "Y él traerá a Jehová, a la puerta del tabernáculo de reunión, un carnero en expiación por su culpa."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2281,
+      "char_end": 2434,
+      "text": "Y con el carnero de la expiación lo reconciliará el sacerdote delante de Jehová, por su pecado que cometió; y se le perdonará su pecado que ha cometido."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2434,
+      "char_end": 2619,
+      "text": "Y cuando entréis en la tierra, y plantéis toda clase de árboles frutales, consideraréis como incircunciso lo primero de su fruto; tres años os será incircunciso; su fruto no se comerá."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2619,
+      "char_end": 2688,
+      "text": "Y el cuarto año todo su fruto será consagrado en alabanzas a Jehová."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2688,
+      "char_end": 2789,
+      "text": "Mas al quinto año comeréis el fruto de él, para que os haga crecer su fruto. Yo Jehová vuestro Dios."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2789,
+      "char_end": 2858,
+      "text": "No comeréis cosa alguna con sangre. No seréis agoreros, ni adivinos."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2858,
+      "char_end": 2936,
+      "text": "No haréis tonsura en vuestras cabezas, ni dañaréis la punta de vuestra barba."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2936,
+      "char_end": 3042,
+      "text": "Y no haréis rasguños en vuestro cuerpo por un muerto, ni imprimiréis en vosotros señal alguna. Yo Jehová."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3042,
+      "char_end": 3147,
+      "text": "No contaminarás a tu hija haciéndola fornicar, para que no se prostituya la tierra y se llene de maldad."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3147,
+      "char_end": 3228,
+      "text": "Mis días de reposo guardaréis, y mi santuario tendréis en reverencia. Yo Jehová."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3228,
+      "char_end": 3349,
+      "text": "No os volváis a los encantadores ni a los adivinos; no los consultéis, contaminándoos con ellos. Yo Jehová vuestro Dios."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3349,
+      "char_end": 3458,
+      "text": "Delante de las canas te levantarás, y honrarás el rostro del anciano, y de tu Dios tendrás temor. Yo Jehová."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3458,
+      "char_end": 3536,
+      "text": "Cuando el extranjero morare con vosotros en vuestra tierra, no le oprimiréis."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3536,
+      "char_end": 3719,
+      "text": "Como a un natural de vosotros tendréis al extranjero que more entre vosotros, y lo amarás como a ti mismo; porque extranjeros fuisteis en la tierra de Egipto. Yo Jehová vuestro Dios."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3719,
+      "char_end": 3799,
+      "text": "No hagáis injusticia en juicio, en medida de tierra, en peso ni en otra medida."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3799,
+      "char_end": 3917,
+      "text": "Balanzas justas, pesas justas y medidas justas tendréis. Yo Jehová vuestro Dios, que os saqué de la tierra de Egipto."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3917,
+      "char_end": 4008,
+      "text": "Guardad, pues, todos mis estatutos y todas mis ordenanzas, y ponedlos por obra. Yo Jehová."
+    }
+  ],
+  "words": [
+    {
+      "word": "Habló Jehová a Moisés, diciendo: Habla a toda la congregación de los hijos de Israel, y diles: Santos seréis, porque santo soy yo Jehová vuestro Dios.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 10500,
+      "duration_ms": 10400
+    },
+    {
+      "word": "Cada uno temerá a su madre y a su padre, y mis días de reposo guardaréis.",
+      "verse": 3,
+      "start_ms": 10450,
+      "end_ms": 15650,
+      "duration_ms": 5200
+    },
+    {
+      "word": "Yo Jehová vuestro Dios.",
+      "verse": 3,
+      "start_ms": 15650,
+      "end_ms": 17987,
+      "duration_ms": 2337
+    },
+    {
+      "word": "No os volveréis a los ídolos, ni haréis para vosotros dioses de fundición.",
+      "verse": 4,
+      "start_ms": 17987,
+      "end_ms": 23112,
+      "duration_ms": 5125
+    },
+    {
+      "word": "Yo Jehová vuestro Dios.",
+      "verse": 4,
+      "start_ms": 23112,
+      "end_ms": 25449,
+      "duration_ms": 2337
+    },
+    {
+      "word": "Y cuando ofreciereis sacrificio de ofrenda de paz a Jehová, ofrecedlo de tal manera que seáis aceptos.",
+      "verse": 5,
+      "start_ms": 25450,
+      "end_ms": 31800,
+      "duration_ms": 6350
+    },
+    {
+      "word": "Será comido el día que lo ofreciereis, y el día siguiente; y lo que quedare para el tercer día, será quemado en el fuego.",
+      "verse": 6,
+      "start_ms": 31800,
+      "end_ms": 39300,
+      "duration_ms": 7500
+    },
+    {
+      "word": "Y si se comiere el día tercero, será abominación; no será acepto, y el que lo comiere llevará su delito, por cuanto profanó lo santo de Jehová; y la tal persona será cortada de su pueblo.",
+      "verse": 7,
+      "start_ms": 39300,
+      "end_ms": 51037,
+      "duration_ms": 11737
+    },
+    {
+      "word": "Cuando siegues la mies de tu tierra, no segarás hasta el último rincón de ella, ni espigarás tu tierra segada.",
+      "verse": 9,
+      "start_ms": 51037,
+      "end_ms": 57862,
+      "duration_ms": 6825
+    },
+    {
+      "word": "Y no rebuscarás tu viña, ni recogerás el fruto caído de tu viña; para el pobre y para el extranjero lo dejarás.",
+      "verse": 10,
+      "start_ms": 57862,
+      "end_ms": 65124,
+      "duration_ms": 7262
+    },
+    {
+      "word": "Yo Jehová vuestro Dios.",
+      "verse": 10,
+      "start_ms": 65125,
+      "end_ms": 67462,
+      "duration_ms": 2337
+    },
+    {
+      "word": "No hurtaréis, y no engañaréis ni mentiréis el uno al otro.",
+      "verse": 11,
+      "start_ms": 67462,
+      "end_ms": 71787,
+      "duration_ms": 4325
+    },
+    {
+      "word": "Y no juraréis falsamente por mi nombre, profanando así el nombre de tu Dios.",
+      "verse": 12,
+      "start_ms": 71787,
+      "end_ms": 76999,
+      "duration_ms": 5212
+    },
+    {
+      "word": "Yo Jehová.",
+      "verse": 12,
+      "start_ms": 77000,
+      "end_ms": 78712,
+      "duration_ms": 1712
+    },
+    {
+      "word": "No oprimirás a tu prójimo, ni le robarás.",
+      "verse": 13,
+      "start_ms": 78712,
+      "end_ms": 82237,
+      "duration_ms": 3525
+    },
+    {
+      "word": "No retendrás el salario del jornalero en tu casa hasta la mañana.",
+      "verse": 13,
+      "start_ms": 82237,
+      "end_ms": 86512,
+      "duration_ms": 4275
+    },
+    {
+      "word": "No maldecirás al sordo, y delante del ciego no pondrás tropiezo, sino que tendrás temor de tu Dios.",
+      "verse": 14,
+      "start_ms": 86512,
+      "end_ms": 93087,
+      "duration_ms": 6575
+    },
+    {
+      "word": "Yo Jehová.",
+      "verse": 14,
+      "start_ms": 93087,
+      "end_ms": 94799,
+      "duration_ms": 1712
+    },
+    {
+      "word": "No harás injusticia en el juicio, ni favoreciendo al pobre ni complaciendo al grande; con justicia juzgarás a tu prójimo.",
+      "verse": 15,
+      "start_ms": 94800,
+      "end_ms": 102475,
+      "duration_ms": 7675
+    },
+    {
+      "word": "No andarás chismeando entre tu pueblo.",
+      "verse": 16,
+      "start_ms": 102475,
+      "end_ms": 105375,
+      "duration_ms": 2900
+    },
+    {
+      "word": "No atentarás contra la vida de tu prójimo.",
+      "verse": 16,
+      "start_ms": 105375,
+      "end_ms": 108600,
+      "duration_ms": 3225
+    },
+    {
+      "word": "Yo Jehová.",
+      "verse": 16,
+      "start_ms": 108600,
+      "end_ms": 110312,
+      "duration_ms": 1712
+    },
+    {
+      "word": "No aborrecerás a tu hermano en tu corazón; razonarás con tu prójimo, para que no participes de su pecado.",
+      "verse": 17,
+      "start_ms": 110312,
+      "end_ms": 117137,
+      "duration_ms": 6825
+    },
+    {
+      "word": "No te vengarás, ni guardarás rencor a los hijos de tu pueblo, sino amarás a tu prójimo como a ti mismo.",
+      "verse": 18,
+      "start_ms": 117137,
+      "end_ms": 123812,
+      "duration_ms": 6675
+    },
+    {
+      "word": "Yo Jehová.",
+      "verse": 18,
+      "start_ms": 123812,
+      "end_ms": 125524,
+      "duration_ms": 1712
+    },
+    {
+      "word": "Mis estatutos guardarás.",
+      "verse": 19,
+      "start_ms": 125525,
+      "end_ms": 127962,
+      "duration_ms": 2437
+    },
+    {
+      "word": "No harás ayuntar tu ganado con animales de otra especie; tu campo no sembrarás con mezcla de semillas, y no te pondrás vestidos con mezcla de hilos.",
+      "verse": 19,
+      "start_ms": 127962,
+      "end_ms": 137087,
+      "duration_ms": 9125
+    },
+    {
+      "word": "Si un hombre yaciere con una mujer que fuere sierva desposada con alguno, y no estuviere rescatada, ni le hubiere sido dada libertad, ambos serán azotados; no morirán, por cuanto ella no es libre.",
+      "verse": 20,
+      "start_ms": 137087,
+      "end_ms": 149174,
+      "duration_ms": 12087
+    },
+    {
+      "word": "Y él traerá a Jehová, a la puerta del tabernáculo de reunión, un carnero en expiación por su culpa.",
+      "verse": 21,
+      "start_ms": 149175,
+      "end_ms": 155612,
+      "duration_ms": 6437
+    },
+    {
+      "word": "Y con el carnero de la expiación lo reconciliará el sacerdote delante de Jehová, por su pecado que cometió; y se le perdonará su pecado que ha cometido.",
+      "verse": 22,
+      "start_ms": 155612,
+      "end_ms": 164462,
+      "duration_ms": 8850
+    },
+    {
+      "word": "Y cuando entréis en la tierra, y plantéis toda clase de árboles frutales, consideraréis como incircunciso lo primero de su fruto; tres años os será incircunciso; su fruto no se comerá.",
+      "verse": 23,
+      "start_ms": 164462,
+      "end_ms": 176074,
+      "duration_ms": 11612
+    },
+    {
+      "word": "Y el cuarto año todo su fruto será consagrado en alabanzas a Jehová.",
+      "verse": 24,
+      "start_ms": 176075,
+      "end_ms": 180725,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Mas al quinto año comeréis el fruto de él, para que os haga crecer su fruto.",
+      "verse": 25,
+      "start_ms": 180725,
+      "end_ms": 185875,
+      "duration_ms": 5150
+    },
+    {
+      "word": "Yo Jehová vuestro Dios.",
+      "verse": 25,
+      "start_ms": 185875,
+      "end_ms": 188212,
+      "duration_ms": 2337
+    },
+    {
+      "word": "No comeréis cosa alguna con sangre.",
+      "verse": 26,
+      "start_ms": 188212,
+      "end_ms": 191162,
+      "duration_ms": 2950
+    },
+    {
+      "word": "No seréis agoreros, ni adivinos.",
+      "verse": 26,
+      "start_ms": 191162,
+      "end_ms": 194362,
+      "duration_ms": 3200
+    },
+    {
+      "word": "No haréis tonsura en vuestras cabezas, ni dañaréis la punta de vuestra barba.",
+      "verse": 27,
+      "start_ms": 194362,
+      "end_ms": 199624,
+      "duration_ms": 5262
+    },
+    {
+      "word": "Y no haréis rasguños en vuestro cuerpo por un muerto, ni imprimiréis en vosotros señal alguna.",
+      "verse": 28,
+      "start_ms": 199625,
+      "end_ms": 205550,
+      "duration_ms": 5925
+    },
+    {
+      "word": "Yo Jehová.",
+      "verse": 28,
+      "start_ms": 205550,
+      "end_ms": 207262,
+      "duration_ms": 1712
+    },
+    {
+      "word": "No contaminarás a tu hija haciéndola fornicar, para que no se prostituya la tierra y se llene de maldad.",
+      "verse": 29,
+      "start_ms": 207262,
+      "end_ms": 213624,
+      "duration_ms": 6362
+    },
+    {
+      "word": "Mis días de reposo guardaréis, y mi santuario tendréis en reverencia.",
+      "verse": 30,
+      "start_ms": 213625,
+      "end_ms": 218462,
+      "duration_ms": 4837
+    },
+    {
+      "word": "Yo Jehová.",
+      "verse": 30,
+      "start_ms": 218462,
+      "end_ms": 220174,
+      "duration_ms": 1712
+    },
+    {
+      "word": "No os volváis a los encantadores ni a los adivinos; no los consultéis, contaminándoos con ellos.",
+      "verse": 31,
+      "start_ms": 220175,
+      "end_ms": 226962,
+      "duration_ms": 6787
+    },
+    {
+      "word": "Yo Jehová vuestro Dios.",
+      "verse": 31,
+      "start_ms": 226962,
+      "end_ms": 229299,
+      "duration_ms": 2337
+    },
+    {
+      "word": "Delante de las canas te levantarás, y honrarás el rostro del anciano, y de tu Dios tendrás temor.",
+      "verse": 32,
+      "start_ms": 229300,
+      "end_ms": 235775,
+      "duration_ms": 6475
+    },
+    {
+      "word": "Yo Jehová.",
+      "verse": 32,
+      "start_ms": 235775,
+      "end_ms": 237487,
+      "duration_ms": 1712
+    },
+    {
+      "word": "Cuando el extranjero morare con vosotros en vuestra tierra, no le oprimiréis.",
+      "verse": 33,
+      "start_ms": 237487,
+      "end_ms": 242424,
+      "duration_ms": 4937
+    },
+    {
+      "word": "Como a un natural de vosotros tendréis al extranjero que more entre vosotros, y lo amarás como a ti mismo; porque extranjeros fuisteis en la tierra de Egipto.",
+      "verse": 34,
+      "start_ms": 242425,
+      "end_ms": 251525,
+      "duration_ms": 9100
+    },
+    {
+      "word": "Yo Jehová vuestro Dios.",
+      "verse": 34,
+      "start_ms": 251525,
+      "end_ms": 253862,
+      "duration_ms": 2337
+    },
+    {
+      "word": "No hagáis injusticia en juicio, en medida de tierra, en peso ni en otra medida.",
+      "verse": 35,
+      "start_ms": 253862,
+      "end_ms": 259687,
+      "duration_ms": 5825
+    },
+    {
+      "word": "Balanzas justas, pesas justas y medidas justas tendréis.",
+      "verse": 36,
+      "start_ms": 259687,
+      "end_ms": 264487,
+      "duration_ms": 4800
+    },
+    {
+      "word": "Yo Jehová vuestro Dios, que os saqué de la tierra de Egipto.",
+      "verse": 36,
+      "start_ms": 264487,
+      "end_ms": 268799,
+      "duration_ms": 4312
+    },
+    {
+      "word": "Guardad, pues, todos mis estatutos y todas",
+      "verse": 37,
+      "start_ms": 268800,
+      "end_ms": 273075,
+      "duration_ms": 4275
+    },
+    {
+      "word": "mis ordenanzas, y ponedlos por obra.",
+      "verse": 37,
+      "start_ms": 273244,
+      "end_ms": 276444,
+      "duration_ms": 3200
+    },
+    {
+      "word": "Yo Jehová.",
+      "verse": 37,
+      "start_ms": 276394,
+      "end_ms": 278106,
+      "duration_ms": 1712
+    }
+  ]
+}

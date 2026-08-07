@@ -1,0 +1,712 @@
+{
+  "book": "LEV",
+  "chapter": 14,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 57,
+  "word_count": 43,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 35,
+      "text": "Y habló Jehová a Moisés, diciendo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 35,
+      "char_end": 114,
+      "text": "Ésta será la ley para el leproso cuando se limpiare: Será traído al sacerdote,"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 114,
+      "char_end": 221,
+      "text": "y éste saldrá fuera del campamento y lo examinará; y si ve que está sana la plaga de la lepra del leproso,"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 221,
+      "char_end": 350,
+      "text": "el sacerdote mandará luego que se tomen para el que se purifica dos avecillas vivas, limpias, y madera de cedro, grana e hisopo."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 350,
+      "char_end": 436,
+      "text": "Y mandará el sacerdote matar una avecilla en un vaso de barro sobre aguas corrientes."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 436,
+      "char_end": 598,
+      "text": "Después tomará la avecilla viva, el cedro, la grana y el hisopo, y los mojará con la avecilla viva en la sangre de la avecilla muerta sobre las aguas corrientes;"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 598,
+      "char_end": 721,
+      "text": "y rociará siete veces sobre el que se purifica de la lepra, y le declarará limpio; y soltará la avecilla viva en el campo."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 721,
+      "char_end": 898,
+      "text": "Y el que se purifica lavará sus vestidos, y raerá todo su pelo, y se lavará con agua, y será limpio; y después entrará en el campamento, y morará fuera de su tienda siete días."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 898,
+      "char_end": 1063,
+      "text": "Y el séptimo día raerá todo el pelo de su cabeza, su barba y las cejas de sus ojos y todo su pelo, y lavará sus vestidos, y lavará su cuerpo en agua, y será limpio."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1063,
+      "char_end": 1238,
+      "text": "El día octavo tomará dos corderos sin defecto, y una cordera de un año sin tacha, y tres décimas de efa de flor de harina para ofrenda amasada con aceite, y un log de aceite."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1238,
+      "char_end": 1383,
+      "text": "Y el sacerdote que le purifica presentará delante de Jehová al que se ha de limpiar, con aquellas cosas, a la puerta del tabernáculo de reunión;"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1383,
+      "char_end": 1517,
+      "text": "y tomará el sacerdote un cordero y lo ofrecerá por la culpa, con el log de aceite, y lo mecerá como ofrenda mecida delante de Jehová."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1517,
+      "char_end": 1755,
+      "text": "Y degollará el cordero en el lugar donde se degüella el sacrificio por el pecado y el holocausto, en el lugar del santuario; porque como la víctima por el pecado, así también la víctima por la culpa es del sacerdote; es cosa muy sagrada."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1755,
+      "char_end": 1972,
+      "text": "Y el sacerdote tomará de la sangre de la víctima por la culpa, y la pondrá el sacerdote sobre el lóbulo de la oreja derecha del que se purifica, sobre el pulgar de su mano derecha y sobre el pulgar de su pie derecho."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1972,
+      "char_end": 2069,
+      "text": "Asimismo el sacerdote tomará del log de aceite, y lo echará sobre la palma de su mano izquierda,"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2069,
+      "char_end": 2205,
+      "text": "y mojará su dedo derecho en el aceite que tiene en su mano izquierda, y esparcirá del aceite con su dedo siete veces delante de Jehová."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2205,
+      "char_end": 2456,
+      "text": "Y de lo que quedare del aceite que tiene en su mano, pondrá el sacerdote sobre el lóbulo de la oreja derecha del que se purifica, sobre el pulgar de su mano derecha y sobre el pulgar de su pie derecho, encima de la sangre del sacrificio por la culpa."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2456,
+      "char_end": 2609,
+      "text": "Y lo que quedare del aceite que tiene en su mano, lo pondrá sobre la cabeza del que se purifica; y hará el sacerdote expiación por él delante de Jehová."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2609,
+      "char_end": 2766,
+      "text": "Ofrecerá luego el sacerdote el sacrificio por el pecado, y hará expiación por el que se ha de purificar de su inmundicia; y después degollará el holocausto,"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2766,
+      "char_end": 2890,
+      "text": "y hará subir el sacerdote el holocausto y la ofrenda sobre el altar. Así hará el sacerdote expiación por él, y será limpio."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2890,
+      "char_end": 3125,
+      "text": "Mas si fuere pobre, y no tuviere para tanto, entonces tomará un cordero para ser ofrecido como ofrenda mecida por la culpa, para reconciliarse, y una décima de efa de flor de harina amasada con aceite para ofrenda, y un log de aceite,"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3125,
+      "char_end": 3236,
+      "text": "y dos tórtolas o dos palominos, según pueda; uno será para expiación por el pecado, y el otro para holocausto."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3236,
+      "char_end": 3361,
+      "text": "Al octavo día de su purificación traerá estas cosas al sacerdote, a la puerta del tabernáculo de reunión, delante de Jehová."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3361,
+      "char_end": 3509,
+      "text": "Y el sacerdote tomará el cordero de la expiación por la culpa, y el log de aceite, y los mecerá el sacerdote como ofrenda mecida delante de Jehová."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3509,
+      "char_end": 3738,
+      "text": "Luego degollará el cordero de la culpa, y el sacerdote tomará de la sangre de la culpa, y la pondrá sobre el lóbulo de la oreja derecha del que se purifica, sobre el pulgar de su mano derecha y sobre el pulgar de su pie derecho."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3738,
+      "char_end": 3808,
+      "text": "Y el sacerdote echará del aceite sobre la palma de su mano izquierda;"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3808,
+      "char_end": 3925,
+      "text": "y con su dedo derecho el sacerdote rociará del aceite que tiene en su mano izquierda, siete veces delante de Jehová."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3925,
+      "char_end": 4152,
+      "text": "También el sacerdote pondrá del aceite que tiene en su mano sobre el lóbulo de la oreja derecha del que se purifica, sobre el pulgar de su mano derecha y sobre el pulgar de su pie derecho, en el lugar de la sangre de la culpa."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 4152,
+      "char_end": 4298,
+      "text": "Y lo que sobre del aceite que el sacerdote tiene en su mano, lo pondrá sobre la cabeza del que se purifica, para reconciliarlo delante de Jehová."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4298,
+      "char_end": 4373,
+      "text": "Asimismo ofrecerá una de las tórtolas o uno de los palominos, según pueda."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4373,
+      "char_end": 4546,
+      "text": "Uno en sacrificio de expiación por el pecado, y el otro en holocausto, además de la ofrenda; y hará el sacerdote expiación por el que se ha de purificar, delante de Jehová."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4546,
+      "char_end": 4643,
+      "text": "Ésta es la ley para el que hubiere tenido plaga de lepra, y no tuviere más para su purificación."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4643,
+      "char_end": 4694,
+      "text": "Habló también Jehová a Moisés y a Aarón, diciendo:"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4694,
+      "char_end": 4849,
+      "text": "Cuando hayáis entrado en la tierra de Canaán, la cual yo os doy en posesión, si pusiere yo plaga de lepra en alguna casa de la tierra de vuestra posesión,"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4849,
+      "char_end": 4963,
+      "text": "vendrá aquel de quien fuere la casa y dará aviso al sacerdote, diciendo: Algo como plaga ha aparecido en mi casa."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4963,
+      "char_end": 5152,
+      "text": "Entonces el sacerdote mandará desocupar la casa antes que entre a mirar la plaga, para que no sea contaminado todo lo que estuviere en la casa; y después el sacerdote entrará a examinarla."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 5152,
+      "char_end": 5319,
+      "text": "Y examinará la plaga; y si se vieren manchas en las paredes de la casa, manchas verdosas o rojizas, las cuales parecieren más profundas que la superficie de la pared,"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 5319,
+      "char_end": 5405,
+      "text": "el sacerdote saldrá de la casa a la puerta de ella, y cerrará la casa por siete días."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 5405,
+      "char_end": 5522,
+      "text": "Y al séptimo día volverá el sacerdote, y la examinará; y si la plaga se hubiere extendido en las paredes de la casa,"
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 5522,
+      "char_end": 5656,
+      "text": "entonces mandará el sacerdote, y arrancarán las piedras en que estuviere la plaga, y las echarán fuera de la ciudad en lugar inmundo."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 5656,
+      "char_end": 5774,
+      "text": "Y hará raspar la casa por dentro alrededor, y derramarán fuera de la ciudad, en lugar inmundo, el barro que rasparen."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 5774,
+      "char_end": 5889,
+      "text": "Y tomarán otras piedras y las pondrán en lugar de las piedras quitadas; y tomarán otro barro y recubrirán la casa."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 5889,
+      "char_end": 6024,
+      "text": "Y si la plaga volviere a brotar en aquella casa, después que hizo arrancar las piedras y raspar la casa, y después que fue recubierta,"
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 6024,
+      "char_end": 6165,
+      "text": "entonces el sacerdote entrará y la examinará; y si pareciere haberse extendido la plaga en la casa, es lepra maligna en la casa; inmunda es."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 6165,
+      "char_end": 6305,
+      "text": "Derribará, por tanto, la tal casa, sus piedras, sus maderos y toda la mezcla de la casa; y sacarán todo fuera de la ciudad a lugar inmundo."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 6305,
+      "char_end": 6416,
+      "text": "Y cualquiera que entrare en aquella casa durante los días en que la mandó cerrar, será inmundo hasta la noche."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 6416,
+      "char_end": 6527,
+      "text": "Y el que durmiere en aquella casa, lavará sus vestidos; también el que comiere en la casa lavará sus vestidos."
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 6527,
+      "char_end": 6722,
+      "text": "Mas si entrare el sacerdote y la examinare, y viere que la plaga no se ha extendido en la casa después que fue recubierta, el sacerdote declarará limpia la casa, porque la plaga ha desaparecido."
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 6722,
+      "char_end": 6809,
+      "text": "Entonces tomará para limpiar la casa dos avecillas, y madera de cedro, grana e hisopo;"
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 6809,
+      "char_end": 6881,
+      "text": "y degollará una avecilla en una vasija de barro sobre aguas corrientes."
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 6881,
+      "char_end": 7046,
+      "text": "Y tomará el cedro, el hisopo, la grana y la avecilla viva, y los mojará en la sangre de la avecilla muerta y en las aguas corrientes, y rociará la casa siete veces."
+    },
+    {
+      "verse": 52,
+      "label": "52",
+      "char_start": 7046,
+      "char_end": 7187,
+      "text": "Y purificará la casa con la sangre de la avecilla, con las aguas corrientes, con la avecilla viva, la madera de cedro, el hisopo y la grana."
+    },
+    {
+      "verse": 53,
+      "label": "53",
+      "char_start": 7187,
+      "char_end": 7308,
+      "text": "Luego soltará la avecilla viva fuera de la ciudad sobre la faz del campo. Así hará expiación por la casa, y será limpia."
+    },
+    {
+      "verse": 54,
+      "label": "54",
+      "char_start": 7308,
+      "char_end": 7364,
+      "text": "Ésta es la ley acerca de toda plaga de lepra y de tiña,"
+    },
+    {
+      "verse": 55,
+      "label": "55",
+      "char_start": 7364,
+      "char_end": 7405,
+      "text": "y de la lepra del vestido, y de la casa,"
+    },
+    {
+      "verse": 56,
+      "label": "56",
+      "char_start": 7405,
+      "char_end": 7472,
+      "text": "y acerca de la hinchazón, y de la erupción, y de la mancha blanca,"
+    },
+    {
+      "verse": 57,
+      "label": "57",
+      "char_start": 7472,
+      "char_end": 7556,
+      "text": "para enseñar cuándo es inmundo, y cuándo limpio. ésta es la ley tocante a la lepra."
+    }
+  ],
+  "words": [
+    {
+      "word": "Y habló Jehová a Moisés, diciendo: Ésta será la ley para el leproso cuando se limpiare: Será traído al sacerdote, y éste saldrá fuera del campamento y lo examinará; y si ve que está sana la plaga de la lepra del leproso, el sacerdote mandará luego que se tomen para el que se purifica dos avecillas vivas, limpias, y madera de cedro, grana e hisopo.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 21175,
+      "duration_ms": 21075
+    },
+    {
+      "word": "Y mandará el sacerdote matar una avecilla en un vaso de barro sobre aguas corrientes.",
+      "verse": 5,
+      "start_ms": 21175,
+      "end_ms": 26725,
+      "duration_ms": 5550
+    },
+    {
+      "word": "Después tomará la avecilla viva, el cedro, la grana y el hisopo, y los mojará con la avecilla viva en la sangre de la avecilla muerta sobre las aguas corrientes; y rociará siete veces sobre el que se purifica de la lepra, y le declarará limpio; y soltará la avecilla viva en el campo.",
+      "verse": 6,
+      "start_ms": 26725,
+      "end_ms": 43475,
+      "duration_ms": 16750
+    },
+    {
+      "word": "Y el que se purifica lavará sus vestidos, y raerá todo su pelo, y se lavará con agua, y será limpio; y después entrará en el campamento, y morará fuera de su tienda siete días.",
+      "verse": 8,
+      "start_ms": 43475,
+      "end_ms": 55087,
+      "duration_ms": 11612
+    },
+    {
+      "word": "Y el séptimo día raerá todo el pelo de su cabeza, su barba y las cejas de sus ojos y todo su pelo, y lavará sus vestidos, y lavará su cuerpo en agua, y será limpio.",
+      "verse": 9,
+      "start_ms": 55087,
+      "end_ms": 65799,
+      "duration_ms": 10712
+    },
+    {
+      "word": "El día octavo tomará dos corderos sin defecto, y una cordera de un año sin tacha, y tres décimas de efa de flor de harina para ofrenda amasada con aceite, y un log de aceite.",
+      "verse": 10,
+      "start_ms": 65800,
+      "end_ms": 76537,
+      "duration_ms": 10737
+    },
+    {
+      "word": "Y el sacerdote que le purifica presentará delante de Jehová al que se ha de limpiar, con aquellas cosas, a la puerta del tabernáculo de reunión; y tomará el sacerdote un cordero y lo ofrecerá por la culpa, con el log de aceite, y lo mecerá como ofrenda mecida delante de Jehová.",
+      "verse": 11,
+      "start_ms": 76537,
+      "end_ms": 92587,
+      "duration_ms": 16050
+    },
+    {
+      "word": "Y degollará el cordero en el lugar donde se degüella el sacrificio por el pecado y el holocausto, en el lugar del santuario; porque como la víctima por el pecado, así también la víctima por la culpa es del sacerdote; es cosa muy sagrada.",
+      "verse": 13,
+      "start_ms": 92587,
+      "end_ms": 105999,
+      "duration_ms": 13412
+    },
+    {
+      "word": "Y el sacerdote tomará de la sangre de la víctima por la culpa, y la pondrá el sacerdote sobre el lóbulo de la oreja derecha del que se purifica, sobre el pulgar de su mano derecha y sobre el pulgar de su pie derecho.",
+      "verse": 14,
+      "start_ms": 106000,
+      "end_ms": 117762,
+      "duration_ms": 11762
+    },
+    {
+      "word": "Asimismo el sacerdote tomará del log de aceite, y lo echará sobre la palma de su mano izquierda, y mojará su dedo derecho en el aceite que tiene en su mano izquierda, y esparcirá del aceite con su dedo siete veces delante de Jehová.",
+      "verse": 15,
+      "start_ms": 117762,
+      "end_ms": 131074,
+      "duration_ms": 13312
+    },
+    {
+      "word": "Y de lo que quedare del aceite que tiene en su mano, pondrá el sacerdote sobre el lóbulo de la oreja derecha del que se purifica, sobre el pulgar de su mano derecha y sobre el pulgar de su pie derecho, encima de la sangre del sacrificio por la culpa.",
+      "verse": 17,
+      "start_ms": 131075,
+      "end_ms": 144650,
+      "duration_ms": 13575
+    },
+    {
+      "word": "Y lo que quedare del aceite que tiene en su mano, lo pondrá sobre la cabeza del que se purifica; y hará el sacerdote expiación por él delante de Jehová.",
+      "verse": 18,
+      "start_ms": 144650,
+      "end_ms": 153075,
+      "duration_ms": 8425
+    },
+    {
+      "word": "Ofrecerá luego el sacerdote el sacrificio por el pecado, y hará expiación por el que se ha de purificar de su inmundicia; y después degollará el holocausto, y hará subir el sacerdote el holocausto y la ofrenda sobre el altar.",
+      "verse": 19,
+      "start_ms": 153075,
+      "end_ms": 165787,
+      "duration_ms": 12712
+    },
+    {
+      "word": "Así hará el sacerdote expiación por él, y será limpio.",
+      "verse": 20,
+      "start_ms": 165787,
+      "end_ms": 169749,
+      "duration_ms": 3962
+    },
+    {
+      "word": "Mas si fuere pobre, y no tuviere para tanto, entonces tomará un cordero para ser ofrecido como ofrenda mecida por la culpa, para reconciliarse, y una décima de efa de flor de harina amasada con aceite para ofrenda, y un log de aceite, y dos tórtolas o dos palominos, según pueda; uno será para expiación por el pecado, y el otro para holocausto.",
+      "verse": 21,
+      "start_ms": 169750,
+      "end_ms": 190437,
+      "duration_ms": 20687
+    },
+    {
+      "word": "Al octavo día de su purificación traerá estas cosas al sacerdote, a la puerta del tabernáculo de reunión, delante de Jehová.",
+      "verse": 23,
+      "start_ms": 190437,
+      "end_ms": 198324,
+      "duration_ms": 7887
+    },
+    {
+      "word": "Y el sacerdote tomará el cordero de la expiación por la culpa, y el log de aceite, y los mecerá el sacerdote como ofrenda mecida delante de Jehová.",
+      "verse": 24,
+      "start_ms": 198325,
+      "end_ms": 206862,
+      "duration_ms": 8537
+    },
+    {
+      "word": "Luego degollará el cordero de la culpa, y el sacerdote tomará de la sangre de la culpa, y la pondrá sobre el lóbulo de la oreja derecha del que se purifica, sobre el pulgar de su mano derecha y sobre el pulgar de su pie derecho.",
+      "verse": 25,
+      "start_ms": 206862,
+      "end_ms": 219437,
+      "duration_ms": 12575
+    },
+    {
+      "word": "Y el sacerdote echará del aceite sobre la palma de su mano izquierda; y con su dedo derecho el sacerdote rociará del aceite que tiene en su mano izquierda, siete veces delante de Jehová.",
+      "verse": 26,
+      "start_ms": 219437,
+      "end_ms": 230224,
+      "duration_ms": 10787
+    },
+    {
+      "word": "También el sacerdote pondrá del aceite que tiene en su mano sobre",
+      "verse": 28,
+      "start_ms": 230225,
+      "end_ms": 234550,
+      "duration_ms": 4325
+    },
+    {
+      "word": "el lóbulo de la oreja derecha del que se purifica, sobre el pulgar de su mano derecha y sobre el pulgar de su pie derecho, en el lugar de la sangre de la culpa.",
+      "verse": 28,
+      "start_ms": 234700,
+      "end_ms": 243675,
+      "duration_ms": 8975
+    },
+    {
+      "word": "Y lo que sobre del aceite que el sacerdote tiene en su mano, lo pondrá sobre la cabeza del que se purifica, para reconciliarlo delante de Jehová.",
+      "verse": 29,
+      "start_ms": 243625,
+      "end_ms": 251962,
+      "duration_ms": 8337
+    },
+    {
+      "word": "Asimismo ofrecerá una de las tórtolas o uno de los palominos, según pueda.",
+      "verse": 30,
+      "start_ms": 251962,
+      "end_ms": 257287,
+      "duration_ms": 5325
+    },
+    {
+      "word": "Uno en sacrificio de expiación por el pecado, y el otro en holocausto, además de la ofrenda; y hará el sacerdote expiación por el que se ha de purificar, delante de Jehová.",
+      "verse": 31,
+      "start_ms": 257287,
+      "end_ms": 267412,
+      "duration_ms": 10125
+    },
+    {
+      "word": "Ésta es la ley para el que hubiere tenido plaga de lepra, y no tuviere más para su purificación.",
+      "verse": 32,
+      "start_ms": 267412,
+      "end_ms": 273037,
+      "duration_ms": 5625
+    },
+    {
+      "word": "Habló también Jehová a Moisés y a Aarón, diciendo: Cuando hayáis entrado en la tierra de Canaán, la cual yo os doy en posesión, si pusiere yo plaga de lepra en alguna casa de la tierra de vuestra posesión, vendrá aquel de quien fuere la casa y dará aviso al sacerdote, diciendo: Algo como plaga ha aparecido en mi casa.",
+      "verse": 33,
+      "start_ms": 273037,
+      "end_ms": 291624,
+      "duration_ms": 18587
+    },
+    {
+      "word": "Entonces el sacerdote mandará desocupar la casa antes que entre a mirar la plaga, para que no sea contaminado todo lo que estuviere en la casa; y después el sacerdote entrará a examinarla.",
+      "verse": 36,
+      "start_ms": 291625,
+      "end_ms": 302325,
+      "duration_ms": 10700
+    },
+    {
+      "word": "Y examinará la plaga; y si se vieren manchas en las paredes de la casa, manchas verdosas o rojizas, las cuales parecieren más profundas que la superficie de la pared, el sacerdote saldrá de la casa a la puerta de ella, y cerrará la casa por siete días.",
+      "verse": 37,
+      "start_ms": 302325,
+      "end_ms": 317225,
+      "duration_ms": 14900
+    },
+    {
+      "word": "Y al séptimo día volverá el sacerdote, y la examinará; y si la plaga se hubiere extendido en las paredes de la casa, entonces mandará el sacerdote, y arrancarán las piedras en que estuviere la plaga, y las echarán fuera de la ciudad en lugar inmundo.",
+      "verse": 39,
+      "start_ms": 317225,
+      "end_ms": 331500,
+      "duration_ms": 14275
+    },
+    {
+      "word": "Y hará raspar la casa por dentro alrededor, y derramarán fuera de la ciudad, en lugar inmundo, el barro que rasparen.",
+      "verse": 41,
+      "start_ms": 331500,
+      "end_ms": 338875,
+      "duration_ms": 7375
+    },
+    {
+      "word": "Y tomarán otras piedras y las pondrán en lugar de las piedras quitadas; y tomarán otro barro y recubrirán la casa.",
+      "verse": 42,
+      "start_ms": 338875,
+      "end_ms": 345962,
+      "duration_ms": 7087
+    },
+    {
+      "word": "Y si la plaga volviere a brotar en aquella casa, después que hizo arrancar las piedras y raspar la casa, y después que fue recubierta, entonces el sacerdote entrará y la examinará; y si pareciere haberse extendido la plaga en la casa, es lepra maligna en la casa; inmunda es.",
+      "verse": 43,
+      "start_ms": 345962,
+      "end_ms": 362324,
+      "duration_ms": 16362
+    },
+    {
+      "word": "Derribará, por tanto, la tal casa, sus piedras, sus maderos y toda la mezcla de la casa; y sacarán todo fuera de la ciudad a lugar inmundo.",
+      "verse": 45,
+      "start_ms": 362325,
+      "end_ms": 372225,
+      "duration_ms": 9900
+    },
+    {
+      "word": "Y cualquiera que entrare en aquella casa durante los días en que la mandó cerrar, será inmundo hasta la noche.",
+      "verse": 46,
+      "start_ms": 372225,
+      "end_ms": 378687,
+      "duration_ms": 6462
+    },
+    {
+      "word": "Y el que durmiere en aquella casa, lavará sus vestidos; también el que comiere en la casa lavará sus vestidos.",
+      "verse": 47,
+      "start_ms": 378687,
+      "end_ms": 385799,
+      "duration_ms": 7112
+    },
+    {
+      "word": "Mas si entrare el sacerdote y la examinare, y viere que la plaga no se ha extendido en la casa después que fue recubierta, el sacerdote declarará limpia la casa, porque la plaga ha desaparecido.",
+      "verse": 48,
+      "start_ms": 385800,
+      "end_ms": 396950,
+      "duration_ms": 11150
+    },
+    {
+      "word": "Entonces tomará para limpiar la casa dos avecillas, y madera de cedro, grana e hisopo; y degollará una avecilla en una vasija de barro sobre aguas corrientes.",
+      "verse": 49,
+      "start_ms": 396950,
+      "end_ms": 407237,
+      "duration_ms": 10287
+    },
+    {
+      "word": "Y tomará el cedro, el hisopo, la grana y la avecilla viva, y los mojará en la sangre de la avecilla muerta y en las aguas corrientes, y rociará la casa siete veces.",
+      "verse": 51,
+      "start_ms": 407237,
+      "end_ms": 417624,
+      "duration_ms": 10387
+    },
+    {
+      "word": "Y purificará la casa con la sangre de la avecilla, con las aguas corrientes, con la avecilla viva, la madera de cedro, el hisopo y la grana.",
+      "verse": 52,
+      "start_ms": 417625,
+      "end_ms": 426550,
+      "duration_ms": 8925
+    },
+    {
+      "word": "Luego soltará la avecilla viva fuera de la ciudad sobre la faz del campo.",
+      "verse": 53,
+      "start_ms": 426550,
+      "end_ms": 431200,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Así hará expiación por la casa, y será limpia.",
+      "verse": 53,
+      "start_ms": 431200,
+      "end_ms": 434662,
+      "duration_ms": 3462
+    },
+    {
+      "word": "Ésta es la ley acerca de toda plaga de lepra y de tiña, y de la lepra del vestido, y de la casa, y acerca de la hinchazón, y de la erupción, y de la mancha blanca, para enseñar cuándo es inmundo, y cuándo limpio.",
+      "verse": 54,
+      "start_ms": 434662,
+      "end_ms": 447624,
+      "duration_ms": 12962
+    },
+    {
+      "word": "ésta es la ley tocante a la lepra.",
+      "verse": 57,
+      "start_ms": 447625,
+      "end_ms": 450337,
+      "duration_ms": 2712
+    }
+  ]
+}

@@ -1,0 +1,523 @@
+{
+  "book": "NUM",
+  "chapter": 32,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 42,
+  "word_count": 31,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 164,
+      "text": "Los hijos de Rubén y los hijos de Gad tenían una muy inmensa muchedumbre de ganado; y vieron la tierra de Jazer y de Galaad, y les pareció el país lugar de ganado."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 164,
+      "char_end": 311,
+      "text": "Vinieron, pues, los hijos de Gad y los hijos de Rubén, y hablaron a Moisés y al sacerdote Eleazar, y a los príncipes de la congregación, diciendo:"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 311,
+      "char_end": 376,
+      "text": "Atarot, Dibón, Jazer, Nimra, Hesbón, Eleale, Sebam, Nebo y Beón,"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 376,
+      "char_end": 491,
+      "text": "la tierra que Jehová hirió delante de la congregación de Israel, es tierra de ganado, y tus siervos tienen ganado."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 491,
+      "char_end": 618,
+      "text": "Por tanto, dijeron, si hallamos gracia en tus ojos, dése esta tierra a tus siervos en heredad, y no nos hagas pasar el Jordán."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 618,
+      "char_end": 747,
+      "text": "Y respondió Moisés a los hijos de Gad y a los hijos de Rubén: ¿Irán vuestros hermanos a la guerra, y vosotros os quedaréis aquí?"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 747,
+      "char_end": 846,
+      "text": "¿Y por qué desanimáis a los hijos de Israel, para que no pasen a la tierra que les ha dado Jehová?"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 846,
+      "char_end": 939,
+      "text": "Así hicieron vuestros padres, cuando los envié desde Cades-barnea para que viesen la tierra."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 939,
+      "char_end": 1103,
+      "text": "Subieron hasta el torrente de Escol, y después que vieron la tierra, desalentaron a los hijos de Israel para que no viniesen a la tierra que Jehová les había dado."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1103,
+      "char_end": 1161,
+      "text": "Y la ira de Jehová se encendió entonces, y juró diciendo:"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1161,
+      "char_end": 1335,
+      "text": "No verán los varones que subieron de Egipto de veinte años arriba, la tierra que prometí con juramento a Abraham, Isaac y Jacob, por cuanto no fueron perfectos en pos de mí;"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1335,
+      "char_end": 1433,
+      "text": "excepto Caleb hijo de Jefone cenezeo, y Josué hijo de Nun, que fueron perfectos en pos de Jehová."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1433,
+      "char_end": 1621,
+      "text": "Y la ira de Jehová se encendió contra Israel, y los hizo andar errantes cuarenta años por el desierto, hasta que fue acabada toda aquella generación que había hecho mal delante de Jehová."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1621,
+      "char_end": 1764,
+      "text": "Y he aquí, vosotros habéis sucedido en lugar de vuestros padres, prole de hombres pecadores, para añadir aún a la ira de Jehová contra Israel."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1764,
+      "char_end": 1878,
+      "text": "Si os volviereis de en pos de él, él volverá otra vez a dejaros en el desierto, y destruiréis a todo este pueblo."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1878,
+      "char_end": 2001,
+      "text": "Entonces ellos vinieron a Moisés y dijeron: Edificaremos aquí majadas para nuestro ganado, y ciudades para nuestros niños;"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2001,
+      "char_end": 2204,
+      "text": "y nosotros nos armaremos, e iremos con diligencia delante de los hijos de Israel, hasta que los metamos en su lugar; y nuestros niños quedarán en ciudades fortificadas a causa de los moradores del país."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2204,
+      "char_end": 2293,
+      "text": "No volveremos a nuestras casas hasta que los hijos de Israel posean cada uno su heredad."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2293,
+      "char_end": 2448,
+      "text": "Porque no tomaremos heredad con ellos al otro lado del Jordán ni adelante, por cuanto tendremos ya nuestra heredad a este otro lado del Jordán al oriente."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2448,
+      "char_end": 2552,
+      "text": "Entonces les respondió Moisés: Si lo hacéis así, si os disponéis para ir delante de Jehová a la guerra,"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2552,
+      "char_end": 2668,
+      "text": "y todos vosotros pasáis armados el Jordán delante de Jehová, hasta que haya echado a sus enemigos de delante de sí,"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2668,
+      "char_end": 2846,
+      "text": "y sea el país sojuzgado delante de Jehová; luego volveréis, y seréis libres de culpa para con Jehová, y para con Israel; y esta tierra será vuestra en heredad delante de Jehová."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2846,
+      "char_end": 2948,
+      "text": "Mas si así no lo hacéis, he aquí habréis pecado ante Jehová; y sabed que vuestro pecado os alcanzará."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2948,
+      "char_end": 3062,
+      "text": "Edificaos ciudades para vuestros niños, y majadas para vuestras ovejas, y haced lo que ha declarado vuestra boca."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3062,
+      "char_end": 3175,
+      "text": "Y hablaron los hijos de Gad y los hijos de Rubén a Moisés, diciendo: Tus siervos harán como mi señor ha mandado."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3175,
+      "char_end": 3291,
+      "text": "Nuestros niños, nuestras mujeres, nuestros ganados y todas nuestras bestias, estarán ahí en las ciudades de Galaad;"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3291,
+      "char_end": 3407,
+      "text": "y tus siervos, armados todos para la guerra, pasarán delante de Jehová a la guerra, de la manera que mi señor dice."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3407,
+      "char_end": 3552,
+      "text": "Entonces les encomendó Moisés al sacerdote Eleazar, y a Josué hijo de Nun, y a los príncipes de los padres de las tribus de los hijos de Israel."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3552,
+      "char_end": 3787,
+      "text": "Y les dijo Moisés: Si los hijos de Gad y los hijos de Rubén pasan con vosotros el Jordán, armados todos para la guerra delante de Jehová, luego que el país sea sojuzgado delante de vosotros, les daréis la tierra de Galaad en posesión;"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3787,
+      "char_end": 3891,
+      "text": "mas si no pasan armados con vosotros, entonces tendrán posesión entre vosotros, en la tierra de Canaán."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3891,
+      "char_end": 4000,
+      "text": "Y los hijos de Gad y los hijos de Rubén respondieron diciendo: Haremos lo que Jehová ha dicho a tus siervos."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4000,
+      "char_end": 4130,
+      "text": "Nosotros pasaremos armados delante de Jehová a la tierra de Canaán, y la posesión de nuestra heredad será a este lado del Jordán."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4130,
+      "char_end": 4371,
+      "text": "Así Moisés dio a los hijos de Gad, a los hijos de Rubén, y a la media tribu de Manasés hijo de José, el reino de Sehón rey amorreo y el reino de Og rey de Basán, la tierra con sus ciudades y sus territorios, las ciudades del país alrededor."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4371,
+      "char_end": 4423,
+      "text": "Y los hijos de Gad edificaron Dibón, Atarot, Aroer,"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4423,
+      "char_end": 4453,
+      "text": "Atarot-sofán, Jazer, Jogbeha,"
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4453,
+      "char_end": 4536,
+      "text": "Bet-nimra y Bet-arán, ciudades fortificadas; hicieron también majadas para ovejas."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4536,
+      "char_end": 4596,
+      "text": "Y los hijos de Rubén edificaron Hesbón, Eleale, Quiriataim,"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4596,
+      "char_end": 4693,
+      "text": "Nebo, Baal-meón (mudados los nombres) y Sibma; y pusieron nombres a las ciudades que edificaron."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4693,
+      "char_end": 4803,
+      "text": "Y los hijos de Maquir hijo de Manasés fueron a Galaad, y la tomaron, y echaron al amorreo que estaba en ella."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4803,
+      "char_end": 4873,
+      "text": "Y Moisés dio Galaad a Maquir hijo de Manasés, el cual habitó en ella."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4873,
+      "char_end": 4959,
+      "text": "También Jair hijo de Manasés fue y tomó sus aldeas, y les puso por nombre Havot-jair."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4959,
+      "char_end": 5043,
+      "text": "Asimismo Noba fue y tomó Kenat y sus aldeas, y lo llamó Noba, conforme a su nombre."
+    }
+  ],
+  "words": [
+    {
+      "word": "Los hijos de Rubén y los hijos de Gad tenían una muy inmensa muchedumbre de ganado; y vieron la tierra de Jazer y de Galaad, y les pareció el país lugar de ganado.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 9512,
+      "duration_ms": 9412
+    },
+    {
+      "word": "Vinieron, pues, los hijos de Gad y los hijos de Rubén, y hablaron a Moisés y al sacerdote Eleazar, y a los príncipes de la congregación, diciendo: Atarot, Dibón, Jazer, Nimra, Hesbón, Eleale, Sebam, Nebo y Beón, la tierra que Jehová hirió delante de la congregación de Israel, es tierra de ganado, y tus siervos tienen ganado.",
+      "verse": 2,
+      "start_ms": 9462,
+      "end_ms": 31437,
+      "duration_ms": 21975
+    },
+    {
+      "word": "Por tanto, dijeron, si hallamos gracia en tus ojos, dése esta tierra a tus siervos en heredad, y no nos hagas pasar el Jordán.",
+      "verse": 5,
+      "start_ms": 31437,
+      "end_ms": 39699,
+      "duration_ms": 8262
+    },
+    {
+      "word": "Y respondió Moisés a los hijos de Gad y a los hijos de Rubén: ¿Irán vuestros hermanos a la guerra, y vosotros os quedaréis aquí?",
+      "verse": 6,
+      "start_ms": 39700,
+      "end_ms": 47525,
+      "duration_ms": 7825
+    },
+    {
+      "word": "Y por qué desanimáis a los hijos de Israel, para que no pasen a la tierra que les ha dado Jehová?",
+      "verse": 7,
+      "start_ms": 47525,
+      "end_ms": 53537,
+      "duration_ms": 6012
+    },
+    {
+      "word": "Así hicieron vuestros padres, cuando los envié desde Cades-barnea para que viesen la tierra.",
+      "verse": 8,
+      "start_ms": 53537,
+      "end_ms": 59462,
+      "duration_ms": 5925
+    },
+    {
+      "word": "Subieron hasta el torrente de Escol, y después que vieron la tierra, desalentaron a los hijos de Israel para que no viniesen a la tierra que Jehová les había dado.",
+      "verse": 9,
+      "start_ms": 59462,
+      "end_ms": 68387,
+      "duration_ms": 8925
+    },
+    {
+      "word": "Y la ira de Jehová se encendió entonces, y juró diciendo: No verán los varones que subieron de Egipto de veinte años arriba, la tierra que prometí con juramento a Abraham, Isaac y Jacob, por cuanto no fueron perfectos en pos de mí; excepto Caleb hijo de Jefone cenezeo, y Josué hijo de Nun, que fueron perfectos en pos de Jehová.",
+      "verse": 10,
+      "start_ms": 68387,
+      "end_ms": 87737,
+      "duration_ms": 19350
+    },
+    {
+      "word": "Y la ira de Jehová se encendió contra Israel, y los hizo andar errantes cuarenta años por el desierto, hasta que fue acabada toda aquella generación que había hecho mal delante de Jehová.",
+      "verse": 13,
+      "start_ms": 87737,
+      "end_ms": 98099,
+      "duration_ms": 10362
+    },
+    {
+      "word": "Y he aquí, vosotros habéis sucedido en lugar de vuestros padres, prole de hombres pecadores, para añadir aún a la ira de Jehová contra Israel.",
+      "verse": 14,
+      "start_ms": 98100,
+      "end_ms": 107112,
+      "duration_ms": 9012
+    },
+    {
+      "word": "Si os volviereis de en pos de él, él volverá otra vez a dejaros en el desierto, y destruiréis a todo este pueblo.",
+      "verse": 15,
+      "start_ms": 107112,
+      "end_ms": 114399,
+      "duration_ms": 7287
+    },
+    {
+      "word": "Entonces ellos vinieron a Moisés y dijeron: Edificaremos aquí majadas para nuestro ganado, y ciudades para nuestros niños; y nosotros nos armaremos, e iremos con diligencia delante de los hijos de Israel, hasta que los metamos en su lugar; y nuestros niños quedarán en ciudades fortificadas a causa de los moradores del país.",
+      "verse": 16,
+      "start_ms": 114400,
+      "end_ms": 133525,
+      "duration_ms": 19125
+    },
+    {
+      "word": "No volveremos a nuestras casas hasta que los hijos de Israel posean cada uno su heredad.",
+      "verse": 18,
+      "start_ms": 133525,
+      "end_ms": 138950,
+      "duration_ms": 5425
+    },
+    {
+      "word": "Porque no tomaremos heredad con ellos al otro lado del Jordán ni adelante, por cuanto tendremos ya nuestra heredad a este otro lado del Jordán al oriente.",
+      "verse": 19,
+      "start_ms": 138950,
+      "end_ms": 147487,
+      "duration_ms": 8537
+    },
+    {
+      "word": "Entonces les respondió Moisés: Si lo hacéis así, si os disponéis para ir delante de Jehová a la guerra, y todos vosotros pasáis armados el Jordán delante de Jehová, hasta que haya echado a sus enemigos de delante de sí, y sea el país sojuzgado delante de Jehová; luego volveréis, y seréis libres de culpa para con Jehová, y para con Israel; y esta tierra será vuestra en heredad delante de Jehová.",
+      "verse": 20,
+      "start_ms": 147487,
+      "end_ms": 170724,
+      "duration_ms": 23237
+    },
+    {
+      "word": "Mas si así no lo hacéis, he aquí habréis pecado ante Jehová; y sabed que vuestro pecado os alcanzará.",
+      "verse": 23,
+      "start_ms": 170725,
+      "end_ms": 177375,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Edificaos ciudades para vuestros niños, y majadas para vuestras ovejas, y haced lo que ha declarado vuestra boca.",
+      "verse": 24,
+      "start_ms": 177375,
+      "end_ms": 184850,
+      "duration_ms": 7475
+    },
+    {
+      "word": "Y hablaron los hijos de Gad y los hijos de Rubén a Moisés, diciendo: Tus siervos harán como mi señor ha mandado.",
+      "verse": 25,
+      "start_ms": 184850,
+      "end_ms": 191875,
+      "duration_ms": 7025
+    },
+    {
+      "word": "Nuestros niños, nuestras mujeres, nuestros ganados y todas nuestras bestias, estarán ahí en las ciudades de Galaad; y tus siervos, armados todos para la guerra, pasarán delante de Jehová a la guerra, de la manera que mi señor dice.",
+      "verse": 26,
+      "start_ms": 191875,
+      "end_ms": 206287,
+      "duration_ms": 14412
+    },
+    {
+      "word": "Entonces les encomendó Moisés al sacerdote Eleazar, y a Josué hijo de Nun, y a los príncipes de los padres de las tribus de los hijos de Israel.",
+      "verse": 28,
+      "start_ms": 206287,
+      "end_ms": 214974,
+      "duration_ms": 8687
+    },
+    {
+      "word": "Y les dijo Moisés: Si los hijos de Gad y los hijos de Rubén pasan con vosotros el Jordán, armados todos para la guerra delante de Jehová, luego que el país sea sojuzgado delante de vosotros, les daréis la tierra de Galaad en posesión; mas si no pasan armados con vosotros, entonces tendrán posesión entre vosotros, en la tierra de Canaán.",
+      "verse": 29,
+      "start_ms": 214975,
+      "end_ms": 234887,
+      "duration_ms": 19912
+    },
+    {
+      "word": "Y los hijos de Gad y los hijos de Rubén respondieron diciendo: Haremos lo que Jehová ha",
+      "verse": 31,
+      "start_ms": 234887,
+      "end_ms": 240262,
+      "duration_ms": 5375
+    },
+    {
+      "word": "dicho a tus siervos.",
+      "verse": 31,
+      "start_ms": 240412,
+      "end_ms": 242574,
+      "duration_ms": 2162
+    },
+    {
+      "word": "Nosotros pasaremos armados delante de Jehová a la tierra de Canaán, y la posesión de nuestra heredad será a este lado del Jordán.",
+      "verse": 32,
+      "start_ms": 242524,
+      "end_ms": 250336,
+      "duration_ms": 7812
+    },
+    {
+      "word": "Así Moisés dio a los hijos de Gad, a los hijos de Rubén, y a la media tribu de Manasés hijo de José, el reino de Sehón rey amorreo y el reino de Og rey de Basán, la tierra con sus ciudades y sus territorios, las ciudades del país alrededor.",
+      "verse": 33,
+      "start_ms": 250337,
+      "end_ms": 264987,
+      "duration_ms": 14650
+    },
+    {
+      "word": "Y los hijos de Gad edificaron Dibón, Atarot, Aroer, Atarot-sofán, Jazer, Jogbeha, Bet-nimra y Bet-arán, ciudades fortificadas; hicieron también majadas para ovejas.",
+      "verse": 34,
+      "start_ms": 264987,
+      "end_ms": 277424,
+      "duration_ms": 12437
+    },
+    {
+      "word": "Y los hijos de Rubén edificaron Hesbón, Eleale, Quiriataim, Nebo, Baal-meón (mudados los nombres) y Sibma; y pusieron nombres a las ciudades que edificaron.",
+      "verse": 37,
+      "start_ms": 277424,
+      "end_ms": 288299,
+      "duration_ms": 10875
+    },
+    {
+      "word": "Y los hijos de Maquir hijo de Manasés fueron a Galaad, y la tomaron, y echaron al amorreo que estaba en ella.",
+      "verse": 39,
+      "start_ms": 288299,
+      "end_ms": 294911,
+      "duration_ms": 6612
+    },
+    {
+      "word": "Y Moisés dio Galaad a Maquir hijo de Manasés, el cual habitó en ella.",
+      "verse": 40,
+      "start_ms": 294912,
+      "end_ms": 299774,
+      "duration_ms": 4862
+    },
+    {
+      "word": "También Jair hijo de Manasés fue y tomó sus aldeas, y les puso por nombre Havot-jair.",
+      "verse": 41,
+      "start_ms": 299774,
+      "end_ms": 305561,
+      "duration_ms": 5787
+    },
+    {
+      "word": "Asimismo Noba fue y tomó Kenat y sus aldeas, y lo llamó Noba, conforme a su nombre.",
+      "verse": 42,
+      "start_ms": 305562,
+      "end_ms": 311537,
+      "duration_ms": 5975
+    }
+  ]
+}

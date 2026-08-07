@@ -1,0 +1,418 @@
+{
+  "book": "DEU",
+  "chapter": 12,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 32,
+  "word_count": 26,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 212,
+      "text": "Éstos son los estatutos y decretos que cuidaréis de poner por obra en la tierra que Jehová el Dios de tus padres te ha dado para que tomes posesión de ella, todos los días que vosotros viviereis sobre la tierra."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 212,
+      "char_end": 400,
+      "text": "Destruiréis enteramente todos los lugares donde las naciones que vosotros heredaréis sirvieron a sus dioses, sobre los montes altos, y sobre los collados, y debajo de todo árbol frondoso."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 400,
+      "char_end": 579,
+      "text": "Derribaréis sus altares, y quebraréis sus estatuas, y sus imágenes de Asera consumiréis con fuego; y destruiréis las esculturas de sus dioses, y raeréis su nombre de aquel lugar."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 579,
+      "char_end": 616,
+      "text": "No haréis así a Jehová vuestro Dios,"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 616,
+      "char_end": 775,
+      "text": "sino que el lugar que Jehová vuestro Dios escogiere de entre todas vuestras tribus, para poner allí su nombre para su habitación, ése buscaréis, y allá iréis."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 775,
+      "char_end": 997,
+      "text": "Y allí llevaréis vuestros holocaustos, vuestros sacrificios, vuestros diezmos, y la ofrenda elevada de vuestras manos, vuestros votos, vuestras ofrendas voluntarias, y las primicias de vuestras vacas y de vuestras ovejas;"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 997,
+      "char_end": 1171,
+      "text": "y comeréis allí delante de Jehová vuestro Dios, y os alegraréis, vosotros y vuestras familias, en toda obra de vuestras manos en la cual Jehová tu Dios te hubiere bendecido."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1171,
+      "char_end": 1259,
+      "text": "No haréis como todo lo que hacemos nosotros aquí ahora, cada uno lo que bien le parece,"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1259,
+      "char_end": 1352,
+      "text": "porque hasta ahora no habéis entrado al reposo y a la heredad que os da Jehová vuestro Dios."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1352,
+      "char_end": 1523,
+      "text": "Mas pasaréis el Jordán, y habitaréis en la tierra que Jehová vuestro Dios os hace heredar; y él os dará reposo de todos vuestros enemigos alrededor, y habitaréis seguros."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1523,
+      "char_end": 1813,
+      "text": "Y al lugar que Jehová vuestro Dios escogiere para poner en él su nombre, allí llevaréis todas las cosas que yo os mando: vuestros holocaustos, vuestros sacrificios, vuestros diezmos, las ofrendas elevadas de vuestras manos, y todo lo escogido de los votos que hubiereis prometido a Jehová."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1813,
+      "char_end": 2039,
+      "text": "Y os alegraréis delante de Jehová vuestro Dios, vosotros, vuestros hijos, vuestras hijas, vuestros siervos y vuestras siervas, y el levita que habite en vuestras poblaciones; por cuanto no tiene parte ni heredad con vosotros."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 2039,
+      "char_end": 2108,
+      "text": "Cuídate de no ofrecer tus holocaustos en cualquier lugar que vieres;"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 2108,
+      "char_end": 2243,
+      "text": "sino que en el lugar que Jehová escogiere, en una de tus tribus, allí ofrecerás tus holocaustos, y allí harás todo lo que yo te mando."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2243,
+      "char_end": 2448,
+      "text": "Con todo, podrás matar y comer carne en todas tus poblaciones conforme a tu deseo, según la bendición que Jehová tu Dios te haya dado; el inmundo y el limpio la podrá comer, como la de gacela o de ciervo."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2448,
+      "char_end": 2524,
+      "text": "Solamente que sangre no comeréis; sobre la tierra la derramaréis como agua."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2524,
+      "char_end": 2751,
+      "text": "Ni comerás en tus poblaciones el diezmo de tu grano, de tu vino o de tu aceite, ni las primicias de tus vacas, ni de tus ovejas, ni los votos que prometieres, ni las ofrendas voluntarias, ni las ofrendas elevadas de tus manos;"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2751,
+      "char_end": 3004,
+      "text": "sino que delante de Jehová tu Dios las comerás, en el lugar que Jehová tu Dios hubiere escogido, tú, tu hijo, tu hija, tu siervo, tu sierva, y el levita que habita en tus poblaciones; te alegrarás delante de Jehová tu Dios de toda la obra de tus manos."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 3004,
+      "char_end": 3078,
+      "text": "Ten cuidado de no desamparar al levita en todos tus días sobre la tierra."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 3078,
+      "char_end": 3241,
+      "text": "Cuando Jehová tu Dios ensanchare tu territorio, como él te ha dicho, y tú dijeres: Comeré carne, porque deseaste comerla, conforme a lo que deseaste podrás comer."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 3241,
+      "char_end": 3477,
+      "text": "Si estuviere lejos de ti el lugar que Jehová tu Dios escogiere para poner allí su nombre, podrás matar de tus vacas y de tus ovejas que Jehová te hubiere dado, como te he mandado yo, y comerás en tus puertas según todo lo que deseares."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3477,
+      "char_end": 3597,
+      "text": "Lo mismo que se come la gacela y el ciervo, así las podrás comer; el inmundo y el limpio podrán comer también de ellas."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3597,
+      "char_end": 3725,
+      "text": "Solamente que te mantengas firme en no comer sangre; porque la sangre es la vida, y no comerás la vida juntamente con su carne."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3725,
+      "char_end": 3775,
+      "text": "No la comerás; en tierra la derramarás como agua."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3775,
+      "char_end": 3901,
+      "text": "No comerás de ella, para que te vaya bien a ti y a tus hijos después de ti, cuando hicieres lo recto ante los ojos de Jehová."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3901,
+      "char_end": 4025,
+      "text": "Pero las cosas que hubieres consagrado, y tus votos, las tomarás, y vendrás con ellas al lugar que Jehová hubiere escogido;"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 4025,
+      "char_end": 4215,
+      "text": "y ofrecerás tus holocaustos, la carne y la sangre, sobre el altar de Jehová tu Dios; y la sangre de tus sacrificios será derramada sobre el altar de Jehová tu Dios, y podrás comer la carne."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 4215,
+      "char_end": 4434,
+      "text": "Guarda y escucha todas estas palabras que yo te mando, para que haciendo lo bueno y lo recto ante los ojos de Jehová tu Dios, te vaya bien a ti y a tus hijos después de ti para siempre. Advertencias contra la idolatría"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 4434,
+      "char_end": 4567,
+      "text": "Cuando Jehová tu Dios haya destruido delante de ti las naciones adonde tú vas para poseerlas, y las heredes, y habites en su tierra,"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4567,
+      "char_end": 4785,
+      "text": "guárdate que no tropieces yendo en pos de ellas, después que sean destruidas delante de ti; no preguntes acerca de sus dioses, diciendo: De la manera que servían aquellas naciones a sus dioses, yo también les serviré."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4785,
+      "char_end": 4964,
+      "text": "No harás así a Jehová tu Dios; porque toda cosa abominable que Jehová aborrece, hicieron ellos a sus dioses; pues aun a sus hijos y a sus hijas quemaban en el fuego a sus dioses."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4964,
+      "char_end": 5048,
+      "text": "Cuidarás de hacer todo lo que yo te mando; no añadirás a ello, ni de ello quitarás."
+    }
+  ],
+  "words": [
+    {
+      "word": "Éstos son los estatutos y decretos que cuidaréis de poner por obra en la tierra que Jehová el Dios de tus padres te ha dado para que tomes posesión de ella, todos los días que vosotros viviereis sobre la tierra.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 11050,
+      "duration_ms": 10950
+    },
+    {
+      "word": "Destruiréis enteramente todos los lugares donde las naciones que vosotros heredaréis sirvieron a sus dioses, sobre los montes altos, y sobre los collados, y debajo de todo árbol frondoso.",
+      "verse": 2,
+      "start_ms": 11000,
+      "end_ms": 22150,
+      "duration_ms": 11150
+    },
+    {
+      "word": "Derribaréis sus altares, y quebraréis sus estatuas, y sus imágenes de Asera consumiréis con fuego; y destruiréis las esculturas de sus dioses, y raeréis su nombre de aquel lugar.",
+      "verse": 3,
+      "start_ms": 22150,
+      "end_ms": 33025,
+      "duration_ms": 10875
+    },
+    {
+      "word": "No haréis así a Jehová vuestro Dios, sino que el lugar que Jehová vuestro Dios escogiere de entre todas vuestras tribus, para poner allí su nombre para su habitación, ése buscaréis, y allá iréis.",
+      "verse": 4,
+      "start_ms": 33025,
+      "end_ms": 44837,
+      "duration_ms": 11812
+    },
+    {
+      "word": "Y allí llevaréis vuestros holocaustos, vuestros sacrificios, vuestros diezmos, y la ofrenda elevada de vuestras manos, vuestros votos, vuestras ofrendas voluntarias, y las primicias de vuestras vacas y de vuestras ovejas; y comeréis allí delante de Jehová vuestro Dios, y os alegraréis, vosotros y vuestras familias, en toda obra de vuestras manos en la cual Jehová tu Dios te hubiere bendecido.",
+      "verse": 6,
+      "start_ms": 44837,
+      "end_ms": 68249,
+      "duration_ms": 23412
+    },
+    {
+      "word": "No haréis como todo lo que hacemos nosotros aquí ahora, cada uno lo que bien le parece, porque hasta ahora no habéis entrado al reposo y a la heredad que os da Jehová vuestro Dios.",
+      "verse": 8,
+      "start_ms": 68250,
+      "end_ms": 78200,
+      "duration_ms": 9950
+    },
+    {
+      "word": "Mas pasaréis el Jordán, y habitaréis en la tierra que Jehová vuestro Dios os hace heredar; y él os dará reposo de todos vuestros enemigos alrededor, y habitaréis seguros.",
+      "verse": 10,
+      "start_ms": 78200,
+      "end_ms": 88750,
+      "duration_ms": 10550
+    },
+    {
+      "word": "Y al lugar que Jehová vuestro Dios escogiere para poner en él su nombre, allí llevaréis todas las cosas que yo os mando: vuestros holocaustos, vuestros sacrificios, vuestros diezmos, las ofrendas elevadas de vuestras manos, y todo lo escogido de los votos que hubiereis prometido a Jehová.",
+      "verse": 11,
+      "start_ms": 88750,
+      "end_ms": 105312,
+      "duration_ms": 16562
+    },
+    {
+      "word": "Y os alegraréis delante de Jehová vuestro Dios, vosotros, vuestros hijos, vuestras hijas, vuestros siervos y vuestras siervas, y el levita que habite en vuestras poblaciones; por cuanto no tiene parte ni heredad con vosotros.",
+      "verse": 12,
+      "start_ms": 105312,
+      "end_ms": 119237,
+      "duration_ms": 13925
+    },
+    {
+      "word": "Cuídate de no ofrecer tus holocaustos en cualquier lugar que vieres; sino que en el lugar que Jehová escogiere, en una de tus tribus, allí ofrecerás tus holocaustos, y allí harás todo lo que yo te mando.",
+      "verse": 13,
+      "start_ms": 119237,
+      "end_ms": 131312,
+      "duration_ms": 12075
+    },
+    {
+      "word": "Con todo, podrás matar y comer carne en todas tus poblaciones conforme a tu deseo, según la bendición que Jehová tu Dios te haya dado; el inmundo y el limpio la podrá comer, como la de gacela o de ciervo.",
+      "verse": 15,
+      "start_ms": 131312,
+      "end_ms": 143599,
+      "duration_ms": 12287
+    },
+    {
+      "word": "Solamente que sangre no comeréis; sobre la tierra la derramaréis como agua.",
+      "verse": 16,
+      "start_ms": 143600,
+      "end_ms": 148825,
+      "duration_ms": 5225
+    },
+    {
+      "word": "Ni comerás en tus poblaciones el diezmo de tu grano, de tu vino o de tu aceite, ni las primicias de tus vacas, ni de tus ovejas, ni los votos que prometieres, ni las ofrendas voluntarias, ni las ofrendas elevadas de tus manos; sino que delante de Jehová tu Dios las comerás, en el lugar que Jehová tu Dios hubiere escogido, tú, tu hijo, tu hija, tu siervo, tu sierva, y el levita que habita en tus poblaciones; te alegrarás delante de Jehová tu Dios de toda la obra de tus manos.",
+      "verse": 17,
+      "start_ms": 148825,
+      "end_ms": 177550,
+      "duration_ms": 28725
+    },
+    {
+      "word": "Ten cuidado de no desamparar al levita en todos tus días sobre la tierra.",
+      "verse": 19,
+      "start_ms": 177550,
+      "end_ms": 182287,
+      "duration_ms": 4737
+    },
+    {
+      "word": "Cuando Jehová tu Dios ensanchare tu territorio, como él te ha dicho, y tú dijeres: Comeré carne, porque deseaste comerla, conforme a lo que deseaste podrás comer.",
+      "verse": 20,
+      "start_ms": 182287,
+      "end_ms": 192687,
+      "duration_ms": 10400
+    },
+    {
+      "word": "Si estuviere lejos de ti el lugar que Jehová tu Dios escogiere para poner allí su nombre, podrás matar de tus vacas y de tus ovejas que Jehová te hubiere dado, como te he mandado yo, y comerás en tus puertas según todo lo que deseares.",
+      "verse": 21,
+      "start_ms": 192687,
+      "end_ms": 205937,
+      "duration_ms": 13250
+    },
+    {
+      "word": "Lo mismo que se come la gacela y el ciervo, así las podrás comer; el inmundo y el limpio podrán comer también de ellas.",
+      "verse": 22,
+      "start_ms": 205937,
+      "end_ms": 213812,
+      "duration_ms": 7875
+    },
+    {
+      "word": "Solamente que te mantengas firme en no comer sangre; porque la sangre es la vida, y no comerás la vida juntamente con su carne.",
+      "verse": 23,
+      "start_ms": 213812,
+      "end_ms": 221787,
+      "duration_ms": 7975
+    },
+    {
+      "word": "No la comerás; en tierra la derramarás como agua.",
+      "verse": 24,
+      "start_ms": 221787,
+      "end_ms": 225712,
+      "duration_ms": 3925
+    },
+    {
+      "word": "No comerás de ella, para que te vaya bien a ti y a tus hijos después de ti, cuando hicieres lo recto ante los ojos de Jehová.",
+      "verse": 25,
+      "start_ms": 225712,
+      "end_ms": 232999,
+      "duration_ms": 7287
+    },
+    {
+      "word": "Pero las cosas que hubieres consagrado, y tus votos, las tomarás, y vendrás con ellas al lugar que",
+      "verse": 26,
+      "start_ms": 233000,
+      "end_ms": 239675,
+      "duration_ms": 6675
+    },
+    {
+      "word": "Jehová hubiere escogido; y ofrecerás tus holocaustos, la carne y la sangre, sobre el altar de Jehová tu Dios; y la sangre de tus sacrificios será derramada sobre el altar de Jehová tu Dios, y podrás comer la carne.",
+      "verse": 26,
+      "start_ms": 239836,
+      "end_ms": 253136,
+      "duration_ms": 13300
+    },
+    {
+      "word": "Guarda y escucha todas estas palabras que yo te mando, para que haciendo lo bueno y lo recto ante los ojos de Jehová tu Dios, te vaya bien a ti y a tus hijos después de ti para siempre.",
+      "verse": 28,
+      "start_ms": 253086,
+      "end_ms": 263211,
+      "duration_ms": 10125
+    },
+    {
+      "word": "Advertencias contra la idolatría Cuando Jehová tu Dios haya destruido delante de ti las naciones adonde tú vas para poseerlas, y las heredes, y habites en su tierra, guárdate que no tropieces yendo en pos de ellas, después que sean destruidas delante de ti; no preguntes acerca de sus dioses, diciendo: De la manera que servían aquellas naciones a sus dioses, yo también les serviré.",
+      "verse": 28,
+      "start_ms": 263211,
+      "end_ms": 285473,
+      "duration_ms": 22262
+    },
+    {
+      "word": "No harás así a Jehová tu Dios; porque toda cosa abominable que Jehová aborrece, hicieron ellos a sus dioses; pues aun a sus hijos y a sus hijas quemaban en el fuego a sus dioses.",
+      "verse": 31,
+      "start_ms": 285473,
+      "end_ms": 296298,
+      "duration_ms": 10825
+    },
+    {
+      "word": "Cuidarás de hacer todo lo que yo te mando; no añadirás a ello, ni de ello quitarás.",
+      "verse": 32,
+      "start_ms": 296298,
+      "end_ms": 302235,
+      "duration_ms": 5937
+    }
+  ]
+}

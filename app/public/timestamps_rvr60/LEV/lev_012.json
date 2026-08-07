@@ -1,0 +1,117 @@
+{
+  "book": "LEV",
+  "chapter": 12,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 8,
+  "word_count": 7,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 33,
+      "text": "Habló Jehová a Moisés, diciendo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 33,
+      "char_end": 190,
+      "text": "Habla a los hijos de Israel y diles: La mujer cuando conciba y dé a luz varón, será inmunda siete días; conforme a los días de su menstruación será inmunda."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 190,
+      "char_end": 231,
+      "text": "Y al octavo día se circuncidará al niño."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 231,
+      "char_end": 408,
+      "text": "Mas ella permanecerá treinta y tres días purificándose de su sangre; ninguna cosa santa tocará, ni vendrá al santuario, hasta cuando sean cumplidos los días de su purificación."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 408,
+      "char_end": 540,
+      "text": "Y si diere a luz hija, será inmunda dos semanas, conforme a su separación, y sesenta y seis días estará purificándose de su sangre."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 540,
+      "char_end": 757,
+      "text": "Cuando los días de su purificación fueren cumplidos, por hijo o por hija, traerá un cordero de un año para holocausto, y un palomino o una tórtola para expiación, a la puerta del tabernáculo de reunión, al sacerdote;"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 757,
+      "char_end": 911,
+      "text": "y él los ofrecerá delante de Jehová, y hará expiación por ella, y será limpia del flujo de su sangre. ésta es la ley para la que diere a luz hijo o hija."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 911,
+      "char_end": 1100,
+      "text": "Y si no tiene lo suficiente para un cordero, tomará entonces dos tórtolas o dos palominos, uno para holocausto y otro para expiación; y el sacerdote hará expiación por ella, y será limpia."
+    }
+  ],
+  "words": [
+    {
+      "word": "Habló Jehová a Moisés, diciendo: Habla a los hijos de Israel y diles: La mujer cuando conciba y dé a luz varón, será inmunda siete días; conforme a los días de su menstruación será inmunda.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 12337,
+      "duration_ms": 12237
+    },
+    {
+      "word": "Y al octavo día se circuncidará al niño.",
+      "verse": 3,
+      "start_ms": 12287,
+      "end_ms": 15574,
+      "duration_ms": 3287
+    },
+    {
+      "word": "Mas ella permanecerá treinta y tres días purificándose de su sangre; ninguna cosa santa tocará, ni vendrá al santuario, hasta cuando sean cumplidos los días de su purificación.",
+      "verse": 4,
+      "start_ms": 15575,
+      "end_ms": 26312,
+      "duration_ms": 10737
+    },
+    {
+      "word": "Y si diere a luz hija, será inmunda dos semanas, conforme a su separación, y sesenta y seis días estará purificándose de su sangre.",
+      "verse": 5,
+      "start_ms": 26312,
+      "end_ms": 34724,
+      "duration_ms": 8412
+    },
+    {
+      "word": "Cuando los días de su purificación fueren cumplidos, por hijo o por hija, traerá un cordero de un año para holocausto, y un palomino o una tórtola para expiación, a la puerta del tabernáculo de reunión, al sacerdote; y él los ofrecerá delante de Jehová, y hará expiación por ella, y será limpia del flujo de su sangre.",
+      "verse": 6,
+      "start_ms": 34725,
+      "end_ms": 53712,
+      "duration_ms": 18987
+    },
+    {
+      "word": "ésta es la ley para la que diere a luz hijo o hija.",
+      "verse": 7,
+      "start_ms": 53712,
+      "end_ms": 57162,
+      "duration_ms": 3450
+    },
+    {
+      "word": "Y si no tiene lo suficiente para un cordero, tomará entonces dos tórtolas o dos palominos, uno para holocausto y otro para expiación; y el sacerdote hará expiación por ella, y será limpia.",
+      "verse": 8,
+      "start_ms": 57162,
+      "end_ms": 68624,
+      "duration_ms": 11462
+    }
+  ]
+}

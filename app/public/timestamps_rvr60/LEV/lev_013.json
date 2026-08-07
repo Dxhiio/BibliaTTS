@@ -1,0 +1,761 @@
+{
+  "book": "LEV",
+  "chapter": 13,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 59,
+  "word_count": 48,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 43,
+      "text": "Habló Jehová a Moisés y a Aarón, diciendo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 43,
+      "char_end": 257,
+      "text": "Cuando el hombre tuviere en la piel de su cuerpo hinchazón, o erupción, o mancha blanca, y hubiere en la piel de su cuerpo como llaga de lepra, será traído a Aarón el sacerdote o a uno de sus hijos los sacerdotes."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 257,
+      "char_end": 487,
+      "text": "Y el sacerdote mirará la llaga en la piel del cuerpo; si el pelo en la llaga se ha vuelto blanco, y pareciere la llaga más profunda que la piel de la carne, llaga de lepra es; y el sacerdote le reconocerá, y le declarará inmundo."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 487,
+      "char_end": 683,
+      "text": "Y si en la piel de su cuerpo hubiere mancha blanca, pero que no pareciere más profunda que la piel, ni el pelo se hubiere vuelto blanco, entonces el sacerdote encerrará al llagado por siete días."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 683,
+      "char_end": 867,
+      "text": "Y al séptimo día el sacerdote lo mirará; y si la llaga conserva el mismo aspecto, no habiéndose extendido en la piel, entonces el sacerdote le volverá a encerrar por otros siete días."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 867,
+      "char_end": 1089,
+      "text": "Y al séptimo día el sacerdote le reconocerá de nuevo; y si parece haberse oscurecido la llaga, y que no ha cundido en la piel, entonces el sacerdote lo declarará limpio: era erupción; y lavará sus vestidos, y será limpio."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 1089,
+      "char_end": 1229,
+      "text": "Pero si se extendiere la erupción en la piel después que él se mostró al sacerdote para ser limpio, deberá mostrarse otra vez al sacerdote."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1229,
+      "char_end": 1341,
+      "text": "Y si reconociéndolo el sacerdote ve que la erupción se ha extendido en la piel, lo declarará inmundo: es lepra."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1341,
+      "char_end": 1411,
+      "text": "Cuando hubiere llaga de lepra en el hombre, será traído al sacerdote."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1411,
+      "char_end": 1547,
+      "text": "Y éste lo mirará, y si apareciere tumor blanco en la piel, el cual haya mudado el color del pelo, y se descubre asimismo la carne viva,"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1547,
+      "char_end": 1664,
+      "text": "es lepra crónica en la piel de su cuerpo; y le declarará inmundo el sacerdote, y no le encerrará, porque es inmundo."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1664,
+      "char_end": 1825,
+      "text": "Mas si brotare la lepra cundiendo por la piel, de modo que cubriere toda la piel del llagado desde la cabeza hasta sus pies, hasta donde pueda ver el sacerdote,"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1825,
+      "char_end": 1977,
+      "text": "entonces éste le reconocerá; y si la lepra hubiere cubierto todo su cuerpo, declarará limpio al llagado; toda ella se ha vuelto blanca, y él es limpio."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1977,
+      "char_end": 2038,
+      "text": "Mas el día que apareciere en él la carne viva, será inmundo."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2038,
+      "char_end": 2135,
+      "text": "Y el sacerdote mirará la carne viva, y lo declarará inmundo. Es inmunda la carne viva; es lepra."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2135,
+      "char_end": 2221,
+      "text": "Mas cuando la carne viva cambiare y se volviere blanca, entonces vendrá al sacerdote,"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2221,
+      "char_end": 2352,
+      "text": "y el sacerdote mirará; y si la llaga se hubiere vuelto blanca, el sacerdote declarará limpio al que tenía la llaga, y será limpio."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2352,
+      "char_end": 2414,
+      "text": "Y cuando en la piel de la carne hubiere divieso, y se sanare,"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2414,
+      "char_end": 2519,
+      "text": "y en el lugar del divieso hubiere una hinchazón, o una mancha blanca rojiza, será mostrado al sacerdote."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2519,
+      "char_end": 2708,
+      "text": "Y el sacerdote mirará; y si pareciere estar más profunda que la piel, y su pelo se hubiere vuelto blanco, el sacerdote lo declarará inmundo; es llaga de lepra que se originó en el divieso."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2708,
+      "char_end": 2878,
+      "text": "Y si el sacerdote la considerare, y no apareciere en ella pelo blanco, ni fuere más profunda que la piel, sino oscura, entonces el sacerdote le encerrará por siete días;"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2878,
+      "char_end": 2971,
+      "text": "y si se fuere extendiendo por la piel, entonces el sacerdote lo declarará inmundo; es llaga."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2971,
+      "char_end": 3113,
+      "text": "Pero si la mancha blanca se estuviere en su lugar, y no se hubiere extendido, es la cicatriz del divieso, y el sacerdote lo declarará limpio."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3113,
+      "char_end": 3249,
+      "text": "Asimismo cuando hubiere en la piel del cuerpo quemadura de fuego, y hubiere en lo sanado del fuego mancha blanquecina, rojiza o blanca,"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3249,
+      "char_end": 3469,
+      "text": "el sacerdote la mirará; y si el pelo se hubiere vuelto blanco en la mancha, y ésta pareciere ser más profunda que la piel, es lepra que salió en la quemadura; y el sacerdote lo declarará inmundo, por ser llaga de lepra."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3469,
+      "char_end": 3646,
+      "text": "Mas si el sacerdote la mirare, y no apareciere en la mancha pelo blanco, ni fuere más profunda que la piel, sino que estuviere oscura, le encerrará el sacerdote por siete días."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3646,
+      "char_end": 3790,
+      "text": "Y al séptimo día el sacerdote la reconocerá; y si se hubiere ido extendiendo por la piel, el sacerdote lo declarará inmundo; es llaga de lepra."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3790,
+      "char_end": 3998,
+      "text": "Pero si la mancha se estuviere en su lugar, y no se hubiere extendido en la piel, sino que estuviere oscura, es la cicatriz de la quemadura; el sacerdote lo declarará limpio, porque señal de la quemadura es."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3998,
+      "char_end": 4068,
+      "text": "Y al hombre o mujer que le saliere llaga en la cabeza, o en la barba,"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4068,
+      "char_end": 4280,
+      "text": "el sacerdote mirará la llaga; y si pareciere ser más profunda que la piel, y el pelo de ella fuere amarillento y delgado, entonces el sacerdote le declarará inmundo; es tiña, es lepra de la cabeza o de la barba."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4280,
+      "char_end": 4477,
+      "text": "Mas cuando el sacerdote hubiere mirado la llaga de la tiña, y no pareciere ser más profunda que la piel, ni hubiere en ella pelo negro, el sacerdote encerrará por siete días al llagado de la tiña;"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4477,
+      "char_end": 4653,
+      "text": "y al séptimo día el sacerdote mirará la llaga; y si la tiña no pareciere haberse extendido, ni hubiere en ella pelo amarillento, ni pareciere la tiña más profunda que la piel,"
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4653,
+      "char_end": 4789,
+      "text": "entonces le hará que se rasure, pero no rasurará el lugar afectado; y el sacerdote encerrará por otros siete días al que tiene la tiña."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4789,
+      "char_end": 4993,
+      "text": "Y al séptimo día mirará el sacerdote la tiña; y si la tiña no hubiere cundido en la piel, ni pareciere ser más profunda que la piel, el sacerdote lo declarará limpio; y lavará sus vestidos y será limpio."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4993,
+      "char_end": 5075,
+      "text": "Pero si la tiña se hubiere ido extendiendo en la piel después de su purificación,"
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 5075,
+      "char_end": 5205,
+      "text": "entonces el sacerdote la mirará; y si la tiña hubiere cundido en la piel, no busque el sacerdote el pelo amarillento; es inmundo."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 5205,
+      "char_end": 5364,
+      "text": "Mas si le pareciere que la tiña está detenida, y que ha salido en ella el pelo negro, la tiña está sanada; él está limpio, y limpio lo declarará el sacerdote."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 5364,
+      "char_end": 5459,
+      "text": "Asimismo cuando el hombre o la mujer tuviere en la piel de su cuerpo manchas, manchas blancas,"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 5459,
+      "char_end": 5612,
+      "text": "el sacerdote mirará, y si en la piel de su cuerpo aparecieren manchas blancas algo oscurecidas, es empeine que brotó en la piel; está limpia la persona."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 5612,
+      "char_end": 5680,
+      "text": "Y el hombre, cuando se le cayere el cabello, es calvo, pero limpio."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 5680,
+      "char_end": 5761,
+      "text": "Y si hacia su frente se le cayere el cabello, es calvo por delante, pero limpio."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 5761,
+      "char_end": 5881,
+      "text": "Mas cuando en la calva o en la antecalva hubiere llaga blanca rojiza, lepra es que brota en su calva o en su antecalva."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 5881,
+      "char_end": 6050,
+      "text": "Entonces el sacerdote lo mirará, y si pareciere la hinchazón de la llaga blanca rojiza en su calva o en su antecalva, como el parecer de la lepra de la piel del cuerpo,"
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 6050,
+      "char_end": 6146,
+      "text": "leproso es, es inmundo, y el sacerdote lo declarará luego inmundo; en su cabeza tiene la llaga."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 6146,
+      "char_end": 6275,
+      "text": "Y el leproso en quien hubiere llaga llevará vestidos rasgados y su cabeza descubierta, y embozado pregonará: ¡Inmundo! ¡Inmundo!"
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 6275,
+      "char_end": 6403,
+      "text": "Todo el tiempo que la llaga estuviere en él, será inmundo; estará impuro, y habitará solo; fuera del campamento será su morada."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 6403,
+      "char_end": 6483,
+      "text": "Cuando en un vestido hubiere plaga de lepra, ya sea vestido de lana, o de lino,"
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 6483,
+      "char_end": 6570,
+      "text": "o en urdimbre o en trama de lino o de lana, o en cuero, o en cualquiera obra de cuero;"
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 6570,
+      "char_end": 6736,
+      "text": "y la plaga fuere verdosa, o rojiza, en vestido o en cuero, en urdimbre o en trama, o en cualquiera obra de cuero; plaga es de lepra, y se ha de mostrar al sacerdote."
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 6736,
+      "char_end": 6812,
+      "text": "Y el sacerdote mirará la plaga, y encerrará la cosa plagada por siete días."
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 6812,
+      "char_end": 7023,
+      "text": "Y al séptimo día mirará la plaga; y si se hubiere extendido la plaga en el vestido, en la urdimbre o en la trama, en el cuero, o en cualquiera obra que se hace de cuero, lepra maligna es la plaga; inmunda será."
+    },
+    {
+      "verse": 52,
+      "label": "52",
+      "char_start": 7023,
+      "char_end": 7188,
+      "text": "Será quemado el vestido, la urdimbre o trama de lana o de lino, o cualquiera obra de cuero en que hubiere tal plaga, porque lepra maligna es; al fuego será quemada."
+    },
+    {
+      "verse": 53,
+      "label": "53",
+      "char_start": 7188,
+      "char_end": 7336,
+      "text": "Y si el sacerdote mirare, y no pareciere que la plaga se haya extendido en el vestido, en la urdimbre o en la trama, o en cualquiera obra de cuero,"
+    },
+    {
+      "verse": 54,
+      "label": "54",
+      "char_start": 7336,
+      "char_end": 7437,
+      "text": "entonces el sacerdote mandará que laven donde está la plaga, y lo encerrará otra vez por siete días."
+    },
+    {
+      "verse": 55,
+      "label": "55",
+      "char_start": 7437,
+      "char_end": 7705,
+      "text": "Y el sacerdote mirará después que la plaga fuere lavada; y si pareciere que la plaga no ha cambiado de aspecto, aunque no se haya extendido la plaga, inmunda es; la quemarás al fuego; es corrosión penetrante, esté lo raído en el derecho o en el revés de aquella cosa."
+    },
+    {
+      "verse": 56,
+      "label": "56",
+      "char_start": 7705,
+      "char_end": 7866,
+      "text": "Mas si el sacerdote la viere, y pareciere que la plaga se ha oscurecido después que fue lavada, la cortará del vestido, del cuero, de la urdimbre o de la trama."
+    },
+    {
+      "verse": 57,
+      "label": "57",
+      "char_start": 7866,
+      "char_end": 8035,
+      "text": "Y si apareciere de nuevo en el vestido, la urdimbre o trama, o en cualquiera cosa de cuero, extendiéndose en ellos, quemarás al fuego aquello en que estuviere la plaga."
+    },
+    {
+      "verse": 58,
+      "label": "58",
+      "char_start": 8035,
+      "char_end": 8197,
+      "text": "Pero el vestido, la urdimbre o la trama, o cualquiera cosa de cuero que lavares, y que se le quitare la plaga, se lavará por segunda vez, y entonces será limpia."
+    },
+    {
+      "verse": 59,
+      "label": "59",
+      "char_start": 8197,
+      "char_end": 8367,
+      "text": "Ésta es la ley para la plaga de la lepra del vestido de lana o de lino, o de urdimbre o de trama, o de cualquiera cosa de cuero, para que sea declarada limpia o inmunda."
+    }
+  ],
+  "words": [
+    {
+      "word": "Habló Jehová a Moisés y a Aarón, diciendo: Cuando el hombre tuviere en la piel de su cuerpo hinchazón, o erupción, o mancha blanca, y hubiere en la piel de su cuerpo como llaga de lepra, será traído a Aarón el sacerdote o a uno de sus hijos los sacerdotes.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 15200,
+      "duration_ms": 15100
+    },
+    {
+      "word": "Y el sacerdote mirará la llaga en la piel del cuerpo; si el pelo en la llaga se ha vuelto blanco, y pareciere la llaga más profunda que la piel de la carne, llaga de lepra es; y el sacerdote le reconocerá, y le declarará inmundo.",
+      "verse": 3,
+      "start_ms": 15200,
+      "end_ms": 28950,
+      "duration_ms": 13750
+    },
+    {
+      "word": "Y si en la piel de su cuerpo hubiere mancha blanca, pero que no pareciere más profunda que la piel, ni el pelo se hubiere vuelto blanco, entonces el sacerdote encerrará al llagado por siete días.",
+      "verse": 4,
+      "start_ms": 28950,
+      "end_ms": 40025,
+      "duration_ms": 11075
+    },
+    {
+      "word": "Y al séptimo día el sacerdote lo mirará; y si la llaga conserva el mismo aspecto, no habiéndose extendido en la piel, entonces el sacerdote le volverá a encerrar por otros siete días.",
+      "verse": 5,
+      "start_ms": 40025,
+      "end_ms": 50987,
+      "duration_ms": 10962
+    },
+    {
+      "word": "Y al séptimo día el sacerdote le reconocerá de nuevo; y si parece haberse oscurecido la llaga, y que no ha cundido en la piel, entonces el sacerdote lo declarará limpio: era erupción; y lavará sus vestidos, y será limpio.",
+      "verse": 6,
+      "start_ms": 50987,
+      "end_ms": 64837,
+      "duration_ms": 13850
+    },
+    {
+      "word": "Pero si se extendiere la erupción en la piel después que él se mostró al sacerdote para ser limpio, deberá mostrarse otra vez al sacerdote.",
+      "verse": 7,
+      "start_ms": 64837,
+      "end_ms": 72737,
+      "duration_ms": 7900
+    },
+    {
+      "word": "Y si reconociéndolo el sacerdote ve que la erupción se ha extendido en la piel, lo declarará inmundo: es lepra.",
+      "verse": 8,
+      "start_ms": 72737,
+      "end_ms": 79712,
+      "duration_ms": 6975
+    },
+    {
+      "word": "Cuando hubiere llaga de lepra en el hombre, será traído al sacerdote.",
+      "verse": 9,
+      "start_ms": 79712,
+      "end_ms": 84212,
+      "duration_ms": 4500
+    },
+    {
+      "word": "Y éste lo mirará, y si apareciere tumor blanco en la piel, el cual haya mudado el color del pelo, y se descubre asimismo la carne viva, es lepra crónica en la piel de su cuerpo; y le declarará inmundo el sacerdote, y no le encerrará, porque es inmundo.",
+      "verse": 10,
+      "start_ms": 84212,
+      "end_ms": 99687,
+      "duration_ms": 15475
+    },
+    {
+      "word": "Mas si brotare la lepra cundiendo por la piel, de modo que cubriere toda la piel del llagado desde la cabeza hasta sus pies, hasta donde pueda ver el sacerdote, entonces éste le reconocerá; y si la lepra hubiere cubierto todo su cuerpo, declarará limpio al llagado; toda ella se ha vuelto blanca, y él es limpio.",
+      "verse": 12,
+      "start_ms": 99687,
+      "end_ms": 118037,
+      "duration_ms": 18350
+    },
+    {
+      "word": "Mas el día que apareciere en él la carne viva, será inmundo.",
+      "verse": 14,
+      "start_ms": 118037,
+      "end_ms": 122337,
+      "duration_ms": 4300
+    },
+    {
+      "word": "Y el sacerdote mirará la carne viva, y lo declarará inmundo.",
+      "verse": 15,
+      "start_ms": 122337,
+      "end_ms": 126849,
+      "duration_ms": 4512
+    },
+    {
+      "word": "Es inmunda la carne viva; es lepra.",
+      "verse": 15,
+      "start_ms": 126850,
+      "end_ms": 130025,
+      "duration_ms": 3175
+    },
+    {
+      "word": "Mas cuando la carne viva cambiare y se volviere blanca, entonces vendrá al sacerdote, y el sacerdote mirará; y si la llaga se hubiere vuelto blanca, el sacerdote declarará limpio al que tenía la llaga, y será limpio.",
+      "verse": 16,
+      "start_ms": 130025,
+      "end_ms": 143025,
+      "duration_ms": 13000
+    },
+    {
+      "word": "Y cuando en la piel de la carne hubiere divieso, y se sanare, y en el lugar del divieso hubiere una hinchazón, o una mancha blanca rojiza, será mostrado al sacerdote.",
+      "verse": 18,
+      "start_ms": 143025,
+      "end_ms": 153075,
+      "duration_ms": 10050
+    },
+    {
+      "word": "Y el sacerdote mirará; y si pareciere estar más profunda que la piel, y su pelo se hubiere vuelto blanco, el sacerdote lo declarará inmundo; es llaga de lepra que se originó en el divieso.",
+      "verse": 20,
+      "start_ms": 153075,
+      "end_ms": 164312,
+      "duration_ms": 11237
+    },
+    {
+      "word": "Y si el sacerdote la considerare, y no apareciere en ella pelo blanco, ni fuere más profunda que la piel, sino oscura, entonces el sacerdote le encerrará por siete días; y si se fuere extendiendo por la piel, entonces el sacerdote lo declarará inmundo; es llaga.",
+      "verse": 21,
+      "start_ms": 164312,
+      "end_ms": 180362,
+      "duration_ms": 16050
+    },
+    {
+      "word": "Pero si la mancha blanca se estuviere en su lugar, y no se hubiere extendido, es la cicatriz del divieso, y el sacerdote lo declarará limpio.",
+      "verse": 23,
+      "start_ms": 180362,
+      "end_ms": 188899,
+      "duration_ms": 8537
+    },
+    {
+      "word": "Asimismo cuando hubiere en la piel del cuerpo quemadura de fuego, y hubiere en lo sanado del fuego mancha blanquecina, rojiza o blanca, el sacerdote la mirará; y si el pelo se hubiere vuelto blanco en la mancha, y ésta pareciere ser más profunda que la piel, es lepra que salió en la quemadura; y el sacerdote lo declarará inmundo, por ser llaga de lepra.",
+      "verse": 24,
+      "start_ms": 188900,
+      "end_ms": 208787,
+      "duration_ms": 19887
+    },
+    {
+      "word": "Mas si el sacerdote la mirare, y no apareciere en la mancha pelo blanco, ni fuere más profunda que la piel, sino que estuviere oscura, le encerrará el sacerdote por siete días.",
+      "verse": 26,
+      "start_ms": 208787,
+      "end_ms": 219249,
+      "duration_ms": 10462
+    },
+    {
+      "word": "Y al séptimo día el sacerdote la reconocerá; y si se hubiere ido extendiendo por la piel, el sacerdote lo declarará inmundo; es llaga de lepra.",
+      "verse": 27,
+      "start_ms": 219250,
+      "end_ms": 228300,
+      "duration_ms": 9050
+    },
+    {
+      "word": "Pero si la mancha se estuviere en su lugar, y no se hubiere extendido en la piel, sino que estuviere oscura, es la cicatriz de la quemadura; el sacerdote lo declarará limpio, porque señal de la quemadura es.",
+      "verse": 28,
+      "start_ms": 228300,
+      "end_ms": 240337,
+      "duration_ms": 12037
+    },
+    {
+      "word": "Y al hombre o",
+      "verse": 29,
+      "start_ms": 240337,
+      "end_ms": 242099,
+      "duration_ms": 1762
+    },
+    {
+      "word": "mujer que le saliere llaga en la cabeza, o en la barba, el sacerdote mirará la llaga; y si pareciere ser más profunda que la piel, y el pelo de ella fuere amarillento y delgado, entonces el sacerdote le declarará inmundo; es tiña, es lepra de la cabeza o de la barba.",
+      "verse": 29,
+      "start_ms": 242260,
+      "end_ms": 258360,
+      "duration_ms": 16100
+    },
+    {
+      "word": "Mas cuando el sacerdote hubiere mirado la llaga de la tiña, y no pareciere ser más profunda que la piel, ni hubiere en ella pelo negro, el sacerdote encerrará por siete días al llagado de la tiña; y al séptimo día el sacerdote mirará la llaga; y si la tiña no pareciere haberse extendido, ni hubiere en ella pelo amarillento, ni pareciere la tiña más profunda que la piel, entonces le hará que se rasure, pero no rasurará el lugar afectado; y el sacerdote encerrará por otros siete días al que tiene",
+      "verse": 31,
+      "start_ms": 258360,
+      "end_ms": 286122,
+      "duration_ms": 27762
+    },
+    {
+      "word": "la tiña.",
+      "verse": 33,
+      "start_ms": 286122,
+      "end_ms": 287722,
+      "duration_ms": 1600
+    },
+    {
+      "word": "Y al séptimo día mirará el sacerdote la tiña; y si la tiña no hubiere cundido en la piel, ni pareciere ser más profunda que la piel, el sacerdote lo declarará limpio; y lavará sus vestidos y será limpio.",
+      "verse": 34,
+      "start_ms": 287722,
+      "end_ms": 299872,
+      "duration_ms": 12150
+    },
+    {
+      "word": "Pero si la tiña se hubiere ido extendiendo en la piel después de su purificación, entonces el sacerdote la mirará; y si la tiña hubiere cundido en la piel, no busque el sacerdote el pelo amarillento; es inmundo.",
+      "verse": 35,
+      "start_ms": 299872,
+      "end_ms": 312047,
+      "duration_ms": 12175
+    },
+    {
+      "word": "Mas si le pareciere que la tiña está detenida, y que ha salido en ella el pelo negro, la tiña está sanada; él está limpio, y limpio lo declarará el sacerdote.",
+      "verse": 37,
+      "start_ms": 312047,
+      "end_ms": 321897,
+      "duration_ms": 9850
+    },
+    {
+      "word": "Asimismo cuando el hombre o la mujer tuviere en la piel de su cuerpo manchas, manchas blancas, el sacerdote mirará, y si en la piel de su cuerpo aparecieren manchas blancas algo oscurecidas, es empeine que brotó en la piel; está limpia la persona.",
+      "verse": 38,
+      "start_ms": 321897,
+      "end_ms": 336172,
+      "duration_ms": 14275
+    },
+    {
+      "word": "Y el hombre, cuando se le cayere el cabello, es calvo, pero limpio.",
+      "verse": 40,
+      "start_ms": 336172,
+      "end_ms": 341172,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Y si hacia su frente se le cayere el cabello, es calvo por delante, pero limpio.",
+      "verse": 41,
+      "start_ms": 341172,
+      "end_ms": 346559,
+      "duration_ms": 5387
+    },
+    {
+      "word": "Mas cuando en la calva o en la antecalva hubiere llaga blanca rojiza, lepra es que brota en su calva o en su antecalva.",
+      "verse": 42,
+      "start_ms": 346560,
+      "end_ms": 353435,
+      "duration_ms": 6875
+    },
+    {
+      "word": "Entonces el sacerdote lo mirará, y si pareciere la hinchazón de la llaga blanca rojiza en su calva o en su antecalva, como el parecer de la lepra de la piel del cuerpo, leproso es, es inmundo, y el sacerdote lo declarará luego inmundo; en su cabeza tiene la llaga.",
+      "verse": 43,
+      "start_ms": 353435,
+      "end_ms": 369210,
+      "duration_ms": 15775
+    },
+    {
+      "word": "Y el leproso en quien hubiere llaga llevará vestidos rasgados y su cabeza descubierta, y embozado pregonará: ¡Inmundo!",
+      "verse": 45,
+      "start_ms": 369210,
+      "end_ms": 376585,
+      "duration_ms": 7375
+    },
+    {
+      "word": "Inmundo!",
+      "verse": 45,
+      "start_ms": 376585,
+      "end_ms": 378122,
+      "duration_ms": 1537
+    },
+    {
+      "word": "Todo el tiempo que la llaga estuviere en él, será inmundo; estará impuro, y habitará solo; fuera del campamento será su morada.",
+      "verse": 46,
+      "start_ms": 378122,
+      "end_ms": 386547,
+      "duration_ms": 8425
+    },
+    {
+      "word": "Cuando en un vestido hubiere plaga de lepra, ya sea vestido de lana, o de lino, o en urdimbre o en trama de lino o de lana, o en cuero, o en cualquiera obra de cuero; y la plaga fuere verdosa, o rojiza, en vestido o en cuero, en urdimbre o en trama, o en cualquiera obra de cuero; plaga es de lepra, y se ha de mostrar al sacerdote.",
+      "verse": 47,
+      "start_ms": 386547,
+      "end_ms": 406434,
+      "duration_ms": 19887
+    },
+    {
+      "word": "Y el sacerdote mirará la plaga, y encerrará la cosa plagada por siete días.",
+      "verse": 50,
+      "start_ms": 406435,
+      "end_ms": 411910,
+      "duration_ms": 5475
+    },
+    {
+      "word": "Y al séptimo día mirará la plaga; y si se hubiere extendido la plaga en el vestido, en la urdimbre o en la trama, en el cuero, o en cualquiera obra que se hace de cuero, lepra maligna es la plaga; inmunda será.",
+      "verse": 51,
+      "start_ms": 411910,
+      "end_ms": 424622,
+      "duration_ms": 12712
+    },
+    {
+      "word": "Será quemado el vestido, la urdimbre o trama de lana o de lino, o cualquiera obra de cuero en que hubiere tal plaga, porque lepra maligna es; al fuego será quemada.",
+      "verse": 52,
+      "start_ms": 424622,
+      "end_ms": 434809,
+      "duration_ms": 10187
+    },
+    {
+      "word": "Y si el sacerdote mirare, y no pareciere que la plaga se haya extendido en el vestido, en la urdimbre o en la trama, o en cualquiera obra de cuero, entonces el sacerdote mandará que laven donde está la plaga, y lo encerrará otra vez por siete días.",
+      "verse": 53,
+      "start_ms": 434810,
+      "end_ms": 448972,
+      "duration_ms": 14162
+    },
+    {
+      "word": "Y el sacerdote mirará después que la plaga fuere lavada; y si pareciere que la plaga no ha cambiado de aspecto, aunque no se haya extendido la plaga, inmunda es; la quemarás al fuego; es corrosión penetrante, esté lo raído en el derecho o en el revés de aquella cosa.",
+      "verse": 55,
+      "start_ms": 448972,
+      "end_ms": 464897,
+      "duration_ms": 15925
+    },
+    {
+      "word": "Mas si el sacerdote la viere, y pareciere que la plaga se ha oscurecido después que fue lavada, la cortará del vestido, del cuero, de la urdimbre o de la trama.",
+      "verse": 56,
+      "start_ms": 464897,
+      "end_ms": 474334,
+      "duration_ms": 9437
+    },
+    {
+      "word": "Y si apareciere de nuevo en el vestido, la urdimbre o trama, o en cualquiera cosa de cuero, extendiéndose en ellos, quemarás al fuego aquello en que estuviere",
+      "verse": 57,
+      "start_ms": 474335,
+      "end_ms": 483960,
+      "duration_ms": 9625
+    },
+    {
+      "word": "la plaga.",
+      "verse": 57,
+      "start_ms": 484108,
+      "end_ms": 485658,
+      "duration_ms": 1550
+    },
+    {
+      "word": "Pero el vestido, la urdimbre o la trama, o cualquiera cosa de cuero que lavares, y que se le quitare la plaga, se lavará por segunda vez, y entonces será limpia.",
+      "verse": 58,
+      "start_ms": 485608,
+      "end_ms": 495645,
+      "duration_ms": 10037
+    },
+    {
+      "word": "Ésta es la ley para la plaga de la lepra del vestido de lana o de lino, o de urdimbre o de trama, o de cualquiera cosa de cuero, para que sea declarada limpia o inmunda.",
+      "verse": 59,
+      "start_ms": 495645,
+      "end_ms": 505445,
+      "duration_ms": 9800
+    }
+  ]
+}

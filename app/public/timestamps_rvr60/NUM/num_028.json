@@ -1,0 +1,397 @@
+{
+  "book": "NUM",
+  "chapter": 28,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 31,
+  "word_count": 24,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 33,
+      "text": "Habló Jehová a Moisés, diciendo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 33,
+      "char_end": 178,
+      "text": "Manda a los hijos de Israel, y diles: Mi ofrenda, mi pan con mis ofrendas encendidas en olor grato a mí, guardaréis, ofreciéndomelo a su tiempo."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 178,
+      "char_end": 318,
+      "text": "Y les dirás: ésta es la ofrenda encendida que ofreceréis a Jehová: dos corderos sin tacha de un año, cada día, será el holocausto continuo."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 318,
+      "char_end": 406,
+      "text": "Un cordero ofrecerás por la mañana, y el otro cordero ofrecerás a la caída de la tarde;"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 406,
+      "char_end": 529,
+      "text": "y la décima parte de un efa de flor de harina, amasada con un cuarto de un hin de aceite de olivas machacadas, en ofrenda."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 529,
+      "char_end": 633,
+      "text": "Es holocausto continuo, que fue ordenado en el monte Sinaí para olor grato, ofrenda encendida a Jehová."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 633,
+      "char_end": 758,
+      "text": "Y su libación, la cuarta parte de un hin con cada cordero; derramarás libación de vino superior ante Jehová en el santuario."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 758,
+      "char_end": 965,
+      "text": "Y ofrecerás el segundo cordero a la caída de la tarde; conforme a la ofrenda de la mañana y conforme a su libación ofrecerás, ofrenda encendida en olor grato a Jehová. Ofrendas mensuales y del día de reposo"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 965,
+      "char_end": 1106,
+      "text": "Mas el día de reposo, dos corderos de un año sin defecto, y dos décimas de flor de harina amasada con aceite, como ofrenda, con su libación."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1106,
+      "char_end": 1192,
+      "text": "Es el holocausto de cada día de reposo, además del holocausto continuo y su libación."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1192,
+      "char_end": 1335,
+      "text": "Al comienzo de vuestros meses ofreceréis en holocausto a Jehová dos becerros de la vacada, un carnero, y siete corderos de un año sin defecto;"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1335,
+      "char_end": 1502,
+      "text": "y tres décimas de flor de harina amasada con aceite, como ofrenda con cada becerro; y dos décimas de flor de harina amasada con aceite, como ofrenda con cada carnero;"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1502,
+      "char_end": 1652,
+      "text": "y una décima de flor de harina amasada con aceite, en ofrenda que se ofrecerá con cada cordero; holocausto de olor grato, ofrenda encendida a Jehová."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1652,
+      "char_end": 1862,
+      "text": "Y sus libaciones de vino, medio hin con cada becerro, y la tercera parte de un hin con cada carnero, y la cuarta parte de un hin con cada cordero. éste es el holocausto de cada mes por todos los meses del año."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1862,
+      "char_end": 2009,
+      "text": "Y un macho cabrío en expiación se ofrecerá a Jehová, además del holocausto continuo con su libación. Ofrendas de las fiestas solemnes (Lv 23.1–44)"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2009,
+      "char_end": 2087,
+      "text": "Pero en el mes primero, a los catorce días del mes, será la pascua de Jehová."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2087,
+      "char_end": 2185,
+      "text": "Y a los quince días de este mes, la fiesta solemne; por siete días se comerán panes sin levadura."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2185,
+      "char_end": 2255,
+      "text": "El primer día será santa convocación; ninguna obra de siervos haréis."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2255,
+      "char_end": 2403,
+      "text": "Y ofreceréis como ofrenda encendida en holocausto a Jehová, dos becerros de la vacada, y un carnero, y siete corderos de un año; serán sin defecto."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2403,
+      "char_end": 2509,
+      "text": "Y su ofrenda de harina amasada con aceite: tres décimas con cada becerro, y dos décimas con cada carnero;"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2509,
+      "char_end": 2569,
+      "text": "y con cada uno de los siete corderos ofreceréis una décima."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2569,
+      "char_end": 2622,
+      "text": "Y un macho cabrío por expiación, para reconciliaros."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2622,
+      "char_end": 2705,
+      "text": "Esto ofreceréis además del holocausto de la mañana, que es el holocausto continuo."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2705,
+      "char_end": 2872,
+      "text": "Conforme a esto ofreceréis cada uno de los siete días, vianda y ofrenda encendida en olor grato a Jehová; se ofrecerá además del holocausto continuo, con su libación."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2872,
+      "char_end": 2949,
+      "text": "Y el séptimo día tendréis santa convocación; ninguna obra de siervos haréis."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2949,
+      "char_end": 3104,
+      "text": "Además, el día de las primicias, cuando presentéis ofrenda nueva a Jehová en vuestras semanas, tendréis santa convocación; ninguna obra de siervos haréis."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3104,
+      "char_end": 3221,
+      "text": "Y ofreceréis en holocausto, en olor grato a Jehová, dos becerros de la vacada, un carnero, siete corderos de un año;"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3221,
+      "char_end": 3340,
+      "text": "y la ofrenda de ellos, flor de harina amasada con aceite, tres décimas con cada becerro, dos décimas con cada carnero,"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3340,
+      "char_end": 3389,
+      "text": "y con cada uno de los siete corderos una décima;"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3389,
+      "char_end": 3442,
+      "text": "y un macho cabrío para hacer expiación por vosotros."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3442,
+      "char_end": 3544,
+      "text": "Los ofreceréis, además del holocausto continuo con sus ofrendas, y sus libaciones; serán sin defecto."
+    }
+  ],
+  "words": [
+    {
+      "word": "Habló Jehová a Moisés, diciendo: Manda a los hijos de Israel, y diles: Mi ofrenda, mi pan con mis ofrendas encendidas en olor grato a mí, guardaréis, ofreciéndomelo a su tiempo.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 12325,
+      "duration_ms": 12225
+    },
+    {
+      "word": "Y les dirás: ésta es la ofrenda encendida que ofreceréis a Jehová: dos corderos sin tacha de un año, cada día, será el holocausto continuo.",
+      "verse": 3,
+      "start_ms": 12275,
+      "end_ms": 21375,
+      "duration_ms": 9100
+    },
+    {
+      "word": "Un cordero ofrecerás por la mañana, y el otro cordero ofrecerás a la caída de la tarde; y la décima parte de un efa de flor de harina, amasada con un cuarto de un hin de aceite de olivas machacadas, en ofrenda.",
+      "verse": 4,
+      "start_ms": 21375,
+      "end_ms": 33787,
+      "duration_ms": 12412
+    },
+    {
+      "word": "Es holocausto continuo, que fue ordenado en el monte Sinaí para olor grato, ofrenda encendida a Jehová.",
+      "verse": 6,
+      "start_ms": 33787,
+      "end_ms": 40687,
+      "duration_ms": 6900
+    },
+    {
+      "word": "Y su libación, la cuarta parte de un hin con cada cordero; derramarás libación de vino superior ante Jehová en el santuario.",
+      "verse": 7,
+      "start_ms": 40687,
+      "end_ms": 48524,
+      "duration_ms": 7837
+    },
+    {
+      "word": "Y ofrecerás el segundo cordero a la caída de la tarde; conforme a la ofrenda de la mañana y conforme a su libación ofrecerás, ofrenda encendida en olor grato a Jehová.",
+      "verse": 8,
+      "start_ms": 48525,
+      "end_ms": 58362,
+      "duration_ms": 9837
+    },
+    {
+      "word": "Ofrendas mensuales y del día de reposo Mas el día de reposo, dos corderos de un año sin defecto, y dos décimas de flor de harina amasada con aceite, como ofrenda, con su libación.",
+      "verse": 8,
+      "start_ms": 58362,
+      "end_ms": 69574,
+      "duration_ms": 11212
+    },
+    {
+      "word": "Es el holocausto de cada día de reposo, además del holocausto continuo y su libación.",
+      "verse": 10,
+      "start_ms": 69575,
+      "end_ms": 75375,
+      "duration_ms": 5800
+    },
+    {
+      "word": "Al comienzo de vuestros meses ofreceréis en holocausto a Jehová dos becerros de la vacada, un carnero, y siete corderos de un año sin defecto; y tres décimas de flor de harina amasada con aceite, como ofrenda con cada becerro; y dos décimas de flor de harina amasada con aceite, como ofrenda con cada carnero; y una décima de flor de harina amasada con aceite, en ofrenda que se ofrecerá con cada cordero; holocausto de olor grato, ofrenda encendida a Jehová.",
+      "verse": 11,
+      "start_ms": 75375,
+      "end_ms": 102562,
+      "duration_ms": 27187
+    },
+    {
+      "word": "Y sus libaciones de vino, medio hin con cada becerro, y la tercera parte de un hin con cada carnero, y la cuarta parte de un hin con cada cordero.",
+      "verse": 14,
+      "start_ms": 102562,
+      "end_ms": 111837,
+      "duration_ms": 9275
+    },
+    {
+      "word": "éste es el holocausto de cada mes por todos los meses del año.",
+      "verse": 14,
+      "start_ms": 111837,
+      "end_ms": 116187,
+      "duration_ms": 4350
+    },
+    {
+      "word": "Y un macho cabrío en expiación se ofrecerá a Jehová, además del holocausto continuo con su libación.",
+      "verse": 15,
+      "start_ms": 116187,
+      "end_ms": 122399,
+      "duration_ms": 6212
+    },
+    {
+      "word": "Ofrendas de las fiestas solemnes (Lv 23.1–44) Pero en el mes primero, a los catorce días del mes, será la pascua de Jehová.",
+      "verse": 15,
+      "start_ms": 122400,
+      "end_ms": 132512,
+      "duration_ms": 10112
+    },
+    {
+      "word": "Y a los quince días de este mes, la fiesta solemne; por siete días se comerán panes sin levadura.",
+      "verse": 17,
+      "start_ms": 132512,
+      "end_ms": 139074,
+      "duration_ms": 6562
+    },
+    {
+      "word": "El primer día será santa convocación; ninguna obra de siervos haréis.",
+      "verse": 18,
+      "start_ms": 139075,
+      "end_ms": 144137,
+      "duration_ms": 5062
+    },
+    {
+      "word": "Y ofreceréis como ofrenda encendida en holocausto a Jehová, dos becerros de la vacada, y un carnero, y siete corderos de un año; serán sin defecto.",
+      "verse": 19,
+      "start_ms": 144137,
+      "end_ms": 153637,
+      "duration_ms": 9500
+    },
+    {
+      "word": "Y su ofrenda de harina amasada con aceite: tres décimas con cada becerro, y dos décimas con cada carnero; y con cada uno de los siete corderos ofreceréis una décima.",
+      "verse": 20,
+      "start_ms": 153637,
+      "end_ms": 164149,
+      "duration_ms": 10512
+    },
+    {
+      "word": "Y un macho cabrío por expiación, para reconciliaros.",
+      "verse": 22,
+      "start_ms": 164150,
+      "end_ms": 168162,
+      "duration_ms": 4012
+    },
+    {
+      "word": "Esto ofreceréis además del holocausto de la mañana, que es el holocausto continuo.",
+      "verse": 23,
+      "start_ms": 168162,
+      "end_ms": 173449,
+      "duration_ms": 5287
+    },
+    {
+      "word": "Conforme a esto ofreceréis cada uno de los siete días, vianda y ofrenda encendida en olor grato a Jehová; se ofrecerá además del holocausto continuo, con su libación.",
+      "verse": 24,
+      "start_ms": 173450,
+      "end_ms": 183612,
+      "duration_ms": 10162
+    },
+    {
+      "word": "Y el séptimo día tendréis santa convocación; ninguna obra de siervos haréis.",
+      "verse": 25,
+      "start_ms": 183612,
+      "end_ms": 189099,
+      "duration_ms": 5487
+    },
+    {
+      "word": "Además, el día de las primicias, cuando presentéis ofrenda nueva a Jehová en vuestras semanas, tendréis santa convocación; ninguna obra de siervos haréis.",
+      "verse": 26,
+      "start_ms": 189100,
+      "end_ms": 199025,
+      "duration_ms": 9925
+    },
+    {
+      "word": "Y ofreceréis en holocausto, en olor grato a Jehová, dos becerros de la vacada, un carnero, siete corderos de un año; y la ofrenda de ellos, flor de harina amasada con aceite, tres décimas con cada becerro, dos décimas con cada carnero, y con cada uno de los siete corderos una décima; y un macho cabrío para hacer expiación por vosotros.",
+      "verse": 27,
+      "start_ms": 199025,
+      "end_ms": 220062,
+      "duration_ms": 21037
+    },
+    {
+      "word": "Los ofreceréis, además del holocausto continuo con sus ofrendas, y sus libaciones; serán sin defecto.",
+      "verse": 31,
+      "start_ms": 220062,
+      "end_ms": 227024,
+      "duration_ms": 6962
+    }
+  ]
+}

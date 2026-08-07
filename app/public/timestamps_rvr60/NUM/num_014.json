@@ -1,0 +1,607 @@
+{
+  "book": "NUM",
+  "chapter": 14,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 45,
+  "word_count": 40,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 83,
+      "text": "Entonces toda la congregación gritó, y dio voces; y el pueblo lloró aquella noche."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 83,
+      "char_end": 261,
+      "text": "Y se quejaron contra Moisés y contra Aarón todos los hijos de Israel; y les dijo toda la multitud: ¡Ojalá muriéramos en la tierra de Egipto; o en este desierto ojalá muriéramos!"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 261,
+      "char_end": 418,
+      "text": "¿Y por qué nos trae Jehová a esta tierra para caer a espada, y que nuestras mujeres y nuestros niños sean por presa? ¿No nos sería mejor volvernos a Egipto?"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 418,
+      "char_end": 489,
+      "text": "Y decían el uno al otro: Designemos un capitán, y volvámonos a Egipto."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 489,
+      "char_end": 615,
+      "text": "Entonces Moisés y Aarón se postraron sobre sus rostros delante de toda la multitud de la congregación de los hijos de Israel."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 615,
+      "char_end": 732,
+      "text": "Y Josué hijo de Nun y Caleb hijo de Jefone, que eran de los que habían reconocido la tierra, rompieron sus vestidos,"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 732,
+      "char_end": 878,
+      "text": "y hablaron a toda la congregación de los hijos de Israel, diciendo: La tierra por donde pasamos para reconocerla, es tierra en gran manera buena."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 878,
+      "char_end": 994,
+      "text": "Si Jehová se agradare de nosotros, él nos llevará a esta tierra, y nos la entregará; tierra que fluye leche y miel."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 994,
+      "char_end": 1192,
+      "text": "Por tanto, no seáis rebeldes contra Jehová, ni temáis al pueblo de esta tierra; porque nosotros los comeremos como pan; su amparo se ha apartado de ellos, y con nosotros está Jehová; no los temáis."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1192,
+      "char_end": 1333,
+      "text": "Entonces toda la multitud habló de apedrearlos. Pero la gloria de Jehová se mostró en el tabernáculo de reunión a todos los hijos de Israel,"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1333,
+      "char_end": 1484,
+      "text": "y Jehová dijo a Moisés: ¿Hasta cuándo me ha de irritar este pueblo? ¿Hasta cuándo no me creerán, con todas las señales que he hecho en medio de ellos?"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1484,
+      "char_end": 1592,
+      "text": "Yo los heriré de mortandad y los destruiré, y a ti te pondré sobre gente más grande y más fuerte que ellos."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1592,
+      "char_end": 1717,
+      "text": "Pero Moisés respondió a Jehová: Lo oirán luego los egipcios, porque de en medio de ellos sacaste a este pueblo con tu poder;"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1717,
+      "char_end": 1995,
+      "text": "y lo dirán a los habitantes de esta tierra, los cuales han oído que tú, oh Jehová, estabas en medio de este pueblo, que cara a cara aparecías tú, oh Jehová, y que tu nube estaba sobre ellos, y que de día ibas delante de ellos en columna de nube, y de noche en columna de fuego;"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1995,
+      "char_end": 2113,
+      "text": "y que has hecho morir a este pueblo como a un solo hombre; y las gentes que hubieren oído tu fama hablarán, diciendo:"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2113,
+      "char_end": 2224,
+      "text": "Por cuanto no pudo Jehová meter este pueblo en la tierra de la cual les había jurado, los mató en el desierto."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2224,
+      "char_end": 2317,
+      "text": "Ahora, pues, yo te ruego que sea magnificado el poder del Señor, como lo hablaste, diciendo:"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2317,
+      "char_end": 2555,
+      "text": "Jehová, tardo para la ira y grande en misericordia, que perdona la iniquidad y la rebelión, aunque de ningún modo tendrá por inocente al culpable; que visita la maldad de los padres sobre los hijos hasta los terceros y hasta los cuartos."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2555,
+      "char_end": 2732,
+      "text": "Perdona ahora la iniquidad de este pueblo según la grandeza de tu misericordia, y como has perdonado a este pueblo desde Egipto hasta aquí. Jehová castiga a Israel (Dt 1.34–40)"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2732,
+      "char_end": 2794,
+      "text": "Entonces Jehová dijo: Yo lo he perdonado conforme a tu dicho."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2794,
+      "char_end": 2862,
+      "text": "Mas tan ciertamente como vivo yo, y mi gloria llena toda la tierra,"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2862,
+      "char_end": 3002,
+      "text": "todos los que vieron mi gloria y mis señales que he hecho en Egipto y en el desierto, y me han tentado ya diez veces, y no han oído mi voz,"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3002,
+      "char_end": 3099,
+      "text": "no verán la tierra de la cual juré a sus padres; no, ninguno de los que me han irritado la verá."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3099,
+      "char_end": 3267,
+      "text": "Pero a mi siervo Caleb, por cuanto hubo en él otro espíritu, y decidió ir en pos de mí, yo le meteré en la tierra donde entró, y su descendencia la tendrá en posesión."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3267,
+      "char_end": 3383,
+      "text": "Ahora bien, el amalecita y el cananeo habitan en el valle; volveos mañana y salid al desierto, camino del Mar Rojo."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3383,
+      "char_end": 3428,
+      "text": "Y Jehová habló a Moisés y a Aarón, diciendo:"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3428,
+      "char_end": 3553,
+      "text": "¿Hasta cuándo oiré esta depravada multitud que murmura contra mí, las querellas de los hijos de Israel, que de mí se quejan?"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3553,
+      "char_end": 3646,
+      "text": "Diles: Vivo yo, dice Jehová, que según habéis hablado a mis oídos, así haré yo con vosotros."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3646,
+      "char_end": 3808,
+      "text": "En este desierto caerán vuestros cuerpos; todo el número de los que fueron contados de entre vosotros, de veinte años arriba, los cuales han murmurado contra mí."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3808,
+      "char_end": 3977,
+      "text": "Vosotros a la verdad no entraréis en la tierra, por la cual alcé mi mano y juré que os haría habitar en ella; exceptuando a Caleb hijo de Jefone, y a Josué hijo de Nun."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3977,
+      "char_end": 4123,
+      "text": "Pero a vuestros niños, de los cuales dijisteis que serían por presa, yo los introduciré, y ellos conocerán la tierra que vosotros despreciasteis."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4123,
+      "char_end": 4187,
+      "text": "En cuanto a vosotros, vuestros cuerpos caerán en este desierto."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4187,
+      "char_end": 4350,
+      "text": "Y vuestros hijos andarán pastoreando en el desierto cuarenta años, y ellos llevarán vuestras rebeldías, hasta que vuestros cuerpos sean consumidos en el desierto."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4350,
+      "char_end": 4527,
+      "text": "Conforme al número de los días, de los cuarenta días en que reconocisteis la tierra, llevaréis vuestras iniquidades cuarenta años, un año por cada día; y conoceréis mi castigo."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4527,
+      "char_end": 4702,
+      "text": "Yo Jehová he hablado; así haré a toda esta multitud perversa que se ha juntado contra mí; en este desierto serán consumidos, y ahí morirán. Muerte de los diez espías malvados"
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4702,
+      "char_end": 4855,
+      "text": "Y los varones que Moisés envió a reconocer la tierra, y que al volver habían hecho murmurar contra él a toda la congregación, desacreditando aquel país,"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4855,
+      "char_end": 4946,
+      "text": "aquellos varones que habían hablado mal de la tierra, murieron de plaga delante de Jehová."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4946,
+      "char_end": 5108,
+      "text": "Pero Josué hijo de Nun y Caleb hijo de Jefone quedaron con vida, de entre aquellos hombres que habían ido a reconocer la tierra. La derrota en Horma (Dt 1.41–46)"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 5108,
+      "char_end": 5192,
+      "text": "Y Moisés dijo estas cosas a todos los hijos de Israel, y el pueblo se enlutó mucho."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 5192,
+      "char_end": 5346,
+      "text": "Y se levantaron por la mañana y subieron a la cumbre del monte, diciendo: Henos aquí para subir al lugar del cual ha hablado Jehová; porque hemos pecado."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 5346,
+      "char_end": 5437,
+      "text": "Y dijo Moisés: ¿Por qué quebrantáis el mandamiento de Jehová? Esto tampoco os saldrá bien."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 5437,
+      "char_end": 5539,
+      "text": "No subáis, porque Jehová no está en medio de vosotros, no seáis heridos delante de vuestros enemigos."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 5539,
+      "char_end": 5715,
+      "text": "Porque el amalecita y el cananeo están allí delante de vosotros, y caeréis a espada; pues por cuanto os habéis negado a seguir a Jehová, por eso no estará Jehová con vosotros."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 5715,
+      "char_end": 5860,
+      "text": "Sin embargo, se obstinaron en subir a la cima del monte; pero el arca del pacto de Jehová, y Moisés, no se apartaron de en medio del campamento."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 5860,
+      "char_end": 5993,
+      "text": "Y descendieron el amalecita y el cananeo que habitaban en aquel monte, y los hirieron y los derrotaron, persiguiéndolos hasta Horma."
+    }
+  ],
+  "words": [
+    {
+      "word": "Entonces toda la congregación gritó, y dio voces; y el pueblo lloró aquella noche.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6175,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Y se quejaron contra Moisés y contra Aarón todos los hijos de Israel; y les dijo toda la multitud: ¡Ojalá muriéramos en la tierra de Egipto; o en este desierto ojalá muriéramos!",
+      "verse": 2,
+      "start_ms": 6125,
+      "end_ms": 17100,
+      "duration_ms": 10975
+    },
+    {
+      "word": "Y por qué nos trae Jehová a esta tierra para caer a espada, y que nuestras mujeres y nuestros niños sean por presa?",
+      "verse": 3,
+      "start_ms": 17100,
+      "end_ms": 24012,
+      "duration_ms": 6912
+    },
+    {
+      "word": "No nos sería mejor volvernos a Egipto?",
+      "verse": 3,
+      "start_ms": 24012,
+      "end_ms": 27062,
+      "duration_ms": 3050
+    },
+    {
+      "word": "Y decían el uno al otro: Designemos un capitán, y volvámonos a Egipto.",
+      "verse": 4,
+      "start_ms": 27062,
+      "end_ms": 32349,
+      "duration_ms": 5287
+    },
+    {
+      "word": "Entonces Moisés y Aarón se postraron sobre sus rostros delante de toda la multitud de la congregación de los hijos de Israel.",
+      "verse": 5,
+      "start_ms": 32350,
+      "end_ms": 39425,
+      "duration_ms": 7075
+    },
+    {
+      "word": "Y Josué hijo de Nun y Caleb hijo de Jefone, que eran de los que habían reconocido la tierra, rompieron sus vestidos, y hablaron a toda la congregación de los hijos de Israel, diciendo: La tierra por donde pasamos para reconocerla, es tierra en gran manera buena.",
+      "verse": 6,
+      "start_ms": 39425,
+      "end_ms": 55225,
+      "duration_ms": 15800
+    },
+    {
+      "word": "Si Jehová se agradare de nosotros, él nos llevará a esta tierra, y nos la entregará; tierra que fluye leche y miel.",
+      "verse": 8,
+      "start_ms": 55225,
+      "end_ms": 62712,
+      "duration_ms": 7487
+    },
+    {
+      "word": "Por tanto, no seáis rebeldes contra Jehová, ni temáis al pueblo de esta tierra; porque nosotros los comeremos como pan; su amparo se ha apartado de ellos, y con nosotros está Jehová; no los temáis.",
+      "verse": 9,
+      "start_ms": 62712,
+      "end_ms": 75237,
+      "duration_ms": 12525
+    },
+    {
+      "word": "Entonces toda la multitud habló de apedrearlos.",
+      "verse": 10,
+      "start_ms": 75237,
+      "end_ms": 78799,
+      "duration_ms": 3562
+    },
+    {
+      "word": "Pero la gloria de Jehová se mostró en el tabernáculo de reunión a todos los hijos de Israel, y Jehová dijo a Moisés: ¿Hasta cuándo me ha de irritar este pueblo?",
+      "verse": 10,
+      "start_ms": 78800,
+      "end_ms": 88050,
+      "duration_ms": 9250
+    },
+    {
+      "word": "Hasta cuándo no me creerán, con todas las señales que he hecho en medio de ellos?",
+      "verse": 11,
+      "start_ms": 88050,
+      "end_ms": 93300,
+      "duration_ms": 5250
+    },
+    {
+      "word": "Yo los heriré de mortandad y los destruiré, y a ti te pondré sobre gente más grande y más fuerte que ellos.",
+      "verse": 12,
+      "start_ms": 93300,
+      "end_ms": 100175,
+      "duration_ms": 6875
+    },
+    {
+      "word": "Pero Moisés respondió a Jehová: Lo oirán luego los egipcios, porque de en medio de ellos sacaste a este pueblo con tu poder; y lo dirán a los habitantes de esta tierra, los cuales han oído que tú, oh Jehová, estabas en medio de este pueblo, que cara a cara aparecías tú, oh Jehová, y que tu nube estaba sobre ellos, y que de día ibas delante de ellos en columna de nube, y de noche en columna de fuego; y que has hecho morir a este pueblo como a un solo hombre; y las gentes que hubieren oído tu",
+      "verse": 13,
+      "start_ms": 100175,
+      "end_ms": 128550,
+      "duration_ms": 28375
+    },
+    {
+      "word": "fama hablarán, diciendo: Por cuanto no pudo Jehová meter este pueblo en la tierra de la cual les había jurado, los mató en el desierto.",
+      "verse": 15,
+      "start_ms": 128550,
+      "end_ms": 136625,
+      "duration_ms": 8075
+    },
+    {
+      "word": "Ahora, pues, yo te ruego que sea magnificado el poder del Señor, como lo hablaste, diciendo: Jehová, tardo para la ira y grande en misericordia, que perdona la iniquidad y la rebelión, aunque de ningún modo tendrá por inocente al culpable; que visita la maldad de los padres sobre los hijos hasta los terceros y hasta los cuartos.",
+      "verse": 17,
+      "start_ms": 136625,
+      "end_ms": 156412,
+      "duration_ms": 19787
+    },
+    {
+      "word": "Perdona ahora la iniquidad de este pueblo según la grandeza de tu misericordia, y como has perdonado a este pueblo desde Egipto hasta aquí.",
+      "verse": 19,
+      "start_ms": 156412,
+      "end_ms": 164587,
+      "duration_ms": 8175
+    },
+    {
+      "word": "Jehová castiga a Israel (Dt 1.34–40) Entonces Jehová dijo: Yo lo he perdonado conforme a tu dicho.",
+      "verse": 19,
+      "start_ms": 164587,
+      "end_ms": 173112,
+      "duration_ms": 8525
+    },
+    {
+      "word": "Mas tan ciertamente como vivo yo, y mi gloria llena toda la tierra, todos los que vieron mi gloria y mis señales que he hecho en Egipto y en el desierto, y me han tentado ya diez veces, y no han oído mi voz, no verán la tierra de la cual juré a sus padres; no, ninguno de los que me han irritado la verá.",
+      "verse": 21,
+      "start_ms": 173112,
+      "end_ms": 191462,
+      "duration_ms": 18350
+    },
+    {
+      "word": "Pero a mi siervo Caleb, por cuanto hubo en él otro espíritu, y decidió ir en pos de mí, yo le meteré en la tierra donde entró, y su descendencia la tendrá en posesión.",
+      "verse": 24,
+      "start_ms": 191462,
+      "end_ms": 201324,
+      "duration_ms": 9862
+    },
+    {
+      "word": "Ahora bien, el amalecita y el cananeo habitan en el valle; volveos mañana y salid al desierto, camino del Mar Rojo.",
+      "verse": 25,
+      "start_ms": 201325,
+      "end_ms": 209337,
+      "duration_ms": 8012
+    },
+    {
+      "word": "Y Jehová habló a Moisés y a Aarón, diciendo: ¿Hasta cuándo oiré esta depravada multitud que murmura contra mí, las querellas de los hijos de Israel, que de mí se quejan?",
+      "verse": 26,
+      "start_ms": 209337,
+      "end_ms": 219499,
+      "duration_ms": 10162
+    },
+    {
+      "word": "Diles: Vivo yo, dice Jehová, que según habéis hablado a mis oídos, así haré yo con vosotros.",
+      "verse": 28,
+      "start_ms": 219500,
+      "end_ms": 226875,
+      "duration_ms": 7375
+    },
+    {
+      "word": "En este desierto caerán vuestros cuerpos; todo el número de los que fueron contados de entre vosotros, de veinte años arriba, los cuales han murmurado contra mí.",
+      "verse": 29,
+      "start_ms": 226875,
+      "end_ms": 236437,
+      "duration_ms": 9562
+    },
+    {
+      "word": "Vosotros a la verdad no entraréis en la tierra, por la cual alcé mi mano y juré que os haría habitar en ella; exceptuando a Caleb hijo de Jefone, y a Josué hijo de Nun.",
+      "verse": 30,
+      "start_ms": 236437,
+      "end_ms": 246437,
+      "duration_ms": 10000
+    },
+    {
+      "word": "Pero a vuestros niños, de los cuales dijisteis que serían por presa, yo los introduciré, y ellos conocerán la tierra que vosotros despreciasteis.",
+      "verse": 31,
+      "start_ms": 246604,
+      "end_ms": 255504,
+      "duration_ms": 8900
+    },
+    {
+      "word": "En cuanto a vosotros, vuestros cuerpos caerán en este desierto.",
+      "verse": 32,
+      "start_ms": 255454,
+      "end_ms": 259816,
+      "duration_ms": 4362
+    },
+    {
+      "word": "Y vuestros hijos andarán pastoreando en el desierto cuarenta años, y ellos llevarán vuestras rebeldías, hasta que vuestros cuerpos sean consumidos en el desierto.",
+      "verse": 33,
+      "start_ms": 259816,
+      "end_ms": 269116,
+      "duration_ms": 9300
+    },
+    {
+      "word": "Conforme al número de los días, de los cuarenta días en que reconocisteis la tierra, llevaréis vuestras iniquidades cuarenta años, un año por cada día; y conoceréis mi castigo.",
+      "verse": 34,
+      "start_ms": 269116,
+      "end_ms": 280066,
+      "duration_ms": 10950
+    },
+    {
+      "word": "Yo Jehová he hablado; así haré a toda esta multitud perversa que se ha juntado contra mí; en este desierto serán consumidos, y ahí morirán.",
+      "verse": 35,
+      "start_ms": 280066,
+      "end_ms": 288953,
+      "duration_ms": 8887
+    },
+    {
+      "word": "Muerte de los diez espías malvados Y los varones que Moisés envió a reconocer la tierra, y que al volver habían hecho murmurar contra él a toda la congregación, desacreditando aquel país, aquellos varones que habían hablado mal de la tierra, murieron de plaga delante de Jehová.",
+      "verse": 35,
+      "start_ms": 288954,
+      "end_ms": 304566,
+      "duration_ms": 15612
+    },
+    {
+      "word": "Pero Josué hijo de Nun y Caleb hijo de Jefone quedaron con vida, de entre aquellos hombres que habían ido a reconocer la tierra.",
+      "verse": 38,
+      "start_ms": 304566,
+      "end_ms": 311953,
+      "duration_ms": 7387
+    },
+    {
+      "word": "La derrota en Horma (Dt 1.41–46) Y Moisés dijo estas cosas a todos los hijos de Israel, y el pueblo se enlutó mucho.",
+      "verse": 38,
+      "start_ms": 311954,
+      "end_ms": 321116,
+      "duration_ms": 9162
+    },
+    {
+      "word": "Y se levantaron por la mañana y subieron a la cumbre del monte, diciendo: Henos aquí para subir al lugar del cual ha hablado Jehová; porque hemos pecado.",
+      "verse": 40,
+      "start_ms": 321116,
+      "end_ms": 330153,
+      "duration_ms": 9037
+    },
+    {
+      "word": "Y dijo Moisés: ¿Por qué quebrantáis el mandamiento de Jehová?",
+      "verse": 41,
+      "start_ms": 330154,
+      "end_ms": 334641,
+      "duration_ms": 4487
+    },
+    {
+      "word": "Esto tampoco os saldrá bien.",
+      "verse": 41,
+      "start_ms": 334641,
+      "end_ms": 337303,
+      "duration_ms": 2662
+    },
+    {
+      "word": "No subáis, porque Jehová no está en medio de vosotros, no seáis heridos delante de vuestros enemigos.",
+      "verse": 42,
+      "start_ms": 337304,
+      "end_ms": 344154,
+      "duration_ms": 6850
+    },
+    {
+      "word": "Porque el amalecita y el cananeo están allí delante de vosotros, y caeréis a espada; pues por cuanto os habéis negado a seguir a Jehová, por eso no estará Jehová con vosotros.",
+      "verse": 43,
+      "start_ms": 344154,
+      "end_ms": 354541,
+      "duration_ms": 10387
+    },
+    {
+      "word": "Sin embargo, se obstinaron en subir a la cima del monte; pero el arca del pacto de Jehová, y Moisés, no se apartaron de en medio del campamento.",
+      "verse": 44,
+      "start_ms": 354541,
+      "end_ms": 363603,
+      "duration_ms": 9062
+    },
+    {
+      "word": "Y descendieron el amalecita y el cananeo que habitaban en aquel monte, y los hirieron y los derrotaron, persiguiéndolos hasta Horma.",
+      "verse": 45,
+      "start_ms": 363604,
+      "end_ms": 371354,
+      "duration_ms": 7750
+    }
+  ]
+}

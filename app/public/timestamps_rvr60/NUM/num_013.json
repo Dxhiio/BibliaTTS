@@ -1,0 +1,460 @@
+{
+  "book": "NUM",
+  "chapter": 13,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 33,
+  "word_count": 31,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 35,
+      "text": "Y Jehová habló a Moisés, diciendo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 35,
+      "char_end": 205,
+      "text": "Envía tú hombres que reconozcan la tierra de Canaán, la cual yo doy a los hijos de Israel; de cada tribu de sus padres enviaréis un varón, cada uno príncipe entre ellos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 205,
+      "char_end": 349,
+      "text": "Y Moisés los envió desde el desierto de Parán, conforme a la palabra de Jehová; y todos aquellos varones eran príncipes de los hijos de Israel."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 349,
+      "char_end": 415,
+      "text": "Éstos son sus nombres: De la tribu de Rubén, Samúa hijo de Zacur."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 415,
+      "char_end": 458,
+      "text": "De la tribu de Simeón, Safat hijo de Horí."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 458,
+      "char_end": 501,
+      "text": "De la tribu de Judá, Caleb hijo de Jefone."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 501,
+      "char_end": 543,
+      "text": "De la tribu de Isacar, Igal hijo de José."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 543,
+      "char_end": 585,
+      "text": "De la tribu de Efraín, Oseas hijo de Nun."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 585,
+      "char_end": 630,
+      "text": "De la tribu de Benjamín, Palti hijo de Rafú."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 630,
+      "char_end": 675,
+      "text": "De la tribu de Zabulón, Gadiel hijo de Sodi."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 675,
+      "char_end": 739,
+      "text": "De la tribu de José: de la tribu de Manasés, Gadi hijo de Susi."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 739,
+      "char_end": 781,
+      "text": "De la tribu de Dan, Amiel hijo de Gemali."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 781,
+      "char_end": 824,
+      "text": "De la tribu de Aser, Setur hijo de Micael."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 824,
+      "char_end": 869,
+      "text": "De la tribu de Neftalí, Nahbi hijo de Vapsi."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 869,
+      "char_end": 910,
+      "text": "De la tribu de Gad, Geuel hijo de Maqui."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 910,
+      "char_end": 1044,
+      "text": "Éstos son los nombres de los varones que Moisés envió a reconocer la tierra; y a Oseas hijo de Nun le puso Moisés el nombre de Josué."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1044,
+      "char_end": 1157,
+      "text": "Los envió, pues, Moisés a reconocer la tierra de Canaán, diciéndoles: Subid de aquí al Neguev, y subid al monte,"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1157,
+      "char_end": 1256,
+      "text": "y observad la tierra cómo es, y el pueblo que la habita, si es fuerte o débil, si poco o numeroso;"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1256,
+      "char_end": 1381,
+      "text": "cómo es la tierra habitada, si es buena o mala; y cómo son las ciudades habitadas, si son campamentos o plazas fortificadas;"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1381,
+      "char_end": 1533,
+      "text": "y cómo es el terreno, si es fértil o estéril, si en él hay árboles o no; y esforzaos, y tomad del fruto del país. Y era el tiempo de las primeras uvas."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1533,
+      "char_end": 1633,
+      "text": "Y ellos subieron, y reconocieron la tierra desde el desierto de Zin hasta Rehob, entrando en Hamat."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1633,
+      "char_end": 1790,
+      "text": "Y subieron al Neguev y vinieron hasta Hebrón; y allí estaban Ahimán, Sesai y Talmai, hijos de Anac. Hebrón fue edificada siete años antes de Zoán en Egipto."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1790,
+      "char_end": 1949,
+      "text": "Y llegaron hasta el arroyo de Escol, y de allí cortaron un sarmiento con un racimo de uvas, el cual trajeron dos en un palo, y de las granadas y de los higos."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1949,
+      "char_end": 2047,
+      "text": "Y se llamó aquel lugar el Valle de Escol, por el racimo que cortaron de allí los hijos de Israel."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2047,
+      "char_end": 2107,
+      "text": "Y volvieron de reconocer la tierra al fin de cuarenta días."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2107,
+      "char_end": 2332,
+      "text": "Y anduvieron y vinieron a Moisés y a Aarón, y a toda la congregación de los hijos de Israel, en el desierto de Parán, en Cades, y dieron la información a ellos y a toda la congregación, y les mostraron el fruto de la tierra."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2332,
+      "char_end": 2479,
+      "text": "Y les contaron, diciendo: Nosotros llegamos a la tierra a la cual nos enviaste, la que ciertamente fluye leche y miel; y éste es el fruto de ella."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2479,
+      "char_end": 2615,
+      "text": "Mas el pueblo que habita aquella tierra es fuerte, y las ciudades muy grandes y fortificadas; y también vimos allí a los hijos de Anac."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2615,
+      "char_end": 2757,
+      "text": "Amalec habita el Neguev, y el heteo, el jebuseo y el amorreo habitan en el monte, y el cananeo habita junto al mar, y a la ribera del Jordán."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2757,
+      "char_end": 2904,
+      "text": "Entonces Caleb hizo callar al pueblo delante de Moisés, y dijo: Subamos luego, y tomemos posesión de ella; porque más podremos nosotros que ellos."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2904,
+      "char_end": 3024,
+      "text": "Mas los varones que subieron con él, dijeron: No podremos subir contra aquel pueblo, porque es más fuerte que nosotros."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3024,
+      "char_end": 3271,
+      "text": "Y hablaron mal entre los hijos de Israel, de la tierra que habían reconocido, diciendo: La tierra por donde pasamos para reconocerla, es tierra que traga a sus moradores; y todo el pueblo que vimos en medio de ella son hombres de grande estatura."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3271,
+      "char_end": 3421,
+      "text": "También vimos allí gigantes, hijos de Anac, raza de los gigantes, y éramos nosotros, a nuestro parecer, como langostas; y así les parecíamos a ellos."
+    }
+  ],
+  "words": [
+    {
+      "word": "Y Jehová habló a Moisés, diciendo: Envía tú hombres que reconozcan la tierra de Canaán, la cual yo doy a los hijos de Israel; de cada tribu de sus padres enviaréis un varón, cada uno príncipe entre ellos.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 12962,
+      "duration_ms": 12862
+    },
+    {
+      "word": "Y Moisés los envió desde el desierto de Parán, conforme a la palabra de Jehová; y todos aquellos varones eran príncipes de los hijos de Israel.",
+      "verse": 3,
+      "start_ms": 12912,
+      "end_ms": 21412,
+      "duration_ms": 8500
+    },
+    {
+      "word": "Éstos son sus nombres: De la tribu de Rubén, Samúa hijo de Zacur.",
+      "verse": 4,
+      "start_ms": 21412,
+      "end_ms": 26624,
+      "duration_ms": 5212
+    },
+    {
+      "word": "De la tribu de Simeón, Safat hijo de Horí.",
+      "verse": 5,
+      "start_ms": 26625,
+      "end_ms": 30075,
+      "duration_ms": 3450
+    },
+    {
+      "word": "De la tribu de Judá, Caleb hijo de Jefone.",
+      "verse": 6,
+      "start_ms": 30075,
+      "end_ms": 33612,
+      "duration_ms": 3537
+    },
+    {
+      "word": "De la tribu de Isacar, Igal hijo de José.",
+      "verse": 7,
+      "start_ms": 33612,
+      "end_ms": 37162,
+      "duration_ms": 3550
+    },
+    {
+      "word": "De la tribu de Efraín, Oseas hijo de Nun.",
+      "verse": 8,
+      "start_ms": 37162,
+      "end_ms": 40712,
+      "duration_ms": 3550
+    },
+    {
+      "word": "De la tribu de Benjamín, Palti hijo de Rafú.",
+      "verse": 9,
+      "start_ms": 40712,
+      "end_ms": 44374,
+      "duration_ms": 3662
+    },
+    {
+      "word": "De la tribu de Zabulón, Gadiel hijo de Sodi.",
+      "verse": 10,
+      "start_ms": 44375,
+      "end_ms": 48012,
+      "duration_ms": 3637
+    },
+    {
+      "word": "De la tribu de José: de la tribu de Manasés, Gadi hijo de Susi.",
+      "verse": 11,
+      "start_ms": 48012,
+      "end_ms": 53099,
+      "duration_ms": 5087
+    },
+    {
+      "word": "De la tribu de Dan, Amiel hijo de Gemali.",
+      "verse": 12,
+      "start_ms": 53100,
+      "end_ms": 56587,
+      "duration_ms": 3487
+    },
+    {
+      "word": "De la tribu de Aser, Setur hijo de Micael.",
+      "verse": 13,
+      "start_ms": 56587,
+      "end_ms": 60087,
+      "duration_ms": 3500
+    },
+    {
+      "word": "De la tribu de Neftalí, Nahbi hijo de Vapsi.",
+      "verse": 14,
+      "start_ms": 60087,
+      "end_ms": 63699,
+      "duration_ms": 3612
+    },
+    {
+      "word": "De la tribu de Gad, Geuel hijo de Maqui.",
+      "verse": 15,
+      "start_ms": 63700,
+      "end_ms": 67075,
+      "duration_ms": 3375
+    },
+    {
+      "word": "Éstos son los nombres de los varones que Moisés envió a reconocer la tierra; y a Oseas hijo de Nun le puso Moisés el nombre de Josué.",
+      "verse": 16,
+      "start_ms": 67075,
+      "end_ms": 74875,
+      "duration_ms": 7800
+    },
+    {
+      "word": "Los envió, pues, Moisés a reconocer la tierra de Canaán, diciéndoles: Subid de aquí al Neguev, y subid al monte, y observad la tierra cómo es, y el pueblo que la habita, si es fuerte o débil, si poco o numeroso; cómo es la tierra habitada, si es buena o mala; y cómo son las ciudades habitadas, si son campamentos o plazas fortificadas; y cómo es el terreno, si es fértil o estéril, si en él hay árboles o no; y esforzaos, y tomad del fruto del país.",
+      "verse": 17,
+      "start_ms": 74875,
+      "end_ms": 104637,
+      "duration_ms": 29762
+    },
+    {
+      "word": "Y era el tiempo de las primeras uvas.",
+      "verse": 20,
+      "start_ms": 104637,
+      "end_ms": 107462,
+      "duration_ms": 2825
+    },
+    {
+      "word": "Y ellos subieron, y reconocieron la tierra desde el desierto de Zin hasta Rehob, entrando en Hamat.",
+      "verse": 21,
+      "start_ms": 107462,
+      "end_ms": 113574,
+      "duration_ms": 6112
+    },
+    {
+      "word": "Y subieron al Neguev y vinieron hasta Hebrón; y allí estaban Ahimán, Sesai y Talmai, hijos de Anac.",
+      "verse": 22,
+      "start_ms": 113575,
+      "end_ms": 120375,
+      "duration_ms": 6800
+    },
+    {
+      "word": "Hebrón fue edificada siete años antes de Zoán en Egipto.",
+      "verse": 22,
+      "start_ms": 120375,
+      "end_ms": 124537,
+      "duration_ms": 4162
+    },
+    {
+      "word": "Y llegaron hasta el arroyo de Escol, y de allí cortaron un sarmiento con un racimo de uvas, el cual trajeron dos en un palo, y de las granadas y de los higos.",
+      "verse": 23,
+      "start_ms": 124537,
+      "end_ms": 134187,
+      "duration_ms": 9650
+    },
+    {
+      "word": "Y se llamó aquel lugar el Valle de Escol, por el racimo que cortaron de allí los hijos de Israel.",
+      "verse": 24,
+      "start_ms": 134187,
+      "end_ms": 140024,
+      "duration_ms": 5837
+    },
+    {
+      "word": "Y volvieron de reconocer la tierra al fin de cuarenta días.",
+      "verse": 25,
+      "start_ms": 140025,
+      "end_ms": 144075,
+      "duration_ms": 4050
+    },
+    {
+      "word": "Y anduvieron y vinieron a Moisés y a Aarón, y a toda la congregación de los hijos de Israel, en el desierto de Parán, en Cades, y dieron la información a ellos y a toda la congregación, y les mostraron el fruto de la tierra.",
+      "verse": 26,
+      "start_ms": 144075,
+      "end_ms": 157300,
+      "duration_ms": 13225
+    },
+    {
+      "word": "Y les contaron, diciendo: Nosotros llegamos a la tierra a la cual nos enviaste, la que ciertamente fluye leche y miel; y éste es el fruto de ella.",
+      "verse": 27,
+      "start_ms": 157300,
+      "end_ms": 166600,
+      "duration_ms": 9300
+    },
+    {
+      "word": "Mas el pueblo que habita aquella tierra es fuerte, y las ciudades muy grandes y fortificadas; y también vimos allí a los hijos de Anac.",
+      "verse": 28,
+      "start_ms": 166600,
+      "end_ms": 174875,
+      "duration_ms": 8275
+    },
+    {
+      "word": "Amalec habita el Neguev, y el heteo, el jebuseo y el amorreo habitan en el monte, y el cananeo habita junto al mar, y a la ribera del Jordán.",
+      "verse": 29,
+      "start_ms": 174875,
+      "end_ms": 184225,
+      "duration_ms": 9350
+    },
+    {
+      "word": "Entonces Caleb hizo callar al pueblo delante de Moisés, y dijo: Subamos luego, y tomemos posesión de ella; porque más podremos nosotros que ellos.",
+      "verse": 30,
+      "start_ms": 184225,
+      "end_ms": 194100,
+      "duration_ms": 9875
+    },
+    {
+      "word": "Mas los varones que subieron con él, dijeron: No podremos subir contra aquel pueblo, porque es más fuerte que nosotros.",
+      "verse": 31,
+      "start_ms": 194100,
+      "end_ms": 201800,
+      "duration_ms": 7700
+    },
+    {
+      "word": "Y hablaron mal entre los hijos de Israel, de la tierra que habían reconocido, diciendo: La tierra por donde pasamos para reconocerla, es tierra que traga a sus moradores; y todo el pueblo que vimos en medio de ella son hombres de grande estatura.",
+      "verse": 32,
+      "start_ms": 201800,
+      "end_ms": 216212,
+      "duration_ms": 14412
+    },
+    {
+      "word": "También vimos allí gigantes, hijos de Anac, raza de los gigantes, y éramos nosotros, a nuestro parecer, como langostas; y así les parecíamos a ellos.",
+      "verse": 33,
+      "start_ms": 216212,
+      "end_ms": 226899,
+      "duration_ms": 10687
+    }
+  ]
+}

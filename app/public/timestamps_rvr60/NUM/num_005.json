@@ -1,0 +1,390 @@
+{
+  "book": "NUM",
+  "chapter": 5,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 31,
+  "word_count": 23,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 33,
+      "text": "Jehová habló a Moisés, diciendo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 33,
+      "char_end": 177,
+      "text": "Manda a los hijos de Israel que echen del campamento a todo leproso, y a todos los que padecen flujo de semen, y a todo contaminado con muerto."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 177,
+      "char_end": 328,
+      "text": "Así a hombres como a mujeres echaréis; fuera del campamento los echaréis, para que no contaminen el campamento de aquellos entre los cuales yo habito."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 328,
+      "char_end": 492,
+      "text": "Y lo hicieron así los hijos de Israel, y los echaron fuera del campamento; como Jehová dijo a Moisés, así lo hicieron los hijos de Israel. Ley sobre la restitución"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 492,
+      "char_end": 532,
+      "text": "Además habló Jehová a Moisés, diciendo:"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 532,
+      "char_end": 679,
+      "text": "Di a los hijos de Israel: El hombre o la mujer que cometiere alguno de todos los pecados con que los hombres prevarican contra Jehová y delinquen,"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 679,
+      "char_end": 837,
+      "text": "aquella persona confesará el pecado que cometió, y compensará enteramente el daño, y añadirá sobre ello la quinta parte, y lo dará a aquel contra quien pecó."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 837,
+      "char_end": 1053,
+      "text": "Y si aquel hombre no tuviere pariente al cual sea resarcido el daño, se dará la indemnización del agravio a Jehová entregándola al sacerdote, además del carnero de las expiaciones, con el cual hará expiación por él."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1053,
+      "char_end": 1153,
+      "text": "Toda ofrenda de todas las cosas santas que los hijos de Israel presentaren al sacerdote, suya será."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1153,
+      "char_end": 1273,
+      "text": "Y lo santificado de cualquiera será suyo; asimismo lo que cualquiera diere al sacerdote, suyo será. Ley sobre los celos"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1273,
+      "char_end": 1314,
+      "text": "También Jehová habló a Moisés, diciendo:"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1314,
+      "char_end": 1408,
+      "text": "Habla a los hijos de Israel y diles: Si la mujer de alguno se descarriare, y le fuere infiel,"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1408,
+      "char_end": 1589,
+      "text": "y alguno cohabitare con ella, y su marido no lo hubiese visto por haberse ella amancillado ocultamente, ni hubiere testigo contra ella, ni ella hubiere sido sorprendida en el acto;"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1589,
+      "char_end": 1785,
+      "text": "si viniere sobre él espíritu de celos, y tuviere celos de su mujer, habiéndose ella amancillado; o viniere sobre él espíritu de celos, y tuviere celos de su mujer, no habiéndose ella amancillado;"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1785,
+      "char_end": 2053,
+      "text": "entonces el marido traerá su mujer al sacerdote, y con ella traerá su ofrenda, la décima parte de un efa de harina de cebada; no echará sobre ella aceite, ni pondrá sobre ella incienso, porque es ofrenda de celos, ofrenda recordativa, que trae a la memoria el pecado."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2053,
+      "char_end": 2123,
+      "text": "Y el sacerdote hará que ella se acerque y se ponga delante de Jehová."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2123,
+      "char_end": 2288,
+      "text": "Luego tomará el sacerdote del agua santa en un vaso de barro; tomará también el sacerdote del polvo que hubiere en el suelo del tabernáculo, y lo echará en el agua."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2288,
+      "char_end": 2539,
+      "text": "Y hará el sacerdote estar en pie a la mujer delante de Jehová, y descubrirá la cabeza de la mujer, y pondrá sobre sus manos la ofrenda recordativa, que es la ofrenda de celos; y el sacerdote tendrá en la mano las aguas amargas que acarrean maldición."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2539,
+      "char_end": 2715,
+      "text": "Y el sacerdote la conjurará y le dirá: Si ninguno ha dormido contigo, y si no te has apartado de tu marido a inmundicia, libre seas de estas aguas amargas que traen maldición;"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2715,
+      "char_end": 2826,
+      "text": "mas si te has descarriado de tu marido y te has amancillado, y ha cohabitado contigo alguno fuera de tu marido"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2826,
+      "char_end": 3033,
+      "text": "(el sacerdote conjurará a la mujer con juramento de maldición, y dirá a la mujer): Jehová te haga maldición y execración en medio de tu pueblo, haciendo Jehová que tu muslo caiga y que tu vientre se hinche;"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3033,
+      "char_end": 3162,
+      "text": "y estas aguas que dan maldición entren en tus entrañas, y hagan hinchar tu vientre y caer tu muslo. Y la mujer dirá: Amén, amén."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3162,
+      "char_end": 3253,
+      "text": "El sacerdote escribirá estas maldiciones en un libro, y las borrará con las aguas amargas;"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3253,
+      "char_end": 3381,
+      "text": "y dará a beber a la mujer las aguas amargas que traen maldición; y las aguas que obran maldición entrarán en ella para amargar."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3381,
+      "char_end": 3521,
+      "text": "Después el sacerdote tomará de la mano de la mujer la ofrenda de los celos, y la mecerá delante de Jehová, y la ofrecerá delante del altar."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3521,
+      "char_end": 3661,
+      "text": "Y tomará el sacerdote un puñado de la ofrenda en memoria de ella, y lo quemará sobre el altar, y después dará a beber las aguas a la mujer."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3661,
+      "char_end": 3902,
+      "text": "Le dará, pues, a beber las aguas; y si fuere inmunda y hubiere sido infiel a su marido, las aguas que obran maldición entrarán en ella para amargar, y su vientre se hinchará y caerá su muslo; y la mujer será maldición en medio de su pueblo."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3902,
+      "char_end": 3996,
+      "text": "Mas si la mujer no fuere inmunda, sino que estuviere limpia, ella será libre, y será fecunda."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3996,
+      "char_end": 4099,
+      "text": "Ésta es la ley de los celos, cuando la mujer cometiere infidelidad contra su marido, y se amancillare;"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4099,
+      "char_end": 4271,
+      "text": "o del marido sobre el cual pasare espíritu de celos, y tuviere celos de su mujer; la presentará entonces delante de Jehová, y el sacerdote ejecutará en ella toda esta ley."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4271,
+      "char_end": 4336,
+      "text": "El hombre será libre de iniquidad, y la mujer llevará su pecado."
+    }
+  ],
+  "words": [
+    {
+      "word": "Jehová habló a Moisés, diciendo: Manda a los hijos de Israel que echen del campamento a todo leproso, y a todos los que padecen flujo de semen, y a todo contaminado con muerto.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 11162,
+      "duration_ms": 11062
+    },
+    {
+      "word": "Así a hombres como a mujeres echaréis; fuera del campamento los echaréis, para que no contaminen el campamento de aquellos entre los cuales yo habito.",
+      "verse": 3,
+      "start_ms": 11112,
+      "end_ms": 19787,
+      "duration_ms": 8675
+    },
+    {
+      "word": "Y lo hicieron así los hijos de Israel, y los echaron fuera del campamento; como Jehová dijo a Moisés, así lo hicieron los hijos de Israel.",
+      "verse": 4,
+      "start_ms": 19787,
+      "end_ms": 28237,
+      "duration_ms": 8450
+    },
+    {
+      "word": "Ley sobre la restitución Además habló Jehová a Moisés, diciendo: Di a los hijos de Israel: El hombre o la mujer que cometiere alguno de todos los pecados con que los hombres prevarican contra Jehová y delinquen, aquella persona confesará el pecado que cometió, y compensará enteramente el daño, y añadirá sobre ello la quinta parte, y lo dará a aquel contra quien pecó.",
+      "verse": 4,
+      "start_ms": 28237,
+      "end_ms": 49212,
+      "duration_ms": 20975
+    },
+    {
+      "word": "Y si aquel hombre no tuviere pariente al cual sea resarcido el daño, se dará la indemnización del agravio a Jehová entregándola al sacerdote, además del carnero de las expiaciones, con el cual hará expiación por él.",
+      "verse": 8,
+      "start_ms": 49212,
+      "end_ms": 61199,
+      "duration_ms": 11987
+    },
+    {
+      "word": "Toda ofrenda de todas las cosas santas que los hijos de Israel presentaren al sacerdote, suya será.",
+      "verse": 9,
+      "start_ms": 61200,
+      "end_ms": 67462,
+      "duration_ms": 6262
+    },
+    {
+      "word": "Y lo santificado de cualquiera será suyo; asimismo lo que cualquiera diere al sacerdote, suyo será.",
+      "verse": 10,
+      "start_ms": 67462,
+      "end_ms": 74187,
+      "duration_ms": 6725
+    },
+    {
+      "word": "Ley sobre los celos También Jehová habló a Moisés, diciendo: Habla a los hijos de Israel y diles: Si la mujer de alguno se descarriare, y le fuere infiel, y alguno cohabitare con ella, y su marido no lo hubiese visto por haberse ella amancillado ocultamente, ni hubiere testigo contra ella, ni ella hubiere sido sorprendida en el acto; si viniere sobre él espíritu de celos, y tuviere celos de su mujer, habiéndose ella amancillado; o viniere sobre él espíritu de celos, y tuviere celos de su mujer,",
+      "verse": 10,
+      "start_ms": 74187,
+      "end_ms": 103512,
+      "duration_ms": 29325
+    },
+    {
+      "word": "no habiéndose ella amancillado; entonces el marido traerá su mujer al sacerdote, y con ella traerá su ofrenda, la décima parte de un efa de harina de cebada; no echará sobre ella aceite, ni pondrá sobre ella incienso, porque es ofrenda de celos, ofrenda recordativa, que trae a la memoria el pecado.",
+      "verse": 14,
+      "start_ms": 103512,
+      "end_ms": 121999,
+      "duration_ms": 18487
+    },
+    {
+      "word": "Y el sacerdote hará que ella se acerque y se ponga delante de Jehová.",
+      "verse": 16,
+      "start_ms": 122000,
+      "end_ms": 126475,
+      "duration_ms": 4475
+    },
+    {
+      "word": "Luego tomará el sacerdote del agua santa en un vaso de barro; tomará también el sacerdote del polvo que hubiere en el suelo del tabernáculo, y lo echará en el agua.",
+      "verse": 17,
+      "start_ms": 126475,
+      "end_ms": 135912,
+      "duration_ms": 9437
+    },
+    {
+      "word": "Y hará el sacerdote estar en pie a la mujer delante de Jehová, y descubrirá la cabeza de la mujer, y pondrá sobre sus manos la ofrenda recordativa, que es la ofrenda de celos; y el sacerdote tendrá en la mano las aguas amargas que acarrean maldición.",
+      "verse": 18,
+      "start_ms": 135912,
+      "end_ms": 150362,
+      "duration_ms": 14450
+    },
+    {
+      "word": "Y el sacerdote la conjurará y le dirá: Si ninguno ha dormido contigo, y si no te has apartado de tu marido a inmundicia, libre seas de estas aguas amargas que traen maldición; mas si te has descarriado de tu marido y te has amancillado, y ha cohabitado contigo alguno fuera de tu marido (el sacerdote conjurará a la mujer con juramento de maldición, y dirá a la mujer): Jehová te haga maldición y execración en medio de tu pueblo, haciendo Jehová que tu muslo caiga y que tu vientre se hinche; y",
+      "verse": 19,
+      "start_ms": 150362,
+      "end_ms": 178012,
+      "duration_ms": 27650
+    },
+    {
+      "word": "estas aguas que dan maldición entren en tus entrañas, y hagan hinchar tu vientre y caer tu muslo.",
+      "verse": 22,
+      "start_ms": 178012,
+      "end_ms": 184187,
+      "duration_ms": 6175
+    },
+    {
+      "word": "Y la mujer dirá: Amén, amén.",
+      "verse": 22,
+      "start_ms": 184187,
+      "end_ms": 187224,
+      "duration_ms": 3037
+    },
+    {
+      "word": "El sacerdote escribirá estas maldiciones en un libro, y las borrará con las aguas amargas; y dará a beber a la mujer las aguas amargas que traen maldición; y las aguas que obran maldición entrarán en ella para amargar.",
+      "verse": 23,
+      "start_ms": 187225,
+      "end_ms": 199762,
+      "duration_ms": 12537
+    },
+    {
+      "word": "Después el sacerdote tomará de la mano de la mujer la ofrenda de los celos, y la mecerá delante de Jehová, y la ofrecerá delante del altar.",
+      "verse": 25,
+      "start_ms": 199762,
+      "end_ms": 208099,
+      "duration_ms": 8337
+    },
+    {
+      "word": "Y tomará el sacerdote un puñado de la ofrenda en memoria de ella, y lo quemará sobre el altar, y después dará a beber las aguas a la mujer.",
+      "verse": 26,
+      "start_ms": 208100,
+      "end_ms": 216375,
+      "duration_ms": 8275
+    },
+    {
+      "word": "Le dará, pues, a beber las aguas; y si fuere inmunda y hubiere sido infiel a su marido, las aguas que obran maldición entrarán en ella para amargar, y su vientre se hinchará y caerá su muslo; y la mujer será maldición en medio de su pueblo.",
+      "verse": 27,
+      "start_ms": 216375,
+      "end_ms": 230787,
+      "duration_ms": 14412
+    },
+    {
+      "word": "Mas si la mujer no fuere inmunda, sino que estuviere limpia, ella será libre, y será",
+      "verse": 28,
+      "start_ms": 230787,
+      "end_ms": 236674,
+      "duration_ms": 5887
+    },
+    {
+      "word": "fecunda.",
+      "verse": 28,
+      "start_ms": 236836,
+      "end_ms": 238448,
+      "duration_ms": 1612
+    },
+    {
+      "word": "Ésta es la ley de los celos, cuando la mujer cometiere infidelidad contra su marido, y se amancillare; o del marido sobre el cual pasare espíritu de celos, y tuviere celos de su mujer; la presentará entonces delante de Jehová, y el sacerdote ejecutará en ella toda esta ley.",
+      "verse": 29,
+      "start_ms": 238398,
+      "end_ms": 254773,
+      "duration_ms": 16375
+    },
+    {
+      "word": "El hombre será libre de iniquidad, y la mujer llevará su pecado.",
+      "verse": 31,
+      "start_ms": 254773,
+      "end_ms": 259235,
+      "duration_ms": 4462
+    }
+  ]
+}

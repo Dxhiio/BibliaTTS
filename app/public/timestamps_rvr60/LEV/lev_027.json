@@ -1,0 +1,460 @@
+{
+  "book": "LEV",
+  "chapter": 27,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 34,
+  "word_count": 30,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 33,
+      "text": "Habló Jehová a Moisés, diciendo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 33,
+      "char_end": 195,
+      "text": "Habla a los hijos de Israel y diles: Cuando alguno hiciere especial voto a Jehová, según la estimación de las personas que se hayan de redimir, lo estimarás así:"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 195,
+      "char_end": 317,
+      "text": "En cuanto al varón de veinte años hasta sesenta, lo estimarás en cincuenta siclos de plata, según el siclo del santuario."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 317,
+      "char_end": 367,
+      "text": "Y si fuere mujer, la estimarás en treinta siclos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 367,
+      "char_end": 475,
+      "text": "Y si fuere de cinco años hasta veinte, al varón lo estimarás en veinte siclos, y a la mujer en diez siclos."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 475,
+      "char_end": 606,
+      "text": "Y si fuere de un mes hasta cinco años, entonces estimarás al varón en cinco siclos de plata, y a la mujer en tres siclos de plata."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 606,
+      "char_end": 711,
+      "text": "Mas si fuere de sesenta años o más, al varón lo estimarás en quince siclos, y a la mujer en diez siclos."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 711,
+      "char_end": 905,
+      "text": "Pero si fuere muy pobre para pagar tu estimación, entonces será llevado ante el sacerdote, quien fijará el precio; conforme a la posibilidad del que hizo el voto, le fijará precio el sacerdote."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 905,
+      "char_end": 1017,
+      "text": "Y si fuere animal de los que se ofrece ofrenda a Jehová, todo lo que de los tales se diere a Jehová será santo."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1017,
+      "char_end": 1164,
+      "text": "No será cambiado ni trocado, bueno por malo, ni malo por bueno; y si se permutare un animal por otro, él y el dado en cambio de él serán sagrados."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1164,
+      "char_end": 1281,
+      "text": "Si fuere algún animal inmundo, del que no se ofrenda a Jehová, entonces el animal será puesto delante del sacerdote,"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1281,
+      "char_end": 1381,
+      "text": "y el sacerdote lo valorará, sea bueno o sea malo; conforme a la estimación del sacerdote, así será."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1381,
+      "char_end": 1452,
+      "text": "Y si lo quisiere rescatar, añadirá sobre tu valuación la quinta parte."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1452,
+      "char_end": 1600,
+      "text": "Cuando alguno dedicare su casa consagrándola a Jehová, la valorará el sacerdote, sea buena o sea mala; según la valorare el sacerdote, así quedará."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1600,
+      "char_end": 1720,
+      "text": "Mas si el que dedicó su casa deseare rescatarla, añadirá a tu valuación la quinta parte del valor de ella, y será suya."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1720,
+      "char_end": 1891,
+      "text": "Si alguno dedicare de la tierra de su posesión a Jehová, tu estimación será conforme a su siembra; un homer de siembra de cebada se valorará en cincuenta siclos de plata."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1891,
+      "char_end": 1975,
+      "text": "Y si dedicare su tierra desde el año del jubileo, conforme a tu estimación quedará."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1975,
+      "char_end": 2161,
+      "text": "Mas si después del jubileo dedicare su tierra, entonces el sacerdote hará la cuenta del dinero conforme a los años que quedaren hasta el año del jubileo, y se rebajará de tu estimación."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2161,
+      "char_end": 2295,
+      "text": "Y si el que dedicó la tierra quisiere redimirla, añadirá a tu estimación la quinta parte del precio de ella, y se le quedará para él."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2295,
+      "char_end": 2382,
+      "text": "Mas si él no rescatare la tierra, y la tierra se vendiere a otro, no la rescatará más;"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2382,
+      "char_end": 2519,
+      "text": "sino que cuando saliere en el jubileo, la tierra será santa para Jehová, como tierra consagrada; la posesión de ella será del sacerdote."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2519,
+      "char_end": 2614,
+      "text": "Y si dedicare alguno a Jehová la tierra que él compró, que no era de la tierra de su herencia,"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2614,
+      "char_end": 2767,
+      "text": "entonces el sacerdote calculará con él la suma de tu estimación hasta el año del jubileo, y aquel día dará tu precio señalado, cosa consagrada a Jehová."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2767,
+      "char_end": 2873,
+      "text": "En el año del jubileo, volverá la tierra a aquél de quien él la compró, cuya es la herencia de la tierra."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2873,
+      "char_end": 2964,
+      "text": "Y todo lo que valorares será conforme al siclo del santuario; el siclo tiene veinte geras."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2964,
+      "char_end": 3091,
+      "text": "Pero el primogénito de los animales, que por la primogenitura es de Jehová, nadie lo dedicará; sea buey u oveja, de Jehová es."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3091,
+      "char_end": 3282,
+      "text": "Mas si fuere de los animales inmundos, lo rescatarán conforme a tu estimación, y añadirán sobre ella la quinta parte de su precio; y si no lo rescataren, se venderá conforme a tu estimación."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3282,
+      "char_end": 3512,
+      "text": "Pero no se venderá ni se rescatará ninguna cosa consagrada, que alguno hubiere dedicado a Jehová; de todo lo que tuviere, de hombres y animales, y de las tierras de su posesión, todo lo consagrado será cosa santísima para Jehová."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3512,
+      "char_end": 3607,
+      "text": "Ninguna persona separada como anatema podrá ser rescatada; indefectiblemente ha de ser muerta."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3607,
+      "char_end": 3737,
+      "text": "Y el diezmo de la tierra, así de la simiente de la tierra como del fruto de los árboles, de Jehová es; es cosa dedicada a Jehová."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3737,
+      "char_end": 3831,
+      "text": "Y si alguno quisiere rescatar algo del diezmo, añadirá la quinta parte de su precio por ello."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3831,
+      "char_end": 3937,
+      "text": "Y todo diezmo de vacas o de ovejas, de todo lo que pasa bajo la vara, el diezmo será consagrado a Jehová."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3937,
+      "char_end": 4087,
+      "text": "No mirará si es bueno o malo, ni lo cambiará; y si lo cambiare, tanto él como el que se dio en cambio serán cosas sagradas; no podrán ser rescatados."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4087,
+      "char_end": 4189,
+      "text": "Éstos son los mandamientos que ordenó Jehová a Moisés para los hijos de Israel, en el monte de Sinaí."
+    }
+  ],
+  "words": [
+    {
+      "word": "Habló Jehová a Moisés, diciendo: Habla a los hijos de Israel y diles: Cuando alguno hiciere especial voto a Jehová, según la estimación de las personas que se hayan de redimir, lo estimarás así: En cuanto al varón de veinte años hasta sesenta, lo estimarás en cincuenta siclos de plata, según el siclo del santuario.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 18525,
+      "duration_ms": 18425
+    },
+    {
+      "word": "Y si fuere mujer, la estimarás en treinta siclos.",
+      "verse": 4,
+      "start_ms": 18525,
+      "end_ms": 22375,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Y si fuere de cinco años hasta veinte, al varón lo estimarás en veinte siclos, y a la mujer en diez siclos.",
+      "verse": 5,
+      "start_ms": 22375,
+      "end_ms": 29362,
+      "duration_ms": 6987
+    },
+    {
+      "word": "Y si fuere de un mes hasta cinco años, entonces estimarás al varón en cinco siclos de plata, y a la mujer en tres siclos de plata.",
+      "verse": 6,
+      "start_ms": 29362,
+      "end_ms": 37349,
+      "duration_ms": 7987
+    },
+    {
+      "word": "Mas si fuere de sesenta años o más, al varón lo estimarás en quince siclos, y a la mujer en diez siclos.",
+      "verse": 7,
+      "start_ms": 37350,
+      "end_ms": 44100,
+      "duration_ms": 6750
+    },
+    {
+      "word": "Pero si fuere muy pobre para pagar tu estimación, entonces será llevado ante el sacerdote, quien fijará el precio; conforme a la posibilidad del que hizo el voto, le fijará precio el sacerdote.",
+      "verse": 8,
+      "start_ms": 44100,
+      "end_ms": 55212,
+      "duration_ms": 11112
+    },
+    {
+      "word": "Y si fuere animal de los que se ofrece ofrenda a Jehová, todo lo que de los tales se diere a Jehová será santo.",
+      "verse": 9,
+      "start_ms": 55212,
+      "end_ms": 61612,
+      "duration_ms": 6400
+    },
+    {
+      "word": "No será cambiado ni trocado, bueno por malo, ni malo por bueno; y si se permutare un animal por otro, él y el dado en cambio de él serán sagrados.",
+      "verse": 10,
+      "start_ms": 61612,
+      "end_ms": 71212,
+      "duration_ms": 9600
+    },
+    {
+      "word": "Si fuere algún animal inmundo, del que no se ofrenda a Jehová, entonces el animal será puesto delante del sacerdote, y el sacerdote lo valorará, sea bueno o sea malo; conforme a la estimación del sacerdote, así será.",
+      "verse": 11,
+      "start_ms": 71212,
+      "end_ms": 85087,
+      "duration_ms": 13875
+    },
+    {
+      "word": "Y si lo quisiere rescatar, añadirá sobre tu valuación la quinta parte.",
+      "verse": 13,
+      "start_ms": 85087,
+      "end_ms": 89899,
+      "duration_ms": 4812
+    },
+    {
+      "word": "Cuando alguno dedicare su casa consagrándola a Jehová, la valorará el sacerdote, sea buena o sea mala; según la valorare el sacerdote, así quedará.",
+      "verse": 14,
+      "start_ms": 89900,
+      "end_ms": 99712,
+      "duration_ms": 9812
+    },
+    {
+      "word": "Mas si el que dedicó su casa deseare rescatarla, añadirá a tu valuación la quinta parte del valor de ella, y será suya.",
+      "verse": 15,
+      "start_ms": 99712,
+      "end_ms": 107387,
+      "duration_ms": 7675
+    },
+    {
+      "word": "Si alguno dedicare de la tierra de su posesión a Jehová, tu estimación será conforme a su siembra; un homer de siembra de cebada se valorará en cincuenta siclos de plata.",
+      "verse": 16,
+      "start_ms": 107387,
+      "end_ms": 117387,
+      "duration_ms": 10000
+    },
+    {
+      "word": "Y si dedicare su tierra desde el año del jubileo, conforme a tu estimación quedará.",
+      "verse": 17,
+      "start_ms": 117387,
+      "end_ms": 122774,
+      "duration_ms": 5387
+    },
+    {
+      "word": "Mas si después del jubileo dedicare su tierra, entonces el sacerdote hará la cuenta del dinero conforme a los años que quedaren hasta el año del jubileo, y se rebajará de tu estimación.",
+      "verse": 18,
+      "start_ms": 122775,
+      "end_ms": 133112,
+      "duration_ms": 10337
+    },
+    {
+      "word": "Y si el que dedicó la tierra quisiere redimirla, añadirá a tu estimación la quinta parte del precio de ella, y se le quedará para él.",
+      "verse": 19,
+      "start_ms": 133112,
+      "end_ms": 141162,
+      "duration_ms": 8050
+    },
+    {
+      "word": "Mas si él no rescatare la tierra, y la tierra se vendiere a otro, no la rescatará más; sino que cuando saliere en el jubileo, la tierra será santa para Jehová, como tierra consagrada; la posesión de ella será del sacerdote.",
+      "verse": 20,
+      "start_ms": 141162,
+      "end_ms": 155174,
+      "duration_ms": 14012
+    },
+    {
+      "word": "Y si dedicare alguno a Jehová la tierra que él compró, que no era de la tierra de su herencia, entonces el sacerdote calculará con él la suma de tu estimación hasta el año del jubileo, y aquel día dará tu precio señalado, cosa consagrada a Jehová.",
+      "verse": 22,
+      "start_ms": 155175,
+      "end_ms": 169387,
+      "duration_ms": 14212
+    },
+    {
+      "word": "En el año del jubileo, volverá la tierra a aquél de quien él la compró, cuya es la herencia de la tierra.",
+      "verse": 24,
+      "start_ms": 169387,
+      "end_ms": 175999,
+      "duration_ms": 6612
+    },
+    {
+      "word": "Y todo lo que valorares será conforme al siclo del santuario; el siclo tiene veinte geras.",
+      "verse": 25,
+      "start_ms": 176000,
+      "end_ms": 182087,
+      "duration_ms": 6087
+    },
+    {
+      "word": "Pero el primogénito de los animales, que por la primogenitura es de Jehová, nadie lo dedicará; sea buey u oveja, de Jehová es.",
+      "verse": 26,
+      "start_ms": 182087,
+      "end_ms": 190674,
+      "duration_ms": 8587
+    },
+    {
+      "word": "Mas si fuere de los animales inmundos, lo rescatarán conforme a tu estimación, y añadirán sobre ella la quinta parte de su precio; y si no lo rescataren, se venderá conforme a tu estimación.",
+      "verse": 27,
+      "start_ms": 190675,
+      "end_ms": 202187,
+      "duration_ms": 11512
+    },
+    {
+      "word": "Pero no se venderá ni se rescatará ninguna cosa consagrada, que alguno hubiere dedicado a Jehová; de todo lo que tuviere, de hombres y animales, y de las tierras de su posesión, todo lo consagrado será cosa santísima para Jehová.",
+      "verse": 28,
+      "start_ms": 202187,
+      "end_ms": 215987,
+      "duration_ms": 13800
+    },
+    {
+      "word": "Ninguna persona separada como anatema podrá ser rescatada; indefectiblemente ha de ser muerta.",
+      "verse": 29,
+      "start_ms": 215987,
+      "end_ms": 222249,
+      "duration_ms": 6262
+    },
+    {
+      "word": "Y el diezmo de la tierra, así de la simiente de la tierra como del fruto de los árboles, de Jehová es; es cosa dedicada a Jehová.",
+      "verse": 30,
+      "start_ms": 222250,
+      "end_ms": 230600,
+      "duration_ms": 8350
+    },
+    {
+      "word": "Y si alguno quisiere rescatar algo del diezmo, añadirá la quinta parte de su precio por ello.",
+      "verse": 31,
+      "start_ms": 230600,
+      "end_ms": 236525,
+      "duration_ms": 5925
+    },
+    {
+      "word": "Y todo diezmo de vacas o de ovejas, de todo lo que pasa bajo la vara, el diezmo será consagrado a Jehová.",
+      "verse": 32,
+      "start_ms": 236525,
+      "end_ms": 243575,
+      "duration_ms": 7050
+    },
+    {
+      "word": "No mirará si es bueno o malo, ni",
+      "verse": 33,
+      "start_ms": 243575,
+      "end_ms": 246587,
+      "duration_ms": 3012
+    },
+    {
+      "word": "lo cambiará; y si lo cambiare, tanto él como el que se dio en cambio serán cosas sagradas; no podrán ser rescatados.",
+      "verse": 33,
+      "start_ms": 246748,
+      "end_ms": 254398,
+      "duration_ms": 7650
+    },
+    {
+      "word": "Éstos son los mandamientos que ordenó Jehová a Moisés para los hijos de Israel, en el monte de Sinaí.",
+      "verse": 34,
+      "start_ms": 254348,
+      "end_ms": 260385,
+      "duration_ms": 6037
+    }
+  ]
+}

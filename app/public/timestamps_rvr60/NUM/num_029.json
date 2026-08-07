@@ -1,0 +1,425 @@
+{
+  "book": "NUM",
+  "chapter": 29,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 40,
+  "word_count": 19,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 135,
+      "text": "En el séptimo mes, el primero del mes, tendréis santa convocación; ninguna obra de siervos haréis; os será día de sonar las trompetas."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 135,
+      "char_end": 258,
+      "text": "Y ofreceréis holocausto en olor grato a Jehová, un becerro de la vacada, un carnero, siete corderos de un año sin defecto;"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 258,
+      "char_end": 387,
+      "text": "y la ofrenda de ellos, de flor de harina amasada con aceite, tres décimas de efa con cada becerro, dos décimas con cada carnero,"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 387,
+      "char_end": 437,
+      "text": "y con cada uno de los siete corderos, una décima;"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 437,
+      "char_end": 490,
+      "text": "y un macho cabrío por expiación, para reconciliaros,"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 490,
+      "char_end": 656,
+      "text": "además del holocausto del mes y su ofrenda, y el holocausto continuo y su ofrenda, y sus libaciones conforme a su ley, como ofrenda encendida a Jehová en olor grato."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 656,
+      "char_end": 765,
+      "text": "En el diez de este mes séptimo tendréis santa convocación, y afligiréis vuestras almas; ninguna obra haréis;"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 765,
+      "char_end": 900,
+      "text": "y ofreceréis en holocausto a Jehová en olor grato, un becerro de la vacada, un carnero, y siete corderos de un año; serán sin defecto."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 900,
+      "char_end": 1019,
+      "text": "Y sus ofrendas, flor de harina amasada con aceite, tres décimas de efa con cada becerro, dos décimas con cada carnero,"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1019,
+      "char_end": 1069,
+      "text": "y con cada uno de los siete corderos, una décima;"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1069,
+      "char_end": 1222,
+      "text": "y un macho cabrío por expiación; además de la ofrenda de las expiaciones por el pecado, y del holocausto continuo y de sus ofrendas y de sus libaciones."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1222,
+      "char_end": 1378,
+      "text": "También a los quince días del mes séptimo tendréis santa convocación; ninguna obra de siervos haréis, y celebraréis fiesta solemne a Jehová por siete días."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1378,
+      "char_end": 1548,
+      "text": "Y ofreceréis en holocausto, en ofrenda encendida a Jehová en olor grato, trece becerros de la vacada, dos carneros, y catorce corderos de un año; han de ser sin defecto."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1548,
+      "char_end": 1713,
+      "text": "Y las ofrendas de ellos, de flor de harina amasada con aceite, tres décimas de efa con cada uno de los trece becerros, dos décimas con cada uno de los dos carneros,"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1713,
+      "char_end": 1765,
+      "text": "y con cada uno de los catorce corderos, una décima;"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1765,
+      "char_end": 1856,
+      "text": "y un macho cabrío por expiación, además del holocausto continuo, su ofrenda y su libación."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1856,
+      "char_end": 1954,
+      "text": "El segundo día, doce becerros de la vacada, dos carneros, catorce corderos de un año sin defecto,"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1954,
+      "char_end": 2086,
+      "text": "y sus ofrendas y sus libaciones con los becerros, con los carneros y con los corderos, según el número de ellos, conforme a la ley;"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2086,
+      "char_end": 2179,
+      "text": "y un macho cabrío por expiación; además del holocausto continuo, y su ofrenda y su libación."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2179,
+      "char_end": 2264,
+      "text": "El día tercero, once becerros, dos carneros, catorce corderos de un año sin defecto;"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2264,
+      "char_end": 2396,
+      "text": "y sus ofrendas y sus libaciones con los becerros, con los carneros y con los corderos, según el número de ellos, conforme a la ley;"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2396,
+      "char_end": 2489,
+      "text": "y un macho cabrío por expiación, además del holocausto continuo, y su ofrenda y su libación."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2489,
+      "char_end": 2573,
+      "text": "El cuarto día, diez becerros, dos carneros, catorce corderos de un año sin defecto;"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2573,
+      "char_end": 2703,
+      "text": "sus ofrendas y sus libaciones con los becerros, con los carneros y con los corderos, según el número de ellos, conforme a la ley;"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2703,
+      "char_end": 2794,
+      "text": "y un macho cabrío por expiación; además del holocausto continuo, su ofrenda y su libación."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2794,
+      "char_end": 2879,
+      "text": "El quinto día, nueve becerros, dos carneros, catorce corderos de un año sin defecto;"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2879,
+      "char_end": 3011,
+      "text": "y sus ofrendas y sus libaciones con los becerros, con los carneros y con los corderos, según el número de ellos, conforme a la ley;"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3011,
+      "char_end": 3102,
+      "text": "y un macho cabrío por expiación, además del holocausto continuo, su ofrenda y su libación."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3102,
+      "char_end": 3185,
+      "text": "El sexto día, ocho becerros, dos carneros, catorce corderos de un año sin defecto;"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3185,
+      "char_end": 3317,
+      "text": "y sus ofrendas y sus libaciones con los becerros, con los carneros y con los corderos, según el número de ellos, conforme a la ley;"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3317,
+      "char_end": 3408,
+      "text": "y un macho cabrío por expiación, además del holocausto continuo, su ofrenda y su libación."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3408,
+      "char_end": 3494,
+      "text": "El séptimo día, siete becerros, dos carneros, catorce corderos de un año sin defecto;"
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3494,
+      "char_end": 3626,
+      "text": "y sus ofrendas y sus libaciones con los becerros, con los carneros y con los corderos, según el número de ellos, conforme a la ley;"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3626,
+      "char_end": 3721,
+      "text": "y un macho cabrío por expiación, además del holocausto continuo, con su ofrenda y su libación."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3721,
+      "char_end": 3788,
+      "text": "El octavo día tendréis solemnidad; ninguna obra de siervos haréis."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3788,
+      "char_end": 3923,
+      "text": "Y ofreceréis en holocausto, en ofrenda encendida de olor grato a Jehová, un becerro, un carnero, siete corderos de un año sin defecto;"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3923,
+      "char_end": 4049,
+      "text": "sus ofrendas y sus libaciones con el becerro, con el carnero y con los corderos, según el número de ellos, conforme a la ley;"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4049,
+      "char_end": 4144,
+      "text": "y un macho cabrío por expiación, además del holocausto continuo, con su ofrenda y su libación."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4144,
+      "char_end": 4382,
+      "text": "Estas cosas ofreceréis a Jehová en vuestras fiestas solemnes, además de vuestros votos, y de vuestras ofrendas voluntarias, para vuestros holocaustos, y para vuestras ofrendas, y para vuestras libaciones, y para vuestras ofrendas de paz."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4382,
+      "char_end": 4466,
+      "text": "Y Moisés dijo a los hijos de Israel conforme a todo lo que Jehová le había mandado."
+    }
+  ],
+  "words": [
+    {
+      "word": "En el séptimo mes, el primero del mes, tendréis santa convocación; ninguna obra de siervos haréis; os será día de sonar las trompetas.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 9325,
+      "duration_ms": 9225
+    },
+    {
+      "word": "Y ofreceréis holocausto en olor grato a Jehová, un becerro de la vacada, un carnero, siete corderos de un año sin defecto; y la ofrenda de ellos, de flor de harina amasada con aceite, tres décimas de efa con cada becerro, dos décimas con cada carnero, y con cada uno de los siete corderos, una décima; y un macho cabrío por expiación, para reconciliaros, además del holocausto del mes y su ofrenda, y el holocausto continuo y su ofrenda, y sus libaciones conforme a su ley, como ofrenda encendida a",
+      "verse": 2,
+      "start_ms": 9275,
+      "end_ms": 39787,
+      "duration_ms": 30512
+    },
+    {
+      "word": "Jehová en olor grato.",
+      "verse": 6,
+      "start_ms": 39787,
+      "end_ms": 41949,
+      "duration_ms": 2162
+    },
+    {
+      "word": "En el diez de este mes séptimo tendréis santa convocación, y afligiréis vuestras almas; ninguna obra haréis; y ofreceréis en holocausto a Jehová en olor grato, un becerro de la vacada, un carnero, y siete corderos de un año; serán sin defecto.",
+      "verse": 7,
+      "start_ms": 41950,
+      "end_ms": 57350,
+      "duration_ms": 15400
+    },
+    {
+      "word": "Y sus ofrendas, flor de harina amasada con aceite, tres décimas de efa con cada becerro, dos décimas con cada carnero, y con cada uno de los siete corderos, una décima; y un macho cabrío por expiación; además de la ofrenda de las expiaciones por el pecado, y del holocausto continuo y de sus ofrendas y de sus libaciones.",
+      "verse": 9,
+      "start_ms": 57350,
+      "end_ms": 76962,
+      "duration_ms": 19612
+    },
+    {
+      "word": "También a los quince días del mes séptimo tendréis santa convocación; ninguna obra de siervos haréis, y celebraréis fiesta solemne a Jehová por siete días.",
+      "verse": 12,
+      "start_ms": 76962,
+      "end_ms": 86537,
+      "duration_ms": 9575
+    },
+    {
+      "word": "Y ofreceréis en holocausto, en ofrenda encendida a Jehová en olor grato, trece becerros de la vacada, dos carneros, y catorce corderos de un año; han de ser sin defecto.",
+      "verse": 13,
+      "start_ms": 86537,
+      "end_ms": 97537,
+      "duration_ms": 11000
+    },
+    {
+      "word": "Y las ofrendas de ellos, de flor de harina amasada con aceite, tres décimas de efa con cada uno de los trece becerros, dos décimas con cada uno de los dos carneros, y con cada uno de los catorce corderos, una décima; y un macho cabrío por expiación, además del holocausto continuo, su ofrenda y su libación.",
+      "verse": 14,
+      "start_ms": 97537,
+      "end_ms": 116612,
+      "duration_ms": 19075
+    },
+    {
+      "word": "El segundo día, doce becerros de la vacada, dos carneros, catorce corderos de un año sin defecto, y sus ofrendas y sus libaciones con los becerros, con los carneros y con los corderos, según el número de ellos, conforme a la ley; y un macho cabrío por expiación; además del holocausto continuo, y su ofrenda y su libación.",
+      "verse": 17,
+      "start_ms": 116612,
+      "end_ms": 136462,
+      "duration_ms": 19850
+    },
+    {
+      "word": "El día tercero, once becerros, dos carneros, catorce corderos de un año sin defecto; y sus ofrendas y sus libaciones con los becerros, con los carneros y con los corderos, según el número de ellos, conforme a la ley; y un macho cabrío por expiación, además del holocausto continuo, y su ofrenda y su libación.",
+      "verse": 20,
+      "start_ms": 136462,
+      "end_ms": 155824,
+      "duration_ms": 19362
+    },
+    {
+      "word": "El cuarto día, diez becerros, dos carneros, catorce corderos de un año sin defecto; sus ofrendas y sus libaciones con los becerros, con los carneros y con los corderos, según el número de ellos, conforme a la ley; y un macho cabrío por expiación; además del holocausto continuo, su ofrenda y su libación.",
+      "verse": 23,
+      "start_ms": 155825,
+      "end_ms": 175050,
+      "duration_ms": 19225
+    },
+    {
+      "word": "El quinto día, nueve becerros, dos carneros, catorce corderos de un año sin defecto; y sus ofrendas y sus libaciones con los becerros, con los carneros y con los corderos, según el número de ellos, conforme a la ley; y un macho cabrío por expiación, además del holocausto continuo, su ofrenda y su libación.",
+      "verse": 26,
+      "start_ms": 175050,
+      "end_ms": 194287,
+      "duration_ms": 19237
+    },
+    {
+      "word": "El sexto día, ocho becerros, dos carneros, catorce corderos de un año sin defecto; y sus ofrendas y sus libaciones con los becerros, con los carneros y con los corderos, según el número de ellos, conforme a la ley; y un macho cabrío por expiación, además del holocausto continuo, su ofrenda y su libación.",
+      "verse": 29,
+      "start_ms": 194287,
+      "end_ms": 213587,
+      "duration_ms": 19300
+    },
+    {
+      "word": "El séptimo día, siete becerros, dos carneros, catorce corderos de un año sin defecto; y sus ofrendas y sus libaciones con los becerros, con los carneros y con los corderos, según el número de ellos, conforme a la ley; y un macho cabrío por expiación, además del holocausto continuo, con su ofrenda y su libación.",
+      "verse": 32,
+      "start_ms": 213587,
+      "end_ms": 233124,
+      "duration_ms": 19537
+    },
+    {
+      "word": "El octavo día tendréis solemnidad; ninguna obra de siervos haréis.",
+      "verse": 35,
+      "start_ms": 233125,
+      "end_ms": 238050,
+      "duration_ms": 4925
+    },
+    {
+      "word": "Y ofreceréis en holocausto, en ofrenda encendida de olor grato a Jehová, un becerro, un carnero, siete corderos de un año sin defecto; sus ofrendas y sus libaciones con el becerro, con el carnero y con",
+      "verse": 36,
+      "start_ms": 238050,
+      "end_ms": 251037,
+      "duration_ms": 12987
+    },
+    {
+      "word": "los corderos, según el número de ellos, conforme a la ley; y un macho cabrío por expiación, además del holocausto continuo, con su ofrenda y su libación.",
+      "verse": 37,
+      "start_ms": 251188,
+      "end_ms": 260988,
+      "duration_ms": 9800
+    },
+    {
+      "word": "Estas cosas ofreceréis a Jehová en vuestras fiestas solemnes, además de vuestros votos, y de vuestras ofrendas voluntarias, para vuestros holocaustos, y para vuestras ofrendas, y para vuestras libaciones, y para vuestras ofrendas de paz.",
+      "verse": 39,
+      "start_ms": 260938,
+      "end_ms": 275338,
+      "duration_ms": 14400
+    },
+    {
+      "word": "Y Moisés dijo a los hijos de Israel conforme a todo lo que Jehová le había mandado.",
+      "verse": 40,
+      "start_ms": 275338,
+      "end_ms": 280475,
+      "duration_ms": 5137
+    }
+  ]
+}

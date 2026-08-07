@@ -1,0 +1,285 @@
+{
+  "book": "NUM",
+  "chapter": 19,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 22,
+  "word_count": 17,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 43,
+      "text": "Jehová habló a Moisés y a Aarón, diciendo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 43,
+      "char_end": 241,
+      "text": "Ésta es la ordenanza de la ley que Jehová ha prescrito, diciendo: Di a los hijos de Israel que te traigan una vaca alazana, perfecta, en la cual no haya falta, sobre la cual no se haya puesto yugo;"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 241,
+      "char_end": 350,
+      "text": "y la daréis a Eleazar el sacerdote, y él la sacará fuera del campamento, y la hará degollar en su presencia."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 350,
+      "char_end": 503,
+      "text": "Y Eleazar el sacerdote tomará de la sangre con su dedo, y rociará hacia la parte delantera del tabernáculo de reunión con la sangre de ella siete veces;"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 503,
+      "char_end": 604,
+      "text": "y hará quemar la vaca ante sus ojos; su cuero y su carne y su sangre, con su estiércol, hará quemar."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 604,
+      "char_end": 722,
+      "text": "Luego tomará el sacerdote madera de cedro, e hisopo, y escarlata, y lo echará en medio del fuego en que arde la vaca."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 722,
+      "char_end": 877,
+      "text": "El sacerdote lavará luego sus vestidos, lavará también su cuerpo con agua, y después entrará en el campamento; y será inmundo el sacerdote hasta la noche."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 877,
+      "char_end": 996,
+      "text": "Asimismo el que la quemó lavará sus vestidos en agua, también lavará en agua su cuerpo, y será inmundo hasta la noche."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 996,
+      "char_end": 1200,
+      "text": "Y un hombre limpio recogerá las cenizas de la vaca y las pondrá fuera del campamento en lugar limpio, y las guardará la congregación de los hijos de Israel para el agua de purificación; es una expiación."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1200,
+      "char_end": 1386,
+      "text": "Y el que recogió las cenizas de la vaca lavará sus vestidos, y será inmundo hasta la noche; y será estatuto perpetuo para los hijos de Israel, y para el extranjero que mora entre ellos."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1386,
+      "char_end": 1454,
+      "text": "El que tocare cadáver de cualquier persona será inmundo siete días."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1454,
+      "char_end": 1598,
+      "text": "Al tercer día se purificará con aquella agua, y al séptimo día será limpio; y si al tercer día no se purificare, no será limpio al séptimo día."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1598,
+      "char_end": 1856,
+      "text": "Todo aquel que tocare cadáver de cualquier persona, y no se purificare, el tabernáculo de Jehová contaminó, y aquella persona será cortada de Israel; por cuanto el agua de la purificación no fue rociada sobre él, inmundo será, y su inmundicia será sobre él."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1856,
+      "char_end": 1998,
+      "text": "Ésta es la ley para cuando alguno muera en la tienda: cualquiera que entre en la tienda, y todo el que esté en ella, será inmundo siete días."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1998,
+      "char_end": 2068,
+      "text": "Y toda vasija abierta, cuya tapa no esté bien ajustada, será inmunda;"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2068,
+      "char_end": 2208,
+      "text": "y cualquiera que tocare algún muerto a espada sobre la faz del campo, o algún cadáver, o hueso humano, o sepulcro, siete días será inmundo."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2208,
+      "char_end": 2337,
+      "text": "Y para el inmundo tomarán de la ceniza de la vaca quemada de la expiación, y echarán sobre ella agua corriente en un recipiente;"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2337,
+      "char_end": 2574,
+      "text": "y un hombre limpio tomará hisopo, y lo mojará en el agua, y rociará sobre la tienda, sobre todos los muebles, sobre las personas que allí estuvieren, y sobre aquel que hubiere tocado el hueso, o el asesinado, o el muerto, o el sepulcro."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2574,
+      "char_end": 2773,
+      "text": "Y el limpio rociará sobre el inmundo al tercero y al séptimo día; y cuando lo haya purificado al día séptimo, él lavará luego sus vestidos, y a sí mismo se lavará con agua, y será limpio a la noche."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2773,
+      "char_end": 2982,
+      "text": "Y el que fuere inmundo, y no se purificare, la tal persona será cortada de entre la congregación, por cuanto contaminó el tabernáculo de Jehová; no fue rociada sobre él el agua de la purificación; es inmundo."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2982,
+      "char_end": 3153,
+      "text": "Les será estatuto perpetuo; también el que rociare el agua de la purificación lavará sus vestidos; y el que tocare el agua de la purificación será inmundo hasta la noche."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3153,
+      "char_end": 3256,
+      "text": "Y todo lo que el inmundo tocare, será inmundo; y la persona que lo tocare será inmunda hasta la noche."
+    }
+  ],
+  "words": [
+    {
+      "word": "Jehová habló a Moisés y a Aarón, diciendo: Ésta es la ordenanza de la ley que Jehová ha prescrito, diciendo: Di a los hijos de Israel que te traigan una vaca alazana, perfecta, en la cual no haya falta, sobre la cual no se haya puesto yugo; y la daréis a Eleazar el sacerdote, y él la sacará fuera del campamento, y la hará degollar en su presencia.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 20712,
+      "duration_ms": 20612
+    },
+    {
+      "word": "Y Eleazar el sacerdote tomará de la sangre con su dedo, y rociará hacia la parte delantera del tabernáculo de reunión con la sangre de ella siete veces; y hará quemar la vaca ante sus ojos; su cuero y su carne y su sangre, con su estiércol, hará quemar.",
+      "verse": 4,
+      "start_ms": 20712,
+      "end_ms": 35899,
+      "duration_ms": 15187
+    },
+    {
+      "word": "Luego tomará el sacerdote madera de cedro, e hisopo, y escarlata, y lo echará en medio del fuego en que arde la vaca.",
+      "verse": 6,
+      "start_ms": 35900,
+      "end_ms": 43750,
+      "duration_ms": 7850
+    },
+    {
+      "word": "El sacerdote lavará luego sus vestidos, lavará también su cuerpo con agua, y después entrará en el campamento; y será inmundo el sacerdote hasta la noche.",
+      "verse": 7,
+      "start_ms": 43750,
+      "end_ms": 53437,
+      "duration_ms": 9687
+    },
+    {
+      "word": "Asimismo el que la quemó lavará sus vestidos en agua, también lavará en agua su cuerpo, y será inmundo hasta la noche.",
+      "verse": 8,
+      "start_ms": 53437,
+      "end_ms": 60824,
+      "duration_ms": 7387
+    },
+    {
+      "word": "Y un hombre limpio recogerá las cenizas de la vaca y las pondrá fuera del campamento en lugar limpio, y las guardará la congregación de los hijos de Israel para el agua de purificación; es una expiación.",
+      "verse": 9,
+      "start_ms": 60825,
+      "end_ms": 71837,
+      "duration_ms": 11012
+    },
+    {
+      "word": "Y el que recogió las cenizas de la vaca lavará sus vestidos, y será inmundo hasta la noche; y será estatuto perpetuo para los hijos de Israel, y para el extranjero que mora entre ellos.",
+      "verse": 10,
+      "start_ms": 71837,
+      "end_ms": 82887,
+      "duration_ms": 11050
+    },
+    {
+      "word": "El que tocare cadáver de cualquier persona será inmundo siete días.",
+      "verse": 11,
+      "start_ms": 82887,
+      "end_ms": 87512,
+      "duration_ms": 4625
+    },
+    {
+      "word": "Al tercer día se purificará con aquella agua, y al séptimo día será limpio; y si al tercer día no se purificare, no será limpio al séptimo día.",
+      "verse": 12,
+      "start_ms": 87512,
+      "end_ms": 96837,
+      "duration_ms": 9325
+    },
+    {
+      "word": "Todo aquel que tocare cadáver de cualquier persona, y no se purificare, el tabernáculo de Jehová contaminó, y aquella persona será cortada de Israel; por cuanto el agua de la purificación no fue rociada sobre él, inmundo será, y su inmundicia será sobre él.",
+      "verse": 13,
+      "start_ms": 96837,
+      "end_ms": 112562,
+      "duration_ms": 15725
+    },
+    {
+      "word": "Ésta es la ley para cuando alguno muera en la tienda: cualquiera que entre en la tienda, y todo el que esté en ella, será inmundo siete días.",
+      "verse": 14,
+      "start_ms": 112562,
+      "end_ms": 120912,
+      "duration_ms": 8350
+    },
+    {
+      "word": "Y toda vasija abierta, cuya tapa no esté bien ajustada, será inmunda; y cualquiera que tocare algún muerto a espada sobre la faz del campo, o algún cadáver, o hueso humano, o sepulcro, siete días será inmundo.",
+      "verse": 15,
+      "start_ms": 120912,
+      "end_ms": 134362,
+      "duration_ms": 13450
+    },
+    {
+      "word": "Y para el inmundo tomarán de la ceniza de la vaca quemada de la expiación, y echarán sobre ella agua corriente en un recipiente; y un hombre limpio tomará hisopo, y lo mojará en el agua, y rociará sobre la tienda, sobre todos los muebles, sobre las personas que allí estuvieren, y sobre aquel que hubiere tocado el hueso, o el asesinado, o el muerto, o el sepulcro.",
+      "verse": 17,
+      "start_ms": 134362,
+      "end_ms": 155399,
+      "duration_ms": 21037
+    },
+    {
+      "word": "Y el limpio rociará sobre el inmundo al tercero y al séptimo día; y cuando lo haya purificado al día séptimo, él lavará luego sus vestidos, y a sí mismo se lavará con agua, y será limpio a la noche.",
+      "verse": 19,
+      "start_ms": 155400,
+      "end_ms": 167475,
+      "duration_ms": 12075
+    },
+    {
+      "word": "Y el que fuere inmundo, y no se purificare, la tal persona será cortada de entre la congregación, por cuanto contaminó el tabernáculo de Jehová; no fue rociada sobre él el agua de la purificación; es inmundo.",
+      "verse": 20,
+      "start_ms": 167475,
+      "end_ms": 180037,
+      "duration_ms": 12562
+    },
+    {
+      "word": "Les será estatuto perpetuo; también el que rociare el agua de la purificación lavará sus vestidos; y el que tocare el agua de la purificación será inmundo hasta la noche.",
+      "verse": 21,
+      "start_ms": 180037,
+      "end_ms": 189987,
+      "duration_ms": 9950
+    },
+    {
+      "word": "Y todo lo que el inmundo tocare, será inmundo; y la persona que lo tocare será inmunda hasta la noche.",
+      "verse": 22,
+      "start_ms": 189987,
+      "end_ms": 196612,
+      "duration_ms": 6625
+    }
+  ]
+}

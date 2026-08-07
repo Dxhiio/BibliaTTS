@@ -1,0 +1,544 @@
+{
+  "book": "NUM",
+  "chapter": 11,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 35,
+  "word_count": 41,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 172,
+      "text": "Aconteció que el pueblo se quejó a oídos de Jehová; y lo oyó Jehová, y ardió su ira, y se encendió en ellos fuego de Jehová, y consumió uno de los extremos del campamento."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 172,
+      "char_end": 255,
+      "text": "Entonces el pueblo clamó a Moisés, y Moisés oró a Jehová, y el fuego se extinguió."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 255,
+      "char_end": 333,
+      "text": "Y llamó a aquel lugar Tabera, porque el fuego de Jehová se encendió en ellos."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 333,
+      "char_end": 491,
+      "text": "Y la gente extranjera que se mezcló con ellos tuvo un vivo deseo, y los hijos de Israel también volvieron a llorar y dijeron: ¡Quién nos diera a comer carne!"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 491,
+      "char_end": 617,
+      "text": "Nos acordamos del pescado que comíamos en Egipto de balde, de los pepinos, los melones, los puerros, las cebollas y los ajos;"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 617,
+      "char_end": 691,
+      "text": "y ahora nuestra alma se seca; pues nada sino este maná ven nuestros ojos."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 691,
+      "char_end": 765,
+      "text": "Y era el maná como semilla de culantro, y su color como color de bedelio."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 765,
+      "char_end": 933,
+      "text": "El pueblo se esparcía y lo recogía, y lo molía en molinos o lo majaba en morteros, y lo cocía en caldera o hacía de él tortas; su sabor era como sabor de aceite nuevo."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 933,
+      "char_end": 1019,
+      "text": "Y cuando descendía el rocío sobre el campamento de noche, el maná descendía sobre él."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1019,
+      "char_end": 1188,
+      "text": "Y oyó Moisés al pueblo, que lloraba por sus familias, cada uno a la puerta de su tienda; y la ira de Jehová se encendió en gran manera; también le pareció mal a Moisés."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1188,
+      "char_end": 1347,
+      "text": "Y dijo Moisés a Jehová: ¿Por qué has hecho mal a tu siervo? ¿y por qué no he hallado gracia en tus ojos, que has puesto la carga de todo este pueblo sobre mí?"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1347,
+      "char_end": 1516,
+      "text": "¿Concebí yo a todo este pueblo? ¿Lo engendré yo, para que me digas: Llévalo en tu seno, como lleva la que cría al que mama, a la tierra de la cual juraste a sus padres?"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1516,
+      "char_end": 1630,
+      "text": "¿De dónde conseguiré yo carne para dar a todo este pueblo? Porque lloran a mí, diciendo: Danos carne que comamos."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1630,
+      "char_end": 1705,
+      "text": "No puedo yo solo soportar a todo este pueblo, que me es pesado en demasía."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1705,
+      "char_end": 1824,
+      "text": "Y si así lo haces tú conmigo, yo te ruego que me des muerte, si he hallado gracia en tus ojos; y que yo no vea mi mal."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1824,
+      "char_end": 2040,
+      "text": "Entonces Jehová dijo a Moisés: Reúneme setenta varones de los ancianos de Israel, que tú sabes que son ancianos del pueblo y sus principales; y tráelos a la puerta del tabernáculo de reunión, y esperen allí contigo."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2040,
+      "char_end": 2203,
+      "text": "Y yo descenderé y hablaré allí contigo, y tomaré del espíritu que está en ti, y pondré en ellos; y llevarán contigo la carga del pueblo, y no la llevarás tú solo."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2203,
+      "char_end": 2431,
+      "text": "Pero al pueblo dirás: Santificaos para mañana, y comeréis carne; porque habéis llorado en oídos de Jehová, diciendo: ¡Quién nos diera a comer carne! ¡Ciertamente mejor nos iba en Egipto! Jehová, pues, os dará carne, y comeréis."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2431,
+      "char_end": 2509,
+      "text": "No comeréis un día, ni dos días, ni cinco días, ni diez días, ni veinte días,"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2509,
+      "char_end": 2728,
+      "text": "sino hasta un mes entero, hasta que os salga por las narices, y la aborrezcáis, por cuanto menospreciasteis a Jehová que está en medio de vosotros, y llorasteis delante de él, diciendo: ¿Para qué salimos acá de Egipto?"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2728,
+      "char_end": 2870,
+      "text": "Entonces dijo Moisés: Seiscientos mil de a pie es el pueblo en medio del cual yo estoy; ¡y tú dices: Les daré carne, y comerán un mes entero!"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2870,
+      "char_end": 3002,
+      "text": "¿Se degollarán para ellos ovejas y bueyes que les basten? ¿o se juntarán para ellos todos los peces del mar para que tengan abasto?"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3002,
+      "char_end": 3122,
+      "text": "Entonces Jehová respondió a Moisés: ¿Acaso se ha acortado la mano de Jehová? Ahora verás si se cumple mi palabra, o no."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3122,
+      "char_end": 3281,
+      "text": "Y salió Moisés y dijo al pueblo las palabras de Jehová; y reunió a los setenta varones de los ancianos del pueblo, y los hizo estar alrededor del tabernáculo."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3281,
+      "char_end": 3479,
+      "text": "Entonces Jehová descendió en la nube, y le habló; y tomó del espíritu que estaba en él, y lo puso en los setenta varones ancianos; y cuando posó sobre ellos el espíritu, profetizaron, y no cesaron."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3479,
+      "char_end": 3716,
+      "text": "Y habían quedado en el campamento dos varones, llamados el uno Eldad y el otro Medad, sobre los cuales también reposó el espíritu; estaban éstos entre los inscritos, pero no habían venido al tabernáculo; y profetizaron en el campamento."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3716,
+      "char_end": 3807,
+      "text": "Y corrió un joven y dio aviso a Moisés, y dijo: Eldad y Medad profetizan en el campamento."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3807,
+      "char_end": 3922,
+      "text": "Entonces respondió Josué hijo de Nun, ayudante de Moisés, uno de sus jóvenes, y dijo: Señor mío Moisés, impídelos."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3922,
+      "char_end": 4062,
+      "text": "Y Moisés le respondió: ¿Tienes tú celos por mí? Ojalá todo el pueblo de Jehová fuese profeta, y que Jehová pusiera su espíritu sobre ellos."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4062,
+      "char_end": 4122,
+      "text": "Y Moisés volvió al campamento, él y los ancianos de Israel."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4122,
+      "char_end": 4336,
+      "text": "Y vino un viento de Jehová, y trajo codornices del mar, y las dejó sobre el campamento, un día de camino a un lado, y un día de camino al otro, alrededor del campamento, y casi dos codos sobre la faz de la tierra."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4336,
+      "char_end": 4552,
+      "text": "Entonces el pueblo estuvo levantado todo aquel día y toda la noche, y todo el día siguiente, y recogieron codornices; el que menos, recogió diez montones; y las tendieron para sí a lo largo alrededor del campamento."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4552,
+      "char_end": 4728,
+      "text": "Aún estaba la carne entre los dientes de ellos, antes que fuese masticada, cuando la ira de Jehová se encendió en el pueblo, e hirió Jehová al pueblo con una plaga muy grande."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4728,
+      "char_end": 4825,
+      "text": "Y llamó el nombre de aquel lugar Kibrot-hataava, por cuanto allí sepultaron al pueblo codicioso."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4825,
+      "char_end": 4894,
+      "text": "De Kibrot-hataava partió el pueblo a Hazerot, y se quedó en Hazerot."
+    }
+  ],
+  "words": [
+    {
+      "word": "Aconteció que el pueblo se quejó a oídos de Jehová; y lo oyó Jehová, y ardió su ira, y se encendió en ellos fuego de Jehová, y consumió uno de los extremos del campamento.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 10650,
+      "duration_ms": 10550
+    },
+    {
+      "word": "Entonces el pueblo clamó a Moisés, y Moisés oró a Jehová, y el fuego se extinguió.",
+      "verse": 2,
+      "start_ms": 10600,
+      "end_ms": 16387,
+      "duration_ms": 5787
+    },
+    {
+      "word": "Y llamó a aquel lugar Tabera, porque el fuego de Jehová se encendió en ellos.",
+      "verse": 3,
+      "start_ms": 16387,
+      "end_ms": 21424,
+      "duration_ms": 5037
+    },
+    {
+      "word": "Y la gente extranjera que se mezcló con ellos tuvo un vivo deseo, y los hijos de Israel también volvieron a llorar y dijeron: ¡Quién nos diera a comer carne!",
+      "verse": 4,
+      "start_ms": 21425,
+      "end_ms": 30237,
+      "duration_ms": 8812
+    },
+    {
+      "word": "Nos acordamos del pescado que comíamos en Egipto de balde, de los pepinos, los melones, los puerros, las cebollas y los ajos; y ahora nuestra alma se seca; pues nada sino este maná ven nuestros ojos.",
+      "verse": 5,
+      "start_ms": 30237,
+      "end_ms": 43349,
+      "duration_ms": 13112
+    },
+    {
+      "word": "Y era el maná como semilla de culantro, y su color como color de bedelio.",
+      "verse": 7,
+      "start_ms": 43350,
+      "end_ms": 48250,
+      "duration_ms": 4900
+    },
+    {
+      "word": "El pueblo se esparcía y lo recogía, y lo molía en molinos o lo majaba en morteros, y lo cocía en caldera o hacía de él tortas; su sabor era como sabor de aceite nuevo.",
+      "verse": 8,
+      "start_ms": 48250,
+      "end_ms": 58800,
+      "duration_ms": 10550
+    },
+    {
+      "word": "Y cuando descendía el rocío sobre el campamento de noche, el maná descendía sobre él.",
+      "verse": 9,
+      "start_ms": 58800,
+      "end_ms": 64425,
+      "duration_ms": 5625
+    },
+    {
+      "word": "Y oyó Moisés al pueblo, que lloraba por sus familias, cada uno a la puerta de su tienda; y la ira de Jehová se encendió en gran manera; también le pareció mal a Moisés.",
+      "verse": 10,
+      "start_ms": 64425,
+      "end_ms": 74837,
+      "duration_ms": 10412
+    },
+    {
+      "word": "Y dijo Moisés a Jehová: ¿Por qué has hecho mal a tu siervo?",
+      "verse": 11,
+      "start_ms": 74837,
+      "end_ms": 79137,
+      "duration_ms": 4300
+    },
+    {
+      "word": "y por qué no he hallado gracia en tus ojos, que has puesto la carga de todo este pueblo sobre mí?",
+      "verse": 11,
+      "start_ms": 79137,
+      "end_ms": 85074,
+      "duration_ms": 5937
+    },
+    {
+      "word": "Concebí yo a todo este pueblo?",
+      "verse": 12,
+      "start_ms": 85075,
+      "end_ms": 87750,
+      "duration_ms": 2675
+    },
+    {
+      "word": "Lo engendré yo, para que me digas: Llévalo en tu seno, como lleva la que cría al que mama, a la tierra de la cual juraste a sus padres?",
+      "verse": 12,
+      "start_ms": 87750,
+      "end_ms": 96450,
+      "duration_ms": 8700
+    },
+    {
+      "word": "De dónde conseguiré yo carne para dar a todo este pueblo?",
+      "verse": 13,
+      "start_ms": 96450,
+      "end_ms": 100237,
+      "duration_ms": 3787
+    },
+    {
+      "word": "Porque lloran a mí, diciendo: Danos carne que comamos.",
+      "verse": 13,
+      "start_ms": 100237,
+      "end_ms": 104637,
+      "duration_ms": 4400
+    },
+    {
+      "word": "No puedo yo solo soportar a todo este pueblo, que me es pesado en demasía.",
+      "verse": 14,
+      "start_ms": 104637,
+      "end_ms": 109649,
+      "duration_ms": 5012
+    },
+    {
+      "word": "Y si así lo haces tú conmigo, yo te ruego que me des muerte, si he hallado gracia en tus ojos; y que yo no vea mi mal.",
+      "verse": 15,
+      "start_ms": 109650,
+      "end_ms": 117312,
+      "duration_ms": 7662
+    },
+    {
+      "word": "Entonces Jehová dijo a Moisés: Reúneme setenta varones de los ancianos de Israel, que tú sabes que son ancianos del pueblo y sus principales; y tráelos a la puerta del tabernáculo de reunión, y esperen allí contigo.",
+      "verse": 16,
+      "start_ms": 117312,
+      "end_ms": 130424,
+      "duration_ms": 13112
+    },
+    {
+      "word": "Y yo descenderé y hablaré allí contigo, y tomaré del espíritu que está en ti, y pondré en ellos; y llevarán contigo la carga del pueblo, y no la llevarás tú solo.",
+      "verse": 17,
+      "start_ms": 130425,
+      "end_ms": 140737,
+      "duration_ms": 10312
+    },
+    {
+      "word": "Pero al pueblo dirás: Santificaos para mañana, y comeréis carne; porque habéis llorado en oídos de Jehová, diciendo: ¡Quién nos diera a comer carne!",
+      "verse": 18,
+      "start_ms": 140737,
+      "end_ms": 150112,
+      "duration_ms": 9375
+    },
+    {
+      "word": "Ciertamente mejor nos iba en Egipto!",
+      "verse": 18,
+      "start_ms": 150112,
+      "end_ms": 153087,
+      "duration_ms": 2975
+    },
+    {
+      "word": "Jehová, pues, os dará carne, y comeréis.",
+      "verse": 18,
+      "start_ms": 153087,
+      "end_ms": 157037,
+      "duration_ms": 3950
+    },
+    {
+      "word": "No comeréis un día, ni dos días, ni cinco días, ni diez días, ni veinte días, sino hasta un mes entero, hasta que os salga por las narices, y la aborrezcáis, por cuanto menospreciasteis a Jehová que está en medio de vosotros, y llorasteis delante de él, diciendo: ¿Para qué salimos acá de Egipto?",
+      "verse": 19,
+      "start_ms": 157037,
+      "end_ms": 176062,
+      "duration_ms": 19025
+    },
+    {
+      "word": "Entonces dijo Moisés: Seiscientos mil de a pie es el pueblo en medio del cual yo estoy; ¡y tú dices: Les daré carne, y comerán un mes entero!",
+      "verse": 21,
+      "start_ms": 176062,
+      "end_ms": 185412,
+      "duration_ms": 9350
+    },
+    {
+      "word": "Se degollarán para ellos ovejas y bueyes que les basten?",
+      "verse": 22,
+      "start_ms": 185412,
+      "end_ms": 189174,
+      "duration_ms": 3762
+    },
+    {
+      "word": "o se juntarán para ellos todos los peces del mar para que tengan abasto?",
+      "verse": 22,
+      "start_ms": 189175,
+      "end_ms": 193637,
+      "duration_ms": 4462
+    },
+    {
+      "word": "Entonces Jehová respondió a Moisés: ¿Acaso se ha acortado la mano de Jehová?",
+      "verse": 23,
+      "start_ms": 193637,
+      "end_ms": 198999,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Ahora verás si se cumple mi palabra, o no. Y salió Moisés y dijo al pueblo las palabras de Jehová; y reunió a los setenta varones de los ancianos del pueblo, y los hizo estar alrededor del tabernáculo.",
+      "verse": 23,
+      "start_ms": 199000,
+      "end_ms": 210362,
+      "duration_ms": 11362
+    },
+    {
+      "word": "Entonces Jehová descendió en la nube, y le habló; y tomó del espíritu que estaba en él, y lo puso en los setenta varones ancianos; y cuando posó sobre ellos el espíritu, profetizaron, y no cesaron.",
+      "verse": 25,
+      "start_ms": 210362,
+      "end_ms": 222799,
+      "duration_ms": 12437
+    },
+    {
+      "word": "Y habían quedado en el campamento dos varones, llamados el uno Eldad y el otro Medad, sobre los cuales también reposó el espíritu; estaban éstos entre los inscritos, pero no habían venido al tabernáculo; y profetizaron en el campamento.",
+      "verse": 26,
+      "start_ms": 222800,
+      "end_ms": 237000,
+      "duration_ms": 14200
+    },
+    {
+      "word": "Y corrió un joven y dio aviso a Moisés, y dijo: Eldad y Medad profetizan en el campamento.",
+      "verse": 27,
+      "start_ms": 237000,
+      "end_ms": 243500,
+      "duration_ms": 6500
+    },
+    {
+      "word": "Entonces respondió Josué hijo de Nun, ayudante de Moisés, uno de sus jóvenes, y dijo: Señor mío Moisés, impídelos.",
+      "verse": 28,
+      "start_ms": 243500,
+      "end_ms": 252375,
+      "duration_ms": 8875
+    },
+    {
+      "word": "Y Moisés le",
+      "verse": 29,
+      "start_ms": 252375,
+      "end_ms": 254137,
+      "duration_ms": 1762
+    },
+    {
+      "word": "respondió: ¿Tienes tú celos por mí?",
+      "verse": 29,
+      "start_ms": 254308,
+      "end_ms": 257333,
+      "duration_ms": 3025
+    },
+    {
+      "word": "Ojalá todo el pueblo de Jehová fuese profeta, y que Jehová pusiera su espíritu sobre ellos.",
+      "verse": 29,
+      "start_ms": 257283,
+      "end_ms": 263295,
+      "duration_ms": 6012
+    },
+    {
+      "word": "Y Moisés volvió al campamento, él y los ancianos de Israel.",
+      "verse": 30,
+      "start_ms": 263295,
+      "end_ms": 267707,
+      "duration_ms": 4412
+    },
+    {
+      "word": "Y vino un viento de Jehová, y trajo codornices del mar, y las dejó sobre el campamento, un día de camino a un lado, y un día de camino al otro, alrededor del campamento, y casi dos codos sobre la faz de la tierra.",
+      "verse": 31,
+      "start_ms": 267708,
+      "end_ms": 281083,
+      "duration_ms": 13375
+    },
+    {
+      "word": "Entonces el pueblo estuvo levantado todo aquel día y toda la noche, y todo el día siguiente, y recogieron codornices; el que menos, recogió diez montones; y las tendieron para sí a lo largo alrededor del campamento.",
+      "verse": 32,
+      "start_ms": 281083,
+      "end_ms": 294558,
+      "duration_ms": 13475
+    },
+    {
+      "word": "Aún estaba la carne entre los dientes de ellos, antes que fuese masticada, cuando la ira de Jehová se encendió en el pueblo, e hirió Jehová al pueblo con una plaga muy grande.",
+      "verse": 33,
+      "start_ms": 294558,
+      "end_ms": 304720,
+      "duration_ms": 10162
+    },
+    {
+      "word": "Y llamó el nombre de aquel lugar Kibrot-hataava, por cuanto allí sepultaron al pueblo codicioso.",
+      "verse": 34,
+      "start_ms": 304720,
+      "end_ms": 310745,
+      "duration_ms": 6025
+    },
+    {
+      "word": "De Kibrot-hataava partió el pueblo a Hazerot, y se quedó en Hazerot.",
+      "verse": 35,
+      "start_ms": 310745,
+      "end_ms": 315295,
+      "duration_ms": 4550
+    }
+  ]
+}

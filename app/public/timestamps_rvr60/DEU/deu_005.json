@@ -1,0 +1,474 @@
+{
+  "book": "DEU",
+  "chapter": 5,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 33,
+  "word_count": 33,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 168,
+      "text": "Llamó Moisés a todo Israel y les dijo: Oye, Israel, los estatutos y decretos que yo pronuncio hoy en vuestros oídos; aprendedlos, y guardadlos, para ponerlos por obra."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 168,
+      "char_end": 222,
+      "text": "Jehová nuestro Dios hizo pacto con nosotros en Horeb."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 222,
+      "char_end": 325,
+      "text": "No con nuestros padres hizo Jehová este pacto, sino con nosotros todos los que estamos aquí hoy vivos."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 325,
+      "char_end": 398,
+      "text": "Cara a cara habló Jehová con vosotros en el monte de en medio del fuego."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 398,
+      "char_end": 554,
+      "text": "Yo estaba entonces entre Jehová y vosotros, para declararos la palabra de Jehová; porque vosotros tuvisteis temor del fuego, y no subisteis al monte. Dijo:"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 554,
+      "char_end": 635,
+      "text": "Yo soy Jehová tu Dios, que te saqué de tierra de Egipto, de casa de servidumbre."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 635,
+      "char_end": 675,
+      "text": "No tendrás dioses ajenos delante de mí."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 675,
+      "char_end": 819,
+      "text": "No harás para ti escultura, ni imagen alguna de cosa que está arriba en los cielos, ni abajo en la tierra, ni en las aguas debajo de la tierra."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 819,
+      "char_end": 1020,
+      "text": "No te inclinarás a ellas ni las servirás; porque yo soy Jehová tu Dios, fuerte, celoso, que visito la maldad de los padres sobre los hijos hasta la tercera y cuarta generación de los que me aborrecen,"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1020,
+      "char_end": 1102,
+      "text": "y que hago misericordia a millares, a los que me aman y guardan mis mandamientos."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1102,
+      "char_end": 1216,
+      "text": "No tomarás el nombre de Jehová tu Dios en vano; porque Jehová no dará por inocente al que tome su nombre en vano."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1216,
+      "char_end": 1297,
+      "text": "Guardarás el día de reposo para santificarlo, como Jehová tu Dios te ha mandado."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1297,
+      "char_end": 1341,
+      "text": "Seis días trabajarás, y harás toda tu obra;"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1341,
+      "char_end": 1608,
+      "text": "mas el séptimo día es reposo a Jehová tu Dios; ninguna obra harás tú, ni tu hijo, ni tu hija, ni tu siervo, ni tu sierva, ni tu buey, ni tu asno, ni ningún animal tuyo, ni el extranjero que está dentro de tus puertas, para que descanse tu siervo y tu sierva como tú."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1608,
+      "char_end": 1800,
+      "text": "Acuérdate que fuiste siervo en tierra de Egipto, y que Jehová tu Dios te sacó de allá con mano fuerte y brazo extendido; por lo cual Jehová tu Dios te ha mandado que guardes el día de reposo."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1800,
+      "char_end": 1968,
+      "text": "Honra a tu padre y a tu madre, como Jehová tu Dios te ha mandado, para que sean prolongados tus días, y para que te vaya bien sobre la tierra que Jehová tu Dios te da."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1968,
+      "char_end": 1980,
+      "text": "No matarás."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1980,
+      "char_end": 2004,
+      "text": "No cometerás adulterio."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2004,
+      "char_end": 2017,
+      "text": "No hurtarás."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2017,
+      "char_end": 2062,
+      "text": "No dirás falso testimonio contra tu prójimo."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2062,
+      "char_end": 2266,
+      "text": "No codiciarás la mujer de tu prójimo, ni desearás la casa de tu prójimo, ni su tierra, ni su siervo, ni su sierva, ni su buey, ni su asno, ni cosa alguna de tu prójimo. El terror del pueblo (Ex 20.18–26)"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2266,
+      "char_end": 2481,
+      "text": "Estas palabras habló Jehová a toda vuestra congregación en el monte, de en medio del fuego, de la nube y de la oscuridad, a gran voz; y no añadió más. Y las escribió en dos tablas de piedra, las cuales me dio a mí."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2481,
+      "char_end": 2674,
+      "text": "Y aconteció que cuando vosotros oísteis la voz de en medio de las tinieblas, y visteis al monte que ardía en fuego, vinisteis a mí, todos los príncipes de vuestras tribus, y vuestros ancianos,"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2674,
+      "char_end": 2860,
+      "text": "y dijisteis: He aquí Jehová nuestro Dios nos ha mostrado su gloria y su grandeza, y hemos oído su voz de en medio del fuego; hoy hemos visto que Jehová habla al hombre, y éste aún vive."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2860,
+      "char_end": 2998,
+      "text": "Ahora, pues, ¿por qué vamos a morir? Porque este gran fuego nos consumirá; si oyéremos otra vez la voz de Jehová nuestro Dios, moriremos."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2998,
+      "char_end": 3132,
+      "text": "Porque ¿qué es el hombre, para que oiga la voz del Dios viviente que habla de en medio del fuego, como nosotros la oímos, y aún viva?"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3132,
+      "char_end": 3287,
+      "text": "Acércate tú, y oye todas las cosas que dijere Jehová nuestro Dios; y tú nos dirás todo lo que Jehová nuestro Dios te dijere, y nosotros oiremos y haremos."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3287,
+      "char_end": 3473,
+      "text": "Y oyó Jehová la voz de vuestras palabras cuando me hablabais, y me dijo Jehová: He oído la voz de las palabras de este pueblo, que ellos te han hablado; bien está todo lo que han dicho."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3473,
+      "char_end": 3639,
+      "text": "¡Quién diera que tuviesen tal corazón, que me temiesen y guardasen todos los días todos mis mandamientos, para que a ellos y a sus hijos les fuese bien para siempre!"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3639,
+      "char_end": 3679,
+      "text": "Ve y diles: Volveos a vuestras tiendas."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3679,
+      "char_end": 3862,
+      "text": "Y tú quédate aquí conmigo, y te diré todos los mandamientos y estatutos y decretos que les enseñarás, a fin de que los pongan ahora por obra en la tierra que yo les doy por posesión."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3862,
+      "char_end": 3967,
+      "text": "Mirad, pues, que hagáis como Jehová vuestro Dios os ha mandado; no os apartéis a diestra ni a siniestra."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3967,
+      "char_end": 4119,
+      "text": "Andad en todo el camino que Jehová vuestro Dios os ha mandado, para que viváis y os vaya bien, y tengáis largos días en la tierra que habéis de poseer."
+    }
+  ],
+  "words": [
+    {
+      "word": "Llamó Moisés a todo Israel y les dijo: Oye, Israel, los estatutos y decretos que yo pronuncio hoy en vuestros oídos; aprendedlos, y guardadlos, para ponerlos por obra.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 11912,
+      "duration_ms": 11812
+    },
+    {
+      "word": "Jehová nuestro Dios hizo pacto con nosotros en Horeb.",
+      "verse": 2,
+      "start_ms": 11862,
+      "end_ms": 15474,
+      "duration_ms": 3612
+    },
+    {
+      "word": "No con nuestros padres hizo Jehová este pacto, sino con nosotros todos los que estamos aquí hoy vivos.",
+      "verse": 3,
+      "start_ms": 15475,
+      "end_ms": 21775,
+      "duration_ms": 6300
+    },
+    {
+      "word": "Cara a cara habló Jehová con vosotros en el monte de en medio del fuego.",
+      "verse": 4,
+      "start_ms": 21775,
+      "end_ms": 26437,
+      "duration_ms": 4662
+    },
+    {
+      "word": "Yo estaba entonces entre Jehová y vosotros, para declararos la palabra de Jehová; porque vosotros tuvisteis temor del fuego, y no subisteis al monte.",
+      "verse": 5,
+      "start_ms": 26437,
+      "end_ms": 35549,
+      "duration_ms": 9112
+    },
+    {
+      "word": "Dijo: Yo soy Jehová tu Dios, que te saqué de tierra de Egipto, de casa de servidumbre.",
+      "verse": 5,
+      "start_ms": 35550,
+      "end_ms": 41737,
+      "duration_ms": 6187
+    },
+    {
+      "word": "No tendrás dioses ajenos delante de mí.",
+      "verse": 7,
+      "start_ms": 41737,
+      "end_ms": 44724,
+      "duration_ms": 2987
+    },
+    {
+      "word": "No harás para ti escultura, ni imagen alguna de cosa que está arriba en los cielos, ni abajo en la tierra, ni en las aguas debajo de la tierra.",
+      "verse": 8,
+      "start_ms": 44725,
+      "end_ms": 53262,
+      "duration_ms": 8537
+    },
+    {
+      "word": "No te inclinarás a ellas ni las servirás; porque yo soy Jehová tu Dios, fuerte, celoso, que visito la maldad de los padres sobre los hijos hasta la tercera y cuarta generación de los que me aborrecen, y que hago misericordia a millares, a los que me aman y guardan mis mandamientos.",
+      "verse": 9,
+      "start_ms": 53262,
+      "end_ms": 69837,
+      "duration_ms": 16575
+    },
+    {
+      "word": "No tomarás el nombre de Jehová tu Dios en vano; porque Jehová no dará por inocente al que tome su nombre en vano.",
+      "verse": 11,
+      "start_ms": 69837,
+      "end_ms": 76562,
+      "duration_ms": 6725
+    },
+    {
+      "word": "Guardarás el día de reposo para santificarlo, como Jehová tu Dios te ha mandado.",
+      "verse": 12,
+      "start_ms": 76562,
+      "end_ms": 81937,
+      "duration_ms": 5375
+    },
+    {
+      "word": "Seis días trabajarás, y harás toda tu obra; mas el séptimo día es reposo a Jehová tu Dios; ninguna obra harás tú, ni tu hijo, ni tu hija, ni tu siervo, ni tu sierva, ni tu buey, ni tu asno, ni ningún animal tuyo, ni el extranjero que está dentro de tus puertas, para que descanse tu siervo y tu sierva como tú.",
+      "verse": 13,
+      "start_ms": 81937,
+      "end_ms": 102674,
+      "duration_ms": 20737
+    },
+    {
+      "word": "Acuérdate que fuiste siervo en tierra de Egipto, y que Jehová tu Dios te sacó de allá con mano fuerte y brazo extendido; por lo cual Jehová tu Dios te ha mandado que guardes el día de reposo.",
+      "verse": 15,
+      "start_ms": 102675,
+      "end_ms": 113412,
+      "duration_ms": 10737
+    },
+    {
+      "word": "Honra a tu padre y a tu madre, como Jehová tu Dios te ha mandado, para que sean prolongados tus días, y para que te vaya bien sobre la tierra que Jehová tu Dios te da.",
+      "verse": 16,
+      "start_ms": 113412,
+      "end_ms": 123112,
+      "duration_ms": 9700
+    },
+    {
+      "word": "No matarás.",
+      "verse": 17,
+      "start_ms": 123112,
+      "end_ms": 124874,
+      "duration_ms": 1762
+    },
+    {
+      "word": "No cometerás adulterio.",
+      "verse": 18,
+      "start_ms": 124875,
+      "end_ms": 127187,
+      "duration_ms": 2312
+    },
+    {
+      "word": "No hurtarás.",
+      "verse": 19,
+      "start_ms": 127187,
+      "end_ms": 129049,
+      "duration_ms": 1862
+    },
+    {
+      "word": "No dirás falso testimonio contra tu prójimo.",
+      "verse": 20,
+      "start_ms": 129050,
+      "end_ms": 132512,
+      "duration_ms": 3462
+    },
+    {
+      "word": "No codiciarás la mujer de tu prójimo, ni desearás la casa de tu prójimo, ni su tierra, ni su siervo, ni su sierva, ni su buey, ni su asno, ni cosa alguna de tu prójimo.",
+      "verse": 21,
+      "start_ms": 132512,
+      "end_ms": 143937,
+      "duration_ms": 11425
+    },
+    {
+      "word": "El terror del pueblo (Ex 20.18–26) Estas palabras habló Jehová a toda vuestra congregación en el monte, de en medio del fuego, de la nube y de la oscuridad, a gran voz; y no añadió más.",
+      "verse": 21,
+      "start_ms": 143937,
+      "end_ms": 157349,
+      "duration_ms": 13412
+    },
+    {
+      "word": "Y las escribió en dos tablas de piedra, las cuales me dio a mí.",
+      "verse": 22,
+      "start_ms": 157350,
+      "end_ms": 161712,
+      "duration_ms": 4362
+    },
+    {
+      "word": "Y aconteció que cuando vosotros oísteis la voz de en medio de las tinieblas, y visteis al monte que ardía en fuego, vinisteis a mí, todos los príncipes de vuestras tribus, y vuestros ancianos, y dijisteis: He aquí Jehová nuestro Dios nos ha mostrado su gloria y su grandeza, y hemos oído su voz de en medio del fuego; hoy hemos visto que Jehová habla al hombre, y éste aún vive.",
+      "verse": 23,
+      "start_ms": 161712,
+      "end_ms": 183449,
+      "duration_ms": 21737
+    },
+    {
+      "word": "Ahora, pues, ¿por qué vamos a morir?",
+      "verse": 25,
+      "start_ms": 183450,
+      "end_ms": 186812,
+      "duration_ms": 3362
+    },
+    {
+      "word": "Porque este gran fuego nos consumirá; si oyéremos otra vez la voz de Jehová nuestro Dios, moriremos.",
+      "verse": 25,
+      "start_ms": 186812,
+      "end_ms": 193462,
+      "duration_ms": 6650
+    },
+    {
+      "word": "Porque ¿qué es el hombre, para que oiga la voz del Dios viviente que habla de en medio del fuego, como nosotros la oímos, y aún viva?",
+      "verse": 26,
+      "start_ms": 193462,
+      "end_ms": 201837,
+      "duration_ms": 8375
+    },
+    {
+      "word": "Acércate tú, y oye todas las cosas que dijere Jehová nuestro Dios; y tú nos dirás todo lo que Jehová nuestro Dios te dijere, y nosotros oiremos y haremos.",
+      "verse": 27,
+      "start_ms": 201837,
+      "end_ms": 211574,
+      "duration_ms": 9737
+    },
+    {
+      "word": "Y oyó Jehová la voz de vuestras palabras cuando me hablabais, y me dijo Jehová: He oído la voz de las palabras de este pueblo, que ellos te han hablado; bien está todo lo que han dicho.",
+      "verse": 28,
+      "start_ms": 211575,
+      "end_ms": 222262,
+      "duration_ms": 10687
+    },
+    {
+      "word": "Quién diera que tuviesen tal corazón, que me temiesen y guardasen todos los días todos mis mandamientos, para que a ellos y a sus hijos les fuese bien para siempre!",
+      "verse": 29,
+      "start_ms": 222262,
+      "end_ms": 231699,
+      "duration_ms": 9437
+    },
+    {
+      "word": "Ve y diles: Volveos a vuestras tiendas.",
+      "verse": 30,
+      "start_ms": 231700,
+      "end_ms": 235537,
+      "duration_ms": 3837
+    },
+    {
+      "word": "Y tú quédate aquí conmigo, y te diré todos los mandamientos y estatutos y decretos que les enseñarás, a fin de que los pongan ahora por obra en la tierra que yo les doy por posesión.",
+      "verse": 31,
+      "start_ms": 235537,
+      "end_ms": 246074,
+      "duration_ms": 10537
+    },
+    {
+      "word": "Mirad, pues, que hagáis como Jehová vuestro Dios os ha mandado; no os apartéis a diestra ni a siniestra.",
+      "verse": 32,
+      "start_ms": 246075,
+      "end_ms": 253387,
+      "duration_ms": 7312
+    },
+    {
+      "word": "Andad en todo el",
+      "verse": 33,
+      "start_ms": 253387,
+      "end_ms": 255449,
+      "duration_ms": 2062
+    },
+    {
+      "word": "camino que Jehová vuestro Dios os ha mandado, para que viváis y os vaya bien, y tengáis largos días en la tierra que habéis de poseer.",
+      "verse": 33,
+      "start_ms": 255604,
+      "end_ms": 263541,
+      "duration_ms": 7937
+    }
+  ]
+}

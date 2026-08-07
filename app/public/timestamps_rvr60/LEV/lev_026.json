@@ -1,0 +1,621 @@
+{
+  "book": "LEV",
+  "chapter": 26,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 46,
+  "word_count": 41,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 177,
+      "text": "No haréis para vosotros ídolos, ni escultura, ni os levantaréis estatua, ni pondréis en vuestra tierra piedra pintada para inclinaros a ella; porque yo soy Jehová vuestro Dios."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 177,
+      "char_end": 252,
+      "text": "Guardad mis días de reposo, y tened en reverencia mi santuario. Yo Jehová."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 252,
+      "char_end": 340,
+      "text": "Si anduviereis en mis decretos y guardareis mis mandamientos, y los pusiereis por obra,"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 340,
+      "char_end": 448,
+      "text": "yo daré vuestra lluvia en su tiempo, y la tierra rendirá sus productos, y el árbol del campo dará su fruto."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 448,
+      "char_end": 607,
+      "text": "Vuestra trilla alcanzará a la vendimia, y la vendimia alcanzará a la sementera, y comeréis vuestro pan hasta saciaros, y habitaréis seguros en vuestra tierra."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 607,
+      "char_end": 768,
+      "text": "Y yo daré paz en la tierra, y dormiréis, y no habrá quien os espante; y haré quitar de vuestra tierra las malas bestias, y la espada no pasará por vuestro país."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 768,
+      "char_end": 843,
+      "text": "Y perseguiréis a vuestros enemigos, y caerán a espada delante de vosotros."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 843,
+      "char_end": 993,
+      "text": "Cinco de vosotros perseguirán a ciento, y ciento de vosotros perseguirán a diez mil, y vuestros enemigos caerán a filo de espada delante de vosotros."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 993,
+      "char_end": 1097,
+      "text": "Porque yo me volveré a vosotros, y os haré crecer, y os multiplicaré, y afirmaré mi pacto con vosotros."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1097,
+      "char_end": 1181,
+      "text": "Comeréis lo añejo de mucho tiempo, y pondréis fuera lo añejo para guardar lo nuevo."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1181,
+      "char_end": 1249,
+      "text": "Y pondré mi morada en medio de vosotros, y mi alma no os abominará;"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1249,
+      "char_end": 1327,
+      "text": "y andaré entre vosotros, y yo seré vuestro Dios, y vosotros seréis mi pueblo."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1327,
+      "char_end": 1550,
+      "text": "Yo Jehová vuestro Dios, que os saqué de la tierra de Egipto, para que no fueseis sus siervos, y rompí las coyundas de vuestro yugo, y os he hecho andar con el rostro erguido. Consecuencias de la desobediencia (Dt 28.15–68)"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1550,
+      "char_end": 1616,
+      "text": "Pero si no me oyereis, ni hiciereis todos estos mis mandamientos,"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1616,
+      "char_end": 1753,
+      "text": "y si desdeñareis mis decretos, y vuestra alma menospreciare mis estatutos, no ejecutando todos mis mandamientos, e invalidando mi pacto,"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1753,
+      "char_end": 1963,
+      "text": "yo también haré con vosotros esto: enviaré sobre vosotros terror, extenuación y calentura, que consuman los ojos y atormenten el alma; y sembraréis en vano vuestra semilla, porque vuestros enemigos la comerán."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1963,
+      "char_end": 2137,
+      "text": "Pondré mi rostro contra vosotros, y seréis heridos delante de vuestros enemigos; y los que os aborrecen se enseñorearán de vosotros, y huiréis sin que haya quien os persiga."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2137,
+      "char_end": 2239,
+      "text": "Y si aun con estas cosas no me oyereis, yo volveré a castigaros siete veces más por vuestros pecados."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2239,
+      "char_end": 2349,
+      "text": "Y quebrantaré la soberbia de vuestro orgullo, y haré vuestro cielo como hierro, y vuestra tierra como bronce."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2349,
+      "char_end": 2475,
+      "text": "Vuestra fuerza se consumirá en vano, porque vuestra tierra no dará su producto, y los árboles de la tierra no darán su fruto."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2475,
+      "char_end": 2609,
+      "text": "Si anduviereis conmigo en oposición, y no me quisiereis oír, yo añadiré sobre vosotros siete veces más plagas según vuestros pecados."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2609,
+      "char_end": 2777,
+      "text": "Enviaré también contra vosotros bestias fieras que os arrebaten vuestros hijos, y destruyan vuestro ganado, y os reduzcan en número, y vuestros caminos sean desiertos."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2777,
+      "char_end": 2864,
+      "text": "Y si con estas cosas no fuereis corregidos, sino que anduviereis conmigo en oposición,"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2864,
+      "char_end": 2958,
+      "text": "yo también procederé en contra de vosotros, y os heriré aún siete veces por vuestros pecados."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2958,
+      "char_end": 3149,
+      "text": "Traeré sobre vosotros espada vengadora, en vindicación del pacto; y si buscareis refugio en vuestras ciudades, yo enviaré pestilencia entre vosotros, y seréis entregados en mano del enemigo."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3149,
+      "char_end": 3308,
+      "text": "Cuando yo os quebrante el sustento del pan, cocerán diez mujeres vuestro pan en un horno, y os devolverán vuestro pan por peso; y comeréis, y no os saciaréis."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3308,
+      "char_end": 3383,
+      "text": "Si aun con esto no me oyereis, sino que procediereis conmigo en oposición,"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3383,
+      "char_end": 3480,
+      "text": "yo procederé en contra de vosotros con ira, y os castigaré aun siete veces por vuestros pecados."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3480,
+      "char_end": 3558,
+      "text": "Y comeréis la carne de vuestros hijos, y comeréis la carne de vuestras hijas."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3558,
+      "char_end": 3727,
+      "text": "Destruiré vuestros lugares altos, y derribaré vuestras imágenes, y pondré vuestros cuerpos muertos sobre los cuerpos muertos de vuestros ídolos, y mi alma os abominará."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3727,
+      "char_end": 3842,
+      "text": "Haré desiertas vuestras ciudades, y asolaré vuestros santuarios, y no oleré la fragancia de vuestro suave perfume."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3842,
+      "char_end": 3929,
+      "text": "Asolaré también la tierra, y se pasmarán por ello vuestros enemigos que en ella moren;"
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3929,
+      "char_end": 4081,
+      "text": "y a vosotros os esparciré entre las naciones, y desenvainaré espada en pos de vosotros; y vuestra tierra estará asolada, y desiertas vuestras ciudades."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4081,
+      "char_end": 4279,
+      "text": "Entonces la tierra gozará sus días de reposo, todos los días que esté asolada, mientras vosotros estéis en la tierra de vuestros enemigos; la tierra descansará entonces y gozará sus días de reposo."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4279,
+      "char_end": 4393,
+      "text": "Todo el tiempo que esté asolada, descansará por lo que no reposó en los días de reposo cuando habitabais en ella."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4393,
+      "char_end": 4616,
+      "text": "Y a los que queden de vosotros infundiré en sus corazones tal cobardía, en la tierra de sus enemigos, que el sonido de una hoja que se mueva los perseguirá, y huirán como ante la espada, y caerán sin que nadie los persiga."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4616,
+      "char_end": 4760,
+      "text": "Tropezarán los unos con los otros como si huyeran ante la espada, aunque nadie los persiga; y no podréis resistir delante de vuestros enemigos."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4760,
+      "char_end": 4840,
+      "text": "Y pereceréis entre las naciones, y la tierra de vuestros enemigos os consumirá."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4840,
+      "char_end": 4985,
+      "text": "Y los que queden de vosotros decaerán en las tierras de vuestros enemigos por su iniquidad; y por la iniquidad de sus padres decaerán con ellos."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4985,
+      "char_end": 5145,
+      "text": "Y confesarán su iniquidad, y la iniquidad de sus padres, por su prevaricación con que prevaricaron contra mí; y también porque anduvieron conmigo en oposición,"
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 5145,
+      "char_end": 5318,
+      "text": "yo también habré andado en contra de ellos, y los habré hecho entrar en la tierra de sus enemigos; y entonces se humillará su corazón incircunciso, y reconocerán su pecado."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 5318,
+      "char_end": 5475,
+      "text": "Entonces yo me acordaré de mi pacto con Jacob, y asimismo de mi pacto con Isaac, y también de mi pacto con Abraham me acordaré, y haré memoria de la tierra."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 5475,
+      "char_end": 5720,
+      "text": "Pero la tierra será abandonada por ellos, y gozará sus días de reposo, estando desierta a causa de ellos; y entonces se someterán al castigo de sus iniquidades; por cuanto menospreciaron mis ordenanzas, y su alma tuvo fastidio de mis estatutos."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 5720,
+      "char_end": 5900,
+      "text": "Y aun con todo esto, estando ellos en tierra de sus enemigos, yo no los desecharé, ni los abominaré para consumirlos, invalidando mi pacto con ellos; porque yo Jehová soy su Dios."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 5900,
+      "char_end": 6046,
+      "text": "Antes me acordaré de ellos por el pacto antiguo, cuando los saqué de la tierra de Egipto a los ojos de las naciones, para ser su Dios. Yo Jehová."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 6046,
+      "char_end": 6184,
+      "text": "Éstos son los estatutos, ordenanzas y leyes que estableció Jehová entre sí y los hijos de Israel en el monte de Sinaí por mano de Moisés."
+    }
+  ],
+  "words": [
+    {
+      "word": "No haréis para vosotros ídolos, ni escultura, ni os levantaréis estatua, ni pondréis en vuestra tierra piedra pintada para inclinaros a ella; porque yo soy Jehová vuestro Dios.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 11025,
+      "duration_ms": 10925
+    },
+    {
+      "word": "Guardad mis días de reposo, y tened en reverencia mi santuario.",
+      "verse": 2,
+      "start_ms": 10975,
+      "end_ms": 15500,
+      "duration_ms": 4525
+    },
+    {
+      "word": "Yo Jehová.",
+      "verse": 2,
+      "start_ms": 15500,
+      "end_ms": 17212,
+      "duration_ms": 1712
+    },
+    {
+      "word": "Si anduviereis en mis decretos y guardareis mis mandamientos, y los pusiereis por obra, yo daré vuestra lluvia en su tiempo, y la tierra rendirá sus productos, y el árbol del campo dará su fruto.",
+      "verse": 3,
+      "start_ms": 17212,
+      "end_ms": 28724,
+      "duration_ms": 11512
+    },
+    {
+      "word": "Vuestra trilla alcanzará a la vendimia, y la vendimia alcanzará a la sementera, y comeréis vuestro pan hasta saciaros, y habitaréis seguros en vuestra tierra.",
+      "verse": 5,
+      "start_ms": 28725,
+      "end_ms": 38375,
+      "duration_ms": 9650
+    },
+    {
+      "word": "Y yo daré paz en la tierra, y dormiréis, y no habrá quien os espante; y haré quitar de vuestra tierra las malas bestias, y la espada no pasará por vuestro país.",
+      "verse": 6,
+      "start_ms": 38375,
+      "end_ms": 48312,
+      "duration_ms": 9937
+    },
+    {
+      "word": "Y perseguiréis a vuestros enemigos, y caerán a espada delante de vosotros.",
+      "verse": 7,
+      "start_ms": 48312,
+      "end_ms": 53624,
+      "duration_ms": 5312
+    },
+    {
+      "word": "Cinco de vosotros perseguirán a ciento, y ciento de vosotros perseguirán a diez mil, y vuestros enemigos caerán a filo de espada delante de vosotros.",
+      "verse": 8,
+      "start_ms": 53625,
+      "end_ms": 62775,
+      "duration_ms": 9150
+    },
+    {
+      "word": "Porque yo me volveré a vosotros, y os haré crecer, y os multiplicaré, y afirmaré mi pacto con vosotros.",
+      "verse": 9,
+      "start_ms": 62775,
+      "end_ms": 70062,
+      "duration_ms": 7287
+    },
+    {
+      "word": "Comeréis lo añejo de mucho tiempo, y pondréis fuera lo añejo para guardar lo nuevo.",
+      "verse": 10,
+      "start_ms": 70062,
+      "end_ms": 75424,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Y pondré mi morada en medio de vosotros, y mi alma no os abominará; y andaré entre vosotros, y yo seré vuestro Dios, y vosotros seréis mi pueblo.",
+      "verse": 11,
+      "start_ms": 75425,
+      "end_ms": 85212,
+      "duration_ms": 9787
+    },
+    {
+      "word": "Yo Jehová vuestro Dios, que os saqué de la tierra de Egipto, para que no fueseis sus siervos, y rompí las coyundas de vuestro yugo, y os he hecho andar con el rostro erguido.",
+      "verse": 13,
+      "start_ms": 85212,
+      "end_ms": 95612,
+      "duration_ms": 10400
+    },
+    {
+      "word": "Consecuencias de la desobediencia (Dt 28.15–68) Pero si no me oyereis, ni hiciereis todos estos mis mandamientos, y si desdeñareis mis decretos, y vuestra alma menospreciare mis estatutos, no ejecutando todos mis mandamientos, e invalidando mi pacto, yo también haré con vosotros esto: enviaré sobre vosotros terror, extenuación y calentura, que consuman los ojos y atormenten el alma; y sembraréis en vano vuestra semilla, porque vuestros enemigos la comerán.",
+      "verse": 13,
+      "start_ms": 95612,
+      "end_ms": 125312,
+      "duration_ms": 29700
+    },
+    {
+      "word": "Pondré mi rostro contra vosotros, y seréis heridos delante de vuestros enemigos; y los que os aborrecen se enseñorearán de vosotros, y huiréis sin que haya quien os persiga.",
+      "verse": 17,
+      "start_ms": 125312,
+      "end_ms": 135674,
+      "duration_ms": 10362
+    },
+    {
+      "word": "Y si aun con estas cosas no me oyereis, yo volveré a castigaros siete veces más por vuestros pecados.",
+      "verse": 18,
+      "start_ms": 135675,
+      "end_ms": 142125,
+      "duration_ms": 6450
+    },
+    {
+      "word": "Y quebrantaré la soberbia de vuestro orgullo, y haré vuestro cielo como hierro, y vuestra tierra como bronce.",
+      "verse": 19,
+      "start_ms": 142125,
+      "end_ms": 148912,
+      "duration_ms": 6787
+    },
+    {
+      "word": "Vuestra fuerza se consumirá en vano, porque vuestra tierra no dará su producto, y los árboles de la tierra no darán su fruto.",
+      "verse": 20,
+      "start_ms": 148912,
+      "end_ms": 156312,
+      "duration_ms": 7400
+    },
+    {
+      "word": "Si anduviereis conmigo en oposición, y no me quisiereis oír, yo añadiré sobre vosotros siete veces más plagas según vuestros pecados.",
+      "verse": 21,
+      "start_ms": 156312,
+      "end_ms": 164774,
+      "duration_ms": 8462
+    },
+    {
+      "word": "Enviaré también contra vosotros bestias fieras que os arrebaten vuestros hijos, y destruyan vuestro ganado, y os reduzcan en número, y vuestros caminos sean desiertos.",
+      "verse": 22,
+      "start_ms": 164775,
+      "end_ms": 174950,
+      "duration_ms": 10175
+    },
+    {
+      "word": "Y si con estas cosas no fuereis corregidos, sino que anduviereis conmigo en oposición, yo también procederé en contra de vosotros, y os heriré aún siete veces por vuestros pecados.",
+      "verse": 23,
+      "start_ms": 174950,
+      "end_ms": 185862,
+      "duration_ms": 10912
+    },
+    {
+      "word": "Traeré sobre vosotros espada vengadora, en vindicación del pacto; y si buscareis refugio en vuestras ciudades, yo enviaré pestilencia entre vosotros, y seréis entregados en mano del enemigo.",
+      "verse": 25,
+      "start_ms": 185862,
+      "end_ms": 197787,
+      "duration_ms": 11925
+    },
+    {
+      "word": "Cuando yo os quebrante el sustento del pan, cocerán diez mujeres vuestro pan en un horno, y os devolverán vuestro pan por peso; y comeréis, y no os saciaréis.",
+      "verse": 26,
+      "start_ms": 197787,
+      "end_ms": 207662,
+      "duration_ms": 9875
+    },
+    {
+      "word": "Si aun con esto no me oyereis, sino que procediereis conmigo en oposición, yo procederé en contra de vosotros con ira, y os castigaré aun siete veces por vuestros pecados.",
+      "verse": 27,
+      "start_ms": 207662,
+      "end_ms": 218312,
+      "duration_ms": 10650
+    },
+    {
+      "word": "Y comeréis la carne de vuestros hijos, y comeréis la carne de vuestras hijas.",
+      "verse": 29,
+      "start_ms": 218312,
+      "end_ms": 223649,
+      "duration_ms": 5337
+    },
+    {
+      "word": "Destruiré vuestros lugares altos, y derribaré vuestras imágenes, y pondré vuestros cuerpos muertos sobre los cuerpos muertos de vuestros ídolos, y mi alma os abominará.",
+      "verse": 30,
+      "start_ms": 223650,
+      "end_ms": 233925,
+      "duration_ms": 10275
+    },
+    {
+      "word": "Haré desiertas vuestras ciudades, y asolaré vuestros santuarios, y no oleré la fragancia de vuestro suave perfume.",
+      "verse": 31,
+      "start_ms": 233925,
+      "end_ms": 241412,
+      "duration_ms": 7487
+    },
+    {
+      "word": "Asolaré también la tierra, y se pasmarán por ello vuestros enemigos que en ella moren; y a vosotros os esparciré entre las naciones, y desenvainaré",
+      "verse": 32,
+      "start_ms": 241412,
+      "end_ms": 250649,
+      "duration_ms": 9237
+    },
+    {
+      "word": "espada en pos de vosotros; y vuestra tierra estará asolada, y desiertas vuestras ciudades.",
+      "verse": 33,
+      "start_ms": 250804,
+      "end_ms": 257279,
+      "duration_ms": 6475
+    },
+    {
+      "word": "Entonces la tierra gozará sus días de reposo, todos los días que esté asolada, mientras vosotros estéis en la tierra de vuestros enemigos; la tierra descansará entonces y gozará sus días de reposo.",
+      "verse": 34,
+      "start_ms": 257229,
+      "end_ms": 268954,
+      "duration_ms": 11725
+    },
+    {
+      "word": "Todo el tiempo que esté asolada, descansará por lo que no reposó en los días de reposo cuando habitabais en ella.",
+      "verse": 35,
+      "start_ms": 268954,
+      "end_ms": 275429,
+      "duration_ms": 6475
+    },
+    {
+      "word": "Y a los que queden de vosotros infundiré en sus corazones tal cobardía, en la tierra de sus enemigos, que el sonido de una hoja que se mueva los perseguirá, y huirán como ante la espada, y caerán sin que nadie los persiga.",
+      "verse": 36,
+      "start_ms": 275429,
+      "end_ms": 288391,
+      "duration_ms": 12962
+    },
+    {
+      "word": "Tropezarán los unos con los otros como si huyeran ante la espada, aunque nadie los persiga; y no podréis resistir delante de vuestros enemigos.",
+      "verse": 37,
+      "start_ms": 288391,
+      "end_ms": 296928,
+      "duration_ms": 8537
+    },
+    {
+      "word": "Y pereceréis entre las naciones, y la tierra de vuestros enemigos os consumirá.",
+      "verse": 38,
+      "start_ms": 296929,
+      "end_ms": 302204,
+      "duration_ms": 5275
+    },
+    {
+      "word": "Y los que queden de vosotros decaerán en las tierras de vuestros enemigos por su iniquidad; y por la iniquidad de sus padres decaerán con ellos.",
+      "verse": 39,
+      "start_ms": 302204,
+      "end_ms": 310229,
+      "duration_ms": 8025
+    },
+    {
+      "word": "Y confesarán su iniquidad, y la iniquidad de sus padres, por su prevaricación con que prevaricaron contra mí; y también porque anduvieron conmigo en oposición, yo también habré andado en contra de ellos, y los habré hecho entrar en la tierra de sus enemigos; y entonces se humillará su corazón incircunciso, y reconocerán su pecado.",
+      "verse": 40,
+      "start_ms": 310229,
+      "end_ms": 329241,
+      "duration_ms": 19012
+    },
+    {
+      "word": "Entonces yo me acordaré de mi pacto con Jacob, y asimismo de mi pacto con Isaac, y también de mi pacto con Abraham me acordaré, y haré memoria de la tierra.",
+      "verse": 42,
+      "start_ms": 329241,
+      "end_ms": 338841,
+      "duration_ms": 9600
+    },
+    {
+      "word": "Pero la tierra será abandonada por ellos, y gozará sus días de reposo, estando desierta a causa de ellos; y entonces se someterán al castigo de sus iniquidades; por cuanto menospreciaron mis ordenanzas, y su alma tuvo fastidio de mis estatutos.",
+      "verse": 43,
+      "start_ms": 338841,
+      "end_ms": 354241,
+      "duration_ms": 15400
+    },
+    {
+      "word": "Y aun con todo esto, estando ellos en tierra de sus enemigos, yo no los desecharé, ni los abominaré para consumirlos, invalidando mi pacto con ellos; porque yo Jehová soy su Dios.",
+      "verse": 44,
+      "start_ms": 354241,
+      "end_ms": 365841,
+      "duration_ms": 11600
+    },
+    {
+      "word": "Antes me acordaré de ellos por el pacto antiguo, cuando los saqué de la tierra de Egipto a los ojos de las naciones, para ser su Dios.",
+      "verse": 45,
+      "start_ms": 365841,
+      "end_ms": 373616,
+      "duration_ms": 7775
+    },
+    {
+      "word": "Yo Jehová.",
+      "verse": 45,
+      "start_ms": 373616,
+      "end_ms": 375328,
+      "duration_ms": 1712
+    },
+    {
+      "word": "Éstos son los estatutos, ordenanzas y leyes que estableció Jehová entre sí y los hijos de Israel en el monte de Sinaí por mano de Moisés.",
+      "verse": 46,
+      "start_ms": 375329,
+      "end_ms": 383741,
+      "duration_ms": 8412
+    }
+  ]
+}

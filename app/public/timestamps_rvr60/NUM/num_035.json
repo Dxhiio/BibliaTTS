@@ -1,0 +1,439 @@
+{
+  "book": "NUM",
+  "chapter": 35,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 34,
+  "word_count": 27,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 88,
+      "text": "Habló Jehová a Moisés en los campos de Moab, junto al Jordán frente a Jericó, diciendo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 88,
+      "char_end": 271,
+      "text": "Manda a los hijos de Israel que den a los levitas, de la posesión de su heredad, ciudades en que habiten; también daréis a los levitas los ejidos de esas ciudades alrededor de ellas."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 271,
+      "char_end": 404,
+      "text": "Y tendrán ellos las ciudades para habitar, y los ejidos de ellas serán para sus animales, para sus ganados y para todas sus bestias."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 404,
+      "char_end": 525,
+      "text": "Y los ejidos de las ciudades que daréis a los levitas serán mil codos alrededor, desde el muro de la ciudad para afuera."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 525,
+      "char_end": 771,
+      "text": "Luego mediréis fuera de la ciudad al lado del oriente dos mil codos, al lado del sur dos mil codos, al lado del occidente dos mil codos, y al lado del norte dos mil codos, y la ciudad estará en medio; esto tendrán por los ejidos de las ciudades."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 771,
+      "char_end": 953,
+      "text": "Y de las ciudades que daréis a los levitas, seis ciudades serán de refugio, las cuales daréis para que el homicida se refugie allá; y además de éstas daréis cuarenta y dos ciudades."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 953,
+      "char_end": 1044,
+      "text": "Todas las ciudades que daréis a los levitas serán cuarenta y ocho ciudades con sus ejidos."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1044,
+      "char_end": 1302,
+      "text": "Y en cuanto a las ciudades que diereis de la heredad de los hijos de Israel, del que tiene mucho tomaréis mucho, y del que tiene poco tomaréis poco; cada uno dará de sus ciudades a los levitas según la posesión que heredará. Ciudades de refugio (Dt 19.1–13)"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1302,
+      "char_end": 1335,
+      "text": "Habló Jehová a Moisés, diciendo:"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1335,
+      "char_end": 1441,
+      "text": "Habla a los hijos de Israel, y diles: Cuando hayáis pasado al otro lado del Jordán a la tierra de Canaán,"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1441,
+      "char_end": 1564,
+      "text": "os señalaréis ciudades, ciudades de refugio tendréis, donde huya el homicida que hiriere a alguno de muerte sin intención."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1564,
+      "char_end": 1701,
+      "text": "Y os serán aquellas ciudades para refugiarse del vengador, y no morirá el homicida hasta que entre en juicio delante de la congregación."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1701,
+      "char_end": 1771,
+      "text": "De las ciudades, pues, que daréis, tendréis seis ciudades de refugio."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1771,
+      "char_end": 1901,
+      "text": "Tres ciudades daréis a este lado del Jordán, y tres ciudades daréis en la tierra de Canaán, las cuales serán ciudades de refugio."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1901,
+      "char_end": 2086,
+      "text": "Estas seis ciudades serán de refugio para los hijos de Israel, y para el extranjero y el que more entre ellos, para que huya allá cualquiera que hiriere de muerte a otro sin intención."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2086,
+      "char_end": 2170,
+      "text": "Si con instrumento de hierro lo hiriere y muriere, homicida es; el homicida morirá."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2170,
+      "char_end": 2275,
+      "text": "Y si con piedra en la mano, que pueda dar muerte, lo hiriere y muriere, homicida es; el homicida morirá."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2275,
+      "char_end": 2393,
+      "text": "Y si con instrumento de palo en la mano, que pueda dar muerte, lo hiriere y muriere, homicida es; el homicida morirá."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2393,
+      "char_end": 2483,
+      "text": "El vengador de la sangre, él dará muerte al homicida; cuando lo encontrare, él lo matará."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2483,
+      "char_end": 2561,
+      "text": "Y si por odio lo empujó, o echó sobre él alguna cosa por asechanzas, y muere;"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2561,
+      "char_end": 2706,
+      "text": "o por enemistad lo hirió con su mano, y murió, el heridor morirá; es homicida; el vengador de la sangre matará al homicida cuando lo encontrare."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2706,
+      "char_end": 2806,
+      "text": "Mas si casualmente lo empujó sin enemistades, o echó sobre él cualquier instrumento sin asechanzas,"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2806,
+      "char_end": 2931,
+      "text": "o bien, sin verlo hizo caer sobre él alguna piedra que pudo matarlo, y muriere, y él no era su enemigo, ni procuraba su mal;"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2931,
+      "char_end": 3044,
+      "text": "entonces la congregación juzgará entre el que causó la muerte y el vengador de la sangre conforme a estas leyes;"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3044,
+      "char_end": 3297,
+      "text": "y la congregación librará al homicida de mano del vengador de la sangre, y la congregación lo hará volver a su ciudad de refugio, en la cual se había refugiado; y morará en ella hasta que muera el sumo sacerdote, el cual fue ungido con el aceite santo."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3297,
+      "char_end": 3393,
+      "text": "Mas si el homicida saliere fuera de los límites de su ciudad de refugio, en la cual se refugió,"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3393,
+      "char_end": 3550,
+      "text": "y el vengador de la sangre le hallare fuera del límite de la ciudad de su refugio, y el vengador de la sangre matare al homicida, no se le culpará por ello;"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3550,
+      "char_end": 3770,
+      "text": "pues en su ciudad de refugio deberá aquél habitar hasta que muera el sumo sacerdote; y después que haya muerto el sumo sacerdote, el homicida volverá a la tierra de su posesión. Ley sobre los testigos y sobre el rescate"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3770,
+      "char_end": 3869,
+      "text": "Estas cosas os serán por ordenanza de derecho por vuestras edades, en todas vuestras habitaciones."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3869,
+      "char_end": 4015,
+      "text": "Cualquiera que diere muerte a alguno, por dicho de testigos morirá el homicida; mas un solo testigo no hará fe contra una persona para que muera."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4015,
+      "char_end": 4120,
+      "text": "Y no tomaréis precio por la vida del homicida, porque está condenado a muerte; indefectiblemente morirá."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4120,
+      "char_end": 4257,
+      "text": "Ni tampoco tomaréis precio del que huyó a su ciudad de refugio, para que vuelva a vivir en su tierra, hasta que muera el sumo sacerdote."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4257,
+      "char_end": 4454,
+      "text": "Y no contaminaréis la tierra donde estuviereis; porque esta sangre amancillará la tierra, y la tierra no será expiada de la sangre que fue derramada en ella, sino por la sangre del que la derramó."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4454,
+      "char_end": 4590,
+      "text": "No contaminéis, pues, la tierra donde habitáis, en medio de la cual yo habito; porque yo Jehová habito en medio de los hijos de Israel."
+    }
+  ],
+  "words": [
+    {
+      "word": "Habló Jehová a Moisés en los campos de Moab, junto al Jordán frente a Jericó, diciendo: Manda a los hijos de Israel que den a los levitas, de la posesión de su heredad, ciudades en que habiten; también daréis a los levitas los ejidos de esas ciudades alrededor de ellas.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 16037,
+      "duration_ms": 15937
+    },
+    {
+      "word": "Y tendrán ellos las ciudades para habitar, y los ejidos de ellas serán para sus animales, para sus ganados y para todas sus bestias.",
+      "verse": 3,
+      "start_ms": 16037,
+      "end_ms": 24374,
+      "duration_ms": 8337
+    },
+    {
+      "word": "Y los ejidos de las ciudades que daréis a los levitas serán mil codos alrededor, desde el muro de la ciudad para afuera.",
+      "verse": 4,
+      "start_ms": 24375,
+      "end_ms": 31487,
+      "duration_ms": 7112
+    },
+    {
+      "word": "Luego mediréis fuera de la ciudad al lado del oriente dos mil codos, al lado del sur dos mil codos, al lado del occidente dos mil codos, y al lado del norte dos mil codos, y la ciudad estará en medio; esto tendrán por los ejidos de las ciudades.",
+      "verse": 5,
+      "start_ms": 31487,
+      "end_ms": 46462,
+      "duration_ms": 14975
+    },
+    {
+      "word": "Y de las ciudades que daréis a los levitas, seis ciudades serán de refugio, las cuales daréis para que el homicida se refugie allá; y además de éstas daréis cuarenta y dos ciudades.",
+      "verse": 6,
+      "start_ms": 46462,
+      "end_ms": 57199,
+      "duration_ms": 10737
+    },
+    {
+      "word": "Todas las ciudades que daréis a los levitas serán cuarenta y ocho ciudades con sus ejidos.",
+      "verse": 7,
+      "start_ms": 57200,
+      "end_ms": 62637,
+      "duration_ms": 5437
+    },
+    {
+      "word": "Y en cuanto a las ciudades que diereis de la heredad de los hijos de Israel, del que tiene mucho tomaréis mucho, y del que tiene poco tomaréis poco; cada uno dará de sus ciudades a los levitas según la posesión que heredará.",
+      "verse": 8,
+      "start_ms": 62637,
+      "end_ms": 74899,
+      "duration_ms": 12262
+    },
+    {
+      "word": "Ciudades de refugio (Dt 19.1–13) Habló Jehová a Moisés, diciendo: Habla a los hijos de Israel, y diles: Cuando hayáis pasado al otro lado del Jordán a la tierra de Canaán, os señalaréis ciudades, ciudades de refugio tendréis, donde huya el homicida que hiriere a alguno de muerte sin intención.",
+      "verse": 8,
+      "start_ms": 74900,
+      "end_ms": 95075,
+      "duration_ms": 20175
+    },
+    {
+      "word": "Y os serán aquellas ciudades para refugiarse del vengador, y no morirá el homicida hasta que entre en juicio delante de la congregación.",
+      "verse": 12,
+      "start_ms": 95075,
+      "end_ms": 102975,
+      "duration_ms": 7900
+    },
+    {
+      "word": "De las ciudades, pues, que daréis, tendréis seis ciudades de refugio.",
+      "verse": 13,
+      "start_ms": 102975,
+      "end_ms": 108337,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Tres ciudades daréis a este lado del Jordán, y tres ciudades daréis en la tierra de Canaán, las cuales serán ciudades de refugio.",
+      "verse": 14,
+      "start_ms": 108337,
+      "end_ms": 116162,
+      "duration_ms": 7825
+    },
+    {
+      "word": "Estas seis ciudades serán de refugio para los hijos de Israel, y para el extranjero y el que more entre ellos, para que huya allá cualquiera que hiriere de muerte a otro sin intención.",
+      "verse": 15,
+      "start_ms": 116162,
+      "end_ms": 126437,
+      "duration_ms": 10275
+    },
+    {
+      "word": "Si con instrumento de hierro lo hiriere y muriere, homicida es; el homicida morirá.",
+      "verse": 16,
+      "start_ms": 126437,
+      "end_ms": 132512,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Y si con piedra en la mano, que pueda dar muerte, lo hiriere y muriere, homicida es; el homicida morirá.",
+      "verse": 17,
+      "start_ms": 132512,
+      "end_ms": 140062,
+      "duration_ms": 7550
+    },
+    {
+      "word": "Y si con instrumento de palo en la mano, que pueda dar muerte, lo hiriere y muriere, homicida es; el homicida morirá.",
+      "verse": 18,
+      "start_ms": 140062,
+      "end_ms": 148249,
+      "duration_ms": 8187
+    },
+    {
+      "word": "El vengador de la sangre, él dará muerte al homicida; cuando lo encontrare, él lo matará.",
+      "verse": 19,
+      "start_ms": 148250,
+      "end_ms": 154250,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Y si por odio lo empujó, o echó sobre él alguna cosa por asechanzas, y muere; o por enemistad lo hirió con su mano, y murió, el heridor morirá; es homicida; el vengador de la sangre matará al homicida cuando lo encontrare.",
+      "verse": 20,
+      "start_ms": 154250,
+      "end_ms": 168150,
+      "duration_ms": 13900
+    },
+    {
+      "word": "Mas si casualmente lo empujó sin enemistades, o echó sobre él cualquier instrumento sin asechanzas, o bien, sin verlo hizo caer sobre él alguna piedra que pudo matarlo, y muriere, y él no era su enemigo, ni procuraba su mal; entonces la congregación juzgará entre el que causó la muerte y el vengador de la sangre conforme a estas leyes; y la congregación librará al homicida de mano del vengador de la sangre, y la congregación lo hará volver a su ciudad de refugio, en la cual se había refugiado;",
+      "verse": 22,
+      "start_ms": 168150,
+      "end_ms": 196225,
+      "duration_ms": 28075
+    },
+    {
+      "word": "y morará en ella hasta que muera el sumo sacerdote, el cual fue ungido con el aceite santo.",
+      "verse": 25,
+      "start_ms": 196225,
+      "end_ms": 202087,
+      "duration_ms": 5862
+    },
+    {
+      "word": "Mas si el homicida saliere fuera de los límites de su ciudad de refugio, en la cual se refugió, y el vengador de la sangre le hallare fuera del límite de la ciudad de su refugio, y el vengador de la sangre matare al homicida, no se le culpará por ello; pues en su ciudad de refugio deberá aquél habitar hasta que muera el sumo sacerdote; y después que haya muerto el sumo sacerdote, el homicida volverá a la tierra de su posesión.",
+      "verse": 26,
+      "start_ms": 202087,
+      "end_ms": 225437,
+      "duration_ms": 23350
+    },
+    {
+      "word": "Ley sobre los testigos y sobre el rescate Estas cosas os serán por ordenanza de derecho por vuestras edades, en todas vuestras habitaciones.",
+      "verse": 28,
+      "start_ms": 225437,
+      "end_ms": 233587,
+      "duration_ms": 8150
+    },
+    {
+      "word": "Cualquiera que diere muerte a alguno, por dicho de testigos morirá el homicida; mas un solo testigo no hará fe contra una persona",
+      "verse": 30,
+      "start_ms": 233587,
+      "end_ms": 241612,
+      "duration_ms": 8025
+    },
+    {
+      "word": "para que muera.",
+      "verse": 30,
+      "start_ms": 241780,
+      "end_ms": 243430,
+      "duration_ms": 1650
+    },
+    {
+      "word": "Y no tomaréis precio por la vida del homicida, porque está condenado a muerte; indefectiblemente morirá.",
+      "verse": 31,
+      "start_ms": 243380,
+      "end_ms": 250155,
+      "duration_ms": 6775
+    },
+    {
+      "word": "Ni tampoco tomaréis precio del que huyó a su ciudad de refugio, para que vuelva a vivir en su tierra, hasta que muera el sumo sacerdote.",
+      "verse": 32,
+      "start_ms": 250155,
+      "end_ms": 257992,
+      "duration_ms": 7837
+    },
+    {
+      "word": "Y no contaminaréis la tierra donde estuviereis; porque esta sangre amancillará la tierra, y la tierra no será expiada de la sangre que fue derramada en ella, sino por la sangre del que la derramó.",
+      "verse": 33,
+      "start_ms": 257992,
+      "end_ms": 269054,
+      "duration_ms": 11062
+    },
+    {
+      "word": "No contaminéis, pues, la tierra donde habitáis, en medio de la cual yo habito; porque yo Jehová habito en medio de los hijos de Israel.",
+      "verse": 34,
+      "start_ms": 269055,
+      "end_ms": 277917,
+      "duration_ms": 8862
+    }
+  ]
+}

@@ -1,0 +1,600 @@
+{
+  "book": "LEV",
+  "chapter": 11,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 47,
+  "word_count": 37,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 46,
+      "text": "Habló Jehová a Moisés y a Aarón, diciéndoles:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 46,
+      "char_end": 176,
+      "text": "Hablad a los hijos de Israel y decidles: éstos son los animales que comeréis de entre todos los animales que hay sobre la tierra."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 176,
+      "char_end": 260,
+      "text": "De entre los animales, todo el que tiene pezuña hendida y que rumia, éste comeréis."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 260,
+      "char_end": 403,
+      "text": "Pero de los que rumian o que tienen pezuña, no comeréis éstos: el camello, porque rumia pero no tiene pezuña hendida, lo tendréis por inmundo."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 403,
+      "char_end": 483,
+      "text": "También el conejo, porque rumia, pero no tiene pezuña, lo tendréis por inmundo."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 483,
+      "char_end": 564,
+      "text": "Asimismo la liebre, porque rumia, pero no tiene pezuña, la tendréis por inmunda."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 564,
+      "char_end": 670,
+      "text": "También el cerdo, porque tiene pezuñas, y es de pezuñas hendidas, pero no rumia, lo tendréis por inmundo."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 670,
+      "char_end": 761,
+      "text": "De la carne de ellos no comeréis, ni tocaréis su cuerpo muerto; los tendréis por inmundos."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 761,
+      "char_end": 912,
+      "text": "Esto comeréis de todos los animales que viven en las aguas: todos los que tienen aletas y escamas en las aguas del mar, y en los ríos, éstos comeréis."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 912,
+      "char_end": 1091,
+      "text": "Pero todos los que no tienen aletas ni escamas en el mar y en los ríos, así de todo lo que se mueve como de toda cosa viviente que está en las aguas, los tendréis en abominación."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1091,
+      "char_end": 1180,
+      "text": "Os serán, pues, abominación; de su carne no comeréis, y abominaréis sus cuerpos muertos."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1180,
+      "char_end": 1262,
+      "text": "Todo lo que no tuviere aletas y escamas en las aguas, lo tendréis en abominación."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1262,
+      "char_end": 1382,
+      "text": "Y de las aves, éstas tendréis en abominación; no se comerán, serán abominación: el águila, el quebrantahuesos, el azor,"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1382,
+      "char_end": 1424,
+      "text": "el gallinazo, el milano según su especie;"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1424,
+      "char_end": 1454,
+      "text": "todo cuervo según su especie;"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1454,
+      "char_end": 1520,
+      "text": "el avestruz, la lechuza, la gaviota, el gavilán según su especie;"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1520,
+      "char_end": 1552,
+      "text": "el búho, el somormujo, el ibis,"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1552,
+      "char_end": 1588,
+      "text": "el calamón, el pelícano, el buitre,"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1588,
+      "char_end": 1656,
+      "text": "la cigüeña, la garza según su especie, la abubilla y el murciélago."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1656,
+      "char_end": 1734,
+      "text": "Todo insecto alado que anduviere sobre cuatro patas, tendréis en abominación."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1734,
+      "char_end": 1883,
+      "text": "Pero esto comeréis de todo insecto alado que anda sobre cuatro patas, que tuviere piernas además de sus patas para saltar con ellas sobre la tierra;"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1883,
+      "char_end": 2025,
+      "text": "Éstos comeréis de ellos: la langosta según su especie, el langostín según su especie, el argol según su especie, y el hagab según su especie."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2025,
+      "char_end": 2093,
+      "text": "Todo insecto alado que tenga cuatro patas, tendréis en abominación."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2093,
+      "char_end": 2199,
+      "text": "Y por estas cosas seréis inmundos; cualquiera que tocare sus cuerpos muertos será inmundo hasta la noche,"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2199,
+      "char_end": 2298,
+      "text": "y cualquiera que llevare algo de sus cadáveres lavará sus vestidos, y será inmundo hasta la noche."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2298,
+      "char_end": 2429,
+      "text": "Todo animal de pezuña, pero que no tiene pezuña hendida, ni rumia, tendréis por inmundo; y cualquiera que los tocare será inmundo."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2429,
+      "char_end": 2605,
+      "text": "Y de todos los animales que andan en cuatro patas, tendréis por inmundo a cualquiera que ande sobre sus garras; y todo el que tocare sus cadáveres será inmundo hasta la noche."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2605,
+      "char_end": 2716,
+      "text": "Y el que llevare sus cadáveres, lavará sus vestidos, y será inmundo hasta la noche; los tendréis por inmundos."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2716,
+      "char_end": 2838,
+      "text": "Y tendréis por inmundos a estos animales que se mueven sobre la tierra: la comadreja, el ratón, la rana según su especie,"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2838,
+      "char_end": 2902,
+      "text": "el erizo, el cocodrilo, el lagarto, la lagartija y el camaleón."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2902,
+      "char_end": 3050,
+      "text": "Éstos tendréis por inmundos de entre los animales que se mueven, y cualquiera que los tocare cuando estuvieren muertos será inmundo hasta la noche."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3050,
+      "char_end": 3300,
+      "text": "Y todo aquello sobre lo que cayere algo de ellos después de muertos, será inmundo; sea cosa de madera, vestido, piel, saco, sea cualquier instrumento con que se trabaja, será metido en agua, y quedará inmundo hasta la noche; entonces quedará limpio."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3300,
+      "char_end": 3440,
+      "text": "Toda vasija de barro dentro de la cual cayere alguno de ellos será inmunda, así como todo lo que estuviere en ella, y quebraréis la vasija."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3440,
+      "char_end": 3584,
+      "text": "Todo alimento que se come, sobre el cual cayere el agua de tales vasijas, será inmundo; y toda bebida que hubiere en esas vasijas será inmunda."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3584,
+      "char_end": 3737,
+      "text": "Todo aquello sobre lo que cayere parte del cadáver de ellos será inmundo; el horno u hornillos se derribarán; son inmundos, y por inmundos los tendréis."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3737,
+      "char_end": 3866,
+      "text": "Con todo, la fuente y la cisterna donde se recogen aguas serán limpias; mas lo que hubiere tocado en los cadáveres será inmundo."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3866,
+      "char_end": 3958,
+      "text": "Y si cayere algo de los cadáveres sobre alguna semilla que se haya de sembrar, será limpia."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 3958,
+      "char_end": 4071,
+      "text": "Mas si se hubiere puesto agua en la semilla, y cayere algo de los cadáveres sobre ella, la tendréis por inmunda."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4071,
+      "char_end": 4177,
+      "text": "Y si algún animal que tuviereis para comer muriere, el que tocare su cadáver será inmundo hasta la noche."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4177,
+      "char_end": 4356,
+      "text": "Y el que comiere del cuerpo muerto, lavará sus vestidos y será inmundo hasta la noche; asimismo el que sacare el cuerpo muerto, lavará sus vestidos y será inmundo hasta la noche."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4356,
+      "char_end": 4432,
+      "text": "Y todo reptil que se arrastra sobre la tierra es abominación; no se comerá."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4432,
+      "char_end": 4597,
+      "text": "Todo lo que anda sobre el pecho, y todo lo que anda sobre cuatro o más patas, de todo animal que se arrastra sobre la tierra, no lo comeréis, porque es abominación."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4597,
+      "char_end": 4730,
+      "text": "No hagáis abominables vuestras personas con ningún animal que se arrastra, ni os contaminéis con ellos, ni seáis inmundos por ellos."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 4730,
+      "char_end": 4932,
+      "text": "Porque yo soy Jehová vuestro Dios; vosotros por tanto os santificaréis, y seréis santos, porque yo soy santo; así que no contaminéis vuestras personas con ningún animal que se arrastre sobre la tierra."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 4932,
+      "char_end": 5061,
+      "text": "Porque yo soy Jehová, que os hago subir de la tierra de Egipto para ser vuestro Dios: seréis, pues, santos, porque yo soy santo."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 5061,
+      "char_end": 5205,
+      "text": "Ésta es la ley acerca de las bestias, y las aves, y todo ser viviente que se mueve en las aguas, y todo animal que se arrastra sobre la tierra,"
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 5205,
+      "char_end": 5337,
+      "text": "para hacer diferencia entre lo inmundo y lo limpio, y entre los animales que se pueden comer y los animales que no se pueden comer."
+    }
+  ],
+  "words": [
+    {
+      "word": "Habló Jehová a Moisés y a Aarón, diciéndoles: Hablad a los hijos de Israel y decidles: éstos son los animales que comeréis de entre todos los animales que hay sobre la tierra.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 10650,
+      "duration_ms": 10550
+    },
+    {
+      "word": "De entre los animales, todo el que tiene pezuña hendida y que rumia, éste comeréis.",
+      "verse": 3,
+      "start_ms": 10600,
+      "end_ms": 16362,
+      "duration_ms": 5762
+    },
+    {
+      "word": "Pero de los que rumian o que tienen pezuña, no comeréis éstos: el camello, porque rumia pero no tiene pezuña hendida, lo tendréis por inmundo.",
+      "verse": 4,
+      "start_ms": 16362,
+      "end_ms": 25199,
+      "duration_ms": 8837
+    },
+    {
+      "word": "También el conejo, porque rumia, pero no tiene pezuña, lo tendréis por inmundo.",
+      "verse": 5,
+      "start_ms": 25200,
+      "end_ms": 30937,
+      "duration_ms": 5737
+    },
+    {
+      "word": "Asimismo la liebre, porque rumia, pero no tiene pezuña, la tendréis por inmunda.",
+      "verse": 6,
+      "start_ms": 30937,
+      "end_ms": 36862,
+      "duration_ms": 5925
+    },
+    {
+      "word": "También el cerdo, porque tiene pezuñas, y es de pezuñas hendidas, pero no rumia, lo tendréis por inmundo.",
+      "verse": 7,
+      "start_ms": 36862,
+      "end_ms": 44274,
+      "duration_ms": 7412
+    },
+    {
+      "word": "De la carne de ellos no comeréis, ni tocaréis su cuerpo muerto; los tendréis por inmundos.",
+      "verse": 8,
+      "start_ms": 44275,
+      "end_ms": 50387,
+      "duration_ms": 6112
+    },
+    {
+      "word": "Esto comeréis de todos los animales que viven en las aguas: todos los que tienen aletas y escamas en las aguas del mar, y en los ríos, éstos comeréis.",
+      "verse": 9,
+      "start_ms": 50387,
+      "end_ms": 59512,
+      "duration_ms": 9125
+    },
+    {
+      "word": "Pero todos los que no tienen aletas ni escamas en el mar y en los ríos, así de todo lo que se mueve como de toda cosa viviente que está en las aguas, los tendréis en abominación.",
+      "verse": 10,
+      "start_ms": 59512,
+      "end_ms": 69537,
+      "duration_ms": 10025
+    },
+    {
+      "word": "Os serán, pues, abominación; de su carne no comeréis, y abominaréis sus cuerpos muertos.",
+      "verse": 11,
+      "start_ms": 69537,
+      "end_ms": 76499,
+      "duration_ms": 6962
+    },
+    {
+      "word": "Todo lo que no tuviere aletas y escamas en las aguas, lo tendréis en abominación.",
+      "verse": 12,
+      "start_ms": 76500,
+      "end_ms": 81625,
+      "duration_ms": 5125
+    },
+    {
+      "word": "Y de las aves, éstas tendréis en abominación; no se comerán, serán abominación: el águila, el quebrantahuesos, el azor, el gallinazo, el milano según su especie; todo cuervo según su especie; el avestruz, la lechuza, la gaviota, el gavilán según su especie; el búho, el somormujo, el ibis, el calamón, el pelícano, el buitre, la cigüeña, la garza según su especie, la abubilla y el murciélago.",
+      "verse": 13,
+      "start_ms": 81625,
+      "end_ms": 109525,
+      "duration_ms": 27900
+    },
+    {
+      "word": "Todo insecto alado que anduviere sobre cuatro patas, tendréis en abominación.",
+      "verse": 20,
+      "start_ms": 109525,
+      "end_ms": 114662,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Pero esto comeréis de todo insecto alado que anda sobre cuatro patas, que tuviere piernas además de sus patas para saltar con ellas sobre la tierra; Éstos comeréis de ellos: la langosta según su especie, el langostín según su especie, el argol según su especie, y el hagab según su especie.",
+      "verse": 21,
+      "start_ms": 114662,
+      "end_ms": 131649,
+      "duration_ms": 16987
+    },
+    {
+      "word": "Todo insecto alado que tenga cuatro patas, tendréis en abominación.",
+      "verse": 23,
+      "start_ms": 131650,
+      "end_ms": 136425,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Y por estas cosas seréis inmundos; cualquiera que tocare sus cuerpos muertos será inmundo hasta la noche, y cualquiera que llevare algo de sus cadáveres lavará sus vestidos, y será inmundo hasta la noche.",
+      "verse": 24,
+      "start_ms": 136425,
+      "end_ms": 148125,
+      "duration_ms": 11700
+    },
+    {
+      "word": "Todo animal de pezuña, pero que no tiene pezuña hendida, ni rumia, tendréis por inmundo; y cualquiera que los tocare será inmundo.",
+      "verse": 26,
+      "start_ms": 148125,
+      "end_ms": 156600,
+      "duration_ms": 8475
+    },
+    {
+      "word": "Y de todos los animales que andan en cuatro patas, tendréis por inmundo a cualquiera que ande sobre sus garras; y todo el que tocare sus cadáveres será inmundo hasta la noche.",
+      "verse": 27,
+      "start_ms": 156600,
+      "end_ms": 166762,
+      "duration_ms": 10162
+    },
+    {
+      "word": "Y el que llevare sus cadáveres, lavará sus vestidos, y será inmundo hasta la noche; los tendréis por inmundos.",
+      "verse": 28,
+      "start_ms": 166762,
+      "end_ms": 174099,
+      "duration_ms": 7337
+    },
+    {
+      "word": "Y tendréis por inmundos a estos animales que se mueven sobre la tierra: la comadreja, el ratón, la rana según su especie, el erizo, el cocodrilo, el lagarto, la lagartija y el camaleón.",
+      "verse": 29,
+      "start_ms": 174100,
+      "end_ms": 186475,
+      "duration_ms": 12375
+    },
+    {
+      "word": "Éstos tendréis por inmundos de entre los animales que se mueven, y cualquiera que los tocare cuando estuvieren muertos será inmundo hasta la noche.",
+      "verse": 31,
+      "start_ms": 186475,
+      "end_ms": 194412,
+      "duration_ms": 7937
+    },
+    {
+      "word": "Y todo aquello sobre lo que cayere algo de ellos después de muertos, será inmundo; sea cosa de madera, vestido, piel, saco, sea cualquier instrumento con que se trabaja, será metido en agua, y quedará inmundo hasta la noche; entonces quedará limpio.",
+      "verse": 32,
+      "start_ms": 194412,
+      "end_ms": 210487,
+      "duration_ms": 16075
+    },
+    {
+      "word": "Toda vasija de barro dentro de la cual cayere alguno de ellos será inmunda, así como todo lo que estuviere en ella, y quebraréis la vasija.",
+      "verse": 33,
+      "start_ms": 210487,
+      "end_ms": 218862,
+      "duration_ms": 8375
+    },
+    {
+      "word": "Todo alimento que se come, sobre el cual cayere el agua de tales vasijas, será inmundo; y toda bebida que hubiere en esas vasijas será inmunda.",
+      "verse": 34,
+      "start_ms": 218862,
+      "end_ms": 227949,
+      "duration_ms": 9087
+    },
+    {
+      "word": "Todo aquello sobre lo que cayere parte del cadáver de ellos será inmundo; el horno u hornillos se derribarán; son inmundos, y por inmundos los tendréis.",
+      "verse": 35,
+      "start_ms": 227950,
+      "end_ms": 237562,
+      "duration_ms": 9612
+    },
+    {
+      "word": "Con todo, la fuente y la cisterna donde se recogen aguas serán limpias; mas lo que hubiere tocado en los cadáveres será inmundo.",
+      "verse": 36,
+      "start_ms": 237562,
+      "end_ms": 245287,
+      "duration_ms": 7725
+    },
+    {
+      "word": "Y si cayere algo de los cadáveres sobre alguna semilla que se haya de sembrar, será limpia.",
+      "verse": 37,
+      "start_ms": 245287,
+      "end_ms": 251049,
+      "duration_ms": 5762
+    },
+    {
+      "word": "Mas si se hubiere",
+      "verse": 38,
+      "start_ms": 251050,
+      "end_ms": 252900,
+      "duration_ms": 1850
+    },
+    {
+      "word": "puesto agua en la semilla, y cayere algo de los cadáveres sobre ella, la tendréis por inmunda.",
+      "verse": 38,
+      "start_ms": 253060,
+      "end_ms": 259135,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Y si algún animal que tuviereis para comer muriere, el que tocare su cadáver será inmundo hasta la noche.",
+      "verse": 39,
+      "start_ms": 259085,
+      "end_ms": 265422,
+      "duration_ms": 6337
+    },
+    {
+      "word": "Y el que comiere del cuerpo muerto, lavará sus vestidos y será inmundo hasta la noche; asimismo el que sacare el cuerpo muerto, lavará sus vestidos y será inmundo hasta la noche.",
+      "verse": 40,
+      "start_ms": 265422,
+      "end_ms": 275959,
+      "duration_ms": 10537
+    },
+    {
+      "word": "Y todo reptil que se arrastra sobre la tierra es abominación; no se comerá.",
+      "verse": 41,
+      "start_ms": 275960,
+      "end_ms": 281072,
+      "duration_ms": 5112
+    },
+    {
+      "word": "Todo lo que anda sobre el pecho, y todo lo que anda sobre cuatro o más patas, de todo animal que se arrastra sobre la tierra, no lo comeréis, porque es abominación.",
+      "verse": 42,
+      "start_ms": 281072,
+      "end_ms": 290984,
+      "duration_ms": 9912
+    },
+    {
+      "word": "No hagáis abominables vuestras personas con ningún animal que se arrastra, ni os contaminéis con ellos, ni seáis inmundos por ellos.",
+      "verse": 43,
+      "start_ms": 290985,
+      "end_ms": 299110,
+      "duration_ms": 8125
+    },
+    {
+      "word": "Porque yo soy Jehová vuestro Dios; vosotros por tanto os santificaréis, y seréis santos, porque yo soy santo; así que no contaminéis vuestras personas con ningún animal que se arrastre sobre la tierra.",
+      "verse": 44,
+      "start_ms": 299110,
+      "end_ms": 311435,
+      "duration_ms": 12325
+    },
+    {
+      "word": "Porque yo soy Jehová, que os hago subir de la tierra de Egipto para ser vuestro Dios: seréis, pues, santos, porque yo soy santo.",
+      "verse": 45,
+      "start_ms": 311435,
+      "end_ms": 320297,
+      "duration_ms": 8862
+    },
+    {
+      "word": "Ésta es la ley acerca de las bestias, y las aves, y todo ser viviente que se mueve en las aguas, y todo animal que se arrastra sobre la tierra, para hacer diferencia entre lo inmundo y lo limpio, y entre los animales que se pueden comer y los animales que no se pueden comer.",
+      "verse": 46,
+      "start_ms": 320297,
+      "end_ms": 335647,
+      "duration_ms": 15350
+    }
+  ]
+}

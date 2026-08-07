@@ -1,0 +1,362 @@
+{
+  "book": "DEU",
+  "chapter": 14,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 29,
+  "word_count": 21,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 85,
+      "text": "Hijos sois de Jehová vuestro Dios; no os sajaréis, ni os raparéis a causa de muerto."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 85,
+      "char_end": 280,
+      "text": "Porque eres pueblo santo a Jehová tu Dios, y Jehová te ha escogido para que le seas un pueblo único de entre todos los pueblos que están sobre la tierra. Animales limpios e inmundos (Lv 11.1–47)"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 280,
+      "char_end": 305,
+      "text": "Nada abominable comerás."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 305,
+      "char_end": 376,
+      "text": "Éstos son los animales que podréis comer: el buey, la oveja, la cabra,"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 376,
+      "char_end": 468,
+      "text": "el ciervo, la gacela, el corzo, la cabra montés, el íbice, el antílope y el carnero montés."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 468,
+      "char_end": 580,
+      "text": "Y todo animal de pezuñas, que tiene hendidura de dos uñas, y que rumiare entre los animales, ése podréis comer."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 580,
+      "char_end": 751,
+      "text": "Pero éstos no comeréis, entre los que rumian o entre los que tienen pezuña hendida: camello, liebre y conejo; porque rumian, mas no tienen pezuña hendida, serán inmundos;"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 751,
+      "char_end": 888,
+      "text": "ni cerdo, porque tiene pezuña hendida, mas no rumia; os será inmundo. De la carne de éstos no comeréis, ni tocaréis sus cuerpos muertos."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 888,
+      "char_end": 978,
+      "text": "De todo lo que está en el agua, de éstos podréis comer: todo lo que tiene aleta y escama."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 978,
+      "char_end": 1046,
+      "text": "Mas todo lo que no tiene aleta y escama, no comeréis; inmundo será."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1046,
+      "char_end": 1077,
+      "text": "Toda ave limpia podréis comer."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1077,
+      "char_end": 1158,
+      "text": "Y éstas son de las que no podréis comer: el águila, el quebrantahuesos, el azor,"
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1158,
+      "char_end": 1200,
+      "text": "el gallinazo, el milano según su especie,"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1200,
+      "char_end": 1230,
+      "text": "todo cuervo según su especie,"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1230,
+      "char_end": 1299,
+      "text": "el avestruz, la lechuza, la gaviota y el gavilán según sus especies,"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1299,
+      "char_end": 1329,
+      "text": "el búho, el ibis, el calamón,"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1329,
+      "char_end": 1367,
+      "text": "el pelícano, el buitre, el somormujo,"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1367,
+      "char_end": 1435,
+      "text": "la cigüeña, la garza según su especie, la abubilla y el murciélago."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1435,
+      "char_end": 1482,
+      "text": "Todo insecto alado será inmundo; no se comerá."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1482,
+      "char_end": 1513,
+      "text": "Toda ave limpia podréis comer."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1513,
+      "char_end": 1756,
+      "text": "Ninguna cosa mortecina comeréis; al extranjero que está en tus poblaciones la darás, y él podrá comerla; o véndela a un extranjero, porque tú eres pueblo santo a Jehová tu Dios. No cocerás el cabrito en la leche de su madre. La ley del diezmo"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1756,
+      "char_end": 1843,
+      "text": "Indefectiblemente diezmarás todo el producto del grano que rindiere tu campo cada año."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1843,
+      "char_end": 2093,
+      "text": "Y comerás delante de Jehová tu Dios en el lugar que él escogiere para poner allí su nombre, el diezmo de tu grano, de tu vino y de tu aceite, y las primicias de tus manadas y de tus ganados, para que aprendas a temer a Jehová tu Dios todos los días."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2093,
+      "char_end": 2279,
+      "text": "Y si el camino fuere tan largo que no puedas llevarlo, por estar lejos de ti el lugar que Jehová tu Dios hubiere escogido para poner en él su nombre, cuando Jehová tu Dios te bendijere,"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2279,
+      "char_end": 2383,
+      "text": "entonces lo venderás y guardarás el dinero en tu mano, y vendrás al lugar que Jehová tu Dios escogiere;"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2383,
+      "char_end": 2581,
+      "text": "y darás el dinero por todo lo que deseas, por vacas, por ovejas, por vino, por sidra, o por cualquier cosa que tú deseares; y comerás allí delante de Jehová tu Dios, y te alegrarás tú y tu familia."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2581,
+      "char_end": 2684,
+      "text": "Y no desampararás al levita que habitare en tus poblaciones; porque no tiene parte ni heredad contigo."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2684,
+      "char_end": 2795,
+      "text": "Al fin de cada tres años sacarás todo el diezmo de tus productos de aquel año, y lo guardarás en tus ciudades."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2795,
+      "char_end": 3026,
+      "text": "Y vendrá el levita, que no tiene parte ni heredad contigo, y el extranjero, el huérfano y la viuda que hubiere en tus poblaciones, y comerán y serán saciados; para que Jehová tu Dios te bendiga en toda obra que tus manos hicieren."
+    }
+  ],
+  "words": [
+    {
+      "word": "Hijos sois de Jehová vuestro Dios; no os sajaréis, ni os raparéis a causa de muerto.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5950,
+      "duration_ms": 5850
+    },
+    {
+      "word": "Porque eres pueblo santo a Jehová tu Dios, y Jehová te ha escogido para que le seas un pueblo único de entre todos los pueblos que están sobre la tierra.",
+      "verse": 2,
+      "start_ms": 5900,
+      "end_ms": 14237,
+      "duration_ms": 8337
+    },
+    {
+      "word": "Animales limpios e inmundos (Lv 11.1–47) Nada abominable comerás.",
+      "verse": 2,
+      "start_ms": 14237,
+      "end_ms": 21174,
+      "duration_ms": 6937
+    },
+    {
+      "word": "Éstos son los animales que podréis comer: el buey, la oveja, la cabra, el ciervo, la gacela, el corzo, la cabra montés, el íbice, el antílope y el carnero montés.",
+      "verse": 4,
+      "start_ms": 21175,
+      "end_ms": 33375,
+      "duration_ms": 12200
+    },
+    {
+      "word": "Y todo animal de pezuñas, que tiene hendidura de dos uñas, y que rumiare entre los animales, ése podréis comer.",
+      "verse": 6,
+      "start_ms": 33375,
+      "end_ms": 40937,
+      "duration_ms": 7562
+    },
+    {
+      "word": "Pero éstos no comeréis, entre los que rumian o entre los que tienen pezuña hendida: camello, liebre y conejo; porque rumian, mas no tienen pezuña hendida, serán inmundos; ni cerdo, porque tiene pezuña hendida, mas no rumia; os será inmundo.",
+      "verse": 7,
+      "start_ms": 40937,
+      "end_ms": 56524,
+      "duration_ms": 15587
+    },
+    {
+      "word": "De la carne de éstos no comeréis, ni tocaréis sus cuerpos muertos.",
+      "verse": 8,
+      "start_ms": 56525,
+      "end_ms": 61300,
+      "duration_ms": 4775
+    },
+    {
+      "word": "De todo lo que está en el agua, de éstos podréis comer: todo lo que tiene aleta y escama.",
+      "verse": 9,
+      "start_ms": 61300,
+      "end_ms": 67237,
+      "duration_ms": 5937
+    },
+    {
+      "word": "Mas todo lo que no tiene aleta y escama, no comeréis; inmundo será.",
+      "verse": 10,
+      "start_ms": 67237,
+      "end_ms": 72349,
+      "duration_ms": 5112
+    },
+    {
+      "word": "Toda ave limpia podréis comer.",
+      "verse": 11,
+      "start_ms": 72350,
+      "end_ms": 75000,
+      "duration_ms": 2650
+    },
+    {
+      "word": "Y éstas son de las que no podréis comer: el águila, el quebrantahuesos, el azor, el gallinazo, el milano según su especie, todo cuervo según su especie, el avestruz, la lechuza, la gaviota y el gavilán según sus especies, el búho, el ibis, el calamón, el pelícano, el buitre, el somormujo, la cigüeña, la garza según su especie, la abubilla y el murciélago.",
+      "verse": 12,
+      "start_ms": 75000,
+      "end_ms": 99900,
+      "duration_ms": 24900
+    },
+    {
+      "word": "Todo insecto alado será inmundo; no se comerá.",
+      "verse": 19,
+      "start_ms": 99900,
+      "end_ms": 103700,
+      "duration_ms": 3800
+    },
+    {
+      "word": "Toda ave limpia podréis comer.",
+      "verse": 20,
+      "start_ms": 103700,
+      "end_ms": 106350,
+      "duration_ms": 2650
+    },
+    {
+      "word": "Ninguna cosa mortecina comeréis; al extranjero que está en tus poblaciones la darás, y él podrá comerla; o véndela a un extranjero, porque tú eres pueblo santo a Jehová tu Dios.",
+      "verse": 21,
+      "start_ms": 106350,
+      "end_ms": 117600,
+      "duration_ms": 11250
+    },
+    {
+      "word": "No cocerás el cabrito en la leche de su madre.",
+      "verse": 21,
+      "start_ms": 117600,
+      "end_ms": 120887,
+      "duration_ms": 3287
+    },
+    {
+      "word": "La ley del diezmo Indefectiblemente diezmarás todo el producto del grano que rindiere tu campo cada año.",
+      "verse": 21,
+      "start_ms": 120887,
+      "end_ms": 127224,
+      "duration_ms": 6337
+    },
+    {
+      "word": "Y comerás delante de Jehová tu Dios en el lugar que él escogiere para poner allí su nombre, el diezmo de tu grano, de tu vino y de tu aceite, y las primicias de tus manadas y de tus ganados, para que aprendas a temer a Jehová tu Dios todos los días.",
+      "verse": 23,
+      "start_ms": 127225,
+      "end_ms": 141387,
+      "duration_ms": 14162
+    },
+    {
+      "word": "Y si el camino fuere tan largo que no puedas llevarlo, por estar lejos de ti el lugar que Jehová tu Dios hubiere escogido para poner en él su nombre, cuando Jehová tu Dios te bendijere, entonces lo venderás y guardarás el dinero en tu mano, y vendrás al lugar que Jehová tu Dios escogiere; y darás el dinero por todo lo que deseas, por vacas, por ovejas, por vino, por sidra, o por cualquier cosa que tú deseares; y comerás allí delante de Jehová tu Dios, y te alegrarás tú y tu familia.",
+      "verse": 24,
+      "start_ms": 141387,
+      "end_ms": 169212,
+      "duration_ms": 27825
+    },
+    {
+      "word": "Y no desampararás al levita que habitare en tus poblaciones; porque no tiene parte ni heredad contigo.",
+      "verse": 27,
+      "start_ms": 169212,
+      "end_ms": 175449,
+      "duration_ms": 6237
+    },
+    {
+      "word": "Al fin de cada tres años sacarás todo el diezmo de tus productos de aquel año, y lo guardarás en tus ciudades.",
+      "verse": 28,
+      "start_ms": 175450,
+      "end_ms": 182175,
+      "duration_ms": 6725
+    },
+    {
+      "word": "Y vendrá el levita, que no tiene parte ni heredad contigo, y el extranjero, el huérfano y la viuda que hubiere en tus poblaciones, y comerán y serán saciados; para que Jehová tu Dios te bendiga en toda obra que tus manos hicieren.",
+      "verse": 29,
+      "start_ms": 182175,
+      "end_ms": 195962,
+      "duration_ms": 13787
+    }
+  ]
+}

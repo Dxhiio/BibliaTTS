@@ -1,0 +1,439 @@
+{
+  "book": "LEV",
+  "chapter": 18,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 30,
+  "word_count": 31,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 33,
+      "text": "Habló Jehová a Moisés, diciendo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 33,
+      "char_end": 99,
+      "text": "Habla a los hijos de Israel, y diles: Yo soy Jehová vuestro Dios."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 99,
+      "char_end": 267,
+      "text": "No haréis como hacen en la tierra de Egipto, en la cual morasteis; ni haréis como hacen en la tierra de Canaán, a la cual yo os conduzco, ni andaréis en sus estatutos."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 267,
+      "char_end": 371,
+      "text": "Mis ordenanzas pondréis por obra, y mis estatutos guardaréis, andando en ellos. Yo Jehová vuestro Dios."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 371,
+      "char_end": 484,
+      "text": "Por tanto, guardaréis mis estatutos y mis ordenanzas, los cuales haciendo el hombre, vivirá en ellos. Yo Jehová."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 484,
+      "char_end": 573,
+      "text": "Ningún varón se llegue a parienta próxima alguna, para descubrir su desnudez. Yo Jehová."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 573,
+      "char_end": 682,
+      "text": "La desnudez de tu padre, o la desnudez de tu madre, no descubrirás; tu madre es, no descubrirás su desnudez."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 682,
+      "char_end": 762,
+      "text": "La desnudez de la mujer de tu padre no descubrirás; es la desnudez de tu padre."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 762,
+      "char_end": 885,
+      "text": "La desnudez de tu hermana, hija de tu padre o hija de tu madre, nacida en casa o nacida fuera, su desnudez no descubrirás."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 885,
+      "char_end": 1001,
+      "text": "La desnudez de la hija de tu hijo, o de la hija de tu hija, su desnudez no descubrirás, porque es la desnudez tuya."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1001,
+      "char_end": 1116,
+      "text": "La desnudez de la hija de la mujer de tu padre, engendrada de tu padre, tu hermana es; su desnudez no descubrirás."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1116,
+      "char_end": 1195,
+      "text": "La desnudez de la hermana de tu padre no descubrirás; es parienta de tu padre."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1195,
+      "char_end": 1281,
+      "text": "La desnudez de la hermana de tu madre no descubrirás, porque parienta de tu madre es."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1281,
+      "char_end": 1391,
+      "text": "La desnudez del hermano de tu padre no descubrirás; no llegarás a su mujer; es mujer del hermano de tu padre."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1391,
+      "char_end": 1480,
+      "text": "La desnudez de tu nuera no descubrirás; mujer es de tu hijo, no descubrirás su desnudez."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1480,
+      "char_end": 1564,
+      "text": "La desnudez de la mujer de tu hermano no descubrirás; es la desnudez de tu hermano."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1564,
+      "char_end": 1725,
+      "text": "La desnudez de la mujer y de su hija no descubrirás; no tomarás la hija de su hijo, ni la hija de su hija, para descubrir su desnudez; son parientas, es maldad."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1725,
+      "char_end": 1845,
+      "text": "No tomarás mujer juntamente con su hermana, para hacerla su rival, descubriendo su desnudez delante de ella en su vida."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1845,
+      "char_end": 1937,
+      "text": "Y no llegarás a la mujer para descubrir su desnudez mientras esté en su impureza menstrual."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1937,
+      "char_end": 2021,
+      "text": "Además, no tendrás acto carnal con la mujer de tu prójimo, contaminándote con ella."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2021,
+      "char_end": 2125,
+      "text": "Y no des hijo tuyo para ofrecerlo por fuego a Moloc; no contamines así el nombre de tu Dios. Yo Jehová."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2125,
+      "char_end": 2181,
+      "text": "No te echarás con varón como con mujer; es abominación."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2181,
+      "char_end": 2328,
+      "text": "Ni con ningún animal tendrás ayuntamiento amancillándote con él, ni mujer alguna se pondrá delante de animal para ayuntarse con él; es perversión."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2328,
+      "char_end": 2465,
+      "text": "En ninguna de estas cosas os amancillaréis; pues en todas estas cosas se han corrompido las naciones que yo echo de delante de vosotros,"
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2465,
+      "char_end": 2562,
+      "text": "y la tierra fue contaminada; y yo visité su maldad sobre ella, y la tierra vomitó sus moradores."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2562,
+      "char_end": 2717,
+      "text": "Guardad, pues, vosotros mis estatutos y mis ordenanzas, y no hagáis ninguna de estas abominaciones, ni el natural ni el extranjero que mora entre vosotros"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2717,
+      "char_end": 2850,
+      "text": "(porque todas estas abominaciones hicieron los hombres de aquella tierra que fueron antes de vosotros, y la tierra fue contaminada);"
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2850,
+      "char_end": 2963,
+      "text": "no sea que la tierra os vomite por haberla contaminado, como vomitó a la nación que la habitó antes de vosotros."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2963,
+      "char_end": 3095,
+      "text": "Porque cualquiera que hiciere alguna de todas estas abominaciones, las personas que las hicieren serán cortadas de entre su pueblo."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3095,
+      "char_end": 3252,
+      "text": "Guardad, pues, mi ordenanza, no haciendo las costumbres abominables que practicaron antes de vosotros, y no os contaminéis en ellas. Yo Jehová vuestro Dios."
+    }
+  ],
+  "words": [
+    {
+      "word": "Habló Jehová a Moisés, diciendo: Habla a los hijos de Israel, y diles: Yo soy Jehová vuestro Dios.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7650,
+      "duration_ms": 7550
+    },
+    {
+      "word": "No haréis como hacen en la tierra de Egipto, en la cual morasteis; ni haréis como hacen en la tierra de Canaán, a la cual yo os conduzco, ni andaréis en sus estatutos.",
+      "verse": 3,
+      "start_ms": 7600,
+      "end_ms": 17900,
+      "duration_ms": 10300
+    },
+    {
+      "word": "Mis ordenanzas pondréis por obra, y mis estatutos guardaréis, andando en ellos.",
+      "verse": 4,
+      "start_ms": 17900,
+      "end_ms": 23462,
+      "duration_ms": 5562
+    },
+    {
+      "word": "Yo Jehová vuestro Dios.",
+      "verse": 4,
+      "start_ms": 23462,
+      "end_ms": 25799,
+      "duration_ms": 2337
+    },
+    {
+      "word": "Por tanto, guardaréis mis estatutos y mis ordenanzas, los cuales haciendo el hombre, vivirá en ellos.",
+      "verse": 5,
+      "start_ms": 25800,
+      "end_ms": 32637,
+      "duration_ms": 6837
+    },
+    {
+      "word": "Yo Jehová.",
+      "verse": 5,
+      "start_ms": 32637,
+      "end_ms": 34349,
+      "duration_ms": 1712
+    },
+    {
+      "word": "Ningún varón se llegue a parienta próxima alguna, para descubrir su desnudez.",
+      "verse": 6,
+      "start_ms": 34350,
+      "end_ms": 39550,
+      "duration_ms": 5200
+    },
+    {
+      "word": "Yo Jehová.",
+      "verse": 6,
+      "start_ms": 39550,
+      "end_ms": 41262,
+      "duration_ms": 1712
+    },
+    {
+      "word": "La desnudez de tu padre, o la desnudez de tu madre, no descubrirás; tu madre es, no descubrirás su desnudez.",
+      "verse": 7,
+      "start_ms": 41262,
+      "end_ms": 49037,
+      "duration_ms": 7775
+    },
+    {
+      "word": "La desnudez de la mujer de tu padre no descubrirás; es la desnudez de tu padre.",
+      "verse": 8,
+      "start_ms": 49037,
+      "end_ms": 54387,
+      "duration_ms": 5350
+    },
+    {
+      "word": "La desnudez de tu hermana, hija de tu padre o hija de tu madre, nacida en casa o nacida fuera, su desnudez no descubrirás.",
+      "verse": 9,
+      "start_ms": 54387,
+      "end_ms": 62624,
+      "duration_ms": 8237
+    },
+    {
+      "word": "La desnudez de la hija de tu hijo, o de la hija de tu hija, su desnudez no descubrirás, porque es la desnudez tuya.",
+      "verse": 10,
+      "start_ms": 62625,
+      "end_ms": 70387,
+      "duration_ms": 7762
+    },
+    {
+      "word": "La desnudez de la hija de la mujer de tu padre, engendrada de tu padre, tu hermana es; su desnudez no descubrirás.",
+      "verse": 11,
+      "start_ms": 70387,
+      "end_ms": 78412,
+      "duration_ms": 8025
+    },
+    {
+      "word": "La desnudez de la hermana de tu padre no descubrirás; es parienta de tu padre.",
+      "verse": 12,
+      "start_ms": 78412,
+      "end_ms": 83674,
+      "duration_ms": 5262
+    },
+    {
+      "word": "La desnudez de la hermana de tu madre no descubrirás, porque parienta de tu madre es.",
+      "verse": 13,
+      "start_ms": 83675,
+      "end_ms": 89287,
+      "duration_ms": 5612
+    },
+    {
+      "word": "La desnudez del hermano de tu padre no descubrirás; no llegarás a su mujer; es mujer del hermano de tu padre.",
+      "verse": 14,
+      "start_ms": 89287,
+      "end_ms": 96512,
+      "duration_ms": 7225
+    },
+    {
+      "word": "La desnudez de tu nuera no descubrirás; mujer es de tu hijo, no descubrirás su desnudez.",
+      "verse": 15,
+      "start_ms": 96512,
+      "end_ms": 102637,
+      "duration_ms": 6125
+    },
+    {
+      "word": "La desnudez de la mujer de tu hermano no descubrirás; es la desnudez de tu hermano.",
+      "verse": 16,
+      "start_ms": 102637,
+      "end_ms": 107999,
+      "duration_ms": 5362
+    },
+    {
+      "word": "La desnudez de la mujer y de su hija no descubrirás; no tomarás la hija de su hijo, ni la hija de su hija, para descubrir su desnudez; son parientas, es maldad.",
+      "verse": 17,
+      "start_ms": 108000,
+      "end_ms": 118537,
+      "duration_ms": 10537
+    },
+    {
+      "word": "No tomarás mujer juntamente con su hermana, para hacerla su rival, descubriendo su desnudez delante de ella en su vida.",
+      "verse": 18,
+      "start_ms": 118537,
+      "end_ms": 125824,
+      "duration_ms": 7287
+    },
+    {
+      "word": "Y no llegarás a la mujer para descubrir su desnudez mientras esté en su impureza menstrual.",
+      "verse": 19,
+      "start_ms": 125825,
+      "end_ms": 131300,
+      "duration_ms": 5475
+    },
+    {
+      "word": "Además, no tendrás acto carnal con la mujer de tu prójimo, contaminándote con ella.",
+      "verse": 20,
+      "start_ms": 131300,
+      "end_ms": 137237,
+      "duration_ms": 5937
+    },
+    {
+      "word": "Y no des hijo tuyo para ofrecerlo por fuego a Moloc; no contamines así el nombre de tu Dios.",
+      "verse": 21,
+      "start_ms": 137237,
+      "end_ms": 143337,
+      "duration_ms": 6100
+    },
+    {
+      "word": "Yo Jehová.",
+      "verse": 21,
+      "start_ms": 143337,
+      "end_ms": 145049,
+      "duration_ms": 1712
+    },
+    {
+      "word": "No te echarás con varón como con mujer; es abominación.",
+      "verse": 22,
+      "start_ms": 145050,
+      "end_ms": 149187,
+      "duration_ms": 4137
+    },
+    {
+      "word": "Ni con ningún animal tendrás ayuntamiento amancillándote con él, ni mujer alguna se pondrá delante de animal para ayuntarse con él; es perversión.",
+      "verse": 23,
+      "start_ms": 149187,
+      "end_ms": 157874,
+      "duration_ms": 8687
+    },
+    {
+      "word": "En ninguna de estas cosas os amancillaréis; pues en todas estas cosas se han corrompido las naciones que yo echo de delante de vosotros, y la tierra fue contaminada; y yo visité su maldad sobre ella, y la tierra vomitó sus moradores.",
+      "verse": 24,
+      "start_ms": 157875,
+      "end_ms": 171587,
+      "duration_ms": 13712
+    },
+    {
+      "word": "Guardad, pues, vosotros mis estatutos y mis ordenanzas, y no hagáis ninguna de estas abominaciones, ni el natural ni el extranjero que mora entre vosotros (porque todas estas abominaciones hicieron los hombres de aquella tierra que fueron antes de vosotros, y la tierra fue contaminada); no sea que la tierra os vomite por haberla contaminado, como vomitó a la nación que la habitó antes de vosotros.",
+      "verse": 26,
+      "start_ms": 171587,
+      "end_ms": 194337,
+      "duration_ms": 22750
+    },
+    {
+      "word": "Porque cualquiera que hiciere alguna de todas estas abominaciones, las personas que las hicieren serán cortadas de entre su pueblo.",
+      "verse": 29,
+      "start_ms": 194337,
+      "end_ms": 201574,
+      "duration_ms": 7237
+    },
+    {
+      "word": "Guardad, pues, mi ordenanza, no haciendo las costumbres abominables que practicaron antes de vosotros, y no os contaminéis en ellas.",
+      "verse": 30,
+      "start_ms": 201575,
+      "end_ms": 210187,
+      "duration_ms": 8612
+    },
+    {
+      "word": "Yo Jehová vuestro Dios.",
+      "verse": 30,
+      "start_ms": 210187,
+      "end_ms": 212524,
+      "duration_ms": 2337
+    }
+  ]
+}

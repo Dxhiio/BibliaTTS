@@ -1,0 +1,782 @@
+{
+  "book": "NUM",
+  "chapter": 33,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 56,
+  "word_count": 54,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 135,
+      "text": "Éstas son las jornadas de los hijos de Israel, que salieron de la tierra de Egipto por sus ejércitos, bajo el mando de Moisés y Aarón."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 135,
+      "char_end": 267,
+      "text": "Moisés escribió sus salidas conforme a sus jornadas por mandato de Jehová. éstas, pues, son sus jornadas con arreglo a sus salidas."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 267,
+      "char_end": 448,
+      "text": "De Ramesés salieron en el mes primero, a los quince días del mes primero; el segundo día de la pascua salieron los hijos de Israel con mano poderosa, a vista de todos los egipcios,"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 448,
+      "char_end": 611,
+      "text": "mientras enterraban los egipcios a los que Jehová había herido de muerte de entre ellos, a todo primogénito; también había hecho Jehová juicios contra sus dioses."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 611,
+      "char_end": 681,
+      "text": "Salieron, pues, los hijos de Israel de Ramesés, y acamparon en Sucot."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 681,
+      "char_end": 753,
+      "text": "Salieron de Sucot y acamparon en Etam, que está al confín del desierto."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 753,
+      "char_end": 863,
+      "text": "Salieron de Etam y volvieron sobre Pi-hahirot, que está delante de Baal-zefón, y acamparon delante de Migdol."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 863,
+      "char_end": 1009,
+      "text": "Salieron de Pi-hahirot y pasaron por en medio del mar al desierto, y anduvieron tres días de camino por el desierto de Etam, y acamparon en Mara."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1009,
+      "char_end": 1118,
+      "text": "Salieron de Mara y vinieron a Elim, donde había doce fuentes de aguas, y setenta palmeras; y acamparon allí."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1118,
+      "char_end": 1166,
+      "text": "Salieron de Elim y acamparon junto al Mar Rojo."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1166,
+      "char_end": 1223,
+      "text": "Salieron del Mar Rojo y acamparon en el desierto de Sin."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1223,
+      "char_end": 1274,
+      "text": "Salieron del desierto de Sin y acamparon en Dofca."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1274,
+      "char_end": 1313,
+      "text": "Salieron de Dofca y acamparon en Alús."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1313,
+      "char_end": 1396,
+      "text": "Salieron de Alús y acamparon en Refidim, donde el pueblo no tuvo aguas para beber."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1396,
+      "char_end": 1453,
+      "text": "Salieron de Refidim y acamparon en el desierto de Sinaí."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1453,
+      "char_end": 1515,
+      "text": "Salieron del desierto de Sinaí y acamparon en Kibrot-hataava."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1515,
+      "char_end": 1566,
+      "text": "Salieron de Kibrot-hataava y acamparon en Hazerot."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 1566,
+      "char_end": 1608,
+      "text": "Salieron de Hazerot y acamparon en Ritma."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 1608,
+      "char_end": 1654,
+      "text": "Salieron de Ritma y acamparon en Rimón-peres."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 1654,
+      "char_end": 1700,
+      "text": "Salieron de Rimón-peres y acamparon en Libna."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 1700,
+      "char_end": 1740,
+      "text": "Salieron de Libna y acamparon en Rissa."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 1740,
+      "char_end": 1782,
+      "text": "Salieron de Rissa y acamparon en Ceelata."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 1782,
+      "char_end": 1836,
+      "text": "Salieron de Ceelata y acamparon en el monte de Sefer."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 1836,
+      "char_end": 1887,
+      "text": "Salieron del monte de Sefer y acamparon en Harada."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 1887,
+      "char_end": 1930,
+      "text": "Salieron de Harada y acamparon en Macelot."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 1930,
+      "char_end": 1972,
+      "text": "Salieron de Macelot y acamparon en Tahat."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 1972,
+      "char_end": 2011,
+      "text": "Salieron de Tahat y acamparon en Tara."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 2011,
+      "char_end": 2050,
+      "text": "Salieron de Tara y acamparon en Mitca."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 2050,
+      "char_end": 2092,
+      "text": "Salieron de Mitca y acamparon en Hasmona."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 2092,
+      "char_end": 2136,
+      "text": "Salieron de Hasmona y acamparon en Moserot."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 2136,
+      "char_end": 2184,
+      "text": "Salieron de Moserot y acamparon en Bene-jaacán."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 2184,
+      "char_end": 2243,
+      "text": "Salieron de Bene-jaacán y acamparon en el monte de Gidgad."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 2243,
+      "char_end": 2296,
+      "text": "Salieron del monte de Gidgad y acamparon en Jotbata."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 2296,
+      "char_end": 2339,
+      "text": "Salieron de Jotbata y acamparon en Abrona."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 2339,
+      "char_end": 2386,
+      "text": "Salieron de Abrona y acamparon en Ezión-geber."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 2386,
+      "char_end": 2459,
+      "text": "Salieron de Ezión-geber y acamparon en el desierto de Zin, que es Cades."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 2459,
+      "char_end": 2546,
+      "text": "Y salieron de Cades y acamparon en el monte de Hor, en la extremidad del país de Edom."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 2546,
+      "char_end": 2753,
+      "text": "Y subió el sacerdote Aarón al monte de Hor, conforme al dicho de Jehová, y allí murió a los cuarenta años de la salida de los hijos de Israel de la tierra de Egipto, en el mes quinto, en el primero del mes."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 2753,
+      "char_end": 2831,
+      "text": "Era Aarón de edad de ciento veintitrés años, cuando murió en el monte de Hor."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 2831,
+      "char_end": 2951,
+      "text": "Y el cananeo, rey de Arad, que habitaba en el Neguev en la tierra de Canaán, oyó que habían venido los hijos de Israel."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 2951,
+      "char_end": 3003,
+      "text": "Y salieron del monte de Hor y acamparon en Zalmona."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 3003,
+      "char_end": 3045,
+      "text": "Salieron de Zalmona y acamparon en Punón."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 3045,
+      "char_end": 3084,
+      "text": "Salieron de Punón y acamparon en Obot."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 3084,
+      "char_end": 3152,
+      "text": "Salieron de Obot y acamparon en Ije-abarim, en la frontera de Moab."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 3152,
+      "char_end": 3201,
+      "text": "Salieron de Ije-abarim y acamparon en Dibón-gad."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 3201,
+      "char_end": 3255,
+      "text": "Salieron de Dibón-gad y acamparon en Almón-diblataim."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 3255,
+      "char_end": 3337,
+      "text": "Salieron de Almón-diblataim y acamparon en los montes de Abarim, delante de Nebo."
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 3337,
+      "char_end": 3439,
+      "text": "Salieron de los montes de Abarim y acamparon en los campos de Moab, junto al Jordán, frente a Jericó."
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 3439,
+      "char_end": 3568,
+      "text": "Finalmente acamparon junto al Jordán, desde Bet-jesimot hasta Abel-sitim, en los campos de Moab. Límites y repartición de Canaán"
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 3568,
+      "char_end": 3657,
+      "text": "Y habló Jehová a Moisés en los campos de Moab junto al Jordán frente a Jericó, diciendo:"
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 3657,
+      "char_end": 3759,
+      "text": "Habla a los hijos de Israel, y diles: Cuando hayáis pasado el Jordán entrando en la tierra de Canaán,"
+    },
+    {
+      "verse": 52,
+      "label": "52",
+      "char_start": 3759,
+      "char_end": 3939,
+      "text": "echaréis de delante de vosotros a todos los moradores del país, y destruiréis todos sus ídolos de piedra, y todas sus imágenes de fundición, y destruiréis todos sus lugares altos;"
+    },
+    {
+      "verse": 53,
+      "label": "53",
+      "char_start": 3939,
+      "char_end": 4058,
+      "text": "y echaréis a los moradores de la tierra, y habitaréis en ella; porque yo os la he dado para que sea vuestra propiedad."
+    },
+    {
+      "verse": 54,
+      "label": "54",
+      "char_start": 4058,
+      "char_end": 4294,
+      "text": "Y heredaréis la tierra por sorteo por vuestras familias; a los muchos daréis mucho por herencia, y a los pocos daréis menos por herencia; donde le cayere la suerte, allí la tendrá cada uno; por las tribus de vuestros padres heredaréis."
+    },
+    {
+      "verse": 55,
+      "label": "55",
+      "char_start": 4294,
+      "char_end": 4531,
+      "text": "Y si no echareis a los moradores del país de delante de vosotros, sucederá que los que dejareis de ellos serán por aguijones en vuestros ojos y por espinas en vuestros costados, y os afligirán sobre la tierra en que vosotros habitareis."
+    },
+    {
+      "verse": 56,
+      "label": "56",
+      "char_start": 4531,
+      "char_end": 4587,
+      "text": "Además, haré a vosotros como yo pensé hacerles a ellos."
+    }
+  ],
+  "words": [
+    {
+      "word": "Éstas son las jornadas de los hijos de Israel, que salieron de la tierra de Egipto por sus ejércitos, bajo el mando de Moisés y Aarón.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7837,
+      "duration_ms": 7737
+    },
+    {
+      "word": "Moisés escribió sus salidas conforme a sus jornadas por mandato de Jehová.",
+      "verse": 2,
+      "start_ms": 7787,
+      "end_ms": 12662,
+      "duration_ms": 4875
+    },
+    {
+      "word": "éstas, pues, son sus jornadas con arreglo a sus salidas.",
+      "verse": 2,
+      "start_ms": 12662,
+      "end_ms": 17249,
+      "duration_ms": 4587
+    },
+    {
+      "word": "De Ramesés salieron en el mes primero, a los quince días del mes primero; el segundo día de la pascua salieron los hijos de Israel con mano poderosa, a vista de todos los egipcios, mientras enterraban los egipcios a los que Jehová había herido de muerte de entre ellos, a todo primogénito; también había hecho Jehová juicios contra sus dioses.",
+      "verse": 3,
+      "start_ms": 17250,
+      "end_ms": 37050,
+      "duration_ms": 19800
+    },
+    {
+      "word": "Salieron, pues, los hijos de Israel de Ramesés, y acamparon en Sucot.",
+      "verse": 5,
+      "start_ms": 37050,
+      "end_ms": 42637,
+      "duration_ms": 5587
+    },
+    {
+      "word": "Salieron de Sucot y acamparon en Etam, que está al confín del desierto.",
+      "verse": 6,
+      "start_ms": 42637,
+      "end_ms": 47612,
+      "duration_ms": 4975
+    },
+    {
+      "word": "Salieron de Etam y volvieron sobre Pi-hahirot, que está delante de Baal-zefón, y acamparon delante de Migdol.",
+      "verse": 7,
+      "start_ms": 47612,
+      "end_ms": 54762,
+      "duration_ms": 7150
+    },
+    {
+      "word": "Salieron de Pi-hahirot y pasaron por en medio del mar al desierto, y anduvieron tres días de camino por el desierto de Etam, y acamparon en Mara.",
+      "verse": 8,
+      "start_ms": 54762,
+      "end_ms": 63112,
+      "duration_ms": 8350
+    },
+    {
+      "word": "Salieron de Mara y vinieron a Elim, donde había doce fuentes de aguas, y setenta palmeras; y acamparon allí.",
+      "verse": 9,
+      "start_ms": 63112,
+      "end_ms": 70474,
+      "duration_ms": 7362
+    },
+    {
+      "word": "Salieron de Elim y acamparon junto al Mar Rojo.",
+      "verse": 10,
+      "start_ms": 70475,
+      "end_ms": 73887,
+      "duration_ms": 3412
+    },
+    {
+      "word": "Salieron del Mar Rojo y acamparon en el desierto de Sin.",
+      "verse": 11,
+      "start_ms": 73887,
+      "end_ms": 77987,
+      "duration_ms": 4100
+    },
+    {
+      "word": "Salieron del desierto de Sin y acamparon en Dofca.",
+      "verse": 12,
+      "start_ms": 77987,
+      "end_ms": 81537,
+      "duration_ms": 3550
+    },
+    {
+      "word": "Salieron de Dofca y acamparon en Alús.",
+      "verse": 13,
+      "start_ms": 81537,
+      "end_ms": 84724,
+      "duration_ms": 3187
+    },
+    {
+      "word": "Salieron de Alús y acamparon en Refidim, donde el pueblo no tuvo aguas para beber.",
+      "verse": 14,
+      "start_ms": 84725,
+      "end_ms": 90137,
+      "duration_ms": 5412
+    },
+    {
+      "word": "Salieron de Refidim y acamparon en el desierto de Sinaí.",
+      "verse": 15,
+      "start_ms": 90137,
+      "end_ms": 94099,
+      "duration_ms": 3962
+    },
+    {
+      "word": "Salieron del desierto de Sinaí y acamparon en Kibrot-hataava.",
+      "verse": 16,
+      "start_ms": 94100,
+      "end_ms": 98325,
+      "duration_ms": 4225
+    },
+    {
+      "word": "Salieron de Kibrot-hataava y acamparon en Hazerot.",
+      "verse": 17,
+      "start_ms": 98325,
+      "end_ms": 101987,
+      "duration_ms": 3662
+    },
+    {
+      "word": "Salieron de Hazerot y acamparon en Ritma.",
+      "verse": 18,
+      "start_ms": 101987,
+      "end_ms": 104962,
+      "duration_ms": 2975
+    },
+    {
+      "word": "Salieron de Ritma y acamparon en Rimón-peres.",
+      "verse": 19,
+      "start_ms": 104962,
+      "end_ms": 108449,
+      "duration_ms": 3487
+    },
+    {
+      "word": "Salieron de Rimón-peres y acamparon en Libna.",
+      "verse": 20,
+      "start_ms": 108450,
+      "end_ms": 111737,
+      "duration_ms": 3287
+    },
+    {
+      "word": "Salieron de Libna y acamparon en Rissa.",
+      "verse": 21,
+      "start_ms": 111737,
+      "end_ms": 114837,
+      "duration_ms": 3100
+    },
+    {
+      "word": "Salieron de Rissa y acamparon en Ceelata.",
+      "verse": 22,
+      "start_ms": 114837,
+      "end_ms": 118074,
+      "duration_ms": 3237
+    },
+    {
+      "word": "Salieron de Ceelata y acamparon en el monte de Sefer.",
+      "verse": 23,
+      "start_ms": 118075,
+      "end_ms": 121925,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Salieron del monte de Sefer y acamparon en Harada.",
+      "verse": 24,
+      "start_ms": 121925,
+      "end_ms": 125500,
+      "duration_ms": 3575
+    },
+    {
+      "word": "Salieron de Harada y acamparon en Macelot.",
+      "verse": 25,
+      "start_ms": 125500,
+      "end_ms": 128725,
+      "duration_ms": 3225
+    },
+    {
+      "word": "Salieron de Macelot y acamparon en Tahat.",
+      "verse": 26,
+      "start_ms": 128725,
+      "end_ms": 131800,
+      "duration_ms": 3075
+    },
+    {
+      "word": "Salieron de Tahat y acamparon en Tara.",
+      "verse": 27,
+      "start_ms": 131800,
+      "end_ms": 134837,
+      "duration_ms": 3037
+    },
+    {
+      "word": "Salieron de Tara y acamparon en Mitca.",
+      "verse": 28,
+      "start_ms": 134837,
+      "end_ms": 137862,
+      "duration_ms": 3025
+    },
+    {
+      "word": "Salieron de Mitca y acamparon en Hasmona.",
+      "verse": 29,
+      "start_ms": 137862,
+      "end_ms": 140987,
+      "duration_ms": 3125
+    },
+    {
+      "word": "Salieron de Hasmona y acamparon en Moserot.",
+      "verse": 30,
+      "start_ms": 140987,
+      "end_ms": 144174,
+      "duration_ms": 3187
+    },
+    {
+      "word": "Salieron de Moserot y acamparon en Bene-jaacán.",
+      "verse": 31,
+      "start_ms": 144175,
+      "end_ms": 147650,
+      "duration_ms": 3475
+    },
+    {
+      "word": "Salieron de Bene-jaacán y acamparon en el monte de Gidgad.",
+      "verse": 32,
+      "start_ms": 147650,
+      "end_ms": 151500,
+      "duration_ms": 3850
+    },
+    {
+      "word": "Salieron del monte de Gidgad y acamparon en Jotbata.",
+      "verse": 33,
+      "start_ms": 151500,
+      "end_ms": 155150,
+      "duration_ms": 3650
+    },
+    {
+      "word": "Salieron de Jotbata y acamparon en Abrona.",
+      "verse": 34,
+      "start_ms": 155150,
+      "end_ms": 158387,
+      "duration_ms": 3237
+    },
+    {
+      "word": "Salieron de Abrona y acamparon en Ezión-geber.",
+      "verse": 35,
+      "start_ms": 158387,
+      "end_ms": 161799,
+      "duration_ms": 3412
+    },
+    {
+      "word": "Salieron de Ezión-geber y acamparon en el desierto de Zin, que es Cades.",
+      "verse": 36,
+      "start_ms": 161800,
+      "end_ms": 166900,
+      "duration_ms": 5100
+    },
+    {
+      "word": "Y salieron de Cades y acamparon en el monte de Hor, en la extremidad del país de Edom.",
+      "verse": 37,
+      "start_ms": 166900,
+      "end_ms": 172262,
+      "duration_ms": 5362
+    },
+    {
+      "word": "Y subió el sacerdote Aarón al monte de Hor, conforme al dicho de Jehová, y allí murió a los cuarenta años de la salida de los hijos de Israel de la tierra de Egipto, en el mes quinto, en el primero del mes.",
+      "verse": 38,
+      "start_ms": 172262,
+      "end_ms": 184312,
+      "duration_ms": 12050
+    },
+    {
+      "word": "Era Aarón de edad de ciento veintitrés años, cuando murió en el monte de Hor.",
+      "verse": 39,
+      "start_ms": 184312,
+      "end_ms": 189524,
+      "duration_ms": 5212
+    },
+    {
+      "word": "Y el cananeo, rey de Arad, que habitaba en el Neguev en la tierra de Canaán, oyó que habían venido los hijos de Israel.",
+      "verse": 40,
+      "start_ms": 189525,
+      "end_ms": 197025,
+      "duration_ms": 7500
+    },
+    {
+      "word": "Y salieron del monte de Hor y acamparon en Zalmona.",
+      "verse": 41,
+      "start_ms": 197025,
+      "end_ms": 200537,
+      "duration_ms": 3512
+    },
+    {
+      "word": "Salieron de Zalmona y acamparon en Punón.",
+      "verse": 42,
+      "start_ms": 200537,
+      "end_ms": 203699,
+      "duration_ms": 3162
+    },
+    {
+      "word": "Salieron de Punón y acamparon en Obot.",
+      "verse": 43,
+      "start_ms": 203700,
+      "end_ms": 206712,
+      "duration_ms": 3012
+    },
+    {
+      "word": "Salieron de Obot y acamparon en Ije-abarim, en la frontera de Moab.",
+      "verse": 44,
+      "start_ms": 206712,
+      "end_ms": 211137,
+      "duration_ms": 4425
+    },
+    {
+      "word": "Salieron de Ije-abarim y acamparon en Dibón-gad.",
+      "verse": 45,
+      "start_ms": 211137,
+      "end_ms": 214624,
+      "duration_ms": 3487
+    },
+    {
+      "word": "Salieron de Dibón-gad y acamparon en Almón-diblataim.",
+      "verse": 46,
+      "start_ms": 214625,
+      "end_ms": 218300,
+      "duration_ms": 3675
+    },
+    {
+      "word": "Salieron de Almón-diblataim y acamparon en los montes de Abarim, delante de Nebo.",
+      "verse": 47,
+      "start_ms": 218300,
+      "end_ms": 223512,
+      "duration_ms": 5212
+    },
+    {
+      "word": "Salieron de los montes de Abarim y acamparon en los campos de Moab, junto al Jordán, frente a Jericó.",
+      "verse": 48,
+      "start_ms": 223512,
+      "end_ms": 229749,
+      "duration_ms": 6237
+    },
+    {
+      "word": "Finalmente acamparon junto al Jordán, desde Bet-jesimot hasta Abel-sitim, en los campos de Moab.",
+      "verse": 49,
+      "start_ms": 229750,
+      "end_ms": 235875,
+      "duration_ms": 6125
+    },
+    {
+      "word": "Límites y repartición de Canaán Y habló Jehová a Moisés en los campos de Moab junto al Jordán frente a Jericó, diciendo: Habla a los hijos de Israel, y diles: Cuando hayáis pasado el Jordán entrando en la tierra de Canaán, echaréis de delante de vosotros a todos los moradores del país, y destruiréis todos sus ídolos de piedra, y todas sus imágenes de fundición, y destruiréis todos sus lugares altos; y echaréis a los moradores de la tierra, y habitaréis en ella; porque yo os la",
+      "verse": 49,
+      "start_ms": 235875,
+      "end_ms": 263850,
+      "duration_ms": 27975
+    },
+    {
+      "word": "he dado para que sea vuestra propiedad.",
+      "verse": 53,
+      "start_ms": 264004,
+      "end_ms": 266966,
+      "duration_ms": 2962
+    },
+    {
+      "word": "Y heredaréis la tierra por sorteo por vuestras familias; a los muchos daréis mucho por herencia, y a los pocos daréis menos por herencia; donde le cayere la suerte, allí la tendrá cada uno; por las tribus de vuestros padres heredaréis.",
+      "verse": 54,
+      "start_ms": 266916,
+      "end_ms": 280841,
+      "duration_ms": 13925
+    },
+    {
+      "word": "Y si no echareis a los moradores del país de delante de vosotros, sucederá que los que dejareis de ellos serán por aguijones en vuestros ojos y por espinas en vuestros costados, y os afligirán sobre la tierra en que vosotros habitareis.",
+      "verse": 55,
+      "start_ms": 280841,
+      "end_ms": 294028,
+      "duration_ms": 13187
+    },
+    {
+      "word": "Además, haré a vosotros como yo pensé hacerles a ellos.",
+      "verse": 56,
+      "start_ms": 294029,
+      "end_ms": 298629,
+      "duration_ms": 4600
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "book": "LEV",
+  "chapter": 25,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 55,
+  "word_count": 51,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 54,
+      "text": "Jehová habló a Moisés en el monte de Sinaí, diciendo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 54,
+      "char_end": 180,
+      "text": "Habla a los hijos de Israel y diles: Cuando hayáis entrado en la tierra que yo os doy, la tierra guardará reposo para Jehová."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 180,
+      "char_end": 263,
+      "text": "Seis años sembrarás tu tierra, y seis años podarás tu viña y recogerás sus frutos."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 263,
+      "char_end": 374,
+      "text": "Pero el séptimo año la tierra tendrá descanso, reposo para Jehová; no sembrarás tu tierra, ni podarás tu viña."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 374,
+      "char_end": 508,
+      "text": "Lo que de suyo naciere en tu tierra segada, no lo segarás, y las uvas de tu viñedo no vendimiarás; año de reposo será para la tierra."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 508,
+      "char_end": 639,
+      "text": "Mas el descanso de la tierra te dará para comer a ti, a tu siervo, a tu sierva, a tu criado, y a tu extranjero que morare contigo;"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 639,
+      "char_end": 733,
+      "text": "y a tu animal, y a la bestia que hubiere en tu tierra, será todo el fruto de ella para comer."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 733,
+      "char_end": 880,
+      "text": "Y contarás siete semanas de años, siete veces siete años, de modo que los días de las siete semanas de años vendrán a serte cuarenta y nueve años."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 880,
+      "char_end": 1041,
+      "text": "Entonces harás tocar fuertemente la trompeta en el mes séptimo a los diez días del mes; el día de la expiación haréis tocar la trompeta por toda vuestra tierra."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1041,
+      "char_end": 1237,
+      "text": "Y santificaréis el año cincuenta, y pregonaréis libertad en la tierra a todos sus moradores; ese año os será de jubileo, y volveréis cada uno a vuestra posesión, y cada cual volverá a su familia."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1237,
+      "char_end": 1364,
+      "text": "El año cincuenta os será jubileo; no sembraréis, ni segaréis lo que naciere de suyo en la tierra, ni vendimiaréis sus viñedos,"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1364,
+      "char_end": 1441,
+      "text": "porque es jubileo; santo será a vosotros; el producto de la tierra comeréis."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1441,
+      "char_end": 1503,
+      "text": "En este año de jubileo volveréis cada uno a vuestra posesión."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1503,
+      "char_end": 1620,
+      "text": "Y cuando vendiereis algo a vuestro prójimo, o comprareis de mano de vuestro prójimo, no engañe ninguno a su hermano."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1620,
+      "char_end": 1761,
+      "text": "Conforme al número de los años después del jubileo comprarás de tu prójimo; conforme al número de los años de los frutos te venderá él a ti."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1761,
+      "char_end": 1934,
+      "text": "Cuanto mayor fuere el número de los años, aumentarás el precio, y cuanto menor fuere el número, disminuirás el precio; porque según el número de las cosechas te venderá él."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1934,
+      "char_end": 2030,
+      "text": "Y no engañe ninguno a su prójimo, sino temed a vuestro Dios; porque yo soy Jehová vuestro Dios."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2030,
+      "char_end": 2142,
+      "text": "Ejecutad, pues, mis estatutos y guardad mis ordenanzas, y ponedlos por obra, y habitaréis en la tierra seguros;"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2142,
+      "char_end": 2232,
+      "text": "y la tierra dará su fruto, y comeréis hasta saciaros, y habitaréis en ella con seguridad."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2232,
+      "char_end": 2344,
+      "text": "Y si dijereis: ¿Qué comeremos el séptimo año? He aquí no hemos de sembrar, ni hemos de recoger nuestros frutos;"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2344,
+      "char_end": 2436,
+      "text": "entonces yo os enviaré mi bendición el sexto año, y ella hará que haya fruto por tres años."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2436,
+      "char_end": 2559,
+      "text": "Y sembraréis el año octavo, y comeréis del fruto añejo; hasta el año noveno, hasta que venga su fruto, comeréis del añejo."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2559,
+      "char_end": 2681,
+      "text": "La tierra no se venderá a perpetuidad, porque la tierra mía es; pues vosotros forasteros y extranjeros sois para conmigo."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2681,
+      "char_end": 2762,
+      "text": "Por tanto, en toda la tierra de vuestra posesión otorgaréis rescate a la tierra."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2762,
+      "char_end": 2913,
+      "text": "Cuando tu hermano empobreciere, y vendiere algo de su posesión, entonces su pariente más próximo vendrá y rescatará lo que su hermano hubiere vendido."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2913,
+      "char_end": 3000,
+      "text": "Y cuando el hombre no tuviere rescatador, y consiguiere lo suficiente para el rescate,"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3000,
+      "char_end": 3118,
+      "text": "entonces contará los años desde que vendió, y pagará lo que quedare al varón a quien vendió, y volverá a su posesión."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3118,
+      "char_end": 3303,
+      "text": "Mas si no consiguiere lo suficiente para que se la devuelvan, lo que vendió estará en poder del que lo compró hasta el año del jubileo; y al jubileo saldrá, y él volverá a su posesión."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3303,
+      "char_end": 3481,
+      "text": "El varón que vendiere casa de habitación en ciudad amurallada, tendrá facultad de redimirla hasta el término de un año desde la venta; un año será el término de poderse redimir."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3481,
+      "char_end": 3681,
+      "text": "Y si no fuere rescatada dentro de un año entero, la casa que estuviere en la ciudad amurallada quedará para siempre en poder de aquel que la compró, y para sus descendientes; no saldrá en el jubileo."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3681,
+      "char_end": 3831,
+      "text": "Mas las casas de las aldeas que no tienen muro alrededor serán estimadas como los terrenos del campo; podrán ser rescatadas, y saldrán en el jubileo."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3831,
+      "char_end": 3961,
+      "text": "Pero en cuanto a las ciudades de los levitas, éstos podrán rescatar en cualquier tiempo las casas en las ciudades de su posesión."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3961,
+      "char_end": 4171,
+      "text": "Y el que comprare de los levitas saldrá de la casa vendida, o de la ciudad de su posesión, en el jubileo, por cuanto las casas de las ciudades de los levitas son la posesión de ellos entre los hijos de Israel."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4171,
+      "char_end": 4264,
+      "text": "Mas la tierra del ejido de sus ciudades no se venderá, porque es perpetua posesión de ellos."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4264,
+      "char_end": 4378,
+      "text": "Y cuando tu hermano empobreciere y se acogiere a ti, tú lo ampararás; como forastero y extranjero vivirá contigo."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4378,
+      "char_end": 4474,
+      "text": "No tomarás de él usura ni ganancia, sino tendrás temor de tu Dios, y tu hermano vivirá contigo."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4474,
+      "char_end": 4532,
+      "text": "No le darás tu dinero a usura, ni tus víveres a ganancia."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4532,
+      "char_end": 4648,
+      "text": "Yo Jehová vuestro Dios, que os saqué de la tierra de Egipto, para daros la tierra de Canaán, para ser vuestro Dios."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4648,
+      "char_end": 4752,
+      "text": "Y cuando tu hermano empobreciere, estando contigo, y se vendiere a ti, no le harás servir como esclavo."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4752,
+      "char_end": 4834,
+      "text": "Como criado, como extranjero estará contigo; hasta el año del jubileo te servirá."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4834,
+      "char_end": 4961,
+      "text": "Entonces saldrá libre de tu casa; él y sus hijos consigo, y volverá a su familia, y a la posesión de sus padres se restituirá."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4961,
+      "char_end": 5069,
+      "text": "Porque son mis siervos, los cuales saqué yo de la tierra de Egipto; no serán vendidos a manera de esclavos."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 5069,
+      "char_end": 5137,
+      "text": "No te enseñorearás de él con dureza, sino tendrás temor de tu Dios."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 5137,
+      "char_end": 5280,
+      "text": "Así tu esclavo como tu esclava que tuvieres, serán de las gentes que están en vuestro alrededor; de ellos podréis comprar esclavos y esclavas."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 5280,
+      "char_end": 5478,
+      "text": "También podréis comprar de los hijos de los forasteros que viven entre vosotros, y de las familias de ellos nacidos en vuestra tierra, que están con vosotros, los cuales podréis tener por posesión."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 5478,
+      "char_end": 5718,
+      "text": "Y los podréis dejar en herencia para vuestros hijos después de vosotros, como posesión hereditaria; para siempre os serviréis de ellos; pero en vuestros hermanos los hijos de Israel no os enseñorearéis cada uno sobre su hermano con dureza."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 5718,
+      "char_end": 5930,
+      "text": "Si el forastero o el extranjero que está contigo se enriqueciere, y tu hermano que está junto a él empobreciere, y se vendiere al forastero o extranjero que está contigo, o a alguno de la familia del extranjero;"
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 5930,
+      "char_end": 6017,
+      "text": "después que se hubiere vendido, podrá ser rescatado; uno de sus hermanos lo rescatará."
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 6017,
+      "char_end": 6161,
+      "text": "O su tío o el hijo de su tío lo rescatará, o un pariente cercano de su familia lo rescatará; o si sus medios alcanzaren, él mismo se rescatará."
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 6161,
+      "char_end": 6414,
+      "text": "Hará la cuenta con el que lo compró, desde el año que se vendió a él hasta el año del jubileo; y ha de apreciarse el precio de su venta conforme al número de los años, y se contará el tiempo que estuvo con él conforme al tiempo de un criado asalariado."
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 6414,
+      "char_end": 6519,
+      "text": "Si aún fueren muchos años, conforme a ellos devolverá para su rescate, del dinero por el cual se vendió."
+    },
+    {
+      "verse": 52,
+      "label": "52",
+      "char_start": 6519,
+      "char_end": 6647,
+      "text": "Y si quedare poco tiempo hasta el año del jubileo, entonces hará un cálculo con él, y devolverá su rescate conforme a sus años."
+    },
+    {
+      "verse": 53,
+      "label": "53",
+      "char_start": 6647,
+      "char_end": 6755,
+      "text": "Como con el tomado a salario anualmente hará con él; no se enseñoreará en él con rigor delante de tus ojos."
+    },
+    {
+      "verse": 54,
+      "label": "54",
+      "char_start": 6755,
+      "char_end": 6843,
+      "text": "Y si no se rescatare en esos años, en el año del jubileo saldrá, él y sus hijos con él."
+    },
+    {
+      "verse": 55,
+      "label": "55",
+      "char_start": 6843,
+      "char_end": 6972,
+      "text": "Porque mis siervos son los hijos de Israel; son siervos míos, a los cuales saqué de la tierra de Egipto. Yo Jehová vuestro Dios."
+    }
+  ],
+  "words": [
+    {
+      "word": "Jehová habló a Moisés en el monte de Sinaí, diciendo: Habla a los hijos de Israel y diles: Cuando hayáis entrado en la tierra que yo os doy, la tierra guardará reposo para Jehová.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 11125,
+      "duration_ms": 11025
+    },
+    {
+      "word": "Seis años sembrarás tu tierra, y seis años podarás tu viña y recogerás sus frutos.",
+      "verse": 3,
+      "start_ms": 11075,
+      "end_ms": 16800,
+      "duration_ms": 5725
+    },
+    {
+      "word": "Pero el séptimo año la tierra tendrá descanso, reposo para Jehová; no sembrarás tu tierra, ni podarás tu viña.",
+      "verse": 4,
+      "start_ms": 16800,
+      "end_ms": 24137,
+      "duration_ms": 7337
+    },
+    {
+      "word": "Lo que de suyo naciere en tu tierra segada, no lo segarás, y las uvas de tu viñedo no vendimiarás; año de reposo será para la tierra.",
+      "verse": 5,
+      "start_ms": 24137,
+      "end_ms": 32774,
+      "duration_ms": 8637
+    },
+    {
+      "word": "Mas el descanso de la tierra te dará para comer a ti, a tu siervo, a tu sierva, a tu criado, y a tu extranjero que morare contigo; y a tu animal, y a la bestia que hubiere en tu tierra, será todo el fruto de ella para comer.",
+      "verse": 6,
+      "start_ms": 32775,
+      "end_ms": 46312,
+      "duration_ms": 13537
+    },
+    {
+      "word": "Y contarás siete semanas de años, siete veces siete años, de modo que los días de las siete semanas de años vendrán a serte cuarenta y nueve años.",
+      "verse": 8,
+      "start_ms": 46312,
+      "end_ms": 55387,
+      "duration_ms": 9075
+    },
+    {
+      "word": "Entonces harás tocar fuertemente la trompeta en el mes séptimo a los diez días del mes; el día de la expiación haréis tocar la trompeta por toda vuestra tierra.",
+      "verse": 9,
+      "start_ms": 55387,
+      "end_ms": 64699,
+      "duration_ms": 9312
+    },
+    {
+      "word": "Y santificaréis el año cincuenta, y pregonaréis libertad en la tierra a todos sus moradores; ese año os será de jubileo, y volveréis cada uno a vuestra posesión, y cada cual volverá a su familia.",
+      "verse": 10,
+      "start_ms": 64700,
+      "end_ms": 77262,
+      "duration_ms": 12562
+    },
+    {
+      "word": "El año cincuenta os será jubileo; no sembraréis, ni segaréis lo que naciere de suyo en la tierra, ni vendimiaréis sus viñedos, porque es jubileo; santo será a vosotros; el producto de la tierra comeréis.",
+      "verse": 11,
+      "start_ms": 77262,
+      "end_ms": 90374,
+      "duration_ms": 13112
+    },
+    {
+      "word": "En este año de jubileo volveréis cada uno a vuestra posesión.",
+      "verse": 13,
+      "start_ms": 90375,
+      "end_ms": 94825,
+      "duration_ms": 4450
+    },
+    {
+      "word": "Y cuando vendiereis algo a vuestro prójimo, o comprareis de mano de vuestro prójimo, no engañe ninguno a su hermano.",
+      "verse": 14,
+      "start_ms": 94825,
+      "end_ms": 101962,
+      "duration_ms": 7137
+    },
+    {
+      "word": "Conforme al número de los años después del jubileo comprarás de tu prójimo; conforme al número de los años de los frutos te venderá él a ti.",
+      "verse": 15,
+      "start_ms": 101962,
+      "end_ms": 109774,
+      "duration_ms": 7812
+    },
+    {
+      "word": "Cuanto mayor fuere el número de los años, aumentarás el precio, y cuanto menor fuere el número, disminuirás el precio; porque según el número de las cosechas te venderá él.",
+      "verse": 16,
+      "start_ms": 109775,
+      "end_ms": 120062,
+      "duration_ms": 10287
+    },
+    {
+      "word": "Y no engañe ninguno a su prójimo, sino temed a vuestro Dios; porque yo soy Jehová vuestro Dios.",
+      "verse": 17,
+      "start_ms": 120062,
+      "end_ms": 126612,
+      "duration_ms": 6550
+    },
+    {
+      "word": "Ejecutad, pues, mis estatutos y guardad mis ordenanzas, y ponedlos por obra, y habitaréis en la tierra seguros; y la tierra dará su fruto, y comeréis hasta saciaros, y habitaréis en ella con seguridad.",
+      "verse": 18,
+      "start_ms": 126612,
+      "end_ms": 139924,
+      "duration_ms": 13312
+    },
+    {
+      "word": "Y si dijereis: ¿Qué comeremos el séptimo año?",
+      "verse": 20,
+      "start_ms": 139925,
+      "end_ms": 143625,
+      "duration_ms": 3700
+    },
+    {
+      "word": "He aquí no hemos de sembrar, ni hemos de recoger nuestros frutos; entonces yo os enviaré mi bendición el sexto año, y ella hará que haya fruto por tres años.",
+      "verse": 20,
+      "start_ms": 143625,
+      "end_ms": 153475,
+      "duration_ms": 9850
+    },
+    {
+      "word": "Y sembraréis el año octavo, y comeréis del fruto añejo; hasta el año noveno, hasta que venga su fruto, comeréis del añejo.",
+      "verse": 22,
+      "start_ms": 153475,
+      "end_ms": 161787,
+      "duration_ms": 8312
+    },
+    {
+      "word": "La tierra no se venderá a perpetuidad, porque la tierra mía es; pues vosotros forasteros y extranjeros sois para conmigo.",
+      "verse": 23,
+      "start_ms": 161787,
+      "end_ms": 169524,
+      "duration_ms": 7737
+    },
+    {
+      "word": "Por tanto, en toda la tierra de vuestra posesión otorgaréis rescate a la tierra.",
+      "verse": 24,
+      "start_ms": 169525,
+      "end_ms": 174712,
+      "duration_ms": 5187
+    },
+    {
+      "word": "Cuando tu hermano empobreciere, y vendiere algo de su posesión, entonces su pariente más próximo vendrá y rescatará lo que su hermano hubiere vendido.",
+      "verse": 25,
+      "start_ms": 174712,
+      "end_ms": 183399,
+      "duration_ms": 8687
+    },
+    {
+      "word": "Y cuando el hombre no tuviere rescatador, y consiguiere lo suficiente para el rescate, entonces contará los años desde que vendió, y pagará lo que quedare al varón a quien vendió, y volverá a su posesión.",
+      "verse": 26,
+      "start_ms": 183400,
+      "end_ms": 195050,
+      "duration_ms": 11650
+    },
+    {
+      "word": "Mas si no consiguiere lo suficiente para que se la devuelvan, lo que vendió estará en poder del que lo compró hasta el año del jubileo; y al jubileo saldrá, y él volverá a su posesión.",
+      "verse": 28,
+      "start_ms": 195050,
+      "end_ms": 205275,
+      "duration_ms": 10225
+    },
+    {
+      "word": "El varón que vendiere casa de habitación en ciudad amurallada, tendrá facultad de redimirla hasta el término de un año desde la venta; un año será el término de poderse redimir.",
+      "verse": 29,
+      "start_ms": 205275,
+      "end_ms": 215437,
+      "duration_ms": 10162
+    },
+    {
+      "word": "Y si no fuere rescatada dentro de un año entero, la casa que estuviere en la ciudad amurallada quedará para siempre en poder de aquel que la compró, y para sus descendientes; no saldrá en el jubileo.",
+      "verse": 30,
+      "start_ms": 215437,
+      "end_ms": 226624,
+      "duration_ms": 11187
+    },
+    {
+      "word": "Mas las casas de las aldeas que no tienen muro alrededor serán estimadas como los terrenos del campo; podrán ser rescatadas, y saldrán en el jubileo.",
+      "verse": 31,
+      "start_ms": 226625,
+      "end_ms": 235650,
+      "duration_ms": 9025
+    },
+    {
+      "word": "Pero en cuanto a las ciudades de los levitas, éstos podrán rescatar en cualquier tiempo las casas en las ciudades de",
+      "verse": 32,
+      "start_ms": 235650,
+      "end_ms": 242150,
+      "duration_ms": 6500
+    },
+    {
+      "word": "su posesión.",
+      "verse": 32,
+      "start_ms": 242308,
+      "end_ms": 244083,
+      "duration_ms": 1775
+    },
+    {
+      "word": "Y el que comprare de los levitas saldrá de la casa vendida, o de la ciudad de su posesión, en el jubileo, por cuanto las casas de las ciudades de los levitas son la posesión de ellos entre los hijos de Israel.",
+      "verse": 33,
+      "start_ms": 244033,
+      "end_ms": 255520,
+      "duration_ms": 11487
+    },
+    {
+      "word": "Mas la tierra del ejido de sus ciudades no se venderá, porque es perpetua posesión de ellos.",
+      "verse": 34,
+      "start_ms": 255520,
+      "end_ms": 261595,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Y cuando tu hermano empobreciere y se acogiere a ti, tú lo ampararás; como forastero y extranjero vivirá contigo.",
+      "verse": 35,
+      "start_ms": 261595,
+      "end_ms": 268895,
+      "duration_ms": 7300
+    },
+    {
+      "word": "No tomarás de él usura ni ganancia, sino tendrás temor de tu Dios, y tu hermano vivirá contigo.",
+      "verse": 36,
+      "start_ms": 268895,
+      "end_ms": 275382,
+      "duration_ms": 6487
+    },
+    {
+      "word": "No le darás tu dinero a usura, ni tus víveres a ganancia.",
+      "verse": 37,
+      "start_ms": 275383,
+      "end_ms": 279608,
+      "duration_ms": 4225
+    },
+    {
+      "word": "Yo Jehová vuestro Dios, que os saqué de la tierra de Egipto, para daros la tierra de Canaán, para ser vuestro Dios.",
+      "verse": 38,
+      "start_ms": 279608,
+      "end_ms": 287195,
+      "duration_ms": 7587
+    },
+    {
+      "word": "Y cuando tu hermano empobreciere, estando contigo, y se vendiere a ti, no le harás servir como esclavo.",
+      "verse": 39,
+      "start_ms": 287195,
+      "end_ms": 293895,
+      "duration_ms": 6700
+    },
+    {
+      "word": "Como criado, como extranjero estará contigo; hasta el año del jubileo te servirá.",
+      "verse": 40,
+      "start_ms": 293895,
+      "end_ms": 299632,
+      "duration_ms": 5737
+    },
+    {
+      "word": "Entonces saldrá libre de tu casa; él y sus hijos consigo, y volverá a su familia, y a la posesión de sus padres se restituirá.",
+      "verse": 41,
+      "start_ms": 299633,
+      "end_ms": 307845,
+      "duration_ms": 8212
+    },
+    {
+      "word": "Porque son mis siervos, los cuales saqué yo de la tierra de Egipto; no serán vendidos a manera de esclavos.",
+      "verse": 42,
+      "start_ms": 307845,
+      "end_ms": 314757,
+      "duration_ms": 6912
+    },
+    {
+      "word": "No te enseñorearás de él con dureza, sino tendrás temor de tu Dios.",
+      "verse": 43,
+      "start_ms": 314758,
+      "end_ms": 319545,
+      "duration_ms": 4787
+    },
+    {
+      "word": "Así tu esclavo como tu esclava que tuvieres, serán de las gentes que están en vuestro alrededor; de ellos podréis comprar esclavos y esclavas.",
+      "verse": 44,
+      "start_ms": 319545,
+      "end_ms": 328220,
+      "duration_ms": 8675
+    },
+    {
+      "word": "También podréis comprar de los hijos de los forasteros que viven entre vosotros, y de las familias de ellos nacidos en vuestra tierra, que están con vosotros, los cuales podréis tener por posesión.",
+      "verse": 45,
+      "start_ms": 328220,
+      "end_ms": 339282,
+      "duration_ms": 11062
+    },
+    {
+      "word": "Y los podréis dejar en herencia para vuestros hijos después de vosotros, como posesión hereditaria; para siempre os serviréis de ellos; pero en vuestros hermanos los hijos de Israel no os enseñorearéis cada uno sobre su hermano con dureza.",
+      "verse": 46,
+      "start_ms": 339283,
+      "end_ms": 352845,
+      "duration_ms": 13562
+    },
+    {
+      "word": "Si el forastero o el extranjero que está contigo se enriqueciere, y tu hermano que está junto a él empobreciere, y se vendiere al forastero o extranjero que está contigo, o a alguno de la familia del extranjero; después que se hubiere vendido, podrá ser rescatado; uno de sus hermanos lo rescatará.",
+      "verse": 47,
+      "start_ms": 352845,
+      "end_ms": 369707,
+      "duration_ms": 16862
+    },
+    {
+      "word": "O su tío o el hijo de su tío lo rescatará, o un pariente cercano de su familia lo rescatará; o si sus medios alcanzaren, él mismo se rescatará.",
+      "verse": 49,
+      "start_ms": 369708,
+      "end_ms": 378983,
+      "duration_ms": 9275
+    },
+    {
+      "word": "Hará la cuenta con el que lo compró, desde el año que se vendió a él hasta el año del jubileo; y ha de apreciarse el precio de su venta conforme al número de los años, y se contará el tiempo que estuvo con él conforme al tiempo de un criado asalariado.",
+      "verse": 50,
+      "start_ms": 378983,
+      "end_ms": 392620,
+      "duration_ms": 13637
+    },
+    {
+      "word": "Si aún fueren muchos años, conforme a ellos devolverá para su rescate, del dinero por el cual se vendió.",
+      "verse": 51,
+      "start_ms": 392620,
+      "end_ms": 399257,
+      "duration_ms": 6637
+    },
+    {
+      "word": "Y si quedare poco tiempo hasta el año del jubileo, entonces hará un cálculo con él, y devolverá su rescate conforme a sus años.",
+      "verse": 52,
+      "start_ms": 399258,
+      "end_ms": 407245,
+      "duration_ms": 7987
+    },
+    {
+      "word": "Como con el tomado a salario anualmente hará con él; no se enseñoreará en él con rigor delante de tus ojos.",
+      "verse": 53,
+      "start_ms": 407245,
+      "end_ms": 414032,
+      "duration_ms": 6787
+    },
+    {
+      "word": "Y si no se rescatare en esos años, en el año del jubileo saldrá, él y sus hijos con él.",
+      "verse": 54,
+      "start_ms": 414033,
+      "end_ms": 420145,
+      "duration_ms": 6112
+    },
+    {
+      "word": "Porque mis siervos son los hijos de Israel; son siervos míos, a los cuales saqué de la tierra de Egipto.",
+      "verse": 55,
+      "start_ms": 420145,
+      "end_ms": 426720,
+      "duration_ms": 6575
+    },
+    {
+      "word": "Yo Jehová vuestro Dios.",
+      "verse": 55,
+      "start_ms": 426720,
+      "end_ms": 429057,
+      "duration_ms": 2337
+    }
+  ]
+}

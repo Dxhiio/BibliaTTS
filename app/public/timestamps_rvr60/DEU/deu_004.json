@@ -1,0 +1,621 @@
+{
+  "book": "DEU",
+  "chapter": 4,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 49,
+  "word_count": 38,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 180,
+      "text": "Ahora, pues, oh Israel, oye los estatutos y decretos que yo os enseño, para que los ejecutéis, y viváis, y entréis y poseáis la tierra que Jehová el Dios de vuestros padres os da."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 180,
+      "char_end": 324,
+      "text": "No añadiréis a la palabra que yo os mando, ni disminuiréis de ella, para que guardéis los mandamientos de Jehová vuestro Dios que yo os ordeno."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 324,
+      "char_end": 478,
+      "text": "Vuestros ojos vieron lo que hizo Jehová con motivo de Baal-peor; que a todo hombre que fue en pos de Baal-peor destruyó Jehová tu Dios de en medio de ti."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 478,
+      "char_end": 553,
+      "text": "Mas vosotros que seguisteis a Jehová vuestro Dios, todos estáis vivos hoy."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 553,
+      "char_end": 720,
+      "text": "Mirad, yo os he enseñado estatutos y decretos, como Jehová mi Dios me mandó, para que hagáis así en medio de la tierra en la cual entráis para tomar posesión de ella."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 720,
+      "char_end": 955,
+      "text": "Guardadlos, pues, y ponedlos por obra; porque ésta es vuestra sabiduría y vuestra inteligencia ante los ojos de los pueblos, los cuales oirán todos estos estatutos, y dirán: Ciertamente pueblo sabio y entendido, nación grande es ésta."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 955,
+      "char_end": 1083,
+      "text": "Porque ¿qué nación grande hay que tenga dioses tan cercanos a ellos como lo está Jehová nuestro Dios en todo cuanto le pedimos?"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1083,
+      "char_end": 1239,
+      "text": "Y ¿qué nación grande hay que tenga estatutos y juicios justos como es toda esta ley que yo pongo hoy delante de vosotros? La experiencia de Israel en Horeb"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1239,
+      "char_end": 1475,
+      "text": "Por tanto, guárdate, y guarda tu alma con diligencia, para que no te olvides de las cosas que tus ojos han visto, ni se aparten de tu corazón todos los días de tu vida; antes bien, las enseñarás a tus hijos, y a los hijos de tus hijos."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1475,
+      "char_end": 1723,
+      "text": "El día que estuviste delante de Jehová tu Dios en Horeb, cuando Jehová me dijo: Reúneme el pueblo, para que yo les haga oír mis palabras, las cuales aprenderán, para temerme todos los días que vivieren sobre la tierra, y las enseñarán a sus hijos;"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1723,
+      "char_end": 1861,
+      "text": "y os acercasteis y os pusisteis al pie del monte; y el monte ardía en fuego hasta en medio de los cielos con tinieblas, nube y oscuridad;"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1861,
+      "char_end": 1999,
+      "text": "y habló Jehová con vosotros de en medio del fuego; oísteis la voz de sus palabras, mas a excepción de oír la voz, ninguna figura visteis."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1999,
+      "char_end": 2121,
+      "text": "Y él os anunció su pacto, el cual os mandó poner por obra; los diez mandamientos, y los escribió en dos tablas de piedra."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 2121,
+      "char_end": 2327,
+      "text": "A mí también me mandó Jehová en aquel tiempo que os enseñase los estatutos y juicios, para que los pusieseis por obra en la tierra a la cual pasáis a tomar posesión de ella. Advertencia contra la idolatría"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2327,
+      "char_end": 2452,
+      "text": "Guardad, pues, mucho vuestras almas; pues ninguna figura visteis el día que Jehová habló con vosotros de en medio del fuego;"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2452,
+      "char_end": 2563,
+      "text": "para que no os corrompáis y hagáis para vosotros escultura, imagen de figura alguna, efigie de varón o hembra,"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2563,
+      "char_end": 2660,
+      "text": "figura de animal alguno que está en la tierra, figura de ave alguna alada que vuele por el aire,"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2660,
+      "char_end": 2779,
+      "text": "figura de ningún animal que se arrastre sobre la tierra, figura de pez alguno que haya en el agua debajo de la tierra."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2779,
+      "char_end": 3027,
+      "text": "No sea que alces tus ojos al cielo, y viendo el sol y la luna y las estrellas, y todo el ejército del cielo, seas impulsado, y te inclines a ellos y les sirvas; porque Jehová tu Dios los ha concedido a todos los pueblos debajo de todos los cielos."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 3027,
+      "char_end": 3163,
+      "text": "Pero a vosotros Jehová os tomó, y os ha sacado del horno de hierro, de Egipto, para que seáis el pueblo de su heredad como en este día."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 3163,
+      "char_end": 3319,
+      "text": "Y Jehová se enojó contra mí por causa de vosotros, y juró que yo no pasaría el Jordán, ni entraría en la buena tierra que Jehová tu Dios te da por heredad."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3319,
+      "char_end": 3438,
+      "text": "Así que yo voy a morir en esta tierra, y no pasaré el Jordán; mas vosotros pasaréis, y poseeréis aquella buena tierra."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3438,
+      "char_end": 3615,
+      "text": "Guardaos, no os olvidéis del pacto de Jehová vuestro Dios, que él estableció con vosotros, y no os hagáis escultura o imagen de ninguna cosa que Jehová tu Dios te ha prohibido."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3615,
+      "char_end": 3671,
+      "text": "Porque Jehová tu Dios es fuego consumidor, Dios celoso."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3671,
+      "char_end": 3889,
+      "text": "Cuando hayáis engendrado hijos y nietos, y hayáis envejecido en la tierra, si os corrompiereis e hiciereis escultura o imagen de cualquier cosa, e hiciereis lo malo ante los ojos de Jehová vuestro Dios, para enojarlo;"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3889,
+      "char_end": 4103,
+      "text": "yo pongo hoy por testigos al cielo y a la tierra, que pronto pereceréis totalmente de la tierra hacia la cual pasáis el Jordán para tomar posesión de ella; no estaréis en ella largos días sin que seáis destruidos."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 4103,
+      "char_end": 4223,
+      "text": "Y Jehová os esparcirá entre los pueblos, y quedaréis pocos en número entre las naciones a las cuales os llevará Jehová."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 4223,
+      "char_end": 4339,
+      "text": "Y serviréis allí a dioses hechos de manos de hombres, de madera y piedra, que no ven, ni oyen, ni comen, ni huelen."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 4339,
+      "char_end": 4450,
+      "text": "Mas si desde allí buscares a Jehová tu Dios, lo hallarás, si lo buscares de todo tu corazón y de toda tu alma."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4450,
+      "char_end": 4589,
+      "text": "Cuando estuvieres en angustia, y te alcanzaren todas estas cosas, si en los postreros días te volvieres a Jehová tu Dios, y oyeres su voz;"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4589,
+      "char_end": 4718,
+      "text": "porque Dios misericordioso es Jehová tu Dios; no te dejará, ni te destruirá, ni se olvidará del pacto que les juró a tus padres."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4718,
+      "char_end": 4960,
+      "text": "Porque pregunta ahora si en los tiempos pasados que han sido antes de ti, desde el día que creó Dios al hombre sobre la tierra, si desde un extremo del cielo al otro se ha hecho cosa semejante a esta gran cosa, o se haya oído otra como ella."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4960,
+      "char_end": 5065,
+      "text": "¿Ha oído pueblo alguno la voz de Dios, hablando de en medio del fuego, como tú la has oído, sin perecer?"
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 5065,
+      "char_end": 5336,
+      "text": "¿O ha intentado Dios venir a tomar para sí una nación de en medio de otra nación, con pruebas, con señales, con milagros y con guerra, y mano poderosa y brazo extendido, y hechos aterradores como todo lo que hizo con vosotros Jehová vuestro Dios en Egipto ante tus ojos?"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 5336,
+      "char_end": 5423,
+      "text": "A ti te fue mostrado, para que supieses que Jehová es Dios, y no hay otro fuera de él."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 5423,
+      "char_end": 5566,
+      "text": "Desde los cielos te hizo oír su voz, para enseñarte; y sobre la tierra te mostró su gran fuego, y has oído sus palabras de en medio del fuego."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 5566,
+      "char_end": 5702,
+      "text": "Y por cuanto él amó a tus padres, escogió a su descendencia después de ellos, y te sacó de Egipto con su presencia y con su gran poder,"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 5702,
+      "char_end": 5840,
+      "text": "para echar de delante de tu presencia naciones grandes y más fuertes que tú, y para introducirte y darte su tierra por heredad, como hoy."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 5840,
+      "char_end": 5961,
+      "text": "Aprende pues, hoy, y reflexiona en tu corazón que Jehová es Dios arriba en el cielo y abajo en la tierra, y no hay otro."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 5961,
+      "char_end": 6211,
+      "text": "Y guarda sus estatutos y sus mandamientos, los cuales yo te mando hoy, para que te vaya bien a ti y a tus hijos después de ti, y prolongues tus días sobre la tierra que Jehová tu Dios te da para siempre. Las ciudades de refugio al oriente del Jordán"
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 6211,
+      "char_end": 6294,
+      "text": "Entonces apartó Moisés tres ciudades a este lado del Jordán al nacimiento del sol,"
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 6294,
+      "char_end": 6468,
+      "text": "para que huyese allí el homicida que matase a su prójimo sin intención, sin haber tenido enemistad con él nunca antes; y que huyendo a una de estas ciudades salvase su vida:"
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 6468,
+      "char_end": 6651,
+      "text": "Beser en el desierto, en tierra de la llanura, para los rubenitas; Ramot en Galaad para los gaditas, y Golán en Basán para los de Manasés. Moisés recapitula la promulgación de la ley"
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 6651,
+      "char_end": 6721,
+      "text": "Ésta, pues, es la ley que Moisés puso delante de los hijos de Israel."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 6721,
+      "char_end": 6843,
+      "text": "Éstos son los testimonios, los estatutos y los decretos que habló Moisés a los hijos de Israel cuando salieron de Egipto;"
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 6843,
+      "char_end": 7041,
+      "text": "a este lado del Jordán, en el valle delante de Bet-peor, en la tierra de Sehón rey de los amorreos que habitaba en Hesbón, al cual derrotó Moisés con los hijos de Israel, cuando salieron de Egipto;"
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 7041,
+      "char_end": 7171,
+      "text": "y poseyeron su tierra, y la tierra de Og rey de Basán; dos reyes de los amorreos que estaban de este lado del Jordán, al oriente."
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 7171,
+      "char_end": 7271,
+      "text": "Desde Aroer, que está junto a la ribera del arroyo de Arnón, hasta el monte de Sion, que es Hermón;"
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 7271,
+      "char_end": 7381,
+      "text": "y todo el Arabá de este lado del Jordán, al oriente, hasta el mar del Arabá, al pie de las laderas del Pisga."
+    }
+  ],
+  "words": [
+    {
+      "word": "Ahora, pues, oh Israel, oye los estatutos y decretos que yo os enseño, para que los ejecutéis, y viváis, y entréis y poseáis la tierra que Jehová el Dios de vuestros padres os da.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 11950,
+      "duration_ms": 11850
+    },
+    {
+      "word": "No añadiréis a la palabra que yo os mando, ni disminuiréis de ella, para que guardéis los mandamientos de Jehová vuestro Dios que yo os ordeno.",
+      "verse": 2,
+      "start_ms": 11900,
+      "end_ms": 20425,
+      "duration_ms": 8525
+    },
+    {
+      "word": "Vuestros ojos vieron lo que hizo Jehová con motivo de Baal-peor; que a todo hombre que fue en pos de Baal-peor destruyó Jehová tu Dios de en medio de ti.",
+      "verse": 3,
+      "start_ms": 20425,
+      "end_ms": 29037,
+      "duration_ms": 8612
+    },
+    {
+      "word": "Mas vosotros que seguisteis a Jehová vuestro Dios, todos estáis vivos hoy.",
+      "verse": 4,
+      "start_ms": 29037,
+      "end_ms": 34087,
+      "duration_ms": 5050
+    },
+    {
+      "word": "Mirad, yo os he enseñado estatutos y decretos, como Jehová mi Dios me mandó, para que hagáis así en medio de la tierra en la cual entráis para tomar posesión de ella.",
+      "verse": 5,
+      "start_ms": 34087,
+      "end_ms": 44037,
+      "duration_ms": 9950
+    },
+    {
+      "word": "Guardadlos, pues, y ponedlos por obra; porque ésta es vuestra sabiduría y vuestra inteligencia ante los ojos de los pueblos, los cuales oirán todos estos estatutos, y dirán: Ciertamente pueblo sabio y entendido, nación grande es ésta.",
+      "verse": 6,
+      "start_ms": 44037,
+      "end_ms": 59212,
+      "duration_ms": 15175
+    },
+    {
+      "word": "Porque ¿qué nación grande hay que tenga dioses tan cercanos a ellos como lo está Jehová nuestro Dios en todo cuanto le pedimos?",
+      "verse": 7,
+      "start_ms": 59212,
+      "end_ms": 66187,
+      "duration_ms": 6975
+    },
+    {
+      "word": "Y ¿qué nación grande hay que tenga estatutos y juicios justos como es toda esta ley que yo pongo hoy delante de vosotros?",
+      "verse": 8,
+      "start_ms": 66187,
+      "end_ms": 73012,
+      "duration_ms": 6825
+    },
+    {
+      "word": "La experiencia de Israel en Horeb Por tanto, guárdate, y guarda tu alma con diligencia, para que no te olvides de las cosas que tus ojos han visto, ni se aparten de tu corazón todos los días de tu vida; antes bien, las enseñarás a tus hijos, y a los hijos de tus hijos.",
+      "verse": 8,
+      "start_ms": 73012,
+      "end_ms": 89037,
+      "duration_ms": 16025
+    },
+    {
+      "word": "El día que estuviste delante de Jehová tu Dios en Horeb, cuando Jehová me dijo: Reúneme el pueblo, para que yo les haga oír mis palabras, las cuales aprenderán, para temerme todos los días que vivieren sobre la tierra, y las enseñarán a sus hijos; y os acercasteis y os pusisteis al pie del monte; y el monte ardía en fuego hasta en medio de los cielos con tinieblas, nube y oscuridad; y habló Jehová con vosotros de en medio del fuego; oísteis la voz de sus palabras, mas a excepción de oír la voz,",
+      "verse": 10,
+      "start_ms": 89037,
+      "end_ms": 117787,
+      "duration_ms": 28750
+    },
+    {
+      "word": "ninguna figura visteis.",
+      "verse": 12,
+      "start_ms": 117787,
+      "end_ms": 120287,
+      "duration_ms": 2500
+    },
+    {
+      "word": "Y él os anunció su pacto, el cual os mandó poner por obra; los diez mandamientos, y los escribió en dos tablas de piedra.",
+      "verse": 13,
+      "start_ms": 120287,
+      "end_ms": 128312,
+      "duration_ms": 8025
+    },
+    {
+      "word": "A mí también me mandó Jehová en aquel tiempo que os enseñase los estatutos y juicios, para que los pusieseis por obra en la tierra a la cual pasáis a tomar posesión de ella.",
+      "verse": 14,
+      "start_ms": 128312,
+      "end_ms": 137537,
+      "duration_ms": 9225
+    },
+    {
+      "word": "Advertencia contra la idolatría Guardad, pues, mucho vuestras almas; pues ninguna figura visteis el día que Jehová habló con vosotros de en medio del fuego; para que no os corrompáis y hagáis para vosotros escultura, imagen de figura alguna, efigie de varón o hembra, figura de animal alguno que está en la tierra, figura de ave alguna alada que vuele por el aire, figura de ningún animal que se arrastre sobre la tierra, figura de pez alguno que haya en el agua debajo de la tierra.",
+      "verse": 14,
+      "start_ms": 137537,
+      "end_ms": 164712,
+      "duration_ms": 27175
+    },
+    {
+      "word": "No sea que alces tus ojos al cielo, y viendo el sol y la luna y las estrellas, y todo el ejército del cielo, seas impulsado, y te inclines a ellos y les sirvas; porque Jehová tu Dios los ha concedido a todos los pueblos debajo de todos los cielos.",
+      "verse": 19,
+      "start_ms": 164712,
+      "end_ms": 179774,
+      "duration_ms": 15062
+    },
+    {
+      "word": "Pero a vosotros Jehová os tomó, y os ha sacado del horno de hierro, de Egipto, para que seáis el pueblo de su heredad como en este día.",
+      "verse": 20,
+      "start_ms": 179775,
+      "end_ms": 187950,
+      "duration_ms": 8175
+    },
+    {
+      "word": "Y Jehová se enojó contra mí por causa de vosotros, y juró que yo no pasaría el Jordán, ni entraría en la buena tierra que Jehová tu Dios te da por heredad.",
+      "verse": 21,
+      "start_ms": 187950,
+      "end_ms": 196962,
+      "duration_ms": 9012
+    },
+    {
+      "word": "Así que yo voy a morir en esta tierra, y no pasaré el Jordán; mas vosotros pasaréis, y poseeréis aquella buena tierra.",
+      "verse": 22,
+      "start_ms": 196962,
+      "end_ms": 204924,
+      "duration_ms": 7962
+    },
+    {
+      "word": "Guardaos, no os olvidéis del pacto de Jehová vuestro Dios, que él estableció con vosotros, y no os hagáis escultura o imagen de ninguna cosa que Jehová tu Dios te ha prohibido.",
+      "verse": 23,
+      "start_ms": 204925,
+      "end_ms": 215687,
+      "duration_ms": 10762
+    },
+    {
+      "word": "Porque Jehová tu Dios es fuego consumidor, Dios celoso.",
+      "verse": 24,
+      "start_ms": 215687,
+      "end_ms": 219812,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Cuando hayáis engendrado hijos y nietos, y hayáis envejecido en la tierra, si os corrompiereis e hiciereis escultura o imagen de cualquier cosa, e hiciereis lo malo ante los ojos de Jehová vuestro Dios, para enojarlo; yo pongo hoy por testigos al cielo y a la tierra, que pronto pereceréis totalmente de la tierra",
+      "verse": 25,
+      "start_ms": 219812,
+      "end_ms": 238087,
+      "duration_ms": 18275
+    },
+    {
+      "word": "hacia la cual pasáis el Jordán para tomar posesión de ella; no estaréis en ella largos días sin que seáis destruidos.",
+      "verse": 26,
+      "start_ms": 238252,
+      "end_ms": 245527,
+      "duration_ms": 7275
+    },
+    {
+      "word": "Y Jehová os esparcirá entre los pueblos, y quedaréis pocos en número entre las naciones a las cuales os llevará Jehová.",
+      "verse": 27,
+      "start_ms": 245477,
+      "end_ms": 252514,
+      "duration_ms": 7037
+    },
+    {
+      "word": "Y serviréis allí a dioses hechos de manos de hombres, de madera y piedra, que no ven, ni oyen, ni comen, ni huelen.",
+      "verse": 28,
+      "start_ms": 252514,
+      "end_ms": 260539,
+      "duration_ms": 8025
+    },
+    {
+      "word": "Mas si desde allí buscares a Jehová tu Dios, lo hallarás, si lo buscares de todo tu corazón y de toda tu alma.",
+      "verse": 29,
+      "start_ms": 260539,
+      "end_ms": 267576,
+      "duration_ms": 7037
+    },
+    {
+      "word": "Cuando estuvieres en angustia, y te alcanzaren todas estas cosas, si en los postreros días te volvieres a Jehová tu Dios, y oyeres su voz; porque Dios misericordioso es Jehová tu Dios; no te dejará, ni te destruirá, ni se olvidará del pacto que les juró a tus padres.",
+      "verse": 30,
+      "start_ms": 267577,
+      "end_ms": 283852,
+      "duration_ms": 16275
+    },
+    {
+      "word": "Porque pregunta ahora si en los tiempos pasados que han sido antes de ti, desde el día que creó Dios al hombre sobre la tierra, si desde un extremo del cielo al otro se ha hecho cosa semejante a esta gran cosa, o se haya oído otra como ella.",
+      "verse": 32,
+      "start_ms": 283852,
+      "end_ms": 297527,
+      "duration_ms": 13675
+    },
+    {
+      "word": "Ha oído pueblo alguno la voz de Dios, hablando de en medio del fuego, como tú la has oído, sin perecer?",
+      "verse": 33,
+      "start_ms": 297527,
+      "end_ms": 304764,
+      "duration_ms": 7237
+    },
+    {
+      "word": "O ha intentado Dios venir a tomar para sí una nación de en medio de otra nación, con pruebas, con señales, con milagros y con guerra, y mano poderosa y brazo extendido, y hechos aterradores como todo lo que hizo con vosotros Jehová vuestro Dios en Egipto ante tus ojos?",
+      "verse": 34,
+      "start_ms": 304764,
+      "end_ms": 320814,
+      "duration_ms": 16050
+    },
+    {
+      "word": "A ti te fue mostrado, para que supieses que Jehová es Dios, y no hay otro fuera de él.",
+      "verse": 35,
+      "start_ms": 320814,
+      "end_ms": 326639,
+      "duration_ms": 5825
+    },
+    {
+      "word": "Desde los cielos te hizo oír su voz, para enseñarte; y sobre la tierra te mostró su gran fuego, y has oído sus palabras de en medio del fuego.",
+      "verse": 36,
+      "start_ms": 326639,
+      "end_ms": 335551,
+      "duration_ms": 8912
+    },
+    {
+      "word": "Y por cuanto él amó a tus padres, escogió a su descendencia después de ellos, y te sacó de Egipto con su presencia y con su gran poder, para echar de delante de tu presencia naciones grandes y más fuertes que tú, y para introducirte y darte su tierra por heredad, como hoy.",
+      "verse": 37,
+      "start_ms": 335552,
+      "end_ms": 351264,
+      "duration_ms": 15712
+    },
+    {
+      "word": "Aprende pues, hoy, y reflexiona en tu corazón que Jehová es Dios arriba en el cielo y abajo en la tierra, y no hay otro.",
+      "verse": 39,
+      "start_ms": 351264,
+      "end_ms": 358764,
+      "duration_ms": 7500
+    },
+    {
+      "word": "Y guarda sus estatutos y sus mandamientos, los cuales yo te mando hoy, para que te vaya bien a ti y a tus hijos después de ti, y prolongues tus días sobre la tierra que Jehová tu Dios te da para siempre.",
+      "verse": 40,
+      "start_ms": 358764,
+      "end_ms": 370189,
+      "duration_ms": 11425
+    },
+    {
+      "word": "Las ciudades de refugio al oriente del Jordán Entonces apartó Moisés tres ciudades a este lado del Jordán al nacimiento del sol, para que huyese allí el homicida que matase a su prójimo sin intención, sin haber tenido enemistad con él nunca antes; y que huyendo a una de estas ciudades salvase su vida: Beser en el desierto, en tierra de la llanura, para los rubenitas; Ramot en Galaad para los gaditas, y Golán en Basán para los de Manasés.",
+      "verse": 40,
+      "start_ms": 370189,
+      "end_ms": 395526,
+      "duration_ms": 25337
+    },
+    {
+      "word": "Moisés recapitula la promulgación de la ley Ésta, pues, es la ley que Moisés puso delante de los hijos de Israel.",
+      "verse": 43,
+      "start_ms": 395527,
+      "end_ms": 402952,
+      "duration_ms": 7425
+    },
+    {
+      "word": "Éstos son los testimonios, los estatutos y los decretos que habló Moisés a los hijos de Israel cuando salieron de Egipto; a este lado del Jordán, en el valle delante de Bet-peor, en la tierra de Sehón rey de los amorreos que habitaba en Hesbón, al cual derrotó Moisés con los hijos de Israel, cuando salieron de Egipto; y poseyeron su tierra, y la tierra de Og rey de Basán; dos reyes de los amorreos que estaban de este lado del Jordán, al oriente.",
+      "verse": 45,
+      "start_ms": 402952,
+      "end_ms": 428427,
+      "duration_ms": 25475
+    },
+    {
+      "word": "Desde Aroer, que está junto a la ribera del arroyo de Arnón, hasta el monte de Sion, que es Hermón; y todo el Arabá de este lado del Jordán, al oriente, hasta el mar del Arabá, al pie de las laderas del Pisga.",
+      "verse": 48,
+      "start_ms": 428427,
+      "end_ms": 441477,
+      "duration_ms": 13050
+    }
+  ]
+}
