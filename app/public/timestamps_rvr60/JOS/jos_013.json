@@ -1,0 +1,404 @@
+{
+  "book": "JOS",
+  "chapter": 13,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 33,
+  "word_count": 23,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 129,
+      "text": "Siendo Josué ya viejo, entrado en años, Jehová le dijo: Tú eres ya viejo, de edad avanzada, y queda aún mucha tierra por poseer."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 129,
+      "char_end": 227,
+      "text": "Ésta es la tierra que queda: todos los territorios de los filisteos, y todos los de los gesureos;"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 227,
+      "char_end": 459,
+      "text": "desde Sihor, que está al oriente de Egipto, hasta el límite de Ecrón al norte, que se considera de los cananeos; de los cinco príncipes de los filisteos, el gazeo, el asdodeo, el ascaloneo, el geteo y el ecroneo; también los aveos;"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 459,
+      "char_end": 575,
+      "text": "al sur toda la tierra de los cananeos, y Mehara, que es de los sidonios, hasta Afec, hasta los límites del amorreo;"
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 575,
+      "char_end": 711,
+      "text": "la tierra de los giblitas, y todo el Líbano hacia donde sale el sol, desde Baal-gad al pie del monte Hermón, hasta la entrada de Hamat;"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 711,
+      "char_end": 949,
+      "text": "todos los que habitan en las montañas desde el Líbano hasta Misrefotmaim, todos los sidonios; yo los exterminaré delante de los hijos de Israel; solamente repartirás tú por suerte el país a los israelitas por heredad, como te he mandado."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 949,
+      "char_end": 1044,
+      "text": "Reparte, pues, ahora esta tierra en heredad a las nueve tribus, y a la media tribu de Manasés."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1044,
+      "char_end": 1228,
+      "text": "Porque los rubenitas y gaditas y la otra mitad de Manasés recibieron ya su heredad, la cual les dio Moisés al otro lado del Jordán al oriente, según se la dio Moisés siervo de Jehová;"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1228,
+      "char_end": 1366,
+      "text": "desde Aroer, que está a la orilla del arroyo de Arnón, y la ciudad que está en medio del valle, y toda la llanura de Medeba, hasta Dibón;"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1366,
+      "char_end": 1480,
+      "text": "todas las ciudades de Sehón rey de los amorreos, el cual reinó en Hesbón, hasta los límites de los hijos de Amón;"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1480,
+      "char_end": 1607,
+      "text": "y Galaad, y los territorios de los gesureos y de los maacateos, y todo el monte Hermón, y toda la tierra de Basán hasta Salca;"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1607,
+      "char_end": 1760,
+      "text": "todo el reino de Og en Basán, el cual reinó en Astarot y en Edrei, el cual había quedado del resto de los refaítas; pues Moisés los derrotó, y los echó."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1760,
+      "char_end": 1934,
+      "text": "Mas a los gesureos y a los maacateos no los echaron los hijos de Israel, sino que Gesur y Maaca habitaron entre los israelitas hasta hoy. El territorio que distribuyó Moisés"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1934,
+      "char_end": 2056,
+      "text": "Pero a la tribu de Leví no dio heredad; los sacrificios de Jehová Dios de Israel son su heredad, como él les había dicho."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2056,
+      "char_end": 2132,
+      "text": "Dio, pues, Moisés a la tribu de los hijos de Rubén conforme a sus familias."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2132,
+      "char_end": 2289,
+      "text": "Y fue el territorio de ellos desde Aroer, que está a la orilla del arroyo de Arnón, y la ciudad que está en medio del valle, y toda la llanura hasta Medeba;"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2289,
+      "char_end": 2379,
+      "text": "Hesbón, con todas sus ciudades que están en la llanura; Dibón, Bamot-baal, Bet-baal-meón,"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2379,
+      "char_end": 2404,
+      "text": "Jahaza, Cademot, Mefaat,"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2404,
+      "char_end": 2458,
+      "text": "Quiriataim, Sibma, Zaret-sahar en el monte del valle,"
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2458,
+      "char_end": 2503,
+      "text": "Bet-peor, las laderas de Pisga, Bet-jesimot,"
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2503,
+      "char_end": 2739,
+      "text": "todas las ciudades de la llanura, y todo el reino de Sehón rey de los amorreos, que reinó en Hesbón, al cual derrotó Moisés, y a los príncipes de Madián, Evi, Requem, Zur, Hur y Reba, príncipes de Sehón que habitaban en aquella tierra."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2739,
+      "char_end": 2848,
+      "text": "También mataron a espada los hijos de Israel a Balaam el adivino, hijo de Beor, entre los demás que mataron."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2848,
+      "char_end": 3010,
+      "text": "Y el Jordán fue el límite del territorio de los hijos de Rubén. ésta fue la heredad de los hijos de Rubén conforme a sus familias, estas ciudades con sus aldeas."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3010,
+      "char_end": 3094,
+      "text": "Dio asimismo Moisés a la tribu de Gad, a los hijos de Gad, conforme a sus familias."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3094,
+      "char_end": 3245,
+      "text": "El territorio de ellos fue Jazer, y todas las ciudades de Galaad, y la mitad de la tierra de los hijos de Amón hasta Aroer, que está enfrente de Rabá."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3245,
+      "char_end": 3333,
+      "text": "Y desde Hesbón hasta Ramat-mizpa, y Betonim; y desde Mahanaim hasta el límite de Debir;"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3333,
+      "char_end": 3519,
+      "text": "y en el valle, Bet-aram, Bet-nimra, Sucot y Zafón, resto del reino de Sehón rey de Hesbón; el Jordán y su límite hasta el extremo del mar de Cineret al otro lado del Jordán, al oriente."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3519,
+      "char_end": 3607,
+      "text": "Ésta es la heredad de los hijos de Gad por sus familias, estas ciudades con sus aldeas."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3607,
+      "char_end": 3739,
+      "text": "También dio Moisés heredad a la media tribu de Manasés; y fue para la media tribu de los hijos de Manasés, conforme a sus familias."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3739,
+      "char_end": 3896,
+      "text": "El territorio de ellos fue desde Mahanaim, todo Basán, todo el reino de Og rey de Basán, y todas las aldeas de Jair que están en Basán, sesenta poblaciones,"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3896,
+      "char_end": 4076,
+      "text": "y la mitad de Galaad, y Astarot y Edrei, ciudades del reino de Og en Basán, para los hijos de Maquir hijo de Manasés, para la mitad de los hijos de Maquir conforme a sus familias."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4076,
+      "char_end": 4188,
+      "text": "Esto es lo que Moisés repartió en heredad en los llanos de Moab, al otro lado del Jordán de Jericó, al oriente."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4188,
+      "char_end": 4305,
+      "text": "Mas a la tribu de Leví no dio Moisés heredad; Jehová Dios de Israel es la heredad de ellos, como él les había dicho."
+    }
+  ],
+  "words": [
+    {
+      "word": "Siendo Josué ya viejo, entrado en años, Jehová le dijo: Tú eres ya viejo, de edad avanzada, y queda aún mucha tierra por poseer.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 9375,
+      "duration_ms": 9275
+    },
+    {
+      "word": "Ésta es la tierra que queda: todos los territorios de los filisteos, y todos los de los gesureos; desde Sihor, que está al oriente de Egipto, hasta el límite de Ecrón al norte, que se considera de los cananeos; de los cinco príncipes de los filisteos, el gazeo, el asdodeo, el ascaloneo, el geteo y el ecroneo; también los aveos; al sur toda la tierra de los cananeos, y Mehara, que es de los sidonios, hasta Afec, hasta los límites del amorreo; la tierra de los giblitas, y todo el Líbano hacia",
+      "verse": 2,
+      "start_ms": 9325,
+      "end_ms": 40912,
+      "duration_ms": 31587
+    },
+    {
+      "word": "donde sale el sol, desde Baal-gad al pie del monte Hermón, hasta la entrada de Hamat; todos los que habitan en las montañas desde el Líbano hasta Misrefotmaim, todos los sidonios; yo los exterminaré delante de los hijos de Israel; solamente repartirás tú por suerte el país a los israelitas por heredad, como te he mandado.",
+      "verse": 5,
+      "start_ms": 40912,
+      "end_ms": 59487,
+      "duration_ms": 18575
+    },
+    {
+      "word": "Reparte, pues, ahora esta tierra en heredad a las nueve tribus, y a la media tribu de Manasés.",
+      "verse": 7,
+      "start_ms": 59487,
+      "end_ms": 66224,
+      "duration_ms": 6737
+    },
+    {
+      "word": "Porque los rubenitas y gaditas y la otra mitad de Manasés recibieron ya su heredad, la cual les dio Moisés al otro lado del Jordán al oriente, según se la dio Moisés siervo de Jehová; desde Aroer, que está a la orilla del arroyo de Arnón, y la ciudad que está en medio del valle, y toda la llanura de Medeba, hasta Dibón; todas las ciudades de Sehón rey de los amorreos, el cual reinó en Hesbón, hasta los límites de los hijos de Amón; y Galaad, y los territorios de los gesureos y de los maacateos,",
+      "verse": 8,
+      "start_ms": 66225,
+      "end_ms": 94737,
+      "duration_ms": 28512
+    },
+    {
+      "word": "y todo el monte Hermón, y toda la tierra de Basán hasta Salca; todo el reino de Og en Basán, el cual reinó en Astarot y en Edrei, el cual había quedado del resto de los refaítas; pues Moisés los derrotó, y los echó.",
+      "verse": 11,
+      "start_ms": 94737,
+      "end_ms": 107862,
+      "duration_ms": 13125
+    },
+    {
+      "word": "Mas a los gesureos y a los maacateos no los echaron los hijos de Israel, sino que Gesur y Maaca habitaron entre los israelitas hasta hoy.",
+      "verse": 13,
+      "start_ms": 107862,
+      "end_ms": 115974,
+      "duration_ms": 8112
+    },
+    {
+      "word": "El territorio que distribuyó Moisés Pero a la tribu de Leví no dio heredad; los sacrificios de Jehová Dios de Israel son su heredad, como él les había dicho.",
+      "verse": 13,
+      "start_ms": 115975,
+      "end_ms": 125225,
+      "duration_ms": 9250
+    },
+    {
+      "word": "Dio, pues, Moisés a la tribu de los hijos de Rubén conforme a sus familias.",
+      "verse": 15,
+      "start_ms": 125225,
+      "end_ms": 130700,
+      "duration_ms": 5475
+    },
+    {
+      "word": "Y fue el territorio de ellos desde Aroer, que está a la orilla del arroyo de Arnón, y la ciudad que está en medio del valle, y toda la llanura hasta Medeba; Hesbón, con todas sus ciudades que están en la llanura; Dibón, Bamot-baal, Bet-baal-meón, Jahaza, Cademot, Mefaat, Quiriataim, Sibma, Zaret-sahar en el monte del valle, Bet-peor, las laderas de Pisga, Bet-jesimot, todas las ciudades de la llanura, y todo el reino de Sehón rey de los amorreos, que reinó en Hesbón, al cual derrotó Moisés, y a",
+      "verse": 16,
+      "start_ms": 130700,
+      "end_ms": 162400,
+      "duration_ms": 31700
+    },
+    {
+      "word": "los príncipes de Madián, Evi, Requem, Zur, Hur y Reba, príncipes de Sehón que habitaban en aquella tierra.",
+      "verse": 21,
+      "start_ms": 162400,
+      "end_ms": 169812,
+      "duration_ms": 7412
+    },
+    {
+      "word": "También mataron a espada los hijos de Israel a Balaam el adivino, hijo de Beor, entre los demás que mataron.",
+      "verse": 22,
+      "start_ms": 169812,
+      "end_ms": 176612,
+      "duration_ms": 6800
+    },
+    {
+      "word": "Y el Jordán fue el límite del territorio de los hijos de Rubén.",
+      "verse": 23,
+      "start_ms": 176612,
+      "end_ms": 180624,
+      "duration_ms": 4012
+    },
+    {
+      "word": "ésta fue la heredad de los hijos de Rubén conforme a sus familias, estas ciudades con sus aldeas.",
+      "verse": 23,
+      "start_ms": 180625,
+      "end_ms": 186700,
+      "duration_ms": 6075
+    },
+    {
+      "word": "Dio asimismo Moisés a la tribu de Gad, a los hijos de Gad, conforme a sus familias.",
+      "verse": 24,
+      "start_ms": 186700,
+      "end_ms": 192587,
+      "duration_ms": 5887
+    },
+    {
+      "word": "El territorio de ellos fue Jazer, y todas las ciudades de Galaad, y la mitad de la tierra de los hijos de Amón hasta Aroer, que está enfrente de Rabá.",
+      "verse": 25,
+      "start_ms": 192587,
+      "end_ms": 201599,
+      "duration_ms": 9012
+    },
+    {
+      "word": "Y desde Hesbón hasta Ramat-mizpa, y Betonim; y desde Mahanaim hasta el límite de Debir; y en el valle, Bet-aram, Bet-nimra, Sucot y Zafón, resto del reino de Sehón rey de Hesbón; el Jordán y su límite hasta el extremo del mar de Cineret al otro lado del Jordán, al oriente.",
+      "verse": 26,
+      "start_ms": 201600,
+      "end_ms": 218800,
+      "duration_ms": 17200
+    },
+    {
+      "word": "Ésta es la heredad de los hijos de Gad por sus familias, estas ciudades con sus aldeas.",
+      "verse": 28,
+      "start_ms": 218800,
+      "end_ms": 224425,
+      "duration_ms": 5625
+    },
+    {
+      "word": "También dio Moisés heredad a la media tribu de Manasés; y fue para la media tribu de los hijos de Manasés, conforme a sus familias.",
+      "verse": 29,
+      "start_ms": 224425,
+      "end_ms": 232537,
+      "duration_ms": 8112
+    },
+    {
+      "word": "El territorio de ellos fue desde Mahanaim, todo Basán, todo el reino de Og rey de Basán, y todas las aldeas de Jair que están en Basán, sesenta poblaciones, y la mitad de Galaad, y Astarot y Edrei, ciudades del reino de Og en Basán, para los hijos de Maquir",
+      "verse": 30,
+      "start_ms": 232537,
+      "end_ms": 248699,
+      "duration_ms": 16162
+    },
+    {
+      "word": "hijo de Manasés, para la mitad de los hijos de Maquir conforme a sus familias.",
+      "verse": 31,
+      "start_ms": 248860,
+      "end_ms": 254010,
+      "duration_ms": 5150
+    },
+    {
+      "word": "Esto es lo que Moisés repartió en heredad en los llanos de Moab, al otro lado del Jordán de Jericó, al oriente.",
+      "verse": 32,
+      "start_ms": 253960,
+      "end_ms": 260747,
+      "duration_ms": 6787
+    },
+    {
+      "word": "Mas a la tribu de Leví no dio Moisés heredad; Jehová Dios de Israel es la heredad de ellos, como él les había dicho.",
+      "verse": 33,
+      "start_ms": 260747,
+      "end_ms": 268234,
+      "duration_ms": 7487
+    }
+  ]
+}

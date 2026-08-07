@@ -1,0 +1,495 @@
+{
+  "book": "JUE",
+  "chapter": 5,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 31,
+  "word_count": 38,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 60,
+      "text": "Aquel día cantó Débora con Barac hijo de Abinoam, diciendo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 60,
+      "char_end": 177,
+      "text": "Por haberse puesto al frente los caudillos en Israel, Por haberse ofrecido voluntariamente el pueblo, Load a Jehová."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 177,
+      "char_end": 278,
+      "text": "Oíd, reyes; escuchad, oh príncipes; Yo cantaré a Jehová, Cantaré salmos a Jehová, el Dios de Israel."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 278,
+      "char_end": 427,
+      "text": "Cuando saliste de Seir, oh Jehová, Cuando te marchaste de los campos de Edom, La tierra tembló, y los cielos destilaron, Y las nubes gotearon aguas."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 427,
+      "char_end": 514,
+      "text": "Los montes temblaron delante de Jehová, Aquel Sinaí, delante de Jehová Dios de Israel."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 514,
+      "char_end": 674,
+      "text": "En los días de Samgar hijo de Anat, En los días de Jael, quedaron abandonados los caminos, Y los que andaban por las sendas se apartaban por senderos torcidos."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 674,
+      "char_end": 798,
+      "text": "Las aldeas quedaron abandonadas en Israel, habían decaído, Hasta que yo Débora me levanté, Me levanté como madre en Israel."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 798,
+      "char_end": 915,
+      "text": "Cuando escogían nuevos dioses, La guerra estaba a las puertas; ¿Se veía escudo o lanza Entre cuarenta mil en Israel?"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 915,
+      "char_end": 1037,
+      "text": "Mi corazón es para vosotros, jefes de Israel, Para los que voluntariamente os ofrecisteis entre el pueblo. Load a Jehová."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1037,
+      "char_end": 1146,
+      "text": "Vosotros los que cabalgáis en asnas blancas, Los que presidís en juicio, Y vosotros los que viajáis, hablad."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1146,
+      "char_end": 1333,
+      "text": "Lejos del ruido de los arqueros, en los abrevaderos, Allí repetirán los triunfos de Jehová, Los triunfos de sus aldeas en Israel; Entonces marchará hacia las puertas el pueblo de Jehová."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1333,
+      "char_end": 1458,
+      "text": "Despierta, despierta, Débora; Despierta, despierta, entona cántico. Levántate, Barac, y lleva tus cautivos, hijo de Abinoam."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1458,
+      "char_end": 1560,
+      "text": "Entonces marchó el resto de los nobles; El pueblo de Jehová marchó por él en contra de los poderosos."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1560,
+      "char_end": 1724,
+      "text": "De Efraín vinieron los radicados en Amalec, En pos de ti, Benjamín, entre tus pueblos; De Maquir descendieron príncipes, Y de Zabulón los que tenían vara de mando."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1724,
+      "char_end": 1899,
+      "text": "Caudillos también de Isacar fueron con Débora; Y como Barac, también Isacar Se precipitó a pie en el valle. Entre las familias de Rubén Hubo grandes resoluciones del corazón."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1899,
+      "char_end": 2041,
+      "text": "¿Por qué te quedaste entre los rediles, Para oír los balidos de los rebaños? Entre las familias de Rubén Hubo grandes propósitos del corazón."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2041,
+      "char_end": 2191,
+      "text": "Galaad se quedó al otro lado del Jordán; Y Dan, ¿por qué se estuvo junto a las naves? Se mantuvo Aser a la ribera del mar, Y se quedó en sus puertos."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2191,
+      "char_end": 2276,
+      "text": "El pueblo de Zabulón expuso su vida a la muerte, Y Neftalí en las alturas del campo."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2276,
+      "char_end": 2426,
+      "text": "Vinieron reyes y pelearon; Entonces pelearon los reyes de Canaán, En Taanac, junto a las aguas de Meguido, Mas no llevaron ganancia alguna de dinero."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2426,
+      "char_end": 2509,
+      "text": "Desde los cielos pelearon las estrellas; Desde sus órbitas pelearon contra Sísara."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2509,
+      "char_end": 2617,
+      "text": "Los barrió el torrente de Cisón, El antiguo torrente, el torrente de Cisón. Marcha, oh alma mía, con poder."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2617,
+      "char_end": 2712,
+      "text": "Entonces resonaron los cascos de los caballos Por el galopar, por el galopar de sus valientes."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2712,
+      "char_end": 2875,
+      "text": "Maldecid a Meroz, dijo el ángel de Jehová; Maldecid severamente a sus moradores, Porque no vinieron al socorro de Jehová, Al socorro de Jehová contra los fuertes."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2875,
+      "char_end": 2977,
+      "text": "Bendita sea entre las mujeres Jael, Mujer de Heber ceneo; Sobre las mujeres bendita sea en la tienda."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2977,
+      "char_end": 3051,
+      "text": "Él pidió agua, y ella le dio leche; En tazón de nobles le presentó crema."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3051,
+      "char_end": 3189,
+      "text": "Tendió su mano a la estaca, Y su diestra al mazo de trabajadores, Y golpeó a Sísara; hirió su cabeza, Y le horadó, y atravesó sus sienes."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3189,
+      "char_end": 3302,
+      "text": "Cayó encorvado entre sus pies, quedó tendido; Entre sus pies cayó encorvado; Donde se encorvó, allí cayó muerto."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3302,
+      "char_end": 3464,
+      "text": "La madre de Sísara se asoma a la ventana, Y por entre las celosías a voces dice: ¿Por qué tarda su carro en venir? ¿Por qué las ruedas de sus carros se detienen?"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3464,
+      "char_end": 3545,
+      "text": "Las más avisadas de sus damas le respondían, Y aun ella se respondía a sí misma:"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3545,
+      "char_end": 3784,
+      "text": "¿No han hallado botín, y lo están repartiendo? A cada uno una doncella, o dos; Las vestiduras de colores para Sísara, Las vestiduras bordadas de colores; La ropa de color bordada de ambos lados, para los jefes de los que tomaron el botín."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3784,
+      "char_end": 3926,
+      "text": "Así perezcan todos tus enemigos, oh Jehová; Mas los que te aman, sean como el sol cuando sale en su fuerza. Y la tierra reposó cuarenta años."
+    }
+  ],
+  "words": [
+    {
+      "word": "Aquel día cantó Débora con Barac hijo de Abinoam, diciendo: Por haberse puesto al frente los caudillos en Israel, Por haberse ofrecido voluntariamente el pueblo, Load a Jehová.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 10687,
+      "duration_ms": 10587
+    },
+    {
+      "word": "Oíd, reyes; escuchad, oh príncipes; Yo cantaré a Jehová, Cantaré salmos a Jehová, el Dios de Israel.",
+      "verse": 3,
+      "start_ms": 10637,
+      "end_ms": 18774,
+      "duration_ms": 8137
+    },
+    {
+      "word": "Cuando saliste de Seir, oh Jehová, Cuando te marchaste de los campos de Edom, La tierra tembló, y los cielos destilaron, Y las nubes gotearon aguas.",
+      "verse": 4,
+      "start_ms": 18775,
+      "end_ms": 28012,
+      "duration_ms": 9237
+    },
+    {
+      "word": "Los montes temblaron delante de Jehová, Aquel Sinaí, delante de Jehová Dios de Israel.",
+      "verse": 5,
+      "start_ms": 28012,
+      "end_ms": 33874,
+      "duration_ms": 5862
+    },
+    {
+      "word": "En los días de Samgar hijo de Anat, En los días de Jael, quedaron abandonados los caminos, Y los que andaban por las sendas se apartaban por senderos torcidos.",
+      "verse": 6,
+      "start_ms": 33875,
+      "end_ms": 43150,
+      "duration_ms": 9275
+    },
+    {
+      "word": "Las aldeas quedaron abandonadas en Israel, habían decaído, Hasta que yo Débora me levanté, Me levanté como madre en Israel.",
+      "verse": 7,
+      "start_ms": 43150,
+      "end_ms": 51537,
+      "duration_ms": 8387
+    },
+    {
+      "word": "Cuando escogían nuevos dioses, La guerra estaba a las puertas; ¿Se veía escudo o lanza Entre cuarenta mil en Israel?",
+      "verse": 8,
+      "start_ms": 51537,
+      "end_ms": 58924,
+      "duration_ms": 7387
+    },
+    {
+      "word": "Mi corazón es para vosotros, jefes de Israel, Para los que voluntariamente os ofrecisteis entre el pueblo.",
+      "verse": 9,
+      "start_ms": 58925,
+      "end_ms": 65700,
+      "duration_ms": 6775
+    },
+    {
+      "word": "Load a Jehová.",
+      "verse": 9,
+      "start_ms": 65700,
+      "end_ms": 67525,
+      "duration_ms": 1825
+    },
+    {
+      "word": "Vosotros los que cabalgáis en asnas blancas, Los que presidís en juicio, Y vosotros los que viajáis, hablad.",
+      "verse": 10,
+      "start_ms": 67525,
+      "end_ms": 74587,
+      "duration_ms": 7062
+    },
+    {
+      "word": "Lejos del ruido de los arqueros, en los abrevaderos, Allí repetirán los triunfos de Jehová, Los triunfos de sus aldeas en Israel; Entonces marchará hacia las puertas el pueblo de Jehová.",
+      "verse": 11,
+      "start_ms": 74587,
+      "end_ms": 85774,
+      "duration_ms": 11187
+    },
+    {
+      "word": "Despierta, despierta, Débora; Despierta, despierta, entona cántico.",
+      "verse": 12,
+      "start_ms": 85775,
+      "end_ms": 92025,
+      "duration_ms": 6250
+    },
+    {
+      "word": "Levántate, Barac, y lleva tus cautivos, hijo de Abinoam.",
+      "verse": 12,
+      "start_ms": 92025,
+      "end_ms": 96987,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Entonces marchó el resto de los nobles; El pueblo de Jehová marchó por él en contra de los poderosos.",
+      "verse": 13,
+      "start_ms": 96987,
+      "end_ms": 103474,
+      "duration_ms": 6487
+    },
+    {
+      "word": "De Efraín vinieron los radicados en Amalec, En pos de ti, Benjamín, entre tus pueblos; De Maquir descendieron príncipes, Y de Zabulón los que tenían vara de mando.",
+      "verse": 14,
+      "start_ms": 103475,
+      "end_ms": 113862,
+      "duration_ms": 10387
+    },
+    {
+      "word": "Caudillos también de Isacar fueron con Débora; Y como Barac, también Isacar Se precipitó a pie en el valle.",
+      "verse": 15,
+      "start_ms": 113862,
+      "end_ms": 120662,
+      "duration_ms": 6800
+    },
+    {
+      "word": "Entre las familias de Rubén Hubo grandes resoluciones del corazón.",
+      "verse": 15,
+      "start_ms": 120662,
+      "end_ms": 124937,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Por qué te quedaste entre los rediles, Para oír los balidos de los rebaños?",
+      "verse": 16,
+      "start_ms": 124937,
+      "end_ms": 129962,
+      "duration_ms": 5025
+    },
+    {
+      "word": "Entre las familias de Rubén Hubo grandes propósitos del corazón.",
+      "verse": 16,
+      "start_ms": 129962,
+      "end_ms": 134162,
+      "duration_ms": 4200
+    },
+    {
+      "word": "Galaad se quedó al otro lado del Jordán; Y Dan, ¿por qué se estuvo junto a las naves?",
+      "verse": 17,
+      "start_ms": 134162,
+      "end_ms": 140062,
+      "duration_ms": 5900
+    },
+    {
+      "word": "Se mantuvo Aser a la ribera del mar, Y se quedó en sus puertos.",
+      "verse": 17,
+      "start_ms": 140062,
+      "end_ms": 144374,
+      "duration_ms": 4312
+    },
+    {
+      "word": "El pueblo de Zabulón expuso su vida a la muerte, Y Neftalí en las alturas del campo.",
+      "verse": 18,
+      "start_ms": 144375,
+      "end_ms": 149937,
+      "duration_ms": 5562
+    },
+    {
+      "word": "Vinieron reyes y pelearon; Entonces pelearon los reyes de Canaán, En Taanac, junto a las aguas de Meguido, Mas no llevaron ganancia alguna de dinero.",
+      "verse": 19,
+      "start_ms": 149937,
+      "end_ms": 159112,
+      "duration_ms": 9175
+    },
+    {
+      "word": "Desde los cielos pelearon las estrellas; Desde sus órbitas pelearon contra Sísara.",
+      "verse": 20,
+      "start_ms": 159112,
+      "end_ms": 164612,
+      "duration_ms": 5500
+    },
+    {
+      "word": "Los barrió el torrente de Cisón, El antiguo torrente, el torrente de Cisón.",
+      "verse": 21,
+      "start_ms": 164612,
+      "end_ms": 169887,
+      "duration_ms": 5275
+    },
+    {
+      "word": "Marcha, oh alma mía, con poder.",
+      "verse": 21,
+      "start_ms": 169887,
+      "end_ms": 173099,
+      "duration_ms": 3212
+    },
+    {
+      "word": "Entonces resonaron los cascos de los caballos Por el galopar, por el galopar de sus valientes.",
+      "verse": 22,
+      "start_ms": 173100,
+      "end_ms": 178912,
+      "duration_ms": 5812
+    },
+    {
+      "word": "Maldecid a Meroz, dijo el ángel de Jehová; Maldecid severamente a sus moradores, Porque no vinieron al socorro de Jehová, Al socorro de Jehová contra los fuertes.",
+      "verse": 23,
+      "start_ms": 178912,
+      "end_ms": 189099,
+      "duration_ms": 10187
+    },
+    {
+      "word": "Bendita sea entre las mujeres Jael, Mujer de Heber ceneo; Sobre las mujeres bendita sea en la tienda.",
+      "verse": 24,
+      "start_ms": 189100,
+      "end_ms": 196187,
+      "duration_ms": 7087
+    },
+    {
+      "word": "Él pidió agua, y ella le dio leche; En tazón de nobles le presentó crema.",
+      "verse": 25,
+      "start_ms": 196187,
+      "end_ms": 201424,
+      "duration_ms": 5237
+    },
+    {
+      "word": "Tendió su mano a la estaca, Y su diestra al mazo de trabajadores, Y golpeó a Sísara; hirió su cabeza, Y le horadó, y atravesó sus sienes.",
+      "verse": 26,
+      "start_ms": 201425,
+      "end_ms": 210737,
+      "duration_ms": 9312
+    },
+    {
+      "word": "Cayó encorvado entre sus pies, quedó tendido; Entre sus pies cayó encorvado; Donde se encorvó, allí cayó muerto.",
+      "verse": 27,
+      "start_ms": 210737,
+      "end_ms": 218537,
+      "duration_ms": 7800
+    },
+    {
+      "word": "La madre de Sísara se asoma a la ventana, Y por entre las celosías a voces dice: ¿Por qué tarda su carro en venir?",
+      "verse": 28,
+      "start_ms": 218537,
+      "end_ms": 225887,
+      "duration_ms": 7350
+    },
+    {
+      "word": "Por qué las ruedas de sus carros se detienen?",
+      "verse": 28,
+      "start_ms": 225887,
+      "end_ms": 228999,
+      "duration_ms": 3112
+    },
+    {
+      "word": "Las más avisadas de sus damas le respondían, Y aun ella se respondía a sí misma: ¿No han hallado botín, y lo están repartiendo?",
+      "verse": 29,
+      "start_ms": 229000,
+      "end_ms": 237437,
+      "duration_ms": 8437
+    },
+    {
+      "word": "A cada uno una doncella, o dos; Las vestiduras de colores para Sísara, Las vestiduras bordadas de colores; La ropa de color bordada de ambos lados, para los jefes de los que tomaron el botín.",
+      "verse": 30,
+      "start_ms": 237437,
+      "end_ms": 249562,
+      "duration_ms": 12125
+    },
+    {
+      "word": "Así perezcan todos tus enemigos, oh Jehová; Mas los que te aman, sean como el sol cuando sale en su fuerza.",
+      "verse": 31,
+      "start_ms": 249562,
+      "end_ms": 256724,
+      "duration_ms": 7162
+    },
+    {
+      "word": "Y la tierra reposó cuarenta años.",
+      "verse": 31,
+      "start_ms": 256725,
+      "end_ms": 259737,
+      "duration_ms": 3012
+    }
+  ]
+}

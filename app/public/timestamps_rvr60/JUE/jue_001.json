@@ -1,0 +1,551 @@
+{
+  "book": "JUE",
+  "chapter": 1,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 36,
+  "word_count": 41,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 161,
+      "text": "Aconteció después de la muerte de Josué, que los hijos de Israel consultaron a Jehová, diciendo: ¿Quién de nosotros subirá primero a pelear contra los cananeos?"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 161,
+      "char_end": 246,
+      "text": "Y Jehová respondió: Judá subirá; he aquí que yo he entregado la tierra en sus manos."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 246,
+      "char_end": 416,
+      "text": "Y Judá dijo a Simeón su hermano: Sube conmigo al territorio que se me ha adjudicado, y peleemos contra el cananeo, y yo también iré contigo al tuyo. Y Simeón fue con él."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 416,
+      "char_end": 534,
+      "text": "Y subió Judá, y Jehová entregó en sus manos al cananeo y al ferezeo; e hirieron de ellos en Bezec a diez mil hombres."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 534,
+      "char_end": 629,
+      "text": "Y hallaron a Adoni-bezec en Bezec, y pelearon contra él; y derrotaron al cananeo y al ferezeo."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 629,
+      "char_end": 738,
+      "text": "Mas Adoni-bezec huyó; y le siguieron y le prendieron, y le cortaron los pulgares de las manos y de los pies."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 738,
+      "char_end": 981,
+      "text": "Entonces dijo Adoni-bezec: Setenta reyes, cortados los pulgares de sus manos y de sus pies, recogían las migajas debajo de mi mesa; como yo hice, así me ha pagado Dios. Y le llevaron a Jerusalén, donde murió. Judá conquista Jerusalén y Hebrón"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 981,
+      "char_end": 1113,
+      "text": "Y combatieron los hijos de Judá a Jerusalén y la tomaron, y pasaron a sus habitantes a filo de espada y pusieron fuego a la ciudad."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1113,
+      "char_end": 1243,
+      "text": "Después los hijos de Judá descendieron para pelear contra el cananeo que habitaba en las montañas, en el Neguev, y en los llanos."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1243,
+      "char_end": 1434,
+      "text": "Y marchó Judá contra el cananeo que habitaba en Hebrón, la cual se llamaba antes Quiriat-arba; e hirieron a Sesai, a Ahimán y a Talmai. Otoniel conquista Debir y recibe a Acsa (Jos 15.15–19)"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1434,
+      "char_end": 1512,
+      "text": "De allí fue a los que habitaban en Debir, que antes se llamaba Quiriat-sefer."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1512,
+      "char_end": 1605,
+      "text": "Y dijo Caleb: El que atacare a Quiriat-sefer y la tomare, yo le daré Acsa mi hija por mujer."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1605,
+      "char_end": 1698,
+      "text": "Y la tomó Otoniel hijo de Cenaz, hermano menor de Caleb; y él le dio Acsa su hija por mujer."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1698,
+      "char_end": 1828,
+      "text": "Y cuando ella se iba con él, la persuadió que pidiese a su padre un campo. Y ella se bajó del asno, y Caleb le dijo: ¿Qué tienes?"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1828,
+      "char_end": 2065,
+      "text": "Ella entonces le respondió: Concédeme un don; puesto que me has dado tierra del Neguev, dame también fuentes de aguas. Entonces Caleb le dio las fuentes de arriba y las fuentes de abajo. Extensión de las conquistas de Judá y de Benjamín"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2065,
+      "char_end": 2260,
+      "text": "Y los hijos del ceneo, suegro de Moisés, subieron de la ciudad de las palmeras con los hijos de Judá al desierto de Judá, que está en el Neguev cerca de Arad; y fueron y habitaron con el pueblo."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2260,
+      "char_end": 2398,
+      "text": "Y fue Judá con su hermano Simeón, y derrotaron al cananeo que habitaba en Sefat, y la asolaron; y pusieron por nombre a la ciudad, Horma."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2398,
+      "char_end": 2495,
+      "text": "Tomó también Judá a Gaza con su territorio, Ascalón con su territorio y Ecrón con su territorio."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2495,
+      "char_end": 2647,
+      "text": "Y Jehová estaba con Judá, quien arrojó a los de las montañas; mas no pudo arrojar a los que habitaban en los llanos, los cuales tenían carros herrados."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2647,
+      "char_end": 2743,
+      "text": "Y dieron Hebrón a Caleb, como Moisés había dicho; y él arrojó de allí a los tres hijos de Anac."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2743,
+      "char_end": 2915,
+      "text": "Mas al jebuseo que habitaba en Jerusalén no lo arrojaron los hijos de Benjamín, y el jebuseo habitó con los hijos de Benjamín en Jerusalén hasta hoy. José conquista Bet-el"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2915,
+      "char_end": 2987,
+      "text": "También la casa de José subió contra Bet-el; y Jehová estaba con ellos."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2987,
+      "char_end": 3061,
+      "text": "Y la casa de José puso espías en Bet-el, ciudad que antes se llamaba Luz."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3061,
+      "char_end": 3211,
+      "text": "Y los que espiaban vieron a un hombre que salía de la ciudad, y le dijeron: Muéstranos ahora la entrada de la ciudad, y haremos contigo misericordia."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3211,
+      "char_end": 3335,
+      "text": "Y él les mostró la entrada a la ciudad, y la hirieron a filo de espada; pero dejaron ir a aquel hombre con toda su familia."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3335,
+      "char_end": 3505,
+      "text": "Y se fue el hombre a la tierra de los heteos, y edificó una ciudad a la cual llamó Luz; y éste es su nombre hasta hoy. Extensión de las conquistas de Manasés y de Efraín"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3505,
+      "char_end": 3780,
+      "text": "Tampoco Manasés arrojó a los de Bet-seán, ni a los de sus aldeas, ni a los de Taanac y sus aldeas, ni a los de Dor y sus aldeas, ni a los habitantes de Ibleam y sus aldeas, ni a los que habitan en Meguido y en sus aldeas; y el cananeo persistía en habitar en aquella tierra."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3780,
+      "char_end": 3862,
+      "text": "Pero cuando Israel se sintió fuerte hizo al cananeo tributario, mas no lo arrojó."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3862,
+      "char_end": 4021,
+      "text": "Tampoco Efraín arrojó al cananeo que habitaba en Gezer, sino que habitó el cananeo en medio de ellos en Gezer. Extensión de las conquistas de las demás tribus"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4021,
+      "char_end": 4174,
+      "text": "Tampoco Zabulón arrojó a los que habitaban en Quitrón, ni a los que habitaban en Naalal, sino que el cananeo habitó en medio de él, y le fue tributario."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4174,
+      "char_end": 4305,
+      "text": "Tampoco Aser arrojó a los que habitaban en Aco, ni a los que habitaban en Sidón, en Ahlab, en Aczib, en Helba, en Afec y en Rehob."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4305,
+      "char_end": 4384,
+      "text": "Y moró Aser entre los cananeos que habitaban en la tierra; pues no los arrojó."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4384,
+      "char_end": 4620,
+      "text": "Tampoco Neftalí arrojó a los que habitaban en Bet-semes, ni a los que habitaban en Bet-anat, sino que moró entre los cananeos que habitaban en la tierra; mas le fueron tributarios los moradores de Bet-semes y los moradores de Bet-anat."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4620,
+      "char_end": 4718,
+      "text": "Los amorreos acosaron a los hijos de Dan hasta el monte, y no los dejaron descender a los llanos."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4718,
+      "char_end": 4861,
+      "text": "Y el amorreo persistió en habitar en el monte de Heres, en Ajalón y en Saalbim; pero cuando la casa de José cobró fuerzas, lo hizo tributario."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4861,
+      "char_end": 4942,
+      "text": "Y el límite del amorreo fue desde la subida de Acrabim, desde Sela hacia arriba."
+    }
+  ],
+  "words": [
+    {
+      "word": "Aconteció después de la muerte de Josué, que los hijos de Israel consultaron a Jehová, diciendo: ¿Quién de nosotros subirá primero a pelear contra los cananeos?",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 9762,
+      "duration_ms": 9662
+    },
+    {
+      "word": "Y Jehová respondió: Judá subirá; he aquí que yo he entregado la tierra en sus manos.",
+      "verse": 2,
+      "start_ms": 9712,
+      "end_ms": 15687,
+      "duration_ms": 5975
+    },
+    {
+      "word": "Y Judá dijo a Simeón su hermano: Sube conmigo al territorio que se me ha adjudicado, y peleemos contra el cananeo, y yo también iré contigo al tuyo.",
+      "verse": 3,
+      "start_ms": 15687,
+      "end_ms": 25099,
+      "duration_ms": 9412
+    },
+    {
+      "word": "Y Simeón fue con él.",
+      "verse": 3,
+      "start_ms": 25100,
+      "end_ms": 27275,
+      "duration_ms": 2175
+    },
+    {
+      "word": "Y subió Judá, y Jehová entregó en sus manos al cananeo y al ferezeo; e hirieron de ellos en Bezec a diez mil hombres.",
+      "verse": 4,
+      "start_ms": 27275,
+      "end_ms": 34737,
+      "duration_ms": 7462
+    },
+    {
+      "word": "Y hallaron a Adoni-bezec en Bezec, y pelearon contra él; y derrotaron al cananeo y al ferezeo.",
+      "verse": 5,
+      "start_ms": 34737,
+      "end_ms": 41337,
+      "duration_ms": 6600
+    },
+    {
+      "word": "Mas Adoni-bezec huyó; y le siguieron y le prendieron, y le cortaron los pulgares de las manos y de los pies.",
+      "verse": 6,
+      "start_ms": 41337,
+      "end_ms": 48174,
+      "duration_ms": 6837
+    },
+    {
+      "word": "Entonces dijo Adoni-bezec: Setenta reyes, cortados los pulgares de sus manos y de sus pies, recogían las migajas debajo de mi mesa; como yo hice, así me ha pagado Dios.",
+      "verse": 7,
+      "start_ms": 48175,
+      "end_ms": 59612,
+      "duration_ms": 11437
+    },
+    {
+      "word": "Y le llevaron a Jerusalén, donde murió.",
+      "verse": 7,
+      "start_ms": 59612,
+      "end_ms": 62799,
+      "duration_ms": 3187
+    },
+    {
+      "word": "Judá conquista Jerusalén y Hebrón Y combatieron los hijos de Judá a Jerusalén y la tomaron, y pasaron a sus habitantes a filo de espada y pusieron fuego a la ciudad.",
+      "verse": 7,
+      "start_ms": 62800,
+      "end_ms": 72200,
+      "duration_ms": 9400
+    },
+    {
+      "word": "Después los hijos de Judá descendieron para pelear contra el cananeo que habitaba en las montañas, en el Neguev, y en los llanos.",
+      "verse": 9,
+      "start_ms": 72200,
+      "end_ms": 79475,
+      "duration_ms": 7275
+    },
+    {
+      "word": "Y marchó Judá contra el cananeo que habitaba en Hebrón, la cual se llamaba antes Quiriat-arba; e hirieron a Sesai, a Ahimán y a Talmai.",
+      "verse": 10,
+      "start_ms": 79475,
+      "end_ms": 87762,
+      "duration_ms": 8287
+    },
+    {
+      "word": "Otoniel conquista Debir y recibe a Acsa (Jos 15.15–19) De allí fue a los que habitaban en Debir, que antes se llamaba Quiriat-sefer.",
+      "verse": 10,
+      "start_ms": 87762,
+      "end_ms": 97274,
+      "duration_ms": 9512
+    },
+    {
+      "word": "Y dijo Caleb: El que atacare a Quiriat-sefer y la tomare, yo le daré Acsa mi hija por mujer.",
+      "verse": 12,
+      "start_ms": 97275,
+      "end_ms": 103687,
+      "duration_ms": 6412
+    },
+    {
+      "word": "Y la tomó Otoniel hijo de Cenaz, hermano menor de Caleb; y él le dio Acsa su hija por mujer.",
+      "verse": 13,
+      "start_ms": 103687,
+      "end_ms": 110224,
+      "duration_ms": 6537
+    },
+    {
+      "word": "Y cuando ella se iba con él, la persuadió que pidiese a su padre un campo.",
+      "verse": 14,
+      "start_ms": 110225,
+      "end_ms": 115275,
+      "duration_ms": 5050
+    },
+    {
+      "word": "Y ella se bajó del asno, y Caleb le dijo: ¿Qué tienes?",
+      "verse": 14,
+      "start_ms": 115275,
+      "end_ms": 119812,
+      "duration_ms": 4537
+    },
+    {
+      "word": "Ella entonces le respondió: Concédeme un don; puesto que me has dado tierra del Neguev, dame también fuentes de aguas.",
+      "verse": 15,
+      "start_ms": 119812,
+      "end_ms": 127424,
+      "duration_ms": 7612
+    },
+    {
+      "word": "Entonces Caleb le dio las fuentes de arriba y las fuentes de abajo.",
+      "verse": 15,
+      "start_ms": 127425,
+      "end_ms": 131625,
+      "duration_ms": 4200
+    },
+    {
+      "word": "Extensión de las conquistas de Judá y de Benjamín Y los hijos del ceneo, suegro de Moisés, subieron de la ciudad de las palmeras con los hijos de Judá al desierto de Judá, que está en el Neguev cerca de Arad; y fueron y habitaron con el pueblo.",
+      "verse": 15,
+      "start_ms": 131625,
+      "end_ms": 145125,
+      "duration_ms": 13500
+    },
+    {
+      "word": "Y fue Judá con su hermano Simeón, y derrotaron al cananeo que habitaba en Sefat, y la asolaron; y pusieron por nombre a la ciudad, Horma.",
+      "verse": 17,
+      "start_ms": 145125,
+      "end_ms": 153637,
+      "duration_ms": 8512
+    },
+    {
+      "word": "Tomó también Judá a Gaza con su territorio, Ascalón con su territorio y Ecrón con su territorio.",
+      "verse": 18,
+      "start_ms": 153637,
+      "end_ms": 160024,
+      "duration_ms": 6387
+    },
+    {
+      "word": "Y Jehová estaba con Judá, quien arrojó a los de las montañas; mas no pudo arrojar a los que habitaban en los llanos, los cuales tenían carros herrados.",
+      "verse": 19,
+      "start_ms": 160025,
+      "end_ms": 168862,
+      "duration_ms": 8837
+    },
+    {
+      "word": "Y dieron Hebrón a Caleb, como Moisés había dicho; y él arrojó de allí a los tres hijos de Anac.",
+      "verse": 20,
+      "start_ms": 168862,
+      "end_ms": 175212,
+      "duration_ms": 6350
+    },
+    {
+      "word": "Mas al jebuseo que habitaba en Jerusalén no lo arrojaron los hijos de Benjamín, y el jebuseo habitó con los hijos de Benjamín en Jerusalén hasta hoy.",
+      "verse": 21,
+      "start_ms": 175212,
+      "end_ms": 183499,
+      "duration_ms": 8287
+    },
+    {
+      "word": "José conquista Bet-el También la casa de José subió contra Bet-el; y Jehová estaba con ellos.",
+      "verse": 21,
+      "start_ms": 183500,
+      "end_ms": 189600,
+      "duration_ms": 6100
+    },
+    {
+      "word": "Y la casa de José puso espías en Bet-el, ciudad que antes se llamaba Luz.",
+      "verse": 23,
+      "start_ms": 189600,
+      "end_ms": 194775,
+      "duration_ms": 5175
+    },
+    {
+      "word": "Y los que espiaban vieron a un hombre que salía de la ciudad, y le dijeron: Muéstranos ahora la entrada de la ciudad, y haremos contigo misericordia.",
+      "verse": 24,
+      "start_ms": 194775,
+      "end_ms": 203625,
+      "duration_ms": 8850
+    },
+    {
+      "word": "Y él les mostró la entrada a la ciudad, y la hirieron a filo de espada; pero dejaron ir a aquel hombre con toda su familia.",
+      "verse": 25,
+      "start_ms": 203625,
+      "end_ms": 211075,
+      "duration_ms": 7450
+    },
+    {
+      "word": "Y se fue el hombre a la tierra de los heteos, y edificó una ciudad a la cual llamó Luz; y éste es su nombre hasta hoy.",
+      "verse": 26,
+      "start_ms": 211075,
+      "end_ms": 218312,
+      "duration_ms": 7237
+    },
+    {
+      "word": "Extensión de las conquistas de Manasés y de Efraín Tampoco Manasés arrojó a los de Bet-seán, ni a los de sus aldeas, ni a los de Taanac y sus aldeas, ni a los de Dor y sus aldeas, ni a los habitantes de Ibleam y sus aldeas, ni a los que habitan en Meguido y en sus aldeas; y el cananeo persistía en habitar en aquella tierra.",
+      "verse": 26,
+      "start_ms": 218312,
+      "end_ms": 237037,
+      "duration_ms": 18725
+    },
+    {
+      "word": "Pero cuando Israel se sintió fuerte hizo al cananeo tributario, mas no lo arrojó.",
+      "verse": 28,
+      "start_ms": 237037,
+      "end_ms": 242437,
+      "duration_ms": 5400
+    },
+    {
+      "word": "Tampoco Efraín arrojó al cananeo que habitaba en Gezer, sino que habitó el cananeo en medio de ellos en Gezer.",
+      "verse": 29,
+      "start_ms": 242437,
+      "end_ms": 249249,
+      "duration_ms": 6812
+    },
+    {
+      "word": "Extensión",
+      "verse": 29,
+      "start_ms": 249250,
+      "end_ms": 250937,
+      "duration_ms": 1687
+    },
+    {
+      "word": "de las conquistas de las demás tribus Tampoco Zabulón arrojó a los que habitaban en Quitrón, ni a los que habitaban en Naalal, sino que el cananeo habitó en medio de él, y le fue tributario.",
+      "verse": 29,
+      "start_ms": 251092,
+      "end_ms": 261754,
+      "duration_ms": 10662
+    },
+    {
+      "word": "Tampoco Aser arrojó a los que habitaban en Aco, ni a los que habitaban en Sidón, en Ahlab, en Aczib, en Helba, en Afec y en Rehob.",
+      "verse": 31,
+      "start_ms": 261704,
+      "end_ms": 269716,
+      "duration_ms": 8012
+    },
+    {
+      "word": "Y moró Aser entre los cananeos que habitaban en la tierra; pues no los arrojó.",
+      "verse": 32,
+      "start_ms": 269717,
+      "end_ms": 274754,
+      "duration_ms": 5037
+    },
+    {
+      "word": "Tampoco Neftalí arrojó a los que habitaban en Bet-semes, ni a los que habitaban en Bet-anat, sino que moró entre los cananeos que habitaban en la tierra; mas le fueron tributarios los moradores de Bet-semes y los moradores de Bet-anat.",
+      "verse": 33,
+      "start_ms": 274754,
+      "end_ms": 287566,
+      "duration_ms": 12812
+    },
+    {
+      "word": "Los amorreos acosaron a los hijos de Dan hasta el monte, y no los dejaron descender a los llanos.",
+      "verse": 34,
+      "start_ms": 287567,
+      "end_ms": 293517,
+      "duration_ms": 5950
+    },
+    {
+      "word": "Y el amorreo persistió en habitar en el monte de Heres, en Ajalón y en Saalbim; pero cuando la casa de José cobró fuerzas, lo hizo tributario.",
+      "verse": 35,
+      "start_ms": 293517,
+      "end_ms": 302379,
+      "duration_ms": 8862
+    },
+    {
+      "word": "Y el límite del amorreo fue desde la subida de Acrabim, desde Sela hacia arriba.",
+      "verse": 36,
+      "start_ms": 302379,
+      "end_ms": 307916,
+      "duration_ms": 5537
+    }
+  ]
+}

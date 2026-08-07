@@ -1,0 +1,397 @@
+{
+  "book": "RUT",
+  "chapter": 2,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 23,
+  "word_count": 32,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 102,
+      "text": "Tenía Noemí un pariente de su marido, hombre rico de la familia de Elimelec, el cual se llamaba Booz."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 102,
+      "char_end": 267,
+      "text": "Y Rut la moabita dijo a Noemí: Te ruego que me dejes ir al campo, y recogeré espigas en pos de aquel a cuyos ojos hallare gracia. Y ella le respondió: Ve, hija mía."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 267,
+      "char_end": 426,
+      "text": "Fue, pues, y llegando, espigó en el campo en pos de los segadores; y aconteció que aquella parte del campo era de Booz, el cual era de la familia de Elimelec."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 426,
+      "char_end": 550,
+      "text": "Y he aquí que Booz vino de Belén, y dijo a los segadores: Jehová sea con vosotros. Y ellos respondieron: Jehová te bendiga."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 550,
+      "char_end": 630,
+      "text": "Y Booz dijo a su criado el mayordomo de los segadores: ¿De quién es esta joven?"
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 630,
+      "char_end": 753,
+      "text": "Y el criado, mayordomo de los segadores, respondió y dijo: Es la joven moabita que volvió con Noemí de los campos de Moab;"
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 753,
+      "char_end": 933,
+      "text": "y ha dicho: Te ruego que me dejes recoger y juntar tras los segadores entre las gavillas. Entró, pues, y está desde por la mañana hasta ahora, sin descansar ni aun por un momento."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 933,
+      "char_end": 1061,
+      "text": "Entonces Booz dijo a Rut: Oye, hija mía, no vayas a espigar a otro campo, ni pases de aquí; y aquí estarás junto a mis criadas."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1061,
+      "char_end": 1238,
+      "text": "Mira bien el campo que sieguen, y síguelas; porque yo he mandado a los criados que no te molesten. Y cuando tengas sed, ve a las vasijas, y bebe del agua que sacan los criados."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1238,
+      "char_end": 1387,
+      "text": "Ella entonces bajando su rostro se inclinó a tierra, y le dijo: ¿Por qué he hallado gracia en tus ojos para que me reconozcas, siendo yo extranjera?"
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1387,
+      "char_end": 1610,
+      "text": "Y respondiendo Booz, le dijo: He sabido todo lo que has hecho con tu suegra después de la muerte de tu marido, y que dejando a tu padre y a tu madre y la tierra donde naciste, has venido a un pueblo que no conociste antes."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1610,
+      "char_end": 1744,
+      "text": "Jehová recompense tu obra, y tu remuneración sea cumplida de parte de Jehová Dios de Israel, bajo cuyas alas has venido a refugiarte."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1744,
+      "char_end": 1918,
+      "text": "Y ella dijo: Señor mío, halle yo gracia delante de tus ojos; porque me has consolado, y porque has hablado al corazón de tu sierva, aunque no soy ni como una de tus criadas."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1918,
+      "char_end": 2114,
+      "text": "Y Booz le dijo a la hora de comer: Ven aquí, y come del pan, y moja tu bocado en el vinagre. Y ella se sentó junto a los segadores, y él le dio del potaje, y comió hasta que se sació, y le sobró."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2114,
+      "char_end": 2251,
+      "text": "Luego se levantó para espigar. Y Booz mandó a sus criados, diciendo: Que recoja también espigas entre las gavillas, y no la avergoncéis;"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2251,
+      "char_end": 2360,
+      "text": "y dejaréis también caer para ella algo de los manojos, y lo dejaréis para que lo recoja, y no la reprendáis."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2360,
+      "char_end": 2465,
+      "text": "Espigó, pues, en el campo hasta la noche, y desgranó lo que había recogido, y fue como un efa de cebada."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2465,
+      "char_end": 2627,
+      "text": "Y lo tomó, y se fue a la ciudad; y su suegra vio lo que había recogido. Sacó también luego lo que le había sobrado después de haber quedado saciada, y se lo dio."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2627,
+      "char_end": 2850,
+      "text": "Y le dijo su suegra: ¿Dónde has espigado hoy? ¿y dónde has trabajado? Bendito sea el que te ha reconocido. Y contó ella a su suegra con quién había trabajado, y dijo: El nombre del varón con quien hoy he trabajado es Booz."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2850,
+      "char_end": 3083,
+      "text": "Y dijo Noemí a su nuera: Sea él bendito de Jehová, pues que no ha rehusado a los vivos la benevolencia que tuvo para con los que han muerto. Después le dijo Noemí: Nuestro pariente es aquel varón, y uno de los que pueden redimirnos."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 3083,
+      "char_end": 3198,
+      "text": "Y Rut la moabita dijo: Además de esto me ha dicho: Júntate con mis criadas, hasta que hayan acabado toda mi siega."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3198,
+      "char_end": 3318,
+      "text": "Y Noemí respondió a Rut su nuera: Mejor es, hija mía, que salgas con sus criadas, y que no te encuentren en otro campo."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3318,
+      "char_end": 3453,
+      "text": "Estuvo, pues, junto con las criadas de Booz espigando, hasta que se acabó la siega de la cebada y la del trigo; y vivía con su suegra."
+    }
+  ],
+  "words": [
+    {
+      "word": "Tenía Noemí un pariente de su marido, hombre rico de la familia de Elimelec, el cual se llamaba Booz.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6912,
+      "duration_ms": 6812
+    },
+    {
+      "word": "Y Rut la moabita dijo a Noemí: Te ruego que me dejes ir al campo, y recogeré espigas en pos de aquel a cuyos ojos hallare gracia.",
+      "verse": 2,
+      "start_ms": 6862,
+      "end_ms": 14849,
+      "duration_ms": 7987
+    },
+    {
+      "word": "Y ella le respondió: Ve, hija mía.",
+      "verse": 2,
+      "start_ms": 14850,
+      "end_ms": 18212,
+      "duration_ms": 3362
+    },
+    {
+      "word": "Fue, pues, y llegando, espigó en el campo en pos de los segadores; y aconteció que aquella parte del campo era de Booz, el cual era de la familia de Elimelec.",
+      "verse": 3,
+      "start_ms": 18212,
+      "end_ms": 28674,
+      "duration_ms": 10462
+    },
+    {
+      "word": "Y he aquí que Booz vino de Belén, y dijo a los segadores: Jehová sea con vosotros.",
+      "verse": 4,
+      "start_ms": 28675,
+      "end_ms": 34475,
+      "duration_ms": 5800
+    },
+    {
+      "word": "Y ellos respondieron: Jehová te bendiga.",
+      "verse": 4,
+      "start_ms": 34475,
+      "end_ms": 37800,
+      "duration_ms": 3325
+    },
+    {
+      "word": "Y Booz dijo a su criado el mayordomo de los segadores: ¿De quién es esta joven?",
+      "verse": 5,
+      "start_ms": 37800,
+      "end_ms": 43025,
+      "duration_ms": 5225
+    },
+    {
+      "word": "Y el criado, mayordomo de los segadores, respondió y dijo: Es la joven moabita que volvió con Noemí de los campos de Moab; y ha dicho: Te ruego que me dejes recoger y juntar tras los segadores entre las gavillas.",
+      "verse": 6,
+      "start_ms": 43025,
+      "end_ms": 56000,
+      "duration_ms": 12975
+    },
+    {
+      "word": "Entró, pues, y está desde por la mañana hasta ahora, sin descansar ni aun por un momento.",
+      "verse": 7,
+      "start_ms": 56000,
+      "end_ms": 62400,
+      "duration_ms": 6400
+    },
+    {
+      "word": "Entonces Booz dijo a Rut: Oye, hija mía, no vayas a espigar a otro campo, ni pases de aquí; y aquí estarás junto a mis criadas.",
+      "verse": 8,
+      "start_ms": 62400,
+      "end_ms": 71162,
+      "duration_ms": 8762
+    },
+    {
+      "word": "Mira bien el campo que sieguen, y síguelas; porque yo he mandado a los criados que no te molesten.",
+      "verse": 9,
+      "start_ms": 71162,
+      "end_ms": 77624,
+      "duration_ms": 6462
+    },
+    {
+      "word": "Y cuando tengas sed, ve a las vasijas, y bebe del agua que sacan los criados.",
+      "verse": 9,
+      "start_ms": 77625,
+      "end_ms": 83137,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Ella entonces bajando su rostro se inclinó a tierra, y le dijo: ¿Por qué he hallado gracia en tus ojos para que me reconozcas, siendo yo extranjera?",
+      "verse": 10,
+      "start_ms": 83137,
+      "end_ms": 92499,
+      "duration_ms": 9362
+    },
+    {
+      "word": "Y respondiendo Booz, le dijo: He sabido todo lo que has hecho con tu suegra después de la muerte de tu marido, y que dejando a tu padre y a tu madre y la tierra donde naciste, has venido a un pueblo que no conociste antes.",
+      "verse": 11,
+      "start_ms": 92500,
+      "end_ms": 105362,
+      "duration_ms": 12862
+    },
+    {
+      "word": "Jehová recompense tu obra, y tu remuneración sea cumplida de parte de Jehová Dios de Israel, bajo cuyas alas has venido a refugiarte.",
+      "verse": 12,
+      "start_ms": 105362,
+      "end_ms": 113787,
+      "duration_ms": 8425
+    },
+    {
+      "word": "Y ella dijo: Señor mío, halle yo gracia delante de tus ojos; porque me has consolado, y porque has hablado al corazón de tu sierva, aunque no soy ni como una de tus criadas.",
+      "verse": 13,
+      "start_ms": 113787,
+      "end_ms": 125074,
+      "duration_ms": 11287
+    },
+    {
+      "word": "Y Booz le dijo a la hora de comer: Ven aquí, y come del pan, y moja tu bocado en el vinagre.",
+      "verse": 14,
+      "start_ms": 125075,
+      "end_ms": 131575,
+      "duration_ms": 6500
+    },
+    {
+      "word": "Y ella se sentó junto a los segadores, y él le dio del potaje, y comió hasta que se sació, y le sobró.",
+      "verse": 14,
+      "start_ms": 131575,
+      "end_ms": 138312,
+      "duration_ms": 6737
+    },
+    {
+      "word": "Luego se levantó para espigar.",
+      "verse": 15,
+      "start_ms": 138312,
+      "end_ms": 140849,
+      "duration_ms": 2537
+    },
+    {
+      "word": "Y Booz mandó a sus criados, diciendo: Que recoja también espigas entre las gavillas, y no la avergoncéis; y dejaréis también caer para ella algo de los manojos, y lo dejaréis para que lo recoja, y no la reprendáis.",
+      "verse": 15,
+      "start_ms": 140850,
+      "end_ms": 154562,
+      "duration_ms": 13712
+    },
+    {
+      "word": "Espigó, pues, en el campo hasta la noche, y desgranó lo que había recogido, y fue como un efa de cebada.",
+      "verse": 17,
+      "start_ms": 154562,
+      "end_ms": 161912,
+      "duration_ms": 7350
+    },
+    {
+      "word": "Y lo tomó, y se fue a la ciudad; y su suegra vio lo que había recogido.",
+      "verse": 18,
+      "start_ms": 161912,
+      "end_ms": 166974,
+      "duration_ms": 5062
+    },
+    {
+      "word": "Sacó también luego lo que le había sobrado después de haber quedado saciada, y se lo dio.",
+      "verse": 18,
+      "start_ms": 166975,
+      "end_ms": 172237,
+      "duration_ms": 5262
+    },
+    {
+      "word": "Y le dijo su suegra: ¿Dónde has espigado hoy?",
+      "verse": 19,
+      "start_ms": 172237,
+      "end_ms": 175787,
+      "duration_ms": 3550
+    },
+    {
+      "word": "y dónde has trabajado?",
+      "verse": 19,
+      "start_ms": 175787,
+      "end_ms": 177949,
+      "duration_ms": 2162
+    },
+    {
+      "word": "Bendito sea el que te ha reconocido.",
+      "verse": 19,
+      "start_ms": 177950,
+      "end_ms": 181037,
+      "duration_ms": 3087
+    },
+    {
+      "word": "Y contó ella a su suegra con quién había trabajado, y dijo: El nombre del varón con quien hoy he trabajado es Booz.",
+      "verse": 19,
+      "start_ms": 181037,
+      "end_ms": 188187,
+      "duration_ms": 7150
+    },
+    {
+      "word": "Y dijo Noemí a su nuera: Sea él bendito de Jehová, pues que no ha rehusado a los vivos la benevolencia que tuvo para con los que han muerto.",
+      "verse": 20,
+      "start_ms": 188187,
+      "end_ms": 196162,
+      "duration_ms": 7975
+    },
+    {
+      "word": "Después le dijo Noemí: Nuestro pariente es aquel varón, y uno de los que pueden redimirnos.",
+      "verse": 20,
+      "start_ms": 196162,
+      "end_ms": 202312,
+      "duration_ms": 6150
+    },
+    {
+      "word": "Y Rut la moabita dijo: Además de esto me ha dicho: Júntate con mis criadas, hasta que hayan acabado toda mi siega.",
+      "verse": 21,
+      "start_ms": 202312,
+      "end_ms": 210174,
+      "duration_ms": 7862
+    },
+    {
+      "word": "Y Noemí respondió a Rut su nuera: Mejor es, hija mía, que salgas con sus criadas, y que no te encuentren en otro campo.",
+      "verse": 22,
+      "start_ms": 210175,
+      "end_ms": 218237,
+      "duration_ms": 8062
+    },
+    {
+      "word": "Estuvo, pues, junto con las criadas de Booz espigando, hasta que se acabó la siega de la cebada y la del trigo; y vivía con su suegra.",
+      "verse": 23,
+      "start_ms": 218237,
+      "end_ms": 226774,
+      "duration_ms": 8537
+    }
+  ]
+}

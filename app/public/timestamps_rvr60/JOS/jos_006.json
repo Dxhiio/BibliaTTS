@@ -1,0 +1,411 @@
+{
+  "book": "JOS",
+  "chapter": 6,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 27,
+  "word_count": 30,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 100,
+      "text": "Ahora, Jericó estaba cerrada, bien cerrada, a causa de los hijos de Israel; nadie entraba ni salía."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 100,
+      "char_end": 206,
+      "text": "Mas Jehová dijo a Josué: Mira, yo he entregado en tu mano a Jericó y a su rey, con sus varones de guerra."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 206,
+      "char_end": 333,
+      "text": "Rodearéis, pues, la ciudad todos los hombres de guerra, yendo alrededor de la ciudad una vez; y esto haréis durante seis días."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 333,
+      "char_end": 504,
+      "text": "Y siete sacerdotes llevarán siete bocinas de cuernos de carnero delante del arca; y al séptimo día daréis siete vueltas a la ciudad, y los sacerdotes tocarán las bocinas."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 504,
+      "char_end": 722,
+      "text": "Y cuando toquen prolongadamente el cuerno de carnero, así que oigáis el sonido de la bocina, todo el pueblo gritará a gran voz, y el muro de la ciudad caerá; entonces subirá el pueblo, cada uno derecho hacia adelante."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 722,
+      "char_end": 893,
+      "text": "Llamando, pues, Josué hijo de Nun a los sacerdotes, les dijo: Llevad el arca del pacto, y siete sacerdotes lleven bocinas de cuerno de carnero delante del arca de Jehová."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 893,
+      "char_end": 998,
+      "text": "Y dijo al pueblo: Pasad, y rodead la ciudad; y los que están armados pasarán delante del arca de Jehová."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 998,
+      "char_end": 1210,
+      "text": "Y así que Josué hubo hablado al pueblo, los siete sacerdotes, llevando las siete bocinas de cuerno de carnero, pasaron delante del arca de Jehová, y tocaron las bocinas; y el arca del pacto de Jehová los seguía."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1210,
+      "char_end": 1367,
+      "text": "Y los hombres armados iban delante de los sacerdotes que tocaban las bocinas, y la retaguardia iba tras el arca, mientras las bocinas sonaban continuamente."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1367,
+      "char_end": 1541,
+      "text": "Y Josué mandó al pueblo, diciendo: Vosotros no gritaréis, ni se oirá vuestra voz, ni saldrá palabra de vuestra boca, hasta el día que yo os diga: Gritad; entonces gritaréis."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1541,
+      "char_end": 1678,
+      "text": "Así que él hizo que el arca de Jehová diera una vuelta alrededor de la ciudad, y volvieron luego al campamento, y allí pasaron la noche."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1678,
+      "char_end": 1752,
+      "text": "Y Josué se levantó de mañana, y los sacerdotes tomaron el arca de Jehová."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1752,
+      "char_end": 2033,
+      "text": "Y los siete sacerdotes, llevando las siete bocinas de cuerno de carnero, fueron delante del arca de Jehová, andando siempre y tocando las bocinas; y los hombres armados iban delante de ellos, y la retaguardia iba tras el arca de Jehová, mientras las bocinas tocaban continuamente."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 2033,
+      "char_end": 2156,
+      "text": "Así dieron otra vuelta a la ciudad el segundo día, y volvieron al campamento; y de esta manera hicieron durante seis días."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2156,
+      "char_end": 2331,
+      "text": "Al séptimo día se levantaron al despuntar el alba, y dieron vuelta a la ciudad de la misma manera siete veces; solamente este día dieron vuelta alrededor de ella siete veces."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2331,
+      "char_end": 2462,
+      "text": "Y cuando los sacerdotes tocaron las bocinas la séptima vez, Josué dijo al pueblo: Gritad, porque Jehová os ha entregado la ciudad."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2462,
+      "char_end": 2663,
+      "text": "Y será la ciudad anatema a Jehová, con todas las cosas que están en ella; solamente Rahab la ramera vivirá, con todos los que estén en casa con ella, por cuanto escondió a los mensajeros que enviamos."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2663,
+      "char_end": 2811,
+      "text": "Pero vosotros guardaos del anatema; ni toquéis, ni toméis alguna cosa del anatema, no sea que hagáis anatema el campamento de Israel, y lo turbéis."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2811,
+      "char_end": 2939,
+      "text": "Mas toda la plata y el oro, y los utensilios de bronce y de hierro, sean consagrados a Jehová, y entren en el tesoro de Jehová."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2939,
+      "char_end": 3199,
+      "text": "Entonces el pueblo gritó, y los sacerdotes tocaron las bocinas; y aconteció que cuando el pueblo hubo oído el sonido de la bocina, gritó con gran vocerío, y el muro se derrumbó. El pueblo subió luego a la ciudad, cada uno derecho hacia adelante, y la tomaron."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 3199,
+      "char_end": 3342,
+      "text": "Y destruyeron a filo de espada todo lo que en la ciudad había; hombres y mujeres, jóvenes y viejos, hasta los bueyes, las ovejas, y los asnos."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3342,
+      "char_end": 3523,
+      "text": "Mas Josué dijo a los dos hombres que habían reconocido la tierra: Entrad en casa de la mujer ramera, y haced salir de allí a la mujer y a todo lo que fuere suyo, como lo jurasteis."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3523,
+      "char_end": 3713,
+      "text": "Y los espías entraron y sacaron a Rahab, a su padre, a su madre, a sus hermanos y todo lo que era suyo; y también sacaron a toda su parentela, y los pusieron fuera del campamento de Israel."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3713,
+      "char_end": 3889,
+      "text": "Y consumieron con fuego la ciudad, y todo lo que en ella había; solamente pusieron en el tesoro de la casa de Jehová la plata y el oro, y los utensilios de bronce y de hierro."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3889,
+      "char_end": 4114,
+      "text": "Mas Josué salvó la vida a Rahab la ramera, y a la casa de su padre, y a todo lo que ella tenía; y habitó ella entre los israelitas hasta hoy, por cuanto escondió a los mensajeros que Josué había enviado a reconocer a Jericó."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 4114,
+      "char_end": 4347,
+      "text": "En aquel tiempo hizo Josué un juramento, diciendo: Maldito delante de Jehová el hombre que se levantare y reedificare esta ciudad de Jericó. Sobre su primogénito eche los cimientos de ella, y sobre su hijo menor asiente sus puertas."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 4347,
+      "char_end": 4422,
+      "text": "Estaba, pues, Jehová con Josué, y su nombre se divulgó por toda la tierra."
+    }
+  ],
+  "words": [
+    {
+      "word": "Ahora, Jericó estaba cerrada, bien cerrada, a causa de los hijos de Israel; nadie entraba ni salía.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7462,
+      "duration_ms": 7362
+    },
+    {
+      "word": "Mas Jehová dijo a Josué: Mira, yo he entregado en tu mano a Jericó y a su rey, con sus varones de guerra.",
+      "verse": 2,
+      "start_ms": 7412,
+      "end_ms": 14512,
+      "duration_ms": 7100
+    },
+    {
+      "word": "Rodearéis, pues, la ciudad todos los hombres de guerra, yendo alrededor de la ciudad una vez; y esto haréis durante seis días.",
+      "verse": 3,
+      "start_ms": 14512,
+      "end_ms": 23012,
+      "duration_ms": 8500
+    },
+    {
+      "word": "Y siete sacerdotes llevarán siete bocinas de cuernos de carnero delante del arca; y al séptimo día daréis siete vueltas a la ciudad, y los sacerdotes tocarán las bocinas.",
+      "verse": 4,
+      "start_ms": 23012,
+      "end_ms": 33274,
+      "duration_ms": 10262
+    },
+    {
+      "word": "Y cuando toquen prolongadamente el cuerno de carnero, así que oigáis el sonido de la bocina, todo el pueblo gritará a gran voz, y el muro de la ciudad caerá; entonces subirá el pueblo, cada uno derecho hacia adelante.",
+      "verse": 5,
+      "start_ms": 33275,
+      "end_ms": 46587,
+      "duration_ms": 13312
+    },
+    {
+      "word": "Llamando, pues, Josué hijo de Nun a los sacerdotes, les dijo: Llevad el arca del pacto, y siete sacerdotes lleven bocinas de cuerno de carnero delante del arca de Jehová.",
+      "verse": 6,
+      "start_ms": 46587,
+      "end_ms": 57687,
+      "duration_ms": 11100
+    },
+    {
+      "word": "Y dijo al pueblo: Pasad, y rodead la ciudad; y los que están armados pasarán delante del arca de Jehová.",
+      "verse": 7,
+      "start_ms": 57687,
+      "end_ms": 64712,
+      "duration_ms": 7025
+    },
+    {
+      "word": "Y así que Josué hubo hablado al pueblo, los siete sacerdotes, llevando las siete bocinas de cuerno de carnero, pasaron delante del arca de Jehová, y tocaron las bocinas; y el arca del pacto de Jehová los seguía.",
+      "verse": 8,
+      "start_ms": 64712,
+      "end_ms": 77549,
+      "duration_ms": 12837
+    },
+    {
+      "word": "Y los hombres armados iban delante de los sacerdotes que tocaban las bocinas, y la retaguardia iba tras el arca, mientras las bocinas sonaban continuamente.",
+      "verse": 9,
+      "start_ms": 77550,
+      "end_ms": 86775,
+      "duration_ms": 9225
+    },
+    {
+      "word": "Y Josué mandó al pueblo, diciendo: Vosotros no gritaréis, ni se oirá vuestra voz, ni saldrá palabra de vuestra boca, hasta el día que yo os diga: Gritad; entonces gritaréis.",
+      "verse": 10,
+      "start_ms": 86775,
+      "end_ms": 98475,
+      "duration_ms": 11700
+    },
+    {
+      "word": "Así que él hizo que el arca de Jehová diera una vuelta alrededor de la ciudad, y volvieron luego al campamento, y allí pasaron la noche.",
+      "verse": 11,
+      "start_ms": 98475,
+      "end_ms": 106712,
+      "duration_ms": 8237
+    },
+    {
+      "word": "Y Josué se levantó de mañana, y los sacerdotes tomaron el arca de Jehová.",
+      "verse": 12,
+      "start_ms": 106712,
+      "end_ms": 111674,
+      "duration_ms": 4962
+    },
+    {
+      "word": "Y los siete sacerdotes, llevando las siete bocinas de cuerno de carnero, fueron delante del arca de Jehová, andando siempre y tocando las bocinas; y los hombres armados iban delante de ellos, y la retaguardia iba tras el arca de Jehová, mientras las bocinas tocaban continuamente.",
+      "verse": 13,
+      "start_ms": 111675,
+      "end_ms": 128425,
+      "duration_ms": 16750
+    },
+    {
+      "word": "Así dieron otra vuelta a la ciudad el segundo día, y volvieron al campamento; y de esta manera hicieron durante seis días.",
+      "verse": 14,
+      "start_ms": 128425,
+      "end_ms": 136137,
+      "duration_ms": 7712
+    },
+    {
+      "word": "Al séptimo día se levantaron al despuntar el alba, y dieron vuelta a la ciudad de la misma manera siete veces; solamente este día dieron vuelta alrededor de ella siete veces.",
+      "verse": 15,
+      "start_ms": 136137,
+      "end_ms": 146699,
+      "duration_ms": 10562
+    },
+    {
+      "word": "Y cuando los sacerdotes tocaron las bocinas la séptima vez, Josué dijo al pueblo: Gritad, porque Jehová os ha entregado la ciudad.",
+      "verse": 16,
+      "start_ms": 146700,
+      "end_ms": 155187,
+      "duration_ms": 8487
+    },
+    {
+      "word": "Y será la ciudad anatema a Jehová, con todas las cosas que están en ella; solamente Rahab la ramera vivirá, con todos los que estén en casa con ella, por cuanto escondió a los mensajeros que enviamos.",
+      "verse": 17,
+      "start_ms": 155187,
+      "end_ms": 166962,
+      "duration_ms": 11775
+    },
+    {
+      "word": "Pero vosotros guardaos del anatema; ni toquéis, ni toméis alguna cosa del anatema, no sea que hagáis anatema el campamento de Israel, y lo turbéis.",
+      "verse": 18,
+      "start_ms": 166962,
+      "end_ms": 176412,
+      "duration_ms": 9450
+    },
+    {
+      "word": "Mas toda la plata y el oro, y los utensilios de bronce y de hierro, sean consagrados a Jehová, y entren en el tesoro de Jehová.",
+      "verse": 19,
+      "start_ms": 176412,
+      "end_ms": 184762,
+      "duration_ms": 8350
+    },
+    {
+      "word": "Entonces el pueblo gritó, y los sacerdotes tocaron las bocinas; y aconteció que cuando el pueblo hubo oído el sonido de la bocina, gritó con gran vocerío, y el muro se derrumbó.",
+      "verse": 20,
+      "start_ms": 184762,
+      "end_ms": 195949,
+      "duration_ms": 11187
+    },
+    {
+      "word": "El pueblo subió luego a la ciudad, cada uno derecho hacia adelante, y la tomaron.",
+      "verse": 20,
+      "start_ms": 195950,
+      "end_ms": 201675,
+      "duration_ms": 5725
+    },
+    {
+      "word": "Y destruyeron a filo de espada todo lo que en la ciudad había; hombres y mujeres, jóvenes y viejos, hasta los bueyes, las ovejas, y los asnos.",
+      "verse": 21,
+      "start_ms": 201675,
+      "end_ms": 211137,
+      "duration_ms": 9462
+    },
+    {
+      "word": "Mas Josué dijo a los dos hombres que habían reconocido la tierra: Entrad en casa de la mujer ramera, y haced salir de allí a la mujer y a todo lo que fuere suyo, como lo jurasteis.",
+      "verse": 22,
+      "start_ms": 211137,
+      "end_ms": 221812,
+      "duration_ms": 10675
+    },
+    {
+      "word": "Y los espías entraron y sacaron a Rahab, a su padre, a su madre, a sus hermanos y todo lo que era suyo; y también sacaron a toda su parentela, y los pusieron fuera del campamento de Israel.",
+      "verse": 23,
+      "start_ms": 221812,
+      "end_ms": 233712,
+      "duration_ms": 11900
+    },
+    {
+      "word": "Y consumieron con fuego la ciudad, y todo lo que en ella había; solamente pusieron en el tesoro de la casa de Jehová la plata y el oro, y los utensilios de bronce y de hierro.",
+      "verse": 24,
+      "start_ms": 233712,
+      "end_ms": 244212,
+      "duration_ms": 10500
+    },
+    {
+      "word": "Mas Josué salvó la vida a Rahab la ramera, y a la casa de su padre, y a todo lo que ella tenía; y habitó ella entre los",
+      "verse": 25,
+      "start_ms": 244212,
+      "end_ms": 252262,
+      "duration_ms": 8050
+    },
+    {
+      "word": "israelitas hasta hoy, por cuanto escondió a los mensajeros que Josué había enviado a reconocer a Jericó.",
+      "verse": 25,
+      "start_ms": 252412,
+      "end_ms": 258899,
+      "duration_ms": 6487
+    },
+    {
+      "word": "En aquel tiempo hizo Josué un juramento, diciendo: Maldito delante de Jehová el hombre que se levantare y reedificare esta ciudad de Jericó.",
+      "verse": 26,
+      "start_ms": 258849,
+      "end_ms": 267511,
+      "duration_ms": 8662
+    },
+    {
+      "word": "Sobre su primogénito eche los cimientos de ella, y sobre su hijo menor asiente sus puertas.",
+      "verse": 26,
+      "start_ms": 267512,
+      "end_ms": 273537,
+      "duration_ms": 6025
+    },
+    {
+      "word": "Estaba, pues, Jehová con Josué, y su nombre se divulgó por toda la tierra.",
+      "verse": 27,
+      "start_ms": 273537,
+      "end_ms": 279149,
+      "duration_ms": 5612
+    }
+  ]
+}

@@ -1,0 +1,908 @@
+{
+  "book": "DEU",
+  "chapter": 28,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 68,
+  "word_count": 60,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 215,
+      "text": "Acontecerá que si oyeres atentamente la voz de Jehová tu Dios, para guardar y poner por obra todos sus mandamientos que yo te prescribo hoy, también Jehová tu Dios te exaltará sobre todas las naciones de la tierra."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 215,
+      "char_end": 312,
+      "text": "Y vendrán sobre ti todas estas bendiciones, y te alcanzarán, si oyeres la voz de Jehová tu Dios."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 312,
+      "char_end": 369,
+      "text": "Bendito serás tú en la ciudad, y bendito tú en el campo."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 369,
+      "char_end": 499,
+      "text": "Bendito el fruto de tu vientre, el fruto de tu tierra, el fruto de tus bestias, la cría de tus vacas y los rebaños de tus ovejas."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 499,
+      "char_end": 548,
+      "text": "Benditas serán tu canasta y tu artesa de amasar."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 548,
+      "char_end": 599,
+      "text": "Bendito serás en tu entrar, y bendito en tu salir."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 599,
+      "char_end": 738,
+      "text": "Jehová derrotará a tus enemigos que se levantaren contra ti; por un camino saldrán contra ti, y por siete caminos huirán de delante de ti."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 738,
+      "char_end": 889,
+      "text": "Jehová te enviará su bendición sobre tus graneros, y sobre todo aquello en que pusieres tu mano; y te bendecirá en la tierra que Jehová tu Dios te da."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 889,
+      "char_end": 1037,
+      "text": "Te confirmará Jehová por pueblo santo suyo, como te lo ha jurado, cuando guardares los mandamientos de Jehová tu Dios, y anduvieres en sus caminos."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1037,
+      "char_end": 1136,
+      "text": "Y verán todos los pueblos de la tierra que el nombre de Jehová es invocado sobre ti, y te temerán."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1136,
+      "char_end": 1319,
+      "text": "Y te hará Jehová sobreabundar en bienes, en el fruto de tu vientre, en el fruto de tu bestia, y en el fruto de tu tierra, en el país que Jehová juró a tus padres que te había de dar."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1319,
+      "char_end": 1507,
+      "text": "Te abrirá Jehová su buen tesoro, el cielo, para enviar la lluvia a tu tierra en su tiempo, y para bendecir toda obra de tus manos. Y prestarás a muchas naciones, y tú no pedirás prestado."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1507,
+      "char_end": 1705,
+      "text": "Te pondrá Jehová por cabeza, y no por cola; y estarás encima solamente, y no estarás debajo, si obedecieres los mandamientos de Jehová tu Dios, que yo te ordeno hoy, para que los guardes y cumplas,"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1705,
+      "char_end": 1886,
+      "text": "y si no te apartares de todas las palabras que yo te mando hoy, ni a diestra ni a siniestra, para ir tras dioses ajenos y servirles. Consecuencias de la desobediencia (Lv 26.14–46)"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1886,
+      "char_end": 2088,
+      "text": "Pero acontecerá, si no oyeres la voz de Jehová tu Dios, para procurar cumplir todos sus mandamientos y sus estatutos que yo te intimo hoy, que vendrán sobre ti todas estas maldiciones, y te alcanzarán."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2088,
+      "char_end": 2142,
+      "text": "Maldito serás tú en la ciudad, y maldito en el campo."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2142,
+      "char_end": 2185,
+      "text": "Maldita tu canasta, y tu artesa de amasar."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2185,
+      "char_end": 2291,
+      "text": "Maldito el fruto de tu vientre, el fruto de tu tierra, la cría de tus vacas, y los rebaños de tus ovejas."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2291,
+      "char_end": 2342,
+      "text": "Maldito serás en tu entrar, y maldito en tu salir."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2342,
+      "char_end": 2555,
+      "text": "Y Jehová enviará contra ti la maldición, quebranto y asombro en todo cuanto pusieres mano e hicieres, hasta que seas destruido, y perezcas pronto a causa de la maldad de tus obras por las cuales me habrás dejado."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2555,
+      "char_end": 2669,
+      "text": "Jehová traerá sobre ti mortandad, hasta que te consuma de la tierra a la cual entras para tomar posesión de ella."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2669,
+      "char_end": 2821,
+      "text": "Jehová te herirá de tisis, de fiebre, de inflamación y de ardor, con sequía, con calamidad repentina y con añublo; y te perseguirán hasta que perezcas."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2821,
+      "char_end": 2923,
+      "text": "Y los cielos que están sobre tu cabeza serán de bronce, y la tierra que está debajo de ti, de hierro."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2923,
+      "char_end": 3029,
+      "text": "Dará Jehová por lluvia a tu tierra polvo y ceniza; de los cielos descenderán sobre ti hasta que perezcas."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3029,
+      "char_end": 3215,
+      "text": "Jehová te entregará derrotado delante de tus enemigos; por un camino saldrás contra ellos, y por siete caminos huirás delante de ellos; y serás vejado por todos los reinos de la tierra."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3215,
+      "char_end": 3323,
+      "text": "Y tus cadáveres servirán de comida a toda ave del cielo y fiera de la tierra, y no habrá quien las espante."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3323,
+      "char_end": 3432,
+      "text": "Jehová te herirá con la úlcera de Egipto, con tumores, con sarna, y con comezón de que no puedas ser curado."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3432,
+      "char_end": 3494,
+      "text": "Jehová te herirá con locura, ceguera y turbación de espíritu;"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3494,
+      "char_end": 3668,
+      "text": "y palparás a mediodía como palpa el ciego en la oscuridad, y no serás prosperado en tus caminos; y no serás sino oprimido y robado todos los días, y no habrá quien te salve."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3668,
+      "char_end": 3802,
+      "text": "Te desposarás con mujer, y otro varón dormirá con ella; edificarás casa, y no habitarás en ella; plantarás viña, y no la disfrutarás."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3802,
+      "char_end": 4005,
+      "text": "Tu buey será matado delante de tus ojos, y tú no comerás de él; tu asno será arrebatado de delante de ti, y no te será devuelto; tus ovejas serán dadas a tus enemigos, y no tendrás quien te las rescate."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4005,
+      "char_end": 4149,
+      "text": "Tus hijos y tus hijas serán entregados a otro pueblo, y tus ojos lo verán, y desfallecerán por ellos todo el día; y no habrá fuerza en tu mano."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4149,
+      "char_end": 4279,
+      "text": "El fruto de tu tierra y de todo tu trabajo comerá pueblo que no conociste; y no serás sino oprimido y quebrantado todos los días."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4279,
+      "char_end": 4332,
+      "text": "Y enloquecerás a causa de lo que verás con tus ojos."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4332,
+      "char_end": 4476,
+      "text": "Te herirá Jehová con maligna pústula en las rodillas y en las piernas, desde la planta de tu pie hasta tu coronilla, sin que puedas ser curado."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4476,
+      "char_end": 4642,
+      "text": "Jehová te llevará a ti, y al rey que hubieres puesto sobre ti, a nación que no conociste ni tú ni tus padres; y allá servirás a dioses ajenos, al palo y a la piedra."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4642,
+      "char_end": 4752,
+      "text": "Y serás motivo de horror, y servirás de refrán y de burla a todos los pueblos a los cuales te llevará Jehová."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4752,
+      "char_end": 4835,
+      "text": "Sacarás mucha semilla al campo, y recogerás poco, porque la langosta lo consumirá."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4835,
+      "char_end": 4936,
+      "text": "Plantarás viñas y labrarás, pero no beberás vino, ni recogerás uvas, porque el gusano se las comerá."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4936,
+      "char_end": 5036,
+      "text": "Tendrás olivos en todo tu territorio, mas no te ungirás con el aceite, porque tu aceituna se caerá."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 5036,
+      "char_end": 5110,
+      "text": "Hijos e hijas engendrarás, y no serán para ti, porque irán en cautiverio."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 5110,
+      "char_end": 5185,
+      "text": "Toda tu arboleda y el fruto de tu tierra serán consumidos por la langosta."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 5185,
+      "char_end": 5283,
+      "text": "El extranjero que estará en medio de ti se elevará sobre ti muy alto, y tú descenderás muy abajo."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 5283,
+      "char_end": 5372,
+      "text": "Él te prestará a ti, y tú no le prestarás a él; él será por cabeza, y tú serás por cola."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 5372,
+      "char_end": 5592,
+      "text": "Y vendrán sobre ti todas estas maldiciones, y te perseguirán, y te alcanzarán hasta que perezcas; por cuanto no habrás atendido a la voz de Jehová tu Dios, para guardar sus mandamientos y sus estatutos, que él te mandó;"
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 5592,
+      "char_end": 5668,
+      "text": "y serán en ti por señal y por maravilla, y en tu descendencia para siempre."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 5668,
+      "char_end": 5781,
+      "text": "Por cuanto no serviste a Jehová tu Dios con alegría y con gozo de corazón, por la abundancia de todas las cosas,"
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 5781,
+      "char_end": 5978,
+      "text": "servirás, por tanto, a tus enemigos que enviare Jehová contra ti, con hambre y con sed y con desnudez, y con falta de todas las cosas; y él pondrá yugo de hierro sobre tu cuello, hasta destruirte."
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 5978,
+      "char_end": 6105,
+      "text": "Jehová traerá contra ti una nación de lejos, del extremo de la tierra, que vuele como águila, nación cuya lengua no entiendas;"
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 6105,
+      "char_end": 6184,
+      "text": "gente fiera de rostro, que no tendrá respeto al anciano, ni perdonará al niño;"
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 6184,
+      "char_end": 6376,
+      "text": "y comerá el fruto de tu bestia y el fruto de tu tierra, hasta que perezcas; y no te dejará grano, ni mosto, ni aceite, ni la cría de tus vacas, ni los rebaños de tus ovejas, hasta destruirte."
+    },
+    {
+      "verse": 52,
+      "label": "52",
+      "char_start": 6376,
+      "char_end": 6584,
+      "text": "Pondrá sitio a todas tus ciudades, hasta que caigan tus muros altos y fortificados en que tú confías, en toda tu tierra; sitiará, pues, todas tus ciudades y toda la tierra que Jehová tu Dios te hubiere dado."
+    },
+    {
+      "verse": 53,
+      "label": "53",
+      "char_start": 6584,
+      "char_end": 6742,
+      "text": "Y comerás el fruto de tu vientre, la carne de tus hijos y de tus hijas que Jehová tu Dios te dio, en el sitio y en el apuro con que te angustiará tu enemigo."
+    },
+    {
+      "verse": 54,
+      "label": "54",
+      "char_start": 6742,
+      "char_end": 6896,
+      "text": "El hombre tierno en medio de ti, y el muy delicado, mirará con malos ojos a su hermano, y a la mujer de su seno, y al resto de sus hijos que le quedaren;"
+    },
+    {
+      "verse": 55,
+      "label": "55",
+      "char_start": 6896,
+      "char_end": 7078,
+      "text": "para no dar a alguno de ellos de la carne de sus hijos, que él comiere, por no haberle quedado nada, en el asedio y en el apuro con que tu enemigo te oprimirá en todas tus ciudades."
+    },
+    {
+      "verse": 56,
+      "label": "56",
+      "char_start": 7078,
+      "char_end": 7279,
+      "text": "La tierna y la delicada entre vosotros, que nunca la planta de su pie intentaría sentar sobre la tierra, de pura delicadeza y ternura, mirará con malos ojos al marido de su seno, a su hijo, a su hija,"
+    },
+    {
+      "verse": 57,
+      "label": "57",
+      "char_start": 7279,
+      "char_end": 7484,
+      "text": "al recién nacido que sale de entre sus pies, y a sus hijos que diere a luz; pues los comerá ocultamente, por la carencia de todo, en el asedio y en el apuro con que tu enemigo te oprimirá en tus ciudades."
+    },
+    {
+      "verse": 58,
+      "label": "58",
+      "char_start": 7484,
+      "char_end": 7639,
+      "text": "Si no cuidares de poner por obra todas las palabras de esta ley que están escritas en este libro, temiendo este nombre glorioso y temible: JEHOVÁ TU DIOS,"
+    },
+    {
+      "verse": 59,
+      "label": "59",
+      "char_start": 7639,
+      "char_end": 7793,
+      "text": "entonces Jehová aumentará maravillosamente tus plagas y las plagas de tu descendencia, plagas grandes y permanentes, y enfermedades malignas y duraderas;"
+    },
+    {
+      "verse": 60,
+      "label": "60",
+      "char_start": 7793,
+      "char_end": 7886,
+      "text": "y traerá sobre ti todos los males de Egipto, delante de los cuales temiste, y no te dejarán."
+    },
+    {
+      "verse": 61,
+      "label": "61",
+      "char_start": 7886,
+      "char_end": 8023,
+      "text": "Asimismo toda enfermedad y toda plaga que no está escrita en el libro de esta ley, Jehová la enviará sobre ti, hasta que seas destruido."
+    },
+    {
+      "verse": 62,
+      "label": "62",
+      "char_start": 8023,
+      "char_end": 8172,
+      "text": "Y quedaréis pocos en número, en lugar de haber sido como las estrellas del cielo en multitud, por cuanto no obedecisteis a la voz de Jehová tu Dios."
+    },
+    {
+      "verse": 63,
+      "label": "63",
+      "char_start": 8172,
+      "char_end": 8372,
+      "text": "Así como Jehová se gozaba en haceros bien y en multiplicaros, así se gozará Jehová en arruinaros y en destruiros; y seréis arrancados de sobre la tierra a la cual entráis para tomar posesión de ella."
+    },
+    {
+      "verse": 64,
+      "label": "64",
+      "char_start": 8372,
+      "char_end": 8560,
+      "text": "Y Jehová te esparcirá por todos los pueblos, desde un extremo de la tierra hasta el otro extremo; y allí servirás a dioses ajenos que no conociste tú ni tus padres, al leño y a la piedra."
+    },
+    {
+      "verse": 65,
+      "label": "65",
+      "char_start": 8560,
+      "char_end": 8732,
+      "text": "Y ni aun entre estas naciones descansarás, ni la planta de tu pie tendrá reposo; pues allí te dará Jehová corazón temeroso, y desfallecimiento de ojos, y tristeza de alma;"
+    },
+    {
+      "verse": 66,
+      "label": "66",
+      "char_start": 8732,
+      "char_end": 8858,
+      "text": "y tendrás tu vida como algo que pende delante de ti, y estarás temeroso de noche y de día, y no tendrás seguridad de tu vida."
+    },
+    {
+      "verse": 67,
+      "label": "67",
+      "char_start": 8858,
+      "char_end": 9051,
+      "text": "Por la mañana dirás: ¡Quién diera que fuese la tarde! y a la tarde dirás: ¡Quién diera que fuese la mañana! por el miedo de tu corazón con que estarás amedrentado, y por lo que verán tus ojos."
+    },
+    {
+      "verse": 68,
+      "label": "68",
+      "char_start": 9051,
+      "char_end": 9250,
+      "text": "Y Jehová te hará volver a Egipto en naves, por el camino del cual te ha dicho: Nunca más volverás; y allí seréis vendidos a vuestros enemigos por esclavos y por esclavas, y no habrá quien os compre."
+    }
+  ],
+  "words": [
+    {
+      "word": "Acontecerá que si oyeres atentamente la voz de Jehová tu Dios, para guardar y poner por obra todos sus mandamientos que yo te prescribo hoy, también Jehová tu Dios te exaltará sobre todas las naciones de la tierra.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 11712,
+      "duration_ms": 11612
+    },
+    {
+      "word": "Y vendrán sobre ti todas estas bendiciones, y te alcanzarán, si oyeres la voz de Jehová tu Dios.",
+      "verse": 2,
+      "start_ms": 11662,
+      "end_ms": 18249,
+      "duration_ms": 6587
+    },
+    {
+      "word": "Bendito serás tú en la ciudad, y bendito tú en el campo.",
+      "verse": 3,
+      "start_ms": 18250,
+      "end_ms": 22425,
+      "duration_ms": 4175
+    },
+    {
+      "word": "Bendito el fruto de tu vientre, el fruto de tu tierra, el fruto de tus bestias, la cría de tus vacas y los rebaños de tus ovejas.",
+      "verse": 4,
+      "start_ms": 22425,
+      "end_ms": 30775,
+      "duration_ms": 8350
+    },
+    {
+      "word": "Benditas serán tu canasta y tu artesa de amasar.",
+      "verse": 5,
+      "start_ms": 30775,
+      "end_ms": 34375,
+      "duration_ms": 3600
+    },
+    {
+      "word": "Bendito serás en tu entrar, y bendito en tu salir.",
+      "verse": 6,
+      "start_ms": 34375,
+      "end_ms": 38137,
+      "duration_ms": 3762
+    },
+    {
+      "word": "Jehová derrotará a tus enemigos que se levantaren contra ti; por un camino saldrán contra ti, y por siete caminos huirán de delante de ti.",
+      "verse": 7,
+      "start_ms": 38137,
+      "end_ms": 46462,
+      "duration_ms": 8325
+    },
+    {
+      "word": "Jehová te enviará su bendición sobre tus graneros, y sobre todo aquello en que pusieres tu mano; y te bendecirá en la tierra que Jehová tu Dios te da.",
+      "verse": 8,
+      "start_ms": 46462,
+      "end_ms": 55087,
+      "duration_ms": 8625
+    },
+    {
+      "word": "Te confirmará Jehová por pueblo santo suyo, como te lo ha jurado, cuando guardares los mandamientos de Jehová tu Dios, y anduvieres en sus caminos.",
+      "verse": 9,
+      "start_ms": 55087,
+      "end_ms": 64099,
+      "duration_ms": 9012
+    },
+    {
+      "word": "Y verán todos los pueblos de la tierra que el nombre de Jehová es invocado sobre ti, y te temerán.",
+      "verse": 10,
+      "start_ms": 64100,
+      "end_ms": 70025,
+      "duration_ms": 5925
+    },
+    {
+      "word": "Y te hará Jehová sobreabundar en bienes, en el fruto de tu vientre, en el fruto de tu bestia, y en el fruto de tu tierra, en el país que Jehová juró a tus padres que te había de dar.",
+      "verse": 11,
+      "start_ms": 70025,
+      "end_ms": 80762,
+      "duration_ms": 10737
+    },
+    {
+      "word": "Te abrirá Jehová su buen tesoro, el cielo, para enviar la lluvia a tu tierra en su tiempo, y para bendecir toda obra de tus manos.",
+      "verse": 12,
+      "start_ms": 80762,
+      "end_ms": 88924,
+      "duration_ms": 8162
+    },
+    {
+      "word": "Y prestarás a muchas naciones, y tú no pedirás prestado.",
+      "verse": 12,
+      "start_ms": 88925,
+      "end_ms": 93200,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Te pondrá Jehová por cabeza, y no por cola; y estarás encima solamente, y no estarás debajo, si obedecieres los mandamientos de Jehová tu Dios, que yo te ordeno hoy, para que los guardes y cumplas, y si no te apartares de todas las palabras que yo te mando hoy, ni a diestra ni a siniestra, para ir tras dioses ajenos y servirles.",
+      "verse": 13,
+      "start_ms": 93200,
+      "end_ms": 112900,
+      "duration_ms": 19700
+    },
+    {
+      "word": "Consecuencias de la desobediencia (Lv 26.14–46) Pero acontecerá, si no oyeres la voz de Jehová tu Dios, para procurar cumplir todos sus mandamientos y sus estatutos que yo te intimo hoy, que vendrán sobre ti todas estas maldiciones, y te alcanzarán.",
+      "verse": 14,
+      "start_ms": 112900,
+      "end_ms": 130087,
+      "duration_ms": 17187
+    },
+    {
+      "word": "Maldito serás tú en la ciudad, y maldito en el campo.",
+      "verse": 16,
+      "start_ms": 130087,
+      "end_ms": 133974,
+      "duration_ms": 3887
+    },
+    {
+      "word": "Maldita tu canasta, y tu artesa de amasar.",
+      "verse": 17,
+      "start_ms": 133975,
+      "end_ms": 137675,
+      "duration_ms": 3700
+    },
+    {
+      "word": "Maldito el fruto de tu vientre, el fruto de tu tierra, la cría de tus vacas, y los rebaños de tus ovejas.",
+      "verse": 18,
+      "start_ms": 137675,
+      "end_ms": 144787,
+      "duration_ms": 7112
+    },
+    {
+      "word": "Maldito serás en tu entrar, y maldito en tu salir.",
+      "verse": 19,
+      "start_ms": 144787,
+      "end_ms": 148562,
+      "duration_ms": 3775
+    },
+    {
+      "word": "Y Jehová enviará contra ti la maldición, quebranto y asombro en todo cuanto pusieres mano e hicieres, hasta que seas destruido, y perezcas pronto a causa de la maldad de tus obras por las cuales me habrás dejado.",
+      "verse": 20,
+      "start_ms": 148562,
+      "end_ms": 160724,
+      "duration_ms": 12162
+    },
+    {
+      "word": "Jehová traerá sobre ti mortandad, hasta que te consuma de la tierra a la cual entras para tomar posesión de ella.",
+      "verse": 21,
+      "start_ms": 160725,
+      "end_ms": 167525,
+      "duration_ms": 6800
+    },
+    {
+      "word": "Jehová te herirá de tisis, de fiebre, de inflamación y de ardor, con sequía, con calamidad repentina y con añublo; y te perseguirán hasta que perezcas.",
+      "verse": 22,
+      "start_ms": 167525,
+      "end_ms": 177525,
+      "duration_ms": 10000
+    },
+    {
+      "word": "Y los cielos que están sobre tu cabeza serán de bronce, y la tierra que está debajo de ti, de hierro.",
+      "verse": 23,
+      "start_ms": 177525,
+      "end_ms": 183850,
+      "duration_ms": 6325
+    },
+    {
+      "word": "Dará Jehová por lluvia a tu tierra polvo y ceniza; de los cielos descenderán sobre ti hasta que perezcas.",
+      "verse": 24,
+      "start_ms": 183850,
+      "end_ms": 190487,
+      "duration_ms": 6637
+    },
+    {
+      "word": "Jehová te entregará derrotado delante de tus enemigos; por un camino saldrás contra ellos, y por siete caminos huirás delante de ellos; y serás vejado por todos los reinos de la tierra.",
+      "verse": 25,
+      "start_ms": 190487,
+      "end_ms": 201699,
+      "duration_ms": 11212
+    },
+    {
+      "word": "Y tus cadáveres servirán de comida a toda ave del cielo y fiera de la tierra, y no habrá quien las espante.",
+      "verse": 26,
+      "start_ms": 201700,
+      "end_ms": 208187,
+      "duration_ms": 6487
+    },
+    {
+      "word": "Jehová te herirá con la úlcera de Egipto, con tumores, con sarna, y con comezón de que no puedas ser curado.",
+      "verse": 27,
+      "start_ms": 208187,
+      "end_ms": 215487,
+      "duration_ms": 7300
+    },
+    {
+      "word": "Jehová te herirá con locura, ceguera y turbación de espíritu; y palparás a mediodía como palpa el ciego en la oscuridad, y no serás prosperado en tus caminos; y no serás sino oprimido y robado todos los días, y no habrá quien te salve.",
+      "verse": 28,
+      "start_ms": 215487,
+      "end_ms": 229699,
+      "duration_ms": 14212
+    },
+    {
+      "word": "Te desposarás con mujer, y otro varón dormirá con ella; edificarás casa, y no habitarás en ella; plantarás viña, y no la disfrutarás.",
+      "verse": 30,
+      "start_ms": 229700,
+      "end_ms": 239012,
+      "duration_ms": 9312
+    },
+    {
+      "word": "Tu buey será matado delante de tus ojos, y tú no comerás de él; tu asno será arrebatado de delante de ti, y no te será devuelto; tus ovejas serán dadas a tus enemigos, y no",
+      "verse": 31,
+      "start_ms": 239012,
+      "end_ms": 250499,
+      "duration_ms": 11487
+    },
+    {
+      "word": "tendrás quien te las rescate.",
+      "verse": 31,
+      "start_ms": 250660,
+      "end_ms": 252972,
+      "duration_ms": 2312
+    },
+    {
+      "word": "Tus hijos y tus hijas serán entregados a otro pueblo, y tus ojos lo verán, y desfallecerán por ellos todo el día; y no habrá fuerza en tu mano.",
+      "verse": 32,
+      "start_ms": 252922,
+      "end_ms": 261797,
+      "duration_ms": 8875
+    },
+    {
+      "word": "El fruto de tu tierra y de todo tu trabajo comerá pueblo que no conociste; y no serás sino oprimido y quebrantado todos los días.",
+      "verse": 33,
+      "start_ms": 261797,
+      "end_ms": 269847,
+      "duration_ms": 8050
+    },
+    {
+      "word": "Y enloquecerás a causa de lo que verás con tus ojos.",
+      "verse": 34,
+      "start_ms": 269847,
+      "end_ms": 273472,
+      "duration_ms": 3625
+    },
+    {
+      "word": "Te herirá Jehová con maligna pústula en las rodillas y en las piernas, desde la planta de tu pie hasta tu coronilla, sin que puedas ser curado.",
+      "verse": 35,
+      "start_ms": 273472,
+      "end_ms": 281609,
+      "duration_ms": 8137
+    },
+    {
+      "word": "Jehová te llevará a ti, y al rey que hubieres puesto sobre ti, a nación que no conociste ni tú ni tus padres; y allá servirás a dioses ajenos, al palo y a la piedra.",
+      "verse": 36,
+      "start_ms": 281610,
+      "end_ms": 291947,
+      "duration_ms": 10337
+    },
+    {
+      "word": "Y serás motivo de horror, y servirás de refrán y de burla a todos los pueblos a los cuales te llevará Jehová.",
+      "verse": 37,
+      "start_ms": 291947,
+      "end_ms": 298472,
+      "duration_ms": 6525
+    },
+    {
+      "word": "Sacarás mucha semilla al campo, y recogerás poco, porque la langosta lo consumirá.",
+      "verse": 38,
+      "start_ms": 298472,
+      "end_ms": 304284,
+      "duration_ms": 5812
+    },
+    {
+      "word": "Plantarás viñas y labrarás, pero no beberás vino, ni recogerás uvas, porque el gusano se las comerá.",
+      "verse": 39,
+      "start_ms": 304285,
+      "end_ms": 311335,
+      "duration_ms": 7050
+    },
+    {
+      "word": "Tendrás olivos en todo tu territorio, mas no te ungirás con el aceite, porque tu aceituna se caerá.",
+      "verse": 40,
+      "start_ms": 311335,
+      "end_ms": 317797,
+      "duration_ms": 6462
+    },
+    {
+      "word": "Hijos e hijas engendrarás, y no serán para ti, porque irán en cautiverio.",
+      "verse": 41,
+      "start_ms": 317797,
+      "end_ms": 323247,
+      "duration_ms": 5450
+    },
+    {
+      "word": "Toda tu arboleda y el fruto de tu tierra serán consumidos por la langosta.",
+      "verse": 42,
+      "start_ms": 323247,
+      "end_ms": 328059,
+      "duration_ms": 4812
+    },
+    {
+      "word": "El extranjero que estará en medio de ti se elevará sobre ti muy alto, y tú descenderás muy abajo.",
+      "verse": 43,
+      "start_ms": 328060,
+      "end_ms": 334447,
+      "duration_ms": 6387
+    },
+    {
+      "word": "Él te prestará a ti, y tú no le prestarás a él; él será por cabeza, y tú serás por cola.",
+      "verse": 44,
+      "start_ms": 334447,
+      "end_ms": 340922,
+      "duration_ms": 6475
+    },
+    {
+      "word": "Y vendrán sobre ti todas estas maldiciones, y te perseguirán, y te alcanzarán hasta que perezcas; por cuanto no habrás atendido a la voz de Jehová tu Dios, para guardar sus mandamientos y sus estatutos, que él te mandó; y serán en ti por señal y por maravilla, y en tu descendencia para siempre.",
+      "verse": 45,
+      "start_ms": 340922,
+      "end_ms": 358472,
+      "duration_ms": 17550
+    },
+    {
+      "word": "Por cuanto no serviste a Jehová tu Dios con alegría y con gozo de corazón, por la abundancia de todas las cosas, servirás, por tanto, a tus enemigos que enviare Jehová contra ti, con hambre y con sed y con desnudez, y con falta de todas las cosas; y él pondrá yugo de hierro sobre tu cuello, hasta destruirte.",
+      "verse": 47,
+      "start_ms": 358472,
+      "end_ms": 377297,
+      "duration_ms": 18825
+    },
+    {
+      "word": "Jehová traerá contra ti una nación de lejos, del extremo de la tierra, que vuele como águila, nación cuya lengua no entiendas; gente fiera de rostro, que no tendrá respeto al anciano, ni perdonará al niño; y comerá el fruto de tu bestia y el fruto de tu tierra, hasta que perezcas; y no te dejará grano, ni mosto, ni aceite, ni la cría de tus vacas, ni los rebaños de tus ovejas, hasta destruirte.",
+      "verse": 49,
+      "start_ms": 377297,
+      "end_ms": 401859,
+      "duration_ms": 24562
+    },
+    {
+      "word": "Pondrá sitio a todas tus ciudades, hasta que caigan tus muros altos y fortificados en que tú confías, en toda tu tierra; sitiará, pues, todas tus ciudades y toda la tierra que Jehová tu Dios te hubiere dado.",
+      "verse": 52,
+      "start_ms": 401860,
+      "end_ms": 414522,
+      "duration_ms": 12662
+    },
+    {
+      "word": "Y comerás el fruto de tu vientre, la carne de tus hijos y de tus hijas que Jehová tu Dios te dio, en el sitio y en el apuro con que te angustiará tu enemigo.",
+      "verse": 53,
+      "start_ms": 414522,
+      "end_ms": 423622,
+      "duration_ms": 9100
+    },
+    {
+      "word": "El hombre tierno en medio de ti, y el muy delicado, mirará con malos ojos a su hermano, y a la mujer de su seno, y al resto de sus hijos que le quedaren; para no dar a alguno de ellos de la carne de sus hijos, que él comiere, por no haberle quedado nada, en el asedio y en el apuro con que tu enemigo te oprimirá en todas tus ciudades.",
+      "verse": 54,
+      "start_ms": 423622,
+      "end_ms": 442984,
+      "duration_ms": 19362
+    },
+    {
+      "word": "La tierna y la delicada entre vosotros, que nunca la planta de su pie intentaría sentar sobre la tierra, de pura delicadeza y ternura, mirará con malos ojos al marido de su seno, a su hijo, a su hija, al recién nacido que sale de entre sus pies, y a sus hijos que diere a luz; pues los comerá ocultamente, por la carencia de todo, en el asedio y en el apuro con que tu enemigo te oprimirá en tus ciudades.",
+      "verse": 56,
+      "start_ms": 442985,
+      "end_ms": 467172,
+      "duration_ms": 24187
+    },
+    {
+      "word": "Si no cuidares de poner por obra todas las palabras de esta ley que están escritas en este libro, temiendo este nombre glorioso y temible: JEHOVÁ TU DIOS, entonces Jehová aumentará maravillosamente tus plagas y las plagas de tu descendencia, plagas grandes y permanentes, y enfermedades malignas y duraderas; y traerá sobre ti todos los males de Egipto, delante de los cuales temiste, y no te dejarán.",
+      "verse": 58,
+      "start_ms": 467172,
+      "end_ms": 490509,
+      "duration_ms": 23337
+    },
+    {
+      "word": "Asimismo toda enfermedad y toda plaga que no está escrita en el libro de esta",
+      "verse": 61,
+      "start_ms": 490510,
+      "end_ms": 495535,
+      "duration_ms": 5025
+    },
+    {
+      "word": "ley, Jehová la enviará sobre ti, hasta que seas destruido.",
+      "verse": 61,
+      "start_ms": 495700,
+      "end_ms": 500087,
+      "duration_ms": 4387
+    },
+    {
+      "word": "Y quedaréis pocos en número, en lugar de haber sido como las estrellas del cielo en multitud, por cuanto no obedecisteis a la voz de Jehová tu Dios.",
+      "verse": 62,
+      "start_ms": 500037,
+      "end_ms": 508637,
+      "duration_ms": 8600
+    },
+    {
+      "word": "Así como Jehová se gozaba en haceros bien y en multiplicaros, así se gozará Jehová en arruinaros y en destruiros; y seréis arrancados de sobre la tierra a la cual entráis para tomar posesión de ella.",
+      "verse": 63,
+      "start_ms": 508637,
+      "end_ms": 520262,
+      "duration_ms": 11625
+    },
+    {
+      "word": "Y Jehová te esparcirá por todos los pueblos, desde un extremo de la tierra hasta el otro extremo; y allí servirás a dioses ajenos que no conociste tú ni tus padres, al leño y a la piedra.",
+      "verse": 64,
+      "start_ms": 520262,
+      "end_ms": 531487,
+      "duration_ms": 11225
+    },
+    {
+      "word": "Y ni aun entre estas naciones descansarás, ni la planta de tu pie tendrá reposo; pues allí te dará Jehová corazón temeroso, y desfallecimiento de ojos, y tristeza de alma; y tendrás tu vida como algo que pende delante de ti, y estarás temeroso de noche y de día, y no tendrás seguridad de tu vida.",
+      "verse": 65,
+      "start_ms": 531487,
+      "end_ms": 549799,
+      "duration_ms": 18312
+    },
+    {
+      "word": "Por la mañana dirás: ¡Quién diera que fuese la tarde! y a la tarde dirás: ¡Quién diera que fuese la mañana! por el miedo de tu corazón con que estarás amedrentado, y por lo que verán tus ojos.",
+      "verse": 67,
+      "start_ms": 549800,
+      "end_ms": 561137,
+      "duration_ms": 11337
+    },
+    {
+      "word": "Y Jehová te hará volver a Egipto en naves, por el camino del cual te ha dicho: Nunca más volverás; y allí seréis vendidos a vuestros enemigos por esclavos y por esclavas, y no habrá quien os compre.",
+      "verse": 68,
+      "start_ms": 561137,
+      "end_ms": 572862,
+      "duration_ms": 11725
+    }
+  ]
+}

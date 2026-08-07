@@ -1,0 +1,551 @@
+{
+  "book": "JOS",
+  "chapter": 8,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 35,
+  "word_count": 42,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 195,
+      "text": "Jehová dijo a Josué: No temas ni desmayes; toma contigo toda la gente de guerra, y levántate y sube a Hai. Mira, yo he entregado en tu mano al rey de Hai, a su pueblo, a su ciudad y a su tierra."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 195,
+      "char_end": 368,
+      "text": "Y harás a Hai y a su rey como hiciste a Jericó y a su rey; sólo que sus despojos y sus bestias tomaréis para vosotros. Pondrás, pues, emboscadas a la ciudad detrás de ella."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 368,
+      "char_end": 519,
+      "text": "Entonces se levantaron Josué y toda la gente de guerra, para subir contra Hai; y escogió Josué treinta mil hombres fuertes, los cuales envió de noche."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 519,
+      "char_end": 663,
+      "text": "Y les mandó, diciendo: Atended, pondréis emboscada a la ciudad detrás de ella; no os alejaréis mucho de la ciudad, y estaréis todos dispuestos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 663,
+      "char_end": 818,
+      "text": "Y yo y todo el pueblo que está conmigo nos acercaremos a la ciudad; y cuando salgan ellos contra nosotros, como hicieron antes, huiremos delante de ellos."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 818,
+      "char_end": 973,
+      "text": "Y ellos saldrán tras nosotros, hasta que los alejemos de la ciudad; porque dirán: Huyen de nosotros como la primera vez. Huiremos, pues, delante de ellos."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 973,
+      "char_end": 1101,
+      "text": "Entonces vosotros os levantaréis de la emboscada y tomaréis la ciudad; pues Jehová vuestro Dios la entregará en vuestras manos."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1101,
+      "char_end": 1217,
+      "text": "Y cuando la hayáis tomado, le prenderéis fuego. Haréis conforme a la palabra de Jehová; mirad que os lo he mandado."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1217,
+      "char_end": 1384,
+      "text": "Entonces Josué los envió; y ellos se fueron a la emboscada, y se pusieron entre Bet-el y Hai, al occidente de Hai; y Josué se quedó aquella noche en medio del pueblo."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1384,
+      "char_end": 1513,
+      "text": "Levantándose Josué muy de mañana, pasó revista al pueblo, y subió él, con los ancianos de Israel, delante del pueblo contra Hai."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1513,
+      "char_end": 1673,
+      "text": "Y toda la gente de guerra que con él estaba, subió y se acercó, y llegaron delante de la ciudad, y acamparon al norte de Hai; y el valle estaba entre él y Hai."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1673,
+      "char_end": 1775,
+      "text": "Y tomó como cinco mil hombres, y los puso en emboscada entre Bet-el y Hai, al occidente de la ciudad."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1775,
+      "char_end": 1941,
+      "text": "Así dispusieron al pueblo: todo el campamento al norte de la ciudad, y su emboscada al occidente de la ciudad, y Josué avanzó aquella noche hasta la mitad del valle."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1941,
+      "char_end": 2201,
+      "text": "Y aconteció que viéndolo el rey de Hai, él y su pueblo se apresuraron y madrugaron; y al tiempo señalado, los hombres de la ciudad salieron al encuentro de Israel para combatir, frente al Arabá, no sabiendo que estaba puesta emboscada a espaldas de la ciudad."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2201,
+      "char_end": 2307,
+      "text": "Entonces Josué y todo Israel se fingieron vencidos y huyeron delante de ellos por el camino del desierto."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2307,
+      "char_end": 2422,
+      "text": "Y todo el pueblo que estaba en Hai se juntó para seguirles; y siguieron a Josué, siendo así alejados de la ciudad."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2422,
+      "char_end": 2541,
+      "text": "Y no quedó hombre en Hai ni en Bet-el, que no saliera tras de Israel; y por seguir a Israel dejaron la ciudad abierta."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2541,
+      "char_end": 2721,
+      "text": "Entonces Jehová dijo a Josué: Extiende la lanza que tienes en tu mano hacia Hai, porque yo la entregaré en tu mano. Y Josué extendió hacia la ciudad la lanza que en su mano tenía."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2721,
+      "char_end": 2904,
+      "text": "Y levantándose prontamente de su lugar los que estaban en la emboscada, corrieron luego que él alzó su mano, y vinieron a la ciudad, y la tomaron, y se apresuraron a prenderle fuego."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2904,
+      "char_end": 3141,
+      "text": "Y los hombres de Hai volvieron el rostro, y al mirar, he aquí que el humo de la ciudad subía al cielo, y no pudieron huir ni a una parte ni a otra, porque el pueblo que iba huyendo hacia el desierto se volvió contra los que les seguían."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 3141,
+      "char_end": 3290,
+      "text": "Josué y todo Israel, viendo que los de la emboscada habían tomado la ciudad, y que el humo de la ciudad subía, se volvieron y atacaron a los de Hai."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3290,
+      "char_end": 3496,
+      "text": "Y los otros salieron de la ciudad a su encuentro, y así fueron encerrados en medio de Israel, los unos por un lado, y los otros por el otro. Y los hirieron hasta que no quedó ninguno de ellos que escapase."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3496,
+      "char_end": 3552,
+      "text": "Pero tomaron vivo al rey de Hai, y lo trajeron a Josué."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3552,
+      "char_end": 3821,
+      "text": "Y cuando los israelitas acabaron de matar a todos los moradores de Hai en el campo y en el desierto a donde los habían perseguido, y todos habían caído a filo de espada hasta ser consumidos, todos los israelitas volvieron a Hai, y también la hirieron a filo de espada."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3821,
+      "char_end": 3917,
+      "text": "Y el número de los que cayeron aquel día, hombres y mujeres, fue de doce mil, todos los de Hai."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3917,
+      "char_end": 4050,
+      "text": "Porque Josué no retiró su mano que había extendido con la lanza, hasta que hubo destruido por completo a todos los moradores de Hai."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 4050,
+      "char_end": 4189,
+      "text": "Pero los israelitas tomaron para sí las bestias y los despojos de la ciudad, conforme a la palabra de Jehová que le había mandado a Josué."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 4189,
+      "char_end": 4279,
+      "text": "Y Josué quemó a Hai y la redujo a un montón de escombros, asolada para siempre hasta hoy."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 4279,
+      "char_end": 4558,
+      "text": "Y al rey de Hai lo colgó de un madero hasta caer la noche; y cuando el sol se puso, mandó Josué que quitasen del madero su cuerpo, y lo echasen a la puerta de la ciudad; y levantaron sobre él un gran montón de piedras, que permanece hasta hoy. Lectura de la ley en el monte Ebal"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4558,
+      "char_end": 4632,
+      "text": "Entonces Josué edificó un altar a Jehová Dios de Israel en el monte Ebal,"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4632,
+      "char_end": 4892,
+      "text": "como Moisés siervo de Jehová lo había mandado a los hijos de Israel, como está escrito en el libro de la ley de Moisés, un altar de piedras enteras sobre las cuales nadie alzó hierro; y ofrecieron sobre él holocaustos a Jehová, y sacrificaron ofrendas de paz."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4892,
+      "char_end": 5012,
+      "text": "También escribió allí sobre las piedras una copia de la ley de Moisés, la cual escribió delante de los hijos de Israel."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 5012,
+      "char_end": 5435,
+      "text": "Y todo Israel, con sus ancianos, oficiales y jueces, estaba de pie a uno y otro lado del arca, en presencia de los sacerdotes levitas que llevaban el arca del pacto de Jehová, así los extranjeros como los naturales. La mitad de ellos estaba hacia el monte Gerizim, y la otra mitad hacia el monte Ebal, de la manera que Moisés, siervo de Jehová, lo había mandado antes, para que bendijesen primeramente al pueblo de Israel."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 5435,
+      "char_end": 5581,
+      "text": "Después de esto, leyó todas las palabras de la ley, las bendiciones y las maldiciones, conforme a todo lo que está escrito en el libro de la ley."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 5581,
+      "char_end": 5780,
+      "text": "No hubo palabra alguna de todo cuanto mandó Moisés, que Josué no hiciese leer delante de toda la congregación de Israel, y de las mujeres, de los niños, y de los extranjeros que moraban entre ellos."
+    }
+  ],
+  "words": [
+    {
+      "word": "Jehová dijo a Josué: No temas ni desmayes; toma contigo toda la gente de guerra, y levántate y sube a Hai.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7737,
+      "duration_ms": 7637
+    },
+    {
+      "word": "Mira, yo he entregado en tu mano al rey de Hai, a su pueblo, a su ciudad y a su tierra.",
+      "verse": 1,
+      "start_ms": 7687,
+      "end_ms": 13737,
+      "duration_ms": 6050
+    },
+    {
+      "word": "Y harás a Hai y a su rey como hiciste a Jericó y a su rey; sólo que sus despojos y sus bestias tomaréis para vosotros.",
+      "verse": 2,
+      "start_ms": 13737,
+      "end_ms": 21137,
+      "duration_ms": 7400
+    },
+    {
+      "word": "Pondrás, pues, emboscadas a la ciudad detrás de ella.",
+      "verse": 2,
+      "start_ms": 21137,
+      "end_ms": 25574,
+      "duration_ms": 4437
+    },
+    {
+      "word": "Entonces se levantaron Josué y toda la gente de guerra, para subir contra Hai; y escogió Josué treinta mil hombres fuertes, los cuales envió de noche.",
+      "verse": 3,
+      "start_ms": 25575,
+      "end_ms": 34812,
+      "duration_ms": 9237
+    },
+    {
+      "word": "Y les mandó, diciendo: Atended, pondréis emboscada a la ciudad detrás de ella; no os alejaréis mucho de la ciudad, y estaréis todos dispuestos.",
+      "verse": 4,
+      "start_ms": 34812,
+      "end_ms": 44774,
+      "duration_ms": 9962
+    },
+    {
+      "word": "Y yo y todo el pueblo que está conmigo nos acercaremos a la ciudad; y cuando salgan ellos contra nosotros, como hicieron antes, huiremos delante de ellos.",
+      "verse": 5,
+      "start_ms": 44775,
+      "end_ms": 54125,
+      "duration_ms": 9350
+    },
+    {
+      "word": "Y ellos saldrán tras nosotros, hasta que los alejemos de la ciudad; porque dirán: Huyen de nosotros como la primera vez.",
+      "verse": 6,
+      "start_ms": 54125,
+      "end_ms": 61850,
+      "duration_ms": 7725
+    },
+    {
+      "word": "Huiremos, pues, delante de ellos.",
+      "verse": 6,
+      "start_ms": 61850,
+      "end_ms": 65412,
+      "duration_ms": 3562
+    },
+    {
+      "word": "Entonces vosotros os levantaréis de la emboscada y tomaréis la ciudad; pues Jehová vuestro Dios la entregará en vuestras manos.",
+      "verse": 7,
+      "start_ms": 65412,
+      "end_ms": 72912,
+      "duration_ms": 7500
+    },
+    {
+      "word": "Y cuando la hayáis tomado, le prenderéis fuego.",
+      "verse": 8,
+      "start_ms": 72912,
+      "end_ms": 76349,
+      "duration_ms": 3437
+    },
+    {
+      "word": "Haréis conforme a la palabra de Jehová; mirad que os lo he mandado.",
+      "verse": 8,
+      "start_ms": 76350,
+      "end_ms": 80912,
+      "duration_ms": 4562
+    },
+    {
+      "word": "Entonces Josué los envió; y ellos se fueron a la emboscada, y se pusieron entre Bet-el y Hai, al occidente de Hai; y Josué se quedó aquella noche en medio del pueblo.",
+      "verse": 9,
+      "start_ms": 80912,
+      "end_ms": 90949,
+      "duration_ms": 10037
+    },
+    {
+      "word": "Levantándose Josué muy de mañana, pasó revista al pueblo, y subió él, con los ancianos de Israel, delante del pueblo contra Hai.",
+      "verse": 10,
+      "start_ms": 90950,
+      "end_ms": 99375,
+      "duration_ms": 8425
+    },
+    {
+      "word": "Y toda la gente de guerra que con él estaba, subió y se acercó, y llegaron delante de la ciudad, y acamparon al norte de Hai; y el valle estaba entre él y Hai.",
+      "verse": 11,
+      "start_ms": 99375,
+      "end_ms": 109175,
+      "duration_ms": 9800
+    },
+    {
+      "word": "Y tomó como cinco mil hombres, y los puso en emboscada entre Bet-el y Hai, al occidente de la ciudad.",
+      "verse": 12,
+      "start_ms": 109175,
+      "end_ms": 115600,
+      "duration_ms": 6425
+    },
+    {
+      "word": "Así dispusieron al pueblo: todo el campamento al norte de la ciudad, y su emboscada al occidente de la ciudad, y Josué avanzó aquella noche hasta la mitad del valle.",
+      "verse": 13,
+      "start_ms": 115600,
+      "end_ms": 125337,
+      "duration_ms": 9737
+    },
+    {
+      "word": "Y aconteció que viéndolo el rey de Hai, él y su pueblo se apresuraron y madrugaron; y al tiempo señalado, los hombres de la ciudad salieron al encuentro de Israel para combatir, frente al Arabá, no sabiendo que estaba puesta emboscada a espaldas de la ciudad.",
+      "verse": 14,
+      "start_ms": 125337,
+      "end_ms": 139724,
+      "duration_ms": 14387
+    },
+    {
+      "word": "Entonces Josué y todo Israel se fingieron vencidos y huyeron delante de ellos por el camino del desierto.",
+      "verse": 15,
+      "start_ms": 139725,
+      "end_ms": 146100,
+      "duration_ms": 6375
+    },
+    {
+      "word": "Y todo el pueblo que estaba en Hai se juntó para seguirles; y siguieron a Josué, siendo así alejados de la ciudad.",
+      "verse": 16,
+      "start_ms": 146100,
+      "end_ms": 153212,
+      "duration_ms": 7112
+    },
+    {
+      "word": "Y no quedó hombre en Hai ni en Bet-el, que no saliera tras de Israel; y por seguir a Israel dejaron la ciudad abierta.",
+      "verse": 17,
+      "start_ms": 153212,
+      "end_ms": 160599,
+      "duration_ms": 7387
+    },
+    {
+      "word": "Entonces Jehová dijo a Josué: Extiende la lanza que tienes en tu mano hacia Hai, porque yo la entregaré en tu mano.",
+      "verse": 18,
+      "start_ms": 160600,
+      "end_ms": 167775,
+      "duration_ms": 7175
+    },
+    {
+      "word": "Y Josué extendió hacia la ciudad la lanza que en su mano tenía.",
+      "verse": 18,
+      "start_ms": 167775,
+      "end_ms": 172037,
+      "duration_ms": 4262
+    },
+    {
+      "word": "Y levantándose prontamente de su lugar los que estaban en la emboscada, corrieron luego que él alzó su mano, y vinieron a la ciudad, y la tomaron, y se apresuraron a prenderle fuego.",
+      "verse": 19,
+      "start_ms": 172037,
+      "end_ms": 182574,
+      "duration_ms": 10537
+    },
+    {
+      "word": "Y los hombres de Hai volvieron el rostro, y al mirar, he aquí que el humo de la ciudad subía al cielo, y no pudieron huir ni a una parte ni a otra, porque el pueblo que iba huyendo hacia el desierto se volvió contra los que les seguían.",
+      "verse": 20,
+      "start_ms": 182575,
+      "end_ms": 195462,
+      "duration_ms": 12887
+    },
+    {
+      "word": "Josué y todo Israel, viendo que los de la emboscada habían tomado la ciudad, y que el humo de la ciudad subía, se volvieron y atacaron a los de Hai.",
+      "verse": 21,
+      "start_ms": 195462,
+      "end_ms": 204499,
+      "duration_ms": 9037
+    },
+    {
+      "word": "Y los otros salieron de la ciudad a su encuentro, y así fueron encerrados en medio de Israel, los unos por un lado, y los otros por el otro.",
+      "verse": 22,
+      "start_ms": 204500,
+      "end_ms": 212862,
+      "duration_ms": 8362
+    },
+    {
+      "word": "Y los hirieron hasta que no quedó ninguno de ellos que escapase.",
+      "verse": 22,
+      "start_ms": 212862,
+      "end_ms": 216987,
+      "duration_ms": 4125
+    },
+    {
+      "word": "Pero tomaron vivo al rey de Hai, y lo trajeron a Josué.",
+      "verse": 23,
+      "start_ms": 216987,
+      "end_ms": 220924,
+      "duration_ms": 3937
+    },
+    {
+      "word": "Y cuando los israelitas acabaron de matar a todos los moradores de Hai en el campo y en el desierto a donde los habían perseguido, y todos habían caído a filo de espada hasta ser consumidos, todos los israelitas volvieron a Hai, y también la hirieron a filo de espada.",
+      "verse": 24,
+      "start_ms": 220925,
+      "end_ms": 235950,
+      "duration_ms": 15025
+    },
+    {
+      "word": "Y el número de los que cayeron aquel día, hombres y mujeres, fue de doce mil, todos los de Hai.",
+      "verse": 25,
+      "start_ms": 235950,
+      "end_ms": 242400,
+      "duration_ms": 6450
+    },
+    {
+      "word": "Porque Josué no retiró su mano que había extendido con la lanza, hasta que hubo destruido por",
+      "verse": 26,
+      "start_ms": 242400,
+      "end_ms": 248275,
+      "duration_ms": 5875
+    },
+    {
+      "word": "completo a todos los moradores de Hai.",
+      "verse": 26,
+      "start_ms": 248428,
+      "end_ms": 251353,
+      "duration_ms": 2925
+    },
+    {
+      "word": "Pero los israelitas tomaron para sí las bestias y los despojos de la ciudad, conforme a la palabra de Jehová que le había mandado a Josué.",
+      "verse": 27,
+      "start_ms": 251303,
+      "end_ms": 258940,
+      "duration_ms": 7637
+    },
+    {
+      "word": "Y Josué quemó a Hai y la redujo a un montón de escombros, asolada para siempre hasta hoy.",
+      "verse": 28,
+      "start_ms": 258940,
+      "end_ms": 264790,
+      "duration_ms": 5850
+    },
+    {
+      "word": "Y al rey de Hai lo colgó de un madero hasta caer la noche; y cuando el sol se puso, mandó Josué que quitasen del madero su cuerpo, y lo echasen a la puerta de la ciudad; y levantaron sobre él un gran montón de piedras, que permanece hasta hoy.",
+      "verse": 29,
+      "start_ms": 264790,
+      "end_ms": 278627,
+      "duration_ms": 13837
+    },
+    {
+      "word": "Lectura de la ley en el monte Ebal Entonces Josué edificó un altar a Jehová Dios de Israel en el monte Ebal, como Moisés siervo de Jehová lo había mandado a los hijos de Israel, como está escrito en el libro de la ley de Moisés, un altar de piedras enteras sobre las cuales nadie alzó hierro; y ofrecieron sobre él holocaustos a Jehová, y sacrificaron ofrendas de paz.",
+      "verse": 29,
+      "start_ms": 278628,
+      "end_ms": 298778,
+      "duration_ms": 20150
+    },
+    {
+      "word": "También escribió allí sobre las piedras una copia de la ley de Moisés, la cual escribió delante de los hijos de Israel.",
+      "verse": 32,
+      "start_ms": 298778,
+      "end_ms": 305890,
+      "duration_ms": 7112
+    },
+    {
+      "word": "Y todo Israel, con sus ancianos, oficiales y jueces, estaba de pie a uno y otro lado del arca, en presencia de los sacerdotes levitas que llevaban el arca del pacto de Jehová, así los extranjeros como los naturales.",
+      "verse": 33,
+      "start_ms": 305890,
+      "end_ms": 319365,
+      "duration_ms": 13475
+    },
+    {
+      "word": "La mitad de ellos estaba hacia el monte Gerizim, y la otra mitad hacia el monte Ebal, de la manera que Moisés, siervo de Jehová, lo había mandado antes, para que bendijesen primeramente al pueblo de Israel.",
+      "verse": 33,
+      "start_ms": 319365,
+      "end_ms": 331702,
+      "duration_ms": 12337
+    },
+    {
+      "word": "Después de esto, leyó todas las palabras de la ley, las bendiciones y las maldiciones, conforme a todo lo que está escrito en el libro de la ley.",
+      "verse": 34,
+      "start_ms": 331703,
+      "end_ms": 340328,
+      "duration_ms": 8625
+    },
+    {
+      "word": "No hubo palabra alguna de todo cuanto mandó Moisés, que Josué no hiciese leer delante de toda la congregación de Israel, y de las mujeres, de los niños, y de los extranjeros que moraban entre ellos.",
+      "verse": 35,
+      "start_ms": 340328,
+      "end_ms": 352590,
+      "duration_ms": 12262
+    }
+  ]
+}

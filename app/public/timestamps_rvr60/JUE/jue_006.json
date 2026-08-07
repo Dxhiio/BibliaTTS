@@ -1,0 +1,649 @@
+{
+  "book": "JUE",
+  "chapter": 6,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 40,
+  "word_count": 51,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 117,
+      "text": "Los hijos de Israel hicieron lo malo ante los ojos de Jehová; y Jehová los entregó en mano de Madián por siete años."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 117,
+      "char_end": 285,
+      "text": "Y la mano de Madián prevaleció contra Israel. Y los hijos de Israel, por causa de los madianitas, se hicieron cuevas en los montes, y cavernas, y lugares fortificados."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 285,
+      "char_end": 428,
+      "text": "Pues sucedía que cuando Israel había sembrado, subían los madianitas y amalecitas y los hijos del oriente contra ellos; subían y los atacaban."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 428,
+      "char_end": 575,
+      "text": "Y acampando contra ellos destruían los frutos de la tierra, hasta llegar a Gaza; y no dejaban qué comer en Israel, ni ovejas, ni bueyes, ni asnos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 575,
+      "char_end": 750,
+      "text": "Porque subían ellos y sus ganados, y venían con sus tiendas en grande multitud como langostas; ellos y sus camellos eran innumerables; así venían a la tierra para devastarla."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 750,
+      "char_end": 858,
+      "text": "De este modo empobrecía Israel en gran manera por causa de Madián; y los hijos de Israel clamaron a Jehová."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 858,
+      "char_end": 933,
+      "text": "Y cuando los hijos de Israel clamaron a Jehová, a causa de los madianitas,"
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 933,
+      "char_end": 1106,
+      "text": "Jehová envió a los hijos de Israel un varón profeta, el cual les dijo: Así ha dicho Jehová Dios de Israel: Yo os hice salir de Egipto, y os saqué de la casa de servidumbre."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1106,
+      "char_end": 1243,
+      "text": "Os libré de mano de los egipcios, y de mano de todos los que os afligieron, a los cuales eché de delante de vosotros, y os di su tierra;"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1243,
+      "char_end": 1382,
+      "text": "y os dije: Yo soy Jehová vuestro Dios; no temáis a los dioses de los amorreos, en cuya tierra habitáis; pero no habéis obedecido a mi voz."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1382,
+      "char_end": 1582,
+      "text": "Y vino el ángel de Jehová, y se sentó debajo de la encina que está en Ofra, la cual era de Joás abiezerita; y su hijo Gedeón estaba sacudiendo el trigo en el lagar, para esconderlo de los madianitas."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1582,
+      "char_end": 1679,
+      "text": "Y el ángel de Jehová se le apareció, y le dijo: Jehová está contigo, varón esforzado y valiente."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1679,
+      "char_end": 1981,
+      "text": "Y Gedeón le respondió: Ah, señor mío, si Jehová está con nosotros, ¿por qué nos ha sobrevenido todo esto? ¿Y dónde están todas sus maravillas, que nuestros padres nos han contado, diciendo: ¿No nos sacó Jehová de Egipto? Y ahora Jehová nos ha desamparado, y nos ha entregado en mano de los madianitas."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1981,
+      "char_end": 2100,
+      "text": "Y mirándole Jehová, le dijo: Ve con esta tu fuerza, y salvarás a Israel de la mano de los madianitas. ¿No te envío yo?"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2100,
+      "char_end": 2250,
+      "text": "Entonces le respondió: Ah, señor mío, ¿con qué salvaré yo a Israel? He aquí que mi familia es pobre en Manasés, y yo el menor en la casa de mi padre."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2250,
+      "char_end": 2350,
+      "text": "Jehová le dijo: Ciertamente yo estaré contigo, y derrotarás a los madianitas como a un solo hombre."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2350,
+      "char_end": 2462,
+      "text": "Y él respondió: Yo te ruego que si he hallado gracia delante de ti, me des señal de que tú has hablado conmigo."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2462,
+      "char_end": 2610,
+      "text": "Te ruego que no te vayas de aquí hasta que vuelva a ti, y saque mi ofrenda y la ponga delante de ti. Y él respondió: Yo esperaré hasta que vuelvas."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2610,
+      "char_end": 2802,
+      "text": "Y entrando Gedeón, preparó un cabrito, y panes sin levadura de un efa de harina; y puso la carne en un canastillo, y el caldo en una olla, y sacándolo se lo presentó debajo de aquella encina."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2802,
+      "char_end": 2940,
+      "text": "Entonces el ángel de Dios le dijo: Toma la carne y los panes sin levadura, y ponlos sobre esta peña, y vierte el caldo. Y él lo hizo así."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2940,
+      "char_end": 3182,
+      "text": "Y extendiendo el ángel de Jehová el báculo que tenía en su mano, tocó con la punta la carne y los panes sin levadura; y subió fuego de la peña, el cual consumió la carne y los panes sin levadura. Y el ángel de Jehová desapareció de su vista."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3182,
+      "char_end": 3302,
+      "text": "Viendo entonces Gedeón que era el ángel de Jehová, dijo: Ah, Señor Jehová, que he visto al ángel de Jehová cara a cara."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3302,
+      "char_end": 3362,
+      "text": "Pero Jehová le dijo: Paz a ti; no tengas temor, no morirás."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3362,
+      "char_end": 3481,
+      "text": "Y edificó allí Gedeón altar a Jehová, y lo llamó Jehová-salom; el cual permanece hasta hoy en Ofra de los abiezeritas."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3481,
+      "char_end": 3695,
+      "text": "Aconteció que la misma noche le dijo Jehová: Toma un toro del hato de tu padre, el segundo toro de siete años, y derriba el altar de Baal que tu padre tiene, y corta también la imagen de Asera que está junto a él;"
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3695,
+      "char_end": 3888,
+      "text": "y edifica altar a Jehová tu Dios en la cumbre de este peñasco en lugar conveniente; y tomando el segundo toro, sacrifícalo en holocausto con la madera de la imagen de Asera que habrás cortado."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3888,
+      "char_end": 4072,
+      "text": "Entonces Gedeón tomó diez hombres de sus siervos, e hizo como Jehová le dijo. Mas temiendo hacerlo de día, por la familia de su padre y por los hombres de la ciudad, lo hizo de noche."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 4072,
+      "char_end": 4303,
+      "text": "Por la mañana, cuando los de la ciudad se levantaron, he aquí que el altar de Baal estaba derribado, y cortada la imagen de Asera que estaba junto a él, y el segundo toro había sido ofrecido en holocausto sobre el altar edificado."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 4303,
+      "char_end": 4474,
+      "text": "Y se dijeron unos a otros: ¿Quién ha hecho esto? Y buscando e inquiriendo, les dijeron: Gedeón hijo de Joás lo ha hecho. Entonces los hombres de la ciudad dijeron a Joás:"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4474,
+      "char_end": 4597,
+      "text": "Saca a tu hijo para que muera, porque ha derribado el altar de Baal y ha cortado la imagen de Asera que estaba junto a él."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4597,
+      "char_end": 4829,
+      "text": "Y Joás respondió a todos los que estaban junto a él: ¿Contenderéis vosotros por Baal? ¿Defenderéis su causa? Cualquiera que contienda por él, que muera esta mañana. Si es un dios, contienda por sí mismo con el que derribó su altar."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4829,
+      "char_end": 4932,
+      "text": "Aquel día Gedeón fue llamado Jerobaal, esto es: Contienda Baal contra él, por cuanto derribó su altar."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4932,
+      "char_end": 5052,
+      "text": "Pero todos los madianitas y amalecitas y los del oriente se juntaron a una, y pasando acamparon en el valle de Jezreel."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 5052,
+      "char_end": 5169,
+      "text": "Entonces el Espíritu de Jehová vino sobre Gedeón, y cuando éste tocó el cuerno, los abiezeritas se reunieron con él."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 5169,
+      "char_end": 5335,
+      "text": "Y envió mensajeros por todo Manasés, y ellos también se juntaron con él; asimismo envió mensajeros a Aser, a Zabulón y a Neftalí, los cuales salieron a encontrarles."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 5335,
+      "char_end": 5412,
+      "text": "Y Gedeón dijo a Dios: Si has de salvar a Israel por mi mano, como has dicho,"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 5412,
+      "char_end": 5619,
+      "text": "he aquí que yo pondré un vellón de lana en la era; y si el rocío estuviere en el vellón solamente, quedando seca toda la otra tierra, entonces entenderé que salvarás a Israel por mi mano, como lo has dicho."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 5619,
+      "char_end": 5736,
+      "text": "Y aconteció así, pues cuando se levantó de mañana, exprimió el vellón y sacó de él el rocío, un tazón lleno de agua."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 5736,
+      "char_end": 5939,
+      "text": "Mas Gedeón dijo a Dios: No se encienda tu ira contra mí, si aún hablare esta vez; solamente probaré ahora otra vez con el vellón. Te ruego que solamente el vellón quede seco, y el rocío sobre la tierra."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 5939,
+      "char_end": 6032,
+      "text": "Y aquella noche lo hizo Dios así; sólo el vellón quedó seco, y en toda la tierra hubo rocío."
+    }
+  ],
+  "words": [
+    {
+      "word": "Los hijos de Israel hicieron lo malo ante los ojos de Jehová; y Jehová los entregó en mano de Madián por siete años.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 7125,
+      "duration_ms": 7025
+    },
+    {
+      "word": "Y la mano de Madián prevaleció contra Israel.",
+      "verse": 2,
+      "start_ms": 7075,
+      "end_ms": 10412,
+      "duration_ms": 3337
+    },
+    {
+      "word": "Y los hijos de Israel, por causa de los madianitas, se hicieron cuevas en los montes, y cavernas, y lugares fortificados.",
+      "verse": 2,
+      "start_ms": 10412,
+      "end_ms": 18837,
+      "duration_ms": 8425
+    },
+    {
+      "word": "Pues sucedía que cuando Israel había sembrado, subían los madianitas y amalecitas y los hijos del oriente contra ellos; subían y los atacaban.",
+      "verse": 3,
+      "start_ms": 18837,
+      "end_ms": 27787,
+      "duration_ms": 8950
+    },
+    {
+      "word": "Y acampando contra ellos destruían los frutos de la tierra, hasta llegar a Gaza; y no dejaban qué comer en Israel, ni ovejas, ni bueyes, ni asnos.",
+      "verse": 4,
+      "start_ms": 27787,
+      "end_ms": 37499,
+      "duration_ms": 9712
+    },
+    {
+      "word": "Porque subían ellos y sus ganados, y venían con sus tiendas en grande multitud como langostas; ellos y sus camellos eran innumerables; así venían a la tierra para devastarla.",
+      "verse": 5,
+      "start_ms": 37500,
+      "end_ms": 48462,
+      "duration_ms": 10962
+    },
+    {
+      "word": "De este modo empobrecía Israel en gran manera por causa de Madián; y los hijos de Israel clamaron a Jehová.",
+      "verse": 6,
+      "start_ms": 48462,
+      "end_ms": 55262,
+      "duration_ms": 6800
+    },
+    {
+      "word": "Y cuando los hijos de Israel clamaron a Jehová, a causa de los madianitas, Jehová envió a los hijos de Israel un varón profeta, el cual les dijo: Así ha dicho Jehová Dios de Israel: Yo os hice salir de Egipto, y os saqué de la casa de servidumbre.",
+      "verse": 7,
+      "start_ms": 55262,
+      "end_ms": 70449,
+      "duration_ms": 15187
+    },
+    {
+      "word": "Os libré de mano de los egipcios, y de mano de todos los que os afligieron, a los cuales eché de delante de vosotros, y os di su tierra; y os dije: Yo soy Jehová vuestro Dios; no temáis a los dioses de los amorreos, en cuya tierra habitáis; pero no habéis obedecido a mi voz.",
+      "verse": 9,
+      "start_ms": 70450,
+      "end_ms": 87762,
+      "duration_ms": 17312
+    },
+    {
+      "word": "Y vino el ángel de Jehová, y se sentó debajo de la encina que está en Ofra, la cual era de Joás abiezerita; y su hijo Gedeón estaba sacudiendo el trigo en el lagar, para esconderlo de los madianitas.",
+      "verse": 11,
+      "start_ms": 87762,
+      "end_ms": 99437,
+      "duration_ms": 11675
+    },
+    {
+      "word": "Y el ángel de Jehová se le apareció, y le dijo: Jehová está contigo, varón esforzado y valiente.",
+      "verse": 12,
+      "start_ms": 99437,
+      "end_ms": 106174,
+      "duration_ms": 6737
+    },
+    {
+      "word": "Y Gedeón le respondió: Ah, señor mío, si Jehová está con nosotros, ¿por qué nos ha sobrevenido todo esto?",
+      "verse": 13,
+      "start_ms": 106175,
+      "end_ms": 113775,
+      "duration_ms": 7600
+    },
+    {
+      "word": "Y dónde están todas sus maravillas, que nuestros padres nos han contado, diciendo: ¿No nos sacó Jehová de Egipto?",
+      "verse": 13,
+      "start_ms": 113775,
+      "end_ms": 121275,
+      "duration_ms": 7500
+    },
+    {
+      "word": "Y ahora Jehová nos ha desamparado, y nos ha entregado en mano de los madianitas.",
+      "verse": 13,
+      "start_ms": 121275,
+      "end_ms": 126700,
+      "duration_ms": 5425
+    },
+    {
+      "word": "Y mirándole Jehová, le dijo: Ve con esta tu fuerza, y salvarás a Israel de la mano de los madianitas.",
+      "verse": 14,
+      "start_ms": 126700,
+      "end_ms": 133887,
+      "duration_ms": 7187
+    },
+    {
+      "word": "No te envío yo?",
+      "verse": 14,
+      "start_ms": 133887,
+      "end_ms": 135674,
+      "duration_ms": 1787
+    },
+    {
+      "word": "Entonces le respondió: Ah, señor mío, ¿con qué salvaré yo a Israel?",
+      "verse": 15,
+      "start_ms": 135675,
+      "end_ms": 141100,
+      "duration_ms": 5425
+    },
+    {
+      "word": "He aquí que mi familia es pobre en Manasés, y yo el menor en la casa de mi padre.",
+      "verse": 15,
+      "start_ms": 141100,
+      "end_ms": 146387,
+      "duration_ms": 5287
+    },
+    {
+      "word": "Jehová le dijo: Ciertamente yo estaré contigo, y derrotarás a los madianitas como a un solo hombre.",
+      "verse": 16,
+      "start_ms": 146387,
+      "end_ms": 153149,
+      "duration_ms": 6762
+    },
+    {
+      "word": "Y él respondió: Yo te ruego que si he hallado gracia delante de ti, me des señal de que tú has hablado conmigo.",
+      "verse": 17,
+      "start_ms": 153150,
+      "end_ms": 160275,
+      "duration_ms": 7125
+    },
+    {
+      "word": "Te ruego que no te vayas de aquí hasta que vuelva a ti, y saque mi ofrenda y la ponga delante de ti.",
+      "verse": 18,
+      "start_ms": 160275,
+      "end_ms": 166200,
+      "duration_ms": 5925
+    },
+    {
+      "word": "Y él respondió: Yo esperaré hasta que vuelvas.",
+      "verse": 18,
+      "start_ms": 166200,
+      "end_ms": 169987,
+      "duration_ms": 3787
+    },
+    {
+      "word": "Y entrando Gedeón, preparó un cabrito, y panes sin levadura de un efa de harina; y puso la carne en un canastillo, y el caldo en una olla, y sacándolo se lo presentó debajo de aquella encina.",
+      "verse": 19,
+      "start_ms": 169987,
+      "end_ms": 182074,
+      "duration_ms": 12087
+    },
+    {
+      "word": "Entonces el ángel de Dios le dijo: Toma la carne y los panes sin levadura, y ponlos sobre esta peña, y vierte el caldo.",
+      "verse": 20,
+      "start_ms": 182075,
+      "end_ms": 189887,
+      "duration_ms": 7812
+    },
+    {
+      "word": "Y él lo hizo así.",
+      "verse": 20,
+      "start_ms": 189887,
+      "end_ms": 191899,
+      "duration_ms": 2012
+    },
+    {
+      "word": "Y extendiendo el ángel de Jehová el báculo que tenía en su mano, tocó con la punta la carne y los panes sin levadura; y subió fuego de la peña, el cual consumió la carne y los panes sin levadura.",
+      "verse": 21,
+      "start_ms": 191900,
+      "end_ms": 203112,
+      "duration_ms": 11212
+    },
+    {
+      "word": "Y el ángel de Jehová desapareció de su vista.",
+      "verse": 21,
+      "start_ms": 203112,
+      "end_ms": 206449,
+      "duration_ms": 3337
+    },
+    {
+      "word": "Viendo entonces Gedeón que era el ángel de Jehová, dijo: Ah, Señor Jehová, que he visto al ángel de Jehová cara a cara.",
+      "verse": 22,
+      "start_ms": 206450,
+      "end_ms": 214637,
+      "duration_ms": 8187
+    },
+    {
+      "word": "Pero Jehová le dijo: Paz a ti; no tengas temor, no morirás.",
+      "verse": 23,
+      "start_ms": 214637,
+      "end_ms": 219674,
+      "duration_ms": 5037
+    },
+    {
+      "word": "Y edificó allí Gedeón altar a Jehová, y lo llamó Jehová-salom; el cual permanece hasta hoy en Ofra de los abiezeritas.",
+      "verse": 24,
+      "start_ms": 219675,
+      "end_ms": 227400,
+      "duration_ms": 7725
+    },
+    {
+      "word": "Aconteció que la misma noche le dijo Jehová: Toma un toro del hato de tu padre, el segundo toro de siete años, y derriba el altar de Baal que tu padre tiene, y corta también la imagen de Asera que está junto a él; y edifica altar a Jehová tu Dios en la cumbre de este peñasco en lugar conveniente; y tomando el segundo toro, sacrifícalo en holocausto con la madera de la imagen de Asera que habrás cortado.",
+      "verse": 25,
+      "start_ms": 227400,
+      "end_ms": 250250,
+      "duration_ms": 22850
+    },
+    {
+      "word": "Entonces Gedeón tomó diez hombres de sus siervos, e hizo como Jehová le",
+      "verse": 27,
+      "start_ms": 250250,
+      "end_ms": 255225,
+      "duration_ms": 4975
+    },
+    {
+      "word": "dijo.",
+      "verse": 27,
+      "start_ms": 255388,
+      "end_ms": 256825,
+      "duration_ms": 1437
+    },
+    {
+      "word": "Mas temiendo hacerlo de día, por la familia de su padre y por los hombres de la ciudad, lo hizo de noche.",
+      "verse": 27,
+      "start_ms": 256775,
+      "end_ms": 263100,
+      "duration_ms": 6325
+    },
+    {
+      "word": "Por la mañana, cuando los de la ciudad se levantaron, he aquí que el altar de Baal estaba derribado, y cortada la imagen de Asera que estaba junto a él, y el segundo toro había sido ofrecido en holocausto sobre el altar edificado.",
+      "verse": 28,
+      "start_ms": 263100,
+      "end_ms": 276487,
+      "duration_ms": 13387
+    },
+    {
+      "word": "Y se dijeron unos a otros: ¿Quién ha hecho esto?",
+      "verse": 29,
+      "start_ms": 276488,
+      "end_ms": 280375,
+      "duration_ms": 3887
+    },
+    {
+      "word": "Y buscando e inquiriendo, les dijeron: Gedeón hijo de Joás lo ha hecho.",
+      "verse": 29,
+      "start_ms": 280375,
+      "end_ms": 285575,
+      "duration_ms": 5200
+    },
+    {
+      "word": "Entonces los hombres de la ciudad dijeron a Joás: Saca a tu hijo para que muera, porque ha derribado el altar de Baal y ha cortado la imagen de Asera que estaba junto a él.",
+      "verse": 29,
+      "start_ms": 285575,
+      "end_ms": 294912,
+      "duration_ms": 9337
+    },
+    {
+      "word": "Y Joás respondió a todos los que estaban junto a él: ¿Contenderéis vosotros por Baal?",
+      "verse": 31,
+      "start_ms": 294913,
+      "end_ms": 300625,
+      "duration_ms": 5712
+    },
+    {
+      "word": "Defenderéis su causa?",
+      "verse": 31,
+      "start_ms": 300625,
+      "end_ms": 302825,
+      "duration_ms": 2200
+    },
+    {
+      "word": "Cualquiera que contienda por él, que muera esta mañana.",
+      "verse": 31,
+      "start_ms": 302825,
+      "end_ms": 306600,
+      "duration_ms": 3775
+    },
+    {
+      "word": "Si es un dios, contienda por sí mismo con el que derribó su altar.",
+      "verse": 31,
+      "start_ms": 306600,
+      "end_ms": 311387,
+      "duration_ms": 4787
+    },
+    {
+      "word": "Aquel día Gedeón fue llamado Jerobaal, esto es: Contienda Baal contra él, por cuanto derribó su altar.",
+      "verse": 32,
+      "start_ms": 311388,
+      "end_ms": 318600,
+      "duration_ms": 7212
+    },
+    {
+      "word": "Pero todos los madianitas y amalecitas y los del oriente se juntaron a una, y pasando acamparon en el valle de Jezreel.",
+      "verse": 33,
+      "start_ms": 318600,
+      "end_ms": 325812,
+      "duration_ms": 7212
+    },
+    {
+      "word": "Entonces el Espíritu de Jehová vino sobre Gedeón, y cuando éste tocó el cuerno, los abiezeritas se reunieron con él.",
+      "verse": 34,
+      "start_ms": 325813,
+      "end_ms": 333050,
+      "duration_ms": 7237
+    },
+    {
+      "word": "Y envió mensajeros por todo Manasés, y ellos también se juntaron con él; asimismo envió mensajeros a Aser, a Zabulón y a Neftalí, los cuales salieron a encontrarles.",
+      "verse": 35,
+      "start_ms": 333050,
+      "end_ms": 343512,
+      "duration_ms": 10462
+    },
+    {
+      "word": "Y Gedeón dijo a Dios: Si has de salvar a Israel por mi mano, como has dicho, he aquí que yo pondré un vellón de lana en la era; y si el rocío estuviere en el vellón solamente, quedando seca toda la otra tierra, entonces entenderé que salvarás a Israel por mi mano, como lo has dicho.",
+      "verse": 36,
+      "start_ms": 343513,
+      "end_ms": 360525,
+      "duration_ms": 17012
+    },
+    {
+      "word": "Y aconteció así, pues cuando se levantó de mañana, exprimió el vellón y sacó de él el rocío, un tazón lleno de agua.",
+      "verse": 38,
+      "start_ms": 360525,
+      "end_ms": 368262,
+      "duration_ms": 7737
+    },
+    {
+      "word": "Mas Gedeón dijo a Dios: No se encienda tu ira contra mí, si aún hablare esta vez; solamente probaré ahora otra vez con el vellón.",
+      "verse": 39,
+      "start_ms": 368263,
+      "end_ms": 376938,
+      "duration_ms": 8675
+    },
+    {
+      "word": "Te ruego que solamente el vellón quede seco, y el rocío sobre la tierra.",
+      "verse": 39,
+      "start_ms": 376938,
+      "end_ms": 381813,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Y aquella noche lo hizo Dios así; sólo el vellón quedó seco, y en toda la tierra hubo rocío.",
+      "verse": 40,
+      "start_ms": 381813,
+      "end_ms": 388350,
+      "duration_ms": 6537
+    }
+  ]
+}

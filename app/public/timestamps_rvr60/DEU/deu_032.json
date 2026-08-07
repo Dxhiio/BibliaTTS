@@ -1,0 +1,705 @@
+{
+  "book": "DEU",
+  "chapter": 32,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 52,
+  "word_count": 47,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 69,
+      "text": "Escuchad, cielos, y hablaré; Y oiga la tierra los dichos de mi boca."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 69,
+      "char_end": 214,
+      "text": "Goteará como la lluvia mi enseñanza; Destilará como el rocío mi razonamiento; Como la llovizna sobre la grama, Y como las gotas sobre la hierba;"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 214,
+      "char_end": 281,
+      "text": "Porque el nombre de Jehová proclamaré. Engrandeced a nuestro Dios."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 281,
+      "char_end": 423,
+      "text": "Él es la Roca, cuya obra es perfecta, Porque todos sus caminos son rectitud; Dios de verdad, y sin ninguna iniquidad en él; Es justo y recto."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 423,
+      "char_end": 507,
+      "text": "La corrupción no es suya; de sus hijos es la mancha, Generación torcida y perversa."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 507,
+      "char_end": 614,
+      "text": "¿Así pagáis a Jehová, Pueblo loco e ignorante? ¿No es él tu padre que te creó? él te hizo y te estableció."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 614,
+      "char_end": 766,
+      "text": "Acuérdate de los tiempos antiguos, Considera los años de muchas generaciones; Pregunta a tu padre, y él te declarará; A tus ancianos, y ellos te dirán."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 766,
+      "char_end": 940,
+      "text": "Cuando el Altísimo hizo heredar a las naciones, Cuando hizo dividir a los hijos de los hombres, Estableció los límites de los pueblos Según el número de los hijos de Israel."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 940,
+      "char_end": 1012,
+      "text": "Porque la porción de Jehová es su pueblo; Jacob la heredad que le tocó."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1012,
+      "char_end": 1145,
+      "text": "Le halló en tierra de desierto, Y en yermo de horrible soledad; Lo trajo alrededor, lo instruyó, Lo guardó como a la niña de su ojo."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1145,
+      "char_end": 1267,
+      "text": "Como el águila que excita su nidada, Revolotea sobre sus pollos, Extiende sus alas, los toma, Los lleva sobre sus plumas,"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1267,
+      "char_end": 1319,
+      "text": "Jehová solo le guió, Y con él no hubo dios extraño."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1319,
+      "char_end": 1459,
+      "text": "Lo hizo subir sobre las alturas de la tierra, Y comió los frutos del campo, E hizo que chupase miel de la peña, Y aceite del duro pedernal;"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1459,
+      "char_end": 1632,
+      "text": "Mantequilla de vacas y leche de ovejas, Con grosura de corderos, Y carneros de Basán; también machos cabríos, Con lo mejor del trigo; Y de la sangre de la uva bebiste vino."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1632,
+      "char_end": 1781,
+      "text": "Pero engordó Jesurún, y tiró coces (Engordaste, te cubriste de grasa); Entonces abandonó al Dios que lo hizo, Y menospreció la Roca de su salvación."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1781,
+      "char_end": 1866,
+      "text": "Le despertaron a celos con los dioses ajenos; Lo provocaron a ira con abominaciones."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1866,
+      "char_end": 2013,
+      "text": "Sacrificaron a los demonios, y no a Dios; A dioses que no habían conocido, A nuevos dioses venidos de cerca, Que no habían temido vuestros padres."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2013,
+      "char_end": 2086,
+      "text": "De la Roca que te creó te olvidaste; Te has olvidado de Dios tu creador."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2086,
+      "char_end": 2172,
+      "text": "Y lo vio Jehová, y se encendió en ira Por el menosprecio de sus hijos y de sus hijas."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2172,
+      "char_end": 2285,
+      "text": "Y dijo: Esconderé de ellos mi rostro, Veré cuál será su fin; Porque son una generación perversa, Hijos infieles."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2285,
+      "char_end": 2478,
+      "text": "Ellos me movieron a celos con lo que no es Dios; Me provocaron a ira con sus ídolos; Yo también los moveré a celos con un pueblo que no es pueblo, Los provocaré a ira con una nación insensata."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2478,
+      "char_end": 2636,
+      "text": "Porque fuego se ha encendido en mi ira, Y arderá hasta las profundidades del Seol; Devorará la tierra y sus frutos, Y abrasará los fundamentos de los montes."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2636,
+      "char_end": 2699,
+      "text": "Yo amontonaré males sobre ellos; Emplearé en ellos mis saetas."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2699,
+      "char_end": 2862,
+      "text": "Consumidos serán de hambre, y devorados de fiebre ardiente Y de peste amarga; Diente de fieras enviaré también sobre ellos, Con veneno de serpientes de la tierra."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2862,
+      "char_end": 2999,
+      "text": "Por fuera desolará la espada, Y dentro de las cámaras el espanto; Así al joven como a la doncella, Al niño de pecho como al hombre cano."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2999,
+      "char_end": 3098,
+      "text": "Yo había dicho que los esparciría lejos, Que haría cesar de entre los hombres la memoria de ellos,"
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3098,
+      "char_end": 3260,
+      "text": "De no haber temido la provocación del enemigo, No sea que se envanezcan sus adversarios, No sea que digan: Nuestra mano poderosa Ha hecho todo esto, y no Jehová."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3260,
+      "char_end": 3332,
+      "text": "Porque son nación privada de consejos, Y no hay en ellos entendimiento."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3332,
+      "char_end": 3421,
+      "text": "¡Ojalá fueran sabios, que comprendieran esto, Y se dieran cuenta del fin que les espera!"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3421,
+      "char_end": 3554,
+      "text": "¿Cómo podría perseguir uno a mil, Y dos hacer huir a diez mil, Si su Roca no los hubiese vendido, Y Jehová no los hubiera entregado?"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3554,
+      "char_end": 3647,
+      "text": "Porque la roca de ellos no es como nuestra Roca, Y aun nuestros enemigos son de ello jueces."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3647,
+      "char_end": 3789,
+      "text": "Porque de la vid de Sodoma es la vid de ellos, Y de los campos de Gomorra; Las uvas de ellos son uvas ponzoñosas, Racimos muy amargos tienen."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3789,
+      "char_end": 3850,
+      "text": "Veneno de serpientes es su vino, Y ponzoña cruel de áspides."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3850,
+      "char_end": 3910,
+      "text": "¿No tengo yo esto guardado conmigo, Sellado en mis tesoros?"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3910,
+      "char_end": 4062,
+      "text": "Mía es la venganza y la retribución; A su tiempo su pie resbalará, Porque el día de su aflicción está cercano, Y lo que les está preparado se apresura."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 4062,
+      "char_end": 4210,
+      "text": "Porque Jehová juzgará a su pueblo, Y por amor de sus siervos se arrepentirá, Cuando viere que la fuerza pereció, Y que no queda ni siervo ni libre."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 4210,
+      "char_end": 4273,
+      "text": "Y dirá: ¿Dónde están sus dioses, La roca en que se refugiaban;"
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4273,
+      "char_end": 4393,
+      "text": "Que comían la grosura de sus sacrificios, Y bebían el vino de sus libaciones? Levántense, que os ayuden Y os defiendan."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4393,
+      "char_end": 4537,
+      "text": "Ved ahora que yo, yo soy, Y no hay dioses conmigo; Yo hago morir, y yo hago vivir; Yo hiero, y yo sano; Y no hay quien pueda librar de mi mano."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4537,
+      "char_end": 4606,
+      "text": "Porque yo alzaré a los cielos mi mano, Y diré: Vivo yo para siempre,"
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4606,
+      "char_end": 4747,
+      "text": "Si afilare mi reluciente espada, Y echare mano del juicio, Yo tomaré venganza de mis enemigos, Y daré la retribución a los que me aborrecen."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4747,
+      "char_end": 4902,
+      "text": "Embriagaré de sangre mis saetas, Y mi espada devorará carne; En la sangre de los muertos y de los cautivos, En las cabezas de larga cabellera del enemigo."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4902,
+      "char_end": 5057,
+      "text": "Alabad, naciones, a su pueblo, Porque él vengará la sangre de sus siervos, Y tomará venganza de sus enemigos, Y hará expiación por la tierra de su pueblo."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 5057,
+      "char_end": 5157,
+      "text": "Vino Moisés y recitó todas las palabras de este cántico a oídos del pueblo, él y Josué hijo de Nun."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 5157,
+      "char_end": 5219,
+      "text": "Y acabó Moisés de recitar todas estas palabras a todo Israel;"
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 5219,
+      "char_end": 5403,
+      "text": "y les dijo: Aplicad vuestro corazón a todas las palabras que yo os testifico hoy, para que las mandéis a vuestros hijos, a fin de que cuiden de cumplir todas las palabras de esta ley."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 5403,
+      "char_end": 5633,
+      "text": "Porque no os es cosa vana; es vuestra vida, y por medio de esta ley haréis prolongar vuestros días sobre la tierra adonde vais, pasando el Jordán, para tomar posesión de ella. Se le permite a Moisés contemplar la tierra de Canaán"
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 5633,
+      "char_end": 5684,
+      "text": "Y habló Jehová a Moisés aquel mismo día, diciendo:"
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 5684,
+      "char_end": 5857,
+      "text": "Sube a este monte de Abarim, al monte Nebo, situado en la tierra de Moab que está frente a Jericó, y mira la tierra de Canaán, que yo doy por heredad a los hijos de Israel;"
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 5857,
+      "char_end": 5990,
+      "text": "y muere en el monte al cual subes, y sé unido a tu pueblo, así como murió Aarón tu hermano en el monte Hor, y fue unido a su pueblo;"
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 5990,
+      "char_end": 6170,
+      "text": "por cuanto pecasteis contra mí en medio de los hijos de Israel en las aguas de Meriba de Cades, en el desierto de Zin; porque no me santificasteis en medio de los hijos de Israel."
+    },
+    {
+      "verse": 52,
+      "label": "52",
+      "char_start": 6170,
+      "char_end": 6278,
+      "text": "Verás, por tanto, delante de ti la tierra; mas no entrarás allá, a la tierra que doy a los hijos de Israel."
+    }
+  ],
+  "words": [
+    {
+      "word": "Escuchad, cielos, y hablaré; Y oiga la tierra los dichos de mi boca.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 5537,
+      "duration_ms": 5437
+    },
+    {
+      "word": "Goteará como la lluvia mi enseñanza; Destilará como el rocío mi razonamiento; Como la llovizna sobre la grama, Y como las gotas sobre la hierba; Porque el nombre de Jehová proclamaré.",
+      "verse": 2,
+      "start_ms": 5487,
+      "end_ms": 16487,
+      "duration_ms": 11000
+    },
+    {
+      "word": "Engrandeced a nuestro Dios.",
+      "verse": 3,
+      "start_ms": 16487,
+      "end_ms": 18962,
+      "duration_ms": 2475
+    },
+    {
+      "word": "Él es la Roca, cuya obra es perfecta, Porque todos sus caminos son rectitud; Dios de verdad, y sin ninguna iniquidad en él; Es justo y recto.",
+      "verse": 4,
+      "start_ms": 18962,
+      "end_ms": 28474,
+      "duration_ms": 9512
+    },
+    {
+      "word": "La corrupción no es suya; de sus hijos es la mancha, Generación torcida y perversa.",
+      "verse": 5,
+      "start_ms": 28475,
+      "end_ms": 34350,
+      "duration_ms": 5875
+    },
+    {
+      "word": "Así pagáis a Jehová, Pueblo loco e ignorante?",
+      "verse": 6,
+      "start_ms": 34350,
+      "end_ms": 38325,
+      "duration_ms": 3975
+    },
+    {
+      "word": "No es él tu padre que te creó? él te hizo y te estableció.",
+      "verse": 6,
+      "start_ms": 38325,
+      "end_ms": 42637,
+      "duration_ms": 4312
+    },
+    {
+      "word": "Acuérdate de los tiempos antiguos, Considera los años de muchas generaciones; Pregunta a tu padre, y él te declarará; A tus ancianos, y ellos te dirán.",
+      "verse": 7,
+      "start_ms": 42637,
+      "end_ms": 52937,
+      "duration_ms": 10300
+    },
+    {
+      "word": "Cuando el Altísimo hizo heredar a las naciones, Cuando hizo dividir a los hijos de los hombres, Estableció los límites de los pueblos Según el número de los hijos de Israel.",
+      "verse": 8,
+      "start_ms": 52937,
+      "end_ms": 62437,
+      "duration_ms": 9500
+    },
+    {
+      "word": "Porque la porción de Jehová es su pueblo; Jacob la heredad que le tocó.",
+      "verse": 9,
+      "start_ms": 62437,
+      "end_ms": 66937,
+      "duration_ms": 4500
+    },
+    {
+      "word": "Le halló en tierra de desierto, Y en yermo de horrible soledad; Lo trajo alrededor, lo instruyó, Lo guardó como a la niña de su ojo.",
+      "verse": 10,
+      "start_ms": 66937,
+      "end_ms": 75312,
+      "duration_ms": 8375
+    },
+    {
+      "word": "Como el águila que excita su nidada, Revolotea sobre sus pollos, Extiende sus alas, los toma, Los lleva sobre sus plumas, Jehová solo le guió, Y con él no hubo dios extraño.",
+      "verse": 11,
+      "start_ms": 75312,
+      "end_ms": 86837,
+      "duration_ms": 11525
+    },
+    {
+      "word": "Lo hizo subir sobre las alturas de la tierra, Y comió los frutos del campo, E hizo que chupase miel de la peña, Y aceite del duro pedernal; Mantequilla de vacas y leche de ovejas, Con grosura de corderos, Y carneros de Basán; también machos cabríos, Con lo mejor del trigo; Y de la sangre de la uva bebiste vino.",
+      "verse": 13,
+      "start_ms": 86837,
+      "end_ms": 105637,
+      "duration_ms": 18800
+    },
+    {
+      "word": "Pero engordó Jesurún, y tiró coces (Engordaste, te cubriste de grasa); Entonces abandonó al Dios que lo hizo, Y menospreció la Roca de su salvación.",
+      "verse": 15,
+      "start_ms": 105637,
+      "end_ms": 115799,
+      "duration_ms": 10162
+    },
+    {
+      "word": "Le despertaron a celos con los dioses ajenos; Lo provocaron a ira con abominaciones.",
+      "verse": 16,
+      "start_ms": 115800,
+      "end_ms": 121650,
+      "duration_ms": 5850
+    },
+    {
+      "word": "Sacrificaron a los demonios, y no a Dios; A dioses que no habían conocido, A nuevos dioses venidos de cerca, Que no habían temido vuestros padres.",
+      "verse": 17,
+      "start_ms": 121650,
+      "end_ms": 131200,
+      "duration_ms": 9550
+    },
+    {
+      "word": "De la Roca que te creó te olvidaste; Te has olvidado de Dios tu creador.",
+      "verse": 18,
+      "start_ms": 131200,
+      "end_ms": 136112,
+      "duration_ms": 4912
+    },
+    {
+      "word": "Y lo vio Jehová, y se encendió en ira Por el menosprecio de sus hijos y de sus hijas.",
+      "verse": 19,
+      "start_ms": 136112,
+      "end_ms": 141512,
+      "duration_ms": 5400
+    },
+    {
+      "word": "Y dijo: Esconderé de ellos mi rostro, Veré cuál será su fin; Porque son una generación perversa, Hijos infieles.",
+      "verse": 20,
+      "start_ms": 141512,
+      "end_ms": 149787,
+      "duration_ms": 8275
+    },
+    {
+      "word": "Ellos me movieron a celos con lo que no es Dios; Me provocaron a ira con sus ídolos; Yo también los moveré a celos con un pueblo que no es pueblo, Los provocaré a ira con una nación insensata.",
+      "verse": 21,
+      "start_ms": 149787,
+      "end_ms": 161124,
+      "duration_ms": 11337
+    },
+    {
+      "word": "Porque fuego se ha encendido en mi ira, Y arderá hasta las profundidades del Seol; Devorará la tierra y sus frutos, Y abrasará los fundamentos de los montes.",
+      "verse": 22,
+      "start_ms": 161125,
+      "end_ms": 170687,
+      "duration_ms": 9562
+    },
+    {
+      "word": "Yo amontonaré males sobre ellos; Emplearé en ellos mis saetas.",
+      "verse": 23,
+      "start_ms": 170687,
+      "end_ms": 175687,
+      "duration_ms": 5000
+    },
+    {
+      "word": "Consumidos serán de hambre, y devorados de fiebre ardiente Y de peste amarga; Diente de fieras enviaré también sobre ellos, Con veneno de serpientes de la tierra.",
+      "verse": 24,
+      "start_ms": 175687,
+      "end_ms": 185299,
+      "duration_ms": 9612
+    },
+    {
+      "word": "Por fuera desolará la espada, Y dentro de las cámaras el espanto; Así al joven como a la doncella, Al niño de pecho como al hombre cano.",
+      "verse": 25,
+      "start_ms": 185300,
+      "end_ms": 193662,
+      "duration_ms": 8362
+    },
+    {
+      "word": "Yo había dicho que los esparciría lejos, Que haría cesar de entre los hombres la memoria de ellos, De no haber temido la provocación del enemigo, No sea que se envanezcan sus adversarios, No sea que digan: Nuestra mano poderosa Ha hecho todo esto, y no Jehová.",
+      "verse": 26,
+      "start_ms": 193662,
+      "end_ms": 209037,
+      "duration_ms": 15375
+    },
+    {
+      "word": "Porque son nación privada de consejos, Y no hay en ellos entendimiento.",
+      "verse": 28,
+      "start_ms": 209037,
+      "end_ms": 213812,
+      "duration_ms": 4775
+    },
+    {
+      "word": "Ojalá fueran sabios, que comprendieran esto, Y se dieran cuenta del fin que les espera!",
+      "verse": 29,
+      "start_ms": 213812,
+      "end_ms": 219737,
+      "duration_ms": 5925
+    },
+    {
+      "word": "Cómo podría perseguir uno a mil, Y dos hacer huir a diez mil, Si su Roca no los hubiese vendido, Y Jehová no los hubiera entregado?",
+      "verse": 30,
+      "start_ms": 219737,
+      "end_ms": 228099,
+      "duration_ms": 8362
+    },
+    {
+      "word": "Porque la roca de ellos no es como nuestra Roca, Y aun nuestros enemigos son de ello jueces.",
+      "verse": 31,
+      "start_ms": 228100,
+      "end_ms": 234112,
+      "duration_ms": 6012
+    },
+    {
+      "word": "Porque de la vid de Sodoma es la vid de ellos, Y de los campos de Gomorra; Las uvas de ellos son uvas ponzoñosas, Racimos muy amargos tienen.",
+      "verse": 32,
+      "start_ms": 234112,
+      "end_ms": 243124,
+      "duration_ms": 9012
+    },
+    {
+      "word": "Veneno de serpientes es su vino, Y ponzoña cruel de áspides.",
+      "verse": 33,
+      "start_ms": 243125,
+      "end_ms": 247787,
+      "duration_ms": 4662
+    },
+    {
+      "word": "No tengo yo esto guardado conmigo, Sellado en mis tesoros?",
+      "verse": 34,
+      "start_ms": 247787,
+      "end_ms": 252124,
+      "duration_ms": 4337
+    },
+    {
+      "word": "Mía es la venganza y la retribución; A su tiempo su pie resbalará, Porque el día de",
+      "verse": 35,
+      "start_ms": 252125,
+      "end_ms": 258012,
+      "duration_ms": 5887
+    },
+    {
+      "word": "su aflicción está cercano, Y lo que les está preparado se apresura.",
+      "verse": 35,
+      "start_ms": 258172,
+      "end_ms": 262784,
+      "duration_ms": 4612
+    },
+    {
+      "word": "Porque Jehová juzgará a su pueblo, Y por amor de sus siervos se arrepentirá, Cuando viere que la fuerza pereció, Y que no queda ni siervo ni libre.",
+      "verse": 36,
+      "start_ms": 262734,
+      "end_ms": 271521,
+      "duration_ms": 8787
+    },
+    {
+      "word": "Y dirá: ¿Dónde están sus dioses, La roca en que se refugiaban; Que comían la grosura de sus sacrificios, Y bebían el vino de sus libaciones?",
+      "verse": 37,
+      "start_ms": 271522,
+      "end_ms": 280872,
+      "duration_ms": 9350
+    },
+    {
+      "word": "Levántense, que os ayuden Y os defiendan.",
+      "verse": 38,
+      "start_ms": 280872,
+      "end_ms": 284409,
+      "duration_ms": 3537
+    },
+    {
+      "word": "Ved ahora que yo, yo soy, Y no hay dioses conmigo; Yo hago morir, y yo hago vivir; Yo hiero, y yo sano; Y no hay quien pueda librar de mi mano.",
+      "verse": 39,
+      "start_ms": 284409,
+      "end_ms": 295084,
+      "duration_ms": 10675
+    },
+    {
+      "word": "Porque yo alzaré a los cielos mi mano, Y diré: Vivo yo para siempre, Si afilare mi reluciente espada, Y echare mano del juicio, Yo tomaré venganza de mis enemigos, Y daré la retribución a los que me aborrecen.",
+      "verse": 40,
+      "start_ms": 295084,
+      "end_ms": 308221,
+      "duration_ms": 13137
+    },
+    {
+      "word": "Embriagaré de sangre mis saetas, Y mi espada devorará carne; En la sangre de los muertos y de los cautivos, En las cabezas de larga cabellera del enemigo.",
+      "verse": 42,
+      "start_ms": 308222,
+      "end_ms": 317984,
+      "duration_ms": 9762
+    },
+    {
+      "word": "Alabad, naciones, a su pueblo, Porque él vengará la sangre de sus siervos, Y tomará venganza de sus enemigos, Y hará expiación por la tierra de su pueblo.",
+      "verse": 43,
+      "start_ms": 317984,
+      "end_ms": 327909,
+      "duration_ms": 9925
+    },
+    {
+      "word": "Vino Moisés y recitó todas las palabras de este cántico a oídos del pueblo, él y Josué hijo de Nun.",
+      "verse": 44,
+      "start_ms": 327909,
+      "end_ms": 334459,
+      "duration_ms": 6550
+    },
+    {
+      "word": "Y acabó Moisés de recitar todas estas palabras a todo Israel; y les dijo: Aplicad vuestro corazón a todas las palabras que yo os testifico hoy, para que las mandéis a vuestros hijos, a fin de que cuiden de cumplir todas las palabras de esta ley.",
+      "verse": 45,
+      "start_ms": 334459,
+      "end_ms": 349046,
+      "duration_ms": 14587
+    },
+    {
+      "word": "Porque no os es cosa vana; es vuestra vida, y por medio de esta ley haréis prolongar vuestros días sobre la tierra adonde vais, pasando el Jordán, para tomar posesión de ella.",
+      "verse": 47,
+      "start_ms": 349047,
+      "end_ms": 359659,
+      "duration_ms": 10612
+    },
+    {
+      "word": "Se le permite a Moisés contemplar la tierra de Canaán Y habló Jehová a Moisés aquel mismo día, diciendo: Sube a este monte de Abarim, al monte Nebo, situado en la tierra de Moab que está frente a Jericó, y mira la tierra de Canaán, que yo doy por heredad a los hijos de Israel; y muere en el monte al cual subes, y sé unido a tu pueblo, así como murió Aarón tu hermano en el monte Hor, y fue unido a su pueblo; por cuanto pecasteis contra mí en medio de los hijos de Israel en las aguas de Meriba de",
+      "verse": 47,
+      "start_ms": 359659,
+      "end_ms": 387646,
+      "duration_ms": 27987
+    },
+    {
+      "word": "Cades, en el desierto de Zin; porque no me santificasteis en medio de los hijos de Israel.",
+      "verse": 51,
+      "start_ms": 387647,
+      "end_ms": 393772,
+      "duration_ms": 6125
+    },
+    {
+      "word": "Verás, por tanto, delante de ti la tierra; mas no entrarás allá, a la tierra que doy a los hijos de Israel.",
+      "verse": 52,
+      "start_ms": 393772,
+      "end_ms": 401309,
+      "duration_ms": 7537
+    }
+  ]
+}

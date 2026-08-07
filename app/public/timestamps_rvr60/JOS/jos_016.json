@@ -1,0 +1,145 @@
+{
+  "book": "JOS",
+  "chapter": 16,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 10,
+  "word_count": 9,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 170,
+      "text": "Tocó en suerte a los hijos de José desde el Jordán de Jericó hasta las aguas de Jericó hacia el oriente, hacia el desierto que sube de Jericó por las montañas de Bet-el."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 170,
+      "char_end": 257,
+      "text": "Y de Bet-el sale a Luz, y pasa a lo largo del territorio de los arquitas hasta Atarot,"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 257,
+      "char_end": 388,
+      "text": "y baja hacia el occidente al territorio de los jafletitas, hasta el límite de Bet-horón la de abajo, y hasta Gezer; y sale al mar."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 388,
+      "char_end": 454,
+      "text": "Recibieron, pues, su heredad los hijos de José, Manasés y Efraín."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 454,
+      "char_end": 617,
+      "text": "Y en cuanto al territorio de los hijos de Efraín por sus familias, el límite de su heredad al lado del oriente fue desde Atarot-adar hasta Bet-horón la de arriba."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 617,
+      "char_end": 749,
+      "text": "Continúa el límite hasta el mar, y hasta Micmetat al norte, y da vuelta hacia el oriente hasta Taanat-silo, y de aquí pasa a Janoa."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 749,
+      "char_end": 821,
+      "text": "De Janoa desciende a Atarot y a Naarat, y toca Jericó y sale al Jordán."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 821,
+      "char_end": 962,
+      "text": "Y de Tapúa se vuelve hacia el mar, al arroyo de Caná, y sale al mar. ésta es la heredad de la tribu de los hijos de Efraín por sus familias."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 962,
+      "char_end": 1105,
+      "text": "Hubo también ciudades que se apartaron para los hijos de Efraín en medio de la heredad de los hijos de Manasés, todas ciudades con sus aldeas."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1105,
+      "char_end": 1229,
+      "text": "Pero no arrojaron al cananeo que habitaba en Gezer; antes quedó el cananeo en medio de Efraín, hasta hoy, y fue tributario."
+    }
+  ],
+  "words": [
+    {
+      "word": "Tocó en suerte a los hijos de José desde el Jordán de Jericó hasta las aguas de Jericó hacia el oriente, hacia el desierto que sube de Jericó por las montañas de Bet-el.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 9250,
+      "duration_ms": 9150
+    },
+    {
+      "word": "Y de Bet-el sale a Luz, y pasa a lo largo del territorio de los arquitas hasta Atarot, y baja hacia el occidente al territorio de los jafletitas, hasta el límite de Bet-horón la de abajo, y hasta Gezer; y sale al mar.",
+      "verse": 2,
+      "start_ms": 9200,
+      "end_ms": 22200,
+      "duration_ms": 13000
+    },
+    {
+      "word": "Recibieron, pues, su heredad los hijos de José, Manasés y Efraín.",
+      "verse": 4,
+      "start_ms": 22200,
+      "end_ms": 27600,
+      "duration_ms": 5400
+    },
+    {
+      "word": "Y en cuanto al territorio de los hijos de Efraín por sus familias, el límite de su heredad al lado del oriente fue desde Atarot-adar hasta Bet-horón la de arriba.",
+      "verse": 5,
+      "start_ms": 27600,
+      "end_ms": 36287,
+      "duration_ms": 8687
+    },
+    {
+      "word": "Continúa el límite hasta el mar, y hasta Micmetat al norte, y da vuelta hacia el oriente hasta Taanat-silo, y de aquí pasa a Janoa.",
+      "verse": 6,
+      "start_ms": 36287,
+      "end_ms": 44699,
+      "duration_ms": 8412
+    },
+    {
+      "word": "De Janoa desciende a Atarot y a Naarat, y toca Jericó y sale al Jordán.",
+      "verse": 7,
+      "start_ms": 44700,
+      "end_ms": 49712,
+      "duration_ms": 5012
+    },
+    {
+      "word": "Y de Tapúa se vuelve hacia el mar, al arroyo de Caná, y sale al mar. ésta es la heredad de la tribu de los hijos de Efraín por sus familias.",
+      "verse": 8,
+      "start_ms": 49712,
+      "end_ms": 57737,
+      "duration_ms": 8025
+    },
+    {
+      "word": "Hubo también ciudades que se apartaron para los hijos de Efraín en medio de la heredad de los hijos de Manasés, todas ciudades con sus aldeas.",
+      "verse": 9,
+      "start_ms": 57737,
+      "end_ms": 65662,
+      "duration_ms": 7925
+    },
+    {
+      "word": "Pero no arrojaron al cananeo que habitaba en Gezer; antes quedó el cananeo en medio de Efraín, hasta hoy, y fue tributario.",
+      "verse": 10,
+      "start_ms": 65662,
+      "end_ms": 73449,
+      "duration_ms": 7787
+    }
+  ]
+}

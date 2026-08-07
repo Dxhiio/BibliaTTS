@@ -1,0 +1,824 @@
+{
+  "book": "JUE",
+  "chapter": 9,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 57,
+  "word_count": 59,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 153,
+      "text": "Abimelec hijo de Jerobaal fue a Siquem, a los hermanos de su madre, y habló con ellos, y con toda la familia de la casa del padre de su madre, diciendo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 153,
+      "char_end": 380,
+      "text": "Yo os ruego que digáis en oídos de todos los de Siquem: ¿Qué os parece mejor, que os gobiernen setenta hombres, todos los hijos de Jerobaal, o que os gobierne un solo hombre? Acordaos que yo soy hueso vuestro, y carne vuestra."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 380,
+      "char_end": 566,
+      "text": "Y hablaron por él los hermanos de su madre en oídos de todos los de Siquem todas estas palabras; y el corazón de ellos se inclinó a favor de Abimelec, porque decían: Nuestro hermano es."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 566,
+      "char_end": 708,
+      "text": "Y le dieron setenta siclos de plata del templo de Baal-berit, con los cuales Abimelec alquiló hombres ociosos y vagabundos, que le siguieron."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 708,
+      "char_end": 895,
+      "text": "Y viniendo a la casa de su padre en Ofra, mató a sus hermanos los hijos de Jerobaal, setenta varones, sobre una misma piedra; pero quedó Jotam el hijo menor de Jerobaal, que se escondió."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 895,
+      "char_end": 1055,
+      "text": "Entonces se juntaron todos los de Siquem con toda la casa de Milo, y fueron y eligieron a Abimelec por rey, cerca de la llanura del pilar que estaba en Siquem."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 1055,
+      "char_end": 1215,
+      "text": "Cuando se lo dijeron a Jotam, fue y se puso en la cumbre del monte de Gerizim, y alzando su voz clamó y les dijo: Oídme, varones de Siquem, y así os oiga Dios."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1215,
+      "char_end": 1307,
+      "text": "Fueron una vez los árboles a elegir rey sobre sí, y dijeron al olivo: Reina sobre nosotros."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1307,
+      "char_end": 1446,
+      "text": "Mas el olivo respondió: ¿He de dejar mi aceite, con el cual en mí se honra a Dios y a los hombres, para ir a ser grande sobre los árboles?"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1446,
+      "char_end": 1513,
+      "text": "Y dijeron los árboles a la higuera: Anda tú, reina sobre nosotros."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1513,
+      "char_end": 1618,
+      "text": "Y respondió la higuera: ¿He de dejar mi dulzura y mi buen fruto, para ir a ser grande sobre los árboles?"
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1618,
+      "char_end": 1689,
+      "text": "Dijeron luego los árboles a la vid: Pues ven tú, reina sobre nosotros."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1689,
+      "char_end": 1811,
+      "text": "Y la vid les respondió: ¿He de dejar mi mosto, que alegra a Dios y a los hombres, para ir a ser grande sobre los árboles?"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1811,
+      "char_end": 1889,
+      "text": "Dijeron entonces todos los árboles a la zarza: Anda tú, reina sobre nosotros."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1889,
+      "char_end": 2074,
+      "text": "Y la zarza respondió a los árboles: Si en verdad me elegís por rey sobre vosotros, venid, abrigaos bajo de mi sombra; y si no, salga fuego de la zarza y devore a los cedros del Líbano."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2074,
+      "char_end": 2267,
+      "text": "Ahora, pues, si con verdad y con integridad habéis procedido en hacer rey a Abimelec, y si habéis actuado bien con Jerobaal y con su casa, y si le habéis pagado conforme a la obra de sus manos"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2267,
+      "char_end": 2365,
+      "text": "(porque mi padre peleó por vosotros, y expuso su vida al peligro para libraros de mano de Madián,"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2365,
+      "char_end": 2603,
+      "text": "y vosotros os habéis levantado hoy contra la casa de mi padre, y habéis matado a sus hijos, setenta varones sobre una misma piedra; y habéis puesto por rey sobre los de Siquem a Abimelec hijo de su criada, por cuanto es vuestro hermano);"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2603,
+      "char_end": 2730,
+      "text": "si con verdad y con integridad habéis procedido hoy con Jerobaal y con su casa, que gocéis de Abimelec, y él goce de vosotros."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2730,
+      "char_end": 2890,
+      "text": "Y si no, fuego salga de Abimelec, que consuma a los de Siquem y a la casa de Milo, y fuego salga de los de Siquem y de la casa de Milo, que consuma a Abimelec."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2890,
+      "char_end": 2981,
+      "text": "Y escapó Jotam y huyó, y se fue a Beer, y allí se estuvo por miedo de Abimelec su hermano."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2981,
+      "char_end": 3040,
+      "text": "Después que Abimelec hubo dominado sobre Israel tres años,"
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3040,
+      "char_end": 3154,
+      "text": "envió Dios un mal espíritu entre Abimelec y los hombres de Siquem, y los de Siquem se levantaron contra Abimelec;"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3154,
+      "char_end": 3377,
+      "text": "para que la violencia hecha a los setenta hijos de Jerobaal, y la sangre de ellos, recayera sobre Abimelec su hermano que los mató, y sobre los hombres de Siquem que fortalecieron las manos de él para matar a sus hermanos."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3377,
+      "char_end": 3546,
+      "text": "Y los de Siquem pusieron en las cumbres de los montes asechadores que robaban a todos los que pasaban junto a ellos por el camino; de lo cual fue dado aviso a Abimelec."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3546,
+      "char_end": 3656,
+      "text": "Y Gaal hijo de Ebed vino con sus hermanos y se pasaron a Siquem, y los de Siquem pusieron en él su confianza."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3656,
+      "char_end": 3823,
+      "text": "Y saliendo al campo, vendimiaron sus viñedos, y pisaron la uva e hicieron fiesta; y entrando en el templo de sus dioses, comieron y bebieron, y maldijeron a Abimelec."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3823,
+      "char_end": 4057,
+      "text": "Y Gaal hijo de Ebed dijo: ¿Quién es Abimelec, y qué es Siquem, para que nosotros le sirvamos? ¿No es hijo de Jerobaal, y no es Zebul ayudante suyo? Servid a los varones de Hamor padre de Siquem; pero ¿por qué le hemos de servir a él?"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 4057,
+      "char_end": 4185,
+      "text": "Ojalá estuviera este pueblo bajo mi mano, pues yo arrojaría luego a Abimelec, y diría a Abimelec: Aumenta tus ejércitos, y sal."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4185,
+      "char_end": 4281,
+      "text": "Cuando Zebul gobernador de la ciudad oyó las palabras de Gaal hijo de Ebed, se encendió en ira,"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4281,
+      "char_end": 4453,
+      "text": "y envió secretamente mensajeros a Abimelec, diciendo: He aquí que Gaal hijo de Ebed y sus hermanos han venido a Siquem, y he aquí que están sublevando la ciudad contra ti."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4453,
+      "char_end": 4549,
+      "text": "Levántate, pues, ahora de noche, tú y el pueblo que está contigo, y pon emboscadas en el campo."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4549,
+      "char_end": 4716,
+      "text": "Y por la mañana al salir el sol madruga y cae sobre la ciudad; y cuando él y el pueblo que está con él salgan contra ti, tú harás con él según se presente la ocasión."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 4716,
+      "char_end": 4845,
+      "text": "Levantándose, pues, de noche Abimelec y todo el pueblo que con él estaba, pusieron emboscada contra Siquem con cuatro compañías."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 4845,
+      "char_end": 5000,
+      "text": "Y Gaal hijo de Ebed salió, y se puso a la entrada de la puerta de la ciudad; y Abimelec y todo el pueblo que con él estaba, se levantaron de la emboscada."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 5000,
+      "char_end": 5174,
+      "text": "Y viendo Gaal al pueblo, dijo a Zebul: He allí gente que desciende de las cumbres de los montes. Y Zebul le respondió: Tú ves la sombra de los montes como si fueran hombres."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 5174,
+      "char_end": 5320,
+      "text": "Volvió Gaal a hablar, y dijo: He allí gente que desciende de en medio de la tierra, y una tropa viene por el camino de la encina de los adivinos."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 5320,
+      "char_end": 5499,
+      "text": "Y Zebul le respondió: ¿Dónde está ahora tu boca con que decías: Quién es Abimelec para que le sirvamos? ¿No es éste el pueblo que tenías en poco? Sal pues, ahora, y pelea con él."
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 5499,
+      "char_end": 5563,
+      "text": "Y Gaal salió delante de los de Siquem, y peleó contra Abimelec."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 5563,
+      "char_end": 5673,
+      "text": "Mas lo persiguió Abimelec, y Gaal huyó delante de él; y cayeron heridos muchos hasta la entrada de la puerta."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 5673,
+      "char_end": 5778,
+      "text": "Y Abimelec se quedó en Aruma; y Zebul echó fuera a Gaal y a sus hermanos, para que no morasen en Siquem."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 5778,
+      "char_end": 5865,
+      "text": "Aconteció el siguiente día, que el pueblo salió al campo; y fue dado aviso a Abimelec,"
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 5865,
+      "char_end": 6047,
+      "text": "el cual, tomando gente, la repartió en tres compañías, y puso emboscadas en el campo; y cuando miró, he aquí el pueblo que salía de la ciudad; y se levantó contra ellos y los atacó."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 6047,
+      "char_end": 6265,
+      "text": "Porque Abimelec y la compañía que estaba con él acometieron con ímpetu, y se detuvieron a la entrada de la puerta de la ciudad, y las otras dos compañías acometieron a todos los que estaban en el campo, y los mataron."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 6265,
+      "char_end": 6409,
+      "text": "Y Abimelec peleó contra la ciudad todo aquel día, y tomó la ciudad, y mató al pueblo que en ella estaba; y asoló la ciudad, y la sembró de sal."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 6409,
+      "char_end": 6528,
+      "text": "Cuando oyeron esto todos los que estaban en la torre de Siquem, se metieron en la fortaleza del templo del dios Berit."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 6528,
+      "char_end": 6622,
+      "text": "Y fue dado aviso a Abimelec, de que estaban reunidos todos los hombres de la torre de Siquem."
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 6622,
+      "char_end": 6917,
+      "text": "Entonces subió Abimelec al monte de Salmón, él y toda la gente que con él estaba; y tomó Abimelec un hacha en su mano, y cortó una rama de los árboles, y levantándola se la puso sobre sus hombros, diciendo al pueblo que estaba con él: Lo que me habéis visto hacer, apresuraos a hacerlo como yo."
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 6917,
+      "char_end": 7159,
+      "text": "Y todo el pueblo cortó también cada uno su rama, y siguieron a Abimelec, y las pusieron junto a la fortaleza, y prendieron fuego con ellas a la fortaleza, de modo que todos los de la torre de Siquem murieron, como unos mil hombres y mujeres."
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 7159,
+      "char_end": 7225,
+      "text": "Después Abimelec se fue a Tebes, y puso sitio a Tebes, y la tomó."
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 7225,
+      "char_end": 7437,
+      "text": "En medio de aquella ciudad había una torre fortificada, a la cual se retiraron todos los hombres y las mujeres, y todos los señores de la ciudad; y cerrando tras sí las puertas, se subieron al techo de la torre."
+    },
+    {
+      "verse": 52,
+      "label": "52",
+      "char_start": 7437,
+      "char_end": 7538,
+      "text": "Y vino Abimelec a la torre, y combatiéndola, llegó hasta la puerta de la torre para prenderle fuego."
+    },
+    {
+      "verse": 53,
+      "label": "53",
+      "char_start": 7538,
+      "char_end": 7647,
+      "text": "Mas una mujer dejó caer un pedazo de una rueda de molino sobre la cabeza de Abimelec, y le rompió el cráneo."
+    },
+    {
+      "verse": 54,
+      "label": "54",
+      "char_start": 7647,
+      "char_end": 7811,
+      "text": "Entonces llamó apresuradamente a su escudero, y le dijo: Saca tu espada y mátame, para que no se diga de mí: Una mujer lo mató. Y su escudero le atravesó, y murió."
+    },
+    {
+      "verse": 55,
+      "label": "55",
+      "char_start": 7811,
+      "char_end": 7891,
+      "text": "Y cuando los israelitas vieron muerto a Abimelec, se fueron cada uno a su casa."
+    },
+    {
+      "verse": 56,
+      "label": "56",
+      "char_start": 7891,
+      "char_end": 7981,
+      "text": "Así pagó Dios a Abimelec el mal que hizo contra su padre, matando a sus setenta hermanos."
+    },
+    {
+      "verse": 57,
+      "label": "57",
+      "char_start": 7981,
+      "char_end": 8118,
+      "text": "Y todo el mal de los hombres de Siquem lo hizo Dios volver sobre sus cabezas, y vino sobre ellos la maldición de Jotam hijo de Jerobaal."
+    }
+  ],
+  "words": [
+    {
+      "word": "Abimelec hijo de Jerobaal fue a Siquem, a los hermanos de su madre, y habló con ellos, y con toda la familia de la casa del padre de su madre, diciendo: Yo os ruego que digáis en oídos de todos los de Siquem: ¿Qué os parece mejor, que os gobiernen setenta hombres, todos los hijos de Jerobaal, o que os gobierne un solo hombre?",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 19962,
+      "duration_ms": 19862
+    },
+    {
+      "word": "Acordaos que yo soy hueso vuestro, y carne vuestra.",
+      "verse": 2,
+      "start_ms": 19962,
+      "end_ms": 23999,
+      "duration_ms": 4037
+    },
+    {
+      "word": "Y hablaron por él los hermanos de su madre en oídos de todos los de Siquem todas estas palabras; y el corazón de ellos se inclinó a favor de Abimelec, porque decían: Nuestro hermano es.",
+      "verse": 3,
+      "start_ms": 24000,
+      "end_ms": 35012,
+      "duration_ms": 11012
+    },
+    {
+      "word": "Y le dieron setenta siclos de plata del templo de Baal-berit, con los cuales Abimelec alquiló hombres ociosos y vagabundos, que le siguieron.",
+      "verse": 4,
+      "start_ms": 35012,
+      "end_ms": 43324,
+      "duration_ms": 8312
+    },
+    {
+      "word": "Y viniendo a la casa de su padre en Ofra, mató a sus hermanos los hijos de Jerobaal, setenta varones, sobre una misma piedra; pero quedó Jotam el hijo menor de Jerobaal, que se escondió.",
+      "verse": 5,
+      "start_ms": 43325,
+      "end_ms": 54812,
+      "duration_ms": 11487
+    },
+    {
+      "word": "Entonces se juntaron todos los de Siquem con toda la casa de Milo, y fueron y eligieron a Abimelec por rey, cerca de la llanura del pilar que estaba en Siquem.",
+      "verse": 6,
+      "start_ms": 54812,
+      "end_ms": 63862,
+      "duration_ms": 9050
+    },
+    {
+      "word": "Cuando se lo dijeron a Jotam, fue y se puso en la cumbre del monte de Gerizim, y alzando su voz clamó y les dijo: Oídme, varones de Siquem, y así os oiga Dios.",
+      "verse": 7,
+      "start_ms": 63862,
+      "end_ms": 74312,
+      "duration_ms": 10450
+    },
+    {
+      "word": "Fueron una vez los árboles a elegir rey sobre sí, y dijeron al olivo: Reina sobre nosotros.",
+      "verse": 8,
+      "start_ms": 74312,
+      "end_ms": 80737,
+      "duration_ms": 6425
+    },
+    {
+      "word": "Mas el olivo respondió: ¿He de dejar mi aceite, con el cual en mí se honra a Dios y a los hombres, para ir a ser grande sobre los árboles?",
+      "verse": 9,
+      "start_ms": 80737,
+      "end_ms": 89324,
+      "duration_ms": 8587
+    },
+    {
+      "word": "Y dijeron los árboles a la higuera: Anda tú, reina sobre nosotros.",
+      "verse": 10,
+      "start_ms": 89325,
+      "end_ms": 94187,
+      "duration_ms": 4862
+    },
+    {
+      "word": "Y respondió la higuera: ¿He de dejar mi dulzura y mi buen fruto, para ir a ser grande sobre los árboles?",
+      "verse": 11,
+      "start_ms": 94187,
+      "end_ms": 100874,
+      "duration_ms": 6687
+    },
+    {
+      "word": "Dijeron luego los árboles a la vid: Pues ven tú, reina sobre nosotros.",
+      "verse": 12,
+      "start_ms": 100875,
+      "end_ms": 106137,
+      "duration_ms": 5262
+    },
+    {
+      "word": "Y la vid les respondió: ¿He de dejar mi mosto, que alegra a Dios y a los hombres, para ir a ser grande sobre los árboles?",
+      "verse": 13,
+      "start_ms": 106137,
+      "end_ms": 114049,
+      "duration_ms": 7912
+    },
+    {
+      "word": "Dijeron entonces todos los árboles a la zarza: Anda tú, reina sobre nosotros.",
+      "verse": 14,
+      "start_ms": 114050,
+      "end_ms": 119825,
+      "duration_ms": 5775
+    },
+    {
+      "word": "Y la zarza respondió a los árboles: Si en verdad me elegís por rey sobre vosotros, venid, abrigaos bajo de mi sombra; y si no, salga fuego de la zarza y devore a los cedros del Líbano.",
+      "verse": 15,
+      "start_ms": 119825,
+      "end_ms": 131537,
+      "duration_ms": 11712
+    },
+    {
+      "word": "Ahora, pues, si con verdad y con integridad habéis procedido en hacer rey a Abimelec, y si habéis actuado bien con Jerobaal y con su casa, y si le habéis pagado conforme a la obra de sus manos (porque mi padre peleó por vosotros, y expuso su vida al peligro para libraros de mano de Madián, y vosotros os habéis levantado hoy contra la casa de mi padre, y habéis matado a sus hijos, setenta varones sobre una misma piedra; y habéis puesto por rey sobre los de Siquem a Abimelec hijo de su criada,",
+      "verse": 16,
+      "start_ms": 131537,
+      "end_ms": 160224,
+      "duration_ms": 28687
+    },
+    {
+      "word": "por cuanto es vuestro hermano); si con verdad y con integridad habéis procedido hoy con Jerobaal y con su casa, que gocéis de Abimelec, y él goce de vosotros.",
+      "verse": 18,
+      "start_ms": 160225,
+      "end_ms": 169762,
+      "duration_ms": 9537
+    },
+    {
+      "word": "Y si no, fuego salga de Abimelec, que consuma a los de Siquem y a la casa de Milo, y fuego salga de los de Siquem y de la casa de Milo, que consuma a Abimelec.",
+      "verse": 20,
+      "start_ms": 169762,
+      "end_ms": 180024,
+      "duration_ms": 10262
+    },
+    {
+      "word": "Y escapó Jotam y huyó, y se fue a Beer, y allí se estuvo por miedo de Abimelec su hermano.",
+      "verse": 21,
+      "start_ms": 180025,
+      "end_ms": 186212,
+      "duration_ms": 6187
+    },
+    {
+      "word": "Después que Abimelec hubo dominado sobre Israel tres años, envió Dios un mal espíritu entre Abimelec y los hombres de Siquem, y los de Siquem se levantaron contra Abimelec; para que la violencia hecha a los setenta hijos de Jerobaal, y la sangre de ellos, recayera sobre Abimelec su hermano que los mató, y sobre los hombres de Siquem que fortalecieron las manos de él para matar a sus hermanos.",
+      "verse": 22,
+      "start_ms": 186212,
+      "end_ms": 207849,
+      "duration_ms": 21637
+    },
+    {
+      "word": "Y los de Siquem pusieron en las cumbres de los montes asechadores que robaban a todos los que pasaban junto a ellos por el camino; de lo cual fue dado aviso a Abimelec.",
+      "verse": 25,
+      "start_ms": 207850,
+      "end_ms": 217137,
+      "duration_ms": 9287
+    },
+    {
+      "word": "Y Gaal hijo de Ebed vino con sus hermanos y se pasaron a Siquem, y los de Siquem pusieron en él su confianza.",
+      "verse": 26,
+      "start_ms": 217137,
+      "end_ms": 224012,
+      "duration_ms": 6875
+    },
+    {
+      "word": "Y saliendo al campo, vendimiaron sus viñedos, y pisaron la uva e hicieron fiesta; y entrando en el templo de sus dioses, comieron y bebieron, y maldijeron a Abimelec.",
+      "verse": 27,
+      "start_ms": 224012,
+      "end_ms": 234874,
+      "duration_ms": 10862
+    },
+    {
+      "word": "Y Gaal hijo de Ebed dijo: ¿Quién es Abimelec, y qué es Siquem, para que nosotros le sirvamos?",
+      "verse": 28,
+      "start_ms": 234875,
+      "end_ms": 241637,
+      "duration_ms": 6762
+    },
+    {
+      "word": "No es hijo de Jerobaal, y no es Zebul ayudante suyo?",
+      "verse": 28,
+      "start_ms": 241637,
+      "end_ms": 245812,
+      "duration_ms": 4175
+    },
+    {
+      "word": "Servid a los varones de Hamor padre de Siquem; pero ¿por",
+      "verse": 28,
+      "start_ms": 245812,
+      "end_ms": 249874,
+      "duration_ms": 4062
+    },
+    {
+      "word": "qué le hemos de servir a él?",
+      "verse": 28,
+      "start_ms": 250036,
+      "end_ms": 252386,
+      "duration_ms": 2350
+    },
+    {
+      "word": "Ojalá estuviera este pueblo bajo mi mano, pues yo arrojaría luego a Abimelec, y diría a Abimelec: Aumenta tus ejércitos, y sal.",
+      "verse": 29,
+      "start_ms": 252336,
+      "end_ms": 261248,
+      "duration_ms": 8912
+    },
+    {
+      "word": "Cuando Zebul gobernador de la ciudad oyó las palabras de Gaal hijo de Ebed, se encendió en ira, y envió secretamente mensajeros a Abimelec, diciendo: He aquí que Gaal hijo de Ebed y sus hermanos han venido a Siquem, y he aquí que están sublevando la ciudad contra ti.",
+      "verse": 30,
+      "start_ms": 261248,
+      "end_ms": 277060,
+      "duration_ms": 15812
+    },
+    {
+      "word": "Levántate, pues, ahora de noche, tú y el pueblo que está contigo, y pon emboscadas en el campo.",
+      "verse": 32,
+      "start_ms": 277061,
+      "end_ms": 283961,
+      "duration_ms": 6900
+    },
+    {
+      "word": "Y por la mañana al salir el sol madruga y cae sobre la ciudad; y cuando él y el pueblo que está con él salgan contra ti, tú harás con él según se presente la ocasión.",
+      "verse": 33,
+      "start_ms": 283961,
+      "end_ms": 293436,
+      "duration_ms": 9475
+    },
+    {
+      "word": "Levantándose, pues, de noche Abimelec y todo el pueblo que con él estaba, pusieron emboscada contra Siquem con cuatro compañías.",
+      "verse": 34,
+      "start_ms": 293436,
+      "end_ms": 301648,
+      "duration_ms": 8212
+    },
+    {
+      "word": "Y Gaal hijo de Ebed salió, y se puso a la entrada de la puerta de la ciudad; y Abimelec y todo el pueblo que con él estaba, se levantaron de la emboscada.",
+      "verse": 35,
+      "start_ms": 301648,
+      "end_ms": 310885,
+      "duration_ms": 9237
+    },
+    {
+      "word": "Y viendo Gaal al pueblo, dijo a Zebul: He allí gente que desciende de las cumbres de los montes.",
+      "verse": 36,
+      "start_ms": 310886,
+      "end_ms": 317073,
+      "duration_ms": 6187
+    },
+    {
+      "word": "Y Zebul le respondió: Tú ves la sombra de los montes como si fueran hombres.",
+      "verse": 36,
+      "start_ms": 317073,
+      "end_ms": 322010,
+      "duration_ms": 4937
+    },
+    {
+      "word": "Volvió Gaal a hablar, y dijo: He allí gente que desciende de en medio de la tierra, y una tropa viene por el camino de la encina de los adivinos.",
+      "verse": 37,
+      "start_ms": 322011,
+      "end_ms": 331211,
+      "duration_ms": 9200
+    },
+    {
+      "word": "Y Zebul le respondió: ¿Dónde está ahora tu boca con que decías: Quién es Abimelec para que le sirvamos?",
+      "verse": 38,
+      "start_ms": 331211,
+      "end_ms": 338073,
+      "duration_ms": 6862
+    },
+    {
+      "word": "No es éste el pueblo que tenías en poco?",
+      "verse": 38,
+      "start_ms": 338073,
+      "end_ms": 341035,
+      "duration_ms": 2962
+    },
+    {
+      "word": "Sal pues, ahora, y pelea con él.",
+      "verse": 38,
+      "start_ms": 341036,
+      "end_ms": 344636,
+      "duration_ms": 3600
+    },
+    {
+      "word": "Y Gaal salió delante de los de Siquem, y peleó contra Abimelec.",
+      "verse": 39,
+      "start_ms": 344636,
+      "end_ms": 349298,
+      "duration_ms": 4662
+    },
+    {
+      "word": "Mas lo persiguió Abimelec, y Gaal huyó delante de él; y cayeron heridos muchos hasta la entrada de la puerta.",
+      "verse": 40,
+      "start_ms": 349298,
+      "end_ms": 356460,
+      "duration_ms": 7162
+    },
+    {
+      "word": "Y Abimelec se quedó en Aruma; y Zebul echó fuera a Gaal y a sus hermanos, para que no morasen en Siquem.",
+      "verse": 41,
+      "start_ms": 356461,
+      "end_ms": 363223,
+      "duration_ms": 6762
+    },
+    {
+      "word": "Aconteció el siguiente día, que el pueblo salió al campo; y fue dado aviso a Abimelec, el cual, tomando gente, la repartió en tres compañías, y puso emboscadas en el campo; y cuando miró, he aquí el pueblo que salía de la ciudad; y se levantó contra ellos y los atacó.",
+      "verse": 42,
+      "start_ms": 363223,
+      "end_ms": 380235,
+      "duration_ms": 17012
+    },
+    {
+      "word": "Porque Abimelec y la compañía que estaba con él acometieron con ímpetu, y se detuvieron a la entrada de la puerta de la ciudad, y las otras dos compañías acometieron a todos los que estaban en el campo, y los mataron.",
+      "verse": 44,
+      "start_ms": 380236,
+      "end_ms": 392123,
+      "duration_ms": 11887
+    },
+    {
+      "word": "Y Abimelec peleó contra la ciudad todo aquel día, y tomó la ciudad, y mató al pueblo que en ella estaba; y asoló la ciudad, y la sembró de sal.",
+      "verse": 45,
+      "start_ms": 392123,
+      "end_ms": 401335,
+      "duration_ms": 9212
+    },
+    {
+      "word": "Cuando oyeron esto todos los que estaban en la torre de Siquem, se metieron en la fortaleza del templo del dios Berit.",
+      "verse": 46,
+      "start_ms": 401336,
+      "end_ms": 408123,
+      "duration_ms": 6787
+    },
+    {
+      "word": "Y fue dado aviso a Abimelec, de que estaban reunidos todos los hombres de la torre de Siquem.",
+      "verse": 47,
+      "start_ms": 408123,
+      "end_ms": 413985,
+      "duration_ms": 5862
+    },
+    {
+      "word": "Entonces subió Abimelec al monte de Salmón, él y toda la gente que con él estaba; y tomó Abimelec un hacha en su mano, y cortó una rama de los árboles, y levantándola se la puso sobre sus hombros, diciendo al pueblo que estaba con él: Lo que me habéis visto hacer, apresuraos a hacerlo como yo.",
+      "verse": 48,
+      "start_ms": 413986,
+      "end_ms": 431436,
+      "duration_ms": 17450
+    },
+    {
+      "word": "Y todo el pueblo cortó también cada uno su rama, y siguieron a Abimelec, y las pusieron junto a la fortaleza, y prendieron fuego con ellas a la fortaleza, de modo que todos los de la torre de Siquem murieron, como unos mil hombres y mujeres.",
+      "verse": 49,
+      "start_ms": 431436,
+      "end_ms": 445786,
+      "duration_ms": 14350
+    },
+    {
+      "word": "Después Abimelec se fue a Tebes, y puso sitio a Tebes, y la tomó.",
+      "verse": 50,
+      "start_ms": 445786,
+      "end_ms": 450698,
+      "duration_ms": 4912
+    },
+    {
+      "word": "En medio de aquella ciudad había una torre fortificada, a la cual se retiraron todos los hombres y las mujeres, y todos los señores de la ciudad; y cerrando tras sí las puertas, se subieron al techo de la torre.",
+      "verse": 51,
+      "start_ms": 450698,
+      "end_ms": 462998,
+      "duration_ms": 12300
+    },
+    {
+      "word": "Y vino Abimelec a la torre, y combatiéndola, llegó hasta la puerta de la torre para prenderle fuego.",
+      "verse": 52,
+      "start_ms": 462998,
+      "end_ms": 469398,
+      "duration_ms": 6400
+    },
+    {
+      "word": "Mas una mujer dejó caer un pedazo de una rueda de molino sobre la cabeza de Abimelec, y le rompió el cráneo.",
+      "verse": 53,
+      "start_ms": 469398,
+      "end_ms": 476198,
+      "duration_ms": 6800
+    },
+    {
+      "word": "Entonces llamó apresuradamente a su escudero, y le dijo: Saca tu espada y mátame, para que no se diga de mí: Una mujer lo mató.",
+      "verse": 54,
+      "start_ms": 476198,
+      "end_ms": 484835,
+      "duration_ms": 8637
+    },
+    {
+      "word": "Y su escudero le atravesó, y murió.",
+      "verse": 54,
+      "start_ms": 484836,
+      "end_ms": 487898,
+      "duration_ms": 3062
+    },
+    {
+      "word": "Y cuando los israelitas vieron muerto a Abimelec, se fueron cada uno a su casa.",
+      "verse": 55,
+      "start_ms": 487898,
+      "end_ms": 493323,
+      "duration_ms": 5425
+    },
+    {
+      "word": "Así pagó Dios a Abimelec el mal que hizo contra su padre, matando a sus setenta hermanos.",
+      "verse": 56,
+      "start_ms": 493323,
+      "end_ms": 499223,
+      "duration_ms": 5900
+    },
+    {
+      "word": "Y todo el mal de los hombres de",
+      "verse": 57,
+      "start_ms": 499223,
+      "end_ms": 501810,
+      "duration_ms": 2587
+    },
+    {
+      "word": "Siquem lo hizo Dios volver sobre sus cabezas, y vino sobre ellos la maldición de Jotam hijo de Jerobaal.",
+      "verse": 57,
+      "start_ms": 501964,
+      "end_ms": 508776,
+      "duration_ms": 6812
+    }
+  ]
+}

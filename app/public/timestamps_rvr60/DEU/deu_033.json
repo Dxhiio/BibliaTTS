@@ -1,0 +1,418 @@
+{
+  "book": "DEU",
+  "chapter": 33,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 29,
+  "word_count": 29,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 104,
+      "text": "Ésta es la bendición con la cual bendijo Moisés varón de Dios a los hijos de Israel, antes que muriese."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 104,
+      "char_end": 276,
+      "text": "Dijo: Jehová vino de Sinaí, Y de Seir les esclareció; Resplandeció desde el monte de Parán, Y vino de entre diez millares de santos, Con la ley de fuego a su mano derecha."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 276,
+      "char_end": 413,
+      "text": "Aun amó a su pueblo; Todos los consagrados a él estaban en su mano; Por tanto, ellos siguieron en tus pasos, Recibiendo dirección de ti,"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 413,
+      "char_end": 488,
+      "text": "Cuando Moisés nos ordenó una ley, Como heredad a la congregación de Jacob."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 488,
+      "char_end": 579,
+      "text": "Y fue rey en Jesurún, Cuando se congregaron los jefes del pueblo Con las tribus de Israel."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 579,
+      "char_end": 632,
+      "text": "Viva Rubén, y no muera; Y no sean pocos sus varones."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 632,
+      "char_end": 795,
+      "text": "Y esta bendición profirió para Judá. Dijo así: Oye, oh Jehová, la voz de Judá, Y llévalo a su pueblo; Sus manos le basten, Y tú seas su ayuda contra sus enemigos."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 795,
+      "char_end": 928,
+      "text": "A Leví dijo: Tu Tumim y tu Urim sean para tu varón piadoso, A quien probaste en Masah, Con quien contendiste en las aguas de Meriba,"
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 928,
+      "char_end": 1099,
+      "text": "Quien dijo de su padre y de su madre: Nunca los he visto; Y no reconoció a sus hermanos, Ni a sus hijos conoció; Pues ellos guardaron tus palabras, Y cumplieron tu pacto."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1099,
+      "char_end": 1222,
+      "text": "Ellos enseñarán tus juicios a Jacob, Y tu ley a Israel; Pondrán el incienso delante de ti, Y el holocausto sobre tu altar."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1222,
+      "char_end": 1392,
+      "text": "Bendice, oh Jehová, lo que hicieren, Y recibe con agrado la obra de sus manos; Hiere los lomos de sus enemigos, Y de los que lo aborrecieren, para que nunca se levanten."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1392,
+      "char_end": 1507,
+      "text": "A Benjamín dijo: El amado de Jehová habitará confiado cerca de él; Lo cubrirá siempre, Y entre sus hombros morará."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1507,
+      "char_end": 1627,
+      "text": "A José dijo: Bendita de Jehová sea tu tierra, Con lo mejor de los cielos, con el rocío, Y con el abismo que está abajo."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1627,
+      "char_end": 1698,
+      "text": "Con los más escogidos frutos del sol, Con el rico producto de la luna,"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1698,
+      "char_end": 1787,
+      "text": "Con el fruto más fino de los montes antiguos, Con la abundancia de los collados eternos,"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1787,
+      "char_end": 1974,
+      "text": "Y con las mejores dádivas de la tierra y su plenitud; Y la gracia del que habitó en la zarza Venga sobre la cabeza de José, Y sobre la frente de aquel que es príncipe entre sus hermanos."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 1974,
+      "char_end": 2200,
+      "text": "Como el primogénito de su toro es su gloria, Y sus astas como astas de búfalo; Con ellas acorneará a los pueblos juntos hasta los fines de la tierra; Ellos son los diez millares de Efraín, Y ellos son los millares de Manasés."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2200,
+      "char_end": 2282,
+      "text": "A Zabulón dijo: Alégrate, Zabulón, cuando salieres; Y tú, Isacar, en tus tiendas."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2282,
+      "char_end": 2447,
+      "text": "Llamarán a los pueblos a su monte; Allí sacrificarán sacrificios de justicia, Por lo cual chuparán la abundancia de los mares, Y los tesoros escondidos de la arena."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2447,
+      "char_end": 2540,
+      "text": "A Gad dijo: Bendito el que hizo ensanchar a Gad; Como león reposa, Y arrebata brazo y testa."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2540,
+      "char_end": 2734,
+      "text": "Escoge lo mejor de la tierra para sí, Porque allí le fue reservada la porción del legislador. Y vino en la delantera del pueblo; Con Israel ejecutó los mandatos y los justos decretos de Jehová."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2734,
+      "char_end": 2793,
+      "text": "A Dan dijo: Dan es cachorro de león Que salta desde Basán."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2793,
+      "char_end": 2902,
+      "text": "A Neftalí dijo: Neftalí, saciado de favores, Y lleno de la bendición de Jehová, Posee el occidente y el sur."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2902,
+      "char_end": 3004,
+      "text": "A Aser dijo: Bendito sobre los hijos sea Aser; Sea el amado de sus hermanos, Y moje en aceite su pie."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3004,
+      "char_end": 3075,
+      "text": "Hierro y bronce serán tus cerrojos, Y como tus días serán tus fuerzas."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3075,
+      "char_end": 3188,
+      "text": "No hay como el Dios de Jesurún, Quien cabalga sobre los cielos para tu ayuda, Y sobre las nubes con su grandeza."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 3188,
+      "char_end": 3305,
+      "text": "El eterno Dios es tu refugio, Y acá abajo los brazos eternos; él echó de delante de ti al enemigo, Y dijo: Destruye."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3305,
+      "char_end": 3433,
+      "text": "E Israel habitará confiado, la fuente de Jacob habitará sola En tierra de grano y de vino; También sus cielos destilarán rocío."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3433,
+      "char_end": 3622,
+      "text": "Bienaventurado tú, oh Israel. ¿Quién como tú, Pueblo salvo por Jehová, Escudo de tu socorro, Y espada de tu triunfo? Así que tus enemigos serán humillados, Y tú hollarás sobre sus alturas."
+    }
+  ],
+  "words": [
+    {
+      "word": "Ésta es la bendición con la cual bendijo Moisés varón de Dios a los hijos de Israel, antes que muriese.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 6337,
+      "duration_ms": 6237
+    },
+    {
+      "word": "Dijo: Jehová vino de Sinaí, Y de Seir les esclareció; Resplandeció desde el monte de Parán, Y vino de entre diez millares de santos, Con la ley de fuego a su mano derecha.",
+      "verse": 2,
+      "start_ms": 6287,
+      "end_ms": 17212,
+      "duration_ms": 10925
+    },
+    {
+      "word": "Aun amó a su pueblo; Todos los consagrados a él estaban en su mano; Por tanto, ellos siguieron en tus pasos, Recibiendo dirección de ti, Cuando Moisés nos ordenó una ley, Como heredad a la congregación de Jacob.",
+      "verse": 3,
+      "start_ms": 17212,
+      "end_ms": 30324,
+      "duration_ms": 13112
+    },
+    {
+      "word": "Y fue rey en Jesurún, Cuando se congregaron los jefes del pueblo Con las tribus de Israel.",
+      "verse": 5,
+      "start_ms": 30325,
+      "end_ms": 35862,
+      "duration_ms": 5537
+    },
+    {
+      "word": "Viva Rubén, y no muera; Y no sean pocos sus varones.",
+      "verse": 6,
+      "start_ms": 35862,
+      "end_ms": 40262,
+      "duration_ms": 4400
+    },
+    {
+      "word": "Y esta bendición profirió para Judá.",
+      "verse": 7,
+      "start_ms": 40262,
+      "end_ms": 43074,
+      "duration_ms": 2812
+    },
+    {
+      "word": "Dijo así: Oye, oh Jehová, la voz de Judá, Y llévalo a su pueblo; Sus manos le basten, Y tú seas su ayuda contra sus enemigos.",
+      "verse": 7,
+      "start_ms": 43075,
+      "end_ms": 52112,
+      "duration_ms": 9037
+    },
+    {
+      "word": "A Leví dijo: Tu Tumim y tu Urim sean para tu varón piadoso, A quien probaste en Masah, Con quien contendiste en las aguas de Meriba, Quien dijo de su padre y de su madre: Nunca los he visto; Y no reconoció a sus hermanos, Ni a sus hijos conoció; Pues ellos guardaron tus palabras, Y cumplieron tu pacto.",
+      "verse": 8,
+      "start_ms": 52112,
+      "end_ms": 70574,
+      "duration_ms": 18462
+    },
+    {
+      "word": "Ellos enseñarán tus juicios a Jacob, Y tu ley a Israel; Pondrán el incienso delante de ti, Y el holocausto sobre tu altar.",
+      "verse": 10,
+      "start_ms": 70575,
+      "end_ms": 78725,
+      "duration_ms": 8150
+    },
+    {
+      "word": "Bendice, oh Jehová, lo que hicieren, Y recibe con agrado la obra de sus manos; Hiere los lomos de sus enemigos, Y de los que lo aborrecieren, para que nunca se levanten.",
+      "verse": 11,
+      "start_ms": 78725,
+      "end_ms": 89587,
+      "duration_ms": 10862
+    },
+    {
+      "word": "A Benjamín dijo: El amado de Jehová habitará confiado cerca de él; Lo cubrirá siempre, Y entre sus hombros morará.",
+      "verse": 12,
+      "start_ms": 89587,
+      "end_ms": 97449,
+      "duration_ms": 7862
+    },
+    {
+      "word": "A José dijo: Bendita de Jehová sea tu tierra, Con lo mejor de los cielos, con el rocío, Y con el abismo que está abajo.",
+      "verse": 13,
+      "start_ms": 97450,
+      "end_ms": 105662,
+      "duration_ms": 8212
+    },
+    {
+      "word": "Con los más escogidos frutos del sol, Con el rico producto de la luna, Con el fruto más fino de los montes antiguos, Con la abundancia de los collados eternos, Y con las mejores dádivas de la tierra y su plenitud; Y la gracia del que habitó en la zarza Venga sobre la cabeza de José, Y sobre la frente de aquel que es príncipe entre sus hermanos.",
+      "verse": 14,
+      "start_ms": 105662,
+      "end_ms": 125012,
+      "duration_ms": 19350
+    },
+    {
+      "word": "Como el primogénito de su toro es su gloria, Y sus astas como astas de búfalo; Con ellas acorneará a los pueblos juntos hasta los fines de la tierra; Ellos son los diez millares de Efraín, Y ellos son los millares de Manasés.",
+      "verse": 17,
+      "start_ms": 125012,
+      "end_ms": 137887,
+      "duration_ms": 12875
+    },
+    {
+      "word": "A Zabulón dijo: Alégrate, Zabulón, cuando salieres; Y tú, Isacar, en tus tiendas.",
+      "verse": 18,
+      "start_ms": 137887,
+      "end_ms": 145237,
+      "duration_ms": 7350
+    },
+    {
+      "word": "Llamarán a los pueblos a su monte; Allí sacrificarán sacrificios de justicia, Por lo cual chuparán la abundancia de los mares, Y los tesoros escondidos de la arena.",
+      "verse": 19,
+      "start_ms": 145237,
+      "end_ms": 155037,
+      "duration_ms": 9800
+    },
+    {
+      "word": "A Gad dijo: Bendito el que hizo ensanchar a Gad; Como león reposa, Y arrebata brazo y testa.",
+      "verse": 20,
+      "start_ms": 155037,
+      "end_ms": 161812,
+      "duration_ms": 6775
+    },
+    {
+      "word": "Escoge lo mejor de la tierra para sí, Porque allí le fue reservada la porción del legislador.",
+      "verse": 21,
+      "start_ms": 161812,
+      "end_ms": 167687,
+      "duration_ms": 5875
+    },
+    {
+      "word": "Y vino en la delantera del pueblo; Con Israel ejecutó los mandatos y los justos decretos de Jehová.",
+      "verse": 21,
+      "start_ms": 167687,
+      "end_ms": 173887,
+      "duration_ms": 6200
+    },
+    {
+      "word": "A Dan dijo: Dan es cachorro de león Que salta desde Basán.",
+      "verse": 22,
+      "start_ms": 173887,
+      "end_ms": 178287,
+      "duration_ms": 4400
+    },
+    {
+      "word": "A Neftalí dijo: Neftalí, saciado de favores, Y lleno de la bendición de Jehová, Posee el occidente y el sur.",
+      "verse": 23,
+      "start_ms": 178287,
+      "end_ms": 186312,
+      "duration_ms": 8025
+    },
+    {
+      "word": "A Aser dijo: Bendito sobre los hijos sea Aser; Sea el amado de sus hermanos, Y moje en aceite su pie.",
+      "verse": 24,
+      "start_ms": 186312,
+      "end_ms": 193749,
+      "duration_ms": 7437
+    },
+    {
+      "word": "Hierro y bronce serán tus cerrojos, Y como tus días serán tus fuerzas.",
+      "verse": 25,
+      "start_ms": 193750,
+      "end_ms": 198737,
+      "duration_ms": 4987
+    },
+    {
+      "word": "No hay como el Dios de Jesurún, Quien cabalga sobre los cielos para tu ayuda, Y sobre las nubes con su grandeza.",
+      "verse": 26,
+      "start_ms": 198737,
+      "end_ms": 205537,
+      "duration_ms": 6800
+    },
+    {
+      "word": "El eterno Dios es tu refugio, Y acá abajo los brazos eternos; él echó de delante de ti al enemigo, Y dijo: Destruye.",
+      "verse": 27,
+      "start_ms": 205537,
+      "end_ms": 214162,
+      "duration_ms": 8625
+    },
+    {
+      "word": "E Israel habitará confiado, la fuente de Jacob habitará sola En tierra de grano y de vino; También sus cielos destilarán rocío.",
+      "verse": 28,
+      "start_ms": 214162,
+      "end_ms": 222374,
+      "duration_ms": 8212
+    },
+    {
+      "word": "Bienaventurado tú, oh Israel.",
+      "verse": 29,
+      "start_ms": 222375,
+      "end_ms": 225287,
+      "duration_ms": 2912
+    },
+    {
+      "word": "Quién como tú, Pueblo salvo por Jehová, Escudo de tu socorro, Y espada de tu triunfo?",
+      "verse": 29,
+      "start_ms": 225287,
+      "end_ms": 231499,
+      "duration_ms": 6212
+    },
+    {
+      "word": "Así que tus enemigos serán humillados, Y tú hollarás sobre sus alturas.",
+      "verse": 29,
+      "start_ms": 231500,
+      "end_ms": 236462,
+      "duration_ms": 4962
+    }
+  ]
+}

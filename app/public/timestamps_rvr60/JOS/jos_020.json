@@ -1,0 +1,124 @@
+{
+  "book": "JOS",
+  "chapter": 20,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 9,
+  "word_count": 7,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 32,
+      "text": "Habló Jehová a Josué, diciendo:"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 32,
+      "char_end": 150,
+      "text": "Habla a los hijos de Israel y diles: Señalaos las ciudades de refugio, de las cuales yo os hablé por medio de Moisés,"
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 150,
+      "char_end": 295,
+      "text": "para que se acoja allí el homicida que matare a alguno por accidente y no a sabiendas; y os servirán de refugio contra el vengador de la sangre."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 295,
+      "char_end": 548,
+      "text": "Y el que se acogiere a alguna de aquellas ciudades, se presentará a la puerta de la ciudad, y expondrá sus razones en oídos de los ancianos de aquella ciudad; y ellos le recibirán consigo dentro de la ciudad, y le darán lugar para que habite con ellos."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 548,
+      "char_end": 714,
+      "text": "Si el vengador de la sangre le siguiere, no entregarán en su mano al homicida, por cuanto hirió a su prójimo por accidente, y no tuvo con él ninguna enemistad antes."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 714,
+      "char_end": 952,
+      "text": "Y quedará en aquella ciudad hasta que comparezca en juicio delante de la congregación, y hasta la muerte del que fuere sumo sacerdote en aquel tiempo; entonces el homicida podrá volver a su ciudad y a su casa y a la ciudad de donde huyó."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 952,
+      "char_end": 1097,
+      "text": "Entonces señalaron a Cedes en Galilea, en el monte de Neftalí, Siquem en el monte de Efraín, y Quiriat-arba (que es Hebrón) en el monte de Judá."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1097,
+      "char_end": 1292,
+      "text": "Y al otro lado del Jordán al oriente de Jericó, señalaron a Beser en el desierto, en la llanura de la tribu de Rubén, Ramot en Galaad de la tribu de Gad, y Golán en Basán de la tribu de Manasés."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1292,
+      "char_end": 1592,
+      "text": "Éstas fueron las ciudades señaladas para todos los hijos de Israel, y para el extranjero que morase entre ellos, para que se acogiese a ellas cualquiera que hiriese a alguno por accidente, a fin de que no muriese por mano del vengador de la sangre, hasta que compareciese delante de la congregación."
+    }
+  ],
+  "words": [
+    {
+      "word": "Habló Jehová a Josué, diciendo: Habla a los hijos de Israel y diles: Señalaos las ciudades de refugio, de las cuales yo os hablé por medio de Moisés, para que se acoja allí el homicida que matare a alguno por accidente y no a sabiendas; y os servirán de refugio contra el vengador de la sangre.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 17812,
+      "duration_ms": 17712
+    },
+    {
+      "word": "Y el que se acogiere a alguna de aquellas ciudades, se presentará a la puerta de la ciudad, y expondrá sus razones en oídos de los ancianos de aquella ciudad; y ellos le recibirán consigo dentro de la ciudad, y le darán lugar para que habite con ellos.",
+      "verse": 4,
+      "start_ms": 17812,
+      "end_ms": 31924,
+      "duration_ms": 14112
+    },
+    {
+      "word": "Si el vengador de la sangre le siguiere, no entregarán en su mano al homicida, por cuanto hirió a su prójimo por accidente, y no tuvo con él ninguna enemistad antes.",
+      "verse": 5,
+      "start_ms": 31925,
+      "end_ms": 41725,
+      "duration_ms": 9800
+    },
+    {
+      "word": "Y quedará en aquella ciudad hasta que comparezca en juicio delante de la congregación, y hasta la muerte del que fuere sumo sacerdote en aquel tiempo; entonces el homicida podrá volver a su ciudad y a su casa y a la ciudad de donde huyó.",
+      "verse": 6,
+      "start_ms": 41725,
+      "end_ms": 54525,
+      "duration_ms": 12800
+    },
+    {
+      "word": "Entonces señalaron a Cedes en Galilea, en el monte de Neftalí, Siquem en el monte de Efraín, y Quiriat-arba (que es Hebrón) en el monte de Judá.",
+      "verse": 7,
+      "start_ms": 54525,
+      "end_ms": 64037,
+      "duration_ms": 9512
+    },
+    {
+      "word": "Y al otro lado del Jordán al oriente de Jericó, señalaron a Beser en el desierto, en la llanura de la tribu de Rubén, Ramot en Galaad de la tribu de Gad, y Golán en Basán de la tribu de Manasés.",
+      "verse": 8,
+      "start_ms": 64037,
+      "end_ms": 75787,
+      "duration_ms": 11750
+    },
+    {
+      "word": "Éstas fueron las ciudades señaladas para todos los hijos de Israel, y para el extranjero que morase entre ellos, para que se acogiese a ellas cualquiera que hiriese a alguno por accidente, a fin de que no muriese por mano del vengador de la sangre, hasta que compareciese delante de la congregación.",
+      "verse": 9,
+      "start_ms": 75787,
+      "end_ms": 91799,
+      "duration_ms": 16012
+    }
+  ]
+}

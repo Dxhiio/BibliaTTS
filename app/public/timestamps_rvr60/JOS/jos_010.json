@@ -1,0 +1,593 @@
+{
+  "book": "JOS",
+  "chapter": 10,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 43,
+  "word_count": 40,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 253,
+      "text": "Cuando Adonisedec rey de Jerusalén oyó que Josué había tomado a Hai, y que la había asolado (como había hecho a Jericó y a su rey, así hizo a Hai y a su rey), y que los moradores de Gabaón habían hecho paz con los israelitas, y que estaban entre ellos,"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 253,
+      "char_end": 389,
+      "text": "tuvo gran temor; porque Gabaón era una gran ciudad, como una de las ciudades reales, y mayor que Hai, y todos sus hombres eran fuertes."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 389,
+      "char_end": 538,
+      "text": "Por lo cual Adonisedec rey de Jerusalén envió a Hoham rey de Hebrón, a Piream rey de Jarmut, a Jafía rey de Laquis y a Debir rey de Eglón, diciendo:"
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 538,
+      "char_end": 641,
+      "text": "Subid a mí y ayudadme, y combatamos a Gabaón; porque ha hecho paz con Josué y con los hijos de Israel."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 641,
+      "char_end": 873,
+      "text": "Y cinco reyes de los amorreos, el rey de Jerusalén, el rey de Hebrón, el rey de Jarmut, el rey de Laquis y el rey de Eglón, se juntaron y subieron, ellos con todos sus ejércitos, y acamparon cerca de Gabaón, y pelearon contra ella."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 873,
+      "char_end": 1143,
+      "text": "Entonces los moradores de Gabaón enviaron a decir a Josué al campamento en Gilgal: No niegues ayuda a tus siervos; sube prontamente a nosotros para defendernos y ayudarnos; porque todos los reyes de los amorreos que habitan en las montañas se han unido contra nosotros."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 1143,
+      "char_end": 1237,
+      "text": "Y subió Josué de Gilgal, él y todo el pueblo de guerra con él, y todos los hombres valientes."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1237,
+      "char_end": 1371,
+      "text": "Y Jehová dijo a Josué: No tengas temor de ellos; porque yo los he entregado en tu mano, y ninguno de ellos prevalecerá delante de ti."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1371,
+      "char_end": 1448,
+      "text": "Y Josué vino a ellos de repente, habiendo subido toda la noche desde Gilgal."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1448,
+      "char_end": 1628,
+      "text": "Y Jehová los llenó de consternación delante de Israel, y los hirió con gran mortandad en Gabaón; y los siguió por el camino que sube a Bet-horón, y los hirió hasta Azeca y Maceda."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1628,
+      "char_end": 1888,
+      "text": "Y mientras iban huyendo de los israelitas, a la bajada de Bet-horón, Jehová arrojó desde el cielo grandes piedras sobre ellos hasta Azeca, y murieron; y fueron más los que murieron por las piedras del granizo, que los que los hijos de Israel mataron a espada."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1888,
+      "char_end": 2088,
+      "text": "Entonces Josué habló a Jehová el día en que Jehová entregó al amorreo delante de los hijos de Israel, y dijo en presencia de los israelitas: Sol, detente en Gabaón; Y tú, luna, en el valle de Ajalón."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 2088,
+      "char_end": 2306,
+      "text": "Y el sol se detuvo y la luna se paró, Hasta que la gente se hubo vengado de sus enemigos. ¿No está escrito esto en el libro de Jaser? Y el sol se paró en medio del cielo, y no se apresuró a ponerse casi un día entero."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 2306,
+      "char_end": 2441,
+      "text": "Y no hubo día como aquél, ni antes ni después de él, habiendo atendido Jehová a la voz de un hombre; porque Jehová peleaba por Israel."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2441,
+      "char_end": 2504,
+      "text": "Y Josué, y todo Israel con él, volvió al campamento en Gilgal."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2504,
+      "char_end": 2572,
+      "text": "Y los cinco reyes huyeron, y se escondieron en una cueva en Maceda."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2572,
+      "char_end": 2673,
+      "text": "Y fue dado aviso a Josué que los cinco reyes habían sido hallados escondidos en una cueva en Maceda."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2673,
+      "char_end": 2793,
+      "text": "Entonces Josué dijo: Rodad grandes piedras a la entrada de la cueva, y poned hombres junto a ella para que los guarden;"
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2793,
+      "char_end": 2979,
+      "text": "y vosotros no os detengáis, sino seguid a vuestros enemigos, y heridles la retaguardia, sin dejarles entrar en sus ciudades; porque Jehová vuestro Dios los ha entregado en vuestra mano."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2979,
+      "char_end": 3157,
+      "text": "Y aconteció que cuando Josué y los hijos de Israel acabaron de herirlos con gran mortandad hasta destruirlos, los que quedaron de ellos se metieron en las ciudades fortificadas."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 3157,
+      "char_end": 3297,
+      "text": "Todo el pueblo volvió sano y salvo a Josué, al campamento en Maceda; no hubo quien moviese su lengua contra ninguno de los hijos de Israel."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3297,
+      "char_end": 3384,
+      "text": "Entonces dijo Josué: Abrid la entrada de la cueva, y sacad de ella a esos cinco reyes."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3384,
+      "char_end": 3542,
+      "text": "Y lo hicieron así, y sacaron de la cueva a aquellos cinco reyes: al rey de Jerusalén, al rey de Hebrón, al rey de Jarmut, al rey de Laquis y al rey de Eglón."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3542,
+      "char_end": 3832,
+      "text": "Y cuando los hubieron llevado a Josué, llamó Josué a todos los varones de Israel, y dijo a los principales de la gente de guerra que habían venido con él: Acercaos, y poned vuestros pies sobre los cuellos de estos reyes. Y ellos se acercaron y pusieron sus pies sobre los cuellos de ellos."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3832,
+      "char_end": 3981,
+      "text": "Y Josué les dijo: No temáis, ni os atemoricéis; sed fuertes y valientes, porque así hará Jehová a todos vuestros enemigos contra los cuales peleáis."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3981,
+      "char_end": 4119,
+      "text": "Y después de esto Josué los hirió y los mató, y los hizo colgar en cinco maderos; y quedaron colgados en los maderos hasta caer la noche."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 4119,
+      "char_end": 4335,
+      "text": "Y cuando el sol se iba a poner, mandó Josué que los quitasen de los maderos, y los echasen en la cueva donde se habían escondido; y pusieron grandes piedras a la entrada de la cueva, las cuales permanecen hasta hoy."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 4335,
+      "char_end": 4559,
+      "text": "En aquel mismo día tomó Josué a Maceda, y la hirió a filo de espada, y mató a su rey; por completo los destruyó, con todo lo que en ella tenía vida, sin dejar nada; e hizo al rey de Maceda como había hecho al rey de Jericó."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 4559,
+      "char_end": 4636,
+      "text": "Y de Maceda pasó Josué, y todo Israel con él, a Libna; y peleó contra Libna;"
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4636,
+      "char_end": 4847,
+      "text": "y Jehová la entregó también a ella y a su rey en manos de Israel; y la hirió a filo de espada, con todo lo que en ella tenía vida, sin dejar nada; e hizo a su rey de la manera como había hecho al rey de Jericó."
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4847,
+      "char_end": 4941,
+      "text": "Y Josué, y todo Israel con él, pasó de Libna a Laquis, y acampó cerca de ella, y la combatió;"
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4941,
+      "char_end": 5110,
+      "text": "y Jehová entregó a Laquis en mano de Israel, y la tomó al día siguiente, y la hirió a filo de espada, con todo lo que en ella tenía vida, así como había hecho en Libna."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 5110,
+      "char_end": 5238,
+      "text": "Entonces Horam rey de Gezer subió en ayuda de Laquis; mas a él y a su pueblo destruyó Josué, hasta no dejar a ninguno de ellos."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 5238,
+      "char_end": 5336,
+      "text": "De Laquis pasó Josué, y todo Israel con él, a Eglón; y acamparon cerca de ella, y la combatieron;"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 5336,
+      "char_end": 5474,
+      "text": "y la tomaron el mismo día, y la hirieron a filo de espada; y aquel día mató a todo lo que en ella tenía vida, como había hecho en Laquis."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 5474,
+      "char_end": 5552,
+      "text": "Subió luego Josué, y todo Israel con él, de Eglón a Hebrón, y la combatieron."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 5552,
+      "char_end": 5761,
+      "text": "Y tomándola, la hirieron a filo de espada, a su rey y a todas sus ciudades, con todo lo que en ella tenía vida, sin dejar nada; como había hecho a Eglón, así la destruyeron con todo lo que en ella tenía vida."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 5761,
+      "char_end": 5842,
+      "text": "Después volvió Josué, y todo Israel con él, sobre Debir, y combatió contra ella;"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 5842,
+      "char_end": 6083,
+      "text": "y la tomó, y a su rey, y a todas sus ciudades; y las hirieron a filo de espada, y destruyeron todo lo que allí dentro tenía vida, sin dejar nada; como había hecho a Hebrón, y como había hecho a Libna y a su rey, así hizo a Debir y a su rey."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 6083,
+      "char_end": 6295,
+      "text": "Hirió, pues, Josué toda la región de las montañas, del Neguev, de los llanos y de las laderas, y a todos sus reyes, sin dejar nada; todo lo que tenía vida lo mató, como Jehová Dios de Israel se lo había mandado."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 6295,
+      "char_end": 6384,
+      "text": "Y los hirió Josué desde Cades-barnea hasta Gaza, y toda la tierra de Gosén hasta Gabaón."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 6384,
+      "char_end": 6495,
+      "text": "Todos estos reyes y sus tierras los tomó Josué de una vez; porque Jehová el Dios de Israel peleaba por Israel."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 6495,
+      "char_end": 6558,
+      "text": "Y volvió Josué, y todo Israel con él, al campamento en Gilgal."
+    }
+  ],
+  "words": [
+    {
+      "word": "Cuando Adonisedec rey de Jerusalén oyó que Josué había tomado a Hai, y que la había asolado (como había hecho a Jericó y a su rey, así hizo a Hai y a su rey), y que los moradores de Gabaón habían hecho paz con los israelitas, y que estaban entre ellos, tuvo gran temor; porque Gabaón era una gran ciudad, como una de las ciudades reales, y mayor que Hai, y todos sus hombres eran fuertes.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 23250,
+      "duration_ms": 23150
+    },
+    {
+      "word": "Por lo cual Adonisedec rey de Jerusalén envió a Hoham rey de Hebrón, a Piream rey de Jarmut, a Jafía rey de Laquis y a Debir rey de Eglón, diciendo: Subid a mí y ayudadme, y combatamos a Gabaón; porque ha hecho paz con Josué y con los hijos de Israel.",
+      "verse": 3,
+      "start_ms": 23250,
+      "end_ms": 38550,
+      "duration_ms": 15300
+    },
+    {
+      "word": "Y cinco reyes de los amorreos, el rey de Jerusalén, el rey de Hebrón, el rey de Jarmut, el rey de Laquis y el rey de Eglón, se juntaron y subieron, ellos con todos sus ejércitos, y acamparon cerca de Gabaón, y pelearon contra ella.",
+      "verse": 5,
+      "start_ms": 38550,
+      "end_ms": 53387,
+      "duration_ms": 14837
+    },
+    {
+      "word": "Entonces los moradores de Gabaón enviaron a decir a Josué al campamento en Gilgal: No niegues ayuda a tus siervos; sube prontamente a nosotros para defendernos y ayudarnos; porque todos los reyes de los amorreos que habitan en las montañas se han unido contra nosotros.",
+      "verse": 6,
+      "start_ms": 53387,
+      "end_ms": 68637,
+      "duration_ms": 15250
+    },
+    {
+      "word": "Y subió Josué de Gilgal, él y todo el pueblo de guerra con él, y todos los hombres valientes.",
+      "verse": 7,
+      "start_ms": 68637,
+      "end_ms": 74799,
+      "duration_ms": 6162
+    },
+    {
+      "word": "Y Jehová dijo a Josué: No tengas temor de ellos; porque yo los he entregado en tu mano, y ninguno de ellos prevalecerá delante de ti.",
+      "verse": 8,
+      "start_ms": 74800,
+      "end_ms": 83300,
+      "duration_ms": 8500
+    },
+    {
+      "word": "Y Josué vino a ellos de repente, habiendo subido toda la noche desde Gilgal.",
+      "verse": 9,
+      "start_ms": 83300,
+      "end_ms": 88775,
+      "duration_ms": 5475
+    },
+    {
+      "word": "Y Jehová los llenó de consternación delante de Israel, y los hirió con gran mortandad en Gabaón; y los siguió por el camino que sube a Bet-horón, y los hirió hasta Azeca y Maceda.",
+      "verse": 10,
+      "start_ms": 88775,
+      "end_ms": 99175,
+      "duration_ms": 10400
+    },
+    {
+      "word": "Y mientras iban huyendo de los israelitas, a la bajada de Bet-horón, Jehová arrojó desde el cielo grandes piedras sobre ellos hasta Azeca, y murieron; y fueron más los que murieron por las piedras del granizo, que los que los hijos de Israel mataron a espada.",
+      "verse": 11,
+      "start_ms": 99175,
+      "end_ms": 113600,
+      "duration_ms": 14425
+    },
+    {
+      "word": "Entonces Josué habló a Jehová el día en que Jehová entregó al amorreo delante de los hijos de Israel, y dijo en presencia de los israelitas: Sol, detente en Gabaón; Y tú, luna, en el valle de Ajalón.",
+      "verse": 12,
+      "start_ms": 113600,
+      "end_ms": 126350,
+      "duration_ms": 12750
+    },
+    {
+      "word": "Y el sol se detuvo y la luna se paró, Hasta que la gente se hubo vengado de sus enemigos.",
+      "verse": 13,
+      "start_ms": 126350,
+      "end_ms": 132362,
+      "duration_ms": 6012
+    },
+    {
+      "word": "No está escrito esto en el libro de Jaser?",
+      "verse": 13,
+      "start_ms": 132362,
+      "end_ms": 135387,
+      "duration_ms": 3025
+    },
+    {
+      "word": "Y el sol se paró en medio del cielo, y no se apresuró a ponerse casi un día entero.",
+      "verse": 13,
+      "start_ms": 135387,
+      "end_ms": 140874,
+      "duration_ms": 5487
+    },
+    {
+      "word": "Y no hubo día como aquél, ni antes ni después de él, habiendo atendido Jehová a la voz de un hombre; porque Jehová peleaba por Israel.",
+      "verse": 14,
+      "start_ms": 140875,
+      "end_ms": 149325,
+      "duration_ms": 8450
+    },
+    {
+      "word": "Y Josué, y todo Israel con él, volvió al campamento en Gilgal.",
+      "verse": 15,
+      "start_ms": 149325,
+      "end_ms": 154337,
+      "duration_ms": 5012
+    },
+    {
+      "word": "Y los cinco reyes huyeron, y se escondieron en una cueva en Maceda.",
+      "verse": 16,
+      "start_ms": 154337,
+      "end_ms": 158924,
+      "duration_ms": 4587
+    },
+    {
+      "word": "Y fue dado aviso a Josué que los cinco reyes habían sido hallados escondidos en una cueva en Maceda.",
+      "verse": 17,
+      "start_ms": 158925,
+      "end_ms": 164925,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Entonces Josué dijo: Rodad grandes piedras a la entrada de la cueva, y poned hombres junto a ella para que los guarden; y vosotros no os detengáis, sino seguid a vuestros enemigos, y heridles la retaguardia, sin dejarles entrar en sus ciudades; porque Jehová vuestro Dios los ha entregado en vuestra mano.",
+      "verse": 18,
+      "start_ms": 164925,
+      "end_ms": 182962,
+      "duration_ms": 18037
+    },
+    {
+      "word": "Y aconteció que cuando Josué y los hijos de Israel acabaron de herirlos con gran mortandad hasta destruirlos, los que quedaron de ellos se metieron en las ciudades fortificadas.",
+      "verse": 20,
+      "start_ms": 182962,
+      "end_ms": 192774,
+      "duration_ms": 9812
+    },
+    {
+      "word": "Todo el pueblo volvió sano y salvo a Josué, al campamento en Maceda; no hubo quien moviese su lengua contra ninguno de los hijos de Israel.",
+      "verse": 21,
+      "start_ms": 192775,
+      "end_ms": 201212,
+      "duration_ms": 8437
+    },
+    {
+      "word": "Entonces dijo Josué: Abrid la entrada de la cueva, y sacad de ella a esos cinco reyes.",
+      "verse": 22,
+      "start_ms": 201212,
+      "end_ms": 207699,
+      "duration_ms": 6487
+    },
+    {
+      "word": "Y lo hicieron así, y sacaron de la cueva a aquellos cinco reyes: al rey de Jerusalén, al rey de Hebrón, al rey de Jarmut, al rey de Laquis y al rey de Eglón.",
+      "verse": 23,
+      "start_ms": 207700,
+      "end_ms": 217625,
+      "duration_ms": 9925
+    },
+    {
+      "word": "Y cuando los hubieron llevado a Josué, llamó Josué a todos los varones de Israel, y dijo a los principales de la gente de guerra que habían venido con él: Acercaos, y poned vuestros pies sobre los cuellos de estos reyes.",
+      "verse": 24,
+      "start_ms": 217625,
+      "end_ms": 230500,
+      "duration_ms": 12875
+    },
+    {
+      "word": "Y ellos se acercaron y pusieron sus pies sobre los cuellos de ellos.",
+      "verse": 24,
+      "start_ms": 230500,
+      "end_ms": 234800,
+      "duration_ms": 4300
+    },
+    {
+      "word": "Y Josué les dijo: No temáis, ni os atemoricéis; sed fuertes y valientes, porque así hará Jehová a todos vuestros enemigos contra los cuales peleáis.",
+      "verse": 25,
+      "start_ms": 234800,
+      "end_ms": 244850,
+      "duration_ms": 10050
+    },
+    {
+      "word": "Y después de",
+      "verse": 26,
+      "start_ms": 244850,
+      "end_ms": 246587,
+      "duration_ms": 1737
+    },
+    {
+      "word": "esto Josué los hirió y los mató, y los hizo colgar en cinco maderos; y quedaron colgados en los maderos hasta caer la noche.",
+      "verse": 26,
+      "start_ms": 246748,
+      "end_ms": 254698,
+      "duration_ms": 7950
+    },
+    {
+      "word": "Y cuando el sol se iba a poner, mandó Josué que los quitasen de los maderos, y los echasen en la cueva donde se habían escondido; y pusieron grandes piedras a la entrada de la cueva, las cuales permanecen hasta hoy.",
+      "verse": 27,
+      "start_ms": 254648,
+      "end_ms": 266510,
+      "duration_ms": 11862
+    },
+    {
+      "word": "En aquel mismo día tomó Josué a Maceda, y la hirió a filo de espada, y mató a su rey; por completo los destruyó, con todo lo que en ella tenía vida, sin dejar nada; e hizo al rey de Maceda como había hecho al rey de Jericó.",
+      "verse": 28,
+      "start_ms": 266510,
+      "end_ms": 280760,
+      "duration_ms": 14250
+    },
+    {
+      "word": "Y de Maceda pasó Josué, y todo Israel con él, a Libna; y peleó contra Libna; y Jehová la entregó también a ella y a su rey en manos de Israel; y la hirió a filo de espada, con todo lo que en ella tenía vida, sin dejar nada; e hizo a su rey de la manera como había hecho al rey de Jericó.",
+      "verse": 29,
+      "start_ms": 280760,
+      "end_ms": 298760,
+      "duration_ms": 18000
+    },
+    {
+      "word": "Y Josué, y todo Israel con él, pasó de Libna a Laquis, y acampó cerca de ella, y la combatió; y Jehová entregó a Laquis en mano de Israel, y la tomó al día siguiente, y la hirió a filo de espada, con todo lo que en ella tenía vida, así como había hecho en Libna.",
+      "verse": 31,
+      "start_ms": 298760,
+      "end_ms": 315697,
+      "duration_ms": 16937
+    },
+    {
+      "word": "Entonces Horam rey de Gezer subió en ayuda de Laquis; mas a él y a su pueblo destruyó Josué, hasta no dejar a ninguno de ellos.",
+      "verse": 33,
+      "start_ms": 315698,
+      "end_ms": 324110,
+      "duration_ms": 8412
+    },
+    {
+      "word": "De Laquis pasó Josué, y todo Israel con él, a Eglón; y acamparon cerca de ella, y la combatieron; y la tomaron el mismo día, y la hirieron a filo de espada; y aquel día mató a todo lo que en ella tenía vida, como había hecho en Laquis.",
+      "verse": 34,
+      "start_ms": 324110,
+      "end_ms": 339760,
+      "duration_ms": 15650
+    },
+    {
+      "word": "Subió luego Josué, y todo Israel con él, de Eglón a Hebrón, y la combatieron.",
+      "verse": 36,
+      "start_ms": 339760,
+      "end_ms": 345760,
+      "duration_ms": 6000
+    },
+    {
+      "word": "Y tomándola, la hirieron a filo de espada, a su rey y a todas sus ciudades, con todo lo que en ella tenía vida, sin dejar nada; como había hecho a Eglón, así la destruyeron con todo lo que en ella tenía vida.",
+      "verse": 37,
+      "start_ms": 345760,
+      "end_ms": 358897,
+      "duration_ms": 13137
+    },
+    {
+      "word": "Después volvió Josué, y todo Israel con él, sobre Debir, y combatió contra ella; y la tomó, y a su rey, y a todas sus ciudades; y las hirieron a filo de espada, y destruyeron todo lo que allí dentro tenía vida, sin dejar nada; como había hecho a Hebrón, y como había hecho a Libna y a su rey, así hizo a Debir y a su rey.",
+      "verse": 38,
+      "start_ms": 358898,
+      "end_ms": 379235,
+      "duration_ms": 20337
+    },
+    {
+      "word": "Hirió, pues, Josué toda la región de las montañas, del Neguev, de los llanos y de las laderas, y a todos sus reyes, sin dejar nada; todo lo que tenía vida lo mató, como Jehová Dios de Israel se lo había mandado.",
+      "verse": 40,
+      "start_ms": 379235,
+      "end_ms": 393222,
+      "duration_ms": 13987
+    },
+    {
+      "word": "Y los hirió Josué desde Cades-barnea hasta Gaza, y toda la tierra de Gosén hasta Gabaón.",
+      "verse": 41,
+      "start_ms": 393223,
+      "end_ms": 399260,
+      "duration_ms": 6037
+    },
+    {
+      "word": "Todos estos reyes y sus tierras los tomó Josué de una vez; porque Jehová el Dios de Israel peleaba por Israel.",
+      "verse": 42,
+      "start_ms": 399260,
+      "end_ms": 406385,
+      "duration_ms": 7125
+    },
+    {
+      "word": "Y volvió Josué, y todo Israel con él, al campamento en Gilgal.",
+      "verse": 43,
+      "start_ms": 406385,
+      "end_ms": 411310,
+      "duration_ms": 4925
+    }
+  ]
+}

@@ -1,0 +1,922 @@
+{
+  "book": "1SA",
+  "chapter": 14,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 52,
+  "word_count": 78,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 187,
+      "text": "Aconteció un día, que Jonatán hijo de Saúl dijo a su criado que le traía las armas: Ven y pasemos a la guarnición de los filisteos, que está de aquel lado. Y no lo hizo saber a su padre."
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 187,
+      "char_end": 325,
+      "text": "Y Saúl se hallaba al extremo de Gabaa, debajo de un granado que hay en Migrón, y la gente que estaba con él era como seiscientos hombres."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 325,
+      "char_end": 492,
+      "text": "Y Ahías hijo de Ahitob, hermano de Icabod, hijo de Finees, hijo de Elí, sacerdote de Jehová en Silo, llevaba el efod; y no sabía el pueblo que Jonatán se hubiese ido."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 492,
+      "char_end": 683,
+      "text": "Y entre los desfiladeros por donde Jonatán procuraba pasar a la guarnición de los filisteos, había un peñasco agudo de un lado, y otro del otro lado; el uno se llamaba Boses, y el otro Sene."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 683,
+      "char_end": 773,
+      "text": "Uno de los peñascos estaba situado al norte, hacia Micmas, y el otro al sur, hacia Gabaa."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 773,
+      "char_end": 965,
+      "text": "Dijo, pues, Jonatán a su paje de armas: Ven, pasemos a la guarnición de estos incircuncisos; quizá haga algo Jehová por nosotros, pues no es difícil para Jehová salvar con muchos o con pocos."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 965,
+      "char_end": 1079,
+      "text": "Y su paje de armas le respondió: Haz todo lo que tienes en tu corazón; ve, pues aquí estoy contigo a tu voluntad."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1079,
+      "char_end": 1159,
+      "text": "Dijo entonces Jonatán: Vamos a pasar a esos hombres, y nos mostraremos a ellos."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1159,
+      "char_end": 1284,
+      "text": "Si nos dijeren así: Esperad hasta que lleguemos a vosotros, entonces nos estaremos en nuestro lugar, y no subiremos a ellos."
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1284,
+      "char_end": 1421,
+      "text": "Mas si nos dijeren así: Subid a nosotros, entonces subiremos, porque Jehová los ha entregado en nuestra mano; y esto nos será por señal."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1421,
+      "char_end": 1580,
+      "text": "Se mostraron, pues, ambos a la guarnición de los filisteos, y los filisteos dijeron: He aquí los hebreos, que salen de las cavernas donde se habían escondido."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1580,
+      "char_end": 1821,
+      "text": "Y los hombres de la guarnición respondieron a Jonatán y a su paje de armas, y dijeron: Subid a nosotros, y os haremos saber una cosa. Entonces Jonatán dijo a su paje de armas: Sube tras mí, porque Jehová los ha entregado en manos de Israel."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1821,
+      "char_end": 1983,
+      "text": "Y subió Jonatán trepando con sus manos y sus pies, y tras él su paje de armas; y a los que caían delante de Jonatán, su paje de armas que iba tras él los mataba."
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1983,
+      "char_end": 2117,
+      "text": "Y fue esta primera matanza que hicieron Jonatán y su paje de armas, como veinte hombres, en el espacio de una media yugada de tierra."
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 2117,
+      "char_end": 2320,
+      "text": "Y hubo pánico en el campamento y por el campo, y entre toda la gente de la guarnición; y los que habían ido a merodear, también ellos tuvieron pánico, y la tierra tembló; hubo, pues, gran consternación."
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 2320,
+      "char_end": 2449,
+      "text": "Y los centinelas de Saúl vieron desde Gabaa de Benjamín cómo la multitud estaba turbada, e iba de un lado a otro y era deshecha."
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2449,
+      "char_end": 2626,
+      "text": "Entonces Saúl dijo al pueblo que estaba con él: Pasad ahora revista, y ved quién se haya ido de los nuestros. Pasaron revista, y he aquí que faltaba Jonatán y su paje de armas."
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2626,
+      "char_end": 2733,
+      "text": "Y Saúl dijo a Ahías: Trae el arca de Dios. Porque el arca de Dios estaba entonces con los hijos de Israel."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2733,
+      "char_end": 2943,
+      "text": "Pero aconteció que mientras aún hablaba Saúl con el sacerdote, el alboroto que había en el campamento de los filisteos aumentaba, e iba creciendo en gran manera. Entonces dijo Saúl al sacerdote: Detén tu mano."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2943,
+      "char_end": 3129,
+      "text": "Y juntando Saúl a todo el pueblo que con él estaba, llegaron hasta el lugar de la batalla; y he aquí que la espada de cada uno estaba vuelta contra su compañero, y había gran confusión."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 3129,
+      "char_end": 3339,
+      "text": "Y los hebreos que habían estado con los filisteos de tiempo atrás, y habían venido con ellos de los alrededores al campamento, se pusieron también del lado de los israelitas que estaban con Saúl y con Jonatán."
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 3339,
+      "char_end": 3499,
+      "text": "Asimismo todos los israelitas que se habían escondido en el monte de Efraín, oyendo que los filisteos huían, también ellos los persiguieron en aquella batalla."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 3499,
+      "char_end": 3571,
+      "text": "Así salvó Jehová a Israel aquel día. Y llegó la batalla hasta Bet-avén."
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 3571,
+      "char_end": 3832,
+      "text": "Pero los hombres de Israel fueron puestos en apuro aquel día; porque Saúl había juramentado al pueblo, diciendo: Cualquiera que coma pan antes de caer la noche, antes que haya tomado venganza de mis enemigos, sea maldito. Y todo el pueblo no había probado pan."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 3832,
+      "char_end": 3913,
+      "text": "Y todo el pueblo llegó a un bosque, donde había miel en la superficie del campo."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 3913,
+      "char_end": 4070,
+      "text": "Entró, pues, el pueblo en el bosque, y he aquí que la miel corría; pero no hubo quien hiciera llegar su mano a su boca, porque el pueblo temía el juramento."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 4070,
+      "char_end": 4281,
+      "text": "Pero Jonatán no había oído cuando su padre había juramentado al pueblo, y alargó la punta de una vara que traía en su mano, y la mojó en un panal de miel, y llevó su mano a la boca; y fueron aclarados sus ojos."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 4281,
+      "char_end": 4450,
+      "text": "Entonces habló uno del pueblo, diciendo: Tu padre ha hecho jurar solemnemente al pueblo, diciendo: Maldito sea el hombre que tome hoy alimento. Y el pueblo desfallecía."
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 4450,
+      "char_end": 4582,
+      "text": "Respondió Jonatán: Mi padre ha turbado el país. Ved ahora cómo han sido aclarados mis ojos, por haber gustado un poco de esta miel."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 4582,
+      "char_end": 4732,
+      "text": "¿Cuánto más si el pueblo hubiera comido libremente hoy del botín tomado de sus enemigos? ¿No se habría hecho ahora mayor estrago entre los filisteos?"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 4732,
+      "char_end": 4831,
+      "text": "E hirieron aquel día a los filisteos desde Micmas hasta Ajalón; pero el pueblo estaba muy cansado."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 4831,
+      "char_end": 4969,
+      "text": "Y se lanzó el pueblo sobre el botín, y tomaron ovejas y vacas y becerros, y los degollaron en el suelo; y el pueblo los comió con sangre."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 4969,
+      "char_end": 5145,
+      "text": "Y le dieron aviso a Saúl, diciendo: El pueblo peca contra Jehová, comiendo la carne con la sangre. Y él dijo: Vosotros habéis prevaricado; rodadme ahora acá una piedra grande."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 5145,
+      "char_end": 5434,
+      "text": "Además dijo Saúl: Esparcíos por el pueblo, y decidles que me traigan cada uno su vaca, y cada cual su oveja, y degolladlas aquí, y comed; y no pequéis contra Jehová comiendo la carne con la sangre. Y trajo todo el pueblo cada cual por su mano su vaca aquella noche, y las degollaron allí."
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 5434,
+      "char_end": 5513,
+      "text": "Y edificó Saúl altar a Jehová; este altar fue el primero que edificó a Jehová."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 5513,
+      "char_end": 5735,
+      "text": "Y dijo Saúl: Descendamos de noche contra los filisteos, y los saquearemos hasta la mañana, y no dejaremos de ellos ninguno. Y ellos dijeron: Haz lo que bien te pareciere. Dijo luego el sacerdote: Acerquémonos aquí a Dios."
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 5735,
+      "char_end": 5868,
+      "text": "Y Saúl consultó a Dios: ¿Descenderé tras los filisteos? ¿Los entregarás en mano de Israel? Mas Jehová no le dio respuesta aquel día."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 5868,
+      "char_end": 5984,
+      "text": "Entonces dijo Saúl: Venid acá todos los principales del pueblo, y sabed y ved en qué ha consistido este pecado hoy;"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 5984,
+      "char_end": 6128,
+      "text": "porque vive Jehová que salva a Israel, que aunque fuere en Jonatán mi hijo, de seguro morirá. Y no hubo en todo el pueblo quien le respondiese."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 6128,
+      "char_end": 6290,
+      "text": "Dijo luego a todo Israel: Vosotros estaréis a un lado, y yo y Jonatán mi hijo estaremos al otro lado. Y el pueblo respondió a Saúl: Haz lo que bien te pareciere."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 6290,
+      "char_end": 6418,
+      "text": "Entonces dijo Saúl a Jehová Dios de Israel: Da suerte perfecta. Y la suerte cayó sobre Jonatán y Saúl, y el pueblo salió libre."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 6418,
+      "char_end": 6505,
+      "text": "Y Saúl dijo: Echad suertes entre mí y Jonatán mi hijo. Y la suerte cayó sobre Jonatán."
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 6505,
+      "char_end": 6691,
+      "text": "Entonces Saúl dijo a Jonatán: Declárame lo que has hecho. Y Jonatán se lo declaró y dijo: Ciertamente gusté un poco de miel con la punta de la vara que traía en mi mano; ¿y he de morir?"
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 6691,
+      "char_end": 6773,
+      "text": "Y Saúl respondió: Así me haga Dios y aun me añada, que sin duda morirás, Jonatán."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 6773,
+      "char_end": 7029,
+      "text": "Entonces el pueblo dijo a Saúl: ¿Ha de morir Jonatán, el que ha hecho esta grande salvación en Israel? No será así. Vive Jehová, que no ha de caer un cabello de su cabeza en tierra, pues que ha actuado hoy con Dios. Así el pueblo libró de morir a Jonatán."
+    },
+    {
+      "verse": 46,
+      "label": "46",
+      "char_start": 7029,
+      "char_end": 7106,
+      "text": "Y Saúl dejó de seguir a los filisteos; y los filisteos se fueron a su lugar."
+    },
+    {
+      "verse": 47,
+      "label": "47",
+      "char_start": 7106,
+      "char_end": 7359,
+      "text": "Después de haber tomado posesión del reinado de Israel, Saúl hizo guerra a todos sus enemigos en derredor: contra Moab, contra los hijos de Amón, contra Edom, contra los reyes de Soba, y contra los filisteos; y adondequiera que se volvía, era vencedor."
+    },
+    {
+      "verse": 48,
+      "label": "48",
+      "char_start": 7359,
+      "char_end": 7450,
+      "text": "Y reunió un ejército y derrotó a Amalec, y libró a Israel de mano de los que lo saqueaban."
+    },
+    {
+      "verse": 49,
+      "label": "49",
+      "char_start": 7450,
+      "char_end": 7589,
+      "text": "Y los hijos de Saúl fueron Jonatán, Isúi y Malquisúa. Y los nombres de sus dos hijas eran, el de la mayor, Merab, y el de la menor, Mical."
+    },
+    {
+      "verse": 50,
+      "label": "50",
+      "char_start": 7589,
+      "char_end": 7726,
+      "text": "Y el nombre de la mujer de Saúl era Ahinoam, hija de Ahimaas. Y el nombre del general de su ejército era Abner, hijo de Ner tío de Saúl."
+    },
+    {
+      "verse": 51,
+      "label": "51",
+      "char_start": 7726,
+      "char_end": 7797,
+      "text": "Porque Cis padre de Saúl, y Ner padre de Abner, fueron hijos de Abiel."
+    },
+    {
+      "verse": 52,
+      "label": "52",
+      "char_start": 7797,
+      "char_end": 7961,
+      "text": "Y hubo guerra encarnizada contra los filisteos todo el tiempo de Saúl; y a todo el que Saúl veía que era hombre esforzado y apto para combatir, lo juntaba consigo."
+    }
+  ],
+  "words": [
+    {
+      "word": "Aconteció un día, que Jonatán hijo de Saúl dijo a su criado que le traía las armas: Ven y pasemos a la guarnición de los filisteos, que está de aquel lado.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 9862,
+      "duration_ms": 9762
+    },
+    {
+      "word": "Y no lo hizo saber a su padre.",
+      "verse": 1,
+      "start_ms": 9812,
+      "end_ms": 12399,
+      "duration_ms": 2587
+    },
+    {
+      "word": "Y Saúl se hallaba al extremo de Gabaa, debajo de un granado que hay en Migrón, y la gente que estaba con él era como seiscientos hombres.",
+      "verse": 2,
+      "start_ms": 12400,
+      "end_ms": 20562,
+      "duration_ms": 8162
+    },
+    {
+      "word": "Y Ahías hijo de Ahitob, hermano de Icabod, hijo de Finees, hijo de Elí, sacerdote de Jehová en Silo, llevaba el efod; y no sabía el pueblo que Jonatán se hubiese ido.",
+      "verse": 3,
+      "start_ms": 20562,
+      "end_ms": 31699,
+      "duration_ms": 11137
+    },
+    {
+      "word": "Y entre los desfiladeros por donde Jonatán procuraba pasar a la guarnición de los filisteos, había un peñasco agudo de un lado, y otro del otro lado; el uno se llamaba Boses, y el otro Sene.",
+      "verse": 4,
+      "start_ms": 31700,
+      "end_ms": 43387,
+      "duration_ms": 11687
+    },
+    {
+      "word": "Uno de los peñascos estaba situado al norte, hacia Micmas, y el otro al sur, hacia Gabaa.",
+      "verse": 5,
+      "start_ms": 43387,
+      "end_ms": 49849,
+      "duration_ms": 6462
+    },
+    {
+      "word": "Dijo, pues, Jonatán a su paje de armas: Ven, pasemos a la guarnición de estos incircuncisos; quizá haga algo Jehová por nosotros, pues no es difícil para Jehová salvar con muchos o con pocos.",
+      "verse": 6,
+      "start_ms": 49850,
+      "end_ms": 62625,
+      "duration_ms": 12775
+    },
+    {
+      "word": "Y su paje de armas le respondió: Haz todo lo que tienes en tu corazón; ve, pues aquí estoy contigo a tu voluntad.",
+      "verse": 7,
+      "start_ms": 62625,
+      "end_ms": 70037,
+      "duration_ms": 7412
+    },
+    {
+      "word": "Dijo entonces Jonatán: Vamos a pasar a esos hombres, y nos mostraremos a ellos.",
+      "verse": 8,
+      "start_ms": 70037,
+      "end_ms": 75874,
+      "duration_ms": 5837
+    },
+    {
+      "word": "Si nos dijeren así: Esperad hasta que lleguemos a vosotros, entonces nos estaremos en nuestro lugar, y no subiremos a ellos.",
+      "verse": 9,
+      "start_ms": 75875,
+      "end_ms": 83925,
+      "duration_ms": 8050
+    },
+    {
+      "word": "Mas si nos dijeren así: Subid a nosotros, entonces subiremos, porque Jehová los ha entregado en nuestra mano; y esto nos será por señal.",
+      "verse": 10,
+      "start_ms": 83925,
+      "end_ms": 92850,
+      "duration_ms": 8925
+    },
+    {
+      "word": "Se mostraron, pues, ambos a la guarnición de los filisteos, y los filisteos dijeron: He aquí los hebreos, que salen de las cavernas donde se habían escondido.",
+      "verse": 11,
+      "start_ms": 92850,
+      "end_ms": 103112,
+      "duration_ms": 10262
+    },
+    {
+      "word": "Y los hombres de la guarnición respondieron a Jonatán y a su paje de armas, y dijeron: Subid a nosotros, y os haremos saber una cosa.",
+      "verse": 12,
+      "start_ms": 103112,
+      "end_ms": 111437,
+      "duration_ms": 8325
+    },
+    {
+      "word": "Entonces Jonatán dijo a su paje de armas: Sube tras mí, porque Jehová los ha entregado en manos de Israel.",
+      "verse": 12,
+      "start_ms": 111437,
+      "end_ms": 118524,
+      "duration_ms": 7087
+    },
+    {
+      "word": "Y subió Jonatán trepando con sus manos y sus pies, y tras él su paje de armas; y a los que caían delante de Jonatán, su paje de armas que iba tras él los mataba.",
+      "verse": 13,
+      "start_ms": 118525,
+      "end_ms": 128537,
+      "duration_ms": 10012
+    },
+    {
+      "word": "Y fue esta primera matanza que hicieron Jonatán y su paje de armas, como veinte hombres, en el espacio de una media yugada de tierra.",
+      "verse": 14,
+      "start_ms": 128537,
+      "end_ms": 136799,
+      "duration_ms": 8262
+    },
+    {
+      "word": "Y hubo pánico en el campamento y por el campo, y entre toda la gente de la guarnición; y los que habían ido a merodear, también ellos tuvieron pánico, y la tierra tembló; hubo, pues, gran consternación.",
+      "verse": 15,
+      "start_ms": 136800,
+      "end_ms": 149050,
+      "duration_ms": 12250
+    },
+    {
+      "word": "Y los centinelas de Saúl vieron desde Gabaa de Benjamín cómo la multitud estaba turbada, e iba de un lado a otro y era deshecha.",
+      "verse": 16,
+      "start_ms": 149050,
+      "end_ms": 156787,
+      "duration_ms": 7737
+    },
+    {
+      "word": "Entonces Saúl dijo al pueblo que estaba con él: Pasad ahora revista, y ved quién se haya ido de los nuestros.",
+      "verse": 17,
+      "start_ms": 156787,
+      "end_ms": 163787,
+      "duration_ms": 7000
+    },
+    {
+      "word": "Pasaron revista, y he aquí que faltaba Jonatán y su paje de armas.",
+      "verse": 17,
+      "start_ms": 163787,
+      "end_ms": 168737,
+      "duration_ms": 4950
+    },
+    {
+      "word": "Y Saúl dijo a Ahías: Trae el arca de Dios.",
+      "verse": 18,
+      "start_ms": 168737,
+      "end_ms": 172612,
+      "duration_ms": 3875
+    },
+    {
+      "word": "Porque el arca de Dios estaba entonces con los hijos de Israel.",
+      "verse": 18,
+      "start_ms": 172612,
+      "end_ms": 176674,
+      "duration_ms": 4062
+    },
+    {
+      "word": "Pero aconteció que mientras aún hablaba Saúl con el sacerdote, el alboroto que había en el campamento de los filisteos aumentaba, e iba creciendo en gran manera.",
+      "verse": 19,
+      "start_ms": 176675,
+      "end_ms": 186112,
+      "duration_ms": 9437
+    },
+    {
+      "word": "Entonces dijo Saúl al sacerdote: Detén tu mano.",
+      "verse": 19,
+      "start_ms": 186112,
+      "end_ms": 190124,
+      "duration_ms": 4012
+    },
+    {
+      "word": "Y juntando Saúl a todo el pueblo que con él estaba, llegaron hasta el lugar de la batalla; y he aquí que la espada de cada uno estaba vuelta contra su compañero, y había gran confusión.",
+      "verse": 20,
+      "start_ms": 190125,
+      "end_ms": 200837,
+      "duration_ms": 10712
+    },
+    {
+      "word": "Y los hebreos que habían estado con los filisteos de tiempo atrás, y habían venido con ellos de los alrededores al campamento, se pusieron también del lado de los israelitas que estaban con Saúl y con Jonatán.",
+      "verse": 21,
+      "start_ms": 200837,
+      "end_ms": 212437,
+      "duration_ms": 11600
+    },
+    {
+      "word": "Asimismo todos los israelitas que se habían escondido en el monte de Efraín, oyendo que los filisteos huían, también ellos los persiguieron en aquella batalla.",
+      "verse": 22,
+      "start_ms": 212437,
+      "end_ms": 221649,
+      "duration_ms": 9212
+    },
+    {
+      "word": "Así salvó Jehová a Israel aquel día.",
+      "verse": 23,
+      "start_ms": 221650,
+      "end_ms": 224850,
+      "duration_ms": 3200
+    },
+    {
+      "word": "Y llegó la batalla hasta Bet-avén.",
+      "verse": 23,
+      "start_ms": 224850,
+      "end_ms": 227662,
+      "duration_ms": 2812
+    },
+    {
+      "word": "Pero los hombres de Israel fueron puestos en apuro aquel día; porque Saúl había juramentado al pueblo, diciendo: Cualquiera que coma pan antes de caer la noche, antes que haya tomado venganza de mis enemigos, sea maldito.",
+      "verse": 24,
+      "start_ms": 227662,
+      "end_ms": 240799,
+      "duration_ms": 13137
+    },
+    {
+      "word": "Y todo el pueblo no había probado pan.",
+      "verse": 24,
+      "start_ms": 240800,
+      "end_ms": 243737,
+      "duration_ms": 2937
+    },
+    {
+      "word": "Y todo el pueblo llegó a un bosque, donde había miel en la superficie del campo.",
+      "verse": 25,
+      "start_ms": 243737,
+      "end_ms": 248962,
+      "duration_ms": 5225
+    },
+    {
+      "word": "Entró, pues, el pueblo en el bosque, y he aquí que la miel corría; pero no",
+      "verse": 26,
+      "start_ms": 248962,
+      "end_ms": 254724,
+      "duration_ms": 5762
+    },
+    {
+      "word": "hubo quien hiciera llegar su mano a su boca, porque el pueblo temía el juramento.",
+      "verse": 26,
+      "start_ms": 254884,
+      "end_ms": 259759,
+      "duration_ms": 4875
+    },
+    {
+      "word": "Pero Jonatán no había oído cuando su padre había juramentado al pueblo, y alargó la punta de una vara que traía en su mano, y la mojó en un panal de miel, y llevó su mano a la boca; y fueron aclarados sus ojos.",
+      "verse": 27,
+      "start_ms": 259709,
+      "end_ms": 271996,
+      "duration_ms": 12287
+    },
+    {
+      "word": "Entonces habló uno del pueblo, diciendo: Tu padre ha hecho jurar solemnemente al pueblo, diciendo: Maldito sea el hombre que tome hoy alimento.",
+      "verse": 28,
+      "start_ms": 271996,
+      "end_ms": 281021,
+      "duration_ms": 9025
+    },
+    {
+      "word": "Y el pueblo desfallecía.",
+      "verse": 28,
+      "start_ms": 281021,
+      "end_ms": 283421,
+      "duration_ms": 2400
+    },
+    {
+      "word": "Respondió Jonatán: Mi padre ha turbado el país.",
+      "verse": 29,
+      "start_ms": 283421,
+      "end_ms": 287333,
+      "duration_ms": 3912
+    },
+    {
+      "word": "Ved ahora cómo han sido aclarados mis ojos, por haber gustado un poco de esta miel.",
+      "verse": 29,
+      "start_ms": 287334,
+      "end_ms": 293034,
+      "duration_ms": 5700
+    },
+    {
+      "word": "Cuánto más si el pueblo hubiera comido libremente hoy del botín tomado de sus enemigos?",
+      "verse": 30,
+      "start_ms": 293034,
+      "end_ms": 298346,
+      "duration_ms": 5312
+    },
+    {
+      "word": "No se habría hecho ahora mayor estrago entre los filisteos?",
+      "verse": 30,
+      "start_ms": 298346,
+      "end_ms": 302308,
+      "duration_ms": 3962
+    },
+    {
+      "word": "E hirieron aquel día a los filisteos desde Micmas hasta Ajalón; pero el pueblo estaba muy cansado.",
+      "verse": 31,
+      "start_ms": 302309,
+      "end_ms": 308559,
+      "duration_ms": 6250
+    },
+    {
+      "word": "Y se lanzó el pueblo sobre el botín, y tomaron ovejas y vacas y becerros, y los degollaron en el suelo; y el pueblo los comió con sangre.",
+      "verse": 32,
+      "start_ms": 308559,
+      "end_ms": 317171,
+      "duration_ms": 8612
+    },
+    {
+      "word": "Y le dieron aviso a Saúl, diciendo: El pueblo peca contra Jehová, comiendo la carne con la sangre.",
+      "verse": 33,
+      "start_ms": 317171,
+      "end_ms": 323933,
+      "duration_ms": 6762
+    },
+    {
+      "word": "Y él dijo: Vosotros habéis prevaricado; rodadme ahora acá una piedra grande.",
+      "verse": 33,
+      "start_ms": 323934,
+      "end_ms": 329846,
+      "duration_ms": 5912
+    },
+    {
+      "word": "Además dijo Saúl: Esparcíos por el pueblo, y decidles que me traigan cada uno su vaca, y cada cual su oveja, y degolladlas aquí, y comed; y no pequéis contra Jehová comiendo la carne con la sangre.",
+      "verse": 34,
+      "start_ms": 329846,
+      "end_ms": 342396,
+      "duration_ms": 12550
+    },
+    {
+      "word": "Y trajo todo el pueblo cada cual por su mano su vaca aquella noche, y las degollaron allí.",
+      "verse": 34,
+      "start_ms": 342396,
+      "end_ms": 347983,
+      "duration_ms": 5587
+    },
+    {
+      "word": "Y edificó Saúl altar a Jehová; este altar fue el primero que edificó a Jehová.",
+      "verse": 35,
+      "start_ms": 347984,
+      "end_ms": 353334,
+      "duration_ms": 5350
+    },
+    {
+      "word": "Y dijo Saúl: Descendamos de noche contra los filisteos, y los saquearemos hasta la mañana, y no dejaremos de ellos ninguno.",
+      "verse": 36,
+      "start_ms": 353334,
+      "end_ms": 361396,
+      "duration_ms": 8062
+    },
+    {
+      "word": "Y ellos dijeron: Haz lo que bien te pareciere.",
+      "verse": 36,
+      "start_ms": 361396,
+      "end_ms": 364833,
+      "duration_ms": 3437
+    },
+    {
+      "word": "Dijo luego el sacerdote: Acerquémonos aquí a Dios.",
+      "verse": 36,
+      "start_ms": 364834,
+      "end_ms": 369109,
+      "duration_ms": 4275
+    },
+    {
+      "word": "Y Saúl consultó a Dios: ¿Descenderé tras los filisteos?",
+      "verse": 37,
+      "start_ms": 369109,
+      "end_ms": 373571,
+      "duration_ms": 4462
+    },
+    {
+      "word": "Los entregarás en mano de Israel?",
+      "verse": 37,
+      "start_ms": 373571,
+      "end_ms": 376408,
+      "duration_ms": 2837
+    },
+    {
+      "word": "Mas Jehová no le dio respuesta aquel día.",
+      "verse": 37,
+      "start_ms": 376409,
+      "end_ms": 379446,
+      "duration_ms": 3037
+    },
+    {
+      "word": "Entonces dijo Saúl: Venid acá todos los principales del pueblo, y sabed y ved en qué ha consistido este pecado hoy; porque vive Jehová que salva a Israel, que aunque fuere en Jonatán mi hijo, de seguro morirá.",
+      "verse": 38,
+      "start_ms": 379446,
+      "end_ms": 392408,
+      "duration_ms": 12962
+    },
+    {
+      "word": "Y no hubo en todo el pueblo quien le respondiese.",
+      "verse": 39,
+      "start_ms": 392409,
+      "end_ms": 395721,
+      "duration_ms": 3312
+    },
+    {
+      "word": "Dijo luego a todo Israel: Vosotros estaréis a un lado, y yo y Jonatán mi hijo estaremos al otro lado.",
+      "verse": 40,
+      "start_ms": 395721,
+      "end_ms": 402733,
+      "duration_ms": 7012
+    },
+    {
+      "word": "Y el pueblo respondió a Saúl: Haz lo que bien te pareciere.",
+      "verse": 40,
+      "start_ms": 402734,
+      "end_ms": 406834,
+      "duration_ms": 4100
+    },
+    {
+      "word": "Entonces dijo Saúl a Jehová Dios de Israel: Da suerte perfecta.",
+      "verse": 41,
+      "start_ms": 406834,
+      "end_ms": 411746,
+      "duration_ms": 4912
+    },
+    {
+      "word": "Y la suerte cayó sobre Jonatán y Saúl, y el pueblo salió libre.",
+      "verse": 41,
+      "start_ms": 411746,
+      "end_ms": 416396,
+      "duration_ms": 4650
+    },
+    {
+      "word": "Y Saúl dijo: Echad suertes entre mí y Jonatán mi hijo.",
+      "verse": 42,
+      "start_ms": 416396,
+      "end_ms": 421033,
+      "duration_ms": 4637
+    },
+    {
+      "word": "Y la suerte cayó sobre Jonatán.",
+      "verse": 42,
+      "start_ms": 421034,
+      "end_ms": 423846,
+      "duration_ms": 2812
+    },
+    {
+      "word": "Entonces Saúl dijo a Jonatán: Declárame lo que has hecho.",
+      "verse": 43,
+      "start_ms": 423846,
+      "end_ms": 428046,
+      "duration_ms": 4200
+    },
+    {
+      "word": "Y Jonatán se lo declaró y dijo: Ciertamente gusté un poco de miel con la punta de la vara que traía en mi mano; ¿y he de morir?",
+      "verse": 43,
+      "start_ms": 428046,
+      "end_ms": 435908,
+      "duration_ms": 7862
+    },
+    {
+      "word": "Y Saúl respondió: Así me haga Dios y aun me añada, que sin duda morirás, Jonatán.",
+      "verse": 44,
+      "start_ms": 435909,
+      "end_ms": 442171,
+      "duration_ms": 6262
+    },
+    {
+      "word": "Entonces el pueblo dijo a Saúl: ¿Ha de morir Jonatán, el que ha hecho esta grande salvación en Israel?",
+      "verse": 45,
+      "start_ms": 442171,
+      "end_ms": 448946,
+      "duration_ms": 6775
+    },
+    {
+      "word": "No será así.",
+      "verse": 45,
+      "start_ms": 448946,
+      "end_ms": 450808,
+      "duration_ms": 1862
+    },
+    {
+      "word": "Vive Jehová, que no ha de caer un cabello de su cabeza en tierra, pues que ha actuado hoy con Dios.",
+      "verse": 45,
+      "start_ms": 450809,
+      "end_ms": 457084,
+      "duration_ms": 6275
+    },
+    {
+      "word": "Así el pueblo libró de morir a Jonatán.",
+      "verse": 45,
+      "start_ms": 457084,
+      "end_ms": 460234,
+      "duration_ms": 3150
+    },
+    {
+      "word": "Y Saúl dejó de seguir a los filisteos; y los filisteos se fueron a su lugar.",
+      "verse": 46,
+      "start_ms": 460234,
+      "end_ms": 465559,
+      "duration_ms": 5325
+    },
+    {
+      "word": "Después de haber tomado posesión del reinado de Israel, Saúl hizo guerra a todos sus enemigos en derredor: contra Moab, contra los hijos de Amón, contra Edom, contra los reyes de Soba, y contra los filisteos; y adondequiera que se volvía, era vencedor.",
+      "verse": 47,
+      "start_ms": 465559,
+      "end_ms": 481484,
+      "duration_ms": 15925
+    },
+    {
+      "word": "Y reunió un ejército y derrotó a Amalec, y libró a Israel de mano de los que lo saqueaban.",
+      "verse": 48,
+      "start_ms": 481484,
+      "end_ms": 487609,
+      "duration_ms": 6125
+    },
+    {
+      "word": "Y los hijos de Saúl fueron Jonatán, Isúi y Malquisúa.",
+      "verse": 49,
+      "start_ms": 487609,
+      "end_ms": 491871,
+      "duration_ms": 4262
+    },
+    {
+      "word": "Y los nombres de sus dos hijas eran, el de la mayor, Merab, y el de la menor, Mical.",
+      "verse": 49,
+      "start_ms": 491871,
+      "end_ms": 498033,
+      "duration_ms": 6162
+    },
+    {
+      "word": "Y el nombre de la mujer de Saúl era Ahinoam, hija de Ahimaas.",
+      "verse": 50,
+      "start_ms": 498034,
+      "end_ms": 502371,
+      "duration_ms": 4337
+    },
+    {
+      "word": "Y el nombre del general de su ejército era Abner, hijo de Ner tío de Saúl.",
+      "verse": 50,
+      "start_ms": 502371,
+      "end_ms": 507508,
+      "duration_ms": 5137
+    },
+    {
+      "word": "Porque Cis padre de Saúl, y Ner padre de Abner, fueron hijos de Abiel.",
+      "verse": 51,
+      "start_ms": 507509,
+      "end_ms": 512459,
+      "duration_ms": 4950
+    },
+    {
+      "word": "Y hubo guerra encarnizada contra los filisteos todo el tiempo de Saúl; y a todo el que Saúl veía que era hombre esforzado y apto para combatir, lo juntaba consigo.",
+      "verse": 52,
+      "start_ms": 512459,
+      "end_ms": 522459,
+      "duration_ms": 10000
+    }
+  ]
+}

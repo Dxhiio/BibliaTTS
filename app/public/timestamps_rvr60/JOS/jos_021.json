@@ -1,0 +1,551 @@
+{
+  "book": "JOS",
+  "chapter": 21,
+  "voice": "es-MX-DaliaNeural",
+  "audio_format": "opus",
+  "verse_count": 45,
+  "word_count": 32,
+  "verse_map": [
+    {
+      "verse": 1,
+      "label": "1",
+      "char_start": 0,
+      "char_end": 158,
+      "text": "Los jefes de los padres de los levitas vinieron al sacerdote Eleazar, a Josué hijo de Nun y a los cabezas de los padres de las tribus de los hijos de Israel,"
+    },
+    {
+      "verse": 2,
+      "label": "2",
+      "char_start": 158,
+      "char_end": 331,
+      "text": "y les hablaron en Silo en la tierra de Canaán, diciendo: Jehová mandó por medio de Moisés que nos fuesen dadas ciudades donde habitar, con sus ejidos para nuestros ganados."
+    },
+    {
+      "verse": 3,
+      "label": "3",
+      "char_start": 331,
+      "char_end": 466,
+      "text": "Entonces los hijos de Israel dieron de su propia herencia a los levitas, conforme al mandato de Jehová, estas ciudades con sus ejidos."
+    },
+    {
+      "verse": 4,
+      "label": "4",
+      "char_start": 466,
+      "char_end": 687,
+      "text": "Y la suerte cayó sobre las familias de los coatitas; y los hijos de Aarón el sacerdote, que eran de los levitas, obtuvieron por suerte de la tribu de Judá, de la tribu de Simeón y de la tribu de Benjamín, trece ciudades."
+    },
+    {
+      "verse": 5,
+      "label": "5",
+      "char_start": 687,
+      "char_end": 839,
+      "text": "Y los otros hijos de Coat obtuvieron por suerte diez ciudades de las familias de la tribu de Efraín, de la tribu de Dan y de la media tribu de Manasés."
+    },
+    {
+      "verse": 6,
+      "label": "6",
+      "char_start": 839,
+      "char_end": 1022,
+      "text": "Los hijos de Gersón obtuvieron por suerte, de las familias de la tribu de Isacar, de la tribu de Aser, de la tribu de Neftalí y de la media tribu de Manasés en Basán, trece ciudades."
+    },
+    {
+      "verse": 7,
+      "label": "7",
+      "char_start": 1022,
+      "char_end": 1154,
+      "text": "Los hijos de Merari según sus familias obtuvieron de la tribu de Rubén, de la tribu de Gad y de la tribu de Zabulón, doce ciudades."
+    },
+    {
+      "verse": 8,
+      "label": "8",
+      "char_start": 1154,
+      "char_end": 1296,
+      "text": "Dieron, pues, los hijos de Israel a los levitas estas ciudades con sus ejidos, por suertes, como había mandado Jehová por conducto de Moisés."
+    },
+    {
+      "verse": 9,
+      "label": "9",
+      "char_start": 1296,
+      "char_end": 1412,
+      "text": "De la tribu de los hijos de Judá, y de la tribu de los hijos de Simeón, dieron estas ciudades que fueron nombradas,"
+    },
+    {
+      "verse": 10,
+      "label": "10",
+      "char_start": 1412,
+      "char_end": 1549,
+      "text": "las cuales obtuvieron los hijos de Aarón de las familias de Coat, de los hijos de Leví; porque para ellos fue la suerte en primer lugar."
+    },
+    {
+      "verse": 11,
+      "label": "11",
+      "char_start": 1549,
+      "char_end": 1665,
+      "text": "Les dieron Quiriat-arba del padre de Anac, la cual es Hebrón, en el monte de Judá, con sus ejidos en sus contornos."
+    },
+    {
+      "verse": 12,
+      "label": "12",
+      "char_start": 1665,
+      "char_end": 1754,
+      "text": "Mas el campo de la ciudad y sus aldeas dieron a Caleb hijo de Jefone, por posesión suya."
+    },
+    {
+      "verse": 13,
+      "label": "13",
+      "char_start": 1754,
+      "char_end": 1890,
+      "text": "Y a los hijos del sacerdote Aarón dieron Hebrón con sus ejidos como ciudad de refugio para los homicidas; además, Libna con sus ejidos,"
+    },
+    {
+      "verse": 14,
+      "label": "14",
+      "char_start": 1890,
+      "char_end": 1936,
+      "text": "Jatir con sus ejidos, Estemoa con sus ejidos,"
+    },
+    {
+      "verse": 15,
+      "label": "15",
+      "char_start": 1936,
+      "char_end": 1980,
+      "text": "Holón con sus ejidos, Debir con sus ejidos,"
+    },
+    {
+      "verse": 16,
+      "label": "16",
+      "char_start": 1980,
+      "char_end": 2084,
+      "text": "Aín con sus ejidos, Juta con sus ejidos y Bet-semes con sus ejidos; nueve ciudades de estas dos tribus;"
+    },
+    {
+      "verse": 17,
+      "label": "17",
+      "char_start": 2084,
+      "char_end": 2155,
+      "text": "y de la tribu de Benjamín, Gabaón con sus ejidos, Geba con sus ejidos,"
+    },
+    {
+      "verse": 18,
+      "label": "18",
+      "char_start": 2155,
+      "char_end": 2217,
+      "text": "Anatot con sus ejidos, Almón con sus ejidos; cuatro ciudades."
+    },
+    {
+      "verse": 19,
+      "label": "19",
+      "char_start": 2217,
+      "char_end": 2295,
+      "text": "Todas las ciudades de los sacerdotes hijos de Aarón son trece con sus ejidos."
+    },
+    {
+      "verse": 20,
+      "label": "20",
+      "char_start": 2295,
+      "char_end": 2436,
+      "text": "Mas las familias de los hijos de Coat, levitas, los que quedaban de los hijos de Coat, recibieron por suerte ciudades de la tribu de Efraín."
+    },
+    {
+      "verse": 21,
+      "label": "21",
+      "char_start": 2436,
+      "char_end": 2565,
+      "text": "Les dieron Siquem con sus ejidos, en el monte de Efraín, como ciudad de refugio para los homicidas; además, Gezer con su ejidos,"
+    },
+    {
+      "verse": 22,
+      "label": "22",
+      "char_start": 2565,
+      "char_end": 2633,
+      "text": "Kibsaim con sus ejidos y Bet-horón con sus ejidos; cuatro ciudades."
+    },
+    {
+      "verse": 23,
+      "label": "23",
+      "char_start": 2633,
+      "char_end": 2701,
+      "text": "De la tribu de Dan, Elteque con sus ejidos, Gibetón con sus ejidos,"
+    },
+    {
+      "verse": 24,
+      "label": "24",
+      "char_start": 2701,
+      "char_end": 2768,
+      "text": "Ajalón con sus ejidos y Gat-rimón con sus ejidos; cuatro ciudades."
+    },
+    {
+      "verse": 25,
+      "label": "25",
+      "char_start": 2768,
+      "char_end": 2864,
+      "text": "Y de la media tribu de Manasés, Taanac con sus ejidos y Gat-rimón con sus ejidos; dos ciudades."
+    },
+    {
+      "verse": 26,
+      "label": "26",
+      "char_start": 2864,
+      "char_end": 2962,
+      "text": "Todas las ciudades para el resto de las familias de los hijos de Coat fueron diez con sus ejidos."
+    },
+    {
+      "verse": 27,
+      "label": "27",
+      "char_start": 2962,
+      "char_end": 3176,
+      "text": "A los hijos de Gersón de las familias de los levitas, dieron de la media tribu de Manasés a Golán en Basán con sus ejidos como ciudad de refugio para los homicidas, y además, Beestera con sus ejidos; dos ciudades."
+    },
+    {
+      "verse": 28,
+      "label": "28",
+      "char_start": 3176,
+      "char_end": 3245,
+      "text": "De la tribu de Isacar, Cisón con sus ejidos, Daberat con sus ejidos,"
+    },
+    {
+      "verse": 29,
+      "label": "29",
+      "char_start": 3245,
+      "char_end": 3311,
+      "text": "Jarmut con sus ejidos y En-ganim con sus ejidos; cuatro ciudades."
+    },
+    {
+      "verse": 30,
+      "label": "30",
+      "char_start": 3311,
+      "char_end": 3377,
+      "text": "De la tribu de Aser, Miseal con sus ejidos, Abdón con sus ejidos,"
+    },
+    {
+      "verse": 31,
+      "label": "31",
+      "char_start": 3377,
+      "char_end": 3440,
+      "text": "Helcat con sus ejidos y Rehob con sus ejidos; cuatro ciudades."
+    },
+    {
+      "verse": 32,
+      "label": "32",
+      "char_start": 3440,
+      "char_end": 3616,
+      "text": "Y de la tribu de Neftalí, Cedes en Galilea con sus ejidos como ciudad de refugio para los homicidas, y además, Hamot-dor con sus ejidos y Cartán con sus ejidos; tres ciudades."
+    },
+    {
+      "verse": 33,
+      "label": "33",
+      "char_start": 3616,
+      "char_end": 3708,
+      "text": "Todas las ciudades de los gersonitas por sus familias fueron trece ciudades con sus ejidos."
+    },
+    {
+      "verse": 34,
+      "label": "34",
+      "char_start": 3708,
+      "char_end": 3852,
+      "text": "Y a las familias de los hijos de Merari, levitas que quedaban, se les dio de la tribu de Zabulón, Jocneam con sus ejidos, Carta con sus ejidos,"
+    },
+    {
+      "verse": 35,
+      "label": "35",
+      "char_start": 3852,
+      "char_end": 3915,
+      "text": "Dimna con sus ejidos y Naalal con sus ejidos; cuatro ciudades."
+    },
+    {
+      "verse": 36,
+      "label": "36",
+      "char_start": 3915,
+      "char_end": 3984,
+      "text": "Y de la tribu de Rubén, Beser con sus ejidos, Jahaza con sus ejidos,"
+    },
+    {
+      "verse": 37,
+      "label": "37",
+      "char_start": 3984,
+      "char_end": 4049,
+      "text": "Cademot con sus ejidos y Mefaat con sus ejidos; cuatro ciudades."
+    },
+    {
+      "verse": 38,
+      "label": "38",
+      "char_start": 4049,
+      "char_end": 4176,
+      "text": "De la tribu de Gad, Ramot de Galaad con sus ejidos como ciudad de refugio para los homicidas; además, Mahanaim con sus ejidos,"
+    },
+    {
+      "verse": 39,
+      "label": "39",
+      "char_start": 4176,
+      "char_end": 4239,
+      "text": "Hesbón con sus ejidos y Jazer con sus ejidos; cuatro ciudades."
+    },
+    {
+      "verse": 40,
+      "label": "40",
+      "char_start": 4239,
+      "char_end": 4382,
+      "text": "Todas las ciudades de los hijos de Merari por sus familias, que restaban de las familias de los levitas, fueron por sus suertes doce ciudades."
+    },
+    {
+      "verse": 41,
+      "label": "41",
+      "char_start": 4382,
+      "char_end": 4514,
+      "text": "Y todas las ciudades de los levitas en medio de la posesión de los hijos de Israel, fueron cuarenta y ocho ciudades con sus ejidos."
+    },
+    {
+      "verse": 42,
+      "label": "42",
+      "char_start": 4514,
+      "char_end": 4669,
+      "text": "Y estas ciudades estaban apartadas la una de la otra, cada cual con sus ejidos alrededor de ella; así fue con todas estas ciudades. Israel ocupa la tierra"
+    },
+    {
+      "verse": 43,
+      "label": "43",
+      "char_start": 4669,
+      "char_end": 4790,
+      "text": "De esta manera dio Jehová a Israel toda la tierra que había jurado dar a sus padres, y la poseyeron y habitaron en ella."
+    },
+    {
+      "verse": 44,
+      "label": "44",
+      "char_start": 4790,
+      "char_end": 4986,
+      "text": "Y Jehová les dio reposo alrededor, conforme a todo lo que había jurado a sus padres; y ninguno de todos sus enemigos pudo hacerles frente, porque Jehová entregó en sus manos a todos sus enemigos."
+    },
+    {
+      "verse": 45,
+      "label": "45",
+      "char_start": 4986,
+      "char_end": 5093,
+      "text": "No faltó palabra de todas las buenas promesas que Jehová había hecho a la casa de Israel; todo se cumplió."
+    }
+  ],
+  "words": [
+    {
+      "word": "Los jefes de los padres de los levitas vinieron al sacerdote Eleazar, a Josué hijo de Nun y a los cabezas de los padres de las tribus de los hijos de Israel, y les hablaron en Silo en la tierra de Canaán, diciendo: Jehová mandó por medio de Moisés que nos fuesen dadas ciudades donde habitar, con sus ejidos para nuestros ganados.",
+      "verse": 1,
+      "start_ms": 100,
+      "end_ms": 18187,
+      "duration_ms": 18087
+    },
+    {
+      "word": "Entonces los hijos de Israel dieron de su propia herencia a los levitas, conforme al mandato de Jehová, estas ciudades con sus ejidos.",
+      "verse": 3,
+      "start_ms": 18187,
+      "end_ms": 26399,
+      "duration_ms": 8212
+    },
+    {
+      "word": "Y la suerte cayó sobre las familias de los coatitas; y los hijos de Aarón el sacerdote, que eran de los levitas, obtuvieron por suerte de la tribu de Judá, de la tribu de Simeón y de la tribu de Benjamín, trece ciudades.",
+      "verse": 4,
+      "start_ms": 26400,
+      "end_ms": 39650,
+      "duration_ms": 13250
+    },
+    {
+      "word": "Y los otros hijos de Coat obtuvieron por suerte diez ciudades de las familias de la tribu de Efraín, de la tribu de Dan y de la media tribu de Manasés.",
+      "verse": 5,
+      "start_ms": 39650,
+      "end_ms": 48125,
+      "duration_ms": 8475
+    },
+    {
+      "word": "Los hijos de Gersón obtuvieron por suerte, de las familias de la tribu de Isacar, de la tribu de Aser, de la tribu de Neftalí y de la media tribu de Manasés en Basán, trece ciudades.",
+      "verse": 6,
+      "start_ms": 48125,
+      "end_ms": 59275,
+      "duration_ms": 11150
+    },
+    {
+      "word": "Los hijos de Merari según sus familias obtuvieron de la tribu de Rubén, de la tribu de Gad y de la tribu de Zabulón, doce ciudades.",
+      "verse": 7,
+      "start_ms": 59275,
+      "end_ms": 67562,
+      "duration_ms": 8287
+    },
+    {
+      "word": "Dieron, pues, los hijos de Israel a los levitas estas ciudades con sus ejidos, por suertes, como había mandado Jehová por conducto de Moisés.",
+      "verse": 8,
+      "start_ms": 67562,
+      "end_ms": 76862,
+      "duration_ms": 9300
+    },
+    {
+      "word": "De la tribu de los hijos de Judá, y de la tribu de los hijos de Simeón, dieron estas ciudades que fueron nombradas, las cuales obtuvieron los hijos de Aarón de las familias de Coat, de los hijos de Leví; porque para ellos fue la suerte en primer lugar.",
+      "verse": 9,
+      "start_ms": 76862,
+      "end_ms": 90737,
+      "duration_ms": 13875
+    },
+    {
+      "word": "Les dieron Quiriat-arba del padre de Anac, la cual es Hebrón, en el monte de Judá, con sus ejidos en sus contornos.",
+      "verse": 11,
+      "start_ms": 90737,
+      "end_ms": 98174,
+      "duration_ms": 7437
+    },
+    {
+      "word": "Mas el campo de la ciudad y sus aldeas dieron a Caleb hijo de Jefone, por posesión suya.",
+      "verse": 12,
+      "start_ms": 98175,
+      "end_ms": 103887,
+      "duration_ms": 5712
+    },
+    {
+      "word": "Y a los hijos del sacerdote Aarón dieron Hebrón con sus ejidos como ciudad de refugio para los homicidas; además, Libna con sus ejidos, Jatir con sus ejidos, Estemoa con sus ejidos, Holón con sus ejidos, Debir con sus ejidos, Aín con sus ejidos, Juta con sus ejidos y Bet-semes con sus ejidos; nueve ciudades de estas dos tribus; y de la tribu de Benjamín, Gabaón con sus ejidos, Geba con sus ejidos, Anatot con sus ejidos, Almón con sus ejidos; cuatro ciudades.",
+      "verse": 13,
+      "start_ms": 103887,
+      "end_ms": 133962,
+      "duration_ms": 30075
+    },
+    {
+      "word": "Todas las ciudades de los sacerdotes hijos de Aarón son trece con sus ejidos.",
+      "verse": 19,
+      "start_ms": 133962,
+      "end_ms": 138849,
+      "duration_ms": 4887
+    },
+    {
+      "word": "Mas las familias de los hijos de Coat, levitas, los que quedaban de los hijos de Coat, recibieron por suerte ciudades de la tribu de Efraín.",
+      "verse": 20,
+      "start_ms": 138850,
+      "end_ms": 147312,
+      "duration_ms": 8462
+    },
+    {
+      "word": "Les dieron Siquem con sus ejidos, en el monte de Efraín, como ciudad de refugio para los homicidas; además, Gezer con su ejidos, Kibsaim con sus ejidos y Bet-horón con sus ejidos; cuatro ciudades.",
+      "verse": 21,
+      "start_ms": 147312,
+      "end_ms": 160649,
+      "duration_ms": 13337
+    },
+    {
+      "word": "De la tribu de Dan, Elteque con sus ejidos, Gibetón con sus ejidos, Ajalón con sus ejidos y Gat-rimón con sus ejidos; cuatro ciudades.",
+      "verse": 23,
+      "start_ms": 160650,
+      "end_ms": 170275,
+      "duration_ms": 9625
+    },
+    {
+      "word": "Y de la media tribu de Manasés, Taanac con sus ejidos y Gat-rimón con sus ejidos; dos ciudades.",
+      "verse": 25,
+      "start_ms": 170275,
+      "end_ms": 177225,
+      "duration_ms": 6950
+    },
+    {
+      "word": "Todas las ciudades para el resto de las familias de los hijos de Coat fueron diez con sus ejidos.",
+      "verse": 26,
+      "start_ms": 177225,
+      "end_ms": 182837,
+      "duration_ms": 5612
+    },
+    {
+      "word": "A los hijos de Gersón de las familias de los levitas, dieron de la media tribu de Manasés a Golán en Basán con sus ejidos como ciudad de refugio para los homicidas, y además, Beestera con sus ejidos; dos ciudades.",
+      "verse": 27,
+      "start_ms": 182837,
+      "end_ms": 195799,
+      "duration_ms": 12962
+    },
+    {
+      "word": "De la tribu de Isacar, Cisón con sus ejidos, Daberat con sus ejidos, Jarmut con sus ejidos y En-ganim con sus ejidos; cuatro ciudades.",
+      "verse": 28,
+      "start_ms": 195800,
+      "end_ms": 205562,
+      "duration_ms": 9762
+    },
+    {
+      "word": "De la tribu de Aser, Miseal con sus ejidos, Abdón con sus ejidos, Helcat con sus ejidos y Rehob con sus ejidos; cuatro ciudades.",
+      "verse": 30,
+      "start_ms": 205562,
+      "end_ms": 214762,
+      "duration_ms": 9200
+    },
+    {
+      "word": "Y de la tribu de Neftalí, Cedes en Galilea con sus ejidos como ciudad de refugio para los homicidas, y además, Hamot-dor con sus ejidos y Cartán con sus ejidos; tres ciudades.",
+      "verse": 32,
+      "start_ms": 214762,
+      "end_ms": 226137,
+      "duration_ms": 11375
+    },
+    {
+      "word": "Todas las ciudades de los gersonitas por sus familias fueron trece ciudades con sus ejidos.",
+      "verse": 33,
+      "start_ms": 226137,
+      "end_ms": 231649,
+      "duration_ms": 5512
+    },
+    {
+      "word": "Y a las familias de los hijos de Merari, levitas que quedaban, se les dio de la tribu de Zabulón, Jocneam con sus ejidos, Carta con sus ejidos, Dimna con sus ejidos y Naalal con sus ejidos; cuatro ciudades.",
+      "verse": 34,
+      "start_ms": 231650,
+      "end_ms": 245125,
+      "duration_ms": 13475
+    },
+    {
+      "word": "Y de la tribu de Rubén, Beser con sus ejidos, Jahaza con sus ejidos, Cademot con sus ejidos y Mefaat con sus ejidos;",
+      "verse": 36,
+      "start_ms": 245125,
+      "end_ms": 253225,
+      "duration_ms": 8100
+    },
+    {
+      "word": "cuatro ciudades.",
+      "verse": 37,
+      "start_ms": 253396,
+      "end_ms": 255421,
+      "duration_ms": 2025
+    },
+    {
+      "word": "De la tribu de Gad, Ramot de Galaad con sus ejidos como ciudad de refugio para los homicidas; además, Mahanaim con sus ejidos, Hesbón con sus ejidos y Jazer con sus ejidos; cuatro ciudades.",
+      "verse": 38,
+      "start_ms": 255371,
+      "end_ms": 267896,
+      "duration_ms": 12525
+    },
+    {
+      "word": "Todas las ciudades de los hijos de Merari por sus familias, que restaban de las familias de los levitas, fueron por sus suertes doce ciudades.",
+      "verse": 40,
+      "start_ms": 267896,
+      "end_ms": 276296,
+      "duration_ms": 8400
+    },
+    {
+      "word": "Y todas las ciudades de los levitas en medio de la posesión de los hijos de Israel, fueron cuarenta y ocho ciudades con sus ejidos.",
+      "verse": 41,
+      "start_ms": 276296,
+      "end_ms": 283783,
+      "duration_ms": 7487
+    },
+    {
+      "word": "Y estas ciudades estaban apartadas la una de la otra, cada cual con sus ejidos alrededor de ella; así fue con todas estas ciudades.",
+      "verse": 42,
+      "start_ms": 283783,
+      "end_ms": 292308,
+      "duration_ms": 8525
+    },
+    {
+      "word": "Israel ocupa la tierra De esta manera dio Jehová a Israel toda la tierra que había jurado dar a sus padres, y la poseyeron y habitaron en ella.",
+      "verse": 42,
+      "start_ms": 292308,
+      "end_ms": 300883,
+      "duration_ms": 8575
+    },
+    {
+      "word": "Y Jehová les dio reposo alrededor, conforme a todo lo que había jurado a sus padres; y ninguno de todos sus enemigos pudo hacerles frente, porque Jehová entregó en sus manos a todos sus enemigos.",
+      "verse": 44,
+      "start_ms": 300883,
+      "end_ms": 312758,
+      "duration_ms": 11875
+    },
+    {
+      "word": "No faltó palabra de todas las buenas promesas que Jehová había hecho a la casa de Israel; todo se cumplió.",
+      "verse": 45,
+      "start_ms": 312758,
+      "end_ms": 319158,
+      "duration_ms": 6400
+    }
+  ]
+}
