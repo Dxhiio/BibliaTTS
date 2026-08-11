@@ -124,7 +124,7 @@
       renderBookLists();
       navigateToChapter('GEN', 1);
     });
-
+  }
 
 
   // ── Renderizar listas de libros ─────────────────────────
